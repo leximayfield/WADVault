@@ -1,0 +1,17 @@
+{
+	"uid": "rock (ef1b6c).wad",
+	"name": "Rock",
+	"description": "1 new level",
+	"version": "ef1b6c",
+	"date": "2015-01-14 22:51:21",
+	"files": [
+		{
+			"filename": "rock.wad",
+			"size": 47993,
+			"crc": 4133016510,
+			"md5": "74d7e80934f865a9a4c997c5af27dedb",
+			"sha1": "ef1b6c43b7fd911d0eef80c6f2854f899696846f",
+			"sha256": "3aa15908bf5e01cef0c3971d70dbde765f796aeb7b969ba0c9d160b1306940ba"
+		}
+	]
+}

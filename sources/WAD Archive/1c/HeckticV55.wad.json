@@ -1,0 +1,16 @@
+{
+	"uid": "HeckticV55.wad",
+	"name": "Heckticv55",
+	"description": "This is a TC mod for doom 2, This Tc consists of the hexen and heretic monsters and weapons, Which would make it a hexen and heretic TC. As zdaemon does not yet support hexen or heretic multiplayer yet, Hecktic was made to get as close as possible to it, (even though zdaemon has its flaws) even though there is no no levels. AS there is another wad out there called herian 2 which is a heretic and hexen landscape done by a diffrent author, this is where this wad might come in to make it feel like your actually playing heretic or hexen.",
+	"date": "2013-04-19 09:51:15",
+	"files": [
+		{
+			"filename": "HeckticV55.wad",
+			"size": 11192481,
+			"crc": 1738863206,
+			"md5": "05a6612d56ba59d20eef7a55bec9adc5",
+			"sha1": "1c1f69f813f550580004f30058a46e2596f9a6b4",
+			"sha256": "bbffac2211e39ad714ccd25ab9e668784f2f999145cf039da39e1ff961009a18"
+		}
+	]
+}

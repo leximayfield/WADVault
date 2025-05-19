@@ -1,0 +1,16 @@
+{
+	"uid": "fallenp1.wad",
+	"name": "Fallen - The Rising",
+	"description": "A Tech/Earth based 11 Map WAD using many of the features of ZDoom. Such as,",
+	"date": "2014-12-22 19:01:34",
+	"files": [
+		{
+			"filename": "fallenp1.wad",
+			"size": 2914240,
+			"crc": 1924807401,
+			"md5": "f296582b870ffaa93b9a777fd10cd328",
+			"sha1": "6f8ab25376e8e59708075d61d637d6861a902fbd",
+			"sha256": "050b8ed63672c84bd26269ca74b9583aa4943959ae7833746406a12490c820f6"
+		}
+	]
+}

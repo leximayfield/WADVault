@@ -1,0 +1,16 @@
+{
+	"uid": "pokestad.wad",
+	"name": "Pokemon Stadium: Featuring Mario POKESTAD.WAD",
+	"description": "This is a graphics WAD with some new sounds and music and has two skins for ZDOOM and DOOM LEGACY",
+	"date": "2015-09-15 18:09:16",
+	"files": [
+		{
+			"filename": "pokestad.wad",
+			"size": 710300,
+			"crc": 1098058751,
+			"md5": "1594eacf87eb53cdabe08a2bbd94caa5",
+			"sha1": "786e5bf9899027a4f6158a3b9ea505a7da359221",
+			"sha256": "35970dce8633bc5c98e3bee5e365b2f4e5ab7a322fdf451e69c4ef72c24d60fd"
+		}
+	]
+}

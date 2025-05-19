@@ -1,0 +1,17 @@
+{
+	"uid": "serpent (3ca9cf).wad",
+	"name": "Serpent: Resurrection",
+	"description": "A 21st century Hexen adventure that takes advantage of the latest GZDoom features. A scripted RPG system brings the characters to life and with many new weapons, spells, artifacts and monsters means it will be much tougher than any other Hexen adventure!",
+	"version": "3ca9cf",
+	"date": "2014-12-31 11:58:45",
+	"files": [
+		{
+			"filename": "serpent.wad",
+			"size": 52449667,
+			"crc": 4177190696,
+			"md5": "0f618bbfbbd7c7371238cba4787d4fb4",
+			"sha1": "3ca9cfd24f82a9946f66dafbb86b290b78515630",
+			"sha256": "3f0c1f251255d3e77c52d70c6ced6b98c499de75288444dbe0231056cc3e3482"
+		}
+	]
+}

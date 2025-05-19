@@ -1,0 +1,16 @@
+{
+	"uid": "poisons.wad",
+	"name": "POISONS.WAD",
+	"description": "A .WAD for you people that like hard : levels. Lots of toxic channels and : poisonous lava. Beware of the many : exploding barrels or you'll be toast.",
+	"date": "2014-12-13 12:49:45",
+	"files": [
+		{
+			"filename": "poisons.wad",
+			"size": 118474,
+			"crc": 80755220,
+			"md5": "bd235cdf63f5cb905b03c99778f92ee2",
+			"sha1": "afbf26ad2b907f54ed1af196e8d04ae9dd59edc4",
+			"sha256": "21d52159c83627c119c8651e13e65a52f6ec6ef2475705839d7417207ebfd179"
+		}
+	]
+}

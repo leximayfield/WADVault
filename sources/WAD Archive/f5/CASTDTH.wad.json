@@ -1,0 +1,16 @@
+{
+	"uid": "CASTDTH.wad",
+	"name": "Castle of Death",
+	"description": "Single/Co-op/DM wad for Heretic. Large and tough single player wad, it is best for Cooperative play, especially network (4 player), but it is also great for Single. You can DM, it may be just a little too big, but good to try. It has skill levels, keys, and puzzles to solve. You must retreive the Phoenix Rod to successfully complete the level.",
+	"date": "2014-10-20 19:53:36",
+	"files": [
+		{
+			"filename": "CASTDTH.wad",
+			"size": 164293,
+			"crc": 3618413336,
+			"md5": "d184055c2fa1cc5d98884cc4b7723a5f",
+			"sha1": "f5c577a0a75dbfaeba54f23eb63c49e630d8f428",
+			"sha256": "3ae468a1fcfa9e5419b8b96476d421b9b0bc9759173694ba2fdbea606c5ec86a"
+		}
+	]
+}

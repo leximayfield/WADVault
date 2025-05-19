@@ -1,0 +1,16 @@
+{
+	"uid": "kaiser_13_b.wad",
+	"name": "Return of The Order (STRIFE)",
+	"description": "This is something new, a Strife wad! The Order has returned and has taken over your headquaters. Its up to you to stop them agian. NOTE: PLEASE SEE \"KNOWN BUGS\" BELOW. This is a chopped up version of kaiser_14, splited into two maps for compatibility with the oringinal Strife game.",
+	"date": "2014-12-14 20:58:06",
+	"files": [
+		{
+			"filename": "kaiser_13_b.wad",
+			"size": 827412,
+			"crc": 942084652,
+			"md5": "c40741172f9662fcd7cc7acec814837f",
+			"sha1": "a672ff46e22efc0c748dd16080bc7137283f7363",
+			"sha256": "09cd8a6de8875e8de8a2c473681924f0d35c45d1b906bf6ee27891fb47be7793"
+		}
+	]
+}

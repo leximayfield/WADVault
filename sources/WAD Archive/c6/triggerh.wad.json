@@ -1,0 +1,16 @@
+{
+	"uid": "triggerh.wad",
+	"name": "Trigger-happy",
+	"description": "My 2nd map; wolf3D-esque. Challenging, but fair (intended to be played on UV). Design-wise i'm on baby steps.. figuring out stuff, but i've learned a lot making this one; so i'm confidant that i can bring a more elaborate/complex level design in the future. Hope you all enjoy it and feedback is always welcome ;)",
+	"date": "2018-04-15 23:09:10",
+	"files": [
+		{
+			"filename": "triggerh.wad",
+			"size": 142606,
+			"crc": 3954031861,
+			"md5": "9abd7f7752bd1e19395f888813c8a592",
+			"sha1": "c62f74c99eb2ad972d14cdbaaf97a8a88821955e",
+			"sha256": "ad23e071388141f0c8a3ac4274be6e5f01311924351aa377d7085c61c61276b6"
+		}
+	]
+}

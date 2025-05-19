@@ -1,0 +1,16 @@
+{
+	"uid": "gone-mad.wad",
+	"name": "Gaming Outpost's Complimentary Deathmatch Level",
+	"description": "If you like this level in a two player deathmatch, imagine it with four people. This level is strictly for die hard deathmatch fanatics. Sorry, no monsters and no exits.(use the -timer parameter)",
+	"date": "2014-12-15 21:53:54",
+	"files": [
+		{
+			"filename": "gone-mad.wad",
+			"size": 120043,
+			"crc": 2263768271,
+			"md5": "82b3ae872bb2732c4ec9412870ff003a",
+			"sha1": "ab89b2edd603bad2ba557bafb8fafac20b0e8153",
+			"sha256": "a79dfa7ada35ab3a4e0f547a3a692912d046ac45d1e6b96f072625c271d80b6d"
+		}
+	]
+}

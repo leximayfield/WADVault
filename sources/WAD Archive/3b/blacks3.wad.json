@@ -1,0 +1,16 @@
+{
+	"uid": "blacks3.wad",
+	"name": "Black Sheep - a Doom 3 gameplay mod",
+	"description": "Black sheep is a slightly-inserious gameplay mod that tries to get a Doom 3 feel into the classic games. It will work with any Doom IWAD and any source port, even in vanilla engine. It will also perfectly work with PWADs that use stock textures only. Warning, PWADs with custom patches and textures might not look right with this mod. When running PWADs, load this mod after the PWAD. This mod mainly changes Doom textures to be dark and grey (but not things, switches and some light source textures). Also, some sprites are changed (zombieman, shotgunguy, imp, demon, hell knight, nazi). Music is muted. No changes to weapons, no behavioral changes to monsters, no new palette, no DEHACKED. No levels, sadly, I couldn't get myself to make them.",
+	"date": "2015-09-14 20:33:59",
+	"files": [
+		{
+			"filename": "blacks3.wad",
+			"size": 9144060,
+			"crc": 114089357,
+			"md5": "1559eb9cdeeb8f0c6b5b5552d3742286",
+			"sha1": "3b68c37ed7c3098082ad21dfd2a5909cf2ed551e",
+			"sha256": "769bbf2776fdb640547bd69e248d156ffc8836537436e9dbf2f2df77cbfa50e4"
+		}
+	]
+}

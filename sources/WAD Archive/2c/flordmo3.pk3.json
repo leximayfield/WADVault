@@ -1,0 +1,16 @@
+{
+	"uid": "flordmo3.pk3",
+	"name": "Floor Demo 3",
+	"description": "Second revision of moving 3D floors. This time, we're using an MD3 for visual representation.",
+	"date": "2015-09-15 17:20:02",
+	"files": [
+		{
+			"filename": "flordmo3.pk3",
+			"size": 399652,
+			"crc": 2216694438,
+			"md5": "27efd1233ca1387b217c7d90af370a34",
+			"sha1": "2cfd9c33262cac9bba0d39738f19afcbb94a5f1c",
+			"sha256": "ae08bb938c6f79e21639d073f7ffc1506effd0f58a8061a996816d67539d74c7"
+		}
+	]
+}

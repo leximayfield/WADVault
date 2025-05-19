@@ -1,0 +1,17 @@
+{
+	"uid": "DMCANYON (eeff16).wad",
+	"name": "CANYON.WAD",
+	"description": "This level may be played all by itself as the first level of the second game, but is intended immediately before playing \"HQ.WAD\"",
+	"version": "eeff16",
+	"date": "2013-11-02 16:48:03",
+	"files": [
+		{
+			"filename": "DMCANYON.wad",
+			"size": 313586,
+			"crc": 3381022142,
+			"md5": "908ba37792188b11cec2299ee1eefe50",
+			"sha1": "eeff16c724adf61a86d5f5e7a8a840d1339681c3",
+			"sha256": "daba791157f3e05b90078a1bcb1ad5fb911afbcf88188a52594bf02d659d5bcd"
+		}
+	]
+}

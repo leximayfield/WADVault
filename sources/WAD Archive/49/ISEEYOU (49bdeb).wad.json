@@ -1,0 +1,17 @@
+{
+	"uid": "ISEEYOU (49bdeb).wad",
+	"name": "I See You",
+	"description": "Run and shoot with shotguns, or go for the big guns (no bfg). Problem is, everywhere you find a big gun there is a secret \"one-way\" wall. They can see you going for the gun, but you can't see them. You better be fast.",
+	"version": "49bdeb",
+	"date": "2014-10-14 21:21:49",
+	"files": [
+		{
+			"filename": "ISEEYOU.wad",
+			"size": 55930,
+			"crc": 587730447,
+			"md5": "9dcb959aab61f21a57c0cd0ffa24bf23",
+			"sha1": "49bdeb04b30248072f67d6cf55eda279d6b200fb",
+			"sha256": "75be82c4325f9bc2bba7c486025dd5b007b457dfb14bdd1f216ba50b4748eed2"
+		}
+	]
+}

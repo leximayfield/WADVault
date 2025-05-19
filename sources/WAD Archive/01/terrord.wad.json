@@ -1,0 +1,16 @@
+{
+	"uid": "terrord.wad",
+	"name": "Terror Dungeon",
+	"description": "While roaming through some dark forests, in search for an evil artifact, you find a, unbelievably dark entrance to a strange dungeon which seems to be filled with dozens and dozens of demons. Will you be able to survive these terrific trials and find find the artifact?",
+	"date": "2016-07-21 19:34:37",
+	"files": [
+		{
+			"filename": "terrord.wad",
+			"size": 2192648,
+			"crc": 3225551878,
+			"md5": "da131967f646af8c81b176bad477263e",
+			"sha1": "016afd58100880598c35aaf85fca9a6e2e660781",
+			"sha256": "45efdea77f9d0de1571a0dd54efc066ce260c0a38ace6d03e508c00580bbdc8d"
+		}
+	]
+}

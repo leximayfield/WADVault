@@ -1,0 +1,16 @@
+{
+	"uid": "fendoor.wad",
+	"name": "Splitdoor for DOOM2.exe",
+	"description": "A door which opens in two halves, one half opening towards the ceiling the other to the floor. Both halfs appear solid with no visible split-line between the sections. Usefull for DOOM.exe/DOOM2.exe compatible maps but redundant for most ports.",
+	"date": "2015-09-14 20:26:25",
+	"files": [
+		{
+			"filename": "fendoor.wad",
+			"size": 3552,
+			"crc": 1413713235,
+			"md5": "2c5452f029e97632447b1d857a0b558f",
+			"sha1": "46b130da4434c49e4f858e641df23c8a33b9bcef",
+			"sha256": "dc90072f33b2dff1e9984b4a1e87bc1fb35dfda9d08a46d79ab9992520aa8413"
+		}
+	]
+}

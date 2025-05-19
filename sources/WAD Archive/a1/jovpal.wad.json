@@ -1,0 +1,16 @@
+{
+	"uid": "jovpal.wad",
+	"name": "Jovian Palette",
+	"description": "The flatscreen technology of today makes DOOM too bright. This WAD is an attempt to bring our favourite game back into the CRT-induced darkness from whence it came.",
+	"date": "2017-11-27 12:41:44",
+	"files": [
+		{
+			"filename": "jovpal.wad",
+			"size": 33666,
+			"crc": 2431098481,
+			"md5": "79cffcb9b8fac4e8bba518661d7c14ee",
+			"sha1": "a1a301d84716879b737d0f6a9515690715799fea",
+			"sha256": "106419ff3fb8fce069663ce4f7556566dbc54b150dcbf7b63c812769701ebee2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "todiefor.wad",
+	"name": "To Die For",
+	"description": "Awesome Deathmatch pwad with some cool visual effects never before seen in a game of doom (to our knowledge) created within the existing Doom II architecture. Watch the demo!",
+	"date": "2014-12-15 21:58:33",
+	"files": [
+		{
+			"filename": "todiefor.wad",
+			"size": 519213,
+			"crc": 1546669815,
+			"md5": "5bf4c7c4b527acbf2f4b55016337a704",
+			"sha1": "33691c24a3f4f28dec95890b86608337d55509ce",
+			"sha256": "2e06a4d03fce437e7857f4826f1aa9569a735c7c65738ee333b9dc2948e25d0c"
+		}
+	]
+}

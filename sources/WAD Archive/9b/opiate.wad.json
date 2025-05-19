@@ -1,0 +1,16 @@
+{
+	"uid": "opiate.wad",
+	"name": "Opiate",
+	"description": "This is my first map in about 6 months. This is also my first deathmatch map. It is simple. I put it together for a LAN party. A main building in the middle with platforms and ramps surrounding an outside area. No BFG. Plasma rifle and Rocket Launcher are hidden. Enjoy.",
+	"date": "2014-12-15 21:20:45",
+	"files": [
+		{
+			"filename": "opiate.wad",
+			"size": 36423,
+			"crc": 1521086312,
+			"md5": "8a8fc065a65056e020e9662363fd30b1",
+			"sha1": "9b149b9ea5ca1a6ddfdd326f2cfbf875e5eef35d",
+			"sha256": "0c63c3e9e17bfefc95a4ae372dbf0bfee9dd92cc8664bdc6a7dc820c00c7ee30"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "HEXGRAVE.wad",
+	"name": "Hexen Graveyard",
+	"description": "A graveyard, and the undertakers house.. Has doors, a teleporter and some other stuff I hex edited in. This wad only works with the Registered Version of Hexen.",
+	"date": "2014-10-28 21:54:17",
+	"files": [
+		{
+			"filename": "HEXGRAVE.wad",
+			"size": 48964,
+			"crc": 2087702854,
+			"md5": "0ccab67cf79adc7de1c3735bbac3e61f",
+			"sha1": "143d2b9baa4ff23c6b148eeaeaf08969de631bad",
+			"sha256": "522d8b08b01a38eb7e422463a83ca1d902f89c34c53dfa67ce54793cf235e803"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "stone (e2d1d3).wad",
+	"name": "STONE.WAD",
+	"description": "a stone wad",
+	"version": "e2d1d3",
+	"date": "2014-12-15 21:32:21",
+	"files": [
+		{
+			"filename": "stone.wad",
+			"size": 87123,
+			"crc": 3563144583,
+			"md5": "30657e334829c2f6ec767994a6a277a6",
+			"sha1": "e2d1d3c63cd25895c373dea92536ed51d1b0c1e3",
+			"sha256": "46d1f1fb7cb35f5c718d0470fbd02f286358f729f3c90a230469df1addadb4a4"
+		}
+	]
+}

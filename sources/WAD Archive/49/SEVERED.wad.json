@@ -1,0 +1,16 @@
+{
+	"uid": "SEVERED.wad",
+	"name": "Severed",
+	"description": "This is my first attempt at something like this. I've made maps before, but never tried publishing them. The only map in this replaces the first map of Doom 2. I plan to make six more maps to follow this one for a campaign, but I needed feedback for the direction I was going in. Jumping and free-aiming play sort of a big part and there are deepwater segments and line defs that spawn monsters. Tried to make use of some of the neat Skulltag/zDoom engine features. This map maybe takes about 8 minutes to complete after fully exploring everything. There is a secret level exit, but when activated, you're given an on screen message that the level is not made yet (no crashing or anything :))",
+	"date": "2014-12-29 17:20:00",
+	"files": [
+		{
+			"filename": "SEVERED.wad",
+			"size": 28326863,
+			"crc": 2735966800,
+			"md5": "ba4817ec9540d5fb882255223df7b220",
+			"sha1": "498de2ddc860990a82304eb645dcb430b98c1de3",
+			"sha256": "d187a0f94d2632be142ef27013f5d81a2903e9ce32f03280c33fac675fd8d8a4"
+		}
+	]
+}

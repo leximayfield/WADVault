@@ -1,0 +1,16 @@
+{
+	"uid": "tbasesp.wad",
+	"name": "Tanis Base SP",
+	"description": "Rodrigo : Is a very detailed Deathmatch map, using textures from Various places. You are in an Antartic Base.",
+	"date": "2014-12-29 15:05:50",
+	"files": [
+		{
+			"filename": "tbasesp.wad",
+			"size": 1351572,
+			"crc": 3335493486,
+			"md5": "1df77a9a055c250d890d6a7ff8351734",
+			"sha1": "1fdba2023afd94135a6de0e8c025b121dd7efb86",
+			"sha256": "1fa5cd410d3f69473bf713f2c23a5f6c8fa2dad01f477682af18dc41ce65a090"
+		}
+	]
+}

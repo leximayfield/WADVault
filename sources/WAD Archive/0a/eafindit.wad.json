@@ -1,0 +1,16 @@
+{
+	"uid": "eafindit.wad",
+	"name": "Find it",
+	"description": "My best map so far. try it!",
+	"date": "2014-12-24 17:10:55",
+	"files": [
+		{
+			"filename": "eafindit.wad",
+			"size": 78760,
+			"crc": 1000501490,
+			"md5": "26a818b0a086f2116f978ea9bc07b9ad",
+			"sha1": "0a4226d8a3ee0b0785570276cee0bb7b8276bc01",
+			"sha256": "edd8d3a56e2f068eb44a17e15d95856b79fe71e282a63b23433e871a3d8e83ec"
+		}
+	]
+}

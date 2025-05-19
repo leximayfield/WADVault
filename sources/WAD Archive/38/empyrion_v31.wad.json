@@ -1,0 +1,16 @@
+{
+	"uid": "empyrion_v31.wad",
+	"name": "Empyrion",
+	"description": "Thirteen single-player/coop maps, and three really old versions for comparison. In this version, the BFG is available in single-player, but not in coop. To get the BFG in coop, use the version with _bfg in the name.",
+	"date": "2016-09-03 18:41:24",
+	"files": [
+		{
+			"filename": "empyrion_v31.wad",
+			"size": 25453650,
+			"crc": 902466619,
+			"md5": "b76f10df69620fb139b0cae0961af119",
+			"sha1": "3808627b33546eb045b9a9707e9c8ed526b3d61a",
+			"sha256": "a2e6352fa67ffaeb886cba24814c20633c4021846158d228e245641e0598427a"
+		}
+	]
+}

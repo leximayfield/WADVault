@@ -1,0 +1,16 @@
+{
+	"uid": "wogan.wad",
+	"name": "The Hidden Shrine",
+	"description": "Deathmatch level set around a temple, using the gothic marble texture theme. Fairly small, and lots of weapons ensures plenty of action.",
+	"date": "2014-12-15 22:46:38",
+	"files": [
+		{
+			"filename": "wogan.wad",
+			"size": 142522,
+			"crc": 428600108,
+			"md5": "a2510f9ef691ce1ca57f81e6fb5abde7",
+			"sha1": "d78eed26f9f7630db03bf208191eae73abd6f4cb",
+			"sha256": "12e01927e97d3d3069c8d0c8968da91097e6eec5d0cafe7e5152b89a6bc7024d"
+		}
+	]
+}

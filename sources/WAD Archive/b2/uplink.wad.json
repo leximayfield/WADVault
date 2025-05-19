@@ -1,0 +1,16 @@
+{
+	"uid": "uplink.wad",
+	"name": "Uplink",
+	"description": "This was going to be my CC3 map, but it doesn't meet my standards. Since I have already put alot of work into it I decided to finish it up and release it. Backstory: \"We finally found a small landing stip to pick you up. It's on the rim of some canyon. The only problem is that the access to it is through a heavily infested bunker complex. Fight your way through and then radio us from the runway.\"",
+	"date": "2014-12-29 16:10:11",
+	"files": [
+		{
+			"filename": "uplink.wad",
+			"size": 3335324,
+			"crc": 3752499597,
+			"md5": "6abb59b06dc1992909e8741c39cc45a4",
+			"sha1": "b2d0dd9fec4f9eaeaf1ee7a01dab8d92bda5b3ad",
+			"sha256": "d30ec930b5d235afc2ca0a1a3c0b7024fd4b3935264002a61b1770fb11f69881"
+		}
+	]
+}

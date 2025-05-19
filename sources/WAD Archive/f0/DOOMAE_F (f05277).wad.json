@@ -1,0 +1,17 @@
+{
+	"uid": "DOOMAE_F (f05277).wad",
+	"name": "Frag Zones",
+	"description": "This is an episode dedicated for DEATHMATCH. The switch for level 9, is hidden in level 3. All levels have been played in DM, with 2-4 players, and all were fine. We usually play with the following settings: -respawn -altdeath -skill 1 and we have HOURS of fun :)",
+	"version": "f05277",
+	"date": "2014-08-30 14:03:50",
+	"files": [
+		{
+			"filename": "DOOMAE_F.wad",
+			"size": 591328,
+			"crc": 82338192,
+			"md5": "0df4fe9978293c2b05848facbb0a48b7",
+			"sha1": "f05277e6f7851a82c60dbd337fca4d169ccff14d",
+			"sha256": "985b9fdab25543d4664690fecb95a19fd73317f51317952af0c04abcd58a2fb3"
+		}
+	]
+}

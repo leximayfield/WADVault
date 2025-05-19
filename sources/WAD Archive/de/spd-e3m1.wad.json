@@ -1,0 +1,16 @@
+{
+	"uid": "spd-e3m1.wad",
+	"name": "Spd-e3m1 - A Doom 1 E3M1 remake",
+	"description": "Short and simple, it's a remake of Doom 1s' map E3M1: Hell Keep. A few new surprises places that looked/played plain in the original is improved here.",
+	"date": "2014-12-14 20:48:00",
+	"files": [
+		{
+			"filename": "spd-e3m1.wad",
+			"size": 121167,
+			"crc": 1147953533,
+			"md5": "38a6e3cffceae1ea58ba4c41c27c63c1",
+			"sha1": "dea18fe04b780db778a4d0ab880909af9b51ee47",
+			"sha256": "3a67f6b9baaecacc257ed88a9e5bb77dffe0b0fb2b0be0fc756b2d907cb21dac"
+		}
+	]
+}

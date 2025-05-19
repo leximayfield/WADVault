@@ -1,0 +1,17 @@
+{
+	"uid": "mentzer3 (da9ffd).wad",
+	"name": "Mentzer3.WAD  (For Doom 2)",
+	"description": "Number 3 in a series of Deathmatch wads for Doom 2. There are three Ledges type pit areas connected by halls, rooms, stairs and lifts. All weapons are available.",
+	"version": "da9ffd",
+	"date": "2013-11-02 15:48:07",
+	"files": [
+		{
+			"filename": "mentzer3.wad",
+			"size": 82436,
+			"crc": 300646797,
+			"md5": "9c4dc228f95fc8a86c610ec708d58563",
+			"sha1": "da9ffd6e608fb661e4037e266a12bdba9d3e898c",
+			"sha256": "37f0b6de39db7b95e581d60c0ba9b9bff9cffeb9d7f6d86cbc76b48e3e08cb9b"
+		}
+	]
+}

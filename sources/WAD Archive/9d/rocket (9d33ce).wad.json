@@ -1,0 +1,17 @@
+{
+	"uid": "rocket (9d33ce).wad",
+	"name": "Rocket",
+	"description": "This is my first actual finished level, so it's kind of small. Look out for hidden suprises. My newest level is coming out, ROC2.WAD, which I am making now.",
+	"version": "9d33ce",
+	"date": "2015-01-14 22:48:14",
+	"files": [
+		{
+			"filename": "rocket.wad",
+			"size": 62665,
+			"crc": 2077716017,
+			"md5": "8b91019e9430d13d7ac67de5671dadaa",
+			"sha1": "9d33ce1a20bb16ce91bf73668749fe7a5ab56796",
+			"sha256": "230c9105b0c7e2fb3fe78e5259cc0996b5699f4faa7758510516c610b6977c8e"
+		}
+	]
+}

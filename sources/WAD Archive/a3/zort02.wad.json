@@ -1,0 +1,16 @@
+{
+	"uid": "zort02.wad",
+	"name": "Zort 2: Return of the Cricket",
+	"description": "Yet another ZDoom map, although you may not know due to lack of polyobjects and colored lighting. It does require ZDoom though, rest assured. Just check out the SCRIPTS lump. Anyway, this one is in the theme like Chrog_G or Artica I guess. It's got a lot of brown brick in it because I like that sorta thing(I never was one to make techno or ep3 maps, I have no clue where the last one came from heh).",
+	"date": "2014-12-29 17:11:24",
+	"files": [
+		{
+			"filename": "zort02.wad",
+			"size": 597085,
+			"crc": 4220399780,
+			"md5": "826ff4b49f96785abf521c93f48ce5de",
+			"sha1": "a33f7736622d0922f5a9625830e38e3854cc8252",
+			"sha256": "ee0a1f631234b23ff3f6adbc8bd76237253095389b7d1b6af314ed9de4177e87"
+		}
+	]
+}

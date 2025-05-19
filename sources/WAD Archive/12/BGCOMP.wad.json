@@ -1,0 +1,16 @@
+{
+	"uid": "BGCOMP.wad",
+	"name": "Base Ganymede: Complete",
+	"description": "A 3 episode vanilla megawad for Doom 1 containing a total of 27 maps. Set on one of Jupiter's moons called Ganymede, this wad should provide a challenge for a wide variety of skill levels ranging from the humble newbie to veteran speedrunner. Each episode has it's own progression rather than the usual base -> hellbase -> hell.",
+	"date": "2013-04-19 00:28:30",
+	"files": [
+		{
+			"filename": "BGCOMP.wad",
+			"size": 6281097,
+			"crc": 143366017,
+			"md5": "500540a2800a7b43c793eb1126fcadd8",
+			"sha1": "12ad212def400b25c883656e6627fa127145e566",
+			"sha256": "2f46a4be96983fe97d2399dd1524fb8d3451379431a58714e119c7d5ec964962"
+		}
+	]
+}

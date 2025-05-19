@@ -1,0 +1,16 @@
+{
+	"uid": "role.wad",
+	"name": "Role",
+	"description": "This tech demo shows what happens if Doom were to be more modern. From the results, it turned out interesting, but may cripple older computers.",
+	"date": "2015-09-14 19:55:18",
+	"files": [
+		{
+			"filename": "role.wad",
+			"size": 21575672,
+			"crc": 1723021039,
+			"md5": "c28dab01bf007fae4f3311b397b070cc",
+			"sha1": "06193cf673dad1c17b5d3a29d5b5c5d40f9efe7d",
+			"sha256": "ac50b1936163357695e453c5dd63d3ce268ca963008e6e7549d8ffd1bed7b582"
+		}
+	]
+}

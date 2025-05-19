@@ -1,0 +1,16 @@
+{
+	"uid": "thskins.wad",
+	"name": "Theme Patch Skins",
+	"description": "Theme Patch skins of enemies from Werner Spahl's Theme Patch for Doom Legacy, ZDoom, or any other source port with skin support. These were modified to make them suitable for replacement players.",
+	"date": "2015-09-15 13:41:02",
+	"files": [
+		{
+			"filename": "thskins.wad",
+			"size": 740929,
+			"crc": 51817278,
+			"md5": "ff672be99a6c6dfb2b0087066379159f",
+			"sha1": "cd1c0072f81452b5995d26d524297a57f4d808c4",
+			"sha256": "1becd03bee115e00e519fe698da76ac43898783f22ce2d3bd58f71a0b1dd26c5"
+		}
+	]
+}

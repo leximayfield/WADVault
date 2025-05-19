@@ -1,0 +1,16 @@
+{
+	"uid": "rustbelt.wad",
+	"name": "rustbelt",
+	"description": "rustbelt.wad is a medium-sized map with an uneasy atmosphere. The fog that covers the outside and open areas gives the map a feeling of mystery as you go through it. The textures are from the NMNCorp Texture Pack 1 and I used some textures that makes the map look sort of like Quake 1. All of my custom assets I got from Realm667.",
+	"date": "2018-06-15 11:30:25",
+	"files": [
+		{
+			"filename": "rustbelt.wad",
+			"size": 7032797,
+			"crc": 3644007427,
+			"md5": "07a485170d5f94be9c6c00c3a74e8b1f",
+			"sha1": "2ebb934226462d4725d3d265b7d64c5a477c94df",
+			"sha256": "63facaa0f8f4bd370b36d5751520b3df67cdb1d94c6d98b926edf4e66d373d52"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "qmine14.wad",
+	"name": "QMine 14",
+	"description": "Single add-on level for QDOOM",
+	"date": "2014-12-29 09:00:26",
+	"files": [
+		{
+			"filename": "qmine14.wad",
+			"size": 386419,
+			"crc": 1772770857,
+			"md5": "c4f8ad4d2c2d2bbbf738aad6bcd1e952",
+			"sha1": "72d7d25cdc3f3bd4936821ea30b37f3e246bb88c",
+			"sha256": "cf263e67ef676f0804b0774d7d17bea8524541297795ca76621c668e79b5275d"
+		}
+	]
+}

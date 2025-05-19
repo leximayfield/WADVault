@@ -1,0 +1,17 @@
+{
+	"uid": "urban2 (0b5fab).wad",
+	"name": "URBAN2.WAD",
+	"description": "Deathmatch level set in a Bladerunner-inspired seamy urban core. Fight in the open streets, seek refuge in buildings, duck through dark alleys, and ambush your opponent in an abandoned subway station. This level has lots of detail with new sprites, flats, wall textures, and graphics. Cool lighting effects, a super shotgun armory, lots of dark corners, a pit trap, neon signs, city skyline and more. Extensively playtested and refined. Weapons are strategi- cally placed and building layout punishes players for camping in one spot too long. Non-cooperative exit. (Bring your hardware--the map itself is fairly small for deathmatches with plenty of contact, but the open design of the city has a fair number of visplanes). Music is borrowed from Map08 of Doom2. Zipfile includes DeuSF for a clean install with no filmy residue like other PWADs.",
+	"version": "0b5fab",
+	"date": "2014-12-03 20:22:10",
+	"files": [
+		{
+			"filename": "urban2.wad",
+			"size": 107989,
+			"crc": 985689869,
+			"md5": "68cbc1c1a13441debe251947aa8e28fb",
+			"sha1": "0b5fab7f13ecbd6a43deeae79b69ab19383459f8",
+			"sha256": "938efb4817a2a5e883030c45558ffef0c2738f893d8e1106933df090019ee421"
+		}
+	]
+}

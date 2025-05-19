@@ -1,0 +1,16 @@
+{
+	"uid": "fivigret.wad",
+	"name": "Fierce Vigilant Retribution",
+	"description": "Consists of two new levels, and also has some textures & sprites & sounds which were imported from various other games. In order to see the new monsters launch JHERETIC without the model resources. The Gargoyle has been replaced by the Reiver from Hexen. The Golem has been replaced by Knuckles the echidna from Sonic games on GBA. The Undead Warrior has been replaced by the Cleric from Hexen. The Weredragon has been replaced by the Chaos Serpent from Hexen. The Sabreclaw has been replaced by the killer swine from Hexen. The Ophidian has been replaced by the Mage from Hexen. The Disciple has been replaced by the Bishop from Hexen. And the Ethereal Crossbow weapon has been replaced by the Arc Of Death spell. If you're the type of gamer who enjoys a mix of exploration and action then you should love this add-on. If you're the type of gamer who enjoys only action without exploration then you might not like it too much.",
+	"date": "2014-12-30 11:37:25",
+	"files": [
+		{
+			"filename": "fivigret.wad",
+			"size": 3002981,
+			"crc": 1647879769,
+			"md5": "cfb1a53159d94da34a187dbed611bf94",
+			"sha1": "14c2d9e9a38843657eb84fcc462d12c4a787fe8e",
+			"sha256": "82cbe45c66c20a434142194fe89ebf2f46585a2d5d632629b2edf40049c7a5a0"
+		}
+	]
+}

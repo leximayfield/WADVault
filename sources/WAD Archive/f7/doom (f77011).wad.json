@@ -1,0 +1,16 @@
+{
+	"uid": "doom (f77011).wad",
+	"name": "The Ultimate Doom (Unity 1.0)",
+	"version": "f77011",
+	"date": "2019-07-28 16:07:15",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 12468955,
+			"crc": 1177918971,
+			"md5": "232a79f7121b22d7401905ee0ee1e487",
+			"sha1": "f770111ca9eb6d49aead51fcbd398719b462e64b",
+			"sha256": "a983279473b0477e9ef618409849ad8278578fce2fe476053bae20907fc2168e"
+		}
+	]
+}

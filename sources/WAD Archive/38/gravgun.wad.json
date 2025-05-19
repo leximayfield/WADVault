@@ -1,0 +1,16 @@
+{
+	"uid": "gravgun.wad",
+	"name": "Gravity Gun",
+	"description": "I was browsing the ZDoom forums when I saw people adamantly stating that you could never make anything like the gravity gun in ZDoom. So I made one. It works more or less just like the HL2 gravity gun. \"Pick up / drop\" defaults to E and \"shoot\" is bound to \"R\" although you can change it in the options.",
+	"date": "2014-12-11 22:10:20",
+	"files": [
+		{
+			"filename": "gravgun.wad",
+			"size": 85784,
+			"crc": 3611602850,
+			"md5": "a242be62c88d5ae3d9b50bcc71b57beb",
+			"sha1": "388a7fef95e160c0ccf9b44c80fbbfbd07e9e7dc",
+			"sha256": "d869fd42823c35abe9a443332d0d276c77b206bb99a9b8fca57dd2f6191278b1"
+		}
+	]
+}

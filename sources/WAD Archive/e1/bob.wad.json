@@ -1,0 +1,15 @@
+{
+	"uid": "bob.wad",
+	"name": "Bob",
+	"date": "2015-09-15 16:41:13",
+	"files": [
+		{
+			"filename": "bob.wad",
+			"size": 174993,
+			"crc": 2408593731,
+			"md5": "9fa52cfdf216f440e83e71374458997e",
+			"sha1": "e1931a477343a2fb97867335b8386d432cdf25ab",
+			"sha256": "8e0687ea001808b24de8de11a8acf12b703e7ad323a849f375990954c261e4cc"
+		}
+	]
+}

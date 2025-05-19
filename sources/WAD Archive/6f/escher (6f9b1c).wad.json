@@ -1,0 +1,16 @@
+{
+	"uid": "escher (6f9b1c).wad",
+	"name": "Ode to M.C. Escher",
+	"version": "6f9b1c",
+	"date": "2014-12-18 22:16:52",
+	"files": [
+		{
+			"filename": "escher.wad",
+			"size": 252474,
+			"crc": 305578895,
+			"md5": "a3e06acc035e3b9596ac63bc2c334432",
+			"sha1": "6f9b1cf206beb8f670ac9b4de6717aeb51db10fd",
+			"sha256": "3fd0c93259c94d0add45332d6eabaa61d64a3d782381e1545f3d3b5b8ec8dc21"
+		}
+	]
+}

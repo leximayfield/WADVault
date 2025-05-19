@@ -1,0 +1,16 @@
+{
+	"uid": "gunx.wad",
+	"name": "GunX: Urban Nightmare",
+	"description": "This is the graphics part of Urban Nightmare. It consists of the most NEW weapons of ANY patch out there, and has a professional look to it.",
+	"date": "2014-12-18 23:21:13",
+	"files": [
+		{
+			"filename": "gunx.wad",
+			"size": 2196616,
+			"crc": 631369974,
+			"md5": "a63154516f68ebf273b58b47804655a2",
+			"sha1": "385c53caa04f1f22e1b3869be02d25eb9bd82213",
+			"sha256": "e95c018a428aaa4b03dc28e94ad3b9c8a9203699c5ba69afc3a92746dbb78c5b"
+		}
+	]
+}

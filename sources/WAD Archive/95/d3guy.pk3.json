@@ -1,0 +1,16 @@
+{
+	"uid": "d3guy.pk3",
+	"name": "Doom 3 Player Sounds",
+	"description": "This replaces the player sounds to their Doom 3 equivalent as well as the spark sound and the keyed door use attempt sound. There are two files, d3guy is the version what the sounds were set as and d3guy2 is one that puts sounds from the next/previous level of pain noises.",
+	"date": "2018-04-15 00:57:41",
+	"files": [
+		{
+			"filename": "d3guy.pk3",
+			"size": 282989,
+			"crc": 2676966844,
+			"md5": "0db1095a98eafef1f2d35f22cd1fbf48",
+			"sha1": "95941530025b54a88c6216429ef10d88fc965c7a",
+			"sha256": "6b18ba3649759d7795fe95c04d630ed2e2cf298b1f27dfb68d3761b38ce8d163"
+		}
+	]
+}

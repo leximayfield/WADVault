@@ -1,0 +1,16 @@
+{
+	"uid": "cons.wad",
+	"name": "Cons.wad",
+	"description": "Doom][ deathmatch wad, arena style. No secrets, no BFG. You've just spent an hour in traffic, you hate your job, and finally got past the busy signals and got logged-on. Makes you want to shoot someone don't it?",
+	"date": "2013-11-04 19:23:51",
+	"files": [
+		{
+			"filename": "cons.wad",
+			"size": 78809,
+			"crc": 4211878083,
+			"md5": "0688004ea4107494ed8a8dc99395ab2f",
+			"sha1": "077d52c1799d9ffdcc5385d91103fb014f9d3c6b",
+			"sha256": "240d7fb9379b249f4d2000ffe4e4e36473c3fd86fa40f492abb59271eae84081"
+		}
+	]
+}

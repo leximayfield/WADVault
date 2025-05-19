@@ -1,0 +1,17 @@
+{
+	"uid": "mines (fc0fd2).wad",
+	"name": "Mines",
+	"description": "A dark,metal deathmatch base using the nightmare1 textures.",
+	"version": "fc0fd2",
+	"date": "2015-01-13 21:52:36",
+	"files": [
+		{
+			"filename": "mines.wad",
+			"size": 2741173,
+			"crc": 1900302245,
+			"md5": "1fe93d96b7977b37054eb100670c9d62",
+			"sha1": "fc0fd27cda292aace9fe57a37b1c84125c8ef58e",
+			"sha256": "8ef9fded235efb23d826089189fcc421287489629e68732d6c413a053ac70d1c"
+		}
+	]
+}

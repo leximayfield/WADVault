@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM64 (2cb736).wad",
+	"name": "Doom64 EX",
+	"version": "2cb736",
+	"date": "2015-02-08 19:18:24",
+	"files": [
+		{
+			"filename": "DOOM64.wad",
+			"size": 8715828,
+			"crc": 2740481226,
+			"md5": "ac736a9418ea2ed616610f8b6e7ed5c6",
+			"sha1": "2cb7364917aa684e0c5d1288afb5b28d221c6f70",
+			"sha256": "1ed4d6d982ea296b80294f1c7e5cd02d8a2047b31d20b503b6dee1616edd7930"
+		}
+	]
+}

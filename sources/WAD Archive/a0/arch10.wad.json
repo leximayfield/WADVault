@@ -1,0 +1,16 @@
+{
+	"uid": "arch10.wad",
+	"name": "ARCH10.WAD",
+	"description": "Archviolence. Nothing more to say.",
+	"date": "2013-11-06 22:28:22",
+	"files": [
+		{
+			"filename": "arch10.wad",
+			"size": 110600,
+			"crc": 8314022,
+			"md5": "2da85ccc5f9c469d7922fd8f154ffb75",
+			"sha1": "a0cd7e0fff526d2664867f1b124fcbc5ef4f7991",
+			"sha256": "45434bb9eaa38082956c42cefaf0437278a54672cc0857dd907fd87d6d26389c"
+		}
+	]
+}

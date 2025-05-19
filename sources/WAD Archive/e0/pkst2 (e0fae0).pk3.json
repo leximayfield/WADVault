@@ -1,0 +1,17 @@
+{
+	"uid": "pkst2 (e0fae0).pk3",
+	"name": "P.K. Skulltag 2 Final Release",
+	"description": "17-map ST mappack.",
+	"version": "e0fae0",
+	"date": "2013-04-30 18:06:10",
+	"files": [
+		{
+			"filename": "pkst2.pk3",
+			"size": 9045705,
+			"crc": 4049910876,
+			"md5": "ea71d1b893e9c286d8951e5b6e2ecefa",
+			"sha1": "e0fae0f52501f4e3d6bfb97e9ba93b16190e05f9",
+			"sha256": "af87c190ccce746abcc8d7fefd604d16d887efd34dcab15eaa7fe076be6c8843"
+		}
+	]
+}

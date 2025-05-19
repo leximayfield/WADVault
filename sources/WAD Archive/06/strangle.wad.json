@@ -1,0 +1,16 @@
+{
+	"uid": "strangle.wad",
+	"name": "Stranglehold",
+	"description": "This is a Doom 2 boom-compatible map01 replacement. I originally intended this to be part of my planned mapset 'Jaunt', but I have since decided that I have poked around with this thing for way too long and I need to release it as it's own thing to be finally done with it. It's yet another tech base (groooooan, right? :P) with fairly challenging gameplay. Average par time ranges from 6-10 minutes, depending on your skill level. It's been mostly tested for UV, but HMP and below are available as well. No new sprites or monsters, nothin' but stock textures, and the gameplay is vanilla.",
+	"date": "2018-07-05 03:19:31",
+	"files": [
+		{
+			"filename": "strangle.wad",
+			"size": 1011165,
+			"crc": 1691157176,
+			"md5": "f09c186d6df77971649528ea0aa4cfd8",
+			"sha1": "0616b16888d47233ba71be702d64c99e5ac895f8",
+			"sha256": "545f7169d861bce028e9f5f728746d957abf3137cbe8f33122d2e6b05d93cdfc"
+		}
+	]
+}

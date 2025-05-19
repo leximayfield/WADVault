@@ -1,0 +1,16 @@
+{
+	"uid": "ogrodtex.wad",
+	"name": "Ogro Texture Pack for Doom2",
+	"description": "141 textures & 21 flats converted to Doom 2.",
+	"date": "2015-09-15 14:09:49",
+	"files": [
+		{
+			"filename": "ogrodtex.wad",
+			"size": 1543676,
+			"crc": 1405789420,
+			"md5": "777fe09ca3ea2361d6aef873c3844483",
+			"sha1": "c0ec085c1ec73f47e47e6da7e10af462c29a8c8c",
+			"sha256": "4140321b19a9afc12543c6b30ffae2454adc97924b533580774134149b897b32"
+		}
+	]
+}

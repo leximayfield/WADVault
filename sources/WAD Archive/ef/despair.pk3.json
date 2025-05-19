@@ -1,0 +1,16 @@
+{
+	"uid": "despair.pk3",
+	"name": "DESPAIR",
+	"description": "FIVE new levels for Heretic built in the Hpack mindset: a bit of custom content, custom monsters, and new powerups! Drag 'Despair.PK3' and 'DespairMaps.WAD' both into your GZdoom shortcut to run properly.",
+	"date": "2015-12-29 13:09:38",
+	"files": [
+		{
+			"filename": "despair.pk3",
+			"size": 4933919,
+			"crc": 3974675453,
+			"md5": "2187f7e99a536cb6d70c5e986649bf01",
+			"sha1": "ef65bc255470b10ab052195c97cf87709eeea590",
+			"sha256": "55ece1f08e25e52bb282ee7bf3986a6baf04c6e8f55ab8d8979d72137a384ca6"
+		}
+	]
+}

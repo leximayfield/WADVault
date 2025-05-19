@@ -1,0 +1,17 @@
+{
+	"uid": "invade1 (04851d).wad",
+	"name": "INVADE1.WAD (INVASION... Level 1--Contamination)",
+	"description": "This is level 1 of a 9 level storyline episode. You thought it was all over after you finished the grand tour in hell after Episode 3 -- Inferno.",
+	"version": "04851d",
+	"date": "2016-02-07 20:37:08",
+	"files": [
+		{
+			"filename": "invade1.wad",
+			"size": 210034,
+			"crc": 3088735871,
+			"md5": "b3d7183e0dfc140533b93b78a5a520d6",
+			"sha1": "04851dba296643a160b7b15732f490b003461950",
+			"sha256": "c1be543d2b531dcf581e1ee71e8446a4911d13d9fd30c273d96e767b71fe7b22"
+		}
+	]
+}

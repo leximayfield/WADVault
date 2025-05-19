@@ -1,0 +1,17 @@
+{
+	"uid": "spaz (70bc7d).wad",
+	"name": "Spaz! (Custom Deathmatch wad)",
+	"description": "2 large rooms, platforms, perches.... :Deathmatch!",
+	"version": "70bc7d",
+	"date": "2013-11-02 16:03:38",
+	"files": [
+		{
+			"filename": "spaz.wad",
+			"size": 59309,
+			"crc": 240897758,
+			"md5": "a1775e913182bbf3eb0592785ba60cd8",
+			"sha1": "70bc7d136f5661383c98c0d43873ef21ddd78538",
+			"sha256": "de11b19c4ece86a9d333c8e6a03a83857c9eff0c30e3c954876e5d7b5fe07814"
+		}
+	]
+}

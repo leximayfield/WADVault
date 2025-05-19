@@ -1,0 +1,17 @@
+{
+	"uid": "hot (14c1ac).wad",
+	"name": "HOT.WAD (Halls Of Terror)",
+	"description": "E1M1 replacement PWAD.",
+	"version": "14c1ac",
+	"date": "2013-07-09 20:23:01",
+	"files": [
+		{
+			"filename": "hot.wad",
+			"size": 96181,
+			"crc": 2277482900,
+			"md5": "07d4085765b97d9ac0ade008d3381567",
+			"sha1": "14c1ac9804eef8984b31186ac68db38478239af8",
+			"sha256": "eae8b741782eba6f3ab1925005665e33beeabe8dfb5ec1a597d35f4a9c9574a2"
+		}
+	]
+}

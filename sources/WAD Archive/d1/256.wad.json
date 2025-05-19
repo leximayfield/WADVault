@@ -1,0 +1,16 @@
+{
+	"uid": "256.wad",
+	"name": "2^8",
+	"description": "A short level with the restriction that vertices must lie on a 256x256 grid. Not much detail is possible.",
+	"date": "2014-12-20 18:35:05",
+	"files": [
+		{
+			"filename": "256.wad",
+			"size": 21452,
+			"crc": 272045943,
+			"md5": "7a76e3f6016d189d626463fc49a91905",
+			"sha1": "d1a62721d15dadaefbf1c1b02aa7ce390af604cd",
+			"sha256": "3f2c48782cf99bf00401deb37694630054305b699e6df34eb2ef6a36d1aee362"
+		}
+	]
+}

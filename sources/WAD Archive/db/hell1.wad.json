@@ -1,0 +1,16 @@
+{
+	"uid": "hell1.wad",
+	"name": "Tower in HELL",
+	"description": "Another deathmatch level. Created in 2 days (10 hours). I added some monsters just for fun. For deathmatch I recommend nomonsters switch.",
+	"date": "2014-01-07 22:18:01",
+	"files": [
+		{
+			"filename": "hell1.wad",
+			"size": 15260,
+			"crc": 3534667037,
+			"md5": "3b43813b38cfd46fc0a43482d534f408",
+			"sha1": "db98734350afd2e0f6818a782275be17dd33a39e",
+			"sha256": "0f5573ee9e7a0d4e267d3d5597e86848489492c083f47ce55149130354b95aef"
+		}
+	]
+}

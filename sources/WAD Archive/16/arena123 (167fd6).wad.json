@@ -1,0 +1,17 @@
+{
+	"uid": "arena123 (167fd6).wad",
+	"name": "Arena123: DeathMatch Wad",
+	"description": "small arena with walls that can be dropped via a lift switch. Weapons: all, BFG hardest to get.",
+	"version": "167fd6",
+	"date": "2016-02-07 20:26:31",
+	"files": [
+		{
+			"filename": "arena123.wad",
+			"size": 44804,
+			"crc": 728500036,
+			"md5": "79b3b189f04f5bf5d4c9ca4fa7e1723a",
+			"sha1": "167fd6abaef0097f1e4bd301cadd5254504bfd0a",
+			"sha256": "36adbf6c85b5e03ce811e36775bd61620f5b6246276bce4fa0bd7c919990cbd8"
+		}
+	]
+}

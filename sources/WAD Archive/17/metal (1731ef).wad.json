@@ -1,0 +1,17 @@
+{
+	"uid": "metal (1731ef).wad",
+	"name": "METAL.WAD",
+	"description": "This is the 2. level in a new 3 level episode (called \"MASSACRE\"), METAL.WAD is rough stuff (just like the other levels)!!!",
+	"version": "1731ef",
+	"date": "2014-10-14 21:02:29",
+	"files": [
+		{
+			"filename": "metal.wad",
+			"size": 104502,
+			"crc": 3544608182,
+			"md5": "d4d3a5a7adda4d8bef24e0f0255a5278",
+			"sha1": "1731ef897cce2ac281ffbd2eaba41c2d386ec0b5",
+			"sha256": "7b1fb47d18437ca6140e6a6100a99facae9dce55993e9ed7fc1685baa60bc454"
+		}
+	]
+}

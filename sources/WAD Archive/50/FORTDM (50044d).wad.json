@@ -1,0 +1,16 @@
+{
+	"uid": "FORTDM (50044d).wad",
+	"name": "FORTDM.WAD - Fortress of Deathmatch",
+	"version": "50044d",
+	"date": "2014-11-01 14:45:31",
+	"files": [
+		{
+			"filename": "FORTDM.wad",
+			"size": 184624,
+			"crc": 3997155828,
+			"md5": "3e78fea7a4ddd4860ad8646e52ab549f",
+			"sha1": "50044d39496f8e7604cb3c3740d7f981c396b47b",
+			"sha256": "1b66b673014eb84c4a663fdb1bd3b6d9fc7462eefc89b3bfc458e5b0692d3cfb"
+		}
+	]
+}

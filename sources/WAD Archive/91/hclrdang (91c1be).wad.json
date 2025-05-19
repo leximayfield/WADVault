@@ -1,0 +1,17 @@
+{
+	"uid": "hclrdang (91c1be).wad",
+	"name": "HCLRDANG.WAD    Requires registered HERETIC",
+	"description": "This is a conversion of CLERDANG.WAD for DOOM II. Excellent Deathmatch wad for HERETIC! Very percise and to the point with nonstop action and excellent sniper spots! All the weapons and items are scattered about.",
+	"version": "91c1be",
+	"date": "2013-11-02 16:40:22",
+	"files": [
+		{
+			"filename": "hclrdang.wad",
+			"size": 55622,
+			"crc": 2388494873,
+			"md5": "3db4d51d59086d2405a24ef8ea9e1ee1",
+			"sha1": "91c1becba040d0a9f441d96e0b0624c6867fe017",
+			"sha256": "372d7850ea9ef42b2eaf112f0e02fba01c8e6a33279377935063b6734e698ffe"
+		}
+	]
+}

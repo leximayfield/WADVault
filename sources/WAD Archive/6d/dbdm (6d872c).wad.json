@@ -1,0 +1,17 @@
+{
+	"uid": "dbdm (6d872c).wad",
+	"name": "DooMBoy DeathMatch (DBDM)",
+	"description": "My first released DM map, REQUIRES ZDoom",
+	"version": "6d872c",
+	"date": "2014-12-15 21:32:53",
+	"files": [
+		{
+			"filename": "dbdm.wad",
+			"size": 123314,
+			"crc": 3481006515,
+			"md5": "e9ef96d6287a437f8057ec12fada1833",
+			"sha1": "6d872c1dbeda394ee33439d3426f43e90f3dce4d",
+			"sha256": "ffa628883b410fe7b350bfe36d5b9e9c1828c5d55c0a1c7ed04f542c14c075b0"
+		}
+	]
+}

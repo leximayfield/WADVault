@@ -1,0 +1,17 @@
+{
+	"uid": "BIGSTAIR (38f6d8).wad",
+	"name": "The Big Stairs Experiment",
+	"description": "This was how I learned to use DEEP. There's not a lot that's special here: one big room, one tricky staircase, some troublesome Imps, and if you don't get your butt in gear the Lost Souls just keep multiplying. But, as it turns out, the level can provide a quick and simple challenge for that first level.",
+	"version": "38f6d8",
+	"date": "2016-02-07 20:34:58",
+	"files": [
+		{
+			"filename": "BIGSTAIR.wad",
+			"size": 25346,
+			"crc": 1557806446,
+			"md5": "512081a3b815e3b729ffedb75de0d824",
+			"sha1": "38f6d8ccfbd9512bbf9d6fd3f1e8d9f155f1c9eb",
+			"sha256": "25dca841a21338ee7ad4653f49362b3da45d73e0e2e1e20f6935c4e3ebd98821"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "conf512.wad",
+	"name": "Confinement 512",
+	"description": "Similar to Congestion 384/64, and Claustrophobia 1024/2, Confinement512 offers 7 new maps fit into a 512x512 area. Except, this time, NOTHING the player sees can be outside the area. Play WITHOUT jump, nor crouching. -- This is also my debut release on Doomworld and my second singleplayer release! Enjoy~ --BloodyAcid",
+	"date": "2014-12-21 16:39:55",
+	"files": [
+		{
+			"filename": "conf512.wad",
+			"size": 284820,
+			"crc": 3307173691,
+			"md5": "3da3042cf90b0f5c1d5a391eee5dbd35",
+			"sha1": "f5e51db583058d3f35a2924bce43aa3ad9721775",
+			"sha256": "bc922d42db3ed39eb22e9e8397a0976d6aef6d2c5b0b6b58434d92ff5adfc9f8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bitedust (c480e2).wad",
+	"name": "Bites the dust",
+	"description": "Includes a jail, a pit, a cage, and bridges.",
+	"version": "c480e2",
+	"date": "2013-11-02 15:47:11",
+	"files": [
+		{
+			"filename": "bitedust.wad",
+			"size": 97439,
+			"crc": 2757169187,
+			"md5": "a1cc61d1bc6159a4f0d9b2f0bd5a97ac",
+			"sha1": "c480e2affdbb05a378848338e2923802aa176392",
+			"sha256": "f018adb68cc194d0430db4633e26036b0e56e5f1e75f06aa86858439e3a53dfd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "devinc.wad",
+	"name": "The Devil Incarnate",
+	"description": "A cool replacement for E1M1 This level is not very hard, I designed it to start off an episode that I am working on. I would really appreciate any comments/constructive critisism as I am fairly new to WAD building.",
+	"date": "2013-07-09 20:22:01",
+	"files": [
+		{
+			"filename": "devinc.wad",
+			"size": 48266,
+			"crc": 4193911450,
+			"md5": "13351e8d98bfeffa89a4d24b2ab54ad2",
+			"sha1": "53e28a25dd2432dcf3d0d69a26c3bf3d688f9478",
+			"sha256": "88cf84f9a801e7d2adfa677275d3f63b1cfef8a777bc94499ba8491c341137ea"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "painkill.wad",
+	"name": "\"Kill the Pain\"",
+	"description": "This mod brings Painkiller in the world of Doom. It contains weapons, powerups, items and some special features from Painkiller.",
+	"date": "2014-12-11 22:28:48",
+	"files": [
+		{
+			"filename": "painkill.wad",
+			"size": 5467520,
+			"crc": 1401486148,
+			"md5": "dc6cf7560c35b1ec5401602c0e721663",
+			"sha1": "f10e590f86c739b8eb823fa357615b3bac5fb19b",
+			"sha256": "8be4c0ef188c8b9a40a82b01db556181dcbe0768cb415877f958f65afe5e737e"
+		}
+	]
+}

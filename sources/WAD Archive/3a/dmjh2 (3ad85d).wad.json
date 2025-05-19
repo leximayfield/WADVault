@@ -1,0 +1,17 @@
+{
+	"uid": "dmjh2 (3ad85d).wad",
+	"name": "DMJH2.WAD",
+	"description": "A fun first level, large rooms, lots of fighting Single and two player mode.",
+	"version": "3ad85d",
+	"date": "2013-11-02 16:51:22",
+	"files": [
+		{
+			"filename": "dmjh2.wad",
+			"size": 45683,
+			"crc": 1432288192,
+			"md5": "69a1161d6942fdad806895949b03f18f",
+			"sha1": "3ad85d439b60b0c4c047b42d2ccab572adf9c2c9",
+			"sha256": "d0d5c678c6e4adf7255158bf1ec3eed80a5214739c41dfbb6b278377387ba470"
+		}
+	]
+}

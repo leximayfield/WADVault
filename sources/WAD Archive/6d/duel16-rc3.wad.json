@@ -1,0 +1,16 @@
+{
+	"uid": "duel16-rc3.wad",
+	"name": "Duel16",
+	"description": "A set of sixteen classic duel maps with a voting map.",
+	"date": "2013-04-18 23:22:09",
+	"files": [
+		{
+			"filename": "duel16-rc3.wad",
+			"size": 2015785,
+			"crc": 4204620465,
+			"md5": "3c2598dec0429ed5278c7a62d275a6e6",
+			"sha1": "6d1b2215e9b435ab19ec29a067a66fe3fc04927e",
+			"sha256": "ff7a5d02dd8a3e33f6a1ac79a6bbf13828cbe793199be166f28d1883449ee872"
+		}
+	]
+}

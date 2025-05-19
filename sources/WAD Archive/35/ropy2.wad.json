@@ -1,0 +1,16 @@
+{
+	"uid": "ropy2.wad",
+	"name": "Ropy II",
+	"description": "Map02 is a singelplayer map. And the second wad in the ropy serie.",
+	"date": "2015-01-14 14:28:35",
+	"files": [
+		{
+			"filename": "ropy2.wad",
+			"size": 581040,
+			"crc": 1836456306,
+			"md5": "ec0c5cff7ea8aaa6a876677248117e20",
+			"sha1": "357e0c1c4fa68deb21c042b38706dfb129a8d8ff",
+			"sha256": "b1cdc9516e94bd069b5ee01df7c755a0b5b8b1f70c1556b919bb459ad4ae7827"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Shadow (503815).wad",
+	"name": "\"The Shadowlands\"",
+	"description": "Huge New Level For Doom 2, lots of detail.",
+	"version": "503815",
+	"date": "2014-01-07 21:51:22",
+	"files": [
+		{
+			"filename": "Shadow.wad",
+			"size": 58621,
+			"crc": 451093128,
+			"md5": "c1617b0a7063bfe203d1e576ab4f474c",
+			"sha1": "503815f27e841bc064af15196a0edd99e79f4e28",
+			"sha256": "f085b4b94853802b152a6d73f0ef1c6d36b235ed2a3a7f30bbb8a9b589eb9240"
+		}
+	]
+}

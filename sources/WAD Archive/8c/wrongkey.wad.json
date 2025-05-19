@@ -1,0 +1,16 @@
+{
+	"uid": "wrongkey.wad",
+	"name": "Wrong key? Wrong door?",
+	"description": "This is the first Pwad-file I've build so far and it took me quite a while to finish it, but that may sound familiar to you. It's totally designed for single player mode for that's what most of the common DOOM-addicts are sleuthing for. There isn't a story or other useless introduction to be told here except for the fact that there are a lot of different switches involved, so the environment will change continously. As far as I know there's a new, and certainly frustrating, surprise in this level that I so far haven't seen in any PWAD-file. (and if it's already an old trick: have you managed to work through all the levels available right now?) Wait till you have found the yellow key and hurry with this newly acquired gadget to the right door. Because of the new role of the keys in this level it was worth naming it that way.",
+	"date": "2013-11-06 22:38:17",
+	"files": [
+		{
+			"filename": "wrongkey.wad",
+			"size": 103442,
+			"crc": 1261249238,
+			"md5": "9196ed6c10fa4308a2e752e25b2f9c81",
+			"sha1": "8c1bf6ebe8e3b898752b8999d195f6e31213e92f",
+			"sha256": "07ca070d133379a8940a5e28c49f4948334422d3602c2f74b560b681fa197125"
+		}
+	]
+}

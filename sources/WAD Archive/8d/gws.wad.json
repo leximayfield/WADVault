@@ -1,0 +1,16 @@
+{
+	"uid": "gws.wad",
+	"name": "Get Well Soon",
+	"description": "My first Doom map of any real size, started out of an offhand pic in a Twitter thread, grew into a decent sized level. It MIGHT have good deathmatch flow, but I haven't tested it for that.",
+	"date": "2017-11-27 17:46:52",
+	"files": [
+		{
+			"filename": "gws.wad",
+			"size": 3519883,
+			"crc": 3292603058,
+			"md5": "45f82a4c41fe5ce372acdff85a1584aa",
+			"sha1": "8de7317cae2d2e490de61c98891a645e645950ef",
+			"sha256": "30ac914a68b8b9cc8f47c3e9451bf95206c7c6676be3bb55e29dd67039cd6be1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sproject.wad",
+	"name": "The S-Project",
+	"description": "This is an update to \"The S-Project\". Some of you out there were disappointed with the boss battle because it didn't work for you, or it was too easy for you and other things that obviously destroyed the feeling of this WAD for you. Therefore I took the time to fix those problems and improve other things in this WAD which will save potential players from getting their interest crushed by stupid errors and gameplay malfunctions. Enjoy!",
+	"date": "2013-04-18 21:58:55",
+	"files": [
+		{
+			"filename": "sproject.wad",
+			"size": 38984535,
+			"crc": 3305580018,
+			"md5": "2b8af088e546be136c04a3539ed42f67",
+			"sha1": "856ef940d5f7623c867994093e88582c6e639ca9",
+			"sha256": "8fa63eebdacc388a68652736d8c95d4567be3d4b48af6a0d91dfcf7a940ff962"
+		}
+	]
+}

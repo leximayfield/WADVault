@@ -1,0 +1,16 @@
+{
+	"uid": "unknanom.wad",
+	"name": "Unknown anomaly",
+	"description": "There's been an unexplained anomaly at a UAC base in eastern America that's puzzled the scientists as the staff slowly disappeared one by one. You've been sent from the bunkers nearby to explore the now abandoned UAC facility, locate any marines or UAC staff that are still inside of the facility, and if possible remove any and all hostilities. Over and out.",
+	"date": "2017-08-27 23:00:38",
+	"files": [
+		{
+			"filename": "unknanom.wad",
+			"size": 4795841,
+			"crc": 4113867071,
+			"md5": "a7ac0fe46f85783397d2298a7da48c82",
+			"sha1": "6a9fb2a83205357872b543d394048ece2741bee0",
+			"sha256": "c134ee20766fd5d5ff959965dad7e07aa180e721bf3ddaa2c79854686b12d271"
+		}
+	]
+}

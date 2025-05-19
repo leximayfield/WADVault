@@ -1,0 +1,16 @@
+{
+	"uid": "nesmus.wad",
+	"name": "Doom NES Music",
+	"description": "All the original Doom tunes remixed into NES- style chiptunes via Impulse Tracker (IT) format. If you don't know what a chiptune is, basically it emulates the sound of the NES, Commodore 64, etc. music engines in the form of tracker-based music (MOD, XM, S3M, IT, etc). In this case, the songs resemble what you might have heard if Doom was ported to the NES. It should be noted that these songs were converted BY HAND, without the aid of a MID->IT converter of any sort.",
+	"date": "2013-10-12 13:50:22",
+	"files": [
+		{
+			"filename": "nesmus.wad",
+			"size": 922269,
+			"crc": 129385175,
+			"md5": "12af828ad062bc7183cd5c03ecad46ff",
+			"sha1": "1c9894acf97383b7cd1e0e77e337fac044b48054",
+			"sha256": "c0f9eeb6e676505cfa4d253da3d345018fff5f87b9cce6a23626fa4e9edd7d80"
+		}
+	]
+}

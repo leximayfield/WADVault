@@ -1,0 +1,16 @@
+{
+	"uid": "winger.wad",
+	"name": "Winger",
+	"description": "The idea for this map comes from Q3CTF1, but I made it the way I prefer to see it for Doom. The fog is my own design using existing legacy features.",
+	"date": "2014-12-15 22:54:55",
+	"files": [
+		{
+			"filename": "winger.wad",
+			"size": 564482,
+			"crc": 2707671594,
+			"md5": "05b55ef9dea8621403ba98f108a5108c",
+			"sha1": "a128d86f819e73766330faed5469ebd0358ce69a",
+			"sha256": "8dee79ebf702dd6668451e779f9ad0e00d4b832d22e8c4677971db535d873174"
+		}
+	]
+}

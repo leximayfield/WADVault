@@ -1,0 +1,17 @@
+{
+	"uid": "mansion (956d46).wad",
+	"name": "Haunted Mansion",
+	"description": "This is just a small level in which I tested some new ideas for ZDoom engine. It is not a complete level and you may call it a demo, but it has a mood a bit like some levels in my next project Elidor, hope you like it. P.S. Most of monsters would not attack you on sight so it is better to watch their behaviour before you attack them.",
+	"version": "956d46",
+	"date": "2014-12-29 16:27:40",
+	"files": [
+		{
+			"filename": "mansion.wad",
+			"size": 1047766,
+			"crc": 1227416887,
+			"md5": "cb7ba56cc34a61efc89f18e058ed1702",
+			"sha1": "956d4691a1bc839a26ff322be4072f2004085952",
+			"sha256": "bbeb9179fc7a0877b16be81b271cc2054703bcc42ad8028130d9debddeca6ae9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hexbal1.wad",
+	"name": "HEXBAL1.WAD",
+	"description": "HEXEN DEATHMATCH WAD. Mirrored after my famous Hairbal1. wad for doom2 real battlefest.",
+	"date": "2013-11-02 17:11:24",
+	"files": [
+		{
+			"filename": "hexbal1.wad",
+			"size": 63553,
+			"crc": 786320927,
+			"md5": "2d29332a54dda47cb46f2ae1a116319f",
+			"sha1": "33d8abd6ac8b7ad5a1b98f4b373be84102d4c4aa",
+			"sha256": "4013f018a9284026aa38cb483e1e9fc5b6162dbf0346c8e625bad4fc49b82cf5"
+		}
+	]
+}

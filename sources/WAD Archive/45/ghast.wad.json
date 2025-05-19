@@ -1,0 +1,16 @@
+{
+	"uid": "ghast.wad",
+	"name": "ghast.zip",
+	"description": "Three maps, no story, I hope to make a full episode.",
+	"date": "2014-12-13 17:30:52",
+	"files": [
+		{
+			"filename": "ghast.wad",
+			"size": 452040,
+			"crc": 1458575833,
+			"md5": "8cfcab3ed0d9cce20371bd57271dc90f",
+			"sha1": "4514736a07efdc92304d8c51946a76c2af977f42",
+			"sha256": "9963de6cd104a9f6f4ec637e0bbaae2276e7c4ade73c5e354f9cc30d3bf14bc6"
+		}
+	]
+}

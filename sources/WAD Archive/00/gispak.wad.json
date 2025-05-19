@@ -1,0 +1,16 @@
+{
+	"uid": "gispak.wad",
+	"name": "Kill Giselle Pakeerah!",
+	"description": "A simple graphics wad that replaces the baron with the sinister anti-videogame campaingner.",
+	"date": "2015-09-15 13:55:49",
+	"files": [
+		{
+			"filename": "gispak.wad",
+			"size": 144172,
+			"crc": 3219389420,
+			"md5": "818b06b2f83f394f2e66794019422690",
+			"sha1": "002e7a69c13314ff08b086ad5e05562970b50e45",
+			"sha256": "0df7ccb13359782265cc84b3c4a747ff076040b045e094d695e7f25f5522fa7f"
+		}
+	]
+}

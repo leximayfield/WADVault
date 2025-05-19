@@ -1,0 +1,16 @@
+{
+	"uid": "artica3.wad",
+	"name": "Artica 3",
+	"description": "I think the series is developing somewhat of a plot. I utilized the DEHACKED lump that MBF allows even more now. Here's how it is:",
+	"date": "2014-12-21 15:09:06",
+	"files": [
+		{
+			"filename": "artica3.wad",
+			"size": 270729,
+			"crc": 4294036485,
+			"md5": "0d4184b9b97644982c79b98b35eb5bed",
+			"sha1": "9930327aacc3584349ec16bc95bf05b4fb9c1da7",
+			"sha256": "3ffb7efa06cc53bf2336eb5ee8dd62a363211582036acd83afff43a29b8f678a"
+		}
+	]
+}

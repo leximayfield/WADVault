@@ -1,0 +1,17 @@
+{
+	"uid": "classic (4334b3).wad",
+	"name": "Classic E1M1 For Doom][ Deathmatch!",
+	"description": "E1M1 has always been one of my favorite deathmatch levels, and now here it is converted to Doom ][ with more weapons - especially near the start.",
+	"version": "4334b3",
+	"date": "2014-12-03 19:59:44",
+	"files": [
+		{
+			"filename": "classic.wad",
+			"size": 55667,
+			"crc": 571258012,
+			"md5": "14675e09a4781860196cc470154574da",
+			"sha1": "4334b3c9184f2651080c5fc69dcd928d8957f6da",
+			"sha256": "85da8ddf9e97b241d0754e8639634fb0489733fbe95369b3a57218461db9ab64"
+		}
+	]
+}

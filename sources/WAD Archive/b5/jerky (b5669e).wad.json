@@ -1,0 +1,17 @@
+{
+	"uid": "jerky (b5669e).wad",
+	"name": "Jerky Boys",
+	"description": "Deathmatch Wad This is playable for one person but it is not to difficult",
+	"version": "b5669e",
+	"date": "2014-01-11 11:21:39",
+	"files": [
+		{
+			"filename": "jerky.wad",
+			"size": 51515,
+			"crc": 1111829564,
+			"md5": "755b11198399c704bc8da5fa3031eb7c",
+			"sha1": "b5669eebfa84258dfd5cbb9386218c9c988e16c0",
+			"sha256": "fdf8cd57eff5ee3b0bb2f16eea2a488dfff41194420dfa1561b9b2ed9b14f4ae"
+		}
+	]
+}

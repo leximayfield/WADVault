@@ -1,0 +1,16 @@
+{
+	"uid": "nerves.wad",
+	"name": "Nerves Of Steel",
+	"description": "This is your basic computer station with CRAY supercomputers, and other control centers.",
+	"date": "2013-11-06 22:33:09",
+	"files": [
+		{
+			"filename": "nerves.wad",
+			"size": 269706,
+			"crc": 1722515949,
+			"md5": "a894bc74591ae7da82ab57c9c4c1b872",
+			"sha1": "3253e2f8f5a81a005aacb9e825484036000ffad8",
+			"sha256": "8dfd6fa297dd0dc61b5d077ee6774aa282b2d02e01e86225eebf0947f43263ba"
+		}
+	]
+}

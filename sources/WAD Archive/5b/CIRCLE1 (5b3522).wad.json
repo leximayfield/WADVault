@@ -1,0 +1,16 @@
+{
+	"uid": "CIRCLE1 (5b3522).wad",
+	"description": "A Deathmatch only Wad file. A big circle with some partitions and 4 doors that access the shotgun, the chaingun, the plasma gun and the rocket launcher. I also put the chainsaw in the middle of the circle. This Wad is a high frag count wad file. Be prepared to flip your frag counter. This is a pretty simple wad file so it may work well over modem lines although it has not been tested.",
+	"version": "5b3522",
+	"date": "2013-11-03 17:48:39",
+	"files": [
+		{
+			"filename": "CIRCLE1.wad",
+			"size": 10361,
+			"crc": 536946572,
+			"md5": "5013d16ba203b4f2c586b2eba8216094",
+			"sha1": "5b3522a8e0db400be97286eac96ef023de3013f4",
+			"sha256": "0dcb134ff3d263d55e3079c722b92d493c4ec11974abda8e6689d8070ff91e2c"
+		}
+	]
+}

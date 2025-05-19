@@ -1,0 +1,16 @@
+{
+	"uid": "DB3.wad",
+	"name": "DB3.WAD",
+	"description": "A relativily \"simple\" level. Skill 4 has both a Baron & a Cybo-Demon. I tried to make it playable for deathmatch as well as normal play. Hopefully there aren't too many \"one way\" paths.",
+	"date": "2013-11-03 17:45:50",
+	"files": [
+		{
+			"filename": "DB3.wad",
+			"size": 85357,
+			"crc": 1052222303,
+			"md5": "8b4c918f1224d9dd6e803cd433272f72",
+			"sha1": "7135dda4ac1c87c800692348c147679f326f4764",
+			"sha256": "4af0a9404d904d833632109c0b07127d537e1ca7b0c02d1173d57f65817d887e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "crimkeep.wad",
+	"name": "The Crimson Keep",
+	"description": "A gauntlet of death lies between you and your way home. Yet, when you arrive at the final door, you find your passage barred -- the key well guarded in a small stone castle. You fight your way through the guardians of the fortress and gain the key ... but only then it occurs to you:",
+	"date": "2014-01-07 22:00:27",
+	"files": [
+		{
+			"filename": "crimkeep.wad",
+			"size": 157655,
+			"crc": 3142122550,
+			"md5": "6114dd569e12ee6662e9ce8fbdb2303b",
+			"sha1": "7ae666f14af8b2e39f3b8e2cdd6d33a3279db963",
+			"sha256": "19685ab1a8e45e8d1e4b1c69e1d575ee7c6975876d6b817eefdaf47a18c179e6"
+		}
+	]
+}

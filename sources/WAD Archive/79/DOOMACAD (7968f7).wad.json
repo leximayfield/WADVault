@@ -1,0 +1,17 @@
+{
+	"uid": "DOOMACAD (7968f7).wad",
+	"name": "ACADEMY.WAD",
+	"description": "Ever wonder where all of those soldiers you :have to kill come from? Well, your curiosity :got the best of you, and you decided to find out.",
+	"version": "7968f7",
+	"date": "2014-01-07 21:58:03",
+	"files": [
+		{
+			"filename": "DOOMACAD.wad",
+			"size": 62924,
+			"crc": 2923533884,
+			"md5": "36faa012297beced98b2c865c715b897",
+			"sha1": "7968f721a6925a158bc305b9ce66611cd03adcf1",
+			"sha256": "ad280d29943d5cfd4ee3ed5a120eb39dd44990183e70c736198625d40010a490"
+		}
+	]
+}

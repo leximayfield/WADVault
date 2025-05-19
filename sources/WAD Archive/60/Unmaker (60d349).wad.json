@@ -1,0 +1,17 @@
+{
+	"uid": "Unmaker (60d349).wad",
+	"name": "Untitled",
+	"description": "Just a demo for a Skulltag version of the \"Unmaker\"",
+	"version": "60d349",
+	"date": "2014-12-12 14:18:27",
+	"files": [
+		{
+			"filename": "Unmaker.wad",
+			"size": 43147,
+			"crc": 3851735635,
+			"md5": "eb159e8ded484fe9ab98fa438a414844",
+			"sha1": "60d349188a11e609332b28cca522cee52a84f573",
+			"sha256": "c9767802e97062c68aaaa4ed772ad8b180e1da24654531a2233fcc2ef2ca8b7a"
+		}
+	]
+}

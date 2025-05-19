@@ -1,0 +1,16 @@
+{
+	"uid": "ph_11-10-12_depths.wad",
+	"name": "Depths",
+	"description": "An E3M6 replacement originally built for Doom the Way id Did (and considered for E2M5 as well). The map follows a theme along the lines of Pandemonium, but has a multi-step chain to the secret exit and takes inspiration from what id went on to do by starting out with a staged barrel trap.",
+	"date": "2019-08-06 20:25:51",
+	"files": [
+		{
+			"filename": "ph_11-10-12_depths.wad",
+			"size": 158326,
+			"crc": 1553653749,
+			"md5": "e5da0964d411bc1ac2c40e9746f4f624",
+			"sha1": "50e9338bcc1c1754797fcada4a1ed01399f80d1c",
+			"sha256": "4eaf74114351b626f111b24f63248eb71a1ee9c90430b0a10fe668fe9865863f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "demontia.wad",
+	"name": "Demontia",
+	"description": "Story: The UAC was performing routine geological tests on some of Earth's subterranean caverns when they uncovered the remains of a temple complex of a long lost civilization. A few initial probes by recon teams showed no signs of life...until the accident. While chiseling away some rock from one of the main chambers of the temple, an archaeologist slipped and cracked his head upon the altar, spilling blood upon the sacrificial slab and sparking an aeon-dead ritual that awoke something wicked. Within moments the base was flooded with demons and the forces of Hell overpowered the marine defense. All that is standing between Earth and certain peril is you. Shoot your way down into Hell, knocking out each summoning gate and slaying it's demon avatar before it's too late! Information: (Original Release Date: 09/24/09) I have been working on this WAD for nearly two years. Essentially, this is a thirteen level replacement WAD for Doom 2. There are nine regular levels, a finale, a transitional level, and two secret levels accessible through the campaign. Technical: *Added additional gore to the Former Human, Former Sergeant, and Imp sprites. *Replaced the music for several levels when appropriate, other times the default music fit perfectly. *Replaced the level title graphics as well as the opening scene graphic. *Replaced Boss Demon on-sight sound file. *Replaced Boss Demon sprite. *Added an additional texture. *Changed intermission text to perpetuate the story. Version 1.1 Notes: *Updated for play with ZDoom 2.5.0. *Fixed minor texture errors. *Added weapons to MAP10. *Added platform to MAP10 to make targeting the final boss easier.",
+	"date": "2014-12-24 18:49:51",
+	"files": [
+		{
+			"filename": "demontia.wad",
+			"size": 3662882,
+			"crc": 2190243958,
+			"md5": "580e3b846e443a58990286f5da5de2d8",
+			"sha1": "5f86916014d37fbf030d915fe0cdbfeb1275c8e0",
+			"sha256": "ed6878e82c4fce651195216c9bb37eaacacfdd67bba47f630daf1194ed05e522"
+		}
+	]
+}

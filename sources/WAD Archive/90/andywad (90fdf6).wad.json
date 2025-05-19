@@ -1,0 +1,17 @@
+{
+	"uid": "andywad (90fdf6).wad",
+	"name": "My Deathmatch Wad",
+	"description": "It's for Deathmatch.",
+	"version": "90fdf6",
+	"date": "2013-11-02 15:06:18",
+	"files": [
+		{
+			"filename": "andywad.wad",
+			"size": 109705,
+			"crc": 848826654,
+			"md5": "cf54f004eb0a1e01b45394a827195b30",
+			"sha1": "90fdf6a647e4fa93b577b468403835058cf98513",
+			"sha256": "1bab2476d24beafff933e805bff6c700f87088914e8745add5150ec715835daf"
+		}
+	]
+}

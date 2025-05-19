@@ -1,0 +1,16 @@
+{
+	"uid": "skeune.wad",
+	"name": "Skeune",
+	"description": "After playing plenty of Marathon (you know, DooM for Mac), : I had the idea of making a quick map in the same style. : This means 1994-style geometry and texturing, gloomy lighting, : and an emphasis on switch-hunting and puzzle-solving. : However, I soon found out that in order to make really devious puzzles, : one needs better \"scripting functionality\" than possible with : the original .exe-file. : While the map didn't quite turn out the way I wanted it to, : I still think it might be fun as a quick diversion. : : Also, I wanted to joke a bit with my brother, : so I altered the sounds of the former humans and the Imps. : They now curse in the most vile tongue imaginable. : : : Please see the bottom of this document for the actual story.",
+	"date": "2016-06-17 00:26:01",
+	"files": [
+		{
+			"filename": "skeune.wad",
+			"size": 1483526,
+			"crc": 2103127581,
+			"md5": "24ae97ad3b64855abb12486b5a7c3b78",
+			"sha1": "f42ccb769146910e16c23a444405ae5e39c392a7",
+			"sha256": "217c833b54c6786b5313bb2344e9c8a5af5bb74d0aa939fdabc3f650ff0428c8"
+		}
+	]
+}

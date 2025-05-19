@@ -1,0 +1,17 @@
+{
+	"uid": "alcatraz (49f16f).wad",
+	"name": "Assault on Alcatraz",
+	"description": "Take back Alcatraz at all costs! P.S. I hope everyone enjoys my sick humor!",
+	"version": "49f16f",
+	"date": "2014-01-07 22:18:40",
+	"files": [
+		{
+			"filename": "alcatraz.wad",
+			"size": 975684,
+			"crc": 4067558604,
+			"md5": "451b127178423d7b7171f5659d7bf31c",
+			"sha1": "49f16f872807bb8445dde7c7130494feb80bf024",
+			"sha256": "3cb18503e1309918c85828688b036a1f7dfcea05f4ca39523a19b37c317e7a19"
+		}
+	]
+}

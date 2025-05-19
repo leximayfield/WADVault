@@ -1,0 +1,17 @@
+{
+	"uid": "trick (af46ad).wad",
+	"name": "TRICK.WAD",
+	"description": "A good 2 player cooperative wad. Has many tricks in it, no secrets <bummer, huh!>, and a lot of killing.",
+	"version": "af46ad",
+	"date": "2013-11-06 22:40:48",
+	"files": [
+		{
+			"filename": "trick.wad",
+			"size": 46166,
+			"crc": 114189313,
+			"md5": "cb82495ee407b3230fad99882b800a40",
+			"sha1": "af46ad46233d15b738c2db0058b2593de85a7bd0",
+			"sha256": "5740cfdc8499e8463461ec835a111c460ea4f3bd3cf31fad0c1b4f6b005273a7"
+		}
+	]
+}

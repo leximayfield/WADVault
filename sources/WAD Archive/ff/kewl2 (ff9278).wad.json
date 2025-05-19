@@ -1,0 +1,17 @@
+{
+	"uid": "kewl2 (ff9278).wad",
+	"name": "KEWL2",
+	"description": "Hot DooM II DM! Yo guyz thiz iz a DeathMatch *ONLY* Wad. And, for 2p- DeathMatching, it's really good. I tried a lot of known excellent deathmatch WADs(the MARKRM series, LEDGES...) and I like this one, too :-) BTW, if you don't know, \"kewl\" is a way of writing \"cool\" :-) I got WadEd 1.42 with DooM II support today. So I changed a few textures&stuff, put in the SSGUN, so now my nice DooM DeathMatch WAD is playable in a much better DooM II version! Have phun...",
+	"version": "ff9278",
+	"date": "2014-12-03 20:17:33",
+	"files": [
+		{
+			"filename": "kewl2.wad",
+			"size": 17273,
+			"crc": 1602441377,
+			"md5": "3e7aba7d97bb630ad41c198ae2dd8e75",
+			"sha1": "ff9278fa01c0171f1b0e0805394c96c7d39870e7",
+			"sha256": "53d4a1584fbc56d0f41ae53beaeb483f81c5722de856445a2e6297c953558527"
+		}
+	]
+}

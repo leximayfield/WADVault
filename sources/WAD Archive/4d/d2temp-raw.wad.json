@@ -1,0 +1,16 @@
+{
+	"uid": "d2temp-raw.wad",
+	"name": "Doom 2... as of July 29th, 1994",
+	"description": "On April 22nd, 2015, John Romero released a pile of code and assets used in the development of Doom 1 and 2. Among those files was a backup of the source map files made at 2pm on the 29th of July, months before the game's release, in a subfolder simply called \"temp\".",
+	"date": "2015-05-05 21:30:49",
+	"files": [
+		{
+			"filename": "d2temp-raw.wad",
+			"size": 2930616,
+			"crc": 2718475349,
+			"md5": "0b52f56e17922cc720f829e5ad833522",
+			"sha1": "4d177ba1352d5494c4f4c01ba0646f0654a61996",
+			"sha256": "f9e885be637fa62198aafd908911645e8321b06fef95aa6f3b709888e44ecb7d"
+		}
+	]
+}

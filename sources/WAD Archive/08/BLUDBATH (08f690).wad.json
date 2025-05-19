@@ -1,0 +1,17 @@
+{
+	"uid": "BLUDBATH (08f690).wad",
+	"name": "BLUDBATH.WAD",
+	"description": "This level is designed to be a fast paced deathmatch level with a Doom ][ feel. The only obsticals in the level are the weapons. All weapons are present, but each weapon has a certain degree of consequence. The plasma being one of the favorite weapons has the largest consequence, that being every one knows where you are when you get it. Since the Super Shotgun has become such a farorite weapon in deathmatch, that also has a slight degree of consequence. This level is great for two players, but the more the merrier.",
+	"version": "08f690",
+	"date": "2013-11-02 15:45:11",
+	"files": [
+		{
+			"filename": "BLUDBATH.wad",
+			"size": 79508,
+			"crc": 3591602649,
+			"md5": "7b0bff285edeae1f6c631ac94844edb1",
+			"sha1": "08f69045855febc52cb26d058e82786f6eee9781",
+			"sha256": "850c11fe7372d5299db2c94ed94ceeb5e7dfa537736763eb419d24d2267a0fa7"
+		}
+	]
+}

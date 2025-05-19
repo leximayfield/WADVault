@@ -1,0 +1,16 @@
+{
+	"uid": "d2evolve.wad",
+	"name": "DOOM 2: EVOLVED (Version 1.1)",
+	"description": "A remake of the first 3 levels of Doom 2: Hell on Earth, designed for GZDoom 1.1.6+. Features up to 10 times the detailing of the original levels plus Quake lighting, reflective floors, ACS scripting etc etc. Although it is a remake (from scratch, I might add), there are parts of the levels which radically differ from that of the original design.",
+	"date": "2014-12-24 19:05:50",
+	"files": [
+		{
+			"filename": "d2evolve.wad",
+			"size": 4086524,
+			"crc": 4264097287,
+			"md5": "da7a12b6efc9b38ef171a951f28b7f4b",
+			"sha1": "4b769be524113bcc7db1fd5dd9d57732691ab65a",
+			"sha256": "af1dcde36162687264cdb2db95dac1406e976d86d362f0167967ca0b9da5c360"
+		}
+	]
+}

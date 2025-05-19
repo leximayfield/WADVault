@@ -1,0 +1,17 @@
+{
+	"uid": "skull (685d0f).wad",
+	"name": "Skull",
+	"description": "My first attempt at creating a Doom level and I think it turned out well.",
+	"version": "685d0f",
+	"date": "2013-11-06 22:19:05",
+	"files": [
+		{
+			"filename": "skull.wad",
+			"size": 87884,
+			"crc": 1177765169,
+			"md5": "3151d3c027e3e759405792c432c80c7d",
+			"sha1": "685d0f2fd12767d77f4c9e944114582e8c6108de",
+			"sha256": "f29ab316c6ed792e48757496f67505cf6018ca63f8509297bad8df3e95115dcb"
+		}
+	]
+}

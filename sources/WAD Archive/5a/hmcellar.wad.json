@@ -1,0 +1,16 @@
+{
+	"uid": "hmcellar.wad",
+	"name": "The Cellar",
+	"description": "A small level for Doom 2. This is also my very first level. It still isn't too easy level.",
+	"date": "2014-12-18 22:30:41",
+	"files": [
+		{
+			"filename": "hmcellar.wad",
+			"size": 96067,
+			"crc": 4172185451,
+			"md5": "49a01b4361588ebcf1b892abd9dcd30e",
+			"sha1": "5ad81d855919b6ac82d35e2e6404193b9e7e52e8",
+			"sha256": "fa2e3ebd7030b2691ebb7c0c583ca21a61a5e2baf55b99eaf1ea2d4eacd81d2e"
+		}
+	]
+}

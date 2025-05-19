@@ -1,0 +1,16 @@
+{
+	"uid": "kriegsmesser.wad",
+	"name": "Castle Kriegsmesser v1.1",
+	"description": "Castle Kriegsmesser is a multiplayer deathmatch/CTF map, set around the Wolfenstein setting.",
+	"date": "2018-09-30 20:29:02",
+	"files": [
+		{
+			"filename": "kriegsmesser.wad",
+			"size": 16300498,
+			"crc": 4070859336,
+			"md5": "86d4bcd03a7422ebad84af4d8d7d9726",
+			"sha1": "bb7a5bdbd4526ea66eea23fcdfb6e7cf7372848a",
+			"sha256": "3ea135bad4535dbe7e1a75e8e265721b60bb018c3fb69aca74c482549b59c562"
+		}
+	]
+}

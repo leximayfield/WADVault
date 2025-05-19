@@ -1,0 +1,17 @@
+{
+	"uid": "zorf1 (ffe2fb).wad",
+	"name": "Zorf",
+	"description": "A constant action DEATHMATCH 2.0 level.",
+	"version": "ffe2fb",
+	"date": "2014-12-03 20:29:15",
+	"files": [
+		{
+			"filename": "zorf1.wad",
+			"size": 61101,
+			"crc": 2997031331,
+			"md5": "a75c116812107622cc4d686457a56ada",
+			"sha1": "ffe2fb667ed0a57660a2d3783817252bd031dde8",
+			"sha256": "2da464b8473d40a3a270fd19da6db9ea927725887115df84fcb53844ecc88d88"
+		}
+	]
+}

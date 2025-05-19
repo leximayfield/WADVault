@@ -1,0 +1,17 @@
+{
+	"uid": "blowyour (cbb7b2).wad",
+	"name": "blowyour.wad",
+	"description": "deathmatch compilation featuring 8 levels inbetween 1 and 10 of Doom2. Including a revamped map1, and also e1m1 from doom1.",
+	"version": "cbb7b2",
+	"date": "2013-11-06 22:39:19",
+	"files": [
+		{
+			"filename": "blowyour.wad",
+			"size": 708349,
+			"crc": 4238751675,
+			"md5": "864f3dad4b93c373ed43dc91a7be0d80",
+			"sha1": "cbb7b253630133fdddca8da24ab264819dd3694a",
+			"sha256": "d54724e1dd2309aad64099af8f538023e65e4e132e11ba7646d2e6b7b05a51d9"
+		}
+	]
+}

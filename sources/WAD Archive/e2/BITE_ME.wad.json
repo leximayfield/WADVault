@@ -1,0 +1,16 @@
+{
+	"uid": "BITE_ME.wad",
+	"name": "Bite Me!",
+	"description": "Deathmatch level, suitable for 2-3 players, may be too crowded with four.",
+	"date": "2014-08-30 13:51:48",
+	"files": [
+		{
+			"filename": "BITE_ME.wad",
+			"size": 90265,
+			"crc": 3853277903,
+			"md5": "52e8d731fefb405d3b9765878c245ec4",
+			"sha1": "e2a8fa331fee986cdffe2c45238728e289a1eae0",
+			"sha256": "4c23b2b30229da8b92452bfee6191c8248693356b2d53e4828e75925666ce8f3"
+		}
+	]
+}

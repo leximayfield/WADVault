@@ -1,0 +1,16 @@
+{
+	"uid": "tmatch-1 (ca2f8f).wad",
+	"name": "Tom's Deathmatch wad #1",
+	"version": "ca2f8f",
+	"date": "2016-02-07 20:30:34",
+	"files": [
+		{
+			"filename": "tmatch-1.wad",
+			"size": 42485,
+			"crc": 4150018942,
+			"md5": "527f363c4512d3d93441176f550a443d",
+			"sha1": "ca2f8f7e272ed36a0b8b79f7721bf05a86550b8c",
+			"sha256": "ff9d9f35e5c1f6d6e3a335448996954cd2838f85a05938f55cd16675e674b197"
+		}
+	]
+}

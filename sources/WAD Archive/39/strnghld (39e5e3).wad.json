@@ -1,0 +1,17 @@
+{
+	"uid": "strnghld (39e5e3).wad",
+	"name": "STRiNGHOLD",
+	"description": "Just a mock .WAD!",
+	"version": "39e5e3",
+	"date": "2015-01-14 22:49:16",
+	"files": [
+		{
+			"filename": "strnghld.wad",
+			"size": 87359,
+			"crc": 4277138720,
+			"md5": "2acd629975c77948fb8b0d8fc378218d",
+			"sha1": "39e5e31708eaeac2ab6dfaccf3653169b213888b",
+			"sha256": "887be0b27b120c0378ac9097f85069e811875ce516aa265b329c2c2f5dbc583a"
+		}
+	]
+}

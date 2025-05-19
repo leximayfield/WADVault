@@ -1,0 +1,16 @@
+{
+	"uid": "sp_e1m5r.wad",
+	"name": "E1M5: Reincarnated",
+	"description": "E1M5 Reincarnated is a remake of Doom 1 Episode 1 Mission 5 for the ZDoom engine aimed at making the map look more modern, while keeping the same flawless gameplay of the original. Whether or not I accomplished this is up to the people that play it.",
+	"date": "2014-12-13 17:46:20",
+	"files": [
+		{
+			"filename": "sp_e1m5r.wad",
+			"size": 1126142,
+			"crc": 836262401,
+			"md5": "f59285f9503cbba5e247067007daef7a",
+			"sha1": "8f4d51df1efe810775d850941a7c47daac47dd85",
+			"sha256": "3e96ed5b2e73bef1f53dafe40a253037dad874d51f2c049d052eb27cbd398b26"
+		}
+	]
+}

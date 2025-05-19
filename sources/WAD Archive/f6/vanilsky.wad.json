@@ -1,0 +1,16 @@
+{
+	"uid": "vanilsky.wad",
+	"name": "Vanilla Sky",
+	"description": "Winner map of the \"12th Cabro's Map Tournament\" of Arcades3d.com. The rules of this tournament were: Only doom classic format, but could exceed the limits of vanilla. Texture / Flat mix also permitted No new textures, can only change the SKY texture New music allowed, but only on MIDI / MUS format It is a large size map in which I try to recreate a city that is being invaded and the mission is to escape alive. The difficulty is high and requires concentration and skill, although there is much ammo and medikits scattered around the map The map is designed for vanilla Doom 2 but due to the large number of sectors (11718) and linedefs (65522) must be played on a source port. I recommend using ZDoom, GZDoom, Zandronum as they are not giving any problem with rendering. Other ports such as Eternity, Legacy, PrBoom (plus) or Doomsday Engine does not work well or do not load the map. This is not the tournament version, in this wad I have fixed a few graphic bugs found during the ratings of the tournament. Finally I hope you enjoy playing it as much as I enjoyed making it.",
+	"date": "2014-12-29 15:27:42",
+	"files": [
+		{
+			"filename": "vanilsky.wad",
+			"size": 7486885,
+			"crc": 910450427,
+			"md5": "259a92b329214829c6f89c03036284ac",
+			"sha1": "f674b369e0603b59b0c4feab6180f46d4069c9c6",
+			"sha256": "d6f099e03d803b880c3242b4185a83f4fcac655067321e33bba7b3ba9ed009ff"
+		}
+	]
+}

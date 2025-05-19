@@ -1,0 +1,17 @@
+{
+	"uid": "artifact (20a0e7).wad",
+	"name": "The Artifact",
+	"description": "One of the Artifact levels",
+	"version": "20a0e7",
+	"date": "2015-09-15 18:13:56",
+	"files": [
+		{
+			"filename": "artifact.wad",
+			"size": 1800024,
+			"crc": 2073396821,
+			"md5": "a810692526cc67ddb4a72fcd5b9edc6e",
+			"sha1": "20a0e7105d9dcf91d01cb2f3c8af591b21ce22ec",
+			"sha256": "60973fb2b6be943f73db7f4c065dd3d014333ea39e965b6655c2cff0bc954f97"
+		}
+	]
+}

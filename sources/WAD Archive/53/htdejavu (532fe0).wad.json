@@ -1,0 +1,17 @@
+{
+	"uid": "htdejavu (532fe0).wad",
+	"name": "htdejavu.wad",
+	"description": "It's a Heretic .wad, all right. And if you've played Doom 2 before, you'll probably get a feeling of... deja' vu.",
+	"version": "532fe0",
+	"date": "2013-11-02 16:37:21",
+	"files": [
+		{
+			"filename": "htdejavu.wad",
+			"size": 45358,
+			"crc": 1683167700,
+			"md5": "ca70a98e2cf581869b2f25f1f55a911b",
+			"sha1": "532fe0cc52a3249b7b963cbc8e0cbcc56965a843",
+			"sha256": "155d911f61972db5d842a44f962dd2a93bcbb1300a6dd9a2f5d92008f7232f8e"
+		}
+	]
+}

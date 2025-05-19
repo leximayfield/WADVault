@@ -1,0 +1,17 @@
+{
+	"uid": "quad2 (500cc3).wad",
+	"name": "Quad Wad",
+	"description": "4 levels, the last of which is an enormous pit with many monsters",
+	"version": "500cc3",
+	"date": "2013-11-06 22:32:25",
+	"files": [
+		{
+			"filename": "quad2.wad",
+			"size": 272490,
+			"crc": 3577447864,
+			"md5": "0ccec462f0a9fd150a34c54233cb00ef",
+			"sha1": "500cc30377a935bcd1fa859fc9abf921c977a654",
+			"sha256": "4d30117aae346c72687b98b50ae08998e162a780cb8610a4320140b41fc8161d"
+		}
+	]
+}

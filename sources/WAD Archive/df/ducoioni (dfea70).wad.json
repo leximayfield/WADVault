@@ -1,0 +1,17 @@
+{
+	"uid": "ducoioni (dfea70).wad",
+	"name": "DUCOIONI.WAD (If you're italian you know what I mean)",
+	"description": "This is my 1st WAD so please don't flame me if you don't like it. This WAD is a replacement for E1M1. Maybe some of you will find it too big to be played in deathmatch but I think it should be funny the same !. Originally it was full of barrels,decorations and other nice things but when I tried to save a game DOOM crashed. So I had to delete hundreds of these decorations (sigh !) in order for DOOM to save a game correctly ..... sorry .....You still can't save with DOOM 1.2",
+	"version": "dfea70",
+	"date": "2013-11-04 20:11:46",
+	"files": [
+		{
+			"filename": "ducoioni.wad",
+			"size": 296371,
+			"crc": 831751670,
+			"md5": "fc317f45ea113909324e2d25d9577cfc",
+			"sha1": "dfea708af3b61cdbb034e4f4bcaa1c2dd6e0b0c3",
+			"sha256": "203b775be4c07ac17a56810bfdbdb9d55a37f2c4b3a4e625e678b7ed35e6bf47"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "load (3ecd3c).wad",
+	"name": "Load (The Adrenaline Crash)",
+	"description": "2, 3 and 4 player DEATHMATCH level",
+	"version": "3ecd3c",
+	"date": "2013-04-19 02:28:21",
+	"files": [
+		{
+			"filename": "load.wad",
+			"size": 1442375,
+			"crc": 3440897752,
+			"md5": "e093968374bc257e6dbdd3dfc4d3cc8d",
+			"sha1": "3ecd3c5b5816cc1aa910115e7065646637323554",
+			"sha256": "1f65f9b3f0f820a4dcb0e3b346f9dde0032aec77581a91adecf874572e2869ce"
+		}
+	]
+}

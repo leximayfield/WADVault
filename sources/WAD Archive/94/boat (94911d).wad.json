@@ -1,0 +1,17 @@
+{
+	"uid": "boat (94911d).wad",
+	"name": "The Boat",
+	"description": "If you don't find the secrets, You don't have a chance. And oh yah, just try to find the exit, if you can last that long.....",
+	"version": "94911d",
+	"date": "2013-11-03 17:45:52",
+	"files": [
+		{
+			"filename": "boat.wad",
+			"size": 92678,
+			"crc": 3076823622,
+			"md5": "da7089d73d5e717ae7cbe0245dd4c43b",
+			"sha1": "94911debbe353b0e9676432b1f215171a30afd63",
+			"sha256": "b9ab0a782062a85f4c2922d667179d4dc9a446a87d46e3ec451fc2c704147463"
+		}
+	]
+}

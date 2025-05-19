@@ -1,0 +1,16 @@
+{
+	"uid": "wlabs.wad",
+	"name": "Waste Labs",
+	"description": "Near UAC main facility is a waste lab that transforms toxic waste into usable recources. Monsters have taken over this plant and you need to kill them and stop them from stopping that plant. Good Luck!!",
+	"date": "2014-12-13 17:43:33",
+	"files": [
+		{
+			"filename": "wlabs.wad",
+			"size": 151123,
+			"crc": 3687599562,
+			"md5": "4dd40661189c8383523cd66ccdda5562",
+			"sha1": "057de4f28c66b3c3b5f5c9d327266e88ebe06c47",
+			"sha256": "36501ea4290b4273a41b9702e44b5e210ab298d7106bbd83e1eb4cfc69968e3e"
+		}
+	]
+}

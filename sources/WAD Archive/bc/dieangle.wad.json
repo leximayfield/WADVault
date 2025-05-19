@@ -1,0 +1,16 @@
+{
+	"uid": "dieangle.wad",
+	"name": "DieAngle",
+	"description": "Relatively small deathmatch level designed around equilateral triangles, a much less common shape for Doom levels than rectangles or isosceles triangles.",
+	"date": "2014-12-15 22:23:36",
+	"files": [
+		{
+			"filename": "dieangle.wad",
+			"size": 36673,
+			"crc": 77116570,
+			"md5": "828644309fb6f8465c9896ae17f587eb",
+			"sha1": "bc64d07c6e9ac7306405855471735da6845db22b",
+			"sha256": "db42f45f811bf53dc5324ee0038d557567dfec2a435f6aa1e1d2d5d57d00222f"
+		}
+	]
+}

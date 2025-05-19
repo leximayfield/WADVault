@@ -1,0 +1,17 @@
+{
+	"uid": "DTWID (f6703a).wad",
+	"name": "Doom the Way id Did",
+	"description": "\"At some point in time I got the idea that it would be really fun if John Romero dusted off the ol' doom editor and made another map for Doom episode 1 for old time's sake. He once replied to an email saying 'maybe I will!' but never did get around to it as far as I know. This project asks the contributors to carefully study the original maps and try to make them as John Romero and Sandy Petersen did.",
+	"version": "f6703a",
+	"date": "2013-04-22 00:15:45",
+	"files": [
+		{
+			"filename": "DTWID.wad",
+			"size": 5074332,
+			"crc": 3189771382,
+			"md5": "8430cd2081be435f1320772227263ced",
+			"sha1": "f6703aa44d7a583d6525b14a0fb6685063916d2f",
+			"sha256": "9eb976fa9a4a18e38089c33a944f0784be0485fa8fb8c37a8517be5a52cb2a70"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hide.wad",
+	"name": "HIDE & SEEK",
+	"description": "This is a pretty simple level. KILL YOUR ENEMY!!! There are many false walls to hide behind and SNIPE!!!",
+	"date": "2013-11-02 15:43:24",
+	"files": [
+		{
+			"filename": "hide.wad",
+			"size": 28634,
+			"crc": 2259669421,
+			"md5": "e3342633d86b02c7f567ad0e952d4962",
+			"sha1": "2b03a5a54c36b7cace09252dcfd9922fb4eaeda3",
+			"sha256": "d9545d5786d97fdb6894228d77211e1e0e900701c56e7c77589cd010034ba761"
+		}
+	]
+}

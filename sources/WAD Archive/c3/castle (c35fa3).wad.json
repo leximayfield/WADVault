@@ -1,0 +1,16 @@
+{
+	"uid": "castle (c35fa3).wad",
+	"description": "This is a massive castle. It has been taken over by big, bad mutant things. Kill 'em all and exit. (how original)",
+	"version": "c35fa3",
+	"date": "2018-04-15 19:08:18",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 595293,
+			"crc": 2875924486,
+			"md5": "e48f86c077281c1472c69c8c3ab39759",
+			"sha1": "c35fa3564da87fddd66c16d18b184cd7ac127ec6",
+			"sha256": "6a1316947f9d79ddba0aaa488876a7eebc3d48993a2ffd4e189109ce3fa04ef0"
+		}
+	]
+}

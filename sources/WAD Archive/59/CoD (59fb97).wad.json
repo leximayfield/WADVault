@@ -1,0 +1,17 @@
+{
+	"uid": "CoD (59fb97).wad",
+	"name": "Creature of Despair",
+	"description": "This was originally suppose to be a slaughter map for DoomHero85's slaughter WAD project, but then I decided to release it as a standalone map since it was too different from the rest of the maps in his project. It's still a slaughter map though. It was inspired by the \"Slough of Despair\" from the original Doom.",
+	"version": "59fb97",
+	"date": "2014-12-21 16:29:40",
+	"files": [
+		{
+			"filename": "CoD.wad",
+			"size": 204742,
+			"crc": 955718851,
+			"md5": "2d25ef59358d949591b796845ead0508",
+			"sha1": "59fb9736cdc6b97c0c4dab37c71bba19f68b70eb",
+			"sha256": "54c6ea3393971172450455c59827e0cfee46b55b3b3dbe4f7e859fa382d52bc2"
+		}
+	]
+}

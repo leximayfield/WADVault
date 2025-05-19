@@ -1,0 +1,17 @@
+{
+	"uid": "deeps (f4930f).wad",
+	"name": "DEEPS.WAD",
+	"description": "I wanted to put a little of everything on this wad. There are a LOT of remote switches and secrets. Later on I will make some other wads and have a theme for them, but right now I want to know what do you think of this one. I was really careful to avoid HOM and misaligned textures, so if you find anything wrong, please let me know.",
+	"version": "f4930f",
+	"date": "2014-01-11 11:11:05",
+	"files": [
+		{
+			"filename": "deeps.wad",
+			"size": 215453,
+			"crc": 43677894,
+			"md5": "966689b71ff961241875b73d467dabb5",
+			"sha1": "f4930f5f793832cfdb51593bfa12b9f65f68e080",
+			"sha256": "3e21f4613940a10eba0384134a91660d7412cb9fa60958b8ea2e4c5733e0e052"
+		}
+	]
+}

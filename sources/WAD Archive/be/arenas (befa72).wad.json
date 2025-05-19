@@ -1,0 +1,17 @@
+{
+	"uid": "arenas (befa72).wad",
+	"name": "Arenas",
+	"description": "Here is is: THREE great Deathmatch Arenas for all you Deathmatch Crazies out there.",
+	"version": "befa72",
+	"date": "2018-06-20 03:19:51",
+	"files": [
+		{
+			"filename": "arenas.wad",
+			"size": 110512,
+			"crc": 2720962274,
+			"md5": "fa21ab0ccab33aa70f6924c1a3a4d49f",
+			"sha1": "befa7246ad960c6fa3f769ab34a832bc0ab358e4",
+			"sha256": "08b2ebbacdf77da94a96e409459cb171dbfc6c45f1c72153ce557bc3f448a3d9"
+		}
+	]
+}

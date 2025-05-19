@@ -1,0 +1,16 @@
+{
+	"uid": "gantlet.wad",
+	"name": "Hell Gauntlet.",
+	"description": "This is an update to a previously released map of mine, I just added a new room and cleaned up the map. I hope you like this.",
+	"date": "2014-12-24 19:23:09",
+	"files": [
+		{
+			"filename": "gantlet.wad",
+			"size": 358355,
+			"crc": 742206214,
+			"md5": "2690b8c9be3366f8e877ae9be5ee171b",
+			"sha1": "f7a054631298ecfb5f2ee3bdb41d33b16a00c116",
+			"sha256": "396a29902ace92f7774f6e48d8e9e0e9c4e71ad6f3c426a44bfe111b4243727b"
+		}
+	]
+}

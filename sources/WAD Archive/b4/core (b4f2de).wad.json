@@ -1,0 +1,17 @@
+{
+	"uid": "core (b4f2de).wad",
+	"name": "CORE.ZIP",
+	"description": "Mutants have invaded the computer core area! Clean them out, and don't forget to check the ventilation ducts. This level was originally designed for deathmatch play (if you have three or more players, chainsaw jousting is a sure bet on startup...) but it works quite well for single player use also. I've included my favourite bits from a number of different levels.",
+	"version": "b4f2de",
+	"date": "2015-12-07 12:47:38",
+	"files": [
+		{
+			"filename": "core.wad",
+			"size": 307909,
+			"crc": 2982720997,
+			"md5": "e7f38f3c57455c0f4d208e05b60ec9a0",
+			"sha1": "b4f2de1e8fe8e6a944897eb18110c16e2d47099d",
+			"sha256": "ab66071e012add6ed0ed79c918bb367a72de8fd889475615b1e69d2595503dea"
+		}
+	]
+}

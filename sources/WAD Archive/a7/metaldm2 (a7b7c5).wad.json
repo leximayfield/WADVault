@@ -1,0 +1,17 @@
+{
+	"uid": "metaldm2 (a7b7c5).wad",
+	"name": "Metal doom][ (named after the fact that I used alot of the metal2, 3 or 4 textures in this level)",
+	"description": "My first level constructed for DOOM ][. Feedback always welcome. I used primarily the new textures from DOOM ][ because they are, well, new. I of course threw in some of the new monsters. This level is, like the MUD series of wads (not by me), absolutely filled with monsters, ammunition and health. You may want to try a tactic that I developed from playing the MUD wads: Open up a door, back away and send a few rocket rounds into the room. This should serve to thin out their ranks a bit, making the room more manageable.",
+	"version": "a7b7c5",
+	"date": "2016-02-07 20:37:58",
+	"files": [
+		{
+			"filename": "metaldm2.wad",
+			"size": 106434,
+			"crc": 3051646145,
+			"md5": "a2048a6dd6b687358ab6346e52fed687",
+			"sha1": "a7b7c51c03466d63b09d16629b43eda96eb460c5",
+			"sha256": "fb0558ea3f4691b32fd6cf1f9e4c91100679f680172605d1baac24211eadaaa7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "coh_v2.wad",
+	"name": "Caves of Hell",
+	"description": "A single player level for Doom 2.",
+	"date": "2014-12-15 21:29:32",
+	"files": [
+		{
+			"filename": "coh_v2.wad",
+			"size": 63627,
+			"crc": 2513517386,
+			"md5": "e59127ffbc44d2f66acd5c4c09c033d7",
+			"sha1": "df99cf4aefd0df70083075c3c891a42057370956",
+			"sha256": "ddf24b984dc1d5c128222f5338c48a5beb193992e832697ffdfec1291b3b6ef3"
+		}
+	]
+}

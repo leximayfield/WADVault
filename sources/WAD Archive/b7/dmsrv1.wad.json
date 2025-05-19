@@ -1,0 +1,16 @@
+{
+	"uid": "dmsrv1.wad",
+	"name": "DoomServ Deathmatch I v1.0",
+	"description": "For those of you who like pure action, no- thinking deathmatch levels, this is the one or you. This level consists of a mid-sized arena modeled closely after DWANGO5's level 18, with a difficult-to-reach megasphere and plasma gun atop the \"sides.\"",
+	"date": "2014-12-15 21:35:19",
+	"files": [
+		{
+			"filename": "dmsrv1.wad",
+			"size": 919357,
+			"crc": 2118248424,
+			"md5": "84b70a0bc9b52f02ddc7771a68786a2c",
+			"sha1": "b70d88cc8ac51b9c6a82baa06063131c0a1e52e1",
+			"sha256": "6ba6f2110faa289f83e105ff6f8f9255be2b857edd5c4b8ee7d8f465bdda7f33"
+		}
+	]
+}

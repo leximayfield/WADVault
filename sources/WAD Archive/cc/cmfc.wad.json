@@ -1,0 +1,16 @@
+{
+	"uid": "cmfc.wad",
+	"name": "CoolMapForContext",
+	"description": "This is basicly my wad from VineSauce mapping contest, with few improvements.",
+	"date": "2017-06-27 00:05:45",
+	"files": [
+		{
+			"filename": "cmfc.wad",
+			"size": 989460,
+			"crc": 3381169019,
+			"md5": "1eaadff39f5814afbeaf4b93ac051998",
+			"sha1": "cca6c8ad32517d34825934826e86eca26c7aa65c",
+			"sha256": "8c9f1518f4a4b67cdf778a93cf5be207c8d80a0c6404b6b0c6f2397fc2204ca5"
+		}
+	]
+}

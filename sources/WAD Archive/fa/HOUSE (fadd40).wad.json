@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (fadd40).wad",
+	"name": "House.wad",
+	"description": "Well, this level is my house. Nuff Said. :)",
+	"version": "fadd40",
+	"date": "2014-12-15 21:33:24",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 91203,
+			"crc": 2579649984,
+			"md5": "1ac39aabcc384cbd3c2ec3ab7eec5794",
+			"sha1": "fadd402095526dbddc1e4c7c9934695523951300",
+			"sha256": "a706f3e5b9c7af910f3888d717735913c72b69c61d4113219fab02d444689156"
+		}
+	]
+}

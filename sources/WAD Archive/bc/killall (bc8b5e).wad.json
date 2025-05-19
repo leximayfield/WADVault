@@ -1,0 +1,17 @@
+{
+	"uid": "killall (bc8b5e).wad",
+	"name": "Kill 'em All",
+	"description": "This is version 2.0 of lvl1.wad. I did all the textures in it and changed some stuff so now it looks good. The level itself has several big rooms and then it turns into a maze. It keeps you on your toes, so if your not very good at doom it will be nearly impossible.",
+	"version": "bc8b5e",
+	"date": "2014-12-27 12:54:54",
+	"files": [
+		{
+			"filename": "killall.wad",
+			"size": 209349,
+			"crc": 2197360631,
+			"md5": "75ea7920f5fec667b2a7f396d0388176",
+			"sha1": "bc8b5ee3418666a77d8f74d81e62e9d2455ba01c",
+			"sha256": "5a56ea96311f2ad66a4a39ba17800861ed39ad0e2cf96541a949a9b5e95b61a9"
+		}
+	]
+}

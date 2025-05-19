@@ -1,0 +1,16 @@
+{
+	"uid": "icarumem.wad",
+	"name": "icarumem",
+	"description": "Short map, you need icarus.wad to play it (unless you enjoy missing textures).",
+	"date": "2014-12-24 19:19:21",
+	"files": [
+		{
+			"filename": "icarumem.wad",
+			"size": 107071,
+			"crc": 3921419193,
+			"md5": "aeaf6709702948c162c4b8f6e927af93",
+			"sha1": "5b09ab1532b2f6d288c58a1582e97ff853fc1cc9",
+			"sha256": "c17232bc4d00cdb30b696c7a245ea160468b14805e605bfe51c9ed7664911f51"
+		}
+	]
+}

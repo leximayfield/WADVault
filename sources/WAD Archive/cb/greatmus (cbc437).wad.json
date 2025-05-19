@@ -1,0 +1,17 @@
+{
+	"uid": "greatmus (cbc437).wad",
+	"name": "Great NEW Music for Doom2 only.",
+	"description": "This has all new music for all 32 levels, AND for between levels, intro, end, ect. It has ALL kinds of music: some theme songs from some movies, 9\" Nails, Green Day, Metallica, Alonis Morset, and some other places that I can't remember.",
+	"version": "cbc437",
+	"date": "2015-09-14 20:48:12",
+	"files": [
+		{
+			"filename": "greatmus.wad",
+			"size": 731296,
+			"crc": 2777911627,
+			"md5": "437e1e2567d23a2e3f388b4ed4831c15",
+			"sha1": "cbc4377db658c8819f5db25c9314c9aa07b8ab79",
+			"sha256": "4492908084d38d9c4f8c93384547176f19daed280edd1bcf9881fd25544c251d"
+		}
+	]
+}

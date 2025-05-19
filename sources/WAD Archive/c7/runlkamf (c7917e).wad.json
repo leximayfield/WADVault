@@ -1,0 +1,17 @@
+{
+	"uid": "runlkamf (c7917e).wad",
+	"name": "DM2GM3A.ZIP (dm2gm3a.wad + .txt)",
+	"description": "A DOOM II combo co-op/ deathmatch / single player wad. This pwad represents my most ambitious effort for pwad design to date. I have payed particular attention to design elements like textures, lighting and shading, weapon placement, monster selection, and most of all playability. One area of this level is extremely complex, graphically, and had occasionally caused a NoAvailableVisplanes or similar message and subsequent crash to DOS. This should be fixed, but if you have any trouble, please e-mail me right away. This wad designed for use with DOOM II and replaces map01 (level 1). Any and all feedback welcomed. Also, there are no unsolvable puzzles or traps. all secret doors are identifiable via texture change lighting, or similar. Any area you can see, you can get to. Hope you like it, if not please tell me why, so I can improve on design. ANY and ALL Feedback Welcome!",
+	"version": "c7917e",
+	"date": "2016-02-07 20:26:49",
+	"files": [
+		{
+			"filename": "runlkamf.wad",
+			"size": 155251,
+			"crc": 1970463587,
+			"md5": "b0a0acd603079eb567f5cf59e9ee1fbb",
+			"sha1": "c7917ec5622e33d81014e2ec7073087251fa352e",
+			"sha256": "a3a9faf93d88f73eb5a0ce1b925125fd0679699f7313060215ee759f4388d9ad"
+		}
+	]
+}

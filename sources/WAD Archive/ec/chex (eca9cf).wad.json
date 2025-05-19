@@ -1,0 +1,17 @@
+{
+	"uid": "chex (eca9cf).wad",
+	"name": "Chex Quest",
+	"description": "This is a dehacked patch designed to emulate the chex.exe executable included with Chex Quest. It is generated from a comparison of chex.exe with Final Doom's doom2.exe.",
+	"version": "eca9cf",
+	"date": "2013-04-19 02:52:39",
+	"files": [
+		{
+			"filename": "chex.wad",
+			"size": 12361532,
+			"crc": 697161141,
+			"md5": "25485721882b050afa96a56e5758dd52",
+			"sha1": "eca9cff1014ce5081804e193588d96c6ddb35432",
+			"sha256": "d8eb5277918883f490fb1a4be3c9a8588df2dbaee6dc4beb8df4929148bbffb1"
+		}
+	]
+}

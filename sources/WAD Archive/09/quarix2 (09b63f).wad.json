@@ -1,0 +1,17 @@
+{
+	"uid": "quarix2 (09b63f).wad",
+	"name": "The Tomb of Quarix for Heretic",
+	"description": "The Tomb of Quarix. The discovery of the resting place of this ancient, one-armed explorer of some of the lesser worlds in the Dark Zone of the galaxy. The Federation Health Agency sent several expeditions in search of the enigmatic and crippled necromancer who had boozed his way through a thousand worlds after discovering the secret to eternal life. They came too late. The secret potion had run out and Quarix had died. Do you have the courage and wit to survive the Tomb of Quarix? One note of intrest, Quarix was an avid Doomer.",
+	"version": "09b63f",
+	"date": "2014-12-30 11:17:46",
+	"files": [
+		{
+			"filename": "quarix2.wad",
+			"size": 194801,
+			"crc": 3830392782,
+			"md5": "7f4122c503b2957a1caa40836fdccd26",
+			"sha1": "09b63ffd3434e489f46a3c7e59582cc2fc640d0d",
+			"sha256": "9833d0eba64b6db5f66a69e813024d2a2a8e1b2d5755a82c30a19e85c498a3f8"
+		}
+	]
+}

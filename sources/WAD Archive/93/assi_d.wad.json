@@ -1,0 +1,16 @@
+{
+	"uid": "assi_d.wad",
+	"name": "DooM: Assimilation (Demo)",
+	"description": "This is a demo of a project I started years ago. It consists in \"DooM meets Borg\" themed levels, textures and monsters. In this demo only one map is available but 5 new monsters make their appearance. I don't know if I'll go ahead with this project, perhaps yes if I get good feedback from the DooM Community.",
+	"date": "2014-12-21 16:32:24",
+	"files": [
+		{
+			"filename": "assi_d.wad",
+			"size": 1452141,
+			"crc": 3656162747,
+			"md5": "52cce0ee28cef71e1024cd4ab7587cd7",
+			"sha1": "93422b3b862e15af9a01ce1a3be9cc8dc9bec9f9",
+			"sha256": "021fcdd9704099fad04a3e7421154d546f0dfa2dc60fccb28df57f0a5129100e"
+		}
+	]
+}

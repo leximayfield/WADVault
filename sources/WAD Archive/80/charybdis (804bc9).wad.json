@@ -1,0 +1,17 @@
+{
+	"uid": "charybdis (804bc9).wad",
+	"name": "Charybdis",
+	"description": "3-map wad for Boom+, flesh-themed.",
+	"version": "804bc9",
+	"date": "2017-10-19 19:29:26",
+	"files": [
+		{
+			"filename": "charybdis.wad",
+			"size": 2490583,
+			"crc": 2872969153,
+			"md5": "8524c8a0c092acf7386f3b00e7cfd8f1",
+			"sha1": "804bc9759ad1bc545da81efe897e45a85b353eb2",
+			"sha256": "085681fd35bccfafed422a7aa3d06c11d4e553e1e89a601d7caa7b90556c5c62"
+		}
+	]
+}

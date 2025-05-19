@@ -1,0 +1,16 @@
+{
+	"uid": "mondrigan.wad",
+	"name": "Mondrigan",
+	"description": "Short speedmap I made, to try out some textures I made. Pretty short and very easy. Tested with zdoom and prboom+, contains a new palette and midi. Runs on plutonia.wad. New midi too.",
+	"date": "2015-12-29 15:21:53",
+	"files": [
+		{
+			"filename": "mondrigan.wad",
+			"size": 497937,
+			"crc": 4086592242,
+			"md5": "c4aded5659774dd7610346997ee750cd",
+			"sha1": "24a8c10afe1367beb758eb8ee74f0e7d756425cb",
+			"sha256": "47e30ede3c06df6299e9d1ffb276ac2728aaeeeb0855d0bd72ad80da93282732"
+		}
+	]
+}

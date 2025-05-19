@@ -1,0 +1,16 @@
+{
+	"uid": "chaosord.wad",
+	"name": "Chaos Order",
+	"description": "A large level with two different paths. UV is much harder than the other difficulties.",
+	"date": "2014-12-21 15:05:54",
+	"files": [
+		{
+			"filename": "chaosord.wad",
+			"size": 3253925,
+			"crc": 1832743669,
+			"md5": "1e7b87646f200c5c7a9382050fa5addb",
+			"sha1": "784caf5b4bea60800f085d4a566ca9f6cf9cad91",
+			"sha256": "f8354e16b858a988f89bc0155c773b2aaeb20f1aee599fb4b86b5a7663a04b18"
+		}
+	]
+}

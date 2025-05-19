@@ -1,0 +1,16 @@
+{
+	"uid": "ABIGOR.wad",
+	"name": "hell5",
+	"description": "This is my first wad, so don't expect something special, but I think it's not bad for the first wad.",
+	"date": "2014-08-30 14:23:30",
+	"files": [
+		{
+			"filename": "ABIGOR.wad",
+			"size": 39728,
+			"crc": 1033591205,
+			"md5": "61528bca7405782294cf8f9d87a3201b",
+			"sha1": "a8d2c0b7759b31da538d7c9cea773d2b990cf6ea",
+			"sha256": "d25ccbea6f8c514314194d969d6cad5c36db2686a1bc12eec392a6b7d17d6f16"
+		}
+	]
+}

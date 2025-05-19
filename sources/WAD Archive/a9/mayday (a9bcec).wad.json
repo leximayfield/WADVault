@@ -1,0 +1,17 @@
+{
+	"uid": "mayday (a9bcec).wad",
+	"name": "MayDay.wad",
+	"description": "Seven days ago the \"Mayfair\" issued a distress call. The Mayfair is a deep exploratory vessel and is currently scouting a black hole in sector 95. Garbled reports of the distress call reported an unknown race of aliens attacking the ship. You are being sent as part of an UAC task force to assist the Mayfair. Good luck.",
+	"version": "a9bcec",
+	"date": "2013-11-02 15:10:46",
+	"files": [
+		{
+			"filename": "mayday.wad",
+			"size": 95311,
+			"crc": 3876917796,
+			"md5": "aa97108d186bf07e8b48392e32c36d20",
+			"sha1": "a9bcec94a1389f1e208fc1305157c615470d14b1",
+			"sha256": "50a7bf321e5749b2693a37facef75c00d280508ffb9691294f7cfefcb6072bda"
+		}
+	]
+}

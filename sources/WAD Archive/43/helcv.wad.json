@@ -1,0 +1,16 @@
+{
+	"uid": "helcv.wad",
+	"name": "The Hell Cave",
+	"description": "A very large multi-themed cavern. The map focuses on tough, action packed fights rather than insane amounts of detail and eye candy. I decided to use nothing but vanilla doom 2 resources to keep it old school, but the massive size of the map may keep it from running properly in vanilla. This is my first map ever for Doom 2. Story: You wake up in a pool of blood, your whole body aches, and you have no recollection of where you are. A strong, musty odor fills your sense of smell as you quickly realize that everything seems just all too familiar. As you reach for you sidearm, you feel a sense of deja vu. You know something is hiding in this cave, something evil. The same evil you have faced countless times. The only thing you can't seem to figure out is.......how did you even get here???",
+	"date": "2013-04-18 22:18:09",
+	"files": [
+		{
+			"filename": "helcv.wad",
+			"size": 1474124,
+			"crc": 3159375328,
+			"md5": "a62642c2f48b808e9dcb1b813777ab55",
+			"sha1": "43e230764d1626972fa82d38ac41d9d6ac106e40",
+			"sha256": "c95509eee52afc03464644d6ce208e0b04d2bc4a86e82a7705fc9b1072d0b44b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "technical.wad",
+	"name": "Technical",
+	"description": "This Is My First Realeased Deathmatch wad.",
+	"date": "2014-12-15 23:12:22",
+	"files": [
+		{
+			"filename": "technical.wad",
+			"size": 143579,
+			"crc": 120774087,
+			"md5": "72eaeda6f6ab81be99a3c4606b95a1d9",
+			"sha1": "1260838f3426fee91fd38a24fb107d2fd0a4fcf5",
+			"sha256": "6aaa3db1abe94364a1978b4e822cf91c7e744ec2501077fd18c0154fe40e3755"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hob.wad",
+	"name": "Hall of Blood",
+	"description": "Welcome to the bloody castle. Throughout the level, you will wak through the halls of blood. Credit goes to Chris Balch for the Slaughterfest 2012 thread that included the textures that I used, which include sf2012-tex, cc4-tex, GOTHICTX, q1tex, and NB_RECOL, as well as for the title screen and the intermission. This level, however, does not have a pink-lemonade BFG placed in there. Music comes from level 6 from Blood Storm, a wad designed by Serekay (credit goes to him as well). I would recommend GZDoom when playing this level.",
+	"date": "2017-06-27 00:24:54",
+	"files": [
+		{
+			"filename": "hob.wad",
+			"size": 3114381,
+			"crc": 3352826563,
+			"md5": "3197224859764f31c5e5baf829b5f049",
+			"sha1": "229a0a47f44d8aafa536dbb476dfd8c8926865ad",
+			"sha256": "a64c6222501ff9eca1059ea9f6354339f207f49cc52d562f30faff6bcffe2e34"
+		}
+	]
+}

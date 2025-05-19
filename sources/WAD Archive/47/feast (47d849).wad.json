@@ -1,0 +1,17 @@
+{
+	"uid": "feast (47d849).wad",
+	"name": "A FEAST OF FRIENDS",
+	"description": "Complex deathmatch level.Lots of things to do, buttons to push,trapdoors,ambushes etc.Play it without monsters for max. enjoyment.",
+	"version": "47d849",
+	"date": "2013-11-03 17:48:47",
+	"files": [
+		{
+			"filename": "feast.wad",
+			"size": 74095,
+			"crc": 373353758,
+			"md5": "7224ce69afb7d4d6cede8ea99a8b1eb5",
+			"sha1": "47d849e9e0a09d87971931349db566d6e77be812",
+			"sha256": "d13822709350cafa68fffcdc18ac9b2515804f8baeab035a7f8c5e489a3e795d"
+		}
+	]
+}

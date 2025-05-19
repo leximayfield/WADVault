@@ -1,0 +1,16 @@
+{
+	"uid": "HEXUS.wad",
+	"name": "HEXUS.WAD",
+	"description": "HEXEN DEATHMATCH WAD. 2 TO 4 PLAYER'",
+	"date": "2014-10-14 21:22:44",
+	"files": [
+		{
+			"filename": "HEXUS.wad",
+			"size": 57589,
+			"crc": 3314935400,
+			"md5": "bb6d5d48aff355032de800daab111967",
+			"sha1": "90202a8686d51114f72b0bf7592b511656e51c96",
+			"sha256": "2c0304bb81421582b775df1a8cf03c26130992bfc01671aa519f268c5134740c"
+		}
+	]
+}

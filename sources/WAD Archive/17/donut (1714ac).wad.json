@@ -1,0 +1,17 @@
+{
+	"uid": "donut (1714ac).wad",
+	"name": "Donut Demo for Marine's Best Friend",
+	"description": "Watch the corpses ride the donuts!",
+	"version": "1714ac",
+	"date": "2018-04-14 23:55:12",
+	"files": [
+		{
+			"filename": "donut.wad",
+			"size": 14465,
+			"crc": 4114467157,
+			"md5": "827dba74972627e7b48f4f986070cf51",
+			"sha1": "1714ac72a00f3dc3c371a995741ca21c8fd630f5",
+			"sha256": "707923d4fa2368ff46f9d711ccd9308a5623b2f56995c143caec9a4bedb133e6"
+		}
+	]
+}

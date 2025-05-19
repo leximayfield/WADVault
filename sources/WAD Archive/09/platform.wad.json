@@ -1,0 +1,16 @@
+{
+	"uid": "platform.wad",
+	"name": "The platforms",
+	"description": "A 2-3 player deathmatch level. It's a bit stupid. But I'm in the practice of uploading everything I've made, good or bad.",
+	"date": "2014-12-15 23:13:40",
+	"files": [
+		{
+			"filename": "platform.wad",
+			"size": 36708,
+			"crc": 933200653,
+			"md5": "afc9a45e68852a2c267d9f7b5345e171",
+			"sha1": "0962ef5edfec17d0ba4c5f7e9e12226332c4d4e5",
+			"sha256": "35fae8d09c9186b9b8eaf8b632e1c496880a2648926689b76e3e49e54309ec29"
+		}
+	]
+}

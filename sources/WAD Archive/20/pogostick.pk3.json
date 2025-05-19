@@ -1,0 +1,16 @@
+{
+	"uid": "pogostick.pk3",
+	"name": "Pogostick",
+	"description": "A 2D/3D platform game for Doom heavily inspired by Commander Keen and other famous Apogee titles.",
+	"date": "2013-04-19 11:29:26",
+	"files": [
+		{
+			"filename": "pogostick.pk3",
+			"size": 733970,
+			"crc": 397014109,
+			"md5": "ac35df178a599087e17764c99e3248f2",
+			"sha1": "20ca4bddf23787e1a331aa5b0a6acf38c03d6e2d",
+			"sha256": "5419ec76f91c737ed9167002f6c2cbf8ded3aad16976b1f720caedd7392b99a9"
+		}
+	]
+}

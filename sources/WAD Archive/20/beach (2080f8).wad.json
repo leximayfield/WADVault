@@ -1,0 +1,17 @@
+{
+	"uid": "beach (2080f8).wad",
+	"name": "Beach Day",
+	"description": "This map is provided only for single play. This map can be played without jumps, cross and mouse look. There are 6 keys to use (for example red key and red skull - are different). Building this map, I used zdoom in doom and legacy ports for making 3d floors,water and colourmap.",
+	"version": "2080f8",
+	"date": "2014-12-21 15:10:47",
+	"files": [
+		{
+			"filename": "beach.wad",
+			"size": 3054398,
+			"crc": 3159240968,
+			"md5": "2487ed3f0cbb70b918e27be211ba40b8",
+			"sha1": "2080f8adaf95b2c0a4b5786ad98d6644d7819656",
+			"sha256": "3531f0d735893a359ad97a2cc4bbf43303f7b92964f90d5426f795db3e660343"
+		}
+	]
+}

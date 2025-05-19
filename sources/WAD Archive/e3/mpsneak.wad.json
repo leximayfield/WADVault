@@ -1,0 +1,16 @@
+{
+	"uid": "mpsneak.wad",
+	"name": "MPSNEAK",
+	"description": "A large Doom level with lotsa dudes and sneaky secrets.",
+	"date": "2015-09-14 22:07:40",
+	"files": [
+		{
+			"filename": "mpsneak.wad",
+			"size": 124116,
+			"crc": 2028922501,
+			"md5": "46ac55a51f1fe3c2150176705a2aa5ff",
+			"sha1": "e31845c4d0aeebc76d6f6387a4588e9ce32cf341",
+			"sha256": "a705d1e3a697798036ba56f1f595507f8dfa43162ae8e89cf2b4d6d0adbfa141"
+		}
+	]
+}

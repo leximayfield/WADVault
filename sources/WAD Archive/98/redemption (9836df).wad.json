@@ -1,0 +1,17 @@
+{
+	"uid": "redemption (9836df).wad",
+	"name": "Doom Redemption",
+	"description": "A 'tribute' to Doom 1. All the styles of episodes 1, 2, 3 (and even 4) squished into a 9 map episode.",
+	"version": "9836df",
+	"date": "2013-10-07 22:11:11",
+	"files": [
+		{
+			"filename": "redemption.wad",
+			"size": 5695004,
+			"crc": 217509120,
+			"md5": "8a93ddb07f27865a8ca50c9f62c5641a",
+			"sha1": "9836df3379c80266354d462e93e8011df2577dc1",
+			"sha256": "6669d5baf0d0f7f68f91effd9e9263f82c019f19b9f7047cef14570e848d38b0"
+		}
+	]
+}

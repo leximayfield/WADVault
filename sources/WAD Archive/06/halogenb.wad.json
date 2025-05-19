@@ -1,0 +1,16 @@
+{
+	"uid": "halogenb.wad",
+	"name": "Halo Gen",
+	"description": "A set of 10 maps designed for 1on1 play. Some might sustain 4 players too.",
+	"date": "2014-12-15 23:03:26",
+	"files": [
+		{
+			"filename": "halogenb.wad",
+			"size": 879246,
+			"crc": 3240156543,
+			"md5": "34cacd4dd3c877b4a7c6b2dbb4ef078f",
+			"sha1": "06a6fa4d0c3f43b63de240436bc59e9555984e28",
+			"sha256": "9934da483e070fc5832a752fab4e8122a9ca852d9eb0f8fb94b21db639656aac"
+		}
+	]
+}

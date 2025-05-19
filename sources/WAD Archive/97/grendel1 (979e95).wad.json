@@ -1,0 +1,17 @@
+{
+	"uid": "grendel1 (979e95).wad",
+	"name": "Terravia Part 1: Assault Drop",
+	"description": "This is a fairly large level, most of which is \"indoors\". It's mostly fairly conventional, but there are a few fun little twists. One planned \"scenery\" feature didn't make it in because of the DOOM! engine's >64-2S-HOM bug, but may be added after 1.5 comes out if the engine bug is fixed as promised. See the enclosed file, BRIEFING.TXT, for more details. NOTE: This WAD comes with a set of modified weapon sprites. The new sprites are simply rotated (and sometimes flipped) versions of the existing sprites for the chaingun, shotgun, rocket launcher and plasma rifle. If you wish to use these sprites, you must unzip this archive using 'pkunzip -d'. Batch files are provided to install and remove the modified sprites. Installing the new sprites looks a little odd when you kill sergeants, but was done in order to make the armory look way cool. (And it DOES make it easier to find shotguns in the compound, too....) After DOOM! 1.5 becomes available, the sprites will be inserted directly into the WAD, eliminating the need for installation with DMGRAPH.",
+	"version": "979e95",
+	"date": "2013-11-02 15:38:19",
+	"files": [
+		{
+			"filename": "grendel1.wad",
+			"size": 258741,
+			"crc": 1791769942,
+			"md5": "c351603f9d4f024b053421c408e59684",
+			"sha1": "979e95440cbb77d321e27d422d666d65999f557a",
+			"sha256": "55fc9af43e2c1c7589cd05bb17e91dd9f2a91f6277aed49d9d7254098a8689f8"
+		}
+	]
+}

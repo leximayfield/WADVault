@@ -1,0 +1,17 @@
+{
+	"uid": "tele_me (3afcc0).wad",
+	"name": "Tele_Me.WAD",
+	"description": "My first DeathMatch-Only WAD. I just jumped into DCK v 2.2 and started building it. There are several tele- porters in this level, but only 3 main rooms. It's not hard to learn where you are going and the fastest way to get there. (Meaning your buddy is dead meat quick!)",
+	"version": "3afcc0",
+	"date": "2014-12-03 20:10:02",
+	"files": [
+		{
+			"filename": "tele_me.wad",
+			"size": 56240,
+			"crc": 1069851856,
+			"md5": "481ca21b727758d61ef509e0cbe1b097",
+			"sha1": "3afcc00f537ff66f123a32803af27c097697f25c",
+			"sha256": "377fac8583ee0eee4cf427c76cb4232f07c816b0b49ad8a7cb0aeeaec930b2f0"
+		}
+	]
+}

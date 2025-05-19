@@ -1,0 +1,17 @@
+{
+	"uid": "liquid (9b1c94).wad",
+	"name": "Liquid",
+	"description": "Four Boom enhanced, Quake 2 inspired DM maps. I say Q2 inspired because of the damage sectors, although there aren't any death traps. Not a lot of convayers like in Reclimation(there are two, but they don't mess with gameplay). The maps are focused more on gameplay then looks, although I tried to make them look nice they won't slow to a crawl if you have a p90(at least I hope not).",
+	"version": "9b1c94",
+	"date": "2014-12-15 23:01:28",
+	"files": [
+		{
+			"filename": "liquid.wad",
+			"size": 1555524,
+			"crc": 1460696388,
+			"md5": "af524144af0f954cf46675b43e2f00f0",
+			"sha1": "9b1c94735fe4f2c8e57d99a14467de1085e6f0f5",
+			"sha256": "f62b246cba0ede6e762b581d1c64f3bc127f35fb37faa9da4369f0fa378aa886"
+		}
+	]
+}

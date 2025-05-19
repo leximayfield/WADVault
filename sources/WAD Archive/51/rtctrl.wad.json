@@ -1,0 +1,16 @@
+{
+	"uid": "rtctrl.wad",
+	"name": "Riot Control",
+	"description": "A set of 4 maps using Quake textures. The maps are small to medium in size, and gameplay gradually gets harder as you progress. The maps are pretty detailed and have a good amount of interesting architecture. My goal was to make small-ish maps with gameplay that wasn't going to get brutally hard. At first I wasn't expecting to do more than one or two maps with these textures, but I had enough ideas and motivation to sqeeze out a few more maps. And it turned out to be a nice enough set of maps. I'm not planning to make more maps with these textures, but I might do a sequel with Quake 2 textures in the future.",
+	"date": "2013-04-20 17:36:56",
+	"files": [
+		{
+			"filename": "rtctrl.wad",
+			"size": 3849434,
+			"crc": 2376243406,
+			"md5": "4d3495a174b229c4c027197b85b1c61b",
+			"sha1": "512dc059a2420539ecc86d43f451f432347555a7",
+			"sha256": "7286e2a205c36696ebcd725170c0ffd1bde5f218607f99ca0ca3e48a49b85b3b"
+		}
+	]
+}

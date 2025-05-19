@@ -1,0 +1,16 @@
+{
+	"uid": "DEADBEEF.wad",
+	"name": "deadbeef.wad",
+	"description": "DOOM II Deathmatch wad in a sewer setting. In fact I was going to call it sewer.wad but it was taken. There is a big open area surrounded by other rooms at various hights.",
+	"date": "2014-08-30 13:50:40",
+	"files": [
+		{
+			"filename": "DEADBEEF.wad",
+			"size": 32938,
+			"crc": 912358016,
+			"md5": "459f1bb8ed59833d3a8fe0755ef9c558",
+			"sha1": "965339324323fd00101d85785370974a2c9484d3",
+			"sha256": "c738a2d496b0be7eee5f5ec03f8169433b066a9dbc232a532b00d2dbf590b337"
+		}
+	]
+}

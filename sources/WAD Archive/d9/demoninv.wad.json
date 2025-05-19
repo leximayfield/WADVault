@@ -1,0 +1,16 @@
+{
+	"uid": "demoninv.wad",
+	"name": "The Demon Invasion",
+	"description": "The demons have invaded after an experiment gone wrong.",
+	"date": "2018-04-14 22:42:19",
+	"files": [
+		{
+			"filename": "demoninv.wad",
+			"size": 45062,
+			"crc": 3119973241,
+			"md5": "50e8941ec3e487e5b7e512917f8a6b60",
+			"sha1": "d9839596eb2c8415a32366ca10af6a2e9e24fb73",
+			"sha256": "d1c848da672a1437e2ee9efbd715d3b0544d758e0d378d6f47766ba4b86b9922"
+		}
+	]
+}

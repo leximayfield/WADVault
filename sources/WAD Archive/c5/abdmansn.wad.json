@@ -1,0 +1,16 @@
+{
+	"uid": "abdmansn.wad",
+	"name": "Abandoned Mansion",
+	"description": "Medium sized level where you explore a mansion. Made to be vanilla-compaitble.",
+	"date": "2014-12-15 22:20:55",
+	"files": [
+		{
+			"filename": "abdmansn.wad",
+			"size": 160686,
+			"crc": 2453440698,
+			"md5": "a00dfef7acd5b7283747be22c4babbe1",
+			"sha1": "c5322b848ffed94fce96a0d734a90518404951fa",
+			"sha256": "d6db7cee0906a8d10b64e31627a178db6e20c47d4927832f499011cfd1be6ff7"
+		}
+	]
+}

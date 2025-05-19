@@ -1,0 +1,17 @@
+{
+	"uid": "glad (fd41aa).wad",
+	"name": "GLADIATOR",
+	"description": "This is a built from scratch level. It was created using DoomCAD 4.3 by Matt Tagliaferri. This is my first serious attempt. I appreciate any comments or feedback (good or bad) that you may have. It's not a huge file so it should run well on most all machines. There may be a few bugs here and there, but I think you will find it interesting.",
+	"version": "fd41aa",
+	"date": "2013-11-02 15:08:17",
+	"files": [
+		{
+			"filename": "glad.wad",
+			"size": 34142,
+			"crc": 3247780392,
+			"md5": "d8a9538905a10516814eca71f8640548",
+			"sha1": "fd41aa6d64b493e8ad4208683f8a2308ad42fd02",
+			"sha256": "6a17b8dd398db4f8f2f28522ddbe6dfb90678b49b52b84b6893a81bfde1f5e97"
+		}
+	]
+}

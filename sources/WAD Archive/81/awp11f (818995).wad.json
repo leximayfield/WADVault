@@ -1,0 +1,17 @@
+{
+	"uid": "awp11f (818995).wad",
+	"name": "AWP11F.WAD (A Warm Place : Final)",
+	"description": "The original version of this PWAD (AWP11.WAD) had several bugs, and was not quite as complete as it should have been. There was an intermediate version (AWP11E.WAD) which _should_ never have been released, i don't know if it leaked out, but if you see it or have it, just delete it. This is the FINAL version (as the name says) and i will not redo this one again, even if there is some big huge bug that makes it not work on anyone else's computer. (i assure you it works fine on mine.) so, i hope you like it. i enjoyed making it, because i finished learning DEU while making this level. NOTE ; per id's request (and out of common decency) this level WILL NOT work on the shareware version..(duh..)",
+	"version": "818995",
+	"date": "2014-01-11 11:15:22",
+	"files": [
+		{
+			"filename": "awp11f.wad",
+			"size": 85191,
+			"crc": 1208515134,
+			"md5": "843672b353a615efab165da10d5211ba",
+			"sha1": "818995961a4f08451337342a091caa70e0673f1f",
+			"sha256": "27bb5bd0e8f6ebd013bd426a7852f7d6eb0d6b5b31cc9aa2421fa49cb6996cec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hotdeath (803635).wad",
+	"name": "Hotdeath! Revision 2 (12/30/94)",
+	"description": "A compilation of my five g&r wads (2,3,4,5,6). 2 player, deathmatch ONLY, no monsters! Designed for maximum carnage. These wads are not designed for those players who like to sit and wait for their opponent, they are for the hunter who enjoys the chase.",
+	"version": "803635",
+	"date": "2014-01-07 22:18:34",
+	"files": [
+		{
+			"filename": "hotdeath.wad",
+			"size": 766274,
+			"crc": 1466566032,
+			"md5": "87e78f4b6eb3c78762a47a6ab6bd0c88",
+			"sha1": "803635f2f588763322f7a49f24d9fc524e16f1e1",
+			"sha256": "2651c770d967a9745db1e8edad5f4611ec33cc1a4753bd5c813bc5bf590a199f"
+		}
+	]
+}

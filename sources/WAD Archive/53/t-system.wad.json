@@ -1,0 +1,16 @@
+{
+	"uid": "t-system.wad",
+	"name": "Systematic Corruption",
+	"description": "Originally meant for the \"#dmclub Channel Project\" that was started last year, Systematic Corruption is a medium-sized e1-themed techbase. Playing on U.V. should result in a ~300 monster count by the end of the level, while the lower difficulties are toned down a bit. However, you will probably still find somewhat of a challenge if you play on your regular skill level.",
+	"date": "2014-12-29 15:36:44",
+	"files": [
+		{
+			"filename": "t-system.wad",
+			"size": 884929,
+			"crc": 259397769,
+			"md5": "7fc3c4dd96dbb3a85453f53cb6479dfc",
+			"sha1": "5372f03fae718ce880ed0e7bfd990248c4cfd954",
+			"sha256": "0e1a0a06d9cb78b6424ead3a89aa542cb261b96b42db5a29bb4fdc55eeee2250"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "fro_pwad (2d5cfd).wad",
+	"name": "Frodo's PWAD for CSUN 1995 Tournament",
+	"description": "These two levels were designed for the CSUN DOOM2/Heretic DeathMatch Tournament.",
+	"version": "2d5cfd",
+	"date": "2013-11-03 17:47:39",
+	"files": [
+		{
+			"filename": "fro_pwad.wad",
+			"size": 71967,
+			"crc": 2900571063,
+			"md5": "e9639ecfaf574f791fdab0f81136c310",
+			"sha1": "2d5cfde14388b8e4a396bbd7a11085be727c4a7e",
+			"sha256": "581c1fdd44197364c845ba6a7dbf96ed4e5c040cfcb7817578a10f6121cf5bde"
+		}
+	]
+}

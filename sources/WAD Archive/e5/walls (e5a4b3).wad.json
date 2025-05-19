@@ -1,0 +1,17 @@
+{
+	"uid": "walls (e5a4b3).wad",
+	"name": "Walls.WAD",
+	"description": "Although difficult, this level should get a bit beyond the 14-year old idea of packing a large room with tons of ammo and tons of monsters. There are some subtleties--secret doors and teleporters galore (this whole thing supposedly started with teleporter technology gone wild). Cheat codes? They're for wimps--save your game and you'll be fine...",
+	"version": "e5a4b3",
+	"date": "2013-11-02 15:54:58",
+	"files": [
+		{
+			"filename": "walls.wad",
+			"size": 92154,
+			"crc": 3221535501,
+			"md5": "cb3f368185d8340940cdc928df1e0585",
+			"sha1": "e5a4b3992e0eb3a1f3c18d393b5c2cee6a35abec",
+			"sha256": "11a25440e577e1c1ac3526e9c224d29561ae45ee7404fd582e9609147abcea8c"
+		}
+	]
+}

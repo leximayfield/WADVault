@@ -1,0 +1,17 @@
+{
+	"uid": "dandeth1 (b27746).wad",
+	"name": "Dan Deathmatch Level #1 (Trailer Park)",
+	"description": "I was recently travelling through West Virginia and saw a neat paintball playing field consisting of a fenced-in area with several old trailers. The trailers had no doors or windows, and I immediately thought something like that would make a good Deathmatch level. So, here it is, but none of that paintball crap, here you can frag your friends with live ammo!",
+	"version": "b27746",
+	"date": "2014-12-03 20:03:30",
+	"files": [
+		{
+			"filename": "dandeth1.wad",
+			"size": 89000,
+			"crc": 4278887952,
+			"md5": "b5b7fa31943afe6e40c510dac6929ff2",
+			"sha1": "b27746f4e5f5ff729994d396cb428441fd2f140f",
+			"sha256": "238d4e04b62f47a0d56c22e4c439a127044c96ceecab47bfed89d3b257687db4"
+		}
+	]
+}

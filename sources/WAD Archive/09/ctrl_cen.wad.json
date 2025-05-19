@@ -1,0 +1,16 @@
+{
+	"uid": "ctrl_cen.wad",
+	"name": "Control Center #10",
+	"description": "This map was built using no more than 10 sectors! It was started way back during Doomworld's old 10 Sector Contest but never completed in time for the deadline. Difficulties with linedefs, engine quirks, and general impatience lead me to simply abandon it soon after, which was a shame because it was (is!) a really nice map even if I do say so myself! Fast foward almost a decade later, and I've decided to go ahead and polish this up and finish it off once and for all. I hope you enjoy the fruits of my ludicrously-delayed labor! Trust me: It's worth it! ;) Oh, but just a warning (though hopefully at this stage you shouldn't need it): Don't try to hard to 'break' the map. You know what I mean. While I'm pretty sure I've patched up most issues, this map (in its own perverse ways) is about as close as a map can come to legitimately making the Doom engine its bitch! If you try to push it too hard (and sometimes even if you don't), don't be surprised if something goes awry. Try to play honorably (and for god's sake: No keycard or clipping cheats!) and let the map design take you where you supposed to go. For your own sake... and mine! *Nervous whimper* P.S. If you noclip outside the map, you'll notice on the bottom half an inaccessible/unfinished portion. That's right! This was actually going to be even bigger still, originally! I could still finish that area, in fact, but for the sake of my sanity I decided to wrap it up where I did.",
+	"date": "2014-12-21 15:15:07",
+	"files": [
+		{
+			"filename": "ctrl_cen.wad",
+			"size": 1377840,
+			"crc": 2471552853,
+			"md5": "5bf0758ca88549ef2c024216fa92d5ea",
+			"sha1": "093ef2061929ab1d09f401066af321c6a7a93d01",
+			"sha256": "8036c12334b692ad80a56c018a3bebfbfbb48ccbd19efd6b835697706d32b093"
+		}
+	]
+}

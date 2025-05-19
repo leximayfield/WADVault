@@ -1,0 +1,16 @@
+{
+	"uid": "dmbld.wad",
+	"name": "DMBLD.WAD",
+	"description": "A cool new Doom 2 DEATHMATCH FOR TWO",
+	"date": "2013-11-02 16:07:59",
+	"files": [
+		{
+			"filename": "dmbld.wad",
+			"size": 100109,
+			"crc": 1934295364,
+			"md5": "8c8fbf8e9f76d6d8a744d09ecc84b426",
+			"sha1": "a8828f6cbf61493393d25aff163bc4affc5c0113",
+			"sha256": "69db11703cf01d19b854fda366714ce06570bd72dd175c2fc3c245b6493b871a"
+		}
+	]
+}

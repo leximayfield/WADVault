@@ -1,0 +1,16 @@
+{
+	"uid": "commando.wad",
+	"name": "Doom Commando",
+	"description": "==Map01== Infiltrate the military base overrun with all sorts of monsters then proceed to the helipad for emergency extraction.",
+	"date": "2014-12-15 22:29:08",
+	"files": [
+		{
+			"filename": "commando.wad",
+			"size": 1350721,
+			"crc": 344706100,
+			"md5": "137c8b5c7d7dfba05e0a25af69eca534",
+			"sha1": "c168c75f035daec1bdd39fedd2c17e99251edd29",
+			"sha256": "c6084bdd906ee6b5d99142442e6644a3511fa34fc4d0585823080953db18b55c"
+		}
+	]
+}

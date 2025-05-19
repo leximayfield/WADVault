@@ -1,0 +1,16 @@
+{
+	"uid": "nexus.wad",
+	"name": "Nexus",
+	"description": "Hmn, don't know what to say about this one... It's just an experiment with gameplay. I have a love for arcade shooter games (Darius, Galaga, Raiden, Gradius etc) and wanted to see what would happen if I mixed Doom with arcade style gameplay.",
+	"date": "2015-09-14 22:07:06",
+	"files": [
+		{
+			"filename": "nexus.wad",
+			"size": 664344,
+			"crc": 2866591091,
+			"md5": "d67a053adb2d7f6cf5d98e6b9a4ac8dc",
+			"sha1": "b6298145f731bd0c9e2ccb9a2e4818ee2191fa12",
+			"sha256": "6d8157ea81dc54de852a9110ef237bf0f23f7692ef311555d86e45a18d2aa934"
+		}
+	]
+}

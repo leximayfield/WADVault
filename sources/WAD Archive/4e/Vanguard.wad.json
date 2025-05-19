@@ -1,0 +1,16 @@
+{
+	"uid": "Vanguard.wad",
+	"name": "Vanguard",
+	"description": "12 Boom format levels for PrBoom+, ZDoom, or Eternity. A bonus 13th level is included for laughs. Inspired by Speed of Doom, Scythe 2, Alien Vendetta, and Plutonia.",
+	"date": "2013-04-18 23:56:18",
+	"files": [
+		{
+			"filename": "Vanguard.wad",
+			"size": 34897578,
+			"crc": 1206899408,
+			"md5": "754c8a8afda33a299534b59899ad49bf",
+			"sha1": "4e8fbd1a675c519db391e35e69fcda006aa27357",
+			"sha256": "52807ec27756d23dedc388c8c39b953797fa2da1c8339303de63141a0cebc465"
+		}
+	]
+}

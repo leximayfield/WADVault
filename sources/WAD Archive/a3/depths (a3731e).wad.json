@@ -1,0 +1,17 @@
+{
+	"uid": "depths (a3731e).wad",
+	"name": "Depths of Hell",
+	"description": "I believe this level is up to the standard of iD. It is a very smooth, enjoyable and challenging single player level.",
+	"version": "a3731e",
+	"date": "2014-12-18 22:57:06",
+	"files": [
+		{
+			"filename": "depths.wad",
+			"size": 148925,
+			"crc": 2714390342,
+			"md5": "318414ffc6e12a4f4943c3b140b7cdaf",
+			"sha1": "a3731edfb6538d0ec868c5d58a55f19398cf644c",
+			"sha256": "3659aaa875d5ea367a0826df317f73fef0917c7e3a5047183d02081cc5e2a40e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pwruped.wad",
+	"name": "Power-Uped",
+	"description": "Tired of just picking up a floating orb that just gives you what ever power it gives? Well this wad enhances the effects of picking up power-ups. You not only pick up the power-up, you feel the effects of it. This also includes some power-ups from skulltag and from realm667.com that randomly spawn in the places of the classic Doom power-ups.",
+	"date": "2014-12-11 22:19:43",
+	"files": [
+		{
+			"filename": "pwruped.wad",
+			"size": 1000859,
+			"crc": 1299948893,
+			"md5": "90afc5b2ecc946c32ec9508593112edc",
+			"sha1": "2a77791b1a5a3dd6ce636714240b25d6737e450a",
+			"sha256": "2db9794daf805878608c77ed79cb21687d5127e614956827de71c939765a51d2"
+		}
+	]
+}

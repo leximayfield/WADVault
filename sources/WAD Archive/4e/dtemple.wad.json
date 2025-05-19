@@ -1,0 +1,16 @@
+{
+	"uid": "dtemple.wad",
+	"name": "The temple of death",
+	"description": "Small map with Plutonia textures. A central open area with three main buildings. Hard gameplay.",
+	"date": "2014-12-24 17:33:26",
+	"files": [
+		{
+			"filename": "dtemple.wad",
+			"size": 1021217,
+			"crc": 3236197672,
+			"md5": "597aa3a0fef087d830201dcdf7af4b11",
+			"sha1": "4e152c5856e03d787c1c386d193ee1dc296e4ad3",
+			"sha256": "af63dac075bb62126f45f602f6031360d3c4b9e3bec330c3368c53d697e29952"
+		}
+	]
+}

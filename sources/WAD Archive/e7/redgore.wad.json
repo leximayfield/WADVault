@@ -1,0 +1,16 @@
+{
+	"uid": "redgore.wad",
+	"name": "RedGore deathmatch.",
+	"description": "A stone mine with lots of metal supports around, has lots of red things in it such as the sky the lights the walls and the floors!",
+	"date": "2014-12-15 21:36:13",
+	"files": [
+		{
+			"filename": "redgore.wad",
+			"size": 374126,
+			"crc": 3642532330,
+			"md5": "b3926f172cb882373b323772cd702890",
+			"sha1": "e707655c24b241985dfa7ec202606bca9500714d",
+			"sha256": "cada6f63e2401dc519c37f9bae642674535189f0a8d0fd9f77fcfcc5b3f12f49"
+		}
+	]
+}

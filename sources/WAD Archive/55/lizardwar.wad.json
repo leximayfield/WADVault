@@ -1,0 +1,16 @@
+{
+	"uid": "lizardwar.wad",
+	"name": "Lizardwar.WAD",
+	"description": "It's a graphics replacement for DOOM2! I replaced most monsters with my Lizards! Everything is custom made! This mod was originally for ZDOOM and DOOM LEGACY, but there had been changes to the enemy stats via DDF for EDGE, so technically this would be for EDGE...",
+	"date": "2014-12-11 22:29:05",
+	"files": [
+		{
+			"filename": "lizardwar.wad",
+			"size": 4000648,
+			"crc": 2620558554,
+			"md5": "f2c78da6600742a1196ea1ffa72eebb1",
+			"sha1": "55d7794eacf47392ac8289c727594d67368d1019",
+			"sha256": "fb1467d28867fc08e45f62e1029b71109be020428112ae8694c0f2b867aec284"
+		}
+	]
+}

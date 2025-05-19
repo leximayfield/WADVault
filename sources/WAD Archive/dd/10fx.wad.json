@@ -1,0 +1,16 @@
+{
+	"uid": "10fx.wad",
+	"name": "2 SOUND-FX WADS",
+	"description": "2 sound effects wad add-ons for DooM 2. Specifically made for my 10 PAK wad but will work with any other pwads or the regular DooM 2 levels.",
+	"date": "2018-04-14 23:54:33",
+	"files": [
+		{
+			"filename": "10fx.wad",
+			"size": 87172,
+			"crc": 2485699108,
+			"md5": "912ecdd9d8a8916d2cc548e846eab83a",
+			"sha1": "dd6beea7f767607f2525a4dc6d67ea423667813a",
+			"sha256": "b81116ca24a45fdac8d9ecff4a9a514eec0d6452fe11c91f4c33b0de7cd02fec"
+		}
+	]
+}

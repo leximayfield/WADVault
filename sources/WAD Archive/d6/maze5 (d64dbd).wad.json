@@ -1,0 +1,17 @@
+{
+	"uid": "maze5 (d64dbd).wad",
+	"name": "Invisible Maze",
+	"description": "This level is for those who think that there are no more challenges. It's a maze. But there's a catch. You can't see the walls.",
+	"version": "d64dbd",
+	"date": "2013-11-02 23:56:49",
+	"files": [
+		{
+			"filename": "maze5.wad",
+			"size": 59211,
+			"crc": 420810621,
+			"md5": "d0d78c9289123ed27c4674577bee31b4",
+			"sha1": "d64dbdc0ff4fa700f9db8a741c6ed28838db0147",
+			"sha256": "5e4e55990472c33a8ab70545103ff3ea473e69b055e96922f14d2541acc88bfd"
+		}
+	]
+}

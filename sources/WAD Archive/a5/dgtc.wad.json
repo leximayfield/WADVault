@@ -1,0 +1,16 @@
+{
+	"uid": "dgtc.wad",
+	"name": "DooMgate Training Camp",
+	"description": "This is a special wad for learning the doom special moves (wallrun,straferun, strafejump, rocketjump). Should come along with the appropriate LMPs:",
+	"date": "2014-12-18 22:37:17",
+	"files": [
+		{
+			"filename": "dgtc.wad",
+			"size": 14062,
+			"crc": 1083999071,
+			"md5": "2766099d570ff89507d4ad5a50b11a7d",
+			"sha1": "a56c83f2b3d1f482b70ec83ec153129a250dd3cc",
+			"sha256": "be5a18caa3ca0e5342920277e679c0f1eccbaf93e320cffacd283024a7b8b0c6"
+		}
+	]
+}

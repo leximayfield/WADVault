@@ -1,0 +1,17 @@
+{
+	"uid": "clerdang (a43df6).wad",
+	"name": "clerdang.wad (Clear Danger)",
+	"description": "This level is DEATHMATCH oriented with lots of weapons and health. Perfect size for non-stop fragging action! I have added a deliberate and obvious exit to this level to prevent any arguing over who had how many frags. The exit is clearly marked, so don't exit unless everyone is ready!",
+	"version": "a43df6",
+	"date": "2016-02-07 20:35:39",
+	"files": [
+		{
+			"filename": "clerdang.wad",
+			"size": 27058,
+			"crc": 863867834,
+			"md5": "17e365e2175146239dbaf06e57c970fb",
+			"sha1": "a43df6685baf77c87ed57857168ed0557aaf51f9",
+			"sha256": "a61aeea1bef3b2dba9fa5da3ce59c57d8f5fe678132e167e8a08f6ed16468009"
+		}
+	]
+}

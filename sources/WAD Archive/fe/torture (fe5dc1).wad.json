@@ -1,0 +1,17 @@
+{
+	"uid": "torture (fe5dc1).wad",
+	"name": "Torture",
+	"description": "Torture - : Destroy the beasts controlling an : underground dungeon; mutilate them as : they have been mutilating your comrades.",
+	"version": "fe5dc1",
+	"date": "2014-12-30 11:32:26",
+	"files": [
+		{
+			"filename": "torture.wad",
+			"size": 397855,
+			"crc": 1190410693,
+			"md5": "79c7900c1d43a02c15a884032843ef32",
+			"sha1": "fe5dc1c7c844b3777b86098385d1c8b133b404d4",
+			"sha256": "eabc630dc2c2d110fffe1ee7a9fbfd45d09e36b398bb6336f6e9b9e0fe1ea4e7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "agony (c7dea1).wad",
+	"name": "Ossuary of Agony",
+	"description": "\"You don't know what this place is for or why the sands of Egypt held it in secrecy for so long, you only know that this place raised out from the sands around you and has nothing but ill intentions after the skies darkened to a deep blood red. Whatever this place is, you have no choice to go through it, hopefully there is enough firepower left over from your freshly crumpled military base... You know you will need it.\" Ossuary of Agony is a replacement of MAP25 for TNT, it pits you against the forces of hell in an Egyptian styled map with somewhat heavy resistance to encounter, it was supposed to appear in NOVA 2 but I couldn't finish it in time due to lack of inspiration... Conserve your ammo, pick your shots and most of all kick some ass!",
+	"version": "c7dea1",
+	"date": "2015-12-29 15:32:35",
+	"files": [
+		{
+			"filename": "agony.wad",
+			"size": 563151,
+			"crc": 15332767,
+			"md5": "28343ec0d220e3145a055976aab79572",
+			"sha1": "c7dea1398b52afec535ee896fcd8ccf2ab51f293",
+			"sha256": "bed699e9e725ad5999ec768a5dea56bf4676fc50a20c8abe28501bcf982a894d"
+		}
+	]
+}

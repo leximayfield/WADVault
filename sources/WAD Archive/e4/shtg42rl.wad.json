@@ -1,0 +1,16 @@
+{
+	"uid": "shtg42rl.wad",
+	"name": "Shotgun for Two RELOADED",
+	"description": "10 years passed since we created SHTGUN42.WAD, and we still can't seem to get enough of it! This reloaded version intends to make things a bit fairer for the surviving player, since the original version allowed the healthy reborn player who just lost the last battle to chase the weak surviving winner down too quickly after dying, and thought that was a chicken attitude. So we added some 'health rooms' for the winner which become available right after the loser dies, so the winner can recover from the last battle before having to face the next one. The starting locations have also been improved (more shotgun shells) and textures in general look now much more realistic. Doors were fixed too, and now behave like real doors. We love this map. There's a lot of crap out there (BFG, plasma, huge levels, etc) and we always keep coming back home. Enjoy!!!",
+	"date": "2014-12-15 21:53:32",
+	"files": [
+		{
+			"filename": "shtg42rl.wad",
+			"size": 316379,
+			"crc": 4017150776,
+			"md5": "657012773a62ba3d52f4a572fb0ecebf",
+			"sha1": "e4e47cda6514de8d7a0e8fe05b51bc5867cf13a7",
+			"sha256": "25a24b629b99bbce48ff21eab3e407e5ac46bbc96fdbd83c5e61caaf0c7e49ac"
+		}
+	]
+}

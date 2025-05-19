@@ -1,0 +1,16 @@
+{
+	"uid": "flare2.wad",
+	"name": "Solar Flare",
+	"description": "DEATHMATCH ONLY! You can play single or co-op, but why bother? This level is designed for pure adrenalin pumping deathmatch action. Smaller in size, multiple exits in every room, sniper spots, secrets, and no monsters. The exit CAN be accessed by one player but it's a hell of a lot easier with 2.",
+	"date": "2013-11-06 22:44:36",
+	"files": [
+		{
+			"filename": "flare2.wad",
+			"size": 212778,
+			"crc": 425930584,
+			"md5": "d276a72bf4fbcb0924447e28ce69d4ec",
+			"sha1": "c406970b38b7298abf6a1d2c1b4fcd030bb2d84a",
+			"sha256": "8e4a697edd00337ce4de1fb6abbb1196ebeaa4219ac6461b4f57d557c4c94049"
+		}
+	]
+}

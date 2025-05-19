@@ -1,0 +1,17 @@
+{
+	"uid": "zpacman2 (5beb98).wad",
+	"name": "Pacman Doom 2",
+	"description": "You are Doomguy but you somehow got transported into Pacman's world! ---Read bottom of this file!--- 05/04/18: I'm sorry, this wad was broken in later versions of zdoom/gzdoom for like ten years. I've had a fix on my hard drive for like five.",
+	"version": "5beb98",
+	"date": "2019-03-20 02:34:59",
+	"files": [
+		{
+			"filename": "zpacman2.wad",
+			"size": 4297046,
+			"crc": 4170252192,
+			"md5": "467b2b0f73993c56cc85698eb5f85472",
+			"sha1": "5beb98a979c604354bfadbdd0ed22c86fc196bd7",
+			"sha256": "6829fd47726457ec7401254fa74e6f7a276b01f9644c6fccb6283cf8a2094ff6"
+		}
+	]
+}

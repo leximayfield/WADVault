@@ -1,0 +1,17 @@
+{
+	"uid": "2mbrown (456920).wad",
+	"name": "Too Much Brown (Build 1)",
+	"description": "Resource WAD as base for level designers",
+	"version": "456920",
+	"date": "2018-04-14 19:13:09",
+	"files": [
+		{
+			"filename": "2mbrown.wad",
+			"size": 6993494,
+			"crc": 296505397,
+			"md5": "40acdc51bab891aeb621a9127b528589",
+			"sha1": "456920f1914af0342d7910faa36ec003fb5c2091",
+			"sha256": "9fbe2e2fd3a1b16c0de1df21e3f1fb540672b2987d7b972f347b36a6ad9dccbc"
+		}
+	]
+}

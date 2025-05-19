@@ -1,0 +1,16 @@
+{
+	"uid": "1kdeaths.wad",
+	"name": "A thousand deaths (1kdeaths.zip)",
+	"description": "Being totally fed up with existing DEATHMATCH levels, I made a level which can be played frantic or with stealth. Main feature is having to choose your heavy weapon before entering the main gaming area. You'll always have the shotgun and the chain- gun, and you can choose between a rocketlauncher, a plasmarifle or a BFG. When you run out of health or ammo, you can (try to) get the berserker box in the middle. (The punch will kill instantly.) Use DOOM 1.666 with -altdeath.",
+	"date": "2013-11-02 16:40:44",
+	"files": [
+		{
+			"filename": "1kdeaths.wad",
+			"size": 114951,
+			"crc": 4079838335,
+			"md5": "22e7609c1569f8d8975c04e3f34e68a6",
+			"sha1": "69d53daefee38ab0f07454055a95a61f405aab80",
+			"sha256": "31e43b0712fd8ee5fe692303f2bdc1f4f3e305fd71129ae298db101975e544f1"
+		}
+	]
+}

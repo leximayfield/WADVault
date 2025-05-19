@@ -1,0 +1,17 @@
+{
+	"uid": "nb_wst01 (4ab36d).wad",
+	"name": "Wasted 1: Industrial Zone",
+	"description": "The first in an occassional series of small but hard levels for Boom compatible ports, although this one actually works in doom2.exe",
+	"version": "4ab36d",
+	"date": "2015-09-15 14:04:37",
+	"files": [
+		{
+			"filename": "nb_wst01.wad",
+			"size": 204711,
+			"crc": 1844224744,
+			"md5": "f3a21e921ad5b36df24bf1ec6046442a",
+			"sha1": "4ab36d394dea7ba2f7d7f6d6dfa4f6c05feef835",
+			"sha256": "9cf8893bb8ca99d73facb6a827af05711c967958ce3d7f8fa5fc06de98878a90"
+		}
+	]
+}

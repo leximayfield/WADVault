@@ -1,0 +1,16 @@
+{
+	"uid": "152min.wad",
+	"name": "152min",
+	"description": "Speedmapping attempt Solarn initiated on the Doomworld forums. The goal was to make a map in one hour. I've tried to, but ultimately it took me 2 hours and 32 minutes.",
+	"date": "2018-05-29 20:50:12",
+	"files": [
+		{
+			"filename": "152min.wad",
+			"size": 107018,
+			"crc": 3465721894,
+			"md5": "57ed76f58de1a2bd6ebe263cf32da53f",
+			"sha1": "e42924dcbee531e7d90d86391d37c1936537b8cb",
+			"sha256": "b20fdf2f60e044c9d91a6dec81d997f69d7ab14e64cc2aa4aaa29b2452d475cd"
+		}
+	]
+}

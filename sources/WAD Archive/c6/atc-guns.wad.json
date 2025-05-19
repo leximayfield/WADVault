@@ -1,0 +1,16 @@
+{
+	"uid": "atc-guns.wad",
+	"name": "Aliens-TC guns",
+	"description": "This WAD provides the 10mm assault rifle, grenade launcher and smart gun from Justin Fisher's *amazing* Aliens Total Conversion - the point being so that you can use these weapons in normal games of Doom. The assault rifle replaces the chaingun, the rocket launcher becomes a grenade launcher and the smart gun replaces the Plasma rifle. There is also a new pistol shot sound.",
+	"date": "2014-03-07 10:52:08",
+	"files": [
+		{
+			"filename": "atc-guns.wad",
+			"size": 132330,
+			"crc": 4092840597,
+			"md5": "a2606c92c4d10cdbde597ca95ad1351f",
+			"sha1": "c6d8d233a724f7c8d6f0c679550a64195c7acd72",
+			"sha256": "d2021a57b16da6ebd3e8761e8fee0749c3737634184870e6ed0f66ba11c0592a"
+		}
+	]
+}

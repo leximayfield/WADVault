@@ -1,0 +1,16 @@
+{
+	"uid": "ww-dizd.wad",
+	"name": "Doom Illustrated: ZDoom Edition",
+	"description": "Doom, Comic Book Style. This is merely a weapons mod, but the weapons are comic style, and I made sure to pick as \"cartoony\" graphics as possible (but not absurdly cartoony, ie. MS Paint). Since the unofficial ZDoom contains Decorate weapon code, I decided to port this to ZDoom with some enhancements.",
+	"date": "2014-12-11 22:11:48",
+	"files": [
+		{
+			"filename": "ww-dizd.wad",
+			"size": 3364203,
+			"crc": 864863884,
+			"md5": "5205a98307611d17e04d41445cfe32e9",
+			"sha1": "d88a79e36dc19c8397851da82d27ec697b6e83a5",
+			"sha256": "0023fa5a3a4a1e8a82f06f8328c7c75e1111c3fd490443c79dbb4702a4954ee8"
+		}
+	]
+}

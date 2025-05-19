@@ -1,0 +1,17 @@
+{
+	"uid": "ARENA (b08f5b).wad",
+	"name": "Arena of d'Sparil",
+	"description": "Single/Multiplayer level for HERETIC",
+	"version": "b08f5b",
+	"date": "2013-11-02 16:40:46",
+	"files": [
+		{
+			"filename": "ARENA.wad",
+			"size": 60313,
+			"crc": 307533672,
+			"md5": "5c8115bd7f4edaf9e1020eb5bf958b06",
+			"sha1": "b08f5beb02723d932e3d044225e0ee82ca855b4f",
+			"sha256": "80f844ecea1ac4f77f358ab60687ca48a83e97379d10647c198f02da602eea87"
+		}
+	]
+}

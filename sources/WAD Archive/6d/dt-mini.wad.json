@@ -1,0 +1,16 @@
+{
+	"uid": "dt-mini.wad",
+	"name": "Mini-Gun!",
+	"description": "Ever notice that the Shadow Warrior shotgun looks more like a chaingun? I did. And here it is. This weapon is one mean S.O.B.! Please note that I did modify the frames slightly.",
+	"date": "2014-12-10 22:46:20",
+	"files": [
+		{
+			"filename": "dt-mini.wad",
+			"size": 58120,
+			"crc": 1130779271,
+			"md5": "02b0766e91b07e011e856057d6db2d48",
+			"sha1": "6dbc44b2860e8198c3b9dacc2351e9ea9fc63995",
+			"sha256": "65ceaa0eb7f2f4c54a67e1e8d3868f1fabd689b3ff3d63e3e098da57dd071e2d"
+		}
+	]
+}

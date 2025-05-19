@@ -1,0 +1,17 @@
+{
+	"uid": "ASSENT (5b9edf).wad",
+	"name": "ASSENT.ZIP",
+	"description": "This is the first level in a new 7 level episode, assent to heaven straight oughta hell.",
+	"version": "5b9edf",
+	"date": "2013-11-02 15:50:01",
+	"files": [
+		{
+			"filename": "ASSENT.wad",
+			"size": 67166,
+			"crc": 282239868,
+			"md5": "bf569bdcf779310fed03356ce78af73c",
+			"sha1": "5b9edffc143538a741ae1cf445943c003ed6e6ef",
+			"sha256": "4d1cc862d199f8af7b183ffbc6098fd3ffa9837d173d3053f1e282cdcd37cbec"
+		}
+	]
+}

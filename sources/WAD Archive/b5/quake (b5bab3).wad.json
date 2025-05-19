@@ -1,0 +1,17 @@
+{
+	"uid": "quake (b5bab3).wad",
+	"name": "Quake",
+	"description": "This is a pretty simple level made for Doom2. The only thing about Quake is the start room resembles the picture we've all seen on the internet.",
+	"version": "b5bab3",
+	"date": "2014-10-14 20:59:15",
+	"files": [
+		{
+			"filename": "quake.wad",
+			"size": 97149,
+			"crc": 933547200,
+			"md5": "355af4a862f7afcc88875e8e493be49a",
+			"sha1": "b5bab3d8f95010f04d2f2ee5ae2e958c6f05ca1c",
+			"sha256": "dd23284eb660aa2aab29eba8df0bf809e81f89bbb4521d496fc5c2459876b65c"
+		}
+	]
+}

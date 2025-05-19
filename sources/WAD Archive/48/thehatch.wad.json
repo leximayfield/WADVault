@@ -1,0 +1,16 @@
+{
+	"uid": "thehatch.wad",
+	"name": "The Hatch",
+	"description": "This is my first completed level, but it's about 10x the size of anything I ever made :o (and has a beginning and an end :) It just kept growing until it had a finished/\"closed\" layout, so i tried to make something sensible out of it :)",
+	"date": "2014-12-29 16:13:19",
+	"files": [
+		{
+			"filename": "thehatch.wad",
+			"size": 1686174,
+			"crc": 2208993155,
+			"md5": "8e0a031664fe15d333ac1182b70ce2bd",
+			"sha1": "48dce505ac6245efe0b6b43f1a1bc04ed1a766b3",
+			"sha256": "0e560e620d2c88f8ed18ca116918feaf31d74a5da41ec1ea7b5d9aa2ddda0cf0"
+		}
+	]
+}

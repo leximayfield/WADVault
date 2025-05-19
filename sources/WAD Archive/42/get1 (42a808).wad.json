@@ -1,0 +1,17 @@
+{
+	"uid": "get1 (42a808).wad",
+	"name": "GET1.WAD - previously released as JAD.WAD (weak).",
+	"description": "Few stairs, many lifts, some doors...Secrets are the 'key' to making it outa this one... The Shores have been quite calm since you blasted your way through... But now a challenge awaits even the most experienced Marine - TAKE BACK THE SHORES!!",
+	"version": "42a808",
+	"date": "2013-11-02 15:59:47",
+	"files": [
+		{
+			"filename": "get1.wad",
+			"size": 42119,
+			"crc": 3403745556,
+			"md5": "f7bb4379d0cef832e37790cc7b3814cf",
+			"sha1": "42a8083e9870cf5a0ec4458a45cd8cf195410e53",
+			"sha256": "d9478643ceb7131d8eb3348f70d4360021f5d9a28347e335d3d770398a1edb55"
+		}
+	]
+}

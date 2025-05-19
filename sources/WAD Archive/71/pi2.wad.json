@@ -1,0 +1,16 @@
+{
+	"uid": "pi2.wad",
+	"name": "Pi2",
+	"description": "A little map in techno-style with some elements of Kobal-style.",
+	"date": "2014-12-29 09:10:51",
+	"files": [
+		{
+			"filename": "pi2.wad",
+			"size": 1949728,
+			"crc": 2878843699,
+			"md5": "06082d585994be81eba8d1a65157fdc1",
+			"sha1": "719fa604e1a7ce80f28a49892581e30a3c372c97",
+			"sha256": "3f117e534c050b188ad52abb7648bae7de1b5b2677d7a3a42c95f3a73d7682d7"
+		}
+	]
+}

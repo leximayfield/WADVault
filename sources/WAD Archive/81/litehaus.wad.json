@@ -1,0 +1,16 @@
+{
+	"uid": "litehaus.wad",
+	"name": "The Lighthouse",
+	"description": "This is my first level that is intended for public consumption. Hope you like it.",
+	"date": "2014-12-31 12:13:07",
+	"files": [
+		{
+			"filename": "litehaus.wad",
+			"size": 192423,
+			"crc": 561071518,
+			"md5": "3b2110e7bb7a704862e02180943d92cd",
+			"sha1": "813c6ab643e59570ae7106ef7145a55cbf8fc8b3",
+			"sha256": "31ffec1766bded868223615f3c635b9e500ec35b880bafcc1164a57499be06c8"
+		}
+	]
+}

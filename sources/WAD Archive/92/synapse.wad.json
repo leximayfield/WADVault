@@ -1,0 +1,16 @@
+{
+	"uid": "synapse.wad",
+	"name": "Synapse",
+	"description": "A lengthy, challenging tech map with a few tricks and traps along the way.",
+	"date": "2014-12-29 16:46:22",
+	"files": [
+		{
+			"filename": "synapse.wad",
+			"size": 511218,
+			"crc": 4224835509,
+			"md5": "847222837fa13753eaf151768e7c7f6f",
+			"sha1": "920d1ff96f49f362fa5ff559cf4f246497a9c248",
+			"sha256": "a95323d46fe9c790f0a83b87d6168ccaf74ebbb69c4a252941de8101740e03d9"
+		}
+	]
+}

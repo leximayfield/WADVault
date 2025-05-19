@@ -1,0 +1,16 @@
+{
+	"uid": "bdl.wad",
+	"name": "Best Deathmatch Level (BDL)",
+	"description": "deathmatch",
+	"date": "2014-12-15 23:07:00",
+	"files": [
+		{
+			"filename": "bdl.wad",
+			"size": 179378,
+			"crc": 1603542081,
+			"md5": "7cd1d162fa80e4eb88658bdfb4c3edd1",
+			"sha1": "c3e8b1a5d0cbf54c86a44d67c06598495c13c662",
+			"sha256": "8e472fc958ea919436faa47180f8f6e328c36bfa431854fa9b56cc5f585e45a8"
+		}
+	]
+}

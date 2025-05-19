@@ -1,0 +1,17 @@
+{
+	"uid": "dan3 (027f84).wad",
+	"name": "Dan",
+	"description": "Deathmatch only.",
+	"version": "027f84",
+	"date": "2013-11-02 15:14:01",
+	"files": [
+		{
+			"filename": "dan3.wad",
+			"size": 61541,
+			"crc": 3110891213,
+			"md5": "a2ef6ea22a2e57764c567962453734ef",
+			"sha1": "027f8414f48132ef3695d02c282567372ed6eb64",
+			"sha256": "5d2cc3f7c6056ce97311dd8b2a52a585d20665fdd3d80bfc13cfceb8a8dd38bc"
+		}
+	]
+}

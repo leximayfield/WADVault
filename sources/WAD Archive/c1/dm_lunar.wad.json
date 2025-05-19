@@ -1,0 +1,16 @@
+{
+	"uid": "dm_lunar.wad",
+	"name": "Deimos Lunar",
+	"description": "Zombies, demons and other enemies attacked a base in Deimos.",
+	"date": "2014-12-18 22:54:11",
+	"files": [
+		{
+			"filename": "dm_lunar.wad",
+			"size": 149036,
+			"crc": 3108543736,
+			"md5": "f7e3b2343dc1cce8d74b4347b0bfa942",
+			"sha1": "c17f66a828107e6461ab57c86f77b2cd16b27b4e",
+			"sha256": "85613d02e51f966606f4eff460af0cc958ad810a5475789188c04121a7ae18e7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nitrodm1 (f9ef7c).wad",
+	"name": "Odamex Nitro Deathmatch",
+	"description": "A set of maps made specifically for an Odamex Saturday Nitro session. The first of many such compilation wads.",
+	"version": "f9ef7c",
+	"date": "2014-12-15 22:20:26",
+	"files": [
+		{
+			"filename": "nitrodm1.wad",
+			"size": 2240444,
+			"crc": 1634670645,
+			"md5": "f92a443abc2ad1207c5aed5f51b824f1",
+			"sha1": "f9ef7cb5bd8340cb2e317c1ae9adafdc508558b0",
+			"sha256": "a4da51ee7f693c012947b569faf10e98892ce886284fcc5973a57ad0f084124e"
+		}
+	]
+}

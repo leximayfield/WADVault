@@ -1,0 +1,17 @@
+{
+	"uid": "vs-1 (2f877a).wad",
+	"name": "The Incredible Universe",
+	"description": "This is a custom pwad that was designed for some friends at a local Incredible Universe, but it was designed for 2 to 4 player deathmatch. There is no exit (although there is a hidden reset switch). Remember, this was designed for DeathMatching.. ther are NO monsters in this pwad.",
+	"version": "2f877a",
+	"date": "2013-11-03 17:44:48",
+	"files": [
+		{
+			"filename": "vs-1.wad",
+			"size": 210235,
+			"crc": 3435861535,
+			"md5": "9b6e1b841d09ad51eb7ef90aea3422f7",
+			"sha1": "2f877a7c3b55aad8d0aeb66606a0ca5c897ed8ed",
+			"sha256": "78aa8984527d8586e3ffda7aa4b3fcc3ed468f38c4aa0fbb777896b4f6433c83"
+		}
+	]
+}

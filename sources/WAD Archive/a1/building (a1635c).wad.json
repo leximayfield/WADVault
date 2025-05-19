@@ -1,0 +1,17 @@
+{
+	"uid": "building (a1635c).wad",
+	"name": "THE BUILDING",
+	"description": "You must infiltrate and secure the building Exelent for network deathmatch",
+	"version": "a1635c",
+	"date": "2013-11-02 16:59:16",
+	"files": [
+		{
+			"filename": "building.wad",
+			"size": 62854,
+			"crc": 2486407537,
+			"md5": "ebbf0c5d14e5e971754e337c4080d44e",
+			"sha1": "a1635c78f99f8a33725180fbc83615978d947379",
+			"sha256": "a8e39fc05121a2f4533392581d389ba33315e7fa610a76c72279c0e35a2b1169"
+		}
+	]
+}

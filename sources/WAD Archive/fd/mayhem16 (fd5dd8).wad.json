@@ -1,0 +1,17 @@
+{
+	"uid": "mayhem16 (fd5dd8).wad",
+	"name": "MAYhem 2016 (v1.2)",
+	"description": "A bunch of maps designed for a pair of gimmicks (mapslot x10 = monstercount) or (160 things) MOSTLY in a month. Map order ended up being altered for playability in survival servers\\continuous play. Uses the Quake 1 and Darkening E2 Textures. The Maplist: 01 - Xsshsss Zsss by Tarnsman 02 - Will o' the Wastes by Alfonzo & Tarnsman 03 - Steel Coffin by Angry Saint 04 - Affinity by Jimmy 05 - Vaalbara Reborn by Argent Agent 06 - Ziggurat Mayhem by Urthar 07 - Darkvault by Pinchy 08 - Lodi Eno Rebmun Si Ocin by Tarnsman 09 - Blood From a Stone by Benjogami 10 - Piston Hurricane by Pinchy 11 - Quaker Plumbing Inc. by Breezeep 12 - Kepler Communications by Argent Agent 13 - Cybercrusher by Alter 14 - Ancient Den by an_mutt 15 - Klockwerk by Paul Corfiatis 16 - Galactic Decay by A.Gamma 17 - Grievance by Dragonfly 18 - Maria by Ribbiks 19 - Seasons in the Abyss by Remmirath & Marcaek 20 - The Performance by Alfonzo 31 - In Death, is Life by Rayzik",
+	"version": "fd5dd8",
+	"date": "2018-03-28 00:14:06",
+	"files": [
+		{
+			"filename": "mayhem16.wad",
+			"size": 45087404,
+			"crc": 966734468,
+			"md5": "53791eadc3567b2486875d48a435e1bf",
+			"sha1": "fd5dd869dd28c1bc62d4b4e30ba984f25ef4489e",
+			"sha256": "18a8abdbeea68d4b3aa60982431c2d76b5105077792726eaa7af60bfac127226"
+		}
+	]
+}

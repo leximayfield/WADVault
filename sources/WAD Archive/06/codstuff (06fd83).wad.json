@@ -1,0 +1,17 @@
+{
+	"uid": "codstuff (06fd83).wad",
+	"name": "Caverns of Darkness",
+	"description": "A partial conversion for DOOM II : The story is available on the Chaos : Crew website",
+	"version": "06fd83",
+	"date": "2014-12-21 14:16:47",
+	"files": [
+		{
+			"filename": "codstuff.wad",
+			"size": 6374240,
+			"crc": 3256559712,
+			"md5": "9ef289e26cbcd8f641493e13ef5bf6ed",
+			"sha1": "06fd831b600d14cd6d47631847b281b9df57d08f",
+			"sha256": "28a68287299ea3da7edbf48b75ee40d2a59e44c52dc9305c8c1ef8e8735c5330"
+		}
+	]
+}

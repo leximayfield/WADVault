@@ -1,0 +1,16 @@
+{
+	"uid": "AGONYV.wad",
+	"name": "The Agonizing Vault",
+	"description": "This is a singleplayer map, i tried vanilla for the first time. I usually use hexen format because i like scripting, but after finishing this wad, i concluded that no scripts were needed. I had a bit of trouble with a lift though... There isn't much health in this wad, so you better be pretty good at it. This is my first time trying out difficulty settings. There really isn't a story, but you should have fun nonetheless.",
+	"date": "2014-12-15 23:12:39",
+	"files": [
+		{
+			"filename": "AGONYV.wad",
+			"size": 120489,
+			"crc": 3110478486,
+			"md5": "84d375e604465a479d8b92d16eacaa66",
+			"sha1": "c3f0d04751407ab3c706526d9c73079aa29a9fa9",
+			"sha256": "ddf6c7d382003f586bd29d6940a17217a0ee556ded739b233ee430008147af59"
+		}
+	]
+}

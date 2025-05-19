@@ -1,0 +1,16 @@
+{
+	"uid": "pres.wad",
+	"name": "Underground Presence",
+	"description": "*This wad is playable with any control scheme, but it was designed for mouselook and WASD, with no jumping or crouching* There have been reports of a demonic presence deep below the earth, killing everyone in the underground UAC facility nearby. You and your squad have been sent to investigate the presence. You will have to fight your way through the caverns, the long buried ruins, and finally the UAC facility itself to get to the heart of the presence and put an end to it.",
+	"date": "2017-06-27 00:23:01",
+	"files": [
+		{
+			"filename": "pres.wad",
+			"size": 1288998,
+			"crc": 1446657861,
+			"md5": "fa44614da5be0c56cd3ae40f1747a4db",
+			"sha1": "b06b8a1bf10bf1c36c2a2cf156ae439ef6495f3b",
+			"sha256": "3f46f684bec4c3cbe2fd1896a2271bdeaf603ab1d7cd44ea4e87f99ea4665e49"
+		}
+	]
+}

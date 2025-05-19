@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (a91ed8).wad",
+	"name": "house",
+	"description": "A big deathmatch level of a house",
+	"version": "a91ed8",
+	"date": "2014-12-15 22:43:41",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 153996,
+			"crc": 2345736061,
+			"md5": "c3b4230a1a76fc2115c13bac0a82e83c",
+			"sha1": "a91ed8d83f966588faef8afb2218979b3cd79778",
+			"sha256": "45dac93596527bba5767c9234d8d785b8db9129104e7e2897187a02e2c96638c"
+		}
+	]
+}

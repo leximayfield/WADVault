@@ -1,0 +1,17 @@
+{
+	"uid": "CROSS (fec88c).wad",
+	"name": "The Cross",
+	"description": "A large outside area with a room in the center with cross-shaped catwalks...",
+	"version": "fec88c",
+	"date": "2014-12-15 22:55:40",
+	"files": [
+		{
+			"filename": "CROSS.wad",
+			"size": 40125,
+			"crc": 664086973,
+			"md5": "714afa321bb562c9fa752a58837e3b26",
+			"sha1": "fec88c6cc43d5a1f7a3f2e13211bf7a041fb7762",
+			"sha256": "d5b20beaaf539db6f504de002f30fbfa7aa824b2dcb53760a19c76d215c74c73"
+		}
+	]
+}

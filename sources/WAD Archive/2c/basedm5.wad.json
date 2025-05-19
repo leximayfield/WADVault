@@ -1,0 +1,16 @@
+{
+	"uid": "basedm5.wad",
+	"name": "Base DM #5",
+	"description": "Base style deathmatch level. Very small size. All skill levels have been included. They follow TeamTNT's good deathmatch rules.",
+	"date": "2013-07-26 17:46:35",
+	"files": [
+		{
+			"filename": "basedm5.wad",
+			"size": 386472,
+			"crc": 433617446,
+			"md5": "a2f192961d9ea5cfbd5057ed78d02973",
+			"sha1": "2c4a7fce94ac3e7027e1d923725821f23faac113",
+			"sha256": "bfcecca2a258373eed57c0d9cffb93e9596f86b2551e09d4ac1736f0f54a2a76"
+		}
+	]
+}

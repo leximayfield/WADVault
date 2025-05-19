@@ -1,0 +1,17 @@
+{
+	"uid": "spiral (0ede06).wad",
+	"name": "Antlion - deathmatch level ( a resubmission of spiral of death because another author gave his wad the same name )",
+	"description": "An alteration of doom episode one, mission two. Rooms have been added and joined to make for an excellent deathmatch game. Friends and I have spent three hours straight on this one floor. Plenty of places to sneak up on your friends, or enemies depending on how you see it. Its O.K. to sing \"Roll out the barrel\" at the beginning of this game.",
+	"version": "0ede06",
+	"date": "2016-02-07 20:30:52",
+	"files": [
+		{
+			"filename": "spiral.wad",
+			"size": 99383,
+			"crc": 1847943476,
+			"md5": "debc18b3866876f9599b006e971650f7",
+			"sha1": "0ede060f764e4efead44a5b7444ae114d1b6080b",
+			"sha256": "de357203c111409640ad641d7a3feffe969ffc630a9c55dc145c8ba2d7e31104"
+		}
+	]
+}

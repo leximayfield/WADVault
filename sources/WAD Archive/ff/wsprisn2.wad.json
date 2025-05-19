@@ -1,0 +1,16 @@
+{
+	"uid": "wsprisn2.wad",
+	"name": "PRISON OF TERROR",
+	"description": "This is a remake of WSPRISON.WAD that works on Doom II. I have added all the new monsters, items and weapons which are available in Doom II.",
+	"date": "2015-01-14 22:53:09",
+	"files": [
+		{
+			"filename": "wsprisn2.wad",
+			"size": 316425,
+			"crc": 1134943168,
+			"md5": "edb66182e60b91fa94e440436799f94a",
+			"sha1": "ff7a841de26cbd7e898a98c5f2a5871857ada981",
+			"sha256": "ccceb771cdbbcd320d8665c240e7482f6d8514d11b5b2ed76ba4a6c728c30c24"
+		}
+	]
+}

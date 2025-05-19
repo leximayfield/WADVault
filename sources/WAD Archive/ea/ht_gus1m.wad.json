@@ -1,0 +1,16 @@
+{
+	"uid": "ht_gus1m.wad",
+	"name": "HT_GUS1M.WAD",
+	"description": "An optimized MIDI instrument mapping for Gravis Ultrasound cards with 1024K on board.",
+	"date": "2013-11-04 20:08:50",
+	"files": [
+		{
+			"filename": "ht_gus1m.wad",
+			"size": 5167,
+			"crc": 1454416455,
+			"md5": "ccdaceae41199e73e4cc266118e7edd2",
+			"sha1": "eaf479362b3032cce379e617d2c364731f5f5ef6",
+			"sha256": "4ab69c658262e6af54f8f5e0da697b2f76ff697c6b2b2bb9d8c412c063b9133f"
+		}
+	]
+}

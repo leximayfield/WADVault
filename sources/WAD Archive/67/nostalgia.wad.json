@@ -1,0 +1,16 @@
+{
+	"uid": "nostalgia.wad",
+	"name": "nostalgia",
+	"description": "My first attempt at a doom map and I created it as a tribute to the psx master levels.",
+	"date": "2015-01-13 21:20:33",
+	"files": [
+		{
+			"filename": "nostalgia.wad",
+			"size": 218910,
+			"crc": 537082912,
+			"md5": "1452ca91c87fedeebb4ab1f8625706c7",
+			"sha1": "6772bc8fbffee4b32bfe443b433d25ca1f47350e",
+			"sha256": "ebf980e3b341f85d63fcfb048a0aac44a5d3729260fbaa67d0a9673c9b6e4499"
+		}
+	]
+}

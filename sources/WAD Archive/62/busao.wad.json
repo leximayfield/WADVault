@@ -1,0 +1,16 @@
+{
+	"uid": "busao.wad",
+	"name": "Busao",
+	"description": "Player drives the bus",
+	"date": "2014-12-21 15:10:03",
+	"files": [
+		{
+			"filename": "busao.wad",
+			"size": 13536,
+			"crc": 3949172009,
+			"md5": "408c7ea50875f1adda69fb866875e00d",
+			"sha1": "622efff1335b6799c1639f17454cf8e1f3449ae3",
+			"sha256": "780bd8c88d336d1e28d14078457466983cfec309843b3941221742a07612fcb8"
+		}
+	]
+}

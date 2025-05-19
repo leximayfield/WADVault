@@ -1,0 +1,16 @@
+{
+	"uid": "nemrac.wad",
+	"name": "PALACE OF NEMRAC",
+	"description": "A Huge Level for Doom2, created back in 1998. Was my first map for Boom and now has been finally released. Was originally intended for the Doom Millennium project which was never released. The level originally didn't have as much detail, but I have given it a big facelift. In this map, you encounter every type of monster present in Doom2 and all weapons are present except for the BFG?, but who knows, it could be there?. The level is large and detailed and contains several unique sections such as a church and a Nazi building with Swastikas on the floors. Obviously the Demons are using the Nazi's for an experiment with silent teleporters. There are a few Arch Viles hanging around so be cautious. The 10 hard to find secrets come handy, many of them unmarked.",
+	"date": "2015-01-13 21:24:50",
+	"files": [
+		{
+			"filename": "nemrac.wad",
+			"size": 720437,
+			"crc": 3254079402,
+			"md5": "d1d0232d50d31d8cf2c078400fd9152e",
+			"sha1": "fb76cad3ae38fafcb2246f4bed3dce93f1ae07a1",
+			"sha256": "b9645053d2857397b0f5014da9b5acfc4b3e70a07bc2d9c844c1b10f6c351c02"
+		}
+	]
+}

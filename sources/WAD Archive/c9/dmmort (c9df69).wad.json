@@ -1,0 +1,17 @@
+{
+	"uid": "dmmort (c9df69).wad",
+	"name": "Fleur De Mort",
+	"description": "This is my first level. Created with DoomEd The Real Thing What an editor should be...",
+	"version": "c9df69",
+	"date": "2013-11-02 15:21:19",
+	"files": [
+		{
+			"filename": "dmmort.wad",
+			"size": 162336,
+			"crc": 723931716,
+			"md5": "a0e1538421c6e00683f2755743901560",
+			"sha1": "c9df69d80d670763c2eda6e11c481457f2eed2bf",
+			"sha256": "c57c7b48d084d724410c3da09c2cb3ff954b8de7c294d3d3803b53ba4fdd2b6d"
+		}
+	]
+}

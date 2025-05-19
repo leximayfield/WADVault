@@ -1,0 +1,16 @@
+{
+	"uid": "notalone.wad",
+	"name": "You're not alone (notalone.wad)",
+	"description": "Included is 2 Deathmatch levels.. The first one is small, making it more suitable for 2 players, but the second one has lots of wide open spaces, making it suitable for 4.",
+	"date": "2014-12-15 21:52:36",
+	"files": [
+		{
+			"filename": "notalone.wad",
+			"size": 244458,
+			"crc": 1505176775,
+			"md5": "a2d476c3c4f1457aa6b7c38cb336bffa",
+			"sha1": "b6ac73eee0a433313d5f34a1b62ec5485bd7e01b",
+			"sha256": "3b0b1f8115d9e36324f4908514aa440379f09d58793beea500dd94e6cbc0e3f0"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nctmblst.wad",
+	"name": "Noctambulist",
+	"description": "A set of 3 rather difficult maps designed to be played from pistol start, each one approaching said difficulty differently. What these maps have in common is Quake-influenced visual appearance, though once again, the actual themes vary from map to map. 01 is an aggravating gimmick map where I was experimenting with annoying things, so I don't expect for many to like it (thankfully, it's fairly short). Moreover, it's very different from the other two, and is also a rather misleading opener, yet for my own obscure reasons I have to insist on leaving the map order as is. 02 is notably easier than the previous one, and it's also as close as this mapset gets to \"normal\" contemporary maps, relatively fast pace and some upbeat moments throughout but overall this map's rather lenient and generous with all kinds of supplies. 03 is essentially 02 on steroids, more open-ended and free-form, yet it's also notably harsher, with several moments of slaughter-grade goodness, even though the majority of the map is still dominated by low-key \"incidental\" encounters. The secrets also contain optional battles and powerful goodies. PROTIP: I quite like using candles and various \"showy\" decorations (demon faces, altars etc.) purely for the sake of atmosphere and environmental detailing, so if you're hunting for secrets - these aren't really going to lead you anywhere, you should look for other clues. Apologies for the confusion.",
+	"date": "2017-08-17 17:41:03",
+	"files": [
+		{
+			"filename": "nctmblst.wad",
+			"size": 23375463,
+			"crc": 1647250445,
+			"md5": "8c4a40dffa5e4474a4f1d403e3b5c91f",
+			"sha1": "76b5727a679ba001d64be69bf7a59618d32186c1",
+			"sha256": "810673c7af72eeec80dc720029bfcab32e82dc5907b073f0ac09c0251240a04c"
+		}
+	]
+}

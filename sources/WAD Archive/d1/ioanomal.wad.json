@@ -1,0 +1,16 @@
+{
+	"uid": "ioanomal.wad",
+	"name": "Io Anomaly",
+	"description": "E1 styled map, my first try at this theme. Many structures will probably seem familiar, some wont. So far this map works perfectly with Vanilla DooM, but I mainly tested it with DooM Legacy (OpenGl).",
+	"date": "2013-07-09 20:24:00",
+	"files": [
+		{
+			"filename": "ioanomal.wad",
+			"size": 180432,
+			"crc": 2974951349,
+			"md5": "27ca363943cf94a3d14b093073e00057",
+			"sha1": "d1c8987b38b90062b3752dde7d289b71049ea97d",
+			"sha256": "05d024f2dd095358a5a552499b99a16869a43d15593f2b284a6f0c5a55820fdd"
+		}
+	]
+}

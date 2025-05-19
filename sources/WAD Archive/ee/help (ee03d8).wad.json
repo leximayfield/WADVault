@@ -1,0 +1,17 @@
+{
+	"uid": "help (ee03d8).wad",
+	"name": "HELP.WAD",
+	"description": "This map was originally planned to be E1M1 of my upcoming project \"Visions of Eternity\", but was taken out during the progress of the project because it did not really fit. It's a very small map running on E2M1.",
+	"version": "ee03d8",
+	"date": "2018-05-28 20:49:24",
+	"files": [
+		{
+			"filename": "help.wad",
+			"size": 51508,
+			"crc": 1393700179,
+			"md5": "442e8a93f4741cbda2364aa29140452a",
+			"sha1": "ee03d809f7c795427155ad22c2ae7e24b4163090",
+			"sha256": "8e594adba6fdda63688ac6949e1fb2200b68d6db2e1b8819bcd2d9dbae40bfd2"
+		}
+	]
+}

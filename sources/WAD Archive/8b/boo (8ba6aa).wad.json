@@ -1,0 +1,17 @@
+{
+	"uid": "boo (8ba6aa).wad",
+	"name": "boo",
+	"description": "Doom2 DM map meant specifically for duels. It's very compact & vertical, has some sound cues to track / mislead your opponent, diversity in attacks and ambushes, balanced item placement. Makes for tactical but still very intense combat. Architecture is quite vertical and centers around 2 round pits, all dressed up in q2 textures, and with moody late summer night lighting. Item placement is designed around old deathmatch with a SG, SSG, CS, CG, RL, PG, BFG, with the last 2 putting you at a slight tactical disadvantage when you get them. altdeath adds only a green armour and some health/ammo.",
+	"version": "8ba6aa",
+	"date": "2013-04-18 23:45:27",
+	"files": [
+		{
+			"filename": "boo.wad",
+			"size": 189972,
+			"crc": 2857417562,
+			"md5": "1f42a0d0d202d5361313914b3213b465",
+			"sha1": "8ba6aaecade1ff2e0d4378cf52fd304bc1373e5d",
+			"sha256": "50674479decae93b17ac4989d15b31f18a1c500e039984efbcb488203e42d581"
+		}
+	]
+}

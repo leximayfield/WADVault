@@ -1,0 +1,16 @@
+{
+	"uid": "gravity.wad",
+	"name": "Gravity",
+	"description": "Two levels for any limit removing port. PrBoom-Plus with gamma 1 or GZDoom are recommended.",
+	"date": "2014-12-18 22:18:23",
+	"files": [
+		{
+			"filename": "gravity.wad",
+			"size": 3800916,
+			"crc": 1218245690,
+			"md5": "aa49a510c84f08ba65e19dd78fe67e4d",
+			"sha1": "1007026651ba594696b875567b6bb6e87301f7af",
+			"sha256": "3b9e2976df8e6c72f36ef7adea3803cbdfe2cf2d144d406d275d5eb27d7aca18"
+		}
+	]
+}

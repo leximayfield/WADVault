@@ -1,0 +1,17 @@
+{
+	"uid": "mapset (aec0d8).wad",
+	"name": "Map set #1",
+	"description": "This is my first mapset for doom2. I have just started to learn doom builder and i know these levels isn't much to look at but i tried to make them fun and challening and i tried fixing as many bugs i could find so i hope there's none left but im not 100% sure. The maps: map 01: the lost base: A typical tech base level in the style of doom2 map01 and lightly inspired from doom1. It's supposed to be short and easy since its the first level. map 02: Halls of darkness. The second level is a little bit harder and is mostly tech base style but has an outside area and a toxic waste area to add more styles. map 03: Blood temple This one got more of a hellish theme and is much harder then map1 and 2 and also much bigger.",
+	"version": "aec0d8",
+	"date": "2015-01-13 21:34:47",
+	"files": [
+		{
+			"filename": "mapset.wad",
+			"size": 608106,
+			"crc": 2748232263,
+			"md5": "5ae36a6667aa01df8493bfbca582de56",
+			"sha1": "aec0d818f40b537e52210eae7e2421d9e95450b9",
+			"sha256": "53be5e92d02fe738067d529261486e4b3d7de43ca8b33cf07fbcc5bc06fee559"
+		}
+	]
+}

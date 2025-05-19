@@ -1,0 +1,16 @@
+{
+	"uid": "dmw.wad",
+	"name": "Deathmatch Warmup",
+	"description": "This is not a deathmatch simulator, but rather a deathmatch warmup. Many enemies that not only look like but act like players in this patch/wad. Use this when you can't find somebody or need to warm up!",
+	"date": "2014-12-12 14:09:46",
+	"files": [
+		{
+			"filename": "dmw.wad",
+			"size": 66131,
+			"crc": 1316526780,
+			"md5": "3fd0eda146fcfbf292c440381c77f903",
+			"sha1": "f56228a7306df4331ad73294cf959a504b575592",
+			"sha256": "52b352e7d240f55d44be3d799f0c5753bc8e5962952258309643e8560772e6b0"
+		}
+	]
+}

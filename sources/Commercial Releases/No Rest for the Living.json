@@ -1,0 +1,15 @@
+{
+	"$schema": "../schema.json",
+	"uid": "No Rest for the Living",
+	"name": "No Rest for the Living",
+	"description": "Expansion included with Doom II for Xbox Live Arcade",
+	"files": [
+		{
+			"filename": "NERVE.WAD",
+			"size": 3819855,
+			"crc": "ad7f9292",
+			"md5": "967d5ae23daf45196212ae1b605da3b0",
+			"sha1": "3451288383fb16e196f273d9f85d58c1fda97bf4"
+		}
+	]
+}

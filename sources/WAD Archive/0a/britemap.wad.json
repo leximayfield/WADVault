@@ -1,0 +1,16 @@
+{
+	"uid": "britemap.wad",
+	"name": "Brighter Alternate Colormap",
+	"description": "This is my attempt to tweak the colormap so dark areas don't fade away to browns and greys. For starters, it's easier to tell Knights apart from Barons now. >:)",
+	"date": "2013-04-19 01:53:47",
+	"files": [
+		{
+			"filename": "britemap.wad",
+			"size": 8732,
+			"crc": 2536425541,
+			"md5": "ca9b05413296d1b0505afd4116afdee7",
+			"sha1": "0a2d09520e9357cdbc0dea0dc59cd40252068b39",
+			"sha256": "a989ebfb13606800f37684bf38d0ea8f6f997f9a9a9430da8c7ce8c7641176a1"
+		}
+	]
+}

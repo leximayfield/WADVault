@@ -1,0 +1,16 @@
+{
+	"uid": "halfmeas.wad",
+	"name": "Half Measures",
+	"description": "A pretty harrowing affair. Be sure not to waste your ammo -- there's barely enough to go around. And if you see an Archvile coming for you when you're not ready, go ahead and flee. There may be some unexpected aid whence you came.",
+	"date": "2014-12-18 22:23:04",
+	"files": [
+		{
+			"filename": "halfmeas.wad",
+			"size": 121758,
+			"crc": 705118894,
+			"md5": "d89a969b523e77a263702fe3f6647b84",
+			"sha1": "119187531f18d19e089c7c5e88d8478285c5d37e",
+			"sha256": "25378bc0102e0123851280825294450842c28e9eb02d55eb69c59a0858915fab"
+		}
+	]
+}

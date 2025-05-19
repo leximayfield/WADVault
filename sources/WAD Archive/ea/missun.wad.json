@@ -1,0 +1,16 @@
+{
+	"uid": "missun.wad",
+	"name": "Mission Uno",
+	"description": "Pretty cool Need all 3 keys in order to complete the level All weapons included Plenty of ammo and health",
+	"date": "2015-09-15 13:53:00",
+	"files": [
+		{
+			"filename": "missun.wad",
+			"size": 175732,
+			"crc": 70068283,
+			"md5": "ce92dbd800f746c3ab302861eae4dee8",
+			"sha1": "ea394035bdd23ba85281dfcf190ab8cb7c9cef08",
+			"sha256": "cc56985ad03a774877c3c700b3d101bb85e90aa3a9686ac129f405f6edaee848"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dm_halls.wad",
+	"name": "deathmatch halls",
+	"description": "For DOOM 2 ,a deathmatch WAD, at least 9, read it and weep, ways in and out of EVERY room!",
+	"date": "2014-12-15 23:11:10",
+	"files": [
+		{
+			"filename": "dm_halls.wad",
+			"size": 33314,
+			"crc": 709651092,
+			"md5": "05386cd28af1c68d92ab4e4ff665b1f8",
+			"sha1": "b054fde15656e56bc2ebc3371c4263cd36ec7027",
+			"sha256": "67b23995ff1e0ca429182bf848d6ab6362b7da9fabf535aa309393f0b3992bd6"
+		}
+	]
+}

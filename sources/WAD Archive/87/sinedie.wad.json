@@ -1,0 +1,16 @@
+{
+	"uid": "sinedie.wad",
+	"name": "Sine Die",
+	"description": "map01: mainly rusty metal, tech; map02: clean tech base, a bit hellish; --------------------------------------------------- Your mission: Seek three mystical skulls. Use their collective power to destroy the Source of Evil. --------------------------------------------------- Notes: I recommend to play map02 from pistol start. No jumping.",
+	"date": "2014-12-29 16:45:03",
+	"files": [
+		{
+			"filename": "sinedie.wad",
+			"size": 8493417,
+			"crc": 531080708,
+			"md5": "4b0602ee664f400f2f9d3c4958471083",
+			"sha1": "87efd15f65a0e070223bbebfd85fb1e15122d421",
+			"sha256": "c071487505aaf44b264e769869c8f538313ab30e4f67b5240430f9d2c2b3aa50"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "HELL (5fca19).wad",
+	"name": "HELL.WAD - Hell on Mars!!",
+	"description": "Hell on Mars!! Isn't this good enuff ??",
+	"version": "5fca19",
+	"date": "2014-12-13 17:34:01",
+	"files": [
+		{
+			"filename": "HELL.wad",
+			"size": 182219,
+			"crc": 71563426,
+			"md5": "38d18a9efbb34b972fa115cecdf828ef",
+			"sha1": "5fca192919b4382d954cb2ede70166849babdbd7",
+			"sha256": "5ab2451a50501caf707aef4a68ff3fb027a97a49b13347a6cd4ce4e1c3ad0c05"
+		}
+	]
+}

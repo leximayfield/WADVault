@@ -1,0 +1,17 @@
+{
+	"uid": "linden1 (df7d1c).wad",
+	"name": "VineTime",
+	"description": "This is a ONE ROOM DOOM deathmatch level. You won't be guessing where anyone is: they're in the room you're in. There are lots of spots where you can remain hidden for short periods. However, I did a non-transitive layout on this level, so every ambush site can be ambushed in turn. (Watch for the famous Linden Slide-O-Death if you're killed against the wall on the upper level.)",
+	"version": "df7d1c",
+	"date": "2013-11-04 20:14:29",
+	"files": [
+		{
+			"filename": "linden1.wad",
+			"size": 18580,
+			"crc": 2407423186,
+			"md5": "3aab885b6064f873e7573eab829b8491",
+			"sha1": "df7d1c96a33183efbad40de8b70bbe9192a24b3f",
+			"sha256": "185651becadfc8a7acdc9f22b602f022da3d26e9b37e613335f5503b068f5142"
+		}
+	]
+}

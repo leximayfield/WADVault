@@ -1,0 +1,16 @@
+{
+	"uid": "clcrewv2.wad",
+	"name": "Cleanup Crew (v2)",
+	"description": "This is a test release of cleanup crew, which is a COOP based WAD for use with Zdaemon/Skulltag.",
+	"date": "2013-04-18 23:47:20",
+	"files": [
+		{
+			"filename": "clcrewv2.wad",
+			"size": 5462407,
+			"crc": 3990821737,
+			"md5": "9677f6241af2f238d53254d25be9ce35",
+			"sha1": "913880148e319e9aadd317a7c575cacd0ba1653b",
+			"sha256": "b8187d37f5ce836921afdb80a3eea3843aeb52b3cd002c50f04be9345fd036a1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "empyrion_b24a_bfg.wad",
+	"name": "Empyrion (with BFG in Coop)",
+	"description": "Nine single-player/coop maps, and three really old versions for comparison. In this version, the BFG is available in coop like in single-player, while the other version has BFG only in single-player.",
+	"date": "2013-04-19 16:49:14",
+	"files": [
+		{
+			"filename": "empyrion_b24a_bfg.wad",
+			"size": 6925688,
+			"crc": 1043734931,
+			"md5": "654543adece1760b3234ddc94dee9d0d",
+			"sha1": "a9297976fb6b42aeea982464d3daf9f42c3ef5ef",
+			"sha256": "87703f78037db283826a83bfcfd9f9826968ec9b9261b570b5c4c0f94ff07058"
+		}
+	]
+}

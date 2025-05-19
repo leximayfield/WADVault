@@ -1,0 +1,16 @@
+{
+	"uid": "pd-evil.wad",
+	"name": "The Evil Base",
+	"description": "I'm releasing the whole pd-gates series. This was an 8 level series but 3 of them are really bad, so they are not being released. In this version, the wad file had been cleaned, the size is smaller. The design of the map has not been fixed. There are lost of textures that need aligment.",
+	"date": "2014-12-13 17:52:44",
+	"files": [
+		{
+			"filename": "pd-evil.wad",
+			"size": 76415,
+			"crc": 1790525292,
+			"md5": "d5e6bdb4c5bb680398ce0cc425773acd",
+			"sha1": "0f9c2756f9e789dfd30afaea56bf459698a777b7",
+			"sha256": "9e15bb439318e5bda47013b33c929d569545449a0c643f5410ef082185ab2943"
+		}
+	]
+}

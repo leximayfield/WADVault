@@ -1,0 +1,17 @@
+{
+	"uid": "TERROR (a13b90).wad",
+	"name": "Terror",
+	"description": "New level for Doom2 with new sounds, graphics, and some modified weapons (also one *NEW* weapon). Some of the monsters have been slightly modified. Great level design.",
+	"version": "a13b90",
+	"date": "2015-01-14 22:59:27",
+	"files": [
+		{
+			"filename": "TERROR.wad",
+			"size": 738078,
+			"crc": 2726067947,
+			"md5": "6ab176551ad9eacf597e3703cf4a4043",
+			"sha1": "a13b90973024b3f8348552ed325b185fb296ef87",
+			"sha256": "d9bd37f5d19fda2564442b9c8b268d88fd2dbf298ac8e8f696ff8c82b3c94147"
+		}
+	]
+}

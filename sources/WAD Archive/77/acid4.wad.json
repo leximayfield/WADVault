@@ -1,0 +1,16 @@
+{
+	"uid": "acid4.wad",
+	"name": "Acid 4",
+	"description": "A small/med map ment for about 2-8 ppl",
+	"date": "2014-12-15 23:05:03",
+	"files": [
+		{
+			"filename": "acid4.wad",
+			"size": 214148,
+			"crc": 3342299556,
+			"md5": "02da10a140a0e1ecd4dadd4b48980a5d",
+			"sha1": "77176513b00b6a77ad051a65f7a142f2a3dbcaf2",
+			"sha256": "6c0a054d1ab989c2daa8a860a2899c54ffc86c75e6608788896f45ff6ea1456e"
+		}
+	]
+}

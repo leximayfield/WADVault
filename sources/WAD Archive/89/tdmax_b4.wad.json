@@ -1,0 +1,16 @@
+{
+	"uid": "tdmax_b4.wad",
+	"name": "TDMax",
+	"description": "This wad is a compilation of the best, in my opinion, deathmatch maps for 2v2 Team Deathmatch. I gathered all these maps and made them work within the same wad to make TDM easier. I also made the selection room (map00) to navigate through maps.",
+	"date": "2013-12-19 18:34:45",
+	"files": [
+		{
+			"filename": "tdmax_b4.wad",
+			"size": 23355772,
+			"crc": 3707707612,
+			"md5": "393d18269fe51ba7f94acd7ed75cd749",
+			"sha1": "8989ea25644cc393249c347b2400f2d77d02a663",
+			"sha256": "a9138926695af69485b365ad9dc2bc73a9064a26e01fd09d872c50316d74c2b6"
+		}
+	]
+}

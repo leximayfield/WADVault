@@ -1,0 +1,16 @@
+{
+	"uid": "kboom_3.wad",
+	"name": "kboom series",
+	"description": "This is a large open area map. If you have an older comp., it may get jerky. It will speed up after you kill off the first wave, at least it did on my 486.",
+	"date": "2015-01-05 16:19:05",
+	"files": [
+		{
+			"filename": "kboom_3.wad",
+			"size": 349973,
+			"crc": 104927929,
+			"md5": "bea81b215fe5e2012a2d5e502c68deda",
+			"sha1": "b3f29838ea95258b8038c6527640b709b0b4ca9a",
+			"sha256": "169119666e29d12f53a0f37c17909a06faf9504f0b12517da670ca2d12795f96"
+		}
+	]
+}

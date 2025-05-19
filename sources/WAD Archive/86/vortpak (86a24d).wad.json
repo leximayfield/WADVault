@@ -1,0 +1,17 @@
+{
+	"uid": "vortpak (86a24d).wad",
+	"name": "The VorTeX Deathmatch Series, Pack 1",
+	"description": "This is a DM series that I started because the only DOOM ][ levels we really played for DM were map 1, 7, and 16. I decided to make a series that contained fast paced action, and some thought into what you were going to do to stay alive. There are 5, yes FIVE, levels in this pack.",
+	"version": "86a24d",
+	"date": "2013-04-19 02:46:50",
+	"files": [
+		{
+			"filename": "vortpak.wad",
+			"size": 115718,
+			"crc": 1711478808,
+			"md5": "656f44e090a944253161362d073b2467",
+			"sha1": "86a24d3ca9823b8a742aa1277901b7ff693de88d",
+			"sha256": "fa322d2af1e3a8f562fa4650625a243368c561cc8db8957e4d6c7fccce70bdb8"
+		}
+	]
+}

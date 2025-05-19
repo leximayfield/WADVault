@@ -1,0 +1,16 @@
+{
+	"uid": "dmbox.wad",
+	"name": "dmbox.WAD",
+	"description": "This is a small level made for deatmatch. It has many secrets. One being a secret room that has doors that are opened when certain lines are crossed. (hint, hint) I would like to hear what you think of this level.",
+	"date": "2014-12-14 20:56:32",
+	"files": [
+		{
+			"filename": "dmbox.wad",
+			"size": 46680,
+			"crc": 1802975936,
+			"md5": "6b2463de46e411ef626e29eed6976c0e",
+			"sha1": "1d5a6fb4fa917980f056c1465cb5afeead86a637",
+			"sha256": "c42c99b70b7e9f515a9435c54ff68440732aa985e8b4a870ca890b96c9efdde2"
+		}
+	]
+}

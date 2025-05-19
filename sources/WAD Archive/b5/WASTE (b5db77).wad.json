@@ -1,0 +1,17 @@
+{
+	"uid": "WASTE (b5db77).wad",
+	"name": "Knee Deep in the Waste",
+	"description": "A lot of waste and bad guys",
+	"version": "b5db77",
+	"date": "2015-01-14 22:40:46",
+	"files": [
+		{
+			"filename": "WASTE.wad",
+			"size": 625845,
+			"crc": 322152595,
+			"md5": "754f0ff2324e8a81057662b2f91a9b4e",
+			"sha1": "b5db770099b4bbbae9df32a7441b0651794a7f1f",
+			"sha256": "d6f9c68b9455f189b47a5e5e2cce07b3b59f683f937d480937683b78d5c65555"
+		}
+	]
+}

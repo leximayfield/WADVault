@@ -1,0 +1,17 @@
+{
+	"uid": "sandman (95af38).wad",
+	"name": "Sandmans Dungeon",
+	"description": "A great deathmatch WAD for DOOM2",
+	"version": "95af38",
+	"date": "2014-12-15 21:42:28",
+	"files": [
+		{
+			"filename": "sandman.wad",
+			"size": 260372,
+			"crc": 246595637,
+			"md5": "bce81beb82e2d6273871fa918b0f5a84",
+			"sha1": "95af3857ee01ece8912d4920609fff1172509620",
+			"sha256": "b598a5975c894950955237235aeb542ef1f607e420ec79f1610f558639cd6467"
+		}
+	]
+}

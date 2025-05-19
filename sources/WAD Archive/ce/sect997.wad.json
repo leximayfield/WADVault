@@ -1,0 +1,16 @@
+{
+	"uid": "sect997.wad",
+	"name": "Sector 997",
+	"description": "A small little zDoom map using mostly Doom 3 textures.",
+	"date": "2014-12-29 17:18:31",
+	"files": [
+		{
+			"filename": "sect997.wad",
+			"size": 1665784,
+			"crc": 568224742,
+			"md5": "33a63e20a3d8489c93e28940f404255a",
+			"sha1": "ce3d3ab6a849a333c1d0d2c2978779e7b9837867",
+			"sha256": "105d524721644eea0d375031487d604906db86aa4e1f692d96a3f88628d2dc0c"
+		}
+	]
+}

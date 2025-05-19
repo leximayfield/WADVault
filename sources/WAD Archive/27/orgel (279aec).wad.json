@@ -1,0 +1,17 @@
+{
+	"uid": "orgel (279aec).wad",
+	"name": "Orgel",
+	"description": "A real funny little map with a lot of excitement.",
+	"version": "279aec",
+	"date": "2014-12-13 12:52:30",
+	"files": [
+		{
+			"filename": "orgel.wad",
+			"size": 27631,
+			"crc": 1745053698,
+			"md5": "5c6189e5b975532a1bc8072089ea6f50",
+			"sha1": "279aece4793892ddb0ec274e32e340291b65002f",
+			"sha256": "1654b152b83d3489cf9c78b9dba74fc86013f9da9a631880e75be3292d2d46fc"
+		}
+	]
+}

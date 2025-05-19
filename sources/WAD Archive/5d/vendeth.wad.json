@@ -1,0 +1,16 @@
+{
+	"uid": "vendeth.wad",
+	"name": "HELL INDEED!!!",
+	"description": "This is a DOOM II-mostly deathmatch wad. It is a medium sized wad with nothing much too it in terms of secrets. Should be easy to adapt to for skilled doomers. The hardest thing to figure out is probably the teleporters. Special note: Map 1 has a semi-hidden exit. Good luck.",
+	"date": "2014-01-07 22:05:08",
+	"files": [
+		{
+			"filename": "vendeth.wad",
+			"size": 658202,
+			"crc": 1080794868,
+			"md5": "e0810ebf2e15b812eb3f76224e67e520",
+			"sha1": "5d58f9373556ad6bd462a65ad3cb46090dd769aa",
+			"sha256": "cbf5bf9a4400f816b6a2de91dd1231db94612c9d14442fc986613961278daa00"
+		}
+	]
+}

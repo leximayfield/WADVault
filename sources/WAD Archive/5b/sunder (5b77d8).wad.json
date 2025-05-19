@@ -1,0 +1,17 @@
+{
+	"uid": "sunder (5b77d8).wad",
+	"name": "Sunder.wad",
+	"description": "Sunder is a set of extremely difficult maps that should work in any limit-removing port. I'd always wondered why it was almost impossible to find 'slaughter' maps that looked nice. It always seemed to me that authors either made good looking WADs, or really hard WADs, and that finding maps which combined the two was always very difficult. So, I decided to go and make my own 'dream' map set. I hope you enjoy them!",
+	"version": "5b77d8",
+	"date": "2013-04-19 00:35:08",
+	"files": [
+		{
+			"filename": "sunder.wad",
+			"size": 29868268,
+			"crc": 3908546437,
+			"md5": "441b22376dd190240586518bd19fa23e",
+			"sha1": "5b77d85d8290a7290153496206001917b981b3a1",
+			"sha256": "b8de9d12ff0424de6c483c7bca89669148703cd4d3ea9f28018ca913e4c31f31"
+		}
+	]
+}

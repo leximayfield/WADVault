@@ -1,0 +1,17 @@
+{
+	"uid": "fragfest (fafa10).wad",
+	"name": "FRAG FEST",
+	"description": "GREAT DEATHMATCH WAD",
+	"version": "fafa10",
+	"date": "2013-11-06 22:34:59",
+	"files": [
+		{
+			"filename": "fragfest.wad",
+			"size": 212041,
+			"crc": 2762152522,
+			"md5": "1125789cc8348ff0ebd2f0c0ba1a140a",
+			"sha1": "fafa10b9d48ef019c4c290bc60dcb024d688222a",
+			"sha256": "b069697a0a5fdc5cd18bfa7f71367b5494de19eb1ff8a9b493e96ae63d1f6073"
+		}
+	]
+}

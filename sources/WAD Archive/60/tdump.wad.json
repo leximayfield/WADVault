@@ -1,0 +1,16 @@
+{
+	"uid": "tdump.wad",
+	"name": "Toxic Dump",
+	"description": "youre a UAC worker on the toxic dumps station on Mars. You were",
+	"date": "2014-12-29 16:17:00",
+	"files": [
+		{
+			"filename": "tdump.wad",
+			"size": 82105,
+			"crc": 1767066448,
+			"md5": "831855ed5852b87fc3a9b84c21795bfb",
+			"sha1": "601320add4591e7700845122ae041b79737db956",
+			"sha256": "46f34ccade4a88b36472b5a628351358f465c105432710ea7ba5a95c9cf348e5"
+		}
+	]
+}

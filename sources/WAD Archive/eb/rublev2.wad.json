@@ -1,0 +1,16 @@
+{
+	"uid": "rublev2.wad",
+	"name": "Rublev2",
+	"description": "A little puzzle, small map, restarts may be needed",
+	"date": "2014-12-29 09:00:37",
+	"files": [
+		{
+			"filename": "rublev2.wad",
+			"size": 201061,
+			"crc": 3023374630,
+			"md5": "20a131a68ecce4d47d280a7c51bbf4c9",
+			"sha1": "eb5829f84b22aa6fc48bf9ebdf67b6b3b9f090d8",
+			"sha256": "7dd35db9611092de6bb69d37b13e1c53bb03a1b7266bf7dee8f838225882fa24"
+		}
+	]
+}

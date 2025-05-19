@@ -1,0 +1,17 @@
+{
+	"uid": "weenie (050937).wad",
+	"name": "Weenie",
+	"description": "Small wad, new sounds",
+	"version": "050937",
+	"date": "2014-01-07 21:58:15",
+	"files": [
+		{
+			"filename": "weenie.wad",
+			"size": 93774,
+			"crc": 1492241673,
+			"md5": "7126f05c55696323d01846e6969339bc",
+			"sha1": "050937b38fc910ae365530476e5e3812001d852f",
+			"sha256": "0ce7afa1c67789cddef6b4c19017d4f89be524426d39989eb8824326edc28d86"
+		}
+	]
+}

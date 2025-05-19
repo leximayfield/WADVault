@@ -1,0 +1,17 @@
+{
+	"uid": "cemetary (4d0cba).wad",
+	"name": "Cemetary.wad (116,409 KB)",
+	"description": "This wad is ment for single play, but you can play it on networks as a multiple player game or a deathmatch.",
+	"version": "4d0cba",
+	"date": "2013-11-02 16:38:58",
+	"files": [
+		{
+			"filename": "cemetary.wad",
+			"size": 116409,
+			"crc": 829208274,
+			"md5": "6d1e8d5dfee0cec8e1811b0d0b4e522b",
+			"sha1": "4d0cbaaad07ce70e5ece1ddc31f6e8dfbf1eeabe",
+			"sha256": "f474b383186701c64984ad0329f77ec6b76bbeea8e17feae76d2849080151519"
+		}
+	]
+}

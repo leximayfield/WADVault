@@ -1,0 +1,17 @@
+{
+	"uid": "KILL (ab2613).wad",
+	"name": "Killing Zone",
+	"description": "Speed might be a proble. Should be OK on 486/33 SX or DX with 8 MB RAM, and a zippy video card. For single play only because I still beleive most people play with themselves???? and there isn't really 2 fair starting points, altho' you may disagree. Quite a large level with lots to kill and a few puzzles to solve. I played it a couple of times so I know it can be done. I'm not going to tell you to be careful and save the game often etc etc, cos you'll play it your own way anyhow.",
+	"version": "ab2613",
+	"date": "2013-11-02 15:21:46",
+	"files": [
+		{
+			"filename": "KILL.wad",
+			"size": 130670,
+			"crc": 1799586646,
+			"md5": "a2412d8b31d46323475c8ff7b2456a82",
+			"sha1": "ab2613bed25928ea1bbcb79e4cbdf8bf14714b3f",
+			"sha256": "0311593071372a3c8251fd9a4ee436dfa1de69737e7d382055f85c1b4f652ce7"
+		}
+	]
+}

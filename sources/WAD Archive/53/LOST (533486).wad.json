@@ -1,0 +1,17 @@
+{
+	"uid": "LOST (533486).wad",
+	"name": "2 lost levels",
+	"description": "2 old levels I build in 1994. I thought I had lost them but last week I discovered them on an old backup CD. Be warned though: These are not particularly good levels!",
+	"version": "533486",
+	"date": "2014-12-14 21:04:05",
+	"files": [
+		{
+			"filename": "LOST.wad",
+			"size": 245573,
+			"crc": 235236000,
+			"md5": "9ba16dc82147712a36d22cb5c5d6d26c",
+			"sha1": "53348642aad46a42a13bcd9fd943936eeb830025",
+			"sha256": "5cfc8a5bd911aebeb27ea46c77f68423468f9a63654b60ae43d49c295523481e"
+		}
+	]
+}

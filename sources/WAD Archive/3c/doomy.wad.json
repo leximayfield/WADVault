@@ -1,0 +1,16 @@
+{
+	"uid": "doomy.wad",
+	"name": "Doomy: Ringo's Pillsbury Adventure",
+	"description": "Did you ever dream of being Ringo Starr or of murdering the pillsbury doughboy? Me too! Now you can live out both of those fantasies with doomy. pillsbury doughboys replace hell knights, barons of hell, and cyberdemons. Picture of Ringo replace the guy's head at the bottom of the screen. Also included 3 crappy levels for your enjoyment! Just put everything in your doom2 directory and type: dmyinst and then: doomy",
+	"date": "2014-12-18 23:22:29",
+	"files": [
+		{
+			"filename": "doomy.wad",
+			"size": 1292316,
+			"crc": 2252015904,
+			"md5": "a91d3a0a6f6ebf0e9c1b110d3547eb81",
+			"sha1": "3c14347d848544f5d69b64886a1dd885c434c9f9",
+			"sha256": "11ba8aa061c309140dca2cfe7b90b6a2a1daeec6a480974e5a49077552b9b514"
+		}
+	]
+}

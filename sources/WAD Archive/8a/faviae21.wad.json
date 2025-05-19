@@ -1,0 +1,16 @@
+{
+	"uid": "faviae21.wad",
+	"name": "Favillesco Alpha Episode 2: Desecration on Thebe",
+	"description": "Another alpha episode for the favillesco series this one is set on Thebe, another moon of Jupiter and runs on E3. This one uses the same texture resources as Amalthea's Apostasy except for a different sky. Several flats are repeated because 2 different alpha doom versions were employed as the source of the pack used, I didn't want to clean that up because I didn't want to have problems with the patches and the textures so I renamed all the textures while keeping the patches names the same and because some patches are the same graphic but have different name the extensive work just to save 2 mb would be annoying. As usual, you will find emphasis on the layouts. Intrincate levels, curvy sectors but with harmonious shapes, non linearity and the interconnectiveness of levels to be feel as a whole are among the main goals and it goes the same with the nostalgia feeling, apealing of doom1 like structures and the alpha texturing as a special feature.",
+	"date": "2015-09-15 17:09:40",
+	"files": [
+		{
+			"filename": "faviae21.wad",
+			"size": 7712637,
+			"crc": 304952483,
+			"md5": "ae705f0c731ee6f8d8f5fc0747115cc8",
+			"sha1": "8a49345d53762d21e3725e50efa9b69c8631ad3d",
+			"sha256": "95bb2223add34f4f7af83f9f1f9d54e88e377d3b35bed1cc4f7bccf3a920a5a3"
+		}
+	]
+}

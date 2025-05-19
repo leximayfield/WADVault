@@ -1,0 +1,17 @@
+{
+	"uid": "round (5f7a29).wad",
+	"name": "Chicken Little's Big Adventure",
+	"description": "This file is a medium Heretic Deathmatch level suited for 2-4 players. All weapons are present. No monsters, designed purely for banging the hell out of each other in a variety of ways.",
+	"version": "5f7a29",
+	"date": "2013-11-02 16:40:10",
+	"files": [
+		{
+			"filename": "round.wad",
+			"size": 57367,
+			"crc": 1546103400,
+			"md5": "2760dd77653be94d0f8aa492736949ab",
+			"sha1": "5f7a294ac012eceb2e7583e18b722dfaf7e23607",
+			"sha256": "75abbf2181055b39225bc42ef60cd2f80c37384b1c10f7bd721b1571065c39ac"
+		}
+	]
+}

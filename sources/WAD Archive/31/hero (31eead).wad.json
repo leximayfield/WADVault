@@ -1,0 +1,17 @@
+{
+	"uid": "hero (31eead).wad",
+	"name": "LOCAL HERO for DOOM II",
+	"description": "A bite-sized level for DOOM II. This is a small, basic, city style level for all of those doomers who are looking for a quick fix! Designed this level for single play, but kept multiplay in mind. I hope there is something here for everyone. Let me know what you think!",
+	"version": "31eead",
+	"date": "2014-12-18 22:23:43",
+	"files": [
+		{
+			"filename": "hero.wad",
+			"size": 361431,
+			"crc": 1121124510,
+			"md5": "ae01dc7105e197a60480b773c166bf66",
+			"sha1": "31eead7c0beaa5fb1eb61adb413a93298290e568",
+			"sha256": "7068a9ca2f978f82f6207b130276346c61d3855745cbe63ed60b1e065eb342fd"
+		}
+	]
+}

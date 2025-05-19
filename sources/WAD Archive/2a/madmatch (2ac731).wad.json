@@ -1,0 +1,17 @@
+{
+	"uid": "madmatch (2ac731).wad",
+	"name": "MadMatch.wad",
+	"description": "A level created for",
+	"version": "2ac731",
+	"date": "2016-02-06 13:53:39",
+	"files": [
+		{
+			"filename": "madmatch.wad",
+			"size": 121727,
+			"crc": 4186302378,
+			"md5": "a748b1d56a0d756407c892a0891cb545",
+			"sha1": "2ac731475f9e671aeffb7b2c14c7c011184e0dba",
+			"sha256": "06585d66699ad2208fdeb5453f1d7fbe0b636a9b9bed9fd3a63c3f05bcaee0f9"
+		}
+	]
+}

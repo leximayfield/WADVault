@@ -1,0 +1,17 @@
+{
+	"uid": "destruct (9280fc).wad",
+	"name": "Destruction of the World",
+	"description": "Save the world by flipping the switch at the bottom of a 900 foot safety shelter. If you do not do it in time, the World will blow up! Many of the invaders from Mars will try to stop you as you make your attempt to do this impossible mission! (By the way, this wad kicks ass!)",
+	"version": "9280fc",
+	"date": "2016-02-07 20:37:19",
+	"files": [
+		{
+			"filename": "destruct.wad",
+			"size": 135203,
+			"crc": 528857342,
+			"md5": "f70fce579eb47211a257982f7f130094",
+			"sha1": "9280fc5dff63ef15a869764df9f87d0780770298",
+			"sha256": "f4bf699bdc384610ee9b2bf2a85e575143fe951019b294eb6c3c5762be0ba7c6"
+		}
+	]
+}

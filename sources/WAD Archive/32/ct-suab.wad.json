@@ -1,0 +1,16 @@
+{
+	"uid": "ct-suab.wad",
+	"name": "Shut up and Bleed",
+	"description": "Gameplay modification that makes the game harder and more like a survival horror, managing ammo and overall making it far more stressful.",
+	"date": "2014-12-11 22:27:00",
+	"files": [
+		{
+			"filename": "ct-suab.wad",
+			"size": 48526113,
+			"crc": 2421533497,
+			"md5": "f8edee716738d0fdd2e1459a12c834a8",
+			"sha1": "32e4299a280b10bf2b1bcd8068c003da3615092c",
+			"sha256": "aa44470bd14639bb51fe8e9c3099bfeba902c831215c6784c98f4e39521843ff"
+		}
+	]
+}

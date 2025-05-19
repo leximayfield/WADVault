@@ -1,0 +1,16 @@
+{
+	"uid": "mc95.wad",
+	"name": "MCmicrocomputer 1995",
+	"description": "A deathmatch-only level for DOOM II, designed to be played by 3 or 4 players under the \"new\" deathmatch 2.0 rules (-altdeath). There is no exit switch: the level is to be played on a fixed time base as enforced by the \"timer #\" command. Suggested time is 15 minutes. A large central arena is surrounded by a \"ring\" of small corridors and several rooms, some of which have windows on the arena. All of the weapons are present but the BFG9000 which IMHO is not very useful in deathmatch games. There are no monsters, barrels or special things like invisibility, megasphere etc. Only three bonuses are present: blue armour, megasphere and backpack, and the player has to risk if he wants to get them. There are also several teleporters which allow the player to quickly move around the level. Some nice tricks are played with lights: the presence of a light in certain critical positions is a warning of the presence of a player nearby. Also, pay attention to sounds! The level is well balanced and very tactical, allowing for a fast and tight game. Lot of fun and lot of frags!",
+	"date": "2014-12-15 23:08:24",
+	"files": [
+		{
+			"filename": "mc95.wad",
+			"size": 98147,
+			"crc": 1118455002,
+			"md5": "955df134cfe0103961112b35739eccdb",
+			"sha1": "1671c731f77f8edfd6c1277b3f0a3d301c0d55e8",
+			"sha256": "d241b040609c370bff35cb6c3bac990c3613ad3582999f95ef4b80450ae1855e"
+		}
+	]
+}

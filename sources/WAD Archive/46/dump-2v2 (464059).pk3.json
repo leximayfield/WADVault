@@ -1,0 +1,17 @@
+{
+	"uid": "dump-2v2 (464059).pk3",
+	"name": "DUMP Episode 2: Dump Harder",
+	"description": "For 2016, I really want to better my mapping abilities and put out some good stuff. Two friends, Mystical and Gardevoir, said that a good experiment might be to try speedmapping. Just get the shit out of the mind and into the editor, stream-of-consciousness work. 4-6 hours, Zandro compatibility, vanilla monsters/weapons. DUMP 1 began and it was a success, bringing a whole bunch of me and my friends into ZDoom mapping and just churning things out. Then another friend, AD_79, suggested I open it up to the public. I did, and the response was overwhelming. An unfathomable amount of people signed up for this, and we ended up with a grand total of 68 maps. A hub map, 64 normal maps, a secret map, a final map, and a Marathon map (of all things). As before, we now present to you a small hub leading to a handful of different maps. Beat X amount of maps to unlock the exit, with X being a variable depending on the difficulty level (ITYTD only requires a handful of maps, Nightmare requires EVERY SINGLE MAP), and defeat the final boss to win. Gameplay mods should be supported, though there's been trouble in Zandronum so it may be better to use them in ZDoom/GZDoom. Pistol start is enforced, and monsters are vanilla (except for the Final Boss). As before, the primary purpose of this project is to have a way for all of the newbies to try and push over that initial hump together, to MAKE something. It's the usual pile of quality you'll expect from a gigawad of MyFirstZDoomMap.wad, but it was fun to band together to make shit. Again, as before, please feel free to point out any issues, troubles, errors, imbalances, and etc about the maps. Don't feel the need to sugarcoat, give it to us straight--none of us are pro-tier mappers. We can't improve if we don't know what's wrong.",
+	"version": "464059",
+	"date": "2016-06-01 21:39:27",
+	"files": [
+		{
+			"filename": "dump-2v2.pk3",
+			"size": 75120061,
+			"crc": 2434145128,
+			"md5": "f1077d521dc016607382f36303d7c35a",
+			"sha1": "464059fb6dbd4f1130266db4158cfe8ed05b5ffb",
+			"sha256": "25d7fb5adff083c34c2bb9a720988f5358b882517e7ae531ef8de5719e1ae62d"
+		}
+	]
+}

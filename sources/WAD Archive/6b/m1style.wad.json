@@ -1,0 +1,16 @@
+{
+	"uid": "m1style.wad",
+	"name": "MAP01-Style",
+	"description": "This is a map I created inspired by Doom 2's MAP01. I came up with the idea for a MAP01-type level way last year when the MAP01 slot for Freedoom was open, and I figured that it'd be a simple level to do. However, my little brother decided to free up some hard drive space so he could download more games, and in the process deleted my Doom2 directory AND my MP3 directory. Thus, I lost all of the work I had done on it, and gave up in despair. This summer, however, I've spent a lot of time mapping, mainly for Freedoom, and needing to take a break from that, I started a couple of other side projects, and this is one of them. I decided I would resurrect my MAP01-style map, and make it even better than my old one.",
+	"date": "2015-09-14 23:00:21",
+	"files": [
+		{
+			"filename": "m1style.wad",
+			"size": 132168,
+			"crc": 2895297073,
+			"md5": "f658b4969799bf71a50d5dcb560ca200",
+			"sha1": "6b602c7ed417f3edb56d3f146c2c929165c38565",
+			"sha256": "903f50438b9a820b4724adc0c1e4e8b29d9b272f4f64bfa07b76f472994b8ee5"
+		}
+	]
+}

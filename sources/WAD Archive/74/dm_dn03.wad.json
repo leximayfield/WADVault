@@ -1,0 +1,16 @@
+{
+	"uid": "dm_dn03.wad",
+	"name": "Last Blood (dm_dn03.wad)",
+	"description": "This deathmatch level is so named because it's most likely going to be the last level I make. As you expect this is another exceptionally fair map but due to design and layout lots of strategy and quick thinking will be needed to survive.",
+	"date": "2014-12-15 21:35:04",
+	"files": [
+		{
+			"filename": "dm_dn03.wad",
+			"size": 351368,
+			"crc": 120601593,
+			"md5": "210931cb58dcd3f987b1dc866a4d4b5d",
+			"sha1": "74ce89b032bda00095434eaac1d1f6dc6068e495",
+			"sha256": "144d2821af6947b4afe6a094404c162da7c754285c3e03a7fb19b1cd9fda3ae7"
+		}
+	]
+}

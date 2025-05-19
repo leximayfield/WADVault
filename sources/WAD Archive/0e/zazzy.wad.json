@@ -1,0 +1,16 @@
+{
+	"uid": "zazzy.wad",
+	"name": "Title",
+	"description": "This WAD is pretty basic. There's neat guns and enemies, support for all three styles of play, etc. The textures are aligned for the most part, and it has been tested for deathmatch and difficulty. Fortunately, for those of you who care, it is NOT a newbie WAD. A newbie WAD is one that is filled with huge enemies, tons of items, and a bunch of textures that are uncommon. They look stupid and are dumb to play. This is a REAL WAD and you can actually play it!",
+	"date": "2015-01-14 23:00:40",
+	"files": [
+		{
+			"filename": "zazzy.wad",
+			"size": 75692,
+			"crc": 514022675,
+			"md5": "51bca894cb41edf8ffddbf1a9fb77a78",
+			"sha1": "0eb28a320d353274a928e1844c97337c1328ddd0",
+			"sha256": "b348d37536d364b8142b5cd2abe9300136f746464faf2e5e1f52f7a5abe5ca99"
+		}
+	]
+}

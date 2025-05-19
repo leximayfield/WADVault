@@ -1,0 +1,17 @@
+{
+	"uid": "noblock (42a433).wad",
+	"name": "NoBlock v1.1",
+	"description": "Players can walk through other players, monsters, and decorations. Useful for multiplayer modes like cooperative and team oriented game modes.",
+	"version": "42a433",
+	"date": "2015-09-15 17:23:33",
+	"files": [
+		{
+			"filename": "noblock.wad",
+			"size": 320,
+			"crc": 2989795720,
+			"md5": "2566e28848880995aac6ef90ddf47e8c",
+			"sha1": "42a433340eee03fe59a5fc8e32b44f91d2a21796",
+			"sha256": "40c59fe641fd2ce8bd9ebbf9904095a1388e62b99f8102ee488ea0182f2d6c79"
+		}
+	]
+}

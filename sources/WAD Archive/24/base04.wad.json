@@ -1,0 +1,16 @@
+{
+	"uid": "base04.wad",
+	"name": "Breeding chambers",
+	"description": "You've entered a small structure. : Looking around you see some ammo, a shotgun, and : a switch. May as well find out what it does. : You think to yourself as the floor starts lowering, : \"Must be an elevator to an underground base.\"",
+	"date": "2013-11-03 17:48:49",
+	"files": [
+		{
+			"filename": "base04.wad",
+			"size": 19233,
+			"crc": 3231802466,
+			"md5": "0ad26aae0b99daead15b1697bc0880aa",
+			"sha1": "24249f27af21a55ce067d4ad8bf7ba04cac7f150",
+			"sha256": "fe82e8be3eccf27ecbb73a2a5b6402f9410df754652d606f0d86fad398d28a58"
+		}
+	]
+}

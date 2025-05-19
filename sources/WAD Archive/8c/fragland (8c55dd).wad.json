@@ -1,0 +1,17 @@
+{
+	"uid": "fragland (8c55dd).wad",
+	"name": "DeathWorld II: Fragland",
+	"description": "Another highly addictive deathmatch level :>",
+	"version": "8c55dd",
+	"date": "2014-12-15 22:49:15",
+	"files": [
+		{
+			"filename": "fragland.wad",
+			"size": 172719,
+			"crc": 2642145612,
+			"md5": "6c326ff7c6e2a40c4f37f5e321824cf5",
+			"sha1": "8c55dd8a790fddc3a51fe1e085a98d0524db906d",
+			"sha256": "211f4348f1c41e5f0b7214bf6b50ee88962fda2018b50ed35066acc91206b40e"
+		}
+	]
+}

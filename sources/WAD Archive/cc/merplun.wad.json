@@ -1,0 +1,16 @@
+{
+	"uid": "merplun.wad",
+	"name": "Meretricious Plunge",
+	"description": "One new level with a hellish theme, similar to bits of Episode2 and Episode3. This was originally supposed to be a contribution for DarkHaven's megawad project which was codenamed X-DOOM... Sadly, that project died, despite the fact that my map for it got finished. So I've decided to release it now as a separate add-on, cause otherwise I would've felt like I wasted too many productive hours for absolutely nothing.",
+	"date": "2014-12-14 20:35:27",
+	"files": [
+		{
+			"filename": "merplun.wad",
+			"size": 528568,
+			"crc": 1790705164,
+			"md5": "20c9f6c801c5cb2f4df22005748cd10f",
+			"sha1": "cc6fd761245bb5ea5962b9389f2110253d0a6055",
+			"sha256": "19155aee355dc399a9db85bab4706bdb7f026e5c0dcace8299e425563f622196"
+		}
+	]
+}

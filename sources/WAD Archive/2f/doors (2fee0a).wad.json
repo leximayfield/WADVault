@@ -1,0 +1,17 @@
+{
+	"uid": "doors (2fee0a).wad",
+	"name": "Doors of Dispair!",
+	"description": "Crazy level for DOOM II already.",
+	"version": "2fee0a",
+	"date": "2014-12-18 22:48:05",
+	"files": [
+		{
+			"filename": "doors.wad",
+			"size": 153579,
+			"crc": 3259022415,
+			"md5": "58af2db67d7c203c5bc583de804b965e",
+			"sha1": "2fee0af90a3274553c5663b1de59ee767cd03bd7",
+			"sha256": "47ff590bae8954a59546b7b9521f14c97659211832b2af4e369b250485c455da"
+		}
+	]
+}

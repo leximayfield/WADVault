@@ -1,0 +1,16 @@
+{
+	"uid": "reversi.wad",
+	"name": "Reversi",
+	"description": "A silly map inspired by Tricks and Traps. Worked on this on and off for months.",
+	"date": "2014-12-29 08:55:48",
+	"files": [
+		{
+			"filename": "reversi.wad",
+			"size": 328666,
+			"crc": 292845795,
+			"md5": "ad60bdab574a1224183bbcdfa258a9b5",
+			"sha1": "e1f9a6d82f693109f005acdd1c4645197e02f527",
+			"sha256": "13cadd6742f2f6fc0bf272f4a43e30d5e52fa435aa5c4374f7b583a4ac9be01c"
+		}
+	]
+}

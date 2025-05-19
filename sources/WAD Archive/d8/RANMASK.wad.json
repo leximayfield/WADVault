@@ -1,0 +1,16 @@
+{
+	"uid": "RANMASK.wad",
+	"name": "Ranma Skins",
+	"description": "Ranma 1/2 character skins using graphics from the SNES video game.",
+	"date": "2015-12-09 23:40:52",
+	"files": [
+		{
+			"filename": "RANMASK.wad",
+			"size": 5430668,
+			"crc": 1907123922,
+			"md5": "2fe83565bd149781c7cb94124b14d0c9",
+			"sha1": "d8bb2b918a9d84a160dfb9760422613548c151b8",
+			"sha256": "040a091615df57006a70e0a288786aa6b01de124a82e31c16ada2d98f49f7689"
+		}
+	]
+}

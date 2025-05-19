@@ -1,0 +1,17 @@
+{
+	"uid": "THE_HIVE (d02e80).wad",
+	"name": "The Hive",
+	"description": "A large arena type setting that should test the strategy and shooting skills of even the most experienced doomhead. I'm considering adding a modified version for Deathmatch so E-mail me at PIRATE4687@aol.com with your feedback.",
+	"version": "d02e80",
+	"date": "2014-01-07 22:01:32",
+	"files": [
+		{
+			"filename": "THE_HIVE.wad",
+			"size": 12692,
+			"crc": 2446032577,
+			"md5": "860a0e002f162233c742e3024f2e54df",
+			"sha1": "d02e8089be0771c584b0fdd71ca8dd5c22cdbc2b",
+			"sha256": "c3cd72f53575f84d58e5aca1328210fd3d6d5615945d583e94723053d9debfb8"
+		}
+	]
+}

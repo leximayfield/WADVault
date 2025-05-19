@@ -1,0 +1,16 @@
+{
+	"uid": "tom19.wad",
+	"name": "Time Of Maps - Part 1",
+	"description": "TOM is a boom compatible wad that uses only doom2 format line actions (except some boom light transfers) and sector effects. -complevel 9 in PrBoom-Plus is required for some rising stairs and \"floor lower to 8 above highest floor\" behaviour. Some maps don't work properly in ZDoom.",
+	"date": "2013-04-19 04:16:46",
+	"files": [
+		{
+			"filename": "tom19.wad",
+			"size": 13534938,
+			"crc": 1799599855,
+			"md5": "fec7fb7a4ef597751a8c53c4d0ad3040",
+			"sha1": "da53af6d5f4cf2069cef81786ca406b1f92e4ef6",
+			"sha256": "691736403a62095b7298b72def17cf1802834215906f945953bd6c564861c78f"
+		}
+	]
+}

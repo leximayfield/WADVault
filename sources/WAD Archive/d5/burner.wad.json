@@ -1,0 +1,16 @@
+{
+	"uid": "burner.wad",
+	"name": "Incinerator",
+	"description": "A fairly easy wadfile but has some well hidden secrets",
+	"date": "2014-12-13 17:49:29",
+	"files": [
+		{
+			"filename": "burner.wad",
+			"size": 58134,
+			"crc": 2204125997,
+			"md5": "af9688f5a3f94202fc70fc56e4d1c5e2",
+			"sha1": "d5d8bfbb771044b713e05eade0650af6f7cc1c8f",
+			"sha256": "644b0db53ed6ad247ae3520590efbf65079a47129605004862596237ab3e25db"
+		}
+	]
+}

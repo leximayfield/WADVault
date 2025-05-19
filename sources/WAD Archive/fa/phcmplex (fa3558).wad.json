@@ -1,0 +1,17 @@
+{
+	"uid": "phcmplex (fa3558).wad",
+	"name": "Phobos Complex",
+	"description": "Phobos Complex is a huge tech base level. You are going from one lab to another. Expect the in-game time to be ~5 hours. Have fun. Demo can be found at: https://www.youtube.com/watch?v=nMEOJ2pJWws",
+	"version": "fa3558",
+	"date": "2019-11-28 02:05:17",
+	"files": [
+		{
+			"filename": "phcmplex.wad",
+			"size": 25617390,
+			"crc": 2509014802,
+			"md5": "79d0f6c03cc46d5d4e6009d971c2e9f1",
+			"sha1": "fa355885b3407d7ef741ced49c4a7bb29dcd61f3",
+			"sha256": "a20267c52c7099c93d1ec288aae3778257a87262e27faa58633e2d30d94a545d"
+		}
+	]
+}

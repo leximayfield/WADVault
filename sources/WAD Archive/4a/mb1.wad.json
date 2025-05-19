@@ -1,0 +1,16 @@
+{
+	"uid": "mb1.wad",
+	"name": "Mars Base: 1 (Unfinished)",
+	"description": "This was going to be my intro to the DTNC world. However, my time is increasing being devoted to writing so I have decided to release this as it is in the hopes that someone will finish it. All the scripts are in the wad under the Scripts lumps as well as the dehacked patch. If you get stuck playing, see below. Feel free to use this as a base or learning tool. I am doing things in this, nobody has done before (like in game scripted sequences and random monsters). I at least I haven't see them them. :) You'll need to get The Return resource wad from TeamTNT, as per their request. See enclosed text file.",
+	"date": "2015-09-14 23:12:10",
+	"files": [
+		{
+			"filename": "mb1.wad",
+			"size": 880381,
+			"crc": 3874124323,
+			"md5": "199eb457149a2af624dbfa9a9f8dca3c",
+			"sha1": "4acdb2bff144aa934047a4198fc4b808e5b5f8e8",
+			"sha256": "d8361417f43e80822a8685ff1fa6111734c43a3592040a7ddc5e3b19acfaab6e"
+		}
+	]
+}

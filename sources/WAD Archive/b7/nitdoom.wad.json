@@ -1,0 +1,16 @@
+{
+	"uid": "nitdoom.wad",
+	"name": "Nitro's Doom (Slight Update)",
+	"description": "This is the final version of my first Doom WAD. It's nothing too good but I hope you'll like it. For older versions, look in the file folder \"oldversions\". 7/13/2012 Update: This is a slightly updated version of the WAD. A MAPINFO lump is added to display the map names in automap mode. No pdated maping was done.",
+	"date": "2015-01-13 21:29:48",
+	"files": [
+		{
+			"filename": "nitdoom.wad",
+			"size": 1293206,
+			"crc": 1936388353,
+			"md5": "327d77c605bde545bc2e5adbd2918efa",
+			"sha1": "b7afecb65235265d975e0eb66ef27078114885c8",
+			"sha256": "290f37dcf7524d7251206ba858740241e03852cc564fe06faec799d8fea91eae"
+		}
+	]
+}

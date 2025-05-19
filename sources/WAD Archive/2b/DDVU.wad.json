@@ -1,0 +1,16 @@
+{
+	"uid": "DDVU.wad",
+	"name": "Deimos Deja Vu",
+	"description": "Updated version, now fully vanilla compatible. Some major and minor changes in most levels, most noticeable in E2M2. First released 7/10/10, DDVU is a nine-level replacement for Ultimate Doom's episode two. This wad set aims to keep the spirit and style of the old Shores of Hell similar, while keeping things fresh with new places, ideas and increased difficulty. Coop and deathmatch are supported with spawns and multiplayer weapons, but DM is untested. If you encounter any bugs or wish to send me feedback directly, feel free to send me an email or a PM via Doomworld.",
+	"date": "2014-12-14 21:09:18",
+	"files": [
+		{
+			"filename": "DDVU.wad",
+			"size": 1454020,
+			"crc": 2726631587,
+			"md5": "bd59a36d03736c367d4e282afbde65de",
+			"sha1": "2b99f2a66e8d54b00c5130b4bcda2e1a2f025aa6",
+			"sha256": "a2195b71d9afa2b9a42565c31b1aa1c0282bebc9eafb67b7e36275b46667fd12"
+		}
+	]
+}

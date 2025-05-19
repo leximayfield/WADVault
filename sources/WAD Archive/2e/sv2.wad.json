@@ -1,0 +1,16 @@
+{
+	"uid": "sv2.wad",
+	"name": "Screamer V2",
+	"description": "Just a screamer map. Planning on using my scripts for my other wads. Other can use the scripts too :)",
+	"date": "2014-12-29 15:28:13",
+	"files": [
+		{
+			"filename": "sv2.wad",
+			"size": 876817,
+			"crc": 1605925409,
+			"md5": "294b9b669068e13d4e92500cf94d7146",
+			"sha1": "2eebcbc373e9f6d753ee5975440a0429512f5640",
+			"sha256": "5d4577f7b2e6c1505711e0e63c8ec1b71e158653e9d9bf8035126d4431ea210f"
+		}
+	]
+}

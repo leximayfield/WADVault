@@ -1,0 +1,17 @@
+{
+	"uid": "nuts (402249).wad",
+	"name": "NUTS",
+	"description": "Once upon a time in a galaxy far, far away...",
+	"version": "402249",
+	"date": "2013-04-21 21:01:47",
+	"files": [
+		{
+			"filename": "nuts.wad",
+			"size": 180788,
+			"crc": 2635436630,
+			"md5": "6498ed1ee210783ca8ceeea5728a7e82",
+			"sha1": "402249de43e0a26903d07f0452e577b425ecf589",
+			"sha256": "5eaf5bc1f0187b76a29787f46925737c6d1bdd565c0b409b66a4110f51226f60"
+		}
+	]
+}

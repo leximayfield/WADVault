@@ -1,0 +1,16 @@
+{
+	"uid": "blue02.wad",
+	"name": "The Iron Cross",
+	"description": "This is a small intense deathmatch level. It contains all of the weapons but the BFG, little health, and no armor.",
+	"date": "2014-12-15 22:19:50",
+	"files": [
+		{
+			"filename": "blue02.wad",
+			"size": 17776,
+			"crc": 4050326906,
+			"md5": "d4f0d0bb4edf3a80a5ca6a1b7ae02f2f",
+			"sha1": "608dfd53e41ab4d3c2925c47d8aa39183ff055da",
+			"sha256": "bbf06b95ba8b3406a3746abcb3b8151398e95ac817fe0d1323e98eb9e3dc04ee"
+		}
+	]
+}

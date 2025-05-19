@@ -1,0 +1,16 @@
+{
+	"uid": "prj666.wad",
+	"name": "Project666",
+	"description": "This is the first 2 levels of this project, this is just a demo",
+	"date": "2015-01-14 22:52:18",
+	"files": [
+		{
+			"filename": "prj666.wad",
+			"size": 1300060,
+			"crc": 4123471596,
+			"md5": "a1844df62e2f00e1c8a988dda13952ff",
+			"sha1": "63aa4201378379d3cf73416bcfdf747b0f641a1a",
+			"sha256": "88ca1ae32fc5e8d999364f34534662d7f62787d1a1b62394ced351c8065742d2"
+		}
+	]
+}

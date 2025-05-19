@@ -1,0 +1,16 @@
+{
+	"uid": "fortdamn.wad",
+	"name": "Fortress of the Damned",
+	"description": "Dirty great big castle.",
+	"date": "2014-12-18 22:21:13",
+	"files": [
+		{
+			"filename": "fortdamn.wad",
+			"size": 457592,
+			"crc": 3502826122,
+			"md5": "de260f78d66a807da964a950de0cdffb",
+			"sha1": "60bd01f5a51ba8d4f12e5df272e88de7a8216de2",
+			"sha256": "4d1b4c79b9f4deaab0f2a3d8dc3f354f2f82c4e5e20fb18a0e0c0cda54a14769"
+		}
+	]
+}

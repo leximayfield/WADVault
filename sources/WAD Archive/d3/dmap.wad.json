@@ -1,0 +1,16 @@
+{
+	"uid": "dmap.wad",
+	"name": "Doom Map",
+	"description": "Mimics Level 2 on Doom and Doom2. Meant to be a beginning of a series. Deathmatch/ netgames only stuff is included.",
+	"date": "2014-12-18 22:38:09",
+	"files": [
+		{
+			"filename": "dmap.wad",
+			"size": 126067,
+			"crc": 1177889476,
+			"md5": "b47bc07d77f49ef3759116908a4371ee",
+			"sha1": "d3321f856519afcb2c6b3740268a135647ffb41e",
+			"sha256": "d13a9323c1926eff60c5c270d83acc0ee51146f2f6b1e2603521b57141bddcd8"
+		}
+	]
+}

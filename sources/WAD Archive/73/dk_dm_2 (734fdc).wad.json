@@ -1,0 +1,17 @@
+{
+	"uid": "dk_dm_2 (734fdc).wad",
+	"name": "Doomkid's Deathmatch 2!",
+	"description": "Hello again fellow Doomers. Here I have 15 more deathmatch maps for you all to enjoy, as usual! I think people who are familiar with my deathmatch stuff will find these to be above my previous par - I spent more time than usual working on tactical layouts and clean visuals, while keeping the maps fairly simple/accessable to any player of any skill level. Some of these are remakes of older maps of mine, but revamped for a deathmatch. If you're familiar with them you'll have an advantage when you play online. Each map is full of secrets so wall humping anything that may look out of place is always a good idea. Map10 has a -ton- of secret areas and walls that can be walked through, and the layout of the map changes a lot if all the switches are found, turning it from a tactical map with hiding spots into a totally level playing feild. I hope you all enjoy these, I had a lot of fun making them and testing them with other doomers!",
+	"version": "734fdc",
+	"date": "2014-03-30 12:49:42",
+	"files": [
+		{
+			"filename": "dk_dm_2.wad",
+			"size": 2579898,
+			"crc": 1075743975,
+			"md5": "162ff04664e4c3f0888a586f1f5ab8ec",
+			"sha1": "734fdc7b7149702a11e78ab59e51f1a9d87a82a7",
+			"sha256": "5564969398a374a781b268b9e7895ad3c6fa5e6267982d43f078bd21f3e0e12a"
+		}
+	]
+}

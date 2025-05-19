@@ -1,0 +1,16 @@
+{
+	"uid": "kuchitsu.wad",
+	"name": "kuchitsu",
+	"description": "6 easy (for me anyway) levels intended to be played on UV from pistol start without saves. I didn't consider continuous playing while making this wad. The general theme is green/brown bricks and nature with some city and tech elements.",
+	"date": "2013-09-09 01:19:38",
+	"files": [
+		{
+			"filename": "kuchitsu.wad",
+			"size": 1929326,
+			"crc": 2285083144,
+			"md5": "05f5f4fe8fdd3e8aab16253939a88964",
+			"sha1": "783b4a6bbeb449822df1f8d93c01d817ba7a90b0",
+			"sha256": "0ff16bdd159ff3660bb1ba88763fdd6d6c75e77ca08d8cd978e378866f9207a9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "taawts (f47afe).wad",
+	"name": "TAAWTS.WAD (Things Aren't Always What They Seem)",
+	"description": "2 levels, plenty of ammo & power-ups (You'll need em), many puzzles, lots of new tricks, not for the squeamish. Designed for two players but OK with one or three. Simple hints - TAAWTS and - Have you hugged your CYBER today",
+	"version": "f47afe",
+	"date": "2013-11-02 15:24:23",
+	"files": [
+		{
+			"filename": "taawts.wad",
+			"size": 323709,
+			"crc": 1177815930,
+			"md5": "7d38f78e59c649d6f41774f79596887b",
+			"sha1": "f47afe89e5211f6c26b14bfbd70724132fded66e",
+			"sha256": "79bfe75aa3cc6b869ea4328e1982139e9ff9833e1ba08b71776311a7d8b83166"
+		}
+	]
+}

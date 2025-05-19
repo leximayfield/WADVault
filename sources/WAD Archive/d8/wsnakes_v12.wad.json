@@ -1,0 +1,16 @@
+{
+	"uid": "wsnakes_v12.wad",
+	"name": "Snakes",
+	"description": "a snake game, where red, blue, green and yellow snakes compete for points. Eating fruits will gain points to your snake. You loose a point, each time your snake dies.",
+	"date": "2013-04-19 02:19:16",
+	"files": [
+		{
+			"filename": "wsnakes_v12.wad",
+			"size": 1339735,
+			"crc": 2394602086,
+			"md5": "1bee6f2aeee32c136700c4d0ff59b1fe",
+			"sha1": "d876ca66ee82bc968143b3631d53eee3e74bfef2",
+			"sha256": "ac92e68270e000aab9e0e867d35d0dbf53cbee3048568ce17a749cb392a53cab"
+		}
+	]
+}

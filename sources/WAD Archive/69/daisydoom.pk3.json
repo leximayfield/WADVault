@@ -1,0 +1,16 @@
+{
+	"uid": "daisydoom.pk3",
+	"name": "DaisyDOOM",
+	"description": "Replaces Doomguy with cyborg Daisy in The Ultimate Doom. Features new cutscene text, Daisy status bar portraits and sound effects, bunny-appropriate health pickups, and more.",
+	"date": "2019-08-23 11:38:07",
+	"files": [
+		{
+			"filename": "daisydoom.pk3",
+			"size": 245261,
+			"crc": 2435469122,
+			"md5": "0d1649f8cfe7e694777095963780024c",
+			"sha1": "69df9cef774b7004244e203fa9455980906226db",
+			"sha256": "99a1be19e1cc5dcc983865dd71eced3c5f0cacb8fd39c1e6d18fa1465cbb66e2"
+		}
+	]
+}

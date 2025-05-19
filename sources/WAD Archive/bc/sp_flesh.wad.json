@@ -1,0 +1,16 @@
+{
+	"uid": "sp_flesh.wad",
+	"name": "Fleshy Demise",
+	"description": "This is a map I made after I was visited in a dream by the Doom gods. They bestowed upon me mapping skills beyond that of any mere mortal. Mr. Reggins is the Doom god's name, in case you're wondering.",
+	"date": "2014-12-29 15:18:44",
+	"files": [
+		{
+			"filename": "sp_flesh.wad",
+			"size": 251902,
+			"crc": 1420887421,
+			"md5": "4c9350d16c9377ce1c162cf6371f9caf",
+			"sha1": "bcb1b769aa3fb6a648c86ce0b9b88da9e020e9c8",
+			"sha256": "2a02808b0795e25d5aeaca56bbd44b266b2c445b9ade3f3ef2b88829439548d2"
+		}
+	]
+}

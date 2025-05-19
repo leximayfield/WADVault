@@ -1,0 +1,16 @@
+{
+	"uid": "bhl.wad",
+	"name": "Bonehead Land",
+	"description": "Bonehead Land is a level that consists of mostly revenants, just like Revenant Battlefield. You are launching your rockets into them so that you can have way to the switch. Demo can be found at: https://www.youtube.com/watch?v=BtAzCSf5cg8",
+	"date": "2019-03-06 22:02:12",
+	"files": [
+		{
+			"filename": "bhl.wad",
+			"size": 1426870,
+			"crc": 3643289171,
+			"md5": "7674716bfe6962b8f208313769ec7147",
+			"sha1": "851255e0061b66d18e46c25605136df71e78be28",
+			"sha256": "b64355983693d92588aa77db8bf2e6f59b61a87345085d9d382a718663a6e852"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "b_lagoon.wad",
+	"name": "Blue Lagoon",
+	"description": "First level for Doom II",
+	"date": "2014-12-15 21:42:18",
+	"files": [
+		{
+			"filename": "b_lagoon.wad",
+			"size": 192118,
+			"crc": 3163146442,
+			"md5": "7ad1d9bb7e90c76b5cdcf4fc64d47f60",
+			"sha1": "53f69947a09fb1a9ef7337597d117c2a77bed619",
+			"sha256": "da85005fc441e37fbfa64fdb35f5116ecd5d808665014742928daa706a9246e1"
+		}
+	]
+}

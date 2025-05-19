@@ -1,0 +1,17 @@
+{
+	"uid": "doom (df8ffe).wad",
+	"name": "DOOM Alpha v0.3 (aka \"DOOM Pre-Alpha\")",
+	"description": "This is the long-rumored v0.3 alpha, built by id Software on February 28, 1993, almost one month later than the v0.2 tech demo and 2 months earlier than the much further progressed v0.4. Notable features include several maps in their earliest known forms and a fully functional on-screen automap. Though apparently never released to id's alpha testers, this build was sent to several industry professionals for comment and review, whereby it has been successfully preserved. It much more fully displays the DOOM engine in its earliest state than the tech demo, with an internal architecture significantly different and less advanced than later builds. Crashes will be common, especially when walking over two-sided lines. The README file promises a more proper release to follow in two weeks, but such a release is not presently known to exist.",
+	"version": "df8ffe",
+	"date": "2015-08-05 14:15:12",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 1901322,
+			"crc": 4185908849,
+			"md5": "dae9b1eea1a8e090fdfa5707187f4a43",
+			"sha1": "df8ffe821a212d130ae48cf2c23721bd0ee6543b",
+			"sha256": "65d1435f37ace42fc46740e7e26a9ae2c3c2a1e14a23490f495570761eef856c"
+		}
+	]
+}

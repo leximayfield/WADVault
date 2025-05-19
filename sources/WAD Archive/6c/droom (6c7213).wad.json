@@ -1,0 +1,17 @@
+{
+	"uid": "droom (6c7213).wad",
+	"name": "Darkest Room",
+	"description": "Boom compatible (cl9) single level for Doom 2. Tech-bases installed into black, gray and green caverns. This map is designed to be difficult (harder then my previous maps). I suggest to start on HMP and, eventually, give UV a try when you know well the map.",
+	"version": "6c7213",
+	"date": "2019-07-16 17:43:30",
+	"files": [
+		{
+			"filename": "droom.wad",
+			"size": 2350614,
+			"crc": 1012950194,
+			"md5": "0624cc04c2008b93905a0dd29ed532ff",
+			"sha1": "6c72139724c795e24e9d737d3ef6d053075e6000",
+			"sha256": "81037078b7ced32d36d4964478395da3b583bb0d52dae20320fbbdef2e6ee766"
+		}
+	]
+}

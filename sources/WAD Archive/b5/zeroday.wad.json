@@ -1,0 +1,16 @@
+{
+	"uid": "zeroday.wad",
+	"name": "Zero Day",
+	"description": "*Zero Day includes an original soundtrack. If you'd like the optimised mp3 version with realistic instruments, check out zerodaymp3.zip, which should be in the same place that you located this file.",
+	"date": "2014-12-29 15:41:59",
+	"files": [
+		{
+			"filename": "zeroday.wad",
+			"size": 4740520,
+			"crc": 3431481381,
+			"md5": "1fea3bf83664aac7801eece7ed54a461",
+			"sha1": "b56fffa09389826551bed1d4efb65b3a7cec54cc",
+			"sha256": "41601c8f85c93b269c2628819e4d956b0405dde0a6435234020bf01d914bf381"
+		}
+	]
+}

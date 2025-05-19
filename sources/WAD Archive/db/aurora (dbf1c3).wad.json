@@ -1,0 +1,17 @@
+{
+	"uid": "aurora (dbf1c3).wad",
+	"name": "Aurora Pack",
+	"description": "This is a pack of action packed maps, 8 in total. You cross the seas, you go around the city, to save your country. This is also a 8 player map, so it goes well for a small time killer with your friends!",
+	"version": "dbf1c3",
+	"date": "2015-09-15 19:31:37",
+	"files": [
+		{
+			"filename": "aurora.wad",
+			"size": 18469859,
+			"crc": 2797859809,
+			"md5": "3697e81eb3b7ff850b9aa4e4e88fb39b",
+			"sha1": "dbf1c3ba2599047d75c2f132bc044394864bb743",
+			"sha256": "5dc401b15848026a7145c1565e8f03a809f2583dd1283168a1a076b9f2131573"
+		}
+	]
+}

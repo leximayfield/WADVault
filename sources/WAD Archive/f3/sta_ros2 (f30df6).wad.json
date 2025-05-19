@@ -1,0 +1,17 @@
+{
+	"uid": "sta_ros2 (f30df6).wad",
+	"name": "Santa Rosa 8 ASSAULT  * New level for",
+	"description": "I hope you didn't loaded my first Santa Rosa WAD; it was a shame. I have worked during the last weeks to give you the improved version I promissed you. And if you were disapointed with the first one (I\u00b4m sure you were), try this one and you will inmediately note the GREAT DIFFERENCE. First, I have to say that not all the things in this WADs were done by me, so I have to give credits to the following persons: *Steve McCrea, Simon Wall, & Elias Papavassilopoulos (sm@eng.cam.ac.uk) for some textures borrowed from TRINITY.WAD *Norman Scott/Tim Scott (norman.scott@flatland.com / tscott@plains.nodak.edu) for the sprites borrowed from their R2wolf.zip *Olivier Montanuy ( montanuy@dmi.ens.fr ) for the great pine borrowed from SWGFX4.zip * The creators of Wolfenstein * The creators of Doom * The creators of WinTex * The creators of Deu2 * The creators of Doom Cad * Bill Neisius for his audio and graphic editors for both Doom and Wolfenstein Now, here comes the description of what I have done: In the Santa Rosa 8 WAD, you can know by yourself how is my house here in Metepec, Mexico. I put any single detail of my house in this new Level including those archs in my garage (I hope you like them). I even added and changed some textures sprites to give my WAD the real appearence of my house. I changed some sprites such as the Medikit, the Compumap, the trees and the columns. And for some nostalgic remembrance, I placed some of the stuff from Wolfstein3D. You won't be disapointed with the new sounds I added. I recorded them from a popular Video Game of an earth worm in a powerful suit.In addition to all this, I improved the level, repairing all those stupid bugs and adding more and better distributed enemies and weapons, more locked doors, better shaded zones, a new city sky, improved textures and more. I have to warn you that before you play this WADs, you have to run INSTALL.BAT, to complete the sprites and flats. Just copy the files (including deusf.exe) to your DOOM ][ directory and run Install. Y AQUI VA ALGO PARA TODOS LOS DOOM ADICTOS DE MEXICO: ! QUE DE POCA MADRE ESTA EL NIVEL QUE HICE! ! Y QUE VIVA MEXICO CABRONES! A final word: DOOM ][ is an hiper-very-excelent game: don't copy it illegally.",
+	"version": "f30df6",
+	"date": "2015-01-14 23:09:30",
+	"files": [
+		{
+			"filename": "sta_ros2.wad",
+			"size": 394468,
+			"crc": 1323009537,
+			"md5": "4e70c6c0bc6aceb171f8498dee4fff80",
+			"sha1": "f30df67db27d425745742139a9c99dcd0c5a9803",
+			"sha256": "228844f8d323db54b119688fce1918d95000348b6d1d11b6de6726743caa1b14"
+		}
+	]
+}

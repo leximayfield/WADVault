@@ -1,0 +1,16 @@
+{
+	"uid": "sstation.wad",
+	"name": "Sattelite Station",
+	"description": "You work as a guard at a Sattelite Station on Earth communicating with Phobos. The same old moldy plot suddenly pops up, and the Station is flooded with Demons from hell.",
+	"date": "2013-11-03 17:48:01",
+	"files": [
+		{
+			"filename": "sstation.wad",
+			"size": 118820,
+			"crc": 1646368540,
+			"md5": "1e1173f1deacb68b3abd2984b7f8b140",
+			"sha1": "7a358e908e705702fb8b95f2b159885bdfa4f33d",
+			"sha256": "0374e359001f43c886ad3eedcbebc4984a1077e9689fc9d5108ae8b31e1bbbf0"
+		}
+	]
+}

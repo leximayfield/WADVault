@@ -1,0 +1,16 @@
+{
+	"uid": "miasma.wad",
+	"name": "Miasma",
+	"description": "One fairly large and complex map. Difficulty should be more on the challenging side, harder encounters are mostly optional though.",
+	"date": "2017-03-13 20:33:51",
+	"files": [
+		{
+			"filename": "miasma.wad",
+			"size": 7191348,
+			"crc": 2423324647,
+			"md5": "02617fc2640979fd2087606b1898fdf3",
+			"sha1": "25ae74256dbfba7deeb22dbc14eee988c33b05f2",
+			"sha256": "f590345e362c7973aaa9e9e20d9ece59693cb2af2cb93ccdd75eee7cc16d34c8"
+		}
+	]
+}

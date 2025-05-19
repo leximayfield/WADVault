@@ -1,0 +1,17 @@
+{
+	"uid": "legends (7b0ab1).wad",
+	"name": "Legends",
+	"description": "tribute to heroes.wad",
+	"version": "7b0ab1",
+	"date": "2014-12-13 17:52:36",
+	"files": [
+		{
+			"filename": "legends.wad",
+			"size": 362268,
+			"crc": 109935290,
+			"md5": "98ab5b7d5a9f321eb81981438000e13a",
+			"sha1": "7b0ab135a40ff56f7aeb572864f9247c39a2161d",
+			"sha256": "d3dc148e5ec3cfcf4043eab7f7607b54dd720c0f14f65d6f7331b5d656fd2a61"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Minigun (7b99f2).wad",
+	"name": "Minigun",
+	"description": "this PWAD replaces the chaingun with a minigun! Also it more or less changes the supershotgun, pistol, armors and stimpak. Needs ZDoom, though it just might work with other ports.",
+	"version": "7b99f2",
+	"date": "2013-04-21 14:22:21",
+	"files": [
+		{
+			"filename": "Minigun.wad",
+			"size": 183768,
+			"crc": 3749472689,
+			"md5": "9ae8f0f36998dcfff6f6271abc78f220",
+			"sha1": "7b99f27f293de3145a7ee486fbc2caa539e1558a",
+			"sha256": "fc7a9a7f7ee79d04bf71d080e696d9046432e494ca3588806064421112025829"
+		}
+	]
+}

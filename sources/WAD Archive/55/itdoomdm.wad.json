@@ -1,0 +1,16 @@
+{
+	"uid": "itdoomdm.wad",
+	"name": "Italian Doom - DeathMatch",
+	"description": "This is a bonus level for the \"Italian DooM\" series: it is a DM map, whose layout fits FFA better than duels. It was originally designed by Toranaga and then revamped and completed by me, Ismaele. It is vanilla Doom compatible, but I suggest that you use ZDaemon to play it on-line. WARNING: The new background music is a .MIDI, so you'll listen to it only if you use a port that can play it, such as ZDoom-based ports (ZDoom, GZDoom, ZDaemon...).",
+	"date": "2014-12-15 21:37:25",
+	"files": [
+		{
+			"filename": "itdoomdm.wad",
+			"size": 281494,
+			"crc": 1584790720,
+			"md5": "8edd8eab51e7297ed2387066f4ace15b",
+			"sha1": "55afd1c7dc11b6eac0f06756bef23b6e1ee369ef",
+			"sha256": "d15b6fc0ae4d61ca7dce8ee05ede5fa3de65b7523aaaf8004f05b0318dd21a03"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "palacet.wad",
+	"name": "Temple Palace",
+	"description": "My third Doom WAD.",
+	"date": "2017-03-20 23:20:04",
+	"files": [
+		{
+			"filename": "palacet.wad",
+			"size": 45250,
+			"crc": 3165416951,
+			"md5": "97ce5e0acd608a7fed9249b4ff087066",
+			"sha1": "bed5751fc207bfdf66fd1a8a2c768261a59f6954",
+			"sha256": "fa8526807e9ae6992f488e195f1f2573d334d13ff79c1a7274b4415ac6de391e"
+		}
+	]
+}

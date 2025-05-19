@@ -1,0 +1,17 @@
+{
+	"uid": "circus (f7a82d).wad",
+	"name": "CIRCUS.WAD",
+	"description": "NOW IN THIS RING! NOW IN THIS RING!",
+	"version": "f7a82d",
+	"date": "2013-11-02 15:14:25",
+	"files": [
+		{
+			"filename": "circus.wad",
+			"size": 46879,
+			"crc": 3025699164,
+			"md5": "0f64b6424c8891177dbc35ceb5827c5b",
+			"sha1": "f7a82ddd486b1837e5d70bb5475f201ad3293e8c",
+			"sha256": "54249894d475014d4f30bef783a4033e9c047f1999d20a5483358b0bd44b2ba7"
+		}
+	]
+}

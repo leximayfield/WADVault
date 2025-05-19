@@ -1,0 +1,16 @@
+{
+	"uid": "blind.wad",
+	"name": "Blind Doom",
+	"description": "This total conversion makes you blind as the title says. You can't see the enemy and the textures among other things, so this can be impossible or interesting to look at maps just as a novelty. On top of this you also can't hear anything so you are deaf with being blind.",
+	"date": "2014-12-11 22:16:34",
+	"files": [
+		{
+			"filename": "blind.wad",
+			"size": 1052168,
+			"crc": 247028931,
+			"md5": "190e06d5bbca10cb02971ed5013373ff",
+			"sha1": "b594be02b25205114ea1e8f47f1632fefba0cc91",
+			"sha256": "d3818443ff7f29d3fa83fa3ee763cd2097cd3230407262cc52e325ccea733ab3"
+		}
+	]
+}

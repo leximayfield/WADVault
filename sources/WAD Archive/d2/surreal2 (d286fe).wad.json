@@ -1,0 +1,17 @@
+{
+	"uid": "surreal2 (d286fe).wad",
+	"name": "Surreal2.wad (for Doom 2)",
+	"description": "This is a re-release of Surreal2.wad, it includes some minor changes such as texture re-alignments, texture improvements, and one new texture. Surreal2.wad is designed to look and feel different from a standard ID wad. It includes a 360 night time sky with clouds and moons, waterfalls you can hear, a trap you can \"defuse\", a highway, and other even cooler stuff. This is a PWAD only and requires no changes to the Doom exe.",
+	"version": "d286fe",
+	"date": "2015-01-14 23:04:04",
+	"files": [
+		{
+			"filename": "surreal2.wad",
+			"size": 733576,
+			"crc": 1267269484,
+			"md5": "4321c035bbfcf9fcb075418b7b9a635a",
+			"sha1": "d286fe9f3cafb41a23d03e9af93ae8053efb9d8b",
+			"sha256": "cd1f3f17c131f2d1285278586ec43435be675a7088838114c80927c984278c82"
+		}
+	]
+}

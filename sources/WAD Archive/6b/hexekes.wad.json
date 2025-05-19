@@ -1,0 +1,16 @@
+{
+	"uid": "hexekes.wad",
+	"name": "Hexenkessel",
+	"description": "Single level made for an ill fated and not widely released community project.",
+	"date": "2017-11-27 12:32:37",
+	"files": [
+		{
+			"filename": "hexekes.wad",
+			"size": 3864625,
+			"crc": 3890621111,
+			"md5": "e76fdc06bdd270b105cd6d9a1b7b1668",
+			"sha1": "6b0790a75286b5c3402000c11f2d467b7cad8e1b",
+			"sha256": "5da40a8ea411fc0b28cd7089f45d3ce28068a205e3a2fd45581d01464ebe65ad"
+		}
+	]
+}

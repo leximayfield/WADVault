@@ -1,0 +1,16 @@
+{
+	"uid": "oasis.wad",
+	"name": "Oasis of Death",
+	"description": "Built for Doom2 v1.9",
+	"date": "2015-02-21 09:01:02",
+	"files": [
+		{
+			"filename": "oasis.wad",
+			"size": 1440548,
+			"crc": 3848614856,
+			"md5": "d9973d4e8c55a86511b61f7eecf3fda3",
+			"sha1": "aef0cd22f74a35005736796fb68309eb198efd38",
+			"sha256": "d6cf7b22c9dfe1569b8f85e4456a3fbfa552cbf737eea38d75e48b16c24cc85a"
+		}
+	]
+}

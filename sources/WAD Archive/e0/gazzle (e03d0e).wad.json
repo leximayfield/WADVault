@@ -1,0 +1,17 @@
+{
+	"uid": "gazzle (e03d0e).wad",
+	"name": "CATWALKS.WAD",
+	"description": "Dark, scary, not for acrophobes. (or agoraphobes, for that matter) Watch yer step on the catwalks, and ALWAYS watch yer back!",
+	"version": "e03d0e",
+	"date": "2013-11-02 15:20:58",
+	"files": [
+		{
+			"filename": "gazzle.wad",
+			"size": 51504,
+			"crc": 1249775593,
+			"md5": "eaa0bba2cf525f3ab5319afd510c6faa",
+			"sha1": "e03d0e87193733988d1d606e04d822734e367957",
+			"sha256": "d7cea1d7866d1bb20031b7a23b3953a85d5844f096576dc467c167b780452bb2"
+		}
+	]
+}

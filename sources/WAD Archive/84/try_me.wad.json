@@ -1,0 +1,16 @@
+{
+	"uid": "try_me.wad",
+	"name": "Try me if you can.",
+	"description": "Try to play and complete this map.",
+	"date": "2015-01-14 22:42:46",
+	"files": [
+		{
+			"filename": "try_me.wad",
+			"size": 150331,
+			"crc": 3768641696,
+			"md5": "43860d7a6771408adf8d7c059ed9952d",
+			"sha1": "840a9313583ff6fed8f83da145975d25c40752e4",
+			"sha256": "3cf867268887cd7aad58397bc147d46bae2f6ec1dacf5d66216616ead03a23bc"
+		}
+	]
+}

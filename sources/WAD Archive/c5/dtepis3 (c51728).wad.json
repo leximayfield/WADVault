@@ -1,0 +1,17 @@
+{
+	"uid": "dtepis3 (c51728).wad",
+	"name": "dtepis3.WAD",
+	"description": "You and your buddies have been captured by the enemy. The day of the escape has arrived. Forcing a small metal object into the side of the door causes it to short out and unlock. Now all you've got to do is find your buddies and leave this joint. Note: In co-op mode only player one can leave the cell the others will have to wait to be found. Only one player is on each row of cells.",
+	"version": "c51728",
+	"date": "2013-11-02 15:23:20",
+	"files": [
+		{
+			"filename": "dtepis3.wad",
+			"size": 848330,
+			"crc": 1307195523,
+			"md5": "d22ebeb0f7f0e18946775c33590e9be1",
+			"sha1": "c51728f06eda2313c0d91748849cf87eaa36cb58",
+			"sha256": "d45f7a33a80221af359c3d06b63de7ad02425eb5ceccd1789624175c355f8a79"
+		}
+	]
+}

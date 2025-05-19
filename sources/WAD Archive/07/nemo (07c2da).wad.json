@@ -1,0 +1,17 @@
+{
+	"uid": "nemo (07c2da).wad",
+	"name": "NEMO.WAD",
+	"description": "My first attempt at creating a level. Basically an exercise in trying new things, but there are some interesting areas. This is the first of a continuing series, and in it, the player gains access for the first time to the subterranean boatyard. Try to get through the whole thing without cheats -- I designed it to be possible with a little common sense, practice and caution.",
+	"version": "07c2da",
+	"date": "2014-01-07 21:53:38",
+	"files": [
+		{
+			"filename": "nemo.wad",
+			"size": 129079,
+			"crc": 3338595409,
+			"md5": "146716b3e7a7ca01e6c8d75d184971c4",
+			"sha1": "07c2da3a3aa5a2b5e36dd9270c78ebebd1a775e4",
+			"sha256": "5f4101595698c1a7efcf9cd798d67dedb7681fd6b6639d149e32c97ec82b6ccf"
+		}
+	]
+}

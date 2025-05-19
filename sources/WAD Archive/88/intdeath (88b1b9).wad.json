@@ -1,0 +1,17 @@
+{
+	"uid": "intdeath (88b1b9).wad",
+	"name": "Intermittent Death",
+	"description": "You'll die, Intermittently.",
+	"version": "88b1b9",
+	"date": "2014-01-07 21:52:00",
+	"files": [
+		{
+			"filename": "intdeath.wad",
+			"size": 140229,
+			"crc": 3797584839,
+			"md5": "fc5ad01d2f738c5eb6d26bb233874da0",
+			"sha1": "88b1b973e6ea9f53806b55e068915db2ade7d964",
+			"sha256": "70e56d8706b1082c77d44798ad2d3a3c5959ce3d57ea8753e8b9610e1778f1a7"
+		}
+	]
+}

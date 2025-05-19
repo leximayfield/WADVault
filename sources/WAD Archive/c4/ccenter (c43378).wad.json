@@ -1,0 +1,17 @@
+{
+	"uid": "ccenter (c43378).wad",
+	"name": "Communications Center",
+	"description": "Single short Vanilla Doom 2 map. This map is an updated version of the old one uploaded. Please replace it.",
+	"version": "c43378",
+	"date": "2014-12-15 22:55:17",
+	"files": [
+		{
+			"filename": "ccenter.wad",
+			"size": 226897,
+			"crc": 166948161,
+			"md5": "74c762d34247d5d1c30b895027ce8a7d",
+			"sha1": "c433785c5433953a32f1bbdb874cc0aab8858741",
+			"sha256": "c7ea143af9581362fc6a13d86f462ebb35048fc3c832e8928e303678c6861b3a"
+		}
+	]
+}

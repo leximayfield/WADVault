@@ -1,0 +1,17 @@
+{
+	"uid": "chill (270d79).wad",
+	"name": "CHILL",
+	"description": "This is a deathmatch wad and it Combines many wads together. This wad is pretty small and it runs very good for 3 or 4 people. Add in new Sound FX from many wads. Worth trying. Trust me!!",
+	"version": "270d79",
+	"date": "2014-01-07 22:11:12",
+	"files": [
+		{
+			"filename": "chill.wad",
+			"size": 403901,
+			"crc": 1775779999,
+			"md5": "f5a2dcfa54a85d6d364027c360b2934a",
+			"sha1": "270d795203172f13fe11580e0dbde0ce92c92530",
+			"sha256": "5a3125f267610b7bd3f36b02ae492b7ffbfe406002081bda23c1fd685c77fa93"
+		}
+	]
+}

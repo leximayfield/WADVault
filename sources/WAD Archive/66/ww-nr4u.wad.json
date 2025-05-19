@@ -1,0 +1,16 @@
+{
+	"uid": "ww-nr4u.wad",
+	"name": "No Rockets For You",
+	"description": "My first attempt at a map, using a few Boom features and a few experiments in detailing. Gameplay is simple mow-em-down, I suppose you could call it a slaughter map because I don't throw a lot of big monsters at you. And, true to my word, there is NO rocket launcher in this map. Not that you'll need one.",
+	"date": "2014-12-29 15:42:25",
+	"files": [
+		{
+			"filename": "ww-nr4u.wad",
+			"size": 401931,
+			"crc": 3862024660,
+			"md5": "fe9139121610fcebd02e82afc8946a90",
+			"sha1": "66fb343811ae39adf5676613586f706eea7cdb5d",
+			"sha256": "7739be66d206a8dae746377a2b98f1c1fa8cbc757d3ca9cf3b92490166efd1db"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dominic.wad",
+	"name": "Dominic",
+	"description": "Short map, requires requiem.wad.",
+	"date": "2014-12-18 22:45:22",
+	"files": [
+		{
+			"filename": "dominic.wad",
+			"size": 255055,
+			"crc": 2475297782,
+			"md5": "db5d8dee7ac407450bbccd16e9a05651",
+			"sha1": "fb4a95cbd69d3cba19111a471c5b310967cad1fc",
+			"sha256": "240c44db67ab5cb57e0f865d8a98e232c6b18cb6216b599f769c18c52ce44d2a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "elevator (12610d).wad",
+	"name": "ELEVATOR.ZIP",
+	"description": "A \"stock\" Doom PWAD for Episode 1, mission 4",
+	"version": "12610d",
+	"date": "2015-12-07 10:00:51",
+	"files": [
+		{
+			"filename": "elevator.wad",
+			"size": 55020,
+			"crc": 421206972,
+			"md5": "76c8fd2ebcacbcbab35869a47abc3a5b",
+			"sha1": "12610d284f3e3f65e7bf407b203d5b68f27cdaf4",
+			"sha256": "ac483ec2310f3df29be83ac581e437f0d786bc902706cdaed26500c313a650b0"
+		}
+	]
+}

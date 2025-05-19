@@ -1,0 +1,17 @@
+{
+	"uid": "david2 (9adcbb).wad",
+	"name": "DAVID2.WAD",
+	"description": "E1M1 map made from scratch. Not yet complete.......",
+	"version": "9adcbb",
+	"date": "2013-11-03 17:43:45",
+	"files": [
+		{
+			"filename": "david2.wad",
+			"size": 39716,
+			"crc": 455527578,
+			"md5": "9b9cc87b8475728babad7ac725b2d1fb",
+			"sha1": "9adcbbce9d36e7769e796f10f503f3fd627a10a7",
+			"sha256": "27a649f34d40947daa489ea34ee2d85ca89eac84f017637a6df5382d9b3d35f3"
+		}
+	]
+}

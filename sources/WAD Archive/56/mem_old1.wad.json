@@ -1,0 +1,16 @@
+{
+	"uid": "mem_old1.wad",
+	"name": "mem_old1",
+	"description": "Old map for Doom 1.",
+	"date": "2014-12-13 17:31:47",
+	"files": [
+		{
+			"filename": "mem_old1.wad",
+			"size": 2901877,
+			"crc": 1593829526,
+			"md5": "78b93aa4057de01c4b34163d5b976735",
+			"sha1": "56e435e3fb36a8f3eff85fc65aa79b946e986574",
+			"sha256": "a940f50e0d10370b29375b0359bce7c9d6cfe78fc5fa6c8c74a969e397c3d942"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "goodguys.wad",
+	"name": "The Good Guys",
+	"description": "A stand-alone special-forces environment patch. As with so many of my recent works, this is material that arose during the design of The Butchery. It was originally rebuilt as a separate PWAD to make designing the Butchery simpler, but there is a crying need for a stand-alone special-forces patch for DOOM that is not part of a larger work.",
+	"date": "2014-12-11 22:16:49",
+	"files": [
+		{
+			"filename": "goodguys.wad",
+			"size": 389392,
+			"crc": 1599059632,
+			"md5": "7449af51454e14c8ce3bef2b3cceaf77",
+			"sha1": "890c2607ef8f79a1bab0e303b2f3fa8b0f92d2e2",
+			"sha256": "1f67e52899c8dced1162df2e3acbdf3430e6376e014d8fb54817d8ea39079b44"
+		}
+	]
+}

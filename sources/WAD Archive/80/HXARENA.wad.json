@@ -1,0 +1,16 @@
+{
+	"uid": "HXARENA.wad",
+	"name": "HERETIC DEATHMATCH CLASSICS EPISODE 1",
+	"description": "A very simple deathmatch level. Has all weapons, many items, no Icons of Defender. An eight-sided arena with a room on each wall. The only healing is in the middle of the arena.",
+	"date": "2014-10-14 21:20:50",
+	"files": [
+		{
+			"filename": "HXARENA.wad",
+			"size": 17375,
+			"crc": 3418827913,
+			"md5": "d5843f0b622d677a7f188bbe6738e9d8",
+			"sha1": "8081ebf11070e16af26faa2742a28d6895c512d9",
+			"sha256": "78b5b9050692eaf76f9dda6f60df5177c89cfe26c8e9daa7ab7aaaa61d6e2a2b"
+		}
+	]
+}

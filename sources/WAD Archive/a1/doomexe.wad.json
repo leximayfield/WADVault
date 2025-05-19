@@ -1,0 +1,16 @@
+{
+	"uid": "doomexe.wad",
+	"name": "Doom.ExE",
+	"description": "You are a marine that was guarding the scientists on the Delta Labs until he got a call from his commander to meet him in the briefing room. When you went there, he said that the Beta Labs were infected by Demons. So you went off with 2 of your teammates. Unfortunaly, your teammates went off somewhere and that mean that you are on your own",
+	"date": "2014-12-24 17:46:45",
+	"files": [
+		{
+			"filename": "doomexe.wad",
+			"size": 4633760,
+			"crc": 2994366752,
+			"md5": "c40af864bb3ba10d90dea5c4fc026818",
+			"sha1": "a1c539ad1285e7db481ee84b41823211ca3d0812",
+			"sha256": "6e839b74f58e91f6af846cee974f405c0e1934903503efe8d384b44c24caf987"
+		}
+	]
+}

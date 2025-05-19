@@ -1,0 +1,17 @@
+{
+	"uid": "paranoia (0c051e).wad",
+	"name": "Paranoia 1.1",
+	"description": "nice",
+	"version": "0c051e",
+	"date": "2013-11-06 22:39:02",
+	"files": [
+		{
+			"filename": "paranoia.wad",
+			"size": 134016,
+			"crc": 1910462656,
+			"md5": "24469f49bc7054347f5ffd8c5dd30164",
+			"sha1": "0c051e1e3fbb2deb3d7b19a7ac4b8878ab7443b8",
+			"sha256": "a91db0820716329dc577da096090c653ef7df417796d79d696e78d2b3e4fd1be"
+		}
+	]
+}

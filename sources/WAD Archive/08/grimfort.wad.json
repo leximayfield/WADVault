@@ -1,0 +1,16 @@
+{
+	"uid": "grimfort.wad",
+	"name": "The Grim Fortress",
+	"description": "A Hell-themed level with mostly medium-strength monsters. A sky by psyren and a new midi by me are included.",
+	"date": "2016-07-20 20:25:16",
+	"files": [
+		{
+			"filename": "grimfort.wad",
+			"size": 443534,
+			"crc": 12179620,
+			"md5": "81994dbc158755d9c0b1e46bd9f5ee07",
+			"sha1": "0859c418b7dc4f311b329645e063f97d52f2000f",
+			"sha256": "53c8aace45026868f69aacb1c0481389bace2ee44e948f742849fefdc474edca"
+		}
+	]
+}

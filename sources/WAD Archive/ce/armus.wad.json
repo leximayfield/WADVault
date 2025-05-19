@@ -1,0 +1,16 @@
+{
+	"uid": "armus.wad",
+	"name": "aRMUS.WAD",
+	"description": "Great Deathmatch wad 2-4 player. with new music and sounds. doom2.",
+	"date": "2013-11-04 19:23:58",
+	"files": [
+		{
+			"filename": "armus.wad",
+			"size": 331214,
+			"crc": 2794003470,
+			"md5": "44cc988bc27d53747ce7a254bbeb7609",
+			"sha1": "ce23339e550f622cfafde9174bae9b0afc3c7ad3",
+			"sha256": "1bb4795fa38265e3a576133b24b1a8d5561e5caf1bc2a66a90877972d2008d22"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "seamless.wad",
+	"name": "Seamless",
+	"description": "Seamless is a Vanilla Ultimate Doom map taking slot of E1M1 that makes no use of \"use\" lines. The theme is \"base\" and the map takes about 15 minutes to beat. It also makes use of more Doom resources than what you'd normally encounter in an Episode 1 map. The goal was to create a non-tedious Doom 1 map which is more difficult in comparison to Doom 2 as the enemies are more bullet-spongy due to the lack of SSG and also because the beastiary is smaller. The music is MIDI version of \"Kavinsky - Nightcall\".",
+	"date": "2016-11-12 17:25:06",
+	"files": [
+		{
+			"filename": "seamless.wad",
+			"size": 361046,
+			"crc": 4056675559,
+			"md5": "fa43f73b973a90cbabfec23d05925880",
+			"sha1": "f4b1cd2741b6571c5b24c48fe615492182c9eb02",
+			"sha256": "dce90686eafe890e1aeb9793d24a2177610ccab5203dd2132b1e7f1a228703b4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "blt (2a6f40).wad",
+	"name": "BLT.WAD",
+	"description": "Medium-sized level with a mixture of different monsters and decors. This is only my second PWad... Anyway, there are plenty of secret areas and doors and lifts and such.",
+	"version": "2a6f40",
+	"date": "2014-01-04 11:55:35",
+	"files": [
+		{
+			"filename": "blt.wad",
+			"size": 81935,
+			"crc": 1707517693,
+			"md5": "c5f72884d7f5a9dfa04a025aae919fb1",
+			"sha1": "2a6f407973d8f4f693f614bb6fd6ee69b7e2f96d",
+			"sha256": "b53472bf07002b783b0c6b33010a7d614d64fd4bf8e334bdfd3c846f5f14d4d6"
+		}
+	]
+}

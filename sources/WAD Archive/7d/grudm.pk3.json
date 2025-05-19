@@ -1,0 +1,16 @@
+{
+	"uid": "grudm.pk3",
+	"name": "GruDM",
+	"description": "This is an accumulation of deathmatch levels I have made. There is no set theme. Some are parts of coop levels in progress, some are just spaces I created for the purpose. A Duel - Duel map shaped like an A with a bridge. X Duel - X shaped duel map.. Octagon Duel - Octagon shaped duel map (imaginative, huh!) Pentagram Deathmatch - A Deathmatch map with a sequence of six switches, which unlock a two switch combination, giving access to larger guns and more play area. Tank Deathmatch - A small base with two tanks in a large room. In one tank is a rocket launcher, the other, a plasma gun. Using the computers in the rooms will drain the tanks, trapping anyone caught inside for 30 seconds.. I will add more maps if/when I make them..",
+	"date": "2014-11-16 19:55:29",
+	"files": [
+		{
+			"filename": "grudm.pk3",
+			"size": 735249,
+			"crc": 1435606700,
+			"md5": "c18cf46f2c028060d8bf5214dade756b",
+			"sha1": "7df7c8f168aaa5159d28d201b4b0dc2d61a90b8a",
+			"sha256": "d4e2f77e9d58ece22fbae03362bf9f3e1ef8f937bd8238749171aebdc2b88744"
+		}
+	]
+}

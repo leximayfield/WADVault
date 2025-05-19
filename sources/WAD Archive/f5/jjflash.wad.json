@@ -1,0 +1,16 @@
+{
+	"uid": "jjflash.wad",
+	"name": "Jumping Jack Flash",
+	"description": "My first try for a DM level (and the first published try at all!). It is small but has some obstacles (\"Jumpin'\") and many many teleports (\"Flash\") that teleport in a different way if you enter them in a different way. I designed the level with extensive jumping in mind, so you should play it with a source port capable of jumping high enough, or you'll find the level useless. If you are into fast fragging and telefragging, you should really give it a try. Tactics are important, too.",
+	"date": "2014-12-15 23:06:58",
+	"files": [
+		{
+			"filename": "jjflash.wad",
+			"size": 195968,
+			"crc": 2598091374,
+			"md5": "6a26c4d70462d130b891a914fe23693f",
+			"sha1": "f5be146aad1005cc5ab5f3036fa8fdce1c7a1166",
+			"sha256": "6d05ba089e516d60ad4642e56f980f3ddfe98296af28bf39d1ed1580a4e46b85"
+		}
+	]
+}

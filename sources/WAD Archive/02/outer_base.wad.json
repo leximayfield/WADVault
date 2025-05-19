@@ -1,0 +1,16 @@
+{
+	"uid": "outer_base.wad",
+	"name": "THe Outer Base",
+	"description": "Ultimate/Doom wad. Very much an \"old skool\" affair, with gobs of bad guys and as little to fight them off with as possible ;D",
+	"date": "2014-12-13 17:33:35",
+	"files": [
+		{
+			"filename": "outer_base.wad",
+			"size": 275776,
+			"crc": 3958739491,
+			"md5": "7a069505e68e556038dd270463bd9f1a",
+			"sha1": "02790f7908afd3a643f670d8fb6303423f918032",
+			"sha256": "762d42f1cd68291c18dd70709805f23f3af6590ffb06d12c038423d00228a6f7"
+		}
+	]
+}

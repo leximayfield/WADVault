@@ -1,0 +1,17 @@
+{
+	"uid": "hellbent (f56b23).wad",
+	"name": "HELLBENT.WAD : A level for MAP09 of Doom2",
+	"description": "See below.",
+	"version": "f56b23",
+	"date": "2014-12-18 23:12:07",
+	"files": [
+		{
+			"filename": "hellbent.wad",
+			"size": 226679,
+			"crc": 230905465,
+			"md5": "8b78f54d8bd220589af495f02dc4cb7d",
+			"sha1": "f56b2378db436b1779a08e269fdfb9cfea6a075c",
+			"sha256": "fcb24cf09c9634a096d68e90ecd2f51a59ad8e0dbf070470c5345f3e065fbcf3"
+		}
+	]
+}

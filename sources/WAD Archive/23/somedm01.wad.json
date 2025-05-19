@@ -1,0 +1,16 @@
+{
+	"uid": "somedm01.wad",
+	"name": "Some DM 1",
+	"description": "A regular old DM map for you to play. No port specific enhancements, though I can't seem to run it with doom2.exe, so you should use at least Boom. The map is meant to run well with the ZCajun bot (in ZDoomtest) and it does it's job pretty well. I also included a Bot Nodetable(made with the ZCajun), somedm01.ntb. Stick it in the proper nodes dir (zdbot/nodes) and type loadnodes somedm01 in console to load it.",
+	"date": "2014-12-15 22:16:26",
+	"files": [
+		{
+			"filename": "somedm01.wad",
+			"size": 308155,
+			"crc": 186957143,
+			"md5": "3d5510e2e81de51d43d63b38533d2799",
+			"sha1": "23c0306a8f5750c17fa4f7539dafef52ffc4c3c9",
+			"sha256": "2922abf177678a46e9587de5c1d82b428103feff8d7f71edf0895dc7310c894e"
+		}
+	]
+}

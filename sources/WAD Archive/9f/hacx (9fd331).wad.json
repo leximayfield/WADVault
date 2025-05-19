@@ -1,0 +1,17 @@
+{
+	"uid": "hacx (9fd331).wad",
+	"name": "Hacx - IWAD release (v1.2)",
+	"description": "HACX is an action filled DOOM Engine game. The story is set in the near future, where you'll find yourself engrossed in an international blastfest. Wield weapons of mass destruction from China to Paris to combat a devilish artificial intelligence and its hordes of loyal fanatics. Can you handle it, hacker? This release is a stand-alone IWAD that does not require DOOM II to run, and is compatible with many popular ports. Release also includes several minor map fixes since v1.1 (making levels fully co-op compatible) and other miscellaneous tweaks.",
+	"version": "9fd331",
+	"date": "2013-11-10 11:30:12",
+	"files": [
+		{
+			"filename": "hacx.wad",
+			"size": 19321722,
+			"crc": 1927526572,
+			"md5": "65ed74d522bdf6649c2831b13b9e02b4",
+			"sha1": "9fd331b9d53006af1884e89eaeb97b17b8572b71",
+			"sha256": "b838dc9a394fe708df7239994b37c14c21e34f81d4cc921e060fc9c16b8ba240"
+		}
+	]
+}

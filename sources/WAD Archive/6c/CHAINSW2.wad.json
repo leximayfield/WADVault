@@ -1,0 +1,16 @@
+{
+	"uid": "CHAINSW2.wad",
+	"name": "The Lost Mines",
+	"description": "This is a DOOM II pwad. This is mainly a graphics patch. Use the install.bat to put my patch into your DOOM wad and DOOM exe. Replaces the Stupid dog-like demon with a chainsaw welding maniac! Looks great! Also changes barrels into out of order Cyber demons! Also looks great! Not a piece of sh** like a lot of other graphics patches.",
+	"date": "2014-12-15 22:25:46",
+	"files": [
+		{
+			"filename": "CHAINSW2.wad",
+			"size": 510247,
+			"crc": 602944886,
+			"md5": "7c1c71e7268de0a8bee8f34de3ec6f36",
+			"sha1": "6c175fffd36942446a3985b58b0f5c4e8f3aa524",
+			"sha256": "91f4f5a681dc3efaff71054ededa79966eedb3694a58f0f9a9a6b3a8a198e63c"
+		}
+	]
+}

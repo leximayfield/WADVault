@@ -1,0 +1,17 @@
+{
+	"uid": "dm2coll (1f9e81).wad",
+	"name": "The Collection",
+	"description": "Welcome to the Doom II Monster collection.",
+	"version": "1f9e81",
+	"date": "2014-01-07 22:20:06",
+	"files": [
+		{
+			"filename": "dm2coll.wad",
+			"size": 154929,
+			"crc": 3594310169,
+			"md5": "704540dcef25a0ec240c4533247f78e7",
+			"sha1": "1f9e818e1effe62f7a950d92eb7b51f90bf9c365",
+			"sha256": "7c566587437a9d7fe40a2479e395508e55bf7b714a1164ba68fe35db9a2e1584"
+		}
+	]
+}

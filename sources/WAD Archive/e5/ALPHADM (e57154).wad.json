@@ -1,0 +1,17 @@
+{
+	"uid": "ALPHADM (e57154).wad",
+	"name": "Another DM map by Mr. Chris",
+	"description": "A slightly better looking map for DM created by Doom Builder.",
+	"version": "e57154",
+	"date": "2014-12-15 22:07:53",
+	"files": [
+		{
+			"filename": "ALPHADM.wad",
+			"size": 41011,
+			"crc": 150954654,
+			"md5": "23d624edda15039beeda4f3326df95a5",
+			"sha1": "e571547f9a603786197abc3ff3735ed5b716f18f",
+			"sha256": "7880a4aee8e163f4c07e196abc507f7cadce2fa35e55dc4db2d6ab8edc0e3aca"
+		}
+	]
+}

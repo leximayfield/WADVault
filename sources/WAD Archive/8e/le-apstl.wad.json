@@ -1,0 +1,16 @@
+{
+	"uid": "le-apstl.wad",
+	"name": "Akimbo Pistols from Critical Mass TC",
+	"description": "This is a Doom mod which replaces the Chaingun with the Akimbo Pistols from Critical mass tc. if you don't know, it's a total conversion for Duke Nukem Atomic Edition.",
+	"date": "2014-12-11 22:27:58",
+	"files": [
+		{
+			"filename": "le-apstl.wad",
+			"size": 43592,
+			"crc": 2965077199,
+			"md5": "a64a218abb84c0fcaf2c5c73d08aabfd",
+			"sha1": "8ed63dda1fe66f9d8b6862661153bf19b9457dba",
+			"sha256": "a13cdc9298af2177dccd29215122a082415eec2663e0a31a8c6f01fe3631d2f0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "outpost (01fab8).wad",
+	"name": "Outpost",
+	"description": "See what happened in little outpost",
+	"version": "01fab8",
+	"date": "2015-01-13 21:21:34",
+	"files": [
+		{
+			"filename": "outpost.wad",
+			"size": 311420,
+			"crc": 4080984194,
+			"md5": "ef737e67e20d31b603d3da46810f4ec3",
+			"sha1": "01fab8ce295f6b354002ac39031cee4367613b07",
+			"sha256": "9f7df2d974eeaaa520d3cfb19f6f0f71e1292b2e131978329a7b462ebe3c7e85"
+		}
+	]
+}

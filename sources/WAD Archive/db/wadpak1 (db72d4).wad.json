@@ -1,0 +1,17 @@
+{
+	"uid": "wadpak1 (db72d4).wad",
+	"name": "FOREST.WAD ver 1.3",
+	"description": "This started out as an experiment in learning DEU, and just grew into this .WAD file. It's got a little of everything a new DEU user would need to spend time figuring out, different doors, wall textures, steps, lifts and more. It's meant to replace Episode 1, Map 1, so there ain't no Cacodemons, rocket launchers or instant death traps, if you're into that stuff you'll need to wait for my next effort... ;)",
+	"version": "db72d4",
+	"date": "2013-11-02 15:10:34",
+	"files": [
+		{
+			"filename": "wadpak1.wad",
+			"size": 2160703,
+			"crc": 4243081919,
+			"md5": "09ad783984f8fbd0d24038cc1910dd04",
+			"sha1": "db72d491c4bb618d4700d52177318192bf30c472",
+			"sha256": "b81bf8c57fcdbeaa4d010e077b1d7e9aa4f4f9b9fc10fcd56c0496dcedf04e0c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "turbodem.wad",
+	"name": "TurboCharged ARCADE! (Demo Release)",
+	"description": "First off, I would like to state one... statement. This is NOT a jokewad.",
+	"date": "2013-08-03 20:05:27",
+	"files": [
+		{
+			"filename": "turbodem.wad",
+			"size": 2940184,
+			"crc": 3314203886,
+			"md5": "e8bd0c344287408863161055f10dc588",
+			"sha1": "383ef2be47c1e75e48c5c09add6f8b0b83e9d88e",
+			"sha256": "e79b515741a24d27bdcf21cf484fe53941f7ffa29c2a70b7509c020b5ebafa6f"
+		}
+	]
+}

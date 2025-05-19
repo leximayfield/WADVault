@@ -1,0 +1,17 @@
+{
+	"uid": "CARE (264e24).wad",
+	"name": "CAREFUL.WAD",
+	"description": "This is a first time try at building a level from scratch. It was mainly built for deathmatch play but found that it is great for a 1 player game. The name is \"CAREFUL\" for a very good reason. There are alot of secret passages, so keep hunting - all is not what it seems. ;-) Please let me know if there are any problems encountered. See ya on the other side.",
+	"version": "264e24",
+	"date": "2013-11-02 15:49:35",
+	"files": [
+		{
+			"filename": "CARE.wad",
+			"size": 47545,
+			"crc": 2275864166,
+			"md5": "8bf7f3a452413f4a3780e3c9881d0955",
+			"sha1": "264e24a7c7f24601e954ab815efb7555f156da67",
+			"sha256": "9e9d648a3ddae42a2234a5e4823c0fdd38c6049d35528538c8cf72db30521033"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "lucisky2.wad",
+	"name": "Lucius' Crazy Skys  (version 2)",
+	"description": "9 sky textures (256x128) for use with Doom or Doom II.",
+	"date": "2015-09-15 17:58:44",
+	"files": [
+		{
+			"filename": "lucisky2.wad",
+			"size": 315908,
+			"crc": 1241605195,
+			"md5": "503bb1e895d0808c710eb9afdb69ac7b",
+			"sha1": "69f4d95c8eaea7a3aedd42edf8449cf8292f18f5",
+			"sha256": "97c3924bff4a2388c12ea7a4d7a42a182b68854fd1361d99f71972fdf4f5c8dd"
+		}
+	]
+}

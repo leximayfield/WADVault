@@ -1,0 +1,17 @@
+{
+	"uid": "vault (e955a2).wad",
+	"name": "VAUL    DEATHMATCH!",
+	"description": "Deathmatch",
+	"version": "e955a2",
+	"date": "2014-12-15 23:04:21",
+	"files": [
+		{
+			"filename": "vault.wad",
+			"size": 108426,
+			"crc": 2751501581,
+			"md5": "18087de6e33b2104ff834b746108f480",
+			"sha1": "e955a26f2d870882d297b0a2800f42292dc24c48",
+			"sha256": "3f634420f19b7623299d1bd714c092fd879e31e13bdaf5ab1b452d50ab9d025f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zower (b6af05).wad",
+	"name": "Tower Of Death - deathmatch level",
+	"description": "An alteration of doom episode one, mission one. Rooms have been added and joined to make for an excellent deathmatch game. Friends and I have spent two hours straight on this one floor. A tower has been added to the courtyard. How do you get in and out of this thing?",
+	"version": "b6af05",
+	"date": "2016-02-07 20:28:05",
+	"files": [
+		{
+			"filename": "zower.wad",
+			"size": 72707,
+			"crc": 621700312,
+			"md5": "8c88c58cd63b65c3d06a7a50a5a63261",
+			"sha1": "b6af05419ecb970d16190ef79e6060a9168a8c7a",
+			"sha256": "604bc45bbd28a47a970bc60dc0cda665e350b3b904e08e11405842b0ea420fb2"
+		}
+	]
+}

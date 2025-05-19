@@ -1,0 +1,16 @@
+{
+	"uid": "mazefrus.wad",
+	"name": "Maze of Frustration",
+	"description": "Welcome to the Maze of Frustration, the most challenging level for Doom2. The level is made up of 16 identical rooms, each with 4 teleporters in them and every room has an arrow. Red teleporters work while silver teleporters don't work. Certian rooms contain a square in the centre of the floor, often these rooms are the vital rooms of the map. The red square is the starting room, ect. The arrows may not mean a thing in this map and in some ways its fairly simple to complete. There are two ways to speedrun this map within 10 seconds. This map is also excellent in DM mode as well and 8 DM starts have been included in this level for one of the most fun DM experiences. GOOD LUCK!",
+	"date": "2015-09-14 20:47:03",
+	"files": [
+		{
+			"filename": "mazefrus.wad",
+			"size": 148104,
+			"crc": 3987756810,
+			"md5": "7c0badc79f4ab8f2dbd7d4748462f1fe",
+			"sha1": "316017445a74226561191c9b6414ab11c96090bb",
+			"sha256": "fed101ee1b0b0692529c7fce51f0848b8c623f4e2fa4265fc979dedc2e19aea9"
+		}
+	]
+}

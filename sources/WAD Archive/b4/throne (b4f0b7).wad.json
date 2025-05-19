@@ -1,0 +1,17 @@
+{
+	"uid": "throne (b4f0b7).wad",
+	"name": "The Throne Room",
+	"description": "Most of the action takes place in one large room. A few tricks, but mostly just kill, kill, kill! Skill level four has three times as many guys as skill levels one and two. Deathmatch starting points and a few extra weapons for it have been included, but not tested.",
+	"version": "b4f0b7",
+	"date": "2015-01-14 22:47:43",
+	"files": [
+		{
+			"filename": "throne.wad",
+			"size": 62638,
+			"crc": 483398055,
+			"md5": "81f1c759931cbdf7fe384a65982dcbe1",
+			"sha1": "b4f0b785bbaf42efba49fb606028f0ed5f763e56",
+			"sha256": "41f2596c85fe524b5153fadb6341f42df09af3abe849fc3aa4204a14f489868e"
+		}
+	]
+}

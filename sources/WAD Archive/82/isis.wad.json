@@ -1,0 +1,16 @@
+{
+	"uid": "isis.wad",
+	"name": "Isis",
+	"description": "Sort of Egyptian looking, mostly original and/or modified textures, some new lamp sprites (from Osiris.wad). Lots of 3D bits and deep water its a bit on the large side and is non-linear, try exploring it with the monsters turned off before playing it",
+	"date": "2014-12-24 17:42:39",
+	"files": [
+		{
+			"filename": "isis.wad",
+			"size": 5905106,
+			"crc": 900192966,
+			"md5": "e74226eb45fc175a518cfea2e72272a5",
+			"sha1": "828c93ddedd6aee3543a4b7d62bd74416b706518",
+			"sha256": "0bba0573943506e96777b626c5299b00a2a759c422a2c4b57034ca347b064bd1"
+		}
+	]
+}

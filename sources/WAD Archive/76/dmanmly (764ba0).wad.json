@@ -1,0 +1,17 @@
+{
+	"uid": "dmanmly (764ba0).wad",
+	"name": "DOOM ANOMALY (DMANOMO.ZIP)",
+	"description": "This PWAD is the First level of my SHORES OF HELL replacement mission. I am releasing it as a single level for the sole reason to get feedback and comments on my design/implementation so I can make the other 8 even better! This is my first attempt at a PWAD so be gentle!",
+	"version": "764ba0",
+	"date": "2013-07-09 20:21:35",
+	"files": [
+		{
+			"filename": "dmanmly.wad",
+			"size": 124595,
+			"crc": 2642729597,
+			"md5": "1e30a519d6478a83393d9e8a2e19a0e3",
+			"sha1": "764ba0290b1b274b025261affd6ae6a0d94042f6",
+			"sha256": "f7f4b6a2d7bd558f7fa1a356322a36ab98e7093b8198d3af4e6e8ee5f90d7b79"
+		}
+	]
+}

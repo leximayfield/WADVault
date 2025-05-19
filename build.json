@@ -1,0 +1,24 @@
+{
+	"author": "WADVault maintainers and contributors",
+	"url": "https://github.com/leximayfield/WADVault",
+	"config": [
+		{
+			"name": "WADVault - Commercial Releases",
+			"description": "WADVault - Commercial Releases",
+			"out_file": "build/WADVault - Commercial Releases.dat",
+			"sources": "sources/Commercial Releases/*.json"
+		},
+		{
+			"name": "WADVault - Distributable Releases",
+			"description": "WADVault - Distributable Releases",
+			"out_file": "build/WADVault - Distributable Releases.dat",
+			"sources": "sources/Distributable Releases/*.json"
+		},
+		{
+			"name": "WADVault - WAD Archive",
+			"description": "WADVault - WAD Archive",
+			"out_file": "build/WADVault - WAD Archive.dat",
+			"sources": "sources/WAD Archive/**/*.json"
+		}
+	]
+}

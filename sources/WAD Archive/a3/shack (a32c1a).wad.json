@@ -1,0 +1,17 @@
+{
+	"uid": "shack (a32c1a).wad",
+	"name": "SHACKDEATH",
+	"description": "The fairest fights I've had with my friends was on this level.",
+	"version": "a32c1a",
+	"date": "2016-02-06 13:54:34",
+	"files": [
+		{
+			"filename": "shack.wad",
+			"size": 36753,
+			"crc": 441981336,
+			"md5": "357699a5e63bfa8ef3dffe2527e710e8",
+			"sha1": "a32c1a9085eda9a3e0bb2c278c8dcd29f6f783ec",
+			"sha256": "e19715436efba164a233e3bc2e3259f9ea84b753e887379ec85b1fe9828c5579"
+		}
+	]
+}

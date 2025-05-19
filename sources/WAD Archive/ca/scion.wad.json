@@ -1,0 +1,16 @@
+{
+	"uid": "scion.wad",
+	"name": "SCION",
+	"description": "This is 9 levels of action that can be played as either individual or deathmatch play. I have tried to come up with unique themes for each level, and in some cases I think I have succeeded. Playing at difficulty setting of 3 only gives you the pistol until the last level (but plenty of ammo).",
+	"date": "2014-12-13 17:30:04",
+	"files": [
+		{
+			"filename": "scion.wad",
+			"size": 2001076,
+			"crc": 306366986,
+			"md5": "7b9c083613d55ab9cd6bdb0aa0bfac7a",
+			"sha1": "ca3ec8c3016920f13c139dbe05a3958ef48606db",
+			"sha256": "3e1c5fdaf076b64130eb1e9d0ad009f3f61a126d0f54e3683d9e41e17ac3248f"
+		}
+	]
+}

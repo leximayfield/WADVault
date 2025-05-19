@@ -1,0 +1,17 @@
+{
+	"uid": "31 (dec7b9).wad",
+	"name": "31.0",
+	"description": "Map submitted for Doom Calendar project",
+	"version": "dec7b9",
+	"date": "2015-09-15 17:53:56",
+	"files": [
+		{
+			"filename": "31.wad",
+			"size": 335874,
+			"crc": 622043138,
+			"md5": "153c2a15ba8f32e453bce348ba230ea8",
+			"sha1": "dec7b9aa7fbcd6078f3e4185994a8fad37481997",
+			"sha256": "2a18f271a69323fff5c931775350ddce9e4fe9e8e7787ffa81c8f86d670b5fe1"
+		}
+	]
+}

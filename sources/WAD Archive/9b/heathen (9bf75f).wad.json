@@ -1,0 +1,17 @@
+{
+	"uid": "heathen (9bf75f).wad",
+	"name": "Heathen",
+	"description": "Heathen.WAD is a 15 level collection of deathmatch WADs featuring levels from the Wadfather series for DOOM 2. The levels chosen were designed to emphasize the differences between DOOM 2 and HERETIC. There are no \"network-play only\" items, so what you see is what you get.",
+	"version": "9bf75f",
+	"date": "2014-12-30 11:29:48",
+	"files": [
+		{
+			"filename": "heathen.wad",
+			"size": 1026452,
+			"crc": 429021660,
+			"md5": "4d6941edc90975cc4e8b4fb246e06d32",
+			"sha1": "9bf75f6143a2cd7ee6283854d8bb6970e27899a6",
+			"sha256": "a5fbbf4156a5b01f8d008fde61e217eebadc1b5b735c5333c3a81dc19bf7cfee"
+		}
+	]
+}

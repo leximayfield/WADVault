@@ -1,0 +1,17 @@
+{
+	"uid": "OVERLORD (6f7434).wad",
+	"name": "Overlord.WAD",
+	"description": "You have been sent up to one of the latest moon bases to keep it from being beset from the strange creatures that have been coming from the teleporters. Your brother was on the first mission, sent to Phobos. He found something there that made UAC scared. The only trans- mission that you have gotten from him is the garbled message, \"I..escap....rom..ell!\". Now it is up to you to find out what happened.",
+	"version": "6f7434",
+	"date": "2013-11-02 15:17:39",
+	"files": [
+		{
+			"filename": "OVERLORD.wad",
+			"size": 95242,
+			"crc": 3745200250,
+			"md5": "42bd5091a5ff8249670f2599c8e50e1f",
+			"sha1": "6f7434615e6a13473be0f911d1b243fa2023bb0c",
+			"sha256": "2f5567c2c5e63d77538e51ba16b796024e8b03ef09e6729e3c0ce6da86d7b961"
+		}
+	]
+}

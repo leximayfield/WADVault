@@ -1,0 +1,16 @@
+{
+	"uid": "thoutin.wad",
+	"name": "The Outdoor Invasion",
+	"description": "Demons have captured the mountain base, you need to defeat all of them and make the base free to human's.",
+	"date": "2015-09-15 16:34:36",
+	"files": [
+		{
+			"filename": "thoutin.wad",
+			"size": 6625916,
+			"crc": 264774120,
+			"md5": "fc1aed1953ae2bfd3e69d54b5ba94e21",
+			"sha1": "012da7f93dedda26137dfc48aa251be5e78c4b0e",
+			"sha256": "348fef2fb6317bf661bb461a8c31a5392406df0199d28724a618a552afb778c9"
+		}
+	]
+}

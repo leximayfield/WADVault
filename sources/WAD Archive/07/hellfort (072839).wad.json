@@ -1,0 +1,17 @@
+{
+	"uid": "hellfort (072839).wad",
+	"name": "HELLFORT",
+	"description": "This wad was first made for Doom but then DoomII came out. I got the wad changer which switches Doom wads into DoomII wads. Then I changed most things and textures. This is a 3 level episode designed for multiplayer (either DM or Cooperative). The end level has Bosses so be prepared.PLEASE E-MAIL ME ON IF YOU THINK IT IS A GOOD DEATHMATCH WAD",
+	"version": "072839",
+	"date": "2013-11-02 15:39:06",
+	"files": [
+		{
+			"filename": "hellfort.wad",
+			"size": 309689,
+			"crc": 1614684758,
+			"md5": "d5b85ad1cbd097a185a72f19601a8165",
+			"sha1": "0728391f8a3bb23385bd7d595a06ace1440bb973",
+			"sha256": "966d1692b28a5fc96b9aadc5e7fa082991fa094c96716375e35f9b9a21a2c976"
+		}
+	]
+}

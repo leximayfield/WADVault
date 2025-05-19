@@ -1,0 +1,17 @@
+{
+	"uid": "Sewerage (a7f8e2).wad",
+	"name": "Sewerage",
+	"description": "My first map I deem good enough to be put onto the internet!",
+	"version": "a7f8e2",
+	"date": "2014-12-29 15:34:20",
+	"files": [
+		{
+			"filename": "Sewerage.wad",
+			"size": 188142,
+			"crc": 2008351279,
+			"md5": "47c1a51bada53b859bd99c0219a0e1e3",
+			"sha1": "a7f8e25744c9cc20e5e38df0d1dcca3a3abfb49b",
+			"sha256": "975342c125009d5987deddc56793ea6bedd38205be19462456e33b0e7d4058cd"
+		}
+	]
+}

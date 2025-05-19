@@ -1,0 +1,17 @@
+{
+	"uid": "hunter (4f244e).wad",
+	"name": "The Hunter",
+	"description": "A medium sized wad with just enough ammo to make it through without cheating. It is tough, but it be done. Made it through only once.",
+	"version": "4f244e",
+	"date": "2016-02-06 13:54:15",
+	"files": [
+		{
+			"filename": "hunter.wad",
+			"size": 156284,
+			"crc": 905727251,
+			"md5": "49e4ea6c6e33c5a5bb760384ba772004",
+			"sha1": "4f244e444eaac3b473d2845af6a8d79c52c1b3cf",
+			"sha256": "84f1e698887dfed6051ec9978e989e50634e92afa3bde05a019a9548a1e57aaf"
+		}
+	]
+}

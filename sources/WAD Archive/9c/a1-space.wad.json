@@ -1,0 +1,16 @@
+{
+	"uid": "a1-space.wad",
+	"name": "A1 Stud Muffin's SPACE",
+	"description": "A1-SPACE.WAD is a huge abandoned space-ship, with four major levels, all connected by a central elevator. Each level contains large areas, filled with various hazards, objects and weapons. The best bit: All the rooms etc. are connected by futuristic looking tunnels [a la ALIENS, but better graphics :)...] This WAD is designed for deathmatch... and SCARY deathmatch at that. For more atmosphere, read the background story.",
+	"date": "2013-11-02 17:11:29",
+	"files": [
+		{
+			"filename": "a1-space.wad",
+			"size": 616996,
+			"crc": 3563034938,
+			"md5": "4b55db9ff1b3254d2938aa0a40f6d7ae",
+			"sha1": "9cf27aa0ac8f8f868241550f4a8c8760d4b197a1",
+			"sha256": "0ecbc732cfb87609831b7a6ed45ccfe17caa27c35fb8d4c2eb01e48ea131e81b"
+		}
+	]
+}

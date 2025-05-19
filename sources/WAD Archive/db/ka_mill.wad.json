@@ -1,0 +1,16 @@
+{
+	"uid": "ka_mill.wad",
+	"name": "Doom Millennium Miniepisode",
+	"description": "My original maps for the Doom Millennium. I think it's time to release them to the public. After some balancing of ammo and monster placement, they play together quite well. Originally maps were on different mapspots than what they're now. MAP02 was MAP14, MAP03 was MAP18 and MAP04 was MAP20 in the initial megawad. Some of you might also notice that MAP02 has the same start as one map in my first megawad \"20 Days in Hell\" from 1996, which I originally never intended to be publicly released, but thanks to Paul Corfiatis, it was uploaded in the archives some years ago. All Millennium maps originally made in 1998-1999.",
+	"date": "2018-05-29 00:48:05",
+	"files": [
+		{
+			"filename": "ka_mill.wad",
+			"size": 4393988,
+			"crc": 2114758757,
+			"md5": "2d4c256894b146c9834d32be363bea5e",
+			"sha1": "dbe8dfe8674e3eccce7e6b5e5f3dea57038b919e",
+			"sha256": "e14927dd997e1e8f9d34350540f39b1758bb35bac9591bc9c7e6db157d6c0b2f"
+		}
+	]
+}

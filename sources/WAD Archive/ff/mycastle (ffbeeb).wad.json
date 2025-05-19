@@ -1,0 +1,17 @@
+{
+	"uid": "mycastle (ffbeeb).wad",
+	"name": "MYCASTLE.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. Basically you have a castle on an island. This castle is surrounded by a moat. The castle has a courtyard, and there are lots of rooms inside the castle. These rooms even come with furniture. Every weapon is available. You just have to find them. There are lots of secret rooms with one way walls and plenty of good shooting points. There is no exit on this level. There are no monsters on this level.",
+	"version": "ffbeeb",
+	"date": "2014-12-15 22:07:15",
+	"files": [
+		{
+			"filename": "mycastle.wad",
+			"size": 307892,
+			"crc": 2732827328,
+			"md5": "c551e2f2b9be16ae64db96bbdd87420b",
+			"sha1": "ffbeeb86ae5909a3228b276443062f6ea09648b4",
+			"sha256": "4711f2447d0b1009411a2feb7094ecf8d0dc14ef25a72ef9e2e53a8b5f337f0b"
+		}
+	]
+}

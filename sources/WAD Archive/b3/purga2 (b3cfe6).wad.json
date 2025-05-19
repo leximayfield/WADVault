@@ -1,0 +1,17 @@
+{
+	"uid": "purga2 (b3cfe6).wad",
+	"name": "PURGATORY 2",
+	"description": "This is the add on to the already successful PURGATOR.WAD. This version has those little bugs fixed. Ya'll know which one's. A teleport has been added to the pit. \"Since everyone who fell in it seemed to die :)\". Along with alot more inhancements, for better game play. \"Watch out for telefrags people. \" This wad runs well on a 486dx-50,and was meant to be played with Deathmatch 2.0.\"Due to the fact that this wad gets very dark.\"",
+	"version": "b3cfe6",
+	"date": "2013-11-06 22:29:36",
+	"files": [
+		{
+			"filename": "purga2.wad",
+			"size": 464552,
+			"crc": 2483978235,
+			"md5": "55e3e1bd7a5bcdb49bef40a25b2ff468",
+			"sha1": "b3cfe6579f00911065495c8442106453630a332c",
+			"sha256": "f2059ad15a7906c51ee186fedd7b1b2fd4c50ed86113d4fe6b1d79f1d9dba69a"
+		}
+	]
+}

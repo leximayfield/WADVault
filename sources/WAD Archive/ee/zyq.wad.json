@@ -1,0 +1,16 @@
+{
+	"uid": "zyq.wad",
+	"name": "Zyq",
+	"description": "Another speed map, this time taking place in an infected base. This one is also a map that mains with the chaingun and rocket launcher. There's a secret super shotgun, making the only secret in this map, but without it you can't just gun wildly.",
+	"date": "2014-12-29 16:42:09",
+	"files": [
+		{
+			"filename": "zyq.wad",
+			"size": 171744,
+			"crc": 3600322773,
+			"md5": "f9689a66bb3e8ebfd4e6f73b7e5ddee9",
+			"sha1": "ee758402445ef940b0f72e9abba5804a6fd92a8e",
+			"sha256": "918e5c23e1dec0bb21b0b5b780d0297c42f5808b8f0da09d13abfb937758f226"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "chasmtex (6245df).wad",
+	"name": "Chasm: the Rift Textures",
+	"description": "426 textures from Chasm: the Rift, including some skies.",
+	"version": "6245df",
+	"date": "2015-09-14 20:04:13",
+	"files": [
+		{
+			"filename": "chasmtex.wad",
+			"size": 5169364,
+			"crc": 3863933359,
+			"md5": "d23100ece121b536157d240ba8da2755",
+			"sha1": "6245df07dc7729f130f19fd6735f6af3857a31c6",
+			"sha256": "71539b119ed7326651bfa236785eaf47630458a62519ece5c73ada3cd4386146"
+		}
+	]
+}

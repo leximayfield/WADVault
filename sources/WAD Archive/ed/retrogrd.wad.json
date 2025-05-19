@@ -1,0 +1,16 @@
+{
+	"uid": "retrogrd.wad",
+	"name": "Retrograde",
+	"description": "My first ever map, from way back when. Sucks of course, but not as bad as many people's first maps, so all's good.",
+	"date": "2015-01-14 14:52:27",
+	"files": [
+		{
+			"filename": "retrogrd.wad",
+			"size": 344380,
+			"crc": 347586405,
+			"md5": "0c822cbaaf9299738f1a64ed189e203c",
+			"sha1": "ed96c57d8dd8dff6434dccf8dfd03623543cae29",
+			"sha256": "3ab084a6d2470b5a49a230a16004aaeeedc01d5bad5c63b21fe70bbda1d7c5cf"
+		}
+	]
+}

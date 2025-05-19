@@ -1,0 +1,17 @@
+{
+	"uid": "incubus (ed65a2).wad",
+	"name": "Incubus: The Dark Day in hell Sequel",
+	"description": "It's after your last disaster with the demons. You've conquered the first world, A Dark Day in Hell, now you've come upon a whole different batch of demons... The forces of the Incubus. They're much stronger than their predecessors, but you've got something in store for them...",
+	"version": "ed65a2",
+	"date": "2014-12-30 11:22:44",
+	"files": [
+		{
+			"filename": "incubus.wad",
+			"size": 1299785,
+			"crc": 878411589,
+			"md5": "d5c72a9d2015db6276d2d2aaadd8b72a",
+			"sha1": "ed65a2d85a98c1d0367cd48e21e09aabd434d052",
+			"sha256": "0a074f10cc5f0a0c382ccf7f88c248c0721eb492f5188c44b5646a2744f422e6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "marble (862bf2).wad",
+	"description": "You are called to a building that has been invaded by demons to clear them out. It is believed that they got in through the underground tunnels that the owners found. They locked the door that led to that area with a key in order to prevent more from comming in, but now they lost the key! Clear out the building, find the key, clear out the tunnels and find the source of them in the tunnels. This level was my first attemt at design tricks. I put some deep water into the level. This was also my first use of texture offsets to align them better. This is my 5th level.",
+	"version": "862bf2",
+	"date": "2015-09-15 17:16:34",
+	"files": [
+		{
+			"filename": "marble.wad",
+			"size": 109537,
+			"crc": 2800161690,
+			"md5": "7b03db6c96c3718d8fa0908e8e257ae5",
+			"sha1": "862bf2eee728a007fa34706ef5758c24cde38e4a",
+			"sha256": "10976ae385e87c42efad91c1519f7e96d004a6e24dc017884c3ed007d17a4590"
+		}
+	]
+}

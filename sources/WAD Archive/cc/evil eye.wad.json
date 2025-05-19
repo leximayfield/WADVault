@@ -1,0 +1,16 @@
+{
+	"uid": "evil eye.wad",
+	"name": "Evil Eye",
+	"description": "This is a puzzley map. Keep that in mind.",
+	"date": "2014-12-24 19:05:01",
+	"files": [
+		{
+			"filename": "evil eye.wad",
+			"size": 753544,
+			"crc": 4292917508,
+			"md5": "3b3a79f15631e10480f05e4331bdce3a",
+			"sha1": "cca4fc28394ad76550400c1b8609597f26ee7d02",
+			"sha256": "80ddf1a391effb5f307aa8da0b0a2da8847e2b4bfc011e31086d22a5f01d89dd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "watrcast.wad",
+	"name": "Water Castle v1.0a",
+	"description": "This map is the sequel to Water City, and as such picks up where that map left off. I think I did a much better job with this map then the former, as the detail level is much higher and I've implemented a few cool traps and puzzles.",
+	"date": "2014-12-30 11:35:27",
+	"files": [
+		{
+			"filename": "watrcast.wad",
+			"size": 438419,
+			"crc": 2753366440,
+			"md5": "d77fd5a08411fcccaee085042b9d5375",
+			"sha1": "1798a330fcb1cb3e3a7b72c739aa39437e51db8d",
+			"sha256": "67c34270bb89eeb3f31010f7cf8264b3ece6b478ee7683d4b39f78ed161fe7c4"
+		}
+	]
+}

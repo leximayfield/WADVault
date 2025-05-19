@@ -1,0 +1,17 @@
+{
+	"uid": "another (14e115).wad",
+	"name": "Another WAD",
+	"description": "A great level for Deathmatch games!!! Very difficult in single player games, but it can be beaten",
+	"version": "14e115",
+	"date": "2014-01-07 22:04:41",
+	"files": [
+		{
+			"filename": "another.wad",
+			"size": 232854,
+			"crc": 1747995259,
+			"md5": "26f7f0a59be2f0efad148d20e812295c",
+			"sha1": "14e11520571313977022f3adeb6d4da5d2860fb5",
+			"sha256": "4d42192bab1d530f6bd561316c02a4a317c3bcb646236db2d2fa090e37da1b6d"
+		}
+	]
+}

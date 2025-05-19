@@ -1,0 +1,16 @@
+{
+	"uid": "extermin.wad",
+	"name": "The Exterminator (Light version)",
+	"description": "It's a cartoony, MSPAINT weapons mod for the latest version of ZDoom (2.1.7 as of this writing). This is supposed to be the remake of my EDGE weapons mod, Immoral Conduct: Lizard Edition (ICD-Lizard). There aren't as many weapons as ICD-Lizard but I'm sure people won't mind. There are three new enemies, but they are human enemies, not the Lizards. There will be a full version with brand new enemies that are Lizards. Unfortunately, that might not be ready for a while. Look at the textfile EXTERMINATOR-DETAILS.TXT for more info on the new things found in this mod.",
+	"date": "2014-12-24 17:12:20",
+	"files": [
+		{
+			"filename": "extermin.wad",
+			"size": 3239052,
+			"crc": 613510634,
+			"md5": "d732add4844816a1535a39f563399e08",
+			"sha1": "c320f6ffc23f6ac2c5c21fdbf124fb976b921930",
+			"sha256": "5bca54d8bde8734ff15b8c63443b3acad7502c99ad4252eaf9174523e38ba4cb"
+		}
+	]
+}

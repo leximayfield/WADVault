@@ -1,0 +1,17 @@
+{
+	"uid": "castle5 (645ed9).wad",
+	"name": "Castle of Combat for HERETIC, REG ONLY",
+	"description": "This is level 5 of a ? level adventure originally designed as an AD&D game. You might recognize this layout as the city of Yvel from Lands of Lore. There are lots of surprises, running room and monsters to run from. Look for the other levels coming soon.",
+	"version": "645ed9",
+	"date": "2018-06-20 03:20:37",
+	"files": [
+		{
+			"filename": "castle5.wad",
+			"size": 145357,
+			"crc": 3540798805,
+			"md5": "9c644a02196b849b8e0e6f5931c5eedc",
+			"sha1": "645ed9999c2bc6c59603b9c03c92c0f94c0b2b33",
+			"sha256": "0eb377d316a368936106da7b7120b6e5446c466c6f39fde96d1cd0483f133329"
+		}
+	]
+}

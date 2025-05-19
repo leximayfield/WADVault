@@ -1,0 +1,16 @@
+{
+	"uid": "phobosdoomed.wad",
+	"name": "Phobos: The Doomed Moon",
+	"description": "Oldschool early 2000's style of maps that Is meant to be played with ZDoom at screen resolution 320x200 to give it that old computer pixel look. But can use whatever engine you want, Maybe even use some mods with It, your choice.",
+	"date": "2018-06-15 11:30:44",
+	"files": [
+		{
+			"filename": "phobosdoomed.wad",
+			"size": 10110755,
+			"crc": 1314817541,
+			"md5": "1fdd0bf20b63b45cba159f7620e364e4",
+			"sha1": "3c8db6ce532126f39bc072e11dded32e55f769dd",
+			"sha256": "96c2a16a97c96574126074e37311169861aad36804a3427df974cfea8cd5599d"
+		}
+	]
+}

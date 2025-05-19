@@ -1,0 +1,17 @@
+{
+	"uid": "hardcore (7b770a).wad",
+	"name": "Hardcore",
+	"description": "CDoom 2.07 test map.",
+	"version": "7b770a",
+	"date": "2014-12-22 18:51:56",
+	"files": [
+		{
+			"filename": "hardcore.wad",
+			"size": 631904,
+			"crc": 1729224473,
+			"md5": "678b18b94f91dba52c5551244b117e79",
+			"sha1": "7b770ab5fad61444ce994eb1ce4e4ed986d2e17e",
+			"sha256": "8ce93e7e83853e053022f942aeffd0d075b0c8d64ed88d00df8e64ca6f377f75"
+		}
+	]
+}

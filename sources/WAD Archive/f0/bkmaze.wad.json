@@ -1,0 +1,16 @@
+{
+	"uid": "bkmaze.wad",
+	"name": "Byron's Amateur Maze",
+	"description": "A small replacement for MAP01. My first full map.",
+	"date": "2014-12-15 22:17:25",
+	"files": [
+		{
+			"filename": "bkmaze.wad",
+			"size": 94954,
+			"crc": 904775219,
+			"md5": "63f75d98abca81bae6cd582a9f476f62",
+			"sha1": "f0d63260b22301e4d9e4456b6b52e5a1062347e0",
+			"sha256": "62f43cfcf452df95139b5b0f268468a8cf34dd75361e6db42c522d5603031189"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "disjunct (f105bd).wad",
+	"name": "Disjunction",
+	"description": "A small mapset containing 11 thematically and visually diverse maps. Bit challenging, but hope you have fun!",
+	"version": "f105bd",
+	"date": "2018-05-28 22:53:32",
+	"files": [
+		{
+			"filename": "disjunct.wad",
+			"size": 38081401,
+			"crc": 3090204237,
+			"md5": "16b2fcac0e3865ee92c8310354b4f70c",
+			"sha1": "f105bdfa86d40110573ca6282021fcb59a321c9d",
+			"sha256": "e6ad6c960c0f2c6aba7b72196666a1d97300879272e2236c04f182e5fa69fc0b"
+		}
+	]
+}

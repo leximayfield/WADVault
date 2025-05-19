@@ -1,0 +1,17 @@
+{
+	"uid": "nemesis (d9de25).wad",
+	"name": "Nemesis",
+	"description": "This level is a bit like 'Downtown' from Doom 2, but not half as big. There are 7 buildings in Mortal full of killing to be done. There are lots of secrets around and about which will help you greatly if you wish to find them. Please send any recordings to me at the above. Have fun!!!",
+	"version": "d9de25",
+	"date": "2014-08-30 14:01:33",
+	"files": [
+		{
+			"filename": "nemesis.wad",
+			"size": 180393,
+			"crc": 2625325162,
+			"md5": "81b3b87c84a3898dc4b7ad14f71272ef",
+			"sha1": "d9de257612a51770a15a9b5e92efc6aec569e468",
+			"sha256": "90718810afb6a001ed9fb2d465271940cc1a4844685bb3ac891343cbdf63dd11"
+		}
+	]
+}

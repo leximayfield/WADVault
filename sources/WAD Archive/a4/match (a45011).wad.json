@@ -1,0 +1,16 @@
+{
+	"uid": "match (a45011).wad",
+	"name": "TheMATCH",
+	"version": "a45011",
+	"date": "2014-01-07 21:54:19",
+	"files": [
+		{
+			"filename": "match.wad",
+			"size": 103489,
+			"crc": 1334861217,
+			"md5": "af63a5e69b58ff52e9fa731bc1b5efb0",
+			"sha1": "a450118a8d70ec7bff91e14db5dba14fe5575dfa",
+			"sha256": "60ae92ad08a1a4f0469fc26dc6a9682e207450739d3cbf65073e352d3e4ce603"
+		}
+	]
+}

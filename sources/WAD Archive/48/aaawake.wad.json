@@ -1,0 +1,16 @@
+{
+	"uid": "aaawake.wad",
+	"name": "Awakening",
+	"description": "Utilizing Jump or Crouch will break this level.",
+	"date": "2014-12-13 17:37:34",
+	"files": [
+		{
+			"filename": "aaawake.wad",
+			"size": 7559817,
+			"crc": 781303055,
+			"md5": "dc0687468ce5f485821fba760906872f",
+			"sha1": "486dc74fa32a8ba1c9e7555f3754d87d7efc8995",
+			"sha256": "b38ed009e953637fdb4b75963e08936fb9e37cee53747fd4bd57c7d308436810"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tranquil.wad",
+	"name": "Sea of Tranquility",
+	"description": "Keep your arms wholly within the vehicle. Watch out for the sharks!",
+	"date": "2015-01-14 22:56:48",
+	"files": [
+		{
+			"filename": "tranquil.wad",
+			"size": 110538,
+			"crc": 2148084238,
+			"md5": "ccd9d429c5cba950751b018f25d8af77",
+			"sha1": "a1c4bf098fc01c335e11695a1a45d26fdef3605c",
+			"sha256": "7f77ea9100894cb331fc6a35362e34529fde2fde08622f2ed6e3468b43eaec38"
+		}
+	]
+}

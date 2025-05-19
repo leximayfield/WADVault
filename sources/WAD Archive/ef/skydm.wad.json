@@ -1,0 +1,16 @@
+{
+	"uid": "skydm.wad",
+	"name": "Sky Deathmatch",
+	"description": "This level is a small DeathMatch castle in the sky. All weapons are available. Some windows for sniping.",
+	"date": "2014-12-15 22:09:47",
+	"files": [
+		{
+			"filename": "skydm.wad",
+			"size": 266424,
+			"crc": 589531653,
+			"md5": "105fc14986270163466989870d1e0c29",
+			"sha1": "ef91b5e15f0e2c63992e7a2672de04abce4e2e0a",
+			"sha256": "a9e334a89666425b2256b30c8cd3011f62baf92048091bf7ce69c2103c984e25"
+		}
+	]
+}

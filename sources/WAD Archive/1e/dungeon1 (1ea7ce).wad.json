@@ -1,0 +1,17 @@
+{
+	"uid": "dungeon1 (1ea7ce).wad",
+	"name": "Dungeon1.WAD",
+	"description": "You start in a creepy forest, shots ring out. Get going. Into the dungeon and out again. Watch your ammo, there is a best method.",
+	"version": "1ea7ce",
+	"date": "2013-07-09 20:22:00",
+	"files": [
+		{
+			"filename": "dungeon1.wad",
+			"size": 64912,
+			"crc": 2165527996,
+			"md5": "a362ecc8f64078c267cd3b97c35e06eb",
+			"sha1": "1ea7ce70add6dc42135d77613b34d2a02295a919",
+			"sha256": "1733e46792dfc8192197933b6111ffc9fd8b50170d2964b46577666c130be0e2"
+		}
+	]
+}

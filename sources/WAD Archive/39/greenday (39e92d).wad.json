@@ -1,0 +1,17 @@
+{
+	"uid": "greenday (39e92d).wad",
+	"name": "Green Day",
+	"description": "2 maps with grass. The theme is pretty nice I think.",
+	"version": "39e92d",
+	"date": "2014-12-14 20:34:03",
+	"files": [
+		{
+			"filename": "greenday.wad",
+			"size": 838172,
+			"crc": 3627279311,
+			"md5": "f0c03670ecc3d64e5c8b4a402f28ed34",
+			"sha1": "39e92d9575d51114eefff73927524f49e298c98c",
+			"sha256": "a6c2ec361021ad90b7c51e83f95ac0c6e96ab4ec66360343ece51bedeff7a6f7"
+		}
+	]
+}

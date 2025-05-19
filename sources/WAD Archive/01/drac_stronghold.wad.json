@@ -1,0 +1,16 @@
+{
+	"uid": "drac_stronghold.wad",
+	"name": "The Stronghold",
+	"description": "I made three deathmatch wads a while ago and finally decided to release them to the idgames ftp. This is one of them. In this map, you're going to be fighting in a military base with a central stronghold. Guys in the stronghold are a bit harder to get at, and can shoot your foot as you run past, so be careful. Weapons 3-5 can be found in the level for your convenience.",
+	"date": "2014-12-15 22:39:43",
+	"files": [
+		{
+			"filename": "drac_stronghold.wad",
+			"size": 21364,
+			"crc": 1105501680,
+			"md5": "e89d1d7caaaa2ed5f2ea80a86bd782ca",
+			"sha1": "01245b7e057203857bf339f5e4c8b6cce0496cb7",
+			"sha256": "33cd3f66ec54a0267b5cf41f101a6f361f1d4094acc5703e5627d9b7335fdfe6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gehna.wad",
+	"name": "Gehenna",
+	"description": "Gehenna was a fun project to work on. It was inspired mainly by KDIZD, and it shows. I had so much fun mapping for it. A lot of people believed I didn't quit making jokewads, but we finally settled that I'm not. I made this map incompatible with skulltag on purpose, because there are several 3D floors you need to see, and skulltag only has that on software mode, so play on zdoom if you want software rendering! Once I thought I was done with the map, I thought \"What the hell, add more!\", and people on the zdoom forums apparently like it, so I hope you like it too! So go play it!",
+	"date": "2014-12-24 19:08:47",
+	"files": [
+		{
+			"filename": "gehna.wad",
+			"size": 7256140,
+			"crc": 3281680988,
+			"md5": "94e83e18e403e8652b2a52158666418a",
+			"sha1": "87b8dceee998bb06161ef0c3ce55ced8f60d75ec",
+			"sha256": "c8263ebcdce82933e950ee766bf57fbab5f4b9c5f6b126f7d0f580a24aef68d5"
+		}
+	]
+}

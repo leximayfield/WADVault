@@ -1,0 +1,17 @@
+{
+	"uid": "castle (41e2ba).wad",
+	"name": "CASTLE",
+	"description": "The demons have taken an ancient castle, and it's your job to get it back.",
+	"version": "41e2ba",
+	"date": "2018-05-29 20:57:36",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 502030,
+			"crc": 4043329423,
+			"md5": "b1c9c263d6e8c82ab84094c315d20819",
+			"sha1": "41e2ba635059b99a0966e939da6e96258ee683ac",
+			"sha256": "885ec7342a3012f99826964cd0d87fb3b458695522a8860e44edc169ffbf4b94"
+		}
+	]
+}

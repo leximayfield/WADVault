@@ -1,0 +1,17 @@
+{
+	"uid": "hunter (07ddb3).wad",
+	"name": "The Hunter",
+	"description": "This wad was created for deathmatch, however the wad had enough action to go co-op or single. The world has changed. There is a mixture of places and time. The serpent rider is still on the horizon. He travels with the bull from the other side. It is your mission to defeat the rider and the bull. The area must be clear of all evil!",
+	"version": "07ddb3",
+	"date": "2013-11-02 16:40:15",
+	"files": [
+		{
+			"filename": "hunter.wad",
+			"size": 21570,
+			"crc": 903694327,
+			"md5": "bfa51c48302e2417c3959dd8ff3ea36c",
+			"sha1": "07ddb37fdbd18ecd94a92afe1278a231b4a0de15",
+			"sha256": "a98903ffaefd42e6faecc912756bc91c86668ba293bb9901fc8ee492df7df204"
+		}
+	]
+}

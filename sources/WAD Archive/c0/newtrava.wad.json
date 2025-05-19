@@ -1,0 +1,16 @@
+{
+	"uid": "newtrava.wad",
+	"name": "New Trava",
+	"description": "New map, rating PG-13. Tune in to Jet Set Radio!",
+	"date": "2015-01-13 21:50:44",
+	"files": [
+		{
+			"filename": "newtrava.wad",
+			"size": 245243,
+			"crc": 2854332744,
+			"md5": "c0d599e298f1c49b9ae333c84b1ee0d8",
+			"sha1": "c04775cc21a187034dcc5a57af7beec95511ef3a",
+			"sha256": "395396166aaaf2f09076ec5a803dc1849801873f5d5dedecbcdcc1a7bc8c364c"
+		}
+	]
+}

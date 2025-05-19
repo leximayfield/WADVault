@@ -1,0 +1,16 @@
+{
+	"uid": "horacero.wad",
+	"name": "Hora cero",
+	"description": "A map to doom 2",
+	"date": "2014-12-18 22:51:51",
+	"files": [
+		{
+			"filename": "horacero.wad",
+			"size": 988146,
+			"crc": 1906969468,
+			"md5": "e835b9400cc443eeb261a9d81a4df754",
+			"sha1": "213c44050675371dc4271116fdab3bdc88f35f1a",
+			"sha256": "67707cfc0a8a0c2317b033866c7a7d04c3688896cbf041db89da20fc3f83f8fe"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rots.wad",
+	"name": "Rise of the Scorned",
+	"description": "A 16 player DM Levle for online Doom Multiplayer",
+	"date": "2013-04-21 21:15:10",
+	"files": [
+		{
+			"filename": "rots.wad",
+			"size": 362579,
+			"crc": 450311771,
+			"md5": "6100bbeeb4faac3e952a56d74a2409a8",
+			"sha1": "6037b26615a001136d25c749677bc203651debd3",
+			"sha256": "232bda407ae6ab4c3c41d6b4036573af28fa3c032ec3e85f1f11c1768afeebed"
+		}
+	]
+}

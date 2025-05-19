@@ -1,0 +1,16 @@
+{
+	"uid": "heroes2_coop_fixed.wad",
+	"name": "Heroes 2 Coop Fixed",
+	"description": "This is the classic megawad Heroes2 fixed up for coop, with an embarrasing error in MAPINFO corrected.",
+	"date": "2013-04-21 00:47:56",
+	"files": [
+		{
+			"filename": "heroes2_coop_fixed.wad",
+			"size": 6846641,
+			"crc": 1599613858,
+			"md5": "4c9cd3f5bbd3447f0985e26ff887cc1b",
+			"sha1": "ae335ce971d8b8f0f10babfb6851bf271f17a5a1",
+			"sha256": "d4610980ab47dc810841d945626157de0df5ca9d8957de46275b5bace382f713"
+		}
+	]
+}

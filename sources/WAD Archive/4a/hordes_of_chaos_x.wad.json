@@ -1,0 +1,16 @@
+{
+	"uid": "hordes_of_chaos_x.wad",
+	"name": "Hordes of Chaos X",
+	"description": "Well, it's been quite a journey. Hordes of Chaos is finally done, with 25 maps. HOC X has all 4 previously released HOCs, plus the all new HOC 5.",
+	"date": "2013-04-18 21:59:47",
+	"files": [
+		{
+			"filename": "hordes_of_chaos_x.wad",
+			"size": 13012588,
+			"crc": 45980371,
+			"md5": "889ec9170a1c37c59a61b37c8e33c4ba",
+			"sha1": "4a4c4f57e6775a49c32543f71a5e60de704bfd7e",
+			"sha256": "2c5a116504d5578da202642eb676d8f2b9a42f98a3f216c63c85e286b6cc4938"
+		}
+	]
+}

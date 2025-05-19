@@ -1,0 +1,17 @@
+{
+	"uid": "lunatic (39f266).wad",
+	"name": "Lunatic",
+	"description": "The moon's orbit was slowed due to a headon collision with a giant ball of demons. Escape the moon before it crashes into the Earth!",
+	"version": "39f266",
+	"date": "2013-04-21 18:37:51",
+	"files": [
+		{
+			"filename": "lunatic.wad",
+			"size": 18160632,
+			"crc": 3217043557,
+			"md5": "1176a24a45420fcffabfb6ab2a63f7da",
+			"sha1": "39f266bca9d94882860786e0ae21b353b1b47f0b",
+			"sha256": "4ef88cf44d7d15effdf634811e3ae21fceaee21336870879c95af75b08783c9f"
+		}
+	]
+}

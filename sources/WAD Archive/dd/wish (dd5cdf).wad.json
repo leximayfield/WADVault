@@ -1,0 +1,17 @@
+{
+	"uid": "wish (dd5cdf).wad",
+	"name": "Wish You Were Here?",
+	"description": "Old and bad wad from like 1999 or something. I can do better!",
+	"version": "dd5cdf",
+	"date": "2014-12-29 15:17:20",
+	"files": [
+		{
+			"filename": "wish.wad",
+			"size": 672922,
+			"crc": 1517710239,
+			"md5": "4d583a7e941b372654f6a38670f047e8",
+			"sha1": "dd5cdf3a2fee6357e018a8fb0b49b5eb58f3ba36",
+			"sha256": "5bd2c6ecc176ce69056f8c3767d2c8734b43b0a6691844c941ac67782f09688d"
+		}
+	]
+}

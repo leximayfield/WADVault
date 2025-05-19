@@ -1,0 +1,17 @@
+{
+	"uid": "timjay (0fcf36).wad",
+	"name": "TIMJAY (DOOM II Deathmatch PWAD Collection)",
+	"description": "This PWAD is a mod of the original E1M1 mission in DOOM that has been revamped for OPTIMUM DOOM2 deathmatch play. Yea, I know, you're thinking \"Oh great, another E1M1 mod...\", but trust me, this one is GREAT for DM. Over 30 hours of playtesting on a 4 player network has contributed to making this level a superior Deathmatch PWAD.",
+	"version": "0fcf36",
+	"date": "2014-01-07 21:44:13",
+	"files": [
+		{
+			"filename": "timjay.wad",
+			"size": 894707,
+			"crc": 3676747055,
+			"md5": "e156861cde7408bce626c4711d74a2f4",
+			"sha1": "0fcf3672890293de317d1de5838f11bc109ed3ad",
+			"sha256": "969ab16d1ea472fc796e822c6702a9ed528463bcd6db69f31d7161872523fbed"
+		}
+	]
+}

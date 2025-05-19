@@ -1,0 +1,16 @@
+{
+	"uid": "walls1.wad",
+	"name": "Walls1 for doom2.",
+	"description": "A good Deathmatch wad with a lot of pillars and a couple of hidden doors with a couple of BFG'S inside.",
+	"date": "2014-12-15 22:40:49",
+	"files": [
+		{
+			"filename": "walls1.wad",
+			"size": 12686,
+			"crc": 2976213833,
+			"md5": "a9000322f035a586cee178eb7dbc6edf",
+			"sha1": "2d6a9cb103c25d48c2e9b00758c1f7077a69920f",
+			"sha256": "adb40c1be1c5739e65631aabc3c9c4190752b70b37aed60dbf5f83cb46e444dd"
+		}
+	]
+}

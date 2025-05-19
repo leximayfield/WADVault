@@ -1,0 +1,17 @@
+{
+	"uid": "sewer (84505b).wad",
+	"name": "\"Sewage Tunnels Of Hell\"",
+	"description": "You have just killed one of your incarcerators in this unholy prison cell that you find yourself... Can you make it out of prison and through the sewers to the pumping station exit? (Oh, one thing to remember..... THEY can see perfectly in the dark, you can't, so tread lightly...and good luck!",
+	"version": "84505b",
+	"date": "2014-01-07 21:50:47",
+	"files": [
+		{
+			"filename": "sewer.wad",
+			"size": 215262,
+			"crc": 1092764614,
+			"md5": "9dcf364bd23b8e97a66d1dbc71faf4cb",
+			"sha1": "84505bf5e747a8303946da7f6e32a1ea869dcc47",
+			"sha256": "8bad59980d0694dcad33d022f007d5c2d5476cbdc9e047f9732067b3dbed10c2"
+		}
+	]
+}

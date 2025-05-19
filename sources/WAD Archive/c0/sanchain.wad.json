@@ -1,0 +1,16 @@
+{
+	"uid": "sanchain.wad",
+	"name": "Sand Chain",
+	"description": "A small map for Doom II, but loaded with quality!",
+	"date": "2015-01-14 22:59:11",
+	"files": [
+		{
+			"filename": "sanchain.wad",
+			"size": 7718,
+			"crc": 2930516765,
+			"md5": "ef359d42d11526b6ce5547fa4e977b4b",
+			"sha1": "c00ec084ccd929d5c75f69f88d6331cc6e8a054b",
+			"sha256": "d8a64add667edd17ace1e0be1f90a4962a8d34cb3860c37460342905f0845646"
+		}
+	]
+}

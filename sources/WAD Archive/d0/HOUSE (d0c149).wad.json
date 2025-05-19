@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (d0c149).wad",
+	"name": "HOUSE.WAD",
+	"description": "There are absolutely no creatures to kill in this level.",
+	"version": "d0c149",
+	"date": "2013-11-02 15:10:31",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 79870,
+			"crc": 4009156386,
+			"md5": "e33c633fb34c8228dbc3a0ffb98c1cea",
+			"sha1": "d0c1491355dbec8d4017f27ce4fb020720a012f0",
+			"sha256": "3b3b0a1d82237b0ac7e0d72e342e9d8e88e030f179c79cbf743bfdebd253bb2f"
+		}
+	]
+}

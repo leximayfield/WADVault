@@ -1,0 +1,16 @@
+{
+	"uid": "caos2 (bddf04).wad",
+	"description": "Wad for DOOM2 built for being played #single#, #cooperative# and #deathmatch#. Include diferent levels. How can you describe a wad file? You play it, and have fun. (The Archville is free, watch out) (And save ammo).",
+	"version": "bddf04",
+	"date": "2014-12-03 20:17:32",
+	"files": [
+		{
+			"filename": "caos2.wad",
+			"size": 144803,
+			"crc": 1282581997,
+			"md5": "bb401a390e65e65f6b35c75415ef166d",
+			"sha1": "bddf0402cca1fcb37fdf2e45352bfa80ac5b4a41",
+			"sha256": "c2f6a04686b719aa8dc337a9e712c95ed27f21ccd8b0d9e248a747d226e0b1dc"
+		}
+	]
+}

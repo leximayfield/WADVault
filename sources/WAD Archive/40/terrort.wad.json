@@ -1,0 +1,16 @@
+{
+	"uid": "terrort.wad",
+	"name": "Terror Tomb",
+	"description": "You have descended into the eerie necropolis of those hellish creatures. Amongst rotten corpses and cobblestone walls, you fight to reach the undead king of horrors. Its defeat is your only way out.",
+	"date": "2016-07-21 19:34:57",
+	"files": [
+		{
+			"filename": "terrort.wad",
+			"size": 260778,
+			"crc": 250558884,
+			"md5": "c49f9994882c06d03866b0b1da3d6fe6",
+			"sha1": "4000feb8915d4b74071b7bc56bfd0267ec262082",
+			"sha256": "8df9f40c98bc45919e1cd4ae52f06a06486aedfc8f56d4166f4fcf27c3234c56"
+		}
+	]
+}

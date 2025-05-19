@@ -1,0 +1,17 @@
+{
+	"uid": "hello (628074).wad",
+	"name": "Goatse",
+	"description": "Caco sprite replacement. Load up E3M1 and enjoy!",
+	"version": "628074",
+	"date": "2015-09-15 16:21:39",
+	"files": [
+		{
+			"filename": "hello.wad",
+			"size": 113019,
+			"crc": 2788912228,
+			"md5": "8cb47b86a39a9cf1d53226d45998f88d",
+			"sha1": "628074687017d3bdb0eb14eff79067907eb6c266",
+			"sha256": "ec6c58c1a9d7decc38f71c1703cfdf53ae810c0f8b3c19fed27ec5bf9bd7436b"
+		}
+	]
+}

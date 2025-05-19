@@ -1,0 +1,17 @@
+{
+	"uid": "pimp (3a67c5).wad",
+	"name": "PIMP.WAD",
+	"description": "This is a collection of 27 Doom1 wads which have been converted to Doom2 format usind WadCat and Wad1to2. They are deathmatch wads specifically designed for 2-player DMing. They are, in my opinion, the very best doom1 wads, both in terms of playability and design. The conversion process changed some things that could not be helped, and the various doom2 editors out do not seem to let me correct the problems with ease, so some levels, such as ledgesi, may be a little different than you may remember. Nevertheless, these wads are the very best out there. When I converted them I changed all the shotguns to super-shotguns. Make sure when you play them to use the -timer option; otherwise you will not be able to exit some levels.",
+	"version": "3a67c5",
+	"date": "2014-01-07 22:05:46",
+	"files": [
+		{
+			"filename": "pimp.wad",
+			"size": 2586455,
+			"crc": 2219733919,
+			"md5": "9a7488caa7b404a8f6f4208e8b0d771c",
+			"sha1": "3a67c5048cd764d7ab6b7952d0011a1efeaa50c7",
+			"sha256": "2ee6f143d53ec61c35ecc4b39ddbb24175b5c8957deb1c5f99ce62b7149d47ad"
+		}
+	]
+}

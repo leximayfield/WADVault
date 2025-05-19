@@ -1,0 +1,16 @@
+{
+	"uid": "thirst.wad",
+	"name": "Thirst for Blood.",
+	"description": "DEATHMATCH level, designed for the THIRST FOR BLOOD competition. (1996)",
+	"date": "2014-12-15 23:15:40",
+	"files": [
+		{
+			"filename": "thirst.wad",
+			"size": 493125,
+			"crc": 768525766,
+			"md5": "aa8ee418c5d3d17976a90dd5cc4a7fab",
+			"sha1": "9b53e2d21d5609314a9379ac7a09353c51efd8e8",
+			"sha256": "cbf8c6be8676d8a59758b4f90d1519910901ca7b7947ce5b86c0ccef4c452851"
+		}
+	]
+}

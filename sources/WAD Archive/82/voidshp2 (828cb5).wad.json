@@ -1,0 +1,17 @@
+{
+	"uid": "voidshp2 (828cb5).wad",
+	"name": "Voidship2 v1.1",
+	"description": "In the ruins of Deimos base, the mop-up crew found plans for a ship that will cross the void between the galaxies. This ship will enable the Hell-Spawn to spread their evil across the entire universe! The engineers at UAC have been able to beef up a teleporter enough to send ONE marine into the ship, which is currently cruising the local galactic cluster. They can't bring him back, but it is believed there is an exit teleporter on the ship. Your mission is to neutralize (with extreme prejudice) the crew and get out alive!",
+	"version": "828cb5",
+	"date": "2013-11-04 20:15:50",
+	"files": [
+		{
+			"filename": "voidshp2.wad",
+			"size": 510924,
+			"crc": 2357910949,
+			"md5": "79c7c09a592a2d62658d7c1f381edf55",
+			"sha1": "828cb5fc189d86792d4bfcbd70a841388699e357",
+			"sha256": "58d70db88a452775a34a796f64d4effd189ebc7324b3ed0364ca601923914f50"
+		}
+	]
+}

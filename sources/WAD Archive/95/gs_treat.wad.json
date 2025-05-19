@@ -1,0 +1,16 @@
+{
+	"uid": "gs_treat.wad",
+	"name": "Ore Treatment Facility",
+	"description": "Another small map I made to train myself in scripting.",
+	"date": "2015-12-29 15:18:49",
+	"files": [
+		{
+			"filename": "gs_treat.wad",
+			"size": 2127291,
+			"crc": 3049186292,
+			"md5": "033a28ffc65a1b8c3c6a8c26b2f76396",
+			"sha1": "957a7d844ee1cd2c4d26b49d2cd1ca248f8823cd",
+			"sha256": "5d003159dcc127c99f6e171b01ad3dc68dc4dad06ee2beda218ea3530f40bc91"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "aimt.wad",
+	"name": "aimt",
+	"description": "A simple map for aim training. For simple i mean: a square witha button. It is not so hard, at least if the player use the difficulty \"hurt me plenty\", eventually the player will use all ammo and will die. There are enemy waves, and the player should manage to resist to these waves. To activate the wave, push the button. The map is called \"AIMT\" so to warp to the map one should type: \"map aimt\" in the console. Someone has commented that this level is ugly because has only one room, few textures and so on. The player is wrong. Why? Because if one wants to play a devel well designed then should not play this level. (there are a lot of levels on doomsworld) This levels is intended to put the player in front of a challenge: how long can you play before the death? How many monsters can you kill? Can you improve the ration monsters killed/time played? (there is a notify of the timer elepsed whn the player die) If there are other maps like this (or better), to do some aim training, i would like to know these! Contact me! Suggestions --------------- -Play at ultra violence -Don't run -Don't wait until your health is restored between two waves. -Play it with zdoom and the Ultimate DOOM as IWAD, else the map won't work! -Set \"team damage\" to 0, so monsters can't damage others monters -Play with chaingun only if you have enough clips How to load it------------- Simply load aimt.zip as external file in zDoom and then warp to the map.",
+	"date": "2014-12-13 17:38:18",
+	"files": [
+		{
+			"filename": "aimt.wad",
+			"size": 8464,
+			"crc": 4205805493,
+			"md5": "6a40e0fc8ed1e7ab025b9b62501ed7c3",
+			"sha1": "a83c52c1c26c3ab541c3b679d28801309c79dba8",
+			"sha256": "b458a97d2e6351edd4387d8e429987e1392d576b560e40f6fef2fff8baa2167a"
+		}
+	]
+}

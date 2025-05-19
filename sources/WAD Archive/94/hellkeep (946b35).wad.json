@@ -1,0 +1,17 @@
+{
+	"uid": "hellkeep (946b35).wad",
+	"name": "HellKeep V2.0",
+	"description": "Level starts in a fortress type setting, and later progresses into a variety of classical doom-style techno/hell themes. Fairly challenging, with plenty of surprises. This level was not designed specifically for deathmatch but Map 02 would, in our humble opinion, kick ass for that purpose, as would map 03. More levels are forthcoming... look for the latest versions of hellkeep on ftp.cdrom.com!",
+	"version": "946b35",
+	"date": "2014-10-14 20:56:28",
+	"files": [
+		{
+			"filename": "hellkeep.wad",
+			"size": 332044,
+			"crc": 1935327766,
+			"md5": "89325176d7faef8b05e32d7c0bdb5383",
+			"sha1": "946b3580ba4025b12d4244c96afc393ac7fd04b4",
+			"sha256": "1e31acde577625ab8d92a621afd16ca5f4d80f1e664da118792d25c9f0212c7d"
+		}
+	]
+}

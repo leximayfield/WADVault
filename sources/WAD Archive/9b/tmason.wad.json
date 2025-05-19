@@ -1,0 +1,16 @@
+{
+	"uid": "tmason.wad",
+	"name": "Troy's levels",
+	"description": "A three level wad, made for Deathmatch",
+	"date": "2013-11-06 22:36:49",
+	"files": [
+		{
+			"filename": "tmason.wad",
+			"size": 119944,
+			"crc": 983794169,
+			"md5": "1837700ebcde883ec53cff98957a169c",
+			"sha1": "9b5d835a9e3c35975e0bd4e900e9d93c0a70746a",
+			"sha256": "be293e1ba5cdc0b9278ec2ee1ef907f9c956a131fd314f8a0828472e94c543c8"
+		}
+	]
+}

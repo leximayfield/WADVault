@@ -1,0 +1,16 @@
+{
+	"uid": "alienated.wad",
+	"name": "Alienated",
+	"description": "Alienated is a 10-level wad made for GZDoom and Zandronum. It features levels of varying size and difficulty, all made with the Ancient Aliens texture pack. There are 9 regular levels and one secret map, accessible from map06. The wad is meant to be played with dynamic lights turned on. Freelook is recommended, but not required. No jumping or crouching. Do not use vanilla or software in the sector light mode settings, as these options can mess with certain tricks used in map08 and ruin the experience for you.",
+	"date": "2019-12-04 01:43:40",
+	"files": [
+		{
+			"filename": "alienated.wad",
+			"size": 121930706,
+			"crc": 2235672664,
+			"md5": "bcc8233073c4c37ba52cab79f12a7b64",
+			"sha1": "412b6fa68809da475d13752f260c134fb5998dd1",
+			"sha256": "90504134461e9f5413d382327da5db42e82d324b5e1c09838bf4c8c108b8d5fe"
+		}
+	]
+}

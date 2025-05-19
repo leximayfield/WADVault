@@ -1,0 +1,16 @@
+{
+	"uid": "t-gyro.wad",
+	"name": "Gyrotechnics",
+	"description": "No more than your average techbase style map, taking place in the mountains or something (don't bother asking why there are no mountains in the sky). To begin with, this was merely a 100 minute speedmap created in August of 2006, but has obviously evolved into an undoubtedly superior map (to the original, that is). Thanks to Belial, the gameplay is heavily refined since the original (map02), and detail added by moi. If you're only an average skilled player, it might not be best to play this on Ultra Violence, though what do I know about the average skill level.",
+	"date": "2014-12-29 16:51:30",
+	"files": [
+		{
+			"filename": "t-gyro.wad",
+			"size": 425366,
+			"crc": 241022149,
+			"md5": "7e591596d3870bc321b77afbae38cf35",
+			"sha1": "72cb4b01ec4b8afe5776629780e7c31df82032d6",
+			"sha256": "3f84e7eb4e18af3c4f6a9015de816892f31df6446e94e63b8cf36ce06976a02a"
+		}
+	]
+}

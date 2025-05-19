@@ -1,0 +1,16 @@
+{
+	"uid": "disrpair.pk3",
+	"name": "Secretdoom: Disrepair",
+	"description": "Disrepair is a 9 (10 counting secret) map episode that makes use of G/ZDoom enhancements, including, but not limited to, DECORATE monsters, 3D Floors, and Scripted Events. There is also a Survival Mode included, which changes seven of the maps into an endless horde mode with some slight objectives.",
+	"date": "2014-07-15 17:22:55",
+	"files": [
+		{
+			"filename": "disrpair.pk3",
+			"size": 16016582,
+			"crc": 876346560,
+			"md5": "bde02ed16b10aadb5a75d79207689bb0",
+			"sha1": "115804924713e4a792707bbf334cc88a9ba96512",
+			"sha256": "b80396467f9c297aac5782115f4aaa87e8b3bd1c28793811bcbf69bdd577ef37"
+		}
+	]
+}

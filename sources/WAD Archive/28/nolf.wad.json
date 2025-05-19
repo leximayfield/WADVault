@@ -1,0 +1,16 @@
+{
+	"uid": "nolf.wad",
+	"name": "No One Lives Forever!",
+	"description": "Consists of a building and an outside area. Inside the building is a 4 story killing ground that makes use of slopes and 3D floors. Run outside to get some health and prepare to get back in the action.",
+	"date": "2018-04-14 19:22:01",
+	"files": [
+		{
+			"filename": "nolf.wad",
+			"size": 115308,
+			"crc": 2681187447,
+			"md5": "0761f15dc6297996f0b15ffee8d42702",
+			"sha1": "281209a853e581fc6d62d76008218a318e66efa2",
+			"sha256": "a27723d8d4b59bf986d5f696e112ba3e3f2bd90368b4a307ccf2f5de44ea7d95"
+		}
+	]
+}

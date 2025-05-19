@@ -1,0 +1,16 @@
+{
+	"uid": "mav2c (d0fcd3).wad",
+	"name": "MAV2C - A Deathmatch WAD (BETA TEST) by Tom Neff Version of August 3, 1994 (E1M1 only)",
+	"version": "d0fcd3",
+	"date": "2013-11-02 15:15:38",
+	"files": [
+		{
+			"filename": "mav2c.wad",
+			"size": 135842,
+			"crc": 3849211445,
+			"md5": "92a7d6b53ab5e446c15e22124699af9d",
+			"sha1": "d0fcd31d48d0c07dcadba97a82659f4f3c39e136",
+			"sha256": "59ce09fccfd0c04d3fbdbf6a7a15b8bd7c4eefbb353248290c7326a139ec150b"
+		}
+	]
+}

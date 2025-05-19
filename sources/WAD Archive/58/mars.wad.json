@@ -1,0 +1,16 @@
+{
+	"uid": "mars.wad",
+	"name": "MARS",
+	"description": "A Very unique Level for DOOM.",
+	"date": "2014-12-13 17:36:32",
+	"files": [
+		{
+			"filename": "mars.wad",
+			"size": 405324,
+			"crc": 382563084,
+			"md5": "1b9bd54ea33dcbf064389f7d5eba56bb",
+			"sha1": "585b3f8f21fdca0ba91d5463bc25ec53f432123e",
+			"sha256": "4193e69b902ea6ff8cc456b0c8b6a1771b15f8f1f8eb9d95a8a933f43ed2093f"
+		}
+	]
+}

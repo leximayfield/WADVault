@@ -1,0 +1,16 @@
+{
+	"uid": "tlr19.wad",
+	"name": "The last resort [for DooM v. 1.9]",
+	"description": "The Last Resort (TLR) is a Deathmatch only episode. It contains the following: - Nine new levels from scratch, which replace Episode 2. - Over 700k of new graphics. - More than 200k of new sprites. - Some new sounds for the ending. - A new soundtrack consisting of 4 new songs. - A total of 12 LMP Deathmatch demos [Note by the uploader: 'The last resort' was originally released for DooM v. 1.666. This is an updated version, playable with v. 1.9, and because of that, with modern source ports. The original 1.666 -version can be downloaded here: [insert /idgames -mirror from end of this textfile]levels/doom/deathmatch/s-u/tlr.zip ] Read the background story at the end of this template.",
+	"date": "2014-12-13 17:33:52",
+	"files": [
+		{
+			"filename": "tlr19.wad",
+			"size": 2443232,
+			"crc": 528196050,
+			"md5": "bb46fd1a8d3b6c72b6c2970b664222de",
+			"sha1": "f20667184017ef8e9b1a38836935127bda8dfcdc",
+			"sha256": "b8fadcddfc9d7ff81ea28070d4fcdc250fe9b92a1d174131ab9c78feb385ac48"
+		}
+	]
+}

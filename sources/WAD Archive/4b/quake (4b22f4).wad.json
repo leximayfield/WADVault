@@ -1,0 +1,17 @@
+{
+	"uid": "quake (4b22f4).wad",
+	"name": "QuaKe.WaD",
+	"description": "Two new levels for Deathmatch.. ;) by RiCHaRD",
+	"version": "4b22f4",
+	"date": "2014-12-15 21:28:59",
+	"files": [
+		{
+			"filename": "quake.wad",
+			"size": 522284,
+			"crc": 624262801,
+			"md5": "58d1831bfa49eddd33fef922f639b4f8",
+			"sha1": "4b22f41bc12fd708e2a915cc4dd06b43946c5d11",
+			"sha256": "81606b6e2794e1c4a88f657260691b1346a420e8ffc4a121a7c6fd208fbc8ca5"
+		}
+	]
+}

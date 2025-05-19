@@ -1,0 +1,17 @@
+{
+	"uid": "pitfight (0556e2).wad",
+	"name": "Pit Fight!",
+	"description": "A fast-paced deathmatch level for Doom ][. Two really nice, but not easy to find, secrets are in this level. If you are the first to find them out, say goodbye to your friends. They won't have a prayer!",
+	"version": "0556e2",
+	"date": "2016-02-07 20:28:20",
+	"files": [
+		{
+			"filename": "pitfight.wad",
+			"size": 26121,
+			"crc": 2492961138,
+			"md5": "7146e07f2c05b49e6edbb68ee7ac8cfd",
+			"sha1": "0556e2e421d35fc6876a001e5c331d81b65ccff9",
+			"sha256": "c23c1c0db166c2b8551b10abe9eb80bb5601d02945e7371597959819fb1855d4"
+		}
+	]
+}

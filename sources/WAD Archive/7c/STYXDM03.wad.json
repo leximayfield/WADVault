@@ -1,0 +1,16 @@
+{
+	"uid": "STYXDM03.wad",
+	"name": "Styx Deathmatch 03",
+	"description": "small deathmatch level for fast 1-on-1 fragfests modified version of paranoi6.wad",
+	"date": "2014-12-15 21:29:06",
+	"files": [
+		{
+			"filename": "STYXDM03.wad",
+			"size": 102710,
+			"crc": 1014283576,
+			"md5": "1db5ae966c5bc4c524ee318f719974df",
+			"sha1": "7ca57edc03391bd90a9f4ac2e665ad06588ca091",
+			"sha256": "b3030bd5103369720bd7c242847d5303443081e5748aa73acf9a53aaafae8b6d"
+		}
+	]
+}

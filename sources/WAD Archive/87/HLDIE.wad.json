@@ -1,0 +1,16 @@
+{
+	"uid": "HLDIE.wad",
+	"name": "Lots-o-Deaths",
+	"description": "Small deathmatch level intended for well I donno what do you think. (Can be played solo)",
+	"date": "2014-10-28 21:55:08",
+	"files": [
+		{
+			"filename": "HLDIE.wad",
+			"size": 10311,
+			"crc": 886818423,
+			"md5": "e7b2d70dadd5907e63d0f3e618e81d99",
+			"sha1": "87d574b5660bf8030a9692462ad58814949bc7ab",
+			"sha256": "66dfd90b5d9c1e74fb5418ed87b0610034e823a2da6e55454d8c541954a5490d"
+		}
+	]
+}

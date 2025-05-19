@@ -1,0 +1,16 @@
+{
+	"uid": "yacsb.wad",
+	"name": "Yet Another Claustrophobia Styled Boss",
+	"description": "Read the title. I just made this to see what I could do with ACS.",
+	"date": "2015-09-14 22:30:23",
+	"files": [
+		{
+			"filename": "yacsb.wad",
+			"size": 4661915,
+			"crc": 3460696906,
+			"md5": "5764a0a0d659f0be91c3ad6a6aed3396",
+			"sha1": "e1f9467068be206c0730acfd48ab6fb01d174814",
+			"sha256": "8a4900cb5ad7a57c833d28356422be906e19950fa2451453e245f415feaf5e6d"
+		}
+	]
+}

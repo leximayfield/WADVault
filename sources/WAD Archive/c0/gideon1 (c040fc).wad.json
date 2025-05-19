@@ -1,0 +1,17 @@
+{
+	"uid": "gideon1 (c040fc).wad",
+	"name": "Gideon for Doom ][ Deathmatch",
+	"description": "A small level that is great for very fast, intense deathmatching. Enough room for 3, might be a bit crowded for 4 though.",
+	"version": "c040fc",
+	"date": "2014-01-07 21:56:11",
+	"files": [
+		{
+			"filename": "gideon1.wad",
+			"size": 34959,
+			"crc": 334840225,
+			"md5": "ef4c0e9ab2591f347646338e99033ddd",
+			"sha1": "c040fc57e7a6e915b27a92049e53c5ce3557164b",
+			"sha256": "1500e5514af808dbc12c07c286c0e52b1a301046b470ec5901f347bab0a1aa0d"
+		}
+	]
+}

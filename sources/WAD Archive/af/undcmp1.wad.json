@@ -1,0 +1,16 @@
+{
+	"uid": "undcmp1.wad",
+	"name": "Underground Compound",
+	"description": "An underground marine base. I made this map in one day to test my speedrun skills.",
+	"date": "2014-12-29 17:10:45",
+	"files": [
+		{
+			"filename": "undcmp1.wad",
+			"size": 12246752,
+			"crc": 3516972024,
+			"md5": "776feb9147d82ebe978c113beda8d7af",
+			"sha1": "af4eee1cc09eb8c28e3f43d6fb16912dd4997054",
+			"sha256": "e41df13b78f9db1e220ce0ca65e50140580c3dc04ab68ff92e944e7c728e8731"
+		}
+	]
+}

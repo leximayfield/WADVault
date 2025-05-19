@@ -1,0 +1,16 @@
+{
+	"uid": "c7rc.wad",
+	"name": "Corridor 7 TC Resource Files",
+	"description": "Priss.wad (Bubblegum Crisis DOOM/DOOM 2) : Caleb.wad (Caleb Skin for ZDOOM and Skulltag) What was going to be Corridor 7: Alien Invasion : Converted to DOOM Using ZDOOM, but scripting is : too hard and powerless, I dropped the TC. I wanted : to make it be like in Corridor 7. : I am releasing this to everyone so that they may : use them in their own WADs.",
+	"date": "2014-12-21 16:29:30",
+	"files": [
+		{
+			"filename": "c7rc.wad",
+			"size": 6292745,
+			"crc": 679170824,
+			"md5": "bad203c7bdbf15138af72144b3745a3b",
+			"sha1": "383ccd8a1e5dbfb4c4335a2585d34a197704f182",
+			"sha256": "5eb9ce7436947203b75c37b9d170b43e5ae23be701af712519c5ae02ab170c94"
+		}
+	]
+}

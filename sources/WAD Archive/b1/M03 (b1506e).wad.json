@@ -1,0 +1,17 @@
+{
+	"uid": "M03 (b1506e).wad",
+	"name": "The Gantlet",
+	"description": "This is simply a correction in a Mission 3 that is a part of the IWAD. It seems the placed a thing or two, and a door or two and forgot :( to hook them up to anything else. You could believe that or not, but in hooking up the things and doors properly the level is more interesting. The only thing I did was change the sector tag on two sectors in a way that is logical.",
+	"version": "b1506e",
+	"date": "2014-11-01 14:46:48",
+	"files": [
+		{
+			"filename": "M03.wad",
+			"size": 69665,
+			"crc": 945189724,
+			"md5": "338a8a045e0b38731ed83db829e8c75a",
+			"sha1": "b1506e524173196223fb9048cae66bf1a7d3bd68",
+			"sha256": "c91a2b9f63a85a6b8af4b708a719221e17349c126db6917af5c4e4fc45d9f4e3"
+		}
+	]
+}

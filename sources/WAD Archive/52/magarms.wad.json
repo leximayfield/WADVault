@@ -1,0 +1,16 @@
+{
+	"uid": "magarms.wad",
+	"name": "[MAG] Armory",
+	"description": "A mixed weapon mod originally created for the [MAG] HQ",
+	"date": "2013-04-21 21:13:17",
+	"files": [
+		{
+			"filename": "magarms.wad",
+			"size": 1510080,
+			"crc": 1568572305,
+			"md5": "3164e8c41959e4ee4bee492a0af33bef",
+			"sha1": "520516267cb1cdd2be56fe245b849e8d8c60f64e",
+			"sha256": "66a1fd1b43544028656408422ae1a50e44c3b129a6aa7a700905fba8c8436b0d"
+		}
+	]
+}

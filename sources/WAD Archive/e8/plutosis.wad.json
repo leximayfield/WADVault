@@ -1,0 +1,16 @@
+{
+	"uid": "plutosis.wad",
+	"name": "Plutosis",
+	"description": "4 maps for Plutonia.",
+	"date": "2014-12-29 08:58:09",
+	"files": [
+		{
+			"filename": "plutosis.wad",
+			"size": 868133,
+			"crc": 3131867777,
+			"md5": "65f7e3165ddc7e3bbd8d52a845a319da",
+			"sha1": "e89a172a5105ac0406f95dc7bb1b8f3a371cb644",
+			"sha256": "d61daeef2d623997343d845c1cf92c48a1e282327201fb2f597f41810ee8752a"
+		}
+	]
+}

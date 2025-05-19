@@ -1,0 +1,17 @@
+{
+	"uid": "rmh19wad (b3774f).wad",
+	"name": "rmh19.wad (revised demos for Doom 1.9)",
+	"description": "These wads are designed to be primarily for Deathmatch play, but the author intended for them to be still useful and enjoyable for play by individuals (or even cooperative mode). The designs are most conducive towards exciting Deathmatches, and all levels are relatively compact, but they are set up in such a way so that the other modes of play are still fun and fast-moving.",
+	"version": "b3774f",
+	"date": "2013-11-02 15:11:46",
+	"files": [
+		{
+			"filename": "rmh19wad.wad",
+			"size": 519311,
+			"crc": 617344116,
+			"md5": "e48df62518c2bc75821935d4e646c40d",
+			"sha1": "b3774f24056a8fddeb0ed2872618abadc6d5709d",
+			"sha256": "6800356c3ebbf594f66ad91fb605af5640ba57048f1160eae1e226e73755256e"
+		}
+	]
+}

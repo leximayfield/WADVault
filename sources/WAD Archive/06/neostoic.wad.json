@@ -1,0 +1,16 @@
+{
+	"uid": "neostoic.wad",
+	"name": "NeoStoic",
+	"description": "A deathmatch map with custom textures.",
+	"date": "2019-07-19 17:50:21",
+	"files": [
+		{
+			"filename": "neostoic.wad",
+			"size": 1232731,
+			"crc": 1603596751,
+			"md5": "2799374644e01b4d39db47cf5dfda82e",
+			"sha1": "062dcc7b8db1bcfbb0b99a56e0baa994815135d3",
+			"sha256": "91a2428cc3bec2a50505a285e09f70dc53fd92eae7f9ad707e6e99a1c05b1d7c"
+		}
+	]
+}

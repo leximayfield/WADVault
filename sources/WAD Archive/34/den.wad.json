@@ -1,0 +1,16 @@
+{
+	"uid": "den.wad",
+	"name": "The Den of Iniquity ( DEN.WAD )",
+	"description": "OK. So you've seen levels made of peoples' houses, workplaces, drinking holes, etc. before. Wot's so special about this house, I hear you cry?",
+	"date": "2014-12-15 21:23:15",
+	"files": [
+		{
+			"filename": "den.wad",
+			"size": 2265112,
+			"crc": 3010260396,
+			"md5": "f67406eca3feddd6d069646c24a43e16",
+			"sha1": "34926663a75ff9254a32ba8a214233ff2cdb504b",
+			"sha256": "c4cb18c041a5dbf0e827467581f6a62988fa46ab98bb9a3074917678f440b6f6"
+		}
+	]
+}

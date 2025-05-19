@@ -1,0 +1,16 @@
+{
+	"uid": "sub-ep.wad",
+	"name": "Subversion",
+	"description": "A 5 level episode for Doom. (6 maps w/ the secret that is) There are 3 former NHFL maps and 3 new ones. For more info, read the story.",
+	"date": "2013-04-22 00:44:31",
+	"files": [
+		{
+			"filename": "sub-ep.wad",
+			"size": 1149979,
+			"crc": 556542915,
+			"md5": "93a66e9f5355988406b40b92aaf622ea",
+			"sha1": "b34dbefb4478815193eb26a92fd785a7728e944f",
+			"sha256": "f13bc16147ce3511add9995626f348494b5b0dc60367ec1801cdef4f325d5971"
+		}
+	]
+}

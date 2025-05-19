@@ -1,0 +1,17 @@
+{
+	"uid": "pueblo (9e631b).wad",
+	"name": "PUEBLO.WAD",
+	"description": "This was a \"contract WAD\" for a well known Deathmatch tournament organizer who ultimately couldn't use it for business reasons. The client's requirements were that it run on 1.2, be pretty fast, have no nukage or other non-combat hazards, and have the exit clearly marked but hard to abuse. My goals were that it look memorable, play well, and have graded difficulty. The result was influenced by my travels in Taos and the High Southwest. I hope you like it.",
+	"version": "9e631b",
+	"date": "2013-11-04 19:22:47",
+	"files": [
+		{
+			"filename": "pueblo.wad",
+			"size": 227948,
+			"crc": 4251845167,
+			"md5": "b33fa56c0a39b521cae64cd0d224d637",
+			"sha1": "9e631b325c1d2f3e3632d63060b592d956e15a9e",
+			"sha256": "57e4d94b4c7f28354c7a8c3bfdd75b5bdedff73ff15486827302473ea3c4f5cd"
+		}
+	]
+}

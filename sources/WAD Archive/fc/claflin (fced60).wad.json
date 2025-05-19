@@ -1,0 +1,17 @@
+{
+	"uid": "claflin (fced60).wad",
+	"name": "Claflin Hall goes to Hell",
+	"description": "This level is a take-off of my Dorm (Claflin Hall) at Boston University. There have been many elements added to make it interesting. This is my first Wad, yet it doesn't suck!",
+	"version": "fced60",
+	"date": "2015-12-07 08:07:51",
+	"files": [
+		{
+			"filename": "claflin.wad",
+			"size": 159868,
+			"crc": 3586785284,
+			"md5": "3df55dedc2d471964fcbe19b0c12afd8",
+			"sha1": "fced60d7966c295e83ca69bb9848e4c75b2b8a5d",
+			"sha256": "e322e62bf0968fe28ef6610db4d21807bd9942eb541b249454778dc9a97b70b4"
+		}
+	]
+}

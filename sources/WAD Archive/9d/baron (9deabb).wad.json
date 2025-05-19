@@ -1,0 +1,17 @@
+{
+	"uid": "baron (9deabb).wad",
+	"name": "Baron Castle",
+	"description": "This is my first level made from scratch! Level is a castle with several rooms with Barons of Hell. Let me know if it's good, it sucks or whatever.",
+	"version": "9deabb",
+	"date": "2016-02-06 14:03:42",
+	"files": [
+		{
+			"filename": "baron.wad",
+			"size": 82126,
+			"crc": 16714300,
+			"md5": "f12b5f4b2f1341053085fa4c790b7a5b",
+			"sha1": "9deabbe7a0ada0c84e44da97c50adb118312dedc",
+			"sha256": "b29963f1b963aafedd9a758422628f8138289d7b31404a0b692ff83521ebc7b1"
+		}
+	]
+}

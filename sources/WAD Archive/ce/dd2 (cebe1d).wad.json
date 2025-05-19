@@ -1,0 +1,17 @@
+{
+	"uid": "dd2 (cebe1d).wad",
+	"name": "DominationDuel2",
+	"description": "Gothic Duel maps",
+	"version": "cebe1d",
+	"date": "2013-04-19 04:46:16",
+	"files": [
+		{
+			"filename": "dd2.wad",
+			"size": 5985320,
+			"crc": 1462448789,
+			"md5": "d1902881204215433ad749fe253333e5",
+			"sha1": "cebe1d37facefcbf025d61482bcbc44851b28a02",
+			"sha256": "1e288ae1f307f8022d23db07ea1244c3bcba2c6e47a68997782c0836cc6ec6dc"
+		}
+	]
+}

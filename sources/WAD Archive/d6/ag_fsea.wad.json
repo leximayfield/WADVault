@@ -1,0 +1,16 @@
+{
+	"uid": "ag_fsea.wad",
+	"name": "Under a Freezing Sea",
+	"description": "Originally meant for \"The Joy of Mapping 5\", this Bioshock inspired map takes you to an underwater base infested with hellspawn. Lots of swimming and custom enemies await!",
+	"date": "2019-03-06 21:49:29",
+	"files": [
+		{
+			"filename": "ag_fsea.wad",
+			"size": 12327283,
+			"crc": 840911425,
+			"md5": "c83021c0a7bda3707bc160ae8b105748",
+			"sha1": "d699f0d2d6e7bd57cb57d88cd7d72d08997e30c9",
+			"sha256": "0f3af40d0871a18a31940232249f0222dd11941ed430354d5b4a06e7d3a04d3b"
+		}
+	]
+}

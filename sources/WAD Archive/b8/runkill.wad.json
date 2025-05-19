@@ -1,0 +1,16 @@
+{
+	"uid": "runkill.wad",
+	"name": "Run & Kill",
+	"description": "This level is to be intended as a sort of exercise. I made it because I wanted to practise in editing Doom levels, before working again on my big projects. So don't wait for a detailed map, but for a difficult level. I focused my attention more on the difficulty of the level than on the graphics and architecture. So you will face hard fights! About graphics, the best- looking area is the court-yard beyond the two locked doors. Some suggestions: 1) don't waste your ammo; 3) don't kill all the monsters, otherwise you can find yourself without ammo; 4) if you are in trouble, try to run away; 5) be careful, because there are a lot of tricks and traps.",
+	"date": "2014-12-29 08:45:56",
+	"files": [
+		{
+			"filename": "runkill.wad",
+			"size": 721718,
+			"crc": 4138601627,
+			"md5": "149ed6cfd9429aacf68b872cf70ceca7",
+			"sha1": "b8c0d9a13a1c3fa6ead305bbada17b8adcd3645e",
+			"sha256": "5dafcc983702463c766c5bb64761ccfd3eae023229a2cb2fcc35c00f83f0b94a"
+		}
+	]
+}

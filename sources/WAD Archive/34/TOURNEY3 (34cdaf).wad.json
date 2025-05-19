@@ -1,0 +1,17 @@
+{
+	"uid": "TOURNEY3 (34cdaf).wad",
+	"name": "TOURNEY 003",
+	"description": "This file was created especially for a VGC (Virtual Gaming Center) tournament (see TOURNEY5.VGC and RESULT.T5 files included within this ZIP).",
+	"version": "34cdaf",
+	"date": "2014-01-11 11:15:16",
+	"files": [
+		{
+			"filename": "TOURNEY3.wad",
+			"size": 174529,
+			"crc": 4103601596,
+			"md5": "d37fb000d9729986ae048a2fdb746b33",
+			"sha1": "34cdafdf06f97bf8acb4ad70ad3ded0fa5a6dd0b",
+			"sha256": "0eb644bbb5173a89d31634dc54d9df70e8fcfc9bb4bdb6ad4012849784aad7c7"
+		}
+	]
+}

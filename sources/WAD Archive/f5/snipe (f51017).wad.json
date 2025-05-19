@@ -1,0 +1,17 @@
+{
+	"uid": "snipe (f51017).wad",
+	"name": "Snipe - Paintball Arena",
+	"description": "An exact emulation of a paintball arena I once played on",
+	"version": "f51017",
+	"date": "2014-12-15 21:57:58",
+	"files": [
+		{
+			"filename": "snipe.wad",
+			"size": 78768,
+			"crc": 383037450,
+			"md5": "74a93558b78c8d6b29f984ccf699a54b",
+			"sha1": "f5101732c12937edb61ce1153853821c2bd1a51c",
+			"sha256": "ac507b9a4b672a2224aa9fc3ab46728984bece8ea9b5ef5e9120080974836b72"
+		}
+	]
+}

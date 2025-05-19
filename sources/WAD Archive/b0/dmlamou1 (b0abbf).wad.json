@@ -1,0 +1,17 @@
+{
+	"uid": "dmlamou1 (b0abbf).wad",
+	"name": "My first level Version 2.0 : it's a long and",
+	"description": "It's my first level. It's a long and difficult one.",
+	"version": "b0abbf",
+	"date": "2013-11-04 20:11:51",
+	"files": [
+		{
+			"filename": "dmlamou1.wad",
+			"size": 379341,
+			"crc": 835558547,
+			"md5": "b7309a5c685979573c821d18f1c13097",
+			"sha1": "b0abbfc7a8e92b9e9b1783fd3a365ef637ec55b2",
+			"sha256": "d245ff584ed6410773ac79303c1fb78421e4af066c70a7dc0e5c3f35caae653f"
+		}
+	]
+}

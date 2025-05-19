@@ -1,0 +1,16 @@
+{
+	"uid": "delta.wad",
+	"name": "DELTA",
+	"description": "Just a small 1 level WAD i made as a testing ground for future projects. I would REALLY appreciate feedback! YOU NEED BRUTAL DOOM!!!",
+	"date": "2019-06-22 13:39:41",
+	"files": [
+		{
+			"filename": "delta.wad",
+			"size": 409624,
+			"crc": 2925774673,
+			"md5": "ea6e8fb36793533a65292aab3ffebe92",
+			"sha1": "bc5b36a4b711018dc54193a7739ac4e61969a349",
+			"sha256": "5dc2eb19ebe19ab6f4e60398d06a80325d5f6eec81097f3bd6abe24199cd0d7e"
+		}
+	]
+}

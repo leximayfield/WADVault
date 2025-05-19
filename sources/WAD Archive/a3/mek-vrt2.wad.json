@@ -1,0 +1,16 @@
+{
+	"uid": "mek-vrt2.wad",
+	"name": "Vertigone",
+	"description": "This was the sequel to my first DM map, Vertigone...hence the 'II'. If I had known more about mapping and detail, the original would have looked something like this since the original concept was some sort of floating ruins. The map is fairly large and can easily handle 16+ players for all types of DM and DM-variant games. I re-released the map in STLMSv3.wad with some tweaks. I made some texture pallete changes and reorganized the maps layout so that it flowed and played better. Both versions play ok, so that's why I decided to keep this version as a seperate, playable standalone map.",
+	"date": "2014-12-12 14:10:24",
+	"files": [
+		{
+			"filename": "mek-vrt2.wad",
+			"size": 2729421,
+			"crc": 3980021291,
+			"md5": "8989907c5ee39f45be05086feff3d0fb",
+			"sha1": "a374f3d1373df0bc3727270ef0d31fb0fac83364",
+			"sha256": "d4c983b42517d83859eba59df2ea35a4611d25d23c7f7a2d4270cdc57cb7feae"
+		}
+	]
+}

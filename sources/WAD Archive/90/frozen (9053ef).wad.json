@@ -1,0 +1,17 @@
+{
+	"uid": "frozen (9053ef).wad",
+	"name": "Frozen!",
+	"description": "You've become trapped with a Cyber Demon. Now get out of that hell!",
+	"version": "9053ef",
+	"date": "2019-09-30 01:27:50",
+	"files": [
+		{
+			"filename": "frozen.wad",
+			"size": 165149,
+			"crc": 4031288086,
+			"md5": "429a6d76f3ebb9e23b5e78db0b2e465c",
+			"sha1": "9053efcebfe579a8696d9755e79767c9babcf281",
+			"sha256": "bf1d7ae882189b620a08149925b144b4fd2be6cdfb67e094a20343d613d222ee"
+		}
+	]
+}

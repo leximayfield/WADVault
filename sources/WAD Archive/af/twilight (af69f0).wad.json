@@ -1,0 +1,17 @@
+{
+	"uid": "twilight (af69f0).wad",
+	"name": "Twilight.WAD",
+	"description": "All original \"Made from scratch\" level with lots of lifts, triplines, stairs and doors. Designed to be a solo or cooperative level but could be edited into deathmatch without much difficulty. Purposely, dark and confusing. Lots of monsters, lots of ammo, but just enough medical & stim kits to get you through. Goes to the Military Base - Secret Level upon exiting.",
+	"version": "af69f0",
+	"date": "2013-11-06 22:22:31",
+	"files": [
+		{
+			"filename": "twilight.wad",
+			"size": 117014,
+			"crc": 4215248425,
+			"md5": "0f757e0a8d2c75f39732908f3c864cfb",
+			"sha1": "af69f03841fb6cb35c2dfb927437444c15d1bee0",
+			"sha256": "18d52b69dc330b65931219f8d71f18b5e3abc9c1ed74bea157594c45185c51e1"
+		}
+	]
+}

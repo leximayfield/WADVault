@@ -1,0 +1,16 @@
+{
+	"uid": "hatchet.wad",
+	"name": "The Hatchet",
+	"description": "A standard base type level, wich got it name from the starting area. Moderate challenge, one new texture.",
+	"date": "2014-12-18 23:08:35",
+	"files": [
+		{
+			"filename": "hatchet.wad",
+			"size": 175051,
+			"crc": 3342223999,
+			"md5": "0e3557391ecc8660f9d7f3c037954241",
+			"sha1": "735e09cb29c20a6ef7d72939dc5ae4ebe401ec36",
+			"sha256": "46197d692556a28ed5c8e54cd7ba51be510c973c47d20c26109dc6d69bce9e18"
+		}
+	]
+}

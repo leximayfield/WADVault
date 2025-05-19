@@ -1,0 +1,16 @@
+{
+	"uid": "smudge.wad",
+	"name": "YE OLDE SMUDGE WAD (ChrisK for Heretic)",
+	"description": "Complete Chris Klie levels for Heretic.",
+	"date": "2013-11-02 16:38:28",
+	"files": [
+		{
+			"filename": "smudge.wad",
+			"size": 240138,
+			"crc": 2211824549,
+			"md5": "46a705f7956fd7cdfa0d0265b406c867",
+			"sha1": "b10a65f4be5afa6b8ee53af8c2a20f23e7bd2e11",
+			"sha256": "8819fd790a5d16d5d989c75279e71bef77996908c25e4922704b763b3901a8f2"
+		}
+	]
+}

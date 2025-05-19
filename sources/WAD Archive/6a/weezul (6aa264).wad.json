@@ -1,0 +1,17 @@
+{
+	"uid": "weezul (6aa264).wad",
+	"name": "WEEZUL.WAD",
+	"description": "Your buddies have been tortured... you can't escape but you CAN kill.",
+	"version": "6aa264",
+	"date": "2013-11-02 15:07:58",
+	"files": [
+		{
+			"filename": "weezul.wad",
+			"size": 292501,
+			"crc": 1715478415,
+			"md5": "80f4e0b8e49722168e55989c195cc102",
+			"sha1": "6aa264dc11f837fc71203a78d1b690d1d824f967",
+			"sha256": "6fd6078b6a499b78b1ea0cfe60363f5c9d93d700112ac216e5bf51abd1fcc3e1"
+		}
+	]
+}

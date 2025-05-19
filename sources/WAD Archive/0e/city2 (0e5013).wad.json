@@ -1,0 +1,17 @@
+{
+	"uid": "city2 (0e5013).wad",
+	"name": "City2.wad",
+	"description": "A semi Sequel to City.wad. I just made a new city level, and felt it was proper to add it to my original city.wad so it is the first level and the others follow it.",
+	"version": "0e5013",
+	"date": "2014-12-15 22:30:21",
+	"files": [
+		{
+			"filename": "city2.wad",
+			"size": 293969,
+			"crc": 2499435246,
+			"md5": "17ea25dcfc9ee6431d5511ebc671b2bd",
+			"sha1": "0e501354b13af019ef056422cfbdd77ff43bc673",
+			"sha256": "114c7dc46fec84336ce94aa12c5053ec9bb4a16423239f7f78902d7d3438d14f"
+		}
+	]
+}

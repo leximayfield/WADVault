@@ -1,0 +1,16 @@
+{
+	"uid": "cannon23.wad",
+	"name": "Happy Birthday Cannonball!",
+	"description": "This is a single level WAD to mark the 23rd anniversary of Cannonball, Happy Birthday, Mister!",
+	"date": "2018-05-28 19:20:31",
+	"files": [
+		{
+			"filename": "cannon23.wad",
+			"size": 18229,
+			"crc": 2691671468,
+			"md5": "5e512d687d121c5c9e847eb2e3ce9567",
+			"sha1": "d33745fc2b2554a1cfec48cb1cc1bf02cf534bfe",
+			"sha256": "3883af5998d9fe2321041792b66414a9f77024caf0d63c92dd0d57a1b9a704f6"
+		}
+	]
+}

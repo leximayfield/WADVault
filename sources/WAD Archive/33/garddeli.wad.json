@@ -1,0 +1,16 @@
+{
+	"uid": "garddeli.wad",
+	"name": "Garden of Delight",
+	"description": "A small Hexen adventure. The Serpent Riders have been banished, yet chaos still corrupts this land. It's up to you to investigate.",
+	"date": "2014-12-31 12:16:44",
+	"files": [
+		{
+			"filename": "garddeli.wad",
+			"size": 70319,
+			"crc": 1486370510,
+			"md5": "1a75643d588447d368a9376c0746839c",
+			"sha1": "334d45dc4d23319b92c928c7da83e1aeeec34697",
+			"sha256": "3ad9632fb411b96c87ee5c71510ac5db187b24ab4b7011734b75bc5285aca5ec"
+		}
+	]
+}

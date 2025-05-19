@@ -1,0 +1,16 @@
+{
+	"uid": "ioutpost.wad",
+	"name": "Infested Outpost",
+	"description": "Single player level for vanilla doom 2 with some dehacked modifications in concrete base and cave/mountain style. Playing on Ultra Violence is recommended. Note: do NOT use mods that alter doom 2 things (Brutal Doom for example), they will conflict with dehacked modifications.",
+	"date": "2018-03-27 21:12:13",
+	"files": [
+		{
+			"filename": "ioutpost.wad",
+			"size": 5002008,
+			"crc": 643971802,
+			"md5": "8a91f6654fffa082a490ae1483cf19f9",
+			"sha1": "8a5518fe722cc3cadd7c6690e4f5d50e84a6e108",
+			"sha256": "49cf6c145861cab57a6f087197c1dbc0a9ffe5ce66b40332ed38d2c690a8c997"
+		}
+	]
+}

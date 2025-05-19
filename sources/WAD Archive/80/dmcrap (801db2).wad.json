@@ -1,0 +1,17 @@
+{
+	"uid": "dmcrap (801db2).wad",
+	"name": "CRAP.WAD",
+	"description": "A file which shows you how NOT to make a WAD file. Caution: If your computer screws up then it's your fault. Use this file AT YOUR OWN RISK!!!!!",
+	"version": "801db2",
+	"date": "2013-11-02 15:08:36",
+	"files": [
+		{
+			"filename": "dmcrap.wad",
+			"size": 14703,
+			"crc": 328831353,
+			"md5": "184355b4aa2253ca4b8c00e0d2e8c1bc",
+			"sha1": "801db2509bfcbf46d59b13d145e008856ce2c993",
+			"sha256": "d3949024dcbcaa17cc0d4fe7789ddfe7b8c94454fc8cd9dfc85c130f1096292c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bhouse (040d6f).wad",
+	"name": "BHOUSE",
+	"description": "This is a minor update to Bhouse which gets rid of the need to load the doom1 to doom2 textures alongside it. Doom1 to Doom2 textures are credited to Sargebadly.",
+	"version": "040d6f",
+	"date": "2014-12-21 17:06:16",
+	"files": [
+		{
+			"filename": "bhouse.wad",
+			"size": 1176936,
+			"crc": 4110207985,
+			"md5": "91558043d55701c0051753a61c525757",
+			"sha1": "040d6f174b5d8414abd4da3442dce0cb46e0b773",
+			"sha256": "26d1f488411827b344bd0a8c555cc1ba2107b5db71e08c5e33feedf8d1cee74e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "divint.wad",
+	"name": "Divine Intervention",
+	"description": "A weapons mod focusing on magical types of weapons such as the voodoo doll, the plague staff, and the Holy Hand grenade. #CLEARALL command added to remove all original doom weapons. (Thanks to WildWeasel)",
+	"date": "2014-12-10 22:45:51",
+	"files": [
+		{
+			"filename": "divint.wad",
+			"size": 1774624,
+			"crc": 1493550282,
+			"md5": "3a7c5f7c11105f0a274d2df9a354b983",
+			"sha1": "921c233c6d3f771698314b7c8cee1c7bfbeaca31",
+			"sha256": "8670fcf1ac6abb389da59db5f198ae1cd9bac80f47005c42df8a1bdf934603c5"
+		}
+	]
+}

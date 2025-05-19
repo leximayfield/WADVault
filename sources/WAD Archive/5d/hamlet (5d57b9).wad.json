@@ -1,0 +1,17 @@
+{
+	"uid": "hamlet (5d57b9).wad",
+	"name": "Hamlet - Hell on Stage",
+	"description": "Hell has broken loose in the world of theatre. You must appear both on stage and in the audience to put things right again.",
+	"version": "5d57b9",
+	"date": "2018-05-28 22:10:49",
+	"files": [
+		{
+			"filename": "hamlet.wad",
+			"size": 241903,
+			"crc": 4204522713,
+			"md5": "8e7c099b2d7a05efdc150f9231dea6e0",
+			"sha1": "5d57b99b17c8e0330a1001da977379dc628aae19",
+			"sha256": "541de81b132eceeb2a435f3261c78224a2045f70f12e47a4cf8c3a27b25ef7b7"
+		}
+	]
+}

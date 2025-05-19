@@ -1,0 +1,17 @@
+{
+	"uid": "dg-core (d8a632).wad",
+	"name": "DG-CORE Final Mutation 4/23/95",
+	"description": "H2H BBS (619) 426-0073 jelson@conline.com Deathmatch - Single & Co-Op Too!",
+	"version": "d8a632",
+	"date": "2014-12-18 22:29:16",
+	"files": [
+		{
+			"filename": "dg-core.wad",
+			"size": 455428,
+			"crc": 2810165786,
+			"md5": "55efb7ff65f1584bed1d934f52068784",
+			"sha1": "d8a6320ab3a538760eb646f14d00968538a29c79",
+			"sha256": "55177a5012df2771426010e2e1f2d4eee9e2d54b9bf418d97c907d8127f920dc"
+		}
+	]
+}

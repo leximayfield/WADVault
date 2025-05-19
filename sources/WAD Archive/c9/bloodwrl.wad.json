@@ -1,0 +1,16 @@
+{
+	"uid": "bloodwrl.wad",
+	"name": "Blood World",
+	"description": "I wanted to see if I could pull myself together and make a gothic-style map. Guess I did. Somewhat quake-ish, I'd say...",
+	"date": "2014-12-21 17:10:30",
+	"files": [
+		{
+			"filename": "bloodwrl.wad",
+			"size": 293900,
+			"crc": 3821751769,
+			"md5": "3b540d0061d6ca312a60f60b5f96a5bb",
+			"sha1": "c93f0a987fd8158d9d582b83781654dce450be7f",
+			"sha256": "1efae6831eb87a10628ed292fbb8d39d88a26908993fc659fc583c58c216822b"
+		}
+	]
+}

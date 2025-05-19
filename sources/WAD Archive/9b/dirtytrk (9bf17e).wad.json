@@ -1,0 +1,17 @@
+{
+	"uid": "dirtytrk (9bf17e).wad",
+	"name": "dirtytrk",
+	"description": "Replaces E2M1. Emphasis is on exploration and dirty tricks. My first attempt at building a level. Hope it isn't too boring.",
+	"version": "9bf17e",
+	"date": "2013-11-02 15:21:37",
+	"files": [
+		{
+			"filename": "dirtytrk.wad",
+			"size": 110512,
+			"crc": 3262526328,
+			"md5": "2cd3c7f06d7a9d7c262141683f4ef477",
+			"sha1": "9bf17ea1f8bc7d84cbaf36e1d98d36205e6a3fa7",
+			"sha256": "37b3cf7db22df5bc25f5d7af7a9408a22233598bdee050a2ce7a0e7a9a2968a2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "castillo.wad",
+	"name": "El Castillo del Misterio (Mistery Castle)",
+	"description": "Is a castle. Play it in Ultraviolence and you'll see..",
+	"date": "2014-12-14 20:57:02",
+	"files": [
+		{
+			"filename": "castillo.wad",
+			"size": 65778,
+			"crc": 1671169215,
+			"md5": "c894f2296dac6f7ba904aabd6c4cac21",
+			"sha1": "d07bd4076e7f135e75c0245d88e9a1ffae0df66f",
+			"sha256": "f6a54597af930a773727cc0935145710a99a69ab399d385a2b24691ee1a3b5ad"
+		}
+	]
+}

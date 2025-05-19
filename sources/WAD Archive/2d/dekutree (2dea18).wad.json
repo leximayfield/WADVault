@@ -1,0 +1,17 @@
+{
+	"uid": "dekutree (2dea18).wad",
+	"name": "Inside the Deku Tree",
+	"description": "This is a remake of the first dungeon in the game \"The Legend of Zelda: Ocarina of Time\" for the N64.",
+	"version": "2dea18",
+	"date": "2013-04-19 00:29:59",
+	"files": [
+		{
+			"filename": "dekutree.wad",
+			"size": 1042380,
+			"crc": 1567822060,
+			"md5": "a9b35c4c3b02a9c669eebc145bf310c7",
+			"sha1": "2dea18d87ac184d9ba99c1a4a74b60302b6c51a0",
+			"sha256": "cdcb80f75a2c73fcbfaea72ef2f9fdffb4eb20203e601fd573dc30aa961df851"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "descent1.wad",
+	"name": "Descent 1",
+	"description": "My first DM map, and if I do say so myself, it's come out quite nice. Originally was gonna be a Slaughter DM map, but I got fired(ahem), so now I'm using it for my own evil purposes. For those who might be wondering, Descent is the name of a song by Fear Factory, and my naming it Descent 1 instead of just Descent DOES imply that there will be more out.",
+	"date": "2014-12-15 21:58:37",
+	"files": [
+		{
+			"filename": "descent1.wad",
+			"size": 115866,
+			"crc": 1567905014,
+			"md5": "1f0ccbdf564722253193385af82fa4b6",
+			"sha1": "14e20bc780969ca3f35cc7bf5cb8893ba698947e",
+			"sha256": "fc7f44e3ec0c5518da99cb74d7907e2f668c51c44b655e50284d6f3ce9417632"
+		}
+	]
+}

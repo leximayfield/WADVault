@@ -1,0 +1,16 @@
+{
+	"uid": "ph_lost.wad",
+	"name": "Lost Temple",
+	"description": "Originally intended as MAP29 of Triacontathlon, I gave this a test as I couldn't remember what it was like and was shocked at the difficulty, so decided it's best served as an individual release. It's a \"grind map\", which I made in 11 hours of mapping in a 12-hour period. Play style is an adventure through a range of death traps before fighting enemies in a slightly less linear temple.",
+	"date": "2019-11-28 02:05:14",
+	"files": [
+		{
+			"filename": "ph_lost.wad",
+			"size": 611745,
+			"crc": 314576427,
+			"md5": "8df70509585c6d64f43f78c8124d2b17",
+			"sha1": "af7a0e838c34e284099c7be5c3dfb903d4ce1223",
+			"sha256": "f997f2aa51d6b47f4b7cb10b07a5064e41d9c918bc255cd3a3658439f7e78215"
+		}
+	]
+}

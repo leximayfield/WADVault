@@ -1,0 +1,16 @@
+{
+	"uid": "STARWAR4.wad",
+	"name": "Blockade Runner & The Death Star",
+	"description": "STAR WARS DOOM!!! Based on blueprints of sets built for the movie and as well as information contained in the SW RPG. These are four of many Star Wars levels I am hoping to do, and I have replaced some of these levels' textures with my own. I will be replacing MANY more of these in the next edition. Any switches found in turbolifts are endlevel switches. Doors needing keys aren't marked by colors primarily because I wanted the levels to look as much like the movies as possible.",
+	"date": "2014-02-15 16:53:09",
+	"files": [
+		{
+			"filename": "STARWAR4.wad",
+			"size": 2048924,
+			"crc": 2343747397,
+			"md5": "8b96942ad051a60a0ae3f6bf247c020c",
+			"sha1": "940e44229ebfe0170a4cc78bf3ab34e622d1b1f6",
+			"sha256": "c7e1035a229730462ef57f5f7ef1799cfcafd9869720b30db244de21fb422f52"
+		}
+	]
+}

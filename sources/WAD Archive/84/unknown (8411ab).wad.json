@@ -1,0 +1,17 @@
+{
+	"uid": "unknown (8411ab).wad",
+	"name": "Unknown Project",
+	"description": "Two simple maps that are based on two old drawings I made over ten years ago, both maps are made to run on Doom95.Map02 can give you an few small hom's if you an stand still on the right place and look in the right direction.I didn't felt the need to fix that, since most players won't even notice them anyway.Gameplay is pretty hard but it has skill levels, so these maps should suit every type of player.",
+	"version": "8411ab",
+	"date": "2014-12-29 16:43:48",
+	"files": [
+		{
+			"filename": "unknown.wad",
+			"size": 771662,
+			"crc": 3060359157,
+			"md5": "716167ec3184b4141d13e3c330747397",
+			"sha1": "8411ab9d5527cd8291814f5bec84b01cd3ba97df",
+			"sha256": "43c793746301694cef7161021bb28b49126b4a74e7caf38359a2c4c4bf1cf411"
+		}
+	]
+}

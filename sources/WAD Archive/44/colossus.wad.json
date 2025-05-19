@@ -1,0 +1,16 @@
+{
+	"uid": "colossus.wad",
+	"name": "Colossus",
+	"description": "It's a really big map for doom2. Absolutely HARD, and i'ts my best map at the moment. Enjoy it! :)",
+	"date": "2014-12-21 17:12:36",
+	"files": [
+		{
+			"filename": "colossus.wad",
+			"size": 2276515,
+			"crc": 1655855860,
+			"md5": "749f5dbadbb87ba8c0d1029170c81446",
+			"sha1": "4402e3d4496d425625fa20cb4c7a772f372debe5",
+			"sha256": "52e7863b39c5009b9735b513d8865ddd34792905a38763738aa2b9d5fb71962b"
+		}
+	]
+}

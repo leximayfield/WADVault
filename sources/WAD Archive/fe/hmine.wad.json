@@ -1,0 +1,16 @@
+{
+	"uid": "hmine.wad",
+	"name": "Hell's Mine of Saturn",
+	"description": "Saturn- 2110 AD The UAC mining colony on the dark side of Saturn has sent a distress signal to",
+	"date": "2014-12-18 22:55:22",
+	"files": [
+		{
+			"filename": "hmine.wad",
+			"size": 458022,
+			"crc": 2375475266,
+			"md5": "ed412ae4dac9ac083510c5e3ea1ce659",
+			"sha1": "fe4c83bafb7430d58db3ace90572e081a7886787",
+			"sha256": "72e7d348bfe3ff47dbee4ecb011253e9f9778e4d3bac1488837d51c442f8248d"
+		}
+	]
+}

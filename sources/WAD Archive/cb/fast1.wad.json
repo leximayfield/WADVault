@@ -1,0 +1,16 @@
+{
+	"uid": "fast1.wad",
+	"name": "fast1.wad",
+	"description": "A small deathmatch level,designed for fast, frequent fragging.There are NO monsters! I've included some sounds as well as music, and a minor graphical change.",
+	"date": "2014-12-15 21:31:06",
+	"files": [
+		{
+			"filename": "fast1.wad",
+			"size": 264777,
+			"crc": 2442849386,
+			"md5": "7bd41b9ccfd68a03537456fb43e5f488",
+			"sha1": "cbcb194a7597dcd1e61268b3b328e17d95b8e22a",
+			"sha256": "b619298fe376c25f01d50e307131694b3cd63a12ffaf5c4bdab9034b01ac304d"
+		}
+	]
+}

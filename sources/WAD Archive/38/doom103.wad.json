@@ -1,0 +1,16 @@
+{
+	"uid": "doom103.wad",
+	"name": "DOOM 103",
+	"description": "A doom map based on my school. The goal is to get your ID and go out of there, killing some monsters in your way out. I think everyone had ever wanted to go school and have a battle with a lot of demons. (C.B.T.i.s. 103, Cd. Madero, Tamaulipas, Mex.)",
+	"date": "2014-12-18 23:09:17",
+	"files": [
+		{
+			"filename": "doom103.wad",
+			"size": 1331243,
+			"crc": 780046166,
+			"md5": "f03071ef34420a48dc704fcd7b7d91c5",
+			"sha1": "38e85c622fdd3a9fa7042d842cc956866e34ac82",
+			"sha256": "2ec251fce9d970b9891f7c9e6e342d49b334dc8c23771fa74969111bcc9ddcf6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sjs01.wad",
+	"name": "SJS1: Streets Of Fear",
+	"description": "A map I was planning to use in an 'expansion' for bloodrust that never really got anywhere, so instead I'm releasing it on it's own, as the first in a 'series' of single maps, that I may or may not release more maps for :P. Basically it's some kind of demon-overrun town (at least part of one). Also has a bunch of new textures and a new midi by me.",
+	"date": "2014-12-29 15:19:00",
+	"files": [
+		{
+			"filename": "sjs01.wad",
+			"size": 752174,
+			"crc": 44526058,
+			"md5": "5803d66f2909ddbd8972c4a0d1b6e83a",
+			"sha1": "e99a511d5816805a1b8562fcc946089dcd99b3f6",
+			"sha256": "19277a64cf3700a2ee3a60eccfaa04f5fb81190f3faa3e7e4bf270569f02531d"
+		}
+	]
+}

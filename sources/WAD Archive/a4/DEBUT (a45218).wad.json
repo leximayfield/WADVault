@@ -1,0 +1,17 @@
+{
+	"uid": "DEBUT (a45218).wad",
+	"name": "\"Debut\"",
+	"description": "As the name suggests, this level was the authors first serious attempt at creating a DOOM level from scratch. This level took a *long* time to make - not because of any great complexity, but because of the limited amount of time the authors could find together to work on it! (In fact a number of other WADS have been created during the design of this one!) Most of the usual stuff is included, tricks and traps and the like... and even a bit of texture and sound redefinition... Enjoy :-)",
+	"version": "a45218",
+	"date": "2013-07-09 20:21:58",
+	"files": [
+		{
+			"filename": "DEBUT.wad",
+			"size": 411484,
+			"crc": 2895773737,
+			"md5": "0cb6f015bc10d79e6f1cdc414d075e67",
+			"sha1": "a45218d8fbdfaf010156565780ad250263aa0daf",
+			"sha256": "f96a040e14b359ec3b28cf2ac929b42cfea69ec90a9d884b66a51d1b77ebfcfe"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doomam.wad",
+	"name": "Doom Aesthetics Mod",
+	"description": "Tired of the standard Doom weapons? Heard that zombie death sound over a billion times already? Want a few different enemies in your experience? THIS IS YOUR WAD!",
+	"date": "2014-12-18 22:23:35",
+	"files": [
+		{
+			"filename": "doomam.wad",
+			"size": 3181712,
+			"crc": 2598359776,
+			"md5": "416354ba603c7a97ba4d362f3a482960",
+			"sha1": "8dd9b296fc32af69dabc776e4a5195b721c28947",
+			"sha256": "b21b9106789f3c8f920e4821b1310beef027ce0300b044fdd7f075467c1a169b"
+		}
+	]
+}

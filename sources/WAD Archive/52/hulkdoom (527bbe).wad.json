@@ -1,0 +1,17 @@
+{
+	"uid": "hulkdoom (527bbe).wad",
+	"name": "Space Hulk DOOM",
+	"description": "Based on the Original \"Space Hulk\" game. You're mission is to clense varios \"hulks\" of infesting genestealers. Genestealers are not strong....but the bight...and you'll sure know it when they do. They fall like flies and but they run Damn Fast....If you're as quick as they are, you'll have no problems defeating Them, But if you relax for a second....you're as good as dead.",
+	"version": "527bbe",
+	"date": "2014-12-14 20:49:35",
+	"files": [
+		{
+			"filename": "hulkdoom.wad",
+			"size": 2181724,
+			"crc": 1379090203,
+			"md5": "2744005814457c158d57dc50bd63093e",
+			"sha1": "527bbe0c2c4253ca2eb44c0bb4b426d55032cf32",
+			"sha256": "d32bd1d2e2a3dafbefee3cd73b77f05862f33aa93d92c7ffd2c3dd63c8f19650"
+		}
+	]
+}

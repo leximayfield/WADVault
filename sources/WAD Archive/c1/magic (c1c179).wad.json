@@ -1,0 +1,17 @@
+{
+	"uid": "magic (c1c179).wad",
+	"name": "Magic",
+	"description": "great deathmatch level",
+	"version": "c1c179",
+	"date": "2015-09-14 20:34:19",
+	"files": [
+		{
+			"filename": "magic.wad",
+			"size": 152964,
+			"crc": 1739924067,
+			"md5": "e7d9afe11bcc78a186fa423d5a6041fc",
+			"sha1": "c1c179a823b0442c46de04078987367bb748ce76",
+			"sha256": "ca9d8f30438db602f4058c67fefe343d9eb1cf49f2da99f8ffa218184fc08330"
+		}
+	]
+}

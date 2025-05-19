@@ -1,0 +1,16 @@
+{
+	"uid": "wire.wad",
+	"name": "WIREFRAME DOOM",
+	"description": "After thinking of how cool wireframes are, I thought to myself: \"Gee, I wonder how would Doom look if the textures were made to look like they're wireframes!\" This is the result. As you've probably noticed, there are 3 colors of wireframe. Green are the normal walls. Red are used on textures often used for interactable things (namely: switches, doors, elevators). Lastly, blue ones are used on \"liquid\" textures, as they often are set to damage the player, so don't be surprised when a floor melts you. =P",
+	"date": "2015-09-14 20:34:11",
+	"files": [
+		{
+			"filename": "wire.wad",
+			"size": 640411,
+			"crc": 933862345,
+			"md5": "3754b7c8c3fce80684e248b966d4093b",
+			"sha1": "32ef166f34df6498d62ac6f2afce460241062321",
+			"sha256": "a56e59e47276bb71810c4be649b4ea28bcf97791c8591774e126ac65a018bbb6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fbdemo.wad",
+	"name": "Flashback: demo",
+	"description": "Here it is; the demo of the Flashback megawad. Designed in the spirit of the original levels, with doom.exe compatibility. Hope you'll enjoy playing the levels as much as we enjoyed making them.",
+	"date": "2014-12-14 20:59:19",
+	"files": [
+		{
+			"filename": "fbdemo.wad",
+			"size": 1251475,
+			"crc": 2858412524,
+			"md5": "e2ef0e1ddc88c5de2db285595cd3af56",
+			"sha1": "65107e822636c35578d5b0a2d14c8a88a256076e",
+			"sha256": "669dfd1a6426f6f4acfbfdfc1f3c2c2d700905c1cfc7f12aee90ad23b121e23d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "knights (d50a28).wad",
+	"name": "Knights.zip",
+	"description": "This is my very first level ever made, i hope you enjoy it.The ending is extremely tough,but if you're a real Doomer, you can do it. I did,and ended with 200% health.",
+	"version": "d50a28",
+	"date": "2015-02-21 09:01:53",
+	"files": [
+		{
+			"filename": "knights.wad",
+			"size": 70871,
+			"crc": 1671298914,
+			"md5": "32a0e830e5b49d5bbd5bc47413becef3",
+			"sha1": "d50a2837231ed536381df429f09996079ebd15f9",
+			"sha256": "9d9fa99ec2c86a1ed0d61902585dc9288d8c505103e3b8e603f7ba7200637d1c"
+		}
+	]
+}

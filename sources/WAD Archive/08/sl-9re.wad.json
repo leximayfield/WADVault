@@ -1,0 +1,16 @@
+{
+	"uid": "sl-9re.wad",
+	"name": "SL-9: Resurrection",
+	"description": "A resurrection of the original SL-9 with greater detail. A project that I did because I was bored.",
+	"date": "2014-12-12 14:10:32",
+	"files": [
+		{
+			"filename": "sl-9re.wad",
+			"size": 2278198,
+			"crc": 3104828307,
+			"md5": "713e76cbf362385e0764d38e0081185d",
+			"sha1": "08057a565f8a7a83448f698c8958a5c705d0dfe5",
+			"sha256": "f036d4b44a8ea906644b4ac872f0dbf0a3cea774c9d02d230055b4fe6ec49d2d"
+		}
+	]
+}

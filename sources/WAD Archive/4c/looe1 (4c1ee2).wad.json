@@ -1,0 +1,17 @@
+{
+	"uid": "looe1 (4c1ee2).wad",
+	"name": "LOOE's First Level",
+	"description": "This is my first attempt at a level. Greetings to all my m8s. Created with DoomEd The Real Thing - hurry up and send me that registered version man...",
+	"version": "4c1ee2",
+	"date": "2013-11-04 19:24:13",
+	"files": [
+		{
+			"filename": "looe1.wad",
+			"size": 61867,
+			"crc": 3535468459,
+			"md5": "a096008c19ffc9282f5549955bac3374",
+			"sha1": "4c1ee263f5cd35ac58f17886295bafcf9d0c689b",
+			"sha256": "90f821ecddb65055e772d4eba5d1a335d00095ae4f7a610d1091132130e8f288"
+		}
+	]
+}

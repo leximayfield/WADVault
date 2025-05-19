@@ -1,0 +1,17 @@
+{
+	"uid": "advent (3c23dc).wad",
+	"name": "Doom advent map",
+	"description": "A Little map made for the doom advent calander but the project has been cancceled.",
+	"version": "3c23dc",
+	"date": "2014-12-21 17:10:43",
+	"files": [
+		{
+			"filename": "advent.wad",
+			"size": 245577,
+			"crc": 1412176311,
+			"md5": "03b046b4bc4801b92080137ce04cdaa9",
+			"sha1": "3c23dc6a458580bab6fd3005b07386765e26071b",
+			"sha256": "2abc823db658573a75042ded1aa695ee4d13de30d3e0fd220570f6e131d9ffca"
+		}
+	]
+}

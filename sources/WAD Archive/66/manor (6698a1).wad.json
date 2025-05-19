@@ -1,0 +1,17 @@
+{
+	"uid": "manor (6698a1).wad",
+	"name": "Titan Manor",
+	"description": "A strange and enigmatic building on a moon of Saturn contains the latest in alien weapon technology. If you can survive the guards and solve the puzzles, the Federation will leapfrog in technology. Its all up to you. Oh and watch those windows! <G>.",
+	"version": "6698a1",
+	"date": "2013-04-19 03:14:41",
+	"files": [
+		{
+			"filename": "manor.wad",
+			"size": 245444,
+			"crc": 3861132148,
+			"md5": "787fa80fe9665c322f853b74838e77cc",
+			"sha1": "6698a16408d5d337f13a444d5dc71051ea5fcad4",
+			"sha256": "fe0a502310ef1b32597e2e82d6f7f12ad77cb603ac5838056dee86f4bae31e2f"
+		}
+	]
+}

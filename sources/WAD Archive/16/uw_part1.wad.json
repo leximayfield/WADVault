@@ -1,0 +1,16 @@
+{
+	"uid": "uw_part1.wad",
+	"name": "UW_PART1.WAD v1.1",
+	"description": "This WAD is the first part of my 3-part series entitled \"The Unholy War\" The next two parts are tentatively titled \"Gotterdammerung\" and \"Prelude to Armageddon\" respectively.Part 1 takes place in a mammoth UAC spaceport carved out of some 3 dozen mountains 300km northwest of Denver, CO. Most of these mountains were literally leveled to create a man-made plateau. You start at level 1 (Entryway) and fight your way to level 11 (\"O\" of Destruction) and I MEAN FIGHT! The original DOOM II starport levels pale in comparison to this.Be prepared for some vicious firefights and hair- pulling architectural riddles. This version update fixes a few minor bugs in levels 5 & 6.Levels 4,7,8 & 9 were revamped in order to correct the \"savegame buffer overrun\" bug that occurs when one attempts to save the game on these levels.The PWAD has been recompiled for DOOM II v1.9",
+	"date": "2015-01-14 22:47:39",
+	"files": [
+		{
+			"filename": "uw_part1.wad",
+			"size": 2429897,
+			"crc": 2963673832,
+			"md5": "094b5808036879c862a79d3d13b0f5f1",
+			"sha1": "160007dc16ca6024289841db24b29c1113e036fb",
+			"sha256": "23230522b630428d7869c2a8dbef552b8be18610996543803e95b7607901e342"
+		}
+	]
+}

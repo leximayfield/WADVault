@@ -1,0 +1,17 @@
+{
+	"uid": "fear (58c833).wad",
+	"name": "Dungeon of Fear",
+	"description": "E1M1 Pwad for Heretic. Designed for co-op or single player games. Wad is a bit large for deathmatch and is NOT supported.",
+	"version": "58c833",
+	"date": "2013-07-09 20:22:18",
+	"files": [
+		{
+			"filename": "fear.wad",
+			"size": 118320,
+			"crc": 4248154116,
+			"md5": "8364c3217ca09bce1f362cc62fc1d0c6",
+			"sha1": "58c8335fa17ca52654fc1c6c044950152215ee88",
+			"sha256": "60f8086d7675aeeffcaf7ec208a69b9a1838af7bc9c99bf852007eb132214f00"
+		}
+	]
+}

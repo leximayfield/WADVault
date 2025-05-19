@@ -1,0 +1,16 @@
+{
+	"uid": "dagobah.wad",
+	"name": "Dagobah",
+	"description": "Just a series of six rooms with emphasis on intense battles rather than delicate architecture. You can play conservatively and hold them at the choke points, or if you are braver you can storm headlong into each festering pot of demons.",
+	"date": "2014-12-18 22:47:04",
+	"files": [
+		{
+			"filename": "dagobah.wad",
+			"size": 84666,
+			"crc": 135135717,
+			"md5": "fcb4aff922582a27d34e2ba31f3ca51c",
+			"sha1": "0505a2306e3a726ec44287bffa9e90c7ab4cad33",
+			"sha256": "f4b7ebec0f20ec7d3c271d12ff8f5e18cf1c38dced8f163598574de9a9f23fda"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sanction.wad",
+	"name": "SANCTION.WAD",
+	"description": "DON'T READ THIS IF YOU LIKE SURPRISES. You are ordered to clear a known base of all monsters and return to HQ. Our intelligence sources tell us that there are at least four major areas of infestation. Sensors detect numerous teleporter activity but are unable to confirm destinations. (There does seem to be an apparent pattern.) Choose your team and good hunting.",
+	"date": "2013-11-03 17:44:24",
+	"files": [
+		{
+			"filename": "sanction.wad",
+			"size": 257485,
+			"crc": 1942171528,
+			"md5": "d8fe96e93ce0751d339f4c27540b9c9b",
+			"sha1": "4a21b023184ece12c8ab890ec83485bd39bcf4ad",
+			"sha256": "a8207895d082da676f5e087867d3b9e91f5e050cd8d2c2fad659aa2bc8ccb0fa"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nazibmpr.wad",
+	"name": "Nazi Enemy Bumper Pack",
+	"description": "This is a monster resource pack for Wolfenstein themed projects. It contains 7 different SS Nazi soldiers: Pistol Infantry Pistol NCO Pistol Officer Pistol Officer with trenchcoat Rifle Infantry Machinegun Infantry Machinegun NCO Machinegun Officer If you use these in your own project, please contact me I would love to try it out :) Please note that attack and pain frames do not have full rotations, this should not be a problem in single player but may be noticeable with more players.",
+	"date": "2014-12-11 22:10:35",
+	"files": [
+		{
+			"filename": "nazibmpr.wad",
+			"size": 1818218,
+			"crc": 3823886059,
+			"md5": "be7def5e5ddef6954d9eeee764e9f0de",
+			"sha1": "602b5fe515ab65ba2585cc07579e75cd13a493f6",
+			"sha256": "a01bb919662f9ec52806fb144ce474943858197df9a24375cd0d3c58feebdb24"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "plasmat1.wad",
+	"name": "Plasmatology Vol. 1",
+	"description": "My very first level after messing around w/ DB; simple, no geometry complexity - wolf3D-esque in a sense. Designed to be played on UV, using your own approach but dealing with the limited arsenal and supplies Hope you guys have fun playing as much as I'm having.. and keep an eye for secrets.",
+	"date": "2018-04-16 08:16:36",
+	"files": [
+		{
+			"filename": "plasmat1.wad",
+			"size": 62574,
+			"crc": 1443866484,
+			"md5": "958bbe23089468d184173c2e1deadf76",
+			"sha1": "c9d7168caaf22211272de8809e5a2b77be776af9",
+			"sha256": "f0916f14be34f3a5c32cfe2189bdfbfc37a468e3effbdd94c32ace7d66ba9329"
+		}
+	]
+}

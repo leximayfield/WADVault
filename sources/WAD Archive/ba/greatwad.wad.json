@@ -1,0 +1,16 @@
+{
+	"uid": "greatwad.wad",
+	"name": "Greatwad",
+	"description": "Another little wad, it's map01 for -complevel 2.",
+	"date": "2014-12-24 17:40:22",
+	"files": [
+		{
+			"filename": "greatwad.wad",
+			"size": 1884688,
+			"crc": 260353911,
+			"md5": "1ffb5c6490749ad6ee3b8ef5b3e8943e",
+			"sha1": "ba0a97961db64e97746d86751742d62c1b971d71",
+			"sha256": "bc49d3231a58f2d6a52a21a991f7fb9f91a6b1eab21b7b6b44521c4ee380c4d5"
+		}
+	]
+}

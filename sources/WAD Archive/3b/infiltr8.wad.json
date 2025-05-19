@@ -1,0 +1,16 @@
+{
+	"uid": "infiltr8.wad",
+	"name": "The Infiltrator",
+	"description": "A new level for Doom 2. (my first) e-mail me and tell me what you think.",
+	"date": "2014-12-18 23:22:13",
+	"files": [
+		{
+			"filename": "infiltr8.wad",
+			"size": 230177,
+			"crc": 2556077819,
+			"md5": "693dd9e7c5f17c5cade9f8764e89f5d3",
+			"sha1": "3b6e3f984c02a484623251b38a84a5418ca8e0f4",
+			"sha256": "3a99c20f2fc356d20f10520c18a94002b2a369895cc7c6e5b5fd0bde3b20f84f"
+		}
+	]
+}

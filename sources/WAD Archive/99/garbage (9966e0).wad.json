@@ -1,0 +1,17 @@
+{
+	"uid": "garbage (9966e0).wad",
+	"name": "Garbage",
+	"description": "This was like an attempt to make ugly 90s maps. But we failed. We failed, guys.",
+	"version": "9966e0",
+	"date": "2014-12-24 17:16:11",
+	"files": [
+		{
+			"filename": "garbage.wad",
+			"size": 7553516,
+			"crc": 2866664430,
+			"md5": "073c889be516f7c08613548c6a1f4fdf",
+			"sha1": "9966e069b84387ef99995892f2d303593b0db353",
+			"sha256": "a187ac210560eecbf5a55fba509fe33393c2f2dd7f3a07d5556a83b09cce2727"
+		}
+	]
+}

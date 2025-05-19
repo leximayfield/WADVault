@@ -1,0 +1,17 @@
+{
+	"uid": "TRINITY (10a012).wad",
+	"name": "The Unholy Trinity",
+	"description": "A reasonable representation of Trinity College, Cambridge. \"Oh no, not again,\" I hear you cry. \"Some lamers' first WAD. Prob'ly got a cyber in there.\" But wait! Read on. Much cannon fodder. Many new graphics. Cool bits. Guaranteed entertainment or your money back (see below for terms and conditions of this offer). And NO cyberdemon! Well... oh, never mind. Although designed for single player, has multiplayer weapons and starts, and large, well interconnected areas. Version 2 fixes a bug and some ugly bits.",
+	"version": "10a012",
+	"date": "2016-05-07 21:32:31",
+	"files": [
+		{
+			"filename": "TRINITY.wad",
+			"size": 902688,
+			"crc": 664619905,
+			"md5": "f5e571c323951d7575a3781f19d6cb84",
+			"sha1": "10a012da5d1edf346fac05480629344d54f7fbfa",
+			"sha256": "928bb2b08bbc1d47419330b3ba89b04be639ef2eb1745a9c4300749b895335a2"
+		}
+	]
+}

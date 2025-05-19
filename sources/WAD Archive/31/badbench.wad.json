@@ -1,0 +1,16 @@
+{
+	"uid": "badbench.wad",
+	"name": "Stupid Benchmark #1",
+	"description": "This was originally intended to be a benchmarking wad to compare various doom source ports, but proved to be too computationally expensive regardless of the source port used.",
+	"date": "2015-09-14 23:24:08",
+	"files": [
+		{
+			"filename": "badbench.wad",
+			"size": 2691493,
+			"crc": 1186279050,
+			"md5": "2829e310960b4a6de122732f8ff504b7",
+			"sha1": "31beb5f6001329bba9bae8f56eb5e4e8c51c4ae1",
+			"sha256": "e67f92cfa4d0851f457b2b8e1ad99c433dc9952a32c9ad762399f792b4de8156"
+		}
+	]
+}

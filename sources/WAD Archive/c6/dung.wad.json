@@ -1,0 +1,16 @@
+{
+	"uid": "dung.wad",
+	"name": "Bloody Dungeons",
+	"description": "First attempt at making a wad.Its not very",
+	"date": "2014-12-18 22:34:31",
+	"files": [
+		{
+			"filename": "dung.wad",
+			"size": 162241,
+			"crc": 982607152,
+			"md5": "c1cc92c63bf663c0f2f02c5b659af29a",
+			"sha1": "c6396fd5c0691424e1e9c5be4d9e1b0ee98a2819",
+			"sha256": "68c269a158418ffacdea5bc098412a26fd7beaebc23fe018aa02208b9e9ce807"
+		}
+	]
+}

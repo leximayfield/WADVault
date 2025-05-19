@@ -1,0 +1,16 @@
+{
+	"uid": "e1m1-reg.wad",
+	"name": "xxxx.WAD or xxxx.DEH or xxxx.LMP",
+	"description": "After upgrading (for FREE :-) to The Ultimate DooM We All noticed that, once again, small changes had been made to the first map E1M1. This \"screwed up\" .LMP and (Alt-)DeathMatch \"compatibility\" with all previous versions. This would be easily got around by creating a .WAD file of the previous map E1M1 - so, here it is...",
+	"date": "2015-09-14 20:08:52",
+	"files": [
+		{
+			"filename": "e1m1-reg.wad",
+			"size": 55902,
+			"crc": 4274687980,
+			"md5": "e75dbb955295d627e9b370791971354b",
+			"sha1": "dc55ea5602738d989970a483fe0406ed392d8ede",
+			"sha256": "d0937fd360b9f1aa6572ab889fd4a734f04559a43c9d70c112908754292c005c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tbl.wad",
+	"name": "The black lands",
+	"description": "The map has no linear design, and it's ubicated in a decadent place. You must activate lots of swich if you want arrive at the end. The map is harder than you may think at the begining.",
+	"date": "2014-12-29 15:05:45",
+	"files": [
+		{
+			"filename": "tbl.wad",
+			"size": 1316083,
+			"crc": 640849039,
+			"md5": "2257f5c7e07fbcc85b9a31fb7d87a39c",
+			"sha1": "0f95f3ec51f92e3ee5b77bbb49eaf311d0cd0dba",
+			"sha256": "24d4eec0068c2cb0880437098002ff8df7266ef467a8d6c6b43fd3ed71d4e41c"
+		}
+	]
+}

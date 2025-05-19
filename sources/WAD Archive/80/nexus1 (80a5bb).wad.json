@@ -1,0 +1,17 @@
+{
+	"uid": "nexus1 (80a5bb).wad",
+	"name": "Nexus1.wad",
+	"description": "Deathmatch level the perfect size so you don't get killed as soon as you warp in but small enough to get alot of frags.",
+	"version": "80a5bb",
+	"date": "2013-11-06 22:56:09",
+	"files": [
+		{
+			"filename": "nexus1.wad",
+			"size": 199493,
+			"crc": 420532975,
+			"md5": "5f7b87ed220154e6d727aac895816b0e",
+			"sha1": "80a5bbcc5079ecdfc513cefa67fec7b74ed2b3c1",
+			"sha256": "7a21032f671e0214e835a301484aa42988247e4ab9b76224fdd55bb724ef9856"
+		}
+	]
+}

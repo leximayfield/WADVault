@@ -1,0 +1,16 @@
+{
+	"uid": "cyber1.wad",
+	"name": "Cyber1.wad",
+	"description": "This is a single player level for Doom2. It's not very big but it's very cool playing it and quite difficult. You MUST kill all the enemies (only three)",
+	"date": "2014-12-15 23:09:04",
+	"files": [
+		{
+			"filename": "cyber1.wad",
+			"size": 3496,
+			"crc": 3051967532,
+			"md5": "2b3982751863493138acba35989d2e7a",
+			"sha1": "5b6e0b1fec88501f1029a550564d12615934ff96",
+			"sha256": "a6b25e8ba6e9ded5dbe2d79ad17d776e16e7334dde6f3800ecd844365e6f9d0e"
+		}
+	]
+}

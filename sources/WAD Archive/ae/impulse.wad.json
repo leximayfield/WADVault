@@ -1,0 +1,16 @@
+{
+	"uid": "impulse.wad",
+	"name": "Impulse (Deathmatch wad + REALLY Mean Monsters if needed!)",
+	"description": "First Major Project, Designed and Constructed on IMPULSE. (It sort of grew - I had to fight it back at times!) WARNING - If you choose to have monsters, They're a pretty nasty bunch, you'll have to be hard to survive.",
+	"date": "2014-12-15 22:46:20",
+	"files": [
+		{
+			"filename": "impulse.wad",
+			"size": 366448,
+			"crc": 782305370,
+			"md5": "bd1d3b69668a30fe11cfa84fbb242c86",
+			"sha1": "aeb702454b61c847d705ed8acff91ccccc1db9c4",
+			"sha256": "ef2b52fd392debba228897e8b9ad9822938e50b3acc1420462b3ad71d06cd608"
+		}
+	]
+}

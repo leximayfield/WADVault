@@ -1,0 +1,17 @@
+{
+	"uid": "blood (ac74d5).wad",
+	"name": "The Castle of Blood",
+	"description": "The Castle of Blood is well known among your fellow marines and you got the short straw. Your mission is to succed where no one has!",
+	"version": "ac74d5",
+	"date": "2014-01-04 11:55:57",
+	"files": [
+		{
+			"filename": "blood.wad",
+			"size": 312697,
+			"crc": 1518664832,
+			"md5": "0b2b3f453b62de7cbe399547b68b64db",
+			"sha1": "ac74d5fb01ca6c06244b284b2fb580c0aa4e3ec0",
+			"sha256": "4bf00f8ed91a33aedf90900d4262993697cf8b67bea875d796f13c1f0e226a27"
+		}
+	]
+}

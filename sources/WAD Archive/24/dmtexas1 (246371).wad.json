@@ -1,0 +1,17 @@
+{
+	"uid": "dmtexas1 (246371).wad",
+	"name": "DMTEXAS1.WAD",
+	"description": "A large, tough floor. Takes me 25 minutes to complete without cheating. Thought about making the map look like the state of Texas, but gave up on that, kept the name, though. Revised to support deathmatches.",
+	"version": "246371",
+	"date": "2013-11-02 15:12:39",
+	"files": [
+		{
+			"filename": "dmtexas1.wad",
+			"size": 176243,
+			"crc": 1275705549,
+			"md5": "1e3abb794245e8adf6e3a4373aec6318",
+			"sha1": "246371f4c91f04de5e34d3eb11935e71417681b2",
+			"sha256": "46bdbae8eced31af834ea1306a9854b21a45dcf654aba1483a05561c0fe54f0c"
+		}
+	]
+}

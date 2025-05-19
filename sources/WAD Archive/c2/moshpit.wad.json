@@ -1,0 +1,16 @@
+{
+	"uid": "moshpit.wad",
+	"name": "The Moshpit",
+	"description": "Replaces Level 9 (The Pit) Deathmatch level inspired by the Lenny Kravitz's \"Are you gonna go my way?\" music video. The switch that doesn't have an exit sign removes access to the BFG9000s.",
+	"date": "2014-10-28 22:54:19",
+	"files": [
+		{
+			"filename": "moshpit.wad",
+			"size": 65675,
+			"crc": 909981630,
+			"md5": "91fd13c4787ea203201e87fd86e60df3",
+			"sha1": "c286ba57f50f8c87314b6dfea90970cc716175f2",
+			"sha256": "e8ed73bbd294f66e500a3934a57dfcc34805fc0ef446ae3491b1a5e7900089d3"
+		}
+	]
+}

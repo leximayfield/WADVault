@@ -1,0 +1,16 @@
+{
+	"uid": "socr_ctf.wad",
+	"name": "SOCCOR CTF",
+	"description": "I started constructing this WAD back in March of 2012. It started off as a simple Deathmatch WAD, but I wasn't very pleased with the gameplay at all. In November of 2013, I significantly edited the map and removed all DM player starts with CTF team players.",
+	"date": "2014-12-15 22:21:05",
+	"files": [
+		{
+			"filename": "socr_ctf.wad",
+			"size": 806315,
+			"crc": 2451684163,
+			"md5": "8aac5aa1779c193b3f8dc1df94cf0ce5",
+			"sha1": "f60330f028c888b5db70b06ee8df663b4560140b",
+			"sha256": "d329f30352ecac33e20dc75e8f715ed09d07f140f216fe03234a8db0e171b6f9"
+		}
+	]
+}

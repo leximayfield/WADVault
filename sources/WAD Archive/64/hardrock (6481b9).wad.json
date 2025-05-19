@@ -1,0 +1,17 @@
+{
+	"uid": "hardrock (6481b9).wad",
+	"name": "HARDROCK.WAD",
+	"description": "Hardrock is for Deathmatch only - This wad takes in a abandoned castle where a river has cut through the wall. There are many, many secrets that will help in battle. Take nothing for granted!!",
+	"version": "6481b9",
+	"date": "2013-11-02 16:37:47",
+	"files": [
+		{
+			"filename": "hardrock.wad",
+			"size": 68844,
+			"crc": 1087174796,
+			"md5": "ad4ceade5eda7d0d4baee54d8db45cb8",
+			"sha1": "6481b9d0a97eaaec5d627a8468655fefdb67af49",
+			"sha256": "9d9e761d7390e578f160ac78f0aea5fff8c77bc6736c525e90008ca62a379102"
+		}
+	]
+}

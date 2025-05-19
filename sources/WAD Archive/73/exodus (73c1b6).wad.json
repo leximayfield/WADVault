@@ -1,0 +1,17 @@
+{
+	"uid": "exodus (73c1b6).wad",
+	"name": "EXODUS.WAD",
+	"description": "Three Earth days ago (according to your chronometer), during a one-man assault on the Phobos Computer Station, you were knocked unconscious and taken captive by demon-possessed soldiers. When you awoke, you found yourself in a holding cell, in what appears to be some sort of prison. You've seen guards walking up and down through the cell block, and occassionally you hear the familiar sounds of those god-forsaken imps that you've grown to loathe so much during the past weeks. Luckily you have some UAC rations to sustain you, for your guards offer no food. But your weapons have been taken and it looks as if you are doomed <g>. But wait, what's this? A trooper has stopped at your cell door, and he appears to be preparing to open it. Could this be the chance you've been waiting for? As the door of your cell slides aside, you see that your guard is carrying only a pistol, which remains holstered. Can you take him? There's only one way to find out!",
+	"version": "73c1b6",
+	"date": "2013-11-02 15:38:25",
+	"files": [
+		{
+			"filename": "exodus.wad",
+			"size": 141186,
+			"crc": 764014744,
+			"md5": "a0e1fafbfc605ff984cb972cae9433c0",
+			"sha1": "73c1b6908a78c4f05f13b6697549acfb40da0497",
+			"sha256": "d9fc8290ba7d3cb9c8cfe6c647b93540de13b8050ffa63d4493b06d815b5e48e"
+		}
+	]
+}

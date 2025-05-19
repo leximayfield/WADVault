@@ -1,0 +1,16 @@
+{
+	"uid": "Kaotic.wad",
+	"name": "Kaotic",
+	"description": "This is my second map for Doom 2. Standard map. If there are any bugs or glitches please send me an email.",
+	"date": "2015-01-05 16:24:33",
+	"files": [
+		{
+			"filename": "Kaotic.wad",
+			"size": 87601,
+			"crc": 2266927129,
+			"md5": "bb7f0cf24d0d08cd6397644fe046de0d",
+			"sha1": "2385e96e815b8dc1492af10016414088bf87ec0c",
+			"sha256": "0029d637ed2c28cb44902b245ab7b7a2425cc3781a7f73f3a05fbb212a6fd496"
+		}
+	]
+}

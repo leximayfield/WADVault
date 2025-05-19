@@ -1,0 +1,16 @@
+{
+	"uid": "beresith.wad",
+	"name": "BERESITH Deathmatch Levels",
+	"description": "Four dynamic levels with common themes, primarily designed for head-to-head duels, old-deathmatch. Take a look at the demos!",
+	"date": "2014-12-15 22:07:56",
+	"files": [
+		{
+			"filename": "beresith.wad",
+			"size": 573192,
+			"crc": 3122302114,
+			"md5": "df354e1cdf40cb843e750442cab06521",
+			"sha1": "ace6d877ef83e858e54b0b40d404dd1568684a93",
+			"sha256": "1a2d74132316ccf3e6079d108890e11779581928a9cafc4e317ab0d0a3cd44a0"
+		}
+	]
+}

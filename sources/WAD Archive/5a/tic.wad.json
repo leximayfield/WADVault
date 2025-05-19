@@ -1,0 +1,16 @@
+{
+	"uid": "tic.wad",
+	"name": "The Infernal Castle",
+	"description": "The Infernal Castle was mainly designed for single player but can also be played in coop or deathmatch mode (not tested).",
+	"date": "2014-12-29 16:54:00",
+	"files": [
+		{
+			"filename": "tic.wad",
+			"size": 347043,
+			"crc": 2250581282,
+			"md5": "905136956ebb43c79fe706b5314a9155",
+			"sha1": "5a94b7d16587b89144f80b96d767016cf479a43d",
+			"sha256": "23c389d03eace65017cce3dabaaa9a659d49f1958a66f489d8b03216d0913379"
+		}
+	]
+}

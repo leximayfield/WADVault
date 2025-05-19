@@ -1,0 +1,16 @@
+{
+	"uid": "tekex.wad",
+	"name": "Tekex",
+	"description": "Tekex (a.k.a. Tech-Base Exploration) is a variant of Urban Exploration. One of the main differences is having something more interesting to shoot than rats. It is one of the most popular hobbies among UAC marines.",
+	"date": "2018-06-15 11:33:33",
+	"files": [
+		{
+			"filename": "tekex.wad",
+			"size": 1083696,
+			"crc": 1228353202,
+			"md5": "f18857f4280c0f396abad99bf124f65f",
+			"sha1": "3c378479715690b4025a919b1c6a31bb22b37197",
+			"sha256": "f538f8967d689d8e79d76c5a205ef6b016b009aa7298059620b5f4891ce9d7e3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "infb.wad",
+	"name": "Infested base",
+	"description": "This is my fourth map. Geometry is not very good im very lazy when i make doom maps. I replaced the music with E1M2 from doom 1, Many people are tired of MAP01 music, But it also fits better. You must use zdoom or similiar because maybe you will get missing textures. **STORY** Here it goes, The monsters invaded a uac base on earth. We sent a another marine but he got trapped, He also reported seeing 3 Cyberdemons, Kill them if possible and rescue the trapped marine good luck!",
+	"date": "2016-10-17 17:29:14",
+	"files": [
+		{
+			"filename": "infb.wad",
+			"size": 112341,
+			"crc": 1274423931,
+			"md5": "8d3edbfddf1f146c69e16decfde86eab",
+			"sha1": "149631aa5376bfc2fb6c1a8c117f7d9939e880a4",
+			"sha256": "068a3b08ca3053f9c9b986ec517941b5bc1da598e9c6ff68ccd83e8ad79a70e1"
+		}
+	]
+}

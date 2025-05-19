@@ -1,0 +1,16 @@
+{
+	"uid": "xenus.wad",
+	"name": "Xenus:Lost base",
+	"description": "This is my first E1 attempt it's old map like my previous 1024 maps",
+	"date": "2014-12-29 16:26:02",
+	"files": [
+		{
+			"filename": "xenus.wad",
+			"size": 204301,
+			"crc": 3373720960,
+			"md5": "6944784b83b59c0c44878b7969897a0d",
+			"sha1": "d82624d1686b006b0d97be581542aafd691483e4",
+			"sha256": "3ea20bd2f641103c2348e3b6b178f5aa9f109a44976b3d25151aa4ca223cdc3e"
+		}
+	]
+}

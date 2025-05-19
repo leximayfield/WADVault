@@ -1,0 +1,16 @@
+{
+	"uid": "lightdem.wad",
+	"name": "Light Demo",
+	"description": "This demo has been built into a short level. There is mostly metal construction, with some grass and earth textures.",
+	"date": "2015-01-05 16:39:27",
+	"files": [
+		{
+			"filename": "lightdem.wad",
+			"size": 112778,
+			"crc": 2365106718,
+			"md5": "45f67a6a6c624dd259b2a7e248c25918",
+			"sha1": "87ebb12c54dc4300493939be0315147905dfd2fa",
+			"sha256": "80d70b22ee417945753a2752a999c9833a8aef06f96d31f1e21d0b9e925fbfc5"
+		}
+	]
+}

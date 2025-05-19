@@ -1,0 +1,17 @@
+{
+	"uid": "entrance (9f97c9).wad",
+	"name": "Entrance (Entrance.wad)",
+	"description": "This wad is 62.4kb when you unzip it....",
+	"version": "9f97c9",
+	"date": "2014-12-18 22:45:30",
+	"files": [
+		{
+			"filename": "entrance.wad",
+			"size": 63947,
+			"crc": 2858285191,
+			"md5": "12b6aa20eb358c9da74dd70d8bf49d70",
+			"sha1": "9f97c9d08fc8c794d0e23639d92fc695da8fc461",
+			"sha256": "176ae7e4ff1e74ad0e8b01176e1b32ba93350a15218ecb47f0bbc2a45e1f59da"
+		}
+	]
+}

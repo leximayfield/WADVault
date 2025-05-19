@@ -1,0 +1,17 @@
+{
+	"uid": "post11 (926840).wad",
+	"name": "POST11.WAD",
+	"description": "*to play, just run the .bat file* Your outpost was over-run by monsters! You wait for the shuttle by the landing pad but a garbled message hints to you that it's going to be a no show. You must clear out the post yourself! You know that there are two yellow keys to the armory and the blue key is for the exit. The red key is to get into the command center.",
+	"version": "926840",
+	"date": "2013-11-02 15:59:53",
+	"files": [
+		{
+			"filename": "post11.wad",
+			"size": 154294,
+			"crc": 1571146458,
+			"md5": "020d6bc99bbcb623f9e5bda520e00713",
+			"sha1": "926840b07dd38f35f39c2e170f4ef5904075e680",
+			"sha256": "6784adb8370987724fb7f6d6a9b9d53500c0847265ec2f06fcb3f98c0dcedbb8"
+		}
+	]
+}

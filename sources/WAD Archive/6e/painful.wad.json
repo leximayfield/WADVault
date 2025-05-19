@@ -1,0 +1,16 @@
+{
+	"uid": "painful.wad",
+	"name": "Painful!",
+	"description": "Set of 4 new Doom2 levels... New sounds and also some new graphics... This is release 2 of PAINFUL.WAD.",
+	"date": "2015-01-14 23:10:57",
+	"files": [
+		{
+			"filename": "painful.wad",
+			"size": 741660,
+			"crc": 2517578884,
+			"md5": "85ac6573e72177631e6c2d6c3582165e",
+			"sha1": "6e76c28a2a300bdcce63c662fdf923b431a8aa03",
+			"sha256": "93ec1292f0ee2e34d4e0ed4cf04fe00e9c40d4ec2059ff5e284201e558449ce3"
+		}
+	]
+}

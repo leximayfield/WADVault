@@ -1,0 +1,16 @@
+{
+	"uid": "alleys.wad",
+	"name": "ALLEYS.WAD (v1.1)",
+	"description": "My very first DOOM2 .WAD (-ish). The end of the Callisto campaign (see below) should have meant well-earnt retirement for you, marine.",
+	"date": "2013-11-06 22:29:49",
+	"files": [
+		{
+			"filename": "alleys.wad",
+			"size": 200757,
+			"crc": 1873675317,
+			"md5": "04d83343873c802f4c8257c7c75f4f79",
+			"sha1": "e2b189c373c35f3dc5ceeae896f3f800f680eeb5",
+			"sha256": "c4d5617a9beb0a53e11fec8b7877df199e7e12915ca9f45321c8ec1af2f39180"
+		}
+	]
+}

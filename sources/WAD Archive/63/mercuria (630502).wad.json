@@ -1,0 +1,17 @@
+{
+	"uid": "mercuria (630502).wad",
+	"name": "The Mercuria Experiment (v001)",
+	"description": "Something like The Plutonia Experiment. Currently 8 levels... Hopefully it will become full 32 some day. Level 17 was moved to level 8, so you can play them all continuously. Each level should be completable with pistol start.",
+	"version": "630502",
+	"date": "2014-12-14 23:10:03",
+	"files": [
+		{
+			"filename": "mercuria.wad",
+			"size": 830046,
+			"crc": 637380028,
+			"md5": "c9d9893beb2a94fc7e151adaa1442b6d",
+			"sha1": "630502a12d01ad9887c5f89391c7f4b30565bc67",
+			"sha256": "296a0ca0b3765a857f25704877b8b4cfca31fd9cfc00fbb0a62b839c86cc7722"
+		}
+	]
+}

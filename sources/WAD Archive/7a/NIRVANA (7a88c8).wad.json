@@ -1,0 +1,17 @@
+{
+	"uid": "NIRVANA (7a88c8).wad",
+	"name": "Ready to meet Kurt?",
+	"description": "LEVEL FOR DOOM2",
+	"version": "7a88c8",
+	"date": "2013-11-04 20:17:37",
+	"files": [
+		{
+			"filename": "NIRVANA.wad",
+			"size": 375502,
+			"crc": 2602461158,
+			"md5": "ffbb8519c222659c0282585500933148",
+			"sha1": "7a88c8941ca3910da9ec02c6c184de3f432497ec",
+			"sha256": "cce5e33378ac98ef9f3d0e9a87897342579004888a50ac29f6528e190e1b3bda"
+		}
+	]
+}

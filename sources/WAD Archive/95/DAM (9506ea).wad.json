@@ -1,0 +1,17 @@
+{
+	"uid": "DAM (9506ea).wad",
+	"name": "DAM.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. All weapons are available. There are monsters roaming around and there is an exit. There are many hiding spots, teleporters, and great shooting points. The teleporters are designed so that your opponent can't follow you into it. The level is centered around a dam, which is blocking the NUKEAGE RIVER.",
+	"version": "9506ea",
+	"date": "2014-08-30 14:02:04",
+	"files": [
+		{
+			"filename": "DAM.wad",
+			"size": 78422,
+			"crc": 432971145,
+			"md5": "4760fe3cf63d878b56284d2d935b4e80",
+			"sha1": "9506ea5e1cc438cbdf7a3572d7e6686d8c07ec89",
+			"sha256": "bf041341290c7f410f78e09987162410d53989ae6c52da0a8d376a03ffb436b9"
+		}
+	]
+}

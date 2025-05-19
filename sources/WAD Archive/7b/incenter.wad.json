@@ -1,0 +1,16 @@
+{
+	"uid": "incenter.wad",
+	"name": "The Inner Center",
+	"description": "//***********// A level designed as a mix of Doom 2 + Ultimate Doom",
+	"date": "2017-08-18 21:05:49",
+	"files": [
+		{
+			"filename": "incenter.wad",
+			"size": 429667,
+			"crc": 2672080133,
+			"md5": "74eda9541023ec309fb1b01ec2ed3622",
+			"sha1": "7b809a536ea8908c2bac3e615aa25049e72c273c",
+			"sha256": "035741da3219f003b57a0d989407d0a2b93b3a6f5e2f61b6574011f9e1a5020c"
+		}
+	]
+}

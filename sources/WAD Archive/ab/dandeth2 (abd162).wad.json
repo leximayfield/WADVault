@@ -1,0 +1,17 @@
+{
+	"uid": "dandeth2 (abd162).wad",
+	"name": "Dan Deathmatch Level #2",
+	"description": "A indoor arena style DeathMatch level with a few surprises. ;) Things get really interesting at a certain point; not many people can resist the temptation to flip that switch!",
+	"version": "abd162",
+	"date": "2014-12-03 20:00:12",
+	"files": [
+		{
+			"filename": "dandeth2.wad",
+			"size": 65659,
+			"crc": 2044770429,
+			"md5": "2bdb8bdd52fa8527193cc06d71ac7f78",
+			"sha1": "abd16250054643e3ba0f6e570733217a58b8782a",
+			"sha256": "b2365e88dfeb9332ae976584061fac17c9c9c8ed0e6d033585e58f5b67aeba45"
+		}
+	]
+}

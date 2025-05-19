@@ -1,0 +1,16 @@
+{
+	"uid": "descent2.wad",
+	"name": "Descent 2",
+	"description": "I told you there'd be a second one ;)",
+	"date": "2014-12-15 21:43:01",
+	"files": [
+		{
+			"filename": "descent2.wad",
+			"size": 176228,
+			"crc": 3218551987,
+			"md5": "8e4b60fd426bf0e13e0a029a3ff6e32a",
+			"sha1": "be0cef9c367c670a47061a93e6a09d5efe61065e",
+			"sha256": "c968d4b55f92df410edf3612be9f8e495cc509e941ad1d709912d3841673118f"
+		}
+	]
+}

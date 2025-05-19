@@ -1,0 +1,16 @@
+{
+	"uid": "3waymadness-ctf-v5.wad",
+	"name": "3-way Madness CTF",
+	"description": "A Capture The Flag mode, only with a twist: 3 teams. Blue, Red and Green.",
+	"date": "2013-04-21 17:38:08",
+	"files": [
+		{
+			"filename": "3waymadness-ctf-v5.wad",
+			"size": 24896568,
+			"crc": 1063142867,
+			"md5": "38e687c9275c75a40e5daf84dfb6482b",
+			"sha1": "7accea5c60f2c645286df81e96a1f0b645b202db",
+			"sha256": "bdf3933abf0a880a740c224e267176c74257e5ee1cda268f95799b443d1a5653"
+		}
+	]
+}

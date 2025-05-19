@@ -1,0 +1,17 @@
+{
+	"uid": "master (ab3403).wad",
+	"name": "master.wad",
+	"description": "This is the deathmatch version of our level. We will be putting out the single player version out soon!",
+	"version": "ab3403",
+	"date": "2013-11-06 22:44:06",
+	"files": [
+		{
+			"filename": "master.wad",
+			"size": 50281,
+			"crc": 1131983087,
+			"md5": "f31180eafc8e0d256a9f0824a14b7117",
+			"sha1": "ab3403bf7c23e8ea7bc7b9d6ffcdb951006accf7",
+			"sha256": "9b3aa6b257219d358878bc1b09addbf4ef3d99b28de0b7c67cec07a92db900b9"
+		}
+	]
+}

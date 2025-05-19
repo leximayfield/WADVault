@@ -1,0 +1,16 @@
+{
+	"uid": "block.wad",
+	"name": "Block 'o Frags",
+	"description": "This deathmatch level turned out really well: it has got to be one of the fastest levels ever. Anti-hording methods have been employed: such as over-abundance of weapons. All four big dm weapons are used: chain gun, double barrel, rocket launcher and plasma gun, and set up so that a good player should almost be able to take out any weapon with any other. This is purely an action level. Strategy is a second concern. The type of game I'm interested in here is the breakneck, no holds barred frags fests. There is no health what so ever - which just adds to the speed and action. It's a small level, so I don't think more than 2 players will be able to fit in here.",
+	"date": "2014-12-15 21:21:16",
+	"files": [
+		{
+			"filename": "block.wad",
+			"size": 48314,
+			"crc": 2780637577,
+			"md5": "82304e5837bb00280fbfbd6203126836",
+			"sha1": "dcd8d0035aa05bd09c2b033d2d3ca95f4848ce6c",
+			"sha256": "f83a3568cbec30e93a7badd5f70da10bdca926ad52315fbc9cd475bd1c692f62"
+		}
+	]
+}

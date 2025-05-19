@@ -1,0 +1,16 @@
+{
+	"uid": "icu02.wad",
+	"name": "ICU01.WAD",
+	"description": "Sniper spots added to icu01.wad.",
+	"date": "2014-12-15 21:26:39",
+	"files": [
+		{
+			"filename": "icu02.wad",
+			"size": 50286,
+			"crc": 3345192483,
+			"md5": "1f685b87195da25b027356208ca9b0bb",
+			"sha1": "1aaf220ad3d0823492e116c5734e8d7c8b153d88",
+			"sha256": "9997804c74dace4d0008f8027eadeb84cce18e1b26a0b1043b3b5982621579c1"
+		}
+	]
+}

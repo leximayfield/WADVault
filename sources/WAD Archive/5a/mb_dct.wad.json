@@ -1,0 +1,16 @@
+{
+	"uid": "mb_dct.wad",
+	"name": "Mark & Dave's DeathMatch  (V 6.3b)",
+	"description": "The beginnings of a DeathMatch episode designed for 2 player DeathMatch.",
+	"date": "2014-12-13 17:39:45",
+	"files": [
+		{
+			"filename": "mb_dct.wad",
+			"size": 741059,
+			"crc": 620077478,
+			"md5": "e6fd63ac567b9d82cc58600a149b2aec",
+			"sha1": "5a7da61c4972bcaabbaf2b7b83d632f6f2dda810",
+			"sha256": "d140a9576708c84badf4fd644891e0e1c919ad1086938ada78413dd17ea99f8c"
+		}
+	]
+}

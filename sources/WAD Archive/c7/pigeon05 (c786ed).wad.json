@@ -1,0 +1,17 @@
+{
+	"uid": "pigeon05 (c786ed).wad",
+	"name": "Pigeon Speedmapping Session 5: The X-Files",
+	"description": "This is a speedmap project which the mappers did maps with a set of 3 themes (non-obligatory to do all 3 themes) and had a time limit of 3-4 hours for both sessions. The themes were sky/alien maps, 333 thing count and floor/ceiling texture change with a fourth bonus theme which is platforming. The session happened in April 7th, 2018. This wad has been updated because of bugs found in testing.",
+	"version": "c786ed",
+	"date": "2019-03-20 00:03:45",
+	"files": [
+		{
+			"filename": "pigeon05.wad",
+			"size": 16023797,
+			"crc": 1009389261,
+			"md5": "6dc169ae6b393721a37fa7d786f6d07d",
+			"sha1": "c786ed9ca8f957f7d832d4dd16932b4d9fa78679",
+			"sha256": "28984ef4a73fe29bc5162e66dc8c38bb3d0b1edf17ada82441524ca3dce2efff"
+		}
+	]
+}

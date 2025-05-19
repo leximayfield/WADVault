@@ -1,0 +1,16 @@
+{
+	"uid": "khorne.wad",
+	"name": "Khorne's Demise",
+	"description": "The first installment in a series of levels I plan to create. The central theme is the destruction of the Blood God, Khorne (as found in the RPG Warhammer by Games Workshop.) This wad is excellent for deathmatch. It has only been tested for 2 player via null modem but should work fine with networks and phone-modem. Single play of the game is quite enjoyable. Consecutive levels of the game will be released individually as well as grouped with earlier levels. Oh, this is only my second wad but I believe it to be better than most of the wads I've D/L'd. I pay attention to detail.",
+	"date": "2013-11-02 15:42:38",
+	"files": [
+		{
+			"filename": "khorne.wad",
+			"size": 453928,
+			"crc": 1056137319,
+			"md5": "3a0219cde1238f8558971c330e1852ca",
+			"sha1": "55a26f5010185a9bf87b69ca73e4c90459eddd06",
+			"sha256": "884bb8a27b4f9cb0b15e499f400ee936ba7f326e18440777dcb26ab20d66f231"
+		}
+	]
+}

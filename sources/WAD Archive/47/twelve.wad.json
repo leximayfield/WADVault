@@ -1,0 +1,16 @@
+{
+	"uid": "twelve.wad",
+	"name": "Twelve-1",
+	"description": "A two to four player Doom 2 DeathMatch wad. Different sector heights, many different rooms.",
+	"date": "2013-11-04 19:24:58",
+	"files": [
+		{
+			"filename": "twelve.wad",
+			"size": 65077,
+			"crc": 3870420928,
+			"md5": "523c0a7c519ecafd94285d4177860c5f",
+			"sha1": "47cd225775a25a58425107da766969b7f264d4ae",
+			"sha256": "a88437c9a463483ba1345d1ebf0cd025818165cc24aa99edb051c53e760fb1c5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ectopia.wad",
+	"name": "Ectopia",
+	"description": "A creeped out sewage plant where all hell has broken loose(cliche) note: This is also my first publicly released wad Play with gzdoom+\"lights.wad\" on 'doom'(intended) or 'standard' light settings",
+	"date": "2014-12-24 17:15:40",
+	"files": [
+		{
+			"filename": "ectopia.wad",
+			"size": 1420124,
+			"crc": 736015674,
+			"md5": "eab14fb2624fde59095de21e88b13cef",
+			"sha1": "43ae31d5fd1ccdf230967b7327ad910aefd3533e",
+			"sha256": "fd52c3e65a292ba77be097e41537ba73ce09f0aa0946a6fba0a81be4356fc5aa"
+		}
+	]
+}

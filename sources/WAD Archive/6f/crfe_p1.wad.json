@@ -1,0 +1,16 @@
+{
+	"uid": "crfe_p1.wad",
+	"name": "Can't Run Frm Evil (Part I)",
+	"description": "Looking at my huge Doom folder i found lots of incomplete maps which never see the light of day, so i decide to keep up some of them and rearrange with a more \"modern doom\" look. These levels are the first four of them, and they are the bigger too. All maps can be finished starting with pistol only. Maps are hard, but difficult levels are implemented. Also, there are no continuity between maps, maybe except map 01 and map 02. First two maps are techbases, map 3 is city-based and map 4 is marble-metal based. Also i include a alternate PLAYPAL lump, the cool palette you sure already see on maps like simplicity and lots of Zdoom wads. Sorry i don't know the name of the creator to credit him...",
+	"date": "2014-12-21 16:24:16",
+	"files": [
+		{
+			"filename": "crfe_p1.wad",
+			"size": 13787635,
+			"crc": 3762446568,
+			"md5": "689294282ea6a9c7311b955527b484f3",
+			"sha1": "6f0b048aa2ece565f57d2557cdf54a4cc327baed",
+			"sha256": "79339cb5293e60a7f4626d4821c7da21bd94c2ab50c297e1976ab38e5a4ded1b"
+		}
+	]
+}

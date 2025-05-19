@@ -1,0 +1,16 @@
+{
+	"uid": "EATME.wad",
+	"name": "DOOM II \"EATME\" Episode (DEATHMATCH)",
+	"description": "This level was designed for deathmatch with altdeath turned on. Be sure to leave monsters ON, there aren't many, but they are essential for the wad to play correctly! A cooperative effort by two players is required to exit Eatme. The switch to open the door is located at the opposite side of the wad under the blue armor. One player must be positioned at the exit door while the other player trips the switch. It is impossible to exit alone. Beware once in the exit room, only one direction is the true exit, the others are. . . . well, you'll see!",
+	"date": "2014-08-30 13:55:27",
+	"files": [
+		{
+			"filename": "EATME.wad",
+			"size": 92175,
+			"crc": 2080429322,
+			"md5": "93a949ee17bd612db62dfaa8054df8ea",
+			"sha1": "b35d34da1f58bfc84e55912d52e766cefc408d18",
+			"sha256": "762495635de0cbf0888a92cce0d2634d5d9b5a362ae81a0009e7025dc986f534"
+		}
+	]
+}

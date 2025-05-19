@@ -1,0 +1,16 @@
+{
+	"uid": "REMCMPLX.wad",
+	"name": "The Remote Complex",
+	"description": "Two hours ago, a priority security alert was received on all channels from the Abrash Remote Research Complex, a small research and development site built into a steep hill among the terraformed landscape of Europa. Forty minutes ago, the Quick Reaction Force arrived on site. You've heard nothing since then, and now you're about to round the corner, into the dip where the entrance to the Remote Complex sits... [This is my first custom Doom map. Ever. Let me know what you think!]",
+	"date": "2018-08-01 03:19:25",
+	"files": [
+		{
+			"filename": "REMCMPLX.wad",
+			"size": 367574,
+			"crc": 3259405532,
+			"md5": "ada25332ec1b8d89f875f22ec947685a",
+			"sha1": "8043f085e5d28fc194999918f27a643da494b3e1",
+			"sha256": "ce25fcf2ec1dca7cf82696cee78117dd7a1b1346f45979a18b0ca833201c05dc"
+		}
+	]
+}

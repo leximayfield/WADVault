@@ -1,0 +1,17 @@
+{
+	"uid": "Wicked (3ef52a).wad",
+	"name": "WICKED'S DEATHMATCH ARENA",
+	"description": "No story, no rules, just kill !!!",
+	"version": "3ef52a",
+	"date": "2014-12-15 22:47:30",
+	"files": [
+		{
+			"filename": "Wicked.wad",
+			"size": 105373,
+			"crc": 1533274850,
+			"md5": "ac8a687d8721b2a9f3ee4afdb05d1655",
+			"sha1": "3ef52a3157478803d037b8b31eafb5ba5c9c8ba2",
+			"sha256": "a34ce73943f96bba6d8c5f29652839093f16e87cf2ad02c0269642c0de029582"
+		}
+	]
+}

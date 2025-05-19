@@ -1,0 +1,16 @@
+{
+	"uid": "dungeonx.wad",
+	"name": "dungeonX",
+	"description": "This is a big wad and has many monsters but it also has enough health and ammo to beat it. The fights are fair and you have plenty of room to move around.",
+	"date": "2014-12-18 22:37:45",
+	"files": [
+		{
+			"filename": "dungeonx.wad",
+			"size": 342740,
+			"crc": 1853897346,
+			"md5": "68744f82a12be5a2c9e236bfed9818e9",
+			"sha1": "beddc9be9c18384906fe897c3e19948bd0b127d5",
+			"sha256": "f703af7d326e4c8221c15e38be747506e95a47b51111ce9e81ec9ac36cbbe28b"
+		}
+	]
+}

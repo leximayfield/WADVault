@@ -1,0 +1,17 @@
+{
+	"uid": "theyard (a9d613).wad",
+	"name": "THEYARD",
+	"description": "Designed for Deathmatch",
+	"version": "a9d613",
+	"date": "2014-12-03 20:28:40",
+	"files": [
+		{
+			"filename": "theyard.wad",
+			"size": 47982,
+			"crc": 2658835771,
+			"md5": "f47c4124bdf0826a666b0aab6e2c1f87",
+			"sha1": "a9d613f2cba433ef349e821a41509db9f5507c60",
+			"sha256": "30c777f9ffa7277573c0d6ab4e994638ada9605152ba111473b71a02d2a81167"
+		}
+	]
+}

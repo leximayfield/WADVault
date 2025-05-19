@@ -1,0 +1,16 @@
+{
+	"uid": "toxnbase.wad",
+	"name": "The Toxin Base",
+	"description": "A fun deathmatch level made in 3 days.",
+	"date": "2015-09-15 18:45:24",
+	"files": [
+		{
+			"filename": "toxnbase.wad",
+			"size": 1525801,
+			"crc": 1240164311,
+			"md5": "df38609b2835ee565d1057962c19ba7a",
+			"sha1": "9b0b0226ea0dec8c62fa327acc568c18d680be40",
+			"sha256": "2c4f7c151c89f71cece3fe6995e330f4758abe7e324b20444f6396ebd03772e5"
+		}
+	]
+}

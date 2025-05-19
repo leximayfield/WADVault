@@ -1,0 +1,16 @@
+{
+	"uid": "grail2.wad",
+	"name": "G R A I L 2 --- for DOOM ][ LEGACY",
+	"description": "Designed for Deathmatch, but as usual I have put a few monsters in. A MEDIEVAL style level. Features include deep water and real 3D floors etc. Sort of a demo of my forthcoming megawad GRAIL QUEST 3D which will hopefully have some new textures and sprites. My aim is to make a sort of medieval equivalent of the mummy phuquers with a knights Templar/holy grail theme but the new textures are taking longer than expected, hence the modified heretic textures.",
+	"date": "2014-12-15 22:23:08",
+	"files": [
+		{
+			"filename": "grail2.wad",
+			"size": 347845,
+			"crc": 713016348,
+			"md5": "4b617b1a9b3930c16a80cb6b92d46aa3",
+			"sha1": "b539ae2ddcf89e161da80d0fd113670df6f80b4a",
+			"sha256": "22fd6378eb20f08fbdf4160b98fe794002ce67f83efb256f68a0b8a338e52196"
+		}
+	]
+}

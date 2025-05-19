@@ -1,0 +1,17 @@
+{
+	"uid": "ARENA1 (53fe25).wad",
+	"name": "Arena 1: The Sign of the Cross",
+	"description": "a mixture of my favorite deathmatch WAD (LEDGESx.WAD) and ari's (EYESPY.WAD)... but since i made it, it leans a little heavier toward Ledges... also, for the first time, i managed to scare _myself_ with a level i created... and the first one to find the secret passage to the west room will be invulnerable for a looooong time.",
+	"version": "53fe25",
+	"date": "2014-02-15 16:52:49",
+	"files": [
+		{
+			"filename": "ARENA1.wad",
+			"size": 51013,
+			"crc": 2312540781,
+			"md5": "aa0bad5d0712111b26f460e7008a5c3e",
+			"sha1": "53fe25c0b4fa796d0734a9c3aec8191f9e8e2f20",
+			"sha256": "2cf101cc192fd4650edc145981e9ed228a1322a70fe4a868f3a9fa9e13e56837"
+		}
+	]
+}

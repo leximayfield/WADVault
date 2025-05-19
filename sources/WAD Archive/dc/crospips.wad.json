@@ -1,0 +1,16 @@
+{
+	"uid": "crospips.wad",
+	"name": "Crossing Pipes",
+	"description": "A 10 sector map. 4 of the sectors are sloped.",
+	"date": "2014-12-21 16:57:42",
+	"files": [
+		{
+			"filename": "crospips.wad",
+			"size": 90454,
+			"crc": 415788646,
+			"md5": "f515eb13d1ac317d675bb7a296cf0073",
+			"sha1": "dce37f80dd5f0e0a082c138c80d88dbc548b41d1",
+			"sha256": "057ef8c11d6e5b641c08eaf0415a1a9f0f538b68f0375f4cd267d1587faff2b3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "makkaracave.wad",
+	"name": "Makkaracave",
+	"description": "A small 1-on-1 level. I made the original version some time ago but added minor stuff to make gameplay more varied.",
+	"date": "2013-04-19 01:11:30",
+	"files": [
+		{
+			"filename": "makkaracave.wad",
+			"size": 270531,
+			"crc": 1867525872,
+			"md5": "9d99a938f6722b8b9a28c900e8836ae6",
+			"sha1": "d13f0c90b830eb88c4e8de1a9d77d2ce9f420637",
+			"sha256": "6f5515c588daaedf3242cb912a2f291bedc07a3faf4203cfae3d9ab8ceb42238"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "unidoom.wad",
+	"name": "UniDoom",
+	"description": "This is a very small part of the Universitaet-Gesamthochschule Siegen. It is my first DOOM-Level and took a lot of time to build it.",
+	"date": "2014-12-13 12:40:50",
+	"files": [
+		{
+			"filename": "unidoom.wad",
+			"size": 346688,
+			"crc": 3229757865,
+			"md5": "fbcdb557299f02a029526482735587f4",
+			"sha1": "f3b872b0b9c1ceffa92bbc9bb1282fd3faba75d8",
+			"sha256": "04a11d4fb19d46fe667200cdbc99d5fd922b03a76b329577fa08786113b1e2d7"
+		}
+	]
+}

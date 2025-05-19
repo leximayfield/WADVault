@@ -1,0 +1,16 @@
+{
+	"uid": "dropoff.wad",
+	"name": "Dropoff",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2014-12-18 22:30:25",
+	"files": [
+		{
+			"filename": "dropoff.wad",
+			"size": 125720,
+			"crc": 2955650509,
+			"md5": "6b818cfe6bef5090f6a84c3bea350190",
+			"sha1": "d74b2874484267d82ff0a3b10939f2cc1e7f6908",
+			"sha256": "d4c3948d9b124681c238ac586e5cd01951f0dd46bfac016a06946933e0b8ed6e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "oblivion (fbf29c).wad",
+	"name": "Path to Oblivion",
+	"description": "Another oldie from 1996 that I polished up for the modern era (though it's still more or less vanilla in persuasion). This one's been sitting on the shelf for a while -- it's been ready since early this year, but I chose to playtest it some more and then got wrapped up making Firestorm, my other recently released wad. Gameplay is now greatly improved from what it was when I first loaded it up after some 13 years. No story here -- just what I hope is a good, rough romp through some demon dimension cooked up by my imagination given free range. You'll need to activate jumping and freelook to fully enjoy. Cheers!",
+	"version": "fbf29c",
+	"date": "2015-01-13 21:42:44",
+	"files": [
+		{
+			"filename": "oblivion.wad",
+			"size": 579358,
+			"crc": 4134212224,
+			"md5": "d5201b0a4be648362d987ffa00517963",
+			"sha1": "fbf29c91646d77649c1a1c66e8fae570f686b3ef",
+			"sha256": "ad09ad7ae12c4bc23ba20e769a8ca7ec72f33c37444b302219d22227bf3f645f"
+		}
+	]
+}

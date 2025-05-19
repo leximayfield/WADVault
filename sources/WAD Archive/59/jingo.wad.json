@@ -1,0 +1,16 @@
+{
+	"uid": "jingo.wad",
+	"name": "Jingo",
+	"description": "A tech-themed map with plenty of secrets and monsters. Technical: *Added additional gore to the Former Human, Former Sergeant, and Imp sprites. *Replaced the level title graphic. *Replaced the Boss Demon sound file. *Replaced the Boss Demon sprite. *Added an additional texture.",
+	"date": "2015-01-05 16:36:57",
+	"files": [
+		{
+			"filename": "jingo.wad",
+			"size": 917303,
+			"crc": 2303915829,
+			"md5": "2e6518b05012cf02de07f5005fdcb823",
+			"sha1": "596e293ce1f4b755923528a681fb4b94c39b4b43",
+			"sha256": "835b6183e813f3198133847f0b9943b636c69bbc1ebd9c0d19215d92dc63073f"
+		}
+	]
+}

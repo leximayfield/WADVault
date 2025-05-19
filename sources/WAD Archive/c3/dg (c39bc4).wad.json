@@ -1,0 +1,17 @@
+{
+	"uid": "dg (c39bc4).wad",
+	"name": "DG wad",
+	"description": "I made this level because I felt there wasn't any levels out there that just spoiled you. Sometimes I would really get made because there would be be no ammo or something. So it's over stocked!",
+	"version": "c39bc4",
+	"date": "2014-12-18 22:43:30",
+	"files": [
+		{
+			"filename": "dg.wad",
+			"size": 80738,
+			"crc": 1539183531,
+			"md5": "b970f1d23fe82f43a565585aa36877e3",
+			"sha1": "c39bc4bb562bce52b608e62e9423f8b538aa629e",
+			"sha256": "c2d96e0c21ac13d8a49befa1807a460df2082b9054136e5e6e79fe2b6bdf71b5"
+		}
+	]
+}

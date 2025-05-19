@@ -1,0 +1,16 @@
+{
+	"uid": "agonism4.wad",
+	"name": "AGONISM4.WAD",
+	"description": "Deatchmatch wad for level 4 of DOOM II. Very small, contains all weapons save for the BFG. Items are level-dependent, expect for weaponry.",
+	"date": "2013-11-02 17:11:21",
+	"files": [
+		{
+			"filename": "agonism4.wad",
+			"size": 44101,
+			"crc": 2374313521,
+			"md5": "8f2b261b134370b22c06306b67381ec1",
+			"sha1": "6cc59aeee85cd877238ed6a26e279361e44e0676",
+			"sha256": "63176b86b3633f4cb5241f3c413e0270832c0dd1f3ef4e01f68717c10513f13c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "extrmons.wad",
+	"name": "Extreme Monsters Modification",
+	"description": "This MOD upgrades the normal DooM 2 monsters into much more agressive and strong versions of their original selves. Hit points, movement and projectile speeds have all been altered in this MOD. This MOD will most likeley be very good in terms of increasing the difficulty of COOP games without having to battle hordes upon hordes of monsters just for a challenge. This file is also intended for mappers to use in their maps. A good feature of this is REDUCED LAG in new maps, and more difficulty in older ones with less monsters. Enjoy!",
+	"date": "2015-09-14 22:28:27",
+	"files": [
+		{
+			"filename": "extrmons.wad",
+			"size": 1454,
+			"crc": 4043507937,
+			"md5": "04bbdfdd0427083ce5ebe1d2c0839a7e",
+			"sha1": "f659f4c28229cd2d7813ca76087e93e5bbd5c03d",
+			"sha256": "de85bcdb3f9914464b88c3f4f8154536b06ce7d2a573f852730e8d081d65398f"
+		}
+	]
+}

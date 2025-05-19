@@ -1,0 +1,17 @@
+{
+	"uid": "eaxt (cc26b5).wad",
+	"name": "X-treme (demo)",
+	"description": "Well, maybe it's wrong to call this a demo, it's more like a HD-cleaning. It was close that these 2 levels were lost in my last reformat, I remembered to upload them the very last minute. Since it's not likely that I will work on this megawad- project anytime soon I might just as well release these levels standalone. The difficulty is balanced so that skill 4 is not playable or fun in any way, so don't bother trying it unless you are a masochist.",
+	"version": "cc26b5",
+	"date": "2013-04-19 03:05:53",
+	"files": [
+		{
+			"filename": "eaxt.wad",
+			"size": 507540,
+			"crc": 2912483623,
+			"md5": "2bea7f975c9b4d6717a42253936f531f",
+			"sha1": "cc26b5fe45f01beb778ca6c480dc18d8007d544f",
+			"sha256": "115ef60e03befbd314500d9130d6aed35334017527a58e96488e97fbe54517ad"
+		}
+	]
+}

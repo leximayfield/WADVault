@@ -1,0 +1,16 @@
+{
+	"uid": "curse.wad",
+	"name": "Heretic - Curse of D'sparil",
+	"description": "An episode 3 replacement for Heretic, playing on the story of Corvus' exile as he was under the curse of D'sparil. Read the back story under \"Info\" in Heretic.",
+	"date": "2013-04-18 21:57:22",
+	"files": [
+		{
+			"filename": "curse.wad",
+			"size": 17122396,
+			"crc": 212962116,
+			"md5": "5f1eac36aa147e36f7513c7284ab19e2",
+			"sha1": "180b27f2c8a82252db0b19897bf0470f742ddae7",
+			"sha256": "c269af5ea9ad26365e7e978fa3ccbe24b41018a59796cdb0846df172978039f1"
+		}
+	]
+}

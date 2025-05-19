@@ -1,0 +1,16 @@
+{
+	"uid": "cswp4.wad",
+	"name": "Counter Strike Weapon Pack 4",
+	"description": "A weapon pack wad.It is using counter strike weapons with extended frames(reloading....etc.)Make sure the wad what you want to run with this has enough ammo. These weapons are ammo-hammering ones...",
+	"date": "2013-04-19 01:55:02",
+	"files": [
+		{
+			"filename": "cswp4.wad",
+			"size": 19097076,
+			"crc": 577734541,
+			"md5": "1d002582238594e9e12b2900ae370782",
+			"sha1": "0512fc9a7968152794dbc1abe71453422e7cd346",
+			"sha256": "116b4ca9c4b92ba99cb0a39854b36ba8646d9a2ebdd5c2a8a5753232552fe1fc"
+		}
+	]
+}

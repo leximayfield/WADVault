@@ -1,0 +1,17 @@
+{
+	"uid": "chamber (d35ef4).wad",
+	"name": "The Death Chamber (Doom 2)",
+	"description": "Just another Cheesy death match level, but fun and interesting none-the less. Makes a great filler for those mult- iple level wads.",
+	"version": "d35ef4",
+	"date": "2016-02-07 20:25:11",
+	"files": [
+		{
+			"filename": "chamber.wad",
+			"size": 18944,
+			"crc": 1318441982,
+			"md5": "ff257245759a17e2e3409b37d5176f45",
+			"sha1": "d35ef4a30d6ebe1e3a5b92144f4d28c3c49ca45b",
+			"sha256": "75b23ac905a9c37dbeed465939154c57ce49e737e6cca62c86cf6244b5c217ca"
+		}
+	]
+}

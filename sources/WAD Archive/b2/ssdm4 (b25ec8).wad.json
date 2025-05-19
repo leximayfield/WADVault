@@ -1,0 +1,17 @@
+{
+	"uid": "ssdm4 (b25ec8).wad",
+	"name": "SSDM4.WAD",
+	"description": "Each start has a weapon and ammo. large open area, kinda clover shaped, with a 'hill' in the center. Building on top of hill with Rocket Launcher. Suggest respawn.",
+	"version": "b25ec8",
+	"date": "2014-01-07 22:14:48",
+	"files": [
+		{
+			"filename": "ssdm4.wad",
+			"size": 51560,
+			"crc": 3155293132,
+			"md5": "e22c6d96ca6075d9f174fc5cce544c64",
+			"sha1": "b25ec89028299880964d9066fd6502a2bf2ff40c",
+			"sha256": "feb412a6442c36e9e1f96daab7a4c69c1b90d2d34d71ed53369db6ac066e7f12"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"uid": "endoomed.wad",
+	"description": "This huge 230+K level features most all of the ememies in Doom II including Cyberdemons and Spider-Masterminds which are not just thrown together in one room but are well placed. The level is based on the E2M8 and E3M8 levels in DOOM I. It has a \"Jail room\" in which the object is to entrap the enemies, where one false move puts you in the middle of a cyberdemon crossfire. The level has significant weapons and ammo so you won't have to use the cheat codes. Other rooms throughout the level follow the \"Hunt the Cyberdeamon or Spider-Mastermind\" theme. Most textures are well aligned and much thought was done in constructing it. Supports and is designed for Deathmatch and Co-Op as well as single player. Hint: I goes before II.",
+	"date": "2014-12-18 23:10:05",
+	"files": [
+		{
+			"filename": "endoomed.wad",
+			"size": 230559,
+			"crc": 1092707942,
+			"md5": "845958989ad748f8e454675effb6fcb0",
+			"sha1": "ed1cf36dbf9d2d67fc382681d8d8d5241a9d2449",
+			"sha256": "626c80c5786bac035d5fb3326c77d8d85238346d7e4ba1310d690004c7919421"
+		}
+	]
+}

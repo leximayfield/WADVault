@@ -1,0 +1,16 @@
+{
+	"uid": "acsrcade.wad",
+	"name": "ACS Arcade",
+	"description": "a bunch of ACS minigames cramed into one room.",
+	"date": "2013-05-01 15:20:41",
+	"files": [
+		{
+			"filename": "acsrcade.wad",
+			"size": 1945926,
+			"crc": 1168290551,
+			"md5": "ec56544992fc13ba74d77c44e588a68f",
+			"sha1": "eada4eb6708327a967a14f40ae5cbcb9c18bc3a0",
+			"sha256": "ecdbeb0758105b74fc00daa00cff8886e2946e2506c83e8bba0879e2ab500519"
+		}
+	]
+}

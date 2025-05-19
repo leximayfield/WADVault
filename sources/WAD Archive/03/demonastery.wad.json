@@ -1,0 +1,16 @@
+{
+	"uid": "demonastery.wad",
+	"name": "Demonastery",
+	"description": "A medium sized, architecturally detailed single-player map which twists back in on itself several times, set in a crumbling monastery made of marble and corpses.",
+	"date": "2018-12-16 04:17:41",
+	"files": [
+		{
+			"filename": "demonastery.wad",
+			"size": 9924223,
+			"crc": 1241593910,
+			"md5": "189a69c857cad209baf476f87564c5fa",
+			"sha1": "035d0a84c0c5b7dc90965d09d939d2625a6fac36",
+			"sha256": "37480b5521e021e0150eb1fb90373fc2587d9bd82f6429e7fbc00cf381e13484"
+		}
+	]
+}

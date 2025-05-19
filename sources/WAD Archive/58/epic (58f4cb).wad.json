@@ -1,0 +1,17 @@
+{
+	"uid": "epic (58f4cb).wad",
+	"name": "EPIC",
+	"description": "One level for any boom compatible and limit removing ports. PrBoom-Plus or GZDoom are recommended. To play this PWAD file, unzip it into the directory with your PWADs then start: glboom-plus.exe -file epic.wad -complevel 9 (g)zdoom.exe -file epic.wad",
+	"version": "58f4cb",
+	"date": "2013-08-23 14:13:38",
+	"files": [
+		{
+			"filename": "epic.wad",
+			"size": 9165980,
+			"crc": 2704248675,
+			"md5": "8a248cf4932a1741e3e2afa556f1a18c",
+			"sha1": "58f4cb0dc01dd4cd60e4d5719370fb1476afc36a",
+			"sha256": "6f622c63d7ac28d518b4b20dd8c4c9b9e92389f8066fea43252a57c28fd63b2d"
+		}
+	]
+}

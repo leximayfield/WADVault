@@ -1,0 +1,17 @@
+{
+	"uid": "old_megawads (a73954).wad",
+	"name": "Mall",
+	"description": "This DOOM II deathmatch wad with a mall theme. It should be used with deathmatch 2.0 Includes around 80 new textures (And a movie) 6 new sounds, new music, all weapons but the BFG. Very open level, main mall hall with around 8 stores to fight in. You thought playing hide and seek in a mall was fun! Wait until you try deathmatch in one!",
+	"version": "a73954",
+	"date": "2013-04-19 01:14:27",
+	"files": [
+		{
+			"filename": "old_megawads.wad",
+			"size": 1322668,
+			"crc": 2447656243,
+			"md5": "168545f93159234f61f085b95e7d9439",
+			"sha1": "a739548cb8be6a9458c3e3eb8dfdd0ab749fb690",
+			"sha256": "b5e6c862c317f205c1c1744590f411be7968ca511fa978042d76bb02176252cf"
+		}
+	]
+}

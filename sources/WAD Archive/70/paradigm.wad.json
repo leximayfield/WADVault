@@ -1,0 +1,16 @@
+{
+	"uid": "paradigm.wad",
+	"name": "Malign Paradigm",
+	"description": "Printz created the base for this map for doom 1, I later expanded it and converted it to doom 2, A episode 3 style map relatively difficult not in insane though,",
+	"date": "2014-12-29 08:57:02",
+	"files": [
+		{
+			"filename": "paradigm.wad",
+			"size": 214215,
+			"crc": 1009482720,
+			"md5": "4c88995a5d13204b94c64c24b993f588",
+			"sha1": "7063ae6508bcc0a9b9141082e3d8ae6d81832d62",
+			"sha256": "4f9ca14ca176fa8962d58291c985e51c5d14e04e6050ed0795027fe12b0b6c0f"
+		}
+	]
+}

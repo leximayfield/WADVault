@@ -1,0 +1,16 @@
+{
+	"uid": "enzemica.wad",
+	"name": "Enzemica",
+	"description": "Four ammo-filled halls wrapped in together with windows and teleports. Great flow, if you can jump, and it can accomodate 16 players. Oh, and it's a deathmatch map.",
+	"date": "2014-12-15 22:37:01",
+	"files": [
+		{
+			"filename": "enzemica.wad",
+			"size": 50069,
+			"crc": 479321137,
+			"md5": "548fc8fb49ca0464ff25623efb04b9eb",
+			"sha1": "10d87ccd81bd1c3a2bc49eb8f2c5acf221ffdf43",
+			"sha256": "6122db13834f9423218048905054418096543e3b5cd24a9cda54d5d70ba5d021"
+		}
+	]
+}

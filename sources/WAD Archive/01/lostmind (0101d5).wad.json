@@ -1,0 +1,17 @@
+{
+	"uid": "lostmind (0101d5).wad",
+	"name": "Lostmind.Wad",
+	"description": "This Wad was made to challange the Doom player in skill aspects along with Killings (of course). Warning! Not everything is what it appears to be. Get that (you'll see what I mean). The level can be completed without cheats, a little thought and effort is all that is needed. Get the Rocket launcher when you see it, you'll need it.",
+	"version": "0101d5",
+	"date": "2016-02-07 20:37:09",
+	"files": [
+		{
+			"filename": "lostmind.wad",
+			"size": 240011,
+			"crc": 1744176152,
+			"md5": "f531a4d9b4bbbbf05971f9ee0b225ddc",
+			"sha1": "0101d5d82617f6bea55f791c9886978f36d0c350",
+			"sha256": "78869d73b50daaf344bdded5b5059c4910183682d43d436a04c76e0f77a8f4ef"
+		}
+	]
+}

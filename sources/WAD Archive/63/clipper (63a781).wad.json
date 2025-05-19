@@ -1,0 +1,17 @@
+{
+	"uid": "clipper (63a781).wad",
+	"name": "CLIPPER.WAD",
+	"description": "This is your standard castle-type WAD with a MAJOR twist. The major twist I'm talking about is the reason I named this wad \"CLIPPER\".",
+	"version": "63a781",
+	"date": "2014-01-07 22:27:33",
+	"files": [
+		{
+			"filename": "clipper.wad",
+			"size": 118046,
+			"crc": 222569900,
+			"md5": "a8758ebc5bb9bec5b315d7332c20a201",
+			"sha1": "63a7811a587464143b626304cb2fa24cd97e9cf2",
+			"sha256": "f4eb4b60f83e516bbf629471055e256c71bd2ccaf5fe3aed67ee496565714eb7"
+		}
+	]
+}

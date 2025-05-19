@@ -1,0 +1,17 @@
+{
+	"uid": "scourge (1a0df9).wad",
+	"name": "Scourge",
+	"description": "This is my first Wad, very simple, amateur-ish. 12 Levels where DoomGuy main Objective is to end each level.After the 12 level, the game ends. There is some puzzle type levels, NO JUMPING and NO CROUCHING type of game. Its meant to be played in HURT ME PLENTY difficulty. Hope you enjoy...i know i did.",
+	"version": "1a0df9",
+	"date": "2019-03-06 22:02:59",
+	"files": [
+		{
+			"filename": "scourge.wad",
+			"size": 1249058,
+			"crc": 3335006774,
+			"md5": "c6a1c21a3fdb2dd8f590c819fdbc065c",
+			"sha1": "1a0df9870de66095e414420ee3d7227b87d0e558",
+			"sha256": "c37df712d2af54be9e42f817821bf0d4b882615405b2653b606b6adea082155f"
+		}
+	]
+}

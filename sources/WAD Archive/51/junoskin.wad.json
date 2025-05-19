@@ -1,0 +1,16 @@
+{
+	"uid": "junoskin.wad",
+	"name": "Juno from Jet Force Gemini",
+	"description": "Anyone remember Jet Force Gemini for the N64? This is a player skin of Juno, one of the three main characters in the game. I decided to make his armor color green so you could edit his appearance under player setup.",
+	"date": "2018-01-12 13:02:18",
+	"files": [
+		{
+			"filename": "junoskin.wad",
+			"size": 237124,
+			"crc": 77347559,
+			"md5": "5bee2eb318245f61860ef1640fbba49d",
+			"sha1": "516f4802ff673b20271222794e58c805994e0ed8",
+			"sha256": "dd98e567a2019b68f3576525c45646d69e292e8fcdb42db994d7b6806f495c53"
+		}
+	]
+}

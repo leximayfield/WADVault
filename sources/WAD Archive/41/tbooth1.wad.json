@@ -1,0 +1,15 @@
+{
+	"uid": "tbooth1.wad",
+	"description": "This is a teleport booth. It will teleport the player to the specified teleport dest.",
+	"date": "2015-09-14 20:14:09",
+	"files": [
+		{
+			"filename": "tbooth1.wad",
+			"size": 5873,
+			"crc": 3543686842,
+			"md5": "52c0504d2983118c274e52dffbcc3709",
+			"sha1": "41bc3d15040af8ac092f436d42bf03d5af13b331",
+			"sha256": "d5f77dcf1a64484a183dc700535d2846c7d91d77253d19593b5eb951e0ad17a8"
+		}
+	]
+}

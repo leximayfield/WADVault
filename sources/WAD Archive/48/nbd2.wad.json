@@ -1,0 +1,16 @@
+{
+	"uid": "nbd2.wad",
+	"name": "North By Doom 2",
+	"description": "This was a sort of experimental concept map. Basically, what I did was find snippets of each level in the doom2 IWAD and make a one-level wad from scratch where you progress through in one cardinal direction, north. I stayed true to Doom II's architechture and design. Because I stayed true to that style, don't expect any crazy cool design or gameplay gimmicks or anything eye-opening (remember that Doom II's levels had texture misalignments too!). The way each area progresses, you'll always be going north. Hence the title.",
+	"date": "2015-01-13 21:31:01",
+	"files": [
+		{
+			"filename": "nbd2.wad",
+			"size": 424819,
+			"crc": 3116496732,
+			"md5": "a966eaeb83e93118bdca137d69e11587",
+			"sha1": "4869e8eb4a574e68e70006cc5953330b5dafb254",
+			"sha256": "d264469135275ebb05ac3e350f2d1d577700b3abd35d312f85111b1ed240832c"
+		}
+	]
+}

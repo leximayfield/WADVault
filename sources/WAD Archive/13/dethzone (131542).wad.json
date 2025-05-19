@@ -1,0 +1,17 @@
+{
+	"uid": "dethzone (131542).wad",
+	"name": "DETHZONE",
+	"description": "A great deathmatch for Doom 2. Perfect size, lots of sniping spots,(check the walls straight across from the lamps),set up for deathmatch 2.0 rules",
+	"version": "131542",
+	"date": "2013-11-02 15:55:01",
+	"files": [
+		{
+			"filename": "dethzone.wad",
+			"size": 33664,
+			"crc": 3607316065,
+			"md5": "414ca578fed5f86a4bad12e1e0c3e6dd",
+			"sha1": "13154285928ad94236169d90a5a0c47d4d209301",
+			"sha256": "9cfacd05ffa303a9b3242d37cda149c81597eb731282826b36bf0b2e51e37f1c"
+		}
+	]
+}

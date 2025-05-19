@@ -1,0 +1,17 @@
+{
+	"uid": "UNX01 (1b2aaa).wad",
+	"name": "UNX01",
+	"description": "A short, simple starting map. It's pretty easy though it has a couple of slightly challenging parts. The radiation suit is more useful than it may seem at first. Designed for vanilla Doom and old school gameplay. All 3 difficulty levels available.",
+	"version": "1b2aaa",
+	"date": "2016-02-13 19:27:48",
+	"files": [
+		{
+			"filename": "UNX01.wad",
+			"size": 67766,
+			"crc": 1466573826,
+			"md5": "99f73849e4a7a870c9c12b4acef7f361",
+			"sha1": "1b2aaa5014656e528cba467454172287376ec3e2",
+			"sha256": "0f57dd59e5a27cb9487949b9b06eeb522a2890d9d0f1cca9b5ffaad3347c1282"
+		}
+	]
+}

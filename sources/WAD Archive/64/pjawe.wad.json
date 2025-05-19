@@ -1,0 +1,16 @@
+{
+	"uid": "pjawe.wad",
+	"name": "Project Awesome",
+	"description": "This is a small set of short vanilla maps that my younger brother made, replaces E3M5 to E3M8.",
+	"date": "2014-12-13 12:54:43",
+	"files": [
+		{
+			"filename": "pjawe.wad",
+			"size": 59566,
+			"crc": 1740616468,
+			"md5": "0598a514f3d474db3bed237b7ae59589",
+			"sha1": "643dace8b2aa8f0aae81e451b1f06204f5f275b3",
+			"sha256": "f8f5e0238a5e6b3463c7280da6cca04d7026a000526e44ca829b077f10641a1f"
+		}
+	]
+}

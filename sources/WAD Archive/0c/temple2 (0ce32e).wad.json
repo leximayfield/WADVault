@@ -1,0 +1,17 @@
+{
+	"uid": "temple2 (0ce32e).wad",
+	"name": "Temple2...a 6-level hub for Hexen",
+	"description": "These six levels are loaded with tricks,traps and SPECIALEFFECTS such as: 3d-floors transparent doors deep-water sky walls visible floors that actully are not there(you fall thru them) floating corpses and much more..",
+	"version": "0ce32e",
+	"date": "2014-12-31 12:06:08",
+	"files": [
+		{
+			"filename": "temple2.wad",
+			"size": 4092124,
+			"crc": 2483030772,
+			"md5": "84b924f823230cb016cbb8cab06528fe",
+			"sha1": "0ce32e7fd30e830d9d429fe9060a354286658fda",
+			"sha256": "96ce0b133a4368c8d0325cca934cdddff0fa4712db1a3a2e9287c0775bbdee55"
+		}
+	]
+}

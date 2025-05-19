@@ -1,0 +1,17 @@
+{
+	"uid": "tfw1 (d5efe2).wad",
+	"name": "The Floppy Wizard 1",
+	"description": "For the more advanced single player.",
+	"version": "d5efe2",
+	"date": "2013-11-02 15:41:53",
+	"files": [
+		{
+			"filename": "tfw1.wad",
+			"size": 80928,
+			"crc": 1823300998,
+			"md5": "23978298cc9bd18f930fd071163c403f",
+			"sha1": "d5efe204a8559cc137f29dbca7984df08d036f70",
+			"sha256": "7002b2e1b07ead0091e52c8e07f90bfc5b3e9787dffceafcdcb4488f8238c22a"
+		}
+	]
+}

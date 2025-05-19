@@ -1,0 +1,16 @@
+{
+	"uid": "BLAKGLOV.wad",
+	"name": "Black Gloves for the Doomguy",
+	"description": "This is a simple graphics replacement that gives the Doomguy black gloves, much (or really exactly) like the ones Scuba Steve uses in a lot of his guns. They look quite badass, in my opinion. I made 'em all from scratch by modifying the regular gloves. I also threw in redglov.wad, just for laughs and giggles. It's the result of a mistake I made during the black glove thing. They're reddish-black, but it changes a lot from sprite to sprite. Enjoy everybody.",
+	"date": "2013-04-21 13:45:06",
+	"files": [
+		{
+			"filename": "BLAKGLOV.wad",
+			"size": 136312,
+			"crc": 1979338336,
+			"md5": "3789b8e726b8a3cbb31310b8a3f154ff",
+			"sha1": "4bc99fe9269c6bff49ccfdab7b9840062d76f8f1",
+			"sha256": "538388844adf23e1a6d6810a814a3ccba88bb3614d7e89394c4aaef10133f8f7"
+		}
+	]
+}

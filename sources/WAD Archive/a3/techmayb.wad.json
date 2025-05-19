@@ -1,0 +1,16 @@
+{
+	"uid": "techmayb.wad",
+	"name": "Maybe a Techbase",
+	"description": "A sorta-tech-basey type map. Unlike my last map, this is a bit more than several big rooms full of monsters and it has an amazing new technlogical advancement: Stairs! Secrets are a bit obscure but I've confirmed that each are accessible without any shenanigans in all ports tested.",
+	"date": "2014-12-29 15:55:48",
+	"files": [
+		{
+			"filename": "techmayb.wad",
+			"size": 657130,
+			"crc": 2437655471,
+			"md5": "fc08c5f9d74ed5e4c1290a5d378fa8c8",
+			"sha1": "a3faa0c169a3295a99d35ff37c3ea2780d757ad8",
+			"sha256": "cfb8fdf212f63bda0e2aabacfd9ef152368b4a469c8846ef6982da8d878ce157"
+		}
+	]
+}

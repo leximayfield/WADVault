@@ -1,0 +1,16 @@
+{
+	"uid": "robot.wad",
+	"name": "The April Fools' Day Giant Robot Boss",
+	"description": "It's a jokewad ;)",
+	"date": "2018-03-27 21:12:24",
+	"files": [
+		{
+			"filename": "robot.wad",
+			"size": 65989,
+			"crc": 589291620,
+			"md5": "14e69706279e716072f33d4285595ecf",
+			"sha1": "509419bbe8a7e98a867eda8fa96631005a732713",
+			"sha256": "13b33ec15c0ffb261286a9f44fda308e14d0640be1b5ddd63cc2363e2497c3ea"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vision1.wad",
+	"name": "Vision1.wad",
+	"description": "Great Deathmatch wad 2-4 player. Your vision is not always what it seems. Always look behind you.",
+	"date": "2013-11-02 16:38:27",
+	"files": [
+		{
+			"filename": "vision1.wad",
+			"size": 49833,
+			"crc": 1241601134,
+			"md5": "c4a1cb782f6781d302d483eacc1c303a",
+			"sha1": "b2a975ddd408103cbed188ba5f1c60a06d2cf586",
+			"sha256": "c764db922534d57112f13975b62ebdd3c6aab07f01597cc863bb6d8a4755a04c"
+		}
+	]
+}

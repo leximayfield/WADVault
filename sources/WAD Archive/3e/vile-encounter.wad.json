@@ -1,0 +1,16 @@
+{
+	"uid": "vile-encounter.wad",
+	"name": "Vile-Encounters",
+	"description": "You have been sent to the bloody inner core of the earth to do some cleaning-up.",
+	"date": "2013-04-19 09:32:39",
+	"files": [
+		{
+			"filename": "vile-encounter.wad",
+			"size": 233696,
+			"crc": 507771103,
+			"md5": "098b38c65f0986d441dcdcec9d3c6558",
+			"sha1": "3e7dde4c2d19776a905e7a833db89aaaff29163e",
+			"sha256": "5f099bd94c7bc2ddc7e316d90e414af4c7193b01b5bf08c74de81c76187aa3df"
+		}
+	]
+}

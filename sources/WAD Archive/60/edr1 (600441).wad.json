@@ -1,0 +1,17 @@
+{
+	"uid": "edr1 (600441).wad",
+	"name": "The Revelation...",
+	"description": "I have made an effort to make good playability for all difficulty levels, and also to make things look good. The construction is straight forward. Weapons: (Chain gun, Plasma gun, Shotgun, Rocket Launcher)",
+	"version": "600441",
+	"date": "2013-11-02 15:50:29",
+	"files": [
+		{
+			"filename": "edr1.wad",
+			"size": 100895,
+			"crc": 3662720353,
+			"md5": "fbf0ba67188606a063c68e777f6aac86",
+			"sha1": "6004416a2eb615a7a3ded58b611275d2d0662998",
+			"sha256": "eafa066ddfb83a19fcb6d961b2ea82c7f6cac3d1e031a0fb95451dc1e600f099"
+		}
+	]
+}

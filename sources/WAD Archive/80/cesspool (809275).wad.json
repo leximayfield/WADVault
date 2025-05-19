@@ -1,0 +1,17 @@
+{
+	"uid": "cesspool (809275).wad",
+	"name": "CESSPOOL.WAD",
+	"description": "The goal is to get your opponent to fall off his pillar and into the cesspool below. This is a fairly fun level to deathmatch in, but not much else. I thought of this while watching the Joust on American Gladiators.",
+	"version": "809275",
+	"date": "2013-11-04 19:23:12",
+	"files": [
+		{
+			"filename": "cesspool.wad",
+			"size": 15834,
+			"crc": 4242674545,
+			"md5": "dee2bcf0e0be0548caf64ded9d9cf30d",
+			"sha1": "809275a5c8b0bd36cd226bc44c149ce27212a4c2",
+			"sha256": "b11bc2e6492fdc35ed1ccad1cb781a1a65a57acf188e13d0f8d79be91e5e1db7"
+		}
+	]
+}

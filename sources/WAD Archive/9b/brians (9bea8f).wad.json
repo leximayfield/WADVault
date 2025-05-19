@@ -1,0 +1,17 @@
+{
+	"uid": "brians (9bea8f).wad",
+	"name": "BRIANS.WAD",
+	"description": "DOOM ][ DEATHMATCH WAD After playing many, many, good Deathmatch PWADS, I decided to build a killer DeathMatch wad. It has a couple of nice, open 'arenas' to battle in, some strategically placed darkness, and NO shortage of weapons or ammo. There is also a couple of ways to double back on your buddy. I hope you like it as much as we do.",
+	"version": "9bea8f",
+	"date": "2013-11-02 15:36:27",
+	"files": [
+		{
+			"filename": "brians.wad",
+			"size": 33698,
+			"crc": 2099438267,
+			"md5": "5fd4b78e98c91a12c04ec211e85937c9",
+			"sha1": "9bea8f09836b39681f0a99ecee4aa57ef3e2b4be",
+			"sha256": "84b900bbf2225bde973d6ca1d7013a4506202ca9913c6778bfdb3e0c33ac36ed"
+		}
+	]
+}

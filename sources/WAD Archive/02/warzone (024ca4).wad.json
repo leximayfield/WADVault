@@ -1,0 +1,17 @@
+{
+	"uid": "warzone (024ca4).wad",
+	"name": "</\\>arzone the Epsiode",
+	"description": "These WAD's have been first published on the Camelot BBS. The levels were first publihed in separate WADS /zips and then compiled togeter into the episode WARZONE0.WAD. Most of the levels have been modified before inserting them in the episode. They are there more complex with additional areas.",
+	"version": "024ca4",
+	"date": "2013-11-02 15:17:00",
+	"files": [
+		{
+			"filename": "warzone.wad",
+			"size": 68432,
+			"crc": 2716490332,
+			"md5": "6370d9946be8ead8c26b379173cb6d40",
+			"sha1": "024ca4ed5b5d5942dc3767bd466452dc69117db2",
+			"sha256": "dd16f53686437af1bc6bb7116136cd17d8b3aee0dd64b2d30004c0ff9a7d303f"
+		}
+	]
+}

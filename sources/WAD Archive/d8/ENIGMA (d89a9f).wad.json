@@ -1,0 +1,17 @@
+{
+	"uid": "ENIGMA (d89a9f).wad",
+	"name": "Enigma",
+	"description": "Nice simple deathmatch, largeish area, split into four by lifts, a few blocks to run round, and a couple of fairly easy to find secrets, including the exit",
+	"version": "d89a9f",
+	"date": "2014-08-30 14:31:26",
+	"files": [
+		{
+			"filename": "ENIGMA.wad",
+			"size": 16627,
+			"crc": 479289705,
+			"md5": "70fc36068c3fc0c9ead8b0b1fdfac8d6",
+			"sha1": "d89a9f904cc3bc8cab2d5441745aec665de8bb98",
+			"sha256": "ba4129121398e14c8c7ed04124332ceab624a8d5d216c0f6ba362bea614dbf5a"
+		}
+	]
+}

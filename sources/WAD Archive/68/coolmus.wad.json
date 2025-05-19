@@ -1,0 +1,16 @@
+{
+	"uid": "coolmus.wad",
+	"name": "Coolmus.wad",
+	"description": "The wad changes every music file in DOOM to a theme",
+	"date": "2015-09-14 23:10:24",
+	"files": [
+		{
+			"filename": "coolmus.wad",
+			"size": 526820,
+			"crc": 445799960,
+			"md5": "6e28ff82b6084e4c0aaf7a03cd423451",
+			"sha1": "6836e0c19e2caad3daf1bfff1e0139986b02c181",
+			"sha256": "07ef0de606b5c224743c97a9f8fd9dfc5078eeb4e9d7d7943921c9b3e01887e3"
+		}
+	]
+}

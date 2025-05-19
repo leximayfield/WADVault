@@ -1,0 +1,17 @@
+{
+	"uid": "hotdeath (d02444).wad",
+	"name": "Hotdeath version 5.0",
+	"description": "Kick ass without the cheesy BFG",
+	"version": "d02444",
+	"date": "2013-11-06 22:39:23",
+	"files": [
+		{
+			"filename": "hotdeath.wad",
+			"size": 766276,
+			"crc": 1282847098,
+			"md5": "3228b90d07945762556f2d399a6344d4",
+			"sha1": "d02444ed9db0377e48313a61233d00a42f8b9942",
+			"sha256": "ed93f2808431b5b8c6a1a4719def0e1e6a601a90ebde85786e945b2f5dd31981"
+		}
+	]
+}

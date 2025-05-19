@@ -1,0 +1,17 @@
+{
+	"uid": "terraces (6d8d39).wad",
+	"name": "The Terraces",
+	"description": "Classic Doom 2 city-style map originally designed for the cancelled \"Plain Ol' Doom 2\" community megawad. Originally designed as a Map 20 replacement. Level layout is a homage to \"Central Yharnam\" level from From Software's Bloodborne.",
+	"version": "6d8d39",
+	"date": "2017-11-27 12:33:10",
+	"files": [
+		{
+			"filename": "terraces.wad",
+			"size": 2196582,
+			"crc": 1277280999,
+			"md5": "1d51a4652e695163156506d82afdbb7f",
+			"sha1": "6d8d396c114adde62fc21039f223ee60c2b3a0e0",
+			"sha256": "36a241f8d1910dbd9d922c3c73f583b71c13cd85c91934ddf129dfb00135694c"
+		}
+	]
+}

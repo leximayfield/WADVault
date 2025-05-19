@@ -1,0 +1,17 @@
+{
+	"uid": "duel (c51a9b).wad",
+	"name": "The Duel (DUEL.WAD)",
+	"description": "It should be used for 2 players deathmatch",
+	"version": "c51a9b",
+	"date": "2014-12-15 21:50:27",
+	"files": [
+		{
+			"filename": "duel.wad",
+			"size": 234508,
+			"crc": 832095755,
+			"md5": "f5e635307931b70a84a7d701511f5056",
+			"sha1": "c51a9ba9202e1e65d51b13801a7ece0a0f050588",
+			"sha256": "c0564b300abf7480c69aadb44bf398b1a86e6012a73fe55e79aa44a010dbaf1c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ocm.wad",
+	"name": "Oreo Cake Massacre",
+	"description": "Oreo Cake Massacre is a huge slaughter level that consist of mainly brown and white, resembling an Oreo cake, with 25K enemies. You will need a ZDoom-driven Doom engine to play the level (such as ZDoom, GZDoom, Zandronum, etc.). You will need a good video card because if not, you may not have a pleasurable experience playing the level. Textures used include sf2012-tex, cc4-tex, GOTHICTX, NB_RECOL, and q1tex. If you do not like slaughter levels, this one is certainly not for you. Music comes from level 20 from Italo Doom. Updated on 12-21-2017 (removed unused textures, reorganized textures in the textures lump to fix the issues with animation, added the Doom 3 sound pack into the wad file to spice it up). Demo of this level is found at: https://www.youtube.com/watch?v=3asGTqcNjJ0&t=16663s",
+	"date": "2018-04-14 23:59:40",
+	"files": [
+		{
+			"filename": "ocm.wad",
+			"size": 16006866,
+			"crc": 7415429,
+			"md5": "a3b3f6ea7a7396f37137867437204313",
+			"sha1": "d549c68e58e1a4c619ffaa202d467d0a3157d125",
+			"sha256": "13deb312ac73ed9609175cb9f58fb76a60c8f97c0e81d78be339de3dc381e3f6"
+		}
+	]
+}

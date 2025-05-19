@@ -1,0 +1,17 @@
+{
+	"uid": "spritzoo (8448c3).wad",
+	"name": "SPRITZOO.WAD",
+	"description": "Monsters in glass cages",
+	"version": "8448c3",
+	"date": "2013-11-02 15:14:44",
+	"files": [
+		{
+			"filename": "spritzoo.wad",
+			"size": 21350,
+			"crc": 8671241,
+			"md5": "ff66dda5d1f480f1c4fa411786911c26",
+			"sha1": "8448c33644414c85975e690bc80860f42a35dde0",
+			"sha256": "5f988d67a5052bf4ecb8818d72d7eebe6fdb44ee52d4c49f6d03311a8e04c398"
+		}
+	]
+}

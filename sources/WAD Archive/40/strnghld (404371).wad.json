@@ -1,0 +1,17 @@
+{
+	"uid": "strnghld (404371).wad",
+	"name": "Stronghold",
+	"description": "You have just been dropped smack in the middle of the Demon's lair. If you can fight your way out of this level, you can try my next level (It'll be awsome!!) Hint: Don't fall off the window side of the bridge, there is no way up.",
+	"version": "404371",
+	"date": "2013-11-06 22:15:31",
+	"files": [
+		{
+			"filename": "strnghld.wad",
+			"size": 141796,
+			"crc": 2672974898,
+			"md5": "bde5b946117143c735d44e8c805e5f9e",
+			"sha1": "4043719f64a526a9da31dfd6c5e317b16018f27c",
+			"sha256": "0c875f3efd0fcdce91720c4c47ceed2e7f0cdcc32f3cd7a9d5231007551f010c"
+		}
+	]
+}

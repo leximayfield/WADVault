@@ -1,0 +1,17 @@
+{
+	"uid": "amnesia (55694f).wad",
+	"name": "Amnesia",
+	"description": "You wake up. you feel a huge gash on your head and a bullet wound in your chest. Picking yourself off the ground, you see corpses hanging from chains. You do not know where you are. As a matter of fact, you do not even remember your own name! you have no memory of what happened before you were knocked out or anything before that. As you try to remember, you notice a shotgun in the middle of the floor. \"I guess it's time to find my way out of here.\" This is my very first level made in Doombuilder, I spent about 5 days on it and made sure to put as much detail as possible in it. This map may be later updated or altered. Please do not criticize, as this is my FIRST map ever made. Play with Doom 2 IWAD. Gameplay requires crouch.",
+	"version": "55694f",
+	"date": "2015-09-14 23:08:22",
+	"files": [
+		{
+			"filename": "amnesia.wad",
+			"size": 10998331,
+			"crc": 2211563389,
+			"md5": "5185d5eb306a09776d3bd886af77bfb7",
+			"sha1": "55694fca7401376bcd4514f2b057ac64b2454faf",
+			"sha256": "47e94e57cda4b0481298cdb3037e2850c16921f577766490fc0b8970e29910ee"
+		}
+	]
+}

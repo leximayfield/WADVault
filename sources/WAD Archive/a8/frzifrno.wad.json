@@ -1,0 +1,16 @@
+{
+	"uid": "frzifrno.wad",
+	"name": "Frozen Inferno",
+	"description": "A short map depicting a frozen-over hell and an E4-ish fortress overrun by the freak snowstorm. This is an \"upgraded\" version of a 100-minute speedmap I created in October; bugs are fixed, detail is added and gameplay is further balanced.",
+	"date": "2014-12-24 19:17:58",
+	"files": [
+		{
+			"filename": "frzifrno.wad",
+			"size": 487651,
+			"crc": 4287556209,
+			"md5": "43297c74b3dee3e5ae0982f0a172cafd",
+			"sha1": "a8a9711a038de12144ac86e7b4665f27f214aef8",
+			"sha256": "99fa4ec12ba285d6deb9314662eec35fc3dcef63dfab547788d063be7073b2d8"
+		}
+	]
+}

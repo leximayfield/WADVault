@@ -1,0 +1,17 @@
+{
+	"uid": "bloodkey (f27930).wad",
+	"name": "Bloodkey",
+	"description": "New design, great space, full of ammo and many monsters. Yes it's difficult but not impossible. Feedback would be appreciated.",
+	"version": "f27930",
+	"date": "2013-11-02 15:48:38",
+	"files": [
+		{
+			"filename": "bloodkey.wad",
+			"size": 32601,
+			"crc": 3515050454,
+			"md5": "11f8b90b804c027b6e7fef5e4ef698b1",
+			"sha1": "f27930606ecc734554f5848ad7dfe3f69b01da92",
+			"sha256": "7804d0b187c88caed21c7fc055f631fe19af2c2d5723d84f0e373c3566ac550b"
+		}
+	]
+}

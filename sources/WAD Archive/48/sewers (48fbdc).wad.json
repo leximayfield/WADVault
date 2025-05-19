@@ -1,0 +1,17 @@
+{
+	"uid": "sewers (48fbdc).wad",
+	"name": "SEWERS.WAD / SEWERSXB.WAD",
+	"description": "This is the first level in a new 9 level episode. A run through the muck. UPDATE: Though we intended to make more levels and complete the episode, Sewers is the only one we made.",
+	"version": "48fbdc",
+	"date": "2018-05-28 23:38:38",
+	"files": [
+		{
+			"filename": "sewers.wad",
+			"size": 146841,
+			"crc": 700848741,
+			"md5": "7b30cba8c9a79405a7240fd68eb013a5",
+			"sha1": "48fbdcbd8b42ca0dab6aa9e71cd8246c5c1941b9",
+			"sha256": "bf5c36557f8fb5d146c7e7a3edcf68f2dba17288701c51edcd353b9ad74034a9"
+		}
+	]
+}

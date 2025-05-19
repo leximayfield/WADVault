@@ -1,0 +1,16 @@
+{
+	"uid": "darkfall.wad",
+	"name": "Darkfall Deathmatch",
+	"description": "An atmospheric deathmatch level for Heretic, with new textures.",
+	"date": "2014-12-30 11:28:28",
+	"files": [
+		{
+			"filename": "darkfall.wad",
+			"size": 777494,
+			"crc": 3629659629,
+			"md5": "8078957ec6c190074ce04ab7d17044eb",
+			"sha1": "079bf5f00dd81f068dba4e1433d6bd68e123b99b",
+			"sha256": "87b27d9c21b925e98acf62ba51a62a740f7d68eb8f7cd31f007e4952c924d7d6"
+		}
+	]
+}

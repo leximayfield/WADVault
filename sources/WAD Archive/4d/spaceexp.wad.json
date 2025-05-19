@@ -1,0 +1,16 @@
+{
+	"uid": "spaceexp.wad",
+	"name": "Space Experiments",
+	"description": "Welcome to the UAC space military station, a UAC base in the far regions of the milky way galaxy. An incident happened with a new shipment of the cryogenically frozen demons sent to the Experimentation wing. The demons were somehow able to brake free from the test tubes they were placed in, slaughtering the scientists and remaining guards in the area, you and a few others have survived for a week, they killed them off though. Now you have to take back the UAC military station and clear out all of the demons or die trying, load up your weapons",
+	"date": "2017-08-27 23:00:37",
+	"files": [
+		{
+			"filename": "spaceexp.wad",
+			"size": 346819743,
+			"crc": 1119535271,
+			"md5": "4d8e9df98f67190d037c133c1e126ff7",
+			"sha1": "4d12453081a9033ccbec1b87a0e27f8d420a4669",
+			"sha256": "a04806b0cb3669d996697780a156f618195b09df7ca35cd30731c6d739051405"
+		}
+	]
+}

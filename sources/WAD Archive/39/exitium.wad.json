@@ -1,0 +1,16 @@
+{
+	"uid": "exitium.wad",
+	"name": "Ave Exitium",
+	"description": "One map for Boom-compatible source ports. Was originally a map for this year's MAYhem until the entry criteria changed.",
+	"date": "2018-04-14 19:18:23",
+	"files": [
+		{
+			"filename": "exitium.wad",
+			"size": 866603,
+			"crc": 3273172572,
+			"md5": "ac235c4c96be7083b8d6411a7afdbdd5",
+			"sha1": "395926678ab32eec3fc8a3974c9621507165f51c",
+			"sha256": "c865419364a790f1b778ddefbe7ff15d57fe4d4764f9b5e40855416ade28a3ea"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellbnd (dcc533).wad",
+	"name": "Hell Bound",
+	"description": "Its a huge multiplayer level.",
+	"version": "dcc533",
+	"date": "2015-12-07 13:07:15",
+	"files": [
+		{
+			"filename": "hellbnd.wad",
+			"size": 166413,
+			"crc": 277827509,
+			"md5": "cc07e1ea49a1600940904e0fb27e2428",
+			"sha1": "dcc533e821e0d09004d96110cc038478d631c95a",
+			"sha256": "763efe4cc1874cbeae1226d04307fae40c222261116198002eee91f152c3ffc9"
+		}
+	]
+}

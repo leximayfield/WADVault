@@ -1,0 +1,17 @@
+{
+	"uid": "evildead (6010c6).wad",
+	"name": "EvilDead",
+	"description": "A relatively short level but well designed and lit (if i do say so myself...). Most importantly, fun to play!",
+	"version": "6010c6",
+	"date": "2014-12-18 23:07:28",
+	"files": [
+		{
+			"filename": "evildead.wad",
+			"size": 142910,
+			"crc": 431987876,
+			"md5": "b2ee11f749ae9f938929a25755918ec0",
+			"sha1": "6010c6285d909260ed2f183fadd8053bc3eade79",
+			"sha256": "3711960d0e3dd6eb663d4048c39836c224fadd76853ca45a5a9ae9ed13fa7d51"
+		}
+	]
+}

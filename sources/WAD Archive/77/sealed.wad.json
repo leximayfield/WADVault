@@ -1,0 +1,16 @@
+{
+	"uid": "sealed.wad",
+	"name": "Sealed by Blood",
+	"description": "Creepy caves and ruins that hold long-forgotten secrets. Discover what was sealed behind the doors of sacrifice...",
+	"date": "2018-04-14 23:42:40",
+	"files": [
+		{
+			"filename": "sealed.wad",
+			"size": 363775,
+			"crc": 2688364015,
+			"md5": "b1b042ac0960e7440bb6a3a4d18cbcfd",
+			"sha1": "77b75b6de39353dacdc9832141fa79061448c296",
+			"sha256": "12524c54cc33f72e0c9406c74676f1c42836040f3ea0b2327d5784e1e3611762"
+		}
+	]
+}

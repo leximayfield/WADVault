@@ -1,0 +1,17 @@
+{
+	"uid": "caronte (fbad2c).wad",
+	"name": "Caronte (v1.1)",
+	"description": "A hellish ship. Caronte is taking you to hell. But that wont happend without a fight.",
+	"version": "fbad2c",
+	"date": "2019-03-19 22:14:19",
+	"files": [
+		{
+			"filename": "caronte.wad",
+			"size": 902058,
+			"crc": 2265621537,
+			"md5": "0e370fa35fcb1a338054e7f8f0a30f4f",
+			"sha1": "fbad2c03bc6fc56a137535ce23977d857cb93061",
+			"sha256": "f97870d6b2db77cb2f404a238dc7dacf0ee7f6bf393850dff661aa07fb9fdd8f"
+		}
+	]
+}

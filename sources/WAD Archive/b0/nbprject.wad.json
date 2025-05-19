@@ -1,0 +1,16 @@
+{
+	"uid": "nbprject.wad",
+	"name": "Noob Project Part 1- military installation",
+	"description": "This is a small level which is intended to be the first in an ongoing series",
+	"date": "2015-01-13 21:53:06",
+	"files": [
+		{
+			"filename": "nbprject.wad",
+			"size": 55426,
+			"crc": 370660245,
+			"md5": "91279869e7edade1ba6e401936716f49",
+			"sha1": "b038807b908c3a4cd1b182d3ab4d577fe91501d6",
+			"sha256": "b932c60cb4f2c34f916c97dd7a7885009c682eae47a02138bec4319db25a690e"
+		}
+	]
+}

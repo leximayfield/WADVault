@@ -1,0 +1,17 @@
+{
+	"uid": "joker (feb08f).wad",
+	"name": "Joker",
+	"description": "THIS is the updated final version of my first map....feel free to e-mail me with any thoughts or suggestions, hate mail is cool too.",
+	"version": "feb08f",
+	"date": "2014-12-15 21:41:27",
+	"files": [
+		{
+			"filename": "joker.wad",
+			"size": 41705,
+			"crc": 2742414756,
+			"md5": "fa6b5443e791c4918b161d620b36511f",
+			"sha1": "feb08ff16dab196bcbce7aea527296b04c1e6ae9",
+			"sha256": "4aa3a342dfddd53ceb94941c53a286f3a5cb997c3c15306137de69447af57ac5"
+		}
+	]
+}

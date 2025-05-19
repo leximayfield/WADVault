@@ -1,0 +1,16 @@
+{
+	"uid": "ddev.wad",
+	"name": "Demonic Deviation",
+	"description": "A single set of 11 maps with a general tech-base theme which are mostly small to medium in size with a gradual increase in difficulty. Challenging but nothing most couldn't handle by todays standards.",
+	"date": "2018-10-26 03:15:33",
+	"files": [
+		{
+			"filename": "ddev.wad",
+			"size": 3921093,
+			"crc": 3725054592,
+			"md5": "ba8459c72f38065591cff2d2c3a568dc",
+			"sha1": "49265752114ffd548745987dd621fac52145a3b7",
+			"sha256": "c70838c5a05519149238f699e4963e29a2859c92bd9aeffe95612557e0a55864"
+		}
+	]
+}

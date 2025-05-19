@@ -1,0 +1,16 @@
+{
+	"uid": "lucid.wad",
+	"name": "The Lucid",
+	"description": "A small level designed for fast fraggin' 4 player action! Influenced by DANZIG17 and IGOR9.",
+	"date": "2014-12-15 21:59:44",
+	"files": [
+		{
+			"filename": "lucid.wad",
+			"size": 47416,
+			"crc": 4160184179,
+			"md5": "763b7a87102d4d967ddcf3d6105f99ad",
+			"sha1": "d3925cbd1bb8696e5fcec79d3d314dce8dd4c7bd",
+			"sha256": "b65591fee4a6dd5b90bfc58efcf7cdab6692de716e761cf13f8d621c94bd0de2"
+		}
+	]
+}

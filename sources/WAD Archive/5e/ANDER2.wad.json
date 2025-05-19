@@ -1,0 +1,16 @@
+{
+	"uid": "ANDER2.wad",
+	"name": "Ander 2.0",
+	"description": "Indoors and violent for DOOM! This is version 2 of my first wad ander.wad. I have changed some, added some, deleted some and kept some. The most important change is that this level now can be played in BOOM and prBOOM without any problems with my glasswall.",
+	"date": "2014-12-14 21:05:23",
+	"files": [
+		{
+			"filename": "ANDER2.wad",
+			"size": 273291,
+			"crc": 3664991974,
+			"md5": "1e6328815b7b5068a846619dd3ea214c",
+			"sha1": "5ea040851f7ed2796f84c00e8356b2b6efc26c6c",
+			"sha256": "6037c444bb46a14c6d2da80b7981fd04e39aebb2ab9fa7fb252f78c9e71b6a55"
+		}
+	]
+}

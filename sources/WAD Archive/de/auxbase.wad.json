@@ -1,0 +1,16 @@
+{
+	"uid": "auxbase.wad",
+	"name": "Auxiliary Base (E1M2)",
+	"description": "This is an early style \"tech base\" map for DOOM 1, made in 2015. It was meticulously detailed and should be aesthetically pleasing to those who are not sick of the tech base theme. Think of it as a nostalgic ode to the early DOOM experience. A little history: I was 13 when I first played DOOM. The level of engagement (and fear) that I felt when I first played it on a 386 with a PC speaker is something I have not felt since those days in any modern game. I guess our imagination was more developed back then. I was absolutely blown away by the detail and realism I saw when walking through the creepy halls of the various military bases. When I first heard that people were creating their own maps in 1994, I was intrigued and fascinated by what I thought was an impossibly complicated process. I experimented with mapping back then using Doom Editor - The Real Thing by Geoff Allan, in Windows 3.1. It crashed all the time. I also found it difficult to convert my ideas into an actual map. I gave up after loosing my progress a few too many times. Fast-forward 20 years to 2013, and I stumbled across a website for Doom Builder 2. I was shocked to find out that there was a map editor for Doom, and that it was developed in the 2000s. Since I was not a gamer and rarely played video games at all (except for a short stint of obsession with GTA4), I thought Doom modding died a long time ago. I downloaded the map editor and started to experiment. I was amazed at how rock solid Doom Builder was. (To this day, it has not crashed a single time, nor have I ever noticed a single bug.) It was on. I started to map out a few ideas and quickly became obsessed. It was so easy to draw out exactly what I was thinking, and the 3D mode was blowing my mind. I started to work on an E1 episode like I had always wanted to since the 90s. This level is the 2nd map of the episode. It is also the 2nd map I make (ever). The first is complete, and the 3rd is half done. I liked how this one turned out. Halfway through the development of this map, I discovered the PWAD archive and the Doom World forum. I had NO IDEA there was still a huge community of Doom playing and modding. I started to download some maps. When I saw how far mapping has come, I was reluctant to release this. My map comes from someone who last played doom in the 90s so it really was styled to what I thought was the ultimate style. But I still really like the tech base style and figured some people might enjoy it. Keep in mind that this is the 2nd map I have ever made.",
+	"date": "2015-09-15 13:17:48",
+	"files": [
+		{
+			"filename": "auxbase.wad",
+			"size": 580449,
+			"crc": 883020242,
+			"md5": "1561dd3275d1eea7c3c986bc5365e0c7",
+			"sha1": "de8cbec917c3a33cea77bde655b127ede169688a",
+			"sha256": "5c592726ad7591b93139b2b801d53332d2995cff26a199cd2f22e4bb6037dc22"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "cathedrl (c77ace).wad",
+	"name": "CATHEDRAL! for DOOM ][ Deathmatch",
+	"description": "I always dreamed of it: DEATHMATCH IN A CATHEDRAL !",
+	"version": "c77ace",
+	"date": "2014-12-15 22:17:45",
+	"files": [
+		{
+			"filename": "cathedrl.wad",
+			"size": 144939,
+			"crc": 2419535327,
+			"md5": "6291d0b8348ea9046b7e0479fd8160da",
+			"sha1": "c77ace57f492a8d230f83fb98302b5ea4822d588",
+			"sha256": "7dcac1229595de8c909cec8bb287e76f3484922016a3f2fc1aae5bfc06a103f4"
+		}
+	]
+}

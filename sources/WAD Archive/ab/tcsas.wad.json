@@ -1,0 +1,16 @@
+{
+	"uid": "tcsas.wad",
+	"name": "TCSAS.WAD",
+	"description": "A large vac storage facility has been overrun by terrorists.It is your job to enter the plant and regain control by killing all of the invaders...",
+	"date": "2015-01-14 22:51:08",
+	"files": [
+		{
+			"filename": "tcsas.wad",
+			"size": 843756,
+			"crc": 3575574787,
+			"md5": "53aa79f14e81002a4faccdb3ea63c27a",
+			"sha1": "abef5a8dc66ef44eb92084571e2a14f79067814a",
+			"sha256": "8d79a45caeed5c71b50994ea7a7f6b0a3f4545b8d351d6a7d98ee68919b05fa7"
+		}
+	]
+}

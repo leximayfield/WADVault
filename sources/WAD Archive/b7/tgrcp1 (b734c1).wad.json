@@ -1,0 +1,17 @@
+{
+	"uid": "tgrcp1 (b734c1).wad",
+	"name": "TGRCP1",
+	"description": "TGRCP1 has 5 maps, with new features, and easier to setup from either Offline gameplay to Online gameplay! Version 1.75: 2 Augest, 2008 Rewritten the whole ACS Trays Fixed alot of Bugs Fixed Runtime issues Small changes in the maps Added the \"SVS\" feature Updated \"RPC\" Compressed: 683490 Bytes",
+	"version": "b734c1",
+	"date": "2014-12-29 17:18:15",
+	"files": [
+		{
+			"filename": "tgrcp1.wad",
+			"size": 5022469,
+			"crc": 1467207737,
+			"md5": "1fed38c46da0d4a7e314decbbd134389",
+			"sha1": "b734c11d1d97a7335ce4acca994640114dde13df",
+			"sha256": "4d85f40dafad15ac2bbd414fb1e1051e5f638498b0dbe131476312b8fcb27fe8"
+		}
+	]
+}

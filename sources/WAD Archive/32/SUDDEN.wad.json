@@ -1,0 +1,16 @@
+{
+	"uid": "SUDDEN.wad",
+	"name": "Sudden Death Match for Doom II",
+	"description": "Fast-paced single level deathmatch. Contains very interesting map features and secrets. I have included an exit even though it is only one level. When playing with monsters, expect to have a very hard time living through your exit attempt. Try to sucker one of your opponents into exiting!!! And HIDE when all HELL breaks loose!!!",
+	"date": "2013-11-02 16:03:14",
+	"files": [
+		{
+			"filename": "SUDDEN.wad",
+			"size": 86300,
+			"crc": 3684059063,
+			"md5": "687d449874df4863b7c3538b39a41fcd",
+			"sha1": "32061e470c36efe0ae349076224edeaafdddf331",
+			"sha256": "2008f8a5aeede7d20513411ca5367834e60d0c1314a181d02dd9da702bc30855"
+		}
+	]
+}

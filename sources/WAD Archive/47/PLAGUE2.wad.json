@@ -1,0 +1,16 @@
+{
+	"uid": "PLAGUE2.wad",
+	"name": "The Mars Plague",
+	"description": "This is an entire level, complete with new music, weapons, and some new graphics. It was designed to provide the best of solo, deathmatch and cooperative play. After you escape the Hell that Mars has become, UAC sends you the bill for several billion dollars worth of property damage. They are willing to forgive this debt if you will clean out one little lab on Mars where some genetic experiments have gone terribly, terribly, wrong. The accompanying UACMars.txt elaborates greatly on this storyline and provides a description of the new weapons you will be provided with.",
+	"date": "2014-12-14 20:55:59",
+	"files": [
+		{
+			"filename": "PLAGUE2.wad",
+			"size": 1701821,
+			"crc": 3815708004,
+			"md5": "15bef7930c7b9a7197723beccdaf94ed",
+			"sha1": "4756efc35f671dddfff1f65b874866d1813e41f7",
+			"sha256": "157d09618b5c394d248607611e0dbfe27c78d8918b8af785d96f1ff050ca71da"
+		}
+	]
+}

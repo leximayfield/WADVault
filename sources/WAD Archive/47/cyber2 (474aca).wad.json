@@ -1,0 +1,17 @@
+{
+	"uid": "cyber2 (474aca).wad",
+	"name": "Cyber2.wad",
+	"description": "This is a single player level for Doom2. It's not very big but it's very cool playing it and quite difficult. You MUST kill all the enemies!!!",
+	"version": "474aca",
+	"date": "2014-12-15 21:38:58",
+	"files": [
+		{
+			"filename": "cyber2.wad",
+			"size": 8617,
+			"crc": 3094365828,
+			"md5": "e7508c361524a2bdc822a82a2432b1f4",
+			"sha1": "474aca51c33c6d701af5dfc3e533a17e0c8ebf55",
+			"sha256": "ff30cc1e2e91fe3740523a24ba5be12f6b760b8a93e2129b06fb27281c92e624"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "longroad.wad",
+	"name": "Long Road, No Turns",
+	"description": "\"Long Road, No Turns\" is a complevel 9 map with 21,340 monsters on UV. Tested in PrBoom+, but it seems to run fine in GZDoom without mods and with dynamic lights off. Difficulty settings are implemented. MAP03 to MAP15 contain the individual sections of MAP01; I suggest using those if you want to play without saving or if you want to skip around and check out different sections. Expect that a casually-paced playthrough will take over 8 hours in-game time.",
+	"date": "2019-05-28 04:41:25",
+	"files": [
+		{
+			"filename": "longroad.wad",
+			"size": 25196345,
+			"crc": 847546229,
+			"md5": "d9d52d9b10c2e53b9e0baeae67e1e1b5",
+			"sha1": "d125b91e0320422dc2be381aec64b4bdbfd0b1d3",
+			"sha256": "a1e4a06ec5b8502711ccc3293f81e6396c591f49f19330e05934d8310f44f792"
+		}
+	]
+}

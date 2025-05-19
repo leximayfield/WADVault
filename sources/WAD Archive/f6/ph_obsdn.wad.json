@@ -1,0 +1,16 @@
+{
+	"uid": "ph_obsdn.wad",
+	"name": "Loathsome Cleft",
+	"description": "A 7-hour speed map for Obsidian's birthday, mapped entirely on the 32-grid (aside from thing placement) which uses the STONGARG gargoyle patch from Doom, the brown rocks from Quake and a squashed (both vertically and into the palette) version of the second hell sky from Doom 3. You start in a little cave and work your way round to the exit on the other side of little valley - pretty simple little map, but that's what you get in a speed map!",
+	"date": "2015-01-14 22:54:44",
+	"files": [
+		{
+			"filename": "ph_obsdn.wad",
+			"size": 339187,
+			"crc": 2267857380,
+			"md5": "db9e2eee329cd5aed865837191aedc3f",
+			"sha1": "f6e59283dd890aafcb6c6cb058af6178a651fc71",
+			"sha256": "f9f57d15c23226285dca67bd5d1291fe8589c504ec73788d8a3c6f5eabeb541e"
+		}
+	]
+}

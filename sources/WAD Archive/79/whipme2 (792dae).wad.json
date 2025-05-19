@@ -1,0 +1,17 @@
+{
+	"uid": "whipme2 (792dae).wad",
+	"name": "Whip me, whip me, whip me!!!",
+	"description": "This is a DooM II update of my fourth wad whip_me. It's a small deathmatch only level, ideal for 2 players, very fast and furious. Another all time classic I'm sure.",
+	"version": "792dae",
+	"date": "2016-02-07 20:25:17",
+	"files": [
+		{
+			"filename": "whipme2.wad",
+			"size": 15497,
+			"crc": 600651103,
+			"md5": "831d5ae2e516cee4034628bf97395016",
+			"sha1": "792dae86a822e6103b0c8d4f50c7ecdfe24b5302",
+			"sha256": "525e3d31b6a74ba0f970442828fb36f9f578637a0e801d6b63125a3ef34fd7f1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "mcr (0e0490).wad",
+	"name": "Mint Chocolate Rage",
+	"description": "This level has a lot of brown and green in it, which is why I gave it the title. Do you remember levels 4 and 12 from Back to Nirvana X Episode 1? This level combines the elements from the levels into a single one. It involves the cybers killing off the cacodemons and viles resurrecting them after activating the crushers. Music is \"Force of Darkness\" by Knightrider of Doom. This level was updated on 5-14-2019 (removed the monster telefrags).",
+	"version": "0e0490",
+	"date": "2019-05-19 04:32:18",
+	"files": [
+		{
+			"filename": "mcr.wad",
+			"size": 1722084,
+			"crc": 948607237,
+			"md5": "18c0569c8e8c07514e817b9c7e6a19de",
+			"sha1": "0e0490d263aab37d030556b5f4ef268348bdd452",
+			"sha256": "2641e7cacc0de70e7e9f7c2211d81aa1e7dcc935386fa4c9a3b8ac4f781c09ab"
+		}
+	]
+}

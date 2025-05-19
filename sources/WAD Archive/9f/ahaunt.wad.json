@@ -1,0 +1,16 @@
+{
+	"uid": "ahaunt.wad",
+	"name": "ARENA OF THE HAUNTED",
+	"description": "Single player DOOM II level set in a brownish arena, with many imps!",
+	"date": "2014-12-15 22:41:21",
+	"files": [
+		{
+			"filename": "ahaunt.wad",
+			"size": 184843,
+			"crc": 883855100,
+			"md5": "ad0bc9cf120f45fb24b77bcf70f7dc86",
+			"sha1": "9f7fcd431ab18c3b74ae59d980d7c5595dd25aca",
+			"sha256": "a0b43a5c39c595e0bfe0828245f3b582911e133d04b522913cbb8339bc15030c"
+		}
+	]
+}

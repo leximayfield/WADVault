@@ -1,0 +1,16 @@
+{
+	"uid": "zdctfmp.wad",
+	"name": "ZDaemon CTF",
+	"description": "A set of ten maps for ZDaemon Capture the Flag",
+	"date": "2013-04-20 13:20:36",
+	"files": [
+		{
+			"filename": "zdctfmp.wad",
+			"size": 3088989,
+			"crc": 2043756913,
+			"md5": "e739adb34bef310311bbb50d6711646b",
+			"sha1": "a1b59d7529e8ddd91703cf1a06732262747f4708",
+			"sha256": "19a4508108512fbaadd532038e67f022740aaf59f6c06b01d1458c03e01df170"
+		}
+	]
+}

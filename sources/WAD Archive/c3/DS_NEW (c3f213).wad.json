@@ -1,0 +1,17 @@
+{
+	"uid": "DS_NEW (c3f213).wad",
+	"name": "DS_NEW.WAD",
+	"description": "This is an update of dethstar (I know that dethstar is a stupid name but what would you call it?). There are a very few minor bug fixes and new music has been added.",
+	"version": "c3f213",
+	"date": "2014-01-07 22:18:39",
+	"files": [
+		{
+			"filename": "DS_NEW.wad",
+			"size": 48577,
+			"crc": 3933243145,
+			"md5": "801da6204b36167b107d7226daab15d5",
+			"sha1": "c3f213a7fcb3ae06d4efbb4f8e32bab9f048ca2b",
+			"sha256": "e4c02942f3a62623fb114d50d44a120f28f1eb4c9d2e0bab08b9fbf0f25e4727"
+		}
+	]
+}

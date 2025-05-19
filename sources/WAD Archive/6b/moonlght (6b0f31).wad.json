@@ -1,0 +1,17 @@
+{
+	"uid": "moonlght (6b0f31).wad",
+	"name": "Moonlight",
+	"description": "Moonlight is a monsterless puzzle map with an emphasis on cryptology.",
+	"version": "6b0f31",
+	"date": "2019-07-28 18:21:23",
+	"files": [
+		{
+			"filename": "moonlght.wad",
+			"size": 7927605,
+			"crc": 2608666795,
+			"md5": "182f9d5e167204a0c2eeb568918871e3",
+			"sha1": "6b0f31599657870c9d4fcbecfb9f670e3e60f924",
+			"sha256": "24c3dbe757fefed50f8b52b9d6f7084ae2034daed7441f4a73d4e26abf921902"
+		}
+	]
+}

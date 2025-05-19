@@ -1,0 +1,17 @@
+{
+	"uid": "dangers (429490).wad",
+	"name": "Dangers from Deimos Labs",
+	"description": "A tough DOOM level - pretty cool for my first.",
+	"version": "429490",
+	"date": "2013-07-09 20:21:30",
+	"files": [
+		{
+			"filename": "dangers.wad",
+			"size": 163810,
+			"crc": 2505793361,
+			"md5": "b44e423d41cc316828f894a7201ba1ce",
+			"sha1": "429490ed669b348ded433a1d3b153596fb2a867a",
+			"sha256": "78cc999464b8bd00a209000f7d214b5e01db285a34ed4f84e3514dcc3d8eb28c"
+		}
+	]
+}

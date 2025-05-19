@@ -1,0 +1,16 @@
+{
+	"uid": "st_sfx.wad",
+	"name": "Sir Timothy's DOOM SFX WAD",
+	"description": "This is a complete SFX replacement for DOOM...",
+	"date": "2015-09-14 21:53:55",
+	"files": [
+		{
+			"filename": "st_sfx.wad",
+			"size": 1562857,
+			"crc": 3067639076,
+			"md5": "cfed0e2e494c92d7c29796dcdc9f1665",
+			"sha1": "804019a92b93732496f6fa00f3e8cf7987e13623",
+			"sha256": "c971553eb84f18af95ffcb83d22de9e35026a219234a3d308bf184bc28abf6fd"
+		}
+	]
+}

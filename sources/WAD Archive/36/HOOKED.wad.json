@@ -1,0 +1,16 @@
+{
+	"uid": "HOOKED.wad",
+	"name": "HOOKED.WAD",
+	"description": "This WAD contains 5 maps designed specifically for DooM 2 Deathmatch 1.0 The chosen skill level changes what weapons are available (see below).",
+	"date": "2014-08-30 14:31:27",
+	"files": [
+		{
+			"filename": "HOOKED.wad",
+			"size": 233828,
+			"crc": 2043296924,
+			"md5": "fdc1cb2b3252ac4023e5d4b9f0083c7a",
+			"sha1": "368c3e57b9eb097c131cd75573cff2b95dc87968",
+			"sha256": "804f9e5c5d63d0b88e24b6b6bc0b63d82025e5ab5308dfed8647ad118e633c24"
+		}
+	]
+}

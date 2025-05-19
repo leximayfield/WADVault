@@ -1,0 +1,17 @@
+{
+	"uid": "Raygun (2570a9).wad",
+	"name": "RAYGUN.WAD",
+	"description": "This is my first WAD. Designed for single player, multiple player or Deathmatch modes, easy, medium or hard. One of the qualities of DOOM is that it allows vertical motion. I tried to take advantage of that when designing this level. This is a large WAD, lots of bad guys, traps and puzzles. This is a long course. My best times so far are 7:14 min. with no monsters and about 28 min. at UV.",
+	"version": "2570a9",
+	"date": "2013-11-02 15:12:05",
+	"files": [
+		{
+			"filename": "Raygun.wad",
+			"size": 128313,
+			"crc": 294571429,
+			"md5": "c0f2bede1f735fe63dace3c55d2afa13",
+			"sha1": "2570a90363275c3d457f1d0ebb9dd59acbd5a8ca",
+			"sha256": "ae99bba901de3de7f29377415ef763abf96328d47ff063541c7ce889395dda2b"
+		}
+	]
+}

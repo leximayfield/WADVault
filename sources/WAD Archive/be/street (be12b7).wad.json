@@ -1,0 +1,17 @@
+{
+	"uid": "street (be12b7).wad",
+	"name": "STREET.WAD",
+	"description": "A street crossing and four buildings at it. Funny deathmatch level. The red warehouse contains all the weapons, but the rocket launcher and the BFG. The brown house is something like a hospital. There also is a kind of sewers. Every building has a access to the sewers (The BFG is somewhere down there). Be aware that the switches in a garage-like building are used to release cybers. Play it, enjoy it.",
+	"version": "be12b7",
+	"date": "2013-11-04 20:13:36",
+	"files": [
+		{
+			"filename": "street.wad",
+			"size": 109593,
+			"crc": 2608390413,
+			"md5": "fccbcbbb2bfa5f1918782874b0f8c18c",
+			"sha1": "be12b75338e023e288ff5c3f10abb1174e1e8225",
+			"sha256": "8ae8c59aada9958ad0053520f5f460bf69e56183b02748ba65f73773a384bf7f"
+		}
+	]
+}

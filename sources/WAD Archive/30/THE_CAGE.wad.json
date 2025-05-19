@@ -1,0 +1,16 @@
+{
+	"uid": "THE_CAGE.wad",
+	"name": "The Cage",
+	"description": "This is my first successfully built level. This level was initially built for deathmatch. I later on added some monsters to make both single-player and deathmatch games challenging. Play it without the monsters to see the difference for yourself!",
+	"date": "2014-10-14 21:16:51",
+	"files": [
+		{
+			"filename": "THE_CAGE.wad",
+			"size": 103440,
+			"crc": 3717669623,
+			"md5": "f43a8b3091a7edc7990cfa9314451e9b",
+			"sha1": "3091795b6b32249c207d8166c475d57a99832b75",
+			"sha256": "0de38b0207e7f2052773c53f083088b5462d734418e47461200dd943ee8cc73c"
+		}
+	]
+}

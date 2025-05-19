@@ -1,0 +1,16 @@
+{
+	"uid": "pillcirc.wad",
+	"name": "Arena Of Pillars (Rocket Only Deathmatch WAD)",
+	"description": "The main arena is a large round room with several large pillars. Light streams in from an opening at one end, and the whistling of wind can be heard coming through the bars over the opening. At the other end, there is a large puddle, and the constant sound of dripping echos round the room.",
+	"date": "2014-12-15 22:45:39",
+	"files": [
+		{
+			"filename": "pillcirc.wad",
+			"size": 237320,
+			"crc": 2369202353,
+			"md5": "79e1ccf714d6036dad126be9535dad3e",
+			"sha1": "598dab205448a285d525468077d08f86cceed542",
+			"sha256": "ee334b3f0f64357be91f4931005e3da20f49130fcc5f550952865a5c7addabe4"
+		}
+	]
+}

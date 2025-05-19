@@ -1,0 +1,16 @@
+{
+	"uid": "hellcmp.wad",
+	"name": "Hell Complex",
+	"description": "A single doom 2 level, you explore a large intricate facility riddled with demons.",
+	"date": "2018-02-15 20:48:05",
+	"files": [
+		{
+			"filename": "hellcmp.wad",
+			"size": 2329513,
+			"crc": 508080889,
+			"md5": "41eb3c39e73c2ddb29c9daa5d6efe588",
+			"sha1": "78aacae3fee5d011c4ee87b8f6b2e2c021021dbd",
+			"sha256": "6243e5820fb92dea729efb8e939736a77919135f4426eb896fedf446582196e4"
+		}
+	]
+}

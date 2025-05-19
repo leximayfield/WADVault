@@ -1,0 +1,16 @@
+{
+	"uid": "oblivion (5b06ef).wad",
+	"description": "A complete replacement WAD for the \"Inferno\" episode.",
+	"version": "5b06ef",
+	"date": "2018-03-11 17:40:31",
+	"files": [
+		{
+			"filename": "oblivion.wad",
+			"size": 509269,
+			"crc": 3003735509,
+			"md5": "69d30e98fbc784e074be05d958ad993f",
+			"sha1": "5b06ef959fd77c8b35d3cd30b751240404024482",
+			"sha256": "0ec7382d7bb12cd39412fd1cced0f624ad30d060469ef21f119c58b8117835d6"
+		}
+	]
+}

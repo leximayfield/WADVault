@@ -1,0 +1,16 @@
+{
+	"uid": "sh_of_dk.wad",
+	"name": "Shadows of Darkness",
+	"description": "This levels has a few surprises in it, so be careful!",
+	"date": "2015-01-14 22:47:17",
+	"files": [
+		{
+			"filename": "sh_of_dk.wad",
+			"size": 85725,
+			"crc": 3730551460,
+			"md5": "7ed461af5cdc391df3d58f1cf1a5263c",
+			"sha1": "6b1adac9a22e3288c4aac276e276e36fdaa43baf",
+			"sha256": "67b6ea1030b46c7c9309285fb7ea041bc44c6bd3eb9bdfa5cb7c7056894c6cad"
+		}
+	]
+}

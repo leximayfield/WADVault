@@ -1,0 +1,16 @@
+{
+	"uid": "ff3.wad",
+	"name": "Final Fantasy III for DOOM II",
+	"description": "DOOM II with elements from Final Fantasy III",
+	"date": "2015-09-15 18:09:13",
+	"files": [
+		{
+			"filename": "ff3.wad",
+			"size": 84828,
+			"crc": 795639276,
+			"md5": "cc38e16d81be9cc760bfc8b4db314b1b",
+			"sha1": "583c2baf5ea2568dfa54825971a169088973f1fb",
+			"sha256": "1ac7f6914fa7d1918e021f6a7e01f39b913821f2ec3daf1a4609e9d7f9c5699f"
+		}
+	]
+}

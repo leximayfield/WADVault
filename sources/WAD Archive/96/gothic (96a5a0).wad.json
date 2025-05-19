@@ -1,0 +1,17 @@
+{
+	"uid": "gothic (96a5a0).wad",
+	"name": "Fait Accompli",
+	"description": "I have tried to make a hellish and very \"dark\" level this time. I have mostly used the more gothic and obscure textures this time in order to achieve that hostile and evil environment. I originally wanted my Avind.wad to look like this level, however my expertise in level designing did not allow me this opportunity. So, as a goodbye to level desig- ning I have chosen to make a level much like the one I started out with as a sort of tribute. I personally feel that this level is one of the best.",
+	"version": "96a5a0",
+	"date": "2014-12-18 22:26:58",
+	"files": [
+		{
+			"filename": "gothic.wad",
+			"size": 142529,
+			"crc": 3777552131,
+			"md5": "077f61950e551b77e4f8ccad1cd2542a",
+			"sha1": "96a5a038309b973829754d7d4b835324e5d8e9d5",
+			"sha256": "4e7188cf6eade270377ae0f70acd6a916ab030b46c6f2fcb71ab4dc107b523e6"
+		}
+	]
+}

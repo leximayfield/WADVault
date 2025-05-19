@@ -1,0 +1,16 @@
+{
+	"uid": "starpt17.wad",
+	"name": "Starport v1.7",
+	"description": "Starport is a high-tech level containing new music (the theme from Halloween), floor, ceiling and wall textures as well as a couple of new sounds and sprites.",
+	"date": "2015-01-14 14:46:08",
+	"files": [
+		{
+			"filename": "starpt17.wad",
+			"size": 438000,
+			"crc": 4049034442,
+			"md5": "334c8cd0cbb899e59082fe652dc743b4",
+			"sha1": "e05b4cf1061eef1fcad6fc596c4cd3e3f931710f",
+			"sha256": "70bcb6a6abaa04d7edb2614ec7ca0f7c0bd32626b00bdef8f140811e6a0e33aa"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "goombadl.wad",
+	"name": "Goombadlo",
+	"description": "My first WAD. Not too big and not too hard, but could be fun, I hope.",
+	"date": "2014-12-18 22:53:32",
+	"files": [
+		{
+			"filename": "goombadl.wad",
+			"size": 70859,
+			"crc": 408880881,
+			"md5": "b518b81aecce4b965aac59b8fc273277",
+			"sha1": "f9be7aaa58c03f8d449ecc4b63814c37c1427ae7",
+			"sha256": "53068578936b4b4e7cd858bc8c97f2efe0030ff35a13996045ca2b5a18dc246d"
+		}
+	]
+}

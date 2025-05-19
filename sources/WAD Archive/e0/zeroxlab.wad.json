@@ -1,0 +1,16 @@
+{
+	"uid": "zeroxlab.wad",
+	"name": "Zerox Lab",
+	"description": "This is a very difficult tech lab map that replaces Map01 of Doom 2, and it will likely take you a long time to finish. I tried to create a sense that, while you can hear other people battling throughout the base, you still feel as if you're alone. This is much better if you play it in coop, and it only utilizes Doom 2 textures. Story: You're guarding your assigned post, almost falling asleep from boredom. Suddenly, most of the lights and power go out, and you start hearing combat over the radio. You know something's up, but none of the doors or lifts around you will work. Suddenly, an engineer contacts you over the radio. \"Can anyone hear this? Is anyone there?\" \"I'm stranded in the alpha quarter. None of the doors will work. What's going on out there?\" \"There's some sort of invasion. I can probably get one of the doors open, but it will take some time.\" \"How much time?\" \"Several hours, but again, only if I'm able to open it.\" \"You might not be able to?\" \"The door might open, but it might also not open.\" And so, now you must wait for the engineer's aid while hoping that the invaders won't corner you. Suddenly, you hear something on the other side of the door, and it's not human...",
+	"date": "2014-12-29 16:43:57",
+	"files": [
+		{
+			"filename": "zeroxlab.wad",
+			"size": 487663,
+			"crc": 4077996841,
+			"md5": "b3b80a3affc2996af5ab6373b3faf948",
+			"sha1": "e039a09ba0881afbc05b4890dc407962dbb15b47",
+			"sha256": "c8c343d69067e4e7d2353ea824115838858abaaf358e4a172da4c30de0157b61"
+		}
+	]
+}

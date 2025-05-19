@@ -1,0 +1,17 @@
+{
+	"uid": "ZERBILZ (d6708c).wad",
+	"name": "gerbilz",
+	"description": "Simply two levels of choice deathmatch heaven. Chainsaws and more chainsaws and other goodies.",
+	"version": "d6708c",
+	"date": "2014-01-07 22:09:25",
+	"files": [
+		{
+			"filename": "ZERBILZ.wad",
+			"size": 105909,
+			"crc": 3575317963,
+			"md5": "1a8bc84ab42275f33b6d2c303cd5d78b",
+			"sha1": "d6708c43716198409036ac98171137c1a6d0444d",
+			"sha256": "763e94fc9c12267520646e9cb28610c0d458ee787bd33b688effc0bf587ea70d"
+		}
+	]
+}

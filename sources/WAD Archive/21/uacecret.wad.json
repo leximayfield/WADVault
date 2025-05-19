@@ -1,0 +1,16 @@
+{
+	"uid": "uacecret.wad",
+	"name": "UAC Secret",
+	"description": "Arrival on the UAC secret base. Secrets of which you're about to uncover. WAD version V.1.2.",
+	"date": "2015-09-15 14:08:08",
+	"files": [
+		{
+			"filename": "uacecret.wad",
+			"size": 32181773,
+			"crc": 1481779442,
+			"md5": "86d07f42db1cf3c3f4d1235d61534895",
+			"sha1": "216d86147599a35ead76559dad2a28f18b23c052",
+			"sha256": "416ef12b845dae4a8a21ead68cc8008448fed7259b3f066dfb8d28637e4581c2"
+		}
+	]
+}

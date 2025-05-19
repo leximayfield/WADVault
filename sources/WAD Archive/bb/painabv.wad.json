@@ -1,0 +1,16 @@
+{
+	"uid": "painabv.wad",
+	"name": "Pain Above All",
+	"description": "A Hell-themed map that I originally created for a community megawad project. That project fell flat on its face, so I decided to keep the map as a stand-alone experience. This was the very first time I'd worked exclusively with this theme, so it was both challenging and a great learning experience. I believe this is one of my best maps yet, with non-linear gameplay and well-balanced difficulty.",
+	"date": "2014-12-29 08:59:19",
+	"files": [
+		{
+			"filename": "painabv.wad",
+			"size": 295982,
+			"crc": 2299346534,
+			"md5": "cca2ac9840e99b07f14473783de6e597",
+			"sha1": "bb39687cecf55e715248acaa6457699584535ebd",
+			"sha256": "b563107687672db5852f740bf4e45d9e39dbacd357e5590350d5e080046555b2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "maliceop.wad",
+	"name": "Outpost of Malice",
+	"description": "The Outpost of Malice blocks the only viable entrance to a vast island labyrinth in the middle of a lake of blood. Marine spys have noted heavy enemy resitance inside the structure which has prompted curiosity from the military high ups as to what lies in the labyrinth that requires so much protection. Contact from the spys was soon lost after confirmation of enemy resistance, and they are presumed captured and most likely dead.",
+	"date": "2015-01-13 21:38:06",
+	"files": [
+		{
+			"filename": "maliceop.wad",
+			"size": 1307680,
+			"crc": 3453312515,
+			"md5": "76fd3e7cba576d3e0839b757d1219561",
+			"sha1": "6a2d039c0ddb44dd969cfe2324470cde4397eda7",
+			"sha256": "f5cfc151cd12a25664d37de335874be0e67e17904570c364d89c3bc3f25d8312"
+		}
+	]
+}

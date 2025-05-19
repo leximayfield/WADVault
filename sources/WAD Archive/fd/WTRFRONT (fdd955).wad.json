@@ -1,0 +1,17 @@
+{
+	"uid": "WTRFRONT (fdd955).wad",
+	"name": "The Waterfront",
+	"description": "Innovative level 1 for Doom II. Excellent 2 and 4 player deathmatch and suprisingly good solo and co-op play as well. Features areas haunted by the ghosts of dead players, some of whom are still firing their guns at you when you pass. Also features INTENTIONAL USE OF THE ARCH-VILE BUG!!! Don't be daunted by the size of this file. It's an excellent deathmatch. It was about 270k before I started putting in the graphics, music, and sounds. And because of its great visibility, it plays a lot smaller than that. You should have no trouble finding someone to kill, especially in a 4-way game.",
+	"version": "fdd955",
+	"date": "2014-01-07 21:56:11",
+	"files": [
+		{
+			"filename": "WTRFRONT.wad",
+			"size": 539971,
+			"crc": 4287027754,
+			"md5": "8b5320e07b6f1232d6d2fa96cdd62a84",
+			"sha1": "fdd95502c07f53e5f142581fd3c233a37f7ae1e5",
+			"sha256": "88ef161cbd3bce0d64b22985a717756a98e4a1ad0ba9df788b06aaa8ce7fdb38"
+		}
+	]
+}

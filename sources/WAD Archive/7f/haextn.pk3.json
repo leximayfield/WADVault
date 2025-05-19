@@ -1,0 +1,16 @@
+{
+	"uid": "haextn.pk3",
+	"name": "Extended Hell",
+	"description": "Extended Hell is a more extended version of Hell's Ambiance, which the songs used are longer and likely makes the tension factor go up. This features music by Jaxxoon R (Dark Ambient Pack on /idgames/), Kevin MacLeod and Purple Planet's royalty free tracks with the latter two modified to give the \"Extended\" tone. This replaces both Doom and Doom 2 music if using ZDoom or GZDoom, but only Doom 2 for Zandronum. (See 'Bugs' for workaround)",
+	"date": "2015-09-15 13:52:29",
+	"files": [
+		{
+			"filename": "haextn.pk3",
+			"size": 314789639,
+			"crc": 129047730,
+			"md5": "e74646b69525a09eb6ddb440e8a96f84",
+			"sha1": "7f91d6e670b9f97c1a6533cade736874639ba4f4",
+			"sha256": "5083a60dfacbf71db65d30ac2af9298bfa8af005830a347f3cee25ac836ad4cc"
+		}
+	]
+}

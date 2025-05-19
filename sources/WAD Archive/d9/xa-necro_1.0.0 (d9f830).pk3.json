@@ -1,0 +1,17 @@
+{
+	"uid": "xa-necro_1.0.0 (d9f830).pk3",
+	"name": "Necrodoom",
+	"description": "Gameplay modification for Doom(2).",
+	"version": "d9f830",
+	"date": "2018-02-15 20:36:29",
+	"files": [
+		{
+			"filename": "xa-necro_1.0.0.pk3",
+			"size": 3082161,
+			"crc": 3908858520,
+			"md5": "7006b8fed56f28e6248291e76ae95c6f",
+			"sha1": "d9f830eb8b13d732bb4d455fbce652808313f15d",
+			"sha256": "831e1d3e310781f69810163e01f6402bb85586ae9fb60a7c32342c461a9f5191"
+		}
+	]
+}

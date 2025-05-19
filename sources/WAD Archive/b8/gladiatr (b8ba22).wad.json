@@ -1,0 +1,17 @@
+{
+	"uid": "gladiatr (b8ba22).wad",
+	"name": "Gladiatr.wad",
+	"description": "E1M1 Pwad for Heretic. Designed for Deathmatch or single player games in a Roman (Heretic) Gladiator arena.",
+	"version": "b8ba22",
+	"date": "2013-11-06 22:54:24",
+	"files": [
+		{
+			"filename": "gladiatr.wad",
+			"size": 50733,
+			"crc": 1540451524,
+			"md5": "6dd675534e148148642092524caf526a",
+			"sha1": "b8ba222212ae53ae3083dc1c22d8e256d4066aa4",
+			"sha256": "28d3bffbf8ebd4987adca9df6f1d73a064f32556c873f284d3443f1459f48bf8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "thepurge (18937c).wad",
+	"name": "The Purge",
+	"description": "The purge trilogy is three levels of co-op fun (don't say poo! - co-op can be fun!). A short scenario is provided for your enjoyment.",
+	"version": "18937c",
+	"date": "2013-11-06 22:30:52",
+	"files": [
+		{
+			"filename": "thepurge.wad",
+			"size": 506492,
+			"crc": 224592412,
+			"md5": "a3f806bfe83e75ee8b1dc2505043b93c",
+			"sha1": "18937c8cb1880fcd9b781ab3ba3fd0b7b328078f",
+			"sha256": "c76394091e18025de9e3c78eba94e970d532a99507b00c8ee232895b9386e00e"
+		}
+	]
+}

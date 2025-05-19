@@ -1,0 +1,17 @@
+{
+	"uid": "PORTOL (d7746a).wad",
+	"name": "Portol",
+	"description": "This is a Wad designed for coopertive or individual.",
+	"version": "d7746a",
+	"date": "2014-10-20 19:53:05",
+	"files": [
+		{
+			"filename": "PORTOL.wad",
+			"size": 250705,
+			"crc": 2230108845,
+			"md5": "e17edb467bbf89210482734ee8c66534",
+			"sha1": "d7746a5a3a769fc9061874abaca479d91f6bcb2d",
+			"sha256": "64fa6ee2720ad824aab368fef0d4b3f3eff43bf30e91bcc507bb4b63137ab972"
+		}
+	]
+}

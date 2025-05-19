@@ -1,0 +1,17 @@
+{
+	"uid": "offices (9f3b64).wad",
+	"name": "UAC Offices",
+	"description": "My first map, don't expect too much. It's for Doom 2 and replaces map02. Hope you enjoy it. :-)",
+	"version": "9f3b64",
+	"date": "2015-12-29 13:48:43",
+	"files": [
+		{
+			"filename": "offices.wad",
+			"size": 26784,
+			"crc": 3346778762,
+			"md5": "5c6b72a58ba3cf9107ede2e771f69c26",
+			"sha1": "9f3b64bd523544cee45ce3a470b9413f6740ef3f",
+			"sha256": "22d7af61a12205873ea2485abfb34c9c366c7d4e72b4b4067a703fb9920f4bea"
+		}
+	]
+}

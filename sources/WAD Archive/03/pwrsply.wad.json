@@ -1,0 +1,16 @@
+{
+	"uid": "pwrsply.wad",
+	"name": "The power supply [Remake]",
+	"description": "This map is a worked remake of great eye del cul's Power Supply released in 2002. I detailed the map to create more ambient, and better look. The map is short, but with great gameplay.",
+	"date": "2015-09-15 13:18:08",
+	"files": [
+		{
+			"filename": "pwrsply.wad",
+			"size": 1310550,
+			"crc": 224710105,
+			"md5": "e5816a5b089c4ab798ba751fc03dd636",
+			"sha1": "033a4bf917bb8b21038734fb2a7f66a86acc955d",
+			"sha256": "19c7b86e0dd6bf4b6624c58675d781a4f265d1211588f65dd7f5ed0f2eb03f6b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "lunrskin.wad",
+	"name": "Lunar from Mischief Makers",
+	"description": "Behold, something nobody asked for - it's Lunar from Mischief Makers for the N64. Was inspired to make this when playing it recently - should work under any skin-supporting source ports.",
+	"date": "2017-11-09 20:41:07",
+	"files": [
+		{
+			"filename": "lunrskin.wad",
+			"size": 238536,
+			"crc": 210284750,
+			"md5": "99b97d4ea3935b1bb72a850eae20e8d5",
+			"sha1": "efd262eca16a4a1bd28ab7d542f5764551d69860",
+			"sha256": "873637a8bcecb9f71d7da41d02f3f423256f0be4c0610af4c66afbb89f173ef8"
+		}
+	]
+}

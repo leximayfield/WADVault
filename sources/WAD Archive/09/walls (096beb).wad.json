@@ -1,0 +1,17 @@
+{
+	"uid": "walls (096beb).wad",
+	"name": "Walls for doom2.",
+	"description": "A good Deathmatch wad with a lot of corridors and alot of weapons.",
+	"version": "096beb",
+	"date": "2014-12-15 22:46:01",
+	"files": [
+		{
+			"filename": "walls.wad",
+			"size": 12515,
+			"crc": 1022982280,
+			"md5": "2df54ea9dd1a9c34134b7c2e44832ec8",
+			"sha1": "096beb6341850867a1ee1d4e67a0f40e6c104ce0",
+			"sha256": "8a0dd89fb59b70e06b066c4bfdaa582c9eb3eca9a3dcd3a937348ffd8a0db7b2"
+		}
+	]
+}

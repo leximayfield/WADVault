@@ -1,0 +1,16 @@
+{
+	"uid": "coolsnds.wad",
+	"name": "COOL SOUNDS V. 1.0",
+	"description": "Just some new graphics and sounds.",
+	"date": "2015-09-15 16:47:03",
+	"files": [
+		{
+			"filename": "coolsnds.wad",
+			"size": 503213,
+			"crc": 577295911,
+			"md5": "d5a35a06bef8833a8f7e41aca0abac32",
+			"sha1": "b68d9fb9a8abbc5643d2334a87468aaddbb7ee32",
+			"sha256": "550d66905cb3095d1cbe6b7a7dd3747e778f17a7aa26d070db484544cb9d6f1a"
+		}
+	]
+}

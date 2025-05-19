@@ -1,0 +1,16 @@
+{
+	"uid": "dpcmplx.wad",
+	"name": "Deep Complex",
+	"description": "A small Doom 2 level, harder than my usual style.",
+	"date": "2019-04-18 22:05:02",
+	"files": [
+		{
+			"filename": "dpcmplx.wad",
+			"size": 125268,
+			"crc": 4018739791,
+			"md5": "15763283b9b679e941068b28569ca7b4",
+			"sha1": "fa728b687838fc3cc66e2b3e22f824c5e602089a",
+			"sha256": "1625e401f23ec1baee5966c5f3225f7528c021d8e04ef19b8202e05b5a2a6ed1"
+		}
+	]
+}

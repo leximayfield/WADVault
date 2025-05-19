@@ -1,0 +1,17 @@
+{
+	"uid": "cmines (03da01).wad",
+	"name": "Carnage Mines (CMINES.WAD)",
+	"description": "Your traped in an abandoned mine with : 3 of your worst enemys and the only way : out is to win the Death Match.",
+	"version": "03da01",
+	"date": "2014-12-15 23:11:45",
+	"files": [
+		{
+			"filename": "cmines.wad",
+			"size": 18766,
+			"crc": 3173577408,
+			"md5": "a302c68356730e7fbf779cf2fc617acf",
+			"sha1": "03da01e2714e3b63b5ca1497417a06902acfba40",
+			"sha256": "4c03466ce3dfad3ba7b4bcb02d56c1ab5ecf87f1ff15a08f0d33c93d8d169141"
+		}
+	]
+}

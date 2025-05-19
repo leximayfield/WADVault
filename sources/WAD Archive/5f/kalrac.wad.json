@@ -1,0 +1,16 @@
+{
+	"uid": "kalrac.wad",
+	"name": "The really big level with two huge rooms",
+	"description": "Big. Many monsters. Two central areas, with tunnels connecting them. Design of tunnels based on the many subway tunnels I have been in. Use the -Turbo option to increase your speed, otherwise it will take quite a long time to get through this level. This is also my first level so it kinda sucks.",
+	"date": "2014-12-15 22:30:16",
+	"files": [
+		{
+			"filename": "kalrac.wad",
+			"size": 162961,
+			"crc": 4040678937,
+			"md5": "46bad562f0aa4a883cc61302a6bfe003",
+			"sha1": "5fd9ccb6753278227cd7d6a89a1588d60598896a",
+			"sha256": "27081f386fb4b26c15c2a2046197473a02adf77bd227552223815061da7a0eba"
+		}
+	]
+}

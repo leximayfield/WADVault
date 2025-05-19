@@ -1,0 +1,16 @@
+{
+	"uid": "deerspd.wad",
+	"name": "Alone on Deerspeed Base",
+	"description": "This map was originally built for Doomworlds speedmapping contest, base theme. A WadAuthor error 70 minutes into the contest deleted the map. Since I was pretty happy with how the map had progressed to that point, I rebuilt the map from memory, plus added a lot more. However, I never submitted the map to Doomworld for the contest since I was way to late. The map, I believe, still rates as being considered small. Depending on your style of play and skill, it should take you about 10 to 20 minutes to finish.",
+	"date": "2014-12-22 19:00:02",
+	"files": [
+		{
+			"filename": "deerspd.wad",
+			"size": 133422,
+			"crc": 1853533221,
+			"md5": "573f1b1a089804e133404883881d0d76",
+			"sha1": "04bcce0b76b5e3e7a0458e2fe543f4e52b3b19f0",
+			"sha256": "4ba0c264e2cf3616fb86d31b467099ea772b57d16375b35a2f2caa91a4d77576"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "eagle (f99b79).wad",
+	"name": "The Eagle",
+	"description": "This an awesome level with lots of action and puzzles.",
+	"version": "f99b79",
+	"date": "2014-12-18 23:05:43",
+	"files": [
+		{
+			"filename": "eagle.wad",
+			"size": 56686,
+			"crc": 1017421438,
+			"md5": "6bc32eb0460831266e866b4738d31ea1",
+			"sha1": "f99b796bdf4c955f978b87418e33c6ccb008077c",
+			"sha256": "8e9a704ca6238bd8a9bd9514de47ece390adc6352f221f82138770a68d8b1ea5"
+		}
+	]
+}

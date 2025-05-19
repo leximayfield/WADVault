@@ -1,0 +1,17 @@
+{
+	"uid": "thekurse (cab105).wad",
+	"name": "THEKURSE.WAD",
+	"description": "I have made a lot of quicky deathmatch and co-op levels. This is my first single- player level. I worked a LONG time on this level, and it's pretty big. It consists of 4 main areas. The first is the entance hall, the second is to get the keycard to get to the 3rd and so forth. I didn't implement skill levels, but it CAN be ended alone on Ultra- Violence, I have tested it, as well as some of my doom buddies. I added in extra monsters and weapons for multiplayer <cyber-demon>. I suggest you play with no monsters when playing death- match. I also put in many secret area's, so try and find those. This is my first \"professional\" level, so I'd appreciate any comments about what you think of it.",
+	"version": "cab105",
+	"date": "2013-11-02 15:23:28",
+	"files": [
+		{
+			"filename": "thekurse.wad",
+			"size": 162413,
+			"crc": 2196316822,
+			"md5": "1afe16af3575f75dcec2e5e81ba778b1",
+			"sha1": "cab1053c06446e18c5a4e3d6a8f0ad88f32658ee",
+			"sha256": "e255d8ee98289cd3418ced7d3b49c641e0e0ecea1d399b0a03bdd8971dee840c"
+		}
+	]
+}

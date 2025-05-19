@@ -1,0 +1,17 @@
+{
+	"uid": "grdnodth (98e6b7).wad",
+	"name": "Garden-O-Death",
+	"description": "A DeathMatch for DOOM II, also single player, but not really made with that in mind. There are 4 main areas, the meat locker, the armoury, the balconies, and the garden proper. There are passages from the meat locker and the armoury to the balconies. A wide set of stairs go up the end of the garden to the balconies, where an exit is located. All the weapons are in the armoury, the BFG is hidden, and requires a key(in single player) to gain access to the switch that triggers the door to the BFG. There are weapons scattered about also. Many ambush sites, plenty of ammo, make for fast action in 3 or 4 player DM. There are light switches that turn the light on and off in the garden. Turn off the lights when you get the goggles. The pool in the garden holds life, but death could be lurking right around the corner in the dark :)",
+	"version": "98e6b7",
+	"date": "2013-11-02 15:37:13",
+	"files": [
+		{
+			"filename": "grdnodth.wad",
+			"size": 66793,
+			"crc": 4191702146,
+			"md5": "87be1ec98a93f5a71c0189b1013c42a8",
+			"sha1": "98e6b795883f039aadf1c840720f4560c56f53bf",
+			"sha256": "d4e6d5cf7af6c80b2131dd7964c93d9e8ab9c8db187b4f642be2f98c6aad6781"
+		}
+	]
+}

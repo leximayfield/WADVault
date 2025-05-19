@@ -1,0 +1,17 @@
+{
+	"uid": "BLACKDM (b7103f).wad",
+	"name": "Black Deathmatches",
+	"description": "10 OS maps for Deathmatch or Duel",
+	"version": "b7103f",
+	"date": "2014-01-11 23:09:26",
+	"files": [
+		{
+			"filename": "BLACKDM.wad",
+			"size": 1553477,
+			"crc": 3699385302,
+			"md5": "9cac2eceba810ff8319d295cc64a9772",
+			"sha1": "b7103f58e28e81d85455539dfac0a6aa541a9480",
+			"sha256": "43cb5f6c55c3adfbec452d7e8290947197104d92c741770c3dac3c2a22f29b94"
+		}
+	]
+}

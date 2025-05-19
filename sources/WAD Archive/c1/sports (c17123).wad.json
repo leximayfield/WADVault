@@ -1,0 +1,17 @@
+{
+	"uid": "sports (c17123).wad",
+	"name": "sports.WAD",
+	"description": "Aliens have taken over the Phobes Sports Complex. You must clean out the bad guys, so we can once again have sports in Space!",
+	"version": "c17123",
+	"date": "2013-11-02 15:12:05",
+	"files": [
+		{
+			"filename": "sports.wad",
+			"size": 54582,
+			"crc": 2230414523,
+			"md5": "c920befa2bc7a25350d9894b4f39da21",
+			"sha1": "c17123116dde8b314ad684dfb86d32b66fe93994",
+			"sha256": "1ee40429a71a43b0f8b09007315b1acd3e3dc64ccc6b7da5a80f898834478316"
+		}
+	]
+}

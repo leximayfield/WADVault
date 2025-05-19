@@ -1,0 +1,16 @@
+{
+	"uid": "MUSTDIE.wad",
+	"name": "Must Die",
+	"description": "Classic hunt and seek game! (with a few twists, shaken, not stirred)",
+	"date": "2014-08-30 14:30:55",
+	"files": [
+		{
+			"filename": "MUSTDIE.wad",
+			"size": 109117,
+			"crc": 1310158677,
+			"md5": "56f8186ba3dfd9aa420731a17ebf8e2d",
+			"sha1": "ea3b787f87bc32e958878605410af7ed8b96a36b",
+			"sha256": "67c2f999d2316ce6f52e0508287fe1d8dc86b2b7d1208e9be9c9707b1bb0d7aa"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "readbook.wad",
+	"name": "Go Read A Book!",
+	"description": "Two days ago, I was awake in the middle of the night and all of the sudden, it hit me. I could probably make a readable book using HUD images. And now today, I finally finished it. Press ] to go foward a page, and press [ to go back a page. Press ' to close the book.",
+	"date": "2014-12-29 09:14:02",
+	"files": [
+		{
+			"filename": "readbook.wad",
+			"size": 271201,
+			"crc": 1442148346,
+			"md5": "ab77a81c88b6240a2f13755441516348",
+			"sha1": "edf5f2a57645f2e4eb5c77121e14a3f251cf0689",
+			"sha256": "bd004ff9ac23505adc952a1885b1893c13cad558cb292870e3e257c48845c3a1"
+		}
+	]
+}

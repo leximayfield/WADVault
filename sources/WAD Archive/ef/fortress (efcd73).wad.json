@@ -1,0 +1,16 @@
+{
+	"uid": "fortress (efcd73).wad",
+	"description": "This is yet another \"really original\" level. Just kill all the bad dudes who try to mutilate you, and exit.",
+	"version": "efcd73",
+	"date": "2018-04-15 19:08:02",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 175828,
+			"crc": 3291432661,
+			"md5": "40fb9eeedb402242230675b32825e117",
+			"sha1": "efcd739111d09779920e9c17402acda7da47b297",
+			"sha256": "399a476e8ead8fa549c4d10d29e9ebb0262044a76e0d69aab2b998d92cce6d27"
+		}
+	]
+}

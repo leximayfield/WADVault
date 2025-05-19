@@ -1,0 +1,16 @@
+{
+	"uid": "mrcofm.wad",
+	"name": "Crypt Of Madness",
+	"description": "This is a medium size, fast paced DM level.",
+	"date": "2013-04-19 01:32:29",
+	"files": [
+		{
+			"filename": "mrcofm.wad",
+			"size": 420112,
+			"crc": 90869582,
+			"md5": "cba3ebf570b8c8ffda0baf683678f692",
+			"sha1": "2308e81b29e5c38e2c07273968a332078ed55226",
+			"sha256": "f937f26b51f7e8c99e92134c40a5c6048c59fa45036827e1b3d9c47dd7767d93"
+		}
+	]
+}

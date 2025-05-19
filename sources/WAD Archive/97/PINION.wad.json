@@ -1,0 +1,16 @@
+{
+	"uid": "PINION.wad",
+	"name": "PINION.WAD",
+	"description": "Great 2-3 player DeathMatch. May be a little too small for 4 players. Haven't tested it with 4 yet.",
+	"date": "2014-10-14 21:20:10",
+	"files": [
+		{
+			"filename": "PINION.wad",
+			"size": 34723,
+			"crc": 1042873545,
+			"md5": "e622d4d0b82a7e184aaae93c3fae9a85",
+			"sha1": "970b05033cb627f06f8cc5eab8b05b837ae1d4fd",
+			"sha256": "06b7bb6ad719f530527439818e0ff55557b3fa0afde742afce9111c84a0d52cb"
+		}
+	]
+}

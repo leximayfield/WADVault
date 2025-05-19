@@ -1,0 +1,16 @@
+{
+	"uid": "miniboss.wad",
+	"name": "Nikita Base",
+	"description": "A VERY tiny and very intense boss battle map...",
+	"date": "2015-01-13 21:24:56",
+	"files": [
+		{
+			"filename": "miniboss.wad",
+			"size": 338125,
+			"crc": 1779817069,
+			"md5": "bb8e7f564ba768f5884e230041317398",
+			"sha1": "e54c3402923297c1e9d7066e88703bb61465bd19",
+			"sha256": "7ebdca5050564e3f972d2688c4f8ef85521a3c64e5e15c41238a2d6fb01e59de"
+		}
+	]
+}

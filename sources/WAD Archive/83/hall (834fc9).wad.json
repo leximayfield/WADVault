@@ -1,0 +1,17 @@
+{
+	"uid": "hall (834fc9).wad",
+	"name": "Just Some Levels",
+	"description": "Level 1:good deathmatch level, lots of teleporters. plenty of enemies.",
+	"version": "834fc9",
+	"date": "2014-12-13 17:35:21",
+	"files": [
+		{
+			"filename": "hall.wad",
+			"size": 199419,
+			"crc": 909296307,
+			"md5": "2e99f908e2a41ca80d8d1529da20b6fd",
+			"sha1": "834fc94179726a6e7ddad68cb1715013d3e38a23",
+			"sha256": "d159a4fa1bd631aacdd726cad81ba725c93c47f749e6182f917e62cc54febd0f"
+		}
+	]
+}

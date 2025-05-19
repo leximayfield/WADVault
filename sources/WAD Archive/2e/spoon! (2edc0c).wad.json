@@ -1,0 +1,17 @@
+{
+	"uid": "spoon! (2edc0c).wad",
+	"name": "SPOON! (Deathmatch)",
+	"description": "You ain't seen nothing like it! It's big, it's blue, it's FRAGGIN time!",
+	"version": "2edc0c",
+	"date": "2014-01-04 11:55:42",
+	"files": [
+		{
+			"filename": "spoon!.wad",
+			"size": 79628,
+			"crc": 497131029,
+			"md5": "0b5035510f24ece31e63923934e8a985",
+			"sha1": "2edc0cf7943695cfb933b55dbc88793248619b9b",
+			"sha256": "b86ad8a8b886df5f0c5e58fc57f67a65bf3bec62e75fc1211468936d0ec04e83"
+		}
+	]
+}

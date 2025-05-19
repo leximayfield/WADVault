@@ -1,0 +1,17 @@
+{
+	"uid": "rabid (bbd002).wad",
+	"name": "RABID.WAD",
+	"description": "Close quarter melee with that favorite of weapons, the Shot Gun. Compact, detailed level in the spirit of ID's original first episode. If you're fed up of panoramic blast-o-thon's and \"Oh my, there's a Cyberdemon next to the player one start.\" then this is for you.",
+	"version": "bbd002",
+	"date": "2015-12-07 10:02:39",
+	"files": [
+		{
+			"filename": "rabid.wad",
+			"size": 94061,
+			"crc": 2568855675,
+			"md5": "abb2ee54c9943a9cbe1678811a272cc4",
+			"sha1": "bbd002886fdcead5263ac12b7cbc93b07623600a",
+			"sha256": "63a4ff5bcb915d11d239aec2d211c04d55893a19e616a3b1664d5914d9563e65"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "REFINERY (9ab676).wad",
+	"name": "\"refinery\" \"V 3.0\"",
+	"description": "trinity.wad A fair sized map modeled on a nukage refinery. Good challenging design!.",
+	"version": "9ab676",
+	"date": "2014-12-29 09:08:44",
+	"files": [
+		{
+			"filename": "REFINERY.wad",
+			"size": 558039,
+			"crc": 2006407863,
+			"md5": "f26061a1405c63af4d2094d6b6636f1e",
+			"sha1": "9ab676701fd8f6ec5538036e479a8383803a46e6",
+			"sha256": "0e47edc02423529b69c33139802a3480f057dbbf7710df652ad59fba5dc29d6a"
+		}
+	]
+}

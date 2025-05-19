@@ -1,0 +1,16 @@
+{
+	"uid": "te17.wad",
+	"name": "The Experiment Level 17: The Lost World",
+	"description": "This is level 17 of \"The Experiment,\" just to get you ready for what is in store for the 32-Level replace- ment, Courage of the Lion 2, aka The Experiment. The music is by Mark Klem, used without permission. This is ment to be an alpha release of The Experi- ment, with 5 musics and the sky patches intact. If you like this, and would like to sign up to build a level or two, mail me and tell me four level #'s. You CAN'T use levels 1, 10, 12, 17, 21, 22, 26, or 32 because they are already taken. Thanks for beta testing. Besides texture alignment, mail me if you find any bugs! Oh, yeah, one last thing: DEATHMATCH MODE DOES NOT WORK. Don't try it.",
+	"date": "2014-12-15 22:35:10",
+	"files": [
+		{
+			"filename": "te17.wad",
+			"size": 104564,
+			"crc": 2529605257,
+			"md5": "cf52ceda3c1f76e4197de5460aa38a76",
+			"sha1": "dd218b52f49945d9aa3a5eda4e31b3f6617fcdec",
+			"sha256": "579500925af2d59a7a2bc226919519d0888f3deab52e33331411eda8a87da700"
+		}
+	]
+}

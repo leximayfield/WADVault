@@ -1,0 +1,16 @@
+{
+	"uid": "civsaw.wad",
+	"name": "Civilian Sawmill for Doom v1.0",
+	"description": "You either loved it or hated it's TF and TFC versions. Now the joys of Civsaw come to Doom! I decided to port my popular Quake map over, and it has mixed results. I've changed a few things in this one, not only because of engine differences but also to accomodate as many source ports as possible.",
+	"date": "2014-12-15 23:15:41",
+	"files": [
+		{
+			"filename": "civsaw.wad",
+			"size": 208554,
+			"crc": 2444413077,
+			"md5": "093b9eec281157154563e24de71b618b",
+			"sha1": "3d134d5316dc75a654f04ecdf6f6d0a0a9f3108a",
+			"sha256": "856b7d8f753932d63e6bfce6e6b3b520d0900a92b7d6eed1fbb146d631cf9794"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "stigmata.wad",
+	"name": "STIGMATA",
+	"description": "Medium sized single/co-op player map. Gstone themed.",
+	"date": "2015-01-14 14:57:43",
+	"files": [
+		{
+			"filename": "stigmata.wad",
+			"size": 443786,
+			"crc": 730675040,
+			"md5": "d98d4fa8f743e9222dca07e98f217409",
+			"sha1": "84086cec1489cab3a6af3892f5fa0b4948065cd2",
+			"sha256": "09bc38798eee6b87faafea03d69efd8572319cfff377212ae96f4e79e185b185"
+		}
+	]
+}

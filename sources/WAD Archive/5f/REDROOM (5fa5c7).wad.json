@@ -1,0 +1,17 @@
+{
+	"uid": "REDROOM (5fa5c7).wad",
+	"name": "Red Room",
+	"description": "Discover the Red Room and find your way out (ALIVE) if you can. Discover the arrow to Hell and find its secrets.",
+	"version": "5fa5c7",
+	"date": "2013-11-04 20:14:30",
+	"files": [
+		{
+			"filename": "REDROOM.wad",
+			"size": 65827,
+			"crc": 3374542901,
+			"md5": "ef2b4df086b30e2143a7b07c65d07f8e",
+			"sha1": "5fa5c7d60351592c30dae0a9ea6da2508ea793b4",
+			"sha256": "9fb03de41ca72f837837f12e6f4bc5208d4bebfcd23930ec783e60a7236b7173"
+		}
+	]
+}

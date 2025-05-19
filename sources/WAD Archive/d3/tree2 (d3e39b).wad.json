@@ -1,0 +1,17 @@
+{
+	"uid": "tree2 (d3e39b).wad",
+	"name": "Tree2.WAD",
+	"description": "A largish level, with monsters from lots of unexpected places, and a few cool ideas to show off, including some nice light- sourcing (sort of). This is a level to make the cautious wary, and the brash, dead. To set the scene, read the story at the end of this text. Only weapons and monsters from Episode 1 are included. Not suitable for a Deathmatch, although the start locations are in there.",
+	"version": "d3e39b",
+	"date": "2015-12-07 11:47:14",
+	"files": [
+		{
+			"filename": "tree2.wad",
+			"size": 132910,
+			"crc": 2516151011,
+			"md5": "e01e9d949d76d1442fb3b3fc14f682a6",
+			"sha1": "d3e39be5e4e86e07a34bad2fec061ddf7178caaf",
+			"sha256": "9d561d9a59daeca1301652c6be476a61e3308e73897edf2cb59e98d59d430eb0"
+		}
+	]
+}

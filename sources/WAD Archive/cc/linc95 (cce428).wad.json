@@ -1,0 +1,17 @@
+{
+	"uid": "linc95 (cce428).wad",
+	"name": "Lincon95 tourney",
+	"description": "This level was used in the doom2 tourney at the Lincon95 convent. It's a deathmatch only with all weapons but the hideous BFG ( the plasma dosn't have to much ammo either ). And there is no exit, so if you wich to se who fragged who most times, we recomend a time limit. One last thing, the arrows points at elevators just push the walls and they go down.",
+	"version": "cce428",
+	"date": "2014-01-07 22:16:13",
+	"files": [
+		{
+			"filename": "linc95.wad",
+			"size": 126632,
+			"crc": 4288475675,
+			"md5": "908f915df853bef96187244ec6bda2a6",
+			"sha1": "cce42811b5e818830e8f2866bf58035922f213a4",
+			"sha256": "577d05b415e0f23d3344026e69bba2b018e2b1c744c3ceb4a8d2c33fd6f6e599"
+		}
+	]
+}

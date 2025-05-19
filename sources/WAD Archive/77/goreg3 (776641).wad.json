@@ -1,0 +1,17 @@
+{
+	"uid": "goreg3 (776641).wad",
+	"name": "Gore Galore (for DOOM 2)",
+	"description": "This level is designed especially for DeathMatch 2.0, but it is also an excellent single-player experience (although it will take a DOOM guru to beat it on Ultra-Violence). At first, the level will seem rather large for a DM level, but I can assure you that once all the players become familiar with the map's layout, this level provides the ultimate DeathMatch environment. There are many intricacies present which are not essential for a simple rowdy DM game, but they will truly enhance the game for those who take the time to figure them out. Have fun!",
+	"version": "776641",
+	"date": "2014-12-03 20:23:01",
+	"files": [
+		{
+			"filename": "goreg3.wad",
+			"size": 81915,
+			"crc": 2671759731,
+			"md5": "e021ad2af84ab23449cc636fd8cc6338",
+			"sha1": "776641f67a50461e0899a7d6d3569c0ddc554379",
+			"sha256": "80079f5d6acb1b4e86a16979971ee34416af5aca592425d0e21e8c292fd57f8e"
+		}
+	]
+}

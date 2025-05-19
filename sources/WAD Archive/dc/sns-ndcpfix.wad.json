@@ -1,0 +1,16 @@
+{
+	"uid": "sns-ndcpfix.wad",
+	"name": "Newdoom Community Project (Modified for mulitplayer)",
+	"description": "Boom Update fixing several coop breaking areas.",
+	"date": "2013-04-19 00:50:56",
+	"files": [
+		{
+			"filename": "sns-ndcpfix.wad",
+			"size": 7755176,
+			"crc": 1481450346,
+			"md5": "fdec83106f2c1abacbd8059989072d74",
+			"sha1": "dc2c4bba7f67046bd9f5ba26b10becbfd5b55d5c",
+			"sha256": "135044ce4eee563385111234164b04b316da5e1d979253e64244ff78e4395565"
+		}
+	]
+}

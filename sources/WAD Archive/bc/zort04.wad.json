@@ -1,0 +1,16 @@
+{
+	"uid": "zort04.wad",
+	"name": "Zort 4",
+	"description": "Fourth ZDoom map of mine. Damn this one's way different from not just the previous three but all others I've ever made. It's techno! Why is it techno? I have no idea, I was i the mood for a techno wad. Anyway, because of my over-active scripting it's got somewhat of a storyline. Simply put you're stuck in some sort of underground complex and you gotta get out. Trouble is the monsters screwed up the main computer system so you have to turn it back on so it can let you outta this crazy complex. Yeah the undergound thing sounds like Half-Life, but I didn't plan it that way. There are a lot of similarities to Half- Life, also not planned. One thing that is planned is the fact that you have to turn on two seperate power flows in order to turn on the computer. Similar to the first time you meet the tenticles in Half- Life. So anyway, have fun and stuff.",
+	"date": "2014-12-29 16:42:14",
+	"files": [
+		{
+			"filename": "zort04.wad",
+			"size": 274274,
+			"crc": 283095706,
+			"md5": "932a40e508eb4a64d8443acd6c61cf7a",
+			"sha1": "bc9c740512190962956f122dbe55fe139c7c5209",
+			"sha256": "a96a97a747ca51a6ebd944198d2bc465fb80614f28e99d1fd6370d5310c94c33"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "warpzone.wad",
+	"name": "Warpzone",
+	"description": "This was originally MAP31 in scourge, but after my test release, I removed it, as this level is incredibly different from the rest of the wad, but I didn't think about it too much. After much advice and a few suggestions, it was removed and a replacement made (teleportation), but this level lives on. WARNING - This level is huge and quite well detailed. It may cause slowdown on most machines. The best ways to avoid slowdown are playing with a fairly low screen resolution and (particularly in GZDoom) turning off some of the more fancy effects. To combat the size and complexity of this wad, I've implemented a simple guidance system. If a section of floor, with LITE3 lower textures, in front of a teleporter is raised, then there is something to do there. I'd advise saving every now and then, as I couldn't do autosaves in the map mode I was using, and this map takes long enough to finish as is.",
+	"date": "2014-12-29 08:49:11",
+	"files": [
+		{
+			"filename": "warpzone.wad",
+			"size": 5381633,
+			"crc": 3428476915,
+			"md5": "13d32dddba12fce38334c47edc7dc549",
+			"sha1": "6b7419123b7d3c5ee1eb1d055c1ba6fb03eb5cf8",
+			"sha256": "733eba31a0d7d756fb0ea7f165a34f4b20d2e0f6b36d074141b07fdeeb0beb06"
+		}
+	]
+}

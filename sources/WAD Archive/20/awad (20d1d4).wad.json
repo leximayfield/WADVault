@@ -1,0 +1,17 @@
+{
+	"uid": "awad (20d1d4).wad",
+	"name": "Andy's new doom2 wad file",
+	"description": "This wad file was created because I had nothing bettor to do.",
+	"version": "20d1d4",
+	"date": "2013-11-03 17:43:38",
+	"files": [
+		{
+			"filename": "awad.wad",
+			"size": 56376,
+			"crc": 3135877581,
+			"md5": "a8b8b065936be37ef5bec0b9083f86e8",
+			"sha1": "20d1d439c23a74e1b922b4c709da0a65ca6a9b5b",
+			"sha256": "412dc9aadf7413d6a33f0602926779a12c37a2ab1c037d6b80f8922b304433d0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "harvest (f0db2a).wad",
+	"name": "The Deadly Harvest",
+	"description": "This is a deathmatch level. We've played it for a few days and fragged each other a million times. Though the WAD is deathmatch only, I didn't just put a few rooms here and there, but also did my usual work of texture choosing and aligning to make it not only play good, but also _look_ good. I've seen too many levels which might be quite playable, if their authors had spent more time on giving them the right look.",
+	"version": "f0db2a",
+	"date": "2014-12-15 21:58:56",
+	"files": [
+		{
+			"filename": "harvest.wad",
+			"size": 95276,
+			"crc": 2254014776,
+			"md5": "78f86df02a452a8b731b391742320009",
+			"sha1": "f0db2a432d3d68c737b620697406ce49375f0f88",
+			"sha256": "9a509ec859efafd0ec202e77f3bb5212083f733b21a32904f9e652b034b2ba6b"
+		}
+	]
+}

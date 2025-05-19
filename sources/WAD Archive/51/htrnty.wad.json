@@ -1,0 +1,16 @@
+{
+	"uid": "htrnty.wad",
+	"name": "The Unholy Trinity  for Heretic, beta version",
+	"description": "A reasonable representation of Trinity College, Cambridge. The heretic conversion of the famous trinity DOOM.",
+	"date": "2013-11-02 16:36:42",
+	"files": [
+		{
+			"filename": "htrnty.wad",
+			"size": 1051892,
+			"crc": 1901684942,
+			"md5": "5e4ac859f62f66c324c8b105fb74ebb1",
+			"sha1": "51051944c3fbfbc4f43e4f93d2033f0a178b089c",
+			"sha256": "a1fb9d48a990e73a20827ab1311438de548a84306dafb38144436f6384b551f5"
+		}
+	]
+}

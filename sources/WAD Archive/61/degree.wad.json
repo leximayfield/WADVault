@@ -1,0 +1,16 @@
+{
+	"uid": "degree.wad",
+	"name": "Ten Degrees of Eight",
+	"description": "The entire level is a big room in the shape of a rectangle. There are ten rooms that are on the edge of the rectangle. Each room has a switch that opens a passageway to the next room - but it also open a door three rooms along that contains monsters. Each switch opens a door with increasingly more difficult monsters. The exit door is obviously in the final room - that when the fun starts.",
+	"date": "2014-12-18 22:56:15",
+	"files": [
+		{
+			"filename": "degree.wad",
+			"size": 39173,
+			"crc": 222331893,
+			"md5": "7c244620b4dd68061750c312aa5d1000",
+			"sha1": "61c6371042a0e93ae4bee1efbfae43d2c6599701",
+			"sha256": "6dd4d133b08801413face6f69112c5f33d1ea1731c7423c93e90f9f868c7f6f4"
+		}
+	]
+}

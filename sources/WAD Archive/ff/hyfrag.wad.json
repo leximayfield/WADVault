@@ -1,0 +1,16 @@
+{
+	"uid": "hyfrag.wad",
+	"name": "Hybrid Fragments",
+	"description": "These are the first three maps of a megawad I work on, on and off, called \"Hybrid Awakening.\" I wanted to release the first three maps to the public to see if I am going in the right direction so far. The story is pretty sparse. Your a creation that wakes up in an underground lab. You have an electronic eye-patch (hud-face lol) and a katana nearby. The UAC is defunct and some new organization called \"Hybrid\" is up to no good, cloning demons and such. Naturally you have to go into their tech-base called the \"Kappa Tower\" and kick their asses. Good luck.",
+	"date": "2014-12-24 17:36:48",
+	"files": [
+		{
+			"filename": "hyfrag.wad",
+			"size": 3933212,
+			"crc": 2235139914,
+			"md5": "f93c2f67188966670e38f6468597c0c4",
+			"sha1": "ff3fbfe96d7454e828dddec61d7e1d9998bbdfee",
+			"sha256": "24046208c167490d1e94308de34982bc4bf0a139862dbe4040a16352e8d1c8d5"
+		}
+	]
+}

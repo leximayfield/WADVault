@@ -1,0 +1,16 @@
+{
+	"uid": "EPISODE.wad",
+	"name": "Episode",
+	"description": "Replacement for map01-map09",
+	"date": "2014-10-14 21:01:06",
+	"files": [
+		{
+			"filename": "EPISODE.wad",
+			"size": 696319,
+			"crc": 2905929564,
+			"md5": "1006eca66f9fb600b711387bd0b73ba1",
+			"sha1": "eed729c3f84de5c61036344602ac978fae582ef7",
+			"sha256": "7e43b5c25ffe89c578898efa5227bafb62bbdaabb7c46ee51053b7aed124dcf2"
+		}
+	]
+}

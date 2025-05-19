@@ -1,0 +1,17 @@
+{
+	"uid": "malice (9ab608).wad",
+	"name": "malice.wad (revised version for Heretic",
+	"description": "These wads are designed to be primarily for Deathmatch play, but the author intended for them to be still useful and enjoyable for play by individuals (or even cooperative mode). The designs are most conducive towards exciting Deathmatches, and all levels are relatively compact, but they are set up in such a way so that the other modes of play are still fun and fast-moving.",
+	"version": "9ab608",
+	"date": "2013-11-02 16:40:14",
+	"files": [
+		{
+			"filename": "malice.wad",
+			"size": 575664,
+			"crc": 1160740278,
+			"md5": "599f59c9cdffdca4e75e73a2e8d99d35",
+			"sha1": "9ab6085bd4b93e2f3f2db116733204993366a700",
+			"sha256": "416199cd0fc8c58752e0753604a3b1919a1898962d5d7bd3c6c7650a77f2368a"
+		}
+	]
+}

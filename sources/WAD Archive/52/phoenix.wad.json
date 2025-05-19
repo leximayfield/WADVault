@@ -1,0 +1,16 @@
+{
+	"uid": "phoenix.wad",
+	"name": "Phoenix Rising",
+	"description": "5-level set with a tech-base theme, using Quake2 textures, new sprites, and a cool new sky. While not truly a hub-type of structure, these levels are interconnected. Let's call it a quasi-hub structure, 'kay? (Read Notes, below.)",
+	"date": "2014-12-29 08:56:27",
+	"files": [
+		{
+			"filename": "phoenix.wad",
+			"size": 4716708,
+			"crc": 4279834158,
+			"md5": "3aebe5b47ef7cfdc7ac9a484e4ed2996",
+			"sha1": "52706103b5ec615d5e323d713e9513baf1a36a65",
+			"sha256": "1e978bd3b88b57840a80d2d91ed147c6a8e00664539eda8f5afef085b93e96e5"
+		}
+	]
+}

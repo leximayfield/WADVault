@@ -1,0 +1,16 @@
+{
+	"uid": "buttman.wad",
+	"name": "Buttman 3D for DOOM!",
+	"description": "This will replace the imps with flaming hemorroid thrower BUTTMAN! *CAUTION* you need a good sense of humour!",
+	"date": "2015-09-14 21:54:12",
+	"files": [
+		{
+			"filename": "buttman.wad",
+			"size": 121064,
+			"crc": 2988078512,
+			"md5": "98cf8a2bf0081e77eb88ca56396605e9",
+			"sha1": "2ce6cbb91faa734c44879205054ded54f1c2899d",
+			"sha256": "4c3d61ee3d5750d900e97f3d9a7d10a644db3f4671c0ea683d63f6bc5e7dee40"
+		}
+	]
+}

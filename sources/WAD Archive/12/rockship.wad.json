@@ -1,0 +1,16 @@
+{
+	"uid": "rockship.wad",
+	"name": "Rock Ship",
+	"description": "A little theme based, this one. Don't worry though: it's made for action. I had a bit of fun creating areas that looked completely different the second time you look. And check out the double barrel shotgun secret. It's not really necessary in this level, (single barrel rocks!). Let it's aquistion be my challenge to you.",
+	"date": "2015-01-14 22:47:14",
+	"files": [
+		{
+			"filename": "rockship.wad",
+			"size": 265015,
+			"crc": 1298681624,
+			"md5": "ec28ffac8010fb220b5a0be2422efddd",
+			"sha1": "128db96db75b6456556ce9c02e93d742f382253b",
+			"sha256": "2576c5c4436474a16f2846bdf7c42167151b995b85ab3f9daeab9a3cce7939dd"
+		}
+	]
+}

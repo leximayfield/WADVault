@@ -1,0 +1,17 @@
+{
+	"uid": "bridges (fbe6e1).wad",
+	"name": "Bridges",
+	"description": "Focused on overcoming the non-3d aspects of the doom engine. This deathmatch arena includes multilevel crossover steping stones. All the weapons are here, but BFG is tough to get to. Plenty of ammo for a gorefest. If you find backpack by searching, I'm impressed. Small enough there is little hunting with two players, but large enough 4 shouldn't trip over each other.",
+	"version": "fbe6e1",
+	"date": "2014-08-30 14:27:09",
+	"files": [
+		{
+			"filename": "bridges.wad",
+			"size": 67695,
+			"crc": 1527622776,
+			"md5": "632a81321cfbc80213934c54675fa77b",
+			"sha1": "fbe6e1b3e4c0767b40fef75f7c34b4c99d25fd6b",
+			"sha256": "e64471a7caa42569b7129235031bfe7526a34fc34cc1b9eeee86e6c967fd3d2b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hanger.wad",
+	"name": "Hager",
+	"description": "My contribution to Doom Advent Calendar",
+	"date": "2015-09-14 21:08:32",
+	"files": [
+		{
+			"filename": "hanger.wad",
+			"size": 105046,
+			"crc": 1237798696,
+			"md5": "af99cb52e9b851174cd7d5258f6d2950",
+			"sha1": "e02cc4362963f96856597420e5b0491a9d755d8d",
+			"sha256": "8f98cc203fabc95052afb8eac737145f26767f8e5ff7d4fa0c9d02dcc37ac08d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tempgrnd.wad",
+	"name": "Temple Grounds",
+	"description": "A ruined temple with outdoor areas and caves",
+	"date": "2014-12-29 17:18:26",
+	"files": [
+		{
+			"filename": "tempgrnd.wad",
+			"size": 1375654,
+			"crc": 3155335159,
+			"md5": "8e9eb10e0da3b681be6723b5ea7fc841",
+			"sha1": "67972e732f7ecaa1350f60f421b3c2ece1cb99c9",
+			"sha256": "3623d0b4a53ae830b59b3f02e3c66418bd2b97674db278ef7157df54b8f2c5e4"
+		}
+	]
+}

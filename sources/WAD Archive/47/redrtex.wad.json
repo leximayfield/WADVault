@@ -1,0 +1,16 @@
+{
+	"uid": "redrtex.wad",
+	"name": "Redneck Rampage Textures",
+	"description": "1260 textures from Necrodome. Includes skies.",
+	"date": "2015-09-15 14:06:09",
+	"files": [
+		{
+			"filename": "redrtex.wad",
+			"size": 64773648,
+			"crc": 2495725546,
+			"md5": "7334c68e114adc80bd8fe880698086a8",
+			"sha1": "473e9881950617faef0fcf778707bec78a5130e7",
+			"sha256": "53f34280953eb08204c53625a3a7a756319ceeeb2e81466a1388d9ec14c0f1b8"
+		}
+	]
+}

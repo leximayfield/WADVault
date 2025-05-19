@@ -1,0 +1,16 @@
+{
+	"uid": "boldwar.wad",
+	"name": "Bold As War",
+	"description": "Map in the style of Episode 4 of Doom. This map suffered from a long spell of inactivity, but hopefully it turned out pretty well in the end. Again, there are no skill levels so you may find health and ammo to be thin and you'll have to be very careful.",
+	"date": "2014-12-15 21:38:15",
+	"files": [
+		{
+			"filename": "boldwar.wad",
+			"size": 277237,
+			"crc": 3051353548,
+			"md5": "29cfeb49927417ca64c6b46d57b6ed82",
+			"sha1": "95ad5d1d1613fb9494736f0183009271de1959ed",
+			"sha256": "8d496edfdce1e62c81e8731900af46872c5900b4bdf82e55839922d229fcd4ca"
+		}
+	]
+}

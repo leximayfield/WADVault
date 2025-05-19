@@ -1,0 +1,17 @@
+{
+	"uid": "star (a2b09b).wad",
+	"name": "Star",
+	"description": "For those die hards out there who like Plutonia and H2HMUD, but want more!",
+	"version": "a2b09b",
+	"date": "2015-01-14 22:59:02",
+	"files": [
+		{
+			"filename": "star.wad",
+			"size": 559645,
+			"crc": 2684742595,
+			"md5": "b3ac04d4fcc2f7a7f6abb8e48c6facf2",
+			"sha1": "a2b09bda67a6abb6877402ae100f666c3a857e98",
+			"sha256": "c459984c5fd6443e7d4c82fa7beabacb1c495e816a9ed774905a8d780d2739a7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "twisty (77f488).wad",
+	"name": "TWISTY.WAD",
+	"description": "DeathMatch Only!! (Set the mood here.)",
+	"version": "77f488",
+	"date": "2013-11-02 15:26:00",
+	"files": [
+		{
+			"filename": "twisty.wad",
+			"size": 73542,
+			"crc": 2830376894,
+			"md5": "8a8dd89731cb450fa3a9e72f4a413228",
+			"sha1": "77f488b618a25d3b0454fcd08e0ee3aa766a1423",
+			"sha256": "456e3b1af2d9f54ecf7f7b51359740eb3c30820b48dba964f10305ff44aa3e73"
+		}
+	]
+}

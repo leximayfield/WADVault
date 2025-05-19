@@ -1,0 +1,16 @@
+{
+	"uid": "uac-ctf.wad",
+	"name": "UAC Capture The Flag MAP01 (more in the pipeline)",
+	"description": "Doom Map for CTFDoom v0.75 and up",
+	"date": "2014-12-15 22:47:39",
+	"files": [
+		{
+			"filename": "uac-ctf.wad",
+			"size": 199783,
+			"crc": 2417172078,
+			"md5": "22996ddfb42a30dcccf8c4a8da6a095a",
+			"sha1": "c830d6fc61332ab5509d484bc359e5af2fbd2409",
+			"sha256": "9645aa0edc24638d9332b5a026589c84956a65238e5b5b546b4f278a0ec0df60"
+		}
+	]
+}

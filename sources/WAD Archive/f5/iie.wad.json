@@ -1,0 +1,16 @@
+{
+	"uid": "iie.wad",
+	"name": "IIE",
+	"description": "A big one-player (or cooperative) level for DOOM 1 based on the plan of my computer science school (IIE in Evry, France)",
+	"date": "2013-11-03 17:47:13",
+	"files": [
+		{
+			"filename": "iie.wad",
+			"size": 370779,
+			"crc": 1876520789,
+			"md5": "8794f4c8e690c486f2d612cd6a23de2e",
+			"sha1": "f5adeb3f1fe070b1d10bf704f513bda32b40d11a",
+			"sha256": "e92e19540d18728bb1e71e50a943aae9ad620127d0de863404adac75a7ca4ea8"
+		}
+	]
+}

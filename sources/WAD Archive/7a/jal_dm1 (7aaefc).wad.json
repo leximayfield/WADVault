@@ -1,0 +1,17 @@
+{
+	"uid": "jal_dm1 (7aaefc).wad",
+	"name": "JAL_DM1.WAD",
+	"description": "Set in an open-air castle castle Deathmatch only Designed to be played with -respawn",
+	"version": "7aaefc",
+	"date": "2013-11-02 15:09:24",
+	"files": [
+		{
+			"filename": "jal_dm1.wad",
+			"size": 19146,
+			"crc": 3000517995,
+			"md5": "2f6aa322135ce2e0478409fdb0953bae",
+			"sha1": "7aaefcdd08fb4d5afc8840ec4618e4eccfdd48ef",
+			"sha256": "49430ca588bcb95793ac26966890672aa568e55e100a26d3cadcc2b693c02da6"
+		}
+	]
+}

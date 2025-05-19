@@ -1,0 +1,17 @@
+{
+	"uid": "fullchub (0a714a).wad",
+	"name": "Full-on Deathmatch Chubbie",
+	"description": "This is a Deathmatch level (duh). It is designed as three major rooms, each with a different design concept and look based on a color. The rooms are only accessible via teleporters. A good size level for modem DM. Have fun killin'.",
+	"version": "0a714a",
+	"date": "2013-11-02 15:20:39",
+	"files": [
+		{
+			"filename": "fullchub.wad",
+			"size": 80552,
+			"crc": 1436851207,
+			"md5": "7be90a6cda2f96d28a527632ebcd11cf",
+			"sha1": "0a714a23e3878a913c6775b724f69796287e388f",
+			"sha256": "266e2d3e35d24d2f009b92720d3c2c2bb90bdac810e269758f8cadc454c549bf"
+		}
+	]
+}

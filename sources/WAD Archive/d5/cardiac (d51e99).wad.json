@@ -1,0 +1,17 @@
+{
+	"uid": "cardiac (d51e99).wad",
+	"name": "Cardiac Arrest 1.0",
+	"description": "Fairly mean level. A few nasty surprises. Generally fun. A few big rooms. A tall tower. Lots of monsters. Lots of weapons. Thrills. Chills. Darkness.",
+	"version": "d51e99",
+	"date": "2013-11-02 15:56:35",
+	"files": [
+		{
+			"filename": "cardiac.wad",
+			"size": 142652,
+			"crc": 2931462017,
+			"md5": "6cad4d084711942933d85c7e71eb66bb",
+			"sha1": "d51e993ceadd5f34931a235a12696c58849fc385",
+			"sha256": "24b50a95b73118536951c5a40fb05d75d7a4fa5c40cd849fd6a8bf535190ad3f"
+		}
+	]
+}

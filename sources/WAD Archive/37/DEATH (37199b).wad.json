@@ -1,0 +1,17 @@
+{
+	"uid": "DEATH (37199b).wad",
+	"name": "DEATH.",
+	"description": "This is a reproduction of the original E1M1 in DOOM. NOW it's a bit more violents.",
+	"version": "37199b",
+	"date": "2014-01-04 11:56:03",
+	"files": [
+		{
+			"filename": "DEATH.wad",
+			"size": 168733,
+			"crc": 4118579150,
+			"md5": "a583616a1c54ef00ad5736c55765fa01",
+			"sha1": "37199b0fbc685430f80fe09193709e8ade2fef2d",
+			"sha256": "223107b781cb7a94deecb9bf722f48efcddbd45010fe266dc98c43fe2636baac"
+		}
+	]
+}

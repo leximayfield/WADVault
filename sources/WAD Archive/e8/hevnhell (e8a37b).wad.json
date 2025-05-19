@@ -1,0 +1,17 @@
+{
+	"uid": "hevnhell (e8a37b).wad",
+	"name": "HEVNHELL.WAD (Heaven and Hell)",
+	"description": "Literally Heaven and Hell. If you can't figure out which way to go to get to Heaven when you start this level you need help. Heaven is simply a large stockpile of weapons, armor, and health bonuses (Apparently the NRA was right). There are also a few of Hell's more putrid denizens placed in cages for your safety and viewing pleasure, so take the opportunity to waste them. Every type of weapon is available in Heaven except for the BFG (is there one? Go to Hell to find out). Hell is a fairly linear place. In Single Player Mode if you die in Hell you are dead and thats that, but for Multi-Player mode, measures have been taken to ensure that any players that die can re-enter Hell safely many times over. This level isn't meant to be tricky or witty, it is purely kill kill kill kill kill kill jump kill.....",
+	"version": "e8a37b",
+	"date": "2013-11-02 15:36:48",
+	"files": [
+		{
+			"filename": "hevnhell.wad",
+			"size": 104442,
+			"crc": 334763925,
+			"md5": "a7594530472c5f68875126c4c9443f6e",
+			"sha1": "e8a37bd86688ae89b4db433a1b9a077d3a01f90c",
+			"sha256": "0239dd46b06f11741e135bf787ab67a0024bc82fdaf2809abb0b7ee89c4f34fc"
+		}
+	]
+}

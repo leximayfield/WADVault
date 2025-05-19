@@ -1,0 +1,16 @@
+{
+	"uid": "d2r.wad",
+	"name": "Doom 2: Reimagined",
+	"description": "A reimagination of levels MAP 01 to MAP 07 of DOOM II by me",
+	"date": "2014-12-24 17:02:07",
+	"files": [
+		{
+			"filename": "d2r.wad",
+			"size": 700489,
+			"crc": 1090753178,
+			"md5": "371aa50b64898f98b50452c3a24b9d0a",
+			"sha1": "87f93dcf7be836d250ff18327c8fb09047a7d423",
+			"sha256": "a64ed05099b7b5f2fdac1da7085089ab8a3335e98f137f3511eced0e97706983"
+		}
+	]
+}

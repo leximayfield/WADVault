@@ -1,0 +1,16 @@
+{
+	"uid": "RUDEWAD1.wad",
+	"name": "RUDEWAD1.ZIP (rudewad1.wad + .txt)",
+	"description": "This is a combo wad for DOOM ][. It's levels 1 thru 4. These were not designed with the intent to be multi-player, but have all the start points needed.",
+	"date": "2015-01-14 22:56:15",
+	"files": [
+		{
+			"filename": "RUDEWAD1.wad",
+			"size": 336749,
+			"crc": 2812658286,
+			"md5": "f7033c203f987fa8298cde59956502a0",
+			"sha1": "5ede5ae0b71336fc2d57da63589c2b1dfdf9bd27",
+			"sha256": "a646b51a8675eb6297f51bc0cf8b35bb8264029cdeac8f57ce41b364f8dda396"
+		}
+	]
+}

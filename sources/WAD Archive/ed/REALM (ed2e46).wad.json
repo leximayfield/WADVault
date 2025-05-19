@@ -1,0 +1,17 @@
+{
+	"uid": "REALM (ed2e46).wad",
+	"name": "Realm",
+	"description": "A new level for doom2. Made for deathmatch but can be played co-op or single player.",
+	"version": "ed2e46",
+	"date": "2013-11-03 17:47:40",
+	"files": [
+		{
+			"filename": "REALM.wad",
+			"size": 89185,
+			"crc": 22760520,
+			"md5": "b43c90da8e42c2fd192c4ddc9b8abc05",
+			"sha1": "ed2e4688cb576725fce6548606a01bee4957f2dd",
+			"sha256": "e8a4c3bdcf65ca5210cd1c7419a19b40a122b7ac336926a09106e07147927d75"
+		}
+	]
+}

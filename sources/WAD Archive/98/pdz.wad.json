@@ -1,0 +1,16 @@
+{
+	"uid": "pdz.wad",
+	"name": "Project Dark Zone",
+	"description": "An atmospheric mapset with a high LOD, good fights and reasnobly non-linear design.",
+	"date": "2014-12-12 14:12:02",
+	"files": [
+		{
+			"filename": "pdz.wad",
+			"size": 16425372,
+			"crc": 2834327939,
+			"md5": "0351c93ac29eb7077b15be00b4ace166",
+			"sha1": "98c20462ff18b329fe38fd926adbc04864bff430",
+			"sha256": "65eb4c2562770c3f375d87d635b70ad8316d62439c9c7c0c15c9846a4d2179ad"
+		}
+	]
+}

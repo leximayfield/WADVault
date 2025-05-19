@@ -1,0 +1,16 @@
+{
+	"uid": "REALDM-1.wad",
+	"name": "REALDM-1.WAD (version 1.0)",
+	"description": "PWAD with new Sounds and Music for registered DOOM 1.2",
+	"date": "2014-01-04 11:56:05",
+	"files": [
+		{
+			"filename": "REALDM-1.wad",
+			"size": 1593424,
+			"crc": 1457690894,
+			"md5": "ba97ad59bf9fbdcbb29f8a4dd4027594",
+			"sha1": "75d067454bb3ade6b12e5130ca3a38c1f3de6249",
+			"sha256": "f0a082dc59545e9cac4bdbeff7d34c749d3d729cab708498c89b65b4d05d0270"
+		}
+	]
+}

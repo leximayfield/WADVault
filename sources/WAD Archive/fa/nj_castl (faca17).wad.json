@@ -1,0 +1,17 @@
+{
+	"uid": "nj_castl (faca17).wad",
+	"name": "NJ Castle",
+	"description": "Olde level made quite quickly with Deathmatch play in mind but bears little resemblance to modern DM levels. Released purely because of interest in old, cheesy 1994 WADS. The file date may or may not be accurate. This file was originally uploaded to the Compuserve action games forum in 1994.",
+	"version": "faca17",
+	"date": "2013-11-02 15:10:16",
+	"files": [
+		{
+			"filename": "nj_castl.wad",
+			"size": 191159,
+			"crc": 2751492954,
+			"md5": "ec788371eac5006a5f6dbb1d44e64103",
+			"sha1": "faca1752bdbcdb6bcb61cd3a288e8b666db60701",
+			"sha256": "3abbf0e04229a3126543117c3dd489adc803751500213f0301cc7a0cb43aa432"
+		}
+	]
+}

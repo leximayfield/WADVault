@@ -1,0 +1,17 @@
+{
+	"uid": "trials (8b0ea3).wad",
+	"name": "Troubling Trials",
+	"description": "This is my first level in about 4 years. It's basicly a test for the doom guy.",
+	"version": "8b0ea3",
+	"date": "2014-12-29 15:17:23",
+	"files": [
+		{
+			"filename": "trials.wad",
+			"size": 158078,
+			"crc": 2295075204,
+			"md5": "1c10c12c4b4f7ab5306d2ed1ac747c8f",
+			"sha1": "8b0ea3d24c476f7c3570d339fbaa1046f7f07e12",
+			"sha256": "f83c70f6d422abcd1a9d8a24b03d0f7b196d316e244d4481611c3781af61a818"
+		}
+	]
+}

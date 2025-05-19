@@ -1,0 +1,17 @@
+{
+	"uid": "dethduel (143fcd).wad",
+	"name": "Death Duel",
+	"description": "Hopefully this'll be a rad deathmatch level. It's my first level made in EdMap, an awesome level editor! I haven't even played anyone on it yet, so let me know how it is.",
+	"version": "143fcd",
+	"date": "2014-12-03 20:20:21",
+	"files": [
+		{
+			"filename": "dethduel.wad",
+			"size": 96321,
+			"crc": 579505049,
+			"md5": "4d90638c6e863776e92183b408d3fcc2",
+			"sha1": "143fcd1824201a29666a2c3fa4fa765bb659233e",
+			"sha256": "af7a5b6d6a7ba79fcff3d6e5eb9e0dbe78ea832ae52abe3d8cdeeca9de6087a5"
+		}
+	]
+}

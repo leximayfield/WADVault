@@ -1,0 +1,16 @@
+{
+	"uid": "pitfall.wad",
+	"name": "Pitfall",
+	"description": "Well, this is my first Doom WAD and personally, I think it's pretty good. You will find just about anything on this level. The only thing I left out was the Spider Demon. (Too much of a bad ass!!!)",
+	"date": "2013-11-04 20:14:35",
+	"files": [
+		{
+			"filename": "pitfall.wad",
+			"size": 47455,
+			"crc": 4050256967,
+			"md5": "d5994393835c59f7dd5202a3621b7b81",
+			"sha1": "7ca704ce89b65cdb5c5a7d9dc5a1caceac520eef",
+			"sha256": "868aa0dbabde12508f7f7aaac16b8503848b6c07e12e720f5d88e13d95a675f2"
+		}
+	]
+}

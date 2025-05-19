@@ -1,0 +1,17 @@
+{
+	"uid": "jailhous (262f1f).wad",
+	"name": "JAILHOUS.WAD",
+	"description": "More hell unleashed--this time in a prison on Diemos.",
+	"version": "262f1f",
+	"date": "2013-11-02 15:37:59",
+	"files": [
+		{
+			"filename": "jailhous.wad",
+			"size": 30310,
+			"crc": 2217587347,
+			"md5": "c5481e7025250081c95fd84d88eaa69b",
+			"sha1": "262f1fa7468a27198070522fab2df5e6eeacb540",
+			"sha256": "70a6d6b5e368b3939d4e3d71e8964d3f8045ffa0dde49f17222178996b3059b2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "mstie.wad",
+	"name": "MST 3000 Sound FX (for DOOM or DOOM 2)",
+	"description": "This wad replaces quite a few of the sounds in the game. I tried to get the levels pretty consistent, but some of my tapes are old. Those tapes didn't come out very loud even with the gain cranked up. I hope you enjoy this wad, I had a fun time making it going through all my tapes for a weekend.",
+	"date": "2015-09-14 23:33:37",
+	"files": [
+		{
+			"filename": "mstie.wad",
+			"size": 1241212,
+			"crc": 3679735886,
+			"md5": "46019a33498ef3bee657383e9e0217e4",
+			"sha1": "44b7a5d86c25c823dbe8951fd52a15c4e3d06323",
+			"sha256": "9e4731238dc583d612e534a9b8221ebdd33f281ec43eda115cf47ff7b742764e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "icebase.wad",
+	"name": "Ice Base",
+	"description": "A deathmatch level for Skulltag set in an icy landscape. Fight in the base itself, in the ice cave, on the frozen lake, or out on the snow. All Skulltag weapons and runes are included to make a more interesting fight.",
+	"date": "2013-04-19 04:50:22",
+	"files": [
+		{
+			"filename": "icebase.wad",
+			"size": 596373,
+			"crc": 1627886695,
+			"md5": "56f303ecee179a6042a9d08ff0c7ff26",
+			"sha1": "32c1b61e4977954d16172de44cc8244f3c2a2f6f",
+			"sha256": "7b5d00a40d1a5efd47132528ba6e8579311481dc831e08305f97f0683f8bef27"
+		}
+	]
+}

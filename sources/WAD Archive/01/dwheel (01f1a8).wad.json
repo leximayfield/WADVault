@@ -1,0 +1,17 @@
+{
+	"uid": "dwheel (01f1a8).wad",
+	"name": "Death on wheels (Dwheel.wad)",
+	"description": "This is my first try at making a DOOM level... it's pretty tough so be careful!!",
+	"version": "01f1a8",
+	"date": "2013-11-04 20:18:23",
+	"files": [
+		{
+			"filename": "dwheel.wad",
+			"size": 62963,
+			"crc": 1968462771,
+			"md5": "f781105a47c33091d8f76e3745eeda67",
+			"sha1": "01f1a8f9ede3ba5d2e5a8b2a8153cd84b32174af",
+			"sha256": "4ba94fb6bccf53fbbefb7c9072b717bcbdb335e09cbdc30ff6217b0f11688896"
+		}
+	]
+}

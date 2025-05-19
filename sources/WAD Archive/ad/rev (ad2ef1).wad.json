@@ -1,0 +1,17 @@
+{
+	"uid": "rev (ad2ef1).wad",
+	"name": "Revengicide",
+	"description": "Two levels I made, might make more depending on the reviews.",
+	"version": "ad2ef1",
+	"date": "2014-12-29 09:06:50",
+	"files": [
+		{
+			"filename": "rev.wad",
+			"size": 11917202,
+			"crc": 3088173102,
+			"md5": "3357a3a906fb0590ddf079c4ca0bd6a8",
+			"sha1": "ad2ef18a602ed89d6d4ac16f2041904f49be839a",
+			"sha256": "5046be6203cdb6c95f5383e23e77aace574a038b40fcfe754e154ccd2ad9afe8"
+		}
+	]
+}

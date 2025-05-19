@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (5a9d59).wad",
+	"name": "Old fortress",
+	"description": "You are on an expedition looking for old things and come across this!",
+	"version": "5a9d59",
+	"date": "2015-02-21 08:59:58",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 98560,
+			"crc": 435026268,
+			"md5": "769f4d38a14fee4b6c6dbfda3cbec010",
+			"sha1": "5a9d597527380ee71ebe2e681988eab2d9186243",
+			"sha256": "5a402d11857a961044f3d1bfa6b20c5b2fc3ea12329af6a3c22bfea6eb4312ff"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "barthex3.wad",
+	"name": "BARTHEX3.WAD",
+	"description": "HEXEN DEATHMATCH WAD. Mirrored after my famous Bartman 5. wad real battlefest. don't choose the cleric because there aren't many weapons for him. lots for mage and fighter.",
+	"date": "2013-11-02 17:11:31",
+	"files": [
+		{
+			"filename": "barthex3.wad",
+			"size": 61360,
+			"crc": 2018220260,
+			"md5": "1b7db0124b6a78f7d7b7fec0a1d942f8",
+			"sha1": "3d119e4ef521fea8aea24cb2a45b0c62e35bcde2",
+			"sha256": "013f4841f47026f07a05500bab00a078de89a3c9787462365e55366dc26b7069"
+		}
+	]
+}

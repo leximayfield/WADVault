@@ -1,0 +1,16 @@
+{
+	"uid": "burzum1.wad",
+	"name": "BURZUM1.WAD",
+	"description": "Doom2 level. I combined my first two wads, abigor with some modifications as level 1, and emperor with fixed bug and a little changed as level 2. I've seen someone is using emperor name for his wads so a decided to change name of my wad. This is a modified varsion of burzum.wad with some new sounds, new music, and new frotn screen.",
+	"date": "2014-12-15 22:18:46",
+	"files": [
+		{
+			"filename": "burzum1.wad",
+			"size": 459060,
+			"crc": 2020063372,
+			"md5": "154eb494e1e93dad9da0d3e6dfa3cb04",
+			"sha1": "48990d07d39cf72741362941a40dfc8617cd99c8",
+			"sha256": "dfb9492914bea9c94e8b100d6beb90f34c4a537b78ec39d02e7f96b7dbd9947a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "roman2.wad",
+	"name": "ROMAN2",
+	"description": "Level two of the original Roman.wad. A truely beutiful map. Look at the sun glisten on the tree limbs in the gardens. Use the temple stairs for jump & kills, and bask in the waterfall lake which hides a deadly secret.",
+	"date": "2014-12-15 21:49:54",
+	"files": [
+		{
+			"filename": "roman2.wad",
+			"size": 172401,
+			"crc": 1171946657,
+			"md5": "608c41cdc8fd855a7c92b1c6ae9b6eff",
+			"sha1": "c46884a85141da6b1a3277c6bd4eeb837729f2df",
+			"sha256": "b8be5fb4d32844919c89136abb466a71ba69b26fad2822f73e357ac412da97c3"
+		}
+	]
+}

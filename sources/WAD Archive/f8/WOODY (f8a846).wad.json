@@ -1,0 +1,17 @@
+{
+	"uid": "WOODY (f8a846).wad",
+	"name": "woody.WAD",
+	"description": "Fair sized level that is pretty basic, shoot, kill stay alive, I'm still experimenting with critter placement.",
+	"version": "f8a846",
+	"date": "2014-08-31 14:13:34",
+	"files": [
+		{
+			"filename": "WOODY.wad",
+			"size": 132288,
+			"crc": 1825524617,
+			"md5": "164ac2ce78081ca25d5146eefc7b6d71",
+			"sha1": "f8a846fc1654df9b91c4969f02f121cb53094a76",
+			"sha256": "dfe75e8cb8b07a1c955bcbd4a56d663144c4dc34dd939a1902284580d53864d8"
+		}
+	]
+}

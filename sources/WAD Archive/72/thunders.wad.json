@@ -1,0 +1,16 @@
+{
+	"uid": "thunders.wad",
+	"name": "Lightning Storm",
+	"description": "A replacement Hexen like thunderstorm sky with",
+	"date": "2014-12-29 15:25:46",
+	"files": [
+		{
+			"filename": "thunders.wad",
+			"size": 576624,
+			"crc": 2282487224,
+			"md5": "5b523ce9497f7014b43f0d92ce78f6bd",
+			"sha1": "72986d83cca8628368c06f76f0c08505b7de9c45",
+			"sha256": "99e5a8dd5713fb8b09c4ae52fb09462c2c02ec5622f47d169ef4be3caeee7fef"
+		}
+	]
+}

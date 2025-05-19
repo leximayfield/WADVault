@@ -1,0 +1,16 @@
+{
+	"uid": "courtesc.wad",
+	"name": "Courtyard Escape",
+	"description": "I like the kind of non-linear levels where you have a large open space with various structures scattered around - like Mt.Erebus in Doom and Suburbs in Doom 2. The kind of level you can replay many times. So I wanted to do something like that myself. But I also wanted the level to look good, with plenty of details and a nice theme. I decided to use the gothic texture pack rather than the overused original textures, and give it a medieval style. So this is a castle. Since there's a lot of open space, I ended up with a lot of monsters, so gameplay is rather Hell Revealed-styled. Play on skill 2 for a less overwelming experience. You start in a jail, where you have just managed to slay a guard and take his pistol (sounds familiar :-). You want to escape the castle, but to do this you'll need to find three keys for the gate. The best, most challenging way to play this is without saving, that's what I had in mind when designing it, so it should be fun for demo-recording. But you'll need some practice to do this on skill 3 and above, you'll need to know where everything is and get the strategy right. Ration the powerup spheres, and try getting the keys in different orders. Happy dooming!",
+	"date": "2014-12-15 21:21:59",
+	"files": [
+		{
+			"filename": "courtesc.wad",
+			"size": 870703,
+			"crc": 1603397180,
+			"md5": "31a8d2840218ca1cb6bfe62286e16ef4",
+			"sha1": "4bdfefb8cda5cb6c5e3401815d78f3124393a15c",
+			"sha256": "f49e98cbb8b34e8d2aaca11b5d826092febddc18950b7da21f508e5b6dcdbd4b"
+		}
+	]
+}

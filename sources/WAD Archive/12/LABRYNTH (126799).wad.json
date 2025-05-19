@@ -1,0 +1,17 @@
+{
+	"uid": "LABRYNTH (126799).wad",
+	"name": "The Labrynth",
+	"description": "Unique Deathmatch wad, with a \"dynamic\" maze configuration. The maze is below ground, but you can run across the top of it w/o falling in--nice pseudo-3D effect. Of course, you can really confuse your opponents by changing the maze around while they're in it... but there's always a way out.",
+	"version": "126799",
+	"date": "2014-11-01 14:47:37",
+	"files": [
+		{
+			"filename": "LABRYNTH.wad",
+			"size": 78027,
+			"crc": 250505163,
+			"md5": "6256aa11856185773bf5dbb6c2dec628",
+			"sha1": "126799004e796b385511f53f5ba479651d2a21d0",
+			"sha256": "045339f841d01c78824fc80d3cc3a4f1192352c1ce187f0f1a465e8998cbe4fb"
+		}
+	]
+}

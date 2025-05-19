@@ -1,0 +1,16 @@
+{
+	"uid": "endpoint.wad",
+	"name": "END POINT",
+	"description": "If you want to play this wad with doom2-plus, then you should append sprites & flats of Doom2 to the pwad: deutex.exe -append ENDPOINT.wad",
+	"date": "2016-10-17 16:57:54",
+	"files": [
+		{
+			"filename": "endpoint.wad",
+			"size": 3267973,
+			"crc": 1690618936,
+			"md5": "f839175014c1fa5057c0516af7edea43",
+			"sha1": "221782a6113117131ac3ec3e6d041958e2b50b7a",
+			"sha256": "c636b6cf7c352b3b0dfd7674d5f10365e46de1ec63583bc2a958b21fb2680018"
+		}
+	]
+}

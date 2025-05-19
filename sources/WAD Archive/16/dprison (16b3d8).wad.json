@@ -1,0 +1,17 @@
+{
+	"uid": "dprison (16b3d8).wad",
+	"name": "Deathmatch Prison (DPRISON.WAD)",
+	"description": "Deathmatch Prison is based on the simple idea that a deathmatch should involve players using one weapon of their choice, chosen before entering the battle area. All doors in the prison area stay opened when pushed until closed using one of the switches in the control room. The control block in the control room contains one switch for each cell door. The west row of switches controls cell doors for the southern cell block and the eastern row controls the northern cell block. I decided not to put an exit switch, although there IS an exit. It is located outside the prison, in the nitch to the left of the door. All far walls in the nitch will end the game when pushed.",
+	"version": "16b3d8",
+	"date": "2013-11-02 15:53:15",
+	"files": [
+		{
+			"filename": "dprison.wad",
+			"size": 74583,
+			"crc": 764286393,
+			"md5": "99cb5c78fd57aebfa7643216429b4320",
+			"sha1": "16b3d8ee7804fa1fc23e918aecc3a19c97721f1d",
+			"sha256": "e9269ee5e9d83701e942559a8ea6ad8cd2d925610ca9d5d812ce30368db92ba3"
+		}
+	]
+}

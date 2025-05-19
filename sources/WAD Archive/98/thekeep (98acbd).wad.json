@@ -1,0 +1,17 @@
+{
+	"uid": "thekeep (98acbd).wad",
+	"name": "The Keep",
+	"description": "Pretty Large E2M1 for Heretic, thanks to Reject Map Builder 2.1(82% eff.) runs well on 486sx-25.",
+	"version": "98acbd",
+	"date": "2013-11-06 21:51:03",
+	"files": [
+		{
+			"filename": "thekeep.wad",
+			"size": 243048,
+			"crc": 2523295978,
+			"md5": "50c855cb0b883957a1072778901238df",
+			"sha1": "98acbdcae24782f66065eee03d6ae5754a3cfb30",
+			"sha256": "2976ca0ca4b421a5875f20e7e82641ef6dcb3bc72199d76f3f22e02deb326c07"
+		}
+	]
+}

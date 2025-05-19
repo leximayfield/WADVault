@@ -1,0 +1,16 @@
+{
+	"uid": "boomhod.wad",
+	"name": "House of DOOM (v 3.5)",
+	"description": "After the release of Boom, I decided to test : out some of the new features of it. This : is a remake HOD30.WAD I did before with : some Boom improvements (including a pretty : (lame attempt at a car :). This level is made : for the doom mod, Boom by Team TNT; : http://www.neosoft.com/teamtnt This just : might be the first offical release of a : Boom wad.",
+	"date": "2014-12-21 16:57:38",
+	"files": [
+		{
+			"filename": "boomhod.wad",
+			"size": 561736,
+			"crc": 616505803,
+			"md5": "378f055e3aa649f792c7596994e2fa45",
+			"sha1": "45f73a799d6e3d5f7e19d60058c5d1f50f4d6638",
+			"sha256": "c7882d41b8540e0b5685204ee3ad2a81953b424ba75c0e7cbf7af3bf147f82d0"
+		}
+	]
+}

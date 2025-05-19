@@ -1,0 +1,17 @@
+{
+	"uid": "DMEYE1 (34c6cd).wad",
+	"name": "The Eye - DeathMatch!",
+	"description": "This is a DooM][ DeathMatch frag fest. It was designed with Deathmatch 1.0 (old) in mind, but is well suited for 2.0 (new) play because of the locations of the various powerups. This is a medium sized level with an intense arena area as the pupil of the eye. The exit (in the nose) is a cooperative puzzle requiring both players to exit the level. This keeps players from exiting out of frustration <G>, or by accident (yeah right). The exit also insures that two players will be equal for the next level, by giving them each a mega, and all weapons.",
+	"version": "34c6cd",
+	"date": "2014-11-01 15:00:01",
+	"files": [
+		{
+			"filename": "DMEYE1.wad",
+			"size": 146598,
+			"crc": 814160441,
+			"md5": "879943d6d4245a55014f753b17183ae6",
+			"sha1": "34c6cd1a3b06b9dc6592be72ad2f757feb65c40e",
+			"sha256": "6cf9fee7ef6d4b06d158e930c19e05e00f793178369cc4d39acf441334cfa3ce"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hanoi.wad",
+	"name": "Moon Base Hanoi",
+	"description": "A small level I made to play with ZDoom effects. I like how the level turned out.",
+	"date": "2014-12-22 19:01:50",
+	"files": [
+		{
+			"filename": "hanoi.wad",
+			"size": 22188,
+			"crc": 2687398229,
+			"md5": "41b4d0ab40879024cf1ecef6e095534c",
+			"sha1": "e6c143107643c38143355c8f0894137113d7a4d0",
+			"sha256": "bcd8643804ba68b662696c62db6f7ae2500baec694bd004e6675f627394aaa47"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "KORJAIL.wad",
+	"name": "Escape From Korax's Jail",
+	"description": "You were captured by Korax and put in jail (or gaol for some people) now you must escape and defeat Korax.",
+	"date": "2018-06-15 11:25:12",
+	"files": [
+		{
+			"filename": "KORJAIL.wad",
+			"size": 66099,
+			"crc": 202437001,
+			"md5": "deef43638a7c7456021f80e9e85927c1",
+			"sha1": "b49c717a9cb8deac8a03b94018fda491b498347a",
+			"sha256": "af028301268425dbddf5f691e4af360066b1a90c3635fb051cd4ab6cb283f7d9"
+		}
+	]
+}

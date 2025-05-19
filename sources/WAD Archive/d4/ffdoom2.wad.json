@@ -1,0 +1,16 @@
+{
+	"uid": "ffdoom2.wad",
+	"name": "Final Fantasy Doom (version 2)",
+	"description": "Final Fantasy \"the best Japanese RPG ever\" meets Doom \"the best FPS ever\".",
+	"date": "2014-07-31 12:07:00",
+	"files": [
+		{
+			"filename": "ffdoom2.wad",
+			"size": 7155004,
+			"crc": 890252286,
+			"md5": "75b6ad29f0a7927f0b424ba71bdf5063",
+			"sha1": "d4d83b5feb5c5891c7262cdbf664c84ec3eaf22d",
+			"sha256": "fc3454f57a9acd555b59763724c6754618a6fa840596edb0e6f4996826c1aa2a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hell2 (829e5b).wad",
+	"name": "Return To Hell",
+	"description": "Hell for Doom 2. Need I say more?",
+	"version": "829e5b",
+	"date": "2014-12-18 22:59:11",
+	"files": [
+		{
+			"filename": "hell2.wad",
+			"size": 86738,
+			"crc": 2595887524,
+			"md5": "102ee53a1d3bf1cf94713770136fb0cb",
+			"sha1": "829e5b7f3f53c8e03225afce5815c0921987af08",
+			"sha256": "738aeb84361f5859a5930baf7f531de05449c4b970a37b71ec0bef7d438c0d64"
+		}
+	]
+}

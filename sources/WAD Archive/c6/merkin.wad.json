@@ -1,0 +1,16 @@
+{
+	"uid": "merkin.wad",
+	"name": "merkin",
+	"description": "weird and ugly '90s-style map",
+	"date": "2015-01-06 21:41:15",
+	"files": [
+		{
+			"filename": "merkin.wad",
+			"size": 133693,
+			"crc": 2042258075,
+			"md5": "7d5cf0509aa7fb2ec8ad0d55a227a760",
+			"sha1": "c63b045bd5359c93b47c1f54e0792595a946033b",
+			"sha256": "0dd000e532ef0155152377994de5c549877d3f423a18f0ad54a46650c9797014"
+		}
+	]
+}

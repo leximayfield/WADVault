@@ -1,0 +1,16 @@
+{
+	"uid": "conf256b.wad",
+	"name": "Confinement 256: The Mystery of Scrapped Concepts",
+	"description": "Obvious Portal reference is obvious. Anyway, this map demonstrates taking much less damage from the archvile's attack by being on the other side of some physical geometry, hugging it. Also shows a monster spawner missing targets directly east and west of it, among other things that I'd rather not spoil!",
+	"date": "2019-03-19 23:57:36",
+	"files": [
+		{
+			"filename": "conf256b.wad",
+			"size": 3830810,
+			"crc": 3525040364,
+			"md5": "1fd7c90d554bde9632be1e8c5607805f",
+			"sha1": "c0ffc50a90e76f259792306e02221c1304d688d0",
+			"sha256": "8a1423ca9dad51b512b2c8c896a8722b6e4efb93dc86d4df2c848bda8072d7f3"
+		}
+	]
+}

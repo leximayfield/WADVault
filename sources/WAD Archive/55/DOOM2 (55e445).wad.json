@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (55e445).wad",
+	"name": "Doom II (Xbox Live Arcade)",
+	"version": "55e445",
+	"date": "2015-12-01 20:48:48",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14685034,
+			"crc": 1059801170,
+			"md5": "43c2df32dc6c740cb11f34dc5ab693fa",
+			"sha1": "55e445badd63d8841ebea887910c26c62c7f525e",
+			"sha256": "5d8993f8e416f3824555eaa3db8e36b306a5173b01f08651dfecc3b868b978fb"
+		}
+	]
+}

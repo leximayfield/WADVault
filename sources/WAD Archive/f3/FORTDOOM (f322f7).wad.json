@@ -1,0 +1,17 @@
+{
+	"uid": "FORTDOOM (f322f7).wad",
+	"name": "FORT DOOM",
+	"description": "Main Entrance to the DOOM Fortress!",
+	"version": "f322f7",
+	"date": "2013-11-02 23:51:47",
+	"files": [
+		{
+			"filename": "FORTDOOM.wad",
+			"size": 130876,
+			"crc": 164760225,
+			"md5": "baf40a4b6f1bdd966877885ae92c9aa9",
+			"sha1": "f322f796d497f201751c67ff12abfd815a408dd0",
+			"sha256": "a1481865b1be1e2222e19ed90daed35b6797bee96e7325dfa7dcdb2ac0151853"
+		}
+	]
+}

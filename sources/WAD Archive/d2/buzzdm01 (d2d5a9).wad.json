@@ -1,0 +1,17 @@
+{
+	"uid": "buzzdm01 (d2d5a9).wad",
+	"name": "Buzzard's Arena level 1",
+	"description": "Replacement level for MAP01 for Doom II There is no particular theme or story for this wad, it is just a place where virtual people may get together and kill one another without getting any blood on their clothes.",
+	"version": "d2d5a9",
+	"date": "2013-11-06 22:52:41",
+	"files": [
+		{
+			"filename": "buzzdm01.wad",
+			"size": 133845,
+			"crc": 1000761262,
+			"md5": "9ac0845b0c64bcc154c468e07f60716b",
+			"sha1": "d2d5a9c193537756de2e750ae2204fa3e139a78c",
+			"sha256": "5119617e16265f5501677c10435fafb70e341ee446c7dd683b93867892573e4c"
+		}
+	]
+}

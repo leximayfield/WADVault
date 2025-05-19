@@ -1,0 +1,16 @@
+{
+	"uid": "frypan.wad",
+	"name": "Frying Pan",
+	"description": "An old weapon originally made for a cancelled \"Household Oddities\" where I made weapons out of random household objects. This one is from a set of 4 in total. This was made over half a year ago, so the quality isn't the greatest, though I also don't feel the need to make a new one. Also, I don't remember who/where the hitting/swinging sound is from, because it was sent to me via PM on the old Skulltag forums. I think the hand template was lifted off the ZDoom Forums, so thanks for that as well.",
+	"date": "2014-12-11 22:13:44",
+	"files": [
+		{
+			"filename": "frypan.wad",
+			"size": 161627,
+			"crc": 1591086891,
+			"md5": "93569afd37bb4e0cbe0f96144bb9f8a4",
+			"sha1": "0527c2bf1955c77e5b4c4e2834c0c2bf9d0e6840",
+			"sha256": "66f8d0a77b2383847ea008b6ea6f34b57d86db969ce7481b378c09d4ba73957a"
+		}
+	]
+}

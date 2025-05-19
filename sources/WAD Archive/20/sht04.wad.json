@@ -1,0 +1,16 @@
+{
+	"uid": "sht04.wad",
+	"name": "sht04.wad",
+	"description": "This map was supposed to be a part of a now dead community project, which is why it starts on map 4. I could never decide on a name. Nothing really special about this map but I'm releasing it just so my effort wasn't a total waste.",
+	"date": "2015-01-14 14:42:18",
+	"files": [
+		{
+			"filename": "sht04.wad",
+			"size": 503369,
+			"crc": 3814107385,
+			"md5": "4083af550707d2ccdb75a336684b2fd4",
+			"sha1": "200197fa7b98f03a407fdcdb1c834ca8755add71",
+			"sha256": "ecd503c61fd67f6f23b55c0330d072eeaf3ef57cb2dbfc614ddcf08376d31a9a"
+		}
+	]
+}

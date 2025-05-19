@@ -1,0 +1,16 @@
+{
+	"uid": "hskull1.wad",
+	"name": "HERETIC SKULL WAD I",
+	"description": "Strictly DeathMatch level with surprises. :Two wizards are put in for extra players.",
+	"date": "2013-11-02 16:39:41",
+	"files": [
+		{
+			"filename": "hskull1.wad",
+			"size": 91485,
+			"crc": 509963944,
+			"md5": "a48a9bbac84841103dcdee245092a24e",
+			"sha1": "72d6ab7258438e7fd5400c9ce08b77e87b5a8e7c",
+			"sha256": "3c32df484f2be5544a602bcafb5704cdadae3b507e4058a19d236e7a6a87a0ea"
+		}
+	]
+}

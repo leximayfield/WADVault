@@ -1,0 +1,16 @@
+{
+	"uid": "nicotine.wad",
+	"name": "Pitiful Imps",
+	"description": "2-8 Player DM (4-starts + 4randoms), replaces E2M1. Players start behind closed doors, outside the doors is a Pit full of Imps (10 in total). There are two 'safe havens' either side of the pit, and there are teleporters in the pit which will take you to the top again. Surrounding the areas ajoining the pit, there is a small circular maze including a throne room(nasty!), a courtyard with a tower and a lava moat. It is imperative that you have the monsters in and set on respawn & fast when DMing. Just play the level by yourself on NiGHTMARE first, to get the idea of WHY you should have monsters respawning/fast (NiGHTMARE DM). All weapons and Power Ups are available. Decent amount of health, although most health is in blue bottles or Beserker power ups. The level is fully circular interms of the way it \"flows\".",
+	"date": "2014-12-13 17:42:37",
+	"files": [
+		{
+			"filename": "nicotine.wad",
+			"size": 248116,
+			"crc": 794195203,
+			"md5": "05096f833f5a7f859367966a9f3bf441",
+			"sha1": "013847a5a99268a6270a28cdb89f6cea5b2c9dda",
+			"sha256": "7996a22ff887e5cc63ecd81c9148a19afe6b64d3134d0c9291ac458fd6474ddf"
+		}
+	]
+}

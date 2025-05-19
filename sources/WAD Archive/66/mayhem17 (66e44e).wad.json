@@ -1,0 +1,17 @@
+{
+	"uid": "mayhem17 (66e44e).wad",
+	"name": "Super MAYhem 17 (v1.1)",
+	"description": "Super Mayhem 17 is a 28 map set based on using assets from the various classic mario games. Maps were designed in one month with time after for making fixes and quality assurance.",
+	"version": "66e44e",
+	"date": "2018-03-28 00:16:33",
+	"files": [
+		{
+			"filename": "mayhem17.wad",
+			"size": 29040931,
+			"crc": 450963295,
+			"md5": "b985ddeb6f3a327ff907e28e70b026e0",
+			"sha1": "66e44efd54eb861fcd4b749a0653b1cc9a544a2a",
+			"sha256": "55d3dd99f25fde88668d99eba7d841523f5f4d11167a4188d2da7822e56a9aef"
+		}
+	]
+}

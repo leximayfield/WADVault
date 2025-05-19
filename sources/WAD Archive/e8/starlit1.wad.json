@@ -1,0 +1,16 @@
+{
+	"uid": "starlit1.wad",
+	"name": "StartLit Map1",
+	"description": "StarLit is a hard solo map designed to be played with the Immoral Conduct weapon mod (IC). StarLit is a survival kind of map which requires more brain than braw to get through the battles. This map has been designed so that it is almost impossible to finish without using the special features of IC weapons, such as flares. Starlit is meant to be played on Ultra violence, however the easier difficulty settings are also supported.",
+	"date": "2014-12-29 15:29:00",
+	"files": [
+		{
+			"filename": "starlit1.wad",
+			"size": 405637,
+			"crc": 2716328037,
+			"md5": "2062d51380e337d67d4da7f5607a4a79",
+			"sha1": "e807ceebb82cb232fd4db58812bfcf1a516eafb1",
+			"sha256": "1c3923154b55691035d291ba38ac16ce09baeb0319bb5e2d960e6ec1355a1bb2"
+		}
+	]
+}

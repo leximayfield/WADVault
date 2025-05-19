@@ -1,0 +1,17 @@
+{
+	"uid": "Pillars (c07eec).wad",
+	"name": "pillars.wad",
+	"description": "Utilizes all three keys, but it is a quite small level. Conserve your health. All weapons are found within. No big architectual wonders, as I kept 2 the basics. If you Deathmatch with this level, make sure you add \"-nomonsters\" to the command line!",
+	"version": "c07eec",
+	"date": "2015-01-14 22:49:19",
+	"files": [
+		{
+			"filename": "Pillars.wad",
+			"size": 34311,
+			"crc": 3691005986,
+			"md5": "d495a975334685c1709f513b2c52deb7",
+			"sha1": "c07eecdedd6ac28611b98a08204c6535d538c4a1",
+			"sha256": "78eb107f23707f0094d7b9b543d19dc880969ecabcf3faa61a504114304d69ba"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "square (b09ff2).wad",
+	"name": "SQUARE.WAD",
+	"description": "Two levels with a square-shaped ground plan, just like the original E2M1 and E2M7. Same texture set through the whole level and some good architecture",
+	"version": "b09ff2",
+	"date": "2014-12-14 20:33:58",
+	"files": [
+		{
+			"filename": "square.wad",
+			"size": 126051,
+			"crc": 870609187,
+			"md5": "6155315d9b87d4f038dfed69260dbd25",
+			"sha1": "b09ff2012bd9ed1d2799edc18a2e630507535f65",
+			"sha256": "e4fc8b208296a35bb2ba5ec8cead835dc2a2b036d6de2000f9f8bfa276bed95d"
+		}
+	]
+}

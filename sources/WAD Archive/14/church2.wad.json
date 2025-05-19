@@ -1,0 +1,16 @@
+{
+	"uid": "church2.wad",
+	"name": "Cathedral of Doom",
+	"description": "My 2nd Doom level Also, check out steps.wad",
+	"date": "2014-12-15 23:11:58",
+	"files": [
+		{
+			"filename": "church2.wad",
+			"size": 135023,
+			"crc": 1002760117,
+			"md5": "0880721416284c52fee4dead2af56b3a",
+			"sha1": "14c22df587394cf47d6bc534ceca471667010f3f",
+			"sha256": "c1e18598959dd8062ec4f7f48b9514aab6094a5578820c87d596244b883bc410"
+		}
+	]
+}

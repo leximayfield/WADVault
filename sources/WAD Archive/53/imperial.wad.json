@@ -1,0 +1,16 @@
+{
+	"uid": "imperial.wad",
+	"name": "Imperial Hobbies",
+	"description": "This is a small deathmatch wad of a two story gaming store and its immediate surroundings. With 4 players, the frags come fast and furious! There are also several secrets to give those intelligent players and enterprising explorers an edge! This is based on a REAL place: Imperial Hobbies in London, Ontario, and its immediate surroundings. Dave Carnie, the owner, has been kind enough to give me free access to his networked gaming systems for testing out my wad creations. In return, I created this wad so that he and his customers can play with shotguns in the store without having to clean up afterwards! :-) This isn't a quick knock-off though - it is well crafted, in my opinion, with close attention to playability, texture alignment, and in making the \"illusion\" of two stories as believable as I can make it. Besides, where else are you going to find a deathmatch start sitting on a toilet? But you may need to kick the vending machine. :-) If you are ever in the area, check out his store! (And see how accurate I was!) Let him know this is how you found out about his place and he'll give you a tour (and a free membership).",
+	"date": "2014-12-15 21:49:06",
+	"files": [
+		{
+			"filename": "imperial.wad",
+			"size": 145476,
+			"crc": 4082550753,
+			"md5": "15874a2ba8e591c34be3c19a895bfaeb",
+			"sha1": "53d13ce80292f6e423801275b686c0e2366192a5",
+			"sha256": "0176a1003618fe9803800b33966e7671b941f1317af1268b262a9ab569433a07"
+		}
+	]
+}

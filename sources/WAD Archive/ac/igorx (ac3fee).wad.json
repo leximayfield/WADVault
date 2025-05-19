@@ -1,0 +1,17 @@
+{
+	"uid": "igorx (ac3fee).wad",
+	"name": "The IGOR Series for DOOM ][",
+	"description": "7 levels that were designed for dm purpose but some enemies are present...",
+	"version": "ac3fee",
+	"date": "2013-11-02 15:45:26",
+	"files": [
+		{
+			"filename": "igorx.wad",
+			"size": 335276,
+			"crc": 1444047676,
+			"md5": "14be5e1b46a7e2f1b54ec811223c75d0",
+			"sha1": "ac3fee16e57bacaf526fa2c07aa45be0ce879492",
+			"sha256": "3af8b28f43d287be928bdba0e62828395d16b32e8a35fd867969668c7735c702"
+		}
+	]
+}

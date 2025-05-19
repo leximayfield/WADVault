@@ -1,0 +1,17 @@
+{
+	"uid": "mia (bc3781).wad",
+	"name": "MIA.WAD",
+	"description": "You have been sent on a covert mission to SouthEast Asia to rescue some of your old buddies from 'Nam. When you find them, they have changed. Now there is only one way to save them from their horrible fate. And what about Col. Smith?",
+	"version": "bc3781",
+	"date": "2015-12-07 10:22:00",
+	"files": [
+		{
+			"filename": "mia.wad",
+			"size": 178770,
+			"crc": 936734355,
+			"md5": "dbdae0308a25609f590d537972bed7d0",
+			"sha1": "bc3781e8e0c9b6ad2929ce49a73e7bb2d8579460",
+			"sha256": "ccf59665a27ad013695e84a6144c8a15782441f6bd89a713fb6a12d1e1726247"
+		}
+	]
+}

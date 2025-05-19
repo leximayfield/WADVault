@@ -1,0 +1,17 @@
+{
+	"uid": "CITYBAD_ (be4bfb).wad",
+	"name": "Big City",
+	"description": "Yet another PWAD for doom2. Complete with a baseball park (but the players are on strike).",
+	"version": "be4bfb",
+	"date": "2014-11-01 14:47:34",
+	"files": [
+		{
+			"filename": "CITYBAD_.wad",
+			"size": 165333,
+			"crc": 392590643,
+			"md5": "3c3bc828f0f4b50fd82552564229c0c9",
+			"sha1": "be4bfb5decc020303a709a6ba63baf6d273871ca",
+			"sha256": "2bfa1bfeedc519f88508bc4e9e246e5d910d3af379c85777abd3682baa1550d4"
+		}
+	]
+}

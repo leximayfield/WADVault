@@ -1,0 +1,17 @@
+{
+	"uid": "walltrap (a5b267).wad",
+	"name": "Walltrap ver 1.0",
+	"description": "This .WAD is a variation of a file by another Author. Great for Deathmatches. I varied it by increasing the Wall height and type and added a few enemies and weapons. Several transports to keep people out in the middle of things to keep fragging.",
+	"version": "a5b267",
+	"date": "2013-11-02 16:01:30",
+	"files": [
+		{
+			"filename": "walltrap.wad",
+			"size": 38151,
+			"crc": 3558092178,
+			"md5": "51e16ec6c13937392c89db9e4e17336c",
+			"sha1": "a5b2673e21b8947813b39fd18ea2cfe097478e5d",
+			"sha256": "89ae445facb4db1cc5b595939f1a2a97a6c7b7226d06dd340f37a0183bbbf081"
+		}
+	]
+}

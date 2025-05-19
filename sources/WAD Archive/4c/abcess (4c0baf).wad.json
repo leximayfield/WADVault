@@ -1,0 +1,17 @@
+{
+	"uid": "abcess (4c0baf).wad",
+	"name": "Abcess",
+	"description": "A heavily modernized oldschool mapset I originally finished in 1998, and which I never before released in its entirety. See Mapset History below. Mapset is optimized for pistol start, although it was originally meant for continuous play. The Blue Armor in Map01 is the only item that still helps only continuers. Although the mapset is significantly changed from the original, the goal was to retain the oldschool look and feel even wile adding detail and upping the monster counts for greater challenge.",
+	"version": "4c0baf",
+	"date": "2019-03-19 22:13:49",
+	"files": [
+		{
+			"filename": "abcess.wad",
+			"size": 4400943,
+			"crc": 1740257763,
+			"md5": "b304cd253cd397a78d6ffa3ea9e7b529",
+			"sha1": "4c0bafa602b5f08324ea6e1e55c5a706c3de50e6",
+			"sha256": "873c40f1e6abd31b424d95574f5d5e66293002695dbd7f4084f002a919acead7"
+		}
+	]
+}

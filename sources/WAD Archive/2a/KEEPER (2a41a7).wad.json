@@ -1,0 +1,17 @@
+{
+	"uid": "KEEPER (2a41a7).wad",
+	"name": "KEEPER.WAD.WAD",
+	"description": "This is a revision to the keeper.wad. It has all the bugs worked out of it. Please replace the current keeper.wad with this one. Thankyou very much.",
+	"version": "2a41a7",
+	"date": "2013-11-02 16:49:43",
+	"files": [
+		{
+			"filename": "KEEPER.wad",
+			"size": 115020,
+			"crc": 3030859512,
+			"md5": "d60cbd0115552d6fef9bf79a98d0a553",
+			"sha1": "2a41a71489403ff9e9d0bae2a02ec3d6f3428214",
+			"sha256": "35f09db9c8bfe1c4c7d0c3b980382bd9ec8f953cccf2dd45b3eb48261c328709"
+		}
+	]
+}

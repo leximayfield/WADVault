@@ -1,0 +1,17 @@
+{
+	"uid": "rookie (077edc).wad",
+	"name": "rookie1.wad",
+	"description": "Crossfire level - challenging level for 1 player. Careful with that cyber-demon !!!!!!!!!! More fun if you suicide and re-start the level with no ammo/weps. This level was basically an exercise in playability features.",
+	"version": "077edc",
+	"date": "2014-01-07 21:48:30",
+	"files": [
+		{
+			"filename": "rookie.wad",
+			"size": 100667,
+			"crc": 1740479306,
+			"md5": "575347f863cad1668f7f28ad4ffc4969",
+			"sha1": "077edc55e0a5d20ee4de4d3949943267d7dcc6f6",
+			"sha256": "dab1b72ce85d88d1977c78e5b5aa24944f0bc009446e888a35bb87f47c75d11a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "zodiac2e.wad",
+	"name": "The ZODIAC Deathmatch, 2nd edition",
+	"description": "zodiac2e.wad contains two cycles of 12 maps each, plus a bonus map. They are for Deathmatch only and need ZDoom/ Zdaemon for some special effects. Each map is dedicated to one zodiac sign. I tried to make visible the element (fire, water, earth or air) each sign belongs to.",
+	"date": "2013-04-19 04:37:13",
+	"files": [
+		{
+			"filename": "zodiac2e.wad",
+			"size": 4639064,
+			"crc": 1655458776,
+			"md5": "5f812dfddbf7fbf7affa0d43fdc9fe9b",
+			"sha1": "951fe72a7657c0956773aab7e9b832ea4c739a3c",
+			"sha256": "86c38637c6dfc25186a76ac189e68cf40690e21de9ffbbd10abe63e2d7e0a414"
+		}
+	]
+}

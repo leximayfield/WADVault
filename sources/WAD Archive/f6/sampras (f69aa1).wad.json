@@ -1,0 +1,17 @@
+{
+	"uid": "sampras (f69aa1).wad",
+	"name": "Sampras",
+	"description": "This WAD is designed for single-player and to be similar in atmosphere and difficulty to the supplied levels. Multi-player and Deathmatch starts are included however.# Named after the remakable resemblance between Spectres and Pete Sampras which I only just noticed. (Don't ya just lurve Wimbledon?)",
+	"version": "f69aa1",
+	"date": "2013-11-02 15:53:05",
+	"files": [
+		{
+			"filename": "sampras.wad",
+			"size": 95603,
+			"crc": 1967142605,
+			"md5": "55ca71ef8fda036c00139e64969b94e1",
+			"sha1": "f69aa13e8c4c78cc941d5b87bbc5ad0248ac122e",
+			"sha256": "3c6b5d25777a8604c7674c0d37561857d86ae86d0b91aeb7617aa2bb83921fe3"
+		}
+	]
+}

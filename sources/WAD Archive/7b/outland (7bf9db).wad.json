@@ -1,0 +1,17 @@
+{
+	"uid": "outland (7bf9db).wad",
+	"name": "Outland Industries",
+	"description": "A remote base in a rocky wilderness. The difficulty and general theme are meant to slot in somewhere maps 09-10 in the original Doom 2. This is my first attempt at designing a map, so brutally honest feedback would be greatly appreciated.",
+	"version": "7bf9db",
+	"date": "2018-04-16 08:22:15",
+	"files": [
+		{
+			"filename": "outland.wad",
+			"size": 172533,
+			"crc": 1600497682,
+			"md5": "613a9a767def0bed4eb800c83cddb414",
+			"sha1": "7bf9db6c2462bcba10e18f7abe69382d62ebde8b",
+			"sha256": "daf1baed1e3ee551fa2b7a8096c3955a8c13c5bb48a8fc825c97beb6651370bd"
+		}
+	]
+}

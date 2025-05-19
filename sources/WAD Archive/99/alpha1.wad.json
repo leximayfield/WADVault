@@ -1,0 +1,16 @@
+{
+	"uid": "alpha1.wad",
+	"name": "ALPHA 1 Trilogy - consisting of: ALPHA1.WAD, OOZI.WAD, ORIGIN.WAD",
+	"description": "3 fairly large levels for Doom II (tested on 1.666) following the style of the original Doom II levels. Some original (I hope) design concepts, but generally nothing real wierd or exotic. And, of course, lots of things to kill. You will need to be an experienced player, but CHEATING IS NOT NECESSARY! All beta testers could finish all 3 levels without cheat codes. Also, while intended to be played as a sequence, they were beta tested and successfully played individually (without the power-ups from previous levels). Needless to say it's a little more challenging that way.",
+	"date": "2014-12-15 22:01:42",
+	"files": [
+		{
+			"filename": "alpha1.wad",
+			"size": 431240,
+			"crc": 651447126,
+			"md5": "8db5c92aa70ec725647772a543d1f188",
+			"sha1": "99f742258c0c69c7d87a510680aaae32b0887d01",
+			"sha256": "ddb3f5bacd4d26c353ecfa1edc0baf688c3704b783f060403b85cb08d0f17a4f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "etkhaos.wad",
+	"name": "Eternal Khaos Deathmatch Levels v1.1",
+	"description": "10 deathmatch levels made by myself compiled into one WAD with new sfx and gfx. All primarily designed for 3 - 4 player deathmatches, some maybe suitable for head-to-head.",
+	"date": "2014-12-15 22:43:52",
+	"files": [
+		{
+			"filename": "etkhaos.wad",
+			"size": 1849669,
+			"crc": 3237316883,
+			"md5": "4fa299e4c2cdd134c75636f09c18d9a3",
+			"sha1": "260f32448fa02a6c053920ae06c89e89fad41942",
+			"sha256": "c84a7eba463533c7e61578b93271ca47e5e52b0884e845196f2cfe39261651f9"
+		}
+	]
+}

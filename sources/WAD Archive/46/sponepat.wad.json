@@ -1,0 +1,16 @@
+{
+	"uid": "sponepat.wad",
+	"name": "Spone patch",
+	"description": "CDoomedit, CDoombsp test map.",
+	"date": "2014-12-29 15:06:26",
+	"files": [
+		{
+			"filename": "sponepat.wad",
+			"size": 213570,
+			"crc": 1460113202,
+			"md5": "78b581c3f9730c8f0b39e03c7827f64d",
+			"sha1": "46582cba256485c621571333fbb30c676808bb53",
+			"sha256": "fa5182c92c39df9f0ee7d838471e7c17adde55b3b5c7471c4d0d4d55e7b02dfa"
+		}
+	]
+}

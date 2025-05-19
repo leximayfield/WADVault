@@ -1,0 +1,16 @@
+{
+	"uid": "pddm1.wad",
+	"name": "Warehouse DM",
+	"description": "This is my first Deathmatch wad.",
+	"date": "2014-12-15 22:30:30",
+	"files": [
+		{
+			"filename": "pddm1.wad",
+			"size": 199190,
+			"crc": 4037660780,
+			"md5": "485d7af9b364e4f70b907d5a0b6a96b4",
+			"sha1": "839bbeacd00cc5852dfbe7616b10b72f4ddca17e",
+			"sha256": "60a3e2c60541a3ea59b69cf9b22c91a7c9f06ce04f0bf63a2577ff554f866372"
+		}
+	]
+}

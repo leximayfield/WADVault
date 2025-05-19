@@ -1,0 +1,16 @@
+{
+	"uid": "nosun.wad",
+	"name": "nosun.WAD",
+	"description": "This is the first of a series of .wads I am making. I'm going to divide this into two parts:",
+	"date": "2015-09-14 22:40:56",
+	"files": [
+		{
+			"filename": "nosun.wad",
+			"size": 352778,
+			"crc": 3169501325,
+			"md5": "5acfebd7606f8f7fdb964e869624a938",
+			"sha1": "11e3eba3e6732e9f6ab17debf24bd27cc8988c89",
+			"sha256": "c84dbbc63fb01282ecbee7f6ed5c9dba38083c160501645383467eb69f08846e"
+		}
+	]
+}

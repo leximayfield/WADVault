@@ -1,0 +1,16 @@
+{
+	"uid": "repercus.wad",
+	"name": "Repercussions of Evil: The Game",
+	"description": "Behold! From HTML page to videogame screen: the seminal work of literature (http://www.fanfiction.net/s/8181390/1/Doom-Repercussions-of-Evil-Repost) now boasts a brilliant game adaptation! (For a specific definition of \"brilliant\".) Note that, due to Doom palette limitations, the mod will look better in GZDoom. This is actually an updated version of my old mod I made a few years back for the \"words to maps\" contest on Newdoom forums (http://forums.newdoom.com/showthread.php?t=35252). The objective of the contest was to choose a piece of Doom fan fiction and create an adaptation in Doom map form. Too late I've realized that the contest was for Boom-compatible maps only--derp! I've found the mod sitting on my hard drive a couple of months ago, and realized that, hey, I never released this to the public. The only problem was... well, the original mod sucked. Somehow, I managed to find enough attention span to re-make and improve it. Incidentally, I'm not the first guy to pull this concept off (see repevil.wad by Meatbag). Whose adaptation is better? His, probably. Or maybe I'm just so tired of playtesting my mod over and over that everything looks better in comparison.",
+	"date": "2014-12-29 09:11:59",
+	"files": [
+		{
+			"filename": "repercus.wad",
+			"size": 1615011,
+			"crc": 3306131704,
+			"md5": "42fa597926353f447f98d65ec6a1e243",
+			"sha1": "28b42874aa686ebbb3a52feb3281adf002e37863",
+			"sha256": "22cfe8bd898a25be40c6c94ea22da14dfb4e0559c5285e34eba50f9dc8607938"
+		}
+	]
+}

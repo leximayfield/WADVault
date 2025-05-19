@@ -1,0 +1,16 @@
+{
+	"uid": "npowh.wad",
+	"name": "Northern Powerhouse",
+	"description": "An abstract tech facility that has drained and wrecked the once-green hills and moors. If you grab or go near the initial chaingun, the entire British army will appear after five minutes. This doesn't make the map impossible, however!",
+	"date": "2018-09-30 20:28:05",
+	"files": [
+		{
+			"filename": "npowh.wad",
+			"size": 2233244,
+			"crc": 892251312,
+			"md5": "0d6a0163c20c4cb90fca7528b8d6c227",
+			"sha1": "136c8a12cb235134bdbb36534ef6f7c3a7c45719",
+			"sha256": "b3266ac447c6b707a4ca6e3d848fb4a8a2a265f37bcdda7b596d7a1c20baf7d4"
+		}
+	]
+}

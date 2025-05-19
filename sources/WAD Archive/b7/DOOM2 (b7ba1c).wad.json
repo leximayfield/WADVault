@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (b7ba1c).wad",
+	"name": "Doom 2 BFG Edition (Xbox 360)",
+	"version": "b7ba1c",
+	"date": "2015-11-30 23:44:54",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14677988,
+			"crc": 324068434,
+			"md5": "f617591a6c5d07037eb716dc4863e26b",
+			"sha1": "b7ba1c68631023ea1aab1d7b9f7f6e9afc508f39",
+			"sha256": "b18617ee588d63f2d5a6e22acc52cdc34a1fe11126f72b90cc2db392ade4ef8c"
+		}
+	]
+}

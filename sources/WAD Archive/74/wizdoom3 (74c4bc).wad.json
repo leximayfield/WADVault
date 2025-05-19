@@ -1,0 +1,17 @@
+{
+	"uid": "wizdoom3 (74c4bc).wad",
+	"name": "Wizard's Rage III, The Castle of Hell.",
+	"description": "The forces of the dark side have invited you to play in their master's castle. Be very careful, and most of all, watch your back. Not everything you see will be what it seems.",
+	"version": "74c4bc",
+	"date": "2013-11-02 16:53:11",
+	"files": [
+		{
+			"filename": "wizdoom3.wad",
+			"size": 317075,
+			"crc": 3374160636,
+			"md5": "eccb3724c9a5ec634e1ff952d03a344b",
+			"sha1": "74c4bc8fc201e20f6e1b50328ca88ca8fc7bd589",
+			"sha256": "3bc0467ebe993c0a56c1542f3c77b091544ac1811e4171520e931a8cf6a37fd1"
+		}
+	]
+}

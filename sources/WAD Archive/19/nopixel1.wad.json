@@ -1,0 +1,16 @@
+{
+	"uid": "nopixel1.wad",
+	"name": "Nopixel.wad",
+	"description": "A fair sized level with pixel-less smooth walls",
+	"date": "2015-09-15 13:41:35",
+	"files": [
+		{
+			"filename": "nopixel1.wad",
+			"size": 225968,
+			"crc": 1376845997,
+			"md5": "377acae029e93222bb3319f3d40c773b",
+			"sha1": "19fb2ea43504a5ee2d1316df22cd1a100b1c589e",
+			"sha256": "defd0f6080f6d25b21bdceedbee736bea3b92e02733edb6d59b9a785a5a9451c"
+		}
+	]
+}

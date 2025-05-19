@@ -1,0 +1,16 @@
+{
+	"uid": "anomaly2.wad",
+	"name": "The Anomaly: Part II",
+	"description": "This is my first level (there is no prequel), so don't expect too much.",
+	"date": "2014-12-13 17:31:18",
+	"files": [
+		{
+			"filename": "anomaly2.wad",
+			"size": 210944,
+			"crc": 1608256432,
+			"md5": "3c37853b2fa2d8d96b2a9c75df2c7eee",
+			"sha1": "cb9b2658caadbeb9ee9559747ebd6b029f7d383c",
+			"sha256": "e98e938ce793bcf173af074c4cf6e6d924dd298cc9e905a526f4a35d7d3960eb"
+		}
+	]
+}

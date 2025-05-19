@@ -1,0 +1,17 @@
+{
+	"uid": "terra (43acaf).wad",
+	"name": "Terra",
+	"description": "A map to doom 2",
+	"version": "43acaf",
+	"date": "2014-12-29 16:53:42",
+	"files": [
+		{
+			"filename": "terra.wad",
+			"size": 1497289,
+			"crc": 4228743675,
+			"md5": "801614581e8efa6efc0a602854bf25d3",
+			"sha1": "43acaf02a130d51eed9a80544e6a50944f4ac82c",
+			"sha256": "cf76f7e187fd97103b07feffded4de8265b0cd81028fcaf815b55a8ef241afc8"
+		}
+	]
+}

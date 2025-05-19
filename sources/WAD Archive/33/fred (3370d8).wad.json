@@ -1,0 +1,17 @@
+{
+	"uid": "fred (3370d8).wad",
+	"name": "FRED.WAD",
+	"description": "This wad includes an arena area--don't try it until you're ready...",
+	"version": "3370d8",
+	"date": "2013-11-06 21:50:56",
+	"files": [
+		{
+			"filename": "fred.wad",
+			"size": 98749,
+			"crc": 896943132,
+			"md5": "c247f1fefcc7fb5795db9e77c27c853a",
+			"sha1": "3370d882cbb0cf282c033dbe5f57b1decced08aa",
+			"sha256": "72444cc6edaa357ebffb42886b8116b11d5f4d2e66c9fc180c6b470544103850"
+		}
+	]
+}

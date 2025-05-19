@@ -1,0 +1,16 @@
+{
+	"uid": "basedm2.wad",
+	"name": "Base DM #2",
+	"description": "Base style deathmatch level. Small/medium size. Specially good for head-2-head play, but it has starts for 8 players! This level is specially designed for NEW deathmatch mode (altdeath), but propably works just as well in old deathmatch. This WAD won't work properly without BooM.",
+	"date": "2013-07-26 07:58:20",
+	"files": [
+		{
+			"filename": "basedm2.wad",
+			"size": 973199,
+			"crc": 2393860361,
+			"md5": "01faadcb40ca12f696a0f58683658424",
+			"sha1": "6f498b1c8e1ddc685d2e2637e735d3f8a1dfa747",
+			"sha256": "8f46e3d020e5530021844920a98ca52e0e7eb2302382d28f91d6dcdfcc6babae"
+		}
+	]
+}

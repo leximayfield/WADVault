@@ -1,0 +1,16 @@
+{
+	"uid": "perplexd.wad",
+	"name": "Perplexd: The Ultimate Deathmatch.",
+	"description": "This DOOM II wad was inspired by my desire for new and creative levels for DOOM II.",
+	"date": "2014-12-15 22:43:08",
+	"files": [
+		{
+			"filename": "perplexd.wad",
+			"size": 766516,
+			"crc": 957749977,
+			"md5": "43dfde4b1f16aa9b4fa9e421b258cc2e",
+			"sha1": "98012630d175be67b6c437ee641686dc675b6daa",
+			"sha256": "c6e5f59f68f713e18bbf4afb0dd1751095e8b2ed773fa8e4d5bc2d2f12545a12"
+		}
+	]
+}

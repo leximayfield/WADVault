@@ -1,0 +1,16 @@
+{
+	"uid": "HEXNWARS.wad",
+	"name": "HEXEN WARS",
+	"description": "A small level for Hexen that just plain rules in deathmatch",
+	"date": "2014-10-14 21:07:40",
+	"files": [
+		{
+			"filename": "HEXNWARS.wad",
+			"size": 55731,
+			"crc": 3030031610,
+			"md5": "a1854837037f13b0be2a17fbbcd2d12b",
+			"sha1": "142be4c386929e78e32b010410d9bf69d23a7953",
+			"sha256": "46481ac08728bc1e524046298f4b191318a397bb37da292f94d6b24de64d84ec"
+		}
+	]
+}

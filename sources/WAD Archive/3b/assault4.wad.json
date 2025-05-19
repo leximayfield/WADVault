@@ -1,0 +1,16 @@
+{
+	"uid": "assault4.wad",
+	"name": "Assault4: Mineshaft!",
+	"description": "Assault4:Mineshaft is a trio of new levels for Doom II. New graphics, new sounds, new music, and a new monster are among the highlights. We have payed close attention to detail, all textures are properly aligned and all difficultly levels have been implemented. MAP 01: Contact has been lost with the mining colony on a distant moon. You have already investigated the base to find it completely deserted. On this level you will explore the upper levels of the mining complex. Find a way to activate the lift and gain access into the lower levels of the mines. (The new monster appears near the end of this level).",
+	"date": "2014-12-15 21:47:30",
+	"files": [
+		{
+			"filename": "assault4.wad",
+			"size": 1426848,
+			"crc": 554000294,
+			"md5": "662e9301a4d027587a92ba5811ddcbc8",
+			"sha1": "3bb7c065419be3734f2ff05e06fdb3d5ee8e5c6f",
+			"sha256": "9490178da3aed5cffbdb5735526a394456678e40027916158347c31513469ac8"
+		}
+	]
+}

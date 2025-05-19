@@ -1,0 +1,17 @@
+{
+	"uid": "tgrdm2 (615b59).wad",
+	"name": "Inspratel",
+	"description": "TGRDM2 contains ten small Deathmatch maps. Version 1.00: 1 May. 2006 Original release Version 1.01: 30 April. 2008 Fixed Misalignment Textures Fixed \"BOTNAME\" bug in Skulltag 97x Series Minor map changes Unversioned Updates: 23 November. 2012 Thrashed superfluous lump Updated the WADINFO Changed WAD Version 1.41 -> 1.01 Version 1.04: 25 November. 2012 Ported the project to ZDoom! Resources used from: * Weapons Realm667 Resources * Spheres Realm667 Resources * METTILE4 flat SkullTag 96f resource * Some decorations SkullTag Resources Sadly, not everything was ported over: Runes, and some armor and health bonuses. Converted images to PNG format. Added PLAYER1 starts Removed some superfluous texture references from six sidedefs",
+	"version": "615b59",
+	"date": "2019-03-20 01:00:51",
+	"files": [
+		{
+			"filename": "tgrdm2.wad",
+			"size": 1286678,
+			"crc": 465734857,
+			"md5": "29456ace9687ee5fdc14c19e90195ffe",
+			"sha1": "615b594104fcee9047b68389d9c8a15d039c0a3c",
+			"sha256": "1bf63f2a10f5ce1961134236864c3a33df564eb0f3c271f41ff31c8fa90c3e86"
+		}
+	]
+}

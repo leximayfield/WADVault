@@ -1,0 +1,16 @@
+{
+	"uid": "ldm.wad",
+	"name": "The Lost Levels Deathmatch",
+	"description": "Its 3 Deathmatch levels by me.",
+	"date": "2014-12-14 20:34:58",
+	"files": [
+		{
+			"filename": "ldm.wad",
+			"size": 682588,
+			"crc": 2560267004,
+			"md5": "38a943c8f911f9caf8674a67f218a659",
+			"sha1": "d917b05486627fef0c8902ea65cbd014fd7c5a48",
+			"sha256": "52674a70eceead93801ff662b2e15d335c98036dd87b85e0b8063b3ba4dd206f"
+		}
+	]
+}

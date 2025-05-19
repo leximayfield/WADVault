@@ -1,0 +1,16 @@
+{
+	"uid": "mddmf.wad",
+	"name": "Mastrius DOOM Deathmatch Final",
+	"description": "My first attempt at a simple yet fun and well balanced deathmatch map.",
+	"date": "2014-12-14 20:44:48",
+	"files": [
+		{
+			"filename": "mddmf.wad",
+			"size": 41870,
+			"crc": 3516791998,
+			"md5": "633ed123b5f11ecdecd017c5b6a54a6e",
+			"sha1": "f525e9dee582b83978f6f1c2a7f05d8b0f5fca03",
+			"sha256": "b1682eb0a096c8783db01ca45592676dd0039ea2ee2560473005da0f94999e32"
+		}
+	]
+}

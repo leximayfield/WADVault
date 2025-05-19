@@ -1,0 +1,17 @@
+{
+	"uid": "cavern (e6bb77).wad",
+	"name": "Cavern",
+	"description": "A very detailed atmosphere based hunting wad for DOOM2. Takes some exploring to get used to, but the depth is there.",
+	"version": "e6bb77",
+	"date": "2016-02-07 20:27:50",
+	"files": [
+		{
+			"filename": "cavern.wad",
+			"size": 153888,
+			"crc": 2053004728,
+			"md5": "6b5db1bc3b3171433a359c59176f9363",
+			"sha1": "e6bb773a9ab47fffe6d579388ae12b5afd938420",
+			"sha256": "8d58692b3fac9fd71104688f87f9f177c85835f011430321179dc8fff3801e42"
+		}
+	]
+}

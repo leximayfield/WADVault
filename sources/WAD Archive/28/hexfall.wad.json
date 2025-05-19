@@ -1,0 +1,16 @@
+{
+	"uid": "hexfall.wad",
+	"name": "HexFall",
+	"description": "A small level for Hexen that has a room with a bunch of pillars in it.. You gotta stay up on these pillars to stay alive..While trying to kill the other guy(s)..",
+	"date": "2014-01-07 22:21:42",
+	"files": [
+		{
+			"filename": "hexfall.wad",
+			"size": 30884,
+			"crc": 574490073,
+			"md5": "65ec989cf758063e5891ed3e7a7b342f",
+			"sha1": "289be390769f549e37b88757988c9c376c32c61b",
+			"sha256": "6d9df8d6dc5fa94fe56b436e56f71727db55f3cc4dbc8a070394ca03024d9867"
+		}
+	]
+}

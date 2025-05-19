@@ -1,0 +1,17 @@
+{
+	"uid": "hellfire (f13cb4).wad",
+	"name": "Hellfire Fortress",
+	"description": "An experimental WAD that puts you in the shoes of the Unnamed Marine from the classic DOOM 1 and 2 games. It is sort of a \"deleted scene\" from the Inferno episode of DOOM.",
+	"version": "f13cb4",
+	"date": "2014-12-24 17:48:33",
+	"files": [
+		{
+			"filename": "hellfire.wad",
+			"size": 200281,
+			"crc": 838074893,
+			"md5": "ffc93ccc0e7fa152e2b75a2c2df66c5a",
+			"sha1": "f13cb444f803295ef6e00e3f103348aecd631e8d",
+			"sha256": "b7e54b31c5382d89aa208ca9dd2ad513c74ebafa31098690fa6dba42eea88e01"
+		}
+	]
+}

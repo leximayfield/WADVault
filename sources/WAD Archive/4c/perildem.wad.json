@@ -1,0 +1,16 @@
+{
+	"uid": "perildem.wad",
+	"name": "Peril Demo",
+	"description": "First off: This demo isn't to 'hype' a project, but rather to see if the community accepts the level design overall. Also, I intend to downsize the ripped music at a later date, so don't fret too much about file size. :/ Anyway, I was in the mood of a decent wad, one with good atmosphere, and various gameplay elements mixed well into the usual Doom play style of blasting baddies, with decent non-linear style. Too lazy to test out a handful of wads hoping to find such a set, I simply decided to make my own. General play notes: -There are 3D Floors, and as such an OpenGL compatible port is recommended (Though it was proven by play testers that there are other ways to complete the wad if you use various objects lying around...) -When the \"big monster\" appears, don't fight it, just run away. If it get's close, it'll stop you and you'll die instantly, and not to mention it has a powerful flame attack.",
+	"date": "2014-12-29 09:09:21",
+	"files": [
+		{
+			"filename": "perildem.wad",
+			"size": 6741234,
+			"crc": 3634479000,
+			"md5": "5330981744b68fb99a48975fdfdd34a7",
+			"sha1": "4c55adbdfb721cf6a8215e85276dfeb304af5c3e",
+			"sha256": "3a16286779b88d389e42291dd248d521540fcbb732154346783b01ad6b0855d9"
+		}
+	]
+}

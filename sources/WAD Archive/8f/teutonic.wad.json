@@ -1,0 +1,16 @@
+{
+	"uid": "teutonic.wad",
+	"name": "Teutonic Two-Pack",
+	"description": "This is a two wad combo, intended for solo and co-operative play. New graphics, new sounds, new music. In the theme I have tried to combine the settings of Doom and Wolfenstein 3D (see Story, below).",
+	"date": "2015-01-14 22:59:36",
+	"files": [
+		{
+			"filename": "teutonic.wad",
+			"size": 584316,
+			"crc": 599833299,
+			"md5": "f92290d91fa2d6f4355a89ca9e349a3a",
+			"sha1": "8fdc4e028c719744139d73d7751bf4cae04b7718",
+			"sha256": "502967cf01a83d0bc418809bf5bd03c4988fae1bbe61195b3f388181692637d4"
+		}
+	]
+}

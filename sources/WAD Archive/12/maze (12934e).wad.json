@@ -1,0 +1,17 @@
+{
+	"uid": "maze (12934e).wad",
+	"name": "The Maze",
+	"description": "A small level featuring lots of confined monsters. A great Tyson level (pistol, choppers & fists) This is also the first level I have posted anywhere",
+	"version": "12934e",
+	"date": "2015-09-15 17:15:24",
+	"files": [
+		{
+			"filename": "maze.wad",
+			"size": 44568,
+			"crc": 2007202281,
+			"md5": "470f6ea3955de81641c50781fa4663a7",
+			"sha1": "12934e2bd28195a288ce43fef436d7b832b6b507",
+			"sha256": "194c56f9ad33212e4c0417ea809ad5ff7b8864c401c86486f6140fb732b4c951"
+		}
+	]
+}

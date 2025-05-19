@@ -1,0 +1,17 @@
+{
+	"uid": "sapphire (721c5a).wad",
+	"name": "Sapphire - Orbital Research",
+	"description": "This is a medium sized map based on a space station, a research facility for engines powered by simulated black holes, maintained by the Sapphire Corps.",
+	"version": "721c5a",
+	"date": "2015-08-21 03:26:06",
+	"files": [
+		{
+			"filename": "sapphire.wad",
+			"size": 14128972,
+			"crc": 2657614927,
+			"md5": "053cff6cd69e1478d6cddc64457fbd05",
+			"sha1": "721c5a3b21560147f78ea061c2f22a8ed56bfb9d",
+			"sha256": "01b1fab7eef9116145d7787dd3e2cf28da53a0dd403ea1190884e9187f7ced07"
+		}
+	]
+}

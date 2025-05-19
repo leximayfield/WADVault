@@ -1,0 +1,16 @@
+{
+	"uid": "bughunt.wad",
+	"name": "Bughunt",
+	"description": "I seem to have lost the original zip file with the original text file, so here's a new one",
+	"date": "2014-12-21 17:11:25",
+	"files": [
+		{
+			"filename": "bughunt.wad",
+			"size": 1765656,
+			"crc": 2885898993,
+			"md5": "f2621975700c7319f69b7249bab301e0",
+			"sha1": "654e837a0781420ea1f8a5538a4c775614b3c2f9",
+			"sha256": "25d841c501e1e7f44b10080f191c588a37b225a92a67595eec0e12a0f2d3671a"
+		}
+	]
+}

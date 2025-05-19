@@ -1,0 +1,16 @@
+{
+	"uid": "foolstar.wad",
+	"name": "April Fools STARTAN Maps of Any Quality",
+	"description": "April Fools 2015 STARTAN Challenge Project: Make a map using PRIMARILY Doom Builder's default Doom 2 textures (STARTAN2, FLOOR0_1, CEIL1_1). You can use other textures too, even custom textures if you want, but use primarily the default ones. Format, compatibility, map size, gameplay style and your effort doesn't matter. All maps are accepted unless they're malicious. Custom music is allowed, but D_RUNNIN is preferred.",
+	"date": "2015-09-14 19:57:27",
+	"files": [
+		{
+			"filename": "foolstar.wad",
+			"size": 2712055,
+			"crc": 392427008,
+			"md5": "27643370e5314d298c9b28b3372f2606",
+			"sha1": "1a47be5bb4897facdbfd2506550f7fa4bea9280e",
+			"sha256": "5c81aa20b4f4b3b3cd2901259a362b3632605f9dc71ba73edae6b86549cf0289"
+		}
+	]
+}

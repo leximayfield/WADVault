@@ -1,0 +1,17 @@
+{
+	"uid": "hunger1 (c8944f).wad",
+	"name": "HUNGER1.WAD",
+	"description": "There's no real theme to this WAD file. It's just a good ole fashioned shoot-em up. I hope you've practiced killing the Barons of Hell with the chain gun because you'll have to do that in one spot. Lots of guys to shoot and lots of places to see. Revised to support deathmatches.",
+	"version": "c8944f",
+	"date": "2014-01-04 11:56:00",
+	"files": [
+		{
+			"filename": "hunger1.wad",
+			"size": 170176,
+			"crc": 2143725468,
+			"md5": "695761839dd380ee162f24565e6a2fe8",
+			"sha1": "c8944fde7c1d362d6cc411f8e3d05b6c611d69fa",
+			"sha256": "ed63caaea21cbdc2801efe212e1a5c0b44841c99276a56051eda6d7906b60989"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hotplace.wad",
+	"name": "A Hot Place",
+	"description": "The obvious theme is host to firey caves. This one is pretty short with a few secrets and nice monster hives. Nothing a little circular strafing won't take care of.",
+	"date": "2014-12-18 23:21:08",
+	"files": [
+		{
+			"filename": "hotplace.wad",
+			"size": 123277,
+			"crc": 3477084828,
+			"md5": "6cc75fc4432a2f304b1577df6aa265b8",
+			"sha1": "b483f93eaf3db7bde6e7e40825c7a69580ffd030",
+			"sha256": "e428d102bce4db1df8cef2edd5dd015b30ffaa79aa874f8f9f9427ff713e59c4"
+		}
+	]
+}

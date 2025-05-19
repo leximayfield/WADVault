@@ -1,0 +1,17 @@
+{
+	"uid": "alcatraz (c5412f).wad",
+	"name": "ALCATRAZ.WAD",
+	"description": "Can you escape from the Phobos Alcatraz? You are charged with 1st degree alien murder from the 1st, 2nd, and 3rd episodes!",
+	"version": "c5412f",
+	"date": "2013-11-02 16:06:36",
+	"files": [
+		{
+			"filename": "alcatraz.wad",
+			"size": 80759,
+			"crc": 1570052977,
+			"md5": "2fc0170570215674506363efbc25f588",
+			"sha1": "c5412f900aac033ee4d767ea21e10fd0e2867ae5",
+			"sha256": "7ae003bc936643c3eff268f13c962a613d9319de144ee27e2a28c914c093ef8f"
+		}
+	]
+}

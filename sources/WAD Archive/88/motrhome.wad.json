@@ -1,0 +1,16 @@
+{
+	"uid": "motrhome.wad",
+	"name": "MOTRHOME.WAD",
+	"description": "You board a motorhome, and end up in traffic infested",
+	"date": "2015-01-13 21:42:01",
+	"files": [
+		{
+			"filename": "motrhome.wad",
+			"size": 246583,
+			"crc": 930681360,
+			"md5": "208edd56ae931ac5d1293c3fa61fcc47",
+			"sha1": "8853b2dc0a10229eb1e3b12a0a439533be0476a0",
+			"sha256": "db0b9c7c28cf25617db1d7627c1944178f9658687407510582734761364fe3f1"
+		}
+	]
+}

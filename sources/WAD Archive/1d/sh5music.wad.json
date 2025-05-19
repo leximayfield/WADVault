@@ -1,0 +1,16 @@
+{
+	"uid": "sh5music.wad",
+	"name": "10 MUS PAK",
+	"description": "10 mus files to go along with my 10- PAK wad. It will also work with the regular DooM 2 levels or any other D2 pwads you may load. Made to match the 10-PAK levels however as the speed of the song is matched to the size of the level being played. Most of the songs are by Led Zeppelin which seem to be a DooM natural!",
+	"date": "2015-01-14 23:08:08",
+	"files": [
+		{
+			"filename": "sh5music.wad",
+			"size": 300591,
+			"crc": 3092163401,
+			"md5": "122f2bcda77e6c474e1daf1425d79795",
+			"sha1": "1da7602eefc8ba69fbeaccf7d567fb2f0bc15c79",
+			"sha256": "5a0ea6cbc275159e7d2dc664d5762519491b3eec344e9777502dfacb0c177f97"
+		}
+	]
+}

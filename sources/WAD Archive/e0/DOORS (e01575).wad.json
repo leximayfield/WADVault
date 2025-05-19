@@ -1,0 +1,17 @@
+{
+	"uid": "DOORS (e01575).wad",
+	"name": "Doors",
+	"description": "I learned how to make doors finally and so decided to go a little crazy with it. I'm still learning how to use many of the powerful features that are found in DEU and enjoying playing my own creations. There are LOTS of doors to open, and are secret. As I was creating the game, I found some idiosyncracies in the game that were unexpected and so incorporated them into game play. This is a tough level to play due to the large number of creatures, so be ready!",
+	"version": "e01575",
+	"date": "2013-11-02 15:17:10",
+	"files": [
+		{
+			"filename": "DOORS.wad",
+			"size": 110607,
+			"crc": 2165583958,
+			"md5": "dfa161a294ec4fc97cc881aaa540c341",
+			"sha1": "e0157550bd105c95ea8325a31c8bb70ba42ae5ed",
+			"sha256": "b7bb4a60df59ea38fbebe3c2167c5e5fb38f4202f3072c5bf2bcf3586f5784ad"
+		}
+	]
+}

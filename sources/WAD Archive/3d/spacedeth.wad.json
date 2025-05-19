@@ -1,0 +1,16 @@
+{
+	"uid": "spacedeth.wad",
+	"name": "SPACEDETH.WAD",
+	"description": "The colonial space station in sector 13d has been overrun by unknown invaders. Communications with the station are out, and any rescue mission launched is weeks away. By sheer coincidence, you are nearby scouting uncharted planets for colonization. Your new orders are to fly a shuttle close to the station while avoiding detection, teleport on board, look for survivors and exterminate anything else that moves. Then, you are to find the nuclear reactor and set it to self destruct, so that the aliens can\u00d5t reinfest and adapt our technologies for their own uses.",
+	"date": "2018-08-01 14:32:02",
+	"files": [
+		{
+			"filename": "spacedeth.wad",
+			"size": 335121,
+			"crc": 3434460288,
+			"md5": "7c52ea796f2af87248ffd4308782ef36",
+			"sha1": "3d305617660f04adba95551eaf57b69e2c1f1bc9",
+			"sha256": "e88616bac1f849c63f38706e509205936c01ce9f3b49c84ff0bd495ec995511b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zealot (03adc0).wad",
+	"name": "Zealot",
+	"description": "First it should be a Single Player only level. Then I decided to include a Deathmatcharea. And now the Deathmatcharea is better then the Single Player Part! My betatesters said also that it is'nt that good as Single Player - so you maybe want to use this as DM only Level. The Deathmatcharea contains a separate exit, different weapons etc. So give it a try!",
+	"version": "03adc0",
+	"date": "2014-12-03 20:06:26",
+	"files": [
+		{
+			"filename": "zealot.wad",
+			"size": 313714,
+			"crc": 1004883829,
+			"md5": "9b824696f73f3788d7089ee5135ed507",
+			"sha1": "03adc03a15d0d1ca9efa5d880c6a6ea5ea8c740b",
+			"sha256": "0321c1217ee48a05c023fd7e82d2db60e42d26de078e0baa91ecfb2e6ce5d29f"
+		}
+	]
+}

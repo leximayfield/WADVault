@@ -1,0 +1,17 @@
+{
+	"uid": "school (f54fa6).wad",
+	"name": "School",
+	"description": "Based on my own high school, includes plenty of hiding spots and long hallways.",
+	"version": "f54fa6",
+	"date": "2014-12-15 22:04:02",
+	"files": [
+		{
+			"filename": "school.wad",
+			"size": 57547,
+			"crc": 2282352549,
+			"md5": "bb40f67e5a051144889e09fcd30bffae",
+			"sha1": "f54fa67af393cc922932022ed5a1cfaf67fb516b",
+			"sha256": "34a753c4828e3b1d4cbb676183f70ebfeb257d184341c1a3cfbcbd26f983c221"
+		}
+	]
+}

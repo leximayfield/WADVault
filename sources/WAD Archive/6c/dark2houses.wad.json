@@ -1,0 +1,16 @@
+{
+	"uid": "dark2houses.wad",
+	"name": "A Tale of Two Houses and a Small Fortress (Tweak Edition)",
+	"description": "This edition combined the three wads together with added new sky and music. GZDoom features like 3D floor, mirrors, and swimmable water. A simple fortress wad and two simple house wads. MAP01: Known as \"The Dark Fortress (Version 2)\" MAP02: Known as \"The House That Sits in the Center\" MAP03: Known as \"Main3\" (bonus revised edition of Main2.wad, first house map from 1996)",
+	"date": "2018-09-30 20:23:40",
+	"files": [
+		{
+			"filename": "dark2houses.wad",
+			"size": 18840982,
+			"crc": 2881762127,
+			"md5": "8a9b140dfb785c73bc047032e268fe1e",
+			"sha1": "6c05522a0e81566ed78c06f27224f9db8a09bb57",
+			"sha256": "4d657c8476cebbef046dcfacaa607198d32b0b74f4f5c16724b216869bff70b1"
+		}
+	]
+}

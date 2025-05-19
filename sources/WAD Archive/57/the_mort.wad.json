@@ -1,0 +1,16 @@
+{
+	"uid": "the_mort.wad",
+	"name": "The Mort",
+	"description": "The Mort is a map pack that contains 4 maps, designed for Doom64EX. It can't run on any port but Doom64Ex. To Run: 1- Open the launcher. 2- Write \"-file the_mort.wad\" (without quotations) at the bottom. 3- Launch.",
+	"date": "2014-12-29 16:52:58",
+	"files": [
+		{
+			"filename": "the_mort.wad",
+			"size": 431339,
+			"crc": 2368121331,
+			"md5": "63c0c146feef66f8a5b1abbff672b3c3",
+			"sha1": "57c04bcb36a8d8a811beaa83a91eb077f53a815e",
+			"sha256": "3c2b6e11a24855aca7a15ad08add37c525f2b1bb3bb43d97f9422eb2898794fa"
+		}
+	]
+}

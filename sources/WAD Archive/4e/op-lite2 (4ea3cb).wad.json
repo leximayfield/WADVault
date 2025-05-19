@@ -1,0 +1,17 @@
+{
+	"uid": "op-lite2 (4ea3cb).wad",
+	"name": "Operation: Lightning   (DooM 2 Edition)",
+	"description": "A high-tech 21st century DooM episode that is big, innovative, good-looking, and above all, HARD! This episode pushes the DooM engine to it's very limits, and is a very extreme DooM episode.",
+	"version": "4ea3cb",
+	"date": "2018-05-28 18:34:06",
+	"files": [
+		{
+			"filename": "op-lite2.wad",
+			"size": 4568809,
+			"crc": 1396917186,
+			"md5": "4c3fb4fb4c045025146cb71211839753",
+			"sha1": "4ea3cba06db230a595f53402082aced1895d6d57",
+			"sha256": "a0da7358b9dd873e1a8137be3c02ad206e69da440a5a4bf3f900682387aa54df"
+		}
+	]
+}

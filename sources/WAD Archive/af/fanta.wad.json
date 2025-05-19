@@ -1,0 +1,16 @@
+{
+	"uid": "fanta.wad",
+	"name": "Fanta Factory",
+	"description": "A (very) short 1024 map made for the Vinesauce Doom mapping contest, run by groupmember Joel. Unfortunately it didn't make it in due to unforeseen complications. Not that bad in retrospect, since it would have been easily dwarfed by the other entries.",
+	"date": "2017-06-27 00:10:46",
+	"files": [
+		{
+			"filename": "fanta.wad",
+			"size": 2851916,
+			"crc": 1741562100,
+			"md5": "ff412ceda55aa35f22f96be6f7225bb0",
+			"sha1": "af5c5e8a9b88a7fa8c53ebb8dbd5b956cbd0a032",
+			"sha256": "c05e6131c28840b5b5553da12ded61525e9ad59644915aa0b6efbb1460e817ea"
+		}
+	]
+}

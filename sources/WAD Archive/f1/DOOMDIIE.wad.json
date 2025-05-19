@@ -1,0 +1,16 @@
+{
+	"uid": "DOOMDIIE.wad",
+	"name": "DIIE!",
+	"description": "DIIE! is the new version of IIE (the difficulty is increased) which crashed a computer with a Sound Blaster, Pro and 16 (I own a Gravis UltraSound and it does not crash). The problem was the music so I have decided to remove it. DIIE! is a big one-player (or cooperative) level for original DOOM.",
+	"date": "2014-08-30 14:31:25",
+	"files": [
+		{
+			"filename": "DOOMDIIE.wad",
+			"size": 311223,
+			"crc": 2676415911,
+			"md5": "eadcefbb7c864a1567002a6997526032",
+			"sha1": "f11606afc0355c97da3248f69f5fedb527c2b377",
+			"sha256": "209dfc97314f59fddf68883381a3e464059512bcc5c531b933c02d2945bfa0ba"
+		}
+	]
+}

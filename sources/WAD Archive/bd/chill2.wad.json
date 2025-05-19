@@ -1,0 +1,16 @@
+{
+	"uid": "chill2.wad",
+	"name": "Chill 2",
+	"description": "The grand sequel to Chill, featuring three maps previously unveiled in (and removed from) a beta of the upcoming 1-on-1 blockbuster OP Duel and two original maps built for quick, focused 1-on-1 action.",
+	"date": "2013-04-18 23:25:31",
+	"files": [
+		{
+			"filename": "chill2.wad",
+			"size": 622371,
+			"crc": 960659830,
+			"md5": "6d11930431b14813c5c6164fe6b2a961",
+			"sha1": "bd08e28c520a9d857e59b4c63ad526e8d09db92f",
+			"sha256": "191431a4f335ebf1f11afb011210f311f2e5c61af6187898d06223fd3b3898fc"
+		}
+	]
+}

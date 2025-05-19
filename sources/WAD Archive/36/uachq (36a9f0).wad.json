@@ -1,0 +1,17 @@
+{
+	"uid": "uachq (36a9f0).wad",
+	"name": "UAC Head Quarters",
+	"description": "You must infiltrate UAC-HQ, and find the main computer center to get the access codes for a shuttle so that you can get off Earth. (See the full story below) (Also see the play notes)",
+	"version": "36a9f0",
+	"date": "2013-11-02 15:22:00",
+	"files": [
+		{
+			"filename": "uachq.wad",
+			"size": 586865,
+			"crc": 3050905963,
+			"md5": "abf2b57cf26a2f487e77cb08b55e85ff",
+			"sha1": "36a9f0d6201a7b708186317fd1caceae44de608a",
+			"sha256": "2e27ab35c6d20b55e40e6af7cef4bd1a13cf37b7d3f5979870991171e7660bb9"
+		}
+	]
+}

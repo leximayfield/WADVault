@@ -1,0 +1,16 @@
+{
+	"uid": "lockdoom.wad",
+	"name": "Lock and Load!",
+	"description": "For those of you that have played locked.zip/lockedd1.zip, you probably have found a few bugs regarding the enemies, e.g. the don't stop shooting and they're dead-on all the time for accuracy. There's also a few other nasty thing's I've found regarding them, and that's already fixed. I'll be releasing that later. It'll be a Doom I and Doom II thing, so no separate downloads. Also, I will be putting hte DDFs in the wads so you don't have to make any special directories. Anyways...yes, there's a story to this (gotta explain all the weapons and such, eh? :P)",
+	"date": "2014-12-11 22:11:21",
+	"files": [
+		{
+			"filename": "lockdoom.wad",
+			"size": 1248584,
+			"crc": 2640826714,
+			"md5": "37fcd81ad2b4922b717672b7b46ee648",
+			"sha1": "d67c3911e7c08507b5f890fa8c6269ad2547caf3",
+			"sha256": "87c3b63caeeb4ffbfd4a8fc4fbe50cd9e1851875ed86172adfe8143d4ec2dcf2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "titan (fc29a6).wad",
+	"name": "Titan",
+	"description": "Earth lost contact with the scientists on Titan, one of the moons on Saturn. You've been sent to check it out.",
+	"version": "fc29a6",
+	"date": "2013-04-19 04:41:27",
+	"files": [
+		{
+			"filename": "titan.wad",
+			"size": 9007238,
+			"crc": 2081145102,
+			"md5": "0908f5139094476385f5cb50184f9311",
+			"sha1": "fc29a61f055549a251c693d7b232b8dac266d8ec",
+			"sha256": "6ff5d7321f5e789e4c80e8b1498e2589f7ea5e2bc451d750e54fb21bf530252e"
+		}
+	]
+}

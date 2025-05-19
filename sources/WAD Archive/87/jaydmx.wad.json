@@ -1,0 +1,16 @@
+{
+	"uid": "jaydmx.wad",
+	"name": "jaydmx.wad",
+	"description": "Improved DOOM II instrument mapping for 1-meg Gravis Ultrasound board .",
+	"date": "2015-09-14 23:20:22",
+	"files": [
+		{
+			"filename": "jaydmx.wad",
+			"size": 5082,
+			"crc": 3385223355,
+			"md5": "cccf7bdff8dbad2f55e4932e2986436f",
+			"sha1": "87009aab1e154878cc7e84fbf1a5f07ea2b5ddbe",
+			"sha256": "8db4edcd76e630fea5f20fc3edc810b3dbe86da935a37a5df2513f2af52247c3"
+		}
+	]
+}

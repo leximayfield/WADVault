@@ -1,0 +1,17 @@
+{
+	"uid": "ebola (0ccad3).wad",
+	"name": "Ebola: 32 Ways to Die",
+	"description": "Ebola made a TC called Hyena, so I thought it would only be fitting for me to make a Doom Project with his name on it. Essentially, this is just a fun collection of 32 badly-detailed levels, geared towards making the player die. Note: Most levels automatically exit after you die, so don't hit the space bar or you'll start the level over again. A few bugs do exist, so if you end up waiting a long time after dying, just hit space and try again. Note #2: MAP30 does not have an exit. Presumably you will just die. It's possible to survive, though. If you get stuck, that's why.",
+	"version": "0ccad3",
+	"date": "2014-12-24 17:06:41",
+	"files": [
+		{
+			"filename": "ebola.wad",
+			"size": 149922,
+			"crc": 2266083826,
+			"md5": "0085b12dc7322c7a3e98c58f27e9c5c0",
+			"sha1": "0ccad332dbf86865f6e4af097ba93e2608502e7e",
+			"sha256": "5cc27b00d834dfa114ba6904a3ec2ac9e955697f3469c32b282f8fb5fe2c0f48"
+		}
+	]
+}

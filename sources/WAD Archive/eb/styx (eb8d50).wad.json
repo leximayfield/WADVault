@@ -1,0 +1,17 @@
+{
+	"uid": "styx (eb8d50).wad",
+	"name": "Styx",
+	"description": "Nothing Special. A simple classic vanilla WAD for Doom or Ultimate Doom with no real story behind it. Just maps. Basically a compilation of some of my very old work, started in June 2003 and ended in December 2003 but never realeased. After 6 years, touched them up, added detail, Improved gameplay and released.",
+	"version": "eb8d50",
+	"date": "2014-12-13 12:45:17",
+	"files": [
+		{
+			"filename": "styx.wad",
+			"size": 2405738,
+			"crc": 2429851641,
+			"md5": "aff83091f8763fcde89ea7c4a5efdc14",
+			"sha1": "eb8d50c78b909f5d03b22adccc473170d3912918",
+			"sha256": "f78e0096af343920cbaaa6a217a4e39b269694145c12e224a56404f35b1e952f"
+		}
+	]
+}

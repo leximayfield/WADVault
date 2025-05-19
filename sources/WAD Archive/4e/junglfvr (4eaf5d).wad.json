@@ -1,0 +1,17 @@
+{
+	"uid": "junglfvr (4eaf5d).wad",
+	"name": "Jungle Fever",
+	"description": "Looks and feels like a jungle. (At least to me.)",
+	"version": "4eaf5d",
+	"date": "2014-01-07 22:17:54",
+	"files": [
+		{
+			"filename": "junglfvr.wad",
+			"size": 179499,
+			"crc": 1141307484,
+			"md5": "4ab58762a282349dfde3db4f4cd75e75",
+			"sha1": "4eaf5d0a32c78279b81d5be5819b8cd0c361d731",
+			"sha256": "77565b462bb22c65fe3542f4020af1e6c567a2d95ed737ee493dee2ea495c8d6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "recnite.wad",
+	"name": "Recurring Nightmare",
+	"description": "A speedmap I made for a speedmapping project, which I subsequently decided to instead release stand-alone. Original version of the map was made in a little under 4 hours, and the final version took an extra 2-3 hours of additional polishing, gameplay tweaking, automap cleanup, and all that other lovely stuff. The speedmapping stipulations I followed for this map were: use only 6 textures & 6 flats (not including skies); and 46 monsters. I decided to round up the monster count to a clean ~~~50 Monsters~~~ when I was polishing the gameplay.",
+	"date": "2017-11-27 12:30:32",
+	"files": [
+		{
+			"filename": "recnite.wad",
+			"size": 201267,
+			"crc": 1678881453,
+			"md5": "f5a03f8902aa3a04d582f28320c2ef0e",
+			"sha1": "a2a4f12c7d56cfae8e0f82d86efd2644570752a9",
+			"sha256": "fb4ab86c233e47673f90c2fc77759ef4d19c3b22f0a8c9aa1f743d1ab22e63a4"
+		}
+	]
+}

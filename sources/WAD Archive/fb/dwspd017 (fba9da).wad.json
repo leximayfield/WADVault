@@ -1,0 +1,17 @@
+{
+	"uid": "dwspd017 (fba9da).wad",
+	"name": "Doomworld Speedmapping Compilation #17",
+	"description": "This is a compilation of the WADs entered in : Doomworld's seventeenth speedmapping exercise. : Participants were given 100 minutes to create a : Doom 2 level on a certain theme. This week's : theme was to build a canyon.",
+	"version": "fba9da",
+	"date": "2014-12-22 18:54:43",
+	"files": [
+		{
+			"filename": "dwspd017.wad",
+			"size": 630982,
+			"crc": 2238789086,
+			"md5": "66acf6af0e0c8c71507c71ef6542714e",
+			"sha1": "fba9da6085435445b0789ee7ee33000fb570b4bc",
+			"sha256": "733dbd674ee3de87a833670b2b1a2e1afbb6506dbe392cfd46e5ff33745c2e3e"
+		}
+	]
+}

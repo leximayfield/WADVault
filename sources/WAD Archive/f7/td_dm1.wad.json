@@ -1,0 +1,16 @@
+{
+	"uid": "td_dm1.wad",
+	"name": "td_DM1 \"Simple DM\"",
+	"description": "Simple dm map for 2-4 players.",
+	"date": "2014-12-15 21:55:13",
+	"files": [
+		{
+			"filename": "td_dm1.wad",
+			"size": 108965,
+			"crc": 81966954,
+			"md5": "0df026ac0f86ee4446a428729a958f71",
+			"sha1": "f71c66588b3ab706ca2feae79af2b31497bf2063",
+			"sha256": "eee9f28c031b77e74464d5f5106aeaecc71ce3ea7dc624e1e5d02e5e737dc561"
+		}
+	]
+}

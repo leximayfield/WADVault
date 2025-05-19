@@ -1,0 +1,16 @@
+{
+	"uid": "honk.wad",
+	"name": "HONK DOOM 1",
+	"description": "Some really weird sounds a friend and I threw together one night, playing with dmaud.",
+	"date": "2015-09-14 20:34:08",
+	"files": [
+		{
+			"filename": "honk.wad",
+			"size": 336130,
+			"crc": 3342614193,
+			"md5": "c7b4d237d1f7b2e845a89faf22c6acd0",
+			"sha1": "ddbbfc928b41b121f4fb3b3f2c88c092222c46f5",
+			"sha256": "ed3444cf7a3012c1bfaffe68aa09e63e00d928d297e9703475bc72a00bb2f26e"
+		}
+	]
+}

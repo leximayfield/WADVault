@@ -1,0 +1,16 @@
+{
+	"uid": "carsur.wad",
+	"name": "Carsur",
+	"description": "2 maps for doom2.wad",
+	"date": "2014-12-15 23:01:05",
+	"files": [
+		{
+			"filename": "carsur.wad",
+			"size": 2048901,
+			"crc": 2903351761,
+			"md5": "022ccd6f2b473bab76005a92fe6faf9a",
+			"sha1": "1c154046dc1b523b7705c2c6cee338ef39c0d38e",
+			"sha256": "cd42f41ffe715b0e0a17f8c3b9dc7148ad8b737a95e1a289d44e5f17258482b5"
+		}
+	]
+}

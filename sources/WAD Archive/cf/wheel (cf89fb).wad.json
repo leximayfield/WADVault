@@ -1,0 +1,17 @@
+{
+	"uid": "wheel (cf89fb).wad",
+	"name": "The Wheel",
+	"description": "Around and around....",
+	"version": "cf89fb",
+	"date": "2013-11-02 15:13:52",
+	"files": [
+		{
+			"filename": "wheel.wad",
+			"size": 52110,
+			"crc": 198700833,
+			"md5": "0a597f45fb74a4763f752e92e979ac10",
+			"sha1": "cf89fbc96676067fe801dfe018a1e5014ac7ce36",
+			"sha256": "0194c8e95e8038d3965eb0894798a12a597b7dfbf5a34660a5724f5ca0cb77a1"
+		}
+	]
+}

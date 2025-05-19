@@ -1,0 +1,16 @@
+{
+	"uid": "sns-nomap30freelook.wad",
+	"name": "No Freelook for MAP30",
+	"description": "Disables freelook for MAP30.",
+	"date": "2013-04-21 17:42:08",
+	"files": [
+		{
+			"filename": "sns-nomap30freelook.wad",
+			"size": 236,
+			"crc": 2339891549,
+			"md5": "a7a92f674f5cba5570c568937224192d",
+			"sha1": "baaa0c0cadb026b34aada49099dfd87357e98b3d",
+			"sha256": "43be0ec73491517cc8b495e58362bb5fec34965bbaec730c75d45bb270d0f6bc"
+		}
+	]
+}

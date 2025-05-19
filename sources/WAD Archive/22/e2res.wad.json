@@ -1,0 +1,16 @@
+{
+	"uid": "e2res.wad",
+	"name": "Resource .WAD of \"Italian DooM - Episode 2\"",
+	"description": "This .WAD is the resource pack for what should have been \"Italian DooM - Episode 2: The Singularity\". It includes: - Nick Baker's graphic resource pack (textures and flats); - some textures and flats from the original \"Hellcore\" .WAD; - the armour sprites from \"Hexen\" by Raven Software; - other textures from \"DooM\", plus some modified ones; - an old version of the \"Monster Resource Pack\", with some monters slightly modified (generally health points): see the attached relative .TXT files for credits; - some monsters (Insanity Spider by Xaser and Insanity Arachnophyte by Quasar) from the \"Boss Monster Resource Pack\"; - new coloured keys, a new item (the screwdiver), few new monsters (Zombie IMP, Baby Arachnophyte and Insanity CyberMasterMind) by Buzzbomber; - the RailGun and the FireBomb Launcher by Daniel, but tweaked by Buzzbomber; - the Insanity Rifle by Kirby, tweaked by Buzzbomber; - the alarm sound from Marc Milian's \"Biovite\".",
+	"date": "2014-12-24 19:24:10",
+	"files": [
+		{
+			"filename": "e2res.wad",
+			"size": 16443744,
+			"crc": 300550071,
+			"md5": "6b4502bc0c0a7e3ee2a5da9558d25bd2",
+			"sha1": "22dea6fa42f8bc3f63950f609ca51de86d8a4aa4",
+			"sha256": "20029332f00cca6b1b95a50c71a695548bee9938954ded33f3589f8a613a54bf"
+		}
+	]
+}

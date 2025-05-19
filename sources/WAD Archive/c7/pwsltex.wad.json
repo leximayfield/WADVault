@@ -1,0 +1,16 @@
+{
+	"uid": "pwsltex.wad",
+	"name": "Powerslave Textures",
+	"description": "399 textures from Powerslave. Includes skies.",
+	"date": "2015-09-15 13:37:49",
+	"files": [
+		{
+			"filename": "pwsltex.wad",
+			"size": 4437651,
+			"crc": 755332186,
+			"md5": "907e90d9f3ecd2500cfa53617b743b4f",
+			"sha1": "c73ad3cd3ed9a2020b2d4edbe4bd876f8cce84b8",
+			"sha256": "ede62a0a6ea5c42b8424f081df24e6e4c00e79b7861cb2cfb538620d5c1429bc"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "kurfhse.wad",
+	"name": "THE KURF HOUSE",
+	"description": "Two level house with basement set up primarily for deathmatch, but works on cooperative and single player.",
+	"date": "2013-11-06 22:32:08",
+	"files": [
+		{
+			"filename": "kurfhse.wad",
+			"size": 300473,
+			"crc": 1464998712,
+			"md5": "777a7198f09ae5886551d67d146fefaf",
+			"sha1": "e63ae9dfb10d4188b5e6c294afafe2c4a0f4b9c2",
+			"sha256": "f56f5704a2be8a4a82a8d58ddeef5a9953a344d6b493cdbe6e0b801518fea89f"
+		}
+	]
+}

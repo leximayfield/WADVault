@@ -1,0 +1,16 @@
+{
+	"uid": "dmk-skin.wad",
+	"name": "DooMknight's Skin",
+	"description": "This is my skin that I use to play in ZDaemon, and Skulltag",
+	"date": "2015-09-15 18:14:17",
+	"files": [
+		{
+			"filename": "dmk-skin.wad",
+			"size": 370597,
+			"crc": 3686151855,
+			"md5": "f227b8b84814d8e3a1369203c49b56af",
+			"sha1": "a2d707314cab8e06fc3df047fc124a19ea154ac1",
+			"sha256": "1a2e0a3486750e78acba3402f487459369025431f2a5bc85f02a270557b3b2ff"
+		}
+	]
+}

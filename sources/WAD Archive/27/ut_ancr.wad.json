@@ -1,0 +1,16 @@
+{
+	"uid": "ut_ancr.wad",
+	"name": "Unreal Tournament Announcer",
+	"description": "Announcer from Unreal Tournament for Skulltag 95b",
+	"date": "2013-04-19 03:44:58",
+	"files": [
+		{
+			"filename": "ut_ancr.wad",
+			"size": 2426344,
+			"crc": 4205722351,
+			"md5": "10988f4b272128201aa5100f3945b47c",
+			"sha1": "275bba416fe5faaa386ec9bcc278e2d0295dc759",
+			"sha256": "551404201e9dd08bdb84fa6691a645aca394aa517f11bde4e10f3912a54a3efe"
+		}
+	]
+}

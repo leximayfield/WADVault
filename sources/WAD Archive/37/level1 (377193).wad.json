@@ -1,0 +1,17 @@
+{
+	"uid": "level1 (377193).wad",
+	"name": "Modified level 1 (enhanced for major fragging",
+	"description": "Modified level 1 for more challenging deathmatches. Play tested and tested. Lots of fragging good time.",
+	"version": "377193",
+	"date": "2013-11-03 17:48:19",
+	"files": [
+		{
+			"filename": "level1.wad",
+			"size": 54363,
+			"crc": 3111727518,
+			"md5": "5c97fd72ea4ab592d2f26c261e9e71c0",
+			"sha1": "377193848f9444eb1ce726a58ee540d413f8ead3",
+			"sha256": "9f5b5c754ca08bab127d9d26733b37eb9faa79ee644d234c9258085024293378"
+		}
+	]
+}

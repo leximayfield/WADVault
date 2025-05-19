@@ -1,0 +1,16 @@
+{
+	"uid": "st_4way.wad",
+	"name": "Skulltag 4-Way CTF",
+	"description": "The official set of 30 4-way CTF maps for Skulltag. The maps will also work with 1-flag CTF.",
+	"date": "2013-04-18 23:07:15",
+	"files": [
+		{
+			"filename": "st_4way.wad",
+			"size": 20247843,
+			"crc": 1568482601,
+			"md5": "5c465e196df04a4e2d6202127b9ec415",
+			"sha1": "a25f544ca8a724da74fc4e33ba59f0965bacb73b",
+			"sha256": "e3314dec0f00227ffd93e54262522a065d8e19943a399b45e68b19f5e05b3177"
+		}
+	]
+}

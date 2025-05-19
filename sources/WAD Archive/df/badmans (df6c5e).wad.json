@@ -1,0 +1,17 @@
+{
+	"uid": "badmans (df6c5e).wad",
+	"name": "Badmans for Doom II",
+	"description": "This level was made specifically for : DEATHMATCH. There are several (Hiding : Places). If you see marks on the wall : or somethin on the floor, its a good : chance you can walk thru it. All weapons : are in this level with plenty of ammo. : There is one green and one blue armor. : There is also one blue sphere, see if you : can find it.",
+	"version": "df6c5e",
+	"date": "2016-02-07 20:25:51",
+	"files": [
+		{
+			"filename": "badmans.wad",
+			"size": 45624,
+			"crc": 4133354938,
+			"md5": "5676da10f416de6134d92c5c5bd3943d",
+			"sha1": "df6c5ea1b5841e79e2c9f67f2d20bb192447a738",
+			"sha256": "0436afc8be08b41c76130d293522647cfcdf917e11f9d7a38cc0a4507e04170f"
+		}
+	]
+}

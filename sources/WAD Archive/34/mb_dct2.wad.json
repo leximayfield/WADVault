@@ -1,0 +1,16 @@
+{
+	"uid": "mb_dct2.wad",
+	"name": "Mark & Dave's DeathMatch for Doom 2 (V 5.2)",
+	"description": "The beginnings of a DeathMatch episode designed for 2 player DeathMatch.",
+	"date": "2014-12-15 21:47:43",
+	"files": [
+		{
+			"filename": "mb_dct2.wad",
+			"size": 700637,
+			"crc": 3981964728,
+			"md5": "51bbc99834a59552caa2b642254d3a3c",
+			"sha1": "346a9cfbaf8f76537d5b34cea3b4fc6042d76037",
+			"sha256": "5935c4a4fb34469c8bc9ce408296632ed8616381c66f806f90ec36fd9dccadf9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ares1 (054fe4).wad",
+	"name": "ARES1.WAD",
+	"description": "????",
+	"version": "054fe4",
+	"date": "2013-11-04 19:23:37",
+	"files": [
+		{
+			"filename": "ares1.wad",
+			"size": 443245,
+			"crc": 2027702881,
+			"md5": "a761554e1de758776f3783b06ef9ef5e",
+			"sha1": "054fe45f685a8dec7c6af93abb130cf54e3cec2c",
+			"sha256": "a55ee7cebb3a6647d9d39b7f657cb14bef6f27a3e409c7197a3e9c1c389aa882"
+		}
+	]
+}

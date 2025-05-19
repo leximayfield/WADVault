@@ -1,0 +1,16 @@
+{
+	"uid": "cyc-384.wad",
+	"name": "Congestion 384",
+	"description": "20 levels with play limited to a 384x384 square!",
+	"date": "2013-12-22 18:35:43",
+	"files": [
+		{
+			"filename": "cyc-384.wad",
+			"size": 327027,
+			"crc": 3461591272,
+			"md5": "25ded303b9df3b0720336346a6706d7a",
+			"sha1": "5cc2b495b9089a0eab53712484268d8dea804126",
+			"sha256": "d2160a1cfaa6e1fc0f2b5003210e9dd578569afab980e64a64a1be31d79c46b1"
+		}
+	]
+}

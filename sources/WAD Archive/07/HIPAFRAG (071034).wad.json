@@ -1,0 +1,17 @@
+{
+	"uid": "HIPAFRAG (071034).wad",
+	"name": "H I P A F R A G --- for DOOM ][ Deathmatch",
+	"description": "Little map, hi-tech design like Doom2 map01, corridors, rooms, but still lots of openings... makes it very high-frag! Ok from 2 to 4 players.",
+	"version": "071034",
+	"date": "2013-04-19 02:18:44",
+	"files": [
+		{
+			"filename": "HIPAFRAG.wad",
+			"size": 41731,
+			"crc": 826161496,
+			"md5": "391f2c73c02f30b8faf97181f860b75b",
+			"sha1": "0710340913952984668a475472483eec483a1fb0",
+			"sha256": "b1433df3b37346ff1f3f8f41a4bf0a6819bed78b4e0165cd8cd4839fcbba88ab"
+		}
+	]
+}

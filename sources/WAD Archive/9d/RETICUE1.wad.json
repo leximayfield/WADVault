@@ -1,0 +1,16 @@
+{
+	"uid": "RETICUE1.wad",
+	"name": "Reticula: Episode 1",
+	"description": "First episode with 10 levels for Doom2, my goal was to make some maps with varied themes and full of tricks and ambushes, minimalistic detail as usual in my maps trying to emulate the classic feel, but trying to offer more action than in my previous releases, several alphadoom textures were employed and a very few extra, as those from map06 and the sky. regardless using Doom2 stuff like items and monsters I think you'll find the maps more Doom1 resembling, except for map05 and map06 which use plenty of doom2 textures. This mapet also contains 10 new midis.",
+	"date": "2015-01-14 23:10:17",
+	"files": [
+		{
+			"filename": "RETICUE1.wad",
+			"size": 5614819,
+			"crc": 89154735,
+			"md5": "694529eaa376193db04386db9b501817",
+			"sha1": "9d56e5670f88cd1859ccb2134893db783cb69ba4",
+			"sha256": "b025d1e65639fcc658d021aa288ca5d95acc2562a86e6c9f244e75c506d51543"
+		}
+	]
+}

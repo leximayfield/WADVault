@@ -1,0 +1,16 @@
+{
+	"uid": "aerox.wad",
+	"name": "Aerox",
+	"description": "It's a duel map, frag the other player. I also remembered to add in an exit to this one, so it definitely is vanilla compatible this time. Fixes: Fixed some strange node builder glitch which resulted in an invisible, impassible wall (this kept appearing and reappearing but it should be all fixed now). It is now also tested and all misalignments are now fixed also moved one spawn.",
+	"date": "2014-12-15 21:28:08",
+	"files": [
+		{
+			"filename": "aerox.wad",
+			"size": 45132,
+			"crc": 2736611807,
+			"md5": "efeccc5e5b27a9cfd090df5c1f9059db",
+			"sha1": "04abef15f7c0dd0af5604513da2e6adcc2914cf7",
+			"sha256": "e5b343554d347b2eff747cc1a3287aec7c564e5fbfddfcfb40f6052571d35593"
+		}
+	]
+}

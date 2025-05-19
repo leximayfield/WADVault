@@ -1,0 +1,16 @@
+{
+	"uid": "halfplay.wad",
+	"name": "Half Soldier Skin For Doom Legacy",
+	"description": "A walking corpse skin, with no torso. * Note:The intestines on this character were created for a more gore patch (Doomgore 3.0) by the now defunct Doom modding team Chainsaw Productions (well, just the front view of them, actually.) Because the modding team no longer exists, the original author of the base's name and web handle were unobtainable.",
+	"date": "2013-04-19 00:29:54",
+	"files": [
+		{
+			"filename": "halfplay.wad",
+			"size": 200992,
+			"crc": 3163214603,
+			"md5": "9a92cf33670237b009f49d25bf0ba010",
+			"sha1": "7d47f7dad8cbd8f935c6364f61b7ac2ea65696e9",
+			"sha256": "5640b7305f2566e1b0d9f5b9b5c941f24df68bdd437e3796fe6668b39a279fc2"
+		}
+	]
+}

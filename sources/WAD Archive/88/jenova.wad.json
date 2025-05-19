@@ -1,0 +1,16 @@
+{
+	"uid": "jenova.wad",
+	"name": "Jenova",
+	"description": "Un mapa de mis primeros tiempos editando DooM, asi que por ello es algo tosco.",
+	"date": "2014-12-27 12:10:32",
+	"files": [
+		{
+			"filename": "jenova.wad",
+			"size": 195118,
+			"crc": 1774202019,
+			"md5": "1e3be3abba095f0d526e19efed6efb80",
+			"sha1": "88990904bf9e8b74a782c1c373d8822a651f46fc",
+			"sha256": "132d5f739246fcc74659979e49974594ced2189122e44919d7444bc232d862ba"
+		}
+	]
+}

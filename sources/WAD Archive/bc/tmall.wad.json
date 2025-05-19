@@ -1,0 +1,16 @@
+{
+	"uid": "tmall.wad",
+	"name": "Terror Mall",
+	"description": "A 4 level episode starting at e3m1 and finishing at e3m8. Unlike CPHOBOS, all of the secrets here have better hints to their existance. This episode has extensive new graphics and is built to look just like a mall with a new monster. Uses DeHackEd for new effects such as shooting computers or windows, the new monster and new text. For you deathmatch players, I have put in a button on level 3 that will take you back to level 2 for a 2 level cycle that goes until you are ready to finish. Then just go to the normal exit.",
+	"date": "2014-12-13 12:47:39",
+	"files": [
+		{
+			"filename": "tmall.wad",
+			"size": 2979724,
+			"crc": 732422838,
+			"md5": "838db5c312297bc3ba058c8d4f91cd13",
+			"sha1": "bc7f95f5e1bd26c1b0c7710af2782e5ab1783bda",
+			"sha256": "afa6d9e96b3a25c1b329aff23f6154fc2fae97d47274ee51cb48e677525b0e82"
+		}
+	]
+}

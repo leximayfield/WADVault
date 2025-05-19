@@ -1,0 +1,17 @@
+{
+	"uid": "billy (ba1fae).wad",
+	"name": "BILLY WAD",
+	"description": "",
+	"version": "ba1fae",
+	"date": "2013-11-02 15:11:22",
+	"files": [
+		{
+			"filename": "billy.wad",
+			"size": 75996,
+			"crc": 3285570143,
+			"md5": "a0a940eea182db4f4cd05ebb4196f25b",
+			"sha1": "ba1faeb8dfcc6667e591234f27ab6fbd5373e4d2",
+			"sha256": "76735e911f316543b4f2216e619e50d6818ae93f41da4899ac9e3e372bafde92"
+		}
+	]
+}

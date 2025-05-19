@@ -1,0 +1,17 @@
+{
+	"uid": "madness2 (9361b6).wad",
+	"name": "Madness",
+	"description": "More madness than ever before. Better than old madness2 wad.",
+	"version": "9361b6",
+	"date": "2015-09-15 16:41:52",
+	"files": [
+		{
+			"filename": "madness2.wad",
+			"size": 77331,
+			"crc": 1589428641,
+			"md5": "2e3b6595e28d4db690b2b6e30e0cc593",
+			"sha1": "9361b6464ebe55f5b3b70ea337c6f22612856187",
+			"sha256": "0913a7d501bacd8efc7493cfe6bfb4c90440264a7495ec3da4a5848605406098"
+		}
+	]
+}

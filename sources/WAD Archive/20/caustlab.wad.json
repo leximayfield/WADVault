@@ -1,0 +1,16 @@
+{
+	"uid": "caustlab.wad",
+	"name": "Caustic Laboratory",
+	"description": "Mysterious forces have destroyed one of UAC's chemical processing facilities and have reconstructed it to produce massive amounts of a caustic solution. It's being pumped out into various locations and will eventually make the entire surrounding area uninhabitable and leave you with no way out.",
+	"date": "2014-12-21 16:50:38",
+	"files": [
+		{
+			"filename": "caustlab.wad",
+			"size": 3795304,
+			"crc": 953411298,
+			"md5": "cb72e9d17a0d046b094b04d69cc71dae",
+			"sha1": "2014731acd0f1c988dc104233d63fa31146b832f",
+			"sha256": "a73e19fd33e6e8d6c836d8e598bdb565f31c522e31d12e394a3a49bda6df030a"
+		}
+	]
+}

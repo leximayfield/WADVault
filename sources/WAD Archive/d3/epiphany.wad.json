@@ -1,0 +1,16 @@
+{
+	"uid": "epiphany.wad",
+	"name": "Epiphany",
+	"description": "Epiphany it's a single map for Heretic which takes place in a building property of D'sparil's minions, used as a storage, sacrifices and worship to D'sparil",
+	"date": "2017-12-31 15:45:06",
+	"files": [
+		{
+			"filename": "epiphany.wad",
+			"size": 205326,
+			"crc": 1131651135,
+			"md5": "418382b8035a47102155a409fdd59c4a",
+			"sha1": "d33b625bc41024cbd8a2775dffedf6111de99cd5",
+			"sha256": "e90165c0a9da8d62bbe87bebd698eb35e380a3f5bca49d6c5f02ccd9204983d5"
+		}
+	]
+}

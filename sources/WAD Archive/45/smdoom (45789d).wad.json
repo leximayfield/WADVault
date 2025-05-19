@@ -1,0 +1,16 @@
+{
+	"uid": "smdoom (45789d).wad",
+	"name": "SMDOOM.WAD - Sailor Moon Doom II v0.65",
+	"version": "45789d",
+	"date": "2015-01-14 14:50:11",
+	"files": [
+		{
+			"filename": "smdoom.wad",
+			"size": 3462720,
+			"crc": 4255905831,
+			"md5": "c88420e00058cfd6355d2ead395912c4",
+			"sha1": "45789df534d0a9160dc0aa7dc4d864d92aa19e3a",
+			"sha256": "b9e5eb1bf59be98bd539ddf07cf6f0a8f12b400c8ad1ebc289e7ddf6022d1e55"
+		}
+	]
+}

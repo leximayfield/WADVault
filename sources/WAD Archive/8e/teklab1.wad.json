@@ -1,0 +1,16 @@
+{
+	"uid": "teklab1.wad",
+	"name": "Tek Lab 1",
+	"description": "This is the technological center that has been built on the planet Rigel 5. It is rumored that two new weapons, a plasma gun and a weapon simply called the BFG2000 have been invented by the Rigelians. You have been sent here to steal these weapons. Happy hunting.",
+	"date": "2015-01-14 23:00:53",
+	"files": [
+		{
+			"filename": "teklab1.wad",
+			"size": 293895,
+			"crc": 3089753596,
+			"md5": "34602a7def04b5fc69004689b048d84b",
+			"sha1": "8e6e23f746fb85049748a6da2d4ec09bd6d09abb",
+			"sha256": "3a6e63734150fec1b06dec87d3616261b61754e94562570563602d6ecb02c494"
+		}
+	]
+}

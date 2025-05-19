@@ -1,0 +1,15 @@
+{
+	"uid": "customs2.wad",
+	"description": "This Doom II Deathmatch PWAD simulates a customs warehouse. It is a very small, -altdeath fragfest for 2-4 players. It's not for single players and has no monsters.",
+	"date": "2014-12-15 23:00:09",
+	"files": [
+		{
+			"filename": "customs2.wad",
+			"size": 35545,
+			"crc": 2879419461,
+			"md5": "08484b69f09a5fe56f4c6f8a18409cc5",
+			"sha1": "4059ab5910c2ade5a7faffe6590660e073471099",
+			"sha256": "bb38f008f3a8e954f63dd1051be37b5c87bbdc19c19fa2e86cc1fffee44734d5"
+		}
+	]
+}

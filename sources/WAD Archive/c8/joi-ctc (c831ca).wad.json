@@ -1,0 +1,17 @@
+{
+	"uid": "joi-ctc (c831ca).wad",
+	"name": "Commando Training Camp",
+	"description": "Note!!! This level is for deathmatch only. Commando training camp is very tight and compact wad map. There are many one sided walls (for neat ambush places), high walls to walk on and narrow underground passages to crawl. But remember, just when you think you found the perfect ambush place, someone else shoots you from the back. There are many ways to get in one place in case someone blocks the other way. All the weapons are available, yes the plasmagun and BFG9000 are possible to get. If you think you get stuck in the balcony, try pushing the railing. Try pushing everywhere to find out extra goodies. There are few secret teleports for quick transport. Although this is rather small map, as deathmatch levels should be, it requires fast machine to run smoothly. This map includes special autotimer feature which automaticly sets limit for playing time. Timer is one deathmatch starting point, where are stairs to exit button. All stairs are teleports to back to game, but they work only once, so after all stairs have been used the only way out is exit button.",
+	"version": "c831ca",
+	"date": "2014-12-03 20:03:15",
+	"files": [
+		{
+			"filename": "joi-ctc.wad",
+			"size": 50817,
+			"crc": 3310366914,
+			"md5": "2b77f6e597fdbbd2f342631f6a88f86f",
+			"sha1": "c831ca1739708c773e4a9eb262c08666bb2e4275",
+			"sha256": "77aa961100958981c1d542debf1104da36df633148e181b30f177d1ff0034de4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "motion2 (eb00f4).wad",
+	"name": "MOTION2.WAD",
+	"description": "A sequel and tribute to an ancient wad called 'Motion'. I tried to keep the same theme and style, and feel i succeeded. This is NOT meant as a jokewad, I only tried to create as accurate a sequel as I could. Of course this means the map is ugly, but you might find enjoyment in it as well, particularly if you played the original map.",
+	"version": "eb00f4",
+	"date": "2014-12-14 21:07:02",
+	"files": [
+		{
+			"filename": "motion2.wad",
+			"size": 882785,
+			"crc": 2027622602,
+			"md5": "18559a13c09e3110ad827d51f92952d5",
+			"sha1": "eb00f4c76e510d571d5a085b80c704a5d3ac959c",
+			"sha256": "4735c3fa33e1225bf0be9ed1656599099a41b26db01009b0b590673fa5389c9b"
+		}
+	]
+}

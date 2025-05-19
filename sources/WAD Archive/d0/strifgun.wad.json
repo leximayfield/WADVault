@@ -1,0 +1,16 @@
+{
+	"uid": "strifgun.wad",
+	"name": "Strife Weapons!",
+	"description": "This wad replaces the graphics of all the weapons (except for the pistol and chainsaw) with the strife weapons. (yes, punching is replaced) They are perfectly transposed from strife to doom 2.",
+	"date": "2014-12-11 22:30:48",
+	"files": [
+		{
+			"filename": "strifgun.wad",
+			"size": 456596,
+			"crc": 2087095365,
+			"md5": "68890bfcf05fe45953624bf4c1747b6f",
+			"sha1": "d0a94db61ce002cd1beebb4cef27a63e6e9a46ea",
+			"sha256": "db14cbe233e05791163f51d1192d977e9d332cce5a62530fef734edc109106f2"
+		}
+	]
+}

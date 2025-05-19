@@ -1,0 +1,17 @@
+{
+	"uid": "stationx (11ddc2).wad",
+	"name": "STATIONX.WAD",
+	"description": "The genetic experiments at the Universal Acme Corp. have gotten out of hand. You must clean up the mess, find the computer control central, shut it down and destroy it.",
+	"version": "11ddc2",
+	"date": "2013-11-02 15:46:47",
+	"files": [
+		{
+			"filename": "stationx.wad",
+			"size": 109909,
+			"crc": 204370379,
+			"md5": "f10ae02ad5f57468cc760f106e018fbc",
+			"sha1": "11ddc2079192788d5f05b4feca36807d77990edb",
+			"sha256": "79b54829731282f615dc734c0820972c08ee1fb1f23283a914d2a8facb8f8533"
+		}
+	]
+}

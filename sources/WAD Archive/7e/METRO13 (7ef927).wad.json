@@ -1,0 +1,17 @@
+{
+	"uid": "METRO13 (7ef927).wad",
+	"name": "Metro13",
+	"description": "A large new level for Doom 2. Replaces level 13. The city level in Doom2 was always my favorite. I've wanted to make my own ever since I started building wads! E-mail me and tell me what you think.",
+	"version": "7ef927",
+	"date": "2014-10-20 19:54:05",
+	"files": [
+		{
+			"filename": "METRO13.wad",
+			"size": 263913,
+			"crc": 2797705951,
+			"md5": "07bc3e44ad0d1099ee3b33268a55461d",
+			"sha1": "7ef927852a48d8cd60dfa2952901a51204c65c09",
+			"sha256": "7ffda06e51e99e1aae4263b61baf24c427b4c60f3b8051a17425c840fadf73f1"
+		}
+	]
+}

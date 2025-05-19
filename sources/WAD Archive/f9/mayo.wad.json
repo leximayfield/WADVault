@@ -1,0 +1,16 @@
+{
+	"uid": "mayo.wad",
+	"name": "Mayonaise",
+	"description": "A deathmatch Wad with a massive centre elevator. Connected to the elevator chamber are rooms that are connected with stairways. The difficulty level determines the weapons available.",
+	"date": "2014-01-11 11:30:43",
+	"files": [
+		{
+			"filename": "mayo.wad",
+			"size": 38539,
+			"crc": 2390646715,
+			"md5": "250ff9d1ec3b86a309957e7718b1235d",
+			"sha1": "f9d25c67d3b039f04973b70bff5c154477186f82",
+			"sha256": "b022142115cfe3e43437b1408d7b6d87494eae6b085bf189df7041df384c05e9"
+		}
+	]
+}

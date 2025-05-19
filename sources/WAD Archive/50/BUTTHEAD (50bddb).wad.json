@@ -1,0 +1,17 @@
+{
+	"uid": "BUTTHEAD (50bddb).wad",
+	"name": "Butthead Sounds for Doom",
+	"description": "Mood, schmood. This is a large Beavis & Butthead sound file.",
+	"version": "50bddb",
+	"date": "2013-11-02 15:16:49",
+	"files": [
+		{
+			"filename": "BUTTHEAD.wad",
+			"size": 1967559,
+			"crc": 3301051087,
+			"md5": "9b8f64c811afec9e9f163005d3ca8ffa",
+			"sha1": "50bddb99eebe2e6304fb3042d68d46502a7fd2c6",
+			"sha256": "060a8bd44d70cb4a18a66cb893e4f1a11aad0d39014842b71d0433270b2573aa"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ayrton_2 (df9283).wad",
+	"name": "AYRTON_2.WAD (new version - delete old ayrton)",
+	"description": "This is a DEATHMATCH 2.0 pwad. Please play this wad with the -altdeath rules only (Doom 1.666). Old deathmatch is no fun with this pwad - you need respawning items !",
+	"version": "df9283",
+	"date": "2013-11-02 15:09:40",
+	"files": [
+		{
+			"filename": "ayrton_2.wad",
+			"size": 91134,
+			"crc": 3221348104,
+			"md5": "8b86567a1d39e736273ce33e6240d407",
+			"sha1": "df928357e3ba648d9091319a10a961c74745114d",
+			"sha256": "432cddf02fb208c3f958c097db2f02ed00bfe4109836bc8f189b0e9c7da0192b"
+		}
+	]
+}

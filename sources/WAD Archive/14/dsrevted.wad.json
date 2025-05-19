@@ -1,0 +1,16 @@
+{
+	"uid": "dsrevted.wad",
+	"name": "Dead Simple: Revisited",
+	"description": "A bit, deadly, simple and revisited :-) Initially, this would be map 07 for PAIN, but when Fredrik decided to make it doom2.exe compatible, it didnt fit in anymore",
+	"date": "2014-12-24 17:29:45",
+	"files": [
+		{
+			"filename": "dsrevted.wad",
+			"size": 107467,
+			"crc": 1313530394,
+			"md5": "6b7d03b2b36b3567d0cab308dda903a6",
+			"sha1": "143f65617571d32db446e6a64edf6f4ad8bc2c2a",
+			"sha256": "2d018c5ed81bf9cce3114019d14a6f96c450cc3d9f66e17fd45ad2ac7c003e02"
+		}
+	]
+}

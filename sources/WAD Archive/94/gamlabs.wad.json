@@ -1,0 +1,16 @@
+{
+	"uid": "gamlabs.wad",
+	"name": "Gamma Labs",
+	"description": "This map was supposed to have been a part of Doom Enigma.",
+	"date": "2014-12-18 22:56:50",
+	"files": [
+		{
+			"filename": "gamlabs.wad",
+			"size": 363855,
+			"crc": 79967365,
+			"md5": "a80457cfdc7374dd4e767eac8f101feb",
+			"sha1": "9494ad4549a7d2c8a61f3917b3a83048955266fb",
+			"sha256": "b62a11c09152a161aead641017c6bbad4fb154677646c12dd1578078e901f6fa"
+		}
+	]
+}

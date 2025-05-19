@@ -1,0 +1,17 @@
+{
+	"uid": "sltrrama (d8fc55).wad",
+	"name": "SLTRRAMA.WAD",
+	"description": "You finally get a much needed R&R, after months of 'cleaning up' on Mars. A friend of yours suggested an interesting site on Rigel V, an ancient alien city. As you enter the system you attempt contact for permission to land, but theres no response. You set the coords for landing thinking 'maybe theres interference, after all I'm still not in orbit'. As you descend you still get static, you begin to wonder... The landing pad is empty and theres no sign of life! Somethings definately wrong! No civilian base lets anyone land for free! Just as you touch down you see an awful familiar sight, cacodemons! You see the plasma balls coming at your ship, and you panic. The first thought is if they hit the fuel you're history! Into the teleporter you go, not knowiing where you'll end up, there's no time to be picky... As you rematerialize elsewhere, you hear your ship explode. The blast nearly deafens you, typical of a warp core breach. You can only assume the landing pad is now the newest crater on this world. Now there's no way back, and you've been teleported into a court with possessed troops who are looking for new targets...",
+	"version": "d8fc55",
+	"date": "2013-11-02 15:15:27",
+	"files": [
+		{
+			"filename": "sltrrama.wad",
+			"size": 96269,
+			"crc": 685312525,
+			"md5": "6851fd2333afc35e094d662e793fea0f",
+			"sha1": "d8fc553f1f529cb5bae341a9748772b44811be44",
+			"sha256": "985da725c601c5aae3aae99556d10b2da2e9c0ff3dfd77d8ed71aa4bc6dbeb64"
+		}
+	]
+}

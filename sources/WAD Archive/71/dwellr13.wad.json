@@ -1,0 +1,16 @@
+{
+	"uid": "dwellr13.wad",
+	"name": "DWELLR13.WAD for Doom II",
+	"description": "Deathmatch only PWAD Typical Dweller style of level. Small, fast paced, high frag with exit. Designed for Old DeathMatch but play it how you like it. There are no health or ammo items, as this one is VERY small and tight.",
+	"date": "2013-11-04 19:23:36",
+	"files": [
+		{
+			"filename": "dwellr13.wad",
+			"size": 87768,
+			"crc": 3488050211,
+			"md5": "4f5345c762ee4e8bba18a9ab9a7d28f1",
+			"sha1": "710e598c33580d0228efee805bbfc5c40a1b8b28",
+			"sha256": "e0c1341a64fad30419a949369a6301c74c7ec77a24b92f75ab997b5c5cc85d98"
+		}
+	]
+}

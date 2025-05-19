@@ -1,0 +1,17 @@
+{
+	"uid": "bob10 (9aaa95).wad",
+	"name": "BOB10.WAD for Doom II",
+	"description": "Deathmatch only WAD (Sorry ftp.cdrom.com guys!) Small. No exit. Plays good. Fast paced. High frag May run slow on slower machines Designed for OLD DEATHMATCH (not 2.0)",
+	"version": "9aaa95",
+	"date": "2016-02-07 20:38:57",
+	"files": [
+		{
+			"filename": "bob10.wad",
+			"size": 44174,
+			"crc": 2102701230,
+			"md5": "4cb2160d43a3433420cf3d680d24995c",
+			"sha1": "9aaa95b732822dd55588411f68202c5d581c3a11",
+			"sha256": "9cab45a62e9e77f39edb8e2fecc9848c651333d14026758678bc4e2c302cce47"
+		}
+	]
+}

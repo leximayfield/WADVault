@@ -1,0 +1,17 @@
+{
+	"uid": "cave2 (0c89b9).wad",
+	"name": "CAVE COMPLEX",
+	"description": "Under ground complex with a few interesting puzzles and great lighting effects",
+	"version": "0c89b9",
+	"date": "2013-11-02 15:57:15",
+	"files": [
+		{
+			"filename": "cave2.wad",
+			"size": 71283,
+			"crc": 513710528,
+			"md5": "435558e433d7afb7056a1a2e014976bc",
+			"sha1": "0c89b9bfc25538083148a3c0fe2d4c38b570d50a",
+			"sha256": "9460e5d9500e30519f254a3e39e1b41f2c3afdd27c8a46a7730bd21989c1ea47"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "scourge (eb6ce4).wad",
+	"name": "Scourge",
+	"description": "This level is made with rookies and serious Deathmatchers in mind, with varied terrain and viewpoints from which to snipe loved ones and enemies alike. Conserve ammo, take advantage of cover and concealment and run like hell.",
+	"version": "eb6ce4",
+	"date": "2013-11-02 15:49:42",
+	"files": [
+		{
+			"filename": "scourge.wad",
+			"size": 141881,
+			"crc": 3669051946,
+			"md5": "637205396d706b3de5bb61c6f54b40b6",
+			"sha1": "eb6ce44c5d97b0da9265395a48eb5cbd4078fcd5",
+			"sha256": "161488e5b90b992a00a712a92f009fb7487be6e3fe1b19bbf3b112a732b011ab"
+		}
+	]
+}

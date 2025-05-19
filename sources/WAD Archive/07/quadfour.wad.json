@@ -1,0 +1,16 @@
+{
+	"uid": "quadfour.wad",
+	"name": "Quadrant Four",
+	"description": "Four distinct areas linked in the middle by a common room. each area is fairly different in appearance and feel. There are High Tech, Low tech, Lava/Blood, and outdoor/telefrag caves.",
+	"date": "2013-11-03 17:44:06",
+	"files": [
+		{
+			"filename": "quadfour.wad",
+			"size": 190443,
+			"crc": 2890194449,
+			"md5": "ed18016e32fb71dfa37cd8b177695b0c",
+			"sha1": "07087d8d386f40637227fac8d357cbf73191e2b7",
+			"sha256": "75dc5fad5213dbf346119738c3a10d17b3838bcb1ffb5fcf436218b3da95697b"
+		}
+	]
+}

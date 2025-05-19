@@ -1,0 +1,16 @@
+{
+	"uid": "spooky01.wad",
+	"name": "spooky01.WAD, issue 1",
+	"description": "A small, dark, gothic style doom1 map - 262kb when unzipped. I suggest you turn the lights down for this one. I have tried to create a genuinely eerie atmosphere - lots of long shadows, silhouettes etc. Just in case you don't have Ultimate Doom, I have included the yellow sky which looks sooooooo good!!",
+	"date": "2014-12-13 17:49:13",
+	"files": [
+		{
+			"filename": "spooky01.wad",
+			"size": 267332,
+			"crc": 1062665032,
+			"md5": "af80464ea8c52ab6187f1baa11f73698",
+			"sha1": "0cdb5b350786934cae08ad90493569a1d31e7747",
+			"sha256": "51dc46138edbf30079a33eb8a138db92e740838b017d3407b3d0e395f6f79e4c"
+		}
+	]
+}

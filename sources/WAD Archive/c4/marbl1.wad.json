@@ -1,0 +1,16 @@
+{
+	"uid": "marbl1.wad",
+	"name": "Marble 1",
+	"description": "Marble and greenish textures used for this one, symmetrical pretty much.",
+	"date": "2015-01-13 21:44:09",
+	"files": [
+		{
+			"filename": "marbl1.wad",
+			"size": 246797,
+			"crc": 3572820904,
+			"md5": "a747a6dfb89ee329e457308d25806044",
+			"sha1": "c4dac0bd81d7965cd183c137b1b9fe79aab198ed",
+			"sha256": "c3c69cac96af7255ae2c7c182d66245fce40e845f03ea4245a351ea870cac2fb"
+		}
+	]
+}

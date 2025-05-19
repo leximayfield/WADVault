@@ -1,0 +1,16 @@
+{
+	"uid": "ed4_rfo1.wad",
+	"name": "Eternal DOOM IV: Return from Oblivion",
+	"description": "All maps are: (i) medieval-themed, and generally very large compared to typical DooM maps; (ii) non-linear and feature multiple paths; (iii) feature castle and fortress architecture, fights on an epic scale, and magnificent vistas. Maps 08-10 can be played in any order within the hub, and powerups & enemies are different in any given map depending on whether you play it first or play it after entering from another map. This provides additional replay value. This is a 7-map demo. TeamTNT intends to create a full megawad next. Tested with ZDooM and GZDooM",
+	"date": "2014-10-21 19:13:42",
+	"files": [
+		{
+			"filename": "ed4_rfo1.wad",
+			"size": 43451900,
+			"crc": 880640057,
+			"md5": "f1bdea885e5ff55f638ac79e3367ac49",
+			"sha1": "3f8a1a3ecdb8fd17a291a5be53f06bb9ad4f3e52",
+			"sha256": "0578cbfd4e62806582a796f1839cbde42f4c965e11dcd5bba8329d8d90bb1c56"
+		}
+	]
+}

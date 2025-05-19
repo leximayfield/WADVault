@@ -1,0 +1,17 @@
+{
+	"uid": "omen (1433c0).wad",
+	"name": "The Omen",
+	"description": "A dark haunting WAD. With much emphasis on horror and the macabre. We tried to make it as gruesome as we could without overdoing it. I think. I've made this WAD file a little less difficult. No hidden exit this time. All the weapons are in plain sight. There's also ample weapons and ammo to kill all the different monsters. Revised to support deathmatch.",
+	"version": "1433c0",
+	"date": "2014-12-13 17:35:23",
+	"files": [
+		{
+			"filename": "omen.wad",
+			"size": 136982,
+			"crc": 1414549696,
+			"md5": "4dfb2bae993231db0947b10d11ad42cf",
+			"sha1": "1433c0dbe44beb5d243226465055e041671bed44",
+			"sha256": "b1e48b2ffa599dcbe8609f0a9a3947b9d914718b06cfe64dd8312e2752cdfab3"
+		}
+	]
+}

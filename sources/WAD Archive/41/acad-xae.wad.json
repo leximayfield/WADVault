@@ -1,0 +1,16 @@
+{
+	"uid": "acad-xae.wad",
+	"name": "The Academy",
+	"description": "A map vaguely inspired by Evilution's MAP21 - Administration centre.",
+	"date": "2014-12-21 15:14:28",
+	"files": [
+		{
+			"filename": "acad-xae.wad",
+			"size": 283928,
+			"crc": 2156039113,
+			"md5": "950e9d78ac58ab2e6b952add7f8b1d85",
+			"sha1": "41d8862bce26aec945bca5cecbec85e341a543b0",
+			"sha256": "01999a2d10b087db2730679044695d1e1f127a72b03defcf57b368ec7b29471d"
+		}
+	]
+}

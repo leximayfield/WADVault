@@ -1,0 +1,17 @@
+{
+	"uid": "cybrdeth (3da300).wad",
+	"name": "Cyber Death",
+	"description": "This level has been designed with a similar theme to E2M8. It's a huge outdoor area with scores of large pillars scattered randomly about; there is a fairly large open area in the center of the level... There are quite a few lost souls flying around, but the main adversaries (for single play) are CyberDemons. Yes, that \"s\" belongs there! Here's what you will face with the various skill levels:",
+	"version": "3da300",
+	"date": "2014-12-03 20:15:45",
+	"files": [
+		{
+			"filename": "cybrdeth.wad",
+			"size": 93735,
+			"crc": 1751503416,
+			"md5": "75de57ea6b25d52378aca7f9639aa26a",
+			"sha1": "3da30037415f6ef2e6dca88b48590992be2f4b0e",
+			"sha256": "2389281f45298caca2736d802c23d00b46bb312facf3c84e95ae5e4591dd7c64"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "lvlunor.wad",
+	"name": "Level Uno Redux",
+	"description": "A level for Doom 2. A completely reworked version of the 1st pwad I made for Doom2. Looks better plays better! This file replaces lvluno.wad e-mail me and tell me what you think.",
+	"date": "2014-12-27 12:08:33",
+	"files": [
+		{
+			"filename": "lvlunor.wad",
+			"size": 263890,
+			"crc": 26491918,
+			"md5": "ac32f44541d65bf0423c31a54bc86624",
+			"sha1": "df5315863e71f74574a4644679ceb824f9d7c081",
+			"sha256": "48d25d22a85546d0e3ab82fff6de2a7dc167f47afb0730594ce90720790679bc"
+		}
+	]
+}

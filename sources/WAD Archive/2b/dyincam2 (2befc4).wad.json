@@ -1,0 +1,17 @@
+{
+	"uid": "dyincam2 (2befc4).wad",
+	"name": "DyingCamel's Demons #2",
+	"description": "A community project created by the regulars of DyingCamel's twitch stream: https://www.twitch.tv/dyingcamel",
+	"version": "2befc4",
+	"date": "2019-03-06 21:28:37",
+	"files": [
+		{
+			"filename": "dyincam2.wad",
+			"size": 33759694,
+			"crc": 740490124,
+			"md5": "146d6314d9de2a3e995f898af89ba559",
+			"sha1": "2befc45fc08913bf697c5069760ae284e5407d1b",
+			"sha256": "509d7784e564c966688de89e3fe7906504888ee81e28fd1b360dbc626bc2eb2f"
+		}
+	]
+}

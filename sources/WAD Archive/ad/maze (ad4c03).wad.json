@@ -1,0 +1,17 @@
+{
+	"uid": "maze (ad4c03).wad",
+	"name": "MAZE - A DOOM ][ replacement level",
+	"description": "This is a DEATHMATCH ONLY wad..no wimpy mosters to get in the way.",
+	"version": "ad4c03",
+	"date": "2013-11-03 17:47:01",
+	"files": [
+		{
+			"filename": "maze.wad",
+			"size": 260166,
+			"crc": 3561353576,
+			"md5": "210d7fded3fd534ca5faa13639b4e004",
+			"sha1": "ad4c03466b57c2d3d3de20966aa5d2f44d24c5a3",
+			"sha256": "e376882276303e4043712312b64b95875ec58d9a8805b00bab38a253d1e5211d"
+		}
+	]
+}

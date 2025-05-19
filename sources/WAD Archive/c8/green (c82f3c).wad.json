@@ -1,0 +1,17 @@
+{
+	"uid": "green (c82f3c).wad",
+	"name": "Green",
+	"description": "This .WAD changes nearly all of the gfx from doom or doom 2- most greens are now red, and most reds are now green. Looks pretty cool- like gangrenous badguys.",
+	"version": "c82f3c",
+	"date": "2018-04-16 07:51:30",
+	"files": [
+		{
+			"filename": "green.wad",
+			"size": 19644,
+			"crc": 364810398,
+			"md5": "5b45e08ee31104571a918ca5f8242799",
+			"sha1": "c82f3cfbe007989cc7700e7118f931e76b418033",
+			"sha256": "25b0d0541ce8efe43e17ad01cc720982dc18a27fff7953b61176b2c92425e43d"
+		}
+	]
+}

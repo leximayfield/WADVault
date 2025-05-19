@@ -1,0 +1,16 @@
+{
+	"uid": "ctftor1.wad",
+	"name": "CTF tourney pack #01",
+	"description": "A set of four maps from 4ctfepic and zdectfmp for use during CTF Tournaments",
+	"date": "2013-04-19 02:32:20",
+	"files": [
+		{
+			"filename": "ctftor1.wad",
+			"size": 3207478,
+			"crc": 2714814687,
+			"md5": "dd2b021d492528b341e5d66a298ea082",
+			"sha1": "c246b405db9e79152b3d5723b2836206150d171b",
+			"sha256": "06cdb5d61bb274eab0495aef9bdac238d827b36cbaff091f8fafaa11c3c17d9c"
+		}
+	]
+}

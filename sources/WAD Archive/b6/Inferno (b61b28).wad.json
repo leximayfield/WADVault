@@ -1,0 +1,17 @@
+{
+	"uid": "Inferno (b61b28).wad",
+	"name": "INFERNO",
+	"description": "* 6 levels made ONLY for DEATHMATCH play. * These levels have been playtested by both amaturers and pros. They're suited for every player of every type. * 6 levels each with its own uniqueness.",
+	"version": "b61b28",
+	"date": "2014-12-15 21:49:27",
+	"files": [
+		{
+			"filename": "Inferno.wad",
+			"size": 260506,
+			"crc": 139595116,
+			"md5": "df405fd70ba99df6357bf4605130bc82",
+			"sha1": "b61b28e8237d007ce31f9839598e87083fee611d",
+			"sha256": "a83bb2074a235a796d6394801918b38bad11999143c0ca779bd76739643d4109"
+		}
+	]
+}

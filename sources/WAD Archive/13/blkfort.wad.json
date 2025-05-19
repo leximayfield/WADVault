@@ -1,0 +1,16 @@
+{
+	"uid": "blkfort.wad",
+	"name": "Black Fortress",
+	"description": "The Black Fortress looms in the distance. Can you infiltrate it and slaugher the hellspawn within?",
+	"date": "2014-12-21 16:54:51",
+	"files": [
+		{
+			"filename": "blkfort.wad",
+			"size": 771815,
+			"crc": 462365952,
+			"md5": "669b413d0ff2fbeb3c4ca187c37b3dcf",
+			"sha1": "13411279a0b6659806fb3a8620c8e0fb0853b871",
+			"sha256": "53c71c5ab57cd6216e5e4fac2a076f771caaf93967b11950d3bced29f27592ed"
+		}
+	]
+}

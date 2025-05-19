@@ -1,0 +1,16 @@
+{
+	"uid": "db_dr.wad",
+	"name": "Demon's Revenge",
+	"description": "A smallish gothic level, my first.",
+	"date": "2014-12-22 18:59:52",
+	"files": [
+		{
+			"filename": "db_dr.wad",
+			"size": 205142,
+			"crc": 119345822,
+			"md5": "e6597503a7be6cb3fdd6841286c0e355",
+			"sha1": "366bd18570f7bf036ec339878acc54c0f1aae0d7",
+			"sha256": "7163b480ee8f038f5de0b8c94d76001049bdada0222b91afd586e240075a808b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wastes.wad",
+	"name": "wastes",
+	"description": "this began as an idea: find red key but do explore, jumping and crouching required! you escaped the town, are the spider death squads still there? you need firepower as your arsenal only consists of your trusty hunting shotgun and your sidearm (/rifle in BD). the guards outside went silent, looks like they are here! you need the red key but where did the science team leave it? get the key, get up the hill, escape, sounds easy right?.. (brutal doom recommended but normal ZDoom supported)",
+	"date": "2014-12-29 16:25:48",
+	"files": [
+		{
+			"filename": "wastes.wad",
+			"size": 586392,
+			"crc": 1647997109,
+			"md5": "fb4b547fe16fb0286933495263a170fd",
+			"sha1": "f145e65b7006a61a5b01f6ae3e6ff53461dcf3e5",
+			"sha256": "ae6fd5cfe628d815731714592fdf850b6a9169e5c0359e89c37c8af0c7ab3c10"
+		}
+	]
+}

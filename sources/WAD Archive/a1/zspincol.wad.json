@@ -1,0 +1,16 @@
+{
+	"uid": "zspincol.wad",
+	"name": "Zdoom SpinSpyder Collection",
+	"description": "A collection of 11 old and new dm maps for zdoom, from me.",
+	"date": "2014-12-15 22:25:25",
+	"files": [
+		{
+			"filename": "zspincol.wad",
+			"size": 347937,
+			"crc": 524278208,
+			"md5": "417cc334dc32654528d47dc9e7497d62",
+			"sha1": "a1428538d2bb3e317a4bc262bfc80ec2bf129d22",
+			"sha256": "c994e784a73f410a5aeb1c2dfe4d90da9788ffdba5f646ea9e886e5ac9ed0a09"
+		}
+	]
+}

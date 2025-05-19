@@ -1,0 +1,16 @@
+{
+	"uid": "b2b.wad",
+	"name": "Back to Basics",
+	"description": "After making a large map with slopes, scripts, all new resources and whatnot, I felt like making something very basic.",
+	"date": "2013-04-19 02:42:48",
+	"files": [
+		{
+			"filename": "b2b.wad",
+			"size": 4251458,
+			"crc": 4037315123,
+			"md5": "3f2506821455bdd86c76b3078360da19",
+			"sha1": "ad7360430bd9632c9a20355f15f767445d029cf9",
+			"sha256": "53dd69337375e575914d4cb10925468d269adf45bf6c7d4e7a20ef39b3273059"
+		}
+	]
+}

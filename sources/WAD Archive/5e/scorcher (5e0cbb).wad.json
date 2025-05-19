@@ -1,0 +1,17 @@
+{
+	"uid": "scorcher (5e0cbb).wad",
+	"name": "SCORCHER.WAD",
+	"description": "THE SEQUEL TO WICKED.WAD! 2 levels - EPISODE 2 MISSIONS 1 and 2. Contains properly aligned graphics this time.",
+	"version": "5e0cbb",
+	"date": "2013-11-04 20:18:58",
+	"files": [
+		{
+			"filename": "scorcher.wad",
+			"size": 250421,
+			"crc": 3358558505,
+			"md5": "83ac187da861b8400c9ef5baec7ab63e",
+			"sha1": "5e0cbb3af756ed8c52cb32c5c44a7fb36022bf9f",
+			"sha256": "ca2665050d445575f1c077e3a92760d0304d55237873eab18746e2c2f1fc4063"
+		}
+	]
+}

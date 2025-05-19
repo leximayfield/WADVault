@@ -1,0 +1,16 @@
+{
+	"uid": "ph_1tag.wad",
+	"name": "Ascent to Damnation",
+	"description": "The map is mostly named after the ending, but the whole map follows the theme of \"the higher you get, the stiffer the opposition\", with the few dips showing that dropping down again won't make things any better! I think I managed to cover most of the \"1 tag\" ideas - I did want to use a door as well, but that had an unfortunate side-effect with the sky at the end, so I had to use a raising ceiling. I went with the Silent Hill 2 MIDI because the idea of fighting towards a hellish end struck me as in need of something melancholy or downbeat.",
+	"date": "2014-12-29 09:13:31",
+	"files": [
+		{
+			"filename": "ph_1tag.wad",
+			"size": 147033,
+			"crc": 2021030352,
+			"md5": "99dc3528005d011468dab15b4c231c94",
+			"sha1": "39f42f6b0b272c151f936e3ef380bb4b73ec5593",
+			"sha256": "206d921ef7138ccd5af420c804194b982f5da92de5b2902fa64fd516a7195cc4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "HEXRAN.wad",
+	"name": "HexRan.wad",
+	"description": "SINGLE PLAYER wad with scripting and a small plot",
+	"date": "2014-10-14 20:56:22",
+	"files": [
+		{
+			"filename": "HEXRAN.wad",
+			"size": 222572,
+			"crc": 23085730,
+			"md5": "70fa907e8971cc5e7de0af0ff766e25a",
+			"sha1": "6035e775db9f6fde2de216e0f9d54096525fac5f",
+			"sha256": "f01aaaf12934ff6a1ce452eafc90f08be1112b61bc3defb9e340a4d858898fc7"
+		}
+	]
+}

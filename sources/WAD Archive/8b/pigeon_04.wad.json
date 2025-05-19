@@ -1,0 +1,16 @@
+{
+	"uid": "pigeon_04.wad",
+	"name": "Pigeon Speedmapping Session 4 -- Guns of the Birds",
+	"description": "This is a 6-level mapset with themes previously decided and built within a 4-hour timelimit and 2 sessions were used. Main session happened at 2018-02-03. Themes for this session were: 1. Use only bars, floor/ceiling lower and raising actions to seal players from monsters or puzzle solution. No door actions are used except for locked switches and bars. 2. Tactical usage of berserk. (Place a berserk pack). 3. Add slaughter area. Bonus theme was: 4. Damaging blood textures.",
+	"date": "2018-04-14 19:59:33",
+	"files": [
+		{
+			"filename": "pigeon_04.wad",
+			"size": 5592462,
+			"crc": 374306009,
+			"md5": "6cb2820b04e26d94cb28d1db4adff574",
+			"sha1": "8b01f8e872ec450f2ac558952acd06a70e00d930",
+			"sha256": "e74a11fe97ae08c4ca1a41adae40d2dacc86d5fa5d16c797a28521973d7bdd72"
+		}
+	]
+}

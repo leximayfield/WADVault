@@ -1,0 +1,16 @@
+{
+	"uid": "AREA51.wad",
+	"name": "Area 51",
+	"description": "Built for Doom2 v1.9",
+	"date": "2013-04-19 01:42:50",
+	"files": [
+		{
+			"filename": "AREA51.wad",
+			"size": 2637056,
+			"crc": 433744899,
+			"md5": "0153b950f92a36ed2c69bcf04eb6af1e",
+			"sha1": "2ebfd65c9234621ad93f2831824bd07186f5edea",
+			"sha256": "1d086715b8b3ff9ed28518235d6e7d94a6b25f7fb6fbbd1984c61d8963c004d5"
+		}
+	]
+}

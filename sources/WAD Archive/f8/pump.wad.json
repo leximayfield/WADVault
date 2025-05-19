@@ -1,0 +1,16 @@
+{
+	"uid": "pump.wad",
+	"name": "The Pumping Station",
+	"description": "Eerie assault on the Mars Toxin Pumping Station",
+	"date": "2013-11-03 17:45:35",
+	"files": [
+		{
+			"filename": "pump.wad",
+			"size": 696675,
+			"crc": 3320837155,
+			"md5": "94d0d1771bedab23b9a388745e26008a",
+			"sha1": "f814f6708d94080d9711be970594818591bb85ef",
+			"sha256": "c27f243c076acee887f222dad7b4140aab251ba9eb899d513512ca3dcc7ebb2b"
+		}
+	]
+}

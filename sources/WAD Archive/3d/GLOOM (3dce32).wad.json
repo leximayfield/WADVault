@@ -1,0 +1,17 @@
+{
+	"uid": "GLOOM (3dce32).wad",
+	"name": "Gloom Texture Set",
+	"description": "These textures are by ..::DethteX::.. http://users.nac.net/schwenz/index.html I simply resized and recolored them.",
+	"version": "3dce32",
+	"date": "2015-09-14 19:34:47",
+	"files": [
+		{
+			"filename": "GLOOM.wad",
+			"size": 2392306,
+			"crc": 1970876705,
+			"md5": "b55c712f21e6de6698088a9fd7b2734c",
+			"sha1": "3dce324387e115146b4ef60dbe27b7044c8daf7f",
+			"sha256": "2591ed1106adc3dc9beb9585d8ac9ce35723ce1a87bf92bd0ba2d6a419ba48b7"
+		}
+	]
+}

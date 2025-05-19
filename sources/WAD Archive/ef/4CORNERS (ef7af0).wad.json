@@ -1,0 +1,17 @@
+{
+	"uid": "4CORNERS (ef7af0).wad",
+	"name": "4CORNERS.WAD",
+	"description": "A file made just for deathmatches. It is kinda like ledges but larger, and I like it much more.",
+	"version": "ef7af0",
+	"date": "2014-12-14 20:55:00",
+	"files": [
+		{
+			"filename": "4CORNERS.wad",
+			"size": 58420,
+			"crc": 1438474570,
+			"md5": "6b1dfe35c27cbaabcd3c14b8476108ef",
+			"sha1": "ef7af07d26874d58a64613d2b09ec0bffd23a80e",
+			"sha256": "44ab305fb5de93a3497914c3a8f6696722c3584748a25d131fe8e2decb9ba40f"
+		}
+	]
+}

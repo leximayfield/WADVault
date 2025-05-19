@@ -1,0 +1,17 @@
+{
+	"uid": "jason1 (b947dd).wad",
+	"name": "Jason 1",
+	"description": "You start out on a dock and must head deep (and I mean REALLY deep) underground, kill the baddies, grab the keys, and head back upstairs to your awaiting submarine. I tried to make things look as realistic as possible because, to me, that's the most fun.",
+	"version": "b947dd",
+	"date": "2014-12-27 12:22:32",
+	"files": [
+		{
+			"filename": "jason1.wad",
+			"size": 380511,
+			"crc": 739913603,
+			"md5": "f6eae563a60affad22facb6a9fe513cc",
+			"sha1": "b947dd0dc2aad51d0501e3aeca84e18ef23312cc",
+			"sha256": "012430cc72f327718daaadbc22436d993b68301bc025c111191ed6f6cf8284c3"
+		}
+	]
+}

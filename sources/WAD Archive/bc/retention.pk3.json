@@ -1,0 +1,16 @@
+{
+	"uid": "retention.pk3",
+	"name": "Retention",
+	"description": "This is like Stronghold. Here is two teleports on the map, monsters going from one teleport to another, players must kill all monsters don't missing them. If some monsters will get to the second teleport players will lose.",
+	"date": "2013-04-21 14:11:34",
+	"files": [
+		{
+			"filename": "retention.pk3",
+			"size": 6160126,
+			"crc": 3045160831,
+			"md5": "e4debdb15f31f6e0944a7ccf93300390",
+			"sha1": "bcacfde806e74fb0e7db2270161a967b193dba1d",
+			"sha256": "fed65928866116e2e6c694347a211b22bb77b0282d72b4e6d4912dd31c695631"
+		}
+	]
+}

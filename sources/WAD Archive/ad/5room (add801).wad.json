@@ -1,0 +1,17 @@
+{
+	"uid": "5room (add801).wad",
+	"name": "Five Rooms of Doom",
+	"description": "A Doomworld community project, startes by Keeper of Jericho, in which the goal was to make the best map each author could make without exceeding the five room limit.",
+	"version": "add801",
+	"date": "2015-08-27 01:20:53",
+	"files": [
+		{
+			"filename": "5room.wad",
+			"size": 37316148,
+			"crc": 113837378,
+			"md5": "3125dc4ebeb4f3947edf7139ab818202",
+			"sha1": "add801d2eebce9388298b1cbf74e6a2aa3352623",
+			"sha256": "d0ae59919493724f1aa9ac290334e567a484aa5cc4c723bee6caecd5da7e6acf"
+		}
+	]
+}

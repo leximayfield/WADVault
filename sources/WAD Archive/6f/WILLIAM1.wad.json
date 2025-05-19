@@ -1,0 +1,16 @@
+{
+	"uid": "WILLIAM1.wad",
+	"name": "William's DOOM",
+	"description": "This group of levels is made just by random thought so it might not be a good designed level. I just made whatever came to my mind first.",
+	"date": "2013-11-02 15:11:19",
+	"files": [
+		{
+			"filename": "WILLIAM1.wad",
+			"size": 203540,
+			"crc": 231557681,
+			"md5": "f1bec241b54e7d6aff6871ae09541219",
+			"sha1": "6f0f454a2082bae77e8faf4ac537c0cf82312ce5",
+			"sha256": "c91cc4e9524796baa689d86a59a56b5a4d1ebf5182a728e56b835b915c806442"
+		}
+	]
+}

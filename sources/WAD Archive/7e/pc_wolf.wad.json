@@ -1,0 +1,16 @@
+{
+	"uid": "pc_wolf.wad",
+	"name": "PC_WOLF, A Wolfenstein classic",
+	"description": "A six level Wolfenstein pack for Doom2. It contains 2 of my earlier unreleased Wolfenstein levels and 4 of My younger Brother's best levels. These levels are full of Nazi's health. Nice to get some all new Wolfenstein pumping into Doom2.",
+	"date": "2015-01-14 23:06:45",
+	"files": [
+		{
+			"filename": "pc_wolf.wad",
+			"size": 519808,
+			"crc": 1395050227,
+			"md5": "e133f35b8519e3ba8f27768588e7b551",
+			"sha1": "7e187630282e99c5992fabde9bdcfa940de8dea6",
+			"sha256": "e5f74b64986ed5fb3d17ab6d9f34d6144cddeebfb9cc448440b9397789733fa5"
+		}
+	]
+}

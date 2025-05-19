@@ -1,0 +1,17 @@
+{
+	"uid": "megaman (6a74d0).wad",
+	"name": "megaman Skin",
+	"description": "8-bit megaman skin",
+	"version": "6a74d0",
+	"date": "2015-09-15 13:32:21",
+	"files": [
+		{
+			"filename": "megaman.wad",
+			"size": 106564,
+			"crc": 1437170882,
+			"md5": "a6965c2b0e405272d3abda5faded4ac8",
+			"sha1": "6a74d07cf4ec0e549d3def55c1008f60975a99d2",
+			"sha256": "73c9f4627f58ccc0c3946f3ae0591a73d495f0b48f5a2576b194146a2f797458"
+		}
+	]
+}

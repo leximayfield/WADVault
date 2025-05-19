@@ -1,0 +1,16 @@
+{
+	"uid": "HXCOD1.wad",
+	"name": "City Of Despair",
+	"description": "A single player and multiplayer .wad for Hexen. You must make your way through the 'city' to find the switches that will open the gate and lower the pillar giving access to the FlameMask. Once the gate is open, you will then make your way down the path to the final building. Do you have what it takes to complete it?",
+	"date": "2014-10-14 20:56:52",
+	"files": [
+		{
+			"filename": "HXCOD1.wad",
+			"size": 295751,
+			"crc": 1490119901,
+			"md5": "7b44e2cc4787b0ba28a5483d47434ace",
+			"sha1": "499a67d43f13768f6c880c736e442b390abcc0e1",
+			"sha256": "9eea1b568a71a05c74c92733fea468227b1d661e696a28323916987a3809c47f"
+		}
+	]
+}

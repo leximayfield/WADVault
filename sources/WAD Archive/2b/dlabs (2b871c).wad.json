@@ -1,0 +1,17 @@
+{
+	"uid": "dlabs (2b871c).wad",
+	"name": "Deimos Labs",
+	"description": "Deimos Labs is a wad I started a few years back. Even though it's only a single map, every time I began mapping, I'd say, \"No, this isn't how I want it to look,\" and then I'd start over from the beginning. This happened numerous times, and after studying a myriad of community-recommended wads, I have finally created the wad I envisioned. This didn't really take a few years since I stopped working on it for a long time, but I did have the idea in my head for that long. The map is quite long (it takes me about 30 minutes to finish it, has a moderate difficulty, and is a techbase-themed map. I wanted to make the base feel and look like it's 'infested', and I believe I accomplished that quite well. Oh, and just a heads-up: You won't be able to complete the map without jumping. Sorry, old school fans!",
+	"version": "2b871c",
+	"date": "2015-09-15 16:31:01",
+	"files": [
+		{
+			"filename": "dlabs.wad",
+			"size": 408812,
+			"crc": 942489036,
+			"md5": "678657e08b21868f47690c9f4102fb1e",
+			"sha1": "2b871cde9bfca2ca8484f3a633373f75eb798a45",
+			"sha256": "4f991c88b30954c3ae75e0bf8bc99f141c883550ff8a8af23a62e4cf8ba2ec98"
+		}
+	]
+}

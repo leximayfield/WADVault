@@ -1,0 +1,17 @@
+{
+	"uid": "shiprock (c2d9f5).wad",
+	"name": "Shiprock",
+	"description": "This level is a replica of the Rose Pauson residence (Shiprock) designed by Frank Lloyd Wright. Both floors are accessible, connected by a transport mechanism. I'm still looking for a way to turn off the sound, but for now consider it a feature, not a bug. This new version DOES allow death- match play. Simply start the game on Ultra-violence or Nightmare level and all the stuff will be there. No monsters are present at any skill level.",
+	"version": "c2d9f5",
+	"date": "2013-11-02 15:13:59",
+	"files": [
+		{
+			"filename": "shiprock.wad",
+			"size": 86901,
+			"crc": 685521271,
+			"md5": "da51ed1fb1381e33ff434992838fa390",
+			"sha1": "c2d9f5537c42bb0c1eae9569e0ad39931fa11492",
+			"sha256": "2bdf57252d54000b3b28e97b36570924c2edadb5152d19d0c1bf07f83043b6f0"
+		}
+	]
+}

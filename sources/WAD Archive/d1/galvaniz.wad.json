@@ -1,0 +1,16 @@
+{
+	"uid": "galvaniz.wad",
+	"name": "Galvanize",
+	"description": "One Boom-compatible map made in celebration of Rayzik's birthday. Have a good one. ;-)",
+	"date": "2014-12-24 19:24:24",
+	"files": [
+		{
+			"filename": "galvaniz.wad",
+			"size": 102806,
+			"crc": 1651993834,
+			"md5": "886e760f117b0209a5dd4ee123b132a8",
+			"sha1": "d1bacc6cfc8f41191900a908e9aac388098f0f3d",
+			"sha256": "00ff0321e9cfa7f1cf6b9cf0d54efa8708e808d6b8afdf1ebe2457a23ef58bba"
+		}
+	]
+}

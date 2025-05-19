@@ -1,0 +1,16 @@
+{
+	"uid": "forgottentemple.wad",
+	"name": "The Forgotten Temple",
+	"description": "A small deathmatch map made for the SkullTag engine which features a hellish theme, using Basic editing features such as slopes, to make a good looking, fun deathmatch map recommended for 2 to 4 players.",
+	"date": "2013-04-19 00:49:03",
+	"files": [
+		{
+			"filename": "forgottentemple.wad",
+			"size": 599777,
+			"crc": 3560937942,
+			"md5": "ebcb6c7042ed15de0a8886c19922ea7c",
+			"sha1": "8d03d2faf232893ca22c3cf71fec9dabdab5707c",
+			"sha256": "13af2c6e6000860fdf1d094727d3a892c4e7aa12712b588e33666f42c5d60e13"
+		}
+	]
+}

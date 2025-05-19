@@ -1,0 +1,17 @@
+{
+	"uid": "school (fbe2b7).wad",
+	"name": "High School",
+	"description": "a doom2 level based on a real school",
+	"version": "fbe2b7",
+	"date": "2015-01-14 14:37:53",
+	"files": [
+		{
+			"filename": "school.wad",
+			"size": 493576,
+			"crc": 3681012602,
+			"md5": "a42bb032fd6e6aa063b0d5bdaa6f5efd",
+			"sha1": "fbe2b7f4a89069c4f71920eef4a12d813f8a1f29",
+			"sha256": "57c76f84e1d5f69335fb78aad9a748220c79acda9b1177e72eda8dc97c9deba4"
+		}
+	]
+}

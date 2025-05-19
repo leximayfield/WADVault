@@ -1,0 +1,17 @@
+{
+	"uid": "tricks (9b83c0).wad",
+	"name": "Tricks",
+	"description": "Deathmatch wad for HEXEN",
+	"version": "9b83c0",
+	"date": "2019-03-06 21:37:45",
+	"files": [
+		{
+			"filename": "tricks.wad",
+			"size": 112000,
+			"crc": 101902180,
+			"md5": "4574a0d68c2077cfd5788314a0cd2e59",
+			"sha1": "9b83c070f935051c63c3d34d679f01294632edd6",
+			"sha256": "53973d4319b3cd0614d80e6b701481d3274cddd392106e84b277bf751012f8a4"
+		}
+	]
+}

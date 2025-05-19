@@ -1,0 +1,16 @@
+{
+	"uid": "q3ctfb1.wad",
+	"name": "Quake III CTF",
+	"description": "Inside you will find 6 of the most famous Quake 3 CTF maps, converted to DOOM !! map01- Future Crossings by Scancode map02- Infinity by cityy map03- Ironworks by Method map04- Stonekeep by SyncErr0r map05- Pillbox by SyncErr0r map06- Japanese Castles by g1zm0 Finished using slade, doombuilder 2 , and GTKradiant. Dimensions are transcribed exactly. Of course there is SOME minor modding. Mostly varying floor HEIGHTS to fit the doom experience. Infinity is an example with no height modification. The biggest mod is probably cutting out the second lower route of Pillbox. I am working on an alternate version that has it though (its totally jacked) mapping in GTKradiant is absolutely fucked. Huge shout out to those dedicated to mapping for the idtech 3 engine. The guys that made these maps are heroes of the craft! Fun fact: cityy and g1zm0's maps were bought by iD. This wad is dedicated to all the people that know the difference between an FPS and an AFPS.",
+	"date": "2018-04-30 21:32:55",
+	"files": [
+		{
+			"filename": "q3ctfb1.wad",
+			"size": 12190906,
+			"crc": 4168472005,
+			"md5": "d5a076b975dff9730669cac8668ece49",
+			"sha1": "37e2ea8dc0d1baf44f8e14a24e4dc789321acd10",
+			"sha256": "810c0d42aa5b2e538c881f54682bec7ae82c0d7c7bf55e86a50c2e3f0866a21c"
+		}
+	]
+}

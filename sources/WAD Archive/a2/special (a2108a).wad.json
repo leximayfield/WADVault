@@ -1,0 +1,17 @@
+{
+	"uid": "special (a2108a).wad",
+	"name": "Special Effect demo",
+	"description": "This WAD is only intended for demonstration of all kinds of special effects.",
+	"version": "a2108a",
+	"date": "2014-10-28 21:51:47",
+	"files": [
+		{
+			"filename": "special.wad",
+			"size": 152564,
+			"crc": 1631018353,
+			"md5": "d9b45d333263bbedcdeba2054b9dfb1d",
+			"sha1": "a2108a5bc4e05b65144a185be3d19a49287a1ab9",
+			"sha256": "d15e05989ab7130419b129f1f1e903d27af354b1bebfdde696d8fc7fa1d74fba"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "DURKPITM.wad",
+	"name": "Durk's Pit",
+	"description": "A small deathmatch level with a pit in the center where all weapons are located. Durkpit.wad has nomonsters. Durkpitm.wad has monsters.",
+	"date": "2014-10-28 21:52:47",
+	"files": [
+		{
+			"filename": "DURKPITM.wad",
+			"size": 49625,
+			"crc": 2348963454,
+			"md5": "7cb8a2ca2dbc7a6eadf8747c54b1f816",
+			"sha1": "fa5ad2a58763baa8658f09f301e64bc2b3d8224c",
+			"sha256": "afef018739e2ee77299fbfa2f9ea6a634bd0e8d69e612b34831a1710f9035e7d"
+		}
+	]
+}

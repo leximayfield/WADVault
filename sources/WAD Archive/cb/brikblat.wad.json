@@ -1,0 +1,16 @@
+{
+	"uid": "brikblat.wad",
+	"name": "BrikBlat!",
+	"description": "The usual. Be very careful and run! It will help if you run forward immediately and pick up the rifle. If you don't you are liable to get wasted extremely rapidly !",
+	"date": "2014-12-15 21:44:56",
+	"files": [
+		{
+			"filename": "brikblat.wad",
+			"size": 725032,
+			"crc": 2314687223,
+			"md5": "c2beb97efe6fc1067c0854b457c3ae98",
+			"sha1": "cbaa2bd06637519c0a6da2383467dcc8203dd044",
+			"sha256": "ce47527fd35212e29f2f9814aa2da223323d0ea73e0d82490330901d49052001"
+		}
+	]
+}

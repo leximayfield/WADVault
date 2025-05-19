@@ -1,0 +1,16 @@
+{
+	"uid": "proy1024.wad",
+	"name": "Proyect 1024",
+	"description": "Single map wich size is 1024 x 1024 units.",
+	"date": "2014-12-30 11:30:46",
+	"files": [
+		{
+			"filename": "proy1024.wad",
+			"size": 72498,
+			"crc": 2994027550,
+			"md5": "ba22525f62db49aadfd5f3900dabb7f5",
+			"sha1": "91261078bf3fc599f63fd3dc4c2f0947aa8f0189",
+			"sha256": "8b0d3066fd8530ccdb2a93fff51a140fad4b3d2fdc007ac8b59cb4b1578c28b4"
+		}
+	]
+}

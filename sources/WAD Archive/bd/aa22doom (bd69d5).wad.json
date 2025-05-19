@@ -1,0 +1,17 @@
+{
+	"uid": "aa22doom (bd69d5).wad",
+	"name": "Another Awsome DOOM PWAD (E2M2)",
+	"description": "Another Awsome DOOM PWAD (E2M2) Play an action-packed NEW level for registered DOOM, Episode two, Mission two. Does not alter your DOOM.WAD.Just unzip in your DOOM directory and enter at the DOS prompt: AA22DOOM",
+	"version": "bd69d5",
+	"date": "2013-11-02 15:08:28",
+	"files": [
+		{
+			"filename": "aa22doom.wad",
+			"size": 91906,
+			"crc": 1422947741,
+			"md5": "a4ec1bcba4ce56cd3f0b895c70e3eff3",
+			"sha1": "bd69d52017d27ddde457a48ffc85ff61062e7bf6",
+			"sha256": "a42151328575f203951672807aaf034087bde6a4048bbaf12adc165fd82a414d"
+		}
+	]
+}

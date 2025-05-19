@@ -1,0 +1,17 @@
+{
+	"uid": "sixareas (069070).wad",
+	"name": "Sixareas.wad (six areas wad)",
+	"description": "A wad based on six separate areas that lead from a central room. The entrance to each area is marked by a number on the door. The level can be best solved by following the doors in order. In addition, there are 34 new graphic elements (most in the status bar). See if you can find them all.",
+	"version": "069070",
+	"date": "2013-11-02 15:23:53",
+	"files": [
+		{
+			"filename": "sixareas.wad",
+			"size": 308412,
+			"crc": 3463844237,
+			"md5": "31a157075e597fa11d8f0cc485113061",
+			"sha1": "0690700b23528b11f722ed17df33a0741cb7d694",
+			"sha256": "1db01f49104161230a8ae7bc6a88a79b25eff42998c4f9819a3d8ebc080bc907"
+		}
+	]
+}

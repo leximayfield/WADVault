@@ -1,0 +1,17 @@
+{
+	"uid": "rs_oozi (585547).wad",
+	"name": "RS_OOZI.WAD",
+	"description": "This level is designed to provide lots of shooting action (hence the \"oozi\" pun). There aren't a lot of puzzles, or secret doors that must be found to get to the end. Nor are there any \"death traps\" or rooms with 18 Cyberdemons. Just steady action. And while there are lots of bad guys to kill, an attempt was made to keep it realistic and within the class of an original Doom level (i.e. this isn't just another bunch of monsters and weapons and ammo haphazardly strewn about every room). I'd appreciate any and all comments/ flames as to whether it succeeds. It has been beta tested by 2 players other than myself (with a \"thumbs up\" from both), but only in single-player mode. Multi-player and Deathmatch modes are provided, but not tested. The difficulty levels are also implemented. In general, the harder the difficulty, the more monsters you get. This level is designed to be challenging WITHOUT using the cheat keys!",
+	"version": "585547",
+	"date": "2013-11-02 15:20:52",
+	"files": [
+		{
+			"filename": "rs_oozi.wad",
+			"size": 157767,
+			"crc": 26208269,
+			"md5": "9e150d73a6dcf3bd31cb866b74876c5b",
+			"sha1": "585547fc374ddfe7fc9da1d8889834e48fc9ed0d",
+			"sha256": "5c6d273824e117ee63f19b5d3dccfe94c62d25428059cb47d368cdb764e2ac29"
+		}
+	]
+}

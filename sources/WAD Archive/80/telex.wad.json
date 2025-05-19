@@ -1,0 +1,16 @@
+{
+	"uid": "telex.wad",
+	"name": "The escape from planet Telex",
+	"description": "A pure action level. The Joke is that the only ammo you'll find is the one that dead monsters drop. It's my level #22",
+	"date": "2014-12-29 15:03:51",
+	"files": [
+		{
+			"filename": "telex.wad",
+			"size": 262572,
+			"crc": 2280609319,
+			"md5": "5a3ac99789a796f5d99f172d2c740b67",
+			"sha1": "801ca9ba72b5f257356953dd23ab3b6bc798215a",
+			"sha256": "053b7b89a121ac9fa6b6a545b924ce5b50f7661fbeeb83049381c8ff7e679f13"
+		}
+	]
+}

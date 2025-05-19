@@ -1,0 +1,16 @@
+{
+	"uid": "wscheat.wad",
+	"name": "WSCHEAT",
+	"description": "This wad is meant to be used primarly for multiplayer games such as deathmatch. By learning the secrets of this wad you will be able to give yourself the upper hand over your fellow players by being able to lock yourself in a transparent control room and unleash several groups of monsters on the other players. From behind the protective barriers you can watch them battle the monster you send at them. You can also help them out via secret passages. To get you started there are eight hidden swith's In the largest room of this wad shown below.",
+	"date": "2014-12-14 20:36:25",
+	"files": [
+		{
+			"filename": "wscheat.wad",
+			"size": 68428,
+			"crc": 1273622935,
+			"md5": "536c1c7d83a3cc95eca26acbe7aaaffb",
+			"sha1": "a6e3004308a0e277ddf0f1ed7d7b1d4f72afa806",
+			"sha256": "b1e4451b28a5eaa1b2e9e2bc651872730d3dde5792ad4098ade5aa2c2d6a5602"
+		}
+	]
+}

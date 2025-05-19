@@ -1,0 +1,16 @@
+{
+	"uid": "svdoom-r79.wad",
+	"name": "SVDoom",
+	"description": "This allows any specific supported engine to continuously run all maps from E1 to E4. This file ignores (End Episode), and well reroute to the next episode when the current is finished. Perfect for multiplayer proposes! Thanks to Kyle \"Skunkrocker\" Guthrie for the episode 4 intermission screen, that SVDoom utilizes and retrieved permission for.",
+	"date": "2013-04-18 23:50:31",
+	"files": [
+		{
+			"filename": "svdoom-r79.wad",
+			"size": 118261,
+			"crc": 3121252518,
+			"md5": "bc180a0294328efad9b8dbd850b2e6e6",
+			"sha1": "17a687bce25d8887136b69e039d8c9f24854181d",
+			"sha256": "d0d8da24eb47d2c7b69db9783a2c84e3679e63108cd2e1a39283363559eba64f"
+		}
+	]
+}

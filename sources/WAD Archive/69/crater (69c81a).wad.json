@@ -1,0 +1,17 @@
+{
+	"uid": "crater (69c81a).wad",
+	"name": "The Crater",
+	"description": "In this wad,a devastating meteor has crashed on mars behind the UAC's chemical engineering laboratory. As demons crawled out of the giant crater it made, they slaughtered all the workers and other soldiers. You being a specially trained and experienced marine, are sent to the outpost in hopes of defeating the devil's army and exterminating the Alien queen in the center of the impact crater. Good luck.",
+	"version": "69c81a",
+	"date": "2019-11-04 01:41:37",
+	"files": [
+		{
+			"filename": "crater.wad",
+			"size": 1315052,
+			"crc": 1359333589,
+			"md5": "64adb3c66b478820cc0a2687e2521767",
+			"sha1": "69c81a9e048314bd11cb9bfa657d01800a6d78d2",
+			"sha256": "f7e3b6feaefd2bf151d832bf855cf6fc0f978f7b04c2ab9b36a1d6689a52c7d1"
+		}
+	]
+}

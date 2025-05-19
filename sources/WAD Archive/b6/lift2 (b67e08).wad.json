@@ -1,0 +1,17 @@
+{
+	"uid": "lift2 (b67e08).wad",
+	"name": "Hell Gate With Lift (Second Edition)",
+	"description": "A small base with four directions to enter. There is a computer station, a key room, a lift and a hell gate. I apologise for crap architecture and/or gameplay, I've only started mapping, so be nice :} Updated: BECAUSE OF PEOPLE NOT JUMPING INTO THE ONLY LAVA PIT IN THE WHOLE MAP AND CLAIMING THERE IS NO EXIT I ADDED A FEW HELPFUL POINTERS WHICH MAY ASSIST YOU IN COMPLETING THE LEVEL",
+	"version": "b67e08",
+	"date": "2014-12-27 12:17:37",
+	"files": [
+		{
+			"filename": "lift2.wad",
+			"size": 91883,
+			"crc": 328584214,
+			"md5": "2bdb67a9006e199bb3a0701ed6bcfbe2",
+			"sha1": "b67e0874ce10b8a874ffe3c8ee4f6c83b05280f7",
+			"sha256": "684ae8fe28332a35b14d811c082962e1f33b1250d6c0b57b7c66bef57742ada6"
+		}
+	]
+}

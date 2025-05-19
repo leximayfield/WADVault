@@ -1,0 +1,17 @@
+{
+	"uid": "descent (37f329).wad",
+	"name": "Hell's Descent",
+	"description": "This wad is a 5 level wad featuring custom music, 2 new monsters, new sounds, and a decent challenge. I recommend playing this map using the Brutal Doom modification.",
+	"version": "37f329",
+	"date": "2014-12-24 19:05:09",
+	"files": [
+		{
+			"filename": "descent.wad",
+			"size": 3090469,
+			"crc": 262717699,
+			"md5": "5eaa13b04d34089aac838715e14b8a64",
+			"sha1": "37f32987b733ec11fe23cbe3fe9d03d13f450926",
+			"sha256": "d2617f6ff318a274724a252879a82cbf9144f87fb89c37164bb28b194fcf286e"
+		}
+	]
+}

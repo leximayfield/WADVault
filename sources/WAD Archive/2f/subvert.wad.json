@@ -1,0 +1,16 @@
+{
+	"uid": "subvert.wad",
+	"name": "Subversion",
+	"description": "Sequel, at least in part, to The Trial Zone -Available as DM2TRI.ZIP Lethal.",
+	"date": "2015-01-14 14:34:37",
+	"files": [
+		{
+			"filename": "subvert.wad",
+			"size": 186689,
+			"crc": 3609082082,
+			"md5": "14633f284249f43c7c6c9ea55f31b97a",
+			"sha1": "2fefc8c8ffc5e904dfc306a562197139bb806254",
+			"sha256": "00b0e5162eac2bbc4f96f7007c5ee4ea5b4ca57bf0f1ec0436c080a4435a2783"
+		}
+	]
+}

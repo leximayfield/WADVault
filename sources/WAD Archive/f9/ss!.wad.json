@@ -1,0 +1,16 @@
+{
+	"uid": "ss!.wad",
+	"name": "Deathmatch: SS! (super shotgun), for Doom II",
+	"description": "converted map 8 of 214.wad from rockets to shotguns",
+	"date": "2013-11-02 15:57:35",
+	"files": [
+		{
+			"filename": "ss!.wad",
+			"size": 45829,
+			"crc": 2154263990,
+			"md5": "c3e0bf3827ea47472b0a9a3e6a8259e8",
+			"sha1": "f9691de21ea86afddbb6007d364788d3a8190f90",
+			"sha256": "ccccfad0258da9d8bf3e70fa10c235c7bb78c63283f2ec52330783daccba8aee"
+		}
+	]
+}

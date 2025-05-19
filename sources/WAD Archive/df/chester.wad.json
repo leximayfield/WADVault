@@ -1,0 +1,16 @@
+{
+	"uid": "chester.wad",
+	"name": "Chester.WAD (Version1.0)",
+	"description": "The level is based around the streets of the City of Chester in North West England. Landmarks of note include the city walls, the Rows, the Grovesnor Precinct and the Canal Bank towards the Levels end.",
+	"date": "2014-12-13 17:52:24",
+	"files": [
+		{
+			"filename": "chester.wad",
+			"size": 149929,
+			"crc": 3444757461,
+			"md5": "98ea4b2b47287558ec6b6b46822ab81b",
+			"sha1": "df03b4ea9ab3bb1e0bf4f63f331a8b37c1356eb2",
+			"sha256": "2db1b89cd57fea475d1b68a93970922e5027049c986237635937ecf3ffc0d7d8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "xided.wad",
+	"name": "Xided",
+	"description": "Escape from the infested base and fight your way to the island floating in the sky.",
+	"date": "2015-01-14 23:03:43",
+	"files": [
+		{
+			"filename": "xided.wad",
+			"size": 997101,
+			"crc": 1606217406,
+			"md5": "2ee7ebc0aa43722b37c5e973c8d07a95",
+			"sha1": "de2433d5d83e4c4444b64c41b71f87f64f5d4af0",
+			"sha256": "4c47c6e85149d2a754c5734091bf47a96996570f1e825ba068311a9700a7ed8a"
+		}
+	]
+}

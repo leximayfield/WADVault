@@ -1,0 +1,16 @@
+{
+	"uid": "hexcave.wad",
+	"name": "Hexen Cave",
+	"description": "Ever play MajorMud? Well, heres a make of the forest cave in it... into a Hexen wad!?",
+	"date": "2013-11-02 17:11:13",
+	"files": [
+		{
+			"filename": "hexcave.wad",
+			"size": 101026,
+			"crc": 2949667378,
+			"md5": "877c94ada22e1a25366b088c64d47305",
+			"sha1": "d74ef9d41d2cf39eb0c945a15f979103e656d9a3",
+			"sha256": "c92b84e6edb26163f2826fd0cf7c61eb3e0cb2ae062ed62541655fbf8970e1f8"
+		}
+	]
+}

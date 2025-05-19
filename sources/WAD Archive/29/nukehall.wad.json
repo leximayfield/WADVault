@@ -1,0 +1,16 @@
+{
+	"uid": "nukehall.wad",
+	"name": "Nuclear Halls",
+	"description": "After saving the planet from demonic invasion, you took a job as a security guard at a nuclear waste management facility. You just wanted a nice, quiet job and to forget about Hell for a while. Unfortunately, Hell has not forgotten You. REQUIRES CC4-TEX.WAD",
+	"date": "2018-04-14 23:01:52",
+	"files": [
+		{
+			"filename": "nukehall.wad",
+			"size": 284676,
+			"crc": 3437793113,
+			"md5": "0aa65caaabe0743d5c58b5bfcd8eb2f0",
+			"sha1": "29978db83c10b3edfb2be6ef5c5a412365cf1133",
+			"sha256": "3e143839fbfcada5a47dee5ee9e0c30107a6912239a2a5016492375a9262f27a"
+		}
+	]
+}

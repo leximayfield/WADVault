@@ -1,0 +1,16 @@
+{
+	"uid": "testsb43.wad",
+	"name": "Test Subject 43",
+	"description": "Single player 6 map wad. My first attempt at map-making.",
+	"date": "2018-04-14 23:22:04",
+	"files": [
+		{
+			"filename": "testsb43.wad",
+			"size": 4850528,
+			"crc": 2434074948,
+			"md5": "402770eff8128038d694e130704b2917",
+			"sha1": "32746aeb340d8f2e9f6af4c9e6166139fa46c9f8",
+			"sha256": "dc99eab177877d6bca6e03b71ab6428afb753dc2475a74b391be521ea55c95b9"
+		}
+	]
+}

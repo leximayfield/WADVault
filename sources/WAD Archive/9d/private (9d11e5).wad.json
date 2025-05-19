@@ -1,0 +1,17 @@
+{
+	"uid": "private (9d11e5).wad",
+	"name": "Private Hell",
+	"description": "You have died. Your mission was a failure and",
+	"version": "9d11e5",
+	"date": "2013-11-03 17:47:01",
+	"files": [
+		{
+			"filename": "private.wad",
+			"size": 67417,
+			"crc": 2972552204,
+			"md5": "a6866167c87235ca558ea5ea05aa8c41",
+			"sha1": "9d11e504d243bcc5c4b0325a6295152271636320",
+			"sha256": "4145dcd23f7716d5a5b00453762485a4815c88450715ca0f4be9b153246ac07c"
+		}
+	]
+}

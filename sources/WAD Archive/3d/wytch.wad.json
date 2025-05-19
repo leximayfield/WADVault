@@ -1,0 +1,16 @@
+{
+	"uid": "wytch.wad",
+	"name": "Wytchlight WAD",
+	"description": "A six level wad for Doom2 (all modes of play)",
+	"date": "2015-01-14 22:59:56",
+	"files": [
+		{
+			"filename": "wytch.wad",
+			"size": 1522365,
+			"crc": 1420774305,
+			"md5": "66ac5f43f9e35eaad0817997d332a063",
+			"sha1": "3ddee0f86e83266414caf1b8e50d586c490b3e12",
+			"sha256": "e53e6645427ca1d1aa2017726bf72d5a47d96e08764403d7f72994dc35705e3a"
+		}
+	]
+}

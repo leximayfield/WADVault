@@ -1,0 +1,17 @@
+{
+	"uid": "badrelgn (cc281b).wad",
+	"name": "Bad Religion",
+	"description": "A single map for DOOM2 containing new weapons, monsters and powerups.",
+	"version": "cc281b",
+	"date": "2017-12-31 15:45:26",
+	"files": [
+		{
+			"filename": "badrelgn.wad",
+			"size": 7495367,
+			"crc": 2384110200,
+			"md5": "1856ad766e68730383add4db1fe142ad",
+			"sha1": "cc281b46742fda75a07867c91e99ec1017e2d3f1",
+			"sha256": "4d5bc9bd3488a184b1b7c05bd790e15a640610cd822a89d3634b7c01271ab7ff"
+		}
+	]
+}

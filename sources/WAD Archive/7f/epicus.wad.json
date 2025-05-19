@@ -1,0 +1,16 @@
+{
+	"uid": "epicus.wad",
+	"name": "Epicus Furor (version: 1.2)",
+	"description": "An infernal/medieval map. You are a warrior, so be prepare to fight a lot with swords.",
+	"date": "2014-12-24 17:06:52",
+	"files": [
+		{
+			"filename": "epicus.wad",
+			"size": 4747104,
+			"crc": 2830839475,
+			"md5": "e7467b1a0ecd259d863b3be0a7d575fe",
+			"sha1": "7f0595db257f99fb98c034e0834ab2df80906be0",
+			"sha256": "e17ed9b7dc72112ed24e9b27ee2e609edeb399ba9cb625137b90a2fa36105c1c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "race (ddc70f).wad",
+	"name": "RACE.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. All weapons are available, except for the BFG9000. There are no monsters roaming around and there is no exit. The level consists of two concentric circular catwalks, with a tower at the very center. There is dangerous lava between the catwalks and the tower. The catwalks and tower are connected by moving bridges. The plasma gun can be found inside the tower, but once inside, the tower becomes a deathtrap, for the floors begin to move making it difficult to get out in a hurry. All players start on the outer catwalk, and it is a race to the tower.",
+	"version": "ddc70f",
+	"date": "2013-11-04 19:19:53",
+	"files": [
+		{
+			"filename": "race.wad",
+			"size": 15330,
+			"crc": 998111944,
+			"md5": "2ce52a33f4538937b1f8e46f0bff7a6c",
+			"sha1": "ddc70fc92afc3b625319dc723938ffaa2e315b76",
+			"sha256": "58771cd56487bc9c36ce807b7975c753ebea12941415ffb7aac48432b940c333"
+		}
+	]
+}

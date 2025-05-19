@@ -1,0 +1,17 @@
+{
+	"uid": "duo_1 (39655d).wad",
+	"name": "DUO_1.ZIP",
+	"description": "Duo_1 is a deathmatch level set in an",
+	"version": "39655d",
+	"date": "2013-11-02 16:04:38",
+	"files": [
+		{
+			"filename": "duo_1.wad",
+			"size": 97542,
+			"crc": 2461302187,
+			"md5": "885173ecf669b03fe5013db372c126da",
+			"sha1": "39655db256111ec9fde00163cec2bf755b336bc5",
+			"sha256": "7ac0cc4495b03ffba2df9502311ac6ba1c5251b98e3d3bf59e99e56d8da3a632"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "painmaze.wad",
+	"name": "MAZE OF PAIN",
+	"description": "In your endless fight against the evil hordes from hell, you have been transported to a dreadful maze. Now, find your way out, or DIE !",
+	"date": "2015-01-14 22:48:29",
+	"files": [
+		{
+			"filename": "painmaze.wad",
+			"size": 155912,
+			"crc": 1420077341,
+			"md5": "c4c5e47f350aefd6f2af3a4496f98460",
+			"sha1": "c3ae21152438b39248e7e4cb11bc1fce0da48a87",
+			"sha256": "53a21f73574e9ac8a564ac057cabb4a3a5055a977a39c6c91284982cb938f8ad"
+		}
+	]
+}

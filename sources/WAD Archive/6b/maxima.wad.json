@@ -1,0 +1,16 @@
+{
+	"uid": "maxima.wad",
+	"name": "Maxima",
+	"description": "This is what I have been working on for the past few months on and off. I have had other issues I had to attend to. That is why this has been slow in the release process. Basically I don't expect much praise for the levels, though I myself find them to be very unique. I did remake the entire player texture including the body and head. I hope the new textures are to everyone's enjoyment. The player head in the status bar now has red John Lennon glasses on. The player body is now wearing a trenchcoat, jeans, and a cross necklace. The levels themselves are fairly unique aswell. The first level is in a cave system. The second level is in a military compound. The third level is in Hell. The fourth level is a room in which you can view the body textures in game. I really hope all of you enjoy playing this WAD as much as I enjoyed making it. Yes you CAN use the new textures, just please give credit where credit is due. I don't ask for much just mention me either in the text file or somewhere noticible. Thanks again and enjoy.",
+	"date": "2015-01-13 21:34:40",
+	"files": [
+		{
+			"filename": "maxima.wad",
+			"size": 468775,
+			"crc": 865267397,
+			"md5": "822127181e9f3233eb15f8e3dd44c40b",
+			"sha1": "6b06ff1180c22464d38952c65fac787c6cea89e1",
+			"sha256": "b7358e0048ba3276374be004fb4f3bc9efc358e8cdc8e3cdefd5d375265496b4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hurt (284e74).wad",
+	"name": "Hard until reply tested (Hurt)",
+	"description": "This is our second product. As said, no real story behind, but yopu need some strategy and discipline to succeed without cheating. Collect all possivle ammo and health. You will need it.",
+	"version": "284e74",
+	"date": "2014-12-18 22:27:25",
+	"files": [
+		{
+			"filename": "hurt.wad",
+			"size": 651259,
+			"crc": 861311842,
+			"md5": "73be43649c594472bd227930e1d6ae51",
+			"sha1": "284e740e2a37e25c5abf32d3aaa2e6fc70798dc6",
+			"sha256": "0889f70e93b7a2e2cc232a285a74613e18a5a5420c7b2120f46941d6670deb8b"
+		}
+	]
+}

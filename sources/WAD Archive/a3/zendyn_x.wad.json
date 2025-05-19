@@ -1,0 +1,16 @@
+{
+	"uid": "zendyn_x.wad",
+	"name": "Zen Dynamics",
+	"description": "One seemingly random day, I was sitting around doing nothing... when it hit me: The perfect way to make true reloading weapons in Zdoom. It worked like a charm in an example wad I put together, but I thought that a simple demo wad with a single test level would not do the reloading trick any justice... so two weeks later, I brought you this: Zen Dynamics, a Zdoom Revolution.",
+	"date": "2013-04-18 22:22:49",
+	"files": [
+		{
+			"filename": "zendyn_x.wad",
+			"size": 40225264,
+			"crc": 315618474,
+			"md5": "712f6e46ef4120ee76910ae23ede8251",
+			"sha1": "a36d2d86ad05f09f6cf53819feb974254d23cd9f",
+			"sha256": "4709b1f5b886c1524c29035e82f1210c70526c6b635e6aa3e6f0a96564ba1fab"
+		}
+	]
+}

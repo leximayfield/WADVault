@@ -1,0 +1,16 @@
+{
+	"uid": "ph_08-07-20_gibletarium.wad",
+	"name": "Gibletarium",
+	"description": "Using only 10 textures/flats and a 2048 square playable area, this ZDoom map is a dingy, brown cave full of torture devices, traps, cages and foreboding, with tight spaces and darkness to keep the player on edge. Uses minor scripting, jumping and slopes. This map was originally included in the TEN Community Project as MAP05 of the single-player episode.",
+	"date": "2019-08-06 20:29:04",
+	"files": [
+		{
+			"filename": "ph_08-07-20_gibletarium.wad",
+			"size": 254161,
+			"crc": 3939245078,
+			"md5": "9fc5906cf56bcab15e8b758e247b79a3",
+			"sha1": "2b8b3ebdc418a074b4fac6d08f1e5ee26c64127d",
+			"sha256": "52728158467fa783c490cbc35d96596db60b0d8a91b2136575f85d0621b95ab3"
+		}
+	]
+}

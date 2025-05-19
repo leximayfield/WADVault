@@ -1,0 +1,17 @@
+{
+	"uid": "cortyard (802868).wad",
+	"name": "The Court Yard",
+	"description": "A tough basement, a fun maze, and a couple of teleports. Nothing too hard.",
+	"version": "802868",
+	"date": "2016-02-07 20:25:06",
+	"files": [
+		{
+			"filename": "cortyard.wad",
+			"size": 60623,
+			"crc": 2803501570,
+			"md5": "72fb7c39376cad67c388a711d8ef3aed",
+			"sha1": "802868628eb1feea9aa314d3f9cadc31ed87f469",
+			"sha256": "acfea526c426911896d2c6db0e6eee6c90b3b5a16958fa9885f9ce0ee40eee5b"
+		}
+	]
+}

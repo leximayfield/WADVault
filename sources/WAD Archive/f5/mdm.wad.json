@@ -1,0 +1,16 @@
+{
+	"uid": "mdm.wad",
+	"name": "Super Mario Bros Deathmatch",
+	"description": "A project brought to you by the ZDoom and Skulltag community, this is deathmatch in the Mushroom kingdom, an additional weapon mod was planned and contstructed that contained weapons such as Racoon and FireFlower morph pickups, but due to Skulltag's currect limited morph support and bugginess it has been scrapped, which is a real shame. MDM04 has been excluded from the maplist because it has awful gameplay value, but you can still warp to it if you are curious.",
+	"date": "2013-04-19 00:49:44",
+	"files": [
+		{
+			"filename": "mdm.wad",
+			"size": 4374848,
+			"crc": 1686875801,
+			"md5": "f279c967035f4cfd6f8c6a828238e727",
+			"sha1": "f5526b935cf28e515ee445ce5304794cb3388efc",
+			"sha256": "e0ebc201774dea7c7e76feb655c30379e08d7569f135d47fbfdd507d59e97b14"
+		}
+	]
+}

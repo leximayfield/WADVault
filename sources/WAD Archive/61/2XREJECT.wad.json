@@ -1,0 +1,16 @@
+{
+	"uid": "2XREJECT.wad",
+	"name": "Double Reject",
+	"description": "A couple of ill-fated vanilla Doom II maps that I designed for community projects in 2018-2019 but that failed to make it into a megawad release. Rather than leave them to crumble to digital dust, I've fixed them up to release on their own, mostly in the form of making them work in stock Doom 2 without the resource packs of their respective projects, but MAP02 also got a little extra polish since it wasn't entirely finished when it got canned. Aside from their similar origin stories, the maps are unconnected and can be tackled individually, but I placed the larger/harder map second if you want to attempt continuous play.",
+	"date": "2019-11-18 16:14:50",
+	"files": [
+		{
+			"filename": "2XREJECT.wad",
+			"size": 711813,
+			"crc": 2170733000,
+			"md5": "67b8a50865b684bf5f6fedcd3b92e092",
+			"sha1": "611e2ec39e3b2b8b81ec338126539b3644836438",
+			"sha256": "67aba70d4023da39c1f363141124dbd85e053bd220cfb3b4d87985743b210275"
+		}
+	]
+}

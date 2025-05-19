@@ -1,0 +1,16 @@
+{
+	"uid": "GYM_96.wad",
+	"name": "GYM_96  (gym_96.wad, gym_96.txt)",
+	"description": "This is the third installment to the Gym series. I wanted to keep the \"run & gun\" action of the first two, but I wanted to change the look. Its shaped like a big wheel, with a Main central room surrounded by a circular corridor that is attached by several stairways. There are also many smaller corridors that contain weapons and health.",
+	"date": "2014-08-30 14:29:11",
+	"files": [
+		{
+			"filename": "GYM_96.wad",
+			"size": 44459,
+			"crc": 1281754992,
+			"md5": "b4bb88ee35de52608d0fea19a0d85112",
+			"sha1": "c01b328ba433f16f84d92f61da2311e917568763",
+			"sha256": "aab4690eb0921e0997659f4974ed517bace5fcdfb9dad1898047a11859fe0974"
+		}
+	]
+}

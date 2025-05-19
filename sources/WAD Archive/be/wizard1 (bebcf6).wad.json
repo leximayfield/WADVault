@@ -1,0 +1,17 @@
+{
+	"uid": "wizard1 (bebcf6).wad",
+	"name": "WIZARD",
+	"description": "This is WIZARD. Episode 1 Map 1 (pwad).....for Heretic.",
+	"version": "bebcf6",
+	"date": "2013-11-06 22:46:49",
+	"files": [
+		{
+			"filename": "wizard1.wad",
+			"size": 163854,
+			"crc": 655445459,
+			"md5": "c3c3b65c98666720e463904459ca2f95",
+			"sha1": "bebcf60821d9a548d3233f89020147a59a39ab9f",
+			"sha256": "b279ad01c8ce43b122a00523bf8f27af23d76842b5c62da34fb1c01ce056509b"
+		}
+	]
+}

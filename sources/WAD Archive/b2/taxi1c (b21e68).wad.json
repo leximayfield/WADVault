@@ -1,0 +1,17 @@
+{
+	"uid": "taxi1c (b21e68).wad",
+	"name": "Taxi (no special meaning)",
+	"description": "A fun deathmatch wad",
+	"version": "b21e68",
+	"date": "2013-11-06 22:56:30",
+	"files": [
+		{
+			"filename": "taxi1c.wad",
+			"size": 65570,
+			"crc": 202908918,
+			"md5": "e4e178217dbf55f9fa6cb3d4add06771",
+			"sha1": "b21e6813f5bef76966e4c52a1b78ccea2fd4c46c",
+			"sha256": "2dfb166568151bb458bd57ed5d1be16c2b3799f14d5c4d5fb28e8252be3c4ec2"
+		}
+	]
+}

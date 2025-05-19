@@ -1,0 +1,16 @@
+{
+	"uid": "aresjnrs.wad",
+	"name": "Sons of Ares",
+	"description": "Episode 1 replacement for Doom 1 Play-tested only with pistol starts Not balanced for continuous play Multiplayer Things exist but NOT playtested Damaging flats are consistent across maps In 320x200 distant shootable switches can be hard to see Infinitely tall monsters can get in your way",
+	"date": "2018-02-15 20:37:15",
+	"files": [
+		{
+			"filename": "aresjnrs.wad",
+			"size": 1569263,
+			"crc": 1749553725,
+			"md5": "0af86667a45ce422c0aaa7962bfb900a",
+			"sha1": "f39082ac45f137a0e3afd919eee15c945434ef21",
+			"sha256": "e097c5c9d1c879f1132cd33dd88187942c9806099fa800c7c87f51dff3669f1f"
+		}
+	]
+}

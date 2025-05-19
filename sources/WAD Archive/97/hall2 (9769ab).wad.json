@@ -1,0 +1,17 @@
+{
+	"uid": "hall2 (9769ab).wad",
+	"name": "More Twisting Halls",
+	"description": "This is another level featuring a large hall. Of course there's lotsa neat stuff to get there. Also, this is the second level I sketched on paper before building. The first was ying1.wad, check it out. Built most of the level with DEU2 hack for doom2. Furnished it with DCK 2.0 Like my first wad (eyestorm) this one has some extra stuff for deathmatch- secret passages, teleport, extra weapons and such.",
+	"version": "9769ab",
+	"date": "2013-11-02 15:44:27",
+	"files": [
+		{
+			"filename": "hall2.wad",
+			"size": 297603,
+			"crc": 3906149173,
+			"md5": "c580e8c6175ae8d8e97a244f79f96c26",
+			"sha1": "9769abe62c446e2d0bf7b1591836c618e8a0367b",
+			"sha256": "0ed3fdb3a61606fe45921840532a6d0e28d429cb1037aa490583ab2e68803655"
+		}
+	]
+}

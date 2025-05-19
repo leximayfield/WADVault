@@ -1,0 +1,16 @@
+{
+	"uid": "dt-mini2.wad",
+	"name": "Mini Gun 2 & sawed-off shotgun",
+	"description": "This is a 'down the barrel' style weapons patch. Some people prefer it that way. Replaces the chaingun, with the excellent T2 style chaingun from Beyond DooM: The Apocalypse TC by Anthony Galica. Also replaces the shotgun with a shorter, sawed-off DooM shotgun. I had these sprites for a long time, and decided to use them.",
+	"date": "2014-12-10 22:46:25",
+	"files": [
+		{
+			"filename": "dt-mini2.wad",
+			"size": 79556,
+			"crc": 3385354706,
+			"md5": "b1b4238c3ece29fd334504aa3b202aeb",
+			"sha1": "246baff46fd2c9393734a086c9a0e4c8815411c9",
+			"sha256": "14eddbb159b8bb1779e46077265dc8b468794b65181bca1fb4444ed6bdcaa3e5"
+		}
+	]
+}

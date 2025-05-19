@@ -1,0 +1,17 @@
+{
+	"uid": "descent (a649e1).wad",
+	"name": "The Descent",
+	"description": "10 Map hub for Hexen. A serpent-infested complex reveals portals to various hells. The player must find a way to close the portals for good. Aiming for fairly quick time between sections, for a slightly faster pace than original Hexen. I've managed to learn a bit about scripting and have included some cross-map triggers, building platforms out of lava, earthquakes, ambient sounds, traps and flavor descriptions. Also making use of custom music and the \"fade\" function.",
+	"version": "a649e1",
+	"date": "2015-09-15 18:11:51",
+	"files": [
+		{
+			"filename": "descent.wad",
+			"size": 1796700,
+			"crc": 2261218132,
+			"md5": "d73d341d3ea9592910c321eebf7a6d3a",
+			"sha1": "a649e138c65cf1765a6c31185002123bf9da7863",
+			"sha256": "c4309612aec8a50f7ce45b6566f18cae80902fae59ecedd187493bd03986e56b"
+		}
+	]
+}

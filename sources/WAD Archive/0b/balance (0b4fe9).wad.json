@@ -1,0 +1,17 @@
+{
+	"uid": "balance (0b4fe9).wad",
+	"name": "balance.wad",
+	"description": "A deathmatch level that takes place in a dark storeroom. Players must dance on crate tops without falling off to eliminate the enemy. No worries though, there is no penalty for falling. Actually, just the weapons are on the boxes, and most of your battle will probably take place on the ground. A partition in the middle of the room will keep your pal on his own side. Unless of course he lowers the lift and decides to visit you!",
+	"version": "0b4fe9",
+	"date": "2014-08-30 14:30:26",
+	"files": [
+		{
+			"filename": "balance.wad",
+			"size": 18099,
+			"crc": 2234991991,
+			"md5": "8a6cf513c14c8259d30a597934b55402",
+			"sha1": "0b4fe913c0ca6e2b9c930f5210e4bd7dd59d4e85",
+			"sha256": "a6f0d581d645c2803f6a39a0ab90e3301df71a3a8c936a44d60854ed7c86ebd8"
+		}
+	]
+}

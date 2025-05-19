@@ -1,0 +1,16 @@
+{
+	"uid": "db666.wad",
+	"name": "Deimos Base #666",
+	"description": "Oh no! UAC had reported a Cyberdemon in a previously unknown base. Your mission is as always, find the Cyber and then get out! Good luck!",
+	"date": "2014-12-14 20:52:31",
+	"files": [
+		{
+			"filename": "db666.wad",
+			"size": 2935,
+			"crc": 28958676,
+			"md5": "6ff61163fd8e179e51192d7d29e82140",
+			"sha1": "99a418665b437c9b7c9243fa89fe9642cd423ead",
+			"sha256": "317755f891985333ea1f8394568a4bd56df68e4f0313b15dd1d84f034de5963b"
+		}
+	]
+}

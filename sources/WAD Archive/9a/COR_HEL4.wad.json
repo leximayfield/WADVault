@@ -1,0 +1,16 @@
+{
+	"uid": "COR_HEL4.wad",
+	"name": "Corridors of Hell (4th upload) for Doom II HOE.",
+	"description": "Medium to large level. Built up on small rooms connected with corridors. Also contains a wastearea. This is the ultimate challenge if you play on skill 4. This level is suitable for single, cooperative and deathmatch. The level was designed with single in mind, but we later found out that deathmatch was quite fun in this level too. The last update have special starts for coop and more deathmatch stuff, like more weapons and teleports. Deathmatchers should keep out of the large arena in the last part of the level.",
+	"date": "2014-08-30 13:58:58",
+	"files": [
+		{
+			"filename": "COR_HEL4.wad",
+			"size": 155098,
+			"crc": 1685386949,
+			"md5": "4c2192efda0c25af49b21885c0c53c09",
+			"sha1": "9a31455b83a88280bda694d61448c7b6ace5c6ce",
+			"sha256": "37be255b9ef7b574d36360fb02b6658322eba3c109154cc94770865bf5b189f9"
+		}
+	]
+}

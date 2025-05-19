@@ -1,0 +1,16 @@
+{
+	"uid": "fpanties.pk3",
+	"name": "Freaky Panties",
+	"description": "Freaky Panties is an experimental level that adjusts itself to how well you play. If you're playing well, it will get a bit harder. If you start to die too often, it will scale back the difficulty automatically. Essentially I tried to make the map adjust itself without ever having to set a monster or item to only appear on certain difficulty settings.",
+	"date": "2019-03-19 22:25:32",
+	"files": [
+		{
+			"filename": "fpanties.pk3",
+			"size": 8737786,
+			"crc": 1109648843,
+			"md5": "45c3118536c2c3e9893646e07545aa7b",
+			"sha1": "bd57c8cb9ff75a7550b830b1986a743bf9c97749",
+			"sha256": "71d986bf97a08771f4307b6ebb8877bb269d199101581914e2561a0a5b05f881"
+		}
+	]
+}

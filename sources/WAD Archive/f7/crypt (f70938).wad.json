@@ -1,0 +1,17 @@
+{
+	"uid": "crypt (f70938).wad",
+	"name": "Crypt Of Pain",
+	"description": "After saving the world in the real DOOM levels, the military has shown it's gratitude in the usual way, by sending you off on another crap mission. This time it was to escort an archaeologist to the ledgendary Crypt Of Pain. So, as you've probably guessed, the archaeologist died and left you to find your way out of this hellhole. Have Fun! **NOTE** You will need to find several secret doors to finish this level, so KEEP LOOKING!!!",
+	"version": "f70938",
+	"date": "2014-12-15 22:39:40",
+	"files": [
+		{
+			"filename": "crypt.wad",
+			"size": 18308,
+			"crc": 2069709576,
+			"md5": "2de5f69887461929bbdb9924887b8cb8",
+			"sha1": "f7093827fee93bf3f2a594163a6d9598694fda84",
+			"sha256": "8bfaf16f39e176e3cbbfd71591f2b31816c716f4401ce6e9a94dee18039e378b"
+		}
+	]
+}

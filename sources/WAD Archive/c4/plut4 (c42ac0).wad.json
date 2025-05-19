@@ -1,0 +1,17 @@
+{
+	"uid": "plut4 (c42ac0).wad",
+	"name": "Plutonia 4 - Back to your hole",
+	"description": "When the doom marine surfaced from hell, he forgot to turn off the oven, so he goes back but demons don't want him, so they try to stop him.",
+	"version": "c42ac0",
+	"date": "2018-04-14 20:02:02",
+	"files": [
+		{
+			"filename": "plut4.wad",
+			"size": 6091678,
+			"crc": 2355869032,
+			"md5": "c29fd135ae29c004a240522c8847072e",
+			"sha1": "c42ac0b7733981508febc6769cfe47925e60c39d",
+			"sha256": "82bb5222275a4649cbd8995fd0febd8c22150764e3f2f83c0f5813f25410c3ab"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "reactor2 (3ce572).wad",
+	"name": "Reactor 2",
+	"description": "This is a remake of the original Reactor that I released a couple of months ago. The first one ended the way it did because the editor I was using (Waded 1.23) couldn't handle any more additions. I finished it with Doom Construction Kit 1.1a. (I never could get the hang of DEU) You'll find things a bit more interesting in the main core room now. ;) I also added new music and fixed a couple of bugs. This new one is also much faster than the old one thanks to Reject Map Builder 1.2. Check it out if you can find it. It works even better than IDBSP. In the .lmp you'll also find a demo of Doom Mouse Spinner. If you see me make an instant 180 degree turn, that's what it was. Enjoy.",
+	"version": "3ce572",
+	"date": "2013-11-02 16:48:37",
+	"files": [
+		{
+			"filename": "reactor2.wad",
+			"size": 239246,
+			"crc": 2676608581,
+			"md5": "97dc9cf52edd2bafb1cc6fb984fcf30c",
+			"sha1": "3ce572b8ea85fd09d45853f7fe3237beaaa16c65",
+			"sha256": "ad83c318414debd94f3f36429bbcaeb44af91ce76e82b1ee8e6038648c2a083d"
+		}
+	]
+}

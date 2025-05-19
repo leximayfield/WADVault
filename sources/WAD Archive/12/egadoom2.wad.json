@@ -1,0 +1,16 @@
+{
+	"uid": "egadoom2.wad",
+	"name": "EGA Doom II",
+	"description": "unlike deathz0r's EGAdoom, this is the real deal BITCH!",
+	"date": "2015-09-14 23:30:20",
+	"files": [
+		{
+			"filename": "egadoom2.wad",
+			"size": 9516,
+			"crc": 189386997,
+			"md5": "d2773cdf92f5280c0cd46a4ba8d52bf7",
+			"sha1": "12c063a9250349cb113c4d1fb38532034945743e",
+			"sha256": "b2acd1057028401e4f85ee02125d184911dfed1597e17de35cef37caa982a120"
+		}
+	]
+}

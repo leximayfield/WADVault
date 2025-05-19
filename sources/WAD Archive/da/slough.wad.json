@@ -1,0 +1,16 @@
+{
+	"uid": "slough.wad",
+	"name": "The Slough Deathmatch",
+	"description": "A totally new level for Deathmatch play. This level consists of seven rooms with hallways to connect them. A few rooms are outside. There are a few windows for pot shots. Visual detail was a high concern during creation. All textures are alligned properly. All weapons can be found but the BFG is tricky.",
+	"date": "2013-11-04 19:19:11",
+	"files": [
+		{
+			"filename": "slough.wad",
+			"size": 311696,
+			"crc": 3705450715,
+			"md5": "897cd75dd69708cd15d24e5af86a74af",
+			"sha1": "da27a975ec217baa85ca87a36df4561f136cb4c0",
+			"sha256": "555fc3c73f4ac5e3901b922a242e6069df0f0e144cd18da8c987489d12273f97"
+		}
+	]
+}

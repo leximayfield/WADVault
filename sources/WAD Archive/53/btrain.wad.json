@@ -1,0 +1,16 @@
+{
+	"uid": "btrain.wad",
+	"name": "Bullet Train",
+	"description": "I got the idea from one of the assault maps in Unreal Tourny called HiSpeed (or something to that effect) where you had to basicly fight and take over the other teams train (which was moving the whole time). So then I said, \"hey, that would be a cool DM map as well\". Of course I meant for Doom. It's a tad smaller than its UT counterpart, and not quite as convincing, but it gets the point across, and it manages to play fairly well with the bots (once you've run around enough so they get proper nodes). And, of course, this is a ZDoom map.",
+	"date": "2014-12-15 23:09:32",
+	"files": [
+		{
+			"filename": "btrain.wad",
+			"size": 279269,
+			"crc": 2121500537,
+			"md5": "8971f41813fe633c582c146a67062515",
+			"sha1": "533c00dad2884ed3086f4f4ebc0d722eb93c0e61",
+			"sha256": "0a4e7782526a1004482116674b47a9987b516018002f031586d1beeecd761cf3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bludfest (2e7e5f).wad",
+	"name": "BLUDFEST.WAD",
+	"description": "Basically you run around shooting at monsters and picking up stuff while the monsters are shooting at you.",
+	"version": "2e7e5f",
+	"date": "2015-12-07 10:30:18",
+	"files": [
+		{
+			"filename": "bludfest.wad",
+			"size": 199142,
+			"crc": 4163765680,
+			"md5": "557ec0928b6d3d3cf73acc27c3f2c419",
+			"sha1": "2e7e5fd10f1f5368541f61378e1d7d34b823817e",
+			"sha256": "069678fa301e1297650964c95b5d28b8b2e05c80aaa6b5f313c9e60b075f2fae"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "MANCERX.wad",
+	"name": "Mancer Extreme",
+	"description": "I noticed a lot of platforms in MancerX2 so I took a different approach on building MancerX3... The file sized stayed small :)",
+	"date": "2013-07-26 17:30:02",
+	"files": [
+		{
+			"filename": "MANCERX.wad",
+			"size": 436493,
+			"crc": 935604826,
+			"md5": "e8b17d6458101d6c6c79bc18121928bc",
+			"sha1": "2ee339c8e9e18cbe1905efc600941c258b72bb0c",
+			"sha256": "c87142aa9bc3cae8c8c12daad4d8e3dc802514cea2579b0f5d4078ed4ec84209"
+		}
+	]
+}

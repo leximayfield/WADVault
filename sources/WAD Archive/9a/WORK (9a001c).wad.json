@@ -1,0 +1,17 @@
+{
+	"uid": "WORK (9a001c).wad",
+	"name": "(Hard)WORK",
+	"description": "Largish DOOM II level for Deathmatch or for Single play with the -ALTDEATH parameter. New graphics too! Fake walls, secret doors, secret doors behind fake walls, all that fun stuff is included. Puzzles are present.",
+	"version": "9a001c",
+	"date": "2013-11-06 22:37:37",
+	"files": [
+		{
+			"filename": "WORK.wad",
+			"size": 576445,
+			"crc": 2721764584,
+			"md5": "3a50f2f00ddb476a7990956a76fc2e8f",
+			"sha1": "9a001c929e4160ea9fbcd345f969664d92e76f35",
+			"sha256": "e39cd34408113bc30c5761f66f5a4d6f9039e9706eb90224362740cd5718682b"
+		}
+	]
+}

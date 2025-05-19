@@ -1,0 +1,16 @@
+{
+	"uid": "pc_abt.wad",
+	"name": "Another Bloody Chapter",
+	"description": "This is a medium sized to large level for Doom2 that replaces Map28. Expect a rather hellish challenge.",
+	"date": "2014-12-29 08:50:19",
+	"files": [
+		{
+			"filename": "pc_abt.wad",
+			"size": 803363,
+			"crc": 546158804,
+			"md5": "e2fca49fdc1531324f594a0d40bb27df",
+			"sha1": "80de5caf13ae6055cd515d3a172e60de4517d1b4",
+			"sha256": "2698729d7d5ea3a1589473f4199697be842831572fb252eb4d0de756c276a5b3"
+		}
+	]
+}

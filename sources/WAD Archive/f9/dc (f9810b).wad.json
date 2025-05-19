@@ -1,0 +1,17 @@
+{
+	"uid": "dc (f9810b).wad",
+	"name": "Destruction Comes!",
+	"description": "Slagfest! This wad is very challenging in single player mode and even harder in coop mode. The deathmatches are fairly good since the level is small but two player games still have problems with finding each other. I can't think of anything else to write so play it yourself and see what you think.",
+	"version": "f9810b",
+	"date": "2013-07-09 20:21:15",
+	"files": [
+		{
+			"filename": "dc.wad",
+			"size": 116524,
+			"crc": 1348105990,
+			"md5": "823c3d8e83d553f17ccf8bcff120e761",
+			"sha1": "f9810b09fa53e26aa4b5530222e8d5c38252e4e9",
+			"sha256": "365d470a411ffbbafdb599052d8f110a37625dcc23f4e5e2d266625f5ec94522"
+		}
+	]
+}

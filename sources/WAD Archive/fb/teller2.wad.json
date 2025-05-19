@@ -1,0 +1,16 @@
+{
+	"uid": "teller2.wad",
+	"name": "Tellerstein's Base",
+	"description": "Thou art trapped in Tellerstein's Base, canst thou survive his wretched and hellish spawns?",
+	"date": "2014-12-29 15:29:22",
+	"files": [
+		{
+			"filename": "teller2.wad",
+			"size": 199159,
+			"crc": 3261780950,
+			"md5": "a4c5533f79583b8fa2b6f209ecde1c62",
+			"sha1": "fbff7ccde2a3cd21ee8078a7678167ba1488d9b0",
+			"sha256": "5bc0916e9b3615aadb2244fdefb49ee1b2a223b957254c895d224cd64435707d"
+		}
+	]
+}

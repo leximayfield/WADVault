@@ -1,0 +1,16 @@
+{
+	"uid": "unitycity1.4.wad",
+	"name": "Unity City (Version 1.4)",
+	"description": "A 6-level Doom Base style miniWAD created from scratch. Designed original Doom style, meaning No Jumping or crouching, mouseaim not recommended.",
+	"date": "2015-01-14 23:09:24",
+	"files": [
+		{
+			"filename": "unitycity1.4.wad",
+			"size": 12343821,
+			"crc": 2945365749,
+			"md5": "27e5733635feb4ebbeed6d7455c0e55d",
+			"sha1": "a70b63a28167c8db667cf7a854d821397951545b",
+			"sha256": "161cffa8e6a04fa9ace4acb8474a3d9ac52bf69a8bc822c9656cc9616e008aca"
+		}
+	]
+}

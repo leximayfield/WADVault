@@ -1,0 +1,16 @@
+{
+	"uid": "spcexmpl.wad",
+	"name": ".SPC to .IT Example.",
+	"description": "This is a simple wad containing an Impulse Tracker module dumped from a music file from a Super Nintendo game, or a SPC file. I used a program called OpenSPC (Google it) to dump it, then used ModPlug Tracker to clean it up and format it. Then, I put it in this wad for use with ZDoom.",
+	"date": "2015-09-14 20:22:03",
+	"files": [
+		{
+			"filename": "spcexmpl.wad",
+			"size": 154214,
+			"crc": 2518533453,
+			"md5": "294c479d6ff552e55fc5b56da84368a9",
+			"sha1": "d8433ce414a60c5aea285602871e456b41a435ee",
+			"sha256": "4a6e239240656ad51bf1ce80a09f6ddf1e3f5b8365b6c35d32c3859b438701ac"
+		}
+	]
+}

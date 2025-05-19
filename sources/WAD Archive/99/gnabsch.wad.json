@@ -1,0 +1,16 @@
+{
+	"uid": "gnabsch.wad",
+	"name": "gnabsch.WAD",
+	"description": "(Gnabsch is german and means: gnuh-bsh exactly what it sounds like!(onomatopoeia rulez))",
+	"date": "2014-12-18 22:40:03",
+	"files": [
+		{
+			"filename": "gnabsch.wad",
+			"size": 455631,
+			"crc": 1186188132,
+			"md5": "a877cec259abd97943316c9e192bed3e",
+			"sha1": "999e35ad6cbebf4fa246721c8116e6cef4ca0f05",
+			"sha256": "ab6f392837afc0cf1c2d0383e4af71e5e1cc7b8cee2c81b9d7a6bfb064c6cc7e"
+		}
+	]
+}

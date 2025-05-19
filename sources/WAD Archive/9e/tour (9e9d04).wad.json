@@ -1,0 +1,17 @@
+{
+	"uid": "tour (9e9d04).wad",
+	"name": "Tour De France (Watched it while creating)",
+	"description": "Designed this puppy to be a very intense deathmatch level. Wanted a fast flowing level playable by most machines.",
+	"version": "9e9d04",
+	"date": "2013-11-02 15:50:03",
+	"files": [
+		{
+			"filename": "tour.wad",
+			"size": 133412,
+			"crc": 3728633391,
+			"md5": "12f02c5bbebe6f6bd45107f90403a808",
+			"sha1": "9e9d04978e7b720f0e078587e5add773dd1f2f54",
+			"sha256": "0f13778a0ca80dc8fd1642cb041e3be928f4de8ced014c210afb12aa54ec66a6"
+		}
+	]
+}

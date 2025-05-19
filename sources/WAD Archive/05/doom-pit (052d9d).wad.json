@@ -1,0 +1,16 @@
+{
+	"uid": "doom-pit (052d9d).wad",
+	"name": "The Pit of DOOM",
+	"version": "052d9d",
+	"date": "2014-01-04 11:56:08",
+	"files": [
+		{
+			"filename": "doom-pit.wad",
+			"size": 110302,
+			"crc": 1495225941,
+			"md5": "335ebe63b4f30ba10ec92a9a49c45a2f",
+			"sha1": "052d9d3b122af078ea823ca98ceae81af8a7e004",
+			"sha256": "3d76a6b36356abd7ebfcee36a9a3769e8f764ee4f23e1d3550e6ecba7646ab29"
+		}
+	]
+}

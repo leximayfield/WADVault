@@ -1,0 +1,16 @@
+{
+	"uid": "emerbath.wad",
+	"name": "Emerald Bathhouse",
+	"description": "A Small-Medium sized level for vanilla Heretic that replaces E3M1. The map was originally part of a bigger episode wad that I was working on, but I stopped working on it later, leaving only this map finished.",
+	"date": "2016-10-17 17:02:36",
+	"files": [
+		{
+			"filename": "emerbath.wad",
+			"size": 300703,
+			"crc": 3561602071,
+			"md5": "c03372c5f330e6123ec9f9cc40af0cdc",
+			"sha1": "a1782900ac76ded38c3568155209250ce2f6dcdd",
+			"sha256": "4bdd3ed9af9a2675d3794b9f9e93c3b925eaf9d6f67de990c54238979c67d3d8"
+		}
+	]
+}

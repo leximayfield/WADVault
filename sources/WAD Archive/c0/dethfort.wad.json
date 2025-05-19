@@ -1,0 +1,16 @@
+{
+	"uid": "dethfort.wad",
+	"name": "DEATH FORT",
+	"description": "The forth Wad in the series.",
+	"date": "2014-12-18 22:52:05",
+	"files": [
+		{
+			"filename": "dethfort.wad",
+			"size": 101328,
+			"crc": 3797582416,
+			"md5": "b2054de0070c87c1a6cf1e7813ba513e",
+			"sha1": "c0502be03220fb972c11bf7055f9957f8e7fc159",
+			"sha256": "4f24fccf562d5fac8558638f93b849594fa7d18a835ec4f7e48c4f5d3f84112b"
+		}
+	]
+}

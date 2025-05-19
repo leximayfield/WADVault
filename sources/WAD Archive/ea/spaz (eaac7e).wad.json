@@ -1,0 +1,17 @@
+{
+	"uid": "spaz (eaac7e).wad",
+	"name": "BILLY WAD",
+	"description": "",
+	"version": "eaac7e",
+	"date": "2016-02-07 20:29:05",
+	"files": [
+		{
+			"filename": "spaz.wad",
+			"size": 59309,
+			"crc": 4055191192,
+			"md5": "84e4ec763df2c98c2ade8035c4bfd518",
+			"sha1": "eaac7ec5281614c1b91ed729d248dd9646d0adf9",
+			"sha256": "2ed278bae30bd58d8393b8b92cf878faebce6dc3331eb5b2c5d5c982463d8564"
+		}
+	]
+}

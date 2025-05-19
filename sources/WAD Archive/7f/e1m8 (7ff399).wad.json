@@ -1,0 +1,17 @@
+{
+	"uid": "e1m8 (7ff399).wad",
+	"name": "Freedoom E1M8",
+	"description": "A remplacement for E1M8. There's a starlike room and 2 barons of hell to kill. This is a beta version of a work in progress!",
+	"version": "7ff399",
+	"date": "2015-06-29 12:20:50",
+	"files": [
+		{
+			"filename": "e1m8.wad",
+			"size": 215265,
+			"crc": 520452134,
+			"md5": "d35eb699a84055cdfef22abc2c12fef5",
+			"sha1": "7ff3991382360ec54d85e44959979cf25a6ea19d",
+			"sha256": "7a70c2faec8fa8688bdcec2e61721d5069f8ceef10397ba03811c2e3d3debe80"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "kbc_tex.wad",
+	"name": "The Kerberos Complex Texture Pack",
+	"description": "This is a texture pack that was used for some techbase levels of Struggle, and The Kerberos Complex for Doomworld Mega Project 2017. It features 129 patches and 38 flats, designed for a techbase with four color themes; blue, green, red, and yellow. There are other textures that can be used for conventional doom levels, like brick walls and concrete walls, tiled floor and concrete ceiling. This zip also includes a custom palette that changes the hue of blue colors, as a separated wad file. The palette was intended to use for The Kerberos Complex, but it was deleted in order to participate to the community project. Feel free to use these textures for your levels if you want, and feel free to edit them out for your own taste. Please notice me if there's an issue with textures. Thanks, and have fun.",
+	"date": "2018-04-14 22:47:20",
+	"files": [
+		{
+			"filename": "kbc_tex.wad",
+			"size": 1868288,
+			"crc": 1334821303,
+			"md5": "ddb0e448e988590618440f41e67d944e",
+			"sha1": "f79d2ab845d6fd5c9fff24df6b4b8a09be5f5bd6",
+			"sha256": "f7daf454bb586015f9d22b55aa21f086cd889f28149cf8196b6affc26d0dcad4"
+		}
+	]
+}

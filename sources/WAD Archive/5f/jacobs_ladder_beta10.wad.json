@@ -1,0 +1,16 @@
+{
+	"uid": "jacobs_ladder_beta10.wad",
+	"name": "Jacob's Ladder",
+	"description": "Jacob's Ladder map select screen (map00 of this compilation), made with Doom Builder 2, Slade 3, & Paint.NET",
+	"date": "2013-07-01 15:09:35",
+	"files": [
+		{
+			"filename": "jacobs_ladder_beta10.wad",
+			"size": 38942045,
+			"crc": 2900958681,
+			"md5": "b0b7662ed5d52e67d657dbf060d3d4ad",
+			"sha1": "5f25b29a0bff9c6a58df46de4de6eb71889107aa",
+			"sha256": "1acb85ebd4697d4c9f57297816a99b92759dc4e27d9d3fe4bf7d680aa7d876a1"
+		}
+	]
+}

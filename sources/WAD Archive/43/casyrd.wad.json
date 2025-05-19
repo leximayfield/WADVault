@@ -1,0 +1,16 @@
+{
+	"uid": "casyrd.wad",
+	"name": "Castle Courtyard",
+	"description": "A map I made for wrack a while ago, I ported it to Doom removing the real 3d parts.",
+	"date": "2014-12-15 22:32:30",
+	"files": [
+		{
+			"filename": "casyrd.wad",
+			"size": 134209,
+			"crc": 2122763463,
+			"md5": "1de1f576288cdd028c33e5946931613b",
+			"sha1": "43fcc6b58e46bf5b3e7f24d2e577dad6991cc0f4",
+			"sha256": "a6f3cfa1b61a7d151c8af3030c32dce5eaef48df19afb1622fe7f685b5d08bc8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "VAL004.wad",
+	"name": "Shotgun Alley",
+	"description": "Small, close-quarters Deathmatch arena for Doom II.",
+	"date": "2014-10-14 20:58:57",
+	"files": [
+		{
+			"filename": "VAL004.wad",
+			"size": 43267,
+			"crc": 1289567070,
+			"md5": "ee71bc308e7fc18915bb0ca4191cc3cc",
+			"sha1": "15256b6fc81094f3e8f6c4500ed2bcdc9f95b8a0",
+			"sha256": "9dd993fb7cba91dc9592efc83fe3e08450944445e6be2d89bbcaca7e62cadc79"
+		}
+	]
+}

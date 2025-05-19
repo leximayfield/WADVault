@@ -1,0 +1,17 @@
+{
+	"uid": "wd1 (1d3dd3).wad",
+	"name": "Wonderfull Doom",
+	"description": "I just wanted all doomers to play First Doom one more time. All levels are similar in design and difficulty to originals, but are constructed from zero(no ctrl-c/ctrl-v, not even one time). Please, do not accept this wad as plagiarism, it`s rather an alternative to various Mood/Randoom-type things..",
+	"version": "1d3dd3",
+	"date": "2013-04-19 03:17:25",
+	"files": [
+		{
+			"filename": "wd1.wad",
+			"size": 4691413,
+			"crc": 538491438,
+			"md5": "718a9fa1eca6133e098e216b50d0f190",
+			"sha1": "1d3dd3ed35618659544ead9d8caacd1cd3a181f7",
+			"sha256": "6788d94ceabd57d085940d97365779d519a71c1fab93f46facd62394021e6734"
+		}
+	]
+}

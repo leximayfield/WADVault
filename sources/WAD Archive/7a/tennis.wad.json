@@ -1,0 +1,16 @@
+{
+	"uid": "tennis.wad",
+	"name": "Tennis",
+	"description": "nice deathmatch level based on Tennis field.",
+	"date": "2014-12-15 22:48:26",
+	"files": [
+		{
+			"filename": "tennis.wad",
+			"size": 185028,
+			"crc": 4101825148,
+			"md5": "c22c2c2eaadad46b453fa927d9007e6a",
+			"sha1": "7aa9b0d4b8017d68e2bb4a756489b0eb97c99baf",
+			"sha256": "8fa518341b7da851401943528ac88e04f8856d0e465af328cc745a54c87dd79c"
+		}
+	]
+}

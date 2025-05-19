@@ -1,0 +1,16 @@
+{
+	"uid": "nowayout.wad",
+	"name": "No Way Out",
+	"description": "\"No Way Out\" is a MAP01 Doom 2 wad replacement. This is my first Doom map ever, just wanted to try things out - Would like some feedback if possible :) It is a pretty difficult map, I scale it to be challenging and just not a gun, shoot, win arena. If you wanna change anything or take a look at it, feel free to do so!",
+	"date": "2016-07-21 19:27:35",
+	"files": [
+		{
+			"filename": "nowayout.wad",
+			"size": 1222385,
+			"crc": 1759964796,
+			"md5": "419b26a7777049ce9167cbb8c910b695",
+			"sha1": "5dbc3f26d7ed14cfd4b130e4070998374385d34f",
+			"sha256": "6ca498eb436e6674e68cf783e3924b24197eed74e20858511a35dbdc0fd1569d"
+		}
+	]
+}

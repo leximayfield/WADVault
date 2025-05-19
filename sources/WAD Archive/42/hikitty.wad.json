@@ -1,0 +1,16 @@
+{
+	"uid": "hikitty.wad",
+	"name": "Hello Kitty",
+	"description": "Hello Kitty has created a nazi fortress and is harvesting nuke extract to produce a bomb to destroy the world.",
+	"date": "2014-12-24 17:41:28",
+	"files": [
+		{
+			"filename": "hikitty.wad",
+			"size": 202888,
+			"crc": 3132063502,
+			"md5": "2c1a973b96f75ffda22fcc1ba88c1a48",
+			"sha1": "42df78d02dab72e2f73ebf2ec9f86464d5f0428b",
+			"sha256": "533be24aebff563c996149bcd2c8ad8abe95228e0ce7dd0f8a46729aed9db33a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "castle (fe0714).wad",
+	"name": "The Dark Castle",
+	"description": "A very large castle with dungeon, courtyards, a sewer and lots of other nifty stuff",
+	"version": "fe0714",
+	"date": "2014-12-31 12:00:01",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 311995,
+			"crc": 1156550693,
+			"md5": "0bf7e186d202212c4c26d179d855f322",
+			"sha1": "fe07143cfec14f44f03629b6b3cf922c7b98311d",
+			"sha256": "9d6f8fe9cd064628b2ae42eead22c7c58d638a3e10901efda9b360388abef707"
+		}
+	]
+}

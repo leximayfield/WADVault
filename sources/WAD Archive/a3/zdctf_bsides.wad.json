@@ -1,0 +1,16 @@
+{
+	"uid": "zdctf_bsides.wad",
+	"name": "ZDaemon CTF B-sides",
+	"description": "19 maps which failed to make the cut for the last ZDCTF map pack. Sometimes for good reason, often simply because the maps never got finished. Also included are alternate versions of two MP3 maps.",
+	"date": "2013-04-19 02:50:30",
+	"files": [
+		{
+			"filename": "zdctf_bsides.wad",
+			"size": 24257333,
+			"crc": 31151756,
+			"md5": "6881fb951605a2118fabd188c5603a5e",
+			"sha1": "a3f6b0e78949fdccba53f983367984ee71b7b914",
+			"sha256": "3ce09edebee8d142e8b5a22b9c46a060b8998b62c3c962bed90cb81ed3b69d3c"
+		}
+	]
+}

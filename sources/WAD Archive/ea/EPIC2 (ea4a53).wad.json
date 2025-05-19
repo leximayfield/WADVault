@@ -1,0 +1,17 @@
+{
+	"uid": "EPIC2 (ea4a53).wad",
+	"name": "EPIC 2",
+	"description": "All levels are designed for vanilla Doom2. Recommended engines: prBoom-plus with \"-complevel 2\" and (G)ZDoom in \"DOOM (strict)\" compatibility mode. Jumping should be disabled.",
+	"version": "ea4a53",
+	"date": "2013-04-19 01:12:32",
+	"files": [
+		{
+			"filename": "EPIC2.wad",
+			"size": 37243712,
+			"crc": 2133416694,
+			"md5": "38596120e305dfd2632005991a4cc204",
+			"sha1": "ea4a5396db3fff97613db61099205bd2219044ed",
+			"sha256": "d0a0b34fb6f718f381a77b883bdf248395eea1c9291f59b498431488f159f35a"
+		}
+	]
+}

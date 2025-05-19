@@ -1,0 +1,17 @@
+{
+	"uid": "fearless (dbea88).wad",
+	"name": "Fearless",
+	"description": "As you stumble through the rocky landscape of the Deimos moon you come across a dead body, something you've become quite used to, clutching a burnt and shredded piece of paper. You pry the sheet from his fingers and read it. You can only make out a little, but its more than enough. The paper describes a device that is used as one of the main warp generators that is bringing in all of this nastiness. This poor soul went to destroy it, but he failed. Well we can't have that now, can we? The paper gives vague directions to a rear entrance that would provide less resistance, and a map of the complex, but unfortunately the map part is especially burnt and shredded. Oh well! You're on your way. You know it may be your last fight, but you've known for a while that there was no escaping this place. You're already dead. You have no fear.",
+	"version": "dbea88",
+	"date": "2013-11-02 15:15:42",
+	"files": [
+		{
+			"filename": "fearless.wad",
+			"size": 102119,
+			"crc": 2553656931,
+			"md5": "e85c1bf1978bc7ffa40173786434e9db",
+			"sha1": "dbea88e869fb1a24283e7e0d229b0ce80d15164d",
+			"sha256": "53a3a68c8173822f1fb6a5dbaad7e47a9a903003db5749b1dd83dd8b79f67205"
+		}
+	]
+}

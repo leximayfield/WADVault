@@ -1,0 +1,16 @@
+{
+	"uid": "luna.wad",
+	"name": "The Pharin Agenda, part 1 - Castle Luna",
+	"description": "Castle Luna. Part museum, part hi-tech laboratory, on the fringe of the lunar terraformed zone. UAC's gift to the citizens of the moon. But someone had other plans for it, and whatever they're doing up there, is isn't finding a cure for cancer. So the Corps wants you to go up and find out what's really happening inside...Castle Luna. (See pharin1.txt for the complete background story.)",
+	"date": "2014-12-27 12:14:42",
+	"files": [
+		{
+			"filename": "luna.wad",
+			"size": 530868,
+			"crc": 1219464036,
+			"md5": "3c83e4d31422e97d383d75aa27dcffdb",
+			"sha1": "2ce18c5819e3aa76240fb572d5ebbcb1b875790b",
+			"sha256": "49f79cc0dc6a285b4faad2d5c97a5446dce40f224d1decb5818ee9057ba7aa36"
+		}
+	]
+}

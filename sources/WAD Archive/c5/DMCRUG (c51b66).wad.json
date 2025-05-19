@@ -1,0 +1,17 @@
+{
+	"uid": "DMCRUG (c51b66).wad",
+	"name": "CRUG.zip (Contains Crug.wad, Crug.bat Crug.txt)",
+	"description": "This is an example of your worst nightmare come true. It seems to be the impossible, frightening and just damned difficult. But wait, look at the map take a minute to consider the plan of action and see if you can end the level.",
+	"version": "c51b66",
+	"date": "2013-11-02 15:07:18",
+	"files": [
+		{
+			"filename": "DMCRUG.wad",
+			"size": 13007,
+			"crc": 2105519371,
+			"md5": "564bf8773b884ad47c9588053923a561",
+			"sha1": "c51b66aef0556d033b759a5e3b5ed85e2e32cfcf",
+			"sha256": "a763a7bae5821a4c32cc1c90a2fd62fff6803f47126aa456f2dcac9f870a2d1c"
+		}
+	]
+}

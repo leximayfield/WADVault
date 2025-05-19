@@ -1,0 +1,17 @@
+{
+	"uid": "rikmusic (d9b83d).wad",
+	"name": "Rick's New Music For Doom",
+	"description": "This wad contains new music for e1m1-4, e2m4, and the interlude between levels and the victory screen.",
+	"version": "d9b83d",
+	"date": "2013-11-02 15:06:29",
+	"files": [
+		{
+			"filename": "rikmusic.wad",
+			"size": 102568,
+			"crc": 1544731914,
+			"md5": "9ad48886ecc05bdbede0c783dd1d3f34",
+			"sha1": "d9b83d2c97d9757bfeb0b0a6359f00ece4fd19ec",
+			"sha256": "d46dda92146ad71ec5d57c291518a4ea806665b3bb3429f0dd3bebe801227bf2"
+		}
+	]
+}

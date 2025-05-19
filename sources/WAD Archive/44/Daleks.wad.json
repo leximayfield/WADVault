@@ -1,0 +1,16 @@
+{
+	"uid": "Daleks.wad",
+	"name": "Daleks",
+	"description": "I thought that the old Dalek sprites from Doctor Who Doom were going to waste in that dusty old wad, so I took the sprites, edited and updated them and made a new improved monster out of them using the wonderful power of the Decorate lump. Use 'summon' command with 'Dalek1-5' to summon the monsters ingame, or place them in your map, this is a monster resource after all!",
+	"date": "2014-12-10 22:46:24",
+	"files": [
+		{
+			"filename": "Daleks.wad",
+			"size": 279077,
+			"crc": 356383872,
+			"md5": "00dc819cffabff0c3ed14684098a1d83",
+			"sha1": "441e4238596b720eda64c76feaad8c9283c6ca85",
+			"sha256": "4a1fe8050cccce3eff511e2401693fa4146d7b673504096522fe2c18eaa9d8fc"
+		}
+	]
+}

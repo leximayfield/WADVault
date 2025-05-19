@@ -1,0 +1,16 @@
+{
+	"uid": "apostate.wad",
+	"name": "Heretic - Call of the Apostate",
+	"description": "An Episode 3 replacement for HERETIC. The episode is laid out so that levels 1-3 are inspired by E1, levels 4, 9, and 5 by E2, and levels 6-8 by E3. Expect a boss fight every 3rd level. I tried to make the difficulty progress nicely so that the beginning is easy but by the end you'll be given some tough fights. I also tried to balance ammo so that each level could be completed from \"elvenwand start\".",
+	"date": "2014-12-30 11:19:38",
+	"files": [
+		{
+			"filename": "apostate.wad",
+			"size": 5710800,
+			"crc": 4280347917,
+			"md5": "f4ceed5c0283a22c5eda105fd8c0380b",
+			"sha1": "1d299258133c9ebd5c23bc1373ff54361362cd5c",
+			"sha256": "0600ca1312c57d867e3cdca0c0c89200af3e988c758b3e771f15c844fb2e38b2"
+		}
+	]
+}

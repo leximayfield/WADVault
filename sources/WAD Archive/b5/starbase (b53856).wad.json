@@ -1,0 +1,17 @@
+{
+	"uid": "starbase (b53856).wad",
+	"name": "Starbase",
+	"description": "First wad I ever made. If you find any errors or bugs please email me immediately so I can fix them.",
+	"version": "b53856",
+	"date": "2015-01-14 23:11:26",
+	"files": [
+		{
+			"filename": "starbase.wad",
+			"size": 24974,
+			"crc": 2288782626,
+			"md5": "a23c9b15300b142113b96106bc93be55",
+			"sha1": "b53856f3152054b63a56d0db72be2b81052959b2",
+			"sha256": "14ef17e09537227711d67e5e5fdf5561b990b21a95f98914286d30410a0a995f"
+		}
+	]
+}

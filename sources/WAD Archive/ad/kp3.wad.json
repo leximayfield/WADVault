@@ -1,0 +1,16 @@
+{
+	"uid": "kp3.wad",
+	"name": "DeathMatch sound WAD+more",
+	"description": "This WAD is my third attempt at sounds. If you were ever bored of Doom before, this will make the game more exciting once again. There are even more sounds for solo play (and a smaller file!)",
+	"date": "2015-09-14 20:47:06",
+	"files": [
+		{
+			"filename": "kp3.wad",
+			"size": 1144235,
+			"crc": 2425693626,
+			"md5": "131d77a1e23c127bb95108e1f14e3d1f",
+			"sha1": "ad88d6c55f04f40d9cdb363100b552b261f5ffa0",
+			"sha256": "46c10d738049081ee096e232f21c4e797414d65efc1e0d4fde5ea3e3a6b76c61"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tigerden (f58834).wad",
+	"name": "The Tiger Den",
+	"description": "You are trapped in enemy land, a den of tigers. The only way to escape is to combat the enemies and steal their keys. Good Luck!",
+	"version": "f58834",
+	"date": "2013-11-02 15:40:16",
+	"files": [
+		{
+			"filename": "tigerden.wad",
+			"size": 116110,
+			"crc": 224837654,
+			"md5": "3b911fe2bb79f16ce92209e5406d44ee",
+			"sha1": "f58834ca87e927bdb791bbf3cf24651e66274f1f",
+			"sha256": "ed3281e0d442bdee6008af694e593dd71fca0a3da16f0e35c4bf27f34ca5d446"
+		}
+	]
+}

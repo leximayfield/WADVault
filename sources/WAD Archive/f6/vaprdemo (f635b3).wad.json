@@ -1,0 +1,17 @@
+{
+	"uid": "vaprdemo (f635b3).wad",
+	"name": "Vaporware: Preview Version",
+	"description": "A preview of the Vaporware map pack for The Eternity Engine, containing the project's first map, \"Cargo Transfer\" by Esselfortium. MAP01: Cargo Transfer Map by Esselfortium Original Music by Esselfortium This map is actually part 1 of an in-development mini-episode that makes up part of Vaporware.",
+	"version": "f635b3",
+	"date": "2014-11-06 18:49:14",
+	"files": [
+		{
+			"filename": "vaprdemo.wad",
+			"size": 23051858,
+			"crc": 317097654,
+			"md5": "b3ced7371d4fbe60469b3fb58e40c390",
+			"sha1": "f635b33055b60162796645c5e91f4157e799c6bd",
+			"sha256": "f1a741cda82638784bcbd9bb03d1cc0eaf8aca3d21df523189be04d58110a254"
+		}
+	]
+}

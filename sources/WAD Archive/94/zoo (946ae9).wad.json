@@ -1,0 +1,17 @@
+{
+	"uid": "zoo (946ae9).wad",
+	"name": "The Zoo",
+	"description": "Intense zoo full of doom entities with enough stuff to keep you alive all the way through.",
+	"version": "946ae9",
+	"date": "2015-01-14 23:10:30",
+	"files": [
+		{
+			"filename": "zoo.wad",
+			"size": 311524,
+			"crc": 111690512,
+			"md5": "c48160d83f6526ae7c4b960411dadd1c",
+			"sha1": "946ae9dcddd1a044312a1904521d2e972063d21f",
+			"sha256": "f5149c0497de241c8323aa22c6c51f98b90dfcfde6d930d950be521751f68f1f"
+		}
+	]
+}

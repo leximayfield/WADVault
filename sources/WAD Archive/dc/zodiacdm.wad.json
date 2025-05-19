@@ -1,0 +1,16 @@
+{
+	"uid": "zodiacdm.wad",
+	"name": "The ZODIAC Deathmatch",
+	"description": "zodiacdm.wad is a series of 12 maps. They are for Deathmatch only and need ZDoom for some special effects. Each map is dedicated to one zodiac sign. I tried to make visible the element (fire, water, earth or air) each sign belongs to. And by the way, have a look on the automap from time to time...",
+	"date": "2014-12-15 22:10:44",
+	"files": [
+		{
+			"filename": "zodiacdm.wad",
+			"size": 1569882,
+			"crc": 1931223953,
+			"md5": "fa6b4202982baa95db08317b150e264d",
+			"sha1": "dcc8d8090c1375a43c624d9eb8bf8a31697ed1b6",
+			"sha256": "41cd146bf5d1ecf02cc1e6788c0e93d5f16985cd85f963bdf4323699a2c251a5"
+		}
+	]
+}

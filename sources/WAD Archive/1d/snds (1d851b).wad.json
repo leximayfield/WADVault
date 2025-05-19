@@ -1,0 +1,17 @@
+{
+	"uid": "snds (1d851b).wad",
+	"name": "The Real Sounds for DOOM ver. 1.3",
+	"description": "Snds.wad changes the sounds (23)or so D_e1m1.wad changes the music Bigdoor2.wad Makes big door2 have a cyber on it",
+	"version": "1d851b",
+	"date": "2014-12-11 22:29:48",
+	"files": [
+		{
+			"filename": "snds.wad",
+			"size": 432841,
+			"crc": 2036607817,
+			"md5": "b94eb694ff85ce54a1e912f62c995cfe",
+			"sha1": "1d851b29bb1ad4dc5fbecd176b8fbc007053e4b2",
+			"sha256": "8b36920ccf27f2d0970c6de3e250bd62c7fbc5b8135950599cab327a6a027431"
+		}
+	]
+}

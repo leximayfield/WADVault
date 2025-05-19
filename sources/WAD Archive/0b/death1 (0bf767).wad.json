@@ -1,0 +1,17 @@
+{
+	"uid": "death1 (0bf767).wad",
+	"name": "Deathmatch 1",
+	"description": "Lots of level ideas I had incorporated into a Deathmatch level. It differs from most Deathmatch levels that I've seen in that it has multiple weapon locations (somewhat preventing a player from hanging out near one), a few traps that allow for alternate killing methods, and a means to permanently cut off the route to the BFG if it becomes too annoying (be careful of what switch you hit). It also has a few really good hiding places (if you can find them) and lots and lots of ammo. IT IS NOT PLAYABLE AS A SINGLE PLAYER LEVEL! It has a coop exit and no monsters, but there is a player one start point so you can look at it. This is my second level.",
+	"version": "0bf767",
+	"date": "2013-11-02 15:46:38",
+	"files": [
+		{
+			"filename": "death1.wad",
+			"size": 144604,
+			"crc": 2135468372,
+			"md5": "64c155ecb2e1c965e9a261d63ead7a73",
+			"sha1": "0bf76760e1c9d5e4c4bd3455cfbc6ca7fcfc3bf0",
+			"sha256": "960e3b1f2161c8538a6b40bf0606893098f93df048c12e8405b588bcaf7eb04a"
+		}
+	]
+}

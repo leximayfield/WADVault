@@ -1,0 +1,17 @@
+{
+	"uid": "babel (7c9d95).wad",
+	"name": "Babel",
+	"description": "A single map wad based in a rocky dungeon. Fairly difficult.",
+	"version": "7c9d95",
+	"date": "2014-12-21 17:01:27",
+	"files": [
+		{
+			"filename": "babel.wad",
+			"size": 488143,
+			"crc": 4037507584,
+			"md5": "53e7ead51b6de916f4a94aff29e33f39",
+			"sha1": "7c9d95a897cf9b66961bd3877c049fb146576f43",
+			"sha256": "2c1539540c6833517c06bf6d1887b5507fad49303185240ac007da48c16f9d19"
+		}
+	]
+}

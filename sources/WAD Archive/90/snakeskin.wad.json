@@ -1,0 +1,16 @@
+{
+	"uid": "snakeskin.wad",
+	"name": "Solid Snake",
+	"description": "Solid Snake now available as a player skin for Doom.",
+	"date": "2017-11-15 20:38:28",
+	"files": [
+		{
+			"filename": "snakeskin.wad",
+			"size": 270180,
+			"crc": 2598281644,
+			"md5": "fde0c8949c9d2c17b322c52d792b541d",
+			"sha1": "90345732bda645154286bb1b9c4a6ca424a49f27",
+			"sha256": "5b28044ccf16be249f37f7eb4200930ea59f03af864b3183dd57ead44679d812"
+		}
+	]
+}

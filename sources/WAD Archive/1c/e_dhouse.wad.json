@@ -1,0 +1,16 @@
+{
+	"uid": "e_dhouse.wad",
+	"name": "Demon House: Lost Warpgate",
+	"description": "My FIRST ever finished map released to the public. Unfortunately, don't be that impressed by its name. It used to be E1M1 of a grand old imaginary megawad (heheheh) which I gladly discarded...",
+	"date": "2014-12-13 17:28:19",
+	"files": [
+		{
+			"filename": "e_dhouse.wad",
+			"size": 306522,
+			"crc": 1683621326,
+			"md5": "a336ea232da5ed675a9f59838e48a71c",
+			"sha1": "1ca5c060a11b9a30bf06040b4f2bec4fa3af9e4c",
+			"sha256": "6bdc87777272c8f7697c0acaf99a01965de76e0146e9f5605eae739c40918aaf"
+		}
+	]
+}

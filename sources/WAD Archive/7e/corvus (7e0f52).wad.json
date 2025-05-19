@@ -1,0 +1,17 @@
+{
+	"uid": "corvus (7e0f52).wad",
+	"name": "Escape to Corvus",
+	"description": "A sixteen level adventure for single player or coop. Deathmatch starts are included and the levels should at least be functional for this mode. Anyway, the story is that after the alien invasion, you were one of many people trying to make it to Earth's starport to escape the onslaught. The ship is destined for the Corvus base on a moon of Jupiter.",
+	"version": "7e0f52",
+	"date": "2014-12-21 14:17:32",
+	"files": [
+		{
+			"filename": "corvus.wad",
+			"size": 5594716,
+			"crc": 878864604,
+			"md5": "4300f788f7054d95db58877fe1620568",
+			"sha1": "7e0f52bdcd97cc18eda09d7b6431260f301a60ad",
+			"sha256": "ef91a976c012eb78b0adc8e8b8afcee73f11e17703e9aa9834a0553e14e2a2fb"
+		}
+	]
+}

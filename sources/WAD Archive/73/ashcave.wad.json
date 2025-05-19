@@ -1,0 +1,16 @@
+{
+	"uid": "ashcave.wad",
+	"name": "Ash Cave",
+	"description": "Full Episode 1 replacement. I won't take too much of your time. Should be an easy review.",
+	"date": "2014-12-13 12:52:33",
+	"files": [
+		{
+			"filename": "ashcave.wad",
+			"size": 44065,
+			"crc": 2005232909,
+			"md5": "c30aa80ee086a0f50885a9082de8eafc",
+			"sha1": "73dea5d139de2a56cb5336b6b317908b81585da6",
+			"sha256": "cc071b2bcc89b2c85d41a6c8cfb7d1fd03407b4ef8a1e3135f9f1c8dcd1b26d5"
+		}
+	]
+}

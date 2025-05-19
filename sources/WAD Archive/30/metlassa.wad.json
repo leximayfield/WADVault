@@ -1,0 +1,16 @@
+{
+	"uid": "metlassa.wad",
+	"name": "Metal Assault",
+	"description": "Some simple map with metal and stuff",
+	"date": "2015-09-15 17:30:56",
+	"files": [
+		{
+			"filename": "metlassa.wad",
+			"size": 73512,
+			"crc": 2933312920,
+			"md5": "1dd486f2f270ec0bc7f652cd237daf78",
+			"sha1": "30689c4581eb8c741cc319753e5b72b986368fa0",
+			"sha256": "5603b191e7853293f4ae94808612e1e05bce8b02a872d0ec0f7cdd18c1298673"
+		}
+	]
+}

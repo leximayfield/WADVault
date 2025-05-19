@@ -1,0 +1,17 @@
+{
+	"uid": "instagib (5a7876).wad",
+	"name": "Instagib Mod",
+	"description": "This beloved Q3A mod finally makes its way into Doom. Everyone starts with a railgun, without anything else spawning on the level. Of course, in this mode, the railgun is so powerful, it will kill you in one hit! Not only that, but it will do so much damage when it hits you, will you gib instantly! (thus the name, \"instagib\") Quick reflexes and high accuracy are essential for winning in this fast-paced mode!",
+	"version": "5a7876",
+	"date": "2013-04-22 00:22:00",
+	"files": [
+		{
+			"filename": "instagib.wad",
+			"size": 107518,
+			"crc": 3094962043,
+			"md5": "acff28a8f1cd575898163172bc155ecd",
+			"sha1": "5a78768912757f3c1087673a29a4a87e3c059714",
+			"sha256": "34a4d7e5452de81f7eb06890a0b238069b3867d04bbf573560a04dfeca28c83c"
+		}
+	]
+}

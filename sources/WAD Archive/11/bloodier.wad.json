@@ -1,0 +1,16 @@
+{
+	"uid": "bloodier.wad",
+	"name": "BLOODY DEATHYMEGAEVILITY!",
+	"description": "Giant gibs come out of enemies when you shoot them! A Dehacked patch included to make it last longer! An improved DSSLOP sound for gibbing! Recommended for ZDoom.",
+	"date": "2014-12-11 22:32:35",
+	"files": [
+		{
+			"filename": "bloodier.wad",
+			"size": 18451,
+			"crc": 2496632238,
+			"md5": "71ccde2a78ff59655a1f9cab7b293efc",
+			"sha1": "114413bf9c376be26b87e11ef5c13c9f8c528b15",
+			"sha256": "6bc18a4ae4495e14013839d85be27bdcc47ed9d347fdc73046144b5d9b1ec6d4"
+		}
+	]
+}

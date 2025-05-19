@@ -1,0 +1,17 @@
+{
+	"uid": "dmded (fd32c5).wad",
+	"name": "Kingdom of Death",
+	"description": "This WAD should be used with ANNEX.WAD by Ryan McGrail. We designed them together.",
+	"version": "fd32c5",
+	"date": "2013-11-02 16:48:48",
+	"files": [
+		{
+			"filename": "dmded.wad",
+			"size": 127559,
+			"crc": 282809027,
+			"md5": "07b171632c884323be6ce4ed6f4a19d9",
+			"sha1": "fd32c5b0526cfe89ee9d859671cfa645595ae006",
+			"sha256": "3d8d777d9fcbd1ae2a7309200fdae5ce95968be62c5fcd3d1955a3d736c5f10c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "spacelab (772fd0).wad",
+	"name": "Spacelab",
+	"description": "Built for Doom2 v1.9",
+	"version": "772fd0",
+	"date": "2015-01-14 22:56:53",
+	"files": [
+		{
+			"filename": "spacelab.wad",
+			"size": 1114376,
+			"crc": 2843135486,
+			"md5": "135823fee8759ccb2e37c26d98860a00",
+			"sha1": "772fd0721c9e0654320647b75622dcede9f6a009",
+			"sha256": "702534fddf7c58988971c67c89619d4dabfc3affadc356b50183940026092400"
+		}
+	]
+}

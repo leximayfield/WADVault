@@ -1,0 +1,17 @@
+{
+	"uid": "starwar2 (b3f863).wad",
+	"name": "The Death Star",
+	"description": "The DEATH STAR!!! Based on blueprints of a set built for the movie and as well as information contained in the SW RPG. These are the first of many Star Wars levels I will do, and I will eventually replace these levels' textures with my own. Doors needing keys aren't marked by colors primarily because I wanted the levels to look as much like Death Star as possible. -----> If the game runs to slowly, just run an IMPORTANT!-----> easier setting to limit the number of -----> monsters (they slow down slower machines). This isn't as bad as it used to be now that I've used a reject compiler.",
+	"version": "b3f863",
+	"date": "2016-02-07 20:28:52",
+	"files": [
+		{
+			"filename": "starwar2.wad",
+			"size": 928869,
+			"crc": 3972129509,
+			"md5": "7dea4792fc1a4dea008d828ebf8cad83",
+			"sha1": "b3f8638b5a3cc59c8bdf41f84edb9823e5350728",
+			"sha256": "d7bf29098ce677fe41da0d32f0dfdcdbf36a02f3b0547f41ec122adb2b499ea2"
+		}
+	]
+}

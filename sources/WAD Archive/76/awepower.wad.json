@@ -1,0 +1,16 @@
+{
+	"uid": "awepower.wad",
+	"name": "AWesome Power",
+	"description": "A more tightly-spaced affair than my prev. wad. Toward the end of the level you can see I ran out of steam and just plopped down an exit. Still, on Hard it takes about 8-10 mins to beat, so I thought it was worth releasing.",
+	"date": "2014-12-15 21:56:33",
+	"files": [
+		{
+			"filename": "awepower.wad",
+			"size": 208738,
+			"crc": 1043612152,
+			"md5": "62e6a37b230cd5a5d75462d36a731217",
+			"sha1": "76d5b837c77ab3d76cb152230c0b4bf4b1833600",
+			"sha256": "15fc48584448f8defff5eac53b4d2c38a549559d489e7a73461d6256d7397a4b"
+		}
+	]
+}

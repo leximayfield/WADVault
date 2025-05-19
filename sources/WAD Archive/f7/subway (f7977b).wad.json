@@ -1,0 +1,17 @@
+{
+	"uid": "subway (f7977b).wad",
+	"name": "SUBWAY.WAD",
+	"description": "Demons have taken over the UAC Deimos subway. Your mission, clean out the stations and eliminate whoever is behind the invasion.",
+	"version": "f7977b",
+	"date": "2014-01-07 21:48:25",
+	"files": [
+		{
+			"filename": "subway.wad",
+			"size": 439213,
+			"crc": 3378134589,
+			"md5": "ad66b486dfec742822292060feb8943b",
+			"sha1": "f7977b0f844d8383211e8cf33dbe1c05b37815e9",
+			"sha256": "983011f54c4983643f9b1e455f986a26d76bf2d416624a17d0c33a2190fcb18f"
+		}
+	]
+}

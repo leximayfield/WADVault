@@ -1,0 +1,16 @@
+{
+	"uid": "2zone.wad",
+	"name": "2Zone",
+	"description": "Two duel areas and some narrow corridors. And some monsters, three cyberdemons! :)",
+	"date": "2016-01-28 23:17:39",
+	"files": [
+		{
+			"filename": "2zone.wad",
+			"size": 49700,
+			"crc": 2944323387,
+			"md5": "8f26e55a2fa0d9ec972625c933f92436",
+			"sha1": "2fd1fbb88d4fc38cc8843234ee959e48707a9e55",
+			"sha256": "99e7bf676be2afe82c3e5e141c33f1d9bee85b9d6ed9af5f7ec8f7c4183c46a0"
+		}
+	]
+}

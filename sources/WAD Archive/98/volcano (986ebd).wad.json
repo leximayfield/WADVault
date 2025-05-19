@@ -1,0 +1,17 @@
+{
+	"uid": "volcano (986ebd).wad",
+	"name": "VOLCANO.WAD",
+	"description": "An abandon project for harnessing the geothermal energy within an active volcano is now the lair of hordes of your favorite Doom creatures.",
+	"version": "986ebd",
+	"date": "2013-11-02 15:25:19",
+	"files": [
+		{
+			"filename": "volcano.wad",
+			"size": 161169,
+			"crc": 951344341,
+			"md5": "75275641596f7e1a2b2768647ccadbb1",
+			"sha1": "986ebdb39a1420fcb9e26947bbe534d45c704952",
+			"sha256": "6b3ce5a9e4b2879d8fa0e87812d66a63918640a3177ce984501517cfaa40d27b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "vortex2 (2667df).wad",
+	"name": "Vortex",
+	"description": "A three level mini-tour for Doom v1.2 Registered Fight your way through The Mines (e2m1), Jungle Fever (e2m2) and The Gateway (e2m3). This update fixes two-sided linedef probs and allows for multiplayer and deathmatch games.",
+	"version": "2667df",
+	"date": "2013-11-02 16:53:50",
+	"files": [
+		{
+			"filename": "vortex2.wad",
+			"size": 417018,
+			"crc": 214893010,
+			"md5": "c57b606b636dfac3630470ba183e5ae9",
+			"sha1": "2667df5e2cd17474b413ffba4a4213ea0f4e930e",
+			"sha256": "2b4bc6f494ee36899b5f87efdce2dbf8b065acd3d7c70573f8481c6bc1c462df"
+		}
+	]
+}

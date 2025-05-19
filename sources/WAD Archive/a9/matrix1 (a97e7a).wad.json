@@ -1,0 +1,17 @@
+{
+	"uid": "matrix1 (a97e7a).wad",
+	"name": "Matrix",
+	"description": "This was done simply for a death match senario. A",
+	"version": "a97e7a",
+	"date": "2014-01-11 11:22:54",
+	"files": [
+		{
+			"filename": "matrix1.wad",
+			"size": 78516,
+			"crc": 4075745789,
+			"md5": "25d78352850ae6a2b8a4b1b525d40471",
+			"sha1": "a97e7a92566df02457f4024c61a7b49d636cc531",
+			"sha256": "910e6dce85c52346115a765938a1d369d9fe52d5262e9235c932e35686cdd1c4"
+		}
+	]
+}

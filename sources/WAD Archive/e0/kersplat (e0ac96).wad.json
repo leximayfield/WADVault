@@ -1,0 +1,17 @@
+{
+	"uid": "kersplat (e0ac96).wad",
+	"name": "Kersplat.wad",
+	"description": "Deathmatch. Almost every level a Rocker launcher and a Plasma Gun. This is the idea for the level(s). Also, alot of open space, and some levels inclosed. E1M2 meant to be played with Monsters on. All the rest can be played without.",
+	"version": "e0ac96",
+	"date": "2013-11-06 22:38:10",
+	"files": [
+		{
+			"filename": "kersplat.wad",
+			"size": 101244,
+			"crc": 3538059739,
+			"md5": "a7e8b851ac47a0bcfbee1e752aadfb7a",
+			"sha1": "e0ac965d2d1e6e0f9c111a16c2cf6cfb33af3fd7",
+			"sha256": "b4c6d6b0540da50d7a3157bfd8408b0c5dc042b29dca0eadab7cc7de6ac428be"
+		}
+	]
+}

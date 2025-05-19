@@ -1,0 +1,16 @@
+{
+	"uid": "wh_soh_v2.wad",
+	"name": "Soulbruiser of Hell",
+	"description": "The Soulbruiser of Hell is a custom monster that uses Vader's Bruiser Demon sprites and core concept (i.e. a strong mid-boss Baron-like creature that hurls fireballs).",
+	"date": "2018-06-15 11:30:02",
+	"files": [
+		{
+			"filename": "wh_soh_v2.wad",
+			"size": 408847,
+			"crc": 2161562222,
+			"md5": "3274342597960f24b7463ac5a0e72980",
+			"sha1": "7ed91e465d8d235b6823ef5d040fe1fbffeb336d",
+			"sha256": "06159ca391cb5a4205678d958bd6c60f8fdf1a48010d63070af0a2b89212bd4e"
+		}
+	]
+}

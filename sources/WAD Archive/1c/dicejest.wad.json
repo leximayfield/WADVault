@@ -1,0 +1,16 @@
+{
+	"uid": "dicejest.wad",
+	"name": "Jester's Enigma",
+	"description": "A small but complex map. Probably takes about 10 minutes to complete on your first go, but can be quite challenging, especially on the harder difficulty levels. Bad guys range from small to large and have a tendancy to appear right behind you when you least expect it.",
+	"date": "2014-12-24 19:09:47",
+	"files": [
+		{
+			"filename": "dicejest.wad",
+			"size": 109179,
+			"crc": 660571459,
+			"md5": "428586428eb6fd4430b1e71ddffb504a",
+			"sha1": "1ce7d91db0f8ef5d0ffdf14506b66d31e062cda0",
+			"sha256": "aae8edd1865b21a63b621122900b71004f21f60e2ed99d2ef1d0f959e22e7809"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (b72388).wad",
+	"name": "Doom II (Unity 1.1)",
+	"version": "b72388",
+	"date": "2019-07-28 16:05:49",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14685607,
+			"crc": 583176648,
+			"md5": "7895d10c281305c45a7e5f01b3f7b1d8",
+			"sha1": "b723882122e90b61a1d92a11dcfcf9cbf95a407e",
+			"sha256": "fce8dc9a255c9ef59cfcbbe6a78cd722b8c53e70889ae13d648a2b632507bd25"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "eden (79bccc).wad",
+	"name": "The Horror Collection",
+	"description": "One level for boom compatible and limit removing ports. PrBoom-Plus or GZDoom are recommended. Some DEHACKED stuff is taken from talented mapper Erik Alm. This is only the first level in the planned series of horror maps. To be continued... To play this PWAD file, unzip it into the directory with your PWADs then start: glboom-plus.exe -file eden.wad -complevel 9; (g)zdoom.exe -file eden.wad",
+	"version": "79bccc",
+	"date": "2014-12-24 19:23:29",
+	"files": [
+		{
+			"filename": "eden.wad",
+			"size": 3534384,
+			"crc": 304956809,
+			"md5": "a6ad79f90b1a54093658eba9123a5804",
+			"sha1": "79bccc5355319b63c89db942c17a06bb55394ede",
+			"sha256": "af2291fac46802c717967397491ea0fe3694964fa8bc4cec7e0a4c0baa66637f"
+		}
+	]
+}

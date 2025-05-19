@@ -1,0 +1,16 @@
+{
+	"uid": "FUBAR3.wad",
+	"name": "#FUBAR3.WAD",
+	"description": "This WAD is for experts only. It's tough, but it has been done by people other than myself. Originally it was all one level, but when I tried to play on a 486, the thing was SO SLOW as to be totally impossible to have fun. So I broke it into five levels, which unfortunately takes away from the continuity. You must start at level one and work your way through if you want to get the weapons and savage your way through as the levels were designed to be savaged through.",
+	"date": "2014-10-14 20:57:48",
+	"files": [
+		{
+			"filename": "FUBAR3.wad",
+			"size": 653443,
+			"crc": 3854767535,
+			"md5": "234ef02112a390ac453dc1dc9af6c27d",
+			"sha1": "032e290344adc9e4a634d502b909d435c7114773",
+			"sha256": "d3a1c9fda6d73be5797117df24a6c5be545468516e93e8c7c5250a85060b4baf"
+		}
+	]
+}

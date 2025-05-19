@@ -1,0 +1,16 @@
+{
+	"uid": "rienzi.wad",
+	"name": "Rienzi (release 6)",
+	"description": "This is a very detailed map with a volcanic theme and several specifically-designed graphic elements. You must descend through caves and potholes to the innermost sanctum of a cyberdemon before making your escape from the bowels of the earth via the crater of a volcano. The unlit areas are supposed to be dark! If they are not dark then please adjust your monitor and/or source port. You don't actually have to kill the cyberdemon to reach the exit, but failure to do so would likely result in your dishonourable expulsion from the Society of Armed Volcanologist Exorcists (SAVE).",
+	"date": "2014-03-07 10:52:13",
+	"files": [
+		{
+			"filename": "rienzi.wad",
+			"size": 1134371,
+			"crc": 3582840558,
+			"md5": "d665fedd9cff341fdc90f18f6aa947c2",
+			"sha1": "121dc2b2e83bbc768e6b00a3722e01aebd353650",
+			"sha256": "239b753570396cdee886c083dc0019ba858ce58177f44baf970d1458d2e288e4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "teamledg (298808).wad",
+	"name": "Team Ledge",
+	"description": "This is a two-on-two deathmatch level for Doom II. It requires four players. This WAD is a modification of LEDGES-X by Neil Bonner.",
+	"version": "298808",
+	"date": "2013-11-02 15:52:53",
+	"files": [
+		{
+			"filename": "teamledg.wad",
+			"size": 44130,
+			"crc": 2177527075,
+			"md5": "6d446eed31feb87aa1ac060c3793897a",
+			"sha1": "2988085b5569ed74e59d34ceaf59a2a6d74d91d8",
+			"sha256": "55c561e35577582134a9e0437437616dde51aa0eed85d6e95133e92546d8e840"
+		}
+	]
+}

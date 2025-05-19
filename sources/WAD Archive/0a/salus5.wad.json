@@ -1,0 +1,16 @@
+{
+	"uid": "salus5.wad",
+	"name": "SALUS V",
+	"description": "SITUATION: UAC central has not received the weekly report from Salus V. Salus V is one of 15 free orbital space junk recycling centers. They are converted from mined out solid core asteroids. These recycling centers are fully automatic with a crew of five technicians to replace and repair components. Salus V has a secondary mission to provide emergency quarters for damaged UAC transports. The core of the asteroid is rife with mining tunnels, storage compartments, and living spaces once used by the long gone miners.",
+	"date": "2014-12-29 17:22:33",
+	"files": [
+		{
+			"filename": "salus5.wad",
+			"size": 1001682,
+			"crc": 2855764790,
+			"md5": "6a59f9bbf0b6afdde8cd8e0e7b1fbb44",
+			"sha1": "0a9beef9998d55761a54a57ad3f315ef49b951e6",
+			"sha256": "c0981c2f6d1661348bb56a8802ca90ad563a86d2c082e286792ceb701e9d7f99"
+		}
+	]
+}

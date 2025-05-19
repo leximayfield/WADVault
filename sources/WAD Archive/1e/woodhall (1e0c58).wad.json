@@ -1,0 +1,17 @@
+{
+	"uid": "woodhall (1e0c58).wad",
+	"name": "WOODHALL.WAD",
+	"description": "This is a butt-kicking WAD rather than a puzzle WAD",
+	"version": "1e0c58",
+	"date": "2013-11-02 15:19:29",
+	"files": [
+		{
+			"filename": "woodhall.wad",
+			"size": 56561,
+			"crc": 2105010191,
+			"md5": "7c4d56ad754464c3175af7d8f6b60bfd",
+			"sha1": "1e0c58f1d3ef9dc5feb99dd38a0616cbe8eacbd0",
+			"sha256": "61c27abe2858a6f495dbc46c6c5bc5feb6f66318fa7a47a5a3ed5d3bd4a1e647"
+		}
+	]
+}

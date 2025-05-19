@@ -1,0 +1,16 @@
+{
+	"uid": "shipquad.wad",
+	"name": "The Shipping Quadrant",
+	"description": "Ok, I usually put terry wads on the archive, but I felt like treating you all to a little deathmatch level I made. It uses Skulltag weapons and textures.",
+	"date": "2014-12-15 22:22:00",
+	"files": [
+		{
+			"filename": "shipquad.wad",
+			"size": 175760,
+			"crc": 4285621620,
+			"md5": "6c6f995b6ebf6c63f1758d407f132282",
+			"sha1": "b4ee7db55a8a899a34a373bf0b59c436cd70b0d9",
+			"sha256": "776983491f98f3d0f7e4c2ad1f879c50a364222ebd2326e9c1a861ac72f75aad"
+		}
+	]
+}

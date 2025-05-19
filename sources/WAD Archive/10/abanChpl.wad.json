@@ -1,0 +1,16 @@
+{
+	"uid": "abanChpl.wad",
+	"name": "Abandoned Chapel",
+	"description": "A nice ZDoom Hexen map with alot of monsters :P",
+	"date": "2014-12-31 12:04:03",
+	"files": [
+		{
+			"filename": "abanChpl.wad",
+			"size": 501011,
+			"crc": 243195085,
+			"md5": "eceb0e87cc607a579ad21ca7c9accac1",
+			"sha1": "1057e5e3a323fe331d73eb2927993fb084992f62",
+			"sha256": "b8667c0f331e3b59d11c50e358d70503efd378fc923306e1eb779645e1208bc9"
+		}
+	]
+}

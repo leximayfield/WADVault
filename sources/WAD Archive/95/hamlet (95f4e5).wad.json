@@ -1,0 +1,17 @@
+{
+	"uid": "hamlet (95f4e5).wad",
+	"name": "Hamlet - The Old Text Comes Alive",
+	"description": "The world of theatre has fallen into alien hands. You must appear both on stage and in the audience.",
+	"version": "95f4e5",
+	"date": "2014-12-18 22:39:37",
+	"files": [
+		{
+			"filename": "hamlet.wad",
+			"size": 276997,
+			"crc": 27849813,
+			"md5": "c72d2244676387d30deb3aa10317aa4a",
+			"sha1": "95f4e5cd6f54783be0384118418da96810514fe0",
+			"sha256": "1567beef8936a0c2908bbca3683d430774a394529a453c94affcd5db6eb58548"
+		}
+	]
+}

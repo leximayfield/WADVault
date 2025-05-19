@@ -1,0 +1,16 @@
+{
+	"uid": "dm-map1.wad",
+	"name": "Deathmatch: MAP ONE",
+	"description": "I edited map 1 from Doom II to make it even better suited for deathmatch play (specifically, dm 2.0). All of the doors start off already open. That helps a lot alot already. The whole outside area with the regular shotgun (now a super shotgun) has been extended to provide the \"three weapon\" (now two) deathmatch start with a back exit. That huge outside area should be great for dogfighting. The medikits in the exit area are also now more spread out. Some weapons and ammo have been changed and added. There are other more minor changes.",
+	"date": "2013-11-03 17:44:00",
+	"files": [
+		{
+			"filename": "dm-map1.wad",
+			"size": 39176,
+			"crc": 4061973306,
+			"md5": "0ad9df3d7c2216fc7f5aac2d4dccf929",
+			"sha1": "2f90742d069df6696a7a32eb76b549ccbb1a74e8",
+			"sha256": "f75ef762e4fed78628dfbc2a8dea054b58a28ef44b3edef996ef4ff1d1b0909c"
+		}
+	]
+}

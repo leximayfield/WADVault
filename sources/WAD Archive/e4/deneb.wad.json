@@ -1,0 +1,16 @@
+{
+	"uid": "deneb.wad",
+	"name": "Deneb Colony",
+	"description": "A 5L1C spin-off wad. It's just one medium-sized map but quite a tricky one, so pick a lower skill level if you need to. Your mission is to send an SOS signal and escape from the Deneb colony. And don't miss MAP02. (Deneb is the brightest star in constellation Capricornus.)",
+	"date": "2014-12-24 19:22:55",
+	"files": [
+		{
+			"filename": "deneb.wad",
+			"size": 8631322,
+			"crc": 381470854,
+			"md5": "8801dfab498e61dddef5e1523b3a6354",
+			"sha1": "e4c89e676e896910b640472e0213a1aac705743d",
+			"sha256": "c1a0613048fe499ecbbee696d1a6c39727576c596bf040c17011a0ca1d032404"
+		}
+	]
+}

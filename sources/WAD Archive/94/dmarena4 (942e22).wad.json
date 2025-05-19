@@ -1,0 +1,17 @@
+{
+	"uid": "dmarena4 (942e22).wad",
+	"name": "DMARENA4.WAD",
+	"description": "This level is centered around a large arena with four runways to other rooms/weapons. There are four safe starting points and four less safe starting points. All the weapons are there but all have a certain degree of consequence. The idea was that you would need to visit every area of the level, but going from place to place you would all meet up in the arena. The level is best played with four players but is just as fun with two.",
+	"version": "942e22",
+	"date": "2013-11-02 15:49:57",
+	"files": [
+		{
+			"filename": "dmarena4.wad",
+			"size": 67428,
+			"crc": 2615079692,
+			"md5": "d03e38856d608ab0909cb11649f06ff4",
+			"sha1": "942e22c19ca018bf6a8002616ed8776150dae7d3",
+			"sha256": "e94bfb5d46796917f2693a947837c7e8c76d779b8dc24180bc46447b3793f088"
+		}
+	]
+}

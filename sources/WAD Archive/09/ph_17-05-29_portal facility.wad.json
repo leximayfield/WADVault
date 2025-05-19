@@ -1,0 +1,16 @@
+{
+	"uid": "ph_17-05-29_portal facility.wad",
+	"name": "Portal Facility",
+	"description": "Inspired by Event Horizon, this atmospheric map serves as MAP20 in TNT: Revilution and features an intimidating corridor, plus other areas of note. The progression has been changed significantly from my original version and some alterations were made to the side areas around the titular portal and the final fight, but otherwise the map is broadly as I supplied it. Some additional resources may still remain in this .WAD file, but hopefully it doesn't bloat the download in any meaningful way.",
+	"date": "2019-08-06 20:33:58",
+	"files": [
+		{
+			"filename": "ph_17-05-29_portal facility.wad",
+			"size": 4245454,
+			"crc": 1392842727,
+			"md5": "3b995749f851cee45e4993f49361fded",
+			"sha1": "0900947d727ee1d0b9a99c69918316be593f8b34",
+			"sha256": "1a9b6211e598ea8513e841e39cbc8182484ffb7aba4b5c5c7261e10f2973aa51"
+		}
+	]
+}

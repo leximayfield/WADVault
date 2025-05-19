@@ -1,0 +1,16 @@
+{
+	"uid": "doom2enh.wad",
+	"name": "Doom II Enhanced Sounds",
+	"description": "Tired of having \"out of memory\" errors when you try to load in your favorite 2MB sound WAD? Hate being stuck with the plain old Doom sounds? The Enhanced Sounds WADs are for you! These WAD files are split into 4 different files so that you can load whichever WAD file is needed by the game you are playing. Why load in the Doom II sounds if you are only playing Doom I? Hate the Doom I and II enhanced sounds but love the new shotgun sound and the death sounds of the Cyberdemon and Spiderdemon? Now you can include only the sounds that you want and save memory at the same time!",
+	"date": "2015-09-15 19:20:50",
+	"files": [
+		{
+			"filename": "doom2enh.wad",
+			"size": 603640,
+			"crc": 2452554109,
+			"md5": "5a6bb467ebc7df97b1ddcadf113338c0",
+			"sha1": "de08b6e15aab68bf29f710f462a40b25713ce83e",
+			"sha256": "74054dca01925f6582fbf74f68d9916c846ebbf2dbcf75cf66585dbbb561d078"
+		}
+	]
+}

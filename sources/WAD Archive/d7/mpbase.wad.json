@@ -1,0 +1,16 @@
+{
+	"uid": "mpbase.wad",
+	"name": "MPBASE",
+	"description": "This is a big one! modern bases and alien planet surroundings.",
+	"date": "2015-09-15 17:59:05",
+	"files": [
+		{
+			"filename": "mpbase.wad",
+			"size": 129830,
+			"crc": 1049472394,
+			"md5": "2e72575c3c27ae649f259d29d0a51a1d",
+			"sha1": "d7e87c7cc4a3a415575bb4f25890530f0a732dc9",
+			"sha256": "7ae16e84e8acd65fadc7dca96e648125485dd1bc75d1b1a1ef4fe61d7a6b5e89"
+		}
+	]
+}

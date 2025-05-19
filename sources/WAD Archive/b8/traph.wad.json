@@ -1,0 +1,16 @@
+{
+	"uid": "traph.wad",
+	"name": "The Traphouse",
+	"description": "Just a map I made last month. You need to escape a traphouse built by a human traitor...and kill the demons along the way.",
+	"date": "2018-07-08 03:19:50",
+	"files": [
+		{
+			"filename": "traph.wad",
+			"size": 163905,
+			"crc": 1276152030,
+			"md5": "b647116907f187d1ade756c4a7d8dd7b",
+			"sha1": "b8fd8d1949ce507afd582254874eb94ed27d2c78",
+			"sha256": "b11a2e52d5740d90a7b1b903c7de09719a426a2a7f5cab0fa50efc139dff4c1a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "UAC (566038).wad",
+	"name": "UAC",
+	"description": "I made this just out of boredom. I originally intended it to be the \"official UAC building,\" and went from there. I've been working on it since sometime in 2000 on and off (more of the off). I only recently converted it to Doom II format so I can use the additional monsters. I tried to include a lot of detail in the level and keep it interesting. The typical scheme of the levels is that humans are inside, monsters are outside. I plan to have several outside levels later on.",
+	"version": "566038",
+	"date": "2015-01-14 22:55:08",
+	"files": [
+		{
+			"filename": "UAC.wad",
+			"size": 1152733,
+			"crc": 3183770542,
+			"md5": "2a1620eb08cbc58ca79209adff93adb8",
+			"sha1": "5660384c68554d5aaf2468dac9eff51785a1232f",
+			"sha256": "639d2de8da734c54b01bff9ffffc93515580cf3afa3c96f5bb882f838cb6a7ad"
+		}
+	]
+}

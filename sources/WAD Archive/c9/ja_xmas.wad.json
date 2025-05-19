@@ -1,0 +1,16 @@
+{
+	"uid": "ja_xmas.wad",
+	"name": "jalla_xmas",
+	"description": "Okay, this is an arena map with imps and stuff. Survive as long as you possibly can and get a high score.",
+	"date": "2015-01-05 16:24:24",
+	"files": [
+		{
+			"filename": "ja_xmas.wad",
+			"size": 206236,
+			"crc": 1190705884,
+			"md5": "c5bb7d038f06487947292c67914be91c",
+			"sha1": "c95518133f1d1c7ca67405fd0f3bcea09051cbb5",
+			"sha256": "a5a72838890ba8c01c471d92e23e1010b5e00b7ac7cb566b722281d0b2ada72a"
+		}
+	]
+}

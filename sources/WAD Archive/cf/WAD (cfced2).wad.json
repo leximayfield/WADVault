@@ -1,0 +1,17 @@
+{
+	"uid": "WAD (cfced2).wad",
+	"name": "MAZE2.WAD -- PWAD for Shores of Hell -- Level 1",
+	"description": "I did not build this level with a lot of tricks and traps in mind, though there are a few of them, but instead as a good old shotgun crawl. You will have a variety of weapons to choose from but you will have to use your resources wisely. I tried to construct this level so that it can be completed if you use your head as well as your trigger finger. Running around blasting wildly at anything that moves may get you to the end of the level, but it may leave you a little short- handed to deal with what might be lurking there. I hope you enjoy this level. It took me a long time to finish it (I am constantly refining and touching up). I originally designed it for single or cooperative, but I have included several death- match starts and with the level's connectivity I think that it could work fairly well in deathmatch. Your responses are welcome and encouraged. Enjoy!!",
+	"version": "cfced2",
+	"date": "2016-02-07 20:32:36",
+	"files": [
+		{
+			"filename": "WAD.wad",
+			"size": 105917,
+			"crc": 539246083,
+			"md5": "08f0ae1550cdfa33a9be8d5b6b52be88",
+			"sha1": "cfced26d36a9f4295ef24c858455ff07417d1abf",
+			"sha256": "aa2248e867d5e4d01cc7401a0f6cfa364c9191bc5d76e749a1d62e340f51af3b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "cor_hel3 (31e558).wad",
+	"name": "Corridors of Hell (Version 3.0) Deathmatch Deluxe",
+	"description": "Designed for Doom II. Fighting monsters in small corridors. A real challenge.",
+	"version": "31e558",
+	"date": "2016-02-07 20:25:14",
+	"files": [
+		{
+			"filename": "cor_hel3.wad",
+			"size": 136493,
+			"crc": 4092778609,
+			"md5": "827d565a8aece58a78a5a72763a8b32f",
+			"sha1": "31e5586b86eef4577815c463fabe9545f21a4917",
+			"sha256": "3aac755eec719ac79dea1d189e74dccd6b2aba3f588a4cebcb5d6690a76771c0"
+		}
+	]
+}

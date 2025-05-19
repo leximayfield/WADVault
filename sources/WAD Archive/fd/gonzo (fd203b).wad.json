@@ -1,0 +1,17 @@
+{
+	"uid": "gonzo (fd203b).wad",
+	"name": "GONZO.WAD",
+	"description": "Don't smoke additives. Kill.",
+	"version": "fd203b",
+	"date": "2013-11-02 15:13:13",
+	"files": [
+		{
+			"filename": "gonzo.wad",
+			"size": 57686,
+			"crc": 2083427974,
+			"md5": "ff6995824fee82437f1066c5f6a4c108",
+			"sha1": "fd203bc0e8fd18af0e4704bb4827be61558acf31",
+			"sha256": "5509dc9399ec850e9115a2796ee5cb41f933ce35bf8238273fd2615a1ea36b29"
+		}
+	]
+}

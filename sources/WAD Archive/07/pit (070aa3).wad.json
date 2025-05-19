@@ -1,0 +1,17 @@
+{
+	"uid": "pit (070aa3).wad",
+	"name": "Castle of the damned.",
+	"description": "A very good Gothic DM styled map for BOOM/doom2. excellent design and construction, much better than realm of hell. Be sure to use the cyberdemon to your advantage:=).",
+	"version": "070aa3",
+	"date": "2014-12-29 08:45:02",
+	"files": [
+		{
+			"filename": "pit.wad",
+			"size": 292702,
+			"crc": 247909839,
+			"md5": "43aacd17df802f78304448a93ff37c88",
+			"sha1": "070aa36d6e3f53b1580926cfd36269027886a36a",
+			"sha256": "87bb305f1bdc115b83e505c3cf6a9ff555c6d74f2de91d481142b02c1894a5c6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "jailmass.wad",
+	"name": "Jailhouse Massacre",
+	"description": "The demons have been capturing humans and putting them in a jail they set up. Find the switch to release the people.",
+	"date": "2015-01-05 16:32:52",
+	"files": [
+		{
+			"filename": "jailmass.wad",
+			"size": 2785563,
+			"crc": 3432419372,
+			"md5": "2b8538443c168e9479bebca4d44ea49b",
+			"sha1": "d13d4e19580494859e4686b1f2d857a4c54f25ea",
+			"sha256": "ab5a27a84a32b7082d101f8d31385210e52e3da0aa4d6948cbaedeb9a8f5c7e7"
+		}
+	]
+}

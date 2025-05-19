@@ -1,0 +1,16 @@
+{
+	"uid": "a_taste.wad",
+	"name": "A Taste of Things To Come",
+	"description": "This is the first level in my upcoming wad, chukker1.wad. This",
+	"date": "2014-12-15 22:11:50",
+	"files": [
+		{
+			"filename": "a_taste.wad",
+			"size": 59326,
+			"crc": 3228067732,
+			"md5": "a312f16f0a77f25fb8d7a6d6601ab6f4",
+			"sha1": "401e7c83453233f0f52974ccd347f15e3a98f8fc",
+			"sha256": "3bbb9171015a01d5a01582d0835fda0566d66865f95703961b875e4a3273ef1a"
+		}
+	]
+}

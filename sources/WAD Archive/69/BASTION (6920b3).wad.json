@@ -1,0 +1,17 @@
+{
+	"uid": "BASTION (6920b3).wad",
+	"name": "Heretic - Dark Deity's Bastion",
+	"description": "This map replaces E1M1 of HERETIC. It has been tested to be beatable in all difficulty levels. I even tested it myself on \"Black Plague\" and can confirm that it can be finished (albeit with a LOT of save/loads).",
+	"version": "6920b3",
+	"date": "2014-12-30 11:36:53",
+	"files": [
+		{
+			"filename": "BASTION.wad",
+			"size": 2877858,
+			"crc": 3000690515,
+			"md5": "203aa90970013a893b20bef94059c5f3",
+			"sha1": "6920b36bc1e7175fcad769ca34f7e4f41f63efc5",
+			"sha256": "5ddbdb72a297a91bbba3564fab1ed2b1d3eff7ce6d68b4d5bf174d675ff50590"
+		}
+	]
+}

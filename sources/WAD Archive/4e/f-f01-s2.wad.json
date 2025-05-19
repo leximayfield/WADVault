@@ -1,0 +1,16 @@
+{
+	"uid": "f-f01-s2.wad",
+	"name": "Deliverance: ONI Facility Demo (stripped version)",
+	"description": "A simple one-level demo with three exits. This version fixes a lot of bugs and is stripped of music to comply with /idgames standards.",
+	"date": "2016-10-17 17:17:54",
+	"files": [
+		{
+			"filename": "f-f01-s2.wad",
+			"size": 1309447,
+			"crc": 1052212382,
+			"md5": "c81355d59adf71dbc8c42680c8b9a82a",
+			"sha1": "4e1ef7bc478a65110a63066b33f63eb2dbcab8ef",
+			"sha256": "e12da1e86c3bde96b679eb196472f1258089ca39205067b87ccd6e215e3196c4"
+		}
+	]
+}

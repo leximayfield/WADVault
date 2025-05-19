@@ -1,0 +1,16 @@
+{
+	"uid": "syd1mus.wad",
+	"name": "Sycraft Doom soundtrack",
+	"description": "This is a WAD containing the music created by Sycraft but at a reduced : size for convenience. The music files inside the file are 80kbps stereo MP3, : so if you wish to listen to the original files, check the very bottom of this : text file.",
+	"date": "2015-09-15 13:36:22",
+	"files": [
+		{
+			"filename": "syd1mus.wad",
+			"size": 34810233,
+			"crc": 413693982,
+			"md5": "d54b050c8d09f5cf4897bddc3b97757b",
+			"sha1": "b88137c8f1db65a15f29ae7304d93517f1150d53",
+			"sha256": "1fc4c0c41c6ae4841506529a52feb0191931f2ee528ef20943e54b5d0efa3d1f"
+		}
+	]
+}

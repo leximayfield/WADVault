@@ -1,0 +1,16 @@
+{
+	"uid": "phm1.wad",
+	"name": "PHM: Entryway",
+	"description": "A small base level. This map doesn't follow the \"rules\" of ep1 mapping, so don't expect a true ep1-ish level. This is the 1st part of Pretty Hate Marine",
+	"date": "2013-04-20 17:26:05",
+	"files": [
+		{
+			"filename": "phm1.wad",
+			"size": 178907,
+			"crc": 3245064745,
+			"md5": "5e7dffc14677fc5c4ff7633c842bd99d",
+			"sha1": "5cd1583e3e24d5bf9456bc59b25182b92b16b4ca",
+			"sha256": "e14eef2ddc9e0ceaf4c4da78cae8827191bcc94e0ba49fd67cb599fa95f789d6"
+		}
+	]
+}

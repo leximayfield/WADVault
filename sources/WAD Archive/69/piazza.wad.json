@@ -1,0 +1,16 @@
+{
+	"uid": "piazza.wad",
+	"name": "Piazza",
+	"description": "Deathmatch centered around a piazza. (This is not the same as a pizza).",
+	"date": "2013-11-02 16:36:51",
+	"files": [
+		{
+			"filename": "piazza.wad",
+			"size": 111995,
+			"crc": 2762812644,
+			"md5": "c91caef8da0c08e3ff0370b3d4f0ca7a",
+			"sha1": "6907a689296c876a5f93e567dcb618b54e598304",
+			"sha256": "ed92d8787a1637f1982ab52de822d9dacaf53c27288a2172272244ce473671fe"
+		}
+	]
+}

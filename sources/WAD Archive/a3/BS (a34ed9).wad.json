@@ -1,0 +1,17 @@
+{
+	"uid": "BS (a34ed9).wad",
+	"name": "B&S Death",
+	"description": "This layout of this level is based on where I work. I would mention where this is but I think the idea of killing and maiming in the work place would violate our stated corporate values. This level starts out in the pilot plant. You must walk into the plasma to get the blue key to get into the offices.(unless you have time to look for a secret door) As you walk across the loading dock into the offices and research labs you will notice that some areas are very crowded. It may be a good idea to get the fighting started in a room then leave and let them fight it out for themselves. I have experienced some slow down when playing due to the number of monsters so I highly suggest playing this on a fast machine! (I run it on a 486DX2/66 with 16 meg) I don't think it is possible to get 100% for items (unless you cheat.) Some items are unreachable and are there to enhance the scenery. (ie. life vials on the lab bench tops) I will be releasing a DOOM ][ version of this wad with slight modifications but the layout will be just about the same.",
+	"version": "a34ed9",
+	"date": "2013-11-02 15:26:40",
+	"files": [
+		{
+			"filename": "BS.wad",
+			"size": 139045,
+			"crc": 2542335621,
+			"md5": "7959b80310b8373d724b28ca4b98d91b",
+			"sha1": "a34ed9e4508c5c5bbf6321e9c05d318a1e8d934d",
+			"sha256": "7721c8ba2a7c283ccbda27875c27b0d82fef99134f67d2c6d63bc93e4cc3307f"
+		}
+	]
+}

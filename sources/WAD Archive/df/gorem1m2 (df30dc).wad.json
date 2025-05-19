@@ -1,0 +1,17 @@
+{
+	"uid": "gorem1m2 (df30dc).wad",
+	"name": "Gore",
+	"description": "2 maps for Ult. Doom. Both of them losely based on episode 1 and 2 respectively.",
+	"version": "df30dc",
+	"date": "2019-03-06 21:27:47",
+	"files": [
+		{
+			"filename": "gorem1m2.wad",
+			"size": 1932912,
+			"crc": 3728305199,
+			"md5": "3a1fb6e25d52bddfa138c001315faf4a",
+			"sha1": "df30dc90649ee559d6339fa2d6a9b8b9c1d21674",
+			"sha256": "30db7e2cbcf89af31868078a25dba7c496e5e680e71d338798162d1785b7f8c9"
+		}
+	]
+}

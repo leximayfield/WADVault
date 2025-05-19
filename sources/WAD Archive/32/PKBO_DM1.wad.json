@@ -1,0 +1,16 @@
+{
+	"uid": "PKBO_DM1.wad",
+	"name": "\"Peek-A-Boo\"",
+	"description": "PEEK-A-BOO is a DOOM I deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of a few rooms connected to each other so the action will always be constant. There are a few false walls that make for good ambush sites. The players start in one of four hallways adjacent to a couple of rooms. They will each find the same weapons depending on the Skill level chosen (The higher the Skill level, the nastier the weapons and greater the Health bonuses. There's also Invisibility Spheres and ammo for the weapons scattered throughout. There are TWO Teleporters in the big room (East) that will transport you to the North or South corners of the hidden hallway above the big room. The northern Teleport takes you to the northern corner facing South and the southern Teleport takes you to the southern corner facing North. This level is great in DEATHMATCH 2.0 as well as regular Deathmatch. There is plenty of opportunity for ambush.",
+	"date": "2013-11-06 22:41:20",
+	"files": [
+		{
+			"filename": "PKBO_DM1.wad",
+			"size": 20164,
+			"crc": 4132485837,
+			"md5": "cf7970f3f6415c2945a4185a24f48124",
+			"sha1": "3244072576045b8101017ae5a21bc5a01fced5d2",
+			"sha256": "94b0a74e684e7b7d8b6499bb63ac8f07a50b99b467a401ea61d78952341ac45d"
+		}
+	]
+}

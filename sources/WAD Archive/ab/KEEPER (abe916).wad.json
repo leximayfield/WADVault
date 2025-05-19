@@ -1,0 +1,17 @@
+{
+	"uid": "KEEPER (abe916).wad",
+	"name": "KEEPER.WAD.WAD  rev 1.2",
+	"description": "This is another revision to the keeper.wad. Made more challenging with a different array of monsters throughout this level as per several messages. Comments are always welcome and appreciated.",
+	"version": "abe916",
+	"date": "2013-11-02 15:13:45",
+	"files": [
+		{
+			"filename": "KEEPER.wad",
+			"size": 115320,
+			"crc": 4246860567,
+			"md5": "6c1c9d0eaf240eaec5e95e709378621c",
+			"sha1": "abe91692ae3e76cea07fea3c511479268ece172d",
+			"sha256": "e0afd4ebce93d28004cde04b3bc544174c449a395ae933a0d177d12918b23618"
+		}
+	]
+}

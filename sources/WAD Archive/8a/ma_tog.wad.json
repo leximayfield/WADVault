@@ -1,0 +1,16 @@
+{
+	"uid": "ma_tog.wad",
+	"name": "Twilight of the Gods",
+	"description": "This was the original, intended version of what was to be submitted to the Doomworld Mega Project 2013. For whatever reason, an older version ended up being in the final version.",
+	"date": "2018-04-16 08:21:07",
+	"files": [
+		{
+			"filename": "ma_tog.wad",
+			"size": 2000358,
+			"crc": 951755400,
+			"md5": "a7066e788dfdbd522b6ccfd91c883064",
+			"sha1": "8a0b6c79801d60a8a8b2b2fe4d6c601a8ab5390a",
+			"sha256": "1ca132d1e39c80b14447645016b1b0c868d0c098e659bca0269407bd618e5602"
+		}
+	]
+}

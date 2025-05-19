@@ -1,0 +1,17 @@
+{
+	"uid": "kswood (7c3d42).wad",
+	"name": "KSWOOD",
+	"description": "The evil forces have captured a whole small farmer village in a firewall and nobody has the guts to pass the firewall. Your mission is to take you to the village and blow away the evil forces. You are near now but you hear something, you aren't alone in the forest and begin to run to the small castle before something will get you.",
+	"version": "7c3d42",
+	"date": "2014-01-04 11:55:44",
+	"files": [
+		{
+			"filename": "kswood.wad",
+			"size": 263535,
+			"crc": 2940075179,
+			"md5": "042edef7f2c46419f068152f4ed91e07",
+			"sha1": "7c3d429d76db2980964749de56bc57f93a6623b2",
+			"sha256": "389e64953b2d542da9922ccf81fe459bb922cd0762313d09076d4f914dee7201"
+		}
+	]
+}

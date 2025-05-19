@@ -1,0 +1,16 @@
+{
+	"uid": "mcrates.wad",
+	"name": "Mystic Crates",
+	"description": "A little base-themed map I've made in September 2016. You must explore a mysterious base full of crates !",
+	"date": "2018-02-15 20:44:09",
+	"files": [
+		{
+			"filename": "mcrates.wad",
+			"size": 209836,
+			"crc": 1917505553,
+			"md5": "667997432d04fb70840cbcf648546a0a",
+			"sha1": "98b61817c35cd26cc6f03d9eea588f5f110d5d2a",
+			"sha256": "4e0320d4fd8eb6c54766f7478d32b13dd83e68aa89309403d690e41f2ea374db"
+		}
+	]
+}

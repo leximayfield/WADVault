@@ -1,0 +1,17 @@
+{
+	"uid": "dethrace (1a4a61).wad",
+	"name": "DEATHRACE",
+	"description": "This level was made 100% for deathmatch! DOOM2.",
+	"version": "1a4a61",
+	"date": "2016-02-07 20:32:06",
+	"files": [
+		{
+			"filename": "dethrace.wad",
+			"size": 32921,
+			"crc": 2202278821,
+			"md5": "5f872b4627184deff61801690d4a5647",
+			"sha1": "1a4a610bd90edc8298c98b79646797edaf2219b9",
+			"sha256": "1e0d3999fa7232c00a14b0468b00501a484ded4285314964351be0f7d9533dde"
+		}
+	]
+}

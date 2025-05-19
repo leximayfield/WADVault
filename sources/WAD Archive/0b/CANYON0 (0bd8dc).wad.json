@@ -1,0 +1,17 @@
+{
+	"uid": "CANYON0 (0bd8dc).wad",
+	"name": "CANYON.WAD",
+	"description": "A level pretty much suited for Deathmatch play only. A single winding sector with four player and four deathmatch starts, various pesky little monsters, and various weapons ranging in strength from chainsaw to plasma gun. (Beware launching missiles at a dead run in a twisty canyon or it really will be a dead run <g>).",
+	"version": "0bd8dc",
+	"date": "2013-11-02 15:23:17",
+	"files": [
+		{
+			"filename": "CANYON0.wad",
+			"size": 28183,
+			"crc": 1521395395,
+			"md5": "8621d6948d07b19f641ef301134494f5",
+			"sha1": "0bd8dc8810dacf76f2a747ed47cfc7afba284052",
+			"sha256": "5d2205397126c34b60ecbc0ddee207696d356fdb61c2237088dacccad4f446ce"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "uac-m1.wad",
+	"name": "UAC: Mission 1",
+	"description": "After mapping for years, I've finally released my first finished project. This is part one of a nine part series that re-imagines \"Knee Deep in the Dead,\" although with significant artistic liberties, architecturally speaking. The goal is to remind the player of the original levels while still feeling fresh.",
+	"date": "2019-03-06 21:58:37",
+	"files": [
+		{
+			"filename": "uac-m1.wad",
+			"size": 6214890,
+			"crc": 3797066283,
+			"md5": "9e27453356e3a07b3fef46d65c0a31ba",
+			"sha1": "f1af57ca2f3d969f9325abb1e2893cce1ff44849",
+			"sha256": "1f3f48b5a9acdd881167e7df3d68169769196dfcd027af4e9819a62d55816dc3"
+		}
+	]
+}

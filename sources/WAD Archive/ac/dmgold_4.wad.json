@@ -1,0 +1,16 @@
+{
+	"uid": "dmgold_4.wad",
+	"name": "Doom Gold Four",
+	"description": "Sound and (some) graphics replacement PWAD for commercial DOOM II - Hell On Earth",
+	"date": "2013-11-02 16:06:25",
+	"files": [
+		{
+			"filename": "dmgold_4.wad",
+			"size": 452583,
+			"crc": 3763754223,
+			"md5": "6989680d1ce753243638510fc035566e",
+			"sha1": "ac3acd9e4e763649284ff9ff89ea0fba7362d2ca",
+			"sha256": "201fa7590c6342d48d40b88eae3817bc8d84a08e0c782edb0c387d688f45477e"
+		}
+	]
+}

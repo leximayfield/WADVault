@@ -1,0 +1,16 @@
+{
+	"uid": "qe1m7.wad",
+	"name": "Quake's E1M7 - ZDoom required.",
+	"description": "This is a recreation of Quake's E1M7 in ZDoom.",
+	"date": "2014-12-29 08:53:36",
+	"files": [
+		{
+			"filename": "qe1m7.wad",
+			"size": 235808,
+			"crc": 1852666607,
+			"md5": "f7da2ba65a144c5b2471741341a8fbdc",
+			"sha1": "eb3dbccb0ccdd1ff3efd04f08d7e5affbf3baacd",
+			"sha256": "4ba5b075db9451a5ad0db351ef196f8c1da9f7a205a1a5a6e51b4a39604f9c14"
+		}
+	]
+}

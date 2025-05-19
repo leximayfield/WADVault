@@ -1,0 +1,16 @@
+{
+	"uid": "arenad2.wad",
+	"name": "ARENA_D2.WAD",
+	"description": "A large arena, with complex temple located in its centre, Surrounded by a tunnel network and grandstands. Major death on Ultra-Violence",
+	"date": "2013-11-02 16:37:55",
+	"files": [
+		{
+			"filename": "arenad2.wad",
+			"size": 233239,
+			"crc": 4137410718,
+			"md5": "ee6b6b0f65f372bd1d9b795225874550",
+			"sha1": "3dffe01c113de9d50ec575c2f389bd04d6690bbc",
+			"sha256": "066522ec1cd1dae3cfffe57842abedfb26377ac2bea3c8d78a8a329091a593d4"
+		}
+	]
+}

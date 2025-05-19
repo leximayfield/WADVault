@@ -1,0 +1,16 @@
+{
+	"uid": "drdad.wad",
+	"name": "Dr Dad's Rx",
+	"description": "These levels were designed for two player deathmatch. Try \"-deathmatch -respawn\" for mildly annoying inter- ference during a deathmatch. (There are only a few bad guys so they you on yer toes and they can be used tacticaly)",
+	"date": "2014-12-15 22:56:03",
+	"files": [
+		{
+			"filename": "drdad.wad",
+			"size": 279414,
+			"crc": 927350148,
+			"md5": "a9f5b66f9fda6549526ccf6de080303b",
+			"sha1": "382a85dc177c0fc41d7a73493be603f88e023e39",
+			"sha256": "3b1f52731cc84079fc2a623b444997d31a28997421151b9dfc396f617d339c19"
+		}
+	]
+}

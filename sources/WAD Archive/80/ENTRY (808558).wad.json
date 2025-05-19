@@ -1,0 +1,17 @@
+{
+	"uid": "ENTRY (808558).wad",
+	"name": "Entry.WAD",
+	"description": "\"You are shoved roughly through the door, and you don't even have time to watch it slam shut behind you as a nearby guard punches a hole in your leg with a well placed bullet. They said you were free to go, but you didn't know you'd have to run this little guantlet first before you make it to the exit. You have a battle to fight, freedom to gain and nothing to lose... but your life.\" (this is my first wad, but it could be thought as a \"shareware\" version to my upcoming full episode replacement wad) Just wait... there are bigger and better wads coming soon!",
+	"version": "808558",
+	"date": "2014-12-14 20:52:28",
+	"files": [
+		{
+			"filename": "ENTRY.wad",
+			"size": 88777,
+			"crc": 602963711,
+			"md5": "1c5192dd4dd32aedd2d0da9ec52d723c",
+			"sha1": "8085582200b51be8790838ffe8118961f1851fed",
+			"sha256": "34600f3f98150afadb495a2e5bf5daf7547d28616f65cb41c57aa13f5197a0fb"
+		}
+	]
+}

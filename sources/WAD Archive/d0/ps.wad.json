@@ -1,0 +1,16 @@
+{
+	"uid": "ps.wad",
+	"name": "Phobos Strike",
+	"description": "The old Phobos map I did back in January.",
+	"date": "2014-12-13 17:35:39",
+	"files": [
+		{
+			"filename": "ps.wad",
+			"size": 864007,
+			"crc": 282336518,
+			"md5": "245361ddff28f43b2c6a23ebad913626",
+			"sha1": "d089f85cd47e6103e0a6c4b5f27dea4b156a470e",
+			"sha256": "3eadcb68066ce9c2ef917a204dafac01fffde2134115908dd2a20ae9d278ec6d"
+		}
+	]
+}

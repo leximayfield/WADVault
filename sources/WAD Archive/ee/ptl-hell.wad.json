@@ -1,0 +1,16 @@
+{
+	"uid": "ptl-hell.wad",
+	"name": "The Portal to Hell",
+	"description": "This is my first level for Doom2 and I think it came out pretty good. You are stuck inside a marble fortress and you must clean it out and escape. Once you find the Portal to Hell, you are in for a massive fight. Good luck!. This is quite a large level with over 400 monsters on UV so be very careful.",
+	"date": "2015-01-14 22:48:21",
+	"files": [
+		{
+			"filename": "ptl-hell.wad",
+			"size": 235856,
+			"crc": 3709740534,
+			"md5": "3cef9c061ae027c3eb8028428e28eb00",
+			"sha1": "ee974ed13274949d62592f517bfc77ddfac14015",
+			"sha256": "e0acfe3e4a85e28c10934e7caf69746c3559e0d0004bc019682a8a5a16d59046"
+		}
+	]
+}

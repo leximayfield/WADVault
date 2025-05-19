@@ -1,0 +1,17 @@
+{
+	"uid": "OMEGA (a8b61d).wad",
+	"name": "Omega",
+	"description": "Map 01 - Compound: You are working as an engineer for a major company. Suddenly the base goes silent. You pull out your handy pistol and attempt to blast your way out of the compound. Map 02 - Haunted Mines: As you are leaving the compound via water tunnel you recieve a faint transmission from a mining company that is near the exit of the water tunnel. They found a demon artifact while digging. The artifact flooded the mines with poison. All of the workers down in the mines died and their souls were sucked into the artifact. Moving the artifact may trigger it to unleash it's captured souls.",
+	"version": "a8b61d",
+	"date": "2015-01-13 21:51:15",
+	"files": [
+		{
+			"filename": "OMEGA.wad",
+			"size": 781621,
+			"crc": 831469353,
+			"md5": "b113b4e362fce6776523824a638ff100",
+			"sha1": "a8b61d7991142a3dd13ddb2ed1114ac6fbf4e418",
+			"sha256": "11c683cc6ff556592f5aa8b19fe54b1ca21c83e0f8f143d644cd9e634b53dc77"
+		}
+	]
+}

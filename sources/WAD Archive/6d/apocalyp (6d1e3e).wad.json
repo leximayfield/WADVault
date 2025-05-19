@@ -1,0 +1,17 @@
+{
+	"uid": "apocalyp (6d1e3e).wad",
+	"name": "Apocalypse",
+	"description": "A single-level Doom2 PWAD.",
+	"version": "6d1e3e",
+	"date": "2014-12-15 22:49:11",
+	"files": [
+		{
+			"filename": "apocalyp.wad",
+			"size": 239968,
+			"crc": 2174449226,
+			"md5": "fa4e839e7dbefe5bf885a4d95005f0e9",
+			"sha1": "6d1e3efaf6cfa6ae3ddd17a89ed7bd1071eacac1",
+			"sha256": "db76764a79bbc5462039b076a6d33f34b16c38d1973a90abdf6a585913289c71"
+		}
+	]
+}

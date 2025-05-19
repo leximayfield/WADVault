@@ -1,0 +1,17 @@
+{
+	"uid": "tower2 (522224).wad",
+	"name": "Tower v1.0",
+	"description": "\"Tower\" is an add-on level for the -registered- version of Heretic by id software. It was created using Waded v1.81R by Matthew Ayres and HEU v1.0b by Josh Martel & Tom Mustaine. This is my first attempt at a level, and was created as a test, and to have something new to play in Deathmatch games. Named for the predominant Tower w/ winding staircase in the first room.. this level basically is a few large rooms with various extras added in. Intended mostly for Deathmatch play, it can also be played in Co-op or single player mode, since there are -many- monsters roaming around. There is also a secret area with transporters to let you appear in various places to startle your opponent. ;) Try flapping your wings when you hit a dead end.. or just keep walking along the walls until ya go through one. Difficulty levels are active, but whatever level you start on... be prepared for an onslaught.",
+	"version": "522224",
+	"date": "2014-10-28 21:53:17",
+	"files": [
+		{
+			"filename": "tower2.wad",
+			"size": 51468,
+			"crc": 1227758886,
+			"md5": "e17365cb9faacd4903d87ebf437c9d42",
+			"sha1": "522224d6a906aff9b6f2ffbd6ee46db49c86f0cc",
+			"sha256": "51939c8bd189fe1dc0fbb73b0ed6c75321745d6eeef61ecbe45a0be8757afd6f"
+		}
+	]
+}

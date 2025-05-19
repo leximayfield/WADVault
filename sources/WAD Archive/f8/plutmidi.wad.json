@@ -1,0 +1,16 @@
+{
+	"uid": "plutmidi.wad",
+	"name": "Plutonia MIDI Pack",
+	"description": "One thing that separates the two halves of Final Doom is that TeamTNT composed many original tracks for Evilution, and I think that this added greatly to its originality and charm, even if some of the MIDIs were really short and/or just not that great. So, what if Dario and Milo Casali were musicians themselves, or what if they had other musicians - perhaps even TNT's music team, or even Bobby Prince himself - on board with the project to provide an original soundtrack to the maps of the Plutonia Experiment? This project is the Doomworld community's answer to that.",
+	"date": "2014-03-25 11:45:29",
+	"files": [
+		{
+			"filename": "plutmidi.wad",
+			"size": 729747,
+			"crc": 2260989065,
+			"md5": "d959d456b1c805f672724c2b0b5f8c40",
+			"sha1": "f84560c28c5c89b0cf1aba7a484e0862f9313a49",
+			"sha256": "e54fb8d3fd3806d8ab26cc903bb2fd967160b6c6e63123d10efe462547e281c3"
+		}
+	]
+}

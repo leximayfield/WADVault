@@ -1,0 +1,16 @@
+{
+	"uid": "EDMNATION.wad",
+	"name": "Eternal Damnation",
+	"description": "4 Vanilla maps themed after the original Ultimate Doom episodes, first 2 maps are close to the style of the original maps, while the remaining 2 have a different style",
+	"date": "2019-03-06 22:04:25",
+	"files": [
+		{
+			"filename": "EDMNATION.wad",
+			"size": 1132617,
+			"crc": 3930500611,
+			"md5": "b0d7373316e6333d40f11b5ee5276005",
+			"sha1": "b72b9234ede2b59635f241d9cbf0e41c918f6a7e",
+			"sha256": "8c5a2978637b20ee7d7316fbc3c52cff171964a29faaa913743b03cb3bffc28d"
+		}
+	]
+}

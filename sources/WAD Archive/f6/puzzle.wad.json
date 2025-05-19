@@ -1,0 +1,16 @@
+{
+	"uid": "puzzle.wad",
+	"name": "Puzzle",
+	"description": "A nice puzzling level for all you heretic lovers. NO NEED TO CHEAT IN THIS LEVEL!! Please email me with your comments",
+	"date": "2014-12-30 11:33:55",
+	"files": [
+		{
+			"filename": "puzzle.wad",
+			"size": 59685,
+			"crc": 419551284,
+			"md5": "02deaf42d804aadfad907d948a36bdf6",
+			"sha1": "f67fdc3e13603124ccbd39c327f9676e79bebd68",
+			"sha256": "63c3c2bd70d92ed9ac1c74830dcd949d02f969e8a06a580cded5355587c85bf4"
+		}
+	]
+}

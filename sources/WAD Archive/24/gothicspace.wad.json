@@ -1,0 +1,16 @@
+{
+	"uid": "gothicspace.wad",
+	"name": "GothicSpace",
+	"description": "A wrong teleporter took you to god knows where. Fight your way trough this gothic castle somewhere in outer space and find your way back",
+	"date": "2019-08-26 12:51:35",
+	"files": [
+		{
+			"filename": "gothicspace.wad",
+			"size": 1127143,
+			"crc": 597444203,
+			"md5": "39e2dcbc47c8df98dbcf616594b936b3",
+			"sha1": "24e46e42bcaad32acbd63f7cabae3f4f35209c4a",
+			"sha256": "afc2b63a2f666bbce719896dc129995752dd1d223d8d5a6fe7a094894eb59ac8"
+		}
+	]
+}

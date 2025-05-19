@@ -1,0 +1,17 @@
+{
+	"uid": "fear2 (7949fa).wad",
+	"name": "Fear II - The Spawn",
+	"description": "With the apparent downfall of DOOM due to the recent release of Quake, or at least the alpha version (but I think even that's better than DOOM), I'm going to stop making DOOM ][ levels. From now on, all my levels are going to be for Quake. But that doesnt mean I won't continue the fear series. Fear III will be a Quake level, and will be truly amazing (so long as I understand how the hell CAD works :)",
+	"version": "7949fa",
+	"date": "2013-11-03 17:43:51",
+	"files": [
+		{
+			"filename": "fear2.wad",
+			"size": 372819,
+			"crc": 3529357935,
+			"md5": "2df305fa11547556509e16bd536e1b40",
+			"sha1": "7949fa0f81ecd428ea448cc7efa30f461705d07d",
+			"sha256": "22267422441767790a42564e61e99de81f7dc3984e7d7a1ae197ed446ba63330"
+		}
+	]
+}

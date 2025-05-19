@@ -1,0 +1,16 @@
+{
+	"uid": "personal.wad",
+	"name": "It's Nothing Personal",
+	"description": "This is part 2 to my seven level campaign titled \"Severed\". Wanted to get this one out there as soon as I could. Planned on releasing the campaign as one whole wad, however due to the time it seems to be taking me to develop a single level, I decided to now release my campaign in parts. When it's finished, I suppose I will package it all together and put a bow on it. It's Nothing Personal is a personal homage to one of my favorite Plutonia levels: Go 2 It. I didn't structure any part of the level after Go 2 It, but rather tried to recreate a fair but severely challenging map remniscent of Go 2 It. In no way do I think my prowess can stack up to Plutonia's greatness, by the way. Anyways, at first I didn't intend for this level to be completeable by pistol start (this map was originally intended to be the level before the final level in the campaign), but tweaked it just barely enough so that it's possible to do such. I've play tested it on Ultra Violence from pistol start and if a mere mortal like me can complete it, I'm sure any of the Doom Gods can do it. There are some vague switches and obtuse secrets to be had, and even I felt put off by it, but it seems to encourage full exploration of the map, so I hesitantly left them in. Just like my previous Severed map, this one utilizes a lot of the neat zDoom/Skulltag engine features, such as jumping, swimming, zooming, etc. I also decided to leave out the heavily colored sectors in this one as well, as it didn't seem to fit in very well with the feel of the level. Big thing here too: this map slows up like a bitch if all the full effects of the Beautiful Doom wad are left on, so go into the options and tweak whatever is neccessary for your machine. After this lengthy description, I would like to say ANY feedback would be greatly appreciated! Especially critical! I'm still learning the ropes of publishing and creating, so I would like to know the brutal truth about anything you think about this map. Thanks!",
+	"date": "2014-12-29 08:55:45",
+	"files": [
+		{
+			"filename": "personal.wad",
+			"size": 20897911,
+			"crc": 869111108,
+			"md5": "817ac235f08f667d8d70e0c9c8e68f3e",
+			"sha1": "3bf9cd30cdb5a30bb4f6f652aeb6eadd9972f163",
+			"sha256": "d4bfbd3ba66d6de1bc88bdc6f7aa28c1f094bd6503bffb863a70468994f02092"
+		}
+	]
+}

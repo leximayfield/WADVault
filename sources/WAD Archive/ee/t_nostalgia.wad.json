@@ -1,0 +1,16 @@
+{
+	"uid": "t_nostalgia.wad",
+	"name": "Nostalgia Station",
+	"description": "A Doom base-style map for Doom2. Lava outside and crates inside. A mix of Doom and Doom2 monsters and a couple of keys.",
+	"date": "2018-05-28 18:55:50",
+	"files": [
+		{
+			"filename": "t_nostalgia.wad",
+			"size": 312558,
+			"crc": 183058812,
+			"md5": "408d51765a6d99ecc4b5e93947c6cdce",
+			"sha1": "eea84207b5e3edd961bc5210cd42a2f91a291f87",
+			"sha256": "c74e92e55921de78691c86b861be3de3ca668c48b9e671de65aa2aad3705f717"
+		}
+	]
+}

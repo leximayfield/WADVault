@@ -1,0 +1,16 @@
+{
+	"uid": "hazchem.wad",
+	"name": "HAZCHEM",
+	"description": "So this is my first map, it's called HAZCHEM, and there's really nothing special about it. It being my first map and all, it's gonna be really REALLY shit and sloppy, and I didn't want to overshoot and make big ambitious maps, so all this is is just a quick MAP01 replacement. It wasn't built to be hard at all, you should find UV a breeze, and even moreso on lower levels of difficulty. I have added a couple of secrets though, but as proud of them as I am, they're probably quite basic, but they're there nonetheless.",
+	"date": "2016-07-20 20:26:18",
+	"files": [
+		{
+			"filename": "hazchem.wad",
+			"size": 130074,
+			"crc": 1950568853,
+			"md5": "c61a7a80ce3409e0bb6ee39d6e4ead9b",
+			"sha1": "75177b4ee5a0890fbfcdb199af8d4b9c319dc173",
+			"sha256": "76b20e6b1ef2e6a0a22a177745039ddb4c38f7155b78b7db8906e9a9a574bf8a"
+		}
+	]
+}

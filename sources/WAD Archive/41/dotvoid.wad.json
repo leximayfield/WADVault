@@ -1,0 +1,16 @@
+{
+	"uid": "dotvoid.wad",
+	"name": ".Void",
+	"description": "A void-style deathmatch map, constructed *entirely* out of 3d floors. Uses FraggleScript for a few special effects like teleporters or 3d elevators. Don't mind the Pac-Man theme, it just adds a little variety to things. :P It seemed that a feature had been removed from Doom Legacy, namely the one that keeps items respawning at their original height. Because of that, the original version of .Void was unplayable (serves me right for not testing properly). This fix keeps some floors raised so objects wont fall through 3D floors anymore, at the cost of some visual annoyances. But now it should be playable at least.",
+	"date": "2014-12-15 23:11:50",
+	"files": [
+		{
+			"filename": "dotvoid.wad",
+			"size": 258455,
+			"crc": 2725328531,
+			"md5": "f7b49b74597ba7ead53ea1626088d005",
+			"sha1": "41019bff8bd690a03b41f199f8a434023bc05c96",
+			"sha256": "05c27cd4e30ea2f8e051e12e18825ef34fc8a733cf9c4f884781d9f5a092f4c6"
+		}
+	]
+}

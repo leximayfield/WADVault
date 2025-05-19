@@ -1,0 +1,16 @@
+{
+	"uid": "doomonstration_game.wad",
+	"name": "DoomonstrationGame",
+	"description": "It's not easy to explain what is this all about. Well,. right the moment you are reading this, a nomonster version of this WAD will have already been presented through an LMP as a wild demo at the Pixelshow demoparty. By running the batch file inside the bonus folder (provided that all these files are in your Zdoom directory) you will see how exactly it was presented at the party. Then again, I thought it would be a good idea to fill these maps with monsters to make it playable for Doom freaks. So I also edited doomonstration_game.wad for you.",
+	"date": "2014-12-14 20:43:27",
+	"files": [
+		{
+			"filename": "doomonstration_game.wad",
+			"size": 1202014,
+			"crc": 4023931015,
+			"md5": "cc0d6d92fc395190bdf70ecbace8a7e6",
+			"sha1": "65ed21bbf0408a9a3a90d9af52cfa27879ab535b",
+			"sha256": "273f953dc9a5eb443a2d9bc559ee4cebb821e4a72eef72d63363f42272cc5844"
+		}
+	]
+}

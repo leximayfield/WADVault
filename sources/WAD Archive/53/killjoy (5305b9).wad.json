@@ -1,0 +1,17 @@
+{
+	"uid": "killjoy (5305b9).wad",
+	"name": "HLZGATE.WAD (Hell's Gate)",
+	"description": "Once again using my patented secret doom-building recipez from hEll...",
+	"version": "5305b9",
+	"date": "2013-11-02 15:09:30",
+	"files": [
+		{
+			"filename": "killjoy.wad",
+			"size": 163937,
+			"crc": 2739676632,
+			"md5": "5df9db25a2682cab34d7b11e5caaa716",
+			"sha1": "5305b9ee9f957d3fb60e37de373787b363e6e5e9",
+			"sha256": "7df2b9e92dd58d3866544aa2b762323230d51603baf6241c9dd7b7ef22b66b6c"
+		}
+	]
+}

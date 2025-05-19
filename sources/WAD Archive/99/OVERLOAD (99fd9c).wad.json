@@ -1,0 +1,17 @@
+{
+	"uid": "OVERLOAD (99fd9c).wad",
+	"name": "Fragmageddon",
+	"description": "16 rather small and quite high-paced deathmatch levels that I (Ola) originally started making for myself and some friends to play since everything else what too big or just plain ugly. (And we're too lazy to look for good levels :-) Later I introduced Nicklas and Tobias to DOOM editing and they started making maps for this project too. Martin Friberg teamed up quite soon to help us.",
+	"version": "99fd9c",
+	"date": "2014-12-15 22:47:57",
+	"files": [
+		{
+			"filename": "OVERLOAD.wad",
+			"size": 1788768,
+			"crc": 621714574,
+			"md5": "0090df975ba3129b729a052bc8feb7c7",
+			"sha1": "99fd9ca325d8fda86c58d8e25c35cd0edc4febab",
+			"sha256": "b87d3a3f760e79067ec83d2c0963381fdce85071916c8f3757f6583bc240556c"
+		}
+	]
+}

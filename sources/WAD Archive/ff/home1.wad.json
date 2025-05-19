@@ -1,0 +1,16 @@
+{
+	"uid": "home1.wad",
+	"name": "my corrupted DOOM 2 home",
+	"description": "For DOOM 2 Based on my house",
+	"date": "2014-12-18 23:14:04",
+	"files": [
+		{
+			"filename": "home1.wad",
+			"size": 190348,
+			"crc": 1667637242,
+			"md5": "4a88ca4de8f36261c14dfcd6f65cdec6",
+			"sha1": "ff8832e9cf2601a9b0a9c8faced797294d2aaf5c",
+			"sha256": "282f2b5c08f4f639a77e8a297ac3d28cfe34cd9c30127296485ae8168343710f"
+		}
+	]
+}

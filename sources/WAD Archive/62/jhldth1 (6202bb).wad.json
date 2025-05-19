@@ -1,0 +1,17 @@
+{
+	"uid": "jhldth1 (6202bb).wad",
+	"name": "JHL Death 1",
+	"description": "Deathmatch WAD in a warehouse with catwalk. All weapons are present. Best with -altdeath. There is no exit.",
+	"version": "6202bb",
+	"date": "2016-02-07 20:34:36",
+	"files": [
+		{
+			"filename": "jhldth1.wad",
+			"size": 83255,
+			"crc": 2324465664,
+			"md5": "a0d9b7ad1cd10f8e845a75bbcbd00f3a",
+			"sha1": "6202bbc54b40e0edb88d346bbf98d9af697cec6b",
+			"sha256": "636cc4936054cb4f660cc5dc00cc0851852be75bc575a83fbc3784a12c7d1d66"
+		}
+	]
+}

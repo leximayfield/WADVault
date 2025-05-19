@@ -1,0 +1,17 @@
+{
+	"uid": "lava (924833).wad",
+	"name": "Lava",
+	"description": "Mission Briefing follows....",
+	"version": "924833",
+	"date": "2014-12-27 12:22:02",
+	"files": [
+		{
+			"filename": "lava.wad",
+			"size": 877128,
+			"crc": 1637889325,
+			"md5": "110993414cded5f68fad19c6d91b69d9",
+			"sha1": "924833f67d0f1ee05a6c7bf7676eca2d3de20e1f",
+			"sha256": "139b2f3e98972d9493bf7f9a267de9880bb8d489967da29c79cd7b9e70908d4a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Pillars (6a4cec).wad",
+	"name": "Pillars",
+	"description": "A 4 player Deathmatch for Doom II, works fairly well for 2 players also. Pillars has 4 sets of 3 pillars, where each player starts. The match is played with rocket launchers only. There are two rooms other than the 'pillar' room where you can pick up extra ammo and recharge(and ambush !) reachable by teleporter. One of the rooms is a long corridor that has a mega globe in it and teleporters that put you back on top a pillar. The other room is reached via a teleporter in the center of the 'pillar' room, and is a large, dark square room filled with ammo and med kits, teleporters back uptop are in the corners . Made with alt deathmatch in mind, there is no exit.",
+	"version": "6a4cec",
+	"date": "2016-02-07 20:32:12",
+	"files": [
+		{
+			"filename": "Pillars.wad",
+			"size": 23512,
+			"crc": 1209291936,
+			"md5": "b3f2f2bb69f15ed4d2ef7c6ed51bff6e",
+			"sha1": "6a4cece7f721e54b0db8949eebfd9b313ae2d3bd",
+			"sha256": "cea1918b493bad9e8b5dc1562d5bd72a09f65e7939918ce35ee6c83cc4043048"
+		}
+	]
+}

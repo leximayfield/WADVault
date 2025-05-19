@@ -1,0 +1,16 @@
+{
+	"uid": "d2enh.wad",
+	"name": "D2ENH.WAD",
+	"description": "Adds realism to some of the weapons, changes skill level names, vertically tilable sky, and other fun stuff.",
+	"date": "2015-09-14 22:22:24",
+	"files": [
+		{
+			"filename": "d2enh.wad",
+			"size": 258108,
+			"crc": 2851747545,
+			"md5": "0559bd4fea8060a7df532b2747b298a8",
+			"sha1": "e6db846d7b87d3d0536873a11f8f923e7f36b2e7",
+			"sha256": "79db1bcee0193dad9f2b3e3e55856a048231f3933f8c07cf7a7153bce02e4586"
+		}
+	]
+}

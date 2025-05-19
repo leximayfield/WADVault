@@ -1,0 +1,17 @@
+{
+	"uid": "Railgun (2fbf06).wad",
+	"name": "railgun",
+	"description": "a railgun from Quake 2, sprites ripped by hnsolo77",
+	"version": "2fbf06",
+	"date": "2014-12-11 22:28:14",
+	"files": [
+		{
+			"filename": "Railgun.wad",
+			"size": 138784,
+			"crc": 3786316528,
+			"md5": "c55e5fe7802eb5bc7343467229e8597b",
+			"sha1": "2fbf06a25611ed9c0231e624d3f31bcce7ff60f7",
+			"sha256": "a004bc997fb7a181a043997f9a224881d0b0544b592ad34d339c392a96309f2e"
+		}
+	]
+}

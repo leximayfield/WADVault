@@ -1,0 +1,16 @@
+{
+	"uid": "uptightdm.wad",
+	"name": "Uptight Deathmatch",
+	"description": "A celebration of years of doom deathmatch, each map tries to create a different flair than the last",
+	"date": "2018-04-14 23:35:52",
+	"files": [
+		{
+			"filename": "uptightdm.wad",
+			"size": 18708399,
+			"crc": 2139198191,
+			"md5": "15aa2b53ce20121d4468d0b7856ae0c9",
+			"sha1": "80ba9880b34ab678915135b5f40befa4201f26fa",
+			"sha256": "86834673b86902c998ee5b84f169dd1dbab4fc7bae2a314a742c8a7b1334cf4a"
+		}
+	]
+}

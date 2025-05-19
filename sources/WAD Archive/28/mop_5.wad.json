@@ -1,0 +1,16 @@
+{
+	"uid": "mop_5.wad",
+	"name": "Bay of Flames",
+	"description": "I made this level a few months ago but never released it. Its short, simple, but fairly hard. I pretty much used this level to teach myself ACS.",
+	"date": "2015-01-13 21:24:08",
+	"files": [
+		{
+			"filename": "mop_5.wad",
+			"size": 746888,
+			"crc": 2595626730,
+			"md5": "67344b1a5bf567cae4bc1b93bc3e4f91",
+			"sha1": "287bc259b2795eb667d3c5b5bb19674545e738eb",
+			"sha256": "9d53ea816185233ca1fed1a14f07c4db310c6f261474c5644924af25886bfc54"
+		}
+	]
+}

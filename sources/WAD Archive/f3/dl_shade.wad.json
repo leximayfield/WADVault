@@ -1,0 +1,16 @@
+{
+	"uid": "dl_shade.wad",
+	"name": "SHADES",
+	"description": "Nice go-around-level with atleast one totally crooked trap. Watch out!",
+	"date": "2014-12-13 12:49:00",
+	"files": [
+		{
+			"filename": "dl_shade.wad",
+			"size": 103630,
+			"crc": 2432020654,
+			"md5": "5ed6f8ce11f7042266c3fb936fddd8f6",
+			"sha1": "f3b6d5b31876fa19e1eeb876c3a3824165557640",
+			"sha256": "8584b4113c3b9b249bd2615eac5584b4c30e36a174db52978bb3109a7401e121"
+		}
+	]
+}

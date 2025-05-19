@@ -1,0 +1,16 @@
+{
+	"uid": "kalhex1.wad",
+	"name": "Kalrac's First Hexen Level",
+	"description": "It's my first Hexen level. Rather than being a detailed level with lots of puzzles and having an actual point to existing, this is more of an engine test. There are a lot of jumps, magic steps, really fast elevators, transporters, moving floors, deep pits, pretty much full of stuff impossible (Or nearly impossible) to do in Doom 2. There aren't many monsters or weapons, therefore making this more set for Deathmatch, although it is just as good for Single and Co-op play. I should be past this testing stage by my next level. Don't be expecting detailed scripting anytime soon, though.",
+	"date": "2014-12-31 12:02:59",
+	"files": [
+		{
+			"filename": "kalhex1.wad",
+			"size": 109108,
+			"crc": 208698178,
+			"md5": "0fbac3210ce43fdff230f21d742cde81",
+			"sha1": "c5db8ca7f4ffe48d5dfeae076b1b0ab707152e9a",
+			"sha256": "9f6789a408c7d43634489042f4e24f337e8df88b147b720d25e23407f7ad7170"
+		}
+	]
+}

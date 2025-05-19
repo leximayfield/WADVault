@@ -1,0 +1,17 @@
+{
+	"uid": "pow2 (7140fd).wad",
+	"name": "Prisoner of War",
+	"description": "Taken prisoner during the Earth Wars, you manage to escape and set out to avenge the deaths of your platoon.",
+	"version": "7140fd",
+	"date": "2014-01-07 22:06:59",
+	"files": [
+		{
+			"filename": "pow2.wad",
+			"size": 559307,
+			"crc": 3678810972,
+			"md5": "863a625a77115486346f029888997ffb",
+			"sha1": "7140fd85a722cb511d16c85c2c8040645769475f",
+			"sha256": "dba62ee5e9dc3363248113c70a27fdcd1e26441070486100af37e6aa5198f3a4"
+		}
+	]
+}

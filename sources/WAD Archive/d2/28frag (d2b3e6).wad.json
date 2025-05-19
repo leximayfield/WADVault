@@ -1,0 +1,17 @@
+{
+	"uid": "28frag (d2b3e6).wad",
+	"name": "28Frag.WAD",
+	"description": "This is a deathmatch only wad designed to have a constant level of fear built in, as well as rewarding those who dare!",
+	"version": "d2b3e6",
+	"date": "2014-01-11 11:14:19",
+	"files": [
+		{
+			"filename": "28frag.wad",
+			"size": 35642,
+			"crc": 3391426062,
+			"md5": "7f2dae774a9f91e137896b1f006fdea2",
+			"sha1": "d2b3e69954b88793199fb4543e0ba5e21911bdfa",
+			"sha256": "6cc3813e1d79bad136a1f4efca19848dceab129b321a29bdee1384794ecd1c66"
+		}
+	]
+}

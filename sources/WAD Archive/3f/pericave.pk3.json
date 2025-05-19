@@ -1,0 +1,16 @@
+{
+	"uid": "pericave.pk3",
+	"name": "Perilous Cavern",
+	"description": "This map is set in a hellish environment where hellspawn will try to stop you no matter what. It uses scripting and UDMF format features. It was recycled from a map that was previously rejected in another project, so I gave a new life.",
+	"date": "2018-10-08 03:19:50",
+	"files": [
+		{
+			"filename": "pericave.pk3",
+			"size": 1641870,
+			"crc": 1756635027,
+			"md5": "c20598751f36c8698fe6249e2e70392b",
+			"sha1": "3fe525b5d86c459430452576777ba5720e9e7676",
+			"sha256": "18bd6871203c42d23818ce58e38cab6133ea902aed7daee961792a0f29d1684d"
+		}
+	]
+}

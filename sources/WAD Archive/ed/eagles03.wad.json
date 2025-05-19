@@ -1,0 +1,16 @@
+{
+	"uid": "eagles03.wad",
+	"name": "Eagle Speedmapping Session 3 - Third on the 3rd",
+	"description": "The Eagle Speedmapping Sessions' goal is to make maps within a 2 (in practice 3) hour limit. In this session, 8 maps were made, and the themes were: - Only use walkover triggers - 70 monsters at most - No ammo or weapons except plasma gun and energy cells And a bonus theme - health is only present via health bonuses.",
+	"date": "2017-10-19 19:30:11",
+	"files": [
+		{
+			"filename": "eagles03.wad",
+			"size": 1007815,
+			"crc": 4060776548,
+			"md5": "7af6857771ab9d1c1cf606b566355f36",
+			"sha1": "ed8d18589ed771518f0439b3c8e47c2b2f904af5",
+			"sha256": "c23278fb48627bbcda8e0a2be7aba327cf7449f2557bbc6fe1e3e4e1babb52ba"
+		}
+	]
+}

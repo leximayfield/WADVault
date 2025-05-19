@@ -1,0 +1,16 @@
+{
+	"uid": "switcheroom.wad",
+	"name": "Switcheroom",
+	"description": "The idea was to remake a map from one episode, but as if it had appeared in another episode.",
+	"date": "2014-04-05 12:45:41",
+	"files": [
+		{
+			"filename": "switcheroom.wad",
+			"size": 5152613,
+			"crc": 1049505425,
+			"md5": "e9b84ad8c41b19a590a06b7a8e0b1239",
+			"sha1": "564f4d3e43ba183bec8a816d5cefaea0e7fbc66e",
+			"sha256": "b2eb533bdb2c4dbda22271826d90652b8404dc42fc187ca85aa8398194ed2e33"
+		}
+	]
+}

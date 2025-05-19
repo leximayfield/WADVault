@@ -1,0 +1,16 @@
+{
+	"uid": "firefire.wad",
+	"name": "FIREFIRE!",
+	"description": "FIREFIRE! This is another cool deathmatch lev I made. It's a cool arena type level. It's made for both old deathmatch and alt-death.",
+	"date": "2014-12-15 21:29:38",
+	"files": [
+		{
+			"filename": "firefire.wad",
+			"size": 154200,
+			"crc": 3926382251,
+			"md5": "91034dd883f59f15fe23c12c745a01b2",
+			"sha1": "e729e704350ef4377ab4f548dac6816be917ddd2",
+			"sha256": "c22799b6b50a6a26c8e876664fe2754e94888764bbdf8fc56b20da097b497598"
+		}
+	]
+}

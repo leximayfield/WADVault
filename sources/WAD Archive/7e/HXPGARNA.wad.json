@@ -1,0 +1,16 @@
+{
+	"uid": "HXPGARNA.wad",
+	"name": "Hexen Pig Arena",
+	"description": "An arena with 4 sections, 1 per class and 1 containing a few goodies and a few badies. This wad only works with the Registered Version of Hexen. If you wonder why this is called the Pig Arena, then play for an hour and then watch the floor you will understand.",
+	"date": "2014-10-28 21:52:26",
+	"files": [
+		{
+			"filename": "HXPGARNA.wad",
+			"size": 42629,
+			"crc": 3817383694,
+			"md5": "05e885c24a3cff7e7a64f2f6b6b0fabd",
+			"sha1": "7e23c40e1b4d906bcc817fd2c37d60e7b1e372c8",
+			"sha256": "68131c91b1dd1d57ee159d4bcc9f5484e7f4a032ae2583433e678d77230feeca"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tenchi.wad",
+	"name": "Tenchi Muyo Doom",
+	"description": "This is a doom addon of an Anime cartoon.",
+	"date": "2014-12-29 17:23:37",
+	"files": [
+		{
+			"filename": "tenchi.wad",
+			"size": 3627963,
+			"crc": 2808142130,
+			"md5": "8f794e0a4013df6d3996c8ebebc88bb0",
+			"sha1": "af5f00330bd4adae40bf1d32186d69e581a385fa",
+			"sha256": "19924f0fc610887dae0bc0b7dddc31cc41fef648e13f262e45f469e2008cfe63"
+		}
+	]
+}

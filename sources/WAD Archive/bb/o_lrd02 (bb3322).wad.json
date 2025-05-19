@@ -1,0 +1,17 @@
+{
+	"uid": "o_lrd02 (bb3322).wad",
+	"name": "Over_lrd 02 Deathmatch",
+	"description": "Deathmatch",
+	"version": "bb3322",
+	"date": "2016-02-07 20:38:23",
+	"files": [
+		{
+			"filename": "o_lrd02.wad",
+			"size": 30666,
+			"crc": 1278086032,
+			"md5": "2c5b3799c38707f82b5588be5b4882a4",
+			"sha1": "bb3322a0aae03a96852588f98f9c69bf39539bba",
+			"sha256": "e8f4ac81abaa239c499a7c142ddc356a9f8900644f8d307066a8049ca57327d1"
+		}
+	]
+}

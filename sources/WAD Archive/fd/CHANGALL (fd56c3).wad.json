@@ -1,0 +1,17 @@
+{
+	"uid": "CHANGALL (fd56c3).wad",
+	"name": "Change All!  (changall.wad)",
+	"description": "This wad does'nt change just level 1... it changes ALL of the music... hence the name. I was getting tired of the normal Doom music. It's not bad or anything ... it's just getting boring. And all I could find were the usual changes to the music for map 01 so... I made this.",
+	"version": "fd56c3",
+	"date": "2014-11-01 14:58:24",
+	"files": [
+		{
+			"filename": "CHANGALL.wad",
+			"size": 813616,
+			"crc": 2554661699,
+			"md5": "72c4dd388fc85abf0c418eac9455a575",
+			"sha1": "fd56c30a08b702fb5653e30be8723c0c0cf627cf",
+			"sha256": "5b6bdc93899d78b84e624b202db59cead600c6766d3c875cc3b51e46786804ba"
+		}
+	]
+}

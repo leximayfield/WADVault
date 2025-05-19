@@ -1,0 +1,16 @@
+{
+	"uid": "DRX.wad",
+	"name": "Dr. X's base",
+	"description": "The Dr. X has a secret base in a X-shaped mountain. You are a special agent that must trap him and give him what he deserves.",
+	"date": "2014-12-18 22:13:58",
+	"files": [
+		{
+			"filename": "DRX.wad",
+			"size": 503858,
+			"crc": 2049642438,
+			"md5": "c81ad05a3bbfe81ffdaab2f994cabf71",
+			"sha1": "a5db0ad0a97ba08b934a338c594344668bcff633",
+			"sha256": "4ff392695da54c2b674836c36c778f2ff0560b142473b0ecc59410c5a9ad4965"
+		}
+	]
+}

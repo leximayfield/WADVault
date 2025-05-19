@@ -1,0 +1,16 @@
+{
+	"uid": "SNUFFS.wad",
+	"name": "Snuffs",
+	"description": "Little Deathmatch wad with corridors Hiding places. Only effect of the difficulty settings is that the BFG only appears on medium level.",
+	"date": "2014-02-15 17:05:34",
+	"files": [
+		{
+			"filename": "SNUFFS.wad",
+			"size": 30511,
+			"crc": 4110489935,
+			"md5": "684893cd5fcbac61aecc076688d1ca91",
+			"sha1": "40b000293ea18871a44f1b4a442333852517271e",
+			"sha256": "00ff6d38776e8e866b208596e0d09ad02fe37fbc1e36769abb361ba4a75cbdb6"
+		}
+	]
+}

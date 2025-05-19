@@ -1,0 +1,16 @@
+{
+	"uid": "hisymak.wad",
+	"name": "New Dungeons",
+	"description": "Hello world, this is my first ever created map. It's a very big map for Heretic with plenty of monsters that can give you some challenge. The map's name is `New Dungeons`.",
+	"date": "2014-12-30 11:37:59",
+	"files": [
+		{
+			"filename": "hisymak.wad",
+			"size": 957094,
+			"crc": 3049970618,
+			"md5": "1e48fe0d941cb41a16629915f7e6acf8",
+			"sha1": "c7f30ec55e1fd86310ca5ee397057d646021b318",
+			"sha256": "dc3b75a07fa84bf63cf1577e31188de53c8710ffc51a06f528ef5706d03aae4e"
+		}
+	]
+}

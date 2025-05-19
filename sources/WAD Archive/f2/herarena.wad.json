@@ -1,0 +1,16 @@
+{
+	"uid": "herarena.wad",
+	"name": "Heretic Arena",
+	"description": "Basically one of your arena wads.... except for the numerous sub-areas around the place, waiting for you to teleport in!",
+	"date": "2013-11-06 22:51:48",
+	"files": [
+		{
+			"filename": "herarena.wad",
+			"size": 58690,
+			"crc": 2110819528,
+			"md5": "3c99dbcd834723ab3cc621df14211253",
+			"sha1": "f29321c2375ca419a72dfe27900d5c0052cf40b5",
+			"sha256": "4183a30b3393cfd031e5ab0e39c39ef49d3e6b7fa9220a8a61ca2ce7c079271f"
+		}
+	]
+}

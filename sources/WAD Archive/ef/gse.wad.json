@@ -1,0 +1,16 @@
+{
+	"uid": "gse.wad",
+	"name": "GSE (Graphic/Sound/EXE Patch)",
+	"description": "This is an updated version of my WEPSND.wad. It has the following features: 1)MANY new sounds. (Weapons, monsters, and more!) 2)Moves weapons slightly to right for easier view of targets below. 3)Adds sight to all weapons (except chainsaw and fists!) 4)New H.R. Giger INTERPIC. 5)Skys from Heretic and Hexen 6)Dehacked patch with mucho changes! Just try it! 7)3 extra sound wads for \"mechanical\" sounds (doors, lifts, switches, etc.) Choose the one of your liking...",
+	"date": "2014-12-11 22:26:27",
+	"files": [
+		{
+			"filename": "gse.wad",
+			"size": 1188216,
+			"crc": 3165820169,
+			"md5": "b49ebb7b22d63f617d7399b5f3952f6f",
+			"sha1": "efafef313216af02fb9f35bffe0b5877331b9821",
+			"sha256": "72787a239c0b93fcafd5f91bad13786f725de22d3354f8068f9a33f32d01f23e"
+		}
+	]
+}

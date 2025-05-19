@@ -1,0 +1,16 @@
+{
+	"uid": "tsobd.wad",
+	"name": "The Stench Of Burning Death",
+	"description": "A fairly large map, with several areas branching off from a central map24-style section.",
+	"date": "2015-01-14 22:47:41",
+	"files": [
+		{
+			"filename": "tsobd.wad",
+			"size": 194913,
+			"crc": 3738237825,
+			"md5": "d78b6ef924f2ba58aed1bedd20427b19",
+			"sha1": "5acb871028b3e3b38419adecd3e95924514b10ea",
+			"sha256": "5e0824884eebfc0889c6959c7db8f82fb561abd596ea86773af0ac0664761f5f"
+		}
+	]
+}

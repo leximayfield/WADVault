@@ -1,0 +1,16 @@
+{
+	"uid": "wndbeach.wad",
+	"name": "Windy Beach Deathmatch v1.0",
+	"description": "Another concept DM WAD for Heretic, this map is the pseudo-sequel to SMKHDM.WAD. For some reason, the level in Doom2 titled 'Barrels of Fun' is a classic, and not because of level design. I guess it's simply for the fact that blowing stuff up IS fun!",
+	"date": "2014-12-30 11:27:23",
+	"files": [
+		{
+			"filename": "wndbeach.wad",
+			"size": 277718,
+			"crc": 1741096057,
+			"md5": "3e226096f7a7466f2a1baac0ca20f89a",
+			"sha1": "b5f1715a630c6bc74491a63c6610e1e1bc6935ac",
+			"sha256": "590e5cb988eb144268f2f2984e0823238b0acdc5c4c06a2583877c316ab987b6"
+		}
+	]
+}

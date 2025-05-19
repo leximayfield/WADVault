@@ -1,0 +1,17 @@
+{
+	"uid": "obsessed (6fdec9).wad",
+	"name": "OBSESSED",
+	"description": "Two levels designed for single player and Deathmatch. As you will soon find out, I love levels that are difficult with lots of the tough guys. In fact, you could say I'm obsessed with the idea. The levels have been made small and compact for non-stop heart-pounding action during deathmatch play (use -nomonsters).",
+	"version": "6fdec9",
+	"date": "2013-11-06 22:50:02",
+	"files": [
+		{
+			"filename": "obsessed.wad",
+			"size": 111379,
+			"crc": 4134027282,
+			"md5": "c449dc4cddcee21d284dd0dd3edf220c",
+			"sha1": "6fdec92d562862c91dd5b6ab3a3bb462f9614649",
+			"sha256": "2d3e90376e09f7f60d10ed748ae03435fa68a0a7c5816ec53d35635df7a77d33"
+		}
+	]
+}

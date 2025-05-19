@@ -1,0 +1,17 @@
+{
+	"uid": "POBLA2 (fdcf53).wad",
+	"name": "Point Blank 2",
+	"description": "Here is another fine Deathmatch-Level. Made for DM 2.0 and 2 players, we did not try to play it with more than 2. It's a very fast level, no place to hide, a lot of ledges. And very well designed of course.",
+	"version": "fdcf53",
+	"date": "2014-10-14 21:01:57",
+	"files": [
+		{
+			"filename": "POBLA2.wad",
+			"size": 46734,
+			"crc": 1026280188,
+			"md5": "d84454f0bd052d637c37d2e173be84b9",
+			"sha1": "fdcf5301eef82749188d40b12664ff541edf4191",
+			"sha256": "6dd5f9624da6eff47599262f5a372b4117a6f0039dc33237d4073bf4cf27af1f"
+		}
+	]
+}

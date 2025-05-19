@@ -1,0 +1,16 @@
+{
+	"uid": "o'arena (56bbc7).wad",
+	"name": "O'ARENA.WAD, a DeathMatch wad for DOOM2",
+	"version": "56bbc7",
+	"date": "2013-11-04 19:19:10",
+	"files": [
+		{
+			"filename": "o'arena.wad",
+			"size": 118312,
+			"crc": 2402367623,
+			"md5": "04606998b3859fbe8ad34e0a0c05ecb5",
+			"sha1": "56bbc7db33d258798e8e1b527f276434cc2f50f3",
+			"sha256": "be928e35b56103e0f080b59803d13688688fe5a1356f0570b2c93163986312c6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "corp_new.wad",
+	"name": "Corpus Collosum",
+	"description": "A large map for Doom 1 with lots of secondary corridors and canyons (but otherwise mostly linear gameplay) and tons of bad guys. The Doomworld thread for this wad can be found here: http://www.doomworld.com/vb/wads-mods/41648-big-map-for-doom-1-nice-shadow-effects-thorough-demo/",
+	"date": "2014-12-14 20:39:51",
+	"files": [
+		{
+			"filename": "corp_new.wad",
+			"size": 5340278,
+			"crc": 1833837720,
+			"md5": "92d14821794d27ad3bcfca6eb5290697",
+			"sha1": "d1bd096c6a49272ffe404dff0c35d7678c3cd57d",
+			"sha256": "4ca2751f7a008ed5447ca182b14d44d6f8fb13824ff1ef92aa18c659ada780b2"
+		}
+	]
+}

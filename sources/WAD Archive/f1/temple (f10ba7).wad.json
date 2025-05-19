@@ -1,0 +1,17 @@
+{
+	"uid": "temple (f10ba7).wad",
+	"name": "Warped Temple",
+	"description": "It's a kind of, uh, temple and tech facility, thing, which has, um, been, you know, warped and stuff...",
+	"version": "f10ba7",
+	"date": "2013-04-19 01:56:09",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 596681,
+			"crc": 2584235748,
+			"md5": "bca2a10561ef79186c2ef7dc6a2b6053",
+			"sha1": "f10ba7975caedfbe20aa2fb2055686d23faa0f6d",
+			"sha256": "12a74307fcd05622eb2dfb2134479c1e74ed78ce2be03c3f85f9a5f89ba4d62e"
+		}
+	]
+}

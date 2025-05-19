@@ -1,0 +1,16 @@
+{
+	"uid": "alpaca.wad",
+	"name": "Alpacalypse",
+	"description": "A horde of evil alpacas have taken over a city.",
+	"date": "2014-12-21 17:10:21",
+	"files": [
+		{
+			"filename": "alpaca.wad",
+			"size": 1567828,
+			"crc": 391190392,
+			"md5": "964a22bdc0a4ea169ec10825b1e59d54",
+			"sha1": "aa76af55d8598c88ff2e774e9ca4ed6519c30788",
+			"sha256": "02227e4254fa3313c64e48a221ca99a6c6a7e7521784dae52dfd4a1e3e29bb21"
+		}
+	]
+}

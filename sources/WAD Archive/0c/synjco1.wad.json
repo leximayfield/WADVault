@@ -1,0 +1,16 @@
+{
+	"uid": "synjco1.wad",
+	"name": "First DOOM ][ co-op Wad file by Synj.",
+	"description": "A coop-WAD.",
+	"date": "2014-01-11 11:33:34",
+	"files": [
+		{
+			"filename": "synjco1.wad",
+			"size": 89999,
+			"crc": 1636195059,
+			"md5": "50fc0d5ee8dcec816d80b4f5e5a8ee5f",
+			"sha1": "0ca8165757cbd43e8c26fb56c7e37311788a3632",
+			"sha256": "83b7b7c54cb1264a9c707b9c4764a2619a9cbcef2aab2d8689c906ee7a195f93"
+		}
+	]
+}

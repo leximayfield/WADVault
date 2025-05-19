@@ -1,0 +1,17 @@
+{
+	"uid": "dethday2 (34b878).wad",
+	"name": "Day of Deathmatch 2",
+	"description": "A deathmatch wad which is great in single player mode too!!!!",
+	"version": "34b878",
+	"date": "2014-12-03 19:58:54",
+	"files": [
+		{
+			"filename": "dethday2.wad",
+			"size": 123506,
+			"crc": 1620355794,
+			"md5": "b960e1dbf142a09c1ba4f26ca3ee32b0",
+			"sha1": "34b878af0a0fa2bc5900546b0acf4a0bfca2ccec",
+			"sha256": "cefee94beec3ee0a58a399d0050e1f1c3aa66da3c673886def683ba1d922503d"
+		}
+	]
+}

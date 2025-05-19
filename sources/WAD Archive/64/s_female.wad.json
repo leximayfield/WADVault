@@ -1,0 +1,16 @@
+{
+	"uid": "s_female.wad",
+	"name": "Female Skin",
+	"description": "This is a simple skin for Zdoom or Legacy. It is a female marine, with graphics from Cory Whittle's Immoral Conduct. Status bar face isn't included in this version, but a future release will.",
+	"date": "2015-09-14 20:22:31",
+	"files": [
+		{
+			"filename": "s_female.wad",
+			"size": 515256,
+			"crc": 2438153989,
+			"md5": "6526f01f80137484dd9868d4fa76548f",
+			"sha1": "64aa1516f6930361dae2e7737fc4166acecec40d",
+			"sha256": "746387fa37ee25b55c7d226cdf621d551ef427a0578a8112030b9553d20bfde9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "peace_20 (b42cfb).wad",
+	"name": "PEACE_20.WAD",
+	"description": "This is the DEATHMATCH 2.0 release of peace.wad. Please play this wad with -altdeath only. There are all weapons and an exit. Peace.wad was based on shadows2 but it's almost everything changed.",
+	"version": "b42cfb",
+	"date": "2016-02-07 20:26:07",
+	"files": [
+		{
+			"filename": "peace_20.wad",
+			"size": 68420,
+			"crc": 2923974195,
+			"md5": "667a6cfc4fb6c8f5d4d1402255f5fb93",
+			"sha1": "b42cfb49089d526f50950312c6a223698f4b88b8",
+			"sha256": "32ae4a05c4b26798e903bbe72e5a772770ed16009b53a8a385f5409750744a64"
+		}
+	]
+}

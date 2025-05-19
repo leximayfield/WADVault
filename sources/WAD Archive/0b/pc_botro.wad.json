@@ -1,0 +1,16 @@
+{
+	"uid": "pc_botro.wad",
+	"name": "Botero's Mansion",
+	"description": "The first of my tuneup maps. This was my first ever level. Originally made way back in 1996. I have decided to give it a major facelift. The entire map has been retextured into a bricks and metal theme (Dr. Sleep like) and looks and plays a ton better than the original. Uses 100% stock textures. The original version of this map can be found in MAP31 of my 2006 Jokewad The New Adventure (0cb.wad). I named this map Botero's mansion. Botero = Spanish for Boatman.",
+	"date": "2014-12-29 08:46:00",
+	"files": [
+		{
+			"filename": "pc_botro.wad",
+			"size": 519407,
+			"crc": 4266187295,
+			"md5": "233c2a0b920c1b4dd58a311e577503ee",
+			"sha1": "0be8044966428cdd95937e0e6c36ea720b2dad3a",
+			"sha256": "27e7faef055e0359e4da4c4579cda9e1d6de2480f86a7fec1b615f772dc0827d"
+		}
+	]
+}

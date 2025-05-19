@@ -1,0 +1,17 @@
+{
+	"uid": "PRISON10 (47a30b).wad",
+	"name": "\"Prison Break version 1.0\" - for DOOM ][",
+	"description": "Designed completely from scratch. The scenario goes like this. The remianing baddies from your successful Mars/Earth rampage were rounded up and thrown into a maximum security prison for genetic study. As time went on and people began to forget the whole incident security became more and more relax at the prison. After a short fight the hell spawn creatures took over the prison and once again opened the portal to hell to allow more of their brethen to enter this dimension. You must penatrate the fortress and destroy the portal by activating the self-destruct mechanism. Hey nobody said demons were smart.",
+	"version": "47a30b",
+	"date": "2013-11-02 15:24:28",
+	"files": [
+		{
+			"filename": "PRISON10.wad",
+			"size": 24021,
+			"crc": 1067207046,
+			"md5": "cf1daa77887fbebb71869584689dd2e3",
+			"sha1": "47a30b932802155ae84903461ee95a32f9c2304d",
+			"sha256": "87ec07af8344134d6acffba3fd1efd4cf861ff940f2e333621f2867a5770b29a"
+		}
+	]
+}

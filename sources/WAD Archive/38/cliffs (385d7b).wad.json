@@ -1,0 +1,17 @@
+{
+	"uid": "cliffs (385d7b).wad",
+	"name": "Cliffs.wad",
+	"description": "The first part of this level was done for Doom1 but was modified and expanded for Doom2. There are quite a few secret areas and some unique \"camouflage\". It is possible to beat this level without going to any secret areas but it is harder. Use the automap to find most secret areas. All weapons and enemies are used. Be careful not to fall off!",
+	"version": "385d7b",
+	"date": "2016-02-07 20:35:18",
+	"files": [
+		{
+			"filename": "cliffs.wad",
+			"size": 123774,
+			"crc": 2598665427,
+			"md5": "ea58689c0f006843c295ad8bcc581710",
+			"sha1": "385d7bc6b74d8a415e34d3d7eb6b91e8bb978534",
+			"sha256": "123879e328788771078f049f271ee453614c3251c203fc961c2b10439d0e995b"
+		}
+	]
+}

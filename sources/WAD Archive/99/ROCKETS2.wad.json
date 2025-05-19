@@ -1,0 +1,16 @@
+{
+	"uid": "ROCKETS2.wad",
+	"name": "ROCKETS2.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. The level is based on ROCKETS1.WAD, designed by yours truly. Two more monsters have been added, along with a secret area and teleports. The lighting levels in some areas have been dimmed. Sorry, but there is still no BFG! Real warriors don't need one!",
+	"date": "2014-10-14 21:04:48",
+	"files": [
+		{
+			"filename": "ROCKETS2.wad",
+			"size": 30960,
+			"crc": 3773128980,
+			"md5": "88bc18959d12f615fbd2312a1ce0fa67",
+			"sha1": "990ea3d440c043a4d77238db423bb818d640a148",
+			"sha256": "4bcfe3dc26d3f1e2d38c01286dcf6e2aa4e842fed6545e39d5fac27e6fbb65c6"
+		}
+	]
+}

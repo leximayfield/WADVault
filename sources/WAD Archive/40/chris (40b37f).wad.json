@@ -1,0 +1,17 @@
+{
+	"uid": "chris (40b37f).wad",
+	"name": "Chris's best of best Revised",
+	"description": "This was a megawad made way back in 2003 with a updated version provided to me back in 2004 by the late Jive but I figure this map set could use some sprucing up, such as making it fully co-op compatible (all maps did not have 4 starts), removing unwanted sound effects and other lumps that aren't needed in there.",
+	"version": "40b37f",
+	"date": "2019-03-19 21:05:50",
+	"files": [
+		{
+			"filename": "chris.wad",
+			"size": 3859783,
+			"crc": 584717444,
+			"md5": "658ca6e0a7dab4b3718c55326a320b89",
+			"sha1": "40b37f7e779d1da2416c88026d5140ae63daad09",
+			"sha256": "ae62f0d0a7835b033e0da2dc94b762aa50fee9232a28c6089f2e856e711a042a"
+		}
+	]
+}

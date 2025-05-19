@@ -1,0 +1,16 @@
+{
+	"uid": "paranoi6.wad",
+	"name": "Narthex",
+	"description": "Brick and metal deathmatch level. No bugs, no missalligned textures, quality !",
+	"date": "2014-12-15 21:23:21",
+	"files": [
+		{
+			"filename": "paranoi6.wad",
+			"size": 141734,
+			"crc": 202197613,
+			"md5": "adfec74a3aa9ea7c678376f54d0c61ed",
+			"sha1": "9e8c0d727a182574bcd6baac1449edcc37e42476",
+			"sha256": "2a01687cb12d6141a197ec1139b62c93e2b880f6f55baf98be9f29f72c13c0a7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "aniceday.wad",
+	"name": "\"a nice day\"",
+	"description": "1 level WAD. Excessive attention given to the appearence of the level (texture selection, alignment, lighting).",
+	"date": "2014-12-15 22:03:51",
+	"files": [
+		{
+			"filename": "aniceday.wad",
+			"size": 666142,
+			"crc": 136450583,
+			"md5": "739d8db5c1f89488b24d140d100371a7",
+			"sha1": "b456cbcdac8d68cf8ef537edfbfc30fc339c6f38",
+			"sha256": "98aee7bcbb7345f1c57cd23f7a1d770be2033c4d848f9628610f186de6a4595c"
+		}
+	]
+}

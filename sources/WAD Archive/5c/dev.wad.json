@@ -1,0 +1,16 @@
+{
+	"uid": "dev.wad",
+	"name": "Devious",
+	"description": "A large single player map. Logical progression and a great beginning. I personally like the Cyberdemon fight at the end.",
+	"date": "2014-12-18 23:02:05",
+	"files": [
+		{
+			"filename": "dev.wad",
+			"size": 294882,
+			"crc": 2308740678,
+			"md5": "a1a31089bc37ad1e52069f024457cef3",
+			"sha1": "5c15ac89820d0c9b8c4474138b4fd69a72c6d829",
+			"sha256": "6c2ba753b7ac588cb05b9c1d592cc05f572302126cc2b03fe3c675238dae0cb3"
+		}
+	]
+}

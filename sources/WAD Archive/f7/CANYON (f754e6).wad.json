@@ -1,0 +1,17 @@
+{
+	"uid": "CANYON (f754e6).wad",
+	"name": "CANYON.WAD",
+	"description": "After beating back earth's invasion by hell spawn, you are",
+	"version": "f754e6",
+	"date": "2014-12-15 21:51:01",
+	"files": [
+		{
+			"filename": "CANYON.wad",
+			"size": 321982,
+			"crc": 1189001468,
+			"md5": "6e3923e861966420337f35e00b5a37dc",
+			"sha1": "f754e6c82b01d9bec7f3b95601970a6567636b92",
+			"sha256": "04fe7157a9b09adef23b4ecafc0f8170081d999b215f8c1e2a126ee28b49f257"
+		}
+	]
+}

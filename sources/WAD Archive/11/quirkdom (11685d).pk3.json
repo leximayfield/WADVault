@@ -1,0 +1,17 @@
+{
+	"uid": "quirkdom (11685d).pk3",
+	"name": "The Quirky Domain",
+	"description": "This map was made for a closed group project that was abandoned. I didn't want the map to go to waste so I decided to release it stand-alone. It uses a lot of non-euclidean geometry as its gimmick (portals). Also, Nightmare! difficulty has its own monsters/items separate from Ultra-Violence and is without respawning monsters. There is no backstory/excuse plot here. Have fun!",
+	"version": "11685d",
+	"date": "2018-07-16 21:31:04",
+	"files": [
+		{
+			"filename": "quirkdom.pk3",
+			"size": 3193902,
+			"crc": 2921439160,
+			"md5": "73bc7c6c980c06fe29487fdeb92bea22",
+			"sha1": "11685d51c1c6a82cf6606d5cff1b49da41fe7522",
+			"sha256": "26e9699968a2758fdb09cec34b53d08b352d4f54cf4f14e93bbca413b4c03d08"
+		}
+	]
+}

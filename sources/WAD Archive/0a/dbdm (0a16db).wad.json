@@ -1,0 +1,16 @@
+{
+	"uid": "dbdm (0a16db).wad",
+	"description": "Single-room deathmatch style. Revenents in all four corners, lifts to the better weapons expose the player well. Good use of light and dark to effect the play.",
+	"version": "0a16db",
+	"date": "2014-12-15 21:52:50",
+	"files": [
+		{
+			"filename": "dbdm.wad",
+			"size": 33537,
+			"crc": 2602532153,
+			"md5": "00fa941365bff3cf62fd813c4ecd6bb9",
+			"sha1": "0a16db667b179dedb15892cd0cde7577e2f1f918",
+			"sha256": "b4db257a599922b55f1fc003ffe96dff180f360c2ecf372532eb6fdca7463bec"
+		}
+	]
+}

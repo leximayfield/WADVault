@@ -1,0 +1,17 @@
+{
+	"uid": "DGDBTXTR (b1b2d7).wad",
+	"name": "DarkBase Texture Wad (dgdbtxtr.wad)",
+	"description": "About 12 textures and 7 flats suitable for dark-brown base levels similar to Quake 1. All are mods of Doom2 textures, with the exception of one by Paul Fleschute.",
+	"version": "b1b2d7",
+	"date": "2015-09-15 19:23:21",
+	"files": [
+		{
+			"filename": "DGDBTXTR.wad",
+			"size": 186632,
+			"crc": 1433741873,
+			"md5": "b7d210ba3f7b10276d352b1b61a4e204",
+			"sha1": "b1b2d74a6198e203c876419a28cb730eb4af7337",
+			"sha256": "ef576a89589f7cb43d472d42580017064a435a185bf082f49a104bb812329c06"
+		}
+	]
+}

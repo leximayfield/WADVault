@@ -1,0 +1,16 @@
+{
+	"uid": "CORSKY.wad",
+	"name": "Corsky   (Deathmatch using altdeath)",
+	"description": "Corsky is a pure deathmatch level that incorporates a few original puzzles and ideas.",
+	"date": "2013-11-03 17:48:46",
+	"files": [
+		{
+			"filename": "CORSKY.wad",
+			"size": 48163,
+			"crc": 177105267,
+			"md5": "023dcf973e77109ebe868579c0b82a61",
+			"sha1": "2608d03103f562f285e1e8b21d000df8715a4006",
+			"sha256": "00c74ef8eec038822fc62816e0013a5fc8187942af7868a53b7da761870cb4ec"
+		}
+	]
+}

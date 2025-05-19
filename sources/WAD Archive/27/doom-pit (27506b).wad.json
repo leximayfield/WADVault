@@ -1,0 +1,16 @@
+{
+	"uid": "doom-pit (27506b).wad",
+	"name": "The Pit of DOOM (DooM II -version)",
+	"version": "27506b",
+	"date": "2013-11-02 15:55:12",
+	"files": [
+		{
+			"filename": "doom-pit.wad",
+			"size": 110302,
+			"crc": 2058379094,
+			"md5": "c2400a61f20ba6ebd7d9b106d8b2804a",
+			"sha1": "27506b28eee82064a3fdafd2ecedbb896912cc8e",
+			"sha256": "a64fb89db782e789ff0c9c218c042a0dd5a2cf38f7ededc6fa4c3b695ac05f11"
+		}
+	]
+}

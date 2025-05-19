@@ -1,0 +1,17 @@
+{
+	"uid": "arena3 (fe0a10).wad",
+	"name": "ARENA3.WAD",
+	"description": "It is a simple WAD, it is not too large and not too difficult, but you have only some ammo. Enjoy!!!",
+	"version": "fe0a10",
+	"date": "2014-12-13 17:50:05",
+	"files": [
+		{
+			"filename": "arena3.wad",
+			"size": 8338,
+			"crc": 193983519,
+			"md5": "7492b353fb3d6a6a9a51b1594b24007f",
+			"sha1": "fe0a10f04a7d4a5418a8e1ba037893932ec65fda",
+			"sha256": "58081c4ff29a3342867c759871528c6d5be9a8dd179a39006f3e5ba1589a5d2d"
+		}
+	]
+}

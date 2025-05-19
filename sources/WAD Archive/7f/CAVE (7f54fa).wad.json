@@ -1,0 +1,17 @@
+{
+	"uid": "CAVE (7f54fa).wad",
+	"name": "CAVE.WAD",
+	"description": "A cave area and other strange rooms.",
+	"version": "7f54fa",
+	"date": "2014-02-15 16:44:25",
+	"files": [
+		{
+			"filename": "CAVE.wad",
+			"size": 108054,
+			"crc": 3773896747,
+			"md5": "9c98dc2dbd9e70d8587f152df2a3b311",
+			"sha1": "7f54fa332c45a6b77a847ffcec6bab1c793c93fd",
+			"sha256": "9d08de8d3b21825ddd94bff790e0dc02e80610c2c13ccf997a60b82d650a9a2e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tanisbase.wad",
+	"name": "Tanis Base",
+	"description": "Is a very detailed Deathmatch map, using textures from Various places. You are in an Antartic Base.",
+	"date": "2014-12-15 22:43:32",
+	"files": [
+		{
+			"filename": "tanisbase.wad",
+			"size": 1978270,
+			"crc": 3423574114,
+			"md5": "f19a5c1550521ef53668b93fa3200935",
+			"sha1": "dd4eae9a296badaac1762d25d60e6e1db7aefc08",
+			"sha256": "d2680067b23551fca2299a762fa0eba5c400688d68d68b7dd2b775081cd725ae"
+		}
+	]
+}

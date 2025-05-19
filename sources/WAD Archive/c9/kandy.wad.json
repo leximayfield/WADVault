@@ -1,0 +1,16 @@
+{
+	"uid": "kandy.wad",
+	"name": "Kandy",
+	"description": "2 ultrafast Deathmatch levels for DM 1.0, skill5. Listen to Ash's \"Trailer\" when playing.",
+	"date": "2014-12-15 22:50:09",
+	"files": [
+		{
+			"filename": "kandy.wad",
+			"size": 127893,
+			"crc": 4218687243,
+			"md5": "37f931364f036a02c829dafd31233e41",
+			"sha1": "c99fa3b895e5f9060c6a1dae0d6d806bf86c64de",
+			"sha256": "a10c25c080459bc9622621aa8e0b4f3eee1f4f80542186ca43b60725fe9fe0ce"
+		}
+	]
+}

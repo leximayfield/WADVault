@@ -1,0 +1,16 @@
+{
+	"uid": "capslock.wad",
+	"name": "CAPS LOCK",
+	"description": "My third wad. I think its great. It has zdoom effects other than particle fountains, and lots of cool stuff such as a spiral staircase using a 3d floor!",
+	"date": "2014-12-21 16:33:16",
+	"files": [
+		{
+			"filename": "capslock.wad",
+			"size": 690400,
+			"crc": 2635875939,
+			"md5": "c7db4ebc17c577ebd28b653101c30432",
+			"sha1": "6d82524916352976a7c744340a594395d4f2fab7",
+			"sha256": "7fcc407aa366e5851777f19c3c42cd85442df53aa76b299496a6cddb3849defe"
+		}
+	]
+}

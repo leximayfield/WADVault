@@ -1,0 +1,17 @@
+{
+	"uid": "DM_XYNO (504050).wad",
+	"name": "a fun deathmatch",
+	"description": "The Deathmatch we've been playing a lot ! Check out the",
+	"version": "504050",
+	"date": "2013-11-06 22:45:04",
+	"files": [
+		{
+			"filename": "DM_XYNO.wad",
+			"size": 345300,
+			"crc": 1766290261,
+			"md5": "44068d9ca7e98645b11b14e0b0697f47",
+			"sha1": "504050e7fa29b329304e64d33cbee13d9a08de91",
+			"sha256": "72f07ac25de3dcee7cbe78149e99ec2bd218c39811d528db9dfe1d0ad8e516ba"
+		}
+	]
+}

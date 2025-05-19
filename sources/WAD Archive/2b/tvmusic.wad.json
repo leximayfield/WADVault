@@ -1,0 +1,16 @@
+{
+	"uid": "tvmusic.wad",
+	"name": "TvMusic",
+	"description": "A ton of music for DOOM, all themes from TV shows",
+	"date": "2015-09-15 16:41:49",
+	"files": [
+		{
+			"filename": "tvmusic.wad",
+			"size": 344236,
+			"crc": 2198834006,
+			"md5": "49189e5522a41993c2b7a7a4bc2f1d59",
+			"sha1": "2bbc95dddb5aa9fa4e23ae0d5ca3b1e317bb1f94",
+			"sha256": "92ce1b1d7643660c64f0849b9d39b1b8026042eada98d32dfc4b401670f49df3"
+		}
+	]
+}

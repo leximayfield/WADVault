@@ -1,0 +1,17 @@
+{
+	"uid": "dethwish (c27cc1).wad",
+	"name": "DEATHWISH",
+	"description": "You are in the bowels of Hell with no hope for escape. What you gonna do about it?",
+	"version": "c27cc1",
+	"date": "2015-02-21 09:02:54",
+	"files": [
+		{
+			"filename": "dethwish.wad",
+			"size": 683063,
+			"crc": 160821483,
+			"md5": "1788b526111d9b5b99a41ff4bd9f83f6",
+			"sha1": "c27cc1d884004e7bb687c65ceb94f58e144120de",
+			"sha256": "c55a307414d44fd26039e042c82a175a8aef2d2deb12c5a649cb78631e790789"
+		}
+	]
+}

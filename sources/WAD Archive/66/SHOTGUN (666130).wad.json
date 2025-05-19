@@ -1,0 +1,17 @@
+{
+	"uid": "SHOTGUN (666130).wad",
+	"name": "Shotgun for DOOMII",
+	"description": "Playable with health/ammo provided. Will challenge most players. As implied, a Shotgun is the best weapon for this level.",
+	"version": "666130",
+	"date": "2014-10-14 20:59:46",
+	"files": [
+		{
+			"filename": "SHOTGUN.wad",
+			"size": 79241,
+			"crc": 2133844732,
+			"md5": "7504f4687ff75cf2d253ed556370c669",
+			"sha1": "666130449ebcdf0b30547e78c6eb88ad3de68f21",
+			"sha256": "3b4b2db8fe38fc937d247a4f13917976ad49ee921270dd8915eea7f59e8819af"
+		}
+	]
+}

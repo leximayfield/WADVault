@@ -1,0 +1,16 @@
+{
+	"uid": "ufo2.wad",
+	"name": "UFO (version 2)",
+	"description": "This wad simply replaces the Cacodemon with a UFO. New to this version: - converted the Dmgraph patch to wad format - added the missing sprite frames (heada3a7, headb3b7, headc3c7, headd3d7) - clipped the unused space from the images to halve the size of the wad. - adjusted the vertical and horizontal offsets of the sprites. - added four sounds - UFO nearby, sees player, injured and death sounds (see known bugs below).",
+	"date": "2015-09-14 22:22:15",
+	"files": [
+		{
+			"filename": "ufo2.wad",
+			"size": 205182,
+			"crc": 1527389165,
+			"md5": "f9cfaf5bab78901c846972ca70f63979",
+			"sha1": "c204d3829a30a8da73e1b0c6ce0ec810e93c07e7",
+			"sha256": "ea977bf1b4dc70bd6e0b12be3274588d9cebd87ad4b2ccac7a00d5fa07b7bab2"
+		}
+	]
+}

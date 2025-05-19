@@ -1,0 +1,16 @@
+{
+	"uid": "damdm01.wad",
+	"name": "The Dam",
+	"description": "A dm map replacing Map01.",
+	"date": "2014-12-15 23:00:14",
+	"files": [
+		{
+			"filename": "damdm01.wad",
+			"size": 1439199,
+			"crc": 264475190,
+			"md5": "61de19d284a62f9bcf4e2cf1614677a2",
+			"sha1": "1aa90e675021dce7ad3990291e97ea4858303985",
+			"sha256": "0d31d2ef0f9289f76e5a4314cf3754b446242fc0b614ad79ea84b77fd061fe11"
+		}
+	]
+}

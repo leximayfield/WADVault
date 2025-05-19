@@ -1,0 +1,16 @@
+{
+	"uid": "classic6.wad",
+	"name": "classic6.wad",
+	"description": "A level in the classic Doom style. Theme = Base",
+	"date": "2014-12-14 20:39:02",
+	"files": [
+		{
+			"filename": "classic6.wad",
+			"size": 150974,
+			"crc": 4025815830,
+			"md5": "2bad5b91eed9b14c92d8d9560a856336",
+			"sha1": "8554020bc1898c2c700340a4b8fafaf36060fd89",
+			"sha256": "4e1a794e863b3c90b91bd1ea649d240e92be7d4c33e73d802fe129378c8e529b"
+		}
+	]
+}

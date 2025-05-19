@@ -1,0 +1,17 @@
+{
+	"uid": "hellbnd (2814e3).wad",
+	"name": "Hellward Bound",
+	"description": "My first non-crappy level. It's a pretty long map, but for the most part it's fairly linear. Unfortunately, I don't think I'm the best playtester out there, so I worry the balance of ammo/health might not work. In any case, I worked pretty hard on this, so it should be fun.",
+	"version": "2814e3",
+	"date": "2014-12-18 22:16:50",
+	"files": [
+		{
+			"filename": "hellbnd.wad",
+			"size": 2573956,
+			"crc": 1702597913,
+			"md5": "f57278d8d1ad58d8c8647ab4c286f7be",
+			"sha1": "2814e318bee2c68d1e75a8938bdca1d583016b23",
+			"sha256": "810b9dddc2efb5e983b0405746ee4f6919849ffa844c4af9dac54b43c9dadbdd"
+		}
+	]
+}

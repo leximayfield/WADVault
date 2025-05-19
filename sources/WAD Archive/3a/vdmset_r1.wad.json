@@ -1,0 +1,16 @@
+{
+	"uid": "vdmset_r1.wad",
+	"name": "Void Deathmatch Set (Preview Release 1)",
+	"description": "Deathmatch map set inspired by Cyb's Void and American McGee's Alice. More maps are in development; map11 here is actually map12 in the final pack. At least 3 maps are missing from this release. This map pack is designed for new-school configuration (freelook and jump especially, and also no infinite actor height); attempts to do play with other settings will be painful.",
+	"date": "2013-04-19 02:13:00",
+	"files": [
+		{
+			"filename": "vdmset_r1.wad",
+			"size": 9228770,
+			"crc": 737482733,
+			"md5": "32b136eb15ed09c7bd232b674a0b9cf3",
+			"sha1": "3a9b337e22828dda3eb376bdb78f04e7bc685d62",
+			"sha256": "051d8f7caa1a762fd944a7309ab15720f5a74843e03d843f11907d30bc47cf7f"
+		}
+	]
+}

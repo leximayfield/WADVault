@@ -1,0 +1,17 @@
+{
+	"uid": "MAP01 (76a4b9).wad",
+	"name": "map01.WAD",
+	"description": "My 1st level. It's not that big or hard but it can be hard on the higher levels of difficulty. Not much special.",
+	"version": "76a4b9",
+	"date": "2015-09-15 13:53:15",
+	"files": [
+		{
+			"filename": "MAP01.wad",
+			"size": 23471,
+			"crc": 226497480,
+			"md5": "4adf2b42d1323b165df205dba8888f8c",
+			"sha1": "76a4b93fdefdb774fe180b639f1fd52adc7187f9",
+			"sha256": "969224b1d0f1c82e848050ce8c454e6217e3211697cb8529ea499db0b4296e8a"
+		}
+	]
+}

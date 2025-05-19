@@ -1,0 +1,17 @@
+{
+	"uid": "engine (98d0b6).wad",
+	"name": "Engine",
+	"description": "Should be OK on 486/33 SX or DX with 8 MB RAM, and a zippy video card. Quite a large level with lots to kill and a few puzzles to solve. I played it a couple of times so I know it can be done. Unfortunately, there's a couple of small areas where the mirroring effect persists, and I just couldn't get rid of it! I'm not going to tell you to be careful and save the game often etc etc, cos you'll play it your own way anyhow.",
+	"version": "98d0b6",
+	"date": "2013-11-02 15:05:47",
+	"files": [
+		{
+			"filename": "engine.wad",
+			"size": 119698,
+			"crc": 2633052538,
+			"md5": "5d968c5301b6a4b1eea1c42a3c6effed",
+			"sha1": "98d0b61e22674d0b0bbc1822cf72e7f80ff3207e",
+			"sha256": "b8be35c4778060001898bc26848acd0bf9ce99b28c7724c2384016d641aa602f"
+		}
+	]
+}

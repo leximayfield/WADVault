@@ -1,0 +1,17 @@
+{
+	"uid": "graphix1 (aa829a).wad",
+	"name": "GRAPHIX1.WAD",
+	"description": "Medium sized level. Lots of monsters and goodies.",
+	"version": "aa829a",
+	"date": "2013-11-06 22:21:05",
+	"files": [
+		{
+			"filename": "graphix1.wad",
+			"size": 160947,
+			"crc": 4270799974,
+			"md5": "aa9f272e447036ed526c6154d4b520e8",
+			"sha1": "aa829a1fed770f623ba793593bb1107497599a04",
+			"sha256": "328d69affcd932130dd6e5b91479b4a8dd9c254b4661d46b9deb8faad205f0fc"
+		}
+	]
+}

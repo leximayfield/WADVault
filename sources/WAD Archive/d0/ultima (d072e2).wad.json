@@ -1,0 +1,16 @@
+{
+	"uid": "ultima (d072e2).wad",
+	"name": "ULTIM.WAD *DOOM: THE ULTIMATE DEATHMATCH LEVEL*",
+	"version": "d072e2",
+	"date": "2013-11-02 15:13:00",
+	"files": [
+		{
+			"filename": "ultima.wad",
+			"size": 47623,
+			"crc": 363786842,
+			"md5": "149407973259345d8c1d0e44f880c99d",
+			"sha1": "d072e2bf8c6725b73fdfd3dbf4fe151e15bb38c2",
+			"sha256": "5455d991494b3c63c5539068ac2f767b3df29fd75fddef2a7ff352a0898afe32"
+		}
+	]
+}

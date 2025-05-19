@@ -1,0 +1,17 @@
+{
+	"uid": "PAIN (d6fdfc).wad",
+	"name": "PAIN.WAD",
+	"description": "This patch file is for MAP01, although it is an adventure in itself!. Try it at first on ultra-violence without the map or any cheats. It's my first DooM II level... lots of bad guys, a few tricks and some nasty surprises. Have fun!",
+	"version": "d6fdfc",
+	"date": "2015-01-14 22:43:26",
+	"files": [
+		{
+			"filename": "PAIN.wad",
+			"size": 67823,
+			"crc": 4112742309,
+			"md5": "d5a9c6b873ae43734f1924ca0e1fd4bd",
+			"sha1": "d6fdfc48c06a0dbd7721d9258466c4076ead26df",
+			"sha256": "cfc2ed64f7223255db03711a9619d014da93bbeffbe4af9e5784f8fb168695f9"
+		}
+	]
+}

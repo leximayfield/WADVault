@@ -1,0 +1,16 @@
+{
+	"uid": "dmcity.wad",
+	"name": "Death Match City",
+	"description": "The Best Deathmatch Level Ever!",
+	"date": "2013-11-02 16:05:42",
+	"files": [
+		{
+			"filename": "dmcity.wad",
+			"size": 110588,
+			"crc": 784439204,
+			"md5": "b75d7cb5532f8d27e235cc6bc5d838e2",
+			"sha1": "b01bdd4f08de6aeacec13459ce086abc04d688a6",
+			"sha256": "5731fe8ad6983bfce6268492b51c57b212cf66ae06f3c800e071fbe4e5dc4729"
+		}
+	]
+}

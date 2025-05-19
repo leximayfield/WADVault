@@ -1,0 +1,16 @@
+{
+	"uid": "wethbewe.wad",
+	"name": "Wheat Thin Fortress",
+	"description": "This one is not designed for one single port, but you'll need one that can load flats from a PWAD.",
+	"date": "2013-04-22 00:33:48",
+	"files": [
+		{
+			"filename": "wethbewe.wad",
+			"size": 75990,
+			"crc": 721069557,
+			"md5": "3b01247b15ded211224eed422cb871d5",
+			"sha1": "a759468f1aebd2d32dea350684d6e58c4aae7661",
+			"sha256": "d4702d7a7270282ac3d07e2576ae68c02d31c669454b9bba68590eb83446db60"
+		}
+	]
+}

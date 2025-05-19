@@ -1,0 +1,16 @@
+{
+	"uid": "bhead.wad",
+	"name": "Better Head",
+	"description": "Modifies the statusbar head slightly in order to make him not look like he's lost all his teeth when your health is low. Minor addition which is probably ZDoom-only: animated eyebrows when in God mode.",
+	"date": "2018-04-14 22:39:03",
+	"files": [
+		{
+			"filename": "bhead.wad",
+			"size": 11789,
+			"crc": 1424690167,
+			"md5": "6006f27dd9980d0a8d991931bc326c7d",
+			"sha1": "ff58f387ac0e6e149574390977a249dea2488619",
+			"sha256": "ae457d7a84d89efa629980b15a34acbce90926fe12d82428b2243eff82e3335a"
+		}
+	]
+}

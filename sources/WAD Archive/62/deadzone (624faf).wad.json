@@ -1,0 +1,17 @@
+{
+	"uid": "deadzone (624faf).wad",
+	"name": "Dead Zone",
+	"description": "\"Dead Zone\" is a new episode that replaces Episode 2 (just because of the music and sky). This is my first single-player episode and I hope you enjoy it as much as I enjoyed creating it. Map 1 - Outpost Map 2 - Recieving Map 3 - Server Bank Map 4 - The Spiral Map 5 - Dead Zone Map 6 - The Sewers Map 7 - Power Plant Map 8 - Gateway to Earth Map 9 - Teleporter Research Probably a little short but time wasn't my concern. I played through it and it seems to flow nicely. Map 3 isn't as serious as the others just because I wanted it to go with the music (Doom 3 inspired it). Also, in map 9, shoot the brown-metal line in the Cacodemon room to lower a teleporter. Don't jump into the pit because you can't escape it.",
+	"version": "624faf",
+	"date": "2014-12-13 17:50:12",
+	"files": [
+		{
+			"filename": "deadzone.wad",
+			"size": 515616,
+			"crc": 1869975302,
+			"md5": "636aacf4b7263f64537d4b820884e89c",
+			"sha1": "624faf10719907c989162762a9abc39c0db8c478",
+			"sha256": "cd7f3f988856aa2cccf2b74678fc84f21a2029cc2f53847efe5bd9f6f4aefac8"
+		}
+	]
+}

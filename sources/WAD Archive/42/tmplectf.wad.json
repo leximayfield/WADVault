@@ -1,0 +1,16 @@
+{
+	"uid": "tmplectf.wad",
+	"name": "Temple of the Flags",
+	"description": "A temple with lots of wide open spaces and bridges.",
+	"date": "2014-12-12 14:16:42",
+	"files": [
+		{
+			"filename": "tmplectf.wad",
+			"size": 1106980,
+			"crc": 3171177890,
+			"md5": "4d0432d55b7800d80e8fa10df85bbdff",
+			"sha1": "429c8ba6651fdc08a9967bdd6b7a927da5813ea5",
+			"sha256": "68f3d87470f994188af13e40efde007bcace8f453c1bef5a131f22aec0516789"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ENTRY (7c52a9).wad",
+	"name": "Hell Entrance",
+	"description": "A Hellish version of the Entryway for Doom2. A entrance into hell.",
+	"version": "7c52a9",
+	"date": "2014-12-24 17:39:29",
+	"files": [
+		{
+			"filename": "ENTRY.wad",
+			"size": 341223,
+			"crc": 762565244,
+			"md5": "5b43db81e21fcc697a3d4cb123aea5ce",
+			"sha1": "7c52a97e1f4fcd9737dd88446d93bc553d7d8a84",
+			"sha256": "d107183ffa0bba0ed8654dd269ac5e93417ba069d33ba2e4d3770e4c5aade568"
+		}
+	]
+}

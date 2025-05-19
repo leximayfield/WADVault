@@ -1,0 +1,17 @@
+{
+	"uid": "island (736971).wad",
+	"name": "The Island",
+	"description": "I tried to make a tropical forest island kind of like FarCry. Hopefully I succeeded somewhat",
+	"version": "736971",
+	"date": "2013-04-19 04:05:03",
+	"files": [
+		{
+			"filename": "island.wad",
+			"size": 6291310,
+			"crc": 1026225726,
+			"md5": "907f9da408ec9ab1f99cd3b2a20c08e0",
+			"sha1": "736971c6826c75fba834ae633033a6696eac324a",
+			"sha256": "47dd86a91606b5b9f45a84b1247809407a5c185bdab1beea0e9859252deb8ec5"
+		}
+	]
+}

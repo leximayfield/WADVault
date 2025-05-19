@@ -1,0 +1,17 @@
+{
+	"uid": "trial (36b9e9).wad",
+	"name": "TRIAL",
+	"description": "I like good shoot-em-up games, this one will keep you running. It's a standard 3-Key game with plenty of action, ENJOY.",
+	"version": "36b9e9",
+	"date": "2015-01-14 22:59:04",
+	"files": [
+		{
+			"filename": "trial.wad",
+			"size": 181679,
+			"crc": 1548031451,
+			"md5": "0c1affe59daa9ef63043e2b294033fd8",
+			"sha1": "36b9e980af08d42b60466fa6b22a98e3648aa27a",
+			"sha256": "ca06c458ef5a107e52b55e10b1e67c4578b2c94157e3be27ed1a5659d5ed5cb0"
+		}
+	]
+}

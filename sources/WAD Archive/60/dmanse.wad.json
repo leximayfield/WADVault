@@ -1,0 +1,16 @@
+{
+	"uid": "dmanse.wad",
+	"name": "Decaying Manse",
+	"description": "An old building in the mountians, full of traps and demons .. what more could you ask for? ;) You'll have to be able to jump to complete the map. This map is meant to be a challenge .. hope you enjoy it :)",
+	"date": "2014-12-24 18:53:29",
+	"files": [
+		{
+			"filename": "dmanse.wad",
+			"size": 350652,
+			"crc": 953036020,
+			"md5": "09d31ab9a0966dfe958527ae371b402b",
+			"sha1": "6026d3d28ec63ebdecfef9f6dff4832df1a042d6",
+			"sha256": "c0fd4acd4f63e539b81b4811d52643ccdfbb85f49cb4b7edddee522971b5bb79"
+		}
+	]
+}

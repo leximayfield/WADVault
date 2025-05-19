@@ -1,0 +1,17 @@
+{
+	"uid": "roots (274844).wad",
+	"name": "Roots Of Deathmatch",
+	"description": "I decided to make a Doom 2 deathmatch level that was small enough for 2 players to have a lot of fun with as opposed to doing nothing but chasing each other around for 10 hours. Nice and small, still large enough to hunt.",
+	"version": "274844",
+	"date": "2014-12-15 22:40:14",
+	"files": [
+		{
+			"filename": "roots.wad",
+			"size": 29861,
+			"crc": 672531524,
+			"md5": "085162f5f547a65a76b4cb8993105afd",
+			"sha1": "274844c7353a20f805b7300ca0a023ba13932b9d",
+			"sha256": "ca518f73db9a3744f0954e1f7c6df1ff5c682e6f168747a082025e365802f726"
+		}
+	]
+}

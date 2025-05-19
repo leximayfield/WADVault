@@ -1,0 +1,16 @@
+{
+	"uid": "zone666.wad",
+	"name": "Zone666",
+	"description": "DeathMatch level",
+	"date": "2014-12-15 22:54:20",
+	"files": [
+		{
+			"filename": "zone666.wad",
+			"size": 18628,
+			"crc": 2372862205,
+			"md5": "d5724fe487915b930ea98e24b2a71b65",
+			"sha1": "5ef4568d7b514fbe31b61050806f9c0c812854fd",
+			"sha256": "0483220db32f3ecd4341063a19b9642c449d97d40b42314742d7c4a05f6465d5"
+		}
+	]
+}

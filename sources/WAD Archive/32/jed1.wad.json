@@ -1,0 +1,16 @@
+{
+	"uid": "jed1.wad",
+	"name": "JED1.WAD",
+	"description": "This is a neat little Deathmatch WAD. It's really a different level every time you play it.",
+	"date": "2013-11-02 15:36:30",
+	"files": [
+		{
+			"filename": "jed1.wad",
+			"size": 49007,
+			"crc": 2976787638,
+			"md5": "64f9dc0f047ac94f381dd0e36ed97dac",
+			"sha1": "32438b3704a579183a10beb0392aa288e925d6ff",
+			"sha256": "7ba814b8a5bc71ea75427bc0a651e03574dcec68b1c19f8e8b7c79ba48f3f84a"
+		}
+	]
+}

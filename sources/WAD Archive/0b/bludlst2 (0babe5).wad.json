@@ -1,0 +1,17 @@
+{
+	"uid": "bludlst2 (0babe5).wad",
+	"name": "BloodLust",
+	"description": "This level was originally designed as a death match level. I threw in some monsters and changed the layout to make it a playable level too. Its a pretty quick level to clear though, due to its simple design. As a Death Match level, its a pretty fun romp. Its designed to give the feel of having three floors on the same level. The bottom floor, The Sewers, has the basic weapons. The middle floor offers some beefier fire-power. The top, tech-level floor has the big-mommas. So the flow of battle is upward. It tends to be a pretty fast-paced kill- fest. There are plenty of places to commit suicide, for those so inclined 8^)",
+	"version": "0babe5",
+	"date": "2013-11-04 20:08:07",
+	"files": [
+		{
+			"filename": "bludlst2.wad",
+			"size": 144228,
+			"crc": 3888334245,
+			"md5": "f9e64852b5ca47c319958ee679195fb2",
+			"sha1": "0babe57c9e7ab3c89e3c57591ba33771d0f27da4",
+			"sha256": "4f522ec0c4fc24b54a83020d90aaa0ffc32bc1ed77bc1d2b83c415fcd092df41"
+		}
+	]
+}

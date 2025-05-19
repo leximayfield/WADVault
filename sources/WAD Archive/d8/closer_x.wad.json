@@ -1,0 +1,16 @@
+{
+	"uid": "closer_x.wad",
+	"name": "Close-Up!",
+	"description": "This is another complete weapon conversion that I have made. The catch is, all (but 3) of the weapons can only be used when you're close-up to the baddies! It may sound like a stupid idea, but I've tried to balance it out by making the weapons very powerful. For instance, the Flame Cannon will kill most baddies in one hit, the Buzzsaw is insanely fast, and the Sonic Blaster works wonders on large groups of enemies. There are a few weapons that are ranged weapons, but one of them is very weak, and the other 2 have very little ammo. Use them wisely. Well, I at least think this deserves an A for originality, although it won't work too well with many wads. Oh, well. Just another experiment gone too far.",
+	"date": "2013-04-19 00:22:12",
+	"files": [
+		{
+			"filename": "closer_x.wad",
+			"size": 2284880,
+			"crc": 1714855481,
+			"md5": "c2a37d7d6df1c46a054f7de1a3f3bb09",
+			"sha1": "d86261a503ce66585ef7b391ce945c374b71fda9",
+			"sha256": "a0855c65d6eeb612dee8bb80c81acf214b8aaf6222542a5f21c2acf30e4c1560"
+		}
+	]
+}

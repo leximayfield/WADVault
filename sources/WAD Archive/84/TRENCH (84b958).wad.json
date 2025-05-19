@@ -1,0 +1,17 @@
+{
+	"uid": "TRENCH (84b958).wad",
+	"name": "Trench -O- Death",
+	"description": "A 4 player Deathmatch for Doom II, works fairly well for 2 players also. A large outdoor area separated by a wide trench filled with obstacles and darkness. A high column sits in the middle of the trench holding a supercharge, all weapons except the BFG are present. There is no exit.",
+	"version": "84b958",
+	"date": "2014-01-11 11:22:31",
+	"files": [
+		{
+			"filename": "TRENCH.wad",
+			"size": 12277,
+			"crc": 159313136,
+			"md5": "b1d25261ce2448a66977257d57d1b811",
+			"sha1": "84b958d9d2797e885a7b5e5ef6c5f4f5c6e89a65",
+			"sha256": "5b094090e03c91892307184108992356cbafbd225f4e9d311f9f2aedda9ff3f8"
+		}
+	]
+}

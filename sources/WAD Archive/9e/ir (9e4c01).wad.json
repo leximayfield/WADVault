@@ -1,0 +1,17 @@
+{
+	"uid": "ir (9e4c01).wad",
+	"name": "Ice Rage",
+	"description": "Ice Rage is a large slaughter level that requires patience to beat it. It includes Doom 3 sound effects for the cyberdemon roar and the plasma rifle. The textures and flats come from sf2012-tex and cc4-tex. Credit goes to Chris Balch (\"TimeOfDeath\" on Doomworld) or whoever started the Slaughterfest 2012 thread for the textures.Demo of the level can be found at: https://www.youtube.com/watch?v=6WqLEYFiyJM",
+	"version": "9e4c01",
+	"date": "2017-05-18 20:46:25",
+	"files": [
+		{
+			"filename": "ir.wad",
+			"size": 24585777,
+			"crc": 9010075,
+			"md5": "8e69b471a459ee07d19ba5a1a4119713",
+			"sha1": "9e4c014ca730d60ae79609f5d5385b2f3819b443",
+			"sha256": "1dccd0f8e1f23704f6e3121990c6e65f2e0a7c1367b8c8095106e5ffd7a0dec0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "quicken (f75e71).wad",
+	"name": "Quicken.wad",
+	"description": "This is a set of four \"fast frag\" deathmatch levels for Doom 2. Lev.1 - Blackfrag This is a remake of my first blackfrag level. It is like a figure-eight level with a hallway circling the whole thing. Windows allow easy finding of enemies and weapons 5-7 take a little time to get. Contains a few new textures to add to its black look. Playtested many times and is considered the best of the bunch.",
+	"version": "f75e71",
+	"date": "2016-02-07 20:33:07",
+	"files": [
+		{
+			"filename": "quicken.wad",
+			"size": 136489,
+			"crc": 2556882336,
+			"md5": "e1a7a66ecc35918d9af485c81043be8a",
+			"sha1": "f75e71ef2ffff5f1433905e96184515fd7dabbf5",
+			"sha256": "8fcb0014c5e8cc8d0cfa1927c1055fb990b1cfd2b753a7e3a024fa6340c75e02"
+		}
+	]
+}

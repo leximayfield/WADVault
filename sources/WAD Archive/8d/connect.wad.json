@@ -1,0 +1,16 @@
+{
+	"uid": "connect.wad",
+	"name": "Connect",
+	"description": "You can complete this level without God Mode, it is difficult but it can be done; you'll probably have to save it a few times. There are rooms with energy and ammo, make sure you enter them; you'll need them.",
+	"date": "2014-01-07 21:44:53",
+	"files": [
+		{
+			"filename": "connect.wad",
+			"size": 135146,
+			"crc": 1306222870,
+			"md5": "04d568d69dd5187a7d0ddc07be94083c",
+			"sha1": "8d5401af5b68efa0184b9c6baf5e2c9341800175",
+			"sha256": "d3ddb117126d8ffa3c0f5f57c9cd9552b3490e730099c4398de854b1861faa1e"
+		}
+	]
+}

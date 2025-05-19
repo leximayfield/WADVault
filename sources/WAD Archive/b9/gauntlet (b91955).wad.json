@@ -1,0 +1,17 @@
+{
+	"uid": "gauntlet (b91955).wad",
+	"name": "Pick up the Gauntlet.",
+	"description": "She slaps your face you fly through the window and",
+	"version": "b91955",
+	"date": "2014-12-18 23:17:30",
+	"files": [
+		{
+			"filename": "gauntlet.wad",
+			"size": 99514,
+			"crc": 1562542185,
+			"md5": "471cb6ac33a1a22063f3d3c295c84137",
+			"sha1": "b919551bb49f2f99ebf810f88dab7a16e56ddc9c",
+			"sha256": "d431b21bd4fa65dbc508a4ed09f795d54d357c74870690e58cfc923f58dfcb16"
+		}
+	]
+}

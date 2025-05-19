@@ -1,0 +1,17 @@
+{
+	"uid": "wbgy_dm2 (e93ee5).wad",
+	"name": "\"Wanna Boogy?\"",
+	"description": "Wanna Boogy? is a DOOM II deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of another arena (12 sided) surrounded by hallways. Four Teleporters in the central arena take you to Weapons, Ammo and Goodies depending on the Skill level chosen at start (The higher the Skill level, the nastier the Weapons. However, when you return from your trip, your friend might just be waiting in front of the Teleporter ready to blow your head off. The return Teleporters will beam you to one of the Hallways surrounding the arena. Each Teleporter takes you to a specific destination, so it is possible to determine a final destination and wait for your buddie to appear. There are windows in the hallways looking out over the arena, and they make for good ambush sites. The players start in one of the four connected hallways adjacent to the arena. They will each find a Shotgun and Chaingun to start them out. This level is great in DEATHMATCH 2.0 as well as regular Deathmatch. There is plenty of opportunity for ambush.",
+	"version": "e93ee5",
+	"date": "2013-11-04 19:24:55",
+	"files": [
+		{
+			"filename": "wbgy_dm2.wad",
+			"size": 57390,
+			"crc": 3818161476,
+			"md5": "ec25a2db176ea63942f95e513c8cf5aa",
+			"sha1": "e93ee5dc86c24a4049b7883b35b4d8017cd0319f",
+			"sha256": "66d65ce8c4fb9ab697f162bc2b6967ca09fe1e29cad01a17a3ace077bf8fa543"
+		}
+	]
+}

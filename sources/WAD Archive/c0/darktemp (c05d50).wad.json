@@ -1,0 +1,17 @@
+{
+	"uid": "darktemp (c05d50).wad",
+	"name": "Dark Temple",
+	"description": "I would provide you with a little story to set the",
+	"version": "c05d50",
+	"date": "2014-10-14 21:03:16",
+	"files": [
+		{
+			"filename": "darktemp.wad",
+			"size": 194167,
+			"crc": 1601869184,
+			"md5": "db2c79e24a22a88821cd1e9428d639ba",
+			"sha1": "c05d50abdb28ff0e348047f0d40e2b4e70270a17",
+			"sha256": "d50c3c4fba8d3c7dbc665c372af796870823d6da3960bdfdd95e614a2fdf6bbd"
+		}
+	]
+}

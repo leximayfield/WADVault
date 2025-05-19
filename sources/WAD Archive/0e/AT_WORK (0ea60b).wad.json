@@ -1,0 +1,17 @@
+{
+	"uid": "AT_WORK (0ea60b).wad",
+	"name": "AT_WORK.WAD",
+	"description": "This level is based on my work place. Its pretty accurate except for the northern part of the building. I took an artistic detour here, there would have been too many 2 sided linedefs in this area with all the machinery. This level is huge! Really Big! If you take your time you can get through no problem. There is plenty of ammo and health kicking around. Even for Multi Player. I like killing Barons so ... there are a few.",
+	"version": "0ea60b",
+	"date": "2013-11-06 22:19:11",
+	"files": [
+		{
+			"filename": "AT_WORK.wad",
+			"size": 304215,
+			"crc": 2718007772,
+			"md5": "1f5e958b1e086fe687c5c896f7e9cd94",
+			"sha1": "0ea60b0c8ffc559c8fcd7b520cbd05931d211b8d",
+			"sha256": "f4771fbd6ce2e3b63becd5748a63515679da38933155670e38e09afedecf8d62"
+		}
+	]
+}

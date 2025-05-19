@@ -1,0 +1,16 @@
+{
+	"uid": "dracula.wad",
+	"name": "Dracula",
+	"description": "Sucked into the twisted dimension of Count Dracula's realm, you must navigate through his blood chambers to find his coffin and destroy him once and for all to escape. I performed some \"voice acting\" in this WAD as well for Dracula.",
+	"date": "2019-11-13 01:43:23",
+	"files": [
+		{
+			"filename": "dracula.wad",
+			"size": 2465691,
+			"crc": 2812866580,
+			"md5": "8eea13663e5d01ec9ee7ff8bc0f75ed3",
+			"sha1": "2a256b66073d108c7e7c62765282f5fecd5c1e47",
+			"sha256": "8822d8a81ad9abd358608a674b952ee2a05680229e19fbd5ac85a2f5c78650e2"
+		}
+	]
+}

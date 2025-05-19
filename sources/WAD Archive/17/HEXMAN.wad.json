@@ -1,0 +1,16 @@
+{
+	"uid": "HEXMAN.wad",
+	"name": "Hexman",
+	"description": "This wad is strickly for deathmatch. I have removed all of the super weapons. Each type player will have the capabilities to use the first, second and third level weapon, but not the fourth",
+	"date": "2014-11-01 14:46:12",
+	"files": [
+		{
+			"filename": "HEXMAN.wad",
+			"size": 39147,
+			"crc": 1554354540,
+			"md5": "0eb31d15fa2a6cd697c76afd666ceea5",
+			"sha1": "17bed45bd1e100e2e77bd0e68e40c106057d75fd",
+			"sha256": "99f4778387850c39ec9ad5f579d06c4bb03dbc5d5d65ddd3e4832e65a38ff41e"
+		}
+	]
+}

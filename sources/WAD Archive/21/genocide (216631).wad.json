@@ -1,0 +1,17 @@
+{
+	"uid": "genocide (216631).wad",
+	"name": "Genocide",
+	"description": "Quite small deathmatch level with lots of weapons and no exit. It's designed for 2 players, but can check how it works with 3 or 4 players.",
+	"version": "216631",
+	"date": "2014-01-04 11:55:55",
+	"files": [
+		{
+			"filename": "genocide.wad",
+			"size": 61075,
+			"crc": 2731138617,
+			"md5": "47609e2e40d4416fe65a62467d2f7631",
+			"sha1": "2166319a0f13d1ed9cb71a85f7c4350e6bfaac7a",
+			"sha256": "323c433382957c493333e1129b35f892be913ce92ce2e82aaa48ad09611932cf"
+		}
+	]
+}

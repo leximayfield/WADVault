@@ -1,0 +1,17 @@
+{
+	"uid": "crash (c038a3).wad",
+	"name": "CRASH",
+	"description": "This is a pack of levels with new music and graphics.",
+	"version": "c038a3",
+	"date": "2014-12-13 17:36:36",
+	"files": [
+		{
+			"filename": "crash.wad",
+			"size": 738356,
+			"crc": 112331324,
+			"md5": "e59200f94f528f00e3f129fc657c9ffd",
+			"sha1": "c038a34221236e83834895e2796c9f15bacac5cd",
+			"sha256": "6902b97235e28c2090a69e12641fb64d96c3a62ea017792a314225d3723dd67f"
+		}
+	]
+}

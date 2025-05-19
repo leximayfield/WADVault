@@ -1,0 +1,17 @@
+{
+	"uid": "AEoD (d2d3dd).pk3",
+	"name": "AEons of Death",
+	"description": "New weapons and monsters appearing via random spawners. Basically, an \"ultra randomizer\" mod. Also it includes quite a few different sets of monsters, filtered by game or theme.",
+	"version": "d2d3dd",
+	"date": "2013-04-19 03:52:50",
+	"files": [
+		{
+			"filename": "AEoD.pk3",
+			"size": 330165529,
+			"crc": 158282136,
+			"md5": "9886f68749c94b0ce20702d105faf794",
+			"sha1": "d2d3ddd5ebe01bdc28143a3d561eb35921147554",
+			"sha256": "869d8f99ad3f8fc92107b7c5ced0493825d4d01e18d71d2cef3432f1a08a9654"
+		}
+	]
+}

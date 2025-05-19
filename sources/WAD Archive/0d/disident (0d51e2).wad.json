@@ -1,0 +1,17 @@
+{
+	"uid": "disident (0d51e2).wad",
+	"name": "Disident",
+	"description": "Deathmatch level that is also good for single or co-op. It's small, but simultaneously large. Included are tight rooms for claustrophobic frag action, and also a large arena loaded with double barrel shotguns and bullets.",
+	"version": "0d51e2",
+	"date": "2016-02-07 20:35:03",
+	"files": [
+		{
+			"filename": "disident.wad",
+			"size": 137155,
+			"crc": 3000353767,
+			"md5": "59885b1b4eeebd072ecd95c7cddaa58d",
+			"sha1": "0d51e24770a47bfb39160eb0bd65d0653abad993",
+			"sha256": "a94832bae86a3eca3e8a4ed3d259de4e6f0af93824056095b7692a306daeec14"
+		}
+	]
+}

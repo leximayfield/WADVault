@@ -1,0 +1,16 @@
+{
+	"uid": "dceptive.wad",
+	"name": "DCEPTIVE.wad & DCEPTIVE.deh",
+	"description": "DECEPTIVE - Sometimes the best things in life are free... NOT! I don't have a story-line or an intro, this is DOOM, not a movie. How does one end up in this Hellish environment? Who cares? Deal with it. DECEPTIVE (a replacement for DOOM 2 map 01) was designed to be used in conjunction with the DEHACKED 2.1 patch. This patch improves weapon efficiency, allows a few extra rounds (you WILL need them...) and adjusts your adversaries to compensate for your increased lethality. ;) This is not to say that the patch will turn you into Captain Blaster in Mega-Monster land, but you will see a difference. Much effort has been put into retaining playability - if you have any suggestions, likes or dislikes, please e-mail me and I'll try to take them into consideration on my next DEHACK.",
+	"date": "2013-11-02 15:52:11",
+	"files": [
+		{
+			"filename": "dceptive.wad",
+			"size": 137903,
+			"crc": 4112128237,
+			"md5": "b9afd1ba10fd7e304f06687dd0256346",
+			"sha1": "da3dd4eff45bc92371897f70711376d54ce0d802",
+			"sha256": "a096df52ca71256b41fa2f40039779bfec07ad5fc621bd19b77650908fe60248"
+		}
+	]
+}

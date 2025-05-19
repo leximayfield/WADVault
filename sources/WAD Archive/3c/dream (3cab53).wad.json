@@ -1,0 +1,17 @@
+{
+	"uid": "dream (3cab53).wad",
+	"name": "DREAM",
+	"description": "One level for Doom2. Really cool.",
+	"version": "3cab53",
+	"date": "2014-01-07 22:17:25",
+	"files": [
+		{
+			"filename": "dream.wad",
+			"size": 176681,
+			"crc": 3474775699,
+			"md5": "ec2e2bfad11fd789598aa889163e2b06",
+			"sha1": "3cab5384a9cf8f21e25669ea7134d245018b21e3",
+			"sha256": "b86a2efcbb25cc273a1be1e746584cd45b44cfe900830933cf36e94d2e2fdd00"
+		}
+	]
+}

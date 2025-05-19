@@ -1,0 +1,17 @@
+{
+	"uid": "gothic (ac0cfa).wad",
+	"name": "Black Gothic",
+	"description": "Deathmatch WAD",
+	"version": "ac0cfa",
+	"date": "2014-12-15 21:25:30",
+	"files": [
+		{
+			"filename": "gothic.wad",
+			"size": 499704,
+			"crc": 1962567514,
+			"md5": "42754cf3b6aa9dd96bc4204cbf5b2bd0",
+			"sha1": "ac0cfa2f9c92f1d69cd944fd03bca0d0680261b2",
+			"sha256": "7eb8806bc2230334fb5fa510391c824c208d72a1e69175e1e4d184b86bbd85db"
+		}
+	]
+}

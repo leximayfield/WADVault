@@ -1,0 +1,16 @@
+{
+	"uid": "#trojan.wad",
+	"name": "Trojan",
+	"description": "A nocturnal level, inside a big castle. This is my 12th level and pretty tough, (like the others!). In this level you have been sent inside an indomitable enemy castle (trojan-like), and you are told to open the main gates or be killed, and you have chosen the former option! So you are on your own, good luck!",
+	"date": "2014-12-15 19:12:18",
+	"files": [
+		{
+			"filename": "#trojan.wad",
+			"size": 453844,
+			"crc": 1153443081,
+			"md5": "4070d4e53747066381549c9c44d5374f",
+			"sha1": "10b61870202924d2600de97c138c1ec129ad80c8",
+			"sha256": "52ce12793b4005882ed700bc44bdbdc81473b3aea40fae68dd36f61dd952b38d"
+		}
+	]
+}

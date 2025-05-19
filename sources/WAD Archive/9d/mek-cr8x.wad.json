@@ -1,0 +1,16 @@
+{
+	"uid": "mek-cr8x.wad",
+	"name": "CR8 Quake Texture set compiled for Doom",
+	"description": "I stumbled upon this awesome set of Quake textures a few months ago, so I though I'd see how they looked in Doom. I then compiled and converted all of the original graphics as well as contributed over double the original number of graphics in recolors, edits, and new textures. Included are 276 new textures and 112 new flats.",
+	"date": "2018-04-16 08:29:01",
+	"files": [
+		{
+			"filename": "mek-cr8x.wad",
+			"size": 3079450,
+			"crc": 1296588996,
+			"md5": "483fc2226dfb1405beb3a18374181ff2",
+			"sha1": "9de85b50674258dba4f3521d830907cdc9912743",
+			"sha256": "ab675cfdab3d65c3e04cdae90bbe537b3e7d73dd8662576f964049f5f979e472"
+		}
+	]
+}

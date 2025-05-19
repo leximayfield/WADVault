@@ -1,0 +1,17 @@
+{
+	"uid": "funsnd (3345af).wad",
+	"name": "FUNSND.WAD",
+	"description": "This is only a Sound WAD, but get ready to laugh!",
+	"version": "3345af",
+	"date": "2014-01-04 11:56:04",
+	"files": [
+		{
+			"filename": "funsnd.wad",
+			"size": 525962,
+			"crc": 238459769,
+			"md5": "e6acb1a768e611853122eaf66ebf8b4f",
+			"sha1": "3345af75515c7789ed36ba0e41e53b3f7eb3aac4",
+			"sha256": "f0b8b120c806c6ea796f73b018fa76da7a972077de3fafa1fbbf0e5b1ab45909"
+		}
+	]
+}

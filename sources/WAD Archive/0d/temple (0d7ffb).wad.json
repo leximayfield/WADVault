@@ -1,0 +1,17 @@
+{
+	"uid": "temple (0d7ffb).wad",
+	"name": "The nerdy archeologist & the Temple of Doom",
+	"description": "A UAC church has been taken over! See below for more information.",
+	"version": "0d7ffb",
+	"date": "2014-12-13 17:42:24",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 210147,
+			"crc": 1860072022,
+			"md5": "a9037b2783896d79c876710990d7e50b",
+			"sha1": "0d7ffbdd32b51246d3c17263ea9729b538f536f9",
+			"sha256": "37328e42061083b8b5e13fcccfdc0ae2552919ebc8ed37ea9f04f54c0cc60bcb"
+		}
+	]
+}

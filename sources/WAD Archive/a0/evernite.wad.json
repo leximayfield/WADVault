@@ -1,0 +1,16 @@
+{
+	"uid": "evernite.wad",
+	"name": "Evergrey & Nightwish Music",
+	"description": "This is a compilation of music from the metal bands Evergrey and Nightwish. Both games are fully replaced, with each having some different tracks. The full list of songs and their track names can be found in the ensongs.txt file.",
+	"date": "2016-10-17 17:07:42",
+	"files": [
+		{
+			"filename": "evernite.wad",
+			"size": 4075267,
+			"crc": 1583340571,
+			"md5": "2bb9a7c66773006ed7dadce8c68a0126",
+			"sha1": "a06e94d7a05a8c90d226d25dc61821f11ee4899b",
+			"sha256": "574b2b8f497813e422feb295e9bff393f7881645a6e44a2aed02536394cef3d4"
+		}
+	]
+}

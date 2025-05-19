@@ -1,0 +1,17 @@
+{
+	"uid": "CLAWSNDS (36730b).wad",
+	"name": "Milder Dragon Claw Sounds (for lack of a better title)",
+	"description": "A small wad file that replaces the annoying : dragon claw sounds with ones that are : easier on the ears. Also replaces the : wand sound as a side effect.",
+	"version": "36730b",
+	"date": "2014-11-01 14:54:16",
+	"files": [
+		{
+			"filename": "CLAWSNDS.wad",
+			"size": 31747,
+			"crc": 1178635842,
+			"md5": "66b3da6e325dae7ca051dfaf6f371648",
+			"sha1": "36730b97718df2edcff140cf6ff6b3fa432a141c",
+			"sha256": "9b226c4bfbccd09f7ff9d15ac120fb0fd998ef52ba10de8c17a6469d471a3931"
+		}
+	]
+}

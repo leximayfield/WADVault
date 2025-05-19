@@ -1,0 +1,16 @@
+{
+	"uid": "DB2.wad",
+	"name": "DB2.WAD",
+	"description": "A fairly simple level. Includes one room that should be interesting! All weapons are there.",
+	"date": "2013-11-03 17:44:29",
+	"files": [
+		{
+			"filename": "DB2.wad",
+			"size": 119454,
+			"crc": 4057178812,
+			"md5": "a2e1eb874b294b1f06f99ee7da8aba1a",
+			"sha1": "4f2af5c9c67ec7743014a435aeb034658ff6560e",
+			"sha256": "886ea718b98992f13c790a2df9d753302216b44612ed36488367bb959b46b77c"
+		}
+	]
+}

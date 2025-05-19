@@ -1,0 +1,17 @@
+{
+	"uid": "darker (d4ba98).wad",
+	"name": "DARKER.WAD",
+	"description": "A kick-ass wad for single player. Type doom2 -file darker.wad to play.",
+	"version": "d4ba98",
+	"date": "2013-11-06 22:41:49",
+	"files": [
+		{
+			"filename": "darker.wad",
+			"size": 109755,
+			"crc": 725392932,
+			"md5": "0ef4e3f60715497f81a5d1d54d43d20d",
+			"sha1": "d4ba98a05953c67540e3480d27d11a3147f46429",
+			"sha256": "8ec8a8c646f12b1710ba2c52395f3b2f941f52159b44ba02c1cc9cc73206a9c4"
+		}
+	]
+}

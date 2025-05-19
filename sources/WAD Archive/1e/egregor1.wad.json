@@ -1,0 +1,16 @@
+{
+	"uid": "egregor1.wad",
+	"name": "Egregor1",
+	"description": "This is my first official Doom WAD release! Its a temple/mid-evil themed level with a unique concept (as far as I am aware) of a 2048 size, similar to 1024 size, only 4 times larger. The main reason I chose to do the 2048 theme was because all of the levels I have built thus far have ended up becoming extra large, and because of their size, I never end up finishing them. This is a deliberate way to keep me from creating an unmanageably sized map.",
+	"date": "2014-12-24 19:17:54",
+	"files": [
+		{
+			"filename": "egregor1.wad",
+			"size": 7250032,
+			"crc": 697639588,
+			"md5": "aec57997dc897d6d7f7afd2930e48885",
+			"sha1": "1ea93480047cefd50ba4eac25497179802621948",
+			"sha256": "ef8f36c58fe546b7246fa6b479f7fa83144a515e702edfbc7897052674260e48"
+		}
+	]
+}

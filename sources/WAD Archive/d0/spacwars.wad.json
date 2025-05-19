@@ -1,0 +1,16 @@
+{
+	"uid": "spacwars.wad",
+	"name": "Doomed Space Wars",
+	"description": "Doomed Space Wars is a Star Wars-inspired mapset but with mostly Doom enemies and weapons. There are 9 levels divided into 3x 3 level mini episodes and 3 secret levels. At the end of each 3 level mini episode there is a boss. Every map is huge and takes advantages of Zdoom's special features such as 3D floors and reverb. Also there are tons of secrets and a few top secret Easter eggs. The aim for the level design was realism and a dark atmosphere, with huge height variations and a semi linear overlapping progression. I focused hard on lighting and architecture to create a super realistic environment to go with challenging gameplay but there are no slaughtermaps, sorry guys. Also included are 10 exclusive Deathmatch levels. Also in addition are 9 new monsters thanks to Zdoom's DECORATE feature and also I cannot forget the totally original orchestral soundtrack composed by me with the songs in .mp3 format.",
+	"date": "2015-09-15 14:01:12",
+	"files": [
+		{
+			"filename": "spacwars.wad",
+			"size": 77827362,
+			"crc": 2787595086,
+			"md5": "4fd72b25e2d08da73b2031131d5f44b6",
+			"sha1": "d0f2e794bf05ec31322ff2dd55f8f23d995e9025",
+			"sha256": "ed748160eb2982b8f2e1a418ab87ecdbebe47301fc0addbff0a8e8eb742b676b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "BFGFUN.wad",
+	"name": "Big Funny Gun Fun",
+	"description": "This WAD was inspired by the BFG FAQ by Tony Fabris. It is a deathmatch WAD designed to help you exercise the deathmatch BFG techniques described therein. Everyone should read it for their safety and protection :).",
+	"date": "2014-08-30 14:30:48",
+	"files": [
+		{
+			"filename": "BFGFUN.wad",
+			"size": 26560,
+			"crc": 3163910471,
+			"md5": "1dbe2f3752b5d2c0818ab436c03eeb2b",
+			"sha1": "bb0892271337fe4aa0bb13ffc66f3e07219c22de",
+			"sha256": "c8e82c5ca4e1f23b224ce4d8abd1e417067c5717ae7fd15181c8f642c036be4c"
+		}
+	]
+}

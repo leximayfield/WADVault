@@ -1,0 +1,17 @@
+{
+	"uid": "2die (19cf2b).wad",
+	"name": "2 Die",
+	"description": "An incredible 2 player deathmatch wad! If you like a great 3D layout and architecture, this level is for you. Extensively playtested in both 2 and 3 player mode. Also, supports single and cooperative play!",
+	"version": "19cf2b",
+	"date": "2014-01-07 22:02:48",
+	"files": [
+		{
+			"filename": "2die.wad",
+			"size": 65625,
+			"crc": 993804681,
+			"md5": "25e733e934a619475d75c1162dbc5e95",
+			"sha1": "19cf2bce3d5958577b07104e049a229663f07aad",
+			"sha256": "c0e3ec7e76887d72d69a6e9d1e57314b6aee8b36b5111e8f4bac40cbe94efcc9"
+		}
+	]
+}

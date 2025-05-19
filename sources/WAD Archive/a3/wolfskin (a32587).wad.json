@@ -1,0 +1,17 @@
+{
+	"uid": "wolfskin (a32587).wad",
+	"name": "Wolf O'Donnell",
+	"description": "It's Wolf as he appears in Smash Bros. now as a playable character in Doom.",
+	"version": "a32587",
+	"date": "2016-10-17 17:00:10",
+	"files": [
+		{
+			"filename": "wolfskin.wad",
+			"size": 352960,
+			"crc": 3279104474,
+			"md5": "6fa840d3ba5675fc785a6a6e2b1161f3",
+			"sha1": "a32587070c3d7eed8a0b02db997e813046618545",
+			"sha256": "2ad25c82c863e4732d4ef1bb59a6fa7b59f50bd0685fedf1cde4d3b9ee7bde38"
+		}
+	]
+}

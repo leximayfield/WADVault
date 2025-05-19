@@ -1,0 +1,17 @@
+{
+	"uid": "sudtic (b3bc6f).wad",
+	"name": "sudtic.zip",
+	"description": "Slaughter Until Death, new episode",
+	"version": "b3bc6f",
+	"date": "2013-11-02 15:37:19",
+	"files": [
+		{
+			"filename": "sudtic.wad",
+			"size": 1734629,
+			"crc": 263755262,
+			"md5": "787cf7211d34a19c40dbafe126329677",
+			"sha1": "b3bc6fbbaabb4faa1d4a5352b24cdd04957d25e3",
+			"sha256": "dfb352e4862df319f2fc77b865cf9bd1fb836a194a21289e4897137d7bdaf852"
+		}
+	]
+}

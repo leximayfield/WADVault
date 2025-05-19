@@ -1,0 +1,17 @@
+{
+	"uid": "anteroom (6cbd1f).wad",
+	"name": "Perdition's Anteroom",
+	"description": "This is a somewhat large level, so named for its central room with the large spiral staircase, replete with divers* weapons and sundry monsters. All secret doors have slight texture offsets, and there's a computer map behind one of them. I included every weapon at least once, and you'll find each kind of monster save the Cyberdemon and Spiderdemon somewhere in the level.",
+	"version": "6cbd1f",
+	"date": "2013-11-02 16:06:13",
+	"files": [
+		{
+			"filename": "anteroom.wad",
+			"size": 139038,
+			"crc": 2209179393,
+			"md5": "a34ba67e000e5905bbb5d0ae08f31e77",
+			"sha1": "6cbd1f9137940af743db49364a053c74f083df3b",
+			"sha256": "685c380ed9f78fa00053c3ef2cf63a675b78a60e3342e215b1e0297cd11501a7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "effects.wad",
+	"name": "\"Hexen Special Effects\"",
+	"description": "A demonstration of various Hexen special effects.",
+	"date": "2014-12-31 12:00:23",
+	"files": [
+		{
+			"filename": "effects.wad",
+			"size": 35551,
+			"crc": 1564405968,
+			"md5": "77dcc76872b22c6112320348578a7c1b",
+			"sha1": "522f7aabb3bad847ed2ee60a4e9db94fba33e0cc",
+			"sha256": "ce0ca6f019d4d9de81734c1723882a777e82696aad8790be6ed760779d4f7b5a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "perfct10.wad",
+	"name": "perfct10.wad",
+	"description": "A set of 10 new from scratch levels for Doom2 Deathmatch. Playtested with v1.666 using -altdeath",
+	"date": "2014-12-15 22:57:11",
+	"files": [
+		{
+			"filename": "perfct10.wad",
+			"size": 572557,
+			"crc": 1593978988,
+			"md5": "a4118fc3ea6af9b4f17c4e68527522ab",
+			"sha1": "2f1ea3019b7fea3b72804f88ccbc9a8be357ea5f",
+			"sha256": "f3715bd34fe431244e4bbbaaf062236de3501e21a6ca06b2e20e2a8adca0a76e"
+		}
+	]
+}

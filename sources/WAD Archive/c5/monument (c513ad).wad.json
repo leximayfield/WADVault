@@ -1,0 +1,17 @@
+{
+	"uid": "monument (c513ad).wad",
+	"name": "Monument",
+	"description": "This is a complete episode 2 replacement for DOOM. It's a compilation of all my previously released Shores of Hell themed pwads. I haven't just settled on compiling them into one pwad and leaving it at that. Instead each map has been through hours and hours of either adjusting or complete revamping in DoomBuilder to make them stand out as fresh, new maps that will hopefully give players a solid and fun gaming experience - even for those of you, who've played these maps before. I've been just as serious about this release as all my prior releases and I really hope it shows. I thoroughly enjoyed putting this episode together and I hope you will enjoy playing it!",
+	"version": "c513ad",
+	"date": "2018-05-29 18:41:21",
+	"files": [
+		{
+			"filename": "monument.wad",
+			"size": 4231970,
+			"crc": 4255231896,
+			"md5": "dcf73ac4239dfb0c9835c016b1b0f169",
+			"sha1": "c513adb5dd90fd314fc4659b17036d835e9f76ee",
+			"sha256": "768896fa8aaf497a3527c5b66ec4360282bbff3dbde71f9aef8e9972125bc210"
+		}
+	]
+}

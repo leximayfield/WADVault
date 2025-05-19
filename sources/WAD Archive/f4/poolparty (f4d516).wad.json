@@ -1,0 +1,17 @@
+{
+	"uid": "poolparty (f4d516).wad",
+	"name": "Lucifers Pool Party",
+	"description": "This was my first level, I like massive destruction. Make sure to get stuck in there. As with all my levels it is meant to be completed without saving.",
+	"version": "f4d516",
+	"date": "2015-01-14 23:04:23",
+	"files": [
+		{
+			"filename": "poolparty.wad",
+			"size": 204593,
+			"crc": 1799901856,
+			"md5": "3973ec5d01ff60b3d2a30cc449c28031",
+			"sha1": "f4d5168ed0bce7ec3aefd5f602f0c95608d16fe6",
+			"sha256": "9292dd954af829703cc8d9a07efa65cfd74015dbe4b9a1b77a8cc2b5098a21ca"
+		}
+	]
+}

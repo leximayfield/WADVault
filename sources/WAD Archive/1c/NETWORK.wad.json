@@ -1,0 +1,16 @@
+{
+	"uid": "NETWORK.wad",
+	"name": "NETWORK, a cerebral Doom ][ Deathmatch",
+	"description": "The newest DOOM level from the Bentworld group. Suitable only for Deathmatch hunts between 2 players. We STRONGLY recommend -altdeath -deathmatch -respawn. A long BULLDOG style corridor. The end rooms are stacked with just enough respawning items. A cross corridor with pits becomes the confrontation zone. Very playable. No Exit.",
+	"date": "2013-11-04 19:23:17",
+	"files": [
+		{
+			"filename": "NETWORK.wad",
+			"size": 37512,
+			"crc": 89104927,
+			"md5": "ba8d490e99e159f038ab2ee615340f76",
+			"sha1": "1cd3826bf9733bba5396d3108b15ca7b51bc30a2",
+			"sha256": "ba08b0ed64ddcf210c0efea9dcce6d5a31f9a016ec3f06d09a5ea57ec95b712d"
+		}
+	]
+}

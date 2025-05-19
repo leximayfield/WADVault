@@ -1,0 +1,16 @@
+{
+	"uid": "zombmini.wad",
+	"name": "Minigun from Zombie Doom",
+	"description": "Due to the recent death of Zombie Doom, I've set out to create a series of weapons patches based on some of the weapons from the Zombie Doom beta. Al was cool enough to let me do this, so enjoy!",
+	"date": "2014-12-10 20:42:52",
+	"files": [
+		{
+			"filename": "zombmini.wad",
+			"size": 18776,
+			"crc": 4044245912,
+			"md5": "e803c7e7e09c3d2e4984a246871e461f",
+			"sha1": "eba757334f6108d91cbc05d2ffd030dcddfb46f0",
+			"sha256": "351ab27c6ee8e89b17c6f8667d25708c0b4a699ca4ecfe2f8008fa515d3ac77d"
+		}
+	]
+}

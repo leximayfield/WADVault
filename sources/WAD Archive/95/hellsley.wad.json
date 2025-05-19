@@ -1,0 +1,16 @@
+{
+	"uid": "hellsley.wad",
+	"name": "The Hellsley Suites",
+	"description": "It's a bright, sunny day and you feel like a million bucks. You're strolling down the street whistling some John Denver tune when a travel brochure materializes in you hand(!). It says:",
+	"date": "2013-07-09 20:22:40",
+	"files": [
+		{
+			"filename": "hellsley.wad",
+			"size": 269295,
+			"crc": 157215322,
+			"md5": "43c167c8945583a17137760703b38687",
+			"sha1": "9558db74fa1ea65ae432b34cd5035397dd7559eb",
+			"sha256": "01ff0063840aa226f68741ca8c9864c89bbab67b8ade409acabf8f2ba25fe658"
+		}
+	]
+}

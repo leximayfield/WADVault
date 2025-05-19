@@ -1,0 +1,17 @@
+{
+	"uid": "escape (eb05de).wad",
+	"name": "ESCAPE.WAD",
+	"description": "This wad is not for the Doom Newbie. Sizing out at 360k, I'd recommend a 486 and 8 megs and a fast video card to play it.",
+	"version": "eb05de",
+	"date": "2013-11-04 20:07:04",
+	"files": [
+		{
+			"filename": "escape.wad",
+			"size": 360645,
+			"crc": 3165332153,
+			"md5": "5aeeb11bf857e5aff0f64e4903110b7f",
+			"sha1": "eb05deaa2e5b4e37af609ad1b552f45a9ea3ff64",
+			"sha256": "7b12d190d93724756d992d549505aa17ae2f5a5863361f15b7259f6d6bd44ea4"
+		}
+	]
+}

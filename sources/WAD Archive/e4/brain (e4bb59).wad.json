@@ -1,0 +1,17 @@
+{
+	"uid": "brain (e4bb59).wad",
+	"name": "Both rough and insane (Brain)",
+	"description": "This is a first trial in the DOOM field. The WAD is maybe not the best one, but in any case, don't forget to collect as much as posible all the items, as you certainly need them.",
+	"version": "e4bb59",
+	"date": "2014-12-15 22:22:51",
+	"files": [
+		{
+			"filename": "brain.wad",
+			"size": 720819,
+			"crc": 2049559575,
+			"md5": "e031bb500fb80bc0d36c2cf6aacf4826",
+			"sha1": "e4bb59bdc9a48b09a52d8840354e8c06886d9099",
+			"sha256": "224d00af7abbfdf83869b532a3181e289d2eaef3695324e4625aac3088e2c691"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rezu.wad",
+	"name": "Rezulux's First Map",
+	"description": "Small first-level-styled map.",
+	"date": "2016-02-13 19:53:28",
+	"files": [
+		{
+			"filename": "rezu.wad",
+			"size": 44766,
+			"crc": 1097625320,
+			"md5": "0fb0947ff2f973611c15864837cd0c13",
+			"sha1": "efa5d8a2f8a015afc58fffd5910cd3a6061664f2",
+			"sha256": "97f818a49f51f727ec3e1e741cbc5890a65f2b6eb37a1fd03ea103619d73e18e"
+		}
+	]
+}

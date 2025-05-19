@@ -1,0 +1,16 @@
+{
+	"uid": "bossed.wad",
+	"name": "Bossed",
+	"description": "\"Bossed\" is a small wad that contains 5 maps for Doom 2 using lots of ACS scripts, so it's designed only for ZDoom. In each map there's a boss encounter at the end. New monsters are included from Realm667 Beastiary and most of Skulltag's monsters. The Story You (Doomguy) have gone through many hellish invasions without having cruel problems. You are a legend. You're one of a kind. This is what attracted hellish species from another dimensions. A group of 5 monsters who call themselves \"The Elite 5\" wanted to challenge you, so they started to invade the earth just as every time hell did in the past. However, it is mentioned that they are not like any monsters you've faced them before. The maps are hard after the beginnings and gameplay could take more than 1 hour.",
+	"date": "2014-12-21 16:39:51",
+	"files": [
+		{
+			"filename": "bossed.wad",
+			"size": 5018508,
+			"crc": 3962408335,
+			"md5": "185d271a87937e54e8236af8c5b7df1e",
+			"sha1": "64d44ab066ae9acfb016c93e83359dd9a66b7bf1",
+			"sha256": "fe0257a0106c79c91257f20f32f3850d5ee4b16027cfe8a10a9098f40cd89dbd"
+		}
+	]
+}

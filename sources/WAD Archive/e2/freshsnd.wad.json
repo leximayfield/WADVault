@@ -1,0 +1,16 @@
+{
+	"uid": "freshsnd.wad",
+	"name": "Fresh Sounds for Doom",
+	"description": "a bunch of sounds I threw together and it sounded nice",
+	"date": "2015-09-15 13:17:28",
+	"files": [
+		{
+			"filename": "freshsnd.wad",
+			"size": 508305,
+			"crc": 216451814,
+			"md5": "d075d95ee28f0e05bf986c79ed2638e2",
+			"sha1": "e2d110026ca92d52a4e45bf17563fe14b039de97",
+			"sha256": "7ffb4d58c71726963c993b377817d8dd36ccfba9f4ec7ed9a831b4b6df49996b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "croshair (a9a882).wad",
+	"name": "Hell's Crosshairs",
+	"description": "Same as most levels, kill all the monsters and find the secrets to win.",
+	"version": "a9a882",
+	"date": "2013-11-06 22:29:19",
+	"files": [
+		{
+			"filename": "croshair.wad",
+			"size": 142624,
+			"crc": 3267401297,
+			"md5": "1a22c8ed17bcc6b734a95498fb3c4893",
+			"sha1": "a9a882c1c3502a8513cecf0bbe49a31ddab9b357",
+			"sha256": "18a140d30055f8c0193c99efe026aa9204c7dcf9e97bb7ad9e655d1a941f0638"
+		}
+	]
+}

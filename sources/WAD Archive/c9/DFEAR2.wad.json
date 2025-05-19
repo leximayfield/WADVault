@@ -1,0 +1,16 @@
+{
+	"uid": "DFEAR2.wad",
+	"name": "Demonfear 2 : Into Darkness",
+	"description": "This is the second of 6 parts, which will ultimately replace _ALL_ 32 levels of Doom2. All levels are playable solo, co-op or DM, to give you maximum playing opportunity!",
+	"date": "2014-01-07 22:05:22",
+	"files": [
+		{
+			"filename": "DFEAR2.wad",
+			"size": 287670,
+			"crc": 3791206283,
+			"md5": "c0fb581eaf21f16d2689f103d4fb96cc",
+			"sha1": "c9666200844a26f7c15dbae532e8850d871efb5b",
+			"sha256": "66563a437fb1ec64d8331297d1a10d204b66eb12438afdfbd406951197efb105"
+		}
+	]
+}

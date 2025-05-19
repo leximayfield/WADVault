@@ -1,0 +1,16 @@
+{
+	"uid": "smetro1.wad",
+	"name": "Special sloped Metro1",
+	"description": "Floor Massacre Breakdown city with breakable slopes to test CDoom 2.07 features",
+	"date": "2014-12-29 15:30:12",
+	"files": [
+		{
+			"filename": "smetro1.wad",
+			"size": 416739,
+			"crc": 2561842441,
+			"md5": "64bc33c92830ad95e378e944e63048a3",
+			"sha1": "023a26ba0ec3e206cfafaaaae2278e3f29470b92",
+			"sha256": "528906c3f27d4475505af7fc01422c6aae6aa1e69c7704d5323237d1f66f227e"
+		}
+	]
+}

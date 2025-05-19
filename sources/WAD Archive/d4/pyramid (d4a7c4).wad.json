@@ -1,0 +1,17 @@
+{
+	"uid": "pyramid (d4a7c4).wad",
+	"name": "The Pyramid Anomaly",
+	"description": "After killing yet another Spider Demon, you",
+	"version": "d4a7c4",
+	"date": "2016-02-06 13:53:45",
+	"files": [
+		{
+			"filename": "pyramid.wad",
+			"size": 199453,
+			"crc": 3281770170,
+			"md5": "0f6fc467b2ee8aa024dbf6ac20fbb006",
+			"sha1": "d4a7c40a13ad05b93a88b1d1e08f92ff87113d35",
+			"sha256": "2ff082e437c42286e7d03a1afdd096b7f94abdcd88e1209da4a3336fa16ccfed"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ebola (1f0e09).wad",
+	"name": "Ebola.wad",
+	"description": "This is a small level. Made for 1 player in mind but works great with 2 player deathmatch.It has starts for 4 player deathmathch and coop. Please Email me a response.",
+	"version": "1f0e09",
+	"date": "2014-01-07 22:13:36",
+	"files": [
+		{
+			"filename": "ebola.wad",
+			"size": 60278,
+			"crc": 610214253,
+			"md5": "7738b815f5f692b0cf837278f72d9bde",
+			"sha1": "1f0e09dd3c0bf1c5df9d18cca79d7e742a193329",
+			"sha256": "0c2a39973522754fca3af9c92dd9abeeefacd935a3d22fd51b4cfb0e3b289055"
+		}
+	]
+}

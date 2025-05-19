@@ -1,0 +1,16 @@
+{
+	"uid": "kilemall.wad",
+	"name": "Kill 'em All (Yes, i got it from MetallicA)",
+	"description": "DOOM level with alot of enemies, and windy stairs.",
+	"date": "2013-11-02 16:06:54",
+	"files": [
+		{
+			"filename": "kilemall.wad",
+			"size": 67990,
+			"crc": 3809982663,
+			"md5": "d53c89a08c912c0e908fc0f9c995beac",
+			"sha1": "c1315769d916329ffdb2ca566c2f98c01e7da116",
+			"sha256": "07bd0ba5139734c7b407d481a95dcc8a75faae9e0eeab70a16adb8840e6c6f0a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cah_p1.wad",
+	"name": "Cold As Hell (patch 1)",
+	"description": "This patch will update three of the levels in Cold As Hell to address",
+	"date": "2014-12-21 15:08:21",
+	"files": [
+		{
+			"filename": "cah_p1.wad",
+			"size": 2404528,
+			"crc": 1994597818,
+			"md5": "c81460e9a119abf627f30771502e274f",
+			"sha1": "2a6374e044ecd0e22a4111feedcf8402b7b68aaa",
+			"sha256": "178359edd691c23eaeedbece3c3cf976c84f227c19cbb5c8440ea04260156ee1"
+		}
+	]
+}

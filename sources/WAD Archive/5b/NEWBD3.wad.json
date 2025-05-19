@@ -1,0 +1,16 @@
+{
+	"uid": "NEWBD3.wad",
+	"name": "Ben Davis High School Doom",
+	"description": "This is a one-level beta version of Ben Davis High School DOOM. There are some monsters but I'm still working on it. There is no end.",
+	"date": "2014-08-30 13:59:23",
+	"files": [
+		{
+			"filename": "NEWBD3.wad",
+			"size": 69175,
+			"crc": 2721704920,
+			"md5": "0e1b3f43907c77e38bf7943710f55bee",
+			"sha1": "5bcc2e7073a5112a2bb6c5831687103f2dbbd804",
+			"sha256": "2c4fe8b25a0c5af3894c4b3fd16bc0e3fe42fb1cf1f5eec925cac9702afacf76"
+		}
+	]
+}

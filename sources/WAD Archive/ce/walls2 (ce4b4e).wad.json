@@ -1,0 +1,17 @@
+{
+	"uid": "walls2 (ce4b4e).wad",
+	"name": "Walls2 for doom2.",
+	"description": "A good Deathmatch wad were the pillars are sky textures so you never know what will happen.",
+	"version": "ce4b4e",
+	"date": "2014-12-15 21:24:46",
+	"files": [
+		{
+			"filename": "walls2.wad",
+			"size": 13693,
+			"crc": 442958341,
+			"md5": "cd281c8b5059a3f646315925cbf686be",
+			"sha1": "ce4b4e667b27509c8c3198dc7153207b7f9a08b7",
+			"sha256": "142960c363b60ec80f23ddcb217b5e7b90bdba0fa26163cfa2fbf0a5a1040681"
+		}
+	]
+}

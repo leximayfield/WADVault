@@ -1,0 +1,17 @@
+{
+	"uid": "tpmania1 (66cbb5).wad",
+	"name": "Teleport Mania I",
+	"description": "Deathmatch only WAD (no monsters) with LOTS of teleporters to spice things up. Kind of a wolfenstein flavor in some rooms. All weapons present and an ammo room for reloading. >Keep moving when you use the teleporters!<",
+	"version": "66cbb5",
+	"date": "2016-02-07 20:25:46",
+	"files": [
+		{
+			"filename": "tpmania1.wad",
+			"size": 50203,
+			"crc": 1012733001,
+			"md5": "34a20da8bbe81538e768a26af4570266",
+			"sha1": "66cbb5b1926fc75eb244958b96403deb19313157",
+			"sha256": "9c419c43fdc5188348671b18bdf7037d075edef6c64007d33140e54cc1abf49e"
+		}
+	]
+}

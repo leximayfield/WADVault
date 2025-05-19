@@ -1,0 +1,17 @@
+{
+	"uid": "rctf1 (87a2fc).wad",
+	"name": "A-Mazing",
+	"description": "These bots play this pretty well. You will have to be on your toes to beat them.",
+	"version": "87a2fc",
+	"date": "2014-12-15 22:03:20",
+	"files": [
+		{
+			"filename": "rctf1.wad",
+			"size": 166688,
+			"crc": 2141447384,
+			"md5": "d72e3c823755a8421b55f7ebcf9ab1a0",
+			"sha1": "87a2fc56b9fd1c4d21b775c7e6c59927fbdfeafc",
+			"sha256": "ed7d67e9ab918394d5529083f49aea6d19799327440700eb3b2562830b4e76e2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "stopme2.wad",
+	"name": "StopMe2.WAD",
+	"description": "Doom2 wad with excellent playability in either single or multi-player environment.",
+	"date": "2015-01-14 22:42:11",
+	"files": [
+		{
+			"filename": "stopme2.wad",
+			"size": 83298,
+			"crc": 3079041054,
+			"md5": "2c26bcda0e7ed12a635d5aa1b279175a",
+			"sha1": "b97270c53848951f83e7e0aa666bcece05590405",
+			"sha256": "cd5c4a158ebe3ad9054b7a0edd0470e192c7126088ddb7e8a4c252e9e8014396"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "loch (0ecd33).wad",
+	"name": "THE Loch",
+	"description": "You, must battle your way throught the",
+	"version": "0ecd33",
+	"date": "2013-11-02 15:49:45",
+	"files": [
+		{
+			"filename": "loch.wad",
+			"size": 181981,
+			"crc": 365463386,
+			"md5": "f2141a61d19adee86f90af93011ba3d7",
+			"sha1": "0ecd3384d7d080254c3b72b0c5e5892183303588",
+			"sha256": "c7c199c04458c771beb1aba199beb62b5810362bf5b4c2ece500cb8c88c4e75d"
+		}
+	]
+}

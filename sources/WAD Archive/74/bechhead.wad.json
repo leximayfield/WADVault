@@ -1,0 +1,16 @@
+{
+	"uid": "bechhead.wad",
+	"name": "Beach Head",
+	"description": "This map was inspired by the Beach head game by Wizard Works. I actually never played the game, but looking at the box gave me the idea. The switch on the right way spawns weapons and armor, the switch on the back heals.",
+	"date": "2014-12-21 16:21:06",
+	"files": [
+		{
+			"filename": "bechhead.wad",
+			"size": 10146,
+			"crc": 3713399214,
+			"md5": "6c906391d4339547b556a75f6f663a06",
+			"sha1": "74408b792e019ccce61315c2d4e519f771488224",
+			"sha256": "b1d1a3e4425efd12bc6b2181c239c7a5f0dbb2cf70bd383ccd9a7a47ff4e59d6"
+		}
+	]
+}

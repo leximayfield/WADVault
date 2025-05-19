@@ -1,0 +1,16 @@
+{
+	"uid": "uacsynth.wad",
+	"name": "UAC Synthetizer",
+	"description": "Map 9 of my wad \"Maps of Evil\" Points of interest: I think you should use IDFA at the start. but I tried to adapt it to a pistol start.",
+	"date": "2019-07-07 16:04:19",
+	"files": [
+		{
+			"filename": "uacsynth.wad",
+			"size": 2298683,
+			"crc": 2020244084,
+			"md5": "c524215a72bddc95a606908476c481ab",
+			"sha1": "475637e739afc8077ea996a90754a9b5a313ea3b",
+			"sha256": "a651aa29fb1ade947f5e18b1a9f85beffbc7e141599da47e8274fdb63740f230"
+		}
+	]
+}

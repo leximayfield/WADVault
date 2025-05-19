@@ -1,0 +1,17 @@
+{
+	"uid": "PENTADTH (b54bb3).wad",
+	"name": "PENTADTH.WAD",
+	"description": "Designed to be a deathmatch only level. There no monsters in here (add some if you want) so single player might get dull real quick :-) The level is kind of large, so a 2 player deathmatch might take a while to get interesting. There are five main areas connected by hallways and passages, with barrels scattered throughout (if your lucky you will get to use one :-) Just run around and kill your friends !",
+	"version": "b54bb3",
+	"date": "2013-11-02 15:08:50",
+	"files": [
+		{
+			"filename": "PENTADTH.wad",
+			"size": 65991,
+			"crc": 984987073,
+			"md5": "8ba54f6737db215110bed724c72b1cfa",
+			"sha1": "b54bb3ef72163a6d0da159fae75bd3cc5b6051a5",
+			"sha256": "b64b0b19213adf0f01c8cc4d30da835159d0a805d8c5fb4057632ce2b754f0d5"
+		}
+	]
+}

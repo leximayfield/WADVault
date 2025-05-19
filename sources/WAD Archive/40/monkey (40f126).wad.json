@@ -1,0 +1,17 @@
+{
+	"uid": "monkey (40f126).wad",
+	"name": "The monkey",
+	"description": "A strange kind of arena with loads of Hellknights.",
+	"version": "40f126",
+	"date": "2014-12-15 22:24:08",
+	"files": [
+		{
+			"filename": "monkey.wad",
+			"size": 6485,
+			"crc": 310425522,
+			"md5": "0509f0cc09e4131c774613f80ce0e935",
+			"sha1": "40f126c2403f3a116b2e41ed6cae7285490a7663",
+			"sha256": "ba2a789a0888ff6e61861ed68b58a4c0c190dae1e573abf4d6bcca0682ec7e32"
+		}
+	]
+}

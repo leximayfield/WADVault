@@ -1,0 +1,17 @@
+{
+	"uid": "sewers (93d1bc).wad",
+	"name": "The Sewers of Hell",
+	"description": "Aside from your usual Doom structures, a complicated warren, ideal for Deathmatch and just hell for anything. You'll really be wishing for one of those computer area maps... But hey, you'll adjust just in time to lure some other poor fool in....",
+	"version": "93d1bc",
+	"date": "2015-12-07 11:29:50",
+	"files": [
+		{
+			"filename": "sewers.wad",
+			"size": 143208,
+			"crc": 1013548981,
+			"md5": "f355fe7f5c086615f36d42f17e3e67f4",
+			"sha1": "93d1bc2d1f5256878baf2a40d5065edb533e0b57",
+			"sha256": "d19593864c8c1c70c2bef965d670e479e4be61febb2e17bf7ffe45dbd8e9cc57"
+		}
+	]
+}

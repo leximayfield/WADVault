@@ -1,0 +1,17 @@
+{
+	"uid": "lights (57bad6).wad",
+	"name": "Lights out!",
+	"description": "//**********// \"Decades ago the UAC built an underground vault near the ancient, alien ruins on Phobos. It was a secret experiment in extreme colonization, an intelligent and self-sustained city that would survive even its own inhabitants. Although isolated from the rest of humanity, the secret colony sent an automated coded message with the vitals and statistics of the base to the UAC HQ each day Two weeks ago that message began to show immense casualties and cryptic references to unknown invaders. Later, a week ago, HQ received the last message, indicating there were life forms of some kind in the base, but they weren't humans anymore. Go there and terminate the hostiles that have infected the colony.\" //********//",
+	"version": "57bad6",
+	"date": "2016-07-21 19:22:27",
+	"files": [
+		{
+			"filename": "lights.wad",
+			"size": 769349,
+			"crc": 2188392875,
+			"md5": "1da2f132b05b15bb1e077422c7074d9f",
+			"sha1": "57bad6fd63ef99a6f6fc16209618339118604343",
+			"sha256": "fdb4934918327df51f9c3ca05a7608fedbfaea39412ad438b126fcbc7ad3740b"
+		}
+	]
+}

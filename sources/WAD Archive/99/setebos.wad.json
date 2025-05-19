@@ -1,0 +1,16 @@
+{
+	"uid": "setebos.wad",
+	"name": "Setebos Station",
+	"description": "Welcome to Setebos Relay Station, a UAC base perched on a tiny moon in the butt end of nowhere. Looks like we have lost contact with the base... again. I'm sure its nothing, but you know the drill.",
+	"date": "2014-12-13 12:47:48",
+	"files": [
+		{
+			"filename": "setebos.wad",
+			"size": 223698,
+			"crc": 2332216140,
+			"md5": "73af70e11bebac79603747b6c6168e56",
+			"sha1": "998cb058cf17057fb05e6381911add43a92d6a59",
+			"sha256": "a66e2f907cdfda572e530bb6f7b1407f151e44bf1777f04e2ffe1668f5e69025"
+		}
+	]
+}

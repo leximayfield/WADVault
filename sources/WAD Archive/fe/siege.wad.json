@@ -1,0 +1,16 @@
+{
+	"uid": "siege.wad",
+	"name": "Siege",
+	"description": "Single-Level/Cooperative for Doom ][. You (and your team) lay siege upon a the evil teleport center and use the center to engage in different scenarios and gathering the three keys:",
+	"date": "2015-01-14 14:34:24",
+	"files": [
+		{
+			"filename": "siege.wad",
+			"size": 990010,
+			"crc": 1289890026,
+			"md5": "7075977d9ded3f793502b9fe57270460",
+			"sha1": "fe16a0529ef16b5e156128d351dc576c7fd73212",
+			"sha256": "38f0253e411d0abd64baf5deb480433c92bd1955421c8460e9545a1eb15d0342"
+		}
+	]
+}

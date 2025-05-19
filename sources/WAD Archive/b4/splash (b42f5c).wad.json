@@ -1,0 +1,17 @@
+{
+	"uid": "splash (b42f5c).wad",
+	"name": "Splash Wad",
+	"description": "Play Doom with splash sounds for water, lava, slime, nukeage & blood; adds splash sounds to UDoom, Doom2, Plutonia, TNT and any pwad using the same liquid flats and names as the iwads; can be configured for custom flats (see README with file)",
+	"version": "b42f5c",
+	"date": "2015-09-15 19:23:59",
+	"files": [
+		{
+			"filename": "splash.wad",
+			"size": 41168,
+			"crc": 1628374896,
+			"md5": "401cee470dacae980f505e688d756886",
+			"sha1": "b42f5cb8d87be201fd8d3aab167bf48452bd8da4",
+			"sha256": "fb82a2fc16baf28641884451f43c171c2e38ce57655de4fb998ff02bb8ddf810"
+		}
+	]
+}

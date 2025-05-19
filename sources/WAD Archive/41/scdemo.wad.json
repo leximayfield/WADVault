@@ -1,0 +1,16 @@
+{
+	"uid": "scdemo.wad",
+	"name": "Star Portal Crisis Demo",
+	"description": "I'm working on a project called Star Portal Crisis. I thought making a Legacy type thing would be cool. I came up with this.",
+	"date": "2013-04-22 00:33:49",
+	"files": [
+		{
+			"filename": "scdemo.wad",
+			"size": 43237,
+			"crc": 1558047196,
+			"md5": "ae3fb3c42777c2b4311ea0bc566c6fe0",
+			"sha1": "4149f10de9ba1e5f7f71b48cb7ffa0f26d9fe13a",
+			"sha256": "a280d1401b2c47d0dd2dfcb548d74f0a35835165e15adf19a51ccd1764f84dfa"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ZRISON (e9f844).wad",
+	"name": "Prison of Hell",
+	"description": "Find you're way out of this \"prison of hell. It's a (pretty small) doom2-wad, I used a lot of new (doom2-)walls and stuff. There are two secret rooms.",
+	"version": "e9f844",
+	"date": "2014-01-07 22:09:43",
+	"files": [
+		{
+			"filename": "ZRISON.wad",
+			"size": 57199,
+			"crc": 2988143204,
+			"md5": "375170d15a640facaeb39774609391a5",
+			"sha1": "e9f844677ad9d911c007cdf97e00f44e592a51e1",
+			"sha256": "2409b9ffbad21a53edcbb6a6e8a0298bd1335a07ccd897492600343c11abf447"
+		}
+	]
+}

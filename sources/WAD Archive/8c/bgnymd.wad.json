@@ -1,0 +1,16 @@
+{
+	"uid": "bgnymd.wad",
+	"name": "Base Ganymede E1",
+	"description": "An 8 map vanilla episode for Doom 1.",
+	"date": "2014-12-14 20:54:58",
+	"files": [
+		{
+			"filename": "bgnymd.wad",
+			"size": 1710970,
+			"crc": 3907734802,
+			"md5": "48ea7fc4226a6bc5440d02df01326105",
+			"sha1": "8c29d0ae355b49b40c3907c92e435c28aa338178",
+			"sha256": "887ef07be2205e30007424e056adbb645c0408c23010c763bfc850770feacabc"
+		}
+	]
+}

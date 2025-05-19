@@ -1,0 +1,17 @@
+{
+	"uid": "MINDPHUQ (e07c5c).wad",
+	"name": "Mindphuq",
+	"description": "A battle ARENA with rooms and traps.",
+	"version": "e07c5c",
+	"date": "2016-10-17 17:01:08",
+	"files": [
+		{
+			"filename": "MINDPHUQ.wad",
+			"size": 695379,
+			"crc": 1377315337,
+			"md5": "13a986a33c141998c93383d5059c0875",
+			"sha1": "e07c5ccabd9ca4aef878046508992bb93d35ebbb",
+			"sha256": "84660f2dbd3cb0e34d63146011cc23f8efec9625e52165d9ad87ce0ab59be5a7"
+		}
+	]
+}

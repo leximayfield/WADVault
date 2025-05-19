@@ -1,0 +1,16 @@
+{
+	"uid": "frostbit.wad",
+	"name": "Frost Bitten",
+	"description": "This time hell has really frozen over! Battle your way through this level with help from friendly monsters, crawl through vents, and blast the hellspawn away. Oh yeah, and watch out for freezing cold water! It could be the death of you.",
+	"date": "2014-12-18 22:34:39",
+	"files": [
+		{
+			"filename": "frostbit.wad",
+			"size": 693262,
+			"crc": 3897047477,
+			"md5": "66af01f42270c1f03720aad5f0c77c60",
+			"sha1": "908e52f4b4f62e7a40782e7ff715d622dc2af1e0",
+			"sha256": "026eb8d95f29fa52216f1091d7f44bb284ab4e8607af91921d2a32863c17d902"
+		}
+	]
+}

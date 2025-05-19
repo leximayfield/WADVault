@@ -1,0 +1,17 @@
+{
+	"uid": "my (c3889f).wad",
+	"name": "My First Attempts 1.1",
+	"description": "An oldie, updated. Old embarrassments removed. GZDoom support added. Texturing still on 1999 level.",
+	"version": "c3889f",
+	"date": "2015-09-15 16:39:17",
+	"files": [
+		{
+			"filename": "my.wad",
+			"size": 1503268,
+			"crc": 1025413007,
+			"md5": "d3d85467ab55d5aa4e19ec6dfbc5ecfd",
+			"sha1": "c3889fcbf7fa5eff2d19740b5d1a33da5d10ccca",
+			"sha256": "0b1f829944fe719512ed0776923d9176a98d3c379c8aa4e2e29de810dde68449"
+		}
+	]
+}

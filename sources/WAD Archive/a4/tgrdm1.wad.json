@@ -1,0 +1,16 @@
+{
+	"uid": "tgrdm1.wad",
+	"name": "Dimension",
+	"description": "TGRDM1, is a large Deathmatch map set. This file is the first public release that I have ever done. Version 1.00: 21 February. 2006 Original release Version 1.01: 26 April. 2008 Fixed all bad vertices Unversioned Updates: 23 November. 2012 Renamed project TGRDM1b -> TGRDM1 Thrashed a superfluous lump Reorganized the map lumps Version 1.04: 25 November. 2012 Ported the project to ZDoom! Resources used from: * Weapons Realm667 Resources * Spheres Realm667 Resources * Textures SkullTag * Some decorations SkullTag Resources Sadly, not everything was ported over: Runes, and some armor and health bonuses. Converted images to PNG format. Project Name or Codename has been changed to: Dimension",
+	"date": "2018-04-15 18:54:37",
+	"files": [
+		{
+			"filename": "tgrdm1.wad",
+			"size": 1278467,
+			"crc": 3967753940,
+			"md5": "87fe98622a7650b302ad2723ac5dc56f",
+			"sha1": "a48dedf53190262b6fca93bd6de47c578b971c05",
+			"sha256": "2e210857244217e1a61f669edcadc957723cb5ff5c9eec9dd77fbddfef7d5c1a"
+		}
+	]
+}

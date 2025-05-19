@@ -1,0 +1,17 @@
+{
+	"uid": "blastem (8a6bd6).wad",
+	"name": "BLASTEM.WAD",
+	"description": "Er, yeah, that's it. (This is a stupid entry. Play the damn thing and find out!)",
+	"version": "8a6bd6",
+	"date": "2014-01-07 22:24:15",
+	"files": [
+		{
+			"filename": "blastem.wad",
+			"size": 179387,
+			"crc": 3343333147,
+			"md5": "ff036be6f896e9bf81de32e6f24c5cf7",
+			"sha1": "8a6bd6696cfadb84b74573c8ea7cdd9863af73ee",
+			"sha256": "bf3d0b1f43f40abdbfb68c7df6332038b2035eb1a5157e4c6f10085c4d783f1f"
+		}
+	]
+}

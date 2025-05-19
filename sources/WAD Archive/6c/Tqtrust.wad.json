@@ -1,0 +1,16 @@
+{
+	"uid": "Tqtrust.wad",
+	"name": "TRUST",
+	"description": "Small doom mini-world. Levels are interconnected with an in-game storyline. Play it and see. This mod WILL work with the DOS version of ZDoom.",
+	"date": "2014-12-29 17:03:42",
+	"files": [
+		{
+			"filename": "Tqtrust.wad",
+			"size": 5051870,
+			"crc": 1784243393,
+			"md5": "35d6772f0766188ee3ea88da070f2f60",
+			"sha1": "6c284b33dfda469ef798f4ca1c97c88fe2132d7d",
+			"sha256": "d19ccdc2bcef1f7b0ca99c7eaac15f3f8894e9192fa1b55b7b6fd90076ce9fe8"
+		}
+	]
+}

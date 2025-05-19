@@ -1,0 +1,17 @@
+{
+	"uid": "megadeth (7adb33).wad",
+	"name": "MEGADETH Version 2.2",
+	"description": "The ultimate deathmatch.",
+	"version": "7adb33",
+	"date": "2013-11-03 17:47:42",
+	"files": [
+		{
+			"filename": "megadeth.wad",
+			"size": 240259,
+			"crc": 635823821,
+			"md5": "32b1d4e362e4d8d8ae80f7087bce2a37",
+			"sha1": "7adb3394af754a77e175bba48d0ead723055fc07",
+			"sha256": "4a71f5a6028eca5926961f7f6fc5d2f0f9cba80f7472e9a0cfab7523533cf7cc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "TEUTIC (8e59a8).wad",
+	"name": "teutic.zip",
+	"description": "The Evil Unleashed, new episode You need v1.666 to play this!!!",
+	"version": "8e59a8",
+	"date": "2014-01-07 22:20:36",
+	"files": [
+		{
+			"filename": "TEUTIC.wad",
+			"size": 1730859,
+			"crc": 1472619202,
+			"md5": "d6dfac212a117d151f76802975c5f39a",
+			"sha1": "8e59a89494ea4d63b41d9db174e4168120bb863f",
+			"sha256": "390646f9f6d068dbdf63df03baf1b094a44f3e55f319335eb91f13342e41f367"
+		}
+	]
+}

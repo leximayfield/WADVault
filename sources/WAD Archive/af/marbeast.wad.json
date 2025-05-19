@@ -1,0 +1,16 @@
+{
+	"uid": "marbeast.wad",
+	"name": "Marque of the Beast",
+	"description": "You have been assigned to investigate a distress call from the UAC experimental weapons lab in the mountians of Peru. Upon arrving, you find a bloodbath; the bodies of your comrades lie strewn everywhere, and the base is deathly quiet. The enitre lab is in total security lockdown mode, and it appears that something HUGE busted in from the ceiling. Your objective is to recover the weapons from the armory, kill any invaders that you find, and make sure that the lab does not remain in enemy hands by finding and activating the self-destruct mechanism.",
+	"date": "2014-12-13 17:36:55",
+	"files": [
+		{
+			"filename": "marbeast.wad",
+			"size": 192607,
+			"crc": 2196094904,
+			"md5": "584d7620b9b85dbc80da3ec774d2742f",
+			"sha1": "af1542e3205eb576c10ad46d6f05bff022abd034",
+			"sha256": "30843632a4162b76a733e52c1e9312cffcfa33073f430c9b9e341769d551033c"
+		}
+	]
+}

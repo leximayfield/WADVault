@@ -1,0 +1,15 @@
+{
+	"uid": "rstation.wad",
+	"description": "This prefab is a replication station. When you flip the switch, an item replicates inside the station and moves toward you to stop on the holding pad. This would be a great deathmatch structure to distribute weapons.",
+	"date": "2015-09-14 23:10:30",
+	"files": [
+		{
+			"filename": "rstation.wad",
+			"size": 4909,
+			"crc": 1016972131,
+			"md5": "a06fa1fbf7c019b90906f239dc3ffc88",
+			"sha1": "cac0091bf612ae33d79d469fcc9050931b81269f",
+			"sha256": "35a6fee418d3addf763f16eb1aa84e7d5c1beec593f579962e26369194999e5c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "roks_ma1.wad",
+	"name": "ROKS \"Reach Out and Kill Someone\"",
+	"description": "NEW BREED MAP03 converted to ROKS format",
+	"date": "2014-12-15 21:26:43",
+	"files": [
+		{
+			"filename": "roks_ma1.wad",
+			"size": 95793,
+			"crc": 2741016821,
+			"md5": "1fb9a35b8ca6a48084883af5ed95c35c",
+			"sha1": "60087118674b286d810d2b24e05a3d64bf28bce2",
+			"sha256": "14a62b8529cc3fb0ad997f7dcc89b4ede3ad401ed58a6c785a656ca83d2cf2e2"
+		}
+	]
+}

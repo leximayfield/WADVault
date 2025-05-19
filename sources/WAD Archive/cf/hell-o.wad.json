@@ -1,0 +1,16 @@
+{
+	"uid": "hell-o.wad",
+	"name": "\"Hell-O\"",
+	"description": "New Decorate monster. Type \"summon hell-o\" to summon it. It is very strong, so better use cheats to learn what it can do.",
+	"date": "2014-12-11 22:28:45",
+	"files": [
+		{
+			"filename": "hell-o.wad",
+			"size": 7494,
+			"crc": 286470151,
+			"md5": "e4014c8c60ca1d6af521a36206d53022",
+			"sha1": "cf2e4a87ef2ebb1f8d2797d8b887eef74c35395f",
+			"sha256": "08b012f3341994818e7db6801f79a37e5abef635c983680ad535b76b5da685c4"
+		}
+	]
+}

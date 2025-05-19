@@ -1,0 +1,16 @@
+{
+	"uid": "drdfort.wad",
+	"name": "Crossfire Fortress",
+	"description": "Inspired by Lachlan Stewart's excellent \"Dandy3\" level. In it, I discovered the joys of crossfire, plus I've had this general layout floating around in the noggin for a while. Plenty of action and lots o' strategy. Weapons are abundant and their locations vital to some of the more subtle strategies involved. I'm semi-retired from .WAD making, so I took no steps to align any textures. If this just totally spoils the level for you, so be it, but I don't have the time anymore to devote to making these things. Unless of course, you want to pay me... ;)",
+	"date": "2013-11-04 19:19:20",
+	"files": [
+		{
+			"filename": "drdfort.wad",
+			"size": 213163,
+			"crc": 3108196494,
+			"md5": "faa6c3986f837843af7c7bf3abfe2a75",
+			"sha1": "f6fccd6e44e84f2b21a51877621a8d8864582140",
+			"sha256": "e37062b85145eefd62dcc75ad10f9956dde3eb7d6bd8256ad04ed964c0887624"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sampledm.wad",
+	"name": "Sample Deathmatch map",
+	"description": "An arena map I churned up in about an hour with the",
+	"date": "2014-12-15 21:47:31",
+	"files": [
+		{
+			"filename": "sampledm.wad",
+			"size": 20104,
+			"crc": 729748721,
+			"md5": "5982ed6d8e732aa3ed828b6c3d251666",
+			"sha1": "497a3803b8026f07769e07ec587e7c9348975e77",
+			"sha256": "018492945df28e9feeebc64d796f13f2e141f28506b0798cbf3291b0a3fa4faf"
+		}
+	]
+}

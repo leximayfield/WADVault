@@ -1,0 +1,16 @@
+{
+	"uid": "gardensd.wad",
+	"name": "Garden Of Delight",
+	"description": "Fight your way through a medieval chateau and its grounds...",
+	"date": "2014-12-18 22:41:03",
+	"files": [
+		{
+			"filename": "gardensd.wad",
+			"size": 349393,
+			"crc": 4294275186,
+			"md5": "58983782e965b07f77fe08b34ce7dfef",
+			"sha1": "f4ba1593650772799ce4f55a6254d5c2aa2f0396",
+			"sha256": "e3208021c28134dd3e533ed2fd810ede93f8375407baf9ee55b29dab4d897fd3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "evil (8b9180).wad",
+	"name": "EVIL",
+	"description": "Just as the name says: EVIL The lighting really sets the mood in the level. All weapons are in here, you defenitely need them. All enemies are used except for Wolfenstien soldiers. Also, do to its size, this level takes at least 10 MINUTES to get through with NO CODES.",
+	"version": "8b9180",
+	"date": "2014-12-18 23:12:44",
+	"files": [
+		{
+			"filename": "evil.wad",
+			"size": 162588,
+			"crc": 2848731024,
+			"md5": "3165a22416370a9c7f56ce3267e665d7",
+			"sha1": "8b918098c053a74456e291bd37793703175e4bc6",
+			"sha256": "76d3f6a6712d24e5c5c97816d4226e6e88d045deddf2756a10dcc812ea2de73e"
+		}
+	]
+}

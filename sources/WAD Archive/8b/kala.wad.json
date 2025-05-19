@@ -1,0 +1,16 @@
+{
+	"uid": "kala.wad",
+	"name": "Kala",
+	"description": "Break out of an underground prison and fight to the surface in this 8 level map set for Ultimate Doom",
+	"date": "2017-11-27 12:34:13",
+	"files": [
+		{
+			"filename": "kala.wad",
+			"size": 2203013,
+			"crc": 2503128557,
+			"md5": "9d8ada87834827dd23dc69d2ac6075c6",
+			"sha1": "8b3ba8f10110e8589bfc14bdd7a8511bd3080b71",
+			"sha256": "54669b802d3923c930aa1764221b58b2b3e87923b8f8c890c5d0a7dc32927aa4"
+		}
+	]
+}

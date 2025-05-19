@@ -1,0 +1,16 @@
+{
+	"uid": "hacxport.wad",
+	"name": "HACXPORT",
+	"description": "Play HacX in high resolution with the following Source Ports: ZDoom, MBF, SMMU. (glLegacy, Legacy, Boom and PRboom can be used but requires a minor modification - see notes below).",
+	"date": "2015-09-15 13:53:09",
+	"files": [
+		{
+			"filename": "hacxport.wad",
+			"size": 126442,
+			"crc": 3427208208,
+			"md5": "023b4da7679185c3debeccf966c11be6",
+			"sha1": "a52fa56060b7cf7cb3565e0a2c260c62c577f966",
+			"sha256": "8f5d2a8dfd0290dbf0adf622d3a7ead3435a1ac5f87148502aec67bb9ecc08ce"
+		}
+	]
+}

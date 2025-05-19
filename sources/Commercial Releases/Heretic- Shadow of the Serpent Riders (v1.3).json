@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Heretic: Shadow of the Serpent Riders (v1.3)",
+	"name": "Heretic",
+	"description": "Commercial release, contains episodes 1-5",
+	"version": "v1.3",
+	"files": [
+		{
+			"filename": "HERETIC.WAD",
+			"date": "1996-03-22",
+			"size": 14189976,
+			"crc": "5b16049e",
+			"md5": "66d686b1ed6d35ff103f15dbd30e0341",
+			"sha1": "f489d479371df32f6d280a0cb23b59a35ba2b833"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "Catalyst.wad",
+	"name": "Catalyst",
+	"description": "A tech-themed map for Doom to commemorate the twentieth anniversary of its release.",
+	"date": "2014-12-14 20:50:05",
+	"files": [
+		{
+			"filename": "Catalyst.wad",
+			"size": 494772,
+			"crc": 596540586,
+			"md5": "bb1eedb036761ac03b11bc6ebd289611",
+			"sha1": "34bbc515537239f229d3858c5953b9d071a783d1",
+			"sha256": "2fde27cba4d97be99800aabcc8bf3659d61e57fefa4703a8ee51ca63cf779fcb"
+		}
+	]
+}

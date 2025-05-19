@@ -1,0 +1,17 @@
+{
+	"uid": "allhell (c51a4d).wad",
+	"name": "When All Hell Breaks Loose",
+	"description": "Very non-linear map.",
+	"version": "c51a4d",
+	"date": "2014-12-21 15:14:12",
+	"files": [
+		{
+			"filename": "allhell.wad",
+			"size": 204141,
+			"crc": 4137779337,
+			"md5": "c61efbf7660b890a55b509ec034fd292",
+			"sha1": "c51a4d7d87b87992b51dae958693dbf0784a4529",
+			"sha256": "13280f17816450095ad4dfb7a9672019e55a50a42dcc56dc8eed80a2631d92fc"
+		}
+	]
+}

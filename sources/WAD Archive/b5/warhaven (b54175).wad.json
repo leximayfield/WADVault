@@ -1,0 +1,17 @@
+{
+	"uid": "warhaven (b54175).wad",
+	"name": "WARHAVEN.WAD",
+	"description": "A DeathMatcher's Dream!! This Haven of Heroes delights the visitor with the cool waters of a sun-sparkling pool of green to a Great Hall of majestic proportions. Feel free to visit the Three Tanning Towers and the mythical Tunnel of Stone - if you can find it.",
+	"version": "b54175",
+	"date": "2014-12-03 20:25:10",
+	"files": [
+		{
+			"filename": "warhaven.wad",
+			"size": 121270,
+			"crc": 467576781,
+			"md5": "769bbbdb2c2f77076c7a2f561a5b8080",
+			"sha1": "b54175ebda687ce720819c6f5916201a93c5561d",
+			"sha256": "93915b0f2786ec39a729fdc986c33c14f56385508ebb115520ad232d4b7cfb05"
+		}
+	]
+}

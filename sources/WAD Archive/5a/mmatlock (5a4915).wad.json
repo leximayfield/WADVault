@@ -1,0 +1,17 @@
+{
+	"uid": "mmatlock (5a4915).wad",
+	"name": "Mega MatlocK",
+	"description": "See above.",
+	"version": "5a4915",
+	"date": "2014-01-07 22:03:14",
+	"files": [
+		{
+			"filename": "mmatlock.wad",
+			"size": 528260,
+			"crc": 2720134655,
+			"md5": "18a469aca2de6f6a26edbd86be5f2ff2",
+			"sha1": "5a4915b74120a9d6449a9b8ec3d1a504cb884a6b",
+			"sha256": "35cbb531af0da5dc8f7f3f936f04da8cb061925f53414e8c18fa2c79542492a6"
+		}
+	]
+}

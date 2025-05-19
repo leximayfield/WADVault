@@ -1,0 +1,17 @@
+{
+	"uid": "zdm_14 (a5f8e9).wad",
+	"name": "ZMatch 2014",
+	"description": "We're all oldschool deathmatch lovers who make maps - Hope you enjoy! Item Respawn and Weapons Stay DMFLAGS reccomended.",
+	"version": "a5f8e9",
+	"date": "2014-03-01 11:58:58",
+	"files": [
+		{
+			"filename": "zdm_14.wad",
+			"size": 1484221,
+			"crc": 1492602647,
+			"md5": "14d9f17742382da125088dfb2375804f",
+			"sha1": "a5f8e905208b1bd484839634924dc1101fe2b1ba",
+			"sha256": "fa83a48aae796d4e85858aa60b2341e6cb2fbb72cc39724bdc1dec59f863f7ed"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "a_core.wad",
+	"name": "The Core",
+	"description": "A large, detailed UAC base, with some Hell stuff A remake of an unreleased map of mine, It turned into an experiment to see what I could do with some of the newer features gzdoom has, like UDMF and 3d floors.",
+	"date": "2014-12-21 15:05:13",
+	"files": [
+		{
+			"filename": "a_core.wad",
+			"size": 17764652,
+			"crc": 400103417,
+			"md5": "6e2f7d7a0460e040cf6c850e7838770a",
+			"sha1": "6c3af57e125d863536ec4be1d2041e5ae8552f01",
+			"sha256": "f52f99703d66f492334605f6b46f8fa8b2a99c11ed3a4424df70d26fdc855436"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "viper (dc8cff).wad",
+	"name": "viper.WAD",
+	"description": "Essentially a drop in replacement for E1M1, although it includes some nasty traps, and 100% kills is not easy to achieve on Ultra Violence. This is not a 7 spiderdemons type level, It doesn't include anything tougher than a demon, but if you just charge through blindly you won't come out too well.",
+	"version": "dc8cff",
+	"date": "2013-11-02 15:06:07",
+	"files": [
+		{
+			"filename": "viper.wad",
+			"size": 26920,
+			"crc": 3339635802,
+			"md5": "87b130e54eaa927a65457570fdc24b6d",
+			"sha1": "dc8cffb92dbf36a37455b4d589d35693d1cd3183",
+			"sha256": "1cf1918651e8989807ac464894529f952ac78967308b0c3f4070b59f0b25d114"
+		}
+	]
+}

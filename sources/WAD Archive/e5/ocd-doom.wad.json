@@ -1,0 +1,16 @@
+{
+	"uid": "ocd-doom.wad",
+	"name": "OCD-Doom",
+	"description": "These levels are moderately small and use the voodoo doll bug. Also this is VERY linear!",
+	"date": "2015-09-14 20:29:07",
+	"files": [
+		{
+			"filename": "ocd-doom.wad",
+			"size": 7618074,
+			"crc": 2727639229,
+			"md5": "daae3ca9acd11ea83cf25a4c9deb800f",
+			"sha1": "e54997eb76500c018d3a1cd9546447e45deefaf8",
+			"sha256": "27ac5b401444fe6098243d8ad17f7943e42cd116ed0ad9a8d4e20286f6ebac8b"
+		}
+	]
+}

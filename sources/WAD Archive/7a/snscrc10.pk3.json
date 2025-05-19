@@ -1,0 +1,16 @@
+{
+	"uid": "snscrc10.pk3",
+	"name": "SansCarcass v1.0",
+	"description": "Adds an empty TNT1 sprite after the last frame of monster and player death sequences, thus making the dead bodies invisible. Intended for Invasion games where hundreds of bodies clutter the floor.",
+	"date": "2014-12-11 22:20:01",
+	"files": [
+		{
+			"filename": "snscrc10.pk3",
+			"size": 1793,
+			"crc": 1071443520,
+			"md5": "c5161a143797a8e4c4c1ce5c878bca77",
+			"sha1": "7ade001797e05858d14f5e0c8f0018024aee5a57",
+			"sha256": "2ffd6aba71277afa162d6f82676933e2fc511d3e5fffabac61105f4b39921c56"
+		}
+	]
+}

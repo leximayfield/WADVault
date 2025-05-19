@@ -1,0 +1,16 @@
+{
+	"uid": "GRIND2X.wad",
+	"name": "Grind2X",
+	"description": "A new, monster-filled version of Grind2.wad with a few extra features that are spice up the level a bit; like the camera.",
+	"date": "2014-12-24 19:01:06",
+	"files": [
+		{
+			"filename": "GRIND2X.wad",
+			"size": 320155,
+			"crc": 1255088584,
+			"md5": "bd1228e848a0a1a200e3bf6aca59673d",
+			"sha1": "6e0d6ff591ca726fee76a63a53cf277977f0bd84",
+			"sha256": "7ea97ee3b9f88a368df282fbe291ddc6a0b64c4ba48951ab750b039c13ac545f"
+		}
+	]
+}

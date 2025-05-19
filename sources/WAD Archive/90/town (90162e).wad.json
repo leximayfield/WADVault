@@ -1,0 +1,17 @@
+{
+	"uid": "town (90162e).wad",
+	"name": "Town of Death (Gee, thats original :))",
+	"description": "You are in a town, with a guard tower, lots",
+	"version": "90162e",
+	"date": "2014-12-13 17:34:24",
+	"files": [
+		{
+			"filename": "town.wad",
+			"size": 98200,
+			"crc": 3087505577,
+			"md5": "3caf4b8bb056a6f0eda05ce45d850901",
+			"sha1": "90162e4f27a695953568e3c96aa182d72a0df9f5",
+			"sha256": "1e815fadbeb9c3d98c3665eee5f06aeac4bee7e37fe89c7259f4c58f85c6dc2b"
+		}
+	]
+}

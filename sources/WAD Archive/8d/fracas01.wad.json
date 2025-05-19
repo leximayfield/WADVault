@@ -1,0 +1,16 @@
+{
+	"uid": "fracas01.wad",
+	"name": "Fracas 01: \"'A' Is For Anarchy\"",
+	"description": "mid-sized WAD with emphasis on large, fast-paced fights. No tedious puzzles or absurd deathtraps, but there are a couple of surprises to keep you on your toes.",
+	"date": "2014-12-18 22:37:39",
+	"files": [
+		{
+			"filename": "fracas01.wad",
+			"size": 70461,
+			"crc": 3546444712,
+			"md5": "9e62d86336db00bbe74b5e8503457fa2",
+			"sha1": "8d4a5cb38c5de2c9716e8691fd2a76901a67eb95",
+			"sha256": "3b6612d6c4a5db41e24ab094e14a2521fde5bbbaa9d754c539aa301bd0588267"
+		}
+	]
+}

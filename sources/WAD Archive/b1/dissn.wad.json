@@ -1,0 +1,16 @@
+{
+	"uid": "dissn.wad",
+	"name": "Dissonance",
+	"description": "Heretic: Dissonance is a level conjured inside (and out) of a Fortress built at the edge of D'sparil Dimension, You (Corvus) must find away through the treacherous building in hopes to find a switch, or some line segment that will free you from its grasp. Lame Story right? meh.. Its just a level to see if I could still do it, and I can. So I had done some more designing too, such as pixel by pixel sectors to cover the black on the stainglass, and imported monsters and custom hacks but only zdoom supported it ( and some with new doomsday betas ) but i'd prefer a level in which everyone can play by just loading it in their fav source ports. Notes: There are some sprites and stuff that take advantage of Dengine techniques that may not make sense or display a little funky in Zdoom Vavoom or Whatever, but its a Jheretic thing, you Zdoomer's wouldn't understand :) The lights (and time consuming as it was) are sector made for Zdoom and other non-flashy (but always work with anything and everything source ports) that seem trivial in JHeretic, but shows time, dedication, and effort of modern conception of sector based limited lighting, you JHeretic people wouldnt understand :) This Wad may be used in conjunction with any high-res texture packs, however if you use Doomsday 1.8.6, only the high-res flats will show up, don't judge me on that email me: I'd love some comments or whatever, maybe LAN?",
+	"date": "2014-12-30 11:24:04",
+	"files": [
+		{
+			"filename": "dissn.wad",
+			"size": 3402772,
+			"crc": 3756295374,
+			"md5": "7d7b6eace21df77b61e0722eb5e6bd3b",
+			"sha1": "b10df143e28457025f1086a728ad50b478fde2de",
+			"sha256": "625b16033697cb7dd268a2352b3a3ea2955e91f0ec5a3431d16fab8d8282faf7"
+		}
+	]
+}

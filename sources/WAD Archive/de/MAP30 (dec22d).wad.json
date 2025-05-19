@@ -1,0 +1,17 @@
+{
+	"uid": "MAP30 (dec22d).wad",
+	"name": "MAP30.WAD",
+	"description": "This level is similar to map 30 in the original DOOM II. You get armed to the teeth and blow away the Icon of Sin. I got the textures of the boss right on the first try!",
+	"version": "dec22d",
+	"date": "2015-09-14 23:01:30",
+	"files": [
+		{
+			"filename": "MAP30.wad",
+			"size": 22381,
+			"crc": 975974605,
+			"md5": "df176e828b599525350649e784175cea",
+			"sha1": "dec22d15c647b1a37d592f3a6c414fd650931f67",
+			"sha256": "7ca04c07cc3210684836fab5ddc5620db027032ea8392929ecf6de4f160a47f2"
+		}
+	]
+}

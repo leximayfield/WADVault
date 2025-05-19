@@ -1,0 +1,17 @@
+{
+	"uid": "bossarena (e5dac1).wad",
+	"name": "the Arsenal",
+	"description": "Your in a base when you see all of your marines dead. You pick up behind your spot and see what did this and what caused it. You get your lazy butt up and before you know it something has came to you",
+	"version": "e5dac1",
+	"date": "2014-12-29 17:07:14",
+	"files": [
+		{
+			"filename": "bossarena.wad",
+			"size": 122547,
+			"crc": 3000587859,
+			"md5": "39931a6b09e5eb2d76285273c204b032",
+			"sha1": "e5dac1cf5b36d9dda03a9b69aba30096bb2fa5f6",
+			"sha256": "e281b09bcc4a8e11920852e5a4b31683578a7495eb0aa7b7e170b7d8fdb4f7ea"
+		}
+	]
+}

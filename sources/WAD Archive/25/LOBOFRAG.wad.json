@@ -1,0 +1,16 @@
+{
+	"uid": "LOBOFRAG.wad",
+	"name": "Lobofrag for DOOM ][ Deathmatch (V. 1.1)",
+	"description": "Lobofrag.wad is a small (ish) deathmatch level designed for continuous action and lots of frags. The level was carefully constructed to compliment the frag count with gameplay and tactics - not Cyberdemons and BFG's ;)",
+	"date": "2014-10-14 20:56:17",
+	"files": [
+		{
+			"filename": "LOBOFRAG.wad",
+			"size": 72021,
+			"crc": 67112267,
+			"md5": "3fa4780b94d509479a9a1bd99b536ef7",
+			"sha1": "2545fcd6361cd0ebeb6b2366edd09fa28245d35a",
+			"sha256": "335773f3b1ddde0d64b03478331143e23f43a46a9c0e233acfbcbd31dc5c2b94"
+		}
+	]
+}

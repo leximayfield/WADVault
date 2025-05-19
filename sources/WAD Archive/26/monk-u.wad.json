@@ -1,0 +1,16 @@
+{
+	"uid": "monk-u.wad",
+	"name": "Monk-u.zip",
+	"description": "Deathmatch level for Doom 2, Replaces Level 1. Take note: you must remove the -nomonsters in yer args in order for the sound effects to work :)",
+	"date": "2014-12-15 22:49:44",
+	"files": [
+		{
+			"filename": "monk-u.wad",
+			"size": 653293,
+			"crc": 1099894890,
+			"md5": "b56788f33fe5010c3f3567adab5b5d51",
+			"sha1": "2635565bc696a1f0a62368610fceb859f3cc75fa",
+			"sha256": "f67cf30f9a207c7925e27a723cd570ad5da6347c441d77c1800c40827a7c48a5"
+		}
+	]
+}

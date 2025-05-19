@@ -1,0 +1,17 @@
+{
+	"uid": "spacelab (849694).wad",
+	"name": "Spacelab",
+	"description": "3 level WAD. Quite a lot of attention given to the appearence of the levels",
+	"version": "849694",
+	"date": "2015-01-14 14:39:49",
+	"files": [
+		{
+			"filename": "spacelab.wad",
+			"size": 257176,
+			"crc": 412365791,
+			"md5": "cc67d86397f8839012b920a577670443",
+			"sha1": "8496942da220d6dbf18f94663365ea37c5b573df",
+			"sha256": "811c19d8b6a32ee0503c82a80a0d2f709fb6841d75de7ce8c9bed87ef4fbf52f"
+		}
+	]
+}

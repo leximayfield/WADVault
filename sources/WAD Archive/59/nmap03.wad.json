@@ -1,0 +1,16 @@
+{
+	"uid": "nmap03.wad",
+	"name": "Nostalgic: MAP03",
+	"description": "This is from a larger project that my friend (who is also working on it) called Nostalgic, for no apparent reason.",
+	"date": "2015-09-15 16:35:02",
+	"files": [
+		{
+			"filename": "nmap03.wad",
+			"size": 73170,
+			"crc": 1526290366,
+			"md5": "6aba5824c4754895878b44c584aa36a6",
+			"sha1": "597ca44cc2a1b06e6af5a6ce565faeab033ecfed",
+			"sha256": "d5ae2f706db8c217ae401f592b3e17142b57ce55ba99da516b896e895ae44fcd"
+		}
+	]
+}

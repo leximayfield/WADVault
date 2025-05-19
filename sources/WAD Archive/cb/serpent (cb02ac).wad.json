@@ -1,0 +1,17 @@
+{
+	"uid": "serpent (cb02ac).wad",
+	"name": "SERPENT.WAD",
+	"description": "Designed specifically for a DEATHMATCH, because it's the only way I like to play DOOM.",
+	"version": "cb02ac",
+	"date": "2014-01-07 22:13:52",
+	"files": [
+		{
+			"filename": "serpent.wad",
+			"size": 164720,
+			"crc": 1004314242,
+			"md5": "aeaea9d72a8a667ec4e733b52afd238b",
+			"sha1": "cb02acc823893038733165940c91a5f956a15233",
+			"sha256": "f64e327574b03c17f156dd8e85214d709ff7f7061aa61ec35092183cf3700e24"
+		}
+	]
+}

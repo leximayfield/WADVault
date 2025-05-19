@@ -1,0 +1,17 @@
+{
+	"uid": "rings (798a89).wad",
+	"name": "Rings",
+	"description": "Four lanes, run around kill each other. Deathmatch only... there are player starts if you want to cheat and find the the secrets. Watch the demo, it shows you how to get into the control room and which button not to press.",
+	"version": "798a89",
+	"date": "2015-12-07 11:40:24",
+	"files": [
+		{
+			"filename": "rings.wad",
+			"size": 89571,
+			"crc": 1367151122,
+			"md5": "af2cd2faf8282bb589354da6b2573684",
+			"sha1": "798a890e184a3eba1b6381d7a41567e0a2f865b2",
+			"sha256": "d63954d49e6f634e1f968862f4bf10341dea2459f15e50a87d2dbd357a6bc88b"
+		}
+	]
+}

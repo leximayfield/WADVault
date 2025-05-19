@@ -1,0 +1,16 @@
+{
+	"uid": "misktrip.wad",
+	"name": "Miskatonic Trip",
+	"description": "This is a five level mini-episode for Doom 2, Map01,02,04,05 are made from scratch except Map03 which is one I have made before but I didn't release it. Miskatonic Trip: You have been called in the middle of the night to do some Demon-cleansing in some UAC base located closer to your neighborhood. You will have to travel right there on your own and taking down any demon opposition along your way.",
+	"date": "2018-02-15 20:48:30",
+	"files": [
+		{
+			"filename": "misktrip.wad",
+			"size": 1502418,
+			"crc": 1282821873,
+			"md5": "cb3f20785297842933f2f6f9a89e27cf",
+			"sha1": "7f85454b31c42fa6f9a195e93f79f616d794bf94",
+			"sha256": "f83482d514c67b1900139e588a5680e7b4592acec21e181cf845f849c8a028c8"
+		}
+	]
+}

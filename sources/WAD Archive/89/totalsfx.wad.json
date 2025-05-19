@@ -1,0 +1,16 @@
+{
+	"uid": "totalsfx.wad",
+	"name": "TOTALSFX.WAD    101 sounds for DOOM II",
+	"description": "Replaces most sounds for DOOM II (not just sounds common to DOOM I and DOOM II). I created two sound wads for myself but mixed them together (quite literally) to make this one for the Internet. Its big cause lots of the sounds are real long. I've also gotten rid of those 'tick' noises so many sound wads have in them. They really piss me off. I suggest getting the new version of DMAUD from CDROM (DMAUD11C.ZIP) as NWT has a few problems handling the larger sounds. So, rip this wad apart, add your own favorites, smoke a big bomber, and catch some UV.",
+	"date": "2015-09-15 17:59:49",
+	"files": [
+		{
+			"filename": "totalsfx.wad",
+			"size": 3620328,
+			"crc": 518158140,
+			"md5": "0b5337ca0184e069b9a3e30f7f0586d9",
+			"sha1": "894ade6fe290c5e3c77ddbeaf3b5d2359211a293",
+			"sha256": "8ed3503c0363f99e748486c22976570461e2e54ff1b5d2ad7d2d3d576723c6d1"
+		}
+	]
+}

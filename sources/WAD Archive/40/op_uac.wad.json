@@ -1,0 +1,16 @@
+{
+	"uid": "op_uac.wad",
+	"name": "Operation UAC - Chapter 1",
+	"description": "A Brutal Doom experience with triggered events, detailed maps, themed levels and an abundant of custom content such as Music, Monsters and Textures.",
+	"date": "2015-09-14 21:46:09",
+	"files": [
+		{
+			"filename": "op_uac.wad",
+			"size": 61799173,
+			"crc": 3146181847,
+			"md5": "dbaeefef751ae85e07adead777798737",
+			"sha1": "4014e6b33c7deabd01d1567ac12e875c9f2f72fc",
+			"sha256": "77238df8314a51f42e53fdf4bc5b38aa937a6fc5a68a0b4b3196dc3bda7b5dbe"
+		}
+	]
+}

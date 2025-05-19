@@ -1,0 +1,17 @@
+{
+	"uid": "coopers (b54eb1).wad",
+	"name": "Cooper's Creosote",
+	"description": "This is a very large wad (about 230k), mainly because of all the detail I put in. I would have released it a lot earlier, but I had to wait for the GCC version of DEU when it got too big. Then, I had to wait for Doom 1.4 when it got too complex. But now I have got everthing finished, and if you run it as described should be no HOMs, etc., unlike some... It will probably run slow in places on less than a DX2, but I had to comprimise for quality. I hope that I have made this level fun to play as well as good to look at, but only you can decide that.",
+	"version": "b54eb1",
+	"date": "2015-12-07 08:26:18",
+	"files": [
+		{
+			"filename": "coopers.wad",
+			"size": 233613,
+			"crc": 3466419058,
+			"md5": "7e1f0272665b3e900822d63c5c50a8c7",
+			"sha1": "b54eb13971db5d2389f9588c866379aa571bf51f",
+			"sha256": "b823b77ebb82c5aafb69ab31c8ce87e645d301da85260deb63536e2eb9caee7e"
+		}
+	]
+}

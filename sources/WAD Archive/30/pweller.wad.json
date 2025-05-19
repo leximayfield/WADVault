@@ -1,0 +1,16 @@
+{
+	"uid": "pweller.wad",
+	"name": "(Once Again) Paul Weller: The Changing Zombie",
+	"description": "Paul Weller sound patch. I made them from WAV files my brother downloaded. They were sitting around on the disk, so I decided to use them.",
+	"date": "2015-09-14 21:08:43",
+	"files": [
+		{
+			"filename": "pweller.wad",
+			"size": 247436,
+			"crc": 3045326284,
+			"md5": "d898481d33bc3362986d760ca730566c",
+			"sha1": "30aecac570d51cc2e494f96850e6aa2e0cfb8c07",
+			"sha256": "8d139c9ded7d3a594734a83e9af82a7799f49b99713c09d5df08f8c4cfa38409"
+		}
+	]
+}

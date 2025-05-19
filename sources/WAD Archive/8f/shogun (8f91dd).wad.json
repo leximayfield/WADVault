@@ -1,0 +1,17 @@
+{
+	"uid": "shogun (8f91dd).wad",
+	"name": "Shogun",
+	"description": ": Basically, a circular design with connecting : hallways through the middle, and a few side : hallways. All the weapons are here, and : unlike some deathmatch wads, there are many : areas where fighting is common. Lots of : ways to back door your targets!",
+	"version": "8f91dd",
+	"date": "2014-12-03 20:01:29",
+	"files": [
+		{
+			"filename": "shogun.wad",
+			"size": 35019,
+			"crc": 3480130222,
+			"md5": "5fd6091d733bc29d291dce4edd96fb34",
+			"sha1": "8f91dde0424fce4c4cc40da9aeddfb74493585e4",
+			"sha256": "e464f306500bd6be12d48495f9791fb2703b62abd7ce0b42b5098ef1c954426b"
+		}
+	]
+}

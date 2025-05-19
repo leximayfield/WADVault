@@ -1,0 +1,17 @@
+{
+	"uid": "goomba (d55534).wad",
+	"name": "Goomba",
+	"description": "A Doom new level map for E1M1",
+	"version": "d55534",
+	"date": "2014-12-13 12:46:43",
+	"files": [
+		{
+			"filename": "goomba.wad",
+			"size": 13465,
+			"crc": 2475880547,
+			"md5": "698267017f080ce3b707ada5b1a86865",
+			"sha1": "d5553400fca3b94b04a4d6e2bef7d18c53879c4e",
+			"sha256": "07efafae30b51dd07424b826b0fbef65c7362902065670397cdb6b8a44a83987"
+		}
+	]
+}

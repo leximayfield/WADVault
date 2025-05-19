@@ -1,0 +1,16 @@
+{
+	"uid": "hexndm.wad",
+	"name": "HeXen Doom",
+	"description": "Based on the concept of interlevel teleports from HeXen",
+	"date": "2014-12-18 23:09:41",
+	"files": [
+		{
+			"filename": "hexndm.wad",
+			"size": 51216,
+			"crc": 26476080,
+			"md5": "ab9273a00a5529b98cb788c1256fced0",
+			"sha1": "1bba230b774537129d2e81b8bb025e9dbeeaf8ec",
+			"sha256": "a3121f5a271ab40e810776049a31440b01f8bba68585e10e624a348bf1bc0926"
+		}
+	]
+}

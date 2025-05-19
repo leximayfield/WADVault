@@ -1,0 +1,17 @@
+{
+	"uid": "ichiban (3b18da).wad",
+	"name": "Ichiban",
+	"description": "Another ZDoom DM map. I have been watching too much anime.",
+	"version": "3b18da",
+	"date": "2014-12-15 21:25:45",
+	"files": [
+		{
+			"filename": "ichiban.wad",
+			"size": 2273013,
+			"crc": 595398120,
+			"md5": "834c37a5638cab6423f435a637960ed4",
+			"sha1": "3b18da8b3169412161facba5bf154d1559c84e48",
+			"sha256": "aad84865255696e4370c21bf88282023e82cb1a177abc4142c3f373371f42a32"
+		}
+	]
+}

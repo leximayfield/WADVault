@@ -1,0 +1,17 @@
+{
+	"uid": "LEDGES-H (239374).wad",
+	"name": "LEDGES-H.WAD",
+	"description": "This wad is designed for use with the DEATHMATCH 2.0 rules. This patch file is for E1M1-M4. This is the famous LEDGES series converted for HERETIC !!!",
+	"version": "239374",
+	"date": "2013-11-06 22:54:19",
+	"files": [
+		{
+			"filename": "LEDGES-H.wad",
+			"size": 155439,
+			"crc": 335677065,
+			"md5": "f336e4f25d4c70ee340c672043af21d3",
+			"sha1": "2393742920a3b0e2b7f1141c76aff3c8b5e0e15d",
+			"sha256": "85b25add09e1ae04e0d75d9e3a4b0b9427bff88c6d675c9070da08e23be8ee9b"
+		}
+	]
+}

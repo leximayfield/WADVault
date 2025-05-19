@@ -1,0 +1,17 @@
+{
+	"uid": "HAPYWAD2 (c9f3fd).wad",
+	"name": "Happy.wad    (For Doom 2)",
+	"description": "An open area with a tower, a building in the north, and one in the west... it has a few secrets but they're not real hard to get to unless you're playing deathmatch which this level is designed for",
+	"version": "c9f3fd",
+	"date": "2014-02-15 16:45:06",
+	"files": [
+		{
+			"filename": "HAPYWAD2.wad",
+			"size": 443695,
+			"crc": 208721367,
+			"md5": "3ad64bc2581f67cf61a691fa6b82c255",
+			"sha1": "c9f3fd03f2b1b1446e779ae927e4afb394cb7196",
+			"sha256": "e0e1e1020e60cdae5c79aaf17f591db50ca9530f423d527bf2926db2d9acadbd"
+		}
+	]
+}

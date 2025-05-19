@@ -1,0 +1,16 @@
+{
+	"uid": "an_coop.wad",
+	"name": "Annihilation",
+	"description": "One of the best WADs I ever created. Works great as a single player and Cooperative game.",
+	"date": "2014-12-15 22:21:17",
+	"files": [
+		{
+			"filename": "an_coop.wad",
+			"size": 127518,
+			"crc": 3590293274,
+			"md5": "3f78147d81b7fbf01c3bcacf6c641c9d",
+			"sha1": "f2acf42cffa305192008e305eca820b82f357f4a",
+			"sha256": "efbf28e3dd6cafc30ded074e7bf694ef875f2fbb127c5796d123f6f0d96d356e"
+		}
+	]
+}

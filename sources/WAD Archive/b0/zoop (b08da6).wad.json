@@ -1,0 +1,17 @@
+{
+	"uid": "zoop (b08da6).wad",
+	"name": "ZOOP .6 beta. Full release will include a Doom2 WAD. Should happen this week.",
+	"description": "Burnt out crater, with surrounding hallway. Deathmatch only, no monsters, but suitable weapons. Doom : Early teleporter testing sight. Heretic : Cool crater, no plot. Doom2 : This ones coming, sit tight.",
+	"version": "b08da6",
+	"date": "2014-12-03 19:59:39",
+	"files": [
+		{
+			"filename": "zoop.wad",
+			"size": 29966,
+			"crc": 424455473,
+			"md5": "20290eab6378a0cce226406c434021d5",
+			"sha1": "b08da60eef5520e12a5515298e18ea83c25064af",
+			"sha256": "315a17b46b2a8dd5300e87cd254806c2b3b7b3553c21a4c48a09f068dfaee16a"
+		}
+	]
+}

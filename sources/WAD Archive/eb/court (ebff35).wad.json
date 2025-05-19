@@ -1,0 +1,17 @@
+{
+	"uid": "court (ebff35).wad",
+	"name": "The Courtyard  \"COURT.WAD\"  for DOOM ][",
+	"description": "The Courtyard is designed for multiplayer Deathmatch! There is no monsters to interupt you from crushing your opponent(s). There are a lot of places to shoot from and some one-way walls to hide behind. All the weapons (minus the shotgun, but who needs it when you have the Super-shotgun!) but the BFG & Rocket Launcher aren't to easy to get, that is with-out leaving yourself open to the other players!",
+	"version": "ebff35",
+	"date": "2013-11-03 17:44:41",
+	"files": [
+		{
+			"filename": "court.wad",
+			"size": 76408,
+			"crc": 2827417274,
+			"md5": "d9b399dc31bebba1c4681a0b1d0155bd",
+			"sha1": "ebff35e640e1732306c6a8520836d76826342194",
+			"sha256": "2bc596d8936f269a5f2989da87ea4466994a9d49fb4119cde1217fc2c05a58d0"
+		}
+	]
+}

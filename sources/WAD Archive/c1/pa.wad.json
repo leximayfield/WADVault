@@ -1,0 +1,16 @@
+{
+	"uid": "pa.wad",
+	"name": "Pepsi Apocalypse",
+	"description": "Do you like a soda-themed level? Here you have it; Pepsi Apocalypse. It has a lot of red, gray, and blue to match the colors of a Pepsi logo. Music is \"Wicked Child\" from Castlevania. Credit goes to Chris Balch for the Slaughterfest 2012 thread that included the textures that I used, which include sf2012-tex, cc4-tex, GOTHICTX, q1tex, and NB_RECOL, as well as for the title screen and the intermission. Additional credit goes to the person who made level 39 from Chillax because this level is inspired by it.",
+	"date": "2017-08-18 20:59:01",
+	"files": [
+		{
+			"filename": "pa.wad",
+			"size": 27866218,
+			"crc": 2336277432,
+			"md5": "1842538bd8c7b76bfe5ea3db0e0b49bd",
+			"sha1": "c14243a91b9b0223197fcab5323375e23b100310",
+			"sha256": "a4847f44898391ebfbc63d7f146597812511f42d5ab47393e5ec6024d8c5b4a7"
+		}
+	]
+}

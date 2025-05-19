@@ -1,0 +1,17 @@
+{
+	"uid": "tanash2 (8a2586).wad",
+	"name": "City of Tanash",
+	"description": "City of Tanash is the necromantic hub of the so-called Sorceror's World, where many scientific principles do not apply. Can you survive the wizards and warriors?",
+	"version": "8a2586",
+	"date": "2014-01-07 21:44:09",
+	"files": [
+		{
+			"filename": "tanash2.wad",
+			"size": 177868,
+			"crc": 2919640150,
+			"md5": "fec739c1b3af9627217df45878798332",
+			"sha1": "8a258642bb6f07c1bd2dde3fda4b0a5b555c0b94",
+			"sha256": "c860a9aed1fcab592a681844d5482ee60117258a35184dd7c5e315fc7b87fb55"
+		}
+	]
+}

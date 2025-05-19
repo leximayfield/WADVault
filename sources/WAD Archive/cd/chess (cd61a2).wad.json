@@ -1,0 +1,16 @@
+{
+	"uid": "chess (cd61a2).wad",
+	"name": "Chess, Hades-style",
+	"version": "cd61a2",
+	"date": "2014-12-13 17:42:25",
+	"files": [
+		{
+			"filename": "chess.wad",
+			"size": 161853,
+			"crc": 1585561738,
+			"md5": "4396d60f6e04ff194f1a849a841c5341",
+			"sha1": "cd61a2ff950c71332e2c5325c5b453dbb2903657",
+			"sha256": "aa4887c1a6167c620e3fe76e009e0edd5fc2c7f52f8b9af2e1c642d0d3d41d7b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tpbm (48626a).wad",
+	"name": "Thy PrBoom Maps",
+	"description": "Thy PrBoom Maps was to be a 1 man made megawad (all maps done by me) but that failed, then I tried to make it a community project but that failed so in the end I canned the whole thing and will just release the cancelled wad for sake of closure. It adds new textures, music, maps and sprites (and a new weapon over the pistol slot) and if anyone wants to finish what I started then go ahead. 17 out of 32 maps were complete (16 regular, 1 secret) and it would be a shame just to abandon them.",
+	"version": "48626a",
+	"date": "2019-03-19 23:57:32",
+	"files": [
+		{
+			"filename": "tpbm.wad",
+			"size": 9458999,
+			"crc": 423399171,
+			"md5": "d67d3e05390bfd280d42fc294d6f9694",
+			"sha1": "48626ab04f6a82247854b397776e237a03c8e56d",
+			"sha256": "49ed01e00e9cbba468108824063ba61313997d5bb877cd7f63552392ecf6960c"
+		}
+	]
+}

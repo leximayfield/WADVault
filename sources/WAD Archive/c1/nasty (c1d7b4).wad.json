@@ -1,0 +1,17 @@
+{
+	"uid": "nasty (c1d7b4).wad",
+	"name": "Nasty and annoying",
+	"description": "A quite difficult wad file full of annoying things and lots of monsters to blast",
+	"version": "c1d7b4",
+	"date": "2015-09-15 18:09:00",
+	"files": [
+		{
+			"filename": "nasty.wad",
+			"size": 85147,
+			"crc": 3679274053,
+			"md5": "f38fdfb6c3a5f4972c342603a9b6feca",
+			"sha1": "c1d7b4e4d22951cd7e03747a811ae18f3eeda879",
+			"sha256": "3d2cd1ea5a011860732aed447e3478057198b706f9d606b0c9fac98526f01d66"
+		}
+	]
+}

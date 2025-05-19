@@ -1,0 +1,16 @@
+{
+	"uid": "gkdm6 (306a9a).wad",
+	"description": "2 player DOOM ][ DeathMatch only wad designed with DM 1.0 in mind. All weapons are in interesting places, there's no cheap shit (MegaSpheres, SuperCharges, etc...), all DeathMatch starts are by weapons (to avoid looking for a weapon frags), and some thought actually went into the design, it was NOT just thrown together.",
+	"version": "306a9a",
+	"date": "2016-02-07 20:34:26",
+	"files": [
+		{
+			"filename": "gkdm6.wad",
+			"size": 52383,
+			"crc": 828239464,
+			"md5": "bd884cb2da71cb7ba77ed1b3d56ef042",
+			"sha1": "306a9a7276416e64f22423c5e4c4d1ef97a12510",
+			"sha256": "a094bd31d3e35cfeeec9324584a429ac61b3b541679d5cbc0aa3709ac6272a2f"
+		}
+	]
+}

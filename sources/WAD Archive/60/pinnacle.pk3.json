@@ -1,0 +1,16 @@
+{
+	"uid": "pinnacle.pk3",
+	"name": "Pinnacle of Darkness",
+	"description": "Large hell/gothic themed map for GZDoom. Works best with the latest dev builds of GZDoom as of release - June 2015.",
+	"date": "2015-09-15 17:57:04",
+	"files": [
+		{
+			"filename": "pinnacle.pk3",
+			"size": 10280055,
+			"crc": 523182052,
+			"md5": "086e4f143e17b2c465b94959786f37e1",
+			"sha1": "60d981fdb416480efa552891c715aff6a13439bb",
+			"sha256": "043d22c8175e490827e9b2f3c1beefb50c944aac03bca4220f71ab7dd7b3ecdb"
+		}
+	]
+}

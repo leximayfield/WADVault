@@ -1,0 +1,17 @@
+{
+	"uid": "training (398b66).wad",
+	"name": "Space Marine Training Facility",
+	"description": "The leaders of the Federation anticipating the possibility of an assult by the Denziens of Hell have constructed a training facility. The facility has been stocked with all weapons and plenty of ammo to train a marine in the use of various firepower. The Federation has also simulated, to the best of their knowledge, various beasts. Little is known about the creatures, so there might be more formidable foes awaiting in the real attack. The facitlity was built on the premise that 4 marines could simulate battle with each other, because the limited knowledge of the beasts makes for them to be rather predictable opponents.",
+	"version": "398b66",
+	"date": "2013-11-02 15:40:41",
+	"files": [
+		{
+			"filename": "training.wad",
+			"size": 75947,
+			"crc": 562614889,
+			"md5": "f0c4bd5f4a7549015ac10e2ecf1af14c",
+			"sha1": "398b66de60a1bb038d4b969f4113bf04d0012def",
+			"sha256": "ab8b26c46a235382ade64e6d1c7edc92a5c3604704d738b1201f3b4743ebd3c8"
+		}
+	]
+}

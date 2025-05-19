@@ -1,0 +1,16 @@
+{
+	"uid": "gooddeth.wad",
+	"name": "Good DeathMatch(Doom2)",
+	"description": "I usually use -skill 4 -altdeath,there are monsters",
+	"date": "2014-12-15 23:13:25",
+	"files": [
+		{
+			"filename": "gooddeth.wad",
+			"size": 377001,
+			"crc": 2981670393,
+			"md5": "a692813f71c3d30da5e3de0be40414fc",
+			"sha1": "895b9374e1fb631a819a8219cb038cee471d66d7",
+			"sha256": "be436daf678fe299ec043ef8a4bbc1197bf8c0049dfcc3072c70d70dccf6a82b"
+		}
+	]
+}

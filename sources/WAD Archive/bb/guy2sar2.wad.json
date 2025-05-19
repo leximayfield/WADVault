@@ -1,0 +1,16 @@
+{
+	"uid": "guy2sar2.wad",
+	"name": "DoomGuy to Shotgun Sargeant  (version 2)",
+	"description": "This graphics-only patch swaps around the DoomGuy and the Shotgun Sargeants. Now YOU are the Sargeants going around killing the UAC Marines! You can even play Deathmatch with other Former Human Sargeants.",
+	"date": "2015-09-15 13:32:22",
+	"files": [
+		{
+			"filename": "guy2sar2.wad",
+			"size": 143184,
+			"crc": 3272457152,
+			"md5": "742071ccb35445d10ebc4572a3fc7c7d",
+			"sha1": "bb1dcaecdcfa1cea7c8422761b06a00815ef42f4",
+			"sha256": "31870b0925741f1b4816a29e2bb07700605d9c66a9cbb87e3cddd9127b276ffd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rc00.wad",
+	"name": "Red Christmas 2000",
+	"description": "Chrismas comes but once a year. And what would be a more fitting way to celebrate the holidays then running through dank hallways with a double barrel shotgun? This is a four player deathmatch map for the Zdoom port. A sequil to the previous RC relesed last year. It is rich in Zdoom effects, not heavy scripting, but zdoom/dehacked effects nevertheless. Such as, um... rain. Have fun...",
+	"date": "2014-12-15 21:30:17",
+	"files": [
+		{
+			"filename": "rc00.wad",
+			"size": 309632,
+			"crc": 3160827948,
+			"md5": "97fbd729f1119f6933c0c789f1bf7bd6",
+			"sha1": "4bf6dff3a4a877a5aabb090ef2d90c9fd500979e",
+			"sha256": "3987783c03777698882887b5ce12fe20ca5f3400a78e399d3adb5dedbaf8caae"
+		}
+	]
+}

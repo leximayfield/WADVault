@@ -1,0 +1,17 @@
+{
+	"uid": "e6y (a5e3d3).wad",
+	"name": "e6y",
+	"description": "One Level for any doom ports without many vanilla engine limitations (visplane owerwlow etc)",
+	"version": "a5e3d3",
+	"date": "2018-05-29 20:39:24",
+	"files": [
+		{
+			"filename": "e6y.wad",
+			"size": 1090496,
+			"crc": 2145743085,
+			"md5": "8f9dea060e0eab33626488c87e386269",
+			"sha1": "a5e3d30ba1c8aa3050eded2ca41b2aed920d0fa4",
+			"sha256": "35d06bdf0cffc72531270e6aa02931fa94a6894728100f1e6ed62b292487643c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ENEMY (ece969).wad",
+	"name": "Escape from Enemy Mountain",
+	"description": "A 9-level single player episode for Doom 2, created back in 2004. You have been trapped inside the cells of a hellish mountain fortress and must escape back to civilisation. This is the first 9 levels of a canned Doom 2 megawad, which I decided to create as a mod for Doom 3 instead. The map design is completely different to the design of the forthcoming D3 mod, so don't worry about spoilers. Hope you enjoy the maps! Design is primarily hellish in nature, but featuring a variety of locations.",
+	"version": "ece969",
+	"date": "2014-12-18 22:46:11",
+	"files": [
+		{
+			"filename": "ENEMY.wad",
+			"size": 3550410,
+			"crc": 277192099,
+			"md5": "701abefc5a50651eb9b14e0c2423e73d",
+			"sha1": "ece9694df36ee7f424dec5f42e21b83ecf3fd2bb",
+			"sha256": "17901795289a7236ce91d33b2b74bbf974a2302a13c8d1d8e37463e854565d8a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "meduel.wad",
+	"name": "Medieval Duel",
+	"description": "i were bored so i made a Duel map for Heretic, it's super simple compared to my other stuff but i found it fun after all...",
+	"date": "2016-03-05 14:42:19",
+	"files": [
+		{
+			"filename": "meduel.wad",
+			"size": 4151262,
+			"crc": 4211041673,
+			"md5": "cdf62514894cdd913be7ae95307e6d30",
+			"sha1": "a4ab296e71e7167d2c541ac7e9bbe580c031b9e5",
+			"sha256": "2e7ae8e24a8a01988c855cde32a4c8171bfc8ff8f5be17a2038090861c22859f"
+		}
+	]
+}

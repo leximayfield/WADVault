@@ -1,0 +1,16 @@
+{
+	"uid": "theater.wad",
+	"name": "The Theater",
+	"description": "Have you heard \"The Theater\" creepypasta? Maybe This creepypasta was amazing for me so I got the idea to integrate this creepypasta into Doom. You pretty much know how this creepypasta will look like.",
+	"date": "2014-12-29 17:06:26",
+	"files": [
+		{
+			"filename": "theater.wad",
+			"size": 823042,
+			"crc": 1538470931,
+			"md5": "1c06f18d9a2fed300e82a851986f119d",
+			"sha1": "2ad6a77ba629865907b676fe0920206eb84a6803",
+			"sha256": "fac5797c80b904707576375a4935db7d49422f489f7a0cbd58b858f71ab9b3cc"
+		}
+	]
+}

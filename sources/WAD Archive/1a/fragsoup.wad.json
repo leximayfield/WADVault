@@ -1,0 +1,16 @@
+{
+	"uid": "fragsoup.wad",
+	"name": "Frag Soup",
+	"description": "This PWAD replaces level one of DOOM II. It was designed to be a DeathMatch Level. There are no monsters, and there is an exit. All weapons are available on this level. This is a small playing area, so if you're looking for a high frag deathmatch level, then this is it. The level is centered around a building. This building is surrounded by a courtyard, which has a high ledge surrounding it. The only way to get onto this ledge is to die. There are only two deathmatch starts on this ledge, and there are ten deathmatch starts in total. The building itself has many hallways and staircases inside it. It is very easy to sneak up on someone because there is more than one way to get to some place inside the building. It is also nice and dark inside. Both the BFG9000 and the Plasma Gun are risky to obtain.",
+	"date": "2014-12-15 22:43:05",
+	"files": [
+		{
+			"filename": "fragsoup.wad",
+			"size": 308230,
+			"crc": 2212946722,
+			"md5": "6668733f46449f2ef32f5c2b8f484829",
+			"sha1": "1a02d578bf2dfb02bade11e9f5320ae5d360bddf",
+			"sha256": "fb1e590acdd9a3680d3b70eb6e1674c83abd6da45f459860b7dde8b5bd02ccf0"
+		}
+	]
+}

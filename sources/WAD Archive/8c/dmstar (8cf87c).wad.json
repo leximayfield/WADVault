@@ -1,0 +1,17 @@
+{
+	"uid": "dmstar (8cf87c).wad",
+	"name": "LINKUP.WAD for DOOM ][",
+	"description": "This is a small deathmatch level with a starwars theme. It wasn't designed from any starwars blueprints, just designed for a good blast!",
+	"version": "8cf87c",
+	"date": "2016-02-07 20:26:42",
+	"files": [
+		{
+			"filename": "dmstar.wad",
+			"size": 52157,
+			"crc": 3065635393,
+			"md5": "7b4080562e42208be34fcc990b7da55a",
+			"sha1": "8cf87c80f01994af5f5709e273d925011465c35d",
+			"sha256": "8e2eb6f2131ce5298e5618a62aa49893c05d670cb1eef594e0eb4a49b467e015"
+		}
+	]
+}

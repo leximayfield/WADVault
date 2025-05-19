@@ -1,0 +1,17 @@
+{
+	"uid": "dars_dm (0c320a).wad",
+	"name": "DAR's DOOM Marathon",
+	"description": "This is my complete recreation of DOOM 1 and 2's soundtracks with some new additions and twists. Hope you all enjoy! ~DAR",
+	"version": "0c320a",
+	"date": "2019-03-20 02:22:11",
+	"files": [
+		{
+			"filename": "dars_dm.wad",
+			"size": 223816436,
+			"crc": 3631134502,
+			"md5": "fab5a4b827b80721047aacd9f2a762a0",
+			"sha1": "0c320a0602f31b39145d685cb73704b3816f6825",
+			"sha256": "7c173566e09da9a7d2e5ee657c6390d3e48b5e38bf3cf6dd6dba75d38da563ec"
+		}
+	]
+}

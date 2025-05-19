@@ -1,0 +1,16 @@
+{
+	"uid": "iceworld.wad",
+	"name": "ICE WORLD",
+	"description": "ICEWORLD.WAD is a copy of Counter Strike map FY_ICEWORLD",
+	"date": "2018-03-27 21:12:14",
+	"files": [
+		{
+			"filename": "iceworld.wad",
+			"size": 71941,
+			"crc": 484920585,
+			"md5": "90a72bc30c2ad3bbd43d2b22a5634590",
+			"sha1": "c939eddaa47e847fe077132e727809b2b6308907",
+			"sha256": "c40caf3e2dd518ae17e142163e071fe77d90014e7295161ab6a647677cd00abc"
+		}
+	]
+}

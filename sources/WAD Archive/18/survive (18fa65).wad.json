@@ -1,0 +1,17 @@
+{
+	"uid": "survive (18fa65).wad",
+	"name": "Survive: Aftershock Part II",
+	"description": "Previously on Aftershock: \"UAC Report log #5: Got a distress signal, something about demons. Facility was lost, so much hellspawn everywhere! Gotta keep fighting if I want to get out of here alive.\"",
+	"version": "18fa65",
+	"date": "2019-04-24 19:20:17",
+	"files": [
+		{
+			"filename": "survive.wad",
+			"size": 48479159,
+			"crc": 2555824601,
+			"md5": "756a0d6e6ec84d059377614ad449feb3",
+			"sha1": "18fa65c762af9951dff262a1d606e0653755745d",
+			"sha256": "8db56d1ba78b755a3e1746d0444cbf7b20aec0923ae77cc89485ca709a5784cf"
+		}
+	]
+}

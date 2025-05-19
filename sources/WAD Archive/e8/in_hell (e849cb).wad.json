@@ -1,0 +1,17 @@
+{
+	"uid": "in_hell (e849cb).wad",
+	"name": "In Hell",
+	"description": "A 4 player Deathmatch for Doom II, works very well for 2 players also. The dark bowels of Hell is the setting for this breathtaking DeathMatch for Doom II. Twin elevators provide access to Hell, where you will find most of the weaponry in the game. All weapons are available in_hell. There are many sniper positions overlooking popular areas, but beware, there are not many safe spots in_hell. Also watch out for univited riders that drop in on the elevators. Disembark quickly from the elevator or your opponent may drag you back down, and bury you in_hell. The Lava Room will have the bulk of the available ammo, look to the surface for any serious healing(except in -skill 4 or 5). However if you brave the Lava Troughs you can scrounge up enough health to possibly outlast the creatures in_hell. The skill levels are implemented, if you are playing DeathMatch and you would like more weapons and ammo, try adding -skill 4 or 5 to your command line. In single player simply go to Hell (hehehe), retrieve the red skullkey, and come back to the surface alive. In single and cooperative, you may not even see the BFG until you have killed everything. If you are skilled you can get the skullkey and the BFG to make good your escape from Hell. Remember the skill levels are implemented. Cooperative has extra monsters that are only in multi-play(-skill 4 or 5). You and your buddies should make short work of the creatures in_hell. I consider the Lava Room a work of art. Hope you enjoy this WAD !",
+	"version": "e849cb",
+	"date": "2013-11-02 16:03:22",
+	"files": [
+		{
+			"filename": "in_hell.wad",
+			"size": 93665,
+			"crc": 1211164840,
+			"md5": "47bb81d1289b54db1593e6d0918da25f",
+			"sha1": "e849cb8a8708008990bf6f0490886912faa827c4",
+			"sha256": "efe96f30ed807458cd8c08758a020c28167ffe6eb2a87af64a9c090e8c3ad3f5"
+		}
+	]
+}

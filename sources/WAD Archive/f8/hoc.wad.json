@@ -1,0 +1,16 @@
+{
+	"uid": "hoc.wad",
+	"name": "Hordes of Chaos",
+	"description": "5 Heretic maps stuffed full of monsters.",
+	"date": "2014-12-30 11:19:47",
+	"files": [
+		{
+			"filename": "hoc.wad",
+			"size": 2776527,
+			"crc": 2361503203,
+			"md5": "8bf78cb517c1363cfec9889ea7623e04",
+			"sha1": "f88b3223998b98bb3be4ee2580b01500bb217308",
+			"sha256": "c2aa2046ce25023944bb261a50d4df0935910f1351d031741ec4de3233e36b5f"
+		}
+	]
+}

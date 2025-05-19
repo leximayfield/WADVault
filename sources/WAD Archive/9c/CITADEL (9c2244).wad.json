@@ -1,0 +1,17 @@
+{
+	"uid": "CITADEL (9c2244).wad",
+	"name": "Citadel of Sorrow (CITADEL.WAD)",
+	"description": "A Medieval Castle with some nice touches. Check out the torture chamber ! Also lotsa hidden passages and detailed rooms.",
+	"version": "9c2244",
+	"date": "2014-01-04 11:55:57",
+	"files": [
+		{
+			"filename": "CITADEL.wad",
+			"size": 535597,
+			"crc": 2955137006,
+			"md5": "53574b08622929937f193d9c8c360ac2",
+			"sha1": "9c22444d3cdb0b4d34a56189bf81acdaa936e312",
+			"sha256": "78c29c62d7d774a327db383fe7bb9bc94655f1b917b3eb1369bb2bec270ff6a7"
+		}
+	]
+}

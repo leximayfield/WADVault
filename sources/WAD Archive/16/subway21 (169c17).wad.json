@@ -1,0 +1,17 @@
+{
+	"uid": "subway21 (169c17).wad",
+	"name": "SUBWAY.WAD",
+	"description": "Demons have taken over the UAC Deimos subway. Your mission, clean out the stations and eliminate whoever is behind the invasion.",
+	"version": "169c17",
+	"date": "2013-11-02 15:09:10",
+	"files": [
+		{
+			"filename": "subway21.wad",
+			"size": 498381,
+			"crc": 53176553,
+			"md5": "bb02d920c26fa7ff321c02cecd1c0a21",
+			"sha1": "169c17d91d17877c08e55fe2d7a0a256e08ac895",
+			"sha256": "05188971ab0d259798182a4e50a4e27959d47d7c363c9997bc1a0063671d3291"
+		}
+	]
+}

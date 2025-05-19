@@ -1,0 +1,17 @@
+{
+	"uid": "MEGADOOM (f62795).wad",
+	"name": "Megadoom.wad (for Doom 2)",
+	"description": "This multi-purpose WAD is simply several large sections linked together with a secret underground passageway and a large maze. It promises to be an enjoyable Deathmatch level, with an abundance of weapons and power-ups. Anyway, there's no main theme to this WAD, so just go ahead and play it!",
+	"version": "f62795",
+	"date": "2014-10-14 21:10:30",
+	"files": [
+		{
+			"filename": "MEGADOOM.wad",
+			"size": 141110,
+			"crc": 2686687087,
+			"md5": "daf32c669486b08568c9885ab6da6830",
+			"sha1": "f62795d4cf98c179aa43b44a949810ac23836398",
+			"sha256": "f94e13e543c4f3e12361e9943528fc97ab65015ec1ea88a2109f3197597fda2d"
+		}
+	]
+}

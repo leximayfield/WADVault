@@ -1,0 +1,16 @@
+{
+	"uid": "ENTERPRZ.wad",
+	"name": "Enterprise DeathMatch!",
+	"description": "Kill your buddies on the Starship Enterprise. This is a loose interpretation of the Enterprise D, complte with bridge, 10 forward, cargo bay, engineering, transporter room, sick bay, and captain's ready room, doors that swish open as you approach.",
+	"date": "2013-11-02 15:53:03",
+	"files": [
+		{
+			"filename": "ENTERPRZ.wad",
+			"size": 130076,
+			"crc": 3880143642,
+			"md5": "38decc5bef3bd17bbe7910c7751a2548",
+			"sha1": "6c1f1a1aaa154b7fab5a7c436951fdeb85a7df11",
+			"sha256": "adcd6445fa4c08e63261f56c893ef620f12516f5ff3ef26cf2561d037d128cdb"
+		}
+	]
+}

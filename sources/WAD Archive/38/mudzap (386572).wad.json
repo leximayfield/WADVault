@@ -1,0 +1,17 @@
+{
+	"uid": "mudzap (386572).wad",
+	"name": "MUDZAP.WAD",
+	"description": "This a a very tough level, designed for the single player. : Doom II version will be ready within days!",
+	"version": "386572",
+	"date": "2014-01-07 21:51:34",
+	"files": [
+		{
+			"filename": "mudzap.wad",
+			"size": 144038,
+			"crc": 2778844948,
+			"md5": "cd6f7a44f49d09a60d17a3f490fa9aae",
+			"sha1": "386572b3c4e3fd171d678cf9d516281e98fba30f",
+			"sha256": "b0d81e2e963729ad2027030efa7cfb20cce17a799b49abafa86b387d76d2da18"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "never2 (e8c43b).wad",
+	"name": "NEVER2.WAD",
+	"description": "A really cool castle wad. NEVER2 is fun, and challenging in UV, but not too hard. There are some tough secrets to find, and there are tons of baddies. Death matchers should have a blast as well as singles. So what's the description? Get the wad and check it out! Compared to other 'non-linear' levels, this one is really non-linear. It's also pretty well inter-connected for DM after all the secrets are found. It features the Death Room, a cool outside area where you can jump all over the place, a multi-leveled maze type thing, and the dreaded caco-lair! No stupid switch puzzels or death traps. A straight forward ass kick'n pwad. It is basically the same as never.wad for doom1, except I added the doom][ stuff (combat shot gun & monsters) and changed 2 textures.",
+	"version": "e8c43b",
+	"date": "2014-01-07 22:04:37",
+	"files": [
+		{
+			"filename": "never2.wad",
+			"size": 357544,
+			"crc": 3882619459,
+			"md5": "032b7d6ca99b81830b0bb17771c6d662",
+			"sha1": "e8c43b0946447f33662c6fc803396b5625c782ea",
+			"sha256": "b49597e66ff31ac52853581da724e5eff622306ee53383bd2426f0df11394dd4"
+		}
+	]
+}

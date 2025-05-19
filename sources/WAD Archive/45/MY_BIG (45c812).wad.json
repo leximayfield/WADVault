@@ -1,0 +1,17 @@
+{
+	"uid": "MY_BIG (45c812).wad",
+	"name": "MY BIG WAD",
+	"description": "DID YOU SAY AMBUSH! And now where do I go?",
+	"version": "45c812",
+	"date": "2014-11-01 14:46:01",
+	"files": [
+		{
+			"filename": "MY_BIG.wad",
+			"size": 199684,
+			"crc": 48721340,
+			"md5": "7b824aceffb238c0c89e28f839d00c43",
+			"sha1": "45c812a6324b7e82c07546d78eaf7c2f57421107",
+			"sha256": "38a6b07a7bdca9dca9cf51bcb23b817fa5401acbf4bd68a4a5becede94527021"
+		}
+	]
+}

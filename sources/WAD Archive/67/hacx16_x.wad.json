@@ -1,0 +1,16 @@
+{
+	"uid": "hacx16_x.wad",
+	"name": "Protean Cybex II",
+	"description": "Single map for HACX. Replaces MAP16.",
+	"date": "2013-04-18 22:04:07",
+	"files": [
+		{
+			"filename": "hacx16_x.wad",
+			"size": 3072062,
+			"crc": 3945633829,
+			"md5": "0a822d39f6b034daf0aab90e1cc27c3a",
+			"sha1": "67ded582eb8769ea2ab83f1ce5edad60f3ed9eca",
+			"sha256": "e1b26aaf37cf25286ecf5188467b8fb74e19d532a4fcb0709d643096c02aed79"
+		}
+	]
+}

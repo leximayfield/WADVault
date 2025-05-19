@@ -1,0 +1,17 @@
+{
+	"uid": "JMPDM2 (9c4b15).wad",
+	"name": "Pit Stakeout",
+	"description": "This level is mainly for Deathmatch (The Only Way To Play) but you can play single and Co-op if you have to. :-)",
+	"version": "9c4b15",
+	"date": "2014-10-14 21:00:24",
+	"files": [
+		{
+			"filename": "JMPDM2.wad",
+			"size": 10270,
+			"crc": 3675670331,
+			"md5": "b23f6d9d670caf210c868a6cd1927095",
+			"sha1": "9c4b152083a2d9730a68d54c36a4e418b350149a",
+			"sha256": "115637a1161ec6cfbec99cacb76c7f4b36cee1e3481954359f52e8fbdd8cf481"
+		}
+	]
+}

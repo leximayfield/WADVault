@@ -1,0 +1,17 @@
+{
+	"uid": "temple (87d0ff).wad",
+	"name": "TEMPLE OF DOOM",
+	"description": "DEATHMATCH SET IN A TEMPLE, FUN WITH THE DRUIDS",
+	"version": "87d0ff",
+	"date": "2015-02-21 09:02:35",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 63632,
+			"crc": 1661612910,
+			"md5": "cf0a87fb3ccb3f82176641a51b5e1378",
+			"sha1": "87d0ffbaf34b38e38ac6c5fdc307db4abfae06f0",
+			"sha256": "0afb6e7ced24e8d653dd9849e0b2329c1a5673ff520a2837a1769749d3922ac1"
+		}
+	]
+}

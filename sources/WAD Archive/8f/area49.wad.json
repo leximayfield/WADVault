@@ -1,0 +1,16 @@
+{
+	"uid": "area49.wad",
+	"name": "Area 49",
+	"description": "There has been strang things happing on mars. You are sent out to find the cause. You have a hunch that this base could be causing the happings.",
+	"date": "2014-12-15 22:09:54",
+	"files": [
+		{
+			"filename": "area49.wad",
+			"size": 21776,
+			"crc": 777717096,
+			"md5": "6172a4002cbfcf638f432bbac01f19e0",
+			"sha1": "8f62a1088b6e341ab17dc4077f75ae0881e5eb1b",
+			"sha256": "a3ec5f1824fa523b8cdf248f17b2a03f89186bd74f87f41d4ef194e39f1a2aa7"
+		}
+	]
+}

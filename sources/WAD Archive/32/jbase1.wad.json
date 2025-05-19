@@ -1,0 +1,16 @@
+{
+	"uid": "jbase1.wad",
+	"name": "JBase",
+	"description": "Just a base level I did because I got bored. Ammo and health are somewhat scarce, so be careful.",
+	"date": "2014-12-27 12:20:01",
+	"files": [
+		{
+			"filename": "jbase1.wad",
+			"size": 271673,
+			"crc": 3332733499,
+			"md5": "eff63631d8f67923c1b74029898e7b4f",
+			"sha1": "3253fcd336461f764333edf50cb15cd655a994cc",
+			"sha256": "1237395ea2a338d1fe2b59ce06152db3cebab053a9234f9b5359b4d54233b76b"
+		}
+	]
+}

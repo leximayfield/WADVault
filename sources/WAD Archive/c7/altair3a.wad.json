@@ -1,0 +1,16 @@
+{
+	"uid": "altair3a.wad",
+	"name": "Altair3a",
+	"description": "This is a BIG level designed for Doom II. It was designed with ultra-violence in mind and is mentally challenging. The level also has a design theme which I hope will be visually pleasing. This is version a. There have been some very minor changes to some areas, mostly the removal of stairs and making the adjacent stairs taller. The big change is the placement of the switches that lower the barriers allowing access to the switches that lower the red and blue key platforms. The switches have been moved to a more obvious location. A number of people indicated that it was too hard to find them. I wanted it to be challenging... not frustrating! Thanks to all who emailed comments!",
+	"date": "2014-12-15 22:43:20",
+	"files": [
+		{
+			"filename": "altair3a.wad",
+			"size": 535014,
+			"crc": 3612586558,
+			"md5": "0f4bb760710748f15fcc76c552d087ea",
+			"sha1": "c7924051d83411eb03c29c423a156b418f1b1970",
+			"sha256": "53c2fa61e5c15d055afadc5e27f3d5d71026cc231705f89679b4fbb45fb5439d"
+		}
+	]
+}

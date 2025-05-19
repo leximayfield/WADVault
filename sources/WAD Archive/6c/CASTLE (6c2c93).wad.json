@@ -1,0 +1,17 @@
+{
+	"uid": "CASTLE (6c2c93).wad",
+	"name": "CASTLE.WAD",
+	"description": "Outside level with a small castle.. fun for deathmatchs and a sercet sniper stuff and a secret room FULL of stuff",
+	"version": "6c2c93",
+	"date": "2014-10-14 21:12:25",
+	"files": [
+		{
+			"filename": "CASTLE.wad",
+			"size": 55499,
+			"crc": 1174198668,
+			"md5": "a7b1d6e2c860cca1c9a67d9c313bb8c9",
+			"sha1": "6c2c933d51ce6f343228416772562588f64b9a9f",
+			"sha256": "62a82a5f7d3c3735374417ba175b3eeff7874dfd6aaa7e123333e60b82eab7d9"
+		}
+	]
+}

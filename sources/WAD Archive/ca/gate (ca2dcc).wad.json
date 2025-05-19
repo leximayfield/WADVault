@@ -1,0 +1,16 @@
+{
+	"uid": "gate (ca2dcc).wad",
+	"name": "Bill, the Gates of Hell!",
+	"version": "ca2dcc",
+	"date": "2013-11-06 22:51:38",
+	"files": [
+		{
+			"filename": "gate.wad",
+			"size": 134720,
+			"crc": 3360498266,
+			"md5": "93e17af10ef9af481ed6c77354beccec",
+			"sha1": "ca2dcc969f1bf1c580842f8410191577bcf767e1",
+			"sha256": "1151d09590a50415d26ebadd5b30ac4c8400fbbf7dd765934a213202d975ca49"
+		}
+	]
+}

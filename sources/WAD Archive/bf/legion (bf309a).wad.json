@@ -1,0 +1,17 @@
+{
+	"uid": "legion (bf309a).wad",
+	"name": "Legion of the Damned",
+	"description": "Earth date - Wedensday, Febuary 12th, 2345.",
+	"version": "bf309a",
+	"date": "2014-12-13 17:54:35",
+	"files": [
+		{
+			"filename": "legion.wad",
+			"size": 87461,
+			"crc": 3183794899,
+			"md5": "4ecfed864dc7b7d767c24cbce28b2ea0",
+			"sha1": "bf309a49d420542f7946e5e4d67b8f548eab0bf9",
+			"sha256": "3713443ab750ad8aae674f06b8cbc2f23dc5f6f9e34a9a0495c988a44f570ac4"
+		}
+	]
+}

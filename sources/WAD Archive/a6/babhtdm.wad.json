@@ -1,0 +1,16 @@
+{
+	"uid": "babhtdm.wad",
+	"name": "BAB Heretic DeathMatch",
+	"description": "Replacement for Heretic levels E1M1 - E1M4 Great for solo play or multi player. Deathmatch! Excellent has been updated and tested now. Allows for plenty of ammo and health. You are not overpowered by more monsters than you can handle (well, most of the time anyway). Each level has at least one secret area in it. There is a way to get out of any situation (you will not fall into a pit with no way out etc..).",
+	"date": "2014-12-30 11:26:46",
+	"files": [
+		{
+			"filename": "babhtdm.wad",
+			"size": 350926,
+			"crc": 1706203923,
+			"md5": "427373e239f9750abbe557af7f4b9ecf",
+			"sha1": "a67bf7315a09f84c8960f1d5b228ab033e28c07c",
+			"sha256": "489621307188fef510b7d3c33092c98976e7338f7f532b1679d56320dca32f6e"
+		}
+	]
+}

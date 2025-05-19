@@ -1,0 +1,16 @@
+{
+	"uid": "FPH-NDR3.wad",
+	"name": "N.D.R. 3",
+	"description": "A fairly small, medium difficulty level for DOOM II. A brown brick and metal theme, not requiring a source port, although there's a MAPINFO lump in there providing some purely cosmetic enhancements when using ZDoom (change of music, name in map, etc.)",
+	"date": "2014-12-18 23:15:56",
+	"files": [
+		{
+			"filename": "FPH-NDR3.wad",
+			"size": 114163,
+			"crc": 808952225,
+			"md5": "100abdf63ef3aec4ec9331fe88c6ecce",
+			"sha1": "456f6d78102ee0fbd4da08e9abca7564cddbc6c1",
+			"sha256": "9ab9db8bafa6fd791515a241f894c21a340fd974e2f12ca2139528bd664101d8"
+		}
+	]
+}

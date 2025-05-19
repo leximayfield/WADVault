@@ -1,0 +1,17 @@
+{
+	"uid": "TLABS (5639e5).wad",
+	"name": "Time Labs",
+	"description": "What use to be an old UAC waste treament facility that is now a top secret time lab. Unfortunately it was taken over by demons that now have the ability to change history as we know it. You must clear out the faciclity and go back in time to make sure nothin was changed. (My first release. Sorry if its to linear.)",
+	"version": "5639e5",
+	"date": "2015-01-14 14:27:31",
+	"files": [
+		{
+			"filename": "TLABS.wad",
+			"size": 138703,
+			"crc": 149776001,
+			"md5": "05c042795709098153a5e2d094c8e8fe",
+			"sha1": "5639e5479b201c03c3a6653227d4f8ea52717e36",
+			"sha256": "bfac13a90c3e74ba244c30c791c82a4c7fb892b2e3166ca030634bf8fb62e690"
+		}
+	]
+}

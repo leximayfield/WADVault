@@ -1,0 +1,17 @@
+{
+	"uid": "blessed (c631fd).wad",
+	"name": "The Blessed Engine 1.9",
+	"description": "Doom, but much, MUCH harder. Most of the weapons and monsters have been radically overhauled, and are described hereunder.",
+	"version": "c631fd",
+	"date": "2018-03-27 21:12:12",
+	"files": [
+		{
+			"filename": "blessed.wad",
+			"size": 4135108,
+			"crc": 3202639953,
+			"md5": "f557feb1e11e8d548d537df8a8ff523a",
+			"sha1": "c631fd23e0995e2c4d842c420cbb25b12dd1286e",
+			"sha256": "9f29498a6bf3efd36f9a50000def07da8bd88f652282d11c3c580d80141192a3"
+		}
+	]
+}

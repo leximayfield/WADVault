@@ -1,0 +1,16 @@
+{
+	"uid": "junkcity.wad",
+	"name": "Junkcity Texture Pack",
+	"description": "Junkcity.wad is a victorian/tudor themed texture pack created back in 2014. The textures are png format and designed for truecolor rendering.",
+	"date": "2018-06-15 11:33:10",
+	"files": [
+		{
+			"filename": "junkcity.wad",
+			"size": 2038602,
+			"crc": 3901002901,
+			"md5": "19955203b6426181967a4f20d5d077fd",
+			"sha1": "6abea2f09705ecc238bbc7d1067c8381041d66d5",
+			"sha256": "57571b01a67f718e4247de1f3ca89eab55f2b78280ec2b68a56a9869dab76343"
+		}
+	]
+}

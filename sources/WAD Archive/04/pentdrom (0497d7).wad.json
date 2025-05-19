@@ -1,0 +1,17 @@
+{
+	"uid": "pentdrom (0497d7).wad",
+	"name": "THE PENTADROME",
+	"description": "Overview: The pace of action in The Pentadrome is best suited for cooperative play, but once the monsters are thinned down, it's a fabulous place for a deathmatch. With few dead ends and lots of twists and secrets, The Pentadrome keeps you on the edge of your mouse pad (and your sanity!)",
+	"version": "0497d7",
+	"date": "2013-11-02 15:11:36",
+	"files": [
+		{
+			"filename": "pentdrom.wad",
+			"size": 120375,
+			"crc": 2908105060,
+			"md5": "43d058253696815db3574034f0f73b24",
+			"sha1": "0497d7aff85421ee3fccc828ffd5aa811117505d",
+			"sha256": "90438498bec4c7fbf9868c50015aa25481979981e3eec50fd7a59b82f93595e6"
+		}
+	]
+}

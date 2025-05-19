@@ -1,0 +1,16 @@
+{
+	"uid": "strberry.wad",
+	"name": "Strawberry Caverns",
+	"description": "Are you looking to play a Nostril Caverns inspired level from me? Here you have it: Strawberry Caverns. It consists mostly of red and some green, resembling a strawberry. You go through a series of corridors, killing enemies, and activating switches. After you activate the switches, arch-viles teleport and you have to activate more switches until the exit opens. Unlike Nostril Caverns, this level is not a giant circle. Rather, it is a series of corridors on 2 sides. Expect a typical gameplay to be 3-4 hours.",
+	"date": "2019-04-09 23:55:57",
+	"files": [
+		{
+			"filename": "strberry.wad",
+			"size": 1851426,
+			"crc": 2498817648,
+			"md5": "cdad5ddd734557d75ded7c5436811b94",
+			"sha1": "4a9ca9b75022d874434ff6206b3f9aeac765c2ff",
+			"sha256": "a2efb1e307cab1173d625ba55f548f8994c475f7c5b6331f3c6ded0119379955"
+		}
+	]
+}

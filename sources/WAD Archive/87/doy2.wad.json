@@ -1,0 +1,16 @@
+{
+	"uid": "doy2.wad",
+	"name": "DOY2.WAD",
+	"description": "This deathmatch level is set in an arena like atmosphere where you can evenly battle your oppenents. There are shotguns, rockets, and ammo littered throughout the level for you to use with the -altdeath setting. There is a main circular battling area and another small area above connected by stairs which are at different heights. You can jump from the two height levels and surprise your opponents. There's nothing like a quick jump frag when you leap off the ledge and fire that shotgun into your opponents' faces. There are only a few stimpacks laying around, and they won't help you much if you get shot at close range. There are no plasmas or bfgs in skill 3-5. However, skills 1-2 have ALL plasma guns and nothing else(have fun!).",
+	"date": "2014-12-15 22:49:02",
+	"files": [
+		{
+			"filename": "doy2.wad",
+			"size": 184322,
+			"crc": 3967019384,
+			"md5": "2d1426ac4f6cab0fbeb637a3e1f2bffe",
+			"sha1": "8716177a3c8f36f8f67b721601c06a9809fc733c",
+			"sha256": "35c2fba541aeec48cca5e25d529dba3c1a7a3c9172ec05df3795d52d4520fd3a"
+		}
+	]
+}

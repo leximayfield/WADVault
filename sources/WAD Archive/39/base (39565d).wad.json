@@ -1,0 +1,17 @@
+{
+	"uid": "base (39565d).wad",
+	"name": "Base.wad (for Doom 2)",
+	"description": "This Deathmatch-only level was created with the intention of one player have a huge",
+	"version": "39565d",
+	"date": "2014-10-14 20:56:50",
+	"files": [
+		{
+			"filename": "base.wad",
+			"size": 114326,
+			"crc": 3222328410,
+			"md5": "73ca723b57bcf1e09f7da0b9a1ce6e61",
+			"sha1": "39565dde66c252a0264ef7e62f900dd187754224",
+			"sha256": "53f6a6218058cc52e1cffa562bd705f71c12f1412c3612e0c18113783ee30855"
+		}
+	]
+}

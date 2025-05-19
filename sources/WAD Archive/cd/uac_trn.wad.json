@@ -1,0 +1,16 @@
+{
+	"uid": "uac_trn.wad",
+	"name": "UAC Space Marine Training",
+	"description": "Basically, you're a grunt trying to get through the UAC Training Course and join the elite Space Marines. The complete story is included in this zipfile. This patch is both a PWAD and a .DEH file; DeHackEd ver. 2.1 is included.",
+	"date": "2014-12-13 12:44:31",
+	"files": [
+		{
+			"filename": "uac_trn.wad",
+			"size": 131682,
+			"crc": 1145572431,
+			"md5": "8f26a0ce39377382e55c0dceb084d27d",
+			"sha1": "cd054d9af57d523a41c2841c3fe2a1be44cd5d48",
+			"sha256": "5f2674373489c66067106f75e9476643b7c29e82610029b223bda4c574dbe3c5"
+		}
+	]
+}

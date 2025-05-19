@@ -1,0 +1,17 @@
+{
+	"uid": "maxfrag (ece9df).wad",
+	"name": "MAXFRAG.WAD",
+	"description": "Quite effective Deathmatch level utilizing responsive logistical projection and mobility. (What that means is you'll be running around like a bunch of squirrels on Prozac.)",
+	"version": "ece9df",
+	"date": "2014-01-07 22:15:15",
+	"files": [
+		{
+			"filename": "maxfrag.wad",
+			"size": 62520,
+			"crc": 104220053,
+			"md5": "190dd2336e59bf3f727e2fbb7faf1fe6",
+			"sha1": "ece9df54a761808c324c2227083bdd6a9fb8a37b",
+			"sha256": "8fbb91413feef21c39ddb4db56ab4e51232fde0b14c61b1624fe139520b15529"
+		}
+	]
+}

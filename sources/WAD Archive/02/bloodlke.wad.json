@@ -1,0 +1,16 @@
+{
+	"uid": "bloodlke.wad",
+	"name": "Blood Lake",
+	"description": "It's a lake, full of blood, monsters, you know what to do!",
+	"date": "2014-12-13 17:57:09",
+	"files": [
+		{
+			"filename": "bloodlke.wad",
+			"size": 76855,
+			"crc": 3152567846,
+			"md5": "c606c073429c01a5aa87ed8a60ee51e6",
+			"sha1": "0252c0d59c706659d8f2bff68a5375f86bc49594",
+			"sha256": "6ba56d0360d0428f9584cd9f8878c6be49e889a13ec637e08ec95c36a8a88ec6"
+		}
+	]
+}

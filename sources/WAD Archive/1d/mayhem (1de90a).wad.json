@@ -1,0 +1,17 @@
+{
+	"uid": "mayhem (1de90a).wad",
+	"name": "MAYHEM.WAD",
+	"description": "Needless to say, this is my first level. I think I did a pretty good job but if I were able to force myself to look at the DEU screen again and make another level it would be way better. The best thing about my level is that the secrets aren't all composed of hidden doors who's textures have been cleverly alligned. To get acess to my secret areas you'll have to use your brain, which most DOOMers enjoy. And at no point will you need to find a hidden door to complete the level. Any moron can go around a whole level pushed up against a wall pressing the spacebar rapidly. My level is also very straight forward. You won't have much choice to where you go, the level will direct you through itself. I have put in an area map early in the game because they are cool. Some areas though are hidden so it doesn't give the whole level away. This level is ment to be played on ultraviolent, save often or don't save at all, whichever you prefer. Try to get 100% items, secrets and kills, I've made two of those kills perticularly tricky (Use you brains not your guns).",
+	"version": "1de90a",
+	"date": "2014-12-14 21:01:50",
+	"files": [
+		{
+			"filename": "mayhem.wad",
+			"size": 191968,
+			"crc": 1923506745,
+			"md5": "1aa3de0acbb458486fb0857f5b657447",
+			"sha1": "1de90af17493cecf17e9ab0bba59f0e074307ff1",
+			"sha256": "66ec4103d9631adfce1e99f7301a6922c7b639a88880bba9b64bcfa101eb614d"
+		}
+	]
+}

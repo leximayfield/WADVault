@@ -1,0 +1,16 @@
+{
+	"uid": "mfortres.wad",
+	"name": "Mountain Fortress",
+	"description": "Single map for Heretic.",
+	"date": "2014-12-30 11:29:56",
+	"files": [
+		{
+			"filename": "mfortres.wad",
+			"size": 283588,
+			"crc": 485929298,
+			"md5": "ebfccb5354ee4000f9469980e028e714",
+			"sha1": "a23260bf3c210616022d77f1f851047af2a41561",
+			"sha256": "8a7e5d640063fb01fabeb61b49f53f87fd9b21455cbb70038eb8710342cd05ba"
+		}
+	]
+}

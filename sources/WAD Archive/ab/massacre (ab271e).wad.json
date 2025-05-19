@@ -1,0 +1,17 @@
+{
+	"uid": "massacre (ab271e).wad",
+	"name": "Massacre on Deimos",
+	"description": "As you kill the last of the Barons on Phobos, you hear a crackle over your communicator. It's information (and of course, orders) from Earth. The General informs you that the invasion was not limited to the Phobos facility, but that Deimos was also invaded. Just before Earth lost all contact with Deimos, the following portion of a message was received: \"...it's a gradual infestation. It starts in the small storage facility where the teleporter from Phobos is located. It's not too heavy there, mostly mutants. It just gets worse though. The refinery is one of the worst areas. The stairway down to our rec room now looks like a stair down to ...\"",
+	"version": "ab271e",
+	"date": "2014-12-13 12:45:30",
+	"files": [
+		{
+			"filename": "massacre.wad",
+			"size": 209858,
+			"crc": 309505169,
+			"md5": "ad3b60eb6a37bd5b1c09b59cb2dcb357",
+			"sha1": "ab271ea6691860725ccb5481fbf4ea05f4465328",
+			"sha256": "457cb7878441f336477807ba94e0596d3e31d7c84f8a6db695509b4613f94c0f"
+		}
+	]
+}

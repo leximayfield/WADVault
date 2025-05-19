@@ -1,0 +1,16 @@
+{
+	"uid": "FLIGHT57.wad",
+	"name": "Flight 57",
+	"description": "This is pretty simple: You're on an airplane in midflight. You can walk on the wings and you can fall off the plane and die as well. I had to do way too many wad tricks to get the plane to float in midair, but it looks cool, so it was worth it. Check out that texture aligning!",
+	"date": "2014-12-15 22:04:29",
+	"files": [
+		{
+			"filename": "FLIGHT57.wad",
+			"size": 337413,
+			"crc": 4110233996,
+			"md5": "d8e5b431ebb7358715103cf4869ca8cf",
+			"sha1": "46a5b3abd78ee19c621aeed236b33d3f4c8914e4",
+			"sha256": "a0ed49d30e4a2bdca063eb58900a1253154d0da2e9fcc7055fc11712cb0722e2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "mntnbase.wad",
+	"name": "The Mountain Base",
+	"description": "A large tech base built on top of a dusty mountain. Simple, but it's my first real map and I just came up with it as I went. In the end, I think it turned out pretty good.",
+	"date": "2015-01-13 21:18:51",
+	"files": [
+		{
+			"filename": "mntnbase.wad",
+			"size": 282234,
+			"crc": 2556583631,
+			"md5": "234b83a452f719f69d64ea671ed1e0be",
+			"sha1": "08e3f6a49f83c778300e4c484822fa852c2144cc",
+			"sha256": "9984b599ad018c45ab0be2c9e0dd68abe8be1bc41cdb21a327a3a4a539cb83fa"
+		}
+	]
+}

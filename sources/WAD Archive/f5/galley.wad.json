@@ -1,0 +1,16 @@
+{
+	"uid": "galley.wad",
+	"name": "Galley",
+	"description": "This is supposed to be a galley ship, but it is hard to replicate a true ship w/o 3D.",
+	"date": "2014-12-12 14:18:03",
+	"files": [
+		{
+			"filename": "galley.wad",
+			"size": 124212,
+			"crc": 1540996841,
+			"md5": "1e6314cae961c1391b01c50f5843181b",
+			"sha1": "f5fba6a15af7242b01dc993c7ebe3e4bb2c46623",
+			"sha256": "9be53f423e48ec4827f77a4277ff621c1a7f9f311748902752a55e6447eb0cca"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "grimripp.wad",
+	"name": "Grim Ripper",
+	"description": "A set of 15 maps designed to be played as an episode (i.e. not a pistol start for each). The author suggests skipping the first three levels and considers 06-15 to be his best work. See the original text-file (included here as !grimripper_eng.TXT) for more information.",
+	"date": "2014-12-27 12:09:42",
+	"files": [
+		{
+			"filename": "grimripp.wad",
+			"size": 1571748,
+			"crc": 2872890324,
+			"md5": "d2b64616768af7c8349c1efa7d2901ea",
+			"sha1": "86288a596216071c37e2ebe4f52dc5f09572b240",
+			"sha256": "eaa16512a0b38e83d7256e14674a36b68f1baaeabd03cf633157a65aa8771a8c"
+		}
+	]
+}

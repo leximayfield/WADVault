@@ -1,0 +1,17 @@
+{
+	"uid": "SPOON (2d0308).wad",
+	"name": "SPOON! (Deathmatch)",
+	"description": "You ain't seen nothing like it! It's big, it's blue, it's FRAGGIN time!",
+	"version": "2d0308",
+	"date": "2013-11-02 15:22:19",
+	"files": [
+		{
+			"filename": "SPOON.wad",
+			"size": 79628,
+			"crc": 4060324579,
+			"md5": "589c9d45450e14400fc959b0b0c3f873",
+			"sha1": "2d030888b0e19bab308b748a11c72134b463a982",
+			"sha256": "1fc571c41fa19627fdedd057e5ef07629d766f39102591803e8aa98ab1be7d9a"
+		}
+	]
+}

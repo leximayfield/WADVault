@@ -1,0 +1,17 @@
+{
+	"uid": "DEATHNET (f92275).wad",
+	"name": "DEATHMATCH NET WAD",
+	"description": "A collection of 5 Doom II deathmatch wads. Level 1 - RERUN.WAD Modified E1M1 from Doom I. Added Doom II weapons and monsters, with a couple new \"secret\" doors and goodies. An old favorite updated. Have fun.",
+	"version": "f92275",
+	"date": "2013-11-02 15:36:30",
+	"files": [
+		{
+			"filename": "DEATHNET.wad",
+			"size": 217139,
+			"crc": 198186556,
+			"md5": "487257cf51648ebed0a44d9b8d04fe36",
+			"sha1": "f922753931cc466e192b9978d1dafa411fae9465",
+			"sha256": "e295ef0bda70592d343a4928b8bb780e8d52d4ec69ba1b4a09c47caf42542509"
+		}
+	]
+}

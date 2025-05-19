@@ -1,0 +1,16 @@
+{
+	"uid": "sargcity.wad",
+	"name": "SARGE CITY",
+	"description": "DOOM II PWAD, so you think Sargeants are a piece of cake, :)",
+	"date": "2015-01-14 23:08:36",
+	"files": [
+		{
+			"filename": "sargcity.wad",
+			"size": 43500,
+			"crc": 1582224146,
+			"md5": "bc7e0498c7f53ae4a6e27705cc2db3a3",
+			"sha1": "3fe8de4bc7b78a53ae536cb55aea6f6accbad1cf",
+			"sha256": "e628f7d835ae3e145b09770206a2e87d5c23508bda3658f9ec96922175c22259"
+		}
+	]
+}

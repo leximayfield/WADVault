@@ -1,0 +1,16 @@
+{
+	"uid": "kazsound.wad",
+	"name": "Kaz Sound",
+	"description": "A sound wad that replaces approx. 40 sounds Plus includes the first five maps with music. MAP 01 - Batman MAP 02 - Jurassic Park MAP 03 - Imperial March (Star Wars) Map 04 - T2 MAP 05 - Halloween",
+	"date": "2015-09-14 20:22:37",
+	"files": [
+		{
+			"filename": "kazsound.wad",
+			"size": 399060,
+			"crc": 2200138074,
+			"md5": "66963ff67fd1dc2cb6011bb3a7ce2f81",
+			"sha1": "5059918a6c987577673ead45f530236d1aa343f6",
+			"sha256": "22598ae786147ff054c046701f74c9f0a04273e8a9f8552b6ccd8b9f41bf61c2"
+		}
+	]
+}

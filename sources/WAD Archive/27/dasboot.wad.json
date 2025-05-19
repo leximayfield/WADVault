@@ -1,0 +1,16 @@
+{
+	"uid": "dasboot.wad",
+	"name": "DASBOOT.WAD",
+	"description": "Got the idea from the movie-soundtrack of \"Das Boot\" by Klaus Doldinger. Fortunately i found a Tekkno-Like MIDI-File of this Track by U 96. The story: Well after alot of ....., you find yourself onboard of a Nazi-Submarine. Try to fight your way out. Thats all folks.",
+	"date": "2014-12-18 22:53:27",
+	"files": [
+		{
+			"filename": "dasboot.wad",
+			"size": 280572,
+			"crc": 1859101499,
+			"md5": "3918116535c73230a0344be1f399a1e5",
+			"sha1": "27d111e2b6917750468f5826294747c428721590",
+			"sha256": "6c2826434819db21028e0f5d5e715797df414aac07ddf6fe01042aa5f098569d"
+		}
+	]
+}

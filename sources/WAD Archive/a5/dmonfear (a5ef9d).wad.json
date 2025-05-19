@@ -1,0 +1,17 @@
+{
+	"uid": "dmonfear (a5ef9d).wad",
+	"name": "Demonfear",
+	"description": "This WAD replaces all 32 levels of Doom2. All levels are playable solo, co-op or DM, to give you maximum playing opportunity!",
+	"version": "a5ef9d",
+	"date": "2013-04-19 03:12:50",
+	"files": [
+		{
+			"filename": "dmonfear.wad",
+			"size": 1938809,
+			"crc": 3459735997,
+			"md5": "2e3adb2560edb03147d39f3293412a32",
+			"sha1": "a5ef9db6b7e39a027e139d373671f177e07f4fe0",
+			"sha256": "6ce8b4b0e602140261a202180dbe7c317453b8f1991985258e503643caf2ee26"
+		}
+	]
+}

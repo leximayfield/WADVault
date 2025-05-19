@@ -1,0 +1,16 @@
+{
+	"uid": "plut1.wad",
+	"name": "Plut1",
+	"description": "Single map for Plutonia. Not meant to be detailed, mainly focused on making Plutonia atmosphere.",
+	"date": "2015-01-14 22:57:53",
+	"files": [
+		{
+			"filename": "plut1.wad",
+			"size": 104202,
+			"crc": 1145623225,
+			"md5": "9ab3084278a311d9fc3ada377c93b9c7",
+			"sha1": "6e6151631afce8a3957cadceb10a2b925deea5b9",
+			"sha256": "3fd291848a911bd6a5e1663677a872a62e07c8e794362880b169fcd0e463c87a"
+		}
+	]
+}

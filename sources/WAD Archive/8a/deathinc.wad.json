@@ -1,0 +1,16 @@
+{
+	"uid": "deathinc.wad",
+	"name": "Deatch Incarnate",
+	"description": "An abandoned base hidden in a cave. Abandoned? What's that, hiding in the gloom...?",
+	"date": "2014-12-22 19:00:25",
+	"files": [
+		{
+			"filename": "deathinc.wad",
+			"size": 3345457,
+			"crc": 2908130747,
+			"md5": "08567bed8b87504b909f2b0faf137fe9",
+			"sha1": "8ad4dbfbcf7cc4c1499aa4636a48d494646bbfd1",
+			"sha256": "269144b958674c5123fcea8efe61cfbbd910171a453bad892a50aef97c347e84"
+		}
+	]
+}

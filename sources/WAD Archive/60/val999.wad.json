@@ -1,0 +1,16 @@
+{
+	"uid": "val999.wad",
+	"name": "Exit to Hell",
+	"description": "New level for Doom2. All three keys, all difficulty levels used, the cyber-demon is there for difficulty level 4, some tricks and traps, first real level I have made for single play Good for Deathmatch too. Fun and a challenge.",
+	"date": "2015-01-14 22:55:23",
+	"files": [
+		{
+			"filename": "val999.wad",
+			"size": 230286,
+			"crc": 1755055010,
+			"md5": "975b0c16538363806473c09eef357b24",
+			"sha1": "60551318b79b34fe022d1c37598cf00b35ad4467",
+			"sha256": "88ff6f3874198ad367e53662c2a1aad19e7f63061639d66feebab63da687ecdb"
+		}
+	]
+}

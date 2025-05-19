@@ -1,0 +1,16 @@
+{
+	"uid": "impndoom.wad",
+	"name": "Impending Doom",
+	"description": "Imagine the high-tech world of Doom around you. Looking around, you find the ground is several hundred feet below you. There is no other way to get to your pal and kill him, so you jump!",
+	"date": "2013-11-04 19:21:39",
+	"files": [
+		{
+			"filename": "impndoom.wad",
+			"size": 17634,
+			"crc": 1241627785,
+			"md5": "de2baff48baacc9308ff832014734544",
+			"sha1": "7b36edade39a8b9bae17cc8a42dc9876e2896c7a",
+			"sha256": "03d0b614d0506295e5baa7b327f024741adbeab9c99d45e0a6c2a3b4a12d0762"
+		}
+	]
+}

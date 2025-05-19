@@ -1,0 +1,16 @@
+{
+	"uid": "majorkey.wad",
+	"name": "Doom In Major Key",
+	"description": "It's the soundtrack you know and love, only happier. Every song from Doom 1 and 2 has been converted to major key, including the title screens, intermissions, and secret levels.",
+	"date": "2019-08-14 01:22:18",
+	"files": [
+		{
+			"filename": "majorkey.wad",
+			"size": 2044637,
+			"crc": 782633053,
+			"md5": "ad61aaf4364c8c73906e1fa9a33c25e2",
+			"sha1": "23f624b5a03f79b509b6d084ded458051ede9bab",
+			"sha256": "4f63277077dc1d49c6685be925126ad49ae5383f9f23a80be47fcce9cd528ab4"
+		}
+	]
+}

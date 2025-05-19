@@ -1,0 +1,17 @@
+{
+	"uid": "SLUDGE (dcba80).wad",
+	"name": "Sludge Plant (SLUDGE.WAD)",
+	"description": "A sludge-reclamation plant (who would want to reclaim sludge???). Deathmatch, SIngle and Co-Op play. This is a very tight, mean little level, with a wide open space near the end (which just means there's no cover :)",
+	"version": "dcba80",
+	"date": "2015-01-14 23:08:44",
+	"files": [
+		{
+			"filename": "SLUDGE.wad",
+			"size": 95662,
+			"crc": 2480132823,
+			"md5": "d65b4b60cf871fce36f674c1e11544c8",
+			"sha1": "dcba805eedbaaa01972b6a99aa84f37274a4d869",
+			"sha256": "63d46fb827dc632efecbdbd5fd5d0368bb3ac8d2f07c9c91fd7e6791e0fb9c4c"
+		}
+	]
+}

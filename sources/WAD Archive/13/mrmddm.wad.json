@@ -1,0 +1,16 @@
+{
+	"uid": "mrmddm.wad",
+	"name": "Megadeth",
+	"description": "This is a medium size fast paced DM level. - with Opengl in mind, it will be a bit dark in software mode.",
+	"date": "2013-04-19 09:39:43",
+	"files": [
+		{
+			"filename": "mrmddm.wad",
+			"size": 593336,
+			"crc": 3170761911,
+			"md5": "b9228849e8ece459cf36b08e5e69b7b3",
+			"sha1": "13774af42a12e6b57e39722c60785b847d414383",
+			"sha256": "0fcec3c5df23fb895b78f1a8195969d038a7ea900532b785dcb9ec54ad6742d5"
+		}
+	]
+}

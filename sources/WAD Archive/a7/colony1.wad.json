@@ -1,0 +1,16 @@
+{
+	"uid": "colony1.wad",
+	"name": "COLONY1",
+	"description": "A kind of large level with enough bad guys to keep it fun!",
+	"date": "2013-11-06 22:15:33",
+	"files": [
+		{
+			"filename": "colony1.wad",
+			"size": 133585,
+			"crc": 3633423706,
+			"md5": "d8d1bf634fe0b9fa472dbe7c4db75b26",
+			"sha1": "a77f10c7235bf9e0121ef5ad11558b314903a963",
+			"sha256": "a9b0e45497f983a055c5f3e01b58f8b9cba6a8ebe519c9d44443f4d7fb8a1a50"
+		}
+	]
+}

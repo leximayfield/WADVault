@@ -1,0 +1,16 @@
+{
+	"uid": "hexsoul.wad",
+	"name": "-=\u00f0 Deadsoul for Hexen \u00f0=- v1.2",
+	"description": "This is a small castle in an open field. Around the castle there is a moat which in it are some moat monsters. This level is Intended for Deathmatches.",
+	"date": "2014-12-31 11:59:03",
+	"files": [
+		{
+			"filename": "hexsoul.wad",
+			"size": 86474,
+			"crc": 115705064,
+			"md5": "85173737795be8a46f43c9bda1dea42b",
+			"sha1": "8668d6d131e5cfa4eb15b2dfdb8f85134c9ef2ff",
+			"sha256": "6d2c10d22b8d8de4246595da686d1f537a7d13e5ab6b78453d12a10eba690a9a"
+		}
+	]
+}

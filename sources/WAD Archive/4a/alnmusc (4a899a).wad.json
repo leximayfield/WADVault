@@ -1,0 +1,17 @@
+{
+	"uid": "alnmusc (4a899a).wad",
+	"name": "Alien Music",
+	"description": "All new, updated, optimized Alien Doom F/X & BGM",
+	"version": "4a899a",
+	"date": "2013-11-06 22:16:07",
+	"files": [
+		{
+			"filename": "alnmusc.wad",
+			"size": 91040,
+			"crc": 1071067483,
+			"md5": "a3b7849f7e941757c39a076951149b01",
+			"sha1": "4a899af469fb0d42428a333b40c2f4cb827cd35e",
+			"sha256": "876a1fb538bb064fa355dbb9c3ea0c246d3469bec9def788202e7d63a9f394cd"
+		}
+	]
+}

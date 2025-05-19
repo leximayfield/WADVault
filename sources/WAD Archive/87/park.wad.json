@@ -1,0 +1,16 @@
+{
+	"uid": "park.wad",
+	"name": "The Park V1.0",
+	"description": "A large courtyard with gardens at each corner, a monument in the middle, and tunnels and rooms all around it...",
+	"date": "2015-01-14 14:37:41",
+	"files": [
+		{
+			"filename": "park.wad",
+			"size": 282020,
+			"crc": 2676836692,
+			"md5": "f951c47762ccead793fb5e7f5db76e67",
+			"sha1": "875eee4d25407a3b071741e3200d9bfa0c6cfec5",
+			"sha256": "a60bd4fb04b7b70fad2e5b07d4a3e2f968a433e131a910bfd2a08be3abac62d9"
+		}
+	]
+}

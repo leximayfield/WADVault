@@ -1,0 +1,17 @@
+{
+	"uid": "cbase (987ef9).wad",
+	"name": "Computer Base",
+	"description": "This is a rather small map, it is ment to replace the first map in a megawad, so do not expect high level monsters or weapons, it is mostly pistol fighting weaker opponents (But you may encounter a shotgun hidden in a secret area). The basic design of this map was inspired of the first level of Doom2.wad, \"Entryway\".",
+	"version": "987ef9",
+	"date": "2014-12-15 21:47:10",
+	"files": [
+		{
+			"filename": "cbase.wad",
+			"size": 1133978,
+			"crc": 1790348536,
+			"md5": "ca517a0ae9ad576024cb1f7880c53320",
+			"sha1": "987ef973eced5ddfc06f779dc11dc1f9ecc1a493",
+			"sha256": "36cf8815d73c69259ed12a6bb7e020bf379a888721c6d74ae2b2c68b28e5c585"
+		}
+	]
+}

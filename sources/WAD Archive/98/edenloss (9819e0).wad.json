@@ -1,0 +1,17 @@
+{
+	"uid": "edenloss (9819e0).wad",
+	"name": "Eden Loss (version 2)",
+	"description": "An 8 level wad, The last 4 are a HUB. Caves, metal fortresses, forests, villages and more!",
+	"version": "9819e0",
+	"date": "2019-03-19 22:25:41",
+	"files": [
+		{
+			"filename": "edenloss.wad",
+			"size": 4328086,
+			"crc": 896397755,
+			"md5": "ae0783bec33fb9d0db2efb3483795a52",
+			"sha1": "9819e0539988775a479a1581b6bdeb7ff369f395",
+			"sha256": "75e29f1132b348fb19e298a49622c69dc981c6100d3ee0f1169503d0aac0e64f"
+		}
+	]
+}

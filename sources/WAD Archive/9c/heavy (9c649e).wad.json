@@ -1,0 +1,17 @@
+{
+	"uid": "heavy (9c649e).wad",
+	"name": "HEAVY.WAD",
+	"description": "Musics only! Doom does not (unfortunately) allow you to simply insert your favorite CD in cdrom drive, so you have to use midi files. This is a heavy metal tune collection carefully selected to suit the atmosphere of the game. The tracks are mostly by Metallica, with a few Iron Maiden songs thrown in. Here's the complete listing of the tracks used: Title Screen: Of Wolf and Man (Metallica) Mission End Screen: Sad but True (Metallica) Text Screens: Through the Never (Metallica) Map01: Master of Puppets (Metallica) Map02: Fade to Black (Metallica) Map03: Four Horsemen (Metallica) Map04: Afraid to Shoot Strangers (Iron Maiden) Map05: Blackened (Metallica) Map06: For Whom the Bell Tolls (Metallica) Map07: Hero of the Day (Metallica) Map08: Orion (Metallica) Map09: Wherever I May Roam (Metallica) Map10: One (Metallica) Map11: Mama Said (Metallica) Map12: Damage, Inc. (Metallica) Map13: Fear of the Dark (Iron Maiden) Map14: Battery (Metallica) Map15: Am I Evil? (Metallica) Map16: Creeping Death (Metallica) Map17: Phantom of the Opera (Iron Maiden) Map18: The House that Jack Built (Metallica) Map19: Moonchild (Iron Maiden) Map20: Enter Sandman (Metallica) Map21: Metal Militia (Metallica) Map22: Revelations (Iron Maiden) Map23: Ain't My Bitch (Metallica) Map24: The Thing that Should Not Be (Metallica) Map25: Killers (Iron Maiden) Map26: Call of Ktulu (Metallica) Map27: Fight Fire with Fire (Metallica) Map28: The Unforgiven (Metallica) Map29: Seek and Destroy (Metallica) Map30: Master of Puppets (Metallica, diff. version) Map31: Running Free (Iron Maiden) Map32: Jump in the Fire (Metallica)",
+	"version": "9c649e",
+	"date": "2014-12-27 12:14:27",
+	"files": [
+		{
+			"filename": "heavy.wad",
+			"size": 1415396,
+			"crc": 888038834,
+			"md5": "ff62183cc6ea5c2e0f91ca2dbb1e5e25",
+			"sha1": "9c649e318e108dfd707b4e1ac3ff752ee0ba8a33",
+			"sha256": "ae2b0015e12db51d9fde1596652492b633ca72350c010b7db78f5381334ce0f8"
+		}
+	]
+}

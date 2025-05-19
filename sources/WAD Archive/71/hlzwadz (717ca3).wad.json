@@ -1,0 +1,17 @@
+{
+	"uid": "hlzwadz (717ca3).wad",
+	"name": "HLZGATE.WAD (Hell's Gate)",
+	"description": "Once again using my patented secret doom-building recipez from hEll...",
+	"version": "717ca3",
+	"date": "2013-11-02 15:10:19",
+	"files": [
+		{
+			"filename": "hlzwadz.wad",
+			"size": 550410,
+			"crc": 3808172203,
+			"md5": "48ef5abb7571660426c9080b867dc604",
+			"sha1": "717ca32fbb88947e05823567f5fc2e1a03f6962d",
+			"sha256": "53e47370486c8209fe276c5d352b7c92445e0d231a9013c5910bfa26c6a0c9e4"
+		}
+	]
+}

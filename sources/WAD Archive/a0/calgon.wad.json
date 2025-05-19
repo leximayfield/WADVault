@@ -1,0 +1,16 @@
+{
+	"uid": "calgon.wad",
+	"name": "Calgon, Take me away!",
+	"description": "Built for Ultimate Doom v1.9 Map based on my workplace. run on E1M1",
+	"date": "2014-12-13 12:45:34",
+	"files": [
+		{
+			"filename": "calgon.wad",
+			"size": 383457,
+			"crc": 1277888385,
+			"md5": "808836404dee80644fee6ff3c0785ab0",
+			"sha1": "a009593dd84327382a177f6bf9b5ffc26e3ac824",
+			"sha256": "87cba5736bd8f372822d459d7943b339e1a6426ab262bd2402c6f41b6f417e2a"
+		}
+	]
+}

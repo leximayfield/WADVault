@@ -1,0 +1,17 @@
+{
+	"uid": "breach (6fe2f0).wad",
+	"name": "Breach",
+	"description": "Sprawling techbase medley with surreal interludes in hell. Assume the usual twaddle about teleportation research gone awry.",
+	"version": "6fe2f0",
+	"date": "2018-02-15 20:39:54",
+	"files": [
+		{
+			"filename": "breach.wad",
+			"size": 17094778,
+			"crc": 3885649464,
+			"md5": "225c8e69ddcb780e77a53799bfda4bfa",
+			"sha1": "6fe2f0b25b17f75f432fe43c61940adb632be32b",
+			"sha256": "c0fe511218aeff860843a625806de825e40a6bdca4e045da941ea6cffa01924a"
+		}
+	]
+}

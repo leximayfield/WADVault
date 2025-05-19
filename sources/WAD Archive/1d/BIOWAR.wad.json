@@ -1,0 +1,16 @@
+{
+	"uid": "BIOWAR.wad",
+	"name": "Operation : BIOWAR",
+	"description": "Biowar is a doom2 megawad in the spirit of ICARUS and others. It consists of 18 regular levels and 1 secret level. The levels range from moderate to hard and are all very well done. Enjoy!",
+	"date": "2013-04-19 01:43:42",
+	"files": [
+		{
+			"filename": "BIOWAR.wad",
+			"size": 5646416,
+			"crc": 3408252464,
+			"md5": "28009a1dcb1c26aad04c397cd3fa0db0",
+			"sha1": "1d179c7bfe239f40476b7dc04e88231b09e57ae0",
+			"sha256": "4da22893a0559a7366340fd6c6444c1f7cadf61d944bbe3f4358aec9cda2f897"
+		}
+	]
+}

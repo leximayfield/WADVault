@@ -1,0 +1,16 @@
+{
+	"uid": "megadm.wad",
+	"name": "Megaaussie's Mega Deathmatch",
+	"description": "Just 3 deathmatch maps. MAP01 is my favourite, as MAP02 is a bit laggy and MAP03 is WAY TOO SMALL. I am planning to finish (make bigger) map02 and map03 but don't hold your breath.",
+	"date": "2014-12-12 14:19:23",
+	"files": [
+		{
+			"filename": "megadm.wad",
+			"size": 1292454,
+			"crc": 2488238719,
+			"md5": "f4b56eeea96bfc138e72d4bf865d0a14",
+			"sha1": "f504337e0f2562f62a31c2cbb64d02fb191f0d06",
+			"sha256": "8be8d1a90f4a615be532a41e2080146c6eca206c1530c5089c78ca29c3f8a157"
+		}
+	]
+}

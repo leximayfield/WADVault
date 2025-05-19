@@ -1,0 +1,16 @@
+{
+	"uid": "tiber2.wad",
+	"name": "TIBER2.WAD (Tiberius DM Level 2)",
+	"description": "Excellent Deathmatch level. Good fast full-on frag-fests on a tight good looking and themed level. Designed for skill 5, old deathmatch.",
+	"date": "2014-12-15 22:36:44",
+	"files": [
+		{
+			"filename": "tiber2.wad",
+			"size": 38013,
+			"crc": 341358134,
+			"md5": "3ad71a94f3370a5537934924c2080428",
+			"sha1": "81604b2f2ad70dac7f6186baccc41ca4747e517b",
+			"sha256": "b8e01a442462c925466257dcbc074b188562181ef9fb717bc47929dc5c3dfd92"
+		}
+	]
+}

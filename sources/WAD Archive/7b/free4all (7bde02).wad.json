@@ -1,0 +1,17 @@
+{
+	"uid": "free4all (7bde02).wad",
+	"name": "Free4All",
+	"description": "I got tired of playing deathmatches in in the Hexen wads, so I built my own.",
+	"version": "7bde02",
+	"date": "2013-11-02 17:12:15",
+	"files": [
+		{
+			"filename": "free4all.wad",
+			"size": 43968,
+			"crc": 1533394874,
+			"md5": "b8f931da172f94d4904175046fcbbf27",
+			"sha1": "7bde023c4942527022a569d6505cfe34a46beeed",
+			"sha256": "228142d72ee7ae6e4c1eed776a29b1a2b482bc65602ede0d74b97b57f81eb3e9"
+		}
+	]
+}

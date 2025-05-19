@@ -1,0 +1,17 @@
+{
+	"uid": "fdcm19 (f6f907).wad",
+	"name": "FDC #17 Map",
+	"description": "A map for First-Try Demo Contest #17, which was held at 09.02.2017 14:00 UTC. The archive contains demo files for 15 contest participants and the table with results, located in \"fdc17\" subdirectory.",
+	"version": "f6f907",
+	"date": "2017-10-19 19:29:17",
+	"files": [
+		{
+			"filename": "fdcm19.wad",
+			"size": 2721851,
+			"crc": 341527195,
+			"md5": "a6a1403eb2eff1476c559cf066fe0a5f",
+			"sha1": "f6f9075ab75f8d00ccf85d1ca855a9bfd11b4744",
+			"sha256": "9e9d41acb146d1a0759bc8c0410504802a8ddbcbd6796b6c3d9a0e28c63c3760"
+		}
+	]
+}

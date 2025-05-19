@@ -1,0 +1,16 @@
+{
+	"uid": "empyrion_b24a.wad",
+	"name": "Empyrion",
+	"description": "Nine single-player/coop maps, and three really old versions for comparison.",
+	"date": "2013-08-30 21:51:04",
+	"files": [
+		{
+			"filename": "empyrion_b24a.wad",
+			"size": 6925817,
+			"crc": 94791448,
+			"md5": "bbc5ce9a9ee0bc47776b8114a02e4b39",
+			"sha1": "dda74df89fd15a7bf865701b83e6c051571a3da7",
+			"sha256": "5b7e8e0034aae6dadc95f9a612bede524ba33670ae1ae6c0934025136e6d976e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "led (8123aa).wad",
+	"name": "LED78.WAD",
+	"description": "Originally designed for Deathmatch. A production plant inhabited by monsters. This, I've been told, is a pleasing and consistent WAD. Let me know if you like it.",
+	"version": "8123aa",
+	"date": "2013-11-02 15:10:08",
+	"files": [
+		{
+			"filename": "led.wad",
+			"size": 77971,
+			"crc": 868783382,
+			"md5": "2f255493dc3f94221ce66fd7096ab351",
+			"sha1": "8123aa69dce51873278100b925d3842bd145919b",
+			"sha256": "5c7f79ffced593d93a713dae1456d76d4963e3a3eeefc0e89bdb391ddd8eb81d"
+		}
+	]
+}

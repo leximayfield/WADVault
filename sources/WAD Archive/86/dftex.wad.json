@@ -1,0 +1,16 @@
+{
+	"uid": "dftex.wad",
+	"name": "Daggerfall Textures",
+	"description": "Over 1000 textures (655 walls, 386 flats) from the game Daggerfall, as well as five skies.",
+	"date": "2015-09-15 19:20:48",
+	"files": [
+		{
+			"filename": "dftex.wad",
+			"size": 8135147,
+			"crc": 1474347706,
+			"md5": "eea500070ac01d7bcf4cf5bb7bbd5186",
+			"sha1": "8684da610dc3cb710268edbb7e4fb0fb0dc5d464",
+			"sha256": "bdf06a1b9d5c368740192329bee3c8cd19c51df1aad4301a82ce330e94026f4c"
+		}
+	]
+}

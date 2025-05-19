@@ -1,0 +1,16 @@
+{
+	"uid": "chips19.wad",
+	"name": "Chip's Doom Challenge",
+	"description": "This is a remake of 19 levels from the Windows version of Chip's Challenge. Each map number corresponds with the level number from CC. The maps were based off of CC solution maps.",
+	"date": "2013-04-19 02:24:51",
+	"files": [
+		{
+			"filename": "chips19.wad",
+			"size": 2088698,
+			"crc": 146056951,
+			"md5": "7fce8f44645b801a3f466d552259b5c7",
+			"sha1": "1d852f1e1cb17f2c4816fec0ed6513aca64c2776",
+			"sha256": "851a684b8fe39187cfacb8a90b3c3556074eec9d97c067b0ad8a16948b3621a5"
+		}
+	]
+}

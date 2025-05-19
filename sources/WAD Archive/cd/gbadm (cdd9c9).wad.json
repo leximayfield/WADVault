@@ -1,0 +1,17 @@
+{
+	"uid": "gbadm (cdd9c9).wad",
+	"name": "GBA Deathmatch Levels",
+	"description": "This is the Deathmatch Levels from the Gameboy Advance version of Doom ripped using Kaiser's excellent GBA Ripping tool. The maps inside were organized by me, and I aligned all the textures, fixed a bug, and optimized it.",
+	"version": "cdd9c9",
+	"date": "2014-12-15 22:41:52",
+	"files": [
+		{
+			"filename": "gbadm.wad",
+			"size": 688576,
+			"crc": 896175937,
+			"md5": "5bdf700259e71fd1f6830aa44517ba9b",
+			"sha1": "cdd9c98adf0895de57d1251531df46e78597b447",
+			"sha256": "55689877ec4eedf974be26fc2504977a705f411080fb768748df02de10c7114f"
+		}
+	]
+}

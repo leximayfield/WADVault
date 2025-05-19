@@ -1,0 +1,17 @@
+{
+	"uid": "snake (031985).wad",
+	"name": "Escape From Doom2, Version 1",
+	"description": "After rescuing the president from New York, Snake was accosted by a dimensional shambler. Displeased with the death of one of their brightest minions (The Duke Of New York), the forces of hell have summoned Duke to confront the Prince Of Darkness. Snake must battle his way through hell, destroying the hideous minions of darkness. Can you make him succeed?",
+	"version": "031985",
+	"date": "2014-12-11 22:30:53",
+	"files": [
+		{
+			"filename": "snake.wad",
+			"size": 788576,
+			"crc": 1884992482,
+			"md5": "3eaa9c4eef4ae949f1c67f5f38a48ff8",
+			"sha1": "031985164b41e78e00c3a1d3b9104873a7818e41",
+			"sha256": "dd1f5985065099a4a052d5bf8e0f3b9cb13e15802619933488447b3e73072f09"
+		}
+	]
+}

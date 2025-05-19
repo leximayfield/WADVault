@@ -1,0 +1,17 @@
+{
+	"uid": "HUNT (a4f0c5).wad",
+	"name": "Hunt",
+	"description": "A cirlce of hallways with a room in its middle. Good for fast deathmatch action.",
+	"version": "a4f0c5",
+	"date": "2013-11-04 19:25:15",
+	"files": [
+		{
+			"filename": "HUNT.wad",
+			"size": 19845,
+			"crc": 3904296925,
+			"md5": "94ebe75751e9355afe1bf956db8a74aa",
+			"sha1": "a4f0c57bed02af56f31309383bb23f9481d2bdb7",
+			"sha256": "76db5c7f36c82caaf6b9e6fdb203124711eab997f2b3fa9cd830697b9c2b3189"
+		}
+	]
+}

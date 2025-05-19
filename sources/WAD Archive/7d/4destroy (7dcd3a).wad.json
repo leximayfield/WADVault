@@ -1,0 +1,17 @@
+{
+	"uid": "4destroy (7dcd3a).wad",
+	"name": "Four Destroy",
+	"description": "I got motivated in making this wad after looking at DANZIG1.WAD (a VERY good deathmatch wad). This wad is very small and encounters between players are very quick. Every weapon with the exception of the beserk pack is available. Also you start right on top of a weapon so there is no need to go hunting. It is best that this wad be played with the -nomonster parameter. If monsters are used, use the respawn parameter and be prepared to stay out of the middle halls. There are 4 secret rooms with ammo in them; two of which are the 'key' to exiting the level (multiplyaer exit only).",
+	"version": "7dcd3a",
+	"date": "2014-01-07 22:23:36",
+	"files": [
+		{
+			"filename": "4destroy.wad",
+			"size": 80717,
+			"crc": 647530925,
+			"md5": "f548cad6b6272bb5a3fdf69dcaf2a1e5",
+			"sha1": "7dcd3a2fcd5a4424a1e7f4c0e2b498d4ab475b8f",
+			"sha256": "0704b8f420e09c5cc3db5e105c43d3e38b93dcd2e43c8b31873cb25bb1ce2562"
+		}
+	]
+}

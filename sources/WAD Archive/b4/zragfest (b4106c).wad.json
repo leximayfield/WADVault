@@ -1,0 +1,17 @@
+{
+	"uid": "zragfest (b4106c).wad",
+	"name": "Frag Fest",
+	"description": "It's for Deathmatch. This is an updated version of andywad.zip. It contains some cosmetic changes that caused major HOM effects in the Dark Red Room(tm;). The doors are correct size (X and Y). Fixed that one door where you couldn't open it up from the in- side (where the plasma gun is) because it was not a repeatable linedef (could only do it once).",
+	"version": "b4106c",
+	"date": "2014-12-03 20:12:42",
+	"files": [
+		{
+			"filename": "zragfest.wad",
+			"size": 105023,
+			"crc": 3170160042,
+			"md5": "13a9d1efd00b23774ec3b0bad7801ae6",
+			"sha1": "b4106cbbf44de2016bd3bd7839d6b3bde97bcd33",
+			"sha256": "83334c2ec4b4455320090041c9b5b565f32f147ff3a7876482d14b897e576733"
+		}
+	]
+}

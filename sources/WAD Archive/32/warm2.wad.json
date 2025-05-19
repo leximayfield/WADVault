@@ -1,0 +1,16 @@
+{
+	"uid": "warm2.wad",
+	"name": "WARm Welcome 2",
+	"description": "Single Player/Cooperative level based on WARM.WAD (for DOOM1)",
+	"date": "2015-01-14 14:38:54",
+	"files": [
+		{
+			"filename": "warm2.wad",
+			"size": 194272,
+			"crc": 3186366533,
+			"md5": "168ad8f2137c63ae4bc4020195e71da3",
+			"sha1": "320f0a82b124796730d56d937d9317aae1015249",
+			"sha256": "6ff277ee2291d4a3e81dab2a8085197db431618d3363ce40fbddcc42525fc95c"
+		}
+	]
+}

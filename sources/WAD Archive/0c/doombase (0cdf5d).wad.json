@@ -1,0 +1,17 @@
+{
+	"uid": "doombase (0cdf5d).wad",
+	"name": "BASE.WAD",
+	"description": "This level is the result of the many long hours I have spent trying to make a wad that I thought was unique and sophisticated.",
+	"version": "0cdf5d",
+	"date": "2014-08-30 14:27:02",
+	"files": [
+		{
+			"filename": "doombase.wad",
+			"size": 179845,
+			"crc": 3799216682,
+			"md5": "26fcfa0c7e7e0604038af2eebcbdc712",
+			"sha1": "0cdf5dae04d17a320765e7510cf434148e86c820",
+			"sha256": "74ffdb2a32960ee4505f059792dff4b595c765671866177f9f414b435e6cf7f9"
+		}
+	]
+}

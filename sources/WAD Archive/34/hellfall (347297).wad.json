@@ -1,0 +1,17 @@
+{
+	"uid": "hellfall (347297).wad",
+	"name": "The Fall of Hell",
+	"description": "Hell is nearly dead, and is down to its last soldiers. Finish them off and destroy hell, hopefully forever.",
+	"version": "347297",
+	"date": "2015-09-15 17:24:30",
+	"files": [
+		{
+			"filename": "hellfall.wad",
+			"size": 1792608,
+			"crc": 2887664648,
+			"md5": "c8cfcc8ed1a3aa341f59d0fc9a07eade",
+			"sha1": "347297016509d7561d0f895fd25c76eea7b9f457",
+			"sha256": "1213bdf97792f75907bd0aeae101426db638b1ed11acf2970771cd7432c115ef"
+		}
+	]
+}

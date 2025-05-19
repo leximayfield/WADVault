@@ -1,0 +1,17 @@
+{
+	"uid": "quest (36070a).wad",
+	"name": "THE CRIMSON'S QUEST!",
+	"description": "This is my second big solo/coop level. I tried to make it not too hard to play with some nice designs and some cheap tricks. I learnt a lot since my first wad (which was not as good as I expected). Anyway, this level is a lot of fun (Yeah, shure!). Play it!",
+	"version": "36070a",
+	"date": "2014-10-14 20:55:59",
+	"files": [
+		{
+			"filename": "quest.wad",
+			"size": 146147,
+			"crc": 4037084883,
+			"md5": "e13799419b2e401bd45f4e3c1b1e9571",
+			"sha1": "36070a5d263b228ca12f4d7042c5138a112ee982",
+			"sha256": "76c939b6a38d7a9c2f4a419c18c8d8aa98f8410a11a82cf591570900440b4159"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bunker (8ca992).wad",
+	"name": "Undergound Military Bunker",
+	"description": "Trapped in the enemy bunker, your only goal is to get out alive. Such a simple plan, such an impossible feat.",
+	"version": "8ca992",
+	"date": "2014-01-04 11:55:54",
+	"files": [
+		{
+			"filename": "bunker.wad",
+			"size": 156998,
+			"crc": 3922155104,
+			"md5": "897178268017295fea6ec5f26a9fe442",
+			"sha1": "8ca99276fa544d66adafbcd9b78ee2cdac590db6",
+			"sha256": "6199cb2ba81ae2ee4d48ee9a75e2f3aeee84df12c1d891db68f4894837303669"
+		}
+	]
+}

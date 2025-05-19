@@ -1,0 +1,16 @@
+{
+	"uid": "map18mem.wad",
+	"name": "Not in my courtyard",
+	"description": "Vanilla map inspired by \"The Courtyard\", one of my favorite levels from Doom II. It can be tough on ammo, so aim carefully and make use of monster infightings where possible. If you still have problems, try lower skills: the start will be a lot easier.",
+	"date": "2015-09-14 20:29:38",
+	"files": [
+		{
+			"filename": "map18mem.wad",
+			"size": 297731,
+			"crc": 2901901115,
+			"md5": "679dec452e8d4c83e7fc8092695df44d",
+			"sha1": "3b3eec76dcb6ffca96aa5aff4c620883903bcddf",
+			"sha256": "36c9e733cde62c77f0ca3076382be164e39c6052da758d32cd6aee59f3dfba08"
+		}
+	]
+}

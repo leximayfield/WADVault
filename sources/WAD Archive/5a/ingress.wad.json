@@ -1,0 +1,16 @@
+{
+	"uid": "ingress.wad",
+	"name": "Hell's Ingress",
+	"description": "A fairly short map remaking Hell Gate, a very short map from the console versions of Doom. It was made from scratch.",
+	"date": "2014-12-22 18:37:30",
+	"files": [
+		{
+			"filename": "ingress.wad",
+			"size": 230149,
+			"crc": 1797134333,
+			"md5": "9ab916d202fc64163506bc96b874f9bc",
+			"sha1": "5a45535ffe02bdd98f7dc4593ecc727494672a99",
+			"sha256": "f8843e8f20c641f86902fb214138a558674ca6a2904440f7c83ad38625809103"
+		}
+	]
+}

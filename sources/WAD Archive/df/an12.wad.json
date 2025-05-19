@@ -1,0 +1,16 @@
+{
+	"uid": "an12.wad",
+	"name": "2012 Collection",
+	"description": "I started mapping back in 2012, and during that early period of excitedly screwing around with DB2 I made a half dozen maps for a couple different projects that all amounted to nothing. They were sitting in a random folder gathering dust until I found them and thought they were charming enough to warrant sharing. The first two maps were made when I had no idea whatsoever how map formats or engine specifications worked, so I just made them in UDMF becuse that's what I was told to do. Then I found vanilla/limit removing, and things get a lot more straightforward from there.",
+	"date": "2019-03-19 22:13:48",
+	"files": [
+		{
+			"filename": "an12.wad",
+			"size": 4445621,
+			"crc": 4193260898,
+			"md5": "0e25b45028cf1874af746abd0a002ecf",
+			"sha1": "dfa8a35d72991685899ec588369c6ed1eac07156",
+			"sha256": "24dd96cee1358775ae1b86d435fa4e6769e04b1fe3301cd516c6940147c12e5a"
+		}
+	]
+}

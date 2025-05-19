@@ -1,0 +1,16 @@
+{
+	"uid": "torches.wad",
+	"name": "TORCHES.WAD",
+	"description": "This is the first WAD I've done with the always popular castle theme, so bear with me. This one has lots of torches (hence the name), marble all around and other castle-like features.",
+	"date": "2014-12-13 12:48:24",
+	"files": [
+		{
+			"filename": "torches.wad",
+			"size": 176294,
+			"crc": 2123503545,
+			"md5": "6f203b56d1a37cbd5603084df45b7cc7",
+			"sha1": "9c343fd339434ae66a48de1524148b8baf82dca6",
+			"sha256": "dc7578a6ee74e9a3789e700aec9b55dbe477f7e68575befb038d1db59c80be15"
+		}
+	]
+}

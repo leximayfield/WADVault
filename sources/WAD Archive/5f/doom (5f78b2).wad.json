@@ -1,0 +1,16 @@
+{
+	"uid": "doom (5f78b2).wad",
+	"name": "Doom v0.4a",
+	"version": "5f78b2",
+	"date": "2014-02-23 18:06:58",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 2675669,
+			"crc": 3366499818,
+			"md5": "b6afa12a8b22e2726a8ff5bd249223de",
+			"sha1": "5f78b23fbffc828f5863ecff7e908d556241ff45",
+			"sha256": "2b5436865489febc82eb0744f9583dab49b3fab6c42535f1ce0bfdc3e03b6fba"
+		}
+	]
+}

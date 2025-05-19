@@ -1,0 +1,16 @@
+{
+	"uid": "crazyctf.wad",
+	"name": "(CrazyCTF)",
+	"description": "(A CTF pack with 15 maps, the mapinfo shows the author.)",
+	"date": "2013-04-18 23:44:34",
+	"files": [
+		{
+			"filename": "crazyctf.wad",
+			"size": 6598810,
+			"crc": 1431376488,
+			"md5": "807769eb9e2201af95ec66272a9f15ef",
+			"sha1": "d6be766decfffe3b3a270afb919d82bb3fc60814",
+			"sha256": "470e5f441d8d5573ed76eb4d55d14e99edbb02600cfaa497dddba7ee7ae12c85"
+		}
+	]
+}

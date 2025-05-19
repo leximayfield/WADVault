@@ -1,0 +1,16 @@
+{
+	"uid": "enhdoom1.wad",
+	"name": "Enhanced Weapons Patch",
+	"description": "An addon for Don Tello's Enhanced Weapons Patch (dtcog40.zip) to enable the patch to be used with Doom v1.9 and Ultimate Doom v1.9",
+	"date": "2014-12-11 22:15:18",
+	"files": [
+		{
+			"filename": "enhdoom1.wad",
+			"size": 122392,
+			"crc": 1520179243,
+			"md5": "826f7d99b3c5128188f357be92da892a",
+			"sha1": "3c6568a6648570e37e45f2e9fe19a0a51f8aa544",
+			"sha256": "a9d58f3bc8a6521c9470a8fbef78350de59eb0e448822dfdfe6316bb9b7fc4cd"
+		}
+	]
+}

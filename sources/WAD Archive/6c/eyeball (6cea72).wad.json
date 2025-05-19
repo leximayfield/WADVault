@@ -1,0 +1,17 @@
+{
+	"uid": "eyeball (6cea72).wad",
+	"name": "Eyeball",
+	"description": "Eyeball is a ridiculous level resembling an eyeball. You start off in the pupil and you go outwards into the snow. Have your resources ready. Otherwise, you are doomed to failure. My eyes are on you. You can try playing this single-level wad with a ZDoom-driven source port but you are likely to run into performance issues. Link to the demo can be found here: https://www.youtube.com/watch?v=HeluhZVMBNE",
+	"version": "6cea72",
+	"date": "2018-02-15 20:53:55",
+	"files": [
+		{
+			"filename": "eyeball.wad",
+			"size": 2141820,
+			"crc": 1231376378,
+			"md5": "786cad74f92cad2f2be733ecd29dd65b",
+			"sha1": "6cea72b4da557c6567101a8d599108baab537e25",
+			"sha256": "49517d9dc3db6030f428d726666c716ad3742501e36cc700cfd21ea996778578"
+		}
+	]
+}

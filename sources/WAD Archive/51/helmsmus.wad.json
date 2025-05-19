@@ -1,0 +1,16 @@
+{
+	"uid": "helmsmus.wad",
+	"name": "Helm's Deep Music",
+	"description": "This is the music wad for helmsdeep.wad which should be in the same directory as this file. They're in their own files so poor saps on 56k don't have to download quite as large a file. It's a low quality ogg of Requiem for the Ring in a wad.",
+	"date": "2014-12-24 17:35:20",
+	"files": [
+		{
+			"filename": "helmsmus.wad",
+			"size": 2336592,
+			"crc": 548081958,
+			"md5": "3e1d451df7af75222c63b7cbab504915",
+			"sha1": "513699f357d597edb8c0e3f24ec65f075010d718",
+			"sha256": "9becba010ac3cc7a4ecd4ef90e56cedcee7a3e020f4766ba74a089f66cec41e9"
+		}
+	]
+}

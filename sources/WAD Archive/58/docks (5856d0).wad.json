@@ -1,0 +1,17 @@
+{
+	"uid": "docks (5856d0).wad",
+	"name": "DOCK YARD",
+	"description": "The fifth wad in the series.",
+	"version": "5856d0",
+	"date": "2014-12-18 22:22:07",
+	"files": [
+		{
+			"filename": "docks.wad",
+			"size": 115016,
+			"crc": 860266417,
+			"md5": "a0f54d8de9f903237f474ec58c0acf45",
+			"sha1": "5856d0c9fa8c12ca024e44e45265937a9dbe0c99",
+			"sha256": "21aeecc0d0dc2602a6da0dc60a0481b4295ec6ea5025f31fcccbcc47983a660e"
+		}
+	]
+}

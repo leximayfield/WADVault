@@ -1,0 +1,16 @@
+{
+	"uid": "thegiven.wad",
+	"name": "The Given",
+	"description": "The Given is a monsterless puzzle map with an emphasis on exploration.",
+	"date": "2018-04-14 23:44:38",
+	"files": [
+		{
+			"filename": "thegiven.wad",
+			"size": 6835538,
+			"crc": 2434465797,
+			"md5": "480ee06fea2ff474aed708317d187009",
+			"sha1": "5d5bcaa372cf563918c69eccc9f049d3d1ca73be",
+			"sha256": "0905aafd2447823134299de59e93ed85bedb6bed9aa00b574ecf2d76ea7d84ca"
+		}
+	]
+}

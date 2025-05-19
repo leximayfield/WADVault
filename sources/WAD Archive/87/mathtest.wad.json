@@ -1,0 +1,16 @@
+{
+	"uid": "mathtest.wad",
+	"name": "Math Test",
+	"description": "This is a small gimmicky map that has no monsters. Instead you have to solve mathematical problems or be squished, dissolved or blown up.",
+	"date": "2018-04-16 07:26:35",
+	"files": [
+		{
+			"filename": "mathtest.wad",
+			"size": 422006,
+			"crc": 1335140870,
+			"md5": "6b7a32445f63d192d70c9814a077a3bf",
+			"sha1": "878e3539b94348ab4b4e89ac546f5ed5b24de2a3",
+			"sha256": "9ab73f1ebee9793254e59c3a8d1eb0af5af2b3a9feb3388e29ed9a806a50e6a6"
+		}
+	]
+}

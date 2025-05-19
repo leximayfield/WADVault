@@ -1,0 +1,16 @@
+{
+	"uid": "velocity.wad",
+	"name": "Velocity",
+	"description": "3rd wad I've done for the level design group, iNTREPiD. I decided to try a change of pace. Usually, my DM wads are large, with plenty of room for a \"hunt-style\" game. I kept this wad nice and tight. I'm really pleased with the results. Hope you are too.",
+	"date": "2014-12-15 22:27:29",
+	"files": [
+		{
+			"filename": "velocity.wad",
+			"size": 50775,
+			"crc": 2507975411,
+			"md5": "fb3ed57c9e93625abb0232061165eae3",
+			"sha1": "7a283e0d82d1d0d8d3de68033f1054f9c2af4092",
+			"sha256": "687ddc7a0eff412068c7625da4d40a2e2fb267d9f17b1ef42ab4ab464a38a261"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sludgfac.wad",
+	"name": "The Sludge Factory (SLUDGFAC.WAD)",
+	"description": "This is my second WAD. It is set in MegaTox, a toxin factory. The new graphics consist of a polluted, radioactive sky, two new wall textures, a floor texture which bears a striking resemblance to one of the original wall patches, and a subtly (!) altered pallette that adds a green haze which hangs over the factory. I also wrote a new song for this level--don't complain if the timing isn't perfect; the keyboard isn't my main instrument, and I don't have any fancy sequencing equipment. Email me and let me know what you think of this WAD. Try to avoid slipping into the toxic acid! . . . . But you will, eventually . . . .",
+	"date": "2014-12-13 12:49:20",
+	"files": [
+		{
+			"filename": "sludgfac.wad",
+			"size": 326616,
+			"crc": 551862274,
+			"md5": "2e091b51939a9c9c531b0f5a69b29e33",
+			"sha1": "2b8e0644f81b650dd6e43427ae9e0c1b9da602b5",
+			"sha256": "7f9e3af6071a075b53cccece8b61f664fd2d338840880c7a1b82541d8cbe9e88"
+		}
+	]
+}

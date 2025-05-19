@@ -1,0 +1,16 @@
+{
+	"uid": "DMKART.wad",
+	"name": "DmKart.WAD",
+	"description": "The battle mode levels of Mario Kart",
+	"date": "2014-08-30 13:58:55",
+	"files": [
+		{
+			"filename": "DMKART.wad",
+			"size": 64462,
+			"crc": 210720123,
+			"md5": "79026ad097bf36fbfa621339c476be8e",
+			"sha1": "2e5cc3622fa1f8242fe1d10154dcb901d44cb53c",
+			"sha256": "a94af46905ef906aec146c27a1e72ee26f1f0125b42b2eefa406f71d10894de9"
+		}
+	]
+}

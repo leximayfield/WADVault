@@ -1,0 +1,17 @@
+{
+	"uid": "BOA (7b8135).wad",
+	"name": "Boa.WAD Baron on an Altar",
+	"description": "Dark and Stoney, lots of marble all around Tons of enemies to kill, and you must use strategy or you'll get your ass kicked really bad. Running into rooms with a flaming gun will make you dead real fast. Has some stairwells, and a spiral staircase that I think is a first in wads (if not tell me).",
+	"version": "7b8135",
+	"date": "2013-11-02 15:07:30",
+	"files": [
+		{
+			"filename": "BOA.wad",
+			"size": 220581,
+			"crc": 381093029,
+			"md5": "487075c78c2dfc61a1f82a9d87681760",
+			"sha1": "7b813528fd00bd66bb304725d416196dd94698c9",
+			"sha256": "c28658e8a052d2c8e8052b3124f32cc60326bc155e1da5e070817e216ff393c1"
+		}
+	]
+}

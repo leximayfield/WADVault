@@ -1,0 +1,17 @@
+{
+	"uid": "DIEFAST (e44fc5).wad",
+	"name": "DIEFAST!",
+	"description": "Hard to beat, even on \"I'm too young to die\". Watch out for Cyberdemons when you get the yellow key! Every single weapon, except for the BFG9000, is hidden in DIEFAST! [Watch the demo!]",
+	"version": "e44fc5",
+	"date": "2014-01-07 21:54:18",
+	"files": [
+		{
+			"filename": "DIEFAST.wad",
+			"size": 28613,
+			"crc": 198332171,
+			"md5": "539694a67bb70618be2d278c52ab5811",
+			"sha1": "e44fc588b84a4babc1e7041876a76cb2706ea06a",
+			"sha256": "a1fc2abc2ee3367584186c192dabaff4a5370737ce587d86dd6a2c800857a062"
+		}
+	]
+}

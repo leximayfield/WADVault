@@ -1,0 +1,16 @@
+{
+	"uid": "diebrea.wad",
+	"name": "Diebrea",
+	"description": "A Very unique DeathMatch Level for DOOM2.",
+	"date": "2014-12-15 21:50:42",
+	"files": [
+		{
+			"filename": "diebrea.wad",
+			"size": 53284,
+			"crc": 1748177811,
+			"md5": "b04e5a8c5deb9d98f76da57540e2ea65",
+			"sha1": "a8330f39124fe3d395aeb27603446382f255554c",
+			"sha256": "fc24b56a7e369c992bad361923abcfbd4aad52d16b3f6d84dc82e2b99400db65"
+		}
+	]
+}

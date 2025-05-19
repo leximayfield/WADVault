@@ -1,0 +1,17 @@
+{
+	"uid": "E1M1SAS (298e1f).wad",
+	"name": "E1M1SAS.WAD",
+	"description": "This level replaces Episode 1, Map 1. It is a stand-alone level and *NOT* intended to blend in with the standard DOOM levels. The skill levels are different than what you may be used to. \"Ultra Violence\" is a major monster-fest and intended only for experienced mouse users. \"Hurt Me Plenty\" is more comparable to the standard \"Ultra Violence\". \"Hey, Not Too Rough\" and that other one are for you wimpy players...",
+	"version": "298e1f",
+	"date": "2013-11-02 23:52:18",
+	"files": [
+		{
+			"filename": "E1M1SAS.wad",
+			"size": 273982,
+			"crc": 2539399070,
+			"md5": "3d6a2948107033fdeaf04000b3480d29",
+			"sha1": "298e1f164628d2cd3830d5ce038a7989e948b5d6",
+			"sha256": "6a4c5cb3de0a1daa93eff8cf47b74a76f330d45f45e06f89134b7cf4d2e17aba"
+		}
+	]
+}

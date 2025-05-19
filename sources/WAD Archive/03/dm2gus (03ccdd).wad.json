@@ -1,0 +1,17 @@
+{
+	"uid": "dm2gus (03ccdd).wad",
+	"name": "DOOM II \"Argus\" Episode",
+	"description": "This is the first of a series of levels, some of which are completely revamped levels first released as Sacrifice levels 1-6 for DOOM I. These levels offer sophistication and puzzle solving rather than just turning up the volume. Children (you know who you are) may be bored. Definite consideration was given to consistency, theme and fairness. However, you should remember that these are levels for DOOM II, and that presupposes that you are an experienced player.",
+	"version": "03ccdd",
+	"date": "2013-11-02 15:26:28",
+	"files": [
+		{
+			"filename": "dm2gus.wad",
+			"size": 91220,
+			"crc": 4155142925,
+			"md5": "7f276197caf8ac3414e2813cee2e4ec4",
+			"sha1": "03ccdd518e4334cf3e7b1270b24599a76e1557e6",
+			"sha256": "86293a3348499c35e18093e065197fd6cc051ba9a71df8b796622ec60eb6ff2f"
+		}
+	]
+}

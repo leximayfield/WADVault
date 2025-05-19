@@ -1,0 +1,16 @@
+{
+	"uid": "tfmod.pk3",
+	"name": "Team Fortress Mod version 1.85",
+	"description": "Play through The Ultimate Doom, Doom 2, or Final Doom as one of ten classes from the Team Fortress series, each with different abilities and weaponry.",
+	"date": "2014-12-11 22:11:13",
+	"files": [
+		{
+			"filename": "tfmod.pk3",
+			"size": 226705,
+			"crc": 631575096,
+			"md5": "9701dae2654196a9a2318e0287d96c52",
+			"sha1": "d5fccf17ea69e94883faa33d6a694882dab05f02",
+			"sha256": "5667c47932accb37af4ed3f25afe5949b46e63b230a6a392ae1fe98b3911d762"
+		}
+	]
+}

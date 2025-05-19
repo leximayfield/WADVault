@@ -1,0 +1,17 @@
+{
+	"uid": "combo (07290e).wad",
+	"name": "COMBO for DOOM2 and DUKE3D",
+	"description": "This is a fun and fast DeathMatch level. On a two player DM there is almost 1 frag every 10-15 seconds, so expect to die and kill a lot! More than 4 players might too much, its mainly made for 2-4 players.",
+	"version": "07290e",
+	"date": "2014-12-15 21:44:39",
+	"files": [
+		{
+			"filename": "combo.wad",
+			"size": 30014,
+			"crc": 2880559443,
+			"md5": "f71f11b33aee8936f1f1081fb88aff73",
+			"sha1": "07290ef63b63ef1b294848311a9f352a0f9e1713",
+			"sha256": "11fc8aeb25f6f5a3e6148d0ee4e2d8e1112af25fd69d130b2e87c1285778fa45"
+		}
+	]
+}

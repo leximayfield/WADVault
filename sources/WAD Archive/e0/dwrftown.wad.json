@@ -1,0 +1,16 @@
+{
+	"uid": "dwrftown.wad",
+	"name": "Dwarf Town",
+	"description": "This was my 1024 competition entry. The rules were given to build a map that fits within a 1024x1024 pixels map space (with no limits given for height, though). I don't know wether the competition didn't pull from the ground, but the guy responsible for it (Lutrov 71, or Lutty) left the community, or something, and people started releasing their 1024 comp maps. Community projects rarely succeed anyway ;)",
+	"date": "2014-12-24 17:57:20",
+	"files": [
+		{
+			"filename": "dwrftown.wad",
+			"size": 867860,
+			"crc": 1244311026,
+			"md5": "51ddad1ba2c4b56133951e3af4c5c033",
+			"sha1": "e02ead216685439c50ae578d8ed6b928dc714166",
+			"sha256": "fe6ba8ab23f480ebeae8dc496335f881d11a41c0ccaeee3d80ce8cc3f3cbeff0"
+		}
+	]
+}

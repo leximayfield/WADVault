@@ -1,0 +1,16 @@
+{
+	"uid": "9lvlspi.wad",
+	"name": "Tutorial: 9-Level Spiral (3D Stairs)",
+	"description": "I just made this as a little tutorial for not only myself, but for others that do not know how to do 3D stairs. NOTE: To keep the file size down, I have made all the lines/sectors that are the steps and floors in the upper/back right corner of the map as either 2x2 or 1x1 pixel sectors.",
+	"date": "2017-06-27 00:24:08",
+	"files": [
+		{
+			"filename": "9lvlspi.wad",
+			"size": 114441,
+			"crc": 2936090716,
+			"md5": "573504b188b5b9910968abb21111b107",
+			"sha1": "82cd0c13740955aea08304da0a35ecb3193b06a4",
+			"sha256": "900147a159f3fe1180b4b8a3ee33da0bee991c6fe8e67ee7b1252b8069834eb9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tbeast.wad",
+	"name": "Talons of the Beast",
+	"description": "Playable singleplayer, co-op or deathmatch.",
+	"date": "2015-01-14 14:26:59",
+	"files": [
+		{
+			"filename": "tbeast.wad",
+			"size": 242722,
+			"crc": 599967995,
+			"md5": "aaacd8fb4b415c8967338420a7f148df",
+			"sha1": "df5dbf0edb8cbcf73cd4ed2c5faf0d8622e59c4c",
+			"sha256": "983676324779d19fec8f83652c4f771b43ae763b72dd87543b051ecafc2c7868"
+		}
+	]
+}

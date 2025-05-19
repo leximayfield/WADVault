@@ -1,0 +1,16 @@
+{
+	"uid": "swad2.wad",
+	"name": "SWAD Pack 2: Custom CounterStrike Weapons",
+	"description": "Part of the SWAD Weapons Group.",
+	"date": "2014-12-11 22:19:12",
+	"files": [
+		{
+			"filename": "swad2.wad",
+			"size": 2456300,
+			"crc": 2594416589,
+			"md5": "6598d272222bd1be2dd7b9bf0f2ba3f9",
+			"sha1": "1cba1d2bd4f565c15141a390128e27d38596a00b",
+			"sha256": "11bb517641eeb6ee43c07dcfa732f6673a938ea84c7358626e02148ca67d33b0"
+		}
+	]
+}

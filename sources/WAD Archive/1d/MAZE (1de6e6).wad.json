@@ -1,0 +1,17 @@
+{
+	"uid": "MAZE (1de6e6).wad",
+	"name": "Maze of Despair",
+	"description": "Single/Multiplayer level for HERETIC",
+	"version": "1de6e6",
+	"date": "2013-11-06 22:41:45",
+	"files": [
+		{
+			"filename": "MAZE.wad",
+			"size": 86481,
+			"crc": 371684958,
+			"md5": "be7aea5e7069c3359dfe9bb2e1cb4a67",
+			"sha1": "1de6e635bbf42d05020b2dfe1e63bf803501613d",
+			"sha256": "4059748faab1753bac926c4eec29b4323185a49001953b691e78f9b3f5b1d62d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "TDNGN.wad",
+	"name": "The Dungeon",
+	"description": "This WAD was written mainly for modem/nullmodem deathmatch. It is probably too small for 4 players, with 3 already being a fragfest. The setting is -guess what- a dungeon consisting of a few rooms with surrounding waste tunnels. Many snipe spots, yet there is room enough for chasing your buddy. In the cages in the room to the south with the BFG and plasma gun, don\u00b4t wonder how to get out. You won\u00b4t, at least not on your own. When your buddy runs over one of the many triggers on the map, you will either be released or - crushed. Don\u00b4t worry, the triggers are too many to let him know which kind he is running over. Even if he would, there is no way for him to know you\u00b4re in the cage; sometimes he even HAS to cross a line that will release you. However chances to survive are about 85% for the plasma rifle and 65% for the BFG - a fair risk for the gun of guns. PLEASE SEND ME YOUR COMMENTS, since this is my first REAL wad.",
+	"date": "2014-10-14 21:10:44",
+	"files": [
+		{
+			"filename": "TDNGN.wad",
+			"size": 222135,
+			"crc": 4146723695,
+			"md5": "3eb8450bb536f9efef28f41f790ec4ac",
+			"sha1": "23a82d4d845a0c81989532d7157595a19e5967ae",
+			"sha256": "acf5b7163d7d66411f202af2408409f8e006f85a71e9f3cdd26707eb3d6b4ee2"
+		}
+	]
+}

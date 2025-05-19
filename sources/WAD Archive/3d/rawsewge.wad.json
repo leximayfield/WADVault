@@ -1,0 +1,16 @@
+{
+	"uid": "rawsewge.wad",
+	"name": "RAWSEWGE.WAD (Doom II)",
+	"description": "I'm a big fan of H.P. Lovecraft and I had originally meant to do a WAD with a Cthlhu Mythos theme. I was gonna go all out too. I wanted to change all the sounds and the graphics and mabye even screw with the EXE. Fortunately, I woke up and realized I hadn't graduated yet and was in the middle of YAHS (Yet Another Hectic Semester). Most of H.P.'s stories involve ordinary people going about their daily activities until they find themselves face to face with some nameless, cosmic (blasphemous, even) creature that either drags them off to some abyss or eats them right there on the spot. I decided to tone it down but tried to keep a Lovecraft feel to the WAD. Be sure to drop me some e-mail with your opinion of the result or about the WAD in general. Just for the record, I managed to work out all of the bugs that I saw. If you find any others, let me know. Anyway, I hope you enjoy playing it.",
+	"date": "2015-01-14 23:11:05",
+	"files": [
+		{
+			"filename": "rawsewge.wad",
+			"size": 514770,
+			"crc": 1970482168,
+			"md5": "ddb61ddb82f3bbd48ffb3871cd02bc49",
+			"sha1": "3d0113d29d8a1924c4bc4454d512116e528dd1fc",
+			"sha256": "c59e4dfcaf107482143ffb9fbd8ad416fdfb8fcdba1c93c6fa178dbf4668f333"
+		}
+	]
+}

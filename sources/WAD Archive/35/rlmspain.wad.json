@@ -1,0 +1,16 @@
+{
+	"uid": "rlmspain.wad",
+	"name": "Realms of Pain Part 1 v1.5 * FINAL RELEASE *",
+	"description": "A WAD file containing 5 new DeathMatch levels plus music and graphics. Each level was designed with a specific theme in mind, and is very detailed. I tried to make them at least as good as the Bloodlands/Grievance levels.",
+	"date": "2014-12-15 21:31:16",
+	"files": [
+		{
+			"filename": "rlmspain.wad",
+			"size": 693980,
+			"crc": 2130183614,
+			"md5": "0a9247d3ece330bc41d3b3c96c7c977b",
+			"sha1": "35fbbd83c249c48c4465bb6638174682e19f74c7",
+			"sha256": "3a5028eb51f648bfab8f8de2c47a7d13719a38f7095c604dc2a3975627d7bed3"
+		}
+	]
+}

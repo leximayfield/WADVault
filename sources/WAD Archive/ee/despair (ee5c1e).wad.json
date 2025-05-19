@@ -1,0 +1,17 @@
+{
+	"uid": "despair (ee5c1e).wad",
+	"name": "Pits of Despair",
+	"description": "Guts flying, gore spewing, and armies of darkness everywhere. Get your ass out alive and you'll be a hero (NOT!).",
+	"version": "ee5c1e",
+	"date": "2013-11-02 16:44:16",
+	"files": [
+		{
+			"filename": "despair.wad",
+			"size": 95849,
+			"crc": 1948064946,
+			"md5": "209ba0282b944bbe2d08ab62406d0977",
+			"sha1": "ee5c1e46492bb6b38fa34d6b3e6159beac4bfb01",
+			"sha256": "9a2902f185448765ba503d9fbdc7ab15d5b79ac7776d549aacdd21f1f426b605"
+		}
+	]
+}

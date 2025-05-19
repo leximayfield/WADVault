@@ -1,0 +1,17 @@
+{
+	"uid": "outpost (2e373f).wad",
+	"name": "Earth Outpost",
+	"description": "A base set on Earth using quake2 textures. Hope you like it.",
+	"version": "2e373f",
+	"date": "2015-01-13 21:41:34",
+	"files": [
+		{
+			"filename": "outpost.wad",
+			"size": 1307861,
+			"crc": 1898137543,
+			"md5": "544eeb85f3917e4f40598c9f7b58af0e",
+			"sha1": "2e373faa8d77dab50d615a14b5d19fee4bda23c6",
+			"sha256": "fccdfeedec42058847813f8f226fcc2844d9bf325d151386c741bb58842d0984"
+		}
+	]
+}

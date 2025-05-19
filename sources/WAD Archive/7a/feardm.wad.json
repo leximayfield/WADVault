@@ -1,0 +1,16 @@
+{
+	"uid": "feardm.wad",
+	"name": "FearDM",
+	"description": "Duel/Deathmatch levels based around different phobias. I started this project in 1999, with Kliqten, I lost interest in it , and I assume he eventually did too. I've decided to revisit the concept, and this is the result.",
+	"date": "2013-04-18 23:28:24",
+	"files": [
+		{
+			"filename": "feardm.wad",
+			"size": 9090717,
+			"crc": 166537670,
+			"md5": "8e431a3ff42039dc2e54d3a2e8a8cd54",
+			"sha1": "7a3eb9a6ae8fc3e1d14f0565475fd70816079cb3",
+			"sha256": "4e77306a2c3355aba561eb1fd5aa81c2767a0ba72334417cdac5b214f0ef3541"
+		}
+	]
+}

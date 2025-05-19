@@ -1,0 +1,17 @@
+{
+	"uid": "acheron6 (f5ed56).wad",
+	"name": "CROSSING ACHERON 1.666",
+	"description": "This is CROSSING ACHERON 1.666 for DOOM II. I have updated some textures, added new monsters, and completely revamped and added whole new areas. This is the level as I originally intended it, and I hope that you enjoy it.",
+	"version": "f5ed56",
+	"date": "2013-11-02 15:49:40",
+	"files": [
+		{
+			"filename": "acheron6.wad",
+			"size": 144361,
+			"crc": 3142522959,
+			"md5": "de3353baed613a8308d78e5fda8cdca7",
+			"sha1": "f5ed5607e19fbc67e6035d68e5162209d2b8c4f6",
+			"sha256": "2b17763657726437040e3292e27d52fe2e3965bdeb05d2c5b8af33964491497d"
+		}
+	]
+}

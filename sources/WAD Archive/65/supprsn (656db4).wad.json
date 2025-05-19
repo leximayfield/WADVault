@@ -1,0 +1,17 @@
+{
+	"uid": "supprsn (656db4).wad",
+	"name": "SUPPRSN.WAD (suppression of resistance.wad)",
+	"description": "A group of unruly colonists and their demon masters.",
+	"version": "656db4",
+	"date": "2013-11-02 15:12:25",
+	"files": [
+		{
+			"filename": "supprsn.wad",
+			"size": 190075,
+			"crc": 3097950725,
+			"md5": "a4e76574cd04b8f321eaf793890f108b",
+			"sha1": "656db4f951b1f3410dda09f2a5cde9c5bb5edc17",
+			"sha256": "a2b4f9d77dba37d2c8f2f13f9f21b7ac4e3222686ed4d8b695c16532c91fe857"
+		}
+	]
+}

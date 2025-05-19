@@ -1,0 +1,16 @@
+{
+	"uid": "ultower.wad",
+	"name": "Ultratower",
+	"description": "I didn't think the Tower of Babel wasn't so much of a tower so I decided to make a literal tower that you must ascend and battle your way up to reach the Cyberdemon at the very top. Be prepared for a long climb!",
+	"date": "2014-12-14 21:00:45",
+	"files": [
+		{
+			"filename": "ultower.wad",
+			"size": 537460,
+			"crc": 2986756847,
+			"md5": "2bfc82db12e9013a61a229a134307217",
+			"sha1": "fbbb8b0e5c776b51491caba1189eacce3d1b408b",
+			"sha256": "bfbf06b132a4f915d1af4931fc0836dbc50335c441c6a9dd0303a8ba21f93bfd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "megaw2.wad",
+	"name": "DOOM: A Megawad in Two Weeks",
+	"description": "The idea behind this was to create a classic DOOM Megawad in two weeks. You can follow the development of the project at this thread in the doomworld.com forums http://www.doomworld.com/vb/showthread.php?s=&threadid=39487 As calling the project DOOM 3 should be way too ambitous, we droped the idea, but the mod follows the plot right where Final DOOM lefts out. There are multiple references and alusion to elements from other chapters in the DOOM series, I'll send a special prize to the first who sends me a list of them all.",
+	"date": "2013-04-20 12:51:29",
+	"files": [
+		{
+			"filename": "megaw2.wad",
+			"size": 6430204,
+			"crc": 111614728,
+			"md5": "3044220ce7988411f3af2578618860a3",
+			"sha1": "38cb063dc4fa35bb32cc9d5a95ffbbc1c981ad27",
+			"sha256": "0e0d2a58853b843e41b44a3dcef651a6024037caa12b43ce80ec041adb1e901b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "XMasAdon.wad",
+	"name": "XMas-themed .wad compilation",
+	"description": "Christmas are very soon, but you still aren't in a Christmas mood? Well, try playing Doom with this! This probably won't help, but will still be pretty fun. Basically, I've taken resources from various Christmas-themed .wads, and put them all in one awfully big file. Also, I've made one or two graphics (like new Cacobauble's sprites, or voxel presents). This is supposed to work with every map that doesn't change textures and Zombieman's and Baron of Hell's sprites. (If it changes only the textures and sprites, just change the load order.)",
+	"date": "2015-09-15 17:49:01",
+	"files": [
+		{
+			"filename": "XMasAdon.wad",
+			"size": 5135423,
+			"crc": 3404836518,
+			"md5": "fc25f5fccdbac5d5fe27b9425b552747",
+			"sha1": "f210b6f83536ed3bae7465aa20443c642be70491",
+			"sha256": "bd79822ba395b9f6a84acab8f2f6e6ed308da3e2cd10de3b4970381074956b86"
+		}
+	]
+}

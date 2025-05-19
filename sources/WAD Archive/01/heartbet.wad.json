@@ -1,0 +1,16 @@
+{
+	"uid": "heartbet.wad",
+	"name": "HEARTBEAT",
+	"description": "Tough Level. If You cant get the door inside the blue door open go back to the octagon room in the center and try pressing the button that was down in the pit again.",
+	"date": "2016-02-06 13:53:15",
+	"files": [
+		{
+			"filename": "heartbet.wad",
+			"size": 155074,
+			"crc": 1409280264,
+			"md5": "863cabfb5df6a179496e192f617a2586",
+			"sha1": "01e9c81044ea7605a17a6e7135ec65bc12e9b1f9",
+			"sha256": "b79c0a7b8a98d50a19a7beeeccb052a06b0a5a6140f76089a2dd0689b634a3b9"
+		}
+	]
+}

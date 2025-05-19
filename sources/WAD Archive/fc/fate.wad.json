@@ -1,0 +1,16 @@
+{
+	"uid": "fate.wad",
+	"name": "FATE.WAD",
+	"description": "No description, just play it!",
+	"date": "2014-12-18 23:12:19",
+	"files": [
+		{
+			"filename": "fate.wad",
+			"size": 592634,
+			"crc": 843932115,
+			"md5": "c7497032e4eb9ca9b8598850583249f0",
+			"sha1": "fc894bae9b7e38d36737c803091cdc9aac46b9e5",
+			"sha256": "72dd97846cf06d29b5d4c96c1657682c3d538dee52b7fa79606eab7d6b0b44aa"
+		}
+	]
+}

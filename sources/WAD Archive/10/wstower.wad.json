@@ -1,0 +1,16 @@
+{
+	"uid": "wstower.wad",
+	"name": "TOWER OF DEATH",
+	"description": "Well its taken me two month to finish making this wad. This is my biggest wad yet at just over 500K. This wad was about 30% larger (around 700K) but Doom didn't like that very much and would crash every time a stray shot from you or a trooper would hit one of the walls therefore I had to reduce it down to 500K. Incidentally due to the size of this wad do not try to save your game this causes Doom to instantly crash (or at least it does on my computer). If you explore the entire wad and kill every enemy it will probably take you around 45 minutes. I put in plenty of ammo, medi kits, and armour for multiplayers.",
+	"date": "2018-05-28 23:31:16",
+	"files": [
+		{
+			"filename": "wstower.wad",
+			"size": 500590,
+			"crc": 1733427264,
+			"md5": "02d6527685d8f7eca4a671a68f3ace29",
+			"sha1": "10acbb398291e7b7b3a28c436fe50c4b9a2c2bd1",
+			"sha256": "81915128aca773e7c16bcb4888233f85aa50bbd534c3f9de2f6caac3ceee56f6"
+		}
+	]
+}

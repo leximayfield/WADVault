@@ -1,0 +1,17 @@
+{
+	"uid": "loink (ce1dfc).wad",
+	"name": "LOINK",
+	"description": "This is a modified version of sloth map04 (the original map was made in late August 2006), split into two maps, and is designed for rocket jumping.",
+	"version": "ce1dfc",
+	"date": "2013-04-19 09:53:19",
+	"files": [
+		{
+			"filename": "loink.wad",
+			"size": 5243915,
+			"crc": 2957818015,
+			"md5": "f44b0acaa0b31eadeaac820fb95a6061",
+			"sha1": "ce1dfc8dbe2cc3948753e00a423914f2a039f134",
+			"sha256": "d5ea7c0bc7b5fb29a8b6372877483476d747b8557ec3cfa916e60ad5063dab27"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tgc.wad",
+	"name": "The Gaming Center WaD",
+	"description": "A compilation of some of our greatest deathmatch levels. Every level was made by someone here in Miami, except level one. We took our best work, levels, sound, graphics, music, and put it together.",
+	"date": "2013-04-19 01:22:37",
+	"files": [
+		{
+			"filename": "tgc.wad",
+			"size": 3334927,
+			"crc": 2260014334,
+			"md5": "58347bbb8873b5868a2ccccd1c1860ea",
+			"sha1": "fb335b021b630f0e41bf0e23f00dfa147fa38225",
+			"sha256": "01b8b66e593932b89a4567091fd74a64cac7dfbfc9130d75812cfada67953525"
+		}
+	]
+}

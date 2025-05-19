@@ -1,0 +1,17 @@
+{
+	"uid": "savage (90c243).wad",
+	"name": "The Savage Series",
+	"description": "A series of 8 deathmatch levels, they provide very quick, intense, deathmatch action. There are NO CHEAP plasma guns in any of the eight levels, only Super Shotguns, Chainguns and of course Rocket Launchers. There are also BFGs in all of the levels, except for level 1. I think that the BFG is an awesome weapon, but too cheap SOMETIMES because some levels are abundant with them.",
+	"version": "90c243",
+	"date": "2013-10-12 13:37:09",
+	"files": [
+		{
+			"filename": "savage.wad",
+			"size": 1111362,
+			"crc": 131324252,
+			"md5": "1d0953de1fcd8d7f4edc620cd7cbf1ee",
+			"sha1": "90c243abb221d1bae21a239ab301becc15040650",
+			"sha256": "4153d1b9a05e65fe3a0309fdc53a41807d1b2e7fcef7f43f80e6f901a513fadc"
+		}
+	]
+}

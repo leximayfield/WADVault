@@ -1,0 +1,16 @@
+{
+	"uid": "pathos.wad",
+	"name": "Pathos",
+	"description": "Story: You are the biproduct of some governmental experiment gone wrong. These are your drug enduced-hallucinations.",
+	"date": "2014-12-29 08:40:39",
+	"files": [
+		{
+			"filename": "pathos.wad",
+			"size": 239276,
+			"crc": 2017504387,
+			"md5": "74c4e1e03211d9c4d975b52958a220f0",
+			"sha1": "caf68fe5344c2332af88f36582af4648f285cd9b",
+			"sha256": "ccf3a2465a95633bc225bff4b183c4cc8648a14204abe24e95b4dd62b888244a"
+		}
+	]
+}

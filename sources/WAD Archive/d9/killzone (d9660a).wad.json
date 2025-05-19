@@ -1,0 +1,17 @@
+{
+	"uid": "killzone (d9660a).wad",
+	"name": "KILLZONE.WAD",
+	"description": "A HIGHLY MODIFIDED E1M1",
+	"version": "d9660a",
+	"date": "2016-02-06 14:03:21",
+	"files": [
+		{
+			"filename": "killzone.wad",
+			"size": 60783,
+			"crc": 1048087947,
+			"md5": "acc3f5c5483eae2b92f962a9375a8135",
+			"sha1": "d9660a92406e6f47068f30aa5fcd4cd18807ba6a",
+			"sha256": "3cba39189894dc4cffdbaa8a4487d4ad6ac29e7e3b05ac2fb3a594e54d7159c1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ssdm2 (82862e).wad",
+	"name": "SSDM2.WAD",
+	"description": "A circular building with open inner and outer courtyards. I think that this is my best wad as far as the looks go. 2 player is kinda slow due to the size of the level. Best on -Respawn & -Altdeath.",
+	"version": "82862e",
+	"date": "2013-11-06 22:36:58",
+	"files": [
+		{
+			"filename": "ssdm2.wad",
+			"size": 122707,
+			"crc": 2696239609,
+			"md5": "254e380c45e9f4a658d8af15455b9fe4",
+			"sha1": "82862e42c1ca99e768948a86eb2157634a554cbd",
+			"sha256": "05950cd462ffee19a4fce72b1b41028e077118961e4f06de416222c679700d31"
+		}
+	]
+}

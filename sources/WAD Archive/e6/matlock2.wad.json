@@ -1,0 +1,16 @@
+{
+	"uid": "matlock2.wad",
+	"name": "MatlocK 2: Hell on Andy Griffith",
+	"description": "This is supposed to resemble some buildings somewhat. At least it's got a dance floor!",
+	"date": "2013-11-04 19:23:50",
+	"files": [
+		{
+			"filename": "matlock2.wad",
+			"size": 71320,
+			"crc": 643187777,
+			"md5": "3369978ee02f10c6eeef3bc63e6c02c8",
+			"sha1": "e63cd256c41be9e67789f0ce3b11fdcc58602fbf",
+			"sha256": "e692d0d77113ec6e6020109d8a0d54df90f0c3dfc35a437565fd32126ef7e08f"
+		}
+	]
+}

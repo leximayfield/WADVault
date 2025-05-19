@@ -1,0 +1,16 @@
+{
+	"uid": "4faces.wad",
+	"name": "The four Faces",
+	"description": "Very large DOOM II wad, with lots of monsters, little ammo/medipacks and great deathmatch capabilities. I designed it to be a lot of fun in single player mode, but kept in mind that it ultimatly should become a deathmatch wad.",
+	"date": "2014-12-15 19:12:15",
+	"files": [
+		{
+			"filename": "4faces.wad",
+			"size": 187125,
+			"crc": 1200174081,
+			"md5": "4f1da340e2cc910b2dde4e2ad7f90b76",
+			"sha1": "3423f3565d035e699c95d9323a791e564b732adc",
+			"sha256": "9d4477ead5f9a74556f06c9cdcad8fb72859138d7e4002e5d26ffac5ec8f24e6"
+		}
+	]
+}

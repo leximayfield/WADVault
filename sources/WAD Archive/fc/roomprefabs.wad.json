@@ -1,0 +1,16 @@
+{
+	"uid": "roomprefabs.wad",
+	"name": "Variations on a theme",
+	"description": "This is a set of 11 prefab rooms to put in your Doom levels. The background is that the UAC, in an effort to cut costs, constructed a standard design for the bedrooms that its employees and guests use, giving new meaning to \"economies of scale\". The adaptability of this design is pointed out by the 11 (count 'em) texture jobs of this room included in this wad. Remember to load the texture wad (preresor.wad) along with whatever version of the room you choose.",
+	"date": "2018-04-15 18:28:46",
+	"files": [
+		{
+			"filename": "roomprefabs.wad",
+			"size": 38219,
+			"crc": 3253087039,
+			"md5": "deeb5ecd6f7aca09b09c262f296ad481",
+			"sha1": "fca150c9629c4c3f245bc7720c920478f0cb1f0a",
+			"sha256": "94de632d0cc41154c0b2946b4092c4d17f141fc50b9a999089b900bde8edbe12"
+		}
+	]
+}

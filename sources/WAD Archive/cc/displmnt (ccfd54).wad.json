@@ -1,0 +1,17 @@
+{
+	"uid": "displmnt (ccfd54).wad",
+	"name": "Descent into The Absolute",
+	"description": "A UAC base gone haywire. You will fight in Hell eventually. A few base levels are distorted by the influence of Hell.",
+	"version": "ccfd54",
+	"date": "2014-12-15 22:27:11",
+	"files": [
+		{
+			"filename": "displmnt.wad",
+			"size": 14340943,
+			"crc": 4038750565,
+			"md5": "a49d95637b69bbdab82f12778d585e65",
+			"sha1": "ccfd5487c70593580098ba422653b6ed43f3638d",
+			"sha256": "a5354a2da4940e0c9a86ec12b87f2c1a9a21826d34669c0a45acf6a19e74985c"
+		}
+	]
+}

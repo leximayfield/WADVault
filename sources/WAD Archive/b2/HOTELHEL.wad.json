@@ -1,0 +1,16 @@
+{
+	"uid": "HOTELHEL.wad",
+	"name": "Hotel Hell",
+	"description": "Spacious, well appointed rooms, friendly, highly trained staff, situated at the heart of everyone's favorite hereafter.",
+	"date": "2014-12-18 22:23:40",
+	"files": [
+		{
+			"filename": "HOTELHEL.wad",
+			"size": 403132,
+			"crc": 730410057,
+			"md5": "33b5e3228a03c5bc8cdf8edb7f41bd13",
+			"sha1": "b2f0db7600a68b3c3c0ae82810fa8db9552e0faf",
+			"sha256": "b8a3f0a816316081b17a41d899bd1cfb2bb04acc159018656d503162f97f484b"
+		}
+	]
+}

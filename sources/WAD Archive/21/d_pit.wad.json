@@ -1,0 +1,16 @@
+{
+	"uid": "d_pit.wad",
+	"name": "The Demon's Pit",
+	"description": "2 medium sized arenas house your main weapons (the RL & plasma rifle). They're connected by shadowy, maze-like corridors; a great place to hide from all those rockets ;) The exit is cooperative, of course.",
+	"date": "2014-12-15 23:02:01",
+	"files": [
+		{
+			"filename": "d_pit.wad",
+			"size": 78109,
+			"crc": 3352002061,
+			"md5": "2dde25af36a2da6c823a34ad13df5b80",
+			"sha1": "21654e7a69cd368f97a185fe453ab75892d4a6bf",
+			"sha256": "67b0cc49ab393a0a2a2b09d580e0221e56f0872abffdab0f826d06359562488c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "firstadv.wad",
+	"name": "The First Adventure",
+	"description": "A three-level mini-episode for ZDoom. This wad is part of The Experienced Project.",
+	"date": "2014-12-22 18:35:46",
+	"files": [
+		{
+			"filename": "firstadv.wad",
+			"size": 1307435,
+			"crc": 2213242353,
+			"md5": "939c85d63c556fdc8910936f57cd2181",
+			"sha1": "2ae0c4f3e4dfb93f00d39318f9ad4b1b2360fa4d",
+			"sha256": "f73e08bf3f345a04b178f856bc5620fbdd4fe8b1dffa502de751000f1d788352"
+		}
+	]
+}

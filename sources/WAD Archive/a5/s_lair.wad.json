@@ -1,0 +1,16 @@
+{
+	"uid": "s_lair.wad",
+	"name": "Satan's Dungeon",
+	"description": "You have been 'summoned' to Satan's private dungeon of death. You are to deathmatch for all eternity, while Satan secretly watches. Oh well, might as well have fun!!",
+	"date": "2014-12-15 22:32:59",
+	"files": [
+		{
+			"filename": "s_lair.wad",
+			"size": 162926,
+			"crc": 2475936875,
+			"md5": "1748b8b66d160e6a14f2cf319a52ee1e",
+			"sha1": "a507ab4de2a610fed9ce6d918190b70f1bf68380",
+			"sha256": "0ec3119037de6dcb99c66f412b8cd8083783f82eb90e7f2b2ba9d5dd63c8b8e2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "strg_beta5.wad",
+	"name": "Struggle (Version beta 5)",
+	"description": "Struggle is a single-player mod for Doom 2 with limit removing compatibility. It features new weapons and monsters replacement with DeHacked patch. Some of original monsters are also slightly changed, so it's recommended to check out the info below before you play this one. Thanks, and have fun. :) P.S.: This wad uses heavily modified DeHacked patch. So it is recommended not to use other custom gameplay patches. P.S.2: Par time is based on UV-MAX, not UV-Speed",
+	"date": "2018-03-26 22:56:57",
+	"files": [
+		{
+			"filename": "strg_beta5.wad",
+			"size": 47642952,
+			"crc": 3333632084,
+			"md5": "81ae47e0738693777bd80516104c236a",
+			"sha1": "5854c3bea3158dddea7a58c2e66c5ad3e2e4c0bb",
+			"sha256": "350082298bbf7dd9f3d3f4ad42e1d4034588dd3b018776689ec2afc62cdf560b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sniper (41df3a).wad",
+	"name": "Sniper Scope",
+	"description": "Doom with a sniper scope! I attatched it to the shotgun, so when you have the shotgun equipped, press z to actiate sniper mode, and press x or change to another weapon to deactivate it. NOTE: This will only work properly in OpenGL mode. The Field-of-View change does not work in software mode, so you will not get the cool zoom-in effect.",
+	"version": "41df3a",
+	"date": "2015-09-15 17:24:00",
+	"files": [
+		{
+			"filename": "sniper.wad",
+			"size": 46765,
+			"crc": 1293096400,
+			"md5": "05c179faf34f213e2e0e857d2cbe74f7",
+			"sha1": "41df3aadd2d734faff57bed448a2a2737bdb8c52",
+			"sha256": "3c5c90d7db6592ca0c839dff2cb0ddd8b6b83941004922386b51704c79a41100"
+		}
+	]
+}

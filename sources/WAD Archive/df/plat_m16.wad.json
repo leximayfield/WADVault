@@ -1,0 +1,16 @@
+{
+	"uid": "plat_m16.wad",
+	"name": "Platoon's M16 for Doom",
+	"description": "This replaces the chaingun with the M16 from the Platoon TC for Duke Nukem 3D by The TNT Team. I know Don Tello has already done something like it in Dt-m16.zip, but he added a hand to the M16, and I wanted a version without it. This >should< work with Doom, Doom II, and any of the source ports. It has been tested with Boom, Zdoom, and Smack My Marine Up. I recomend using it with a port that has a good crosshair, like Smack My Marine Up.",
+	"date": "2014-12-11 22:27:01",
+	"files": [
+		{
+			"filename": "plat_m16.wad",
+			"size": 50396,
+			"crc": 948922196,
+			"md5": "7d9c94612b861e6363ba8df916c932b0",
+			"sha1": "dfa373410700a63e2db92f3018da7f45626c2521",
+			"sha256": "7d8bd4cc003420ab3fb142754442369294001e4427307336bf706594fdb87e61"
+		}
+	]
+}

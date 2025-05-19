@@ -1,0 +1,17 @@
+{
+	"uid": "joymaps1 (7623ec).pk3",
+	"name": "The Joy of Mapping #1",
+	"description": "This was a livestreamed communal mapping session that took place on July 23rd, 2016, with participants mapping under the strict guidance of Jimmy and a few session tutors via Discord and TwitchTV. The mappers were talking through the basics of mapping, such as creating connected areas, interesting layouts, and using thing placement sensibly. In hopefully the first of many similar live tutorial sessions! The participants mapped in a variety of formats, mostly Boom and ZDoom (UDMF). Map Listing: MAP01: Crapola Canyon - Baratus MAP02: Better than Wow, Barely - BouncyTEM MAP03: Rocks - DoomTheRobot MAP04: Pure Jammin' Arse Burgers - speckygingerweapon MAP05: AASHITTY - Fulsy MAP06: Little Green Base - Fuzzball MAP07: The Duobase - Gutawer MAP08: The Horror of Mapping - Kate MAP09: Untitled - MarketAnarchy MAP10: Hogshoe - MrGlide MAP11: Spooky Spoops - Pinchy MAP12: Fut the Whack - Fonze MAP13: Untitled - ZZYZX MAP14: Crap - Vbob MAP15: Joyfort - Jimmy",
+	"version": "7623ec",
+	"date": "2016-08-12 21:53:29",
+	"files": [
+		{
+			"filename": "joymaps1.pk3",
+			"size": 680594,
+			"crc": 2247463735,
+			"md5": "0ce194e629a53b0deee49e543488015e",
+			"sha1": "7623ec57f88259979bd9c7dab73c4df53a77afce",
+			"sha256": "3baa3605d139d841ec7ce0fd507258200ab6c296271e8ae7ded7597e3905dc2c"
+		}
+	]
+}

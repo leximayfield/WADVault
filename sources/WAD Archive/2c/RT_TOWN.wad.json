@@ -1,0 +1,16 @@
+{
+	"uid": "RT_TOWN.wad",
+	"name": "RT_TOWN.WAD",
+	"description": "Wad created for Heretic, 4 player deathmatch . Some sniper points and has all the weapons.",
+	"date": "2014-10-28 21:55:16",
+	"files": [
+		{
+			"filename": "RT_TOWN.wad",
+			"size": 85918,
+			"crc": 1694934652,
+			"md5": "b4c39e8fed6a0f698f35cddf6bc6e60d",
+			"sha1": "2ca11323c2f9164ad8cc4d7f8211bf7a53e7637e",
+			"sha256": "1433dc0b4e81c3387a2a657537ca9ff190765a438575d3a0be56340aab0945f2"
+		}
+	]
+}

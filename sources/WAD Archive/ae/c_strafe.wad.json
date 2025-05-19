@@ -1,0 +1,16 @@
+{
+	"uid": "c_strafe.wad",
+	"name": "Circle Strafe",
+	"description": "This is a collection of 9 identical levels for single player Circle Strafe practice. Each level has a different weapon / monster Combination. Try to use the weapon provided on each level only. There is no health - if you get to the end of the ninth level without losing any lives, then you have mastered circle strafing!",
+	"date": "2014-12-15 22:21:35",
+	"files": [
+		{
+			"filename": "c_strafe.wad",
+			"size": 68292,
+			"crc": 3816640804,
+			"md5": "3e2a013a9eaa4e43e14fd334eda97ef8",
+			"sha1": "aee0808e924c1e1b2faf25a0687adb8d061c08e3",
+			"sha256": "0c8eb4f386ca4df2293b66bb34005c162b8eba62fc88d96e4fb9b6d414d39d18"
+		}
+	]
+}

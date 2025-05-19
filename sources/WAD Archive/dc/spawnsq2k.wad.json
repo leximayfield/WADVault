@@ -1,0 +1,16 @@
+{
+	"uid": "spawnsq2k.wad",
+	"name": "The SpawnSQwad 2000",
+	"description": "32 smallish levels of DOOM2 mayhem, each with one of those",
+	"date": "2014-12-27 12:20:21",
+	"files": [
+		{
+			"filename": "spawnsq2k.wad",
+			"size": 1550517,
+			"crc": 3007231709,
+			"md5": "c1acf01a43fb275ba1bfd6a57e3b0d3a",
+			"sha1": "dc8ebe067c0d0d9bbb9bf0d8102223e9460aaf96",
+			"sha256": "7142e09d6a20da0bb2e7e2191df32953afd234d15d27da6112db832b6c312616"
+		}
+	]
+}

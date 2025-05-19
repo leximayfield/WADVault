@@ -1,0 +1,16 @@
+{
+	"uid": "abyss01.wad",
+	"name": "Into The Abyss",
+	"description": "\"Into the Abyss\" is my first attempt with lighting and is also an intro for a new episode I will work on. I put far more detail and work into it than I did with \"Dead Zone,\" and retained some simplicity. I tired to create the classic doom experience, once again. Have fun. I will add multilayer start locations/guns, difficulty settings, and more secrets on a later date.",
+	"date": "2014-12-14 20:43:58",
+	"files": [
+		{
+			"filename": "abyss01.wad",
+			"size": 101177,
+			"crc": 3804498901,
+			"md5": "27322cbccd5bc749bb5a9b52cc934675",
+			"sha1": "9633a6d882cf59fcc2676d037e25be27f4713dd0",
+			"sha256": "5b75256ac5b6c825f72f9eb38d6664211d674fcb4682735243e7b0a6a14a0901"
+		}
+	]
+}

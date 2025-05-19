@@ -1,0 +1,17 @@
+{
+	"uid": "rdeimosa (92251a).wad",
+	"name": "Restoring Deimos",
+	"description": "A 32-map single player/cooperative wad. Contains basic support for deathmatch, as well as difficulty levels. It entails two episodes, with episode 1 being map 1-15, and episode 2 being map16-30. There is a secret level on map 15 as well as a credits map after map 30.",
+	"version": "92251a",
+	"date": "2015-06-18 22:54:36",
+	"files": [
+		{
+			"filename": "rdeimosa.wad",
+			"size": 40362929,
+			"crc": 4277164188,
+			"md5": "44c8fe08f53eb63ee8160b2baae6720c",
+			"sha1": "92251aa3ab1323ee742c048e3be0f13d35acbcc3",
+			"sha256": "035e3963a654cba5b2427fe1b866bd00ec48304432ec30d7064c8c7865caebfd"
+		}
+	]
+}

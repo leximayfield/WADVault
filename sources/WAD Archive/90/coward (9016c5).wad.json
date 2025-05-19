@@ -1,0 +1,17 @@
+{
+	"uid": "coward (9016c5).wad",
+	"name": "'Not For Cowards'",
+	"description": "You have been abandoned at the entrance of what seems to be a quiet deserted base. Quickly, you discover an odd-shaped, four cornered room with four separate teleporters. You must now decide which one to take, and only ONE way leads out!",
+	"version": "9016c5",
+	"date": "2014-01-07 22:04:08",
+	"files": [
+		{
+			"filename": "coward.wad",
+			"size": 127469,
+			"crc": 111147840,
+			"md5": "296ab2472565bd475c0e78ec2c6ec773",
+			"sha1": "9016c51c9fe01f5e19ba1e90fad6d9e5c211d8c0",
+			"sha256": "57286d66df0cad670239192db658a18c274c0044487d02655fe136d2df49dda0"
+		}
+	]
+}

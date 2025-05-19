@@ -1,0 +1,16 @@
+{
+	"uid": "BIGRIVER.wad",
+	"name": "Bigriver",
+	"description": "Deathmatch level for heretic",
+	"date": "2014-10-28 21:52:18",
+	"files": [
+		{
+			"filename": "BIGRIVER.wad",
+			"size": 61039,
+			"crc": 915466763,
+			"md5": "56dab6ba6a064b565ed7bb85a1a52984",
+			"sha1": "d446f60eee708bdd7cbab5ba2d0edb66b036961d",
+			"sha256": "2ff349c1cae5a165a53a7a6f42d224a69cee89bb3ab97afec07bb4a404bf0bc4"
+		}
+	]
+}

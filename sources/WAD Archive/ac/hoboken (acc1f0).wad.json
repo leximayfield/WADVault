@@ -1,0 +1,17 @@
+{
+	"uid": "hoboken (acc1f0).wad",
+	"name": "Hoboken.wad",
+	"description": "I was sitting in SubWay Sandwiches when I looked at the wall, a map of New York and New Jersey was on it. One of the cities was called Hoboken, I thought \"WOWOWOWWOWOWOO! what a cool name!\" And so I give you this wad.",
+	"version": "acc1f0",
+	"date": "2014-01-07 22:11:14",
+	"files": [
+		{
+			"filename": "hoboken.wad",
+			"size": 517318,
+			"crc": 507553100,
+			"md5": "bbbbc5f05f2aaba270fc7a605093683b",
+			"sha1": "acc1f084d4a27d368c2a17e325cdc99703c483df",
+			"sha256": "f976a5bb9acdf3fdda5e40fc48e1b1869b3fe67ebe873ab501fa14e78c94d430"
+		}
+	]
+}

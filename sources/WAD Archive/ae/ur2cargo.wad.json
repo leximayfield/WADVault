@@ -1,0 +1,16 @@
+{
+	"uid": "ur2cargo.wad",
+	"name": "Urotsuki 2: Cargo Cult",
+	"description": "First chapter of Urotsuki 2 trilogy.",
+	"date": "2016-04-05 22:52:23",
+	"files": [
+		{
+			"filename": "ur2cargo.wad",
+			"size": 10058004,
+			"crc": 424235409,
+			"md5": "c12109ad90463c4429de6e9b6ecde75c",
+			"sha1": "aef3dbebd0b419f40ad8782f80073d36dad2ed18",
+			"sha256": "e5560519e5dfd215697ed893bd68f0a001ef82784c397f7b114b447682bf210a"
+		}
+	]
+}

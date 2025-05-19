@@ -1,0 +1,16 @@
+{
+	"uid": "hexbart1.wad",
+	"name": "HEXBART1.WAD",
+	"description": "HEXEN DEATHMATCH WAD. Mirrored after my famous Bartman4 Heretic wad. With new and exciting areas.",
+	"date": "2013-11-02 17:12:19",
+	"files": [
+		{
+			"filename": "hexbart1.wad",
+			"size": 55875,
+			"crc": 1894745350,
+			"md5": "a1bc5d6ca6ab6ce82b0c9b9393f26c41",
+			"sha1": "995de067637e3b5040159ce078fe1431b529b54c",
+			"sha256": "bb66c2bf5b7ba13ddb7889eda4dc1821cb81bf9185c650636c4a6df8c3835636"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dt-gren.wad",
+	"name": "40mm Grenade Launcher from Dtcog12",
+	"description": "Title says it all. These graphics originated in Shadow Warrior as well, but were seriously patched up by me. Standard grenade launcher type thing. It comes in two versions: MBF only, and all other engines. I suggest you use the MBF version, but if not, then you should use Doom Legacy. (looks cool) Replaces rocket launcher.",
+	"date": "2014-12-10 22:46:05",
+	"files": [
+		{
+			"filename": "dt-gren.wad",
+			"size": 60164,
+			"crc": 1326989747,
+			"md5": "bdefa468a988f2c98e4cc6d07f552970",
+			"sha1": "7bdf08fcd6f49cc30c657c706afe24d9bb84f20c",
+			"sha256": "004dc46272fcf34cbc6bd85a6b3ef131a4f35a2978106590d711a5da3222bc6f"
+		}
+	]
+}

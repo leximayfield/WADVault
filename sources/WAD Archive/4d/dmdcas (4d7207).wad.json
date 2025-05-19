@@ -1,0 +1,17 @@
+{
+	"uid": "dmdcas (4d7207).wad",
+	"name": "CASTLE.WAD",
+	"description": "THE CASTLE",
+	"version": "4d7207",
+	"date": "2013-11-04 20:15:06",
+	"files": [
+		{
+			"filename": "dmdcas.wad",
+			"size": 100912,
+			"crc": 1496527305,
+			"md5": "dbbc10ebed6af7de69d8514ae5bdeab2",
+			"sha1": "4d720729b1cdaec6887dfb2dfabe7c96ba32de32",
+			"sha256": "c1ccacbea50293621fd0581cd1c2042c8f8c27dd722942a3de135ba9b138c839"
+		}
+	]
+}

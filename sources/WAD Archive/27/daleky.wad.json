@@ -1,0 +1,16 @@
+{
+	"uid": "daleky.wad",
+	"name": "Deathmatch Daleks",
+	"description": "Daleky.wad is a severe remixing of elements of the drwho.wad. This wad has new graphics and sounds to turn the player into one of the most imfamous of Doctor Who villians, the daleks. It's intended to be used for deathmatch, but is quite enjoyable to play single player. It is intended for DOOM II, and you will need to use DEUSF to merge all the sprites and sounds into it before playing it.",
+	"date": "2015-09-15 18:00:44",
+	"files": [
+		{
+			"filename": "daleky.wad",
+			"size": 583092,
+			"crc": 1524523700,
+			"md5": "125ee8fcd94ac2f5b29fa9f4d537525c",
+			"sha1": "27ee806f643e0ba07543f7d83c431306e8b52943",
+			"sha256": "11d137caad018072f9d6bdd82501e9848eb07b42b66d3077789f2e08d072ce9c"
+		}
+	]
+}

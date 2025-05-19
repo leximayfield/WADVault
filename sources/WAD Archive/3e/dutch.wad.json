@@ -1,0 +1,16 @@
+{
+	"uid": "dutch.wad",
+	"name": "Dutch",
+	"description": "This is my first attempt, so let me know.",
+	"date": "2014-12-13 17:26:40",
+	"files": [
+		{
+			"filename": "dutch.wad",
+			"size": 763108,
+			"crc": 766295366,
+			"md5": "95bde2a0e6589d5131ac80b1bf741772",
+			"sha1": "3e55aeddbd75f3dd7a5bcbba7d343b398edb29c1",
+			"sha256": "7a9e5fce50a29447107b4808fdf105377804683925d921940c32c88f6b8206e8"
+		}
+	]
+}

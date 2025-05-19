@@ -1,0 +1,16 @@
+{
+	"uid": "AGONISM5.wad",
+	"name": "AGONISM5.WAD",
+	"description": "Small deathmatch level, containing all weapons, some ammo, and a little health. There is a trick to getting the plasma gun and BFG in the center of the level. The pattern to the lift in the center changes every time you play, sometimes its easy, most times its not.",
+	"date": "2014-10-14 21:19:17",
+	"files": [
+		{
+			"filename": "AGONISM5.wad",
+			"size": 44686,
+			"crc": 3793739036,
+			"md5": "54f7d62f5fabeea84587b1c6be67a7c9",
+			"sha1": "aa9caba9c45ba7f213c41cf0bea02b4311a19ef8",
+			"sha256": "f2141d5fb631304e018ca6ef81ccf5b01395d69e125678322d0837fc116bad1b"
+		}
+	]
+}

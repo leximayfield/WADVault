@@ -1,0 +1,17 @@
+{
+	"uid": "DoomZero (f57da5).wad",
+	"name": "Doom Zero",
+	"description": "A concept of a possible third installment in Final Doom. Fully DOS compatible. Doom Zero brings things back to the basics and expands on the gameplay without requiring an advanced modern source port. The maps follow a philosophy of level design that was practiced by the original authors of Doom without blatantly copying elements of said authors, and also putting a little more emphases on level navigation and puzzle solving.",
+	"version": "f57da5",
+	"date": "2019-10-07 23:18:00",
+	"files": [
+		{
+			"filename": "DoomZero.wad",
+			"size": 11927568,
+			"crc": 2729751429,
+			"md5": "f8d975599fb9a1c79214d6a590b598d3",
+			"sha1": "f57da53fdb5fce81ff58dba2f16803b3aff5d5f1",
+			"sha256": "6fc9d16a9f57a18ef5f292d50eca1a2394e5a74f2b075ba4ce3ceacb8e892c92"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "smetro2.wad",
+	"name": "Special sloped Metro2",
+	"description": "Floor Massacre Underwater city with breakable slopes to test CDoom 2.07 features",
+	"date": "2014-12-29 16:08:28",
+	"files": [
+		{
+			"filename": "smetro2.wad",
+			"size": 379688,
+			"crc": 2550380742,
+			"md5": "1bee211f6794591db32032fbaa27298e",
+			"sha1": "6265f492a3681ee28b63432c6b738ba3c95a7082",
+			"sha256": "0841bc41bf7aff1b7fa1ae841e93627413ac6b1f5d372c07accbffa94b781967"
+		}
+	]
+}

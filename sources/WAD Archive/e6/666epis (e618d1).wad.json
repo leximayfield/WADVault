@@ -1,0 +1,17 @@
+{
+	"uid": "666epis (e618d1).wad",
+	"name": "666 mini-episode",
+	"description": "A mini-episode consisting of 5 levels. Replaces E3M4 through E3M8. A batch file is included to start the episode. Just unzip the file into the DOOM directory and type 666. It will give instructions on how to use the batch file (you have to give it a number indicating the difficulty level).",
+	"version": "e618d1",
+	"date": "2013-11-04 20:16:01",
+	"files": [
+		{
+			"filename": "666epis.wad",
+			"size": 633838,
+			"crc": 2330148045,
+			"md5": "0e8f98bbeb66c5a4996e027329bf9399",
+			"sha1": "e618d106e1350198622309d0442807596f2ffdd2",
+			"sha256": "634bdc165cfb334a7ba5c95a77d592f0c21b6170a48f1cb1a607bd24bd5e57e5"
+		}
+	]
+}

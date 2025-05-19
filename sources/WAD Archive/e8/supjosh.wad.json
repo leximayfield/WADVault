@@ -1,0 +1,16 @@
+{
+	"uid": "supjosh.wad",
+	"name": "SUPJOSH",
+	"description": "For the longest time, I wanted to try my hand at Doom mapping, but it took joshthenesnerd's stream to give me enough motivation to actually do so. If all goes well he should eventually be playing this on his idgames archive marathon stream! This is a short and small techbase-ish level, which I hope isn't godawful for a first map.",
+	"date": "2019-03-20 01:44:10",
+	"files": [
+		{
+			"filename": "supjosh.wad",
+			"size": 24358,
+			"crc": 1425978167,
+			"md5": "ce5063404fcaf057822e306229eea646",
+			"sha1": "e86c4355deb2c30f20b44c73e6be80e041393bd8",
+			"sha256": "3b26f8186061cf375184c62fcdeaf3faab820592366f46337c63944af404a23c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DANCE (3a3aa5).wad",
+	"name": "Short Dance at Iris Base",
+	"description": "//*******// Short straightforward map, which can be completed in a few minutes. //*****//",
+	"version": "3a3aa5",
+	"date": "2017-06-27 00:11:23",
+	"files": [
+		{
+			"filename": "DANCE.wad",
+			"size": 130038,
+			"crc": 1883841744,
+			"md5": "15cfc6762e26aabedf013d19a016dc02",
+			"sha1": "3a3aa5c1a48f5d472a7b9741157c714fa1f7adc5",
+			"sha256": "a8c25a13742c69b7f86da4ed97e77b0da4e8e3801e52c2351f084629d302b9af"
+		}
+	]
+}

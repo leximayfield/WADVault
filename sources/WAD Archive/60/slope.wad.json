@@ -1,0 +1,16 @@
+{
+	"uid": "slope.wad",
+	"name": "Slope CDoom 2.07 test",
+	"description": "breakable floors, slopes and dynamic slopes to test CDoom 2.07 features and things spawned above 3d floors",
+	"date": "2014-12-29 15:37:23",
+	"files": [
+		{
+			"filename": "slope.wad",
+			"size": 18846,
+			"crc": 3782919221,
+			"md5": "99c2ddb24d0f88addaa51be127850be0",
+			"sha1": "60cf1c2763541ec73a2061d6253deb2567f73e56",
+			"sha256": "36762d65525b7654c10104a338d5240763a1001f4a0fef004b6d54db4c872a7c"
+		}
+	]
+}

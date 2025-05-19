@@ -1,0 +1,17 @@
+{
+	"uid": "echelon (f2633c).wad",
+	"name": "ECHELON v1.2",
+	"description": "A 30-map mega wad. Yes! Finally made one... The project's chief goal was to create a full set of bite-sized maps. Some maps grew a little larger. A reimagining of the Doom II storyline.",
+	"version": "f2633c",
+	"date": "2016-10-17 17:10:50",
+	"files": [
+		{
+			"filename": "echelon.wad",
+			"size": 27812671,
+			"crc": 2827620535,
+			"md5": "06ebd5976ae930c1cbebc5ec54e7b88d",
+			"sha1": "f2633cf56ae26b0d421a3b9d5acd01a67c1ccdc6",
+			"sha256": "660e53b79b581081acb8321638bd53f385160e50a66159cb8155396062b14675"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "keep (fcb6b1).wad",
+	"name": "The Keep",
+	"description": "A new level for Doom 2. I tried to go for form AND substance with this new WAD. e-mail me and tell me what you think.",
+	"version": "fcb6b1",
+	"date": "2014-12-27 12:56:03",
+	"files": [
+		{
+			"filename": "keep.wad",
+			"size": 286903,
+			"crc": 1859955897,
+			"md5": "ef9bfc8902baa15ec2cdde1182019547",
+			"sha1": "fcb6b12ee8656398f069d06095bdff03f6c9c926",
+			"sha256": "8f98c821aca966f8bca1ddfd8d7b1c1f05f4a2ae2786d3d7d8abe1caceb248fd"
+		}
+	]
+}

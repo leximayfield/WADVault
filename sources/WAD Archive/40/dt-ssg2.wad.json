@@ -1,0 +1,16 @@
+{
+	"uid": "dt-ssg2.wad",
+	"name": "Blood Shotgun",
+	"description": "The double barrelled shotgun from the cool game 'Blood' by Monolith Software. Try to guess what weapon it replaces.",
+	"date": "2014-12-10 22:46:09",
+	"files": [
+		{
+			"filename": "dt-ssg2.wad",
+			"size": 58826,
+			"crc": 3800571801,
+			"md5": "c7a830e8c00608e25573f8847e1a41f3",
+			"sha1": "409259a302ecf94f7243da6fefb24f6c9d33147e",
+			"sha256": "74bf7134588ba3e690f6940e12903b0bdd237d9735d6492caed86b4658bfd2f2"
+		}
+	]
+}

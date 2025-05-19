@@ -1,0 +1,16 @@
+{
+	"uid": "distroc.wad",
+	"name": "Distribution Center",
+	"description": "A large, single level for GZDoom, originally created for the Vinesauce Mapping contest in Fall 2016.",
+	"date": "2017-06-26 23:56:03",
+	"files": [
+		{
+			"filename": "distroc.wad",
+			"size": 13307406,
+			"crc": 2676685791,
+			"md5": "7b4e0a785d005b3d69de9f0d134cbdb0",
+			"sha1": "35f6641fdd1b3906318b6096347eb1d3cf9650c2",
+			"sha256": "68b74382a9e2b49c852ec6dfdb49783d9b66277344e943bdae413af4c41f86bd"
+		}
+	]
+}

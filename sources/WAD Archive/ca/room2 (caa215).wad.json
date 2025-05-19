@@ -1,0 +1,17 @@
+{
+	"uid": "room2 (caa215).wad",
+	"name": "ROOM2.WAD ROOM2-1.WAD ROOM2-2.WAD",
+	"description": "ROOM2.WAD A nice killing arena.",
+	"version": "caa215",
+	"date": "2013-11-02 15:56:13",
+	"files": [
+		{
+			"filename": "room2.wad",
+			"size": 15449,
+			"crc": 3200099841,
+			"md5": "fd45503e2c40a6dd67127da2c2a6d5bb",
+			"sha1": "caa215eb4491b974e8df211afcb987bd8754f7ce",
+			"sha256": "f542b1bc7d3fbf70e3a833cfc75bce9afd76bf2a451c141fef384dccdbedd327"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wastevat.wad",
+	"name": "Waste Vats",
+	"description": "After making my DTWID map, I was in the mood for another e1-style map, and for some reason I wanted to make it with Eternity, so I did.",
+	"date": "2014-12-14 21:01:35",
+	"files": [
+		{
+			"filename": "wastevat.wad",
+			"size": 249866,
+			"crc": 3460965073,
+			"md5": "d21ff45277f64ed1419cc1e52e44c2ca",
+			"sha1": "082e759145bcc3dfb3e6a5bd7f35266b0fc71b98",
+			"sha256": "9de57d90158e802556b73cec29b9cea21a3ac3615740340f86ea1b6ae38fcf6c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "potter01.wad",
+	"name": "Potters Field #1",
+	"description": "A small, tight, well-designed, aesthetically-pleasing, furious-paced DeathMatch level for DoomII. This level was NOT just slapped together. A lot of time, thought, and testing has gone into it, so I hope you enjoy it.",
+	"date": "2013-11-04 19:18:45",
+	"files": [
+		{
+			"filename": "potter01.wad",
+			"size": 49016,
+			"crc": 4175658120,
+			"md5": "56a93006ab7f77685bfdc345573a70c7",
+			"sha1": "15b7b9fb2a292c34f42f7de92b972107e5678510",
+			"sha256": "33481bfc5f346dec6db967bfd2ac0cef4042c6cc4a69fde026eb581bfb4c0e2d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "E1M1HIVE (9c96ab).wad",
+	"name": "The Demons' Hive",
+	"description": "They're back. This time it's not the moons they are after, but Mars itself. There is a hive/colony on the surface, and you (lucky you!) have been chosen to lead the attack. But your company never made it down, and you are the only one left. You have some explaining to do.",
+	"version": "9c96ab",
+	"date": "2013-11-04 20:16:34",
+	"files": [
+		{
+			"filename": "E1M1HIVE.wad",
+			"size": 54192,
+			"crc": 907247044,
+			"md5": "0d2bc1d89e75698af5d87ebee53a3ec1",
+			"sha1": "9c96ab8dbd9a0e3132fe14cb8c8138ed7cb63952",
+			"sha256": "26584ae72b71b99fb7539bf25d3d1fc54a6e4d6d0ae473a87ce83708acbbe4a9"
+		}
+	]
+}

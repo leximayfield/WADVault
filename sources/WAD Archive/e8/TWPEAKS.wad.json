@@ -1,0 +1,16 @@
+{
+	"uid": "TWPEAKS.wad",
+	"name": "Twin Peaks",
+	"description": "Classic tech level. My first WAD. Takes me about 10 minutes to beat. Have fun! The remote Echo base is studying an anomaly atop the twin peaks of the Susquenatch valley. Your mission is to break into the complex and gain access to the mountain. The answers we are looking for await us on the highest peak.",
+	"date": "2016-08-12 22:03:01",
+	"files": [
+		{
+			"filename": "TWPEAKS.wad",
+			"size": 311445,
+			"crc": 2189712266,
+			"md5": "7994af94cea8098b44f45d8877d74c27",
+			"sha1": "e830740cbf41e01f24a976a65c29df4410a4283d",
+			"sha256": "0a0dcf1f95516790595bdc6e217005cfbddf9da261847604fe1e03dbc34a42bc"
+		}
+	]
+}

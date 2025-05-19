@@ -1,0 +1,16 @@
+{
+	"uid": "gimpy1.wad",
+	"name": "Gimpy1",
+	"description": "A deathmatch wad for Doom][ only not much to it. try to find the BFG2000",
+	"date": "2014-12-15 22:18:40",
+	"files": [
+		{
+			"filename": "gimpy1.wad",
+			"size": 125808,
+			"crc": 2682660491,
+			"md5": "f527f0353cd3f820a7e94408959edbca",
+			"sha1": "1a445d70fac0e58c16c1145f9bb59a4c53ddd3af",
+			"sha256": "2cd6117bdcf51522e49e665c6c36102886e8f88e4eab87528f3ed20c6d34e639"
+		}
+	]
+}

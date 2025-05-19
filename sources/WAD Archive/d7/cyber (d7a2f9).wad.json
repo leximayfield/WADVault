@@ -1,0 +1,17 @@
+{
+	"uid": "cyber (d7a2f9).wad",
+	"name": "Cybernetic",
+	"description": "This is my first wad, little new to this stuff. This took a little bit to make, Xwe and Doom Builder kept crashing which screwed my wad, but now its done. There will be a sequel and it will be WAY better than this thing. HERES THE STORY FOR THE WAD: Teleportation is the new transportation on our home planet. Everything went well with our new transportation...went something went wrong. One of the teleporters have lost signal, and suddenly connected to a demonic realm...which is hell. And then all hell broke lose. You...have been asgined as a new marine to stop this invasion, you have to teleport to hell, and kill the hellsmith. Good luck, but dont think you stopped all invasion after you killed him, its not over yet...(run the wad with OpenGL, makes the game look good. just go the \"set video options in well...options and switch the render to OpenGL.)",
+	"version": "d7a2f9",
+	"date": "2014-12-21 16:31:35",
+	"files": [
+		{
+			"filename": "cyber.wad",
+			"size": 7868225,
+			"crc": 2291749359,
+			"md5": "6b828a51c4e4ac8df7fa998d0332ca32",
+			"sha1": "d7a2f92e2b297d874286a65293dea50b14cb1d70",
+			"sha256": "dcf837b1a14d46469473ff5109e4972326634685610cec3eb09d9dc76a852415"
+		}
+	]
+}

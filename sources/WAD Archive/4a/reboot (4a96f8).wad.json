@@ -1,0 +1,17 @@
+{
+	"uid": "reboot (4a96f8).wad",
+	"name": "REBOOT.WAD",
+	"description": "This is the first wad iv'e made for Doom2. I think it's a fair size for a first wad (100K) It has one large area some people may find hard, It can be completed without using cheats. Just keep tring and you'll get it. ..Enjoy..",
+	"version": "4a96f8",
+	"date": "2013-11-06 22:35:15",
+	"files": [
+		{
+			"filename": "reboot.wad",
+			"size": 102835,
+			"crc": 4107417223,
+			"md5": "1f4b44ee7ffa204c76608320343c2e0d",
+			"sha1": "4a96f8a0f5ae3533c6432b14deb0e863a463251a",
+			"sha256": "ade21899cddea799b73592e6172de23bf5932a03b58567dc74b6886d2bea0ba0"
+		}
+	]
+}

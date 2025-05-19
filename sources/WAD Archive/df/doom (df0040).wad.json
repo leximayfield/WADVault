@@ -1,0 +1,16 @@
+{
+	"uid": "doom (df0040).wad",
+	"name": "Doom v1.1",
+	"version": "df0040",
+	"date": "2015-06-20 16:19:33",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 10396254,
+			"crc": 1715829433,
+			"md5": "981b03e6d1dc033301aa3095acc437ce",
+			"sha1": "df0040ccb29cc1622e74ceb3b7793a2304cca2c8",
+			"sha256": "68243b47ea430bec5f6037c49ff5598f9484ac67e25331dfd0e469b95fe9c8cb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doom (37de45).wad",
+	"name": "The Ultimate Doom (Xbox Live Arcade)",
+	"version": "37de45",
+	"date": "2015-12-01 20:37:01",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 12475196,
+			"crc": 3092790485,
+			"md5": "72286ddc680d47b9138053dd944b2a3d",
+			"sha1": "37de4510216eb3ce9a835dd939109443375d10c5",
+			"sha256": "1d2dda5abc900a319f292aea04d16ace081c9e638896410356102f0832e27b93"
+		}
+	]
+}

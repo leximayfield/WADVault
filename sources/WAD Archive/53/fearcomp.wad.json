@@ -1,0 +1,16 @@
+{
+	"uid": "fearcomp.wad",
+	"name": "Fear Complex (version 1.0)",
+	"description": "'Fear Complex' is a large single player/co-op map based on DOOM Episode 1 styling cues.",
+	"date": "2014-12-13 17:25:05",
+	"files": [
+		{
+			"filename": "fearcomp.wad",
+			"size": 351499,
+			"crc": 589888849,
+			"md5": "fceb1d0340ae89dde49b34afb7e02f89",
+			"sha1": "530d9ba7cc9840090473389d84224cad6236a7ec",
+			"sha256": "c626fe5f2f81008f43cc7059ffe61376d6c9095b0a89b817195311e90464fe85"
+		}
+	]
+}

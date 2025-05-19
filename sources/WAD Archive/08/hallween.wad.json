@@ -1,0 +1,16 @@
+{
+	"uid": "hallween.wad",
+	"name": "Hallween",
+	"description": "This is a 4 level collection from Doomer's House of Carnage. They are octoplex.wad, nyosix.wad, nyoface.wad, and peer.wad I've added some tunes from John Carpenter's movie \"Halloween\", \"BeetleJuice\", & \"The Addams Family\", as well as some sounds I grabbed from Quake. It was put together to reap some Halloween Havoc.",
+	"date": "2014-12-15 21:29:09",
+	"files": [
+		{
+			"filename": "hallween.wad",
+			"size": 513296,
+			"crc": 897969270,
+			"md5": "71f86233a536dbeb00db2e847ba6cbce",
+			"sha1": "08ef51497fd935f3a9362005c49fb983d2add9e5",
+			"sha256": "4e105d28e32a9b68b86ae4a3bc8684183570a660702e90a7e067f7bb062cb667"
+		}
+	]
+}

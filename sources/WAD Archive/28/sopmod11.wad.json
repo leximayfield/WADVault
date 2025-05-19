@@ -1,0 +1,16 @@
+{
+	"uid": "sopmod11.wad",
+	"name": "Sopmod v1.1",
+	"description": "Replaces most weapons with an 0verp0wered M4 rifle. Also includes new fist attacks, a new \"chainsaw,\" and the dreaded M249 automatic rifle. Oh yeah, and an M203 grenade launcher. :)",
+	"date": "2014-12-11 22:30:07",
+	"files": [
+		{
+			"filename": "sopmod11.wad",
+			"size": 296732,
+			"crc": 710309660,
+			"md5": "9586d64e995a95c0aefd1eb358ba713d",
+			"sha1": "288a0eb15cf873c484a855e243ee245003bf8871",
+			"sha256": "8f8d3349a26396c7f0808f5fab28fc2b4d46d4ab6f440d0f6bbb340444ed6cb7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "chemstat (20fc55).wad",
+	"name": "Chemical Station 474",
+	"description": "This is my first wad for vanilla doom. I didn't test it with the original EXE but it works with Chocolate Doom. I'm not very good at detailing and it's a little short, but I hopy you enjoy it!",
+	"version": "20fc55",
+	"date": "2015-09-14 22:22:38",
+	"files": [
+		{
+			"filename": "chemstat.wad",
+			"size": 448209,
+			"crc": 137819662,
+			"md5": "bab15705e02516969cb2918f2edd1a04",
+			"sha1": "20fc55ca195b60d29a83d12512a1add8aa2cd718",
+			"sha256": "f1efb22b7e661943f759b6d7f918052fe4e4e3c88e25713fc495bc08585ae47a"
+		}
+	]
+}

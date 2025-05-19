@@ -1,0 +1,16 @@
+{
+	"uid": "resur.wad",
+	"name": "All Resurrecting Archvile mod",
+	"description": "A simple vanilla gameplay mod (or enhancement).",
+	"date": "2015-09-15 18:08:02",
+	"files": [
+		{
+			"filename": "resur.wad",
+			"size": 2983,
+			"crc": 2148776346,
+			"md5": "dc8d93e3f5e0cc8e68d5bdb1aa9eb4db",
+			"sha1": "2733175c0c6784c785396ddfbae930e228eef4e8",
+			"sha256": "e40be03748185d6bbdeb4e8ad24d3cb8927229cb22ac4ceb44918bfa9b51dd53"
+		}
+	]
+}

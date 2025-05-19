@@ -1,0 +1,17 @@
+{
+	"uid": "Anomaly (24094e).wad",
+	"name": "The Titan Anomaly",
+	"description": "While exploring for new mines on Titan (someone fragged the old one - darn!) UAC discovered the remains of an alien base. A tight security lid was clamped on the find, referred to only vaguely as the Anomaly in reports. You've been assigned the job of breaking in and finding out whats going on. A UAC research base and security garrison has grown up around the Anomaly, and you'll begin your visit in the Security Holding Area, where you'll be asked to show your papers. Too bad you don't have any. You'll need to explore the Vistor's Center (S), the Science Admin. Building (N), the Security Headquarters (E), and the Guard Barracks to gain the keys that'll allow you access to the Anomaly Research Area (W), where, if you're lucky, you may just find an exit back home.",
+	"version": "24094e",
+	"date": "2014-12-15 21:26:50",
+	"files": [
+		{
+			"filename": "Anomaly.wad",
+			"size": 716419,
+			"crc": 899113678,
+			"md5": "00a605251b95e4a4853d09cfbc151399",
+			"sha1": "24094e4c200f0269fcce6a7e7532af7fc512c502",
+			"sha256": "e0d3efc52add92974cf989c34ce93dbb35149041a1192a2ea169e24922490dad"
+		}
+	]
+}

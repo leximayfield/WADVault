@@ -1,0 +1,17 @@
+{
+	"uid": "misery (7ce96e).wad",
+	"name": "MISERY.WAD (MAP03 PWAD For DOOM II)",
+	"description": "I tried to make Misery be a good deathmatch level. it hasn't been network tested,but i don't think you'll have any problems,my nephew and i tried it on the modem,we had no trouble in coop or dmatch play. Enjoy.... (Map04 comin at ya soon)",
+	"version": "7ce96e",
+	"date": "2013-11-06 22:34:39",
+	"files": [
+		{
+			"filename": "misery.wad",
+			"size": 185890,
+			"crc": 3537227064,
+			"md5": "c21f020053c185207f5163b8f2bfabd0",
+			"sha1": "7ce96e673f5ac316804e787e1dd8b76cb547a2b9",
+			"sha256": "51c6865105b6903fef757e849662660c5a9930aa0f1597832f0772a0bd935dba"
+		}
+	]
+}

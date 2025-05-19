@@ -1,0 +1,16 @@
+{
+	"uid": "bbricks1.wad",
+	"name": "Blooded Bricks",
+	"description": "A medium sized duel/deathmatch map designed for 2-6 players.",
+	"date": "2014-12-15 22:11:41",
+	"files": [
+		{
+			"filename": "bbricks1.wad",
+			"size": 512378,
+			"crc": 469413618,
+			"md5": "ef75f4aa3dc9d50e098f8744754eab48",
+			"sha1": "80df637b33e4e94ffb7f98b76c50e1dbbe312aa8",
+			"sha256": "659948a2c0bb18a266768a206a15f46ead365dbc82a3f2ab56e30376c4c7c711"
+		}
+	]
+}

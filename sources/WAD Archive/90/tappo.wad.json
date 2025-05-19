@@ -1,0 +1,16 @@
+{
+	"uid": "tappo.wad",
+	"name": "Tappo",
+	"description": "A large arena with lots of monsters. Funny and hard level! Great in deathmatch!",
+	"date": "2014-12-29 17:28:27",
+	"files": [
+		{
+			"filename": "tappo.wad",
+			"size": 138570,
+			"crc": 916796130,
+			"md5": "e787460dfc05eb6f795ec79c420f83dd",
+			"sha1": "9082d1e95afa5e2036aa330225a026508c920bf7",
+			"sha256": "b94a226e3831084a0a1d0ebabb2ca83a3aa6212a292b34607835f7ac5f1559e5"
+		}
+	]
+}

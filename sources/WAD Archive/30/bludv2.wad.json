@@ -1,0 +1,16 @@
+{
+	"uid": "bludv2.wad",
+	"name": "DooM BlooD",
+	"description": "Based on the original \"Blood\" game by Monolith Productions.",
+	"date": "2014-02-15 10:49:37",
+	"files": [
+		{
+			"filename": "bludv2.wad",
+			"size": 8374208,
+			"crc": 3117327729,
+			"md5": "330061b81267c108aa06c406a1f8cc7d",
+			"sha1": "30990c08238ca013345146ca5e579ab16886054f",
+			"sha256": "cdc44c0d2daea6bf817efe8aea2df4b395defb9965b83360017fb72409219808"
+		}
+	]
+}

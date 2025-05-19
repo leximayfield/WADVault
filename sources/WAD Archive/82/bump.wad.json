@@ -1,0 +1,16 @@
+{
+	"uid": "bump.wad",
+	"name": "BUMP",
+	"description": "This map started out as a demonstration of things that work in vanilla or prboom but don't work in ZDoom, making the map unplayable in ZDoom. It's like an obstacle course. There are only two monsters, but DON'T KILL THEM! Also, play this with -fast. You have to play with -fast if you want the archviles to behave properly in this map.",
+	"date": "2013-04-19 00:22:41",
+	"files": [
+		{
+			"filename": "bump.wad",
+			"size": 468195,
+			"crc": 2166228444,
+			"md5": "27117fea40604d7a67f47e51f948c06c",
+			"sha1": "82026791d320c9ce72bf0b750ca50bf86df98735",
+			"sha256": "34219b95413dbee7c550cb1a33f1c65cecb34738665c0808d08cc806fff2bfb9"
+		}
+	]
+}

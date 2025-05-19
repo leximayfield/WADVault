@@ -1,0 +1,16 @@
+{
+	"uid": "gs_verif.wad",
+	"name": "Verification Station",
+	"description": "ZDOOM level with new textures. Enjoy!",
+	"date": "2015-12-29 13:51:02",
+	"files": [
+		{
+			"filename": "gs_verif.wad",
+			"size": 2240474,
+			"crc": 1667255702,
+			"md5": "5d15b49941d87ad6e04923e977c3dca9",
+			"sha1": "69e370e2b743bd1d8d0486a6f98f9f18c9e9b8c4",
+			"sha256": "088d68481f92b65f1786c72de3afc3a556dbb5fff5e2099925cdb91e67c5dc63"
+		}
+	]
+}

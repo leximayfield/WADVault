@@ -1,0 +1,17 @@
+{
+	"uid": "quark1 (c50811).wad",
+	"name": "Outpost Quark -- version 1",
+	"description": "Your hands shake as you unplug the virtual reality system. Sure, your eyes had been fooled, but your brain knew that DOOM was just a game ...",
+	"version": "c50811",
+	"date": "2013-11-02 16:05:31",
+	"files": [
+		{
+			"filename": "quark1.wad",
+			"size": 168314,
+			"crc": 1282562868,
+			"md5": "381266fff6f01a75f9d239b43fe2c97b",
+			"sha1": "c508118dd09f6791b8655992129bbf497b66129b",
+			"sha256": "18ae89a12d1e2819220a839471ae9fe9d096173d3c9c31625d1c7086a6e7c376"
+		}
+	]
+}

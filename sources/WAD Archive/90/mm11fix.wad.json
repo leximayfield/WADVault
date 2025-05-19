@@ -1,0 +1,16 @@
+{
+	"uid": "mm11fix.wad",
+	"name": "Memento Mori MAP11 fix",
+	"description": "COMPET-N MAP11 fix - lindef 92, removed action - sector 236, removed tag - lindef 125 & 903, removed impassable and middle textures - lindef 1394 & 1397, added tag 33, action 1",
+	"date": "2013-04-22 00:10:52",
+	"files": [
+		{
+			"filename": "mm11fix.wad",
+			"size": 161892,
+			"crc": 464886605,
+			"md5": "794e1389443de3554a30ac82d10ef6ee",
+			"sha1": "90d79be8b69333c43eac19312ccce037c6acb1e0",
+			"sha256": "0be11413cce36c2ad8717def6ab3e337fee6d123877e2122b409d1bdb7db1646"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nukepit (ea455c).wad",
+	"name": "Nuke Pit Death Match",
+	"description": "Strictly a Deathmatch level for Doom 2, Replaces Level 1.",
+	"version": "ea455c",
+	"date": "2014-01-07 22:07:54",
+	"files": [
+		{
+			"filename": "nukepit.wad",
+			"size": 87264,
+			"crc": 595136544,
+			"md5": "f0a04e256e5544a44fe8239e0657a715",
+			"sha1": "ea455c91e5475c157473443563cc99bc5d602421",
+			"sha256": "3927c09d6e048049fc30cbae76d084690910fad4ee8c5325374a5624ec9a10b3"
+		}
+	]
+}

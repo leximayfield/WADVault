@@ -1,0 +1,17 @@
+{
+	"uid": "CANYON (987151).wad",
+	"name": "canyon",
+	"description": "Fairly large in length. Eerie red rock walls. Good for one player or equally fun for deathmatch. Plenty of room to run around, ambush areas, caves to explore. Some items require a little effort to find.",
+	"version": "987151",
+	"date": "2014-10-14 21:08:14",
+	"files": [
+		{
+			"filename": "CANYON.wad",
+			"size": 171183,
+			"crc": 3994332651,
+			"md5": "40ca2494514c021b3ad3db40f8bd2a75",
+			"sha1": "98715109aa92341556dc99aba6d312d8a748485d",
+			"sha256": "d80be6797bcedf0541624527765079bbd98f3881cb4ab9ba27ab7578a495dd81"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "reddog2 (fa09bc).wad",
+	"name": "Reddog2.wad",
+	"description": "A set of 3 levels that I designed over the course of a month or so that are ideal for deathmatch play (especially 4 man deathmatch). There really is no theme cuz IMO wads built with themes in mind suck when you actually play them...",
+	"version": "fa09bc",
+	"date": "2014-12-03 20:14:42",
+	"files": [
+		{
+			"filename": "reddog2.wad",
+			"size": 244568,
+			"crc": 2758884399,
+			"md5": "c4608a3eabf9a6d6539b6705d1f01d7b",
+			"sha1": "fa09bcb63db111ba54c8956dd6811523cdeb9e80",
+			"sha256": "5a85ac1f92072e478af59aebb82ec5dd116e9e00b02105d6db7c2c272a242cd7"
+		}
+	]
+}

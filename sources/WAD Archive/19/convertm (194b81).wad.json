@@ -1,0 +1,17 @@
+{
+	"uid": "convertm (194b81).wad",
+	"name": "Convertm.WAD",
+	"description": "Human Conversion Lab the Aliens use to turn the Marines into Former Humans. Contains helo landing pad and dungeon were the marines are kept.",
+	"version": "194b81",
+	"date": "2015-12-07 09:55:59",
+	"files": [
+		{
+			"filename": "convertm.wad",
+			"size": 44614,
+			"crc": 1254949019,
+			"md5": "92fb2afd89709a798c12971bf1fe4935",
+			"sha1": "194b81be56188c6aeae620ea2bb2b80870a55a4d",
+			"sha256": "7e2c821014702b1b9049d6d54c81790cff8a6042a7729d0af0f7d977b101bba5"
+		}
+	]
+}

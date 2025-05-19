@@ -1,0 +1,16 @@
+{
+	"uid": "revlvic8.wad",
+	"name": "Revalvicate",
+	"description": "Revalvicate - A complete Episode 1 music replacement wad with mostly original music from me. Covers E1M1 - E1M9, introduction, intermission and end victory. The majority of Revalvicate is simple but powerful. Not many instruments but they are used well. The idea for the songs was a style not quite DOOM, but would fit the levels. ZDOOM 1.23 or better (or something based on ZDOOM 1.23) is required to play the tracker files properly. I used ZDOOM v1.23 beta 28 to test Revalvicate.",
+	"date": "2015-09-14 19:37:32",
+	"files": [
+		{
+			"filename": "revlvic8.wad",
+			"size": 2074778,
+			"crc": 1569739971,
+			"md5": "628d1417f3629669c727aa013a8b656d",
+			"sha1": "def9ed7778490523f483a8ff9ade5b11ed49aa2f",
+			"sha256": "4a122f3dc0ecf787a2c1f0cac9268067a86126080116ca85f4c8b48091bd1421"
+		}
+	]
+}

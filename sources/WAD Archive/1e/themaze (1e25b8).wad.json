@@ -1,0 +1,17 @@
+{
+	"uid": "themaze (1e25b8).wad",
+	"name": "The Maze",
+	"description": "A maze-like doom level",
+	"version": "1e25b8",
+	"date": "2014-12-13 17:50:55",
+	"files": [
+		{
+			"filename": "themaze.wad",
+			"size": 101324,
+			"crc": 3377772079,
+			"md5": "a3083f3fb3f2b1069cbd16d64c625cad",
+			"sha1": "1e25b85274ec9247c0b1343143e21e53a2b3f401",
+			"sha256": "b42991693f9eeb4776f7ee1bda517b91b94294fc9fa458a587c7e002128fd148"
+		}
+	]
+}

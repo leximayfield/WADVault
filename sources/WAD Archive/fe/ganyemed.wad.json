@@ -1,0 +1,16 @@
+{
+	"uid": "ganyemed.wad",
+	"name": "Ganyemed Moonbase",
+	"description": "One level (though quite large) which consists of the complete moonbase of the planet Ganyemed, including docking bay and exit ot next level.",
+	"date": "2014-12-18 22:42:10",
+	"files": [
+		{
+			"filename": "ganyemed.wad",
+			"size": 480857,
+			"crc": 1852891773,
+			"md5": "299338b905f4cddcc4d807bafe8c03a0",
+			"sha1": "fe100b747d803ab6a8e0bd251d1b7bf7211f3ed9",
+			"sha256": "0a17c0c4a18ad5baeda4cefd15516f84d41a15891e09d734375b6b858926440a"
+		}
+	]
+}

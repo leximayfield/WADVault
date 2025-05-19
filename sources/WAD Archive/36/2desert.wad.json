@@ -1,0 +1,16 @@
+{
+	"uid": "2desert.wad",
+	"name": "DESERT BASE",
+	"description": "Large complex building occupied by unfriendly monsters...",
+	"date": "2014-12-15 19:08:57",
+	"files": [
+		{
+			"filename": "2desert.wad",
+			"size": 866012,
+			"crc": 2059611665,
+			"md5": "288e3fcfe6b4a805d3f2a03a3a80b8c1",
+			"sha1": "363796de886257fcf9657c636f0d33c883d15b7a",
+			"sha256": "907540c4bc85c882715491f9207ca14cd5ac7e9a23cdcfb5811e4f6808ebc03d"
+		}
+	]
+}

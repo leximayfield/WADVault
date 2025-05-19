@@ -1,0 +1,15 @@
+{
+	"uid": "sliddoor.wad",
+	"description": "This is a three-way hatch type door, like you see in Quake or Quake2. It opens to the left, right and down all at the same time. It uses some modified textures which can be improved.",
+	"date": "2015-09-15 17:28:55",
+	"files": [
+		{
+			"filename": "sliddoor.wad",
+			"size": 52334,
+			"crc": 4076490020,
+			"md5": "e2b82982bfad0c681e47a1ab336f6a89",
+			"sha1": "9ad28de53a1634a429e6ace36ef2d5b3745971ce",
+			"sha256": "8ea8dab8a1abcccb8c894bda5c2412f7afc81aaf368d2f2b6ef51fa403d52b60"
+		}
+	]
+}

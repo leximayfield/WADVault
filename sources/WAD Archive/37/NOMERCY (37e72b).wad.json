@@ -1,0 +1,17 @@
+{
+	"uid": "NOMERCY (37e72b).wad",
+	"name": "NOMERCY.WAD",
+	"description": "This patch file is for E1M1. To designed for only deathmatch play. It works best with 3 or 4 players but can be played with 2 players. All weapons are evenly spaced to insure a good deathmatch.",
+	"version": "37e72b",
+	"date": "2014-12-03 19:57:39",
+	"files": [
+		{
+			"filename": "NOMERCY.wad",
+			"size": 43924,
+			"crc": 3912956029,
+			"md5": "a81213270f9ce0b98a31bf88b248d8ea",
+			"sha1": "37e72b66418091122ca4458fc27887354c7e18e9",
+			"sha256": "8fe9bdeaa26f9854903eea0b501a018b24b5065e6a28565f7ad7e956e064182e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tower (0b2bfe).wad",
+	"name": "Hotseat - deathmatch level",
+	"description": "An alteration of doom episode one, mission one. Rooms have been added and joined to make for an excellent deathmatch game. Friends and I have spent two hours straight on this one floor. A tower has been added to the courtyard. How do you get in and out of this thing?",
+	"version": "0b2bfe",
+	"date": "2013-11-02 15:20:22",
+	"files": [
+		{
+			"filename": "tower.wad",
+			"size": 72707,
+			"crc": 1333471622,
+			"md5": "79a87ce7b84807b3c733aaf9b5c1a896",
+			"sha1": "0b2bfefc4a93d1d77f6856c53ec51f513a52d169",
+			"sha256": "fe4f267476703beb93be1a4e42be294f3a86cc34694982f40fd400b2fd2f8b96"
+		}
+	]
+}

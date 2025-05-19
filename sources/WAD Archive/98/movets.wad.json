@@ -1,0 +1,16 @@
+{
+	"uid": "movets.wad",
+	"name": "Move Teleports",
+	"description": "Moving teleports and IOS targets experiment",
+	"date": "2014-12-14 23:10:06",
+	"files": [
+		{
+			"filename": "movets.wad",
+			"size": 14854,
+			"crc": 2008775383,
+			"md5": "0c09f481982f79e10ad19755d0efa3e7",
+			"sha1": "98d14da01f364fe6a439933a94b62e28403c9e13",
+			"sha256": "8c81c1a6b266404e6c96a81560eaeb798f18b16d4cd57a094029ce4eb935b560"
+		}
+	]
+}

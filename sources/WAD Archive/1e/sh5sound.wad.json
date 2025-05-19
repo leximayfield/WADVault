@@ -1,0 +1,16 @@
+{
+	"uid": "sh5sound.wad",
+	"name": "Dr Dad's Fx",
+	"description": "Sound effects from The Simpsons, Star Wars, Wayne's World and Pet Detective",
+	"date": "2015-01-14 22:56:17",
+	"files": [
+		{
+			"filename": "sh5sound.wad",
+			"size": 380676,
+			"crc": 2206772001,
+			"md5": "571ba523e19b13cc754c520666935232",
+			"sha1": "1e2085ba0fefdb318a8ccae8614a5a0fb0c677fc",
+			"sha256": "6ad80ac19591875bf872238c7741d19db87088d87b9ad4d21e201ff31a9551f5"
+		}
+	]
+}

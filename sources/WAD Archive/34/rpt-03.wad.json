@@ -1,0 +1,16 @@
+{
+	"uid": "rpt-03.wad",
+	"name": "RAPTURE, # 3",
+	"description": "Small DM wad : All weapons except the chainsaw",
+	"date": "2014-12-15 22:22:43",
+	"files": [
+		{
+			"filename": "rpt-03.wad",
+			"size": 48908,
+			"crc": 2702495875,
+			"md5": "ba73d4ee578a895a4fb2d06d64c5d580",
+			"sha1": "34c701afa4cd4c61f949c77415e2a32adcf02be2",
+			"sha256": "e0e43f60034a51aca1cba0a3bb35c5a1e1ec013ceb52c299e726756b9aae44fa"
+		}
+	]
+}

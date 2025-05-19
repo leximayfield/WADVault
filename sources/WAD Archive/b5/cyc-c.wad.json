@@ -1,0 +1,16 @@
+{
+	"uid": "cyc-c.wad",
+	"name": "Fatality",
+	"description": "Slime base style map, fairly short but plenty of monsters per sqare metre.",
+	"date": "2015-09-15 19:13:03",
+	"files": [
+		{
+			"filename": "cyc-c.wad",
+			"size": 98804,
+			"crc": 1086021233,
+			"md5": "1cdb7b7fd21bc9064e52f2fdfd9f0d48",
+			"sha1": "b578b4324a5cfb0d01a2aeee4fb990d9ac477ba1",
+			"sha256": "4e2c0b03376e69d35d8264b4f188b69618eea79b4475d6b8b0dbdff1412028aa"
+		}
+	]
+}

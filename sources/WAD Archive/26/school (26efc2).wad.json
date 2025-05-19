@@ -1,0 +1,17 @@
+{
+	"uid": "school (26efc2).wad",
+	"name": "Just another day at school...",
+	"description": "A map of Holy Trinity Regional High in Torbay, : Newfoundland. Deathmatch-only.",
+	"version": "26efc2",
+	"date": "2014-01-07 22:25:22",
+	"files": [
+		{
+			"filename": "school.wad",
+			"size": 130835,
+			"crc": 143086318,
+			"md5": "e087b290a0908ff6fa500dfe7a27a15b",
+			"sha1": "26efc27dff68211c30519d67c39a925e43c9de68",
+			"sha256": "5d8729eb06d2c375d15a9452e9507f3030329c2c7234b3d9ee68013a3a7072f3"
+		}
+	]
+}

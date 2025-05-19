@@ -1,0 +1,17 @@
+{
+	"uid": "barbell (484e5f).wad",
+	"name": "BarBell: DeathMatch Wad for Heretic",
+	"description": "Features: Based on one of our favorite Doom II deathmatch wads. Call it a \"cult\" wad. A Barbell-shaped arena for jousting-type confrontations. But the real fun begins if you're knocked off into the lava pit. There are many wings of wrath down there! Now fly up for some revenge! Weapons: Phoenix rod & Hellstaff",
+	"version": "484e5f",
+	"date": "2014-01-07 21:53:01",
+	"files": [
+		{
+			"filename": "barbell.wad",
+			"size": 9303,
+			"crc": 2445082148,
+			"md5": "60a9eca59904dd5fea9723ee8e596d4d",
+			"sha1": "484e5fd413732d8def753b58a502a20936d843d9",
+			"sha256": "6e9663559632b174849ede4ac01821f9b5eca559a34c3a45150078f51150d1a7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "HolyHell.wad",
+	"name": "Holy Hell 1.1",
+	"description": "(The original map is on Map 5. The map is split to maps 1-4 to allow more computers to run it.) This is version 1.1 of Holy Hell. Gameplay has been improved.",
+	"date": "2013-04-18 21:54:30",
+	"files": [
+		{
+			"filename": "HolyHell.wad",
+			"size": 12167239,
+			"crc": 1139216386,
+			"md5": "b1ad4e0255278598b883a16d1dca3909",
+			"sha1": "3674fc6dbe56ba69f3556da25a6bcb8230e36269",
+			"sha256": "d2b8e39dc3485792ee877281178e6a5e904105fbed440b5f54d16c4bd94e587b"
+		}
+	]
+}

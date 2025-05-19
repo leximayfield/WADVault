@@ -1,0 +1,16 @@
+{
+	"uid": "gnss1.wad",
+	"name": "Genesis1",
+	"description": "Two quick made duel maps.",
+	"date": "2013-04-19 00:01:21",
+	"files": [
+		{
+			"filename": "gnss1.wad",
+			"size": 278336,
+			"crc": 331325678,
+			"md5": "0b60dd2ed7bf9d817b28c5dfe0cdb7de",
+			"sha1": "680797b5febe4cd94a10b4774d1694bedbc8cd31",
+			"sha256": "24dd3414513dbdceb1eee6bea9c75f25cd285bbffe3bb52ebfc49841d57bb0fe"
+		}
+	]
+}

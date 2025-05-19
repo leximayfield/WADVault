@@ -1,0 +1,17 @@
+{
+	"uid": "cccr (1e2886).wad",
+	"name": "Chocolate-Covered Cherry Rage",
+	"description": "This level, designed by me, is \"Chocolate-Covered Cherry Rage.\" I gave it that title because there is a lot of red and brown in it. This one is partially inspired by level 31 from Chillax, level 32 from Hell Revealed 2 (\"Playground\"), and level 32 from SlaughterMAX (\"Power Overwhelming\"). This level consists of pumping rockets into imps and arch-viles, BFG-spamming into 4 species of hordes (pain elementals, revenants, hell knights, and cacodemons) while the cybers infight. You also have to deal with the arch-viles on the towers. Once the fight is over, you activate the switches and kill chaingunners followed by arch-viles. After you gather all of the keys, you activate a switch that opens the exit, spawns arch-viles near there, and unleashes the cacodemons. Once all of that is out of the way, you can exit the level (there is a death exit at the end where you have to manually destroy the Icon of Sin with the exploding barrels which also kill you, unless you are invincible). I would love to see others try and UV Max this level.",
+	"version": "1e2886",
+	"date": "2019-03-06 21:38:52",
+	"files": [
+		{
+			"filename": "cccr.wad",
+			"size": 2533738,
+			"crc": 507353032,
+			"md5": "fc7be736a96fed92ecbbdb4df6cf2978",
+			"sha1": "1e28864a4137a42dd820d6311170bf1b38897677",
+			"sha256": "4c8189652eb9d1db51ef11cad130e505bd05cf2a76e9005b17316a058291ae3b"
+		}
+	]
+}

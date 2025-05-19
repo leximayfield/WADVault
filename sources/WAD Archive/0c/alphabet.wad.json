@@ -1,0 +1,16 @@
+{
+	"uid": "alphabet.wad",
+	"name": "Alphabet",
+	"description": "A non-playable WAD containing the complete alphabet and numerals for other WAD builders to take advantage of.",
+	"date": "2014-12-15 23:09:03",
+	"files": [
+		{
+			"filename": "alphabet.wad",
+			"size": 47754,
+			"crc": 1371276433,
+			"md5": "0765fe986f35efcd7bbc3ad0efe5954c",
+			"sha1": "0c64e6250781af665a8bbd175f0dab4931940529",
+			"sha256": "7849024e6fce02c98c7ff64faa74727ae1fc1266f59e0c0f8159b13c6ebf85b3"
+		}
+	]
+}

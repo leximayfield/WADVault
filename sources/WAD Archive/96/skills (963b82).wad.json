@@ -1,0 +1,17 @@
+{
+	"uid": "skills (963b82).wad",
+	"name": "SKILLS.WAD (December 1994)",
+	"description": "This is an ONLY Deathmatch Wad cause there are no monsters in it. You can still play it standalone if you enjoy fragging yourself.",
+	"version": "963b82",
+	"date": "2013-11-02 16:02:46",
+	"files": [
+		{
+			"filename": "skills.wad",
+			"size": 88986,
+			"crc": 79200130,
+			"md5": "346267d11929d0c13be44f6ee5c907d7",
+			"sha1": "963b82ec030e871d46a05933169f634fa2bbc064",
+			"sha256": "b3661ddec81994f1e4c8dc6e543a532acb51d62537b8d6327ea6b64a8a093d4f"
+		}
+	]
+}

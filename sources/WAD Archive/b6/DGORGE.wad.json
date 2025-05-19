@@ -1,0 +1,16 @@
+{
+	"uid": "DGORGE.wad",
+	"name": "The Desolate Gorge",
+	"description": "A really deep gorge with a lava lake surrounded by a fortress, part of which is built into the cliff wall. Now with a few minor flaws fixed.",
+	"date": "2014-11-01 14:58:25",
+	"files": [
+		{
+			"filename": "DGORGE.wad",
+			"size": 102010,
+			"crc": 3100643568,
+			"md5": "e81419d29e9b445bd3f6754b37ec9203",
+			"sha1": "b60a2c77ab8fd4231b8d1132827ed20d6b06acb0",
+			"sha256": "ad58b6309c1355895af509193830c588b135a550bc9e2aaa695d307cc5321de6"
+		}
+	]
+}

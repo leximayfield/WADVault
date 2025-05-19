@@ -1,0 +1,17 @@
+{
+	"uid": "invsiege (12de92).wad",
+	"name": "INVSIEGE.WAD",
+	"description": "A spin-off from the Invasion Series...",
+	"version": "12de92",
+	"date": "2013-11-04 19:22:25",
+	"files": [
+		{
+			"filename": "invsiege.wad",
+			"size": 161860,
+			"crc": 743467804,
+			"md5": "c90aa73fbb7c0286b38c2651b14bb2cc",
+			"sha1": "12de92a71b93a2bd29df6d40d7b3bae24ac78b42",
+			"sha256": "47158f29d1742660386a7e492b2d0e856f6bf4773a19531ab3f3d67a4ed59713"
+		}
+	]
+}

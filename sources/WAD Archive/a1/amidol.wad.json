@@ -1,0 +1,16 @@
+{
+	"uid": "amidol.wad",
+	"name": "American Idol",
+	"description": "This is actually based on a little story my friend and I came up with. More of a joke story than anything. Unfortunately, there's not much to the level. Sorry.",
+	"date": "2014-12-21 16:37:10",
+	"files": [
+		{
+			"filename": "amidol.wad",
+			"size": 97864,
+			"crc": 3073600948,
+			"md5": "0d5ca2bd0df5d9ee9b0cb37fb3a76875",
+			"sha1": "a10f21b0ef560ecd9a76ab5ea531e67a35e0ecc6",
+			"sha256": "9a3f9da086f548637da3d693b9dcacf8f616cda96259811c72d864ac410e2882"
+		}
+	]
+}

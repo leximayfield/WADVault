@@ -1,0 +1,16 @@
+{
+	"uid": "EMPEROR.wad",
+	"name": "EMPEROR.WAD",
+	"description": "Doom2 level. It is my second wad, so let me know if you liked it.",
+	"date": "2014-10-14 21:04:42",
+	"files": [
+		{
+			"filename": "EMPEROR.wad",
+			"size": 140385,
+			"crc": 1960385415,
+			"md5": "15a58a0271a878ac4e2338b238d42b0d",
+			"sha1": "0ada5e23b6072673da7bbcb234170993896fc5e4",
+			"sha256": "c0315e0314386139103361ad14475525a64eac51c26f596cb19848ab7b19bd9f"
+		}
+	]
+}

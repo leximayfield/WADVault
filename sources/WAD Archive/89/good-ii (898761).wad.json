@@ -1,0 +1,17 @@
+{
+	"uid": "good-ii (898761).wad",
+	"name": "GOOD-II.WAD",
+	"description": "Good Night is a modification of Night2-0, optimised for DOOM II. Most changes are minor, the only important ones being the addition of a double barrelled shotgun and a somewhat friendly Cyberdemon. Ha! I was only joking - he isn't friendly at all. But it adds a bit of excitement for experienced DooM players who have been getting complacent. For those who are impatient, the way to open the demon face to the \"north\" is to kill the cyberdemon, and go into it's cage and get the invulnerability sphere. Behind the demonface is a room with five ONE USE corridors full of goodies. once these five doors close, they will not open again. To prevent greedy people from scurrying back to this area, and grabbing all the goodies without letting anyone else have any (how unfair!), a door is rigged to close for 30 seconds after the room has been entered. The whole idea of this area is to add an extra dimension to the game halfway through. Ideally, even if there are four players, everyone should get a shot at the goodies. This wad is designed for three to four player deathmatch. It has been extensively play tested, and has proven to remain interesting over long periods of play.",
+	"version": "898761",
+	"date": "2013-11-04 20:12:43",
+	"files": [
+		{
+			"filename": "good-ii.wad",
+			"size": 272760,
+			"crc": 3979058894,
+			"md5": "7be310b05823cf2042db6d7f0c5ffa44",
+			"sha1": "898761ca491ca6af2de64b7ceddcfd83017d6664",
+			"sha256": "21fb2c253c07aed2731f6edc137b9201987c77e53517c74a067b05cc02109c77"
+		}
+	]
+}

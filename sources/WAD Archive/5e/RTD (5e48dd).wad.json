@@ -1,0 +1,17 @@
+{
+	"uid": "RTD (5e48dd).wad",
+	"name": "Return to Daro",
+	"description": "Four maps created to celebrate the 20th birthday of the one and only STRAIN. If you don't know what that is... man, screw *this* WAD; GO PLAY STRAIN!",
+	"version": "5e48dd",
+	"date": "2017-08-18 21:09:18",
+	"files": [
+		{
+			"filename": "RTD.wad",
+			"size": 660732,
+			"crc": 2727349171,
+			"md5": "617b0d38a4c653b690b5fcaf7eb37a5c",
+			"sha1": "5e48dde6984774a91b9db4e958b5db1c38d69584",
+			"sha256": "75b45222240333d7971797c8416b7833d5bed3cdc57694b77ac69ab329dc6089"
+		}
+	]
+}

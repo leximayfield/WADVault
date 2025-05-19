@@ -1,0 +1,17 @@
+{
+	"uid": "abanware (78080e).wad",
+	"name": "abanware.wad (abandoned warehouse)",
+	"description": "yet another warehouse in the middle of nowhere. you and your buddies meet here for a few hours fragging to pass the time. it's a shame they always die so fast ;)",
+	"version": "78080e",
+	"date": "2013-11-02 15:56:55",
+	"files": [
+		{
+			"filename": "abanware.wad",
+			"size": 77016,
+			"crc": 4102451130,
+			"md5": "e544fa76a47733cca9bc13532b4636f4",
+			"sha1": "78080ed52582d315d066845d03fc997a9ae0ac27",
+			"sha256": "1975d1a0b1fd35ffc541ae5a3e83efb485b10456977d604d9ba239d2ad341c86"
+		}
+	]
+}

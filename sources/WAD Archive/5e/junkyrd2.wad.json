@@ -1,0 +1,16 @@
+{
+	"uid": "junkyrd2.wad",
+	"name": "Junkyard II",
+	"description": "This is a DeathMatch for Doom II and accomodates up to 4 players. It is a dark night, you and your buddies sneak into the junkyard to duke it out. This level is a junkyard and has an office in the center. The WAD is not huge and not too small, lots of hiding in the office and plenty of sneaking around. It is also a remake of my original WAD junkyard. The original was square, and the office area relatively small. The new version is one large octagon, with a larger office area. There are four main weapon stations that contain the rocket launcher, plasma rifle, chaingun, and super shotgun. There are also four (what I term) alternate stations, which are octagonal columns a little higher than your head. When triggered the outer-skin of the column comes down to boost you up.(also giving your opponent time to stop you) On each of these 'alternate' stations is a lesser, but significant item. No BFG is this WAD, beacause of it's smaller size. Every station can be covered from a darkened office window. (unless you have the goggles) There are 12 DM starting points.",
+	"date": "2014-01-07 22:25:33",
+	"files": [
+		{
+			"filename": "junkyrd2.wad",
+			"size": 61309,
+			"crc": 1982315954,
+			"md5": "cf2e2c5578a36897dca4caebeef93315",
+			"sha1": "5efbaf352fca5a1575d6ac3942f21a50d2b02b9a",
+			"sha256": "69ef36429bcd09ab4a34b5d406e3f4b1c1b59b8eaeda50977868efe2b5ae435d"
+		}
+	]
+}

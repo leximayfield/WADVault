@@ -1,0 +1,17 @@
+{
+	"uid": "hskins (8cac95).wad",
+	"name": "Hunter Skins",
+	"description": "A skin pack that adds two new high quality skins, the WitchHunter by Captain Toenail and the Demon Hunter by IcyTux. They are dark, sinister individuals, dedicated to seeking out evil in all forms and banishing it from this world \"eat leaden death, demon!\"",
+	"version": "8cac95",
+	"date": "2015-09-14 20:04:40",
+	"files": [
+		{
+			"filename": "hskins.wad",
+			"size": 888174,
+			"crc": 3962901105,
+			"md5": "1bcb5ce171af96243cdb8bf7471547c9",
+			"sha1": "8cac957d1da5b7024e13aed99479a8896e3398a2",
+			"sha256": "fae1e35e9fa508598768c2590a8b9e10c9b37414c81aec7c969f4848a4b9140c"
+		}
+	]
+}

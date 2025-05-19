@@ -1,0 +1,16 @@
+{
+	"uid": "pdemon2.wad",
+	"name": "Panzer Demon v2",
+	"description": "A tank'ish demon.",
+	"date": "2015-09-14 19:35:52",
+	"files": [
+		{
+			"filename": "pdemon2.wad",
+			"size": 320245,
+			"crc": 3160976715,
+			"md5": "6ac983c6c82219916371daba45eccfdc",
+			"sha1": "72e18530db5b42e3e3fc5860cf3349e36666b1fb",
+			"sha256": "c3ba758fa3abb3c7e30eb37a62afafda54dcf2b7ddddf95eae08a94f2d4358e5"
+		}
+	]
+}

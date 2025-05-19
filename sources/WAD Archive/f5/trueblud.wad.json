@@ -1,0 +1,15 @@
+{
+	"uid": "trueblud.wad",
+	"description": "Gave the demons their true blood colors. I've also included BLOODZAN for Zandronum for only 2 monsters in there and I gave the lost soul 20 health thanks to a thread on Doomworld I was at. Well, they had too much that's what I've read. Thread was things id got wrong if you're wondering. Not only that, the lost souls have the +NOBLOOD flag since well, they're souls. How could they have blood? Same for the Pain Elemental. !!!ZANDRONUM USERS!!!: Make sure you have the Skulltag_Actors and Skulltag_Data for BLOODZAN and the right version of Zandronum too. That may go the same with the skulltag stuff.",
+	"date": "2018-04-14 23:59:57",
+	"files": [
+		{
+			"filename": "trueblud.wad",
+			"size": 1559,
+			"crc": 4084262682,
+			"md5": "e4833e7445e9ab97c4a5fea04516b7d6",
+			"sha1": "f5e4c7d46ecd35c49f2f84a2ad9c45d59ec49e3a",
+			"sha256": "46c0f7212dfc8384ee3e449767db80b17a9f35b69b298273853fc32364d3f102"
+		}
+	]
+}

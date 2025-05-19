@@ -1,0 +1,16 @@
+{
+	"uid": "grind.wad",
+	"name": "Grind",
+	"description": "A rather small deathmatch level for Doom II. A little more detail than the previous wads. Guns: Shotgun, Double Barrel Shotgun, Chaingun, Rocket Launcher. Does not require advanced ports, though jumping can get you through the window in the book room if you so choose to use, say, Legacy or ZDoom. Don't ask why it's called Grind. I have no idea.",
+	"date": "2014-12-15 22:12:18",
+	"files": [
+		{
+			"filename": "grind.wad",
+			"size": 133256,
+			"crc": 433767466,
+			"md5": "b6ec41da31a994fa1902abf813e659dc",
+			"sha1": "c1dc197b0a7e36957edf6747b8ab1547bda37d7a",
+			"sha256": "07d7efd3029d1b981739fa553d98017ad2051f6ff093816bffcb7be4984b5159"
+		}
+	]
+}

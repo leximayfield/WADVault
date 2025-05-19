@@ -1,0 +1,17 @@
+{
+	"uid": "fire (52ddc2).wad",
+	"name": "Friendly Fire",
+	"description": "This is my second attempt at a Deathmatch wad (my first being Godhand.wad) it is 5 maps made for 6 players.",
+	"version": "52ddc2",
+	"date": "2015-09-15 18:09:12",
+	"files": [
+		{
+			"filename": "fire.wad",
+			"size": 590921,
+			"crc": 3654569554,
+			"md5": "8c6f431a98fc41fab4f6ab20a29ac7d3",
+			"sha1": "52ddc29032f1ecc00b4093b42d59f32c5b8c7204",
+			"sha256": "c29595a165daad0f8d283fbdf2adbd823fa416c9558c4a28bdab426889d1886c"
+		}
+	]
+}

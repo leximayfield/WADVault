@@ -1,0 +1,16 @@
+{
+	"uid": "imper.wad",
+	"name": "IMPerious",
+	"description": "This should have been one of the maps for the second episode of \"Italian DooM\", that at last was abandoned, because Buzzbomber never completed his maps for it, as if he left the team without saying anything to me and Toranga. It should have been the level set on Imps' planet. It is set in a sort of hellish temple or mausoleum, that actually contains not only sanctuaries, but also a crypt, a prison for all enemy visitors and strange pumps and machinery! The map can be divided into five sections: 1) Atrium, a sort of large courtyard, in the centre; 2) Sanctuaries, on the left in the Atrium; 3) Prisons, after the Sanctuaries; 4) Secret Compound, where these monsters hide misteryous pumps and machinery; 5) Crypt, the most dangerous part of this temple. This map should have been part of a project by me and Tormentor667, who began the map (the first part, that is the Atrium, was made by him), but at last we abandoned that project for time reasons. Tricks and traps are few, but this doesn't mean that the level is a piece of cake! On the contrary the new Imps from the \"Monster Resource .WAD\" make this level really challenging. Enjoy the architecture of this level, unique in its theme and style! The .WAD contains ZDoom features, like additional monsters in DECORATE, and ACS Scripts, which make the map more interesting and funnier! So... you need ZDoom to play it! You need e2res.WAD, the resource pack of \"Italian DooM - Episode 2: The Singulairty\", to play it correctly.",
+	"date": "2014-12-24 17:15:11",
+	"files": [
+		{
+			"filename": "imper.wad",
+			"size": 2247766,
+			"crc": 2714938368,
+			"md5": "330805441b721081f96792dd32b485a0",
+			"sha1": "9c33223229023761a234735c1a8de61fb202ca6b",
+			"sha256": "7ae636d3c8ec1f860d5d177f600d40ede8eb1f7e1676cd5fafc2654ede8cdd0d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "shotgun2 (dfad65).wad",
+	"name": "Shotgun ][",
+	"description": "*** NON-STOP FRAG ORGY! *** Arena-like setting outdoors surrounded by a raised area and a dim indoor area. The primary weapons are Super Shotguns, with some regular Shotguns, Chainguns, and Chainsaws. There's also a Rocket Launcher, Green Armor, and 50% Health Potion, but you'll take some risks getting them! *** PLAY AS MAP01 ***",
+	"version": "dfad65",
+	"date": "2016-02-07 20:35:05",
+	"files": [
+		{
+			"filename": "shotgun2.wad",
+			"size": 27849,
+			"crc": 3943548173,
+			"md5": "9a7b0db26e816cbeedc607e611a8fb1b",
+			"sha1": "dfad65bb939197e422bf5eb67d1503729a2554f5",
+			"sha256": "6ec528c1d9c86f5186bdcef9530ce58300eba18a7abdcaf9b016b03ab72da0c3"
+		}
+	]
+}

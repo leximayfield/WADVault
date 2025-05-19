@@ -1,0 +1,17 @@
+{
+	"uid": "nice (6855f4).wad",
+	"name": "Nice",
+	"description": "A nice PWAD good for single player, cooperative and DeathMatch. There is some extra stuff in multiplayer mode. In DeathMatch there are some locked ways, so the fighting arena gets smaller, that's nice for DeathMatching (this level is huge, you know).",
+	"version": "6855f4",
+	"date": "2014-12-30 11:26:42",
+	"files": [
+		{
+			"filename": "nice.wad",
+			"size": 392876,
+			"crc": 1555112518,
+			"md5": "70f5a2f96efe9ed3e5abc5778e1bc4d6",
+			"sha1": "6855f4d3bf2797df2ae78e70d49ba6661b88e40b",
+			"sha256": "88a2179219aa2d840d0fd94e7f7ae806f3264b326849c59a4d2961a7771787bc"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "threat.wad",
+	"name": "The Threat",
+	"description": "The Threat is placed in an open courtyard where the mass destruction begins",
+	"date": "2014-12-15 21:24:56",
+	"files": [
+		{
+			"filename": "threat.wad",
+			"size": 122037,
+			"crc": 3956182292,
+			"md5": "7a3196c0d1ef8d24dbfd70106f65afe0",
+			"sha1": "edd064bd3e4ab21cc136f58b7f40b22e57f3637e",
+			"sha256": "7f82e8488ac6037e4073b080d459d750dc84c7872e8ac7f08d1e6b5c962a447a"
+		}
+	]
+}

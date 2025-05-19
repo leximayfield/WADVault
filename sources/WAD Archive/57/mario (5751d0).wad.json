@@ -1,0 +1,17 @@
+{
+	"uid": "mario (5751d0).wad",
+	"name": "MARIO.WAD",
+	"description": "????",
+	"version": "5751d0",
+	"date": "2013-11-04 19:21:06",
+	"files": [
+		{
+			"filename": "mario.wad",
+			"size": 58994,
+			"crc": 3500917486,
+			"md5": "7a7cbf005594bcb5ce9498c4ecd818ba",
+			"sha1": "5751d014b64bf4a88006c5bc1e4c57d82bdf7566",
+			"sha256": "0c4a71d5816df4bb9f653b405272f8ac75885fd35c3b464493d1eab84ccfa55f"
+		}
+	]
+}

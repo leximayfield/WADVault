@@ -1,0 +1,16 @@
+{
+	"uid": "gc_plant.wad",
+	"name": "GC_Plant.WAD (WAD 1 of the GermCity series)",
+	"description": "Single / Multi-Player DOOM II PWAD. Developed on a Macintosh. Tested on a Mac and a PC. High quality. Large, complex, and difficult.",
+	"date": "2014-12-18 22:44:54",
+	"files": [
+		{
+			"filename": "gc_plant.wad",
+			"size": 613280,
+			"crc": 273142523,
+			"md5": "4ca72a12584a28b1b9b822b79740b2cb",
+			"sha1": "90fc571d52fca81ba85b8f4743aed53112e293b5",
+			"sha256": "79026e13ec5b26a59f71f33cc0324a839b1541a30b46e1c0d6e1056d22b34190"
+		}
+	]
+}

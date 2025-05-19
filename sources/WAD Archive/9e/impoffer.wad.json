@@ -1,0 +1,16 @@
+{
+	"uid": "impoffer.wad",
+	"name": "Impure Offering",
+	"description": "Impure Offering is a single player map for the Doom 2 IWAD in -complevel 9 that plays in the map 20 slot and requires cc4-tex.wad. The original intent was to create a map inspired by map 02 of Vanguard, but with a very-high, at times slaughter-ish, monster count and fierce difficulty. I don't think it actually ended up playing anything like any map Skillsaw has ever made, but I am very happy with the result regardless. The \"fierce difficulty\" aspect certainly is in evidence in the final product, though. Skill levels have been implemented -- HMP is akin to the earlier parts of Scythe's third episode on UV, and keeps the overall pressure mostly intact, with its main concessions being the removal of some of the most troublesome individuals. HNTR is more of a \"traditional run-n-gun UV\" experience. Impure Offering on UV is intended to be a real challenge, and should shed some blood from even the most skilled Doomers.",
+	"date": "2014-12-24 19:17:37",
+	"files": [
+		{
+			"filename": "impoffer.wad",
+			"size": 916684,
+			"crc": 4016898292,
+			"md5": "3838f583ed6f97dafef74a26be56ff89",
+			"sha1": "9e05b590f368b824c4bb7f68fc8b63388f10f346",
+			"sha256": "12b76d7c14aa04828fb19db6e6d8ff808338fa764916ae78da7923c15074a1c5"
+		}
+	]
+}

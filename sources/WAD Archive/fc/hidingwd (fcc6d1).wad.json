@@ -1,0 +1,17 @@
+{
+	"uid": "hidingwd (fcc6d1).wad",
+	"name": "Hiding to Nothing",
+	"description": "My second published WAD, much much bigger than the last and far more difficult.",
+	"version": "fcc6d1",
+	"date": "2013-07-09 20:23:24",
+	"files": [
+		{
+			"filename": "hidingwd.wad",
+			"size": 151170,
+			"crc": 1817545794,
+			"md5": "6e32c84e088dace6341f7d04761382ab",
+			"sha1": "fcc6d1e65a4a7f1a416938a4bad5d0da5df8ea0f",
+			"sha256": "802cd5570102a3fe3c557e3c2219881ec29cc121adf9566faf7792eeb1a82762"
+		}
+	]
+}

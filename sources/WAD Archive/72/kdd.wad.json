@@ -1,0 +1,16 @@
+{
+	"uid": "kdd.wad",
+	"name": "Kin-dza-dza",
+	"description": "The wad based on the eponymous movie by G.Danelia",
+	"date": "2018-03-27 21:13:02",
+	"files": [
+		{
+			"filename": "kdd.wad",
+			"size": 1620067,
+			"crc": 3921598281,
+			"md5": "8b0f5ac873fa5b96784ad32f0d6a90c2",
+			"sha1": "7249f5bc4061c8adc90cd6b955b1885b1ee453f7",
+			"sha256": "2e397d60dcc79401b6ff78360911173fd370f046b399ff314f2f7126cfb9ed07"
+		}
+	]
+}

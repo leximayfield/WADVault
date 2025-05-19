@@ -1,0 +1,16 @@
+{
+	"uid": "nimrodpd.wad",
+	"name": "Ni'mRoD - Project Doom",
+	"description": "A skulltag modification bringing new weapons skins and maps to the scene.",
+	"date": "2013-04-18 23:17:07",
+	"files": [
+		{
+			"filename": "nimrodpd.wad",
+			"size": 31226813,
+			"crc": 1408389433,
+			"md5": "94541175523fa836b1f2c0e1eb4d6639",
+			"sha1": "6933d02b883a83431e038db389f754142b3aafc7",
+			"sha256": "ebfbc6036fd9f2eb5d7fc83c53c64630f54031a39e8c9768f014fb074c9f7303"
+		}
+	]
+}

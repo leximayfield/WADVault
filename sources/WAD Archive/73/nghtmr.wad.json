@@ -1,0 +1,16 @@
+{
+	"uid": "nghtmr.wad",
+	"name": "Welcome to my Nightmare",
+	"description": "These are our FIRST levels. They should suit even the most DOOMish of players.",
+	"date": "2013-11-02 16:57:15",
+	"files": [
+		{
+			"filename": "nghtmr.wad",
+			"size": 1183110,
+			"crc": 1258680247,
+			"md5": "924dd99f5853022ce1d02eb194d851b3",
+			"sha1": "734f98cc149b5fe57c2bd6c5374be5c6e10c0d37",
+			"sha256": "79841ef12941b6851846cf4217c4a91e6b30cc88d732da2709eda4d4440905d4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nukebase.wad",
+	"name": "Nukage base",
+	"description": "Short, action-packed map. Vanilla compatible. Please play with jumping DISABLED. Enjoy!",
+	"date": "2014-12-13 17:35:41",
+	"files": [
+		{
+			"filename": "nukebase.wad",
+			"size": 68766,
+			"crc": 3565412439,
+			"md5": "4318242b2fbf7a691404d14239c4ee6b",
+			"sha1": "5409d8080383f80eef3a9823c2dbe066ebb7ca98",
+			"sha256": "b688457190197e611e70e680b8f71eeee364c1630b0aa5442f4a298a78c8b594"
+		}
+	]
+}

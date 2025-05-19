@@ -1,0 +1,17 @@
+{
+	"uid": "HOPE (b25d42).wad",
+	"name": "HOPE",
+	"description": "This is first I have created for DOOM II, hope you have fun.",
+	"version": "b25d42",
+	"date": "2013-11-02 15:40:37",
+	"files": [
+		{
+			"filename": "HOPE.wad",
+			"size": 37907,
+			"crc": 1987153468,
+			"md5": "bf68e03c592bba91ecbb9d76efe0ee91",
+			"sha1": "b25d42d06934daf81f099a67ab6d5f3e954dd5dc",
+			"sha256": "1f4a710a508f2361bedfaaf4a21674d682cc33343e550f7231abeaddf3969fa4"
+		}
+	]
+}

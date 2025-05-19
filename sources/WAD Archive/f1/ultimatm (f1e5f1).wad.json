@@ -1,0 +1,17 @@
+{
+	"uid": "ultimatm (f1e5f1).wad",
+	"name": "Ultimatum - Riding on the Backs of Giants",
+	"description": "Ultimatum is a project that I've had in mind for several years now. Basically, every mapper was randomly given a limitation made up from over the years of mapping, and what you see here is the results! A small warning: the difficulty curve is pretty steep, as there weren't any suggestions as to how easy or hard a map could be. Good luck!",
+	"version": "f1e5f1",
+	"date": "2016-07-21 19:38:31",
+	"files": [
+		{
+			"filename": "ultimatm.wad",
+			"size": 1830538,
+			"crc": 545944202,
+			"md5": "ea5b74f8d91c07db5b77005060c202cd",
+			"sha1": "f1e5f1edc85f325a4fdf77aa672c35f37199fb58",
+			"sha256": "d8572dbfbb506c9a5afa7598856ab20f21198f62b8bbaaca9814a47e0a5269eb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "boring.wad",
+	"name": "boring",
+	"description": "I felt bored so I made this level. Lotsa secrets!",
+	"date": "2014-12-15 23:00:43",
+	"files": [
+		{
+			"filename": "boring.wad",
+			"size": 38255,
+			"crc": 299939465,
+			"md5": "76ad9d65ede253e3521c867026d53c96",
+			"sha1": "47ad278b96ecc5f3e710fcd59dc4fd0bb260dbf6",
+			"sha256": "7da41127062f76a6ee065d04bd9ec168ff6677286dad5312132fc8b6bea0dab0"
+		}
+	]
+}

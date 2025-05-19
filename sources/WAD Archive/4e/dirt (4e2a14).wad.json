@@ -1,0 +1,17 @@
+{
+	"uid": "dirt (4e2a14).wad",
+	"name": "Dirty Deeds And They're Done Dirt Cheap",
+	"description": "This is my first ever WAD.",
+	"version": "4e2a14",
+	"date": "2019-09-01 12:50:04",
+	"files": [
+		{
+			"filename": "dirt.wad",
+			"size": 1155363,
+			"crc": 630212228,
+			"md5": "55692354e01f5d4bbc547aa079d44eba",
+			"sha1": "4e2a144e8501c3d71e6528911aac3c976108d5e8",
+			"sha256": "68e23a74ac8dc7d3de285c9f48410e9d6b8ee249dae7def2d373f773524ddd82"
+		}
+	]
+}

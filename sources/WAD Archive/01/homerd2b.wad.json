@@ -1,0 +1,16 @@
+{
+	"uid": "homerd2b.wad",
+	"name": "HOMER'S DOOM  (version 2b).",
+	"description": "A Partial Conversion for all versions of Doom/Doom2 based on The Simpsons TV show. Homer's Doom features: 2 new monsters, a new shotgun, new menu graphics and status bar (including Homer's face), and lots of new sounds from The Simpsons.",
+	"date": "2015-09-14 21:54:06",
+	"files": [
+		{
+			"filename": "homerd2b.wad",
+			"size": 1198070,
+			"crc": 578529519,
+			"md5": "74dfd0a631a78ef21244206327eef4fa",
+			"sha1": "01b125604a6dd747dee30a302b7cc982161e3234",
+			"sha256": "2524c1635de539a1c2e7b719801ede68a230d4452f2e6ec0724b724d25f09c12"
+		}
+	]
+}

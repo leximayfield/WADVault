@@ -1,0 +1,16 @@
+{
+	"uid": "plascaco.wad",
+	"name": "The Plasticine Cacodemon",
+	"description": "A replacement set of sprites for the Cacodemon. The novelty is that the sprites were produced starting from photos of a self-made static plasticine model of a cacodemon, just like id did. The model was based on the id original, but is different in its own way. Try to see ;-)",
+	"date": "2015-09-14 23:32:20",
+	"files": [
+		{
+			"filename": "plascaco.wad",
+			"size": 258204,
+			"crc": 531806710,
+			"md5": "eb45b7817e26975270e57d1c22a4fcc5",
+			"sha1": "87bc7beb4b4a0de76343e8f2f317399a3a704acc",
+			"sha256": "8476e98667e98a53ca64ba2acb13790ef2e2559b7f4287168e377861fe1d3d4e"
+		}
+	]
+}

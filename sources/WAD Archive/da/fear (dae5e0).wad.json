@@ -1,0 +1,17 @@
+{
+	"uid": "fear (dae5e0).wad",
+	"name": "Fear Stalks The Land.",
+	"description": "Believe it or not I started this map in 1996, but messed it up. I started it again in 2000, but got half way through and my backup disk went bad. So I finially finished it, over 6 years in the making! My next level (if completed) will be better than this and work will start soon.",
+	"version": "dae5e0",
+	"date": "2014-12-18 22:24:01",
+	"files": [
+		{
+			"filename": "fear.wad",
+			"size": 153044,
+			"crc": 4092442724,
+			"md5": "2bfe773631e631726aec3571e32fe5e0",
+			"sha1": "dae5e0e2a456d0673c6d97cb876724f5de9cdc3b",
+			"sha256": "86183f1a4b9f0b39f67f36ca27bdf590d3f1143013438c281c27a7a7a8cd4087"
+		}
+	]
+}

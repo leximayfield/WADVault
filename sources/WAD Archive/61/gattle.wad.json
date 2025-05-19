@@ -1,0 +1,16 @@
+{
+	"uid": "gattle.wad",
+	"name": "The City of Great Gattle",
+	"description": "A really good looking city level with a new burning city sky. Hell is breaking loose and you must destroy the bad guys in this city. If you dont escape a spider will jump down and scare the living daylights out of you.",
+	"date": "2014-12-18 22:54:32",
+	"files": [
+		{
+			"filename": "gattle.wad",
+			"size": 125000,
+			"crc": 2203746785,
+			"md5": "b20153c737ae29f49dfe8838432c72b1",
+			"sha1": "6193e8728147707e3f25a0c260af564165960d4f",
+			"sha256": "34fa2142a4f1c0e1d930827c87d768415f4f959776b174d416e26be5a9de6ce7"
+		}
+	]
+}

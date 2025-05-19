@@ -1,0 +1,16 @@
+{
+	"uid": "ww2_01.wad",
+	"name": "World War 2: First Encounter",
+	"description": "This is a deatmatch map set in a Nazi complex during World War 2. I was playing with the Wolfenstein textures and here is the result.",
+	"date": "2014-12-15 21:24:32",
+	"files": [
+		{
+			"filename": "ww2_01.wad",
+			"size": 45059,
+			"crc": 3586641334,
+			"md5": "b6c23e3dc272744b92ce8464c150b5f4",
+			"sha1": "8a3a5e0d33a76f1cf7c3791cd454c88c0a530773",
+			"sha256": "a9291b85c5b7c9866319282ea157a2c52ec4243457e7ee0eca046860d105a39d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DUCK (dcb224).wad",
+	"name": "Duckman",
+	"description": "Sounds from my favorite duck.",
+	"version": "dcb224",
+	"date": "2015-09-15 17:16:31",
+	"files": [
+		{
+			"filename": "DUCK.wad",
+			"size": 975100,
+			"crc": 2083468420,
+			"md5": "1b38c67f7146d741cec59df21b88fefd",
+			"sha1": "dcb224452ccc713849c157da69107e610c865489",
+			"sha256": "7369e39059159dd33f7f3ec97fbb89d6c174110bb6e3934aa574e8797cd1b58f"
+		}
+	]
+}

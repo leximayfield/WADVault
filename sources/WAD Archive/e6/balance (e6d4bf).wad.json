@@ -1,0 +1,17 @@
+{
+	"uid": "balance (e6d4bf).wad",
+	"name": "BALANCE",
+	"description": "My second deathmatch WAD. It can be played single player, but it's not as fun. Cooperative mode would be nice, but the intent is for deathmatch. The level is a semi-maze of catwalks over slime pits. (This has a somewhat sewer setting) There is a spawn cube, plus some other misc monsters. (and YES, there IS an exit)",
+	"version": "e6d4bf",
+	"date": "2014-11-01 14:57:41",
+	"files": [
+		{
+			"filename": "balance.wad",
+			"size": 76228,
+			"crc": 907443567,
+			"md5": "8f237ecd3f2f16b8dc5fd3c2d602db34",
+			"sha1": "e6d4bff7b7c25333f2741e013d5377fb39963bcd",
+			"sha256": "c5b258cfa61c15488109593f63cc81952faa9aa34dd7f8c4d051d25783ea31c0"
+		}
+	]
+}

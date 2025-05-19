@@ -1,0 +1,17 @@
+{
+	"uid": "jchouse (86f13c).wad",
+	"name": "J.C. House: DeathMatch Wad",
+	"description": "This is my old house. If you make a mess, clean it up. I love playing house wads the best. There aren't that many i've found so i made my own. Features on/off light switches. Hope you enjoy.",
+	"version": "86f13c",
+	"date": "2014-12-03 19:59:03",
+	"files": [
+		{
+			"filename": "jchouse.wad",
+			"size": 56142,
+			"crc": 2329080093,
+			"md5": "3a467aabd39e50ec27e5b4da7dc4d18e",
+			"sha1": "86f13c6abaa34f8cf5dc6be9d7cd1bd01cd98582",
+			"sha256": "209f7d87196d6ef36c34de286b233022468fa1933d2dafaac1fa6e3b7e44d8ca"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vnlcacid.wad",
+	"name": "Vanillic Acid",
+	"description": "A short pure-vanilla level I did to break up work on a zDoom project. No difficulty settings. It's yet-another-base theme with focus on concrete instead of space walls. I would personally rate it medium-to-kinda hard, but that's me. It's rough using only keyboard controls, but completely possible. Par Time is only about 2:30. It is not designed with play into the next levels (Map02) in mind, and may bug out on some ports. Wound up eating more time than I expected, and I learned (and suffered) a lot under Doom in Doom format and texture limitations. Second or third map I've ever taken semi-seriously, depending how you slice it.",
+	"date": "2015-09-15 17:28:33",
+	"files": [
+		{
+			"filename": "vnlcacid.wad",
+			"size": 520502,
+			"crc": 732923497,
+			"md5": "c664a7c69229a41202f34dfa2cc1cefb",
+			"sha1": "45e57b852c96d8d61c6041fad3a0f345e5936644",
+			"sha256": "0ae37057f1170a0261f40d3f3803c68af9e12801968745ae10207fe2595655f0"
+		}
+	]
+}

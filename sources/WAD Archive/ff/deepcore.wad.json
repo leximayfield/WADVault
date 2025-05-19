@@ -1,0 +1,16 @@
+{
+	"uid": "deepcore.wad",
+	"name": "Deep Core 1",
+	"description": "I drew this map and built it in 1997. It was designed for my current megawad. The level lineup has changed a lot since this map was finished and it didn't make the cut for the upcoming first episode release. So I've ripped the custom textures out and am uploading it as-is. Expect a few more of these ;)",
+	"date": "2014-12-18 22:37:27",
+	"files": [
+		{
+			"filename": "deepcore.wad",
+			"size": 208804,
+			"crc": 2878111179,
+			"md5": "d005a43cbe1825e422384d10427ce2ef",
+			"sha1": "ffc88b28cea5377a4b34e66f45040b8ebe522e31",
+			"sha256": "24f661833604f6e84a5e48fd8b8d946f9505e6fda1a2f9df3773e36cf370473e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "brian50.wad",
+	"name": "Brian 50 Super Secret Level",
+	"description": "This level houses 50 secret areas that add up to about 1/3 of the total level can you find all of them?",
+	"date": "2014-12-21 16:51:44",
+	"files": [
+		{
+			"filename": "brian50.wad",
+			"size": 348567,
+			"crc": 3475869387,
+			"md5": "2aa6e285d0dee6ee4a7d43cba40817cd",
+			"sha1": "08e9a3f0d1d1f46d083cbfd52e46bfa78147a1c5",
+			"sha256": "a470a111fa584ef7f86a1e8255cc2e2ba93ac40812ffc4833c7c342311e26475"
+		}
+	]
+}

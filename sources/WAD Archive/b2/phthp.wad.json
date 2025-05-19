@@ -1,0 +1,16 @@
+{
+	"uid": "phthp.wad",
+	"name": "Phouse: \"The house of portals\"",
+	"description": "To start the wad, type: Boom -file phthp.wad -deh phthp.deh",
+	"date": "2013-07-31 21:01:36",
+	"files": [
+		{
+			"filename": "phthp.wad",
+			"size": 4442308,
+			"crc": 2295161562,
+			"md5": "51058d2102eb7705a1727eb391077661",
+			"sha1": "b2e98c6f9281c9a9f42e926d431d4bf6b8475569",
+			"sha256": "9acbf3850d591d22a818ce20b37cb2edab3f10b7442de4f93f63566344d4f712"
+		}
+	]
+}

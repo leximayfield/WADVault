@@ -1,0 +1,16 @@
+{
+	"uid": "gdoom2.wad",
+	"name": "George Doom  (version 2)",
+	"description": "This graphics-only wad, for Doom or Doom II, replaces the Cacodemon with George's head (George is/was the author's boss).",
+	"date": "2015-09-15 17:08:25",
+	"files": [
+		{
+			"filename": "gdoom2.wad",
+			"size": 87877,
+			"crc": 3636836941,
+			"md5": "95d29841513ec740f47e43d7e7c6c08b",
+			"sha1": "771a1c271c1214011db58ad721518955bab5931f",
+			"sha256": "72788b57b71d410c47910dffeec878c68cc683a89a5e68a85270f31dd04e3240"
+		}
+	]
+}

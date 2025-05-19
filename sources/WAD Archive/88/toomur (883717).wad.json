@@ -1,0 +1,16 @@
+{
+	"uid": "toomur (883717).wad",
+	"description": "A large circular arena with four exterior rooms and four inner pillars shaped like a butterfly. Lots of rockets, backpacks and ammo. No BFG and plasma. Center has five medikits.",
+	"version": "883717",
+	"date": "2014-01-07 22:10:38",
+	"files": [
+		{
+			"filename": "toomur.wad",
+			"size": 14964,
+			"crc": 901922829,
+			"md5": "7d76c3664148648472bcc5eba0928fc5",
+			"sha1": "8837170cd6e831203a8d36f060ac17a80e1c302a",
+			"sha256": "381adc358ba94f878402da64dc61228c8ff16b6baf028e5368ef3222780a907f"
+		}
+	]
+}

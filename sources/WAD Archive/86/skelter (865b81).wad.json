@@ -1,0 +1,17 @@
+{
+	"uid": "skelter (865b81).wad",
+	"name": "Skelter.wad",
+	"description": "Cool Single-play Doom ][ wad with bad guys and bad weapons. Linear. No mazes, no running around looking for the blue door.",
+	"version": "865b81",
+	"date": "2016-02-07 20:28:11",
+	"files": [
+		{
+			"filename": "skelter.wad",
+			"size": 70328,
+			"crc": 1912219786,
+			"md5": "38899381a9fe855b118f3ed5feef5c91",
+			"sha1": "865b81941502d669f218ef8a0a0eb3b57983e2cb",
+			"sha256": "e5cef0dc27f7873015b9ebfa844123491da6641726c7d1d4e9af932bdf12ed55"
+		}
+	]
+}

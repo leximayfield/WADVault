@@ -1,0 +1,17 @@
+{
+	"uid": "mort1 (153ac2).wad",
+	"name": "Morte One.",
+	"description": "Deathmatching with a Cyberdemon has never been more fun! Also playable single player.",
+	"version": "153ac2",
+	"date": "2013-11-02 16:01:41",
+	"files": [
+		{
+			"filename": "mort1.wad",
+			"size": 77811,
+			"crc": 2821656167,
+			"md5": "495a9a721f253f62751b9f18e8dad99e",
+			"sha1": "153ac2b6db792e2eff2e52945705a5e8c31887fa",
+			"sha256": "083f2e3c34aecd23f25159d6988d037625bdc51d4fbc974dd7190c351df2bb26"
+		}
+	]
+}

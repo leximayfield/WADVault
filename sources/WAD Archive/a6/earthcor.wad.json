@@ -1,0 +1,16 @@
+{
+	"uid": "earthcor.wad",
+	"name": "Earth Core for Doom 2",
+	"description": "A secret UAC base under construction deep inside the Earth has been over run by demons. They've been using the large drilling equipment to open up magma chambers in an attempt to cause volcanic eruptions that will devastate the surface of the entire region. A four man team was sent in to shut down the drilling equipment, but contact was lost and they are presumed dead. Now it's up to you to complete their mission...",
+	"date": "2013-11-03 17:45:05",
+	"files": [
+		{
+			"filename": "earthcor.wad",
+			"size": 135972,
+			"crc": 3338798652,
+			"md5": "5c595f68dba8090911b4a81ebc995d96",
+			"sha1": "a6b5654cbb2255cbda66fa68e39279b0ace52cd5",
+			"sha256": "431ca8961d89ee428c48f1a255304b33bd18820a80d9fc24c0d64256f360912f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "escaped2.wad",
+	"name": "Escape From Damnation II: The Cavern",
+	"description": "Sequel to Escape From Damnation I: The Prison (ESCAPED1.ZIP)",
+	"date": "2014-12-18 22:35:11",
+	"files": [
+		{
+			"filename": "escaped2.wad",
+			"size": 165129,
+			"crc": 1023245364,
+			"md5": "ddc63abc9c733f03ea2d7d1b7abca205",
+			"sha1": "320ff5f62537d1e033c5c9bc581f79a59c062af5",
+			"sha256": "f15ee97da960043a193a38f979678f941fd43647cee84e41c994798231194e91"
+		}
+	]
+}

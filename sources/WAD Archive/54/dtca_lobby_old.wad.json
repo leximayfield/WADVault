@@ -1,0 +1,16 @@
+{
+	"uid": "dtca_lobby_old.wad",
+	"name": "DTCA - Map 01 - Lobby (Old)",
+	"description": "Just to warn you ahead of time, this is my first ever map. I'm only uploading it to Doomworld for people to use it for comparing it, to its new version I finished recently. This map is not a work of art, it is a disaster",
+	"date": "2014-12-18 22:37:05",
+	"files": [
+		{
+			"filename": "dtca_lobby_old.wad",
+			"size": 24283,
+			"crc": 3383037906,
+			"md5": "60b6a7b65fa94d7edec2917401d38aca",
+			"sha1": "548108d0b667b66bf4942684ef44200f6968c3ef",
+			"sha256": "5dd65b4724fc760bed79dd380c4cf463fcd5db4267cea81e6ca985b45e4d1f77"
+		}
+	]
+}

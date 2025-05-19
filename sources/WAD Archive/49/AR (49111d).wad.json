@@ -1,0 +1,17 @@
+{
+	"uid": "AR (49111d).wad",
+	"name": "Anomaly Reborn",
+	"description": "A 9-level episode for Doom that was originally released as a demo 10 years ago. I found it still sitting on my HDD and decided to brush it up a little. I wanted to stick very close to the original maps so I just made some minor modifications here and there to improve the overall experience.",
+	"version": "49111d",
+	"date": "2018-03-27 21:12:11",
+	"files": [
+		{
+			"filename": "AR.wad",
+			"size": 697363,
+			"crc": 2714262780,
+			"md5": "71702de6f0070b19cc72c530c59431d7",
+			"sha1": "49111d0c17bf4d9a6890685012a1f6d7e90d2c5a",
+			"sha256": "53f3d7ca8e058e5b8aae326c7c545cd4ae4bdaa99dab2a697a5bfa91a51302f8"
+		}
+	]
+}

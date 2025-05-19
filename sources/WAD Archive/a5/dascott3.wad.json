@@ -1,0 +1,16 @@
+{
+	"uid": "dascott3.wad",
+	"name": "DaScott v2",
+	"description": "An improvment of DaScott.wad.. adds more levels, spreads the weapons out more, and uses all 10 DM starts.",
+	"date": "2014-12-15 21:36:49",
+	"files": [
+		{
+			"filename": "dascott3.wad",
+			"size": 195889,
+			"crc": 2334722099,
+			"md5": "0385db02f8878ec9a4239e04ddb81637",
+			"sha1": "a5ae91b0a23f02dd580d938c1be6ad4b5604c236",
+			"sha256": "7602f7c9c4c42c4940037019327a9d191960428186597a554023d0854d516250"
+		}
+	]
+}

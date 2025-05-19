@@ -1,0 +1,17 @@
+{
+	"uid": "rslproto (51b90e).wad",
+	"name": "The Prototype: A Tribute Mod",
+	"description": "Many years have passed since the original Phobos incident. The war between Earth and Hell enraged throughout decades, human losses were enormous. Now, a new and unprecedented scientific project promises to be the cure of it all... The Prototype.",
+	"version": "51b90e",
+	"date": "2014-12-11 22:25:57",
+	"files": [
+		{
+			"filename": "rslproto.wad",
+			"size": 7713221,
+			"crc": 405224011,
+			"md5": "b57585e2f1f40d196eb81ec862e2585c",
+			"sha1": "51b90eba8049f9cdbc67f523fb5eebda027275b8",
+			"sha256": "78b188a29206eaf188cfceaf1e735860e4e06d64d6423ee11825afa949bbd7d0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "deth1 (445090).wad",
+	"name": "DETH1.WAD",
+	"description": "Originally intended as a two-player DeathMatch blast, this level is made for high-speed friend-killing carnage. It does play OK on single player, though, as the (reasonably) action packed demo shows. This demo shows you all the hidden bits as well, so as to make DeathMatch games fair.",
+	"version": "445090",
+	"date": "2013-07-09 20:22:13",
+	"files": [
+		{
+			"filename": "deth1.wad",
+			"size": 192715,
+			"crc": 854902278,
+			"md5": "7f4d00aad987a93cc78a6dbcefa27747",
+			"sha1": "445090dfd47950582ad3e6a162005a902bcdff68",
+			"sha256": "5cde5f17bea3facd2423cc81916c7497f08cda04b5f021f7d79d35011cebdba7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "extngshd.wad",
+	"name": "Extinguished",
+	"description": "A somewhat difficult DOOM 2 map playable with any limit-removing engine. This map was originally meant as a remake of MAP21 of Doom 2 (\"Nirvana\"), but soon became its own thing entirely. The original Sanskrit word \"nirvana\" meant \"extinguished\", hence the level's name. This wad features a custom palette that I made myself. I think that it gives the level a more grim and less cartoony vibe without being quite as dim and dark as Sigvatr's PalPlus palette. A note regarding one feature of this level: If you reach the exit, having slain every monster in your path, and yet the map screen shows that 100-150 monsters still roam the map, you have not accessed all areas of this realm, and thus you have not thwarted the Gatekeeper's attempt to drive you insane. Search harder.",
+	"date": "2016-06-16 20:57:42",
+	"files": [
+		{
+			"filename": "extngshd.wad",
+			"size": 2359448,
+			"crc": 4002868209,
+			"md5": "14926e61b5426e4ff3e3de6db9a252af",
+			"sha1": "d6c28b550d731bd9179f74207b2b3de5cd74b8d0",
+			"sha256": "93930b96b0c78aa689f84d25a825ced8c389c8e264631dd524ebabf4320a6baa"
+		}
+	]
+}

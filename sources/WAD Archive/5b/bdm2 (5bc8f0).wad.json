@@ -1,0 +1,17 @@
+{
+	"uid": "bdm2 (5bc8f0).wad",
+	"name": "BDM2.WAD (aka brian's death match wad for doom][)",
+	"description": "This is a wad designed for death match but is also fun in single player. It is a half outside, half inside level. I think it came out pretty damn good, Give it a look! All the weapons are there. In single player there are gobs of baddies but plenty of amo. It ain't too big, ain't too small... it's just right:)",
+	"version": "5bc8f0",
+	"date": "2016-02-07 20:29:51",
+	"files": [
+		{
+			"filename": "bdm2.wad",
+			"size": 87607,
+			"crc": 436166974,
+			"md5": "930259350ee67c307e81ea818188c9ef",
+			"sha1": "5bc8f07d53400a3ac248644fcae160853c5b7911",
+			"sha256": "51cd5b0e351a4af07e70d0db1ebcb91b69cf2384c87e9cc5332fe0551251bd84"
+		}
+	]
+}

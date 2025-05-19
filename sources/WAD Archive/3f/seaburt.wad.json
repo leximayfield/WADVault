@@ -1,0 +1,16 @@
+{
+	"uid": "seaburt.wad",
+	"name": "SEABURT",
+	"description": "This is a single player version of the deathmatch map I made for the wad 2sector in July 2006. This map only uses 2 sectors.",
+	"date": "2013-04-19 00:59:23",
+	"files": [
+		{
+			"filename": "seaburt.wad",
+			"size": 598871,
+			"crc": 3805029891,
+			"md5": "291a045385092cf6ce222be1d873294f",
+			"sha1": "3f433b4ba37555b4a3bbad2567cf71e6f38787c8",
+			"sha256": "e32b91123477691eb343ac4568cec439863536c7d4beb1d87702ea335c5a9b90"
+		}
+	]
+}

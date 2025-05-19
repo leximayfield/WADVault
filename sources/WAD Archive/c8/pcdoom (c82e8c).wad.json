@@ -1,0 +1,17 @@
+{
+	"uid": "pcdoom (c82e8c).wad",
+	"name": "PCDOOM.WAD",
+	"description": "A map that is the 4th floor of Ziff-Davis HQ at One Park Avenue, New York.",
+	"version": "c82e8c",
+	"date": "2013-11-02 15:24:29",
+	"files": [
+		{
+			"filename": "pcdoom.wad",
+			"size": 259211,
+			"crc": 1640200976,
+			"md5": "519e20890361598a7a4b4142806cd5ae",
+			"sha1": "c82e8cda1a7569c456e23e0ffbacf86ea72d13da",
+			"sha256": "f1144e6e7d4a800e480cb176ebecd819299d5c3f4d051d0810ffb470470562ef"
+		}
+	]
+}

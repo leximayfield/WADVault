@@ -1,0 +1,17 @@
+{
+	"uid": "arena (865633).wad",
+	"name": "THE ARENA",
+	"description": "Made with DEATHMATCH in mind... Got kinda carried away with size, It would have been larger but I seemed to have run out of conventional memory.Thats why the large east room is incomplete, the goodies are there but the workers never finished unpacking the crates. They've done a lot of overtime and they're not in a good mood,so be careful in there. The game has been tested with a multiplayer network, It's likely to be a hard one on your own.... UPGRADE! : VOID THE PREVIOUS PARAGRAPH! I got ahold of EDMAP and converted the place for doom II. It is now virtually impossible in single play mode. I never did finish that east wing... BONUS!!! I threw in a modified e1m1 from doom 1 upgraded for DOOM II!!",
+	"version": "865633",
+	"date": "2013-11-03 17:45:39",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 192479,
+			"crc": 1665171104,
+			"md5": "fb21616c2f89084f97f46deec0150a8a",
+			"sha1": "865633e18a8594c3653f96dae0fa297f96ae90a8",
+			"sha256": "67709690570b7b651e39d7cbc1e866c3945b47b2cbca3d527337cebf35c3892a"
+		}
+	]
+}

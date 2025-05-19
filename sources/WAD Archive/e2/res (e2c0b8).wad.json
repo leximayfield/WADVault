@@ -1,0 +1,17 @@
+{
+	"uid": "res (e2c0b8).wad",
+	"name": "Resurrection",
+	"description": "A 5 map duel set for skulltag with different themes each level, with lots of flowing gameplay",
+	"version": "e2c0b8",
+	"date": "2014-12-12 14:07:41",
+	"files": [
+		{
+			"filename": "res.wad",
+			"size": 2417679,
+			"crc": 1474315474,
+			"md5": "7b1a002dd00e15eadfce97b746e363e0",
+			"sha1": "e2c0b829227139fadf1515fb4a7e4e6b90bf6516",
+			"sha256": "6aede0ace09f88c25d46d51da07d4d8eee2f55b15a591b7e147cbd67f0a87b57"
+		}
+	]
+}

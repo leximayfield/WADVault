@@ -1,0 +1,16 @@
+{
+	"uid": "stctf.wad",
+	"name": "Skulltag CTF",
+	"description": "Skulltag's offical CTF pack.",
+	"date": "2013-04-19 04:43:40",
+	"files": [
+		{
+			"filename": "stctf.wad",
+			"size": 12619566,
+			"crc": 3171715841,
+			"md5": "62743c81e2530edcbdb43c82587d82ef",
+			"sha1": "fd786fcf80a5d1ba156d52028c6a62143896fd09",
+			"sha256": "c925771d1919efc195bf1fb537e2ca101f3cba8a30570068d641f25bf9cdd28c"
+		}
+	]
+}

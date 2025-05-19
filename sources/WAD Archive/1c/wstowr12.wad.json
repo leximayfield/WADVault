@@ -1,0 +1,16 @@
+{
+	"uid": "wstowr12.wad",
+	"name": "TOWER OF DEATH v1.2",
+	"description": "This level(WSTOWER.WAD) was very well designed, but had an outstanding number of problems. To start with, texture alignment was a major problem. I didn't see one aligned texture. I have aligned most of them. Also, there were many unnecessary sectors, which made the file very large(500K) and slow. I have deleted all such sectors, and, in the process, reduced the file size to 416K. A total of more then 100 sectors were deleted. Speed has also been increased, because of fewer sectors, fewer nodes, and a better reject map. I have made the level much more difficult. There are now a total of 806 monsters, so if you try to save, it will crash. On UV, if you kill all monsters, it takes about 50 minutes.",
+	"date": "2014-12-14 20:47:38",
+	"files": [
+		{
+			"filename": "wstowr12.wad",
+			"size": 413524,
+			"crc": 3969815287,
+			"md5": "08a39b543c804c98426f6e2144bacce3",
+			"sha1": "1c7c947ab30b0b47dbdce464049046bbea6c8c8b",
+			"sha256": "9c8babbe9a9620cb707739d62396c111a72f14204d424527eaccb8ca86f5e22b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "egadoom.wad",
+	"name": "EGA Doom",
+	"description": "It's the return of EGA, so get down with it!",
+	"date": "2013-04-19 02:50:52",
+	"files": [
+		{
+			"filename": "egadoom.wad",
+			"size": 6940,
+			"crc": 1491620472,
+			"md5": "2cf930ed50c154b75a53ac840ac7f4c4",
+			"sha1": "8378b0b1af42680c9e76762d418f74cb948787ce",
+			"sha256": "927103d2d6b637fe9a93dd23dc295dffbe1930890a629dc332aee99757e140a1"
+		}
+	]
+}

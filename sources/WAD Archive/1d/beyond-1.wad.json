@@ -1,0 +1,16 @@
+{
+	"uid": "beyond-1.wad",
+	"name": "Beyond Earth",
+	"description": "An indoor/outdoor with lots of action. The ending is where the name came from.",
+	"date": "2014-12-15 23:09:30",
+	"files": [
+		{
+			"filename": "beyond-1.wad",
+			"size": 236584,
+			"crc": 1525276262,
+			"md5": "9fb19124d31a131741d955f75fbf5665",
+			"sha1": "1d44a71f765b08825db1a10c034d8a80934a8b9e",
+			"sha256": "78fe57731fae112cb654af572418e63b015dc190ca97728399d77df132b3b63a"
+		}
+	]
+}

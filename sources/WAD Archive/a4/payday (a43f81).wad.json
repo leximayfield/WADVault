@@ -1,0 +1,17 @@
+{
+	"uid": "payday (a43f81).wad",
+	"name": "Payday: The Wad",
+	"description": "Set in an alternate universe, you're set in the boots of Doomguy himself, who has to rob a jewelry store in a city, on an unknown planet. Snatch what you can and find a way out before the law enforcements surround you!",
+	"version": "a43f81",
+	"date": "2016-06-17 00:23:04",
+	"files": [
+		{
+			"filename": "payday.wad",
+			"size": 5890581,
+			"crc": 3640331893,
+			"md5": "ec2e0e0f0d437d8a3f8ecd91f3072fa1",
+			"sha1": "a43f8197e2dfe357d04923d394747cc4d6c9d4e8",
+			"sha256": "4fe6a6e72a8f63ab674c7eefadd854096f894337b3ae1d8eedd0d9ffeb3b4149"
+		}
+	]
+}

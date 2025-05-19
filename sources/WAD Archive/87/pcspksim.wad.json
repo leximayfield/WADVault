@@ -1,0 +1,16 @@
+{
+	"uid": "pcspksim.wad",
+	"name": "PC Speaker simulation",
+	"description": "Sound effects that mimic PC speaker sounds.",
+	"date": "2015-09-14 20:44:32",
+	"files": [
+		{
+			"filename": "pcspksim.wad",
+			"size": 406354,
+			"crc": 3174779558,
+			"md5": "9f2080033b7d976515b3388bd2559f26",
+			"sha1": "874cf2cfb5e25cc4b79fd0187492f2493818a242",
+			"sha256": "9ce845b9cfacb9f2cc822c4cdb8de8ed40c603a0e65d5e7f63683b43a8991bea"
+		}
+	]
+}

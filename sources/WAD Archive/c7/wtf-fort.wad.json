@@ -1,0 +1,16 @@
+{
+	"uid": "wtf-fort.wad",
+	"name": "The Fortress",
+	"description": "Architecturally detailed level designed for Deathmatch 2.0. Mainly a big pit with a ledge on one side, a castle on the other side, and 5 cross-like thingies in the middle. You'll understand when you see it. :)",
+	"date": "2015-09-15 18:10:21",
+	"files": [
+		{
+			"filename": "wtf-fort.wad",
+			"size": 75639,
+			"crc": 2403251524,
+			"md5": "be1c28d0dcdad5674786056c7781991b",
+			"sha1": "c7b73931858a633dd4c8cdb7abbdb9473ac78cba",
+			"sha256": "bd704fbe8e320307e0a255b22848f68ec306ae605b5f8b7381269d78eaf85705"
+		}
+	]
+}

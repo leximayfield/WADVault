@@ -1,0 +1,16 @@
+{
+	"uid": "THALIA.wad",
+	"name": "Thalia's Competition Level I",
+	"description": "Semi-symmetrical level, a few hidden passages, some nice crawl-through corridors.",
+	"date": "2014-08-30 14:24:04",
+	"files": [
+		{
+			"filename": "THALIA.wad",
+			"size": 80216,
+			"crc": 888675952,
+			"md5": "e724e0c1931910a81f0cb24163b6539e",
+			"sha1": "f2cc5e5ae7a798e64548b65dba7e2b7b31bba5af",
+			"sha256": "451db8cb0027b940dce6ecedba930ce2d16758d6cfb9a8213c6d21ae10a5f12e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "blastbal.wad",
+	"name": "Blast Balance",
+	"description": "Just a simple linear boss map I made in 3 days, nothing awe-inspiring about it, just plug and play. Inspired by Scythe and 90's wads, low monster count.",
+	"date": "2017-09-17 18:48:33",
+	"files": [
+		{
+			"filename": "blastbal.wad",
+			"size": 388829,
+			"crc": 3964728150,
+			"md5": "ffa8e4d70c5626c1e7fa8ce3049668e0",
+			"sha1": "f487d7b9055e91f87ff2d448f22e885d19983936",
+			"sha256": "b34dc958343a1e099226c578a8cb195e0da29edddff28b806d89fda13563d785"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "baro5 (a1e359).wad",
+	"name": "Baro5.wad",
+	"description": "This is a deathmatch -=only=- wad that is made just for deathmatch.",
+	"version": "a1e359",
+	"date": "2013-11-04 19:18:35",
+	"files": [
+		{
+			"filename": "baro5.wad",
+			"size": 32611,
+			"crc": 180524893,
+			"md5": "221a4469f2b00857762cca946156f507",
+			"sha1": "a1e359f9755f92d73cc613678fbe8fe7671dcb50",
+			"sha256": "4150175e5982969e80c7b4725adc698eebbc292fe9308f9af2e2a9e45e36c4e8"
+		}
+	]
+}

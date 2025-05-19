@@ -1,0 +1,17 @@
+{
+	"uid": "HUB (ab0443).wad",
+	"name": "Hub of pain.",
+	"description": "A large and challenging map with many secrets and a good assortment of enemies.",
+	"version": "ab0443",
+	"date": "2014-12-22 19:01:04",
+	"files": [
+		{
+			"filename": "HUB.wad",
+			"size": 1171816,
+			"crc": 422431787,
+			"md5": "9622deade1e3ba1b76374068e1c5fc33",
+			"sha1": "ab04437e5768c0049fd42e2534eed4dac39a4eb1",
+			"sha256": "3b69e3da38f73a24d152aa102103f5671d6980ffaf2bfdd2926048f52dd789a0"
+		}
+	]
+}

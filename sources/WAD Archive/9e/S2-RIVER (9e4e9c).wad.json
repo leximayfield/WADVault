@@ -1,0 +1,17 @@
+{
+	"uid": "S2-RIVER (9e4e9c).wad",
+	"name": "A River Runs Through It",
+	"description": "Designed for Deathmatch. This is like a fight out in the woods. There are two land sections with a river running between them. There is a bridge over the river to connect the sections. If you fall in the river, there are ways out. There is an island with a \"buried treasure\". There are three buildings with goodies in them. One of which is loaded with health. There are two \"sniping\" pedestals. If you get low on health, you can go to the \"fountain of youth\" which warps you to the health room. Deathmatch is much better without monsters, so I didn't include them.",
+	"version": "9e4e9c",
+	"date": "2013-11-02 15:17:36",
+	"files": [
+		{
+			"filename": "S2-RIVER.wad",
+			"size": 32227,
+			"crc": 632221707,
+			"md5": "6c33da93837f8df5ee91c6382349ac99",
+			"sha1": "9e4e9c1b21af3f3a88343e945ab74962f5be2e07",
+			"sha256": "978ab66987ba75368a57204887da83809396d8ee3921ba50631c4f40034c17a7"
+		}
+	]
+}

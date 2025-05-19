@@ -1,0 +1,17 @@
+{
+	"uid": "griefless (9756a9).wad",
+	"name": "Griefless (v1.1)",
+	"description": "A speedmap set for Ultimate Doom episode 4.",
+	"version": "9756a9",
+	"date": "2019-03-19 21:06:42",
+	"files": [
+		{
+			"filename": "griefless.wad",
+			"size": 1534487,
+			"crc": 205797749,
+			"md5": "8fb3ab4826b442f17498c246c3ee8800",
+			"sha1": "9756a9b54166f17d757626565644dc7c738a7b2d",
+			"sha256": "b8332a5d5fdc4e0bdc942f36081c117d1eae48cc47c8cb90689f836678ee2d9f"
+		}
+	]
+}

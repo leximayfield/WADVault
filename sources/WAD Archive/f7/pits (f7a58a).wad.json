@@ -1,0 +1,17 @@
+{
+	"uid": "pits (f7a58a).wad",
+	"name": "The Pits Of Doom",
+	"description": "On your way home from Mars, your ship crash lands on a planet full of pits. Try to escape!",
+	"version": "f7a58a",
+	"date": "2015-01-14 22:57:43",
+	"files": [
+		{
+			"filename": "pits.wad",
+			"size": 32879,
+			"crc": 3476894664,
+			"md5": "c77c67a407fd60aedfa26de626f7dc22",
+			"sha1": "f7a58a66042a4a35f02787e40007da21abefff53",
+			"sha256": "10e5dc1f3ce7465d963cba6008ecda0e5ad9d8a43c495a73a49c4d1958fd1d64"
+		}
+	]
+}

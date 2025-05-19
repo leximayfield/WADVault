@@ -1,0 +1,17 @@
+{
+	"uid": "pjs02 (37783a).wad",
+	"name": "PJS02.WAD",
+	"description": "This level was used for testing my own DOOM editor. I've put a *lot* of time into this level to make it very playable, and visually appealing.",
+	"version": "37783a",
+	"date": "2014-01-07 21:51:40",
+	"files": [
+		{
+			"filename": "pjs02.wad",
+			"size": 126447,
+			"crc": 2870716751,
+			"md5": "9730c39a5014a614acc0f664137535bd",
+			"sha1": "37783a47892eb7e25fab5eeb8a2ff612887066da",
+			"sha256": "c01d1f903edb1d225404a79eab813dc8090d712ab491a46c09faafa0ca315065"
+		}
+	]
+}

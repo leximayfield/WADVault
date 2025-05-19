@@ -1,0 +1,16 @@
+{
+	"uid": "sl.wad",
+	"name": "Shai'tan's Luck",
+	"description": "Originally I made map27 and called it Area42, and the whole project Area42, as the story then was set a few years after doom2, when UAC is cleaning up the bases it lost control of when the demons invaded. But that expanded into a minimally-plot driven episode spanning a short 'training mission' that ends with you teleported to the sewers of a different base, travels through that base and some more places on the way to Area42, and from there the player descends to hell through the fortifications of Atlantis and then the lost city itself. And hell isn't exactly your traditional MAP30 ...",
+	"date": "2013-04-18 22:21:40",
+	"files": [
+		{
+			"filename": "sl.wad",
+			"size": 16510322,
+			"crc": 670307490,
+			"md5": "8465e5c9fae7eb3a525e9cd2a84e0b56",
+			"sha1": "6c81b3537df48edead3de2e2580a06d8505a4c8d",
+			"sha256": "31d822940d8edf348878d2b5c70e8f58ec15fc3c97b5c016dfec447d0df303db"
+		}
+	]
+}

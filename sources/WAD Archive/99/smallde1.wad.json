@@ -1,0 +1,16 @@
+{
+	"uid": "smallde1.wad",
+	"name": "Small doom1 E1 episode",
+	"description": "Mainly E1-style shooter level, not impossible, a bit harder than the original E2",
+	"date": "2014-12-14 20:48:44",
+	"files": [
+		{
+			"filename": "smallde1.wad",
+			"size": 3558012,
+			"crc": 2415549697,
+			"md5": "0e18356356da452c9288d934b666fc72",
+			"sha1": "99b6bea4413b35a52ccf02d3c0cfd446d695da96",
+			"sha256": "ebef08e390bea9d7cd4c65ed9670ecae517d123431f57941b165a60194764f6e"
+		}
+	]
+}

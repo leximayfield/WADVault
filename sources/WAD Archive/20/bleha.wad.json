@@ -1,0 +1,16 @@
+{
+	"uid": "bleha.wad",
+	"name": "bleah!",
+	"description": "A classic style map, mostly inspired from the level \"Spawning Vats\".",
+	"date": "2014-12-13 17:35:52",
+	"files": [
+		{
+			"filename": "bleha.wad",
+			"size": 271724,
+			"crc": 2513462468,
+			"md5": "27425d2a17f0250734f9052a847a4444",
+			"sha1": "20197ef16e28c87ad85093cd54738d8737cdbfdd",
+			"sha256": "58cbf3f4dc1bb67ae24040578e1bc6fdea6b5f2c76b7426722db12265bef39c0"
+		}
+	]
+}

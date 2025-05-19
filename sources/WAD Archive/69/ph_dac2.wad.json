@@ -1,0 +1,16 @@
+{
+	"uid": "ph_dac2.wad",
+	"name": "Phobus' Fragments of DAC 2009",
+	"description": "This is the two maps I submitted to DAC2009. MAP01 is a little filler type map with an interesting survival twist on gameplay, and MAP02 is my original, more christmas-y entry. Both maps offer a challenge in their own way and are made to old-school specifications. I decided to spruce them up a little with ZDoom and just make it play oldschool, much like The Mouth of Death in that respect. There's no story obviously and the maps are only vaguely connected but they play together nicely and MAP02 is not too different from a pistol-start. Music is from XMas Doom2 again for MAP01 and the credits screen. Also included in this text file is some extra info on each map, as a throwback to a grander idea that went with time.",
+	"date": "2014-12-29 08:50:10",
+	"files": [
+		{
+			"filename": "ph_dac2.wad",
+			"size": 292804,
+			"crc": 2629313868,
+			"md5": "3685f438f0f50e735def2d7bbbfdd91c",
+			"sha1": "69f29e7bbc9a0313fa67bce6ddf46432cf93bc9b",
+			"sha256": "68a3a14838e6df42cfcc673607cd0d97f79edd58618ca07650d47524137f1595"
+		}
+	]
+}

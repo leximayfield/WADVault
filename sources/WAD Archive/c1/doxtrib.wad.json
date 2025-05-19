@@ -1,0 +1,16 @@
+{
+	"uid": "doxtrib.wad",
+	"name": "Happy Birthday, Lainos!",
+	"description": "A small present for Christmas of year 2012 and for the 21th bithday of Lainos, author of Sacrament, Doxylamine Moon: Overdose, 5till L1 Complex, Object 32-33-34 and several other cool maps. Previously, I wanted to make a city level which is similar to Doxylamine Moon: Overdose, as a tribute, but I had lack of ideas and inspiration, so I decided to make it as a present. Well, it seems it was successfull. =) Very important note: I integrated the map to the original Doxylamine OD file, which means that I changed the levels and their names only + I added one texture (LAINOS), which is a photo from Lainos. =)",
+	"date": "2014-12-24 17:56:54",
+	"files": [
+		{
+			"filename": "doxtrib.wad",
+			"size": 7141634,
+			"crc": 2408199291,
+			"md5": "6b98f29355c2a1efba68b8b96f14fb3f",
+			"sha1": "c10c537593cb3452b8966005f943037e3d7c9603",
+			"sha256": "5d35a8d97f9faddebedec76592cfffca7eb7a4dbaa414d23a9f0d559ebd83e8f"
+		}
+	]
+}

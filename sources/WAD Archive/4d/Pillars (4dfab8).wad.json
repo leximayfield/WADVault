@@ -1,0 +1,17 @@
+{
+	"uid": "Pillars (4dfab8).wad",
+	"name": "Pillars of Doom (2)",
+	"description": "A rockin' level (I included a boss area for those who are disappointed by the lack of big fights! :) Comes with it's own Deathmatch rules for the overcomplicated people out there and a cool ending for those who love that sort of thing.",
+	"version": "4dfab8",
+	"date": "2014-12-15 21:37:03",
+	"files": [
+		{
+			"filename": "Pillars.wad",
+			"size": 217642,
+			"crc": 1297377365,
+			"md5": "3cb27a688553c3b99b968fb012505918",
+			"sha1": "4dfab80be00b5ca92ef5cc8357143b00bd8247c5",
+			"sha256": "a4f2b8c20de85f732a40eb4921bed0926ad4ddd0f81c5156028d5e24d49bbeaf"
+		}
+	]
+}

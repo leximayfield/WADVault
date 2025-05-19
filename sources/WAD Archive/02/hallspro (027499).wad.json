@@ -1,0 +1,17 @@
+{
+	"uid": "hallspro (027499).wad",
+	"name": "Arena ][, the first DeathMatch WAD for DOOM ][",
+	"description": "These levels are designed especially for deathmatch. They're great fun at even two players games, but with a LOT of playtesting we have found out that the more players you have, the more fun :)",
+	"version": "027499",
+	"date": "2014-01-07 22:03:57",
+	"files": [
+		{
+			"filename": "hallspro.wad",
+			"size": 28,
+			"crc": 2066459479,
+			"md5": "8448064468ba92bcffaadcad2cfe384b",
+			"sha1": "027499a24fd5363bc56f53131024ddb0b3a30ee6",
+			"sha256": "7a83024cb29dba3a4aaeee905afcb94309eadee8cfed7681690345ff4991cdea"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "waste_p.wad",
+	"name": "Waste Processing",
+	"description": "My first project based on the Map13 TNT. Nuff' said.",
+	"date": "2015-01-14 23:11:30",
+	"files": [
+		{
+			"filename": "waste_p.wad",
+			"size": 453515,
+			"crc": 1471501156,
+			"md5": "223eedf17867b549d0dda111ff858c1d",
+			"sha1": "023caa69ab0b0cfa3da3b740e117eb87216e5851",
+			"sha256": "aa4dee8ac4fec85a7f14663ec6d9b3675119fa1f8ee4aa8801999a67585603e0"
+		}
+	]
+}

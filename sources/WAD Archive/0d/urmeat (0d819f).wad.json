@@ -1,0 +1,17 @@
+{
+	"uid": "urmeat (0d819f).wad",
+	"name": "YOU ARE MEAT!",
+	"description": "This level is designed for a single player, although cooperative play is also good. I've tried to throw a little bit of everything in here. You may have to die quite a few times before you can make it all the way through. ** Hint ** I believe it is sometimes better to run than fight. I've also included a demo of yours truly completing the entire level on skill 4.",
+	"version": "0d819f",
+	"date": "2015-12-07 13:42:53",
+	"files": [
+		{
+			"filename": "urmeat.wad",
+			"size": 69614,
+			"crc": 3932592206,
+			"md5": "ff5d697a88043ff093c389bfcb0517d3",
+			"sha1": "0d819f984d731c2cf9c7b099d5af670bbfe9efe1",
+			"sha256": "b3160dafa0483aeddd962d2b4209f3cecb381d8a8b0f2bb514e4977f11074fb2"
+		}
+	]
+}

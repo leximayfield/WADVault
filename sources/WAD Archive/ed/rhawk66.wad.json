@@ -1,0 +1,16 @@
+{
+	"uid": "rhawk66.wad",
+	"name": "Route Hawk 66",
+	"description": "Based off the long route 66 across the desert of the US, I made a small DM map, wanting to make it fit for duels.",
+	"date": "2014-12-12 14:10:52",
+	"files": [
+		{
+			"filename": "rhawk66.wad",
+			"size": 358951,
+			"crc": 2161968294,
+			"md5": "958a49612b05ca3fbc4d4412e4289331",
+			"sha1": "edb4d853753e89ada15a633fda0334a1b002a544",
+			"sha256": "09fdad38db96d8a4c5503c7c3a980c56669b0b425ecaa4db3012beb12774977e"
+		}
+	]
+}

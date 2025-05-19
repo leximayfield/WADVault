@@ -1,0 +1,17 @@
+{
+	"uid": "zestful (c86aa3).wad",
+	"name": "Zestful",
+	"description": "Deathmatch-only level. Good for one hour of killing. Be sure to use -altdeath instead of -deathmatch!",
+	"version": "c86aa3",
+	"date": "2014-12-03 20:25:30",
+	"files": [
+		{
+			"filename": "zestful.wad",
+			"size": 101280,
+			"crc": 626861353,
+			"md5": "0c54c6f21829305d069a139a8edcf273",
+			"sha1": "c86aa36c26c5433840a6ec029a3d2d5cf39e0502",
+			"sha256": "8fa1f65b1fafa2274330809dadf48b9029cacb0d5d66d3259a0c4b40a97ee4af"
+		}
+	]
+}

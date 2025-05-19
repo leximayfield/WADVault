@@ -1,0 +1,17 @@
+{
+	"uid": "bob10 (fdc238).wad",
+	"name": "BOB10.WAD",
+	"description": "Deathmatch only WAD (Sorry ftp.cdrom.com guys!) Small. No exit. Plays good. Fast paced. High frag May run slow on slower machines Designed for OLD DEATHMATCH (not 2.0)",
+	"version": "fdc238",
+	"date": "2013-11-04 19:20:41",
+	"files": [
+		{
+			"filename": "bob10.wad",
+			"size": 44174,
+			"crc": 809201915,
+			"md5": "13f0e022ccbbf6f7c2f561ea1925a244",
+			"sha1": "fdc238adf11a453e9ed9ec2361880d20419261f0",
+			"sha256": "7d4ae13211337b0fe5bca818aad55de8d50363833f3a2cd1d385f5e0262b61b2"
+		}
+	]
+}

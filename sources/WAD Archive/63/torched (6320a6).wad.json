@@ -1,0 +1,17 @@
+{
+	"uid": "torched (6320a6).wad",
+	"name": "TORCHED8.WAD",
+	"description": "Ninth Level (Secret Level) - \"Dungeon\"",
+	"version": "6320a6",
+	"date": "2015-12-07 07:46:10",
+	"files": [
+		{
+			"filename": "torched.wad",
+			"size": 725062,
+			"crc": 136489530,
+			"md5": "ba0355102829e9de3963cf43518931f2",
+			"sha1": "6320a63a83c066ee75f7e0a8256abda12336e5fb",
+			"sha256": "c7cd6178223ea1eddefb54d42814bc4c78f6cb4a52d732e024df1f2d50ad278e"
+		}
+	]
+}

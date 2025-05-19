@@ -1,0 +1,17 @@
+{
+	"uid": "gallery (9a8594).wad",
+	"name": "The Gallery",
+	"description": "Named for the two large galleries on either side of the main chamber. This .wad is exciting and challenging in both deathmatch or single play. Good luck and good hunting. Mike",
+	"version": "9a8594",
+	"date": "2013-11-02 16:55:28",
+	"files": [
+		{
+			"filename": "gallery.wad",
+			"size": 22407,
+			"crc": 3225514068,
+			"md5": "b2d7d85ecd34c132395ae322c04a9c8f",
+			"sha1": "9a8594279ea6125c7404bec364de4d769208ad55",
+			"sha256": "c5962a9a4bd885b253cdaa3e25222d3357f2b4b5e33a1619602311b4e9f41398"
+		}
+	]
+}

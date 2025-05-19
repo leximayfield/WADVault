@@ -1,0 +1,16 @@
+{
+	"uid": "IC2004.wad",
+	"name": "IC2004 AKA Cut 'N' Paste",
+	"description": "The fourth level in the IC200x series, this wad is comprised of (about) 5 previously unreleased maps of mine (some dating back to 2003), pasted together to form 1 larger level.",
+	"date": "2014-12-24 19:10:14",
+	"files": [
+		{
+			"filename": "IC2004.wad",
+			"size": 4618061,
+			"crc": 2604972495,
+			"md5": "ff26aec62ab72e9470d2d6a7103e3c38",
+			"sha1": "927e355538ad09b1841300c5f26eaf04ba012158",
+			"sha256": "a441d2f733e6f0503275034d77e2427d3407d87de650effdf3bb50a3905b8b70"
+		}
+	]
+}

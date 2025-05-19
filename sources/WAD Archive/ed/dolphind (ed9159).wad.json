@@ -1,0 +1,17 @@
+{
+	"uid": "dolphind (ed9159).wad",
+	"name": "Dolphin's Dream",
+	"description": "This map can't be described.",
+	"version": "ed9159",
+	"date": "2014-12-22 18:55:45",
+	"files": [
+		{
+			"filename": "dolphind.wad",
+			"size": 2849748,
+			"crc": 2643441326,
+			"md5": "ece39c71b5632e397ea1e119d567b5d2",
+			"sha1": "ed9159db0114ced43231c62a1a79d0d5da722e24",
+			"sha256": "71a2e8915f4e7928914ef8103ebb2f37cfe78f401147fdac48e8eefce0309349"
+		}
+	]
+}

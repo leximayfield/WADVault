@@ -1,0 +1,17 @@
+{
+	"uid": "sin (5b406b).wad",
+	"name": "Sin",
+	"description": "A new Icon of Sin map, mtotally crappy.",
+	"version": "5b406b",
+	"date": "2015-01-14 14:38:34",
+	"files": [
+		{
+			"filename": "sin.wad",
+			"size": 10929,
+			"crc": 1971355880,
+			"md5": "b04bb5e9c30e783f9586c195c3d4d4cb",
+			"sha1": "5b406bb22adcecc23dc98d80062f7dd189013108",
+			"sha256": "39eac4b820776eb2fcf096685a01f4fde17ee52e8de8f662b35f5da2320fc405"
+		}
+	]
+}

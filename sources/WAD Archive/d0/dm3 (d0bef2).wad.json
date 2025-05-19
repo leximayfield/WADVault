@@ -1,0 +1,17 @@
+{
+	"uid": "dm3 (d0bef2).wad",
+	"name": "The Abandoned Base (for Doom II)",
+	"description": "This is an effort at converting the much-loved Quake DM3 level (by John Romero) to Doom2. I tried to make it as realistic as possible without adding textures (otherwise it wouldn't properly be Doom2 would it? :) But I did add ambient sounds (very cool)",
+	"version": "d0bef2",
+	"date": "2014-12-15 23:01:24",
+	"files": [
+		{
+			"filename": "dm3.wad",
+			"size": 367532,
+			"crc": 3252011795,
+			"md5": "123295ca19c3d063d3c7a4443f6f91db",
+			"sha1": "d0bef2fc5984d29128f4544062613b7795569f8e",
+			"sha256": "6d38ec7e60f6cea5c0c88e13a09dc168786053a5b5b62704f93ff7ba5e1dcaae"
+		}
+	]
+}

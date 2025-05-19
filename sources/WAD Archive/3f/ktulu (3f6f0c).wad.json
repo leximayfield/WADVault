@@ -1,0 +1,17 @@
+{
+	"uid": "ktulu (3f6f0c).wad",
+	"name": "The Call of Ktulu",
+	"description": "A marble castle and the surrounding caves and mountains. The name comes from the music, \"The Call of Ktulu\" by Metallica. The music fits the mood of the level perfectly and I thought the name did, too. I think this is a pretty hard wad, but I spent a lot of time implementing the skill levels so hopefully everyone will find a level corresponding to his or her skills.",
+	"version": "3f6f0c",
+	"date": "2015-01-05 16:24:21",
+	"files": [
+		{
+			"filename": "ktulu.wad",
+			"size": 506316,
+			"crc": 3825861997,
+			"md5": "8a46d675436701461ee1a4b803706ec0",
+			"sha1": "3f6f0c8920fc842fc3df8f993b955b30845e6eb8",
+			"sha256": "5c99ff1d6b644a3ec5edd56a747c13ccb4b2cfd7a5200f239399db451b11a960"
+		}
+	]
+}

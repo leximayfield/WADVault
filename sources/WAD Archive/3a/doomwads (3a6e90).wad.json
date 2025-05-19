@@ -1,0 +1,16 @@
+{
+	"uid": "doomwads (3a6e90).wad",
+	"description": "The floor will be littered with bodies. : The red columns in the pit allow you to go up : into the holes to get the weapons. You can : either run back out and teleport up or use the : lifts to the left and right of the green torches : when you pick up a weapon.",
+	"version": "3a6e90",
+	"date": "2013-11-04 20:10:16",
+	"files": [
+		{
+			"filename": "doomwads.wad",
+			"size": 24855,
+			"crc": 3288973834,
+			"md5": "fd3e44cf54f2ce3d1cf21ce6daff0eeb",
+			"sha1": "3a6e908bbbfa05247c9e7821066db5f98425b1d4",
+			"sha256": "dedd7f78d59b410d13e896e5baf4f58e78c5b9036668c79ef157f24814630ad2"
+		}
+	]
+}

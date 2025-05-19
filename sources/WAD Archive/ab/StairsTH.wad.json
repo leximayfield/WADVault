@@ -1,0 +1,16 @@
+{
+	"uid": "StairsTH.wad",
+	"name": "Stairs to Hell",
+	"description": "Something happend... The radio signal from Research facility has dissapeard... Some info Number of Vertexes: 7610 Number of Linedefs: 9317 Number of Sectors: 943 The Lowest floor: -1624 The Highest ceiling: 256",
+	"date": "2014-12-29 15:13:27",
+	"files": [
+		{
+			"filename": "StairsTH.wad",
+			"size": 1027306,
+			"crc": 721361536,
+			"md5": "6c19a17ae04f8135d447cc7abb0f8535",
+			"sha1": "abf6c958842392843c1de39339046a4c2e17a6a4",
+			"sha256": "0f1aac175610e4d790d5bfd8c46c17993cc1a7635fa804bab16e6357fc003f57"
+		}
+	]
+}

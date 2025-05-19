@@ -1,0 +1,16 @@
+{
+	"uid": "zbldpkst.wad",
+	"name": "zbloodpak for skulltag",
+	"description": "this is a version of zbloodpak with edited decorate lumps to make it work on the new skulltag. since some skulltag lumps are already identified in the wad, the other decorate lumps are named with \"2\"s at the end of them. (ex darkimp2) permission from the author WAS obtained.",
+	"date": "2014-12-12 14:13:53",
+	"files": [
+		{
+			"filename": "zbldpkst.wad",
+			"size": 37768907,
+			"crc": 2845079086,
+			"md5": "520995badba9f4a8da45cb2a165bf27d",
+			"sha1": "a63175a763f398f2abc32105ece4aa450c87dda2",
+			"sha256": "4af192506ecf1015a6ca089bd7df296ecb7d56328ac06264ad61e52e424ad67e"
+		}
+	]
+}

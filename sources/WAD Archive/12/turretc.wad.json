@@ -1,0 +1,16 @@
+{
+	"uid": "turretc.wad",
+	"name": "Turrents CTF",
+	"description": "This is my first CTF map. It's kind of an experimental idea:",
+	"date": "2014-12-15 21:38:11",
+	"files": [
+		{
+			"filename": "turretc.wad",
+			"size": 418672,
+			"crc": 2904260523,
+			"md5": "f675b0311518e8e37587a9e70a0d8103",
+			"sha1": "12c592a1de44ba7e94effd8d4756e86545c260c2",
+			"sha256": "31dffe625f923c4424a177ad3e4bd4fc19a4c9b0edd107cdddd8d08fa30ed5fd"
+		}
+	]
+}

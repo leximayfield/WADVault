@@ -1,0 +1,16 @@
+{
+	"uid": "bob14.wad",
+	"name": "BOB14.WAD for Doom II",
+	"description": "Deathmatch only WAD Small. No exit. Plays good. Fast paced. High frag. Kinda gloomy and depressing looking.",
+	"date": "2013-11-04 19:23:37",
+	"files": [
+		{
+			"filename": "bob14.wad",
+			"size": 59826,
+			"crc": 2635392315,
+			"md5": "e832b0540e65531b75f9cea830bf042a",
+			"sha1": "95ad16b57b10c2ac70af99078fcdf2c88bb65b6d",
+			"sha256": "59a3accc736133506ee3a817634d52c54c5122a2fac043d243831eb7779eafbb"
+		}
+	]
+}

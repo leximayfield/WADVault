@@ -1,0 +1,16 @@
+{
+	"uid": "marbelum.wad",
+	"name": "Marbelum",
+	"description": "A nice Marble-themed DM level for fun.",
+	"date": "2015-09-15 18:06:09",
+	"files": [
+		{
+			"filename": "marbelum.wad",
+			"size": 179222,
+			"crc": 1017523721,
+			"md5": "f84f82a2939e178f6686770df91bceb4",
+			"sha1": "d5312689b359c1775a78ab4fdb81886901792479",
+			"sha256": "c9f2592aceefb736c8bba16dc66181adf9421d4071f5e4330ad953084217d883"
+		}
+	]
+}

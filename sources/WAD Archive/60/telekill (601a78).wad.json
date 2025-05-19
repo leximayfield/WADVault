@@ -1,0 +1,17 @@
+{
+	"uid": "telekill (601a78).wad",
+	"name": "\"Telekill\"",
+	"description": "Small two room deathmatch level. Big frags,",
+	"version": "601a78",
+	"date": "2014-12-15 23:14:25",
+	"files": [
+		{
+			"filename": "telekill.wad",
+			"size": 27237,
+			"crc": 3274984924,
+			"md5": "f2b7329487253cf9aa572c799a6535a4",
+			"sha1": "601a78662697c29c4773324476480cdd679e3065",
+			"sha256": "3ad31641455e896c4d8588b5593f6c16bdedcd67aac588ee07d3366b2c5185c5"
+		}
+	]
+}

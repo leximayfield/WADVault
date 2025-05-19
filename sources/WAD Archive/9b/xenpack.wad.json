@@ -1,0 +1,16 @@
+{
+	"uid": "xenpack.wad",
+	"name": "Xen Level Pack!",
+	"description": "This was the longest I ever worked on anything ever, other than that one time I built a watergun to shoot my sister with when I was six. Hmph. Well, the first 2 levels were made to make fun of 90s wads, which explains the 90s sounds and HUD. Map03 i decided to step up the detailing. Map03, Map04, and the beginning of Map05 were inspired by UACMC (UAC Mutation Complex), the rest was inspired by KDIZD. Map07 was the longest I worked on any map ever, mostly due to scripting complications. By the way *********** DON'T PLAY ON (G)ZDOOM, PLAY ON SKULLTAG *********** so play it now! NOW1!!!111",
+	"date": "2014-12-29 18:19:39",
+	"files": [
+		{
+			"filename": "xenpack.wad",
+			"size": 4005552,
+			"crc": 222566073,
+			"md5": "90d93b71281fbaf85cfcb82d2ca6fe5d",
+			"sha1": "9be98122a67a5044912b94489a7bad0e2a68e136",
+			"sha256": "895ef71af95eed9488de6ce6fa50e676b83b7a9e18cfab5dfab3844123205d6f"
+		}
+	]
+}

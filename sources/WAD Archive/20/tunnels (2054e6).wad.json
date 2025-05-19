@@ -1,0 +1,17 @@
+{
+	"uid": "tunnels (2054e6).wad",
+	"name": "Tunnels of Hell",
+	"description": "This is my first attempt at a DOOM 2 level. I am quite pleased with the way this level turned out. I put alot of extra time into making sure the textures and conture of the walls lined up. I hope you enjoy it.",
+	"version": "2054e6",
+	"date": "2015-01-14 14:45:26",
+	"files": [
+		{
+			"filename": "tunnels.wad",
+			"size": 121648,
+			"crc": 2896877971,
+			"md5": "888b258979b61b00f13035f50df149f4",
+			"sha1": "2054e685164c7ef473090202a4030c2cc058c487",
+			"sha256": "5872a1b96c15c90ef37345cb08d61085f275c9e716e6a92a232cd32318280399"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pc_tech.wad",
+	"name": "Technician's Base (V2)",
+	"description": "A dark, small to medium sized base level with a classic touch to it that runs on Vanilla Doom.",
+	"date": "2014-12-13 17:35:25",
+	"files": [
+		{
+			"filename": "pc_tech.wad",
+			"size": 152694,
+			"crc": 2341147801,
+			"md5": "e3b14f3a0ad4a39e46172d1a335dc602",
+			"sha1": "0faa2affea46ea1696068412b947fec66157fb89",
+			"sha256": "00cd38053e3a2859352e083f2c9641220b45e6ae2a27064f34a64d8d4efe3bd4"
+		}
+	]
+}

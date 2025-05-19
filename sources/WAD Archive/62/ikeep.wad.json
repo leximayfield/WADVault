@@ -1,0 +1,16 @@
+{
+	"uid": "ikeep.wad",
+	"name": "The Imp's Keep",
+	"description": "Looks like Hell Keep has been redecorated to look more like a fortress or castle. This is a remake tribute to E3M1.",
+	"date": "2014-12-22 19:02:43",
+	"files": [
+		{
+			"filename": "ikeep.wad",
+			"size": 162527,
+			"crc": 1100458869,
+			"md5": "bb7bb3086c6b50ac5c6d4a811233731c",
+			"sha1": "62cd5eee5fa399e7f86b5d725599aab88b0d42ce",
+			"sha256": "560616ca59c370a863a7b1bfbd4bbbd9aa8d8336d928e0a51265ba7b47ffe027"
+		}
+	]
+}

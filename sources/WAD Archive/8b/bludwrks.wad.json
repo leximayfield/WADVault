@@ -1,0 +1,16 @@
+{
+	"uid": "bludwrks.wad",
+	"name": "Bloodworks",
+	"description": "This wad uses many \"tricks\" not specific to any port to create a tremendous 3d atmosphere including but not restricted to over/under bridge effect, room over room, and more. It is compatible and will only work with Zdoom and Legacy as far as I can tell. It will NOT work with GL ports or Vanilaa Doom2. The textures use were mostly taken from a texture wad released by Nick Baker originally slated for Episode 5 of the Nightmare Project but which apparently never got off the ground. The original file has been altered dramatically with a bunch of new custom textures created by myself and Shitbag.",
+	"date": "2014-12-21 16:24:32",
+	"files": [
+		{
+			"filename": "bludwrks.wad",
+			"size": 2636408,
+			"crc": 3961883238,
+			"md5": "a14cee5a338db4456fde2b864f621158",
+			"sha1": "8b6cd00c0e0a205f568a9f7ac154ff0454ed4068",
+			"sha256": "37691767e8df5919f9c80307725fc44f0f0c2599d35f552e945deae3755d6f46"
+		}
+	]
+}

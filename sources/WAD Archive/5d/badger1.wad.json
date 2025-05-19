@@ -1,0 +1,16 @@
+{
+	"uid": "badger1.wad",
+	"name": "BADGER.WAD",
+	"description": "I've seen other WAD's based on people houses, but they all seem to be made by people who live in bungalows This is a super fantastic detailed level based on my house Primarilty for single player it's been extensivley tested in Deatmatch and it works in co-op mode as well",
+	"date": "2014-12-21 17:00:45",
+	"files": [
+		{
+			"filename": "badger1.wad",
+			"size": 800940,
+			"crc": 3856018312,
+			"md5": "5a81e302c2bd3286e0a593cf7c655b56",
+			"sha1": "5d656ddb875e1c8df106ec180aff2bf7e8758a27",
+			"sha256": "3af9c017fde5466c93837654e1fbc77915502b20ef3f47ed847ae40d86b6828d"
+		}
+	]
+}

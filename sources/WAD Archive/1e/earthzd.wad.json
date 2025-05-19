@@ -1,0 +1,16 @@
+{
+	"uid": "earthzd.wad",
+	"name": "Earth",
+	"description": "Ten level episode for the game engine, ZDOOM. This episode fully accomodates ZDoom's enhancements of free-look, jumping and the Boom/ZDoom enhanced set of line specials. It also has areas of complexity and grandeur of archetecture and settings not previously possible under DoomII. EarthZD also has a custom sky specifically designed for ZDoom. It is based upon the Earth.wad episode for DoomII by the same author.",
+	"date": "2014-12-24 19:02:12",
+	"files": [
+		{
+			"filename": "earthzd.wad",
+			"size": 4678920,
+			"crc": 3130689745,
+			"md5": "de4fb6d9a7bb9b1557a63d0ab6305415",
+			"sha1": "1ef734195a724ab19e5575620e23b3cca32b4f73",
+			"sha256": "bf2a32922385c395127b46ccca0fc778fad5daba60af96674aa2481bb640061e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "asnew8 (3eac13).wad",
+	"name": "ASNEW8",
+	"description": "Fast, tight deathmatch level, originally made for Doom 1 (Asnew7.wad), now altered for Doom 2.",
+	"version": "3eac13",
+	"date": "2013-11-02 15:59:44",
+	"files": [
+		{
+			"filename": "asnew8.wad",
+			"size": 54827,
+			"crc": 1947235667,
+			"md5": "32a73c23222a61271c25d7edc946ad3f",
+			"sha1": "3eac13f3d973e4f61c0faba3c7809302279d373c",
+			"sha256": "05b42a125db661206282ff1510b11fc0ec936aaab627578174ee98afa0ced128"
+		}
+	]
+}

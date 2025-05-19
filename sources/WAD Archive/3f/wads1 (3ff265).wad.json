@@ -1,0 +1,17 @@
+{
+	"uid": "wads1 (3ff265).wad",
+	"name": "E1M1 upgrade",
+	"description": "Just your everyday, average upgrade of a level.",
+	"version": "3ff265",
+	"date": "2013-11-02 15:21:54",
+	"files": [
+		{
+			"filename": "wads1.wad",
+			"size": 54084,
+			"crc": 2709868952,
+			"md5": "ac5d7a815bd7297587dacb07d6d3a0ed",
+			"sha1": "3ff26564690411f823f5f0ff8192544ab1e56bc5",
+			"sha256": "3c8560edcb67746cc84b253384b677dc1cd071b99edf766f7dec50197784cd0e"
+		}
+	]
+}

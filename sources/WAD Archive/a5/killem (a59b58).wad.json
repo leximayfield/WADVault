@@ -1,0 +1,17 @@
+{
+	"uid": "killem (a59b58).wad",
+	"name": "Killem Dead",
+	"description": "A quick, fun, hard level.",
+	"version": "a59b58",
+	"date": "2015-01-05 16:38:56",
+	"files": [
+		{
+			"filename": "killem.wad",
+			"size": 129326,
+			"crc": 681558528,
+			"md5": "c0a35010f226cd0f4879550630123859",
+			"sha1": "a59b581ea14d75993dcdf6ab89f372c98074aa43",
+			"sha256": "24a1e7a2351eb3a9551f69d1f21abf45669f0686a04442bf9f2ffbf6885f9c6b"
+		}
+	]
+}

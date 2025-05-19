@@ -1,0 +1,16 @@
+{
+	"uid": "marinesc.wad",
+	"name": "Marine StarCraft",
+	"description": "New Weapons that have been imported from skulltag and : great new features from the marines you can summon using : a game called \"Marine War\". This one contains voices from : starcraft.",
+	"date": "2014-12-11 22:30:34",
+	"files": [
+		{
+			"filename": "marinesc.wad",
+			"size": 6913950,
+			"crc": 3977843061,
+			"md5": "c448c6de64ec9b520950f9c3c9b8f38f",
+			"sha1": "cd60e22de7aad284d8f0219d86a918a9c88a08da",
+			"sha256": "00395cd30c4ded04be5e226b884b715513230a7f96565b69622ce2eb7486e6b7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "white (1e680c).wad",
+	"name": "WHITE.ZIP",
+	"description": "This is a Doom version of TSR's Dungeons & Dragons module: White Plum Mountain. There are some differences from the original module; It was impossible to implement some elements with the Doom engine, but most of the features are included.",
+	"version": "1e680c",
+	"date": "2013-11-02 15:24:00",
+	"files": [
+		{
+			"filename": "white.wad",
+			"size": 118386,
+			"crc": 3431777647,
+			"md5": "a94738794129303fdc00878edf6df1b7",
+			"sha1": "1e680c742f438b2b3af6349f6278ba50fa82354d",
+			"sha256": "e1172eb005bfd5397d412e6ccc20be329dd37a22c5f2b2ad0d257c72f964b592"
+		}
+	]
+}

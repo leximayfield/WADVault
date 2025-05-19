@@ -1,0 +1,16 @@
+{
+	"uid": "armhaus1.wad",
+	"name": "BLACKMOD.WAD",
+	"description": "My 1st attempt at a doom leve. (it's my house, like everyone elses).",
+	"date": "2014-12-15 21:20:39",
+	"files": [
+		{
+			"filename": "armhaus1.wad",
+			"size": 257440,
+			"crc": 1503455083,
+			"md5": "1e2a3c8e7a28ea33ae09adb742062e3a",
+			"sha1": "26e1d3a1d029d5f6c8ae137cc64549933070fd23",
+			"sha256": "d7c367c03d74bf69ac000006d3fbe5546e3e697c98cf505ade969415e2d41229"
+		}
+	]
+}

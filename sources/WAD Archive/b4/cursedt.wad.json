@@ -1,0 +1,16 @@
+{
+	"uid": "cursedt.wad",
+	"name": "The Cursed Temple",
+	"description": "A mostly underground level, vanilla compatible, inspired by Memento Mori map 07 and map 28 by Jens Nielsen.",
+	"date": "2016-10-17 17:24:31",
+	"files": [
+		{
+			"filename": "cursedt.wad",
+			"size": 756295,
+			"crc": 3687278852,
+			"md5": "99d42ba7edf710e32307037d0339d1c4",
+			"sha1": "b41327035f283e9ec50947391de8fb97b437b5bc",
+			"sha256": "1539a887e336dc3f1afbbc1de895a2f62e507f5867d54191e5e734a3a3d652ee"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "space (f49859).wad",
+	"name": "Space Deathmatch Wad",
+	"description": "This is a very unusual way of playing deathmatch: in zero-G. First, each player has a choise of one and only one weapon, and some ammo for that weapon (I finally got all the weapon selection areas working!) Then, it's just like normal deathmatch, except for the fact that you go flying out of control each time you step over the edge or get hit. I just made this level for the EXE, so feel free to make your own levels for use with it. (Just tell me about them!)",
+	"version": "f49859",
+	"date": "2015-09-14 21:54:57",
+	"files": [
+		{
+			"filename": "space.wad",
+			"size": 107150,
+			"crc": 2368835971,
+			"md5": "b8b807dad12db419c9526fcd44b59d40",
+			"sha1": "f4985926225e48c41e65a3eafbd84fd175cc6e76",
+			"sha256": "aab50898e2acbd1f647b848af5c98692891c810269d3f8b955ea119c5281c51f"
+		}
+	]
+}

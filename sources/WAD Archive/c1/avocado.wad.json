@@ -1,0 +1,16 @@
+{
+	"uid": "avocado.wad",
+	"name": "AVOCADO",
+	"description": "Birthday speed-map (kinda) for Katamori. Dave Mustaine stole the UAC's avocado supply. You must descend to his mines to retrive it.",
+	"date": "2018-04-16 07:38:52",
+	"files": [
+		{
+			"filename": "avocado.wad",
+			"size": 653321,
+			"crc": 2662129505,
+			"md5": "64fd73bb7cc041f3741e738ed5850508",
+			"sha1": "c1fbae59e58a0eec6af42e563d66bfdf2145b648",
+			"sha256": "9ee37e28823b9ddffa77179365dc015441c3fa3e5c0fadb3940ca8df275c0da6"
+		}
+	]
+}

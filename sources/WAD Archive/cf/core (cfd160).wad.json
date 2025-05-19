@@ -1,0 +1,16 @@
+{
+	"uid": "core (cfd160).wad",
+	"name": "The Core",
+	"version": "cfd160",
+	"date": "2014-10-20 19:50:27",
+	"files": [
+		{
+			"filename": "core.wad",
+			"size": 328939,
+			"crc": 1055452560,
+			"md5": "880a754e3b22bfc1482a9d0c5abcce82",
+			"sha1": "cfd1604765d308be9d8a4167f4401434dfe55b32",
+			"sha256": "98d002980c4cc92038e7d9d5b9e2b3dfe92d76b209f37b6cd9d31e0397807e83"
+		}
+	]
+}

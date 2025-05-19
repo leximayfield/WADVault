@@ -1,0 +1,16 @@
+{
+	"uid": "wizstudy.wad",
+	"name": "The Wizard's Study (Hexen)",
+	"description": "My friend was building a deathmatch WAD for him and his pals to play on the computers at school, so I asked to contribute a map. I doubt the pack will ever see the light of day, and I think this is a pretty fun map, so here it is. My first DM map.",
+	"date": "2014-12-31 12:11:47",
+	"files": [
+		{
+			"filename": "wizstudy.wad",
+			"size": 775234,
+			"crc": 3642263240,
+			"md5": "0fe8a47b8ddbc188e282f07b8b6aa6c2",
+			"sha1": "de050c0962f36d72f091b6ebf282e1911ea18f7f",
+			"sha256": "af79664497cdc4aa8ca621e2c81f7932a4a153635a6addebac533fd58916fb19"
+		}
+	]
+}

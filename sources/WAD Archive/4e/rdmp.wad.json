@@ -1,0 +1,16 @@
+{
+	"uid": "rdmp.wad",
+	"name": "Redemption Denied (sort of)",
+	"description": "Based loosely on Redemption Denied (level 54) on PlayStation Doom",
+	"date": "2015-01-14 22:53:22",
+	"files": [
+		{
+			"filename": "rdmp.wad",
+			"size": 38200,
+			"crc": 1326843277,
+			"md5": "f5bb69c1e80c90df2b945c909b040918",
+			"sha1": "4e1ba6d1ce98ff797b7ef25fb9ced581c5e088e8",
+			"sha256": "6e4a2f7bd664f05b03a66cd7bbc7be03f7d5f71cc9f93de994babea5460d3032"
+		}
+	]
+}

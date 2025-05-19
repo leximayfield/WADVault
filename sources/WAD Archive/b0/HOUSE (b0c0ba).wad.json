@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (b0c0ba).wad",
+	"name": "The House of DOOM",
+	"description": "This WAD is based around a haunted apartment I used to live at. The upstairs is a very close simulation of the actual layout of the house.",
+	"version": "b0c0ba",
+	"date": "2014-12-13 12:45:28",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 655608,
+			"crc": 3761116981,
+			"md5": "7a8d5941de6fcf16e6d818abd40e2b2b",
+			"sha1": "b0c0bada2b3e407426636067a2fa7870788e6e60",
+			"sha256": "106ab7d3bd6a1e316a6cc74793582f46a0a933168558cc93a68f33129358332c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "BANLAND.wad",
+	"name": "Banished Lands",
+	"description": "A dark and atmosferic map with lot of action.",
+	"date": "2014-12-21 15:08:32",
+	"files": [
+		{
+			"filename": "BANLAND.wad",
+			"size": 497845,
+			"crc": 4009980740,
+			"md5": "7d8037d28b34ac274323bbdceac150fe",
+			"sha1": "93abb0feeb5c46b2e1be64c4cbe83d511f5ee7d4",
+			"sha256": "befa8b0d656648e9efe74b759046f5cde428153e99217f8fbc4b944ea43a21f7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "NOHIDE (65c1e1).wad",
+	"name": "Nowhere to Hide <NOHIDE.WAD>",
+	"description": "NOwhere to Hide is optimized for DEATHMATCH. There's only one room and tons of outdoor arena, Decorativly landscaped with scruffy looking trees.:) No exits!!!!",
+	"version": "65c1e1",
+	"date": "2014-12-15 22:27:49",
+	"files": [
+		{
+			"filename": "NOHIDE.wad",
+			"size": 41253,
+			"crc": 3941618598,
+			"md5": "8cd9ef8fc2d47f674df6f20376e4c72b",
+			"sha1": "65c1e10b99ef2d6a375ab3d34e5613728741c335",
+			"sha256": "c5834a8420932d763fc56eb4ce7d24ace8e1ee0d6f4bc59369c3ef6471cb436e"
+		}
+	]
+}

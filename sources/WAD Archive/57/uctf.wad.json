@@ -1,0 +1,16 @@
+{
+	"uid": "uctf.wad",
+	"name": "Ultimate CTF (final version)",
+	"description": "A fresh change to Zdctfmp, we present you with \"Ultimate CTF\". This new 33 set level was created and compiled by Zdaemon's best mappers, to bring you the Ultimate set of CTF maps... Enjoy!",
+	"date": "2013-04-19 01:38:42",
+	"files": [
+		{
+			"filename": "uctf.wad",
+			"size": 13584086,
+			"crc": 2879118876,
+			"md5": "a6cfd7483bfb504dccec71c708ed7357",
+			"sha1": "57c2ecdff1dd2b8b7ee9789975de2e77590b8ed0",
+			"sha256": "b8e5fbdeb4bddb3116e18adbf668e9d327b31e6ddb0e3494c4af0d7539a148cf"
+		}
+	]
+}

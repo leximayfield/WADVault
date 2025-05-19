@@ -1,0 +1,16 @@
+{
+	"uid": "mind.wad",
+	"name": "MindScape Inc. (mind.wad)",
+	"description": "You are a marine sent in to investigate a building with strange reports of \"alien sightings.\" (I hope MindScape Inc. isn't a real company. If it is, please tell me, I'll change it, and things will be okay. :)",
+	"date": "2015-09-14 20:37:27",
+	"files": [
+		{
+			"filename": "mind.wad",
+			"size": 152306,
+			"crc": 2880342213,
+			"md5": "1a6985bc246bed8d8a784117e823ba0e",
+			"sha1": "2d33a8486615a388c76be431879c8fdd0d8e5ee7",
+			"sha256": "c5e1a67727d78d3ac600f7bf5b604ad41e8b7866d3da1f8adce2bd5ad0bc2ecc"
+		}
+	]
+}

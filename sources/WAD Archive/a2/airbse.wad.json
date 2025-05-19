@@ -1,0 +1,16 @@
+{
+	"uid": "airbse.wad",
+	"name": "airbase (unfinished)",
+	"description": "your job is to aid the marines through the UAC compound to halt the demon assault.",
+	"date": "2014-12-21 14:15:10",
+	"files": [
+		{
+			"filename": "airbse.wad",
+			"size": 42884,
+			"crc": 67269186,
+			"md5": "ec9c760b38fb8337b54de720f22e3cb3",
+			"sha1": "a22c8944b9f8cbe11b7f001896081a474b76016e",
+			"sha256": "69be4ea2b0121946da5402897187fbeb8a18fb7546cc3af90e4495d5658cf62b"
+		}
+	]
+}

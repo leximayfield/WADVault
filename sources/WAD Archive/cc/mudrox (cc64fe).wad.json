@@ -1,0 +1,17 @@
+{
+	"uid": "mudrox (cc64fe).wad",
+	"name": "The Infiltrator",
+	"description": "I've tried real hard to create a smooth and interesting environment for the ultimate struggle. Hard but possible to do with a little effort and a BFG!",
+	"version": "cc64fe",
+	"date": "2013-11-04 20:12:08",
+	"files": [
+		{
+			"filename": "mudrox.wad",
+			"size": 694561,
+			"crc": 1245936866,
+			"md5": "dcde83cbe1f35383e648c6363f6649e4",
+			"sha1": "cc64fe1c38e9246a09c245037b697a75b9d7f5ba",
+			"sha256": "481de559a03244ea16f8e1fc173c211394a62862f4939405ac6bd6fc918b5d82"
+		}
+	]
+}

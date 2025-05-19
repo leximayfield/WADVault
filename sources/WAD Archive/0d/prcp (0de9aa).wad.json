@@ -1,0 +1,17 @@
+{
+	"uid": "prcp (0de9aa).wad",
+	"name": "Plutonia: Revisited Community Project",
+	"description": "32 community maps inspired by plutonia.",
+	"version": "0de9aa",
+	"date": "2013-04-22 00:22:05",
+	"files": [
+		{
+			"filename": "prcp.wad",
+			"size": 15409097,
+			"crc": 678828133,
+			"md5": "5c6919bee4708e0924bcd3dcb564008b",
+			"sha1": "0de9aa2f35924de70ee22089242a603b93239cd9",
+			"sha256": "42225da303861573cf70752be6e3f374e5fcb09a084763cbb40b95705a0e523b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "D_MATCH (efe952).wad",
+	"name": "Deathmatch series level 1",
+	"description": "A good deathmatch level, has cool new music, and",
+	"version": "efe952",
+	"date": "2014-11-01 14:56:00",
+	"files": [
+		{
+			"filename": "D_MATCH.wad",
+			"size": 91196,
+			"crc": 70450233,
+			"md5": "9d4120fe00b4b66c4d3b5ffabfe160f9",
+			"sha1": "efe952c2165070ba839144480a1d5450b558d85a",
+			"sha256": "9d2afacbf7c0fdefb0d9252b76f433f9e2f7a5856554a2ab716051e0c3735bbf"
+		}
+	]
+}

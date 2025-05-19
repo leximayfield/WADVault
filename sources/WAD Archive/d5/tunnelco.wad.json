@@ -1,0 +1,16 @@
+{
+	"uid": "tunnelco.wad",
+	"name": "Tunnel Corporation",
+	"description": "Temple-like setting with several tunnels leading : around it. Teleporters in the tunnels lead to : various locations in the temple. Tunnel Corp. : logo is in the center.",
+	"date": "2014-12-15 22:51:55",
+	"files": [
+		{
+			"filename": "tunnelco.wad",
+			"size": 164011,
+			"crc": 3876433467,
+			"md5": "5d665ea558a0f6567862d215aee969b0",
+			"sha1": "d5415821af5dad48fe9125815b4bc5abbd5a59e1",
+			"sha256": "c1c1f09436e98480c0d7b5ab5e6164bd8576ece609dfd40821b0fb1bf4747483"
+		}
+	]
+}

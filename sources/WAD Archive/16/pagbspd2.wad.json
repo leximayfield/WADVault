@@ -1,0 +1,16 @@
+{
+	"uid": "pagbspd2.wad",
+	"name": "Pagbspd2",
+	"description": "My second public release for DooM. It is a pretty big level in a base theme. Don't waste ammo, you'll need it... This level should work with normal DooM2, but errors will appear. This level was going to be ZDooM specific, but I didn't have an appropiate editor, maybe next time...",
+	"date": "2014-12-29 09:10:59",
+	"files": [
+		{
+			"filename": "pagbspd2.wad",
+			"size": 529252,
+			"crc": 2236689635,
+			"md5": "d0b085b5ae6ed7a16e2f2576b0f71754",
+			"sha1": "16032c78112fdfa9d3cbcb6283b41e3639e5b196",
+			"sha256": "158c489b0bddc4315bdf8f16f0ab453cfdd9c8865ba63ccfe516d54f2c3717dc"
+		}
+	]
+}

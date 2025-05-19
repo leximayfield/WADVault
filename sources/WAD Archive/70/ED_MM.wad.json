@@ -1,0 +1,16 @@
+{
+	"uid": "ED_MM.wad",
+	"name": "Eternal Mansion",
+	"description": "It's Metal Mansion from Reverie, now retextured to look and play like an Eternal Doom level. Requires Eternal Doom to play and replaces MAP15.",
+	"date": "2016-07-20 20:23:04",
+	"files": [
+		{
+			"filename": "ED_MM.wad",
+			"size": 321610,
+			"crc": 3254956743,
+			"md5": "ab3667d425b358ccf9d1ac9b9b29b245",
+			"sha1": "7072f84873f0908ff794e96e07175e145f02047d",
+			"sha256": "27d5dac34ccf08c61dd432f6e7a921b8bfde3b11a7044c121cce98c9a0807897"
+		}
+	]
+}

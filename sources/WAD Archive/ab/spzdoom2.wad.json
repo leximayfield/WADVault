@@ -1,0 +1,16 @@
+{
+	"uid": "spzdoom2.wad",
+	"name": "ZDoom Space Edition v2",
+	"description": "Hopefully a space TC for ZDoom, when it finally finishes, but for now a texture pack and some new monsters and objects and sound effects.",
+	"date": "2014-12-11 22:23:08",
+	"files": [
+		{
+			"filename": "spzdoom2.wad",
+			"size": 6959212,
+			"crc": 3600962196,
+			"md5": "dcbfc818c833f9931512dce67bfeea57",
+			"sha1": "abcc7eabd0cabb598ea10cdb68c52bfaffde01ee",
+			"sha256": "060b04840f66dff56ee6a774ced128306ac1cc32a82f14e99162cb2bce1bf47b"
+		}
+	]
+}

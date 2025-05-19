@@ -1,0 +1,16 @@
+{
+	"uid": "uninv.wad",
+	"name": "The Unknown Invasion",
+	"description": "Four invasion maps for Skulltag. Note: Do not try map04 on Ultra-Violence in single player, unless you've either got cheats on or you're some kind of god.",
+	"date": "2014-12-12 14:17:05",
+	"files": [
+		{
+			"filename": "uninv.wad",
+			"size": 615176,
+			"crc": 2349652721,
+			"md5": "1175f20760b939546155d04c113aebf3",
+			"sha1": "db3e2f5676884d9656f374f2da5d38280e87d1aa",
+			"sha256": "b01dea3a716e8f0ece229b3f8dcab236fd2d9ebee08468925eff340c715b431d"
+		}
+	]
+}

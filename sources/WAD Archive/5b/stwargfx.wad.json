@@ -1,0 +1,16 @@
+{
+	"uid": "stwargfx.wad",
+	"name": "STWARGFX.WAD (Please place in themes/starwars",
+	"description": "This wad replaces a few enemies in DOOM with ones from Star Wars and Dark Forces",
+	"date": "2015-09-14 19:33:44",
+	"files": [
+		{
+			"filename": "stwargfx.wad",
+			"size": 2768004,
+			"crc": 285754249,
+			"md5": "e5a1bd74babb96b86aa54c7862959f36",
+			"sha1": "5ba359113feb35579d6689a6572a9a4b21b707c8",
+			"sha256": "562ed7a2681c9aace13e03729c4e1cde23239a595dcbfd978280d2d06987b435"
+		}
+	]
+}

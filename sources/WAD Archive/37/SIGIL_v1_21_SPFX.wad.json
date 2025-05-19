@@ -1,0 +1,16 @@
+{
+	"uid": "SIGIL_v1_21_SPFX.wad",
+	"name": "SIGIL v1.21 Sprite Fixes",
+	"description": "This WAD fixes the incorrect aspect ratio on the Christopher Lovell artwork included in SIGIL. Said graphics are now no longer improperly stretched vertically by 20%. These fixes are compatible with both the SIGIL_v1_21.wad and SIGIL_COMPAT_v1_21.wad versions of SIGIL. Simply load SIGIL_v1_21_SPFX.WAD after either one.",
+	"date": "2019-09-27 11:43:29",
+	"files": [
+		{
+			"filename": "SIGIL_v1_21_SPFX.wad",
+			"size": 563044,
+			"crc": 11103707,
+			"md5": "2f637fa64ab99e1b18de7d50a0d2c4d3",
+			"sha1": "379a0e5dcb1b5e2c72986c3b2cea93d926fe618e",
+			"sha256": "da8d1a25fc022c327aff5e8bf9a2d41f6cb6ce9abeebcce044158c23416529ef"
+		}
+	]
+}

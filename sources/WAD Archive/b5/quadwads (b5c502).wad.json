@@ -1,0 +1,17 @@
+{
+	"uid": "quadwads (b5c502).wad",
+	"name": "Quad Wads - Heretic version (Doom and Doom2 versions also available as quad_dm1.zip and quad_dm2.zip",
+	"description": "All three of these wads are designed the same; one for Doom 1, one for Doom 2, and one for Heretic. It is a fast paced level that usually results in a lot of frags. The layout of the walls and transporters is identical in all three levels so if you learn one, you've learned them all. After many hours of,... ah,... \"testing\", we've found that this is one of the best layouts for deathmatch play.",
+	"version": "b5c502",
+	"date": "2013-11-02 16:37:44",
+	"files": [
+		{
+			"filename": "quadwads.wad",
+			"size": 48454,
+			"crc": 889945257,
+			"md5": "8cb1ad55f1df902dd6ae75787ec0136d",
+			"sha1": "b5c5024ef77e43c82398c1abfcc8745cf6bf9dd8",
+			"sha256": "37cc997cbd6188a322c95d0f2145a7a240a990ef5d157942631abeacec6426e6"
+		}
+	]
+}

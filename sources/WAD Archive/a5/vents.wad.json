@@ -1,0 +1,16 @@
+{
+	"uid": "vents.wad",
+	"name": "Vents",
+	"description": "Originally made for the /r/Doom community map pack, project was cancelled but I decided to finish the map anyway.",
+	"date": "2016-07-21 19:39:10",
+	"files": [
+		{
+			"filename": "vents.wad",
+			"size": 449286,
+			"crc": 2051855069,
+			"md5": "260e8b225e8bfec9e02e3221b73996df",
+			"sha1": "a552e37ea4e0bb595e4233e4aa1b04b9b70cd49c",
+			"sha256": "8bee37ef1e6c98c28c2c459df420d1b62997d89ebd3451b27d4616bccd268319"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pumpkinhell.wad",
+	"name": "Pumpkin HELL",
+	"description": "A spooky/cheesy Halloween map with a distinct aroma of pumpkin spice and red echidnas.",
+	"date": "2019-03-06 21:57:48",
+	"files": [
+		{
+			"filename": "pumpkinhell.wad",
+			"size": 1221403,
+			"crc": 1372623174,
+			"md5": "065e204309ef6a0364ca7dec7415d251",
+			"sha1": "810d8e13c13fdfd598fe80beac9f1d2136e8a4a7",
+			"sha256": "090a07f73ee3c26f471657a2cf142f47b10a2f677a4079737a64aff40355f7e9"
+		}
+	]
+}

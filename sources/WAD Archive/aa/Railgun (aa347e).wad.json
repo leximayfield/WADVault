@@ -1,0 +1,17 @@
+{
+	"uid": "Railgun (aa347e).wad",
+	"name": "Railgun",
+	"description": "This PWAD adds a new weapon, railgun! Requires VaVoom 1.8. Just plug the WAD as you usually do, then in console type \"GIMME RAILGUN\", and you've got a railgun on \"0\" key. Eats cells (20 per shot). Source included in sources.zip.",
+	"version": "aa347e",
+	"date": "2014-12-11 22:11:19",
+	"files": [
+		{
+			"filename": "Railgun.wad",
+			"size": 457400,
+			"crc": 134401694,
+			"md5": "bed8494a3c4d671a93f47f3386623293",
+			"sha1": "aa347e2d95a412dca6039a906d62b606f4883a68",
+			"sha256": "ddcde09d67ddc31f624a2b762724f3f654d892349d4edec9ab4f18d2cdc5f1c6"
+		}
+	]
+}

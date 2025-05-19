@@ -1,0 +1,17 @@
+{
+	"uid": "bunkofun (409c28).wad",
+	"name": "BunkOFun",
+	"description": "deathmatch level",
+	"version": "409c28",
+	"date": "2016-02-07 20:29:06",
+	"files": [
+		{
+			"filename": "bunkofun.wad",
+			"size": 41988,
+			"crc": 786865567,
+			"md5": "675616fa38219f41623e4cce9730a2f0",
+			"sha1": "409c28607240171a82473480bd67cfc8d8cb782f",
+			"sha256": "c20075450a9f527fcbffd97856087f5688d291dfb71181e2e4d328761d977308"
+		}
+	]
+}

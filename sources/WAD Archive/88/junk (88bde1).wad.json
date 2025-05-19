@@ -1,0 +1,17 @@
+{
+	"uid": "junk (88bde1).wad",
+	"name": "JUNK.WAD",
+	"description": "This is my first wad, and I created it for Deathmatch. It has a couple large running areas that you get to run around and the blow the \"JUNK\" out of each other. I've made a couple of tricks, and traps around the level where you can get your opponent stuck and then blow his/her brains out, and lots of other very cool stuff! Not to large, so you don't spend the whole time looking for your opponent. Oh and there is no exit so you can't accidentally leave in Deathmatch.",
+	"version": "88bde1",
+	"date": "2013-11-04 19:19:27",
+	"files": [
+		{
+			"filename": "junk.wad",
+			"size": 93712,
+			"crc": 3079486593,
+			"md5": "2f5ca5f1335913322e80dc276fd05529",
+			"sha1": "88bde1d2d0243ac28e922a3776ba64d5730b0b82",
+			"sha256": "734337f58c7accd2f0b8eddeb7936b27d6b3ba781fbf3f520369f4f2a5cda827"
+		}
+	]
+}

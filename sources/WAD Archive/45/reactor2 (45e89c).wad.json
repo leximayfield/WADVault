@@ -1,0 +1,17 @@
+{
+	"uid": "reactor2 (45e89c).wad",
+	"name": "REACTOR2.WAD",
+	"description": "After cleaning out one of UAC's power plants, you drop all your extra weapons and baggage, then jump into the transporter to return to your ship. As your molecules start to scramble, you suddenly realize you forgot to set any coordinates for the transport. In a matter of a picosecond, many different possible landing sites pass through your mind, such as deep space, the center of an active volcano, or hell itself. As you start to materialize, another picosecond is spent wishing you hadn't left the heavy weapons behind.",
+	"version": "45e89c",
+	"date": "2016-02-07 20:25:05",
+	"files": [
+		{
+			"filename": "reactor2.wad",
+			"size": 187838,
+			"crc": 567157880,
+			"md5": "61f11a0ad2fe5aa83eb45164340c3669",
+			"sha1": "45e89cc8f01a1347ac3296e68da5169d81732a66",
+			"sha256": "bf8ef0dc7c53db3341379d1b81124652205287e268ad048c2b70dad5ab426124"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "deliver (a872ad).wad",
+	"name": "Stand and Deliver",
+	"description": "DOOM II Deathmatch nightmare with no safe place to hide. Watch your back. Compton Style of course...Only Super Shotgunz. Expect kill counts to be in the dozens. Vogue sounds included!",
+	"version": "a872ad",
+	"date": "2013-11-04 19:22:31",
+	"files": [
+		{
+			"filename": "deliver.wad",
+			"size": 273999,
+			"crc": 304135622,
+			"md5": "95f9566ae232a963ae86a339489d0274",
+			"sha1": "a872ad7ad67b8204e9da579ecaa3ba5ad797fce8",
+			"sha256": "7e8905bbb30848437fb7879cfc9868d1268a3924abf59f1fb8f0ffa63409b979"
+		}
+	]
+}

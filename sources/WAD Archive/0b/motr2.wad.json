@@ -1,0 +1,16 @@
+{
+	"uid": "motr2.wad",
+	"name": "MOTR2.WAD/Motor Home 2",
+	"description": "After you seized the truck of stolen UAC supplies,",
+	"date": "2015-01-13 21:55:10",
+	"files": [
+		{
+			"filename": "motr2.wad",
+			"size": 444240,
+			"crc": 1742160594,
+			"md5": "1d0d0c1a5a88d065a6904caf0e6dee51",
+			"sha1": "0bc6ff15ea7192c8804aa9dc4d2886e1fe0671c3",
+			"sha256": "4ebbc10db1e9b8eeda57f02478322d9381209010e58327a2398c1d9f5725c3c6"
+		}
+	]
+}

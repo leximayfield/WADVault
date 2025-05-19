@@ -1,0 +1,17 @@
+{
+	"uid": "yikes (1f1518).wad",
+	"name": "Yikes!",
+	"description": "This DOOM2, level 1 PWAD encompasses a very large virtual space with a surprise around every corner! I designed it to be a \"mini\" game that takes you from pistol to BFG 9000. it contains a creative use of two sided line defs that I have not seen in any other pwads, and an interesting maze problem. \"Yikes\" should give you a good hour or so of play.",
+	"version": "1f1518",
+	"date": "2014-01-07 22:01:22",
+	"files": [
+		{
+			"filename": "yikes.wad",
+			"size": 73043,
+			"crc": 4115331183,
+			"md5": "268b0f2ee52ed80bc85792cb0bbcef9c",
+			"sha1": "1f151897f4eb71dc6c3cd6afff492ab871dbc585",
+			"sha256": "90772be4afae94cd8279b27c5043b9c531d77a17780f558241b83a8ef918a615"
+		}
+	]
+}

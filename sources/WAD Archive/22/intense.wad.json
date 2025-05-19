@@ -1,0 +1,16 @@
+{
+	"uid": "intense.wad",
+	"name": "Intense.wad for DOOM2 Deathmatch",
+	"description": "Intense.wad is DOOM2 deathmatch Designed for intense deathmatch!!",
+	"date": "2014-12-15 22:43:54",
+	"files": [
+		{
+			"filename": "intense.wad",
+			"size": 49460,
+			"crc": 774909616,
+			"md5": "00e9c35015eca23039e9ad71c557b8df",
+			"sha1": "22ad38fbfd00564579522dd0ade97e73ad90b1b7",
+			"sha256": "818711e2e29e979885b28ee59dee9cf430bad28de5f02f7e3a33f01e947259d1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "castle (ca29b1).wad",
+	"name": "The Castle",
+	"description": "A small castle level. Your objective is to clear out all the enemies, then exit the castle.",
+	"version": "ca29b1",
+	"date": "2014-12-21 17:01:11",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 303832,
+			"crc": 1287392458,
+			"md5": "b25bf6e8b1025cda29ece972d8c1c4ad",
+			"sha1": "ca29b10f8d2d617c2f5578dec98c22017344f286",
+			"sha256": "19445a0e373c21513c8aac392c6116828b6464200a10c10f1980ea09514888c3"
+		}
+	]
+}

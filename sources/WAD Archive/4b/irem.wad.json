@@ -1,0 +1,16 @@
+{
+	"uid": "irem.wad",
+	"name": "Somewhere in Irem",
+	"description": "Formerly a speedmap, this is a fairly small map inspired by MAP01 of Memfis' Download.wad. Nothing too difficult, so have a go at it.",
+	"date": "2015-09-15 17:20:12",
+	"files": [
+		{
+			"filename": "irem.wad",
+			"size": 690943,
+			"crc": 3118501081,
+			"md5": "14290fe0ae65954753919274d619c842",
+			"sha1": "4b3ed0ec8d2cac3fa557c3ca1851d5cdc3950da6",
+			"sha256": "ccad2db3f726ea41502ece073a5d036a66bad0d4c12798d331c3836991db122a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "DODEAD.wad",
+	"name": "dodead.wad (Dawn of the dead - beta 2)",
+	"description": "Replacement for episode 1. Mainly military/ tech style. Still under construction!",
+	"date": "2014-12-13 17:38:46",
+	"files": [
+		{
+			"filename": "DODEAD.wad",
+			"size": 1773968,
+			"crc": 2995361306,
+			"md5": "f7712c24e229190d67d1af882f8ddef9",
+			"sha1": "89827ea0f1c7b9498b477009cef7bb53bfd9d569",
+			"sha256": "eaa1042644751e1b220c3bc282f107f026ed368c481af74f7befae8ac33ce7f9"
+		}
+	]
+}

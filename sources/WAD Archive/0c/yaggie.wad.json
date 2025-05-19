@@ -1,0 +1,16 @@
+{
+	"uid": "yaggie.wad",
+	"name": "Yaggie",
+	"description": "A Doom new level map for MAP01. In this level you get a plasmagun and you kill many bad men and heads. Anyway I feel real tired when making this level and im going to bed.",
+	"date": "2015-01-14 22:50:08",
+	"files": [
+		{
+			"filename": "yaggie.wad",
+			"size": 100582,
+			"crc": 829500879,
+			"md5": "62668ea6ecb44fd8d6c43f7502365191",
+			"sha1": "0c255ca83bdc10fa384ea7bf8b75d001433e2fbc",
+			"sha256": "35543cba73e42051bd074fa2e6e66d6e87a3c3c96c245d62192347246e4f7dba"
+		}
+	]
+}

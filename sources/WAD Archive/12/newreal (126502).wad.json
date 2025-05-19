@@ -1,0 +1,17 @@
+{
+	"uid": "newreal (126502).wad",
+	"name": "New reality maps",
+	"description": "3 reality maps intended for recording UV-Max movies (beat all three with 100% kills in one go). Before playing on UV you need to learn the maps first (there are no weapons on maps 02 and 03, so if you die on 02 you're screwed). For learning you can play on HMP (pistol start support: you are given the weapons you're supposed to have at the start of each map) or lower skills (pistol start support + 100 hp and armor on spawn).",
+	"version": "126502",
+	"date": "2015-09-14 23:19:07",
+	"files": [
+		{
+			"filename": "newreal.wad",
+			"size": 918713,
+			"crc": 15427275,
+			"md5": "20e9556faf299ba620feb18480b23b70",
+			"sha1": "126502b0d6d63542e33c568939050fcb0adb13c9",
+			"sha256": "255717a9096e63b6f94c26122d6773aa7ec3ef96a19e22d3c9666a85a19913db"
+		}
+	]
+}

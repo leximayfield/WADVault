@@ -1,0 +1,16 @@
+{
+	"uid": "cheesee2.wad",
+	"name": "Simple as Cheese",
+	"description": "A very simple E2M1 map, altho may have some homagy areas in it.",
+	"date": "2014-12-13 17:40:00",
+	"files": [
+		{
+			"filename": "cheesee2.wad",
+			"size": 69022,
+			"crc": 430105641,
+			"md5": "0743d2ca90509b9e39d20dcfeaf03dbc",
+			"sha1": "f3e7528385dfaeec58c618146048bfe0f10a452d",
+			"sha256": "7a3b0e829ef0f87f45e7945d0ae366c6cc8e37d9be41b804531ab902ac25ad45"
+		}
+	]
+}

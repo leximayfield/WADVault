@@ -1,0 +1,17 @@
+{
+	"uid": "damn2 (db1925).wad",
+	"name": "DAMNATION ALLEY II",
+	"description": "This is an outdoor \"City\" Level designed for 2 or 3 player Deathmatch. It was intended to be the sequel to my Damnation Alley WAD (damn1a.wad) but it was never entirely completed due to lack of interest. After playing Damnation Alley, many people have asked me about this unfinished sequel but I never actually gave it out. Although I am no longer creating Doom WADs, I decided to offer this level to those who were asking about it and for any others that may be interested. I hope you are not too disappointed, the level had a few neat ideas and a pretty cool look to it.",
+	"version": "db1925",
+	"date": "2014-12-15 22:10:04",
+	"files": [
+		{
+			"filename": "damn2.wad",
+			"size": 301593,
+			"crc": 2188264658,
+			"md5": "b870d6e1c127e3139c31222dcd3e3349",
+			"sha1": "db19258e7ec6f59b501c9a4dcf793f2721c0ea75",
+			"sha256": "4285d4b73d2f3cd546a7bf8b6c353ee9fd9d425a6895193a4fb1470af64cd686"
+		}
+	]
+}

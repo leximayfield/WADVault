@@ -1,0 +1,17 @@
+{
+	"uid": "nemodm (2d045e).wad",
+	"name": "NEMODM.WAD",
+	"description": "Deathmatch level for Doom 1.666. This level is fast and furious fun for 2-4 combatants. Multiple kill lanes covering each major weapon is a feature of NemoDM. *YES* there is a ship with masts and a cargo hold (thanks DB!) ;) Note: There is one area which is a great spot for sniping, but not easy to find. Look for a U turn hallway with metal textures on the walls. Some of these walls are passable. Note2: Red pad starts the crusher, Blue pad stops it! Have fun! Then Feedback!",
+	"version": "2d045e",
+	"date": "2014-01-07 22:10:49",
+	"files": [
+		{
+			"filename": "nemodm.wad",
+			"size": 103950,
+			"crc": 3257349058,
+			"md5": "81768a5529ebbc357d8698faded40691",
+			"sha1": "2d045ec0041b13537271f0095ce9706960f4a0a8",
+			"sha256": "95363c756590d33c1076b73396e00ffe14b1d4dd2928d3acd57ac7d128b2662c"
+		}
+	]
+}

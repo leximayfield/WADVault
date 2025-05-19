@@ -1,0 +1,17 @@
+{
+	"uid": "mines (9beaae).wad",
+	"name": "Mines of Titan v1.1",
+	"description": "Dumped in the middle of a mining base on Titan, a moon of Saturn, you must acquire three keys to find the exit hidden in the mining headquarters. Since the natives are definitely NOT friendly an exit is a nice thing to find.",
+	"version": "9beaae",
+	"date": "2015-09-14 21:56:24",
+	"files": [
+		{
+			"filename": "mines.wad",
+			"size": 714888,
+			"crc": 1843166467,
+			"md5": "b4e975d9a824759a45302ad3d3894dcc",
+			"sha1": "9beaae03601c2e5eccad9e204611af30e2acd4c2",
+			"sha256": "4156ed584a667f3d97cd4e3795e0cafa7194404855d9c88826e6e417da9e5d5d"
+		}
+	]
+}

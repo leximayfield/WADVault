@@ -1,0 +1,17 @@
+{
+	"uid": "POOL (23b2b7).wad",
+	"name": "The Heretic's Forbidden Pool",
+	"description": "This file is a small Heretic Deathmatch level suited for 2 players, but also playable with 4. All weapons are present",
+	"version": "23b2b7",
+	"date": "2013-11-02 16:40:06",
+	"files": [
+		{
+			"filename": "POOL.wad",
+			"size": 26837,
+			"crc": 1598260034,
+			"md5": "dd88bf19633f0576fc507c1f90fa7021",
+			"sha1": "23b2b704a90a1419f2857b88930c0a7ad4dd30cd",
+			"sha256": "9e2739394302c4c87d7e04b5eebfee4ee667d2b74478c176f9d3ccbf85f0d33c"
+		}
+	]
+}

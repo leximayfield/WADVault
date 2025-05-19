@@ -1,0 +1,16 @@
+{
+	"uid": "ragnarok.wad",
+	"name": "Project RAGNAROK",
+	"description": "My first wad. Wolf3D-style.",
+	"date": "2014-12-29 08:59:54",
+	"files": [
+		{
+			"filename": "ragnarok.wad",
+			"size": 3884135,
+			"crc": 3184064601,
+			"md5": "e5670a00fb3775008ec9e7f337c55087",
+			"sha1": "e152843b245e828dbc4e840c104fa50d03c47a74",
+			"sha256": "32a333d75ea39916d276738a42b9915945190696753f7476e0ebe284371be55d"
+		}
+	]
+}

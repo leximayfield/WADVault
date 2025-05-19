@@ -1,0 +1,17 @@
+{
+	"uid": "TELEFRAG (32f0b4).wad",
+	"name": "Telefrag",
+	"description": "A unique deathmatch wad for Doom. Move forward to teleport to the right, move backwards to teleport left. This file is a Blast!",
+	"version": "32f0b4",
+	"date": "2013-11-02 15:41:20",
+	"files": [
+		{
+			"filename": "TELEFRAG.wad",
+			"size": 13854,
+			"crc": 694401458,
+			"md5": "d5f6fdb3b7ba9ba358db4316e19ee40c",
+			"sha1": "32f0b44824a47335950b38b040f2ba037f5cc553",
+			"sha256": "dfbbb66eb62a8f1d7257b54171e075224c997284cb4b5e131f1c69ff07bb4a41"
+		}
+	]
+}

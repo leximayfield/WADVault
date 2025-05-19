@@ -1,0 +1,17 @@
+{
+	"uid": "demon7 (1881b3).wad",
+	"name": "Demension 7",
+	"description": "clean deathmatch level NO BFG",
+	"version": "1881b3",
+	"date": "2016-02-07 20:31:59",
+	"files": [
+		{
+			"filename": "demon7.wad",
+			"size": 28422,
+			"crc": 674537986,
+			"md5": "29c3c6e075a76edfdddcb4cbddb2f6ea",
+			"sha1": "1881b33f352a7e539fa0bab7545ea762d3188d26",
+			"sha256": "e8238b91a457a686ee7fe0112c0cb7bd8a13d5265e64c4b5646cf08d5d7d986d"
+		}
+	]
+}

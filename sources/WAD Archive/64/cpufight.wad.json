@@ -1,0 +1,16 @@
+{
+	"uid": "cpufight.wad",
+	"name": "Computer Mayhem",
+	"description": "//**********************// \"Listen up, marine! The eggheads at HQ thought it would be a great idea to give our most advanced AI access to the zombification virus and our new dimensional-tearing teleportation technology. Well, it wasn't. The computer station is now infested with undead abominations and hellish transmogrifications from God knows where. The place needs to be in top shape for the next inspection, so go there and clean up that mess. We will then send someone to clean up yours.\" //**********************// This is a short level for Ultimate Doom, wich uses the E1M1 slot. The first time I used the most basic Doom settings in Doom Builder. Nothing fancy. *I tried it in Chocolate Doom, and it works. But there are some visual glitches in some textures. And since very low resolutions make me dizzy, I couldn't try it for more tan 3 minutes. What that means is that it should work in Vanilla Doom.",
+	"date": "2016-07-20 20:13:56",
+	"files": [
+		{
+			"filename": "cpufight.wad",
+			"size": 181572,
+			"crc": 1773087440,
+			"md5": "f6ac57341dc2d9546163aae3c2c6c496",
+			"sha1": "6440698d7fadae17e3d39ced042220243fdd4d61",
+			"sha256": "0d0872d732ac3b86bb839939dee7146341da1c0e1f09be4916c86bc9fbed9282"
+		}
+	]
+}

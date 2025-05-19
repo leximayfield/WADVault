@@ -1,0 +1,16 @@
+{
+	"uid": "HXKEEP.wad",
+	"name": "The Keep (for Hexen)",
+	"description": "A Hexen PWAD that makes use of EVERYTHING Hexen has to offer including polyobjects and scripts. It was just a quick make, I didn't bother aligning the textures, but this level is still COOL. Just remember the asprin... You'll see why, too. What I'm trying to say is, you haven't seen Hexen at it's full potential until you play this level. OK, mabe you have, but I think it's pretty damn cool. Oh, ya I included the scripts source if you want it, ain't nothin' special, though... Mabe I'll touch all this up some and rerelease it? Enough talking, download it!",
+	"date": "2014-10-14 20:54:42",
+	"files": [
+		{
+			"filename": "HXKEEP.wad",
+			"size": 65054,
+			"crc": 1123175693,
+			"md5": "4a5c12cc92987a597ccb6ce078231921",
+			"sha1": "eabb54bda30b756a2290abebab953bf106651e24",
+			"sha256": "84a48b5adf8dbefc40ec2c1e7ece8c2aa2ae68f026b59e7eb599414eddb388af"
+		}
+	]
+}

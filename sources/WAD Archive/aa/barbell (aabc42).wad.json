@@ -1,0 +1,17 @@
+{
+	"uid": "barbell (aabc42).wad",
+	"name": "BarBell: DeathMatch Wad",
+	"description": "Features: Barbell-shaped arena that forces players to charge at each other across a narrow ledge, also includes a pit of archviles ( fun to watch the other player get blasted into the air by them ) Weapons: Plasma gun & rocket launcher.",
+	"version": "aabc42",
+	"date": "2016-02-07 20:26:03",
+	"files": [
+		{
+			"filename": "barbell.wad",
+			"size": 7857,
+			"crc": 3154913601,
+			"md5": "9bccb63724e0fa2b9ca9c2fb26f8861e",
+			"sha1": "aabc42b60d88c64f77aefb2cc66a08ef6af963ae",
+			"sha256": "acaf51a0a11aea798dbf3279366975d0d3a8fdbc9e3a4127930e7ac972d3b254"
+		}
+	]
+}

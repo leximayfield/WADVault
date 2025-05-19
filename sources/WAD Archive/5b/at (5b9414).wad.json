@@ -1,0 +1,17 @@
+{
+	"uid": "at (5b9414).wad",
+	"name": "Atomic Tomb",
+	"description": "A level for Ultimate Doom + a port that will up the vis-plane limit and is compatible with boom. Main focus was on single player + co-op, but there is some very good DM support.",
+	"version": "5b9414",
+	"date": "2014-12-14 20:35:55",
+	"files": [
+		{
+			"filename": "at.wad",
+			"size": 426564,
+			"crc": 3506424518,
+			"md5": "c1d5f77ee3978fcea71d2ccc27ef91f0",
+			"sha1": "5b9414416059733381053e7efde3c773d9935c98",
+			"sha256": "9111027db8bae3a3c93245e1286c4e9fa276a61c091aa31a1449ebc78761f66f"
+		}
+	]
+}

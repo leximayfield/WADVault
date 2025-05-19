@@ -1,0 +1,17 @@
+{
+	"uid": "fatetex (c06816).wad",
+	"name": "Fate Textures",
+	"description": "355 textures from Fate, including some skies.",
+	"version": "c06816",
+	"date": "2015-09-14 20:24:26",
+	"files": [
+		{
+			"filename": "fatetex.wad",
+			"size": 5266678,
+			"crc": 2671410299,
+			"md5": "a0b303afa5d20dd42308ab0de5f16365",
+			"sha1": "c06816324c62ddefb16c9879c5850b37251d3ae5",
+			"sha256": "6c8938d91d9490513cbedf56dddc03b1174ded5ec13d25a68e9333948646ba17"
+		}
+	]
+}

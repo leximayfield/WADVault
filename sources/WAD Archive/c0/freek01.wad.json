@@ -1,0 +1,16 @@
+{
+	"uid": "freek01.wad",
+	"name": "FREEK01.WAD",
+	"description": "A fun little Deathmatch level for 2 or 3 players. Optimized for and tested under Altdeath rules.",
+	"date": "2014-12-15 23:13:45",
+	"files": [
+		{
+			"filename": "freek01.wad",
+			"size": 87443,
+			"crc": 516933103,
+			"md5": "338dc37f6bd4bd731b1d12f34e100837",
+			"sha1": "c0c1626018c5d43ee894f213b40891411b64db7a",
+			"sha256": "20494b1d6de4da19321d0b50a23bcb1e7fdb5cfbed292a98fce3ef2123daeefe"
+		}
+	]
+}

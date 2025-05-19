@@ -1,0 +1,16 @@
+{
+	"uid": "rockcata.wad",
+	"name": "Rocky Catacombs",
+	"description": "I relised there aren't too many maps done for Heretic, so I made this. A map which has rocky areas filled with lava and some catacomb mazes.",
+	"date": "2015-09-15 13:13:20",
+	"files": [
+		{
+			"filename": "rockcata.wad",
+			"size": 4436398,
+			"crc": 2591885320,
+			"md5": "151b727c0a1b36e89707f1e0c45ad6e8",
+			"sha1": "014634e800dff6035ee52e2601b1342381694134",
+			"sha256": "8f8552b82d8b87f7252d9076be249c35af33b1834ecceb45759d6e142db47928"
+		}
+	]
+}

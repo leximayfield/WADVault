@@ -1,0 +1,16 @@
+{
+	"uid": "libkeep.wad",
+	"name": "The Librarian's Keep",
+	"description": "Small little deathmatch map I made over the course of a week or so. Works with Vanilla Doom 2. Plays nicely with about 4-6 players. Architecture could probably be better in some places, but oh well. Oh, and gadzooks!",
+	"date": "2019-06-16 13:55:22",
+	"files": [
+		{
+			"filename": "libkeep.wad",
+			"size": 158299,
+			"crc": 3136976925,
+			"md5": "2ea3f2dffa4cb31de4f1b8e87cc014b3",
+			"sha1": "6d197ec379dcf2b2375aff801e35f81e3ad9424c",
+			"sha256": "ab2cfba7fbc6e3083fe1c43c8defbb647165bce6cacc3c8e0949decec6d9c879"
+		}
+	]
+}

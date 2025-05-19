@@ -1,0 +1,16 @@
+{
+	"uid": "wayne (50e35e).wad",
+	"description": "\"Wayne.Wad\" it's my first attemped at creating a wad level . The start location is still the defalt sector. I used DOOMED a great tool. A lot of trial and errors. Looking forward for the new release. In the mean time I'm trying to learn DEU. I played this episode without powering up. So good luck.",
+	"version": "50e35e",
+	"date": "2014-01-11 11:25:18",
+	"files": [
+		{
+			"filename": "wayne.wad",
+			"size": 74762,
+			"crc": 3490317822,
+			"md5": "fad78be9bf2be47822309e6051d597df",
+			"sha1": "50e35ea9230eda1e82334ced3b2b9169178a065e",
+			"sha256": "36e4fa7828310c8dba09ae30d559b8571cd5f663445fcc82f4234a6e41cb8c23"
+		}
+	]
+}

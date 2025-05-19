@@ -1,0 +1,16 @@
+{
+	"uid": "obliv666.wad",
+	"name": "Oblivion",
+	"description": "In 2010 I released an E1 replacement for DOOM called Phobos Massacre. I was relatively inexperienced as a mapper at that time, and it really shows in the levels, which are quite bad.",
+	"date": "2015-09-14 22:22:11",
+	"files": [
+		{
+			"filename": "obliv666.wad",
+			"size": 6323064,
+			"crc": 663583920,
+			"md5": "5a43ee8599aea89b193099d80f178c85",
+			"sha1": "68e9241b8cb89ddde150b3ab48e7a60ac5442133",
+			"sha256": "de87f3a015c077a0d6c642ad401380281ec546fbf6ee5b978ca988b4d3e67d13"
+		}
+	]
+}

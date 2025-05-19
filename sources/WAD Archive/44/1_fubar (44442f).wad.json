@@ -1,0 +1,17 @@
+{
+	"uid": "1_fubar (44442f).wad",
+	"name": "!FUBAR1.WAD",
+	"description": "Dark, evil, difficult. Good for CO-OP play or hard-core single play.",
+	"version": "44442f",
+	"date": "2013-11-06 22:36:48",
+	"files": [
+		{
+			"filename": "1_fubar.wad",
+			"size": 207926,
+			"crc": 1003573822,
+			"md5": "a48abf2002ec684af9c7c0f385eac790",
+			"sha1": "44442f5d5cc5ed858cfbf3a98ea78774ae9d5ed7",
+			"sha256": "e1dba0eae26dfe77e5d3d43917fe4915b3c49566db16c2473bfd94c46888dc3d"
+		}
+	]
+}

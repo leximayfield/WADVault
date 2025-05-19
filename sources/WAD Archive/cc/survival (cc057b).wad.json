@@ -1,0 +1,17 @@
+{
+	"uid": "survival (cc057b).wad",
+	"name": "SURVIVAL.WAD 'Survival of the Fittest'",
+	"description": "Pretty large replacement level for E1M1. Absolutely huge room in the SE corner, heh heh. If it's too hard for ya, try reducing the difficulty level... sissy. :) I left most of secret areas shown as yellow on the map... makes it a little more possible to spot 'em. In UV mode save often... :) This is my first stab at applying creativity towards DOOM. Pretty good, if I say so myself... hope you think so too. Also, I hope everyone has a real copy of DOOM by now, thus the E1M1 replacement. (I figure the release of DOOM II & Heretic has kinda outdated the original.)",
+	"version": "cc057b",
+	"date": "2013-11-06 22:50:43",
+	"files": [
+		{
+			"filename": "survival.wad",
+			"size": 145811,
+			"crc": 1481956695,
+			"md5": "578c083353bec97273ba4f7a0a4c725c",
+			"sha1": "cc057b1f1490684426d8dffe07202e3e9f28a4c3",
+			"sha256": "868aa05ca4ea1f0ff7f0349c7c8977289c2d6ce01827b483a734b3f02b56e7de"
+		}
+	]
+}

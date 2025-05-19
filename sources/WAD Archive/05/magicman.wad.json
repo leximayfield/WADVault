@@ -1,0 +1,16 @@
+{
+	"uid": "magicman.wad",
+	"name": "Magic Man",
+	"description": "great deathmatch level",
+	"date": "2018-04-15 18:34:26",
+	"files": [
+		{
+			"filename": "magicman.wad",
+			"size": 130044,
+			"crc": 1589709114,
+			"md5": "ba25e3e383bf85ff27191f2e751cdf9f",
+			"sha1": "050a76b2a8b28bed183be0643bd8889d03790d95",
+			"sha256": "8220a08ea27a7194553c3ac17e2ca1cf1f46d2c88d1802cb7989db51c82fa4d8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "wolf (6016d6).wad",
+	"name": "WOLF MOUNTAIN - wolf.wad for Doom (1), Ultimate Doom",
+	"description": "There is a fortress deep within Wolf Mountain where the stars always shine in an artificial sky. It's guarded by ghouls and monsters, results of genetic engineering. This is the home of an ancient, shapeshifting enemy of humanity. Here, the world's wealthy undead play and plot the enslavement of all living people in a new world order.",
+	"version": "6016d6",
+	"date": "2014-12-14 20:53:40",
+	"files": [
+		{
+			"filename": "wolf.wad",
+			"size": 400083,
+			"crc": 2846923287,
+			"md5": "abb13f8ff547a091b28a1612ebd8d608",
+			"sha1": "6016d6317226595d5bb3c214b1e24091e96e1a56",
+			"sha256": "d47c6968f97b84e4aaf5b371983856dff2904e7ab02ee924a2796a0e8c5e8724"
+		}
+	]
+}

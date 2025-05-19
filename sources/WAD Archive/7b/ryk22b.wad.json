@@ -1,0 +1,15 @@
+{
+	"uid": "ryk22b.wad",
+	"description": "Version B of the Ryk22 level which recovers from the bug created in version A where the master button in the maze failed to operate the floor in the centre room. The invisible wall in the centre (doughnut shaped) room has also gone. This level is primarily a puzzle. I created it with a D&D aspect in mind, as much as the DOOM environment would allow me. The easy difficulty has very few monsters to allow one to concentrate on the puzzles. The hard difficulty setting has MANY monsters to contend with as well, many of them surprise ones.",
+	"date": "2013-11-02 16:59:57",
+	"files": [
+		{
+			"filename": "ryk22b.wad",
+			"size": 203337,
+			"crc": 1595436980,
+			"md5": "68f8097ef653df89961d29dfff0089a2",
+			"sha1": "7b941e99d6b457556759fa54246a8bda9d2422b9",
+			"sha256": "ff0763b4339e58745e2aa723c5621f198e1140df6480ba02ae7f4e0dc09262e5"
+		}
+	]
+}

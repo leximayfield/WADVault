@@ -1,0 +1,16 @@
+{
+	"uid": "Planet127.wad",
+	"name": "Planetfall for EDGE v1.27",
+	"description": "Version of PLanetfall TC to EDGE version 1.27",
+	"date": "2015-06-29 12:38:20",
+	"files": [
+		{
+			"filename": "Planet127.wad",
+			"size": 2892656,
+			"crc": 324690321,
+			"md5": "f4e2527f2ad4b9a0eba8edd60bf36aaf",
+			"sha1": "155f70e061e068b6befa9b106986461a2807af98",
+			"sha256": "262d2bc4e7498d25bd67307730e0bedbff63e7ac92eceb4873def8fc410df681"
+		}
+	]
+}

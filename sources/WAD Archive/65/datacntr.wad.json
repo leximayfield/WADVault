@@ -1,0 +1,16 @@
+{
+	"uid": "datacntr.wad",
+	"name": "Data Center 1.0",
+	"description": "The UAC's primary data center has been invaded by the monsters of hell in order to steal some intelligence and ultimately wipe out the human race. The center's population has been wiped out and you are the only hope of reclaiming the UAC's secrets from the demons. Find the source of the infestation before the monsters are able to use our secrets against us.",
+	"date": "2014-12-18 22:50:06",
+	"files": [
+		{
+			"filename": "datacntr.wad",
+			"size": 1373588,
+			"crc": 1668297768,
+			"md5": "eaf1b2335e017271fd4796b8047f20cd",
+			"sha1": "65a2ee7cb4ea7b1cd4e5bcc03c116ff51b360459",
+			"sha256": "278bd086ab25ea541b5aca87624247c86ae5c2393d9294165e33e32a02139175"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "antares (24d842).wad",
+	"name": "Antares (a.k.a. alpha scorpionis, the brightest star in the constellation Scorpio)",
+	"description": "This level is based on a space station \"far out in the uncharted backwaters of the un- fashionable end of the western spiral arm of the Milky Way Galaxy, etc...\". But seriously folks, this level has about 90% of its own graphics. BIG DEAL, so what does that mean? That means that you don't have to look at the same old shit on the walls anymore, this level carries its own walls, designed by me using many original and some borrowed from other textures in Doom][. The complexity of the textures was helped to a great extent by the fabulous program CorelDraw! for windows version 4 (especially using the canvases and the fills).",
+	"version": "24d842",
+	"date": "2016-02-07 20:34:08",
+	"files": [
+		{
+			"filename": "antares.wad",
+			"size": 466163,
+			"crc": 2720024189,
+			"md5": "1ba2eb4533834891a43b280e13862afc",
+			"sha1": "24d842743d3fc493fc13dc8b200c9f723ff37a35",
+			"sha256": "23c6c3d7e88397ff27d777ec5ee8f11e94a251a6097841381ab5d378df0a0279"
+		}
+	]
+}

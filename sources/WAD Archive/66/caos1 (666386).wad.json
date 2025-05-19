@@ -1,0 +1,16 @@
+{
+	"uid": "caos1 (666386).wad",
+	"description": "Wad for DOOM2 built for being played #single#, #cooperative# and #deathmatch#. Include diferent levels. How can you describe a wad file? You play it, and have fun. (Watch out behind the yellow door).",
+	"version": "666386",
+	"date": "2014-01-07 21:48:39",
+	"files": [
+		{
+			"filename": "caos1.wad",
+			"size": 117523,
+			"crc": 1447914681,
+			"md5": "663afd9b7a558bd4728b9a7e213f7a5b",
+			"sha1": "6663860c0652394c243979e76011e8ec0b90a7cc",
+			"sha256": "a1adc41d63739a7577ada403bd96bbb97cdde3f8a173f14dbdca618e5ad5a5be"
+		}
+	]
+}

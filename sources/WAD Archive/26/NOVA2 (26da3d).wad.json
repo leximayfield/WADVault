@@ -1,0 +1,17 @@
+{
+	"uid": "NOVA2 (26da3d).wad",
+	"name": "NOVA II: New Dawn",
+	"description": "32 maps for any limit removing port. Like its predecessor, NOVA II is a megawad designed to give new mappers a chance to flex their mapping muscles and develop their abilities with the help of veteran mappers. Not all the maps in here are from newbies, but for the most part what you'll see in here are people's first forays into the world of Doom mapping.",
+	"version": "26da3d",
+	"date": "2015-12-04 14:02:12",
+	"files": [
+		{
+			"filename": "NOVA2.wad",
+			"size": 41184593,
+			"crc": 107269356,
+			"md5": "0e0d15d0210482ab3ad7aef580c0f951",
+			"sha1": "26da3d7dd6927263d432cc0ae2f9ef5c1c505d68",
+			"sha256": "91c4dfbd8dfae1288cda40fdfbe8b55799936b5796904e087fec2bb75105c75e"
+		}
+	]
+}

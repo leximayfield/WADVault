@@ -1,0 +1,16 @@
+{
+	"uid": "volatile.wad",
+	"name": "Volatile",
+	"description": "A single one-player level. I've taken special care on the textures and the awesome view. Try it on Ultra Violence for the fight of your life!",
+	"date": "2015-01-14 23:01:55",
+	"files": [
+		{
+			"filename": "volatile.wad",
+			"size": 102370,
+			"crc": 4130740313,
+			"md5": "2f0d77de413db63fc09cf7366b400c28",
+			"sha1": "ace1c3d22692d1f7cfb3fa76f4671b919094e605",
+			"sha256": "5b13fc98185033f8271c3f6a9e8a940da32a3b05ccefc5678bc2d5967681c7dc"
+		}
+	]
+}

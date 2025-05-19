@@ -1,0 +1,16 @@
+{
+	"uid": "westwing.wad",
+	"name": "The West Wing",
+	"description": "This map is full of interesting places. You'll be able to see the exit and the key you need very soon after you begin - but you won't be getting to them for quite some time. You will also come to a dead end fairly soon on your journey. The way out will be clearly marked, although you may not understand how it will help.",
+	"date": "2014-12-13 17:41:39",
+	"files": [
+		{
+			"filename": "westwing.wad",
+			"size": 130369,
+			"crc": 4255813145,
+			"md5": "cacd7c54417d95673c563ddc4c3a7467",
+			"sha1": "89dc40803f3215cc80db555e78662c8c98016aec",
+			"sha256": "8c066a92c414f8a0db7e2532eaed9acbf2488327d5d43f8c6a632d9f20894c27"
+		}
+	]
+}

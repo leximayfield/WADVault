@@ -1,0 +1,16 @@
+{
+	"uid": "heretech.wad",
+	"name": "Heretech",
+	"description": "A DECORATE weapons mod for Heretic with a tech theme. Because guns kick ass.",
+	"date": "2014-12-30 11:21:28",
+	"files": [
+		{
+			"filename": "heretech.wad",
+			"size": 1128986,
+			"crc": 1067186409,
+			"md5": "36ed57cbad7c4f77e7b221b9f754f998",
+			"sha1": "c3c211aae8f45b9f19f70e19f7eca0a174fc9f34",
+			"sha256": "10fdc25d898205fb139fb5af26cd12f1a03bcca9b71356cff8fe82b8562c976d"
+		}
+	]
+}

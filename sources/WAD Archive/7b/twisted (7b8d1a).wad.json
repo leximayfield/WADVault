@@ -1,0 +1,17 @@
+{
+	"uid": "twisted (7b8d1a).wad",
+	"name": "A Slightly Twisted PWAD",
+	"description": "You're a marine. You're in Hell. You've got immense quantities of high powered weaponry. What's there to know?",
+	"version": "7b8d1a",
+	"date": "2013-11-06 22:36:34",
+	"files": [
+		{
+			"filename": "twisted.wad",
+			"size": 2036793,
+			"crc": 4270663472,
+			"md5": "cc0ab44b06aab2569bb2bcd69ec98e09",
+			"sha1": "7b8d1a1d6999ac6195f09f3b0e4db80f2f3d5546",
+			"sha256": "17bbeb257f03228647809768cc7f2efecd4a9a954f2fd3917a1952ecedee33ed"
+		}
+	]
+}

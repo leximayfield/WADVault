@@ -1,0 +1,16 @@
+{
+	"uid": "possesme.wad",
+	"name": "Possess me!",
+	"description": "This is a single-player gameplay MOD for Doom/Doom 2, where you are a \"Spirit\" that can possess the corpses of your enemies and fight with they own weapons, health, flying habilities, and so. You also have some extra \"especial attacks\" and and a \"berserk mode\" that brings variety and advantages, like stuning enemies or use their heads as bombs. Health is almost removed, so you have to keep possessing to survive, using what you have killed. There is a tutorial.txt Read it!",
+	"date": "2014-12-11 22:23:46",
+	"files": [
+		{
+			"filename": "possesme.wad",
+			"size": 1313537,
+			"crc": 1324324044,
+			"md5": "9a5ea18c3d3a0a3fa65811581f6c5110",
+			"sha1": "08fe3d008d89f51877aea93b352a3d2e8ff58267",
+			"sha256": "0a689c0f5aee30aa7f713915cb59080930baaf65bae5378bc88ce597f0bf21c6"
+		}
+	]
+}

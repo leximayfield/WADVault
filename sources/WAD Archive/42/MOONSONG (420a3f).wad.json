@@ -1,0 +1,17 @@
+{
+	"uid": "MOONSONG (420a3f).wad",
+	"name": "Moonsong",
+	"description": "Practice map to get the hang of layouts. It's kind of on the easier side of things. Dropped into a darkened and cold science lab. The moon has grown huge, and strange monsters infest the base. There's no sign of anyone else, so its up to you to survive and escape.",
+	"version": "420a3f",
+	"date": "2016-07-21 19:24:54",
+	"files": [
+		{
+			"filename": "MOONSONG.wad",
+			"size": 609610,
+			"crc": 3216900580,
+			"md5": "b17930931fc673aa96b1a7c29ceb58d9",
+			"sha1": "420a3f201449e95bcbc4fb34902e10e2f1555452",
+			"sha256": "53296bc27b72dacbfcf2011a10230195a501e48fb4a57ced140269f68b2e2866"
+		}
+	]
+}

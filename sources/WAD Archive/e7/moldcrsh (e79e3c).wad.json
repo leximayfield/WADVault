@@ -1,0 +1,17 @@
+{
+	"uid": "moldcrsh (e79e3c).wad",
+	"name": "Ultimate Crush (The Crusher)",
+	"description": "This is my first level. It is a combination of all my great ideas I wanted to put into a level. Since this is my first level, it has the mandatory room with lots o' enemies. There is a large maze which can be solved using the \"stay to the left\" method. All secrets are hinted at so you won't have to push every bit of wall to get 100% secrets. Difficulty levels are implemented but it is easy on skills 1-2 and I wouldn't recommend playing it. Skill 4 is tough even for me, but it is the most fun to play. Also, take a look at the overpass.",
+	"version": "e79e3c",
+	"date": "2013-11-02 16:40:57",
+	"files": [
+		{
+			"filename": "moldcrsh.wad",
+			"size": 47207,
+			"crc": 3136851572,
+			"md5": "6d3f0fbe15fcf0def694ea5914d9a8df",
+			"sha1": "e79e3cb9f483ba5246d56db975a41434261b3d2f",
+			"sha256": "5c89b36bc7454a4c26cc1da670dc6a421421422ae060ab8eff007fd7baee7557"
+		}
+	]
+}

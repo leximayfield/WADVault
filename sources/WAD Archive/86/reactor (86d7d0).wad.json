@@ -1,0 +1,17 @@
+{
+	"uid": "reactor (86d7d0).wad",
+	"name": "Reactor",
+	"description": "Intelligence informs you of a nuclear installation, location undisclosed, that has been taken over by hellspawn (big surprise!) They inform you of a main power reactor which, like the rest of the plant is underground. It is believed that the demons plan to use this power source to develop weapons and increase their arsenal. The reactor was designed to easily be shut down in emergency situations (good thing). Your mission, should you chose to accept it, is to locate the reactor and shut it down and find your way out. The only thing known about the base is that there are three keys restricting access to personnel. Good luck.",
+	"version": "86d7d0",
+	"date": "2015-01-14 14:57:28",
+	"files": [
+		{
+			"filename": "reactor.wad",
+			"size": 245129,
+			"crc": 425525494,
+			"md5": "1d841450b4c1c26cd2476ebba96c674b",
+			"sha1": "86d7d0e44c05aa33d7db746e843a45bcbdc5eb50",
+			"sha256": "568515d98d2eb3b1abd4b6f9df70c3a3a9d47baefc855723ecccddc6b11ddf2c"
+		}
+	]
+}

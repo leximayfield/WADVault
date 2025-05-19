@@ -1,0 +1,17 @@
+{
+	"uid": "easy (a878f0).wad",
+	"name": "World's Easiest Doom 2 Level!",
+	"description": "This is my attempt to make the easiest WAD ever. It's pretty much impossible to die on this map.",
+	"version": "a878f0",
+	"date": "2014-12-24 19:23:50",
+	"files": [
+		{
+			"filename": "easy.wad",
+			"size": 48302,
+			"crc": 1923484213,
+			"md5": "45b921404a823a59403ed7cb04c71daa",
+			"sha1": "a878f0b739bd2e8e0185485e5bd0ca89a93e8eb7",
+			"sha256": "ae028174514861d102f454b622ecf37263f3cd6f8347b529596b6032d61a5e65"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "lassik.wad",
+	"name": "LASSIK DOOM II",
+	"description": "LASSIK DOOM II is a single PWAD file that replaces the image of the guy at the bottom of the screen with the world renowned DOOM Master Lassik Blair.",
+	"date": "2014-12-03 19:58:16",
+	"files": [
+		{
+			"filename": "lassik.wad",
+			"size": 273755,
+			"crc": 2550866126,
+			"md5": "be5a1c8bf76a3b213f21385ab6058d60",
+			"sha1": "39b8a9f732c30cb813ddeadd0baa4cb87e732178",
+			"sha256": "07fe1661cfc654acf31c43a188daf724877d6390f5e84f3ae822393b84d6061d"
+		}
+	]
+}

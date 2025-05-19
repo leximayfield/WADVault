@@ -1,0 +1,16 @@
+{
+	"uid": "666town.wad",
+	"name": "Gestalt666's Town of Heresy",
+	"description": "Starting in the town square, you have to fight your way through three areas to find the keys you need, before entering the final, fourth area and taking on the Maulotaur...",
+	"date": "2014-12-30 11:26:39",
+	"files": [
+		{
+			"filename": "666town.wad",
+			"size": 149520,
+			"crc": 2714012221,
+			"md5": "dfee21d9d125d4d8b3dffd11d283380c",
+			"sha1": "669c7f34214bd8ea99ba23f80bfb29f968f3465f",
+			"sha256": "a81bfd792893d75f7602e83531d6f09d08859782f8795cf41ab6bbb2bdaa2612"
+		}
+	]
+}

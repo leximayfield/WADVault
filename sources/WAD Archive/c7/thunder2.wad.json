@@ -1,0 +1,16 @@
+{
+	"uid": "thunder2.wad",
+	"name": "THUNDER.WAD",
+	"description": "A level for single and coop play.",
+	"date": "2014-12-14 20:47:30",
+	"files": [
+		{
+			"filename": "thunder2.wad",
+			"size": 535320,
+			"crc": 2434141640,
+			"md5": "b33038abb09e7989eec212043bb44ec5",
+			"sha1": "c73374ccc2f3ee5fa7c4e0d49b9bba63cfa56d22",
+			"sha256": "fb7d0651a7cf7c8e114facbb8f32e29a14dbb509fb8b38ab3af07c3f21917b13"
+		}
+	]
+}

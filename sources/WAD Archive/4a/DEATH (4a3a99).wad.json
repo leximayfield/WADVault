@@ -1,0 +1,17 @@
+{
+	"uid": "DEATH (4a3a99).wad",
+	"name": "bop.wad -Baron on a Pedastal",
+	"description": "Dark and Forboding, a trip into the dark side of Diemos. Has numerous teleporters, and a few stair cases, just to keep up with my first wad. Their not huge, but very interesting. Didn't implement and secret doors or sectors. There are many Barons of Hell, and one guarding the blue key on a platform (hence the title)",
+	"version": "4a3a99",
+	"date": "2016-02-06 13:55:45",
+	"files": [
+		{
+			"filename": "DEATH.wad",
+			"size": 993984,
+			"crc": 609693376,
+			"md5": "05bf96db01776f0e6674f593da723c0e",
+			"sha1": "4a3a993ded1269f1b9227bbec6fdbad7126d9bc7",
+			"sha256": "4428cf9d98834ea0fd64b3db175edeb2e3058e5d1daabd6fb36db47e14446ec5"
+		}
+	]
+}

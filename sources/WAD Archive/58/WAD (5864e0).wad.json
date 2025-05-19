@@ -1,0 +1,17 @@
+{
+	"uid": "WAD (5864e0).wad",
+	"name": "BloodLust",
+	"description": "I did not build this level with a lot of tricks and traps in mind, though there are a few of them, but instead as a good old shotgun crawl. You will have a variety of weapons to choose from but you will have to use your resources wisely. I tried to construct this level so that it can be completed if you use your head as well as your trigger finger. Running around blasting wildly at anything that moves may get you to the end of the level, but it may leave you a little short- handed to deal with what might be lurking there. I hope you enjoy this level. It took me a long time to finish it (I am constantly refining and touching up). I originally designed it for single or cooperative, but I have included several death- match starts and with the level's connectivity I think that it could work fairly well in deathmatch. Your responses are welcome and encouraged. Enjoy!!",
+	"version": "5864e0",
+	"date": "2014-01-11 11:21:09",
+	"files": [
+		{
+			"filename": "WAD.wad",
+			"size": 105917,
+			"crc": 3375568841,
+			"md5": "894187ab5beb6af9f1322c04f0024bb5",
+			"sha1": "5864e037b2e16fae26e8fe20e193eadb7535c8a1",
+			"sha256": "e2a28f23e7a07e4c8c224d12067cd3180fe3061ae3955dc3b8c39a1437354302"
+		}
+	]
+}

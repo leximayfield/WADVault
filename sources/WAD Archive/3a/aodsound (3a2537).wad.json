@@ -1,0 +1,17 @@
+{
+	"uid": "aodsound (3a2537).wad",
+	"name": "Army of Darkness Sounds",
+	"description": "You're no space marine, you're Ash, you're feeling groovy, and ready to dish out some one-liners.",
+	"version": "3a2537",
+	"date": "2014-01-11 11:33:18",
+	"files": [
+		{
+			"filename": "aodsound.wad",
+			"size": 664732,
+			"crc": 795122239,
+			"md5": "41ab2380ece64fd279ed1e849049ae72",
+			"sha1": "3a2537bd6a20a738b09a7ab15edcd5d8eb25830d",
+			"sha256": "3cbfeb1a612eb5d8fbb822f5e06cf044e09493a32e51dc4cddede4b6aa577c54"
+		}
+	]
+}

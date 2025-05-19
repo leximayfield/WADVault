@@ -1,0 +1,17 @@
+{
+	"uid": "cavern (06dd0f).wad",
+	"name": "Caverns of Hell",
+	"description": "Upon your return to earth, you think that you are finally done with seeing creatures of Hell. You were wrong. The Caverns of Hell await you. No one knows what lurks in the darkness around the next corner. Enter at your own risk.",
+	"version": "06dd0f",
+	"date": "2014-01-11 11:19:34",
+	"files": [
+		{
+			"filename": "cavern.wad",
+			"size": 230720,
+			"crc": 2170409124,
+			"md5": "5e0477e86cb8c218d1623bb6eabfc2ce",
+			"sha1": "06dd0f4e1b460637642fb640c88553d2058fc548",
+			"sha256": "4e321231dd4b6e3e8de17a79714141e3527059234528a61b2fdea84cee34b998"
+		}
+	]
+}

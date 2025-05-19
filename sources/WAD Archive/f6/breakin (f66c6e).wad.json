@@ -1,0 +1,17 @@
+{
+	"uid": "breakin (f66c6e).wad",
+	"name": "Break-in",
+	"description": "Break In. Simply put, you've been sent on a mission to Break into Monster HQ. Your goal? Get out alive! Slugfest galore!",
+	"version": "f66c6e",
+	"date": "2013-11-02 15:09:47",
+	"files": [
+		{
+			"filename": "breakin.wad",
+			"size": 90484,
+			"crc": 2788628461,
+			"md5": "fb2f2f947060732984febbf11160af9b",
+			"sha1": "f66c6e68d31dff9e43c64f28abdd86a7ffe191f7",
+			"sha256": "e7612327e74e7f609950a86ea2f5da7415f383ccd477b9f1e49550a313264dcd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "punk (e7a0a7).wad",
+	"name": "What if Bobby Prince had punk rock albums instead",
+	"description": "A MIDI pack for both doom games. 1 band doesn't make 2 cameos or more.",
+	"version": "e7a0a7",
+	"date": "2015-09-15 16:42:19",
+	"files": [
+		{
+			"filename": "punk.wad",
+			"size": 2559945,
+			"crc": 804582526,
+			"md5": "6d6fbc91f84dc498e8c5319a91c0ee44",
+			"sha1": "e7a0a7fbb00c8f9b887737beb3886c59b5d7ad03",
+			"sha256": "04e5341f43e04038238c210c3e6140ba621c43128e595a74f41850e76ee97c31"
+		}
+	]
+}

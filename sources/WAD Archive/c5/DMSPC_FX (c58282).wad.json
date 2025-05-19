@@ -1,0 +1,17 @@
+{
+	"uid": "DMSPC_FX (c58282).wad",
+	"name": "SPACE.WAD",
+	"description": "DeathMatch on a mini Space Station!",
+	"version": "c58282",
+	"date": "2013-07-09 20:20:34",
+	"files": [
+		{
+			"filename": "DMSPC_FX.wad",
+			"size": 153192,
+			"crc": 3122738476,
+			"md5": "eb6245ce18cdf1cac5696088f65f3a1d",
+			"sha1": "c58282ea766162581080d9df45cb1fccbb452648",
+			"sha256": "10c2c790e78b90c3ab14b66c290273521442d9757bffb99ea944b632b49510cd"
+		}
+	]
+}

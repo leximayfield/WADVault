@@ -1,0 +1,16 @@
+{
+	"uid": "stman.wad",
+	"name": "Doom face -> Man version 2.1",
+	"description": "Replaces the status bar face with a tiny picture of the Doom marine.",
+	"date": "2014-12-11 22:23:39",
+	"files": [
+		{
+			"filename": "stman.wad",
+			"size": 20180,
+			"crc": 3070392279,
+			"md5": "764cc0ee188f77f1e8b17a064e57518d",
+			"sha1": "f0b0a3c3b9ca059d5370f17a320997c16a90af9b",
+			"sha256": "b208b28d1960a275ca8b2fcd633d9409badd495e1cef18d42d8eafd8e78c896c"
+		}
+	]
+}

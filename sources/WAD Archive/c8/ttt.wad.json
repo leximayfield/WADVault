@@ -1,0 +1,16 @@
+{
+	"uid": "ttt.wad",
+	"name": "Tic Tac Toe",
+	"description": "Tic Tac Toe is a level consisting of an X and an O chamber, letters used in Tic Tac Toe. Music is \"World Revolution\" from a game, Chrono Trigger. Demo can be found at: https://www.youtube.com/watch?v=eaWGIUtkquA",
+	"date": "2019-03-06 21:57:01",
+	"files": [
+		{
+			"filename": "ttt.wad",
+			"size": 1970384,
+			"crc": 670947592,
+			"md5": "2aa21b8ad50c76aabeda488309e56491",
+			"sha1": "c8867093ba584fbb05c125d8053e6fc5b21e0643",
+			"sha256": "00bd199b54f44c69d58cbe65b80736df1013a647c5265515b4c9c4b2a7e2816d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ATLANTIS (02a000).wad",
+	"name": "Atlantis",
+	"description": "Single player map of a lost base in an oceanic setting.",
+	"version": "02a000",
+	"date": "2015-02-21 09:03:30",
+	"files": [
+		{
+			"filename": "ATLANTIS.wad",
+			"size": 213148,
+			"crc": 1312200790,
+			"md5": "8e42c1636b4a7329c89409484c1052bd",
+			"sha1": "02a000054f9b50a6f87fa132221a5d5c30ce16f7",
+			"sha256": "493614805171c742d6a22dda1a292f2b1c1d0c5203dd572fd34e2253d4448df2"
+		}
+	]
+}

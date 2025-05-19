@@ -1,0 +1,17 @@
+{
+	"uid": "aotw (3b8555).wad",
+	"name": "Asylum of the Wretched",
+	"description": "You're a prisoner who tries to escape",
+	"version": "3b8555",
+	"date": "2014-03-10 11:44:50",
+	"files": [
+		{
+			"filename": "aotw.wad",
+			"size": 7197719,
+			"crc": 2301483397,
+			"md5": "2d8c79c54b083a6beb54f836868b6265",
+			"sha1": "3b855519fc367e77f7390b4f01bf478df251b104",
+			"sha256": "e7cfa4cbefd7e120ba9b1e77bd7fcf3d26720af8b4fe01214544978667737b9e"
+		}
+	]
+}

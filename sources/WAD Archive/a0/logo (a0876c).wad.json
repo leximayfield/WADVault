@@ -1,0 +1,17 @@
+{
+	"uid": "logo (a0876c).wad",
+	"name": "LOGO.WAD",
+	"description": "A Deathmatch Level that is likely to get my butt in trouble for trademark violation. What? You say that ID is having trouble obtaining the trademark for DOOM? Well, I guess I made this level just in time, eh? BTW: Hope you all have fun getting at the BFG... if you survive.",
+	"version": "a0876c",
+	"date": "2013-11-02 15:14:26",
+	"files": [
+		{
+			"filename": "logo.wad",
+			"size": 39215,
+			"crc": 3830292981,
+			"md5": "81fd77109588046a91035e24b4fb617b",
+			"sha1": "a0876c0007c2fef4b1184584c1f498fdaf3930a4",
+			"sha256": "3d32f7195205852558664aba1d622139c57ebaa54dbc0be45cf6fbce62d66d78"
+		}
+	]
+}

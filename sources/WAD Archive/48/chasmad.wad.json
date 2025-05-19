@@ -1,0 +1,16 @@
+{
+	"uid": "chasmad.wad",
+	"name": "CHASM Addon for ZDooM",
+	"description": "This is my first publicly released levels.",
+	"date": "2014-12-21 16:24:25",
+	"files": [
+		{
+			"filename": "chasmad.wad",
+			"size": 1323272,
+			"crc": 3382007428,
+			"md5": "1a9adea411e360bf00a44650fdd81948",
+			"sha1": "48a9592255984ef6d7e014cf48e3e56d7fdb46c1",
+			"sha256": "dc293047a039109a4de57321924b1b91ba138ea45d46e27c0059be0a3d92f527"
+		}
+	]
+}

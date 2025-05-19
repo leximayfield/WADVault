@@ -1,0 +1,17 @@
+{
+	"uid": "edge (e82ae3).wad",
+	"name": "`EDGE of Insanity'- nearly driven to this completing",
+	"description": "Edge is an intense 6 map experience. Edge was designed for 2 player deathmatch only. Level speed during modem play has also been taken into consideration during construction on some levels especially - Openair.",
+	"version": "e82ae3",
+	"date": "2014-12-15 23:15:56",
+	"files": [
+		{
+			"filename": "edge.wad",
+			"size": 1303540,
+			"crc": 3708228847,
+			"md5": "eafb21fded3595d6fdbef072a4b42130",
+			"sha1": "e82ae31d3b84807d2606dde07ae52f6b296b5c92",
+			"sha256": "5c0c97f0b346a823f2a01bbb9be2bba217e0e31c4415564327339c7f92fce54c"
+		}
+	]
+}

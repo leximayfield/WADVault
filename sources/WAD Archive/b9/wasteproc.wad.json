@@ -1,0 +1,16 @@
+{
+	"uid": "wasteproc.wad",
+	"name": "Waste Processing (updated)",
+	"description": "A sort of E1-styled map. This was made for a number of things, but never got released, so I'm releasing it as a single map. It's not very new, and I had to tweak it a bit (it was way too hard), but I'm pretty happy with it. It's the first map in years I've fully completed. I've updated it by making it a bit harder. I added more enemies and two Barons of Hell at the end. NOTE: Please don't jump if you're using a port that has jumping. This level wasn't designed for it.",
+	"date": "2014-12-14 21:06:35",
+	"files": [
+		{
+			"filename": "wasteproc.wad",
+			"size": 148632,
+			"crc": 2288758110,
+			"md5": "a1eab046f23903eda65378d183a5e430",
+			"sha1": "b999513e7372dadb35ee4fbf5dc59c6530ff5120",
+			"sha256": "9e7eb136f971243109fe1f943b46649cc456cf663ebd8e8e913717e664e6232a"
+		}
+	]
+}

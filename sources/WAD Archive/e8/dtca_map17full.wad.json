@@ -1,0 +1,16 @@
+{
+	"uid": "dtca_map17full.wad",
+	"name": "DTCA - Map 17 - Military Operations",
+	"description": "Map 17 of The Cyberdemon Army takes place in a Military Base",
+	"date": "2014-12-22 18:50:29",
+	"files": [
+		{
+			"filename": "dtca_map17full.wad",
+			"size": 923337,
+			"crc": 3904321138,
+			"md5": "87db5a4d4c258e286ee1c4c864439ff2",
+			"sha1": "e8adc400a825c0857734078c08633b16a9c4a85c",
+			"sha256": "b8c16891013cfb2713652593fe35eabfe5a8bdd3bbeb067e807e05a55114f32a"
+		}
+	]
+}

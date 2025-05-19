@@ -1,0 +1,16 @@
+{
+	"uid": "AEODLite.pk3",
+	"name": "AEOD Lite",
+	"description": "Yet another AEODish mod, created from scratch, based on my tartarus 3 replacers, many original stuff. Features: -Over 40 new weapons, 140 new monsters, all well tested and balanced. -Monsters are faster and smarter, more unpredictable, many of them they also move like players(with acceleration). -Randomized enemy health. -Custom gore that based on other's work, very messy. -Hires sound fx and brightmaps included. -Gain gift points and trade them for random stuff. -Doom builder ready, all stuff are categorized. Please see readme for bestiary and credits.",
+	"date": "2014-12-21 16:27:46",
+	"files": [
+		{
+			"filename": "AEODLite.pk3",
+			"size": 54549079,
+			"crc": 263132835,
+			"md5": "8ff63442260daef411d6b05c999d083f",
+			"sha1": "b3dbabb7f341003d2cb07a6b4eddb0b7cc0bf79e",
+			"sha256": "d319ef8a3a8d629a45c703dedb486b1a5858e578135d5da2d5a293da1923afd1"
+		}
+	]
+}

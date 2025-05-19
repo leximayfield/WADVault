@@ -1,0 +1,16 @@
+{
+	"uid": "greentea.wad",
+	"name": "Green Tea Brick Factory",
+	"description": "There is green tea in a factory made of bricks. After several years of not doing any levels, I make a level!",
+	"date": "2014-12-14 23:10:00",
+	"files": [
+		{
+			"filename": "greentea.wad",
+			"size": 449740,
+			"crc": 856949368,
+			"md5": "c675ff7f6b0bb8c5ed2a536cdc6e2c2f",
+			"sha1": "bb9b92944d873d2a531546d1a9da0847e40e54dd",
+			"sha256": "69c2f4694f002b7d0fcc46504fa46b2f04a9629f78c936deeb45cb541d0ced8c"
+		}
+	]
+}

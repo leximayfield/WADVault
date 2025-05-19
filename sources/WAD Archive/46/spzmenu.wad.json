@@ -1,0 +1,16 @@
+{
+	"uid": "spzmenu.wad",
+	"name": "ZDoom menu demo",
+	"description": "This is just a small level in which I tested the menu system I made for ZDoom, for conversations or computer systems or shops or any other usage you can think of.",
+	"date": "2015-09-14 20:37:31",
+	"files": [
+		{
+			"filename": "spzmenu.wad",
+			"size": 1388377,
+			"crc": 133879795,
+			"md5": "66ae21cf42e053928be7a097f2d00786",
+			"sha1": "461d417131e249ddc72b531d8fc41ed649316107",
+			"sha256": "98a83d4a5c61080c75b6d0e371e9213ac429b2a727fb02f507570807230eab87"
+		}
+	]
+}

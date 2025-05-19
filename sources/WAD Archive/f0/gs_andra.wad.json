@@ -1,0 +1,16 @@
+{
+	"uid": "gs_andra.wad",
+	"name": "Andra Labs",
+	"description": "Small 3-minute level I made for training.",
+	"date": "2015-12-29 13:50:07",
+	"files": [
+		{
+			"filename": "gs_andra.wad",
+			"size": 270651,
+			"crc": 3171903442,
+			"md5": "32661fe21d9a61ab15e286a43fe3e72a",
+			"sha1": "f0cb161c4a3889348327ca1a28e219ae0b2f1026",
+			"sha256": "545030cada78c16375ede6f1d8f869c7fe91fd85dbb3d91b63619c5e630a9f06"
+		}
+	]
+}

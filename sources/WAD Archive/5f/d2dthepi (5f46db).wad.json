@@ -1,0 +1,17 @@
+{
+	"uid": "d2dthepi (5f46db).wad",
+	"name": "D2DTHEPI.WAD",
+	"description": "These are the best Deathmatch levels I and my friends have made over the last 2 years. It covers nearly all types of DM, fraggin Fragfests to sniper levels, there will be at least ONE you'll find amazing ! LOTS of fun guaranteed (thoroughly playtested) ! Features are: -23 selfmade deathmatch levels (8 DOOM 1 levels revised for DOOM 2, 22 unreleased) -30 musical scores, revised DOOM 1/2 music -2 new sfx (Heretic), 1 sfx differently arranged -3 new graphics (Sky textures and Intermission screen)",
+	"version": "5f46db",
+	"date": "2014-01-07 22:21:07",
+	"files": [
+		{
+			"filename": "d2dthepi.wad",
+			"size": 1823334,
+			"crc": 3165919330,
+			"md5": "411f0f0fb14e37cf0ca8b3f3e8a9ab60",
+			"sha1": "5f46db845be8cd58b652805a17f322bb42f083ee",
+			"sha256": "d8db228964c95371435192bfafe1d9dfa0a626994422351b2281a39164bc4e91"
+		}
+	]
+}

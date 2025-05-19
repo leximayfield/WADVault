@@ -1,0 +1,17 @@
+{
+	"uid": "dogtagst (4b5ebb).wad",
+	"name": "DogTag 3 for ST",
+	"description": "This wad takes DogTag3, a classic set of team-based multiplayer maps from 1996, and updates them to be compatible with Skulltag's self titled game mode. Seeing as how these are some of the original maps which inspired the Skulltag concept to begin with, I thought it would be fitting to make them more accessible and playable with a modern online source port. These play similarly to most Skulltag maps, with one interesting difference. Rather than simply grabbing the enemy team's skull from out of their base, two teammates must work together to get the enemy team's skull from their own base. One person must infiltrate the enemy base and flip a switch, which exposes the enemy skull back at their base for a few seconds, allowing the second person to grab it. Once they do that, the person with the skull has to make a run for the north side of the map where the score zone is. There's a field of lava surrounding the score area that only the person with the skull can enter, but other players have lots of room to try and take that person out from the ground nearby. Once the person scores successfully, they get teleported back to the main area to try and score again.",
+	"version": "4b5ebb",
+	"date": "2014-12-12 14:07:56",
+	"files": [
+		{
+			"filename": "dogtagst.wad",
+			"size": 1147660,
+			"crc": 1718808543,
+			"md5": "b341866969809aedf0dc2d3e3cd04636",
+			"sha1": "4b5ebb3b8e65ae73a40a238937fa6858b108517a",
+			"sha256": "1307ca5a4aee967800e021d5f4c38fa71e157644f0288c42ddfe854f01fa396b"
+		}
+	]
+}

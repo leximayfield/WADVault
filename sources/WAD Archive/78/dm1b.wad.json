@@ -1,0 +1,16 @@
+{
+	"uid": "dm1b.wad",
+	"name": "Deathmatch level 1b",
+	"description": "A simple but deadly DM level. This is an updated version of DM1B.WAD. I uploaded the original and the Doom2 version to Xoom; i'm uploading this version to FTP:FTP.CDROM.COM This version works with The Ultimate Doom, AND with Doom2. Now, as an improvement over the old Doom2 version, the music is replaced also when played in Doom2.",
+	"date": "2014-12-15 21:23:36",
+	"files": [
+		{
+			"filename": "dm1b.wad",
+			"size": 61920,
+			"crc": 3811190916,
+			"md5": "804ca439e1f792c7bb38a894e22ceb34",
+			"sha1": "78ab75b5bfdf4af5bb0d73a1e73dfb519d85c35f",
+			"sha256": "80df54bbca8e9b0dd979d8ae5f75a582b55e2386479a51126806345d8b89e4c9"
+		}
+	]
+}

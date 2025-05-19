@@ -1,0 +1,17 @@
+{
+	"uid": "fortknox (c280e1).wad",
+	"name": "FORT KNOX !",
+	"description": "Single player, mix of styles, secret 'fun' section",
+	"version": "c280e1",
+	"date": "2013-07-09 20:22:36",
+	"files": [
+		{
+			"filename": "fortknox.wad",
+			"size": 304610,
+			"crc": 1573894520,
+			"md5": "259c0202f4e5f30172473b4aedb62212",
+			"sha1": "c280e113a33841f6cbcac82f46feba97cfdae8ff",
+			"sha256": "863fe09af00da6c9954731f7d18c2734ff5b19893902e3e3987af323cf59aa27"
+		}
+	]
+}

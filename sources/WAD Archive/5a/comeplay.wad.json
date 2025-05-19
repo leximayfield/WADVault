@@ -1,0 +1,16 @@
+{
+	"uid": "comeplay.wad",
+	"name": "Comeplay",
+	"description": "Medium size level. Very playable wad built in the classic Doom style with attention to detail and design. Comments welcomed to Email address.",
+	"date": "2014-12-15 23:14:35",
+	"files": [
+		{
+			"filename": "comeplay.wad",
+			"size": 330865,
+			"crc": 718100552,
+			"md5": "5d87b8248d55e2776ff902135cbbd684",
+			"sha1": "5a245dbf8091afea6beea4e224609658f58f1cf4",
+			"sha256": "0791703c1d400647507e2c3fcf1ebc4b77e5e5a4e56f348d04fe81de58d007b7"
+		}
+	]
+}

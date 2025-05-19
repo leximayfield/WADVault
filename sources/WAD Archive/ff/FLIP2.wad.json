@@ -1,0 +1,16 @@
+{
+	"uid": "FLIP2.wad",
+	"name": "Flip 2: It's that time again",
+	"description": "The Sequel to Flip.",
+	"date": "2013-11-06 22:39:36",
+	"files": [
+		{
+			"filename": "FLIP2.wad",
+			"size": 56855,
+			"crc": 589463675,
+			"md5": "5724e3847c86d3b74ad520d1ff9af2bf",
+			"sha1": "ffc0ac9136ca67ae4c1196b0ed0831a624b23cb0",
+			"sha256": "cc133c5c79d1b74b2838cda26f2a97ce4bda2dc22bbabf299d75a3017f28a9e0"
+		}
+	]
+}

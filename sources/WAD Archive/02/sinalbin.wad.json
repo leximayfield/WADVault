@@ -1,0 +1,16 @@
+{
+	"uid": "sinalbin.wad",
+	"name": "Sinalbin.",
+	"description": "A single-player/cooperative map. Kind of that rocky\\ hell theme.",
+	"date": "2015-01-14 22:47:11",
+	"files": [
+		{
+			"filename": "sinalbin.wad",
+			"size": 291120,
+			"crc": 312857867,
+			"md5": "25e7f4684fe83be99df1da253b29425c",
+			"sha1": "02c9ea913a7cc0a36a6e4150095a236da1c6e044",
+			"sha256": "975c43ca3a52977b2cd6e78e3fb670fd988f705efac2b8990cb723ab0438a5db"
+		}
+	]
+}

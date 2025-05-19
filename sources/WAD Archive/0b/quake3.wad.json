@@ -1,0 +1,16 @@
+{
+	"uid": "quake3.wad",
+	"name": "DM Patch #1 (Inspired By Quake 3)",
+	"description": "A Simple wad I threw together for use in my deathmatching with a friend. It is based on Quake 3 Arena, another game we like to play.",
+	"date": "2013-04-22 00:10:17",
+	"files": [
+		{
+			"filename": "quake3.wad",
+			"size": 993240,
+			"crc": 3780741964,
+			"md5": "3868881de13408e3d91839d3548bb434",
+			"sha1": "0b9a5162d4e00ad24c8b362fb9baa494768b7230",
+			"sha256": "eca5e4f76f1685fa1d2af804cdef739d31d196bcfd692606752c12211ed03438"
+		}
+	]
+}

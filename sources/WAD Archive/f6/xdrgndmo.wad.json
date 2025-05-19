@@ -1,0 +1,16 @@
+{
+	"uid": "xdrgndmo.wad",
+	"name": "Dragon Lich Demo",
+	"description": "A demonstration of the Dragon Lich - A difficult enemy to use in a map.",
+	"date": "2014-12-31 12:04:19",
+	"files": [
+		{
+			"filename": "xdrgndmo.wad",
+			"size": 2651,
+			"crc": 4155956326,
+			"md5": "499409fa85951e5c0424e4df95fb0618",
+			"sha1": "f677a60001b1c721c9e1e55c4fdd84c2d9e279fc",
+			"sha256": "61dc564c1a7310822d896f8983209732001019e3b3074424051c66c7ecabc71a"
+		}
+	]
+}

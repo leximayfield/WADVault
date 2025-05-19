@@ -1,0 +1,16 @@
+{
+	"uid": "equilibr.wad",
+	"name": "\"Equilibrium\"",
+	"description": "My fourth weapon decorate mod. I wanted to realise old idea about \"monster's weapons\", but in some unusual way. Well, in this mod player can't have any weapon which his enemies don't have.",
+	"date": "2013-04-30 17:57:40",
+	"files": [
+		{
+			"filename": "equilibr.wad",
+			"size": 536141,
+			"crc": 3851626267,
+			"md5": "88e07bedffed0b7b85842667e4aba8ed",
+			"sha1": "f3eb949e4ce8b093ab065e0fa398b595f6984ec4",
+			"sha256": "910f7dced1c1078f3840d6498d2021f661b836e05bbcb072fc00f44a8ed9d3b2"
+		}
+	]
+}

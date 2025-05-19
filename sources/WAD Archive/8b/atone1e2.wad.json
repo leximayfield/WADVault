@@ -1,0 +1,16 @@
+{
+	"uid": "atone1e2.wad",
+	"name": "Atonement Episode 1 MARS + Episode 2 EARTH",
+	"description": "All maps were created by The Mysterious Moustachio a.k.a. Matthew D. a.k.a. Matt534Dog a.k.a. Matt534Doom (on ZDaemon) a.k.a. MDC a.k.a. myself. My goal in creating this wad was to develop and sharpen my senses as a level designer and Doom wad author. I aimed for an atmosphere akin to DOOM and DOOM II portrayed in an updated visual style; I was really trying to face my poor skills in wad compiling and texturing/detailing. I think I improved somewhat by the end of E1 + E2. All of the music was provided for this wad by Dial-up for Murder. cc4-tex.wad was used as a resource pack. I used GZDoom Builder (Bugfix) r3018, Doom Builder 2, SLADE 3.1.2, and paint.net 4.0.21 to create all of the maps, compile the wad, and create a large portion of the graphics. The status bar was created by galileo31dos01 using SlumpED v0.7 (for testing), Paint, Paint.net v4.0.21. Additional Credits are listed below. :)",
+	"date": "2018-10-01 16:03:09",
+	"files": [
+		{
+			"filename": "atone1e2.wad",
+			"size": 7964614,
+			"crc": 4207829502,
+			"md5": "9ec15ba9e211290f03b5460ca6595f42",
+			"sha1": "8b536a7b6f86672345fbcab652111c69c5fa548f",
+			"sha256": "cd432a5b3308270349aed3824cab0cf942d34ee2fc23ddc905de238dc3dbb060"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "megadeth (86f6a2).wad",
+	"name": "MEGADETH Version 2.2",
+	"description": "The ultimate deathmatch.",
+	"version": "86f6a2",
+	"date": "2014-12-03 20:20:54",
+	"files": [
+		{
+			"filename": "megadeth.wad",
+			"size": 240259,
+			"crc": 1550214364,
+			"md5": "34164fd65c28c3db7e5b2100981dab43",
+			"sha1": "86f6a2d733080629c7ad29a399518204408c6b6c",
+			"sha256": "b0e9d4c97a163c7ef30c834fe7c43f65acb987592fd35a55e96540b369c7bbb2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "watrworx.wad",
+	"name": "Waterworks",
+	"description": "Well, I liked the decor in the Abandoned Mines level of Doom II but it's too big for deathmatch. So, here's a much smaller version, perfect for 2-player. Nothing too special, just quite a few alterable bits. Primarily tests your long- range skills with bullet weapons.",
+	"date": "2014-12-15 22:58:43",
+	"files": [
+		{
+			"filename": "watrworx.wad",
+			"size": 58158,
+			"crc": 3008364451,
+			"md5": "e1bcebedd06dde433ab17d7f6530e8d8",
+			"sha1": "045db193aeb494b072b6e1dc5eadcc1d1bd1cfda",
+			"sha256": "9dca97244e13a7a8cb51beb361c9d87f3b4a6b28b3c8498a0b99b151bbb92540"
+		}
+	]
+}

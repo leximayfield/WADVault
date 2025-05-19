@@ -1,0 +1,17 @@
+{
+	"uid": "DMNSNTRY (5683f8).wad",
+	"name": "Demon Sentry",
+	"description": "Demons guard those elusive keys....as usual.",
+	"version": "5683f8",
+	"date": "2014-11-01 15:00:56",
+	"files": [
+		{
+			"filename": "DMNSNTRY.wad",
+			"size": 146735,
+			"crc": 365915711,
+			"md5": "cc0bf09051ddc91bd534079aea2b84ca",
+			"sha1": "5683f8d2f88e3ec93743a5819b1e3c265e70213f",
+			"sha256": "ebf1f8b8d274452f3c9528ec8429a54f09f2b6548e58a0c857b2cdbc8cd2c926"
+		}
+	]
+}

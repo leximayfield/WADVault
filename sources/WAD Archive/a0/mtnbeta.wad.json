@@ -1,0 +1,16 @@
+{
+	"uid": "mtnbeta.wad",
+	"name": "The Mountain of Doom v2.1, beta",
+	"description": "6 levels for Hexen, featuring Real 3D. See MNTBETA.DOC for more details.",
+	"date": "2014-12-31 12:00:33",
+	"files": [
+		{
+			"filename": "mtnbeta.wad",
+			"size": 1619553,
+			"crc": 1545826626,
+			"md5": "f0850d528d57e6c0e33a7a17644158fa",
+			"sha1": "a01fca26de45b98650ec11e97cb23320f4b0776b",
+			"sha256": "fdd74a8fd28cde80f50a08d1119e814bd5306832d7f3b6cb9b97d81557b57df8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "mdk_arms.wad",
+	"name": "MDK Armory",
+	"description": "MDK Armory is a dumb weapon pack inspired by the ZDoom console command/cheat \"mdk,\" which deals 10,000 damage to whatever you're pointing at. As such, every weapon deals 10,000 damage. It's a jokewad that will hopefully provide catharsis and might prove fun to anyone who wants to experience slaughterwads extremely casually.",
+	"date": "2019-03-06 21:45:04",
+	"files": [
+		{
+			"filename": "mdk_arms.wad",
+			"size": 611549,
+			"crc": 2077090861,
+			"md5": "15ba4450f0ae348dc8fb99386e876eb3",
+			"sha1": "fc6b43effc8b5901381f790fae906caa46944a36",
+			"sha256": "f93be3ac9a5f67b3313682ab18438b9b412548b70348029ad09f0d255290211c"
+		}
+	]
+}

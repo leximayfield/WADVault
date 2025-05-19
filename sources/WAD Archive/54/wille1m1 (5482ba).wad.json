@@ -1,0 +1,17 @@
+{
+	"uid": "wille1m1 (5482ba).wad",
+	"name": "WILLE1M1.WAD",
+	"description": "This is my first level! I intend to create a \"realistic\" set of levels where the player SLOWLY builds up a good arsonal (is in ID's original levels). This first level is relatively short.",
+	"version": "5482ba",
+	"date": "2013-11-02 15:14:55",
+	"files": [
+		{
+			"filename": "wille1m1.wad",
+			"size": 36297,
+			"crc": 56367208,
+			"md5": "a475daabc2824077f8b7adcd2de7a06a",
+			"sha1": "5482ba36543e8762dd1fad088328ab5b64a1ffde",
+			"sha256": "35e5bce66126480aedc5be0e3c39a9c7db26e9ce7766ad87c3c6607869d9ab22"
+		}
+	]
+}

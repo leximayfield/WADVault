@@ -1,0 +1,17 @@
+{
+	"uid": "stone (019e48).wad",
+	"name": "Stone Stratagems v1",
+	"description": "20 levels: Some short, some deadly, most with stone-like textures, and each with midis from Doom, Doom 2, Requiem, Momento Mori 2, etc. (Look under \"Level Information\" for more info)",
+	"version": "019e48",
+	"date": "2013-07-31 21:22:42",
+	"files": [
+		{
+			"filename": "stone.wad",
+			"size": 3465942,
+			"crc": 3208658369,
+			"md5": "b7285e4dceac051216e078c5466f9bd5",
+			"sha1": "019e48838d66ad3b207aee281cb9cbd0d69b41be",
+			"sha256": "bc352fb5165b6a927b590924b4ccf738aa5c9869b10e6212206cb08e501f3056"
+		}
+	]
+}

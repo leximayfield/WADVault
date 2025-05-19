@@ -1,0 +1,17 @@
+{
+	"uid": "ragectf (d0841d).wad",
+	"name": "Rage CTF",
+	"description": "19 furious CTF maps",
+	"version": "d0841d",
+	"date": "2014-11-16 18:07:09",
+	"files": [
+		{
+			"filename": "ragectf.wad",
+			"size": 27147611,
+			"crc": 4087632518,
+			"md5": "ff15d66531bc408d8ddc0fc609104e3f",
+			"sha1": "d0841df98012f2005ee20e3f34e845d5f13048b3",
+			"sha256": "83f50294b920677572021b6aadd742ad37d73903809fe669d1b6969b9964e100"
+		}
+	]
+}

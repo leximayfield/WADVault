@@ -1,0 +1,17 @@
+{
+	"uid": "MIKEPLC2 (bef0f4).wad",
+	"name": "Mike's Place",
+	"description": "No special theme, this is just for fun.",
+	"version": "bef0f4",
+	"date": "2014-01-04 11:55:47",
+	"files": [
+		{
+			"filename": "MIKEPLC2.wad",
+			"size": 42076,
+			"crc": 715501464,
+			"md5": "679fe0088e8fbe53a226a384df693e48",
+			"sha1": "bef0f428836d328dcbbe0d38ce4bbe51cd63a231",
+			"sha256": "f63f69eebdc166840d6532235ccb35179b49c1368a85caa12617b49ce530ff59"
+		}
+	]
+}

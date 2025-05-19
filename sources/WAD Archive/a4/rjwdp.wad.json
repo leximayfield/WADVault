@@ -1,0 +1,16 @@
+{
+	"uid": "rjwdp.wad",
+	"name": "Robot Junkyard Workshop's Doom Pack",
+	"description": "Something of a mini-episode, this .WAD is a collection of nine original Doom 2 levels designed for single-player and co-op play. (Sorry I didn't give this collection a cool name) Styles vary among base/subterranean/semi-hell themes, and I strived to keep a steady and consistent up-down, up-down pacing to the action and difficulty, including traps, secrets, and monster/item placement among (more or less) non-linear level layouts. Levels were authored sporadically over the course of 2011, to the end of December 2013, and touched up a little bit more before this release.",
+	"date": "2014-07-22 12:07:28",
+	"files": [
+		{
+			"filename": "rjwdp.wad",
+			"size": 1845619,
+			"crc": 1227611649,
+			"md5": "a59ea9a0076ded6739228eac8dfeaa4a",
+			"sha1": "a480607b5835d7fd9587d0113ea9e1030fb7b2dc",
+			"sha256": "58bffaabdc3456fa279a6aa962a4b1bf6553de51ae31ac1a05b8102f32af51be"
+		}
+	]
+}

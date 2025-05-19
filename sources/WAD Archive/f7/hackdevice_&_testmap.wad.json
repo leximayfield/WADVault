@@ -1,0 +1,16 @@
+{
+	"uid": "hackdevice_&_testmap.wad",
+	"name": "Hack Device & TestMap",
+	"description": "This mod contains a Hack Device which can open locked doors by a tricky way.",
+	"date": "2013-11-23 15:22:42",
+	"files": [
+		{
+			"filename": "hackdevice_&_testmap.wad",
+			"size": 167061,
+			"crc": 2496708570,
+			"md5": "a7dce17eca4bddfcac713df9c7c5cd22",
+			"sha1": "f783412f0086b0d8b3deed0e4af906a16472ca17",
+			"sha256": "6cbdaa96fd615529d5e768755f66f101552b3d9180809e376accbd1a5dc1e18c"
+		}
+	]
+}

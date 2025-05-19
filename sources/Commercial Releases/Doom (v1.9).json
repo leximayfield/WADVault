@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom (v1.9)",
+	"name": "Doom",
+	"description": "Final release for DOS",
+	"version": "v1.9",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"date": "1995-02-01",
+			"size": 11159840,
+			"crc": "723e60f9",
+			"md5": "1cd63c5ddff1bf8ce844237f580e9cf3",
+			"sha1": "7742089b4468a736cadb659a7deca3320fe6dcbd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "REFINERY (287255).wad",
+	"name": "Refinery",
+	"description": "A single Doom 2 level, for single player mode.",
+	"version": "287255",
+	"date": "2015-01-14 14:52:48",
+	"files": [
+		{
+			"filename": "REFINERY.wad",
+			"size": 94326,
+			"crc": 3247225846,
+			"md5": "2d9e601ba5b102ff7bcf666c1aca0e7d",
+			"sha1": "28725503be252de0d7ca849529192998d98a1e6f",
+			"sha256": "3679f1447e423860109a7fa8b09b697696ebe368d1d727a2e0c42b549998afe2"
+		}
+	]
+}

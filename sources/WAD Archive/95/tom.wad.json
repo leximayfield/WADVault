@@ -1,0 +1,16 @@
+{
+	"uid": "tom.wad",
+	"name": "Tower of Mutilation",
+	"description": "A Small Deathmatch-Level for Doom. I made it for Doom's 10th birthday!",
+	"date": "2014-12-13 12:44:53",
+	"files": [
+		{
+			"filename": "tom.wad",
+			"size": 77138,
+			"crc": 3726729135,
+			"md5": "42dce559b7606d2c116925efc805ca80",
+			"sha1": "95aa12bdd7ade448a5fb66b3cf94049414a0359e",
+			"sha256": "02beab3e06c611655a13498170950ce14f0712b4bee07eda2abdfd8efa5b6401"
+		}
+	]
+}

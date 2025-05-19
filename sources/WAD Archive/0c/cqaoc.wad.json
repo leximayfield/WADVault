@@ -1,0 +1,16 @@
+{
+	"uid": "cqaoc.wad",
+	"name": "Chex Quest - Assault on Chextropolis",
+	"description": "A single level for Chex Quest 3. This requires ZDoom/GZDoom in order to run, as well as Chex Quest 3(CHEX3.WAD), both of which are free. All voice acting by Stormwalker.",
+	"date": "2018-10-07 03:19:33",
+	"files": [
+		{
+			"filename": "cqaoc.wad",
+			"size": 3245933,
+			"crc": 3182660381,
+			"md5": "c1194f711d1f9feb110954ed61586e9e",
+			"sha1": "0cab72ee25af7302e20df79b06bd21dd653574e6",
+			"sha256": "4ee33cc0863128dd4c29b3f93b9922cbfd9b537058cef888dccfe338ccf29d36"
+		}
+	]
+}

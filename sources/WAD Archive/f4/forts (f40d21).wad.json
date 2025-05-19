@@ -1,0 +1,17 @@
+{
+	"uid": "forts (f40d21).wad",
+	"name": "FORTS.WAD",
+	"description": "The ultimate Deathmatch level, with two large fortresses to defend and/or raid. Contains only Shotguns, the chainsaw and a limited supply of rockets.",
+	"version": "f40d21",
+	"date": "2014-12-14 21:10:40",
+	"files": [
+		{
+			"filename": "forts.wad",
+			"size": 70046,
+			"crc": 1235870057,
+			"md5": "246069cb378da1caebce4e9a7bf84ccd",
+			"sha1": "f40d21c3a36dac1328ba3b6878c45ee7aea4c3de",
+			"sha256": "6c6c8507ec6e80185dcc7ece7dd0540cf76a48c4de5d781add856c8e823f6bf5"
+		}
+	]
+}

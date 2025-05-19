@@ -1,0 +1,17 @@
+{
+	"uid": "starwars (5170cc).wad",
+	"name": "The Ultiamte STARWARS DOOM.",
+	"description": "STAR WARS DOOM!!! Based on blueprints of sets built for the movie and as well as information contained in the SW RPG. These are four of Star Wars levels as well as new sounds and music and sprites to replace just about everything.",
+	"version": "5170cc",
+	"date": "2013-04-19 09:38:12",
+	"files": [
+		{
+			"filename": "starwars.wad",
+			"size": 3595360,
+			"crc": 1263320876,
+			"md5": "800910d0aebd0d01f9b84950a09a09d6",
+			"sha1": "5170cc3c2bebded86b0d2422e77430bdeeeebed3",
+			"sha256": "4e6c82e656398b6226a3aed667458d58da0c5e51a4f1b7958d22dcfcee922d1a"
+		}
+	]
+}

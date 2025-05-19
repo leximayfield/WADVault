@@ -1,0 +1,16 @@
+{
+	"uid": "humpmini.wad",
+	"name": "HUMP mini",
+	"description": "heretic upstart mapping project 2018, Made for Chocolate Heretic, zdoom or GZdoom (3.4.1)",
+	"date": "2018-08-20 14:11:01",
+	"files": [
+		{
+			"filename": "humpmini.wad",
+			"size": 4518739,
+			"crc": 1458331910,
+			"md5": "0635df90884deccf91b08f7c231f3fbb",
+			"sha1": "94b87123ae3fda090c1f6973c42bf5cbe7fa6b7e",
+			"sha256": "29a42a5c75e4eb429bb95401e9d47cddd00efe221590a6cd2059838c0719e519"
+		}
+	]
+}

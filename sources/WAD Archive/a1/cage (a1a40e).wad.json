@@ -1,0 +1,17 @@
+{
+	"uid": "cage (a1a40e).wad",
+	"name": "The Cage",
+	"description": "This wad has a main area with a raised platform called 'The Cage.' It has lots of goodies, but you are very exposed when you're in it. The only way out is through teleporters that are a little difficult to get to.",
+	"version": "a1a40e",
+	"date": "2014-08-30 14:32:21",
+	"files": [
+		{
+			"filename": "cage.wad",
+			"size": 57767,
+			"crc": 3957854390,
+			"md5": "7dccc7ea92e76308a494684787c74dd3",
+			"sha1": "a1a40ecf05a2d5640a201b6274392f89d34f1cb3",
+			"sha256": "dfc655335f4d5b85f6098e00e8293752297e1270959889ac45b851ff45d5e737"
+		}
+	]
+}

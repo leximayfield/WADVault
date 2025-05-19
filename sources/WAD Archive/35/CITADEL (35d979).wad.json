@@ -1,0 +1,17 @@
+{
+	"uid": "CITADEL (35d979).wad",
+	"name": "Citadel",
+	"description": "Long and complex wad in the classic castle scenario, with severe violence. You may have to look carefully to get in, not to mention get your feet wet. Save often and conserve health and ammo.",
+	"version": "35d979",
+	"date": "2013-11-02 15:41:18",
+	"files": [
+		{
+			"filename": "CITADEL.wad",
+			"size": 276617,
+			"crc": 4281193204,
+			"md5": "e97d541371dab69cab3e62f1157e26be",
+			"sha1": "35d9794e1c465cfbd8ceea6a73c96fa86a6d75fe",
+			"sha256": "d395d64950e5bf0318c61efc6d9b1da738633ceffa895f70048afb01dcd5fc5e"
+		}
+	]
+}

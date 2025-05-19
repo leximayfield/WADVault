@@ -1,0 +1,16 @@
+{
+	"uid": "SHOVELAD.wad",
+	"name": "Shovelware Adventure!",
+	"description": "Welcome to Shovelware Adventure! This is a 100% vanilla compatible wad & dehacked file for DOOM II. This map is full of bloody battle arenas and slimy passageways! There are many secrets to discover and several paths to reach the exit. This map was designed with a high quality but oldschool 90's style in mind, the little gems with quirky graphic edits that you find on those old discs among 1000 random wadfiles - hence the name Shovelware Adventure. It's meant to feel like a mini-episode despite being just one lone map. The objective is to pump rockets into the core and blow the place up! Difficulty settings have been thoroughly implemented, so if it's too hard on Ultra Violence, switch it to HMP or HNTR :) If you are playing in a ZDoom based port, there is no need to load the included .deh file - It is there for older/classic ports such as Chocolate Doom. Have fun!",
+	"date": "2016-12-29 23:21:46",
+	"files": [
+		{
+			"filename": "SHOVELAD.wad",
+			"size": 4827051,
+			"crc": 3748055242,
+			"md5": "56aa7961e50daa0b08676fe82bc9b2b5",
+			"sha1": "8b15d02e265dda26f59d3de7ebe094f582d47475",
+			"sha256": "14c0a8b79e0ba14243d80684a8ff82842d477a356f19600943f9ab96358c4c24"
+		}
+	]
+}

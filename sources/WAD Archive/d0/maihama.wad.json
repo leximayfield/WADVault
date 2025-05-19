@@ -1,0 +1,16 @@
+{
+	"uid": "maihama.wad",
+	"name": "Maihama",
+	"description": "One exploratory map made using exactly 1500 lines. I started it over 18 months ago for that Mayhem 2015 project but back then the process stalled after 500 lines. A few days ago I stumbled upon it in my TEMP folder (what, files can survive in there for so long?) and decided to complete it since I liked what I saw.",
+	"date": "2017-06-25 20:45:47",
+	"files": [
+		{
+			"filename": "maihama.wad",
+			"size": 417875,
+			"crc": 4223195634,
+			"md5": "43019aa1f9b9925f452725255a01f32a",
+			"sha1": "d0b1fb87a394e9d53031b034817be63009c8fd53",
+			"sha256": "9ac35af8abaf6fec5e673316c9da1268668e26d0ef470a4d88c8033af0ff4669"
+		}
+	]
+}

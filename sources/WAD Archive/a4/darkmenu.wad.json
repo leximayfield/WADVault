@@ -1,0 +1,16 @@
+{
+	"uid": "darkmenu.wad",
+	"name": "DARK MENU v1.1 - for The Darkening: Episode 2",
+	"description": "A graphics-only addon for The Darkening: Episode 2 - one of the most anticipated Doom releases of all time - because it was made by some of the most talented level designers in the Doom Community. You can get The Darkening Episode 2 from their homepage: http://www.doomworld.com/darkening",
+	"date": "2015-09-14 22:29:02",
+	"files": [
+		{
+			"filename": "darkmenu.wad",
+			"size": 807558,
+			"crc": 2803824560,
+			"md5": "fc7abfddea014d11d7dc35740ed5bafc",
+			"sha1": "a445ce35842016c34fbc1697bb8bb9c72137b154",
+			"sha256": "9adcb6b27c80e6dfb3b90ff1f71c11bbba0a1f42cd7f42127e61c1fe4bdb9dd6"
+		}
+	]
+}

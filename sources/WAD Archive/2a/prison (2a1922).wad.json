@@ -1,0 +1,17 @@
+{
+	"uid": "prison (2a1922).wad",
+	"name": "Hell's Prison for Deathmatch Junkies",
+	"description": "This is my first PWAD, so it is a little cluttered. It is designed for deathmatch only.",
+	"version": "2a1922",
+	"date": "2014-10-14 21:01:50",
+	"files": [
+		{
+			"filename": "prison.wad",
+			"size": 80807,
+			"crc": 377505365,
+			"md5": "51eac852dbdb4aec47a06a7854b0a7d7",
+			"sha1": "2a1922e64a298c06db8b9f976bdf5d15d5928e34",
+			"sha256": "124c8c8e49bebb10d80892b2141f24f015601b277ad0b1f41bad8330ad919e63"
+		}
+	]
+}

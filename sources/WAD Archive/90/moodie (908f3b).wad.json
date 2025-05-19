@@ -1,0 +1,17 @@
+{
+	"uid": "moodie (908f3b).wad",
+	"name": "MOODIE.WAD",
+	"description": "Serious DEATHMATCH WAD, for serious players!!!",
+	"version": "908f3b",
+	"date": "2014-12-03 19:57:40",
+	"files": [
+		{
+			"filename": "moodie.wad",
+			"size": 73099,
+			"crc": 1574730016,
+			"md5": "06ae1b6dce178f820c4a355b72a7fb20",
+			"sha1": "908f3b23f0277cff27c0dbcd10c71ec4a675ca2f",
+			"sha256": "52b133529460ec701b0384c3f031771cc01071a6342a1bd4b31b03320e1de370"
+		}
+	]
+}

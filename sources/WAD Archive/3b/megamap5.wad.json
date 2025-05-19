@@ -1,0 +1,16 @@
+{
+	"uid": "megamap5.wad",
+	"name": "MEGAMAP5.WAD",
+	"description": "A deathmatch wad based on a design found in MEGA.WAD map 5 (duh) or DWANGO5.WAD map 17. Also third in the NOCHEAP! series. It continues the \"bacta tank\" theme. More on that below...",
+	"date": "2014-12-15 22:43:35",
+	"files": [
+		{
+			"filename": "megamap5.wad",
+			"size": 156288,
+			"crc": 1082469427,
+			"md5": "ae94227a414724ecce7388f3e5095aa9",
+			"sha1": "3bc2ea55b550ddea5f583d64e8a4c775fb718442",
+			"sha256": "eb0e90491d19d0346ca565153e8d793bf3471c43da81d56a4075651cbf8111db"
+		}
+	]
+}

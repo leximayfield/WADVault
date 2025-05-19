@@ -1,0 +1,17 @@
+{
+	"uid": "lavapit (cc2028).wad",
+	"name": "LAVAPIT.WAD",
+	"description": "COOL Deathmatch with ALL weapons",
+	"version": "cc2028",
+	"date": "2015-12-07 13:20:13",
+	"files": [
+		{
+			"filename": "lavapit.wad",
+			"size": 29326,
+			"crc": 164896873,
+			"md5": "3ddecfd153eb6bad8b79defbacb99475",
+			"sha1": "cc20281c3be32b130b7425407f4356d7310904f4",
+			"sha256": "6f6b8d94019a2e8afa85a28fe084647a324d46eac6d855fa9b11e9975ca62570"
+		}
+	]
+}

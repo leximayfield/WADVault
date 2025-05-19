@@ -1,0 +1,16 @@
+{
+	"uid": "enemybfg.wad",
+	"name": "A lesson of ducking BFG9000!",
+	"description": "My first released product. A level with a Dehacked 3.0 patch that turns a monster into Green marines that Fires BFG9000 to you! This is a small level, with everything that you need to learn about ducking enemy's BFG9000! I also sometimes use this to practise it. see DUCK.TXT for more details. And the cheat codes I am not going to tell you... You will need DOOM ][ v1.7 to play Demos and Dehacked patches.",
+	"date": "2014-12-18 22:57:10",
+	"files": [
+		{
+			"filename": "enemybfg.wad",
+			"size": 36295,
+			"crc": 1764022216,
+			"md5": "1bc5ebec738fa24018a137111d315618",
+			"sha1": "f5da66423c623673d37eb74885607af4a4a7b5ba",
+			"sha256": "43956b16f6e4f92dd63bbd89c435f3d88e29a66193ca124112e37546fac47a5d"
+		}
+	]
+}

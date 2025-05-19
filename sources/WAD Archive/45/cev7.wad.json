@@ -1,0 +1,16 @@
+{
+	"uid": "cev7.wad",
+	"name": "CEv7",
+	"description": "Small map I made towards the beginning of 2016 in between THT maps. Makes heavy use of floor scrollers and other Boom effects to create dynamic traps that change a bit based on the player's actions.",
+	"date": "2018-04-14 13:34:13",
+	"files": [
+		{
+			"filename": "cev7.wad",
+			"size": 759085,
+			"crc": 3434876979,
+			"md5": "0cb201195dfbc7ae3cd7a7087c665a83",
+			"sha1": "45170ac4297d3e63cfde7eb76a0ded1b363ef963",
+			"sha256": "d43f69547d78522e170faab3edb5e8178c3de555b7992e1cf0a97b32d5e088e5"
+		}
+	]
+}

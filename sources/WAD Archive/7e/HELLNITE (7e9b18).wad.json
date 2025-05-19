@@ -1,0 +1,17 @@
+{
+	"uid": "HELLNITE (7e9b18).wad",
+	"name": "HellNite",
+	"description": "Pure Single Player DOOM2 level:",
+	"version": "7e9b18",
+	"date": "2014-12-18 22:19:16",
+	"files": [
+		{
+			"filename": "HELLNITE.wad",
+			"size": 51163,
+			"crc": 2079382838,
+			"md5": "6e7a2738751b2f312f856e1d36f28445",
+			"sha1": "7e9b18437b9757d15d60309613f536c85fc3370a",
+			"sha256": "b29d6a8d08c7673bf9ac00c41c0ef04261696c0da4c0b20e32a0244f3ba3cf69"
+		}
+	]
+}

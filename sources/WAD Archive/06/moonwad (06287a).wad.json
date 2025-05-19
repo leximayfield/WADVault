@@ -1,0 +1,17 @@
+{
+	"uid": "moonwad (06287a).wad",
+	"name": "MooN's Land",
+	"description": "This file was created in my spare time for fun.",
+	"version": "06287a",
+	"date": "2013-11-02 15:20:13",
+	"files": [
+		{
+			"filename": "moonwad.wad",
+			"size": 70754,
+			"crc": 3375122211,
+			"md5": "e8fea16b2f2e66cdfed00c723d8bbeeb",
+			"sha1": "06287a683272264c444a46cef8442518afefc3e8",
+			"sha256": "909fd41176040ae4b5bd576a53b8c1d46ef668ff06b6fbce766fb708ceb79cbe"
+		}
+	]
+}

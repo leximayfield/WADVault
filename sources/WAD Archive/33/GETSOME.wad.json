@@ -1,0 +1,16 @@
+{
+	"uid": "GETSOME.wad",
+	"name": "Get Some Frags!",
+	"description": "A Deathmatch level that features a big room in the middle with sniper windows and a rocket launcher in the middle. Snipers know when you try to get the rocket launcher because the lights turn on when you enter! Hurry because you're open to chaingun fire. When you leave the room the lights turn off to tell the snipers that you left the room. This level features an exit that requires cooperation to operate. One person flips a switch in the super-shotgun room. The switch lowers a platform in the room to the left of the room with the DOOR3 texture(at least one of you playing knows what DOOR3 looks like, right? That white, short door.). The other person walks over the platform and flips the exit switch. Play this, it's fun!",
+	"date": "2014-10-14 20:56:30",
+	"files": [
+		{
+			"filename": "GETSOME.wad",
+			"size": 27582,
+			"crc": 1456468340,
+			"md5": "c9b8800c82d586b37fea06b7504ef61b",
+			"sha1": "33d489ccaa84e23cd1e8f1530feb79880cb28f92",
+			"sha256": "ad1e4d5b05ad3d2c1961975e56cab5668b91bdd9f5a8f2f3599117eac9b20bcd"
+		}
+	]
+}

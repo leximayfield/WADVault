@@ -1,0 +1,16 @@
+{
+	"uid": "dethpost.wad",
+	"name": "outpost of death",
+	"description": "A single player/cooperative level with deathmatch starts...I don't think it would be good for dm, though. if you do play dm, remember the -nomonsters switch, or else your screwed.",
+	"date": "2014-12-18 22:55:39",
+	"files": [
+		{
+			"filename": "dethpost.wad",
+			"size": 90133,
+			"crc": 3968985478,
+			"md5": "954f48552c5df53f96cd15e4e3e6ec56",
+			"sha1": "5de652bf2a6f1085aeb5f50b653e3f0a4ff4e694",
+			"sha256": "cc9423a3652cf8984eff4fc8c945ae8c55598016e119d6a231c544dba4f28423"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wizardr2.wad",
+	"name": "\"Wizardry 2\"",
+	"description": "my new weapon mod based on previous \"Wizardry\", which is based on Harry Potter books and movies, in this mod you can use a wand and a number of well-known spells from HP",
+	"date": "2014-12-11 22:16:46",
+	"files": [
+		{
+			"filename": "wizardr2.wad",
+			"size": 2005626,
+			"crc": 729053860,
+			"md5": "5a8e8d207ee918b70a6a89ee504ae245",
+			"sha1": "a9984e659648e4e063c34a65ef65832b37a73650",
+			"sha256": "c2cf93d836b8172b46f96c85c67a33ddc5e22e415290cf26a1b4ab1e7cf155d2"
+		}
+	]
+}

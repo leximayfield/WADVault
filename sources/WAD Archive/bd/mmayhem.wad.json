@@ -1,0 +1,16 @@
+{
+	"uid": "mmayhem.wad",
+	"name": "Mall of Mayhem",
+	"description": "A re-release of the first of my *completed* abominations released to the public. The previous release had a bug in the yellow door. Was supposed to be a Halloween special, but I find election days MUCH more scarier -- Um, I mean black friday =)...",
+	"date": "2015-09-14 22:56:31",
+	"files": [
+		{
+			"filename": "mmayhem.wad",
+			"size": 4804816,
+			"crc": 1791620002,
+			"md5": "25e4ecbd07822116e5b7b4604bf4e2ad",
+			"sha1": "bdf9a2d0e24f5ee9d0363dc7c4c0408efc330330",
+			"sha256": "94d43ff6389277e4f8c5fb7f6e916fb809429f65cf3c2c9f4cf6aebc37fcb5ef"
+		}
+	]
+}

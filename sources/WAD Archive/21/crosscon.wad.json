@@ -1,0 +1,16 @@
+{
+	"uid": "crosscon.wad",
+	"name": "Cross Connection",
+	"description": "Made for DeathMatch with any number of players!",
+	"date": "2014-12-15 23:03:46",
+	"files": [
+		{
+			"filename": "crosscon.wad",
+			"size": 58427,
+			"crc": 2810101024,
+			"md5": "ab82ef9125e67cf7fb523ecd59778113",
+			"sha1": "21dd49492f17636ae573dcbe72e6af86f973c7ec",
+			"sha256": "c30bf3f1813eabb64ebc07ccca3ca38cacf10b060ef34d0d926b19e74b6b7edd"
+		}
+	]
+}

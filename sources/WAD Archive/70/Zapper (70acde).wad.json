@@ -1,0 +1,17 @@
+{
+	"uid": "Zapper (70acde).wad",
+	"name": "Zapper v1.0 (first public, anyway)",
+	"description": "Just a bunch of my favorite things all mashed together.",
+	"version": "70acde",
+	"date": "2014-12-10 20:42:59",
+	"files": [
+		{
+			"filename": "Zapper.wad",
+			"size": 1151740,
+			"crc": 1771892886,
+			"md5": "0261e19838e049f0ae393c37663433db",
+			"sha1": "70acdeacec6677e4bdf0a167fc4f4e01c0f583c6",
+			"sha256": "7f8b81a57f4be96cd95ed0ecc4fbb3559d678a2ee877a4806cbb09305037074f"
+		}
+	]
+}

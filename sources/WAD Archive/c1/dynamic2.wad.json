@@ -1,0 +1,16 @@
+{
+	"uid": "dynamic2.wad",
+	"name": "Dynamic Duel II",
+	"description": "A duel map with some Quake 3 fast gameplay and techdemo (sorta , I tryied to add polyobjets and use the zdoom 2.0 ACS but I failed at adding them ) for the 1.09 version of zdaemon Suggested Settings: Gametype: DM DMFLAGS: 283844 DMFLAGS2: 131072",
+	"date": "2013-04-21 00:49:14",
+	"files": [
+		{
+			"filename": "dynamic2.wad",
+			"size": 3845889,
+			"crc": 3334830916,
+			"md5": "99ae173929ef375c17b5d9a043ba386b",
+			"sha1": "c1ec2ea1a579f77b6507b6b75b5f4c2db936273d",
+			"sha256": "f37b3e87e2d91606494abe1417c02d0e0ba2e7bf2ce4a974c3a714eafadedd7a"
+		}
+	]
+}

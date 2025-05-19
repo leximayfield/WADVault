@@ -1,0 +1,17 @@
+{
+	"uid": "thearena (1eb89a).wad",
+	"name": "The Arena",
+	"description": "Simple DM level with a few surprises",
+	"version": "1eb89a",
+	"date": "2014-12-15 21:41:25",
+	"files": [
+		{
+			"filename": "thearena.wad",
+			"size": 60517,
+			"crc": 3817138317,
+			"md5": "9fd6476fb06744e7feb3e5aff13c04e0",
+			"sha1": "1eb89a519de005c2ba53b008e6cc3390bee21880",
+			"sha256": "9fa6ab2b5f3cfeb63ca15eae84ccef9c56e86857ea04e687d80ce7ded25eab3a"
+		}
+	]
+}

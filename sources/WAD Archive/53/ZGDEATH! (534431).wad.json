@@ -1,0 +1,17 @@
+{
+	"uid": "ZGDEATH! (534431).wad",
+	"name": "Green Goblin's Deathmatch Levels",
+	"description": "The first 8 levels of this wad were created by me with the intention of using them in deathmatch mode with my buddies. I did try to build them so that they can be played in single mode, but I may have missed a few weapon stashes or monster dens that should be toggled for multi-player only.",
+	"version": "534431",
+	"date": "2014-01-07 22:12:33",
+	"files": [
+		{
+			"filename": "ZGDEATH!.wad",
+			"size": 837358,
+			"crc": 2481299625,
+			"md5": "648511905e2e7d23cbb549c8f85b5669",
+			"sha1": "5344311f99f0b4d8f87ce1da1c8d21f557e5a754",
+			"sha256": "5bbac6de72e261b4125155a9547070c0d042930c8a9055a4e3448482989a4c1e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "warzone (655009).wad",
+	"name": "WarZone",
+	"description": "A medium-sized DMATCH level with two outdoor areas and plenty of windows. Lots of \"cover\" to avoid that rapid- fire. Fun to play with monsters if you got the guts!",
+	"version": "655009",
+	"date": "2014-10-14 20:57:24",
+	"files": [
+		{
+			"filename": "warzone.wad",
+			"size": 100522,
+			"crc": 1304734932,
+			"md5": "24c1d578939086303b9ddcac9552ef65",
+			"sha1": "65500938853e20429bfc9638bf28923b6dd2171e",
+			"sha256": "729d38cefc8cfa17e916948139ca7a2036d02f6de77fd298a2326815546844eb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "modrwb.wad",
+	"name": "Rifles with Bawls",
+	"description": "A weapons set by me that started out as experimenting with a few DEHACKED tricks, then evolved into something more. I call it \"Rifles with Bawls\" because there are about 5 rifle like weapons in it(like half the guns), and I replaced the health bonuses with Bawls bottles. I ripped and touched up the sprite myself, but I am too lazy to clean it up any further. :P",
+	"date": "2014-12-11 22:25:17",
+	"files": [
+		{
+			"filename": "modrwb.wad",
+			"size": 593528,
+			"crc": 3088201720,
+			"md5": "cf39fa1cbdb74ba8378a429225334f28",
+			"sha1": "7730997ef4d637022f6d375a93e8a29fd9ada89b",
+			"sha256": "1551b0de91ba0989545a022f2e1f8d272bc31e2819746b5a5aa6308fa4b6038b"
+		}
+	]
+}

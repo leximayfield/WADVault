@@ -1,0 +1,17 @@
+{
+	"uid": "cavern (6a3f4e).wad",
+	"name": "Cavern of Deathmatch",
+	"description": "Set in some small industrialized cavern of some sort, you find yourself always kept on your toes and looking out for your rivals. Really fun!",
+	"version": "6a3f4e",
+	"date": "2014-08-30 14:24:50",
+	"files": [
+		{
+			"filename": "cavern.wad",
+			"size": 58013,
+			"crc": 854721652,
+			"md5": "bddf119dba2024f48dd8b96627e0c02e",
+			"sha1": "6a3f4ecf1511cd83b1c01319a5d4eececa27ef38",
+			"sha256": "298b80f697bd0155a5901200034b94961108bef9bb8706025965a1cb06d31d5e"
+		}
+	]
+}

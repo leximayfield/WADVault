@@ -1,0 +1,17 @@
+{
+	"uid": "temple (087ea0).wad",
+	"name": "TEMPLE2.WAD",
+	"description": "TEMPLE OF DEATH",
+	"version": "087ea0",
+	"date": "2013-11-04 20:13:22",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 137850,
+			"crc": 2535535389,
+			"md5": "e2c7350d533c0242b52706ee2b84ceb8",
+			"sha1": "087ea0c29c5da7a8062113a3193765c8d7a48aa1",
+			"sha256": "9c37492aa2312c871fcc10b7ec0eab44763117e93497b716a1cfa8b971b8afe7"
+		}
+	]
+}

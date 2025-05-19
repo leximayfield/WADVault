@@ -1,0 +1,17 @@
+{
+	"uid": "splatter (560c57).wad",
+	"name": "Splatter Fest: The Realm of Complete Carnage",
+	"description": "Um... Deathmatch. Shoot to kill type thing.",
+	"version": "560c57",
+	"date": "2013-11-03 17:44:35",
+	"files": [
+		{
+			"filename": "splatter.wad",
+			"size": 79383,
+			"crc": 732041709,
+			"md5": "b38432d1de6987fc7c98f4ff9317f36a",
+			"sha1": "560c57b3093b63e58edc6072d19350097e79c192",
+			"sha256": "b11d52dea3bb6ac38815df725dcf0065248d263b7fdb4d80c898f62df60b64d4"
+		}
+	]
+}

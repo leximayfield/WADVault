@@ -1,0 +1,16 @@
+{
+	"uid": "menkui.wad",
+	"name": "Tayutayu",
+	"description": "You teleport to UAC base on some planet. I took the title from a hentai manga because I couldn't come up with anything.",
+	"date": "2014-12-13 17:37:41",
+	"files": [
+		{
+			"filename": "menkui.wad",
+			"size": 992214,
+			"crc": 526968559,
+			"md5": "b20dabab1cc8f08871a5634437ea892a",
+			"sha1": "1fa2aa7395fc5409686375bf4b9e454f2a6b0b0d",
+			"sha256": "8218e0b662d9c2e8c749fa1881f49d9cb29e1b94a64ae690b695316b907aaf95"
+		}
+	]
+}

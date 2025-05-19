@@ -1,0 +1,16 @@
+{
+	"uid": "basedm3.wad",
+	"name": "Base DM #3",
+	"description": "Base style deathmatch level. Small/medium size. This WAD won't work properly without BooM. Ok... It's an abandoned base that has taken partly over by flood after a hole appeared in dam. All skill levels have been included. They follow TeamTNT's good deathmatch rules. Shoot windows with bullets to break them. After you run through them, they will be back again.",
+	"date": "2013-07-26 17:28:39",
+	"files": [
+		{
+			"filename": "basedm3.wad",
+			"size": 597552,
+			"crc": 4111342297,
+			"md5": "7d77c8381a34c3aa89c629887a7ebb56",
+			"sha1": "c40bf25ee6b590eabe69ea490ee69aab26fdb780",
+			"sha256": "ce00ac177d74028d73bd0ec714e2ad797494c96d04e2af0c2451f434651c7000"
+		}
+	]
+}

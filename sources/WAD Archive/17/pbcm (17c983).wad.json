@@ -1,0 +1,17 @@
+{
+	"uid": "pbcm (17c983).wad",
+	"name": "Peanut Butter Cake Massacre",
+	"description": "Peanut Butter Cake Massacre is another sequel to Oreo Cake Massacre. This one has a lot of white, tan, and brown. Peanut butter is golden brown but I could not find a shawn texture that resembles that color so I had to use tan as a substitute. This level has some invisible items so you are going to have to do some hunting around for them.",
+	"version": "17c983",
+	"date": "2019-03-06 21:57:22",
+	"files": [
+		{
+			"filename": "pbcm.wad",
+			"size": 16959099,
+			"crc": 2310254042,
+			"md5": "215c00fcdbbd4da11391b2f4e1560278",
+			"sha1": "17c983436de7687fb26c2be5e23ea9abe62e048b",
+			"sha256": "119f6f9107e141792d3cbc22000312745b38dad8163d0e6f7642159585a29555"
+		}
+	]
+}

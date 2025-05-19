@@ -1,0 +1,17 @@
+{
+	"uid": "gulch (f4558d).wad",
+	"name": "Doom Gulch",
+	"description": "Short but challenging and playable.",
+	"version": "f4558d",
+	"date": "2013-11-02 15:40:44",
+	"files": [
+		{
+			"filename": "gulch.wad",
+			"size": 73222,
+			"crc": 4196397283,
+			"md5": "a45a49b39179ec33303e73cdb3098938",
+			"sha1": "f4558d899914b96925388bb38d1c856124e42253",
+			"sha256": "16266b952ef9f19f9ec78900e028c5683369584f95561d8cd1ddf84a0e7357ff"
+		}
+	]
+}

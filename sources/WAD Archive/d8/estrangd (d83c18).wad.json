@@ -1,0 +1,17 @@
+{
+	"uid": "estrangd (d83c18).wad",
+	"name": "Estranged",
+	"description": "Estranged is a 32 level megawad that uses stock Doom & Doom2 textures, I would describe the levels as cleanly detailed with a variety of environments. Levels are playable from pistol start.",
+	"version": "d83c18",
+	"date": "2015-12-29 14:21:30",
+	"files": [
+		{
+			"filename": "estrangd.wad",
+			"size": 14649445,
+			"crc": 3532121620,
+			"md5": "a0755e52b50fdec9adbdba86a7e627f7",
+			"sha1": "d83c18a0b162fd9be05a9c08e47712d6d7b65902",
+			"sha256": "903777a6e1549905ac1233a15356260906b8951029bf1c24bc3a255230438227"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "caleb (ceeec2).wad",
+	"name": "Caleb Skin for ZDOOM and Skulltag",
+	"description": "Priss.wad (Bubblegum Crisis DOOM/DOOM 2) Caleb from Blood and Blood 2: The Chosen, converted : To skin for use with ZDOOM and Skulltag.",
+	"version": "ceeec2",
+	"date": "2015-09-15 18:07:05",
+	"files": [
+		{
+			"filename": "caleb.wad",
+			"size": 350445,
+			"crc": 1213414705,
+			"md5": "ff6d68d3acebcb3343d31a271be02e94",
+			"sha1": "ceeec2ee99a0e4b479e3ce87218cf9421887dc94",
+			"sha256": "c9bf7ae3e4fea619e97503c7d8c8b552772b8a535fe55e0bfd95c6cff4698451"
+		}
+	]
+}

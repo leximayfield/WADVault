@@ -1,0 +1,16 @@
+{
+	"uid": "plutoned.wad",
+	"name": "Plutoned",
+	"description": "The idea was to make one map per day. The results weren't satisfying so I dropped it.",
+	"date": "2014-12-29 08:56:02",
+	"files": [
+		{
+			"filename": "plutoned.wad",
+			"size": 2790645,
+			"crc": 76355637,
+			"md5": "41c0a4ee2c9d3ace173b2fe139898949",
+			"sha1": "5ebf08d597b0e40c869b1cd4d740b6c1693d7029",
+			"sha256": "05e961c8b87ca0a9e552699c67ba9abe73892a439dcb0e40656a24a482596e18"
+		}
+	]
+}

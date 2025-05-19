@@ -1,0 +1,16 @@
+{
+	"uid": "AGONISM3.wad",
+	"name": "AGONISM3.WAD",
+	"description": "Very small deathmatch level with a cave motif. All weapons available except the BFG.",
+	"date": "2014-10-14 21:14:51",
+	"files": [
+		{
+			"filename": "AGONISM3.wad",
+			"size": 42408,
+			"crc": 436465210,
+			"md5": "7acddef5ee27839385cdc1e542af2c0f",
+			"sha1": "e817fb71940df97451803384adac873eb25e7cbb",
+			"sha256": "3e87582345598d31b69b2260df7c65c25b6951d9b47af7db51e767ac18af6710"
+		}
+	]
+}

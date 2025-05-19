@@ -1,0 +1,16 @@
+{
+	"uid": "dt-mssl.wad",
+	"name": "Shadow Warrior Missile Launcher",
+	"description": "The missile launcher from Shadow Warrior, a cool game by 3dRealms. It replaces Doom2's rocket launcher, with some artistic license from myself, as usual. Only fires in one mode (no heat or nuke). Also, a cool new explosion, also from SW. NOTE: These graphics and sounds were included with dtcog30, but weren't implemented.",
+	"date": "2014-12-10 22:45:55",
+	"files": [
+		{
+			"filename": "dt-mssl.wad",
+			"size": 142793,
+			"crc": 3058867247,
+			"md5": "75d0cffe98ea1135033f163ea0cb5893",
+			"sha1": "a5c455e3a149dfbcb7e647d79843dbb426b0d055",
+			"sha256": "7c82fb4216dfc37e16902df5bc0bb07bf84a53691d3500c59487497c3532ab97"
+		}
+	]
+}

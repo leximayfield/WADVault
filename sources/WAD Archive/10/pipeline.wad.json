@@ -1,0 +1,16 @@
+{
+	"uid": "pipeline.wad",
+	"name": "PIPELINE.WAD (version 1.0)",
+	"description": "PWAD replacing MAP01 for DOOM 2: Hell on Earth",
+	"date": "2013-11-04 20:10:58",
+	"files": [
+		{
+			"filename": "pipeline.wad",
+			"size": 65020,
+			"crc": 139316169,
+			"md5": "6b634f91f16542eec36bc635561bcb8a",
+			"sha1": "107f617ab55a6384fac7fdb3ba087d5bff874b3a",
+			"sha256": "69e946cce0bba4f70425b88750afeae3884ddcc43840a8647a46325fd5100cdc"
+		}
+	]
+}

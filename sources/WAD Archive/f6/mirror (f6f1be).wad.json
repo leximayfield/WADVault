@@ -1,0 +1,17 @@
+{
+	"uid": "mirror (f6f1be).wad",
+	"name": "The Mirror",
+	"description": "I named this level The Mirror because of the incessant HOM bugs I was getting. Fixing these bugs added 4 hours to the build time.",
+	"version": "f6f1be",
+	"date": "2014-11-01 14:58:53",
+	"files": [
+		{
+			"filename": "mirror.wad",
+			"size": 33710,
+			"crc": 3500885090,
+			"md5": "ec7fb25c52af718332892710ab0d0843",
+			"sha1": "f6f1be98caa2ddf21a01ab9aaa898ea3ef3f66c9",
+			"sha256": "d14796f720a10194b9936ab55b6806cb018451da94abb7069a24fc0c933b5d40"
+		}
+	]
+}

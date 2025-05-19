@@ -1,0 +1,16 @@
+{
+	"uid": "inubot.wad",
+	"name": "InuBot 1.11",
+	"description": "Bot based off my favorite anime character, InuYasha. Sounds added to the skin for this updated release. 1.11: Separate sound added for normal death. V1.1 death sound now the high death sound.",
+	"date": "2014-12-12 14:04:05",
+	"files": [
+		{
+			"filename": "inubot.wad",
+			"size": 35701,
+			"crc": 748350527,
+			"md5": "405f6637877013c94447e5ab6be114ad",
+			"sha1": "08b25e5a00e835077e9d61f0ca66369d7731aaf7",
+			"sha256": "a23139b11efbfec546881ceef5de8418720bd50f3fd49f425c1261d23b6f2730"
+		}
+	]
+}

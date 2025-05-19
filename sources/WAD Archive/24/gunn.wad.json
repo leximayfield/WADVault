@@ -1,0 +1,16 @@
+{
+	"uid": "gunn.wad",
+	"name": "GET YOUR GUNN",
+	"description": "Doom2 patch/wad that makes enemies harder, weapons better, and other stuff that's pretty cool.",
+	"date": "2015-09-14 20:03:59",
+	"files": [
+		{
+			"filename": "gunn.wad",
+			"size": 10394,
+			"crc": 834334919,
+			"md5": "ae6a14ee2788c5f4207a10a6c1ee2dbd",
+			"sha1": "24eda009c132bd9b56457a77d4fdc4cabdc8369e",
+			"sha256": "5d7b8f197e6d2694f25416247a8ac7062084f1503b90c539aa78603f77038dae"
+		}
+	]
+}

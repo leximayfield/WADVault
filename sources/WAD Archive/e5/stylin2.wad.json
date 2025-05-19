@@ -1,0 +1,16 @@
+{
+	"uid": "stylin2.wad",
+	"name": "Stylin' 2",
+	"description": "This is the sequel to MAP01-Style. It's (very) loosely based on MAP02. It works by itself, but it's cooler (IMHO) if you play them together.",
+	"date": "2014-12-29 16:50:59",
+	"files": [
+		{
+			"filename": "stylin2.wad",
+			"size": 170496,
+			"crc": 4050793256,
+			"md5": "825549f818f00d135d13f7c36558c204",
+			"sha1": "e51edd033e9b08a1cc05baed08257af4720b2a63",
+			"sha256": "a3e38c8edce6bd0cfa2eb8f73928e14458cbfa314bbb4355395b3d858d8b1a36"
+		}
+	]
+}

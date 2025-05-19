@@ -1,0 +1,16 @@
+{
+	"uid": "itcmdoom.wad",
+	"name": "ITCM DOOM",
+	"description": "A doom map hub based on the Instituto Tecnologico de Ciudad Madero. It's an outdoor/indoor map, with several short missions depending on the player's choice on where to explore and the objects found and collected. Single or multiplayer modes are selected from the New Game > Episode menu.",
+	"date": "2014-12-24 18:50:36",
+	"files": [
+		{
+			"filename": "itcmdoom.wad",
+			"size": 15027311,
+			"crc": 296673755,
+			"md5": "11855ad456ffa04e91b077f6aa66ea27",
+			"sha1": "098c36425e14beac5ddbf25184edc3e7ac780465",
+			"sha256": "edda0d2fdd5e3a57b382f5012ec09b3260b316ead7cf83d3f7637c0beaac6305"
+		}
+	]
+}

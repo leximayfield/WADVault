@@ -1,0 +1,16 @@
+{
+	"uid": "mortalb.wad",
+	"name": "Mortal base",
+	"description": "A futuristic map for doom 2 wiith non linear design. It's a bit hard but not much.",
+	"date": "2015-09-15 17:20:23",
+	"files": [
+		{
+			"filename": "mortalb.wad",
+			"size": 567195,
+			"crc": 420934210,
+			"md5": "bd14bbad6658f2b9f990b8c43a38a9fa",
+			"sha1": "5a6be57e7a0bd9b586216e29d21f59c99d161140",
+			"sha256": "913b07882d9bdb0de80f2f6360eb953a25190d3d48cf4802e07eaee490c4506d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "allwrong.wad",
+	"name": "Allwrong.wad",
+	"description": "this is just a deathmatch wad. i play it on altdeath, but im sure it would work without it....",
+	"date": "2014-12-15 22:35:48",
+	"files": [
+		{
+			"filename": "allwrong.wad",
+			"size": 17160,
+			"crc": 1329253613,
+			"md5": "0a82e3b3cd0bf6d0f256675efdced57f",
+			"sha1": "4ce6eebad1c73fc86c7d863ca91eebe2d699535a",
+			"sha256": "4d0294d27577b3da467757ddf3e6df9f97f2b065da3ddb8f0149b76c83983419"
+		}
+	]
+}

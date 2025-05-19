@@ -1,0 +1,16 @@
+{
+	"uid": "duelkeep.wad",
+	"name": "Dueling Keeps",
+	"description": "The idea for this map comes from Q3CTF1, but I made it the way I prefer to see it for Doom. The fog is my own design using existing legacy features.",
+	"date": "2014-12-15 22:27:31",
+	"files": [
+		{
+			"filename": "duelkeep.wad",
+			"size": 516684,
+			"crc": 786982643,
+			"md5": "3aa52c2074be0b2f44543ff1496d2851",
+			"sha1": "2418eb9dc027f5ce2386a341d37d6b46fa938290",
+			"sha256": "629b7786da56c5d9a8c91b95652ec63b738ba0dd4fbb87cacf31615fff10b217"
+		}
+	]
+}

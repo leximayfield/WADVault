@@ -1,0 +1,17 @@
+{
+	"uid": "CORN (b70c52).wad",
+	"name": "Labyrunth",
+	"description": "This is my first wad. So many improvements will be made in the future.",
+	"version": "b70c52",
+	"date": "2013-11-02 16:01:43",
+	"files": [
+		{
+			"filename": "CORN.wad",
+			"size": 193729,
+			"crc": 1226127608,
+			"md5": "300d0d0ff94891d95f934c95a8ff0fea",
+			"sha1": "b70c52e06f3d851c554aa3066179c656a7e05e6e",
+			"sha256": "622952f89a51738f936a7e32d821389a3b697bd210563fec915d6440f549090e"
+		}
+	]
+}

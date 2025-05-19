@@ -1,0 +1,17 @@
+{
+	"uid": "wheel (779f68).wad",
+	"name": "Wheel",
+	"description": "This level is not exactly made for deathmatch, due to its size, but you can play that way if you want.",
+	"version": "779f68",
+	"date": "2013-11-02 16:47:10",
+	"files": [
+		{
+			"filename": "wheel.wad",
+			"size": 158825,
+			"crc": 2133584712,
+			"md5": "16c0bad2148a58b22465148a67d5aa91",
+			"sha1": "779f684a2a4dea69e9d2c8138cff7c419268da33",
+			"sha256": "87900dbfe9db5f837951f8b47c6d05d09a9e12b66881f66ff156bb1410fc28d3"
+		}
+	]
+}

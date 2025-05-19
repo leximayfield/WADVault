@@ -1,0 +1,17 @@
+{
+	"uid": "THEATRE (e7fb4c).wad",
+	"name": "Theatre of Doom",
+	"description": "All your buddies have gone to the movies and they've taken all the heavy weaponry with them! This level is designed as your average modern day movie theater, with a few twists. Run through your local cinema blasting all those annoying patrons in your way, demanding that they decrease the popcorn prices. Your buddies are in there, dead or alive. Can you find them and the weapons they brought with them? Good luck!",
+	"version": "e7fb4c",
+	"date": "2013-11-02 15:26:35",
+	"files": [
+		{
+			"filename": "THEATRE.wad",
+			"size": 266743,
+			"crc": 3992723645,
+			"md5": "a113a560633857d292dcecab5b9c2fc9",
+			"sha1": "e7fb4c1933bb578d75bf4d143f549e8fc84ddce9",
+			"sha256": "d25e6e862a3747c7023124ecbefb647b8dcf8e3a7140cf111cdfe8364a028b34"
+		}
+	]
+}

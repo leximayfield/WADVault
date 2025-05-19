@@ -1,0 +1,17 @@
+{
+	"uid": "ascent (9a0c24).wad",
+	"name": "HERETIC: Ascent From The Depths",
+	"description": "A large level with intense combat and sinister puzzles. Secret doors are shown on the automap and visual clues provided. You get the Mace weapon near the beginning (always a plus!). All weapons are included. The crossbow is attainable if you use the Wings of Wrath efficiently.",
+	"version": "9a0c24",
+	"date": "2014-12-30 11:32:34",
+	"files": [
+		{
+			"filename": "ascent.wad",
+			"size": 187715,
+			"crc": 1411587527,
+			"md5": "ffd7ba3f6ef99e6f153dffe62af715e2",
+			"sha1": "9a0c24ef5e727c9850100fe8ecbd5cba7d6a3f4c",
+			"sha256": "37993599f1edaf9ff6cc7991fc08b667cbbd771ab4c4cf2322e0cfbbbd4d2bd1"
+		}
+	]
+}

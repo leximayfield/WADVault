@@ -1,0 +1,16 @@
+{
+	"uid": "BIJOU.wad",
+	"name": "Bijou Doom",
+	"description": "Bijou Doom is a little mapping exercise/project where I basically recreated the",
+	"date": "2017-08-21 22:59:26",
+	"files": [
+		{
+			"filename": "BIJOU.wad",
+			"size": 411765,
+			"crc": 832323140,
+			"md5": "c29e811b8af5c1f579716cb17e16d95c",
+			"sha1": "af4cad36e798a908da3344313eedc9928e2be2b3",
+			"sha256": "0eb5c597d8e8e025d5db2b010ce3c48aa642daf53baf48a0ba21e96e189c077b"
+		}
+	]
+}

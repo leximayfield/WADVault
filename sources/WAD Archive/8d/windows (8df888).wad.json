@@ -1,0 +1,17 @@
+{
+	"uid": "windows (8df888).wad",
+	"name": "Windows (A view to a kill :) )",
+	"description": "Another octagon-shaped pwad for Doom2. Designed mainly for deathmatch but playable in solo and cooperative modes Have tested in solo and deathmatch, works well in both modes and should work great in a four person network match!",
+	"version": "8df888",
+	"date": "2013-11-02 15:43:13",
+	"files": [
+		{
+			"filename": "windows.wad",
+			"size": 78456,
+			"crc": 3262037724,
+			"md5": "2c36c07cc243719ff7470cba2459df16",
+			"sha1": "8df88835f7307bf3e4dbfa00d2ed0cae8d958662",
+			"sha256": "21fdceb2970061938adb67a3c14e0911b89f9689a4aa249b0afed44e7d230ecf"
+		}
+	]
+}

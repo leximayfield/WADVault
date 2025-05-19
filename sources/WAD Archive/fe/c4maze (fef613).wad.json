@@ -1,0 +1,17 @@
+{
+	"uid": "c4maze (fef613).wad",
+	"name": "C4MAZE",
+	"description": "Yet another deathmatch PWAD for doom2.",
+	"version": "fef613",
+	"date": "2013-11-06 22:38:41",
+	"files": [
+		{
+			"filename": "c4maze.wad",
+			"size": 89925,
+			"crc": 2817306463,
+			"md5": "aecac543fee14f7a1f14d187e470cd51",
+			"sha1": "fef613b89de96208b4790c5d89a8a7f1dd701cf2",
+			"sha256": "4544cfa4e4ab22057adc9c7740415eecd19ace6bd3d82db0cc86d5b68c9bc9ed"
+		}
+	]
+}

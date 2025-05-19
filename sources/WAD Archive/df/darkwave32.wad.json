@@ -1,0 +1,16 @@
+{
+	"uid": "darkwave32.wad",
+	"name": "Darkwave32",
+	"description": "This is a map for Doom2.",
+	"date": "2018-05-28 19:50:54",
+	"files": [
+		{
+			"filename": "darkwave32.wad",
+			"size": 799178,
+			"crc": 1386575045,
+			"md5": "307278f805e35c7be191d5acc8b3ebe4",
+			"sha1": "dfe16d1c493530f95cf6534d344eeca9246d2951",
+			"sha256": "130b1fc9cf01093313c6179c8f1c8bbd892e7567bc4678df5db8edf7f52540b0"
+		}
+	]
+}

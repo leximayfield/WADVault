@@ -1,0 +1,16 @@
+{
+	"uid": "around.wad",
+	"name": "Around",
+	"description": "This was my first attempt at a Death Match only wad. The overall design is basically a small central arena with interconnecting hallways surrounding it. It also features transparent walls, teleporters, including one in the center of the arena that has multiple landings, and all of the weapons. My main emphases was to make it fast paced and fun! Although some might find the weapons placement unbalancing, I believe, due to the levels small size, it is fairly even.",
+	"date": "2014-12-15 21:23:11",
+	"files": [
+		{
+			"filename": "around.wad",
+			"size": 28346,
+			"crc": 3945973550,
+			"md5": "5a4dd9f79e649c78b3e49a0c25e2eda7",
+			"sha1": "35c15c4e9c3334a800b4bf0ab988057914e38ae7",
+			"sha256": "74dbaadee8ffdaf7f8fcd884bf3e5c4838c62234d1449ddf467cd14f853c4811"
+		}
+	]
+}

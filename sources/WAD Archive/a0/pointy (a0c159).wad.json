@@ -1,0 +1,17 @@
+{
+	"uid": "pointy (a0c159).wad",
+	"name": "CAVLAB11.WAD",
+	"description": "My first WAD. Designed for single player mode with some nice surprises in it. Up until you get the red key it has a strange resemblance to where I work. In fact that Baron seems to be in my bosses office ;)",
+	"version": "a0c159",
+	"date": "2013-11-02 15:58:02",
+	"files": [
+		{
+			"filename": "pointy.wad",
+			"size": 77232,
+			"crc": 1955055039,
+			"md5": "7f13c5e6844b96631bd11c2a3f4c4c5c",
+			"sha1": "a0c15930d8ab7a24095e770d93edffe6dd0f5599",
+			"sha256": "a0993a6d6db666814013e1330cd873ead3f6e901edec2a73b6f9214878c2c75a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellkeep (9779d0).wad",
+	"name": "Hell Keep II",
+	"description": "An E3M1 replacement for Freedoom (http://freedoom.sourceforge.net/)",
+	"version": "9779d0",
+	"date": "2014-12-13 17:46:23",
+	"files": [
+		{
+			"filename": "hellkeep.wad",
+			"size": 54237,
+			"crc": 865946147,
+			"md5": "ae2962d55d158d0403493848d01ca018",
+			"sha1": "9779d0b855d1b6fc6527520575d00b4083680a5d",
+			"sha256": "a37c153c47b571c5e938b37ae91efea0f25f3e22f57a0734b85c266d55babdb6"
+		}
+	]
+}

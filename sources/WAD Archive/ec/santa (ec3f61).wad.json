@@ -1,0 +1,17 @@
+{
+	"uid": "santa (ec3f61).wad",
+	"name": "Santas Workshop",
+	"description": "Deathmatchwad for 2 killers.Of course it is great to be more killers but it is made for 2",
+	"version": "ec3f61",
+	"date": "2014-12-15 22:02:02",
+	"files": [
+		{
+			"filename": "santa.wad",
+			"size": 195376,
+			"crc": 3044445769,
+			"md5": "65d465758cc59ca46514a12657cd8a6e",
+			"sha1": "ec3f616a0b40a3ad3c90714f0bdfc0e08fb1b481",
+			"sha256": "3a4fe9651ba97614407e5b0ab14c1ed68830373fb5fdb4668d0dd8482ad26674"
+		}
+	]
+}

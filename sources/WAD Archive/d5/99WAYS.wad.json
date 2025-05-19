@@ -1,0 +1,16 @@
+{
+	"uid": "99WAYS.wad",
+	"name": "\"99 Ways to Die\"",
+	"description": "3 level WAD set in a castle environment. Excessive attention given to the appearence of the levels (texture selection, alignment, lighting, etc...), but game play does not suffer (some great battle areas!).",
+	"date": "2013-11-09 21:33:30",
+	"files": [
+		{
+			"filename": "99WAYS.wad",
+			"size": 658178,
+			"crc": 449793311,
+			"md5": "986b4ef1813bda9faad569de041fd0a2",
+			"sha1": "d540ae0b8e76c2af6535c910b4b541f26cfbe686",
+			"sha256": "55602b0871155ae544584e03dfddaae075abae83c03ae599746b6e5f4f2fcaa0"
+		}
+	]
+}

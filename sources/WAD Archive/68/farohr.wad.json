@@ -1,0 +1,16 @@
+{
+	"uid": "farohr.wad",
+	"name": "From a Hideous Road of Corpses and Misery to",
+	"description": ") --------------------------------------------------NOTE: THE LEVEL OF DARKNESS IN THE MAP CAN VARY A BIT DEPENDING ON YOUR MONITOR AND SOURCE PORT. IF YOU ARE HAVING TROUBLE SEEING THEN FEEL FREE TO ADJUST THE BRIGHTNESS LEVELS IN THE OPTIONS/SETTINGS OF WHATEVER SOURCE PORT YOU ARE USING. -------------------------------------------------- After many many months of working on this on and off this is finally done! My aim was to create a really dark level that emulates the scary theme of PSX Doom and Doom 3. The map uses new tech textures and the PSX Doom sounds, as well as a sound track from Doom 64 (yes I know the file size is large but since this is suppose to be worth a full hour (at least) of gameplay and is really important for creating the atmosphere I want to create I think its worth it) The map is for Zdoom based ports, and it uses Zdoom features such as slopes and colored lights. ----------------------------------------------- The story so far...... Your a elite former soldier and a gun for hire. Something has gone terribly wrong (for the tenth billionth time) at a secret research base on the North-Pole that belongs to the Gionetics corporation, the UAC's biggest competitor. After begin contacted by Gionetics, they convince you take care of their mess since they don't want the general public to find out about the disaster. In return for a big fat paycheck, you arrive on there secret base of operations in Canada to prepare for your mission. They brief you about the situation and tell you that they were experimenting with stolen UAC technology in an attempt to perfect the teleportation technology for there own purposes only to repeat the mistake made by the UAC on Mars all of those years ago. Because of the North-pole's remote location, the demons have not yet been able to find a way to leave the base area and thus Earth is save for the moment. But their numbers continue to grow and if they aren't stopped soon then all of Earth will be in grave danger........ You paradrop down and land right outside the base entrance, you open the entrance door and enter the base.........there is no turning back now. ----------------------------------------------",
+	"date": "2014-12-22 18:50:02",
+	"files": [
+		{
+			"filename": "farohr.wad",
+			"size": 19709582,
+			"crc": 3813530562,
+			"md5": "319918c0b238ffda2fcee359ba6d9ddf",
+			"sha1": "68f81993fe4fa8c135c1ffd8e7de962b947b1153",
+			"sha256": "c22511dcfc747889124b417cf5eca6c14d63445f600c82ae89b06837beee946c"
+		}
+	]
+}

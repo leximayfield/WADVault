@@ -1,0 +1,16 @@
+{
+	"uid": "bongofur.wad",
+	"name": "BongoFur.WAD for Hexen",
+	"description": "Bongo Fury!",
+	"date": "2014-12-31 12:14:47",
+	"files": [
+		{
+			"filename": "bongofur.wad",
+			"size": 255954,
+			"crc": 2670954743,
+			"md5": "3842029dd4edc6f5375e33157e3aaee2",
+			"sha1": "564a48bf7143fbe8b531859abe537f65e2b3b1d0",
+			"sha256": "7c595aa7f8bfed2bf6a942a1c627d68215ad5b753d0f00a02842479549f77bb1"
+		}
+	]
+}

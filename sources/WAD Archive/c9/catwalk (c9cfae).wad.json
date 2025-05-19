@@ -1,0 +1,17 @@
+{
+	"uid": "catwalk (c9cfae).wad",
+	"name": "The Crush",
+	"description": "A fast-paced deathmatch level for Doom ][ with plenty of ways to nail your buddies. Last one through the \"catwalk\" is toast, so be a man and run like hell. There are some secrets in this level so look out for them.",
+	"version": "c9cfae",
+	"date": "2013-11-04 19:20:49",
+	"files": [
+		{
+			"filename": "catwalk.wad",
+			"size": 527337,
+			"crc": 4162311387,
+			"md5": "21cfcc4e9e468db0ed1449bf01609f0a",
+			"sha1": "c9cfaec3b897d2e092481adb6e71e2ad236f7390",
+			"sha256": "5959c929f0b623d7b157c67ecf0cbba256466d8209c0c7999265365e5f000fef"
+		}
+	]
+}

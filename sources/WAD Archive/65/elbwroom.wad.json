@@ -1,0 +1,16 @@
+{
+	"uid": "elbwroom.wad",
+	"name": "The Elbow Room",
+	"description": "You like a little extra space to operate? This one's got it! Nothing complex, just a great Deathmatch arena. (A couple of monsters tossed in for you single players)",
+	"date": "2014-01-07 21:52:04",
+	"files": [
+		{
+			"filename": "elbwroom.wad",
+			"size": 57722,
+			"crc": 2078019369,
+			"md5": "a735bba24b886fb343335e775335bb1e",
+			"sha1": "6525df831e6a9cfc066fe23f04f60b76701732b8",
+			"sha256": "58548a309a2828bb4da1b51efb07078f596849a3361b8916b4f311dbbfb2ba29"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "lkdethv1 (6000ba).wad",
+	"name": "lkdethv1.zip (lake death)",
+	"description": "A rather large pwad file that features a large lake with some nasty surprises. (WATCH YOUR BACK!!) There are no areas with 10 cyberdaemons, etc. and there is no weapon more powerful than the rocket launcher.",
+	"version": "6000ba",
+	"date": "2015-12-07 07:41:38",
+	"files": [
+		{
+			"filename": "lkdethv1.wad",
+			"size": 122235,
+			"crc": 3401752854,
+			"md5": "c5de18c4de18e504ee12fa86f167ea1f",
+			"sha1": "6000ba41d3f752abb31ec5a5f7d00902ef9944a1",
+			"sha256": "e680601063893c40b9eb356e35a26c433fe05c8a2aa4b3c88086900c7fb8d2e3"
+		}
+	]
+}

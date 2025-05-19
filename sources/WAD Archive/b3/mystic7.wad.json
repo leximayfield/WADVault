@@ -1,0 +1,16 @@
+{
+	"uid": "mystic7.wad",
+	"name": "M Y S T I C 7",
+	"description": "Small to medium sized for Single Player, but can be fun in deathmatch. Trippy sci-fi looking level with 3D floors and some zero gravity areas. (use the jump key)",
+	"date": "2015-01-13 21:20:39",
+	"files": [
+		{
+			"filename": "mystic7.wad",
+			"size": 698252,
+			"crc": 3302644254,
+			"md5": "9420591a645ea72196dd68d2ca29e4b0",
+			"sha1": "b30dff66464db1154eb208fc15144c37478617e6",
+			"sha256": "52ccdff2739ad771d90e53996eb906c674b04a9cd3bcd66f81d42a5f5594d5b8"
+		}
+	]
+}

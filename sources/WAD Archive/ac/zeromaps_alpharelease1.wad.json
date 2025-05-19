@@ -1,0 +1,16 @@
+{
+	"uid": "zeromaps_alpharelease1.wad",
+	"name": "Zero's Custom Maps Alpha Release 1 (v1.0A)",
+	"description": "A WAD that contains (By now) four maps and a TITLEPIC lump. The maps are linked. It haves a short history. Its a Alpha release, so it can contain bugs. Later, I'll add more maps, but by now I release these four completed only.",
+	"date": "2013-04-20 17:42:31",
+	"files": [
+		{
+			"filename": "zeromaps_alpharelease1.wad",
+			"size": 2284840,
+			"crc": 1792484168,
+			"md5": "ef051cb2bfd45e7db85d25a25bd5eda6",
+			"sha1": "ac086765a55f7b1e42f56278e09c9f2532246bec",
+			"sha256": "01fdee53b721f1d78dcad6f5279671daaa748e70d8aeec72ed010e180479a673"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "MARBLE1.wad",
+	"name": "Hall of Marble 1.1",
+	"description": "Mostly a single player or cooperative level, but can also make a good deathmatch. I have spent most of the time trying to make it look good rather than make it difficult to complete, but don't expect it to be to easy ;-).",
+	"date": "2014-08-30 14:28:40",
+	"files": [
+		{
+			"filename": "MARBLE1.wad",
+			"size": 310064,
+			"crc": 3962918224,
+			"md5": "19cec1bfd03704dba1566d19100c3bb7",
+			"sha1": "d0581a414c2f9decd5a48553011d64017bb445d5",
+			"sha256": "a57ac14f7dba2b5d57a9cf31b224a30252c75575e535816ffc5b2237b46668d1"
+		}
+	]
+}

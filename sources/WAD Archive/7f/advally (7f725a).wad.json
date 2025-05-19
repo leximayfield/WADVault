@@ -1,0 +1,17 @@
+{
+	"uid": "advally (7f725a).wad",
+	"name": "Advanced Allies",
+	"description": "I've seen a lot of allies doom wads out there but this one is unique, the allies are almost like bots: They can pickup objects, they can use differents weapons, they can stick close to you and much more. These bots are \"Vanilla Doom\" style so don't expect them to jump, duck or swiming.",
+	"version": "7f725a",
+	"date": "2015-09-15 18:09:01",
+	"files": [
+		{
+			"filename": "advally.wad",
+			"size": 84867,
+			"crc": 417514865,
+			"md5": "bce2e07a1b1a03bae3ccd098d25beab6",
+			"sha1": "7f725a7385964cfc55d6b5d8005ec0c6df57b4ae",
+			"sha256": "1291e058eb4eb2ebc6db03aa62247a21372d91cdc298ea1723ce40db90b123f2"
+		}
+	]
+}

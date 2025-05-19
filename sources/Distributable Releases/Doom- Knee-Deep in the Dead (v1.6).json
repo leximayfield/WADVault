@@ -1,0 +1,16 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom: Knee-Deep in the Dead (v1.6)",
+	"name": "Doom: Knee-Deep in the Dead",
+	"version": "v1.6",
+	"files": [
+		{
+			"filename": "DOOM1.WAD",
+			"date": "1994-08-03",
+			"size": 4211660,
+			"crc": "f26dcad8",
+			"md5": "762fd6d4b960d4b759730f01387a50a1",
+			"sha1": "1437fc1ac25a17d5b3cef4c9d2f74e40cae3d231"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "marswar.wad",
+	"name": "MARSWAR.WAD V2.0",
+	"description": "You are a Martian terraformer stuck in a small station in the middle of nowhere.",
+	"date": "2015-06-27 13:17:34",
+	"files": [
+		{
+			"filename": "marswar.wad",
+			"size": 6382195,
+			"crc": 886899192,
+			"md5": "0dc5b2af23fc630ff43246ea7142b07b",
+			"sha1": "1f6e75217925235857c8ae326f7295a4b293e417",
+			"sha256": "5ece4a03d4432cac676e4c018d78aab4bf02c00ed7be1914be5efc5182889974"
+		}
+	]
+}

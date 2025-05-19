@@ -1,0 +1,17 @@
+{
+	"uid": "h2hcze3b (d39a79).wad",
+	"name": "H2H Czech Series 1 (H2HCZEK1.WAD)",
+	"description": "This is a beta of the third part of Czech Series. At the beginning I intended to make a small arena, but it somehow got out of my hands. It means that if you want to play solo or co-op, you will not have too much fun. The only idea I had was altdeath.",
+	"version": "d39a79",
+	"date": "2014-12-15 22:02:34",
+	"files": [
+		{
+			"filename": "h2hcze3b.wad",
+			"size": 94720,
+			"crc": 2517686268,
+			"md5": "46ac98b169573a34c393812ce927eb3b",
+			"sha1": "d39a79ececebde46591639dec5aba57efc45acd8",
+			"sha256": "8d01abfb7dbc381be08079d8250ab3da40adcd5a976e1224c4cecefe91a432be"
+		}
+	]
+}

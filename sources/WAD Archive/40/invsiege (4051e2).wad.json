@@ -1,0 +1,17 @@
+{
+	"uid": "invsiege (4051e2).wad",
+	"name": "INVSIEGE.WAD [ A quick fix for you Invasion junkies out there. Stay tuned for the Invasion Deathmatch Trilogy coming out early next year...",
+	"description": "A spin-off from the Invasion Series...",
+	"version": "4051e2",
+	"date": "2016-02-07 20:38:26",
+	"files": [
+		{
+			"filename": "invsiege.wad",
+			"size": 161860,
+			"crc": 1616511251,
+			"md5": "49ed7f42d908f48564f224be14720687",
+			"sha1": "4051e2481a6fed3509546b367ffa8b6ba04fcc50",
+			"sha256": "f6113e994eaf438895a68237d555a1bf19ab712b3cad5d8c4d7adf41b9eeb260"
+		}
+	]
+}

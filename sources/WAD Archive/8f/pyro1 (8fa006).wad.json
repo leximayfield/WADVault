@@ -1,0 +1,17 @@
+{
+	"uid": "pyro1 (8fa006).wad",
+	"name": "Pyro's Revenge (For Doom II only!)",
+	"description": "This is a interesting level where I was testing out several concepts. Good luck on the last room! :)",
+	"version": "8fa006",
+	"date": "2016-02-07 20:26:12",
+	"files": [
+		{
+			"filename": "pyro1.wad",
+			"size": 79299,
+			"crc": 3543881235,
+			"md5": "685b84ff86b080345ecea89696fadc0c",
+			"sha1": "8fa006fdd472166290c6f95ebd83e6202c7658e2",
+			"sha256": "91c42955f3bfde6fa3b57ecb6b509a483eb9467fde9404ca97e1ac7b9ed5aa31"
+		}
+	]
+}

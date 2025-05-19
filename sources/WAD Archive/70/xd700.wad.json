@@ -1,0 +1,15 @@
+{
+	"uid": "xd700.wad",
+	"description": "Designed for Deathmatch (small, compact and no overflow of goodies). The size fits perfectly for 2 players. Use -altdeath (Deathmatch 2 rules). Single player is possible as well, but only in skill 5 (nightmare). Try to maximize the kills-percentage using the given ammunition (should be >1000% if you don't waste shells and cells as shown in my demo). There are only 6 monsters inside, but watch out. It's not as easy as it looks.",
+	"date": "2014-12-15 22:59:26",
+	"files": [
+		{
+			"filename": "xd700.wad",
+			"size": 188840,
+			"crc": 991809319,
+			"md5": "447d8e90a5810328fbbaf4dc6078a14b",
+			"sha1": "70124a40649356f4f6799349331efa4a4d77207b",
+			"sha256": "6c12cc94b4910ee00d1429c9c119fc7e2285a29a600897511bf6ebf3fd0f3a59"
+		}
+	]
+}

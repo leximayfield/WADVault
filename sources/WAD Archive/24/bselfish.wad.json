@@ -1,0 +1,16 @@
+{
+	"uid": "bselfish.wad",
+	"name": "Selfish Series (Boom Edition)",
+	"description": "The Boom edition of the Selfish Series. The levels are mostly unchanged but a few textures have been aligned and some slight enhancements have been made here and there to the gameplay and architecture. An all new original MIDI based soundtrack has now been included.",
+	"date": "2014-12-10 19:55:42",
+	"files": [
+		{
+			"filename": "bselfish.wad",
+			"size": 2261409,
+			"crc": 566391865,
+			"md5": "92515b634d8916d5545a7c15bf3f4108",
+			"sha1": "24955219759355fd8f049d63535a6fbd8b109be4",
+			"sha256": "f3ad90d579975771ab82f258ff998a1a436ad088da2d180f4be5ffec4fecbb69"
+		}
+	]
+}

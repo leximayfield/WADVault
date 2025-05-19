@@ -1,0 +1,16 @@
+{
+	"uid": "1024bldg.wad",
+	"name": "1024 x 1024 The Building",
+	"description": "Friend has challenged me to make 1024x1024 wad, and thus Doomguy has been sent to clear out an important building and retrieve some very important keycards!",
+	"date": "2015-09-14 19:50:44",
+	"files": [
+		{
+			"filename": "1024bldg.wad",
+			"size": 3122279,
+			"crc": 4195661594,
+			"md5": "c0bfc3e1e512d44fd07ba5403de69d09",
+			"sha1": "965e33267ef62095b088e900d4b1175611f64a25",
+			"sha256": "2233f0075b4aa5a3ac1582ec856230396d0aa33efeb748d6cb3789398687f202"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "wtf (54320f).wad",
+	"name": "What The F*ck!",
+	"description": "Just another couple of levels by me. nothin too fancy.it was supposed to be 1 level, but seeing as i put in a bunch of new weapons i tried to make more then one, but when i found out that i couldnt even get a multi map zdoom wad going i just kept it at 2 levels. map2 is structured like a dm level but it is also single player\\co-op. bfg takes 100 cells to operate, and there are never enough cells to work it more then once or twice but you do have a rail gun which is pretty powerful.",
+	"version": "54320f",
+	"date": "2014-12-29 16:42:18",
+	"files": [
+		{
+			"filename": "wtf.wad",
+			"size": 1215784,
+			"crc": 1418118319,
+			"md5": "6eda70bfa5ff77040f9bbbb0eebb683b",
+			"sha1": "54320f2ff62bbfd828513fc66cac10faba49e2c2",
+			"sha256": "19f6a3c8c8739a0969eae0865d3a1c79d13b3f286a0db78103c33963f7c0e0a6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "highfear.wad",
+	"name": "High Fear",
+	"description": "Single, Co-op, and Deathmatch level",
+	"date": "2014-12-18 23:07:45",
+	"files": [
+		{
+			"filename": "highfear.wad",
+			"size": 71828,
+			"crc": 3111780026,
+			"md5": "38cc7152eb7cb8ed724658bcdd2e7e43",
+			"sha1": "429aee9f076d59386f514d14cac8f0a7639f9a5a",
+			"sha256": "9db3c559fc6931b11fab57bfe221844c9e74cc53fe87e320fcbf98527b2ed185"
+		}
+	]
+}

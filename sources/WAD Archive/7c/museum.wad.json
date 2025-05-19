@@ -1,0 +1,16 @@
+{
+	"uid": "museum.wad",
+	"name": "Museum of Death",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2015-09-14 23:20:28",
+	"files": [
+		{
+			"filename": "museum.wad",
+			"size": 271560,
+			"crc": 2341917529,
+			"md5": "60cee1219f94985f7f093ebadd5eb853",
+			"sha1": "7c74d46b8dd3e5f4f01154152c37e4a9094bfb55",
+			"sha256": "2f95164645752b5929908b587dba841a265ad769a7aae60f193ad0fb522873c0"
+		}
+	]
+}

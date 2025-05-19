@@ -1,0 +1,17 @@
+{
+	"uid": "dumb (624f36).wad",
+	"name": "dumb.WAD",
+	"description": "It's you and Big Ed, the Cyberdemon. Alone. In one room. Can you do it?",
+	"version": "624f36",
+	"date": "2014-01-07 22:12:53",
+	"files": [
+		{
+			"filename": "dumb.wad",
+			"size": 4673,
+			"crc": 4029917931,
+			"md5": "2dca86602dd26ff7ecf10ae3a337852d",
+			"sha1": "624f3621f37be9f4f56fa22660f4d935fec51588",
+			"sha256": "070aa249cebd8ae562fb3617c31c7aaf31613a7e48c85a605cff9d4967a23e41"
+		}
+	]
+}

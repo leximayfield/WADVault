@@ -1,0 +1,16 @@
+{
+	"uid": "walkname.wad",
+	"name": "Walking In My Name",
+	"description": "My first doom level.It probably looks like shit for most people :)",
+	"date": "2015-01-14 22:44:44",
+	"files": [
+		{
+			"filename": "walkname.wad",
+			"size": 183331,
+			"crc": 357707771,
+			"md5": "96c16a0b0cc58d3491cb534cec9383ad",
+			"sha1": "fced01d13b8c57590737635fcc401cf6ca0e648f",
+			"sha256": "bc096b897a92a820c995a1439f28e59cb9fba2cd1ff9671f62e5ff5e5fa54a2a"
+		}
+	]
+}

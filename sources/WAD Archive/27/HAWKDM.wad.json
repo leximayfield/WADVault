@@ -1,0 +1,16 @@
+{
+	"uid": "HAWKDM.wad",
+	"name": "HawkEye's Deathmatch",
+	"description": "Small/medium sized Deathmatch level for Doom ][...",
+	"date": "2014-12-15 21:22:23",
+	"files": [
+		{
+			"filename": "HAWKDM.wad",
+			"size": 33460,
+			"crc": 3211626005,
+			"md5": "da4081862231fe520ddc5758e84727e2",
+			"sha1": "276fc759af15abc03f303474bc3d05a0b4e39471",
+			"sha256": "e095a3e9675bbab9da81d7aca62e5660404b67689752aedfdf173787c36ec5c8"
+		}
+	]
+}

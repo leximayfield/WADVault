@@ -1,0 +1,16 @@
+{
+	"uid": "pavledge.wad",
+	"name": "The Ledge",
+	"description": "You enter. Hardwood creaks beneath your boots as you step forward and gaze upon the Ledge. Your only peace here will be in death.",
+	"date": "2018-02-15 20:41:40",
+	"files": [
+		{
+			"filename": "pavledge.wad",
+			"size": 350811,
+			"crc": 2538383097,
+			"md5": "4173d622d01737c33c643e569c740f9d",
+			"sha1": "e1bcca7df33b6162564aaf61ea9d27356ab1a45f",
+			"sha256": "1bc72f70ec0d15eb89492128dd7c949f28ed001bf7d9e695671a2c35b0d4af7b"
+		}
+	]
+}

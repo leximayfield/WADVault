@@ -1,0 +1,16 @@
+{
+	"uid": "mbase.wad",
+	"name": "The Military Base",
+	"description": "This is a Military Base. As the name says, it's a technical place, such as the Doom shareware episode levels. All skill settings are there, so everyone can play! UV skill can be hard, but there's enough ammo to kill all monsters -- if you find it! The music is copied from Doom1 E1M3, because that's one of my favourites.",
+	"date": "2015-09-15 17:17:33",
+	"files": [
+		{
+			"filename": "mbase.wad",
+			"size": 405151,
+			"crc": 216043621,
+			"md5": "764f84bb01ee1de0e86ec5d8e15a4170",
+			"sha1": "4396cef4db35371ebbdb587386c8727bb4b7c188",
+			"sha256": "815456c20b5be9d7655362cb7db1e829f679baae2413cb530f0ef616e14ed917"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "moonlite (6d80fb).wad",
+	"name": "Moonlight Sonata",
+	"description": "This was originally a map for the Doom Republic Community Wad, but since the project has appeared to have died, I thought I'd release some of my work. I guess it's somewhat hard to beat, due to the absence of medikits.",
+	"version": "6d80fb",
+	"date": "2015-09-14 23:00:27",
+	"files": [
+		{
+			"filename": "moonlite.wad",
+			"size": 280090,
+			"crc": 2671998943,
+			"md5": "057776cb42dee320a4a2920428fb5845",
+			"sha1": "6d80fb7d6b447479eea921391038deaadcf901bb",
+			"sha256": "879248cfc739c0fa32d9e7e545060167002c3b14a46b29852addcd943081203f"
+		}
+	]
+}

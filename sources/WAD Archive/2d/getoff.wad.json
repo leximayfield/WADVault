@@ -1,0 +1,16 @@
+{
+	"uid": "getoff.wad",
+	"name": "GET OFF MY LAND!",
+	"description": "A DOOM2 deathmatch with a twist. See text for more information.",
+	"date": "2013-11-06 22:44:31",
+	"files": [
+		{
+			"filename": "getoff.wad",
+			"size": 81949,
+			"crc": 3636582674,
+			"md5": "bcb55097e7561d0b20cfd8db6217cbea",
+			"sha1": "2d63b72cbe4db5d1bb45acfd2ba77b5b82b48a31",
+			"sha256": "d21731e3300e5d514835d8602e168cd6a2f4331173c7048b4815516f2381820a"
+		}
+	]
+}

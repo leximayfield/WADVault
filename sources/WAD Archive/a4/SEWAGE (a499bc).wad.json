@@ -1,0 +1,17 @@
+{
+	"uid": "SEWAGE (a499bc).wad",
+	"name": "sewage.wad",
+	"description": "DOOM II Deathmatch wad in a sewer setting. In fact I was going to call it sewer.wad but it was taken. There is a big open area surrounded by other rooms at various hights.",
+	"version": "a499bc",
+	"date": "2014-10-14 21:12:19",
+	"files": [
+		{
+			"filename": "SEWAGE.wad",
+			"size": 35353,
+			"crc": 2176839021,
+			"md5": "6f0340feaf94189cfed964b2f9888195",
+			"sha1": "a499bcbd4699210a3c40755e70474834dbd2079a",
+			"sha256": "b0c2dde66eefd2051e8381fd6c8568b7ac4c8a215d7670fda8a4a7c7ac494550"
+		}
+	]
+}

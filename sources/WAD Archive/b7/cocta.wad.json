@@ -1,0 +1,16 @@
+{
+	"uid": "cocta.wad",
+	"name": "The Concrete Octagon",
+	"description": "This big and beautiful Doom2-Level is great for both single-player and deathmatch play. In single player mode, it is a big adventure consisting of different \"chapters\". For death- match mode, only one part of the level, the \"concrete octagon\", is used as environment.",
+	"date": "2014-12-15 22:06:27",
+	"files": [
+		{
+			"filename": "cocta.wad",
+			"size": 453678,
+			"crc": 1566745215,
+			"md5": "bf216a54061c8df6c127f11a5473008e",
+			"sha1": "b7e25b9306b13463046e5f49829b7d41adb73d70",
+			"sha256": "dcbfa7e43c089a73de3aab9ca73977b8da841245565defd762e3471c7d822f28"
+		}
+	]
+}

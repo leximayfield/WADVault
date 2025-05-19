@@ -1,0 +1,16 @@
+{
+	"uid": "shuriken.wad",
+	"name": "SHURIKEN.WAD",
+	"description": "This is a deathmatch Wad with a couple cool ideas. Nothing spectacular, but should be fun.",
+	"date": "2014-12-15 22:17:59",
+	"files": [
+		{
+			"filename": "shuriken.wad",
+			"size": 89607,
+			"crc": 2872570789,
+			"md5": "f85f53fcd469e4a11b71746722712403",
+			"sha1": "26dd1318491bd365064c763c8f8dd58b049ae2c9",
+			"sha256": "47d38f39bca4229e95b6637ed75133fded449f128bc42cb22c885ff2a352d454"
+		}
+	]
+}

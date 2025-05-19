@@ -1,0 +1,17 @@
+{
+	"uid": "FirstMap (060e14).wad",
+	"name": "Firstmap",
+	"description": "This map is my very first attempt at mapping. I made it somewhere back in 2009, a couple of months after Doom Builder 2 came out. Its a typical tech base map but its very short but as a first map i'm proud with it.",
+	"version": "060e14",
+	"date": "2014-12-13 17:49:01",
+	"files": [
+		{
+			"filename": "FirstMap.wad",
+			"size": 40730,
+			"crc": 1458583961,
+			"md5": "0d6f90957830aa0e8458361063f1f3d1",
+			"sha1": "060e14c5b2453064d554451e057b83d7112343df",
+			"sha256": "7ecc54783b0b824b4f5de40730bc743a05d7065285e6482dca594246249e766c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "enhskil.wad",
+	"name": "Enhanced Skill Levels",
+	"description": "This adjusts skill levels accordingly as well as adding intermediate skills between Ultra Violence and beyond Nightmare for those who feel the skills don't provide enough challenge.",
+	"date": "2015-09-14 20:47:04",
+	"files": [
+		{
+			"filename": "enhskil.wad",
+			"size": 2220,
+			"crc": 10550508,
+			"md5": "01e907f1577fad63c7ad8a283767350f",
+			"sha1": "ed5b2dbf89e5fdd91e610d2ed99637dc17abd038",
+			"sha256": "f668006453db5fcb7bb09805eec81b545494d4412294a8fe2988e301c9537186"
+		}
+	]
+}

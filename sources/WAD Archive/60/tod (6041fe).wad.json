@@ -1,0 +1,17 @@
+{
+	"uid": "tod (6041fe).wad",
+	"name": "TOD - Tower of Death",
+	"description": "Simple (but not ugly!) design for fast-paced DM games. All textures are carefully chosen and well aligned.",
+	"version": "6041fe",
+	"date": "2014-12-15 23:01:00",
+	"files": [
+		{
+			"filename": "tod.wad",
+			"size": 35133,
+			"crc": 832736039,
+			"md5": "784e54db51e895b6a0934fbe067a1b4b",
+			"sha1": "6041fe56c8d4541dfa74b81302f2a11f55510a8c",
+			"sha256": "f903f40e24d67a4ec81e89df029f0b7977afe6df7e91031acecaee3808bcfc52"
+		}
+	]
+}

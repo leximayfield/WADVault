@@ -1,0 +1,17 @@
+{
+	"uid": "toh (9015a6).wad",
+	"name": "Tomb of Horrors",
+	"description": "After an accidental fall into a trapdoor, you find yourself stuck in an ancient tomb infested with demons, can you find your way out or will you end up like everyone else who rotted away in this tomb?",
+	"version": "9015a6",
+	"date": "2014-12-29 15:30:08",
+	"files": [
+		{
+			"filename": "toh.wad",
+			"size": 6316207,
+			"crc": 469272767,
+			"md5": "6dd4a15204de3c2f99499861fc0df3fa",
+			"sha1": "9015a6e9add3b72ee49d9aa429f8b9079f59f8ee",
+			"sha256": "161e4685a3acf997963f6052697bf6820dc5299a0d5dbc8464e18a4712b35e94"
+		}
+	]
+}

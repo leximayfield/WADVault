@@ -1,0 +1,17 @@
+{
+	"uid": "h_phobia (082be4).wad",
+	"name": "Hadephobia",
+	"description": "A PRBoom+ complevel 9 megawad resulting from the Progressive Fiction Community Project. The project's aim was to create a community project with a running story, thematic continuity and gameplay gradient. See story.txt for story info.",
+	"version": "082be4",
+	"date": "2013-07-26 07:43:49",
+	"files": [
+		{
+			"filename": "h_phobia.wad",
+			"size": 22222384,
+			"crc": 3194159598,
+			"md5": "8025b25fb1ee515514426c8e742ac40f",
+			"sha1": "082be4763939c0226bab49ddfa2c1031b974ee8d",
+			"sha256": "c6124ada3b551bfc473840c12f46b03552a253255ff6e8dda3d43a998ad239b6"
+		}
+	]
+}

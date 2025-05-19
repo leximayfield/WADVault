@@ -1,0 +1,17 @@
+{
+	"uid": "GOTHMOG (dd4dd7).wad",
+	"name": "GOTHMOG.WAD",
+	"description": "PWAD file for E1M1. This is an ARENA type DEATHMATCH level that was created using the same idea as the ledges series, with a central arena surrounded by smaller rooms. It is designed primarily for deathmatch, BUT can be played alone or co-op, but let me warn you that if you play with monsters, expect to get your butt kicked, especially in Ultra-Violence! There is only one gun of each type laying around not counting the shotgun you get from the enemies. HINT: There is a trick in one of the rooms that can become a 30 second trap for another player if you figure it out first!",
+	"version": "dd4dd7",
+	"date": "2013-11-02 23:57:38",
+	"files": [
+		{
+			"filename": "GOTHMOG.wad",
+			"size": 141553,
+			"crc": 796500352,
+			"md5": "2a3522a8eeb90a148eac18bccbac6cf5",
+			"sha1": "dd4dd76a3570ce2d790c223e93c6b580f83e85cd",
+			"sha256": "3f23d40353c6f1df5ba3cba54270f36ecc9eca9ee751fadd0b4e81887ef44402"
+		}
+	]
+}

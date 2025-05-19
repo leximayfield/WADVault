@@ -1,0 +1,16 @@
+{
+	"uid": "nshville.wad",
+	"name": "Nashville, Tennessee",
+	"description": "A simple map for the ill-fated Secret Santa project. I completed this in November 2012 according to the file's time stamp, but I never released it. Music is from Requiem - \"Reason for Nothing\" by Mark Klem.",
+	"date": "2015-09-14 23:18:43",
+	"files": [
+		{
+			"filename": "nshville.wad",
+			"size": 326499,
+			"crc": 156608996,
+			"md5": "9fd088af96eaff61db072ed620f53a58",
+			"sha1": "64f12c5b1cc5de9b858ef8ba9625b7088ae28782",
+			"sha256": "6a8af4040a7a37ecfdbf19a963924932f281d9f8028121ece8213827e2e2c71f"
+		}
+	]
+}

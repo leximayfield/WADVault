@@ -1,0 +1,16 @@
+{
+	"uid": "hrst.wad",
+	"name": "Hi-Res Stormtrooper",
+	"description": "A Hi-Res Star Wars Stormtrooper.",
+	"date": "2015-09-15 19:35:36",
+	"files": [
+		{
+			"filename": "hrst.wad",
+			"size": 823099,
+			"crc": 956932609,
+			"md5": "35a4de9f99b7d67e55483a056f8f886c",
+			"sha1": "1278d328c8bf84396f32e42cae9f069509551c82",
+			"sha256": "1423cdb6a6e6237ddfb1a637ec385aacf4d75c89d1b71f8dace6a8d815a5ea35"
+		}
+	]
+}

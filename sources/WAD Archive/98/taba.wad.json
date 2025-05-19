@@ -1,0 +1,16 @@
+{
+	"uid": "taba.wad",
+	"name": "There and back again.",
+	"description": "Using Doom2.wad, Full episode of 9 maps, 8 + 1 secret.",
+	"date": "2016-04-05 22:50:41",
+	"files": [
+		{
+			"filename": "taba.wad",
+			"size": 2290964,
+			"crc": 550350690,
+			"md5": "327f332a504ffc9a1389f683216a2e21",
+			"sha1": "987834c5c3b864d40eb852548bc9a60db0acbac2",
+			"sha256": "5392615f5a2fd443fd51c638bc36d28ea24f8e5d4a1af123bc98001de2be763e"
+		}
+	]
+}

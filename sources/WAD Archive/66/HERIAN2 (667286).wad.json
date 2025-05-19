@@ -1,0 +1,17 @@
+{
+	"uid": "HERIAN2 (667286).wad",
+	"name": "HERIAN2 (revision 0, 24/01/1999)",
+	"description": "Herian2 is fully compatible with only ZDoom version 1.17 or later.",
+	"version": "667286",
+	"date": "2013-04-18 22:57:56",
+	"files": [
+		{
+			"filename": "HERIAN2.wad",
+			"size": 19840184,
+			"crc": 3398106810,
+			"md5": "cf2e8c3cb01b9bbeaf53e557840c59cb",
+			"sha1": "66728626183a6177a8cd3208872c767d39b72702",
+			"sha256": "8d0a579b84fa35e56a6f114ffc36a618dec2398f8bcddd567f7679a9398facef"
+		}
+	]
+}

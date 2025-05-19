@@ -1,0 +1,16 @@
+{
+	"uid": "cookies.wad",
+	"name": "Cookies on Dowels",
+	"description": "Updated, now part of the \"how the heck did I miss that bug series?\" My first attempt at a Heretic level. It's fairly short and easy (for a Heretic level).",
+	"date": "2014-12-30 11:25:45",
+	"files": [
+		{
+			"filename": "cookies.wad",
+			"size": 497312,
+			"crc": 725243461,
+			"md5": "092e8b4ad8baa184c112d99da89fd403",
+			"sha1": "2b7fce40662a6a45ae8bcc5be3f7e2a435c3eb28",
+			"sha256": "1cd03d472e263e34f3587ed480fd30dc34cdc63f56ecce94db654b978574cefb"
+		}
+	]
+}

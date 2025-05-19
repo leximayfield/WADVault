@@ -1,0 +1,16 @@
+{
+	"uid": "void_old.wad",
+	"name": "Void",
+	"description": "It's that old cliche'd Doom storyline where a bunch of scientists (even though they look like marines) are doing those damned gateway experiments again! Only this time you aren't pulled into Hell...",
+	"date": "2018-05-29 00:16:24",
+	"files": [
+		{
+			"filename": "void_old.wad",
+			"size": 4351985,
+			"crc": 4078552476,
+			"md5": "6481ec96492ff44c1bf89bc68bdc3916",
+			"sha1": "b4e932d32ca346c39c8063f9acfacc6331ee6cee",
+			"sha256": "015c03f704dc73a6bf8bdfb7ba9efd75ca5d35fb1c5111881c3fc9672e340558"
+		}
+	]
+}

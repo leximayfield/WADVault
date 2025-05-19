@@ -1,0 +1,17 @@
+{
+	"uid": "morehell (e2c6d9).wad",
+	"name": "morehell.WAD",
+	"description": "This level is the revision of 11inhell.wad. If you are a fan of that one, then delete it and use this instead. This level was built _just_ for deathmatches. It has several _main_ rooms with numerous sniper spots, teleports, and visial effects. It takes two people to open the exit. This level also has \"hell\" and a special room that lets you look at all major areas. It is also small enough to let you find the other player quickly to rack up the frags. There are numerous connections between the rooms so you won't end up running for miles. Email me with any questions.",
+	"version": "e2c6d9",
+	"date": "2016-02-07 20:36:37",
+	"files": [
+		{
+			"filename": "morehell.wad",
+			"size": 134596,
+			"crc": 100700005,
+			"md5": "5fc1867a167097d4fd9159e624b1f0fb",
+			"sha1": "e2c6d916bc01ee7a491024a02bca2fc0e9f835c1",
+			"sha256": "4effbec314c1132dc48d81e4b6c3d7e67634d5fd158be75e9f2d3e19430f112d"
+		}
+	]
+}

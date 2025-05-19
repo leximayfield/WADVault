@@ -1,0 +1,17 @@
+{
+	"uid": "LOWBLOW (685a34).wad",
+	"name": "CASTLE.WAD",
+	"description": "An old English castle in the countryside with dungeons (no dragons) to explore and towers to shoot from.",
+	"version": "685a34",
+	"date": "2013-11-14 14:15:16",
+	"files": [
+		{
+			"filename": "LOWBLOW.wad",
+			"size": 27069,
+			"crc": 807936891,
+			"md5": "3546540bcbb1335bc9ae30c2a052a3e7",
+			"sha1": "685a34a0aaba186163dd33b200eb671a1a1119b9",
+			"sha256": "64b19a6c32b666c1768d4cff6705e3ddb6b09f7b53cb5567bdbd8651000118f2"
+		}
+	]
+}

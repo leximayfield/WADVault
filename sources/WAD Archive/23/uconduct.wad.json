@@ -1,0 +1,16 @@
+{
+	"uid": "uconduct.wad",
+	"name": "Underconduct",
+	"description": "A fairly large-sized deathmatch map; Subterranean theme",
+	"date": "2014-12-15 21:29:36",
+	"files": [
+		{
+			"filename": "uconduct.wad",
+			"size": 343025,
+			"crc": 2619512258,
+			"md5": "1388e028cc81347746c2e06a2954c00f",
+			"sha1": "23ff765bb21aa73e2f76a67a79b57434dd9eed95",
+			"sha256": "f4668916b46f0b3149fdf6012a954af3b839bb38341f91b077dad93ad8576b49"
+		}
+	]
+}

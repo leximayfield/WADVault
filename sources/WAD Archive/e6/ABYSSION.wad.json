@@ -1,0 +1,16 @@
+{
+	"uid": "ABYSSION.wad",
+	"name": "Abyssion",
+	"description": "This is a vanilla-compatible map I made to get back to the basics. You know how that goes.",
+	"date": "2014-12-15 21:41:20",
+	"files": [
+		{
+			"filename": "ABYSSION.wad",
+			"size": 296002,
+			"crc": 382708185,
+			"md5": "17fbb0a46bb681ed86f0f4b74671fba8",
+			"sha1": "e61785e1d649ce6a1c16e1b4b5d57c17d549b9f3",
+			"sha256": "c75f85bd4284e35135fde55873bfaac9a286886e9f6ad5505dd44e4423d17df5"
+		}
+	]
+}

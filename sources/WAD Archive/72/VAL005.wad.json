@@ -1,0 +1,16 @@
+{
+	"uid": "VAL005.wad",
+	"name": "Shoot 'Em Up!",
+	"description": "Small, close-quarters Deathmatch arena for Doom II.",
+	"date": "2014-10-14 20:55:36",
+	"files": [
+		{
+			"filename": "VAL005.wad",
+			"size": 34116,
+			"crc": 3578561924,
+			"md5": "dfa1f22c05f4b35ba906646b6448254b",
+			"sha1": "7224bd5609e8ef42bf921e751e80ec987bc17e77",
+			"sha256": "b2f3016d7ed6584aab825566fa3e718cfeb98a314b241b5c0d57446980804f06"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "series (d08c8d).wad",
+	"name": "SERIES LEVEL ONE",
+	"description": "This wad is great for single player mode. It also supports deathmatch and multiplayer",
+	"version": "d08c8d",
+	"date": "2013-11-06 22:30:23",
+	"files": [
+		{
+			"filename": "series.wad",
+			"size": 166997,
+			"crc": 317227069,
+			"md5": "f6379b5e3f9521e05c3feebcfa9238b0",
+			"sha1": "d08c8dd1a813cb02cabdcbc5d49f3030ea0dfdca",
+			"sha256": "5cda076ee6ab3227aa8268dc3f8a8eb95d36d22d900406627cc5e190b5a5984d"
+		}
+	]
+}

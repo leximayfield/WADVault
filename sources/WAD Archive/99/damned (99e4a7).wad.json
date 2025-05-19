@@ -1,0 +1,17 @@
+{
+	"uid": "damned (99e4a7).wad",
+	"name": "DAMNED.WAD",
+	"description": "Well, it's my first pwad",
+	"version": "99e4a7",
+	"date": "2014-01-07 22:17:09",
+	"files": [
+		{
+			"filename": "damned.wad",
+			"size": 173627,
+			"crc": 3704376719,
+			"md5": "821dbf6e3c8f78e685893dc54e4f0c16",
+			"sha1": "99e4a7a2950de3fb1ff4e53f5c538310492c1195",
+			"sha256": "e6143a95ecfda1a60c7457c768283ac6e062c1ddebdf81e3ed80c6bf9939a1f7"
+		}
+	]
+}

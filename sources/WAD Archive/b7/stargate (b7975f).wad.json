@@ -1,0 +1,17 @@
+{
+	"uid": "stargate (b7975f).wad",
+	"name": "Stargate Deathmatch.",
+	"description": "This DOOM II deathmatch wad with a Stargate theme. It should be used with deathmatch 2.0 Includes a new sky texture (Non-repeating) New Doors, and a Really cool animated Gate. All weapons, one time chance at the BFG. This is not a huge level the large file size comes from the new gfx's and music. All testing has gone great this level is a blast.",
+	"version": "b7975f",
+	"date": "2013-04-18 23:07:51",
+	"files": [
+		{
+			"filename": "stargate.wad",
+			"size": 411063,
+			"crc": 3833967598,
+			"md5": "6a720f6d57ad55d43f0d5b0f0430c3d0",
+			"sha1": "b7975f1446cc1e201d6a2b05c804980db5740217",
+			"sha256": "e5c8e38d243d308a08752e444f4a55cd7f8988469f076c28d178ae49da0db4d0"
+		}
+	]
+}

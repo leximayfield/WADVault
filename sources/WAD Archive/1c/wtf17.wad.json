@@ -1,0 +1,16 @@
+{
+	"uid": "wtf17.wad",
+	"name": "Water Treatment Facility #17",
+	"description": "Water Treatment Facility #17 went dark several days ago. You've been sent in to find out why and, if possible, fix the problem.",
+	"date": "2014-12-29 16:06:24",
+	"files": [
+		{
+			"filename": "wtf17.wad",
+			"size": 566599,
+			"crc": 1176896675,
+			"md5": "54384bc2a7e26046834944c6e862464c",
+			"sha1": "1cda8cf6ee4d3b92d94ddbe13405ae9ddd816435",
+			"sha256": "a3493abc045660578903c5692b0ce44416910f79cdbdd8890abf861dafd1221d"
+		}
+	]
+}

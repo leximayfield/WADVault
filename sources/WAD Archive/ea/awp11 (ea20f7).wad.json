@@ -1,0 +1,17 @@
+{
+	"uid": "awp11 (ea20f7).wad",
+	"name": "AWP11.WAD (A Warm Place)",
+	"description": "A Warm Place is for E1M1 as the filename suggests. It contiains some designs and techniques I haven't seen in any other wadfile, along with borrowing some styles from my favorites. It is a somewhat difficult level, no great puzzles or brainteasers, just a fun level. On skill 1, while knowing where everything is, going everywhere and getting 100% on everything, it took me 5:07 to beat.",
+	"version": "ea20f7",
+	"date": "2013-11-02 16:40:13",
+	"files": [
+		{
+			"filename": "awp11.wad",
+			"size": 81075,
+			"crc": 4009714997,
+			"md5": "c7494d85c1a863766963c3daffb84d24",
+			"sha1": "ea20f7362a60010598555362cd90d42b523ff01f",
+			"sha256": "a67ea99d767244384060a6fb99dd063d1415dbec4c1e0d56ad207a0b285e16e4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "mek-dom1.wad",
+	"name": "Dominion of Madess",
+	"description": "A 100 minute speedmap that took waaay longer than 100 minutes.",
+	"date": "2015-01-13 21:32:36",
+	"files": [
+		{
+			"filename": "mek-dom1.wad",
+			"size": 558762,
+			"crc": 2265756256,
+			"md5": "30d5af642a99e54fc6029db5a44c1ce3",
+			"sha1": "f93a0d5f28a9f16c6e7f832efbc1e2b8aeb4a9aa",
+			"sha256": "d59b545d32c002c7fa62acf6a5d46ca233927b142ebb5463a1c1d8f7c725a285"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "zdctfmp3.wad",
+	"name": "ZDaemon CTF Map Pack 3",
+	"description": "The 3rd and last set of 10 CTF maps for ZDaemon. Designed to add on to the existing 2 map packs.",
+	"date": "2013-04-20 13:25:37",
+	"files": [
+		{
+			"filename": "zdctfmp3.wad",
+			"size": 7506216,
+			"crc": 2884665518,
+			"md5": "68300bc9fcf6f124b618a069a5d6911b",
+			"sha1": "b8f5c0d9cbaef98c4868f3ae95123fa9f4658cc4",
+			"sha256": "63bb64be7155c489550994155890cb69ead476dad79b43a1c8f511f281768b9b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "4towers (b620c8).wad",
+	"name": "4 Towers",
+	"description": "Strictly a Deathmatch level for Doom 2, Replaces Level 1.",
+	"version": "b620c8",
+	"date": "2016-02-07 20:27:37",
+	"files": [
+		{
+			"filename": "4towers.wad",
+			"size": 144212,
+			"crc": 4267059211,
+			"md5": "32ed5b99500e8f97d9d94ecff6609179",
+			"sha1": "b620c81d51614e9fd822964b88c3b55a21fd038d",
+			"sha256": "c590b0aebc950c8b0c2cb665eea809bd4c14bfe1f085c211dc96689f266270e6"
+		}
+	]
+}

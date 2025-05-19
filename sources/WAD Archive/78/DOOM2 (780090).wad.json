@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (780090).wad",
+	"name": "Doom II v1.7",
+	"version": "780090",
+	"date": "2015-11-14 16:29:05",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14612688,
+			"crc": 1205529390,
+			"md5": "ea74a47a791fdef2e9f2ea8b8a9da13b",
+			"sha1": "78009057420b792eacff482021db6fe13b370dcc",
+			"sha256": "c31cd20065cc54107bce48b8eb4f3f353352f25ef0d89d5a1ef5eb2a03117f09"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "demcast.wad",
+	"name": "Demon Castle",
+	"description": "Your castle has been taken over by demons. What are you gonna do about it?",
+	"date": "2013-11-03 17:47:03",
+	"files": [
+		{
+			"filename": "demcast.wad",
+			"size": 113004,
+			"crc": 2170265425,
+			"md5": "7c839a5b187c309f4dcd89b39e2a2202",
+			"sha1": "66de3a6aee96fb5e788676b629d90d9f5a2c29fa",
+			"sha256": "8c481fe2339c2dfbbc5634e287468dd242655565aa8a5e864e3f49a479e11c42"
+		}
+	]
+}

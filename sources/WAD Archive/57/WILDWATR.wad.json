@@ -1,0 +1,16 @@
+{
+	"uid": "WILDWATR.wad",
+	"name": "WILDWATER.WAD",
+	"description": "Your in the hidden sewer system under Niagra Falls, built by some wierd cult. There is no way out.",
+	"date": "2013-11-06 22:28:50",
+	"files": [
+		{
+			"filename": "WILDWATR.wad",
+			"size": 67173,
+			"crc": 1260288371,
+			"md5": "e9014e1f7bc68dabf1cec3cc01353064",
+			"sha1": "577f8b6ed63b31c7589bdf45269d4aef97f0b528",
+			"sha256": "816a2e5c852e7959def626ca4853b9f3f37824e6de189c51a4e971f22327dc24"
+		}
+	]
+}

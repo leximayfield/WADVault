@@ -1,0 +1,16 @@
+{
+	"uid": "CCT.wad",
+	"name": "CONGESTION CONTROL",
+	"description": "\"Congestion Control\" is an action packed map for Doom II - my most detailed level till date, with a few new graphics as well. Also it's the first level I'm releasing at my new site, Karthik82.com (heh). Plus, it has a huge text file (this one) which makes good reading (atleast I hope so), and some goodies!",
+	"date": "2014-12-15 21:35:27",
+	"files": [
+		{
+			"filename": "CCT.wad",
+			"size": 873110,
+			"crc": 3002710749,
+			"md5": "697efa158106e016ae86ba6d3b699637",
+			"sha1": "5d403431b491116b146008bff4b6be72ad9dc912",
+			"sha256": "caa9e411dc4a5c96a3cb64c35cf28b7354a41b06839f566a22cb1c64ed3f7565"
+		}
+	]
+}

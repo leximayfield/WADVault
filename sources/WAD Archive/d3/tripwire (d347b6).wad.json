@@ -1,0 +1,17 @@
+{
+	"uid": "tripwire (d347b6).wad",
+	"name": "Trip Wires",
+	"description": "This is a large level worked on for several weeks.",
+	"version": "d347b6",
+	"date": "2014-12-29 15:52:40",
+	"files": [
+		{
+			"filename": "tripwire.wad",
+			"size": 966790,
+			"crc": 4073416489,
+			"md5": "b9c19db0a7ae094306ebb64100e31c30",
+			"sha1": "d347b6cd89e700a9817e95f16eb133fc49ae88eb",
+			"sha256": "c25566503bef28eba54ed7aaa72a478ea209f16c17f660e4a20ddad5aa5d980c"
+		}
+	]
+}

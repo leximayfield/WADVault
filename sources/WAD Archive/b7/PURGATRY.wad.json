@@ -1,0 +1,16 @@
+{
+	"uid": "PURGATRY.wad",
+	"name": "Purgatory",
+	"description": "5 DOOM ][ levels replacing MAP01 through MAP05",
+	"date": "2014-10-14 20:53:55",
+	"files": [
+		{
+			"filename": "PURGATRY.wad",
+			"size": 352110,
+			"crc": 544463454,
+			"md5": "947a21fc801d1cfa001103ca717f9e76",
+			"sha1": "b732646d147a44a14cce4894a91cf72c1b6e6c34",
+			"sha256": "ead681f1a56ef0cac1dfe012d8730a28ee7a66339c971833930c9cbf7d20e27e"
+		}
+	]
+}

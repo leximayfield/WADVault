@@ -1,0 +1,17 @@
+{
+	"uid": "WAD (8d2f25).wad",
+	"name": "WAD.WAD V1.1 (Waste And Destroy)",
+	"description": "An average sized wad centred around a large open courtyard. You start out behind some cover, watch out for seargents around you in a bunker to the southwest and a shooting gallery to the east. The level is split into two main areas, the door to the south of the courtyard leads to my bit of the level, and the corridor to the east leads to Simon's. There is a keycard kept in each area.",
+	"version": "8d2f25",
+	"date": "2013-11-02 15:23:10",
+	"files": [
+		{
+			"filename": "WAD.wad",
+			"size": 105917,
+			"crc": 2870077158,
+			"md5": "33574daf5b47f1666b862288782af479",
+			"sha1": "8d2f2503aaf52bdd62d1501652fa5de4d0f42df7",
+			"sha256": "49aa4b392afe6c91c183ebf25107a37956ce6ce6d5b1276c44bb0e7569d9fe46"
+		}
+	]
+}

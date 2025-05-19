@@ -1,0 +1,16 @@
+{
+	"uid": "gurudome.wad",
+	"name": "The Dome of Czech Doom Guru",
+	"description": "My first wad for Heretic. Whenever we deathmatched on the original maps, I always felt like a Pacman. We played Doom too much and can't get used to spells. So I constructed this map. It is a very heterogeneous environment but I think it looks good. I meant it to be spell-free and we like it that way. However I placed some spells for the rest of you who like them on skill 4,5 (see below). It was built for deathmatch but I added some monsters for enjoyment of lonely solo players or co-op lovers.",
+	"date": "2013-11-02 16:38:59",
+	"files": [
+		{
+			"filename": "gurudome.wad",
+			"size": 99300,
+			"crc": 1862781553,
+			"md5": "633500a6d4a714ebbaed470cdcb3770d",
+			"sha1": "9d2a1eb2c930afc1523a4a1fec723ea6969867b5",
+			"sha256": "56e01f72b9d0aeb2277779c45b27d9fbd94d6ef20290351c4502c164f625732a"
+		}
+	]
+}

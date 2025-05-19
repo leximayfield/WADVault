@@ -1,0 +1,16 @@
+{
+	"uid": "tita1024.wad",
+	"name": "Titan 1024",
+	"description": "Earth lost contact with the scientists on Titan, one of the moons of Saturn (not Mars). You've been sent to check it out. Titan 1024 is a reimagining of Titan from 2004, with each level's playable area being no larger than 1024 by 1024 units.",
+	"date": "2014-12-29 15:38:05",
+	"files": [
+		{
+			"filename": "tita1024.wad",
+			"size": 8761671,
+			"crc": 1614790791,
+			"md5": "be9567866ffbb0d90b31a2483c992ca9",
+			"sha1": "e14f1c6349837a2011ba25841f318f6616d377ba",
+			"sha256": "723caf7cbdb5c18cd31ea591d95a5f9a64853f5be3a836cdbc2e36863ac9c51d"
+		}
+	]
+}

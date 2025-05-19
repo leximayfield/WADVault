@@ -1,0 +1,16 @@
+{
+	"uid": "mythdungeon.wad",
+	"name": "Mythical Dugneon",
+	"description": "Small DM Wad",
+	"date": "2014-12-15 22:54:43",
+	"files": [
+		{
+			"filename": "mythdungeon.wad",
+			"size": 517425,
+			"crc": 3791898147,
+			"md5": "c566ec2d27624fefe6a733430e919628",
+			"sha1": "5b8bd309b02681a54651b227622d24e0fa9e2fce",
+			"sha256": "a3d247e933259400b8f1fa07fc6e139fe70015a1a46e901256b68f8d1ef09aa5"
+		}
+	]
+}

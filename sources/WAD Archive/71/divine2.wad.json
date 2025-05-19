@@ -1,0 +1,16 @@
+{
+	"uid": "divine2.wad",
+	"name": "Divine Intervention 2",
+	"description": "It's the new and improved Divine Intervention. The old weapons, completely overhauled, plus eight new weapons including the bunny bomb, the shrink staff, freeze staff, and Winchester Rifle. Updated in order to make it startup without crashing (thank you EDGE tools).",
+	"date": "2014-12-10 22:47:39",
+	"files": [
+		{
+			"filename": "divine2.wad",
+			"size": 3605452,
+			"crc": 1724803193,
+			"md5": "c54ea6a716319e9f49f2473981a20121",
+			"sha1": "715e53631944107bb22f0275fb82e1828aed3ed5",
+			"sha256": "5164344699f0fba60ca58e3f9fd8fdbd7275278113d85c1bcfe77dd7a5c1151e"
+		}
+	]
+}

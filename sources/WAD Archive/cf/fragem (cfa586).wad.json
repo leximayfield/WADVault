@@ -1,0 +1,17 @@
+{
+	"uid": "fragem (cfa586).wad",
+	"name": "FRAGEM.WAD, a DeathMatch wad for DOOM II",
+	"description": "This is a wad designed for deathmatch 2",
+	"version": "cfa586",
+	"date": "2014-12-03 20:03:06",
+	"files": [
+		{
+			"filename": "fragem.wad",
+			"size": 61666,
+			"crc": 2739400676,
+			"md5": "b54c9f4b137b00f3714b4c23258e5782",
+			"sha1": "cfa58686c33a9d609ffea659d80d79b6b7bfd470",
+			"sha256": "18ced14baa866d08862c2c7ba5e35b0d38bdcfc22032299e6f4ca9413f306929"
+		}
+	]
+}

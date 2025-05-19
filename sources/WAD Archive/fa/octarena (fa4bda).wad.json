@@ -1,0 +1,17 @@
+{
+	"uid": "octarena (fa4bda).wad",
+	"name": "Octarena",
+	"description": "Octagon shaped battle arena with some of everything. Day/Night, Normal/Icy Floor. On Skill level 5 all players are killed every 15 Minutes.",
+	"version": "fa4bda",
+	"date": "2014-12-31 12:08:51",
+	"files": [
+		{
+			"filename": "octarena.wad",
+			"size": 94685,
+			"crc": 642434265,
+			"md5": "e53d416f958af6f524e8a45f43293e9d",
+			"sha1": "fa4bdabcb70737364a02e3f97f6a255f848b57d9",
+			"sha256": "dec41e5e6c09b2b57bc8fccae4228cc51a35f0d58a6ff2dcfef5fd2fbc94b369"
+		}
+	]
+}

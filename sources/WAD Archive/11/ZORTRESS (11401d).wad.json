@@ -1,0 +1,17 @@
+{
+	"uid": "ZORTRESS (11401d).wad",
+	"name": "Fortress of Doom (2)",
+	"description": "The baddies who you beat up in Doom 2 are not completely destroyed. The last remaining faction captured and took up residence in an old castle. You have been sent to retake it.",
+	"version": "11401d",
+	"date": "2013-11-03 17:46:04",
+	"files": [
+		{
+			"filename": "ZORTRESS.wad",
+			"size": 115599,
+			"crc": 2097697581,
+			"md5": "0e1ee4d743591f8ae5ab0cc7fe2725b2",
+			"sha1": "11401d67ae19010f2f69db2e86971d00e5bc04f9",
+			"sha256": "a7af80dda48a8480965beae7816556e443e75630fe793f7a114ff0d586d50d73"
+		}
+	]
+}

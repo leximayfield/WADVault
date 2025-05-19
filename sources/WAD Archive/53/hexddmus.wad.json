@@ -1,0 +1,16 @@
+{
+	"uid": "hexddmus.wad",
+	"name": "Deathkings Music",
+	"description": "Enables music for the maps of the Hexen expansion pack, HEXDD.wad.",
+	"date": "2015-09-15 19:34:22",
+	"files": [
+		{
+			"filename": "hexddmus.wad",
+			"size": 11807,
+			"crc": 3737055428,
+			"md5": "8032742e490f54a58338216c98948e04",
+			"sha1": "53a97b16d2dab4e7918126712dfa7b4821176460",
+			"sha256": "ced67f92dfd5ebf6bdd17e294ef799ddb54ebc3029f03cde0b9e0d37c5c0de4f"
+		}
+	]
+}

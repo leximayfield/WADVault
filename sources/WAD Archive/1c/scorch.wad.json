@@ -1,0 +1,16 @@
+{
+	"uid": "scorch.wad",
+	"name": "scorch.wad",
+	"description": "cool deathmatch level, small, 5 teleporters, enough weapons, => fragfeast! Play it!",
+	"date": "2014-12-15 23:10:47",
+	"files": [
+		{
+			"filename": "scorch.wad",
+			"size": 16560,
+			"crc": 1061099795,
+			"md5": "7d635379c8dac77d8f68005019d0659b",
+			"sha1": "1c32ada7d03c2168fce323618824e4f74fb69dfc",
+			"sha256": "c00a19c0ae793f21cad442897e008970ab8cea3ea3b30c2fe1454c7d00385972"
+		}
+	]
+}

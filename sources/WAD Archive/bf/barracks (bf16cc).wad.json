@@ -1,0 +1,17 @@
+{
+	"uid": "barracks (bf16cc).wad",
+	"name": "\"The Abandoned Barracks\"",
+	"description": "This is my VERY first PWAD... I didn't expect to make masterpieces such as OPOST21.WAD or UAC_DEAD.WAD in my first try, but for those who choose to give my level a shot, here's a brief summary of what to expect... It's an outdoors setting (quite scenic if you like the mountain textures) with 4 hills, 8 abandoned barracks, some dark regions (possibly dangerous), and 3 floating or suspended high- in-the-sky chambers (you've got to see it to believe it... or at least I hope you get that sensation). It's very WIDE open level with several light pillars for extra decoration or obstacles to hide behind in deathmatch... It's simple in design cause this is my first taste of mapeditting DOOM (very complicated compared to Wolfenstein 3-D I might add)... Hope you enjoy it",
+	"version": "bf16cc",
+	"date": "2013-11-04 20:07:01",
+	"files": [
+		{
+			"filename": "barracks.wad",
+			"size": 180940,
+			"crc": 3736969087,
+			"md5": "58624cbe0799461acbc675594f26b93e",
+			"sha1": "bf16ccd27095a30bc6ceade6053847b154271fb1",
+			"sha256": "156bf42e23d3083223bb6917d5bb03e0aff2fabe1ed8d3c43edce04e55339570"
+		}
+	]
+}

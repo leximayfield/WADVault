@@ -1,0 +1,16 @@
+{
+	"uid": "lake1.wad",
+	"name": "Dimensional Lake",
+	"description": "A wad I used as practice for mapping and scripting.",
+	"date": "2019-05-03 22:08:29",
+	"files": [
+		{
+			"filename": "lake1.wad",
+			"size": 2470244,
+			"crc": 2227927780,
+			"md5": "37036e986de42cb77681c6f72ec29b5c",
+			"sha1": "fcf5379a11dde113125f0d9f0413146fed58ad7d",
+			"sha256": "f6513a4e96e15fa21834013391c0cca9ecea54bcaed5ec330813889eeb6ef82f"
+		}
+	]
+}

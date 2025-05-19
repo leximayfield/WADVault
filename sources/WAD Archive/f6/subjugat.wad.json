@@ -1,0 +1,16 @@
+{
+	"uid": "subjugat.wad",
+	"name": "Subjugated",
+	"description": "Small deathmatch level for Doom II. Great for lots 'o' action. Big levels get boring when you have to search for an hour just to get a frag.",
+	"date": "2014-12-15 22:08:35",
+	"files": [
+		{
+			"filename": "subjugat.wad",
+			"size": 214763,
+			"crc": 2200519497,
+			"md5": "796db266f22eec22e7daff22db68cc00",
+			"sha1": "f6134c2cefd1b8d9ff433a1225b072918a34517f",
+			"sha256": "c7cce919241a4bdc85d5e9f46649963f193fab01d92cf2498b1fdc02d41e69f2"
+		}
+	]
+}

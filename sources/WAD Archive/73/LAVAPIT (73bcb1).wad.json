@@ -1,0 +1,17 @@
+{
+	"uid": "LAVAPIT (73bcb1).wad",
+	"name": "LAVAPIT.WAD",
+	"description": "COOL Deathmatch with ALL weapons",
+	"version": "73bcb1",
+	"date": "2013-11-02 23:56:17",
+	"files": [
+		{
+			"filename": "LAVAPIT.wad",
+			"size": 17932,
+			"crc": 744301873,
+			"md5": "5eb3a14bfbbd34a95c188f106a8188d4",
+			"sha1": "73bcb15072dbe422de1d0b29cccc31bfd53382e9",
+			"sha256": "ec4163d79ab337a2447b17af1cab510a800456bba63723200f9b13a36be573dd"
+		}
+	]
+}

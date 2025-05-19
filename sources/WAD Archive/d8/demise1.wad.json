@@ -1,0 +1,16 @@
+{
+	"uid": "demise1.wad",
+	"name": "DEMISE",
+	"description": "One man, one difficulty and a lot of demons. Battle you way through against demons in order to escape Mars.",
+	"date": "2016-10-17 17:20:13",
+	"files": [
+		{
+			"filename": "demise1.wad",
+			"size": 7231127,
+			"crc": 2079546997,
+			"md5": "3a0447fd85e6a522199803b428968853",
+			"sha1": "d8d338c75e9eb275e8577b310e99973fa485f12e",
+			"sha256": "f065e9a16c370075b2d3f892bb2e4b3a9b33282083fc67fa7ab16d0f9e5aa1dd"
+		}
+	]
+}

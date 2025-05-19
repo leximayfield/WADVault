@@ -1,0 +1,17 @@
+{
+	"uid": "clsdmmus (7a0c25).wad",
+	"name": "Classic Doom Music",
+	"description": "I just made this wad/pk3 to replace the boring old music in Ultimate doom. However, this only works for episode 1. You can find the whole soundtrack at this link..",
+	"version": "7a0c25",
+	"date": "2013-11-23 15:14:08",
+	"files": [
+		{
+			"filename": "clsdmmus.wad",
+			"size": 39879823,
+			"crc": 1422297165,
+			"md5": "14e41825d1e86fbbfda4c2fd916a3eeb",
+			"sha1": "7a0c256113c458dc7a3d04c2ecc8f74dd91b0583",
+			"sha256": "9c06d611392044568f4e1c14d5a910660434eb0a38b66eae224ec4d414bd40d3"
+		}
+	]
+}

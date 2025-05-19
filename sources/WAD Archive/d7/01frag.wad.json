@@ -1,0 +1,16 @@
+{
+	"uid": "01frag.wad",
+	"name": "FRAG (01frag.wad)",
+	"description": "Good mix of open spaces, hallways, and lifts. Fragtime.wad was used as a base, (by Jason Poll).",
+	"date": "2014-12-14 20:47:56",
+	"files": [
+		{
+			"filename": "01frag.wad",
+			"size": 92426,
+			"crc": 3906805936,
+			"md5": "ec161537557d1ff38a1d2c027bf819b0",
+			"sha1": "d7e6d2d84dd764c20d010c4dbb384f3a59ddfc5c",
+			"sha256": "746f4e24de4d639f907e2ec0c70e4a6303db12a225ff4768fea26b8df7031d09"
+		}
+	]
+}

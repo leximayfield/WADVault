@@ -1,0 +1,17 @@
+{
+	"uid": "mikebokn (e00c5a).wad",
+	"name": "Mike's version of HOBOKEN",
+	"description": "Have you downloaded Hoboken and seen many things wrong with it, such as the \"door to nowhere\". Yeah, the thing that faces west/east into the blue room. The author also seemed to have an obsession with the wall texture BSTONE1. ANyway, I fixed everything and this looks quite professional.",
+	"version": "e00c5a",
+	"date": "2014-01-07 22:05:38",
+	"files": [
+		{
+			"filename": "mikebokn.wad",
+			"size": 393630,
+			"crc": 3324383382,
+			"md5": "c757bf4f9a4837accd1f454f80baf1db",
+			"sha1": "e00c5a5f6969b85df1aa9f96c5fa7f571bb48abc",
+			"sha256": "62163fe82d01bee46df862bcf193bb3402c9a833786aab35fa2d03c6cb9dafa6"
+		}
+	]
+}

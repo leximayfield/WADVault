@@ -1,0 +1,16 @@
+{
+	"uid": "t_hockey.wad",
+	"name": "Hockey Arena",
+	"description": "Well...I saw a few Hockey levels, this is my attempt. Simple but fun. So have fun. Use DEHACKED ver 2.3up to patch your DOOM.EXE or you wont get the puck, and use -ALTDEATH or ammo will be vapour....",
+	"date": "2014-12-14 20:38:26",
+	"files": [
+		{
+			"filename": "t_hockey.wad",
+			"size": 16220,
+			"crc": 1389557021,
+			"md5": "7273986b2e52b191f6a44e707b13c003",
+			"sha1": "3827f0471c4d4daadde5adb0841ba449eb83dae9",
+			"sha256": "91ba51def318dea46a22b2578b8d8bbe14de2850f77419ecac42d61cefeeddd6"
+		}
+	]
+}

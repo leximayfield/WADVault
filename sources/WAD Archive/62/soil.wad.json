@@ -1,0 +1,16 @@
+{
+	"uid": "soil.wad",
+	"name": "Soil",
+	"description": "A small, fast map. Very fun. looks a little like doom2 map1, but its so unique, it was obviously made from scratch",
+	"date": "2014-12-15 21:48:54",
+	"files": [
+		{
+			"filename": "soil.wad",
+			"size": 148871,
+			"crc": 1229664260,
+			"md5": "bfd36b5ef67e2f25ca79b39cd1ac1758",
+			"sha1": "624ebe30c7bf697a87ddcea0c2640fa13498245d",
+			"sha256": "c9694eaebcc22411413c839d0ddad3dda1636f7314e2c39062776aae3abd3a2d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rf_kerkr.wad",
+	"name": "De Kerker (The Dungeon)",
+	"description": "After god knows how long with Zdoom, I decided to open my options and try other ports as well. This is my first map for Eternity (v3.33.02), and one of my more fun maps to make.",
+	"date": "2014-12-29 09:00:56",
+	"files": [
+		{
+			"filename": "rf_kerkr.wad",
+			"size": 4921673,
+			"crc": 3223488554,
+			"md5": "45191972d00f58043fac0d3686707786",
+			"sha1": "b894755fbadbdc48dc909c63f4c96b378a9d93c5",
+			"sha256": "4dd8e46f646f0b9a39c058e421ef7d03f732d853b37bca6a5b3ffa1e42fd2228"
+		}
+	]
+}

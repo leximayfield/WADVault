@@ -1,0 +1,16 @@
+{
+	"uid": "GLASST.wad",
+	"name": "Stained Glass Demo WAD/Script",
+	"description": "A script for Hexen for the destructible stained glass window effect with a level to demonstrate its use.",
+	"date": "2014-11-01 14:50:19",
+	"files": [
+		{
+			"filename": "GLASST.wad",
+			"size": 5220,
+			"crc": 4021906137,
+			"md5": "94efc75268bf9ac17c32a6a10d7999af",
+			"sha1": "6c60f1e3cfea5fdeffa18611fe798d9f79107f74",
+			"sha256": "0909035de4fb105c2c6ccf06d0f18769f50c84ede1a66df7544d696d77df78cb"
+		}
+	]
+}

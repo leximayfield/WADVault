@@ -1,0 +1,17 @@
+{
+	"uid": "zhrke1 (33db6f).wad",
+	"name": "IHRKE1.WAD",
+	"description": "This PWAD is for E1M1. It was designed primarily for deathmatch, which is only way to play DOOM!!",
+	"version": "33db6f",
+	"date": "2016-02-07 20:28:16",
+	"files": [
+		{
+			"filename": "zhrke1.wad",
+			"size": 18112,
+			"crc": 1095657584,
+			"md5": "904057c1a71a9b1b888e3f4a1f2e9fd6",
+			"sha1": "33db6ff7c2a016cb37ffa6e8cd60f6368b96713b",
+			"sha256": "4be0c21facf2061efe31c1611510c122bbc53f5a80bb1eb31259a8368b17ee45"
+		}
+	]
+}

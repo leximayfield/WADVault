@@ -1,0 +1,17 @@
+{
+	"uid": "spookydm (99a238).wad",
+	"name": "Spooky Deathmatch",
+	"description": "This is the deathmatch level of the Spooky series. It will probably be the secret level to my Spooky episode. I can't really \"set a mood\" - this level is designed for pure deathmatch (2.0 recommended). It's a medium size, but due to clever circular design coupled with strategic windows, in a 3 or 4 player game you can almost always see an opponent.",
+	"version": "99a238",
+	"date": "2013-11-03 17:43:52",
+	"files": [
+		{
+			"filename": "spookydm.wad",
+			"size": 26641,
+			"crc": 2289935678,
+			"md5": "1e5c488094fe1e3eba48d5b437216292",
+			"sha1": "99a23870f5a7ce6965f0d2efadfb05e5281d1eee",
+			"sha256": "cf3505a824d61e8e7316b70aca7872f4cb737c48635cba0b065de00b2923e607"
+		}
+	]
+}

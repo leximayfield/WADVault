@@ -1,0 +1,16 @@
+{
+	"uid": "BLACK_DM.wad",
+	"name": "Small arena for playing Deathmatch",
+	"description": "This level is great to play deathmatch In the middle there are two Cyber- demons on skill 4/5, one on skill 3 and none on skill 1/2. There is also a secret hidden in this level (Try jumping..., then run and get the Megasphere!)",
+	"date": "2014-08-30 14:24:48",
+	"files": [
+		{
+			"filename": "BLACK_DM.wad",
+			"size": 57725,
+			"crc": 1633618775,
+			"md5": "dc629bf0eab190e9a9a389e25547a388",
+			"sha1": "18af5b457ef8b5067fecb309bb123cee10c2cd6a",
+			"sha256": "8d26e3bb6159ff517a630939f137f17ec22a8da1b82868e35efcca86beecc826"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "anthctf.wad",
+	"name": "Anthology CTF",
+	"description": "Anthology CTF is the 3 classic ZDaemon CTF map packs merged into one file and features bug fixes, optimized resources, and enhanced maps.",
+	"date": "2013-04-21 20:48:10",
+	"files": [
+		{
+			"filename": "anthctf.wad",
+			"size": 13280546,
+			"crc": 3990800620,
+			"md5": "4d637c55729e1b1d02fb9e34ca2b59e7",
+			"sha1": "f312f058c39d95115ff8add90bd4279359a1d871",
+			"sha256": "91e0aeca51c44ae5e46a7bf7e877ae622febd3baf15900a71aa4e6c2d409f404"
+		}
+	]
+}

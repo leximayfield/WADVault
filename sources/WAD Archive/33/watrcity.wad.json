@@ -1,0 +1,16 @@
+{
+	"uid": "watrcity.wad",
+	"name": "Water City v1.0",
+	"description": "In the Dome of D'Sparil there is an ancient underwater city that has recently been taken over by the minions of the dark wizard. It is your responsibility to remove the foul presence of these evil creatures from this place! City of the Damned? That was mere practice compared to the beings you must face here!",
+	"date": "2014-12-30 11:29:59",
+	"files": [
+		{
+			"filename": "watrcity.wad",
+			"size": 478348,
+			"crc": 3415724638,
+			"md5": "a9000ba7eb652f66bb608e552cbb5a52",
+			"sha1": "33d9241fe5fdcb9c4d49d04921062a1eecaf4745",
+			"sha256": "9a516971ab8e363687d07aceef4954c2177fff276b8ffdc29edbd90516b69391"
+		}
+	]
+}

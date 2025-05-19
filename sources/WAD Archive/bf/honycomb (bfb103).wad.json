@@ -1,0 +1,17 @@
+{
+	"uid": "honycomb (bfb103).wad",
+	"name": "HONYCOMB.WAD",
+	"description": "Deathmatch for four in a giant honeycomb like 'maze'. Shoot'm or be shot!!",
+	"version": "bfb103",
+	"date": "2013-11-02 15:16:43",
+	"files": [
+		{
+			"filename": "honycomb.wad",
+			"size": 158958,
+			"crc": 1279134744,
+			"md5": "fcfe1928e91a5f96c33b5c66f10f8118",
+			"sha1": "bfb103dabec81480cfda04f13e417c67f9ad13c8",
+			"sha256": "42d09d1e420c5679ed29ca301f58f7481274277a39f995e057d607e6338a42d7"
+		}
+	]
+}

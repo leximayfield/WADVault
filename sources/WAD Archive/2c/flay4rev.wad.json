@@ -1,0 +1,16 @@
+{
+	"uid": "flay4rev.wad",
+	"name": "Flay the Obscene - Reversed",
+	"description": "This map is a revamp of the original Flay the Obscene, which was released in 1999. As a 15 year anniversary celebration of the map -which was the first big noticeable release from me- I have decided to dust it off and dress it up. I could have called it \"Flay the Obscene 4\", since I considder it to be a fourth entry in the series, as it plays, and looks, quite different from the original one. This is mostly because it is played backwards, but also because there are new areas added to it, and a ton of updates in both terms of gameplay and architecture! But I have left out the \"4\" from the title but kept it in the filename as I want to emphasize the fact, that it is \"simply\" the first entry, which has been reversed. But why even considder the \"4\" then? Because, I think I want to create a fifth entry that sees the player tackle his homeworld, which has been... erhm, on second thought, we'd better leave that part out ;) Since the map has been reversed, you will probably find the old start area of the map, which is now the end, somewhat cramped. There was a challenge to make that interesting, so instead of having the level end with an empty intro level - which has btw been merged into the main level - you will get to fight in that one too in order to give the entire level an interesting end. Confusing I know, so don't spend too long thinking about it. Just go and kick some ass and have some fun! :)",
+	"date": "2014-12-24 19:24:22",
+	"files": [
+		{
+			"filename": "flay4rev.wad",
+			"size": 1278477,
+			"crc": 3901329881,
+			"md5": "50cfe66b59762cebe13aa39091e49e41",
+			"sha1": "2c87277c2b7832f91680706c08d9f5ce3ba56c59",
+			"sha256": "f1903868eb3d12af2fa578b686ae6f2dd80cd9a6d6b9c68a3869ccd6efb9c5d1"
+		}
+	]
+}

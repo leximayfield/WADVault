@@ -1,0 +1,16 @@
+{
+	"uid": "dedmatz.wad",
+	"name": "DEDMATZ.WAD",
+	"description": "Deathmatch wad for DooM2, I have tested this only with 2 players, but you can email me and tell how it works with 3-4 players.",
+	"date": "2014-12-15 21:54:49",
+	"files": [
+		{
+			"filename": "dedmatz.wad",
+			"size": 104885,
+			"crc": 1889741958,
+			"md5": "cb09e460ee29bb55fa0311ea741567fe",
+			"sha1": "99bb8819e41ed7a6eb43af851496e3c96091dbe2",
+			"sha256": "d617f03457d5197435363f63132151a34ec90326e21a4789fedcc049fd80bc95"
+		}
+	]
+}

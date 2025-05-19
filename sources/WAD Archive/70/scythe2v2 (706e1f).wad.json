@@ -1,0 +1,17 @@
+{
+	"uid": "scythe2v2 (706e1f).wad",
+	"name": "Scythe 2. Version 2",
+	"description": "This is the sequel to my old megawad \"Scythe\". Expect better looking and bigger levels. unfortunately, the last 3 levels are missing, because I am so lazy and I haven't been satisfied with my attempts at making map28. I _might_ release the last 3 maps some time in the future, but do not count on it. (Update: the last 3 maps are now completed!)",
+	"version": "706e1f",
+	"date": "2013-04-20 13:03:36",
+	"files": [
+		{
+			"filename": "scythe2v2.wad",
+			"size": 31285404,
+			"crc": 792917141,
+			"md5": "1f939d6bcc6175eb9830645d7acb8aa9",
+			"sha1": "706e1f25ab7efbac85f13bf5362babf5d2e433f0",
+			"sha256": "157fa27eed11a872c41263ff24b5677aeb123514a6352f040f7873435ad09ee1"
+		}
+	]
+}

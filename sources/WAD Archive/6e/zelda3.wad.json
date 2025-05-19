@@ -1,0 +1,16 @@
+{
+	"uid": "zelda3.wad",
+	"name": "Zelda 3 - Eastern Temple",
+	"description": "This map is based on the Eastern Temple from Zelda 3.",
+	"date": "2015-01-14 22:51:13",
+	"files": [
+		{
+			"filename": "zelda3.wad",
+			"size": 102843,
+			"crc": 24727220,
+			"md5": "8398fab761459540f3c4f3eb52ffc190",
+			"sha1": "6e652174a6686492122ff607ed342e9760cf6e47",
+			"sha256": "b78f5c69a833413ac16002e58656c9619da17b956c46c73a27c25fcd40a0af6a"
+		}
+	]
+}

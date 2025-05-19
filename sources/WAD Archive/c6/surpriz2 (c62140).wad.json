@@ -1,0 +1,17 @@
+{
+	"uid": "surpriz2 (c62140).wad",
+	"name": "Surpriz2.WAD",
+	"description": "Totally new level made from scratch. Start as Episode 1, Level 1. Very tough level with lots of lifts, doors and a multitude of monsters.",
+	"version": "c62140",
+	"date": "2013-11-06 22:17:41",
+	"files": [
+		{
+			"filename": "surpriz2.wad",
+			"size": 185693,
+			"crc": 2490557083,
+			"md5": "a0c7a5b1c05c3862df6c3abd11c5e19c",
+			"sha1": "c6214069411d660d15f35ea763ff45a08eb895bf",
+			"sha256": "2c26823dea73467f81f0a80e146826b26b59908a059910338c28d78812985781"
+		}
+	]
+}

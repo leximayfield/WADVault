@@ -1,0 +1,17 @@
+{
+	"uid": "poly (786b03).wad",
+	"name": "Poly Wad",
+	"description": "New level for DOOM2. Huge level. Moderately challenging. ;)",
+	"version": "786b03",
+	"date": "2015-01-14 22:45:14",
+	"files": [
+		{
+			"filename": "poly.wad",
+			"size": 404861,
+			"crc": 592017963,
+			"md5": "0b582308b5356fb622882ac0d1311874",
+			"sha1": "786b03d7307229e1fbc7d303f93e95581d665502",
+			"sha256": "a3ae222cef63263f2ba2775185715b526a6d2c8e8cd713f5c4d5356868c1a99b"
+		}
+	]
+}

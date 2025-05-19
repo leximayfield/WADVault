@@ -1,0 +1,17 @@
+{
+	"uid": "dathzor (d58e36).wad",
+	"name": "Dathzor",
+	"description": "16 deathmatch maps made during 2005-2006 for playing with friends just for fun. Quite a few of the maps are pretty gimmicky and shouldn't be taken seriously.",
+	"version": "d58e36",
+	"date": "2014-12-22 18:53:11",
+	"files": [
+		{
+			"filename": "dathzor.wad",
+			"size": 2562368,
+			"crc": 3370334129,
+			"md5": "3f23c15374b4d51de176848c695b596c",
+			"sha1": "d58e36b3099e74986c7edc6dbc57d727e5a6915c",
+			"sha256": "0796344570323d4bdc6ba45e12c95c28ba4a2c8ac013cbbf2718acefc7470064"
+		}
+	]
+}

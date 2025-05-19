@@ -1,0 +1,17 @@
+{
+	"uid": "Avatar (ee59f5).wad",
+	"name": "Avatar's Demise",
+	"description": "My second ever released Heretic level.",
+	"version": "ee59f5",
+	"date": "2014-12-30 11:27:10",
+	"files": [
+		{
+			"filename": "Avatar.wad",
+			"size": 206199,
+			"crc": 2314316611,
+			"md5": "341f262bf7fb4e42b9c7d8f0c8156db2",
+			"sha1": "ee59f58cd0d7b2a5f4a76dd150ffc13b30b317d5",
+			"sha256": "f71c4625cc8f8eb536ab02c9a03a439f6721ef3abb1eec6d98b4fddbcd8d2798"
+		}
+	]
+}

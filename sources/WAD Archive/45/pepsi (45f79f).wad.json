@@ -1,0 +1,17 @@
+{
+	"uid": "pepsi (45f79f).wad",
+	"name": "Pepsi",
+	"description": "DESTROY COCA-COLA. #PEPSIWINS. In this WAD you bust into a building and kill a bunch of dudes that like coca-cola.",
+	"version": "45f79f",
+	"date": "2014-12-29 08:59:16",
+	"files": [
+		{
+			"filename": "pepsi.wad",
+			"size": 120512,
+			"crc": 494334473,
+			"md5": "9dfa028c0814432d3b81ca6be21ca21f",
+			"sha1": "45f79fa972cddfd0e71dbb4a7b9e9fc96b52803d",
+			"sha256": "95d07815953762312aeac61de6b8dd374e2ee812873bce6fdf58bb278a2f450c"
+		}
+	]
+}

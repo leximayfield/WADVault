@@ -1,0 +1,17 @@
+{
+	"uid": "hellbnd (ba612a).wad",
+	"name": "Hellbound 1.1",
+	"description": "32 map megawad with collections of maps made from different periods of my doom mapping hobby, along with new ones. All old maps are re-polished to make them consistent in look with the newer ones. Maps are \"progressively\" chained together (so the previous map's end is more or less linked to the next one's start). Difficulty is medium, sometimes hard, but not insane. Experienced players can do it in UV without any problem.",
+	"version": "ba612a",
+	"date": "2014-11-10 18:10:37",
+	"files": [
+		{
+			"filename": "hellbnd.wad",
+			"size": 59630632,
+			"crc": 2923163751,
+			"md5": "a7d4bf26bd2719dad3424a065f7a90ef",
+			"sha1": "ba612ab9aee31a283d002e564788a51152352e4b",
+			"sha256": "93d78907615d2d9393990826f859d94810818a8c2ee1f3cefbb066601f05cd91"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DOOM404 (53a2d1).wad",
+	"name": "Doom 404",
+	"description": "It's a sad life on the Space Marine IT Help Desk. Especially when you're stuck on the graveyard shift. Night after night of \"Did you try rebooting?\" Not exactly what you expected when you signed up.",
+	"version": "53a2d1",
+	"date": "2019-03-20 01:36:30",
+	"files": [
+		{
+			"filename": "DOOM404.wad",
+			"size": 4065440,
+			"crc": 1671606742,
+			"md5": "5a3f4f0178102deceadfeabe1beae25b",
+			"sha1": "53a2d1f61e6322cc9121a91ff258465c42a871a5",
+			"sha256": "24d5c6ca0c7ae1bfd128dcb2f8bd1cd750dd214a5ee9dd8e6122d3ce20e66f03"
+		}
+	]
+}

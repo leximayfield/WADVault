@@ -1,0 +1,17 @@
+{
+	"uid": "MAZE2 (370eb6).wad",
+	"name": "MAZE2.WAD -- PWAD for Shores of Hell -- Level 1",
+	"description": "This level is the product of having played several",
+	"version": "370eb6",
+	"date": "2013-11-02 15:50:50",
+	"files": [
+		{
+			"filename": "MAZE2.wad",
+			"size": 61155,
+			"crc": 3491662871,
+			"md5": "53253a46c586cbfcc8907c8f3d483c89",
+			"sha1": "370eb6fd3ca3c08b283509fa319ff0d994760942",
+			"sha256": "4ec93c741e453805bb984644083c939bfdf09e2793eb7dcbf9261f9d7fc14dad"
+		}
+	]
+}

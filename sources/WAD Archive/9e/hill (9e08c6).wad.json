@@ -1,0 +1,17 @@
+{
+	"uid": "hill (9e08c6).wad",
+	"name": "Hill",
+	"description": "You are a guardian of an ancient prison. All wend fine until now... (First map of maybe one day full episode.)",
+	"version": "9e08c6",
+	"date": "2014-12-30 11:34:40",
+	"files": [
+		{
+			"filename": "hill.wad",
+			"size": 179929,
+			"crc": 2403807497,
+			"md5": "46ebf425d207e3f7b19c23a370254c73",
+			"sha1": "9e08c6ea17d3afea45a6b0bf25131c2b0d3d8f18",
+			"sha256": "08721f2aec53cbb85ff91588b411c8d2a4b52a2373b919b7dd6f0960fa305db1"
+		}
+	]
+}

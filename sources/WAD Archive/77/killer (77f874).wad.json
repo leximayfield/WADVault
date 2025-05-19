@@ -1,0 +1,17 @@
+{
+	"uid": "killer (77f874).wad",
+	"name": "Killer Day at the UAC Archology",
+	"description": "Even after your heroic defeat of the HellSpawn, UAC still",
+	"version": "77f874",
+	"date": "2014-12-27 12:11:50",
+	"files": [
+		{
+			"filename": "killer.wad",
+			"size": 268512,
+			"crc": 3694518130,
+			"md5": "d8a87c322f16b215832598dde47ff51f",
+			"sha1": "77f874a0902d229d56cfd43c265d624036f751f9",
+			"sha256": "6bf16d6957708a68564b192064352a0830ad2e02833002de9818ea9d4798565f"
+		}
+	]
+}

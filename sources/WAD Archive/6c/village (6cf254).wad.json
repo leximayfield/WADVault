@@ -1,0 +1,17 @@
+{
+	"uid": "village (6cf254).wad",
+	"name": "Village of the Damned",
+	"description": "<--- I hate this trying to fill this line, but many people like a bit of story, so I better think of one >:-<",
+	"version": "6cf254",
+	"date": "2014-12-14 20:38:21",
+	"files": [
+		{
+			"filename": "village.wad",
+			"size": 127848,
+			"crc": 2900768466,
+			"md5": "8fc9bb8850f9e5c579a68bddfd647095",
+			"sha1": "6cf254e63853914d6d06b464ec7ca02627330767",
+			"sha256": "ffb12e57855182689037a4294b1f6d66ed715108a6b962d61ef82d479ff5fbab"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ares4.wad",
+	"name": "ARES4.WAD",
+	"description": "This patch file is for Doom2, 1st level, for only deathmatch play. It works best with 4 players but can be played with 2 or 3 players.",
+	"date": "2014-01-07 21:50:35",
+	"files": [
+		{
+			"filename": "ares4.wad",
+			"size": 46317,
+			"crc": 1471154081,
+			"md5": "d46ada2e53274bec3a85ef200da9904c",
+			"sha1": "ea9ef64ec076695e7bc1d14e2d30bd1207602a0c",
+			"sha256": "02d4c22ff2f3724d8de0dd19a69fc09854b6ea9c3b1bdb914564bbdd34906efe"
+		}
+	]
+}

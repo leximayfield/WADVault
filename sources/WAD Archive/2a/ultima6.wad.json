@@ -1,0 +1,16 @@
+{
+	"uid": "ultima6.wad",
+	"name": "Ultima6, Lord British's Castle",
+	"description": "This WAD looks just like Lord British's castle. The rooms, placement of the keys. and many other details and additions.",
+	"date": "2015-01-14 22:42:50",
+	"files": [
+		{
+			"filename": "ultima6.wad",
+			"size": 84978,
+			"crc": 1514258774,
+			"md5": "43f13810ecc4ec7d57efb97943f5af35",
+			"sha1": "2ac02e3534f6fdd7ec00819c5dc928920cc69144",
+			"sha256": "500b522b7875cb17062bb855d08babb9abbe5a0b33c3fd1a06868d7d99a1abf5"
+		}
+	]
+}

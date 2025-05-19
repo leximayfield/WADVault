@@ -1,0 +1,16 @@
+{
+	"uid": "b79hpain2.wad",
+	"name": "The House of Pain II",
+	"description": "Welcome to this new release of \"House Of Pain 2\". I have converted all the original maps to the Hexen format supported by ZDoom and added some \"special effects\" too. In some maps the design is still mostly that of the first release, so don't be surprised if some spots may look a bit dumb or too easy or even evidence of scarce editing ability... :) Other maps (e.g. MAP09) have undergone a better and wider process of enhacement. The maps i think were better \"enhanced\" are Map03 Map05 and Map09. Take a look at the README file to get more detiled info and to read the 'Mission Briefings' for each map.",
+	"date": "2014-12-21 15:12:03",
+	"files": [
+		{
+			"filename": "b79hpain2.wad",
+			"size": 2799805,
+			"crc": 538120007,
+			"md5": "1cf3f0759d3b32b66ce3f5b40b3a775b",
+			"sha1": "86d3daa90e415057b2e5d2091d3ba53373f596d3",
+			"sha256": "fa918c9b600e80940b79ae56327958e791a5a2b041355bfacdc741358e619b34"
+		}
+	]
+}

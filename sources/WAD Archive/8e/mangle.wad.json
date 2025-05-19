@@ -1,0 +1,16 @@
+{
+	"uid": "mangle.wad",
+	"name": "Mangle",
+	"description": "After restoring partial peace on earth, you make your way back home to find your family has been captured by terrorists. You go to the terrorists base to rescue your family. Before you even get in, the terrorists capture you. They tell you that you will not see your family again unless you make it through Mangle. If you don't make it through, they will kill your family.",
+	"date": "2013-11-02 15:56:50",
+	"files": [
+		{
+			"filename": "mangle.wad",
+			"size": 165408,
+			"crc": 1216497172,
+			"md5": "933e24e64a1a4df4f899661a8b25388b",
+			"sha1": "8eac0a05983afedc07a004432a12b467a0def978",
+			"sha256": "51e17290eff17882d2f59e06177fe0622da0fb3eb314b2526e7357ce286325e0"
+		}
+	]
+}

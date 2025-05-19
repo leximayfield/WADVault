@@ -1,0 +1,17 @@
+{
+	"uid": "fragem (8380cf).wad",
+	"name": "FRAGEM.WAD, a DeathMatch wad for DOOM II",
+	"description": "This is a wad designed for deathmatch 2 (-Altdeath) Carefully tuned with feedback from deathmatch fanatics through hours of play testing. Eight towers in a large arena provide a variety of weapons and great sniping. Slots and windows in the towers allow for shooting into all other towers, but watch out! \"Random\" transporters and sneak doors make for surprise entrances. One imp and chaingunner in level. Use -respawn for a little extra fun. Cooperative exit.",
+	"version": "8380cf",
+	"date": "2013-11-02 15:38:12",
+	"files": [
+		{
+			"filename": "fragem.wad",
+			"size": 61666,
+			"crc": 1028458370,
+			"md5": "9c603db4aa322ec5b8b44f3871defe2e",
+			"sha1": "8380cf09153f105e4867b9ffde90711f42231468",
+			"sha256": "0812bd2019a9b273bdad83a5e29e5573cdf9e22334c2b95e600fe8f107ae2bb1"
+		}
+	]
+}

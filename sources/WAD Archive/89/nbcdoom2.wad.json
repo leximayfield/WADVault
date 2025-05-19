@@ -1,0 +1,16 @@
+{
+	"uid": "nbcdoom2.wad",
+	"name": "NBCDOOM2.WAD",
+	"description": "This is graphic's conversion for Doom II. Just play the game, read the walls and listen to the SFX. We had hell drawing new textures to get some good effects, so we just used the shitty ones NBC provides everyday. ;> Hope, you enjoy it Earth 2 fans.",
+	"date": "2014-12-11 22:18:00",
+	"files": [
+		{
+			"filename": "nbcdoom2.wad",
+			"size": 1205367,
+			"crc": 753747261,
+			"md5": "82134e225d9436acb7d7491768b427f1",
+			"sha1": "89041841237c99ebc2745f18fe3a03235b924763",
+			"sha256": "34d30e537d4a429088bff7a2dbe06821240fef6d9d2203e6f1e917abd1efa7a1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "school (104b0b).wad",
+	"name": "Yarmouth High School",
+	"description": "This PWAD is based on the floor plan of the Yarmouth High School. New graphics have been created. I have a 486DX2/66 and this level crawls because of its size. I would recommend something faster. It could be called poor design since I didn't know this level would be so large when I began. Otherwise, I think this a great level. I have been told that this level is a good representation of the macintrashes and general layout of the school. I know the graphics for the macs came from another patch file for Doom, but I do not remember where. Type 'SCHOOL' in the Doom directory to play this level.",
+	"version": "104b0b",
+	"date": "2014-08-30 14:33:43",
+	"files": [
+		{
+			"filename": "school.wad",
+			"size": 436370,
+			"crc": 2871727239,
+			"md5": "a4bddf7e2aaac1293c79de29e2f50d5d",
+			"sha1": "104b0b204fa857e26bd2a94d23046b3fb97347a3",
+			"sha256": "422f1a5ada6ce4b6c9d182b18a51a39c40a2ca43aaa03d4be1e10f9002df48dd"
+		}
+	]
+}

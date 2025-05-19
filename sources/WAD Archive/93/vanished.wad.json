@@ -1,0 +1,16 @@
+{
+	"uid": "vanished.wad",
+	"name": "Vanished Colony",
+	"description": "10 level episode for Doom2. First half takes place in a moonbase and second half in hell. Includes original Ultimate Doom music. Music remix wads should work with this episode.",
+	"date": "2016-10-17 16:56:37",
+	"files": [
+		{
+			"filename": "vanished.wad",
+			"size": 12070742,
+			"crc": 2778047759,
+			"md5": "7d5faf25629e0fb56d0b2a284971515b",
+			"sha1": "9392efc1ce2bfa2510f6f704d34ef18e772a0f18",
+			"sha256": "c3eac112e7800fe07048a519fd1fd9c356a6b20aa11a692c79c04d3ca37bf17b"
+		}
+	]
+}

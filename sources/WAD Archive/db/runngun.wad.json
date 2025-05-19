@@ -1,0 +1,16 @@
+{
+	"uid": "runngun.wad",
+	"name": "\"Run-n-Gun\", final version",
+	"description": "My third weapon decorate mod. I wanted to make something fast, with interesting weapons and at the same time to realize here the best ideas from some other weapon mods. You judge, if I was succesful or not.",
+	"date": "2013-04-18 23:16:15",
+	"files": [
+		{
+			"filename": "runngun.wad",
+			"size": 3869760,
+			"crc": 3203513279,
+			"md5": "4be5555ca18ddf3e5ae03bdfc44e66b5",
+			"sha1": "db41de4f81ccf446e781c1854540e86e17324c8e",
+			"sha256": "11fcc5a20e44fc28f0262eccfbfded3a0bf693f6151a7b36f28f7eb84980dfb8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "palace (aa1497).wad",
+	"name": "PALACE.WAD",
+	"description": "Visit the palace of the evil Baron, its dungeons and torture room. Then go on to a seaside cottage. If, of course, you can manage to get there ... For those that can find them, there are some helpful gifts in several secret rooms. This is a replacement of an earlier version of PALACE.WAD, dated april 30, 1997. There were some slight improvements.",
+	"version": "aa1497",
+	"date": "2015-01-14 22:52:33",
+	"files": [
+		{
+			"filename": "palace.wad",
+			"size": 237209,
+			"crc": 2325492162,
+			"md5": "ec330a5dbcb5de94fdf5be8e694f66c5",
+			"sha1": "aa1497d561d5b1e76546db58c304ea6c1760b218",
+			"sha256": "ee1e210b3f9c99dcf7bae2737b37e491fbf9365f6e6640f483747be740ed66fa"
+		}
+	]
+}

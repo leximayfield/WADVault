@@ -1,0 +1,17 @@
+{
+	"uid": "dmbluf (dfe274).wad",
+	"name": "BLUDFEST.WAD",
+	"description": "Basically you run around shooting at monsters and picking up stuff while the monsters are shooting at you.",
+	"version": "dfe274",
+	"date": "2013-11-02 15:06:24",
+	"files": [
+		{
+			"filename": "dmbluf.wad",
+			"size": 199142,
+			"crc": 1693998790,
+			"md5": "66ac7547423e9335f65299ce9e10d5d2",
+			"sha1": "dfe2749a88b2bff34e8ccdaa250c5dad5c26665b",
+			"sha256": "c5620c1aaf5edbf6b257c2c578cd32f5eefb716590f0dd23c3d022c7ea9d1167"
+		}
+	]
+}

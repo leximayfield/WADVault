@@ -1,0 +1,16 @@
+{
+	"uid": "DTherapy.wad",
+	"name": "Deathmatch Therapy ver.1",
+	"description": "This is my first deathmatch (or FFA) design attempt. I took some inspiration from Brit DM mappacks. I abused some gothic textures, so I hope you like them ;) Version 1 has 3 maps. If I make another similar DM map I will upgrade this with that map and release higher version. ;)",
+	"date": "2013-04-19 03:51:26",
+	"files": [
+		{
+			"filename": "DTherapy.wad",
+			"size": 1335863,
+			"crc": 1060635578,
+			"md5": "c7f60d42b5c61a16a481ec11a2e51f8c",
+			"sha1": "a7e4f77f13c9c7494d95ab5337c06930b047eba5",
+			"sha256": "24f3c5e9124d3bb3024c8b85ff87ee22395cece33ee24b2e47566fb9f2bc1e11"
+		}
+	]
+}

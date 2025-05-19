@@ -1,0 +1,16 @@
+{
+	"uid": "josh.wad",
+	"name": "Josh's DOOM ][ Sounds Variety Pack",
+	"description": "This WAD is a collection of sounds that I had lying around in my \\SOUNDS\\ directory. Plus, I also included some converted MIDI files. The sounds include: Simpsons characters (Krusty, Bart, Barney, Homer) Richard Nixon Fozzy Bear Al Bundy Arnold Schwartzenegger (sp?) Butthead A Cow The music includes: The Hallelujah Chorus The 1812 Overture Part of Beethoven's 5th Symphony The Blue Danube Flight of the Bumblebee Ode to Joy Mozart: K.622 Tocatta and Fugue in D Minor Run God mode (iddqd) to find out the one real graphics change.",
+	"date": "2014-12-11 22:16:04",
+	"files": [
+		{
+			"filename": "josh.wad",
+			"size": 572471,
+			"crc": 1315141283,
+			"md5": "ffff3405e4fa20058d36e69222f66aff",
+			"sha1": "ca497436ece4a93574501ce22fa14c3c1d30f816",
+			"sha256": "36e0a0153d9517a36fa538b878a209d62b1957845bcae2224405521a7f9601a8"
+		}
+	]
+}

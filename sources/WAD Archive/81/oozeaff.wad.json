@@ -1,0 +1,16 @@
+{
+	"uid": "oozeaff.wad",
+	"name": "The Oozing Affair",
+	"description": "Nine maps using Chex Quest resources for E1 of Ultimate Doom.",
+	"date": "2013-04-20 17:28:18",
+	"files": [
+		{
+			"filename": "oozeaff.wad",
+			"size": 11132453,
+			"crc": 3168074015,
+			"md5": "84215d64c85415d3ac74bb203bc9d784",
+			"sha1": "813907e1e4b1cfe95d2f9aed03b94fd064d3a162",
+			"sha256": "d0dc63b718c8bb58f92a8a8778977c3c4be7f40bdb341d5ffedc5ed44f86754c"
+		}
+	]
+}

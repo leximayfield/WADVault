@@ -1,0 +1,17 @@
+{
+	"uid": "xa-sharp (4cffd0).wad",
+	"name": "Sharp Things",
+	"description": "Single map for Ultimate Doom.",
+	"version": "4cffd0",
+	"date": "2018-02-15 20:45:42",
+	"files": [
+		{
+			"filename": "xa-sharp.wad",
+			"size": 980360,
+			"crc": 348253306,
+			"md5": "4f3a7f0d573dc61f7c79a278ce33728c",
+			"sha1": "4cffd08107935d6d6e4e70a15411358425240c33",
+			"sha256": "aaa30759d251e8c39cc3ebb30efe4452f4f3e6a0aaa4eca228c0b749ee8f224a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "le-blstr.wad",
+	"name": "Blaster from Quake 2 (with muzzle flash)",
+	"description": "This is a Doom mod which replaces the Pistol with the Blaster from Quake 2. ever notice that the quake 2 weapons doesn't have muzzle flash? that's the reason because this mod is different",
+	"date": "2014-12-11 22:28:30",
+	"files": [
+		{
+			"filename": "le-blstr.wad",
+			"size": 41741,
+			"crc": 3115950236,
+			"md5": "73c64ffd25bd5098bedee969b3422eb1",
+			"sha1": "da7445aa2a19108464c6cc90be931f42ee0739dd",
+			"sha256": "3144a5a1a00135f8958f007e9d229d9007ba20dc135fa918b3532a5978ce280a"
+		}
+	]
+}

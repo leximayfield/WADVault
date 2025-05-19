@@ -1,0 +1,17 @@
+{
+	"uid": "clash (f78621).wad",
+	"name": "CLASH.WAD",
+	"description": "This is a very small wad, but it\u00b4s extremely hectic with three or four players. No extra ammo, just pick up your weapons and kill your friends. You are bound to get hit yourself, so you may have to commit suicide in the two suicide pits. Hint: play the wad until one of the players has, say, 10 or 15 kills. (That should take about 10 mins.) Then exit and restart.",
+	"version": "f78621",
+	"date": "2014-10-22 22:54:12",
+	"files": [
+		{
+			"filename": "clash.wad",
+			"size": 42576,
+			"crc": 1968153841,
+			"md5": "876731a3902d85483ce0947434fbfb42",
+			"sha1": "f786215f79562d3fe9ccdaeac89dec6c7a2427cf",
+			"sha256": "664411bce9861dc574602bd7e5bb0b36243bc284d1dfd671934cd1b2cf671bf5"
+		}
+	]
+}

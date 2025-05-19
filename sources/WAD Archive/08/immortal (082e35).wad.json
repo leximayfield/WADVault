@@ -1,0 +1,17 @@
+{
+	"uid": "immortal (082e35).wad",
+	"name": "IMMORTAL",
+	"description": "Just a cool map with all kinds of guns, plenty of ammo's and health pick-ups. THAT'S A KICK-ASS WAD!",
+	"version": "082e35",
+	"date": "2017-04-12 21:51:34",
+	"files": [
+		{
+			"filename": "immortal.wad",
+			"size": 11440461,
+			"crc": 1014841884,
+			"md5": "808611a39a18387f6619286387af11fa",
+			"sha1": "082e35805a08026d642f5084ab7e15629f84f9f0",
+			"sha256": "e6ef7cf82be9f5ea693c2bb1e9553277a06743a2dd850c74ea58b4bc6fae4f25"
+		}
+	]
+}

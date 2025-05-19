@@ -1,0 +1,16 @@
+{
+	"uid": "d64deny.wad",
+	"name": "Redemption Denied",
+	"description": "The Redemption Denied expansion for the Doom64 TC, which also comes with the Outcast levels. This is the standalone zip file version.",
+	"date": "2014-12-22 18:36:34",
+	"files": [
+		{
+			"filename": "d64deny.wad",
+			"size": 7923016,
+			"crc": 2401182258,
+			"md5": "097effd90699ffff7571e69432ebda85",
+			"sha1": "48d8811f7a449f1a01b39a263be4ee27314c9e25",
+			"sha256": "e9e19278763dd41f57fe456dbc6fd87f8e9348af2eab8f55c7b1020abcb60d8e"
+		}
+	]
+}

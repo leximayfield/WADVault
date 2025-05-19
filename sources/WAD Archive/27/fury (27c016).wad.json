@@ -1,0 +1,17 @@
+{
+	"uid": "fury (27c016).wad",
+	"name": "Fury 1.0",
+	"description": "Fury When they closed down the old sewage works the Corporation decided that they could make some easy money by leasing out the property to the local police to be used as a prison. All went well for a few years but then, one day the entire population of the prison went missing... What could be lurking in the darkness of the abandoned Fury complex.",
+	"version": "27c016",
+	"date": "2014-12-15 22:21:11",
+	"files": [
+		{
+			"filename": "fury.wad",
+			"size": 100873,
+			"crc": 753591542,
+			"md5": "6b2edeb966008f44761625e6ba9f4fa2",
+			"sha1": "27c0160cd039a9ed6b3926b233f3deaeedea6b06",
+			"sha256": "c666d5a91a2c16022dc8b1dc867debc38e5fb5283ddb4a424ac1e660f515796b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "VSMOOTH (7ef6f3).wad",
+	"name": "Vanilla Doom smooth weapons patch",
+	"description": "This is a vanilla-compatible port of Per Kristian's smooth weapons patch. Included is a WAD with replacement sprites and a Dehacked patch.",
+	"version": "7ef6f3",
+	"date": "2018-05-02 00:31:16",
+	"files": [
+		{
+			"filename": "VSMOOTH.wad",
+			"size": 591804,
+			"crc": 1266489491,
+			"md5": "4a432b639b3599b7b72d8c01580b7de5",
+			"sha1": "7ef6f313426de609ef30215ae8b08b261153d54c",
+			"sha256": "60ea3ca0e39fec85d84529d91eb4e375961cb84db63a45b703b44725874e86b1"
+		}
+	]
+}

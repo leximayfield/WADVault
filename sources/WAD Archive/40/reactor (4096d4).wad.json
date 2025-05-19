@@ -1,0 +1,17 @@
+{
+	"uid": "reactor (4096d4).wad",
+	"name": "Reactor DM",
+	"description": "Level centered around nice architechture of the reactor core. Not much else.",
+	"version": "4096d4",
+	"date": "2014-12-15 22:48:38",
+	"files": [
+		{
+			"filename": "reactor.wad",
+			"size": 87184,
+			"crc": 2352025464,
+			"md5": "f48ae4628c2cbc186f2f59d62a087d87",
+			"sha1": "4096d4def816257c6c07447cfddf5a07605c9f9c",
+			"sha256": "da1d70ba6a6c4b0e0cdbb552ff0f6e8863b859422cf7aebcd98bc9ca74e2779d"
+		}
+	]
+}

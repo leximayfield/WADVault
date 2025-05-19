@@ -1,0 +1,16 @@
+{
+	"uid": "entrapment.wad",
+	"name": "entrapment",
+	"description": "A small tech based level designed for vanilla Doom2, best played on Ultra Violent setting and please disable any jump feature while using a source port.",
+	"date": "2014-12-18 22:32:09",
+	"files": [
+		{
+			"filename": "entrapment.wad",
+			"size": 276737,
+			"crc": 2882929318,
+			"md5": "8eb5fbb693f99ee83a1c3621c7152f04",
+			"sha1": "fb888ed7f2940e554bb8cc6604438f2a7ec08f18",
+			"sha256": "cb451d37bc25f7b631b72f8a7c42dea6267c8b3f158ac572ec7a6a1ddabed8f8"
+		}
+	]
+}

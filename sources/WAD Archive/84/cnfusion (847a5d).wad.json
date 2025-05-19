@@ -1,0 +1,17 @@
+{
+	"uid": "cnfusion (847a5d).wad",
+	"name": "cnfusion.WAD",
+	"description": "I made this wad file right after I discovered DEU, the almighty doom level editor. This is an experi- mental level for me. I made it as I was learning DEU and its how to. This is why there is no general theme to this wad ( Hence the name confusion). I will make my future pwad files with a general theme in mind. I would hope that you enjoy this level. I would also greatly appreciative if you could drop me a line and let me know what you thought of this wad (Good or Bad). If there were any concept, rooms and or ideas you liked or disliked.",
+	"version": "847a5d",
+	"date": "2013-11-02 15:18:26",
+	"files": [
+		{
+			"filename": "cnfusion.wad",
+			"size": 145883,
+			"crc": 1205445574,
+			"md5": "27ba19db391851eae0b14e11f6e32cc4",
+			"sha1": "847a5d8547e29955b8d37d9f42105dbbeef0dfbb",
+			"sha256": "65a20d32225cd8e8a94d6221f1be7ac1b1ffbd395887855a1b44248daf0ab0f9"
+		}
+	]
+}

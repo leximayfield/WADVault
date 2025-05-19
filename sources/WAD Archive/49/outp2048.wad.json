@@ -1,0 +1,16 @@
+{
+	"uid": "outp2048.wad",
+	"name": "Outpost 2048",
+	"description": "A techbase in the middle of nowhere. The gameplay concentrates on fighting with the basic weapons (no rockets or plasma). The playing area is limited to a square of 2048x2048 units. Jumping is allowed but not required. New music made by me for this project is also included.",
+	"date": "2016-03-27 21:38:44",
+	"files": [
+		{
+			"filename": "outp2048.wad",
+			"size": 315067,
+			"crc": 1727069742,
+			"md5": "b4c9662211ff6c296e2918430aaad7c1",
+			"sha1": "49f35d471e7fb794061482a92c32e94a23a6c167",
+			"sha256": "dbc3e517d0186a62a448938ba693b26d1f043163d7f9b9d52c2587dedbe29b6e"
+		}
+	]
+}

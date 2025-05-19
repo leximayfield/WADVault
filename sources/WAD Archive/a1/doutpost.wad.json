@@ -1,0 +1,16 @@
+{
+	"uid": "doutpost.wad",
+	"name": "Military Outpost",
+	"description": "Just another deathmatch wad I decided to make when bored. Please try it out with your friends. Tell me what you think of it.",
+	"date": "2017-06-25 20:45:56",
+	"files": [
+		{
+			"filename": "doutpost.wad",
+			"size": 137085,
+			"crc": 4251822995,
+			"md5": "9127268b1f91953b262a52433623efdc",
+			"sha1": "a1de4f64ba684f37cab230d1777cdc017627ecca",
+			"sha256": "d6c4685a2f603ad9d7af3b93edb416581382df8d597959bee0d35607b8c66028"
+		}
+	]
+}

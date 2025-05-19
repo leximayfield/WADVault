@@ -1,0 +1,16 @@
+{
+	"uid": "livid.wad",
+	"name": "Livid.WAD",
+	"description": "Just a DM wad that I threw together on a sleepless night. :) It's sorta like a keep, though there is no outside.",
+	"date": "2014-12-15 21:35:33",
+	"files": [
+		{
+			"filename": "livid.wad",
+			"size": 371964,
+			"crc": 2482928473,
+			"md5": "4528de8c0a10eec5d3c5c57e7e853bc8",
+			"sha1": "2603d5d472cb89431c4216274b9888f46daeba46",
+			"sha256": "9430f711885f8c980008eb4c54fbbe29f035f3cc918e00cf0ae9d702b36297bb"
+		}
+	]
+}

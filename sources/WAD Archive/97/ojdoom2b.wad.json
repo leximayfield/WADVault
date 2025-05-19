@@ -1,0 +1,16 @@
+{
+	"uid": "ojdoom2b.wad",
+	"name": "O.J. DOOM II  (version 'b')",
+	"description": "A simple, single-player map for Doom II mostly designed to show-case the new monster ... O.J. Simpson, who shoots \"Kato Kalen\" fireballs at you (replaces the Cacodemon).",
+	"date": "2015-09-15 19:34:24",
+	"files": [
+		{
+			"filename": "ojdoom2b.wad",
+			"size": 165953,
+			"crc": 3774287059,
+			"md5": "b10f9a1915fe59b0b0e172a74bdddc72",
+			"sha1": "974968d1a54338f50d4dc9eaee96bc31cb41029b",
+			"sha256": "a416ac9088d8317474def0f79f89ddd005c216d8e6b0b84012b0287fb5778723"
+		}
+	]
+}

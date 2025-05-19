@@ -1,0 +1,16 @@
+{
+	"uid": "uac-op11.wad",
+	"name": "UAC Outpost 11",
+	"description": "The first level from a megawad that I will never take the time to finish. It's a decent map in my opinion, but nothing special.",
+	"date": "2014-12-29 17:22:53",
+	"files": [
+		{
+			"filename": "uac-op11.wad",
+			"size": 234687,
+			"crc": 551299536,
+			"md5": "b838cd4c5b5edcace6a9206c3db2da15",
+			"sha1": "07d69e3453798c26d358293bc59f019826ca2390",
+			"sha256": "267a1209b69a52702600b7c3b2c5fb7b3c3846eaa02808011b97b79c65912d6d"
+		}
+	]
+}

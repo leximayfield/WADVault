@@ -1,0 +1,17 @@
+{
+	"uid": "DARKNESS (e5435a).wad",
+	"name": "Disciples of Darkness",
+	"description": "Four challenging, limit-removing levels for Doom 2, inspired by various authors and maps (see the bottom of this file for further informations).",
+	"version": "e5435a",
+	"date": "2017-08-18 21:05:13",
+	"files": [
+		{
+			"filename": "DARKNESS.wad",
+			"size": 3260851,
+			"crc": 1686169247,
+			"md5": "8a6e80bbd7e1c4ac3ed3775bdade202d",
+			"sha1": "e5435a979da6bbd26f980d042b65c2a0a0de56de",
+			"sha256": "4d7507ee5164d92bf79b9f94241c0fa7e63c412775bbc57792f9e3865a148d63"
+		}
+	]
+}

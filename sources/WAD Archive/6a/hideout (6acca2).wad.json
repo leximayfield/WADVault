@@ -1,0 +1,17 @@
+{
+	"uid": "hideout (6acca2).wad",
+	"name": "The Hideout (AKA FUN!!)",
+	"description": "This is my favourite level that I have done. It is a very simple and stright- forward level. It is basically a square shaped level that has different levels. Each inner level is lower than the others. It starts with hitting the former humans with shootguns, then get to the next level and all hell breaks loose! This is great for Deathmatches too. (hint: go to the rooms where the monsters come from to get the weapons then go to the safer, top teleport room)",
+	"version": "6acca2",
+	"date": "2014-12-18 23:16:11",
+	"files": [
+		{
+			"filename": "hideout.wad",
+			"size": 52604,
+			"crc": 1119181936,
+			"md5": "6821702eef393c9823e12bfe8a7cbf38",
+			"sha1": "6acca2c488a6434b1ca73b2213775e636ddffdb6",
+			"sha256": "ef7fa2e6229d3a5d068599016d3cd4046a4ceed337649e7ddb850e59e0bf55bc"
+		}
+	]
+}

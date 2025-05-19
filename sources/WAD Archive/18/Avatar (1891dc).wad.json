@@ -1,0 +1,17 @@
+{
+	"uid": "Avatar (1891dc).wad",
+	"name": "Quest Of The Avatar",
+	"description": "This level will be the first of a few. I'm doing a trial thing. If you have any input, please help me out ;)",
+	"version": "1891dc",
+	"date": "2014-12-31 12:11:54",
+	"files": [
+		{
+			"filename": "Avatar.wad",
+			"size": 135242,
+			"crc": 2947262562,
+			"md5": "cb09b5f15786405cf58e816e6aded794",
+			"sha1": "1891dceaeb9fbddd088ddd78245674f54f0ad035",
+			"sha256": "e07e4dd035fe2fd0d7073b23933f801db2f61e46e9c3b25c6620f313403c0703"
+		}
+	]
+}

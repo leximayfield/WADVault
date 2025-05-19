@@ -1,0 +1,16 @@
+{
+	"uid": "gkeep.wad",
+	"name": "Gloom Keep",
+	"description": "A small dm level. A few corridors, four outside areas and a small arena in the middle.",
+	"date": "2014-12-15 22:35:05",
+	"files": [
+		{
+			"filename": "gkeep.wad",
+			"size": 153068,
+			"crc": 4117408282,
+			"md5": "0950b87e9911bf98e84c17cd3496bfd4",
+			"sha1": "f42cd9cd938298d61feca4cabb5111c6126280ec",
+			"sha256": "e77d6963c1c361336dd87df40b38e508331f0ca54bd6e628e5a754555b9dbb3e"
+		}
+	]
+}

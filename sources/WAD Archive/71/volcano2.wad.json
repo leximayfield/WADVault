@@ -1,0 +1,16 @@
+{
+	"uid": "volcano2.wad",
+	"name": "volcano2.wad",
+	"description": "Adventures in the caves of a volcano. This is a large level (actually 1/4 of what was planned, but betabsp started choking and we had to cut it short). This was our first wad, so we were really trying to find out what the DOOM engine was capable of doing.",
+	"date": "2015-01-14 22:55:10",
+	"files": [
+		{
+			"filename": "volcano2.wad",
+			"size": 188953,
+			"crc": 3236990190,
+			"md5": "514e94af67e74d19bc4f3ee60833fc18",
+			"sha1": "71c68206ee6cfdb7b31474256d0d99cf16e73b07",
+			"sha256": "c566730361e88adb91c55855c0c78a7dbc3d630dddf0bbc554599b0e5b50a1a5"
+		}
+	]
+}

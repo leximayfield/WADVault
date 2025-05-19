@@ -1,0 +1,16 @@
+{
+	"uid": "want.wad",
+	"name": "WANT.WAD",
+	"description": "This is the first wad I created, but hang on, it's taken over 3 years so I'm hardly a beginner by now !",
+	"date": "2014-12-13 12:45:46",
+	"files": [
+		{
+			"filename": "want.wad",
+			"size": 314938,
+			"crc": 2961283663,
+			"md5": "d0040438e084cad2e2cdb3e09e8c989c",
+			"sha1": "a7652faf712bece5617382b13d25e3890a672bc9",
+			"sha256": "476e0e6964c7d007cd73e33910cdfccc6cd0e2c8f672d1e2e575aa7899929856"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bunker (73baab).wad",
+	"name": "Bunker",
+	"description": "Four rusty steel bunkers to hide from heavy shelling, chaingun fire and the occasional BFG or two...",
+	"version": "73baab",
+	"date": "2014-12-15 22:15:43",
+	"files": [
+		{
+			"filename": "bunker.wad",
+			"size": 39332,
+			"crc": 3747104326,
+			"md5": "d0549f5e832a784705a5e3f79c82239f",
+			"sha1": "73baabf225390159b92dc0f9151811d26c25c00e",
+			"sha256": "289a61704414da360a13681d3861f5efc1c776a8ba40cb65500a5d19d22c987b"
+		}
+	]
+}

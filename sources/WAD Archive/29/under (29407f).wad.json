@@ -1,0 +1,17 @@
+{
+	"uid": "under (29407f).wad",
+	"name": "Under The City",
+	"description": "You've wiped clean the city, but you realise there's more awaiting down below. You climb down the nearest drain and find the door into the sewers. Carefully you open the door and go through. They haven't noticed you yet. Time to kick ass...",
+	"version": "29407f",
+	"date": "2013-11-02 16:53:21",
+	"files": [
+		{
+			"filename": "under.wad",
+			"size": 199274,
+			"crc": 3085238482,
+			"md5": "afbfd03d707f1496469198fa1e0460b7",
+			"sha1": "29407fbde80c8d0d4247017b1d3ae6cd7b7a8843",
+			"sha256": "7bd8b268d2cfb959f319e703242f772af34c079dd60c26b3b40a06b5319216c6"
+		}
+	]
+}

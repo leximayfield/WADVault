@@ -1,0 +1,17 @@
+{
+	"uid": "dmdavd (ee8cc8).wad",
+	"name": "DAVID2.WAD",
+	"description": "E1M1 map made from scratch. Not yet complete.......",
+	"version": "ee8cc8",
+	"date": "2013-11-02 15:08:46",
+	"files": [
+		{
+			"filename": "dmdavd.wad",
+			"size": 39148,
+			"crc": 765888958,
+			"md5": "8644cbe4968c79902aa09e23fd85a9c3",
+			"sha1": "ee8cc8f6a5b632891f9ea2f5527f2afe55cf2a06",
+			"sha256": "26b3f6eee38a481f7c8d78104d3e6688ef7f43199c9f5ed840cd361fc3fc391b"
+		}
+	]
+}

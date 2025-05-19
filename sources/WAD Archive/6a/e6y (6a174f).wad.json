@@ -1,0 +1,17 @@
+{
+	"uid": "e6y (6a174f).wad",
+	"name": "e6y",
+	"description": "2 levels for any doom ports without vanilla engine limitations (prboom 2.2.4. recommended)",
+	"version": "6a174f",
+	"date": "2018-05-28 22:38:43",
+	"files": [
+		{
+			"filename": "e6y.wad",
+			"size": 1856093,
+			"crc": 433076451,
+			"md5": "011566d238a7ff4d92e136139e4782de",
+			"sha1": "6a174f7a6ce1cdb8b9fb9303796f12f0aa7e2789",
+			"sha256": "f5cc0c43e4da72a83eb5454919a32cfbee40eebe6f387034232449030dbe5113"
+		}
+	]
+}

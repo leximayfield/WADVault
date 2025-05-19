@@ -1,0 +1,17 @@
+{
+	"uid": "cato_01 (d9b404).wad",
+	"name": "cato_01",
+	"description": "Update does not include any map changes. All skills are implemented.",
+	"version": "d9b404",
+	"date": "2014-12-15 22:13:15",
+	"files": [
+		{
+			"filename": "cato_01.wad",
+			"size": 92862,
+			"crc": 250938790,
+			"md5": "9e08fa715e5e188ad3ba1fecedcfba1e",
+			"sha1": "d9b40478ed0797ac319584a433a5df3bec626e1c",
+			"sha256": "779002d9df4a013868d4b7f31048f86a210866a5f8bfb46bd5988af085875821"
+		}
+	]
+}

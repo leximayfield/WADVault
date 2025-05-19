@@ -1,0 +1,16 @@
+{
+	"uid": "TPROCESS.wad",
+	"name": "The Process",
+	"description": "Another level cut from my megawad. Made in 2001 from an even older drawing. I had to fix several broken sectors and remove oddities thanks to ancient tools of the time. Megawad assets have also been removed. Enjoy tripping on lamps and lots of stupid barrels!",
+	"date": "2019-03-06 21:43:06",
+	"files": [
+		{
+			"filename": "TPROCESS.wad",
+			"size": 309205,
+			"crc": 1678569312,
+			"md5": "46d6c86ae50df4aaa02637471e8321db",
+			"sha1": "8cec3c3b23a86c045f60f7b88eb98b62f6d91416",
+			"sha256": "5938c403f150093d9e56c1e1f590fdcdea8d06aceae62553f12cad0a57354449"
+		}
+	]
+}

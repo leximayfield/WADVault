@@ -1,0 +1,16 @@
+{
+	"uid": "infernus.wad",
+	"name": "Plane of Infernus",
+	"description": "Upon exiting the secret UAC labs, you are pulled through the aether to the Plane of Infernus, to which the labs' interdimensional teleporter was linked. You vow to avenge the marines who died fighting the invading hordes of Infernus by slaughtering anything in your way, but the forces of Hell have other ideas...",
+	"date": "2014-12-24 18:54:11",
+	"files": [
+		{
+			"filename": "infernus.wad",
+			"size": 270296,
+			"crc": 923739388,
+			"md5": "b50cfc6eab65b7d16acc2ad43fc7c75d",
+			"sha1": "e76a37e4cc4cd2008556ea0889093a2131484670",
+			"sha256": "f9c493a5ba97e139e9be06963c2bbd660c622d2054c5712438d63b8e22aa362e"
+		}
+	]
+}

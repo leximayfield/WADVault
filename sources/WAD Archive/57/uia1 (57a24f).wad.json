@@ -1,0 +1,17 @@
+{
+	"uid": "uia1 (57a24f).wad",
+	"name": "UIA1",
+	"description": "This level is based on the library of the university, and I also included the gardens and the outer part of the coffe shop (that big hole next to the gardens). The chapel is not very accurately represented, but it's recognizable. A friend gave me the idea to make this wad; I think it's cool to deathmatch you buddies in a place that you know in real life. Anyway, for those of you who've never seen the campus, this is a chance to be there. You can play this level in single-player mode, but it's rather boring. I built it with DeathMatch in mind.",
+	"version": "57a24f",
+	"date": "2014-01-07 22:05:41",
+	"files": [
+		{
+			"filename": "uia1.wad",
+			"size": 143348,
+			"crc": 2079436079,
+			"md5": "9ccb3db6347b996beb6a14927378666d",
+			"sha1": "57a24f08e3b027eff4db641202c9fe93b12471a3",
+			"sha256": "587686bf1844e17a8e249ddfd9748fe315f3deff90fa4eb737563f07c0c42731"
+		}
+	]
+}

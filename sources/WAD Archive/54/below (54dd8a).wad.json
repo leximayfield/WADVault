@@ -1,0 +1,17 @@
+{
+	"uid": "below (54dd8a).wad",
+	"name": "\"Below\"",
+	"description": "My first levels ever. More will be added in future releases. No jumping and crouching, with freelook. In the first map \"Entrance\", you find the entrance to a hidden cave and while venturing below, uncover remnants of old ruins and a hidden temple with the entrance to the second level \"Realm of Sakkath\". There, you follow the path of water to monster-infested lava caves. In a huge hall, the giant door to the third level, \"Temple of Hate\", awaits. All maps are small/medium-sized. map01: \"Entrance\" map02: \"Realm of Sakkath\" map03: \"Temple of Hate\" If you find texture-errors, bugs, etc. please do not hesitate to contact me, so i can update the wad and others may benefit from.",
+	"version": "54dd8a",
+	"date": "2019-10-10 22:33:42",
+	"files": [
+		{
+			"filename": "below.wad",
+			"size": 3907511,
+			"crc": 1157278313,
+			"md5": "88485c2f3a74bf938934de80770f15f8",
+			"sha1": "54dd8a842b9fc8bc57970953239481b056a80ef0",
+			"sha256": "2fe42a9429c58f1c52304d032bc39d77b214ed512609cbabf487e03e4b142f50"
+		}
+	]
+}

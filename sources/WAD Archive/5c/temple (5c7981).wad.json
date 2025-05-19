@@ -1,0 +1,17 @@
+{
+	"uid": "temple (5c7981).wad",
+	"name": "Temple",
+	"description": "A level solely for deathmatch",
+	"version": "5c7981",
+	"date": "2018-03-11 17:39:27",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 53533,
+			"crc": 2028692810,
+			"md5": "cc414a6cd695d01926d4a02b013a9447",
+			"sha1": "5c79810a2cde4ca64c81afe1dd6d6f9de7746cc9",
+			"sha256": "6c5d4c13e84d2bcfed36f694995e79a3c75c923105000ba210a5201a2fe74c86"
+		}
+	]
+}

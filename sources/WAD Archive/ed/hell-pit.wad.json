@@ -1,0 +1,16 @@
+{
+	"uid": "hell-pit.wad",
+	"name": "The Hell Pit",
+	"description": "The hell pit is a fast paced deathmatch map with secret doors leading to",
+	"date": "2014-12-15 21:55:12",
+	"files": [
+		{
+			"filename": "hell-pit.wad",
+			"size": 1021914,
+			"crc": 2322625911,
+			"md5": "e4b976885c87c1f24f09ea93fa49cb3a",
+			"sha1": "ed5b80cf82ee4f972a21d69f4c85896def3d7e6c",
+			"sha256": "0b2a0671220a052c720b1973392369cf9bf91f500c54df15e4f3844e3445a6d2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "the_keep (ce7be8).wad",
+	"name": "Deathmatch: THE KEEP, for Doom II",
+	"description": "New level from scratch. Tried to get the feel of a fortress, but still keep it small enought to have a high frag count.",
+	"version": "ce7be8",
+	"date": "2014-12-03 19:59:49",
+	"files": [
+		{
+			"filename": "the_keep.wad",
+			"size": 216884,
+			"crc": 1838148206,
+			"md5": "21ac15d6d9e03aed6e528adbcc9a2a5e",
+			"sha1": "ce7be8c35b2d66404273dcd50954107ac967c4e9",
+			"sha256": "f5f48b442326ca60add8ca094818f378600afb47505aca0db83be8373c143d03"
+		}
+	]
+}

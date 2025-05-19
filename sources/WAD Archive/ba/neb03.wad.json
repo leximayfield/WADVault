@@ -1,0 +1,16 @@
+{
+	"uid": "neb03.wad",
+	"name": "Nebula 95: Human Earrings",
+	"description": "Third entry in a series of small vanilla doom maps in a space adventure built off personal nostalgia. Each entry consists of a two short maps: an introductory monsterless map with a single secret to find before tackling the mission, and the main map itself. I release them in the order they are made, but the difficulty depends on the map. This small exploratory styled map is the hardest one in the series so far. It has a very non-linear and interconnected layout, almost to the point of being a deathmatch map...but funnily enough unlike the previous two entries this map isn't based on any of my deathmatch layouts. This is it's first debut.",
+	"date": "2018-04-15 23:11:44",
+	"files": [
+		{
+			"filename": "neb03.wad",
+			"size": 940791,
+			"crc": 639498716,
+			"md5": "a78353358cfcd9d4c9008436684a8c5e",
+			"sha1": "ba8f6cf2ce630f1a4ecc1cf18cf094dbdbe7962a",
+			"sha256": "a2a7737f1caf4ba7b13775fd0a7615ae94d0c72be8f8782ca90ec9458bf48011"
+		}
+	]
+}

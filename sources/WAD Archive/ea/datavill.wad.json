@@ -1,0 +1,16 @@
+{
+	"uid": "datavill.wad",
+	"name": "Dataville",
+	"description": "My first map for HacX, and the first of my 'Alternative HacX' series. On the HacX front, I am dedicated to making HacX maps as constructed from the original plan - given to me by Nostromo along with HacX v1.0 and 1.1. As this map is cyberspace, I had some trouble finding matching textures and flats - it may look ugly to you in parts, but that is not entirely my fault. Forgive me if the outer area lacks detail, but I really couldn't be bothered to make all those other buildings blink as well. :-) (After all, the Internet was not designed with aesthetics in mind.) This WAD has new music, written HacX-style by me, it is included in the WAD as a MIDI file for all you budding composers out there to goggle at and admire. :-)",
+	"date": "2014-12-30 11:34:10",
+	"files": [
+		{
+			"filename": "datavill.wad",
+			"size": 271980,
+			"crc": 4197325013,
+			"md5": "75709d81bb017d54a7e65d80d675ad7f",
+			"sha1": "ea4d98606e886cf294778805d78165ebbbd99a37",
+			"sha256": "a0d3eaa117e2b83cab17314c02915ff9e47e0cddccfed5403ab081d239424ec0"
+		}
+	]
+}

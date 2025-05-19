@@ -1,0 +1,17 @@
+{
+	"uid": "maze (73ba30).wad",
+	"name": "Maze of Death",
+	"description": "Maze of Death is a very good Death Match level. There are secret doors, monsters, lots of weapons, stairs, traps, a lava hall, and a secret room filled with power ups.",
+	"version": "73ba30",
+	"date": "2013-11-03 17:49:05",
+	"files": [
+		{
+			"filename": "maze.wad",
+			"size": 68347,
+			"crc": 1349899793,
+			"md5": "9ee012f1b7304aadaa383e0d7998fed3",
+			"sha1": "73ba30a03416b7788cb860a8e5325db82f415c76",
+			"sha256": "e233b0b71777057a339b02ac78c6829c8322c9c9750b6ebe099dc702d2a081d0"
+		}
+	]
+}

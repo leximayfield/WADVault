@@ -1,0 +1,16 @@
+{
+	"uid": "HEXNIM2B.wad",
+	"name": "Hexen Nimble",
+	"description": "A medium-sized HeXeN level, geared for people who can control their characters in a strategy deathmatch.",
+	"date": "2014-10-28 21:52:09",
+	"files": [
+		{
+			"filename": "HEXNIM2B.wad",
+			"size": 109825,
+			"crc": 2264901108,
+			"md5": "49c72b1847a54928eb4950bcf4ded4b9",
+			"sha1": "586bea627fec00a5c7868fb60256878cdeacab02",
+			"sha256": "ad511a1f3e194d5ec50652b6b788e58efe2218f61caca16d5af5274e92258d75"
+		}
+	]
+}

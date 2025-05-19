@@ -1,0 +1,17 @@
+{
+	"uid": "castle (1742f1).wad",
+	"name": "Castle",
+	"description": "Like the name says...this is a castle. It's got lots of furniture, 2 towers, a throne room, a library, a dining hall, a king and queen's bedroom, 7 living quarters, a small dungeon, a secret chamber, a moat, and a neat fireplace (sort of).",
+	"version": "1742f1",
+	"date": "2014-12-15 21:35:22",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 392564,
+			"crc": 2910266702,
+			"md5": "30a759a68636b49ce068a7a7d5c57a04",
+			"sha1": "1742f1227847518f5c00a373efc46a80d3727281",
+			"sha256": "76ee302fecf6cac40be78f4991188c9be9e07fe6c54af538b3633f4772c09055"
+		}
+	]
+}

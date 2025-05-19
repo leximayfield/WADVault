@@ -1,0 +1,17 @@
+{
+	"uid": "hq (32ba1c).wad",
+	"name": "HQ.WAD",
+	"description": "This level may be played all by itself as the second level of the second game, but is intended to be played as the second level after the \"CANYON.WAD\" (At the end of CANYON.WAD, you're loaded up with ammo, etc., which is particularly useful for less-experienced players who are playing at a higher-difficulty level)",
+	"version": "32ba1c",
+	"date": "2013-07-09 20:23:44",
+	"files": [
+		{
+			"filename": "hq.wad",
+			"size": 297327,
+			"crc": 2995893106,
+			"md5": "52a456ba1a1a506f689e1ed8f229f5f1",
+			"sha1": "32ba1c2119de96924a21e1d3ccdc2208970c762f",
+			"sha256": "00891647af72c526a456c8872f549d392e467303684c7f952f9b70e3f49b1572"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "11space (e64a90).wad",
+	"name": "11SPACE.WAD",
+	"description": "\"An enemy spaceship has approached our planet and is now in a low orbit. We beamed a squad of soldiers aboard in the hopes that they could somehow subtly sabotage and destroy it, but we've lost contact with them. In their last transmission, they indicated that they were trying to get to the helm on the bridge and slow the ship enough that it drops out of orbit and burns up in the atmosphere. The ship now has its deflectors up and beaming aboard is no longer an option, however, the ship's deflectors do not interfere with it's own beaming device, nor with non-light-energy based weapons. So now, the only way we can break into the ship is with brute force.",
+	"version": "e64a90",
+	"date": "2014-01-11 11:12:49",
+	"files": [
+		{
+			"filename": "11space.wad",
+			"size": 125984,
+			"crc": 512963783,
+			"md5": "3e90d2663706cc478f9bb378a55995cd",
+			"sha1": "e64a90a287bdfad6025cf1c3cf9f73defa060a60",
+			"sha256": "0e1a1800edf7f439040ec9014432487f713d1fc1b6fee4241558abd15226c29c"
+		}
+	]
+}

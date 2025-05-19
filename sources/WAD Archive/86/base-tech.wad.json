@@ -1,0 +1,16 @@
+{
+	"uid": "base-tech.wad",
+	"name": "UAC computer centre.",
+	"description": "A large and complex base map with many inspirations drawn from other maps such as E1M1. This map is for E4M1.",
+	"date": "2016-06-16 23:28:52",
+	"files": [
+		{
+			"filename": "base-tech.wad",
+			"size": 738923,
+			"crc": 3249274190,
+			"md5": "5c64fba9b18e952f67a57a8f0b30b6b6",
+			"sha1": "86c6f8f9d774b4b8f4416f9e7eecb542663e1540",
+			"sha256": "069989ec752850e0c3a6fd5cf2823eccb18a5bf63c28a2c8f1f6b730a262adbe"
+		}
+	]
+}

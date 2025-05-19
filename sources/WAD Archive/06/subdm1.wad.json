@@ -1,0 +1,16 @@
+{
+	"uid": "subdm1.wad",
+	"name": "Submerge Deathmatch Pack 1",
+	"description": "6 maps for Deathmatch, and 3 for Capture the flag! This is my first major WAD debut, so",
+	"date": "2013-04-19 01:32:07",
+	"files": [
+		{
+			"filename": "subdm1.wad",
+			"size": 3254350,
+			"crc": 1506128838,
+			"md5": "b667bcaeeca0bd0aeaea442bc1475ea8",
+			"sha1": "06bee77276bd62c6dfb7a31fcb92cd4e7e74964d",
+			"sha256": "53ffe67bfd48b2432ed7dd2625dda045e3d41c3ece2abe0d92316f6bb9365cc9"
+		}
+	]
+}

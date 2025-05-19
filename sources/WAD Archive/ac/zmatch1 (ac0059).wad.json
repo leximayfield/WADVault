@@ -1,0 +1,17 @@
+{
+	"uid": "zmatch1 (ac0059).wad",
+	"name": "Doom Deathmatch Pack 1",
+	"description": "Just a bunch of Deathmatch levels.",
+	"version": "ac0059",
+	"date": "2016-02-07 20:31:47",
+	"files": [
+		{
+			"filename": "zmatch1.wad",
+			"size": 82308,
+			"crc": 4159966385,
+			"md5": "eb81867ac40977d5f006fec0f79f6570",
+			"sha1": "ac005944ceed3b6b3a2a9ae4df9ec08aac1f9e0a",
+			"sha256": "e05a5207a95e1d0122efd78a90e8a177fa7ba3413758fe811ee68aa8c1e664a2"
+		}
+	]
+}

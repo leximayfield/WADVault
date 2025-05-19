@@ -1,0 +1,16 @@
+{
+	"uid": "vpack.wad",
+	"name": "Valkyrie Pack",
+	"description": "This is a DosDoom Deathbot DM Pack specifically made for the Valkyrie DosDoom mod. My thanks to Captain Mellow for the good work on the Valkyrie mod.",
+	"date": "2014-12-15 21:48:31",
+	"files": [
+		{
+			"filename": "vpack.wad",
+			"size": 3546214,
+			"crc": 840611597,
+			"md5": "bbe97161d8b19e1bd44f034d6162e2cc",
+			"sha1": "5159197a086c83a18011e40a2fb27d177f081564",
+			"sha256": "c70ce8e1bab38d7bbc9144545c2ad47bb3add1d92db02d0ca495a39defcf1ec9"
+		}
+	]
+}

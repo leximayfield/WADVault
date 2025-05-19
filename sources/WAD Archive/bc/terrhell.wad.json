@@ -1,0 +1,16 @@
+{
+	"uid": "terrhell.wad",
+	"name": "Terra Hell Minigames",
+	"description": "UPDATED: hard maps. each map can be considered a game of its own. lots of ACS scripting! it's just a crap map set with a very linear and randomized layout which is not as meaningful regarding pertinence to the saga of the game, but does have a lot of obstacles, traps and puzzles. (uploaded after being banned from being uploaded for unorthodox gameplay.) saving only works in GZDoom and other more advanced ports.",
+	"date": "2017-03-16 20:40:21",
+	"files": [
+		{
+			"filename": "terrhell.wad",
+			"size": 17674892,
+			"crc": 3435619334,
+			"md5": "8d27595b24f9e6d7d36fa9758e7a9e9f",
+			"sha1": "bc87f030e32f084fe8267d532c4c0d49461a55a0",
+			"sha256": "0e45a3a67a8c715b410dd05a754f586b7a1034ae1be613a84e985ab3f74c118b"
+		}
+	]
+}

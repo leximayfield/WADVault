@@ -1,0 +1,16 @@
+{
+	"uid": "cotfi.wad",
+	"name": "Castle of the Far Island",
+	"description": "One short oldschool-style map. Music: \"Galaxy\" by Mark Klem. Textures: Eternal IV, Hexen, Requiem. Sky was made by LigH.",
+	"date": "2014-12-21 15:06:13",
+	"files": [
+		{
+			"filename": "cotfi.wad",
+			"size": 3620256,
+			"crc": 3658806483,
+			"md5": "c17763919f59855a0d7609a0bf54fd0f",
+			"sha1": "26337f17cf95b0aaea51c60cd2e2c48db04336a9",
+			"sha256": "54a0774cf036e887c4066770b6aa8cbf64c017dd78b9fe014a093ef8f3d3955d"
+		}
+	]
+}

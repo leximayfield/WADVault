@@ -1,0 +1,16 @@
+{
+	"uid": "dhspd3.wad",
+	"name": "Doom Hero's Speedmap for speedruns 3",
+	"description": "A speedmap for speedrunners. This one's quite a bit harder I think than my last two.",
+	"date": "2018-05-28 22:48:07",
+	"files": [
+		{
+			"filename": "dhspd3.wad",
+			"size": 49581,
+			"crc": 4160807989,
+			"md5": "b90ff781b9e46bb962fd16ed84205c50",
+			"sha1": "cd04db127f245ed1780f8c200c73c60d885f25bc",
+			"sha256": "1cace45f459b411411b1bf56798d2d4bfd674dd89325181b6ac881bd5793ee7d"
+		}
+	]
+}

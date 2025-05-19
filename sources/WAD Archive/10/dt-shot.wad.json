@@ -1,0 +1,16 @@
+{
+	"uid": "dt-shot.wad",
+	"name": "Alternate Shotgun",
+	"description": "Replaces the DooM shotgun with a new one. Uh... it's black, you hold it off to the side, you don't lift it over your head to pump it.... Oh, and as an added bonus, you can reload faster. I mean, you're a Marine for Christ's sake! You should be able to work the pump like it's your own cock on prom night...",
+	"date": "2014-12-10 22:47:30",
+	"files": [
+		{
+			"filename": "dt-shot.wad",
+			"size": 36516,
+			"crc": 161648292,
+			"md5": "d05fe7e401b20175e868b2d9724acf24",
+			"sha1": "103b7efd89b2b8cd50c04a69ad3c1ab35380b9d1",
+			"sha256": "7f3348c54bf745a56633b7dc5a1ae5b0e4462e1e810ccb3a316c68c016382378"
+		}
+	]
+}

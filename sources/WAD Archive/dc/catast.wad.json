@@ -1,0 +1,16 @@
+{
+	"uid": "catast.wad",
+	"name": "Catastrophe",
+	"description": "Catastrophe is a doom2 wad based on an abandoned alien base left on earth deep in the mountains. The remaining Monsters on it continue to bring in monsters so it must be shut down etc.",
+	"date": "2014-12-13 17:55:07",
+	"files": [
+		{
+			"filename": "catast.wad",
+			"size": 1014711,
+			"crc": 2908899410,
+			"md5": "d5f18587f4c4daf0b34d55ebc1cc78c3",
+			"sha1": "dcfa1a93056a48ff0516b77e9104aa394b42277d",
+			"sha256": "7abb8b51ada8991e43d024a4e7dda43c80cfb847d89574bb75bb7cb28d56fea3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "cyber (37347b).wad",
+	"name": "CyberDoom V1.1",
+	"description": "Doom2 enters the Information Age!",
+	"version": "37347b",
+	"date": "2014-12-15 23:07:09",
+	"files": [
+		{
+			"filename": "cyber.wad",
+			"size": 340019,
+			"crc": 86135950,
+			"md5": "4cb20f32d79361e8c4a90b131194fbc1",
+			"sha1": "37347b8fa287b71e6dad3cf95ce2fe5a66d05e10",
+			"sha256": "cfacf3d89f153cdbd3de5b9388ac9e5e4d870ae076d12918ce3511ef97bf873d"
+		}
+	]
+}

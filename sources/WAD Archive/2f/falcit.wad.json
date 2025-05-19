@@ -1,0 +1,16 @@
+{
+	"uid": "falcit.wad",
+	"name": "Deimos: The Fallen Citadel",
+	"description": "A short 5 Levels mapset for Doom II. Meant to be a \"Shareware Version\" of my project \"Another 32 over 32\"",
+	"date": "2014-12-24 17:10:39",
+	"files": [
+		{
+			"filename": "falcit.wad",
+			"size": 917269,
+			"crc": 4947816,
+			"md5": "585807295630f085f1d2e3a4fc9d50ce",
+			"sha1": "2f48126b23a6108853cc81413c5c146666001451",
+			"sha256": "ab4ba0779c6581905671fb8401bb4009a009867d5fee08eec03c1c9e1531544b"
+		}
+	]
+}

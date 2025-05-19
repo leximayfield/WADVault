@@ -1,0 +1,16 @@
+{
+	"uid": "thecrush.wad",
+	"name": "The Crush",
+	"description": "A fast-paced deathmatch level for Doom ][ with plenty of secrets, and double back-stabbing traps to nails your friends with.",
+	"date": "2014-01-07 22:02:19",
+	"files": [
+		{
+			"filename": "thecrush.wad",
+			"size": 82554,
+			"crc": 193685201,
+			"md5": "70bf7278201d1fd83f5ab830f39b7213",
+			"sha1": "5079f683fbb08d99e557a8ca26556d071e647f8a",
+			"sha256": "a8108a661bd1dd4a7c395e7a5aed27a06dfd10962229a409d4411c1f19d6f845"
+		}
+	]
+}

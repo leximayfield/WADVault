@@ -1,0 +1,16 @@
+{
+	"uid": "hj.wad",
+	"name": "HJ",
+	"description": "My first wad. Used my name in the map because I never intended it for anyone else (test wad). Then I figured hey why not, someone else might enjoy it. Its got some pretty hard areas but they can be beat. Just look at what's lying around and use it to your best advantage. Plenty of monsters. No real secret areas. I wasn't to discerning about when items will appear, so what you see in single player will be there in deathmatch too.",
+	"date": "2013-07-09 20:23:27",
+	"files": [
+		{
+			"filename": "hj.wad",
+			"size": 119836,
+			"crc": 1294945352,
+			"md5": "cb37485936e8d5b7860ea04a88d8a8da",
+			"sha1": "d9cbc853438521689eb0b98838cc3f6f7d56197d",
+			"sha256": "beea3273a29ebb52d656159cace145ff963aaae6f9bc4220a4f47f9e9c75e57d"
+		}
+	]
+}

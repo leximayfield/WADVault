@@ -1,0 +1,16 @@
+{
+	"uid": "va.wad",
+	"name": "Vile Advance",
+	"description": "A fairly hard single techbase map. Requires a modern boom compatable port. Brief story: A company of Arch Viles have lead an assault on a UAC base! Wipe them out before they summon something worse!",
+	"date": "2014-12-29 15:36:35",
+	"files": [
+		{
+			"filename": "va.wad",
+			"size": 605821,
+			"crc": 149809019,
+			"md5": "7d1e5c43c52c7310fe737d5c6bb47290",
+			"sha1": "910967b50495acef94485bea5456b6ca920bd774",
+			"sha256": "18bf3fad0a1232a100d63691d8153335255ed4cccaef75b7b5ad9957e02f4394"
+		}
+	]
+}

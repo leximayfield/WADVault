@@ -1,0 +1,17 @@
+{
+	"uid": "dspiral (7d94eb).wad",
+	"name": "Death Match Spiral (DSPIRAL.WAD)",
+	"description": "A different kind of deathmatch level, based upon an idea conjured up by myself and Justin Powell (author of Death Match Prison). You only get to select on weapon per life, as does your opponent. The playing field is dairly simple: The better bonuses are harder to get, and there are some nice hiding spots, and a place to suicide if your situation seems hopeless. There are also a few pesky monsters to liven it up, and some more than pesky monsters guarding the bonuses (hint: take a chainsaw one of your times out) Oh, BTW: in case you didn't figure it out yet, this level is for Death Match only <g>.",
+	"version": "7d94eb",
+	"date": "2015-12-07 10:58:25",
+	"files": [
+		{
+			"filename": "dspiral.wad",
+			"size": 67446,
+			"crc": 896368742,
+			"md5": "c16a1f7c81d4eefd8f0e89d67d5b6816",
+			"sha1": "7d94eb1d8f48a720f7ad8dbc65997cea7f24ad5c",
+			"sha256": "eff8c2e71e03dcb9b3c2256ae95ddf0b489d238ecf2f2f94990de1b59b07b8b0"
+		}
+	]
+}

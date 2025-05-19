@@ -1,0 +1,16 @@
+{
+	"uid": "champney.wad",
+	"name": "James Champney's Kitchen Nightmare",
+	"description": "Classic DOOM2 style play and feel. Short but sweet. Fight your way through the treacherous kitchen of Champney's Tavern, find the red key card and earn your cigarette break",
+	"date": "2016-07-20 20:10:27",
+	"files": [
+		{
+			"filename": "champney.wad",
+			"size": 57640,
+			"crc": 1251679100,
+			"md5": "97426b4bc56fee0b8361a0ba718d43f3",
+			"sha1": "c2b0f777486e9bd2e56224392c773fbadb837ada",
+			"sha256": "f41d9cc1faa4558bc184a9e2e4ce461dc51cbc790f0105de66ed9a5bbe7f3078"
+		}
+	]
+}

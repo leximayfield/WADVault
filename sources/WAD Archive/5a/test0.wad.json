@@ -1,0 +1,15 @@
+{
+	"uid": "test0.wad",
+	"name": "Test zero",
+	"date": "2014-12-15 22:03:33",
+	"files": [
+		{
+			"filename": "test0.wad",
+			"size": 9392,
+			"crc": 2367842527,
+			"md5": "25097249694da015db2b524b9614b70e",
+			"sha1": "5acb8adcb29fb39911b371b01837718a0ee0c953",
+			"sha256": "7f40d27f27beb67101521b33b45f67c00ae61152e17fb75218de3667937a7ca7"
+		}
+	]
+}

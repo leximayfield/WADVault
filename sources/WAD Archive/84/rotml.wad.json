@@ -1,0 +1,16 @@
+{
+	"uid": "rotml.wad",
+	"name": "Refuge of the Marshlord",
+	"description": "This was originally designed as a part of the Second Heretic Speedmapping session, but after I finished the map I realised they demanded Deathmatch-maps, so this map did not fit into the project. Years later, I found it on my harddrive again and after playing it I thought it was not that bad and worth a release. Of course it is a speedmap and a just a very small level, but I think it is still fun. But just try it ;) A Mapinfo file is included, other than that, the Map does not use any ZDoom features. I recommend playing this with GZDoom, the fog effect just looks cooler then.",
+	"date": "2014-12-30 11:24:56",
+	"files": [
+		{
+			"filename": "rotml.wad",
+			"size": 278408,
+			"crc": 3043449889,
+			"md5": "3c8c83239834ba1ee14403a3d62a9bda",
+			"sha1": "8470226ab69d34b372260b36e795f0b525051273",
+			"sha256": "2c26dce0718298d2528a70080e216e18790b35a70bdf4670fa404cc50c2a6b08"
+		}
+	]
+}

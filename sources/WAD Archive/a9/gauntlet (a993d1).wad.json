@@ -1,0 +1,17 @@
+{
+	"uid": "gauntlet (a993d1).wad",
+	"name": "Gauntlet.WAD  (For Doom 2)",
+	"description": "This Wad is a modified version of Map 3 (The Gantlet) from Doom 2, Hence the name similarity. Many consider Map 3 to be the best Deathmatch wad for Doom 2, so I attempted to make some addtions that would add to the fun.",
+	"version": "a993d1",
+	"date": "2013-11-04 20:13:50",
+	"files": [
+		{
+			"filename": "gauntlet.wad",
+			"size": 84514,
+			"crc": 3544676491,
+			"md5": "8a40c01a1e6ce9977f120f381553950a",
+			"sha1": "a993d15b4a12aa5c4e05ccd9f59771b7f4390fe9",
+			"sha256": "877f387259cef970f30297006ac161047afa0cfd6f7f4f1e7dc9f2d20e79aa42"
+		}
+	]
+}

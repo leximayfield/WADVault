@@ -1,0 +1,16 @@
+{
+	"uid": "smeldeth.wad",
+	"name": "Smeldeth.wad",
+	"description": "Just a single deathmatch level. medium sized.",
+	"date": "2014-12-15 21:30:33",
+	"files": [
+		{
+			"filename": "smeldeth.wad",
+			"size": 255852,
+			"crc": 1341121651,
+			"md5": "28a0ab9f993c30e5f4b2ef302693838f",
+			"sha1": "5e0d7250f9efa7729382d84d3431b69eaa391638",
+			"sha256": "124c41bd3576e59c56e15c26fa2a90771a327992a9d57ccfd7e32946cd3fe556"
+		}
+	]
+}

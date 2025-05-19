@@ -1,0 +1,17 @@
+{
+	"uid": "d2reload (73d5e7).wad",
+	"name": "Doom 2 Reloaded",
+	"description": "The normally busy complex initially appears deserted. Alpha Base is to the west and you will need a key card to gain entry. The east side of the facility is also locked. It may be possible to find an alternative entrance via the waste tunnels.",
+	"version": "73d5e7",
+	"date": "2013-04-19 17:58:47",
+	"files": [
+		{
+			"filename": "d2reload.wad",
+			"size": 15095574,
+			"crc": 3470422709,
+			"md5": "ff8729077b0f559dc2367ac8a93f6138",
+			"sha1": "73d5e70b0f4f3dc6ddf8a566e245bb0f987d07a5",
+			"sha256": "5f77c473d595ed7c2d6ee317175d4f752573c9946145f199e929974b29d7a7b9"
+		}
+	]
+}

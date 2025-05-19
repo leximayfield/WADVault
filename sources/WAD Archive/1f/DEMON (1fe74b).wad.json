@@ -1,0 +1,17 @@
+{
+	"uid": "DEMON (1fe74b).wad",
+	"name": "DEMON.WAD GFX.WAD",
+	"description": "BAD ASS MAP01 FOR DEATHMATCH & COOP",
+	"version": "1fe74b",
+	"date": "2014-11-01 14:52:30",
+	"files": [
+		{
+			"filename": "DEMON.wad",
+			"size": 170544,
+			"crc": 1947451909,
+			"md5": "fd7dc2563aeac711190e8a385ce2d1b9",
+			"sha1": "1fe74b8efcf5eccfc3250981680879776baa40bd",
+			"sha256": "05153f0aadc0ffb9fc4607850e29e24d5ace3c1466385fcbb29a0a7eb00d5555"
+		}
+	]
+}

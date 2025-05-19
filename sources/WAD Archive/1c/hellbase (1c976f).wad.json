@@ -1,0 +1,17 @@
+{
+	"uid": "hellbase (1c976f).wad",
+	"name": "Dead Outpost",
+	"description": "=OVERVIEW=",
+	"version": "1c976f",
+	"date": "2014-12-24 19:25:33",
+	"files": [
+		{
+			"filename": "hellbase.wad",
+			"size": 2615691,
+			"crc": 686766906,
+			"md5": "24b60736d68a2ae5dcc8e6c837fb1aca",
+			"sha1": "1c976fa57725679b851b27844646737b2e5f680d",
+			"sha256": "8a2e164c6dac20dbd71eb0ebbbf91e803d35da446ef3da40420ec6f5093db6c6"
+		}
+	]
+}

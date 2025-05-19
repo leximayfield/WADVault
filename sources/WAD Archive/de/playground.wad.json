@@ -1,0 +1,16 @@
+{
+	"uid": "playground.wad",
+	"name": "The Playground",
+	"description": "A short,simple,stupid level with absolutely no plot whatsoever. It doesn't even fit it's name.",
+	"date": "2015-01-14 22:53:50",
+	"files": [
+		{
+			"filename": "playground.wad",
+			"size": 19347,
+			"crc": 1120096829,
+			"md5": "c4a5e85b6260e73a8dc45d6f0f8fba7f",
+			"sha1": "de92c68cfd19b48d3a2a0911f687a266b1f9daa4",
+			"sha256": "1157f64e59eb8ae3811d814e8e25a1ec279559b7b31151af9794598518de39c4"
+		}
+	]
+}

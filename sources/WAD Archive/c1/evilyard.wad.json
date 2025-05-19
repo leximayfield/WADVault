@@ -1,0 +1,16 @@
+{
+	"uid": "evilyard.wad",
+	"name": "The Evil Courtyards (DOOM2 Map)",
+	"description": "Since I suck at making WADs that you wave to think to complete, I filled this one with monsters and left thinking to the dumbasses. You have three big courtyards, each locked and you have to kill lots of guys. It is hard, but at least you don't have to think your way out. :)",
+	"date": "2014-12-18 22:51:33",
+	"files": [
+		{
+			"filename": "evilyard.wad",
+			"size": 46541,
+			"crc": 2237979918,
+			"md5": "5aeabf32039cf8f8b12b7778f7039d6d",
+			"sha1": "c1a4f0e126d9334d7e3795b4ea6e955fa874d3ed",
+			"sha256": "eedf216c39e96ed5481d596832922c4372f23431060309bc0cf122b13e2475f1"
+		}
+	]
+}

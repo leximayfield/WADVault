@@ -1,0 +1,17 @@
+{
+	"uid": "Unmaker (2b16f0).wad",
+	"name": "Unmaker - Doom 64 Remake (Made with Decorate)",
+	"description": "The Doom 64 Unmaker, made with Decorate. Fully upgradable with the 3 demon keys, just like in Doom 64! (in command console, type \"summon wpnpower*\" * = 1-3)",
+	"version": "2b16f0",
+	"date": "2014-12-11 22:19:05",
+	"files": [
+		{
+			"filename": "Unmaker.wad",
+			"size": 99730,
+			"crc": 4280195196,
+			"md5": "04c223250c16027ec7fd356c96956b34",
+			"sha1": "2b16f08d19e3db1c859fe73877d3c5c0f32a55b3",
+			"sha256": "8bf979ce356dfe9062685d6bcc7cf4219c0288611ecfdebe1a0637814f111b86"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "illusory (4d6f8b).wad",
+	"name": "Illusions Of Home",
+	"description": "A whole new doom game to play Has both cooperative and deathmatch ability. Both are fun to play with",
+	"version": "4d6f8b",
+	"date": "2013-11-02 15:23:35",
+	"files": [
+		{
+			"filename": "illusory.wad",
+			"size": 1317609,
+			"crc": 2974130177,
+			"md5": "a086473b2f45f2513f33d5994dc7510d",
+			"sha1": "4d6f8bb84a71b6d047a64228d6f68e487e3b22f8",
+			"sha256": "166c2af0d6689977797932d1d7339d1da4d273ce4e6f09036a0431526c35f01d"
+		}
+	]
+}

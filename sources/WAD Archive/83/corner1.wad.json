@@ -1,0 +1,16 @@
+{
+	"uid": "corner1.wad",
+	"name": "Corners of hell",
+	"description": "This is my first DOOM level, so it's pretty small. Hopefully it sets the right mood, though. TRY NOT TO CHEAT!!!",
+	"date": "2014-12-15 22:48:39",
+	"files": [
+		{
+			"filename": "corner1.wad",
+			"size": 12304,
+			"crc": 2871654507,
+			"md5": "7af010f942af4214b2f3df9d80f984a5",
+			"sha1": "834fc67c50b1c3729258c00a2ab4e443a336bc4a",
+			"sha256": "d4daa2beb85ca859f3d75495a05507f34718dbcdee9ecf5cf14899ec86af99d3"
+		}
+	]
+}

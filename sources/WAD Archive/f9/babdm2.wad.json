@@ -1,0 +1,16 @@
+{
+	"uid": "babdm2.wad",
+	"name": "BAB Doom2",
+	"description": "Replacement for DOOM2 @ levels 1 - 22 Great for solo play or multi player. Deathmatch! Excellent has been updated and tested now. Allows for plenty of ammo and health. You are not overpowered by more monsters than you can handle (well, most of the time anyway). Each level has at least one secret area in it except for level 7 with has none. There is a way to get out of any situation (you will not fall into a pit with no way out etc..). Each level should be played in the correct order. This is specially true for level 15. I may work on more levels (23-32) yet. So, check back from time to time, or email me and I'll let you know when more are released.",
+	"date": "2014-12-15 22:54:04",
+	"files": [
+		{
+			"filename": "babdm2.wad",
+			"size": 2117208,
+			"crc": 1973690411,
+			"md5": "917a67813ef2ec6ad126bce723a1c33a",
+			"sha1": "f969cef67f315d336b5b56f6bd2e8a89e89af477",
+			"sha256": "94c10128657da94a4a6cf5719a0fbc1efbaec2d0cf36129a344544bc3e1a6c3a"
+		}
+	]
+}

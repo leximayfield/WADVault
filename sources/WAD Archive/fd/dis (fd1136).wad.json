@@ -1,0 +1,17 @@
+{
+	"uid": "dis (fd1136).wad",
+	"name": "Chambers of Dis",
+	"description": "I made this awesome map for Zdoom called Chamber of Dis. I worked on this map on and off while writing for our Heretic record. This is designed for single player gameplay and it's REALLY BIG. Test your gamming skills and see how you stand in this environment of Survival Terror!!!",
+	"version": "fd1136",
+	"date": "2014-12-18 23:19:39",
+	"files": [
+		{
+			"filename": "dis.wad",
+			"size": 180499,
+			"crc": 763866016,
+			"md5": "64edfad016433014f1e53c94d9e01a20",
+			"sha1": "fd113694f8d873711f13947cad0c86bbecf7bfc5",
+			"sha256": "69b71500710905c08ac258c35b58e956206fef290f38d0251247311dc9c768d8"
+		}
+	]
+}

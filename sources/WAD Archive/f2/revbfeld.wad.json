@@ -1,0 +1,16 @@
+{
+	"uid": "revbfeld.wad",
+	"name": "Revenant Battlefield: Slaying Daredevils",
+	"description": "Quick map for slaying some revvies.",
+	"date": "2015-01-14 22:50:20",
+	"files": [
+		{
+			"filename": "revbfeld.wad",
+			"size": 220212,
+			"crc": 393290912,
+			"md5": "5b23b1d5f44bbd60af1c779c29367bd6",
+			"sha1": "f22161586debed2d448ef92df9a9b56f3b9f0888",
+			"sha256": "022b6b38c037d465bc918c80c991ebd51595eaf11c76f1438744bcba3746c020"
+		}
+	]
+}

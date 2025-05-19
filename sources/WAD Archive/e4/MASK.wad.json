@@ -1,0 +1,16 @@
+{
+	"uid": "MASK.wad",
+	"name": "The Mask Sounds for Doom",
+	"description": "Misc. sounds for Doom from The Mask",
+	"date": "2015-09-15 17:27:50",
+	"files": [
+		{
+			"filename": "MASK.wad",
+			"size": 1807504,
+			"crc": 2483753862,
+			"md5": "b81fd4a895822afd8a170796835590f8",
+			"sha1": "e4dba163bc26a980dfad04144d1a0b0c91dbc27d",
+			"sha256": "ce5b9283f7bdac895b5357ae66e74abd605630fe4f1f5f1f25bd4431d832239d"
+		}
+	]
+}

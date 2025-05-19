@@ -1,0 +1,16 @@
+{
+	"uid": "jnnhangar.wad",
+	"name": "JNNHangar",
+	"description": "this is my very first doom map. this was more of a creativity experiment and excercise to learn doom buider. if you wanna see an older version, send an email.",
+	"date": "2017-06-27 00:24:45",
+	"files": [
+		{
+			"filename": "jnnhangar.wad",
+			"size": 348584,
+			"crc": 1469237380,
+			"md5": "377861bc37c1ca2378009e167b0fc001",
+			"sha1": "71bfadca19103a85e30fe09e8775aae557149bac",
+			"sha256": "6818d77c951a7223d1d5c051ad081b89df0d24243c0f7e0f5d48ce8d645a1cfe"
+		}
+	]
+}

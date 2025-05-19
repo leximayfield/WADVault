@@ -1,0 +1,16 @@
+{
+	"uid": "sabord.wad",
+	"name": "Strife: Absolute Order",
+	"description": "You wanted it, now you've got it, a 6 map hub for Strife. Requires a Zdoom compatible source port. A rough story? Well ok. Despite the main threat of the order being defeated, there are many other towns still under their fragmented rule. The front now has the resources to send agents to these outward places and attempt to destroy what's left of the tyranny. You have arrived in the small town of Sweetwater, where what few people survive live a near meaningless life that is under constant threat.",
+	"date": "2014-07-25 12:08:55",
+	"files": [
+		{
+			"filename": "sabord.wad",
+			"size": 26156213,
+			"crc": 843437705,
+			"md5": "7f1d343bb7c19dd7369329f6dd2f2e1f",
+			"sha1": "4dc89631b2136dd796f4995bd1dfa4c596c50e15",
+			"sha256": "0f12d64d051fc00d6b852a0600a9e1dcf75aa7189dbb3312203956afde7e2c4d"
+		}
+	]
+}

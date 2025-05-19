@@ -1,0 +1,17 @@
+{
+	"uid": "dg-core (a98700).wad",
+	"name": "DG-CORE Final Mutation 4/23/95",
+	"description": "H2H BBS (619) 426-0073 Deathmatch - Single & Co-Op Too!",
+	"version": "a98700",
+	"date": "2013-11-02 15:51:00",
+	"files": [
+		{
+			"filename": "dg-core.wad",
+			"size": 455428,
+			"crc": 1293506087,
+			"md5": "23a0b760b1694b763e42d4543b2c85f8",
+			"sha1": "a98700695d83d6ce44ff9aa64113a04503e26e02",
+			"sha256": "464936fd04f490bb89b8d5f8d2edbc1a74fe404c6b6ff884368be1b666b87463"
+		}
+	]
+}

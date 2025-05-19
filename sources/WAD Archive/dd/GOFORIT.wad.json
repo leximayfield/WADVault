@@ -1,0 +1,16 @@
+{
+	"uid": "GOFORIT.wad",
+	"name": "GoForIt",
+	"description": "This is my first PWAD. It is the first level of an 8 level mission. Very Cool! Should be good for deathmatch.",
+	"date": "2014-02-15 17:10:12",
+	"files": [
+		{
+			"filename": "GOFORIT.wad",
+			"size": 101482,
+			"crc": 1876972153,
+			"md5": "6f3f0625b9270a47e8325829821f016c",
+			"sha1": "dd4307b3fb7311af198a9d7a3c4f7b859fc71e5b",
+			"sha256": "d459ee412db6b549031711309873b86e27350ce12b2f3b13ccb2cf03269a0d76"
+		}
+	]
+}

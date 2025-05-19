@@ -1,0 +1,16 @@
+{
+	"uid": "cupctf.wad",
+	"name": "CupCTF",
+	"description": "A pack of 13 CTF maps for your flag-capturing pleasure.",
+	"date": "2013-04-18 23:01:33",
+	"files": [
+		{
+			"filename": "cupctf.wad",
+			"size": 8435379,
+			"crc": 4910562,
+			"md5": "4c46ac4c8606d8f5e98a6a1cacb21040",
+			"sha1": "7b6bc6461727b709da7f8c14a51f9853f74949fb",
+			"sha256": "f5234e955b377a4f70db88d7dd6477c233c0101163a94e3b48c5881038ab416e"
+		}
+	]
+}

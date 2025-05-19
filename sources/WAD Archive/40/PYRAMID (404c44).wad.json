@@ -1,0 +1,17 @@
+{
+	"uid": "PYRAMID (404c44).wad",
+	"name": "PYRAMID.WAD",
+	"description": "A medium sized Deathmatch wad that looks like a pyramid with many deathmatch starts and enough extras and hiding-holes to keep you fraggin till dawn. Best played WITHOUT the -altdeath option.",
+	"version": "404c44",
+	"date": "2014-01-07 22:20:37",
+	"files": [
+		{
+			"filename": "PYRAMID.wad",
+			"size": 20290,
+			"crc": 1783880217,
+			"md5": "1e69da4a7beb247fa94f6e22bc89672b",
+			"sha1": "404c44186cad5a8ab5b53fc13ec4defc1a0833cc",
+			"sha256": "1dc17639e8328a06515911007973b7545b5bca46b1015c4252cc6a24dfaaf03f"
+		}
+	]
+}

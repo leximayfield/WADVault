@@ -1,0 +1,16 @@
+{
+	"uid": "odactf1.wad",
+	"name": "Odamex CTF",
+	"description": "A set of eight CTF Standard Capture the Flag evels",
+	"date": "2013-04-19 00:30:18",
+	"files": [
+		{
+			"filename": "odactf1.wad",
+			"size": 6682869,
+			"crc": 4235384025,
+			"md5": "8f797b57ec26507447395c2f339af019",
+			"sha1": "4eb5f07a92c42c7d36923f5e4dae6ad67f0df138",
+			"sha256": "15c51ca4c6fec84235c0ec25c080bd22707d8c8ac5707aa37e31e2e131bab88e"
+		}
+	]
+}

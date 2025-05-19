@@ -1,0 +1,16 @@
+{
+	"uid": "noirlab.wad",
+	"name": "Noirlab",
+	"description": "A small map created using only textures from Noir texture pack. It's quite dark, scary and pretty difficult. It was sort of inspired by Lab X-18 from Stalker and has quite a few design aspects borrowed from it. Don't forget, you need Noir pack to play it. You can download it from R667: http://realm667.com/index.php/en/component/docman/?task=doc_download&gid=951&Itemid=",
+	"date": "2016-10-17 17:09:35",
+	"files": [
+		{
+			"filename": "noirlab.wad",
+			"size": 497152,
+			"crc": 3851028760,
+			"md5": "bf55df45e8eacbaac2b10567c38fdb2c",
+			"sha1": "df0ecc7f1bdbd232fe5767f59d55a0220a6d87da",
+			"sha256": "60185e2a54206f6b356e9bcba8a4d244bd990d8b693bbd75feca76639a7ff6ab"
+		}
+	]
+}

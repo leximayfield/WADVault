@@ -1,0 +1,17 @@
+{
+	"uid": "tls (88b9f8).wad",
+	"name": "The Last Sanctuary",
+	"description": "A large (63549 linedefs) map for First-Try Demo Contest #16, which was held at 10.31.2015 14:00 UTC. The archive contains demo files for 15 contest participants and table with results, located in \"fdc16\" subdirectory. The demo files have been corrected to run properly with this version of wad (skill 2 instead of skill 4)",
+	"version": "88b9f8",
+	"date": "2015-12-29 14:43:28",
+	"files": [
+		{
+			"filename": "tls.wad",
+			"size": 18809594,
+			"crc": 63367648,
+			"md5": "df540cc703acfd0fdb745d62b9754387",
+			"sha1": "88b9f8d4e5be0410869b58c8a1f8537b56e841ed",
+			"sha256": "18ed3932afed834b9da45c8cefb519cc7338eba95c620ae6ff0ac83bdcfd40a5"
+		}
+	]
+}

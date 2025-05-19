@@ -1,0 +1,16 @@
+{
+	"uid": "suffer.wad",
+	"name": "SUFFER",
+	"description": "Single player designed WAD file. That's all I have to say.",
+	"date": "2015-01-14 22:54:41",
+	"files": [
+		{
+			"filename": "suffer.wad",
+			"size": 426648,
+			"crc": 2240098638,
+			"md5": "c735b423676a5702fe8471abb62241c2",
+			"sha1": "d271c57b881fa9ba08b307f61aaad16f2b9a8aa5",
+			"sha256": "165c5bd5f22f166fd538a18b2d678e57e168da86421260d8dfcadc395db2ab0f"
+		}
+	]
+}

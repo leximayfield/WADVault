@@ -1,0 +1,16 @@
+{
+	"uid": "kalhtic1.wad",
+	"name": "Kalrac's First Heretic DM Level",
+	"description": "It's a DeathMatch Level. You go in, blow people up, and that's what it is like. I was going to add this in to a Hexen level I'm making, but decided to make it separate. My Hexen level will have a Heretic level in it, though, just a different one.",
+	"date": "2014-12-30 11:33:24",
+	"files": [
+		{
+			"filename": "kalhtic1.wad",
+			"size": 64160,
+			"crc": 94633280,
+			"md5": "bcf61c785e67cd5b88b5d76c27aafb46",
+			"sha1": "343731fcc8218f560d1e09561430023580891567",
+			"sha256": "885c26e76744f82e0ad752a9b273c4415cb752b38f644be33a3b53d1eacddf30"
+		}
+	]
+}

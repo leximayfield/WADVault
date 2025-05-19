@@ -1,0 +1,17 @@
+{
+	"uid": "base (e11e08).wad",
+	"name": "The REAL Military base",
+	"description": "This my idea of what the military base should have been on E1M9. However, backup firepower is recomended. Deathmatch should be a literal blast, but its untested.",
+	"version": "e11e08",
+	"date": "2013-11-02 15:18:01",
+	"files": [
+		{
+			"filename": "base.wad",
+			"size": 325271,
+			"crc": 525796616,
+			"md5": "ce7c7d2ce72a4b7475da254e537c0af3",
+			"sha1": "e11e08bc6db98069afa3b73b366c4cf69cb19391",
+			"sha256": "10c3b69772a347d91ead3e05ba2f92571afffb02437d0489e5dd5e991b9cc1e4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "manor (b53985).wad",
+	"name": "The Manor",
+	"description": "A castle with moats firplaces gaurds secret passage ways and a dungeon but if you really want more of a description play it!",
+	"version": "b53985",
+	"date": "2014-12-14 21:06:12",
+	"files": [
+		{
+			"filename": "manor.wad",
+			"size": 258946,
+			"crc": 3418605932,
+			"md5": "3dcbea9ccbc38b65c08acdbf4cb5c043",
+			"sha1": "b539857e41d2a33f9207114d86c55b901338b306",
+			"sha256": "7dbfc77a7894cefe98b1df183a0a8ea3d48ba10a632e8c4a87554bf57152e6f7"
+		}
+	]
+}

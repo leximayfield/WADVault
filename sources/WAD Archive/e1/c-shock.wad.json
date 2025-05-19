@@ -1,0 +1,16 @@
+{
+	"uid": "c-shock.wad",
+	"name": "Combat Shock",
+	"description": "4 new insanely hard maps. Started of as a plutonia tribute but later went bananas. Requires plutonia.wad to play. PrBoom+ complevel-9 is recommended!",
+	"date": "2013-06-24 19:40:06",
+	"files": [
+		{
+			"filename": "c-shock.wad",
+			"size": 14349841,
+			"crc": 2328163781,
+			"md5": "3bbb70dce6da9fcd788836ac5980ef92",
+			"sha1": "e1a1a86ccac263e48c291d13216552a4299ba5b3",
+			"sha256": "3b16fdf8b172ad12807c8105e42cb80d8d9fc2983777b4aef492809430f83f21"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "court3 (41d8b1).wad",
+	"name": "Courtyard",
+	"description": "This is obviously an edited version of Episode 1 Level 1. A few needed changes have been added to make it better for Deathmatch. I like a fast and furrious match with little room to hide. That way everyone gets in plenty of \"kills\" in a short time. (something that there never seems to be enough of after you start messin' with this game!) The wall to the left after you come down the stairs has a hidden section that will teleport you to the new courtyard with the big lake. Watch for walls that look solid but aren't! I was nice and let the secret areas show on the map, so... .......go check it out!",
+	"version": "41d8b1",
+	"date": "2015-12-07 09:00:55",
+	"files": [
+		{
+			"filename": "court3.wad",
+			"size": 74716,
+			"crc": 2899055188,
+			"md5": "9a68a461887a9b8337978cba0db8516b",
+			"sha1": "41d8b16027782aab20c7626a311a7a9f1ece8b44",
+			"sha256": "58190d21e7c80b7ef7d009b714d3312b82f9edbe493299a6f65ecdd9ea92a638"
+		}
+	]
+}

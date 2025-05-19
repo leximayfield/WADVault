@@ -1,0 +1,17 @@
+{
+	"uid": "MYHOUSE (9db6ba).wad",
+	"name": "MyHouse",
+	"description": "A pretty accurate representation of my house in the Blue mountains, NSW, Australia. besides the cyberdaemon in the back yard.",
+	"version": "9db6ba",
+	"date": "2015-09-14 21:54:03",
+	"files": [
+		{
+			"filename": "MYHOUSE.wad",
+			"size": 80790,
+			"crc": 2459395955,
+			"md5": "612215959323806d54d35eb78b1a93ee",
+			"sha1": "9db6baded462785af804a7ae9e65e77ef3240fed",
+			"sha256": "9073b2e5ae5c4c09bcb53de53463c948ddcb2c99369d4c13848942db219f4e78"
+		}
+	]
+}

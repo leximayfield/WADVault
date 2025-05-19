@@ -1,0 +1,16 @@
+{
+	"uid": "db_rnzim.wad",
+	"name": "ROCK-n-ZIMMER",
+	"description": "Half techbase using ROCK textures, inspired by the retexture Spawning Vats got in the Jaguar version, half ZIMMER heavy outdoors map. This is a minor update which fixes some over- sights and makes the rocket launcher non-secret.",
+	"date": "2014-12-18 22:34:51",
+	"files": [
+		{
+			"filename": "db_rnzim.wad",
+			"size": 169775,
+			"crc": 549085721,
+			"md5": "38919b78d6a8f653e4cfde9a90cdd7ae",
+			"sha1": "b8963812abedd527a3859d28e9c348dafba9dc75",
+			"sha256": "2ced447e4e2978d73d067081cdf46ee5e59e5498a572e4cd94cc49bb0695f995"
+		}
+	]
+}

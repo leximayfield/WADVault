@@ -1,0 +1,17 @@
+{
+	"uid": "stairs (8d1623).wad",
+	"name": "stairs.WAD",
+	"description": "You'll find one stair in the middle of this Pwad.",
+	"version": "8d1623",
+	"date": "2014-12-14 21:06:02",
+	"files": [
+		{
+			"filename": "stairs.wad",
+			"size": 590502,
+			"crc": 1141453054,
+			"md5": "fd9324f41f737a37bd79a9a0a32390b4",
+			"sha1": "8d1623d6e3fa23e3facb977d9affd2219246f2bd",
+			"sha256": "779b985802b7236efbd95465d0b8be00fb6ff62c7b9fe14682ba3a290a20a8f0"
+		}
+	]
+}

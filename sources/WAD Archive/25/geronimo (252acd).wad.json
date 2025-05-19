@@ -1,0 +1,17 @@
+{
+	"uid": "geronimo (252acd).wad",
+	"name": "Geronimo.WAD",
+	"description": "Big, hard, not impossible, great for 4-player deathmatch, requires 486/33 or better, keep cool :-) A lot of ideas have been realized in this wad. Have a look, you might find something new. Watch out for the mega-elevator, it will become your worst nightmare.",
+	"version": "252acd",
+	"date": "2014-01-07 22:20:12",
+	"files": [
+		{
+			"filename": "geronimo.wad",
+			"size": 202635,
+			"crc": 760625751,
+			"md5": "494a3ba32fcecdfcc30fcb0830766e83",
+			"sha1": "252acd17656ed11db2c35360216ef8f294f05c61",
+			"sha256": "59cad6547d69c43c64ac331dd5427b555cdd279977f73c24cc44b2e158e154ad"
+		}
+	]
+}

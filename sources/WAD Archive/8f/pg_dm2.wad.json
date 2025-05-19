@@ -1,0 +1,16 @@
+{
+	"uid": "pg_dm2.wad",
+	"name": "Deathmatch wads from PG",
+	"description": "Set of five well-balanced deathmatch wads. Some special effects are there to increase playability - special walls, lights, staircases, etc.",
+	"date": "2014-12-15 22:58:02",
+	"files": [
+		{
+			"filename": "pg_dm2.wad",
+			"size": 322907,
+			"crc": 2665038329,
+			"md5": "008ad291a94d6900bdb6e87813b73cd9",
+			"sha1": "8f634cb06e0e1d7e0b3a051ee3f2a4e4b58c0956",
+			"sha256": "3c6e09fc2f48715758f3caba64aa550255465c222a47c886d46d082f4b39839d"
+		}
+	]
+}

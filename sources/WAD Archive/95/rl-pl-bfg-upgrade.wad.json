@@ -1,0 +1,16 @@
+{
+	"uid": "rl-pl-bfg-upgrade.wad",
+	"name": "RL-PL-BFG-Upgrade",
+	"description": "An upgrade of the current Rocket Launcher, Plasma Rifle and BFG9000. The weapons are much improved.",
+	"date": "2014-12-11 22:28:31",
+	"files": [
+		{
+			"filename": "rl-pl-bfg-upgrade.wad",
+			"size": 156187,
+			"crc": 2537274044,
+			"md5": "f4171c4a3e2bf81508dff64b7fcd4a08",
+			"sha1": "950a0c8ecf1758c8c29bcb36b93b35d2f2cf750c",
+			"sha256": "923ca16903ea0cdfbc98743c65ee8a0f78ea826a12d977defd5832d6c3d18de6"
+		}
+	]
+}

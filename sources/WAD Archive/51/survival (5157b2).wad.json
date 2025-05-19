@@ -1,0 +1,17 @@
+{
+	"uid": "survival (5157b2).wad",
+	"name": "SURVIVAL",
+	"description": "First attempt at creating a new level from scratch. It has lots of rooms, stairways, corridoors, traps, and oodles of monsters!",
+	"version": "5157b2",
+	"date": "2013-11-02 16:47:08",
+	"files": [
+		{
+			"filename": "survival.wad",
+			"size": 121576,
+			"crc": 1129884574,
+			"md5": "7c53b8790dab978204b944478cf5e10e",
+			"sha1": "5157b2a2d00827919dec68690306aeef5ceebff7",
+			"sha256": "713d1a550abee7c9ad4ea53b115560338c498ca6507e8baf8f464c174f3d61ef"
+		}
+	]
+}

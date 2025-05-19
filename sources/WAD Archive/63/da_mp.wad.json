@@ -1,0 +1,16 @@
+{
+	"uid": "da_mp.wad",
+	"name": "Damaged Arenas",
+	"description": "A good all round FFA map pack containing 8 maps.",
+	"date": "2013-04-19 00:45:38",
+	"files": [
+		{
+			"filename": "da_mp.wad",
+			"size": 396353,
+			"crc": 2708168937,
+			"md5": "1fb9bbe9f3a061b51b7a414edda64940",
+			"sha1": "631d1888a0ea3ce0a04e59c8267a344a29980e6a",
+			"sha256": "2c0dcbe9e19d276f3990ab05ad54fa1443d5796581b8217295887b5620498f08"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "harm1 (d7c5f9).wad",
+	"name": "Harmony v1.1",
+	"description": "Harmony is an independent game made by Thomas van der Velden. It is inspired on 3D shooter games from the nineties like Doom and Duke Nukem 3D. Harmony uses the free Zdoom engine, which was made to mimic and enhance id Software\u2019s Doom2 engine.",
+	"version": "d7c5f9",
+	"date": "2016-01-04 18:16:38",
+	"files": [
+		{
+			"filename": "harm1.wad",
+			"size": 58396393,
+			"crc": 3214384163,
+			"md5": "48ebb49b52f6a3020d174dbcc1b9aeaf",
+			"sha1": "d7c5f9095fd5f1ebfe14ecd97ca31503e2a02964",
+			"sha256": "b98b74422479f865c12251965f8e69e112c93095fc622d6ca24510b7e3de45fb"
+		}
+	]
+}

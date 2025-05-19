@@ -1,0 +1,17 @@
+{
+	"uid": "fooddish (4c9d4c).wad",
+	"name": "FOODDISH.zip (Contains: Fooddish.wad, Fooddish.txt)",
+	"description": "The FoodDish is where everyone who's anyone comes to feed. You're invited. The main course is the other diners. Bring a friend for dinner. Just wait till you see what's for dessert!",
+	"version": "4c9d4c",
+	"date": "2013-11-02 15:18:19",
+	"files": [
+		{
+			"filename": "fooddish.wad",
+			"size": 43105,
+			"crc": 1729390554,
+			"md5": "28ca5a233c347164465a4b18c2165cda",
+			"sha1": "4c9d4c617871c43dac9668a58645bb2f28928805",
+			"sha256": "1c3d6edb0ddad339864f1407a9c01f3695764de3c8da4d2d658422389c7d101d"
+		}
+	]
+}

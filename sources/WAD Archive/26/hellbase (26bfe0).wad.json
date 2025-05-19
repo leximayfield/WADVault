@@ -1,0 +1,17 @@
+{
+	"uid": "hellbase (26bfe0).wad",
+	"name": "At Hell's Gate",
+	"description": "//****************// Searching for new lands and secrets to claim for themselves, the UAC has toyed with the barrier between realities. Using their best minds, they set up a lab at what they thought were the ruins of a forgotten civilization at the edge between dimensions. At first, everything went well, and the cost of the facility quickly dwarfed compared to the scientific marvels they were discovering in that otherworldly place. But the promise of a new brave future for the UAC was shattered when the base's essential systems critically failed at the same time. Then all communication with the lab was lost just before receiving a hellish and unintelligible message spoken by an inhuman voice. Assume the worst. Assume the base has been invaded by unknown entities. You must travel to the outpost lab and assess the situation. If the worst has indeed happened, you must retrieve the red holodisk at all costs. It's a data store of everything the scientists studied and discovered. The answer to this new threat, and even the future of our species, may be there. //***********************//",
+	"version": "26bfe0",
+	"date": "2016-07-20 20:26:50",
+	"files": [
+		{
+			"filename": "hellbase.wad",
+			"size": 1916712,
+			"crc": 3596536777,
+			"md5": "1549fda4651255e7ad27d265e5470569",
+			"sha1": "26bfe025b822a47915af661221c60f7233cfcee9",
+			"sha256": "cae442cc22243bf0f25a36569a677f19b40ce34b40b6a249f239100ee1aad084"
+		}
+	]
+}

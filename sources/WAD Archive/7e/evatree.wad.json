@@ -1,0 +1,16 @@
+{
+	"uid": "evatree.wad",
+	"name": "NEON GENESIS EVANGELION",
+	"description": "Single/Co-op/DM wad for DOOM ][ Another brand new Level for Doom ][ NEON GENESIS EVANGELION Levels.",
+	"date": "2014-12-18 23:21:17",
+	"files": [
+		{
+			"filename": "evatree.wad",
+			"size": 1574767,
+			"crc": 1081904140,
+			"md5": "35b2a49b9f9cb9f94abc4f9add4cc78d",
+			"sha1": "7ef4c2aaf493774fa8b084cf5fbd76f9acf11a26",
+			"sha256": "64d33bdb07e382369bd6243882c616c645792a507a725a10237fe349fb966883"
+		}
+	]
+}

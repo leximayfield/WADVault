@@ -1,0 +1,16 @@
+{
+	"uid": "humanegg.wad",
+	"name": "The Egg of Human Endeavors",
+	"description": "The Egg of Human Endeavors is a single map made in February 2018 for Vargskelethor's Doom Mapping Contest 2: Hellectric Boogaloo. It's Boom-compatible (complevel 9) and tested thoroughly by me in PrBoom+ and GZDoom (but mostly in PrBoom+). Hurt Me Plenty is designed to be fun for everyone, and Ultra-Violence is designed to be fun for challenge enthusiasts.",
+	"date": "2019-03-06 22:02:42",
+	"files": [
+		{
+			"filename": "humanegg.wad",
+			"size": 1610772,
+			"crc": 452615352,
+			"md5": "a9be7d437ecbcb5c2c71946b68f18938",
+			"sha1": "5c6a071ac2c043c5da030e91dd33401b56dddc1c",
+			"sha256": "ebd8d22147e18bad41b42d085ade4831c7581d160adeab63b6d91071c283f329"
+		}
+	]
+}

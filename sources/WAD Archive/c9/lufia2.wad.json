@@ -1,0 +1,16 @@
+{
+	"uid": "lufia2.wad",
+	"name": "Lufia.Wad",
+	"description": "The doom2 equivalent of walking around a Lufia 2 Map.",
+	"date": "2014-12-27 12:13:20",
+	"files": [
+		{
+			"filename": "lufia2.wad",
+			"size": 266427,
+			"crc": 3045793476,
+			"md5": "696c6a9c5033e992df101580a6c6a6dd",
+			"sha1": "c91437c6f79711e8b8a8b424e4965470a28bf650",
+			"sha256": "86b2c51841c31e2b5914414739f4e41fad53742a5028330ed5778917e7349f80"
+		}
+	]
+}

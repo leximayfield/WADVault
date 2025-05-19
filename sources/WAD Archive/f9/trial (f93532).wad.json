@@ -1,0 +1,17 @@
+{
+	"uid": "trial (f93532).wad",
+	"name": "The Trial.",
+	"description": "Try to play and complete this map.",
+	"version": "f93532",
+	"date": "2015-01-14 22:53:30",
+	"files": [
+		{
+			"filename": "trial.wad",
+			"size": 261421,
+			"crc": 3893355560,
+			"md5": "dbfdf7c17c1869a1b3facb33d57b8eb5",
+			"sha1": "f935325aa542802db81f9b5cdfc593445cab12fc",
+			"sha256": "2466cc8e3fcf2cb94c690cb03e682f2f483bc3f73ce9fba066525caf919cb3d9"
+		}
+	]
+}

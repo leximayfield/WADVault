@@ -1,0 +1,17 @@
+{
+	"uid": "hades (dac006).wad",
+	"name": "HADES LAIR",
+	"description": "A cold breeze blows against the back of your neck. Goosebumps ripple up your flesh, leaving a sick feeling in your stomach. You stand before the holy teleporter and the gates to Hades. A life long search is finally over. Legend says, \"To enter is to never leave...\"",
+	"version": "dac006",
+	"date": "2018-05-28 21:39:34",
+	"files": [
+		{
+			"filename": "hades.wad",
+			"size": 296315,
+			"crc": 2071280085,
+			"md5": "0d08de1fca68137f1d28ffb515cf2154",
+			"sha1": "dac0069af4b2e2642c5486ea83b5c76e3489c2c7",
+			"sha256": "1dbe3748347567e9136f491e056580bce2d912b015dae29ba24b2a16e3452c20"
+		}
+	]
+}

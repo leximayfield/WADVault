@@ -1,0 +1,16 @@
+{
+	"uid": "2pistols.wad",
+	"name": "2 pistols",
+	"description": "Vanilla mod, changing the player's basic weapon.",
+	"date": "2015-09-15 19:19:50",
+	"files": [
+		{
+			"filename": "2pistols.wad",
+			"size": 29580,
+			"crc": 1004476121,
+			"md5": "ba875d3ea7c1499148e3f5eaa67349f8",
+			"sha1": "1882d2b73069ddcb0982722b55f70f619b2a6416",
+			"sha256": "4623885525e501f1244aef140629d9c75e1835ee815e68eb133448ab4e788aee"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "50MONSTR.wad",
+	"name": "50 Monsters",
+	"description": "50 Monsters is a project I started back in 2014 when I was just really getting into mapping. It got a bit out of hand in the second half of development, and as such the final product is fairly inconsistent in terms of overall quality. Still, though, it was a good learning experience and I enjoyed creating it.",
+	"date": "2017-01-20 00:20:32",
+	"files": [
+		{
+			"filename": "50MONSTR.wad",
+			"size": 16596381,
+			"crc": 2537704678,
+			"md5": "148b39832eab0ad102d27a6d0a4745cd",
+			"sha1": "69a97e57418a63b0bc3c13e697d03f6f071576e1",
+			"sha256": "d4fd5dcc0a1aa994c4adc765bb5bdd8844ce35f7ed5ba666b4b948bacf198400"
+		}
+	]
+}

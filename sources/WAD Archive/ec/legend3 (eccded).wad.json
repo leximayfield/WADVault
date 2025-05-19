@@ -1,0 +1,17 @@
+{
+	"uid": "legend3 (eccded).wad",
+	"name": "legend3.zip",
+	"description": "This is level three in the legend series. Since everyone has commented that levels one and two were too easy, I put special effort into insuring that level three was more difficult.",
+	"version": "eccded",
+	"date": "2013-11-04 19:24:37",
+	"files": [
+		{
+			"filename": "legend3.wad",
+			"size": 133433,
+			"crc": 484918326,
+			"md5": "a5a49e0af17208375afb261e80d8edce",
+			"sha1": "eccdede530088032b460f2c897443bef49afa915",
+			"sha256": "786a91bbfafa9e75663b66856e80c29eb1e4debbf26caed2e82a01536459b817"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "baseofdm.wad",
+	"name": "Base of Deathmatch",
+	"description": "Small deathmatch level (size similar to Map07)",
+	"date": "2014-12-15 22:10:49",
+	"files": [
+		{
+			"filename": "baseofdm.wad",
+			"size": 38796,
+			"crc": 713552213,
+			"md5": "db8c84b0f73cf6b6b5f3a647e9def2b4",
+			"sha1": "6bbdc4de10e32b13ddec4386ed4f3512ada6bc5a",
+			"sha256": "4bc72945f9c916769b112fe750eb29418071d14e9fdb5a8ed113b604932467c9"
+		}
+	]
+}

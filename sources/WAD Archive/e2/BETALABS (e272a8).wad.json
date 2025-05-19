@@ -1,0 +1,17 @@
+{
+	"uid": "BETALABS (e272a8).wad",
+	"name": "Beta Labs",
+	"description": "9 Alpha inprished levels for Ultimate Doom.",
+	"version": "e272a8",
+	"date": "2015-09-15 17:14:40",
+	"files": [
+		{
+			"filename": "BETALABS.wad",
+			"size": 4065072,
+			"crc": 1048079922,
+			"md5": "8c3dee97d10ef942a9897d0009b97308",
+			"sha1": "e272a85de1a6c286ee5fff25090ce8e2fa46b75a",
+			"sha256": "e0ea782f145289fc069ebe24dba30fe3715e609246cbdba5aae98c8de2b72ab4"
+		}
+	]
+}

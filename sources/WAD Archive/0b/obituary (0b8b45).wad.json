@@ -1,0 +1,17 @@
+{
+	"uid": "obituary (0b8b45).wad",
+	"name": "Obituary 1.1, updated version",
+	"description": "19 levels, 3 new enemies, weapon patch",
+	"version": "0b8b45",
+	"date": "2015-02-01 14:25:46",
+	"files": [
+		{
+			"filename": "obituary.wad",
+			"size": 4712998,
+			"crc": 245309923,
+			"md5": "a1edfa7a0536f5a6853bdfe574402730",
+			"sha1": "0b8b459f37e977a910cacfdc422d290fd26fdce9",
+			"sha256": "d2a22737597412d0d77c85de1ac401ece86cdf539f0158b0a60a642f37d1c322"
+		}
+	]
+}

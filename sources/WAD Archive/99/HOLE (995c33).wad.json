@@ -1,0 +1,17 @@
+{
+	"uid": "HOLE (995c33).wad",
+	"name": "hole.wad",
+	"description": "Fast moving Deathmatch game. Set in a tall, hollow tower. You",
+	"version": "995c33",
+	"date": "2014-12-14 20:56:04",
+	"files": [
+		{
+			"filename": "HOLE.wad",
+			"size": 19538,
+			"crc": 2263644033,
+			"md5": "abf2c299a7bb141f2b1073d311528900",
+			"sha1": "995c330f5c83e5d5fbdab029a32d73f79be35f2a",
+			"sha256": "96607efb100c344d14aa630dc1c7f6c33843e7c4d5664543489eaff7eeb24760"
+		}
+	]
+}

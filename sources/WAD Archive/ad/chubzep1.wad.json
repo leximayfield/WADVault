@@ -1,0 +1,16 @@
+{
+	"uid": "chubzep1.wad",
+	"name": "Chubz Missions (Episode 1)",
+	"description": "A multi-level project that replaces the first four missions of the game with my very own classic-style maps designed to look like a set of \"lost levels\" created by id Software's John Romero and crew way back in 1994.",
+	"date": "2014-12-14 20:46:12",
+	"files": [
+		{
+			"filename": "chubzep1.wad",
+			"size": 381667,
+			"crc": 724800563,
+			"md5": "304ddf1178ab6ef949b7846edab2b365",
+			"sha1": "adef19bb8ca983530b098280046dd35719afbbc7",
+			"sha256": "4cd92616672f218d526fcb50fccf3816ddc62d6546b74574d202dc611a59652c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "midiconv.wad",
+	"name": "Doom with MIDI-Converted Sound Effects",
+	"description": "Surely this is an objective improvement to the soundscape, like someone wired the brain of Beethoven himself to a 386. Every sound has been carefully run through one of those infamously shitty online mp3-to-midi converters, recorded, and then converted back to Doom format. It's like that weird Vanilla Doom hack that plays the PC speaker sound effects as piano midis, only now you can use it anywhere and anytime at all, from Chocolate to Z.",
+	"date": "2016-10-17 17:14:54",
+	"files": [
+		{
+			"filename": "midiconv.wad",
+			"size": 7268393,
+			"crc": 4192823987,
+			"md5": "d762f0a2f7fc432ccd31451d46a805c4",
+			"sha1": "f34d75f20f26081a0c45f904eeffe763e5969c06",
+			"sha256": "266af1d7848cfe6a4b8c5dfbf4603a54f45708e15268537a34cd04669e21769f"
+		}
+	]
+}

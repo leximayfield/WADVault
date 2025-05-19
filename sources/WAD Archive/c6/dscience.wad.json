@@ -1,0 +1,16 @@
+{
+	"uid": "dscience.wad",
+	"name": "NBOD DM 3: Digital Science",
+	"description": "A small deathmatch map using some Legacy features. Designed to be more of an eye-pleaser instead of being... uhm... playable.",
+	"date": "2014-12-15 21:54:57",
+	"files": [
+		{
+			"filename": "dscience.wad",
+			"size": 403924,
+			"crc": 3353767318,
+			"md5": "75b420ffc95e404545061d80ac220e3d",
+			"sha1": "c64106c34af3a3ee0e57f7293bb3adc17a874ff4",
+			"sha256": "7a9505bb92e7c66dbf2bc99f6dc4e5c697d30f570217f5482870540dfc41b9f7"
+		}
+	]
+}

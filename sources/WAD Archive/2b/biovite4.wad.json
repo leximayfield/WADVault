@@ -1,0 +1,16 @@
+{
+	"uid": "biovite4.wad",
+	"name": "The Biovite Project v4.0",
+	"description": "The Biovite Project is a partial conversion. It contains four maps, plus new graphics, new sounds, new music and new monsters. It's Single Player only. This wad needs a current version of ZDoom (2.1.x). It is meant to be played with jumping disabled.",
+	"date": "2014-12-21 15:07:11",
+	"files": [
+		{
+			"filename": "biovite4.wad",
+			"size": 28223187,
+			"crc": 1295772184,
+			"md5": "4a894a5eb7f44bc9347e4c204a796bdc",
+			"sha1": "2b2c5a9562aa5bf56ec84c7b5439013dc3db5a06",
+			"sha256": "fb7fba849d840dd69fd8bccc21d6b9afc2059443aff4713bf689048cbfa44803"
+		}
+	]
+}

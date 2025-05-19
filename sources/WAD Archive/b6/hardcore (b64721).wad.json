@@ -1,0 +1,17 @@
+{
+	"uid": "hardcore (b64721).wad",
+	"name": "HARDCORE",
+	"description": "This WAD is for DEATCHMATCH play !ONLY! I really don't know why anyone would want to play cooperative. DOOM was made for DEATHMATCH.",
+	"version": "b64721",
+	"date": "2014-10-14 21:17:30",
+	"files": [
+		{
+			"filename": "hardcore.wad",
+			"size": 53332,
+			"crc": 4171777549,
+			"md5": "e1ccbca2d75cb163633031ef0ddc499e",
+			"sha1": "b647219ac23ac9af4ed12e89c28c9a6e93c3b15a",
+			"sha256": "c6d140dd53b9ebc04456f26f01b5186d322a3dd9112629b2dd6f71bb961c405a"
+		}
+	]
+}

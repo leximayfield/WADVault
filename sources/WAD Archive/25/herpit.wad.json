@@ -1,0 +1,16 @@
+{
+	"uid": "herpit.wad",
+	"name": "Heretic's Water Pit",
+	"description": "E1M1 : This is my first Heretic level. If you have seen some of my doom levels, you know what I can do and what to expect from this one.",
+	"date": "2014-12-30 11:35:30",
+	"files": [
+		{
+			"filename": "herpit.wad",
+			"size": 161681,
+			"crc": 1494978669,
+			"md5": "bf43c96d71df12dd7d846237132507a4",
+			"sha1": "25672fda1bc91c542274223d1a16c75f7738f578",
+			"sha256": "6331e6104083b83ecc5e6e8c1c3fdfb6ddb28e8306b53a7538bb143aeb4afe37"
+		}
+	]
+}

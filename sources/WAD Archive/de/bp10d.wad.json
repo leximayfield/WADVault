@@ -1,0 +1,16 @@
+{
+	"uid": "bp10d.wad",
+	"name": "Blood Pit V1.0 DEATHMATCH",
+	"description": "This is the Deathmatch version of Blood Pit V1.0. The head is still there as the switch. Two rockets at it will set off all those explosins and end the game. It won't produce creatures though. Some stuff has been removed so it won't be so choppy. More weapons has been added in as well. Theres about 17 diffrent places to start.",
+	"date": "2014-12-15 22:33:19",
+	"files": [
+		{
+			"filename": "bp10d.wad",
+			"size": 46427,
+			"crc": 1381535426,
+			"md5": "ce16ef2ba6c11bdfe7dabd3cdcb78959",
+			"sha1": "de304218f85e5d60d3a4d04cbed935f91bbfcc1d",
+			"sha256": "b4d9ab1e7b9acd5aa65997ee31d54ea4cfbc6df27708ce9db037da1027355764"
+		}
+	]
+}

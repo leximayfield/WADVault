@@ -1,0 +1,17 @@
+{
+	"uid": "d2arena (fb6bf3).wad",
+	"name": "Arena",
+	"description": "An arena with several pillars in the center with enemies on them as turrets and sevaral other structures for cover. There are also several teleporters leading to miscelaneous treasures. NO EXIT. DESIGNED WITH ALT-DEATHMATCH 2.0 IN MIND(+ENEMIES COMING BACK). This is a battle of either pure geurilla tactics of of brute force.",
+	"version": "fb6bf3",
+	"date": "2013-11-02 15:53:55",
+	"files": [
+		{
+			"filename": "d2arena.wad",
+			"size": 51497,
+			"crc": 3431505560,
+			"md5": "fe32cbf6e6c522f0b5b3c1b1ece2b425",
+			"sha1": "fb6bf3d42ed6c20e98627cefc5b828f8e1cfc528",
+			"sha256": "3beda8bda241c8c421d7d82c6ea0c6db038eafe1bf45a67f2cde19d535e24363"
+		}
+	]
+}

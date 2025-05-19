@@ -1,0 +1,16 @@
+{
+	"uid": "blumon.wad",
+	"name": "Blue Monday",
+	"description": "A \"bluish\" DOOM II level in a computer environment. Single player only.",
+	"date": "2014-12-15 22:00:58",
+	"files": [
+		{
+			"filename": "blumon.wad",
+			"size": 167179,
+			"crc": 4113844439,
+			"md5": "ad587ef07f094af64cb228cef2250576",
+			"sha1": "e088ac39aa0782d60184420a89f5536dae8534f6",
+			"sha256": "cf07d0b96416977dc3367de961e87b35158cd2330836f6a0ee60f0835727b217"
+		}
+	]
+}

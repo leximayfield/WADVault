@@ -1,0 +1,16 @@
+{
+	"uid": "toyfact.wad",
+	"name": "Toy Factory",
+	"description": "Doom ][ : >> Deathmatch PWAD << (3-4 players recommended) - Players choose ONE weapon upon entering this Toy Factory. - A few secrets. - Needs at least SOME thinking to reach the exit. But hey, why leave? - Consistent look.",
+	"date": "2014-12-15 22:04:06",
+	"files": [
+		{
+			"filename": "toyfact.wad",
+			"size": 137650,
+			"crc": 390346949,
+			"md5": "c4f24ef6f4147dc0710c80b66fb4c2ea",
+			"sha1": "32f43a7607d3629e3ac6cc913f0db6ffc0069525",
+			"sha256": "bc6b200a92c55ecd82c477cb0f1936c7f1bbcca073bf86e312b8540df0038566"
+		}
+	]
+}

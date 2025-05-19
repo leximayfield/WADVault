@@ -1,0 +1,16 @@
+{
+	"uid": "zzsketch.wad",
+	"name": "Hexasketch",
+	"description": "Two Doom II maps inspired by Hexen's lead - simple architecture, solid behind-the-scene mechanics, hand-to-hand combat and, most importantly of all, switch hunting!",
+	"date": "2015-01-14 23:03:13",
+	"files": [
+		{
+			"filename": "zzsketch.wad",
+			"size": 660667,
+			"crc": 760298561,
+			"md5": "7dcc81fa0495311829a1a1bd0e60aebc",
+			"sha1": "972340b045813a95322654ccf6f3de396ae91dbb",
+			"sha256": "e868126a9346471211a5603a0e9b40d26f28b6980fd091bc15ea1a9670d17d53"
+		}
+	]
+}

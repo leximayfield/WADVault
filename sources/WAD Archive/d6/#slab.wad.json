@@ -1,0 +1,16 @@
+{
+	"uid": "#slab.wad",
+	"name": "Secret Lab",
+	"description": "A big level, the secret lab is a level by itself. This is my 4th level, You need to use your mind as your hands. You are instructed to distroy this enemy complex but there is a rumor that their notorious secret lab is hidden here so you cross your fingers and enter the complex. May God help you to find this lab and destroy it. Good luck!",
+	"date": "2014-12-15 19:12:41",
+	"files": [
+		{
+			"filename": "#slab.wad",
+			"size": 345406,
+			"crc": 1520128345,
+			"md5": "3fbed802f36b0f92d16cc354741e1209",
+			"sha1": "d6267ed471cd0a4924c6d726e3180247369a1fa5",
+			"sha256": "1324cdbff30e932f7822776ceaf8702569dc76350b458c4cb31fe78329a4f16c"
+		}
+	]
+}

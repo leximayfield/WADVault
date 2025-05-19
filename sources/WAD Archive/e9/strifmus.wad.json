@@ -1,0 +1,16 @@
+{
+	"uid": "strifmus.wad",
+	"name": "Strife Music Wad",
+	"description": "Well, ever played Strife? This wad contains 9 best tunes from this great game.",
+	"date": "2015-09-14 20:35:36",
+	"files": [
+		{
+			"filename": "strifmus.wad",
+			"size": 257520,
+			"crc": 4278808973,
+			"md5": "9399f3a905b73ef49b2beb84e001285d",
+			"sha1": "e92be93ba610af99bca97e9bec3ab6c9f35ca4f7",
+			"sha256": "c027fd4354c4891dd74bfceae164c28fad01b0a732ea5ea3d3974140639a1959"
+		}
+	]
+}

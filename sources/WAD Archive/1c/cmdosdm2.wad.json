@@ -1,0 +1,16 @@
+{
+	"uid": "cmdosdm2.wad",
+	"name": "Commandos! Doom",
+	"description": "Commandos! Doom is a weapons mod for EDGE 1.28a. The basic goal I had in mind while making this was to replace most, if not all of the weapons and add a few new ones into Doom. I decided to keep the number of weapons small, around 10 or so, and make sure that all the weapons were useful or balanced in some way. To keep the arcade like feeling of the original Doom weapons, I decided not to make the weapons reload. Most of the weapon graphics come from other sources. The name for this mod was sort of random, but also slightly absurd. What weapons would the player have used if he was a Commando? Would he still use the same weapons or even come across the mighty BFG 9000, or would his superiors supply him with all new weapons? Anyway, I hope you enjoys using these weapons! RIP AND TEAR!",
+	"date": "2014-12-11 22:19:47",
+	"files": [
+		{
+			"filename": "cmdosdm2.wad",
+			"size": 1304219,
+			"crc": 2138536365,
+			"md5": "42652a1f7900a4d6b767a98ca4c964bb",
+			"sha1": "1c7a6cbe6bb5e6ea09e7f0433562b93cadd59b14",
+			"sha256": "f339f390f5348e0d7a932c15917b944f78af384c7e22969a2584df6239cf3fe4"
+		}
+	]
+}

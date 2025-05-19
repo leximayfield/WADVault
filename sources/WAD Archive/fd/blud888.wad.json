@@ -1,0 +1,16 @@
+{
+	"uid": "blud888.wad",
+	"name": "Funeral home",
+	"description": "Based on the original \"Blood\" game by Monolith Productions. This was the start of what I had hoped would be a mini total conversion, but I don't have the time or skill to finish it.",
+	"date": "2013-07-31 21:20:53",
+	"files": [
+		{
+			"filename": "blud888.wad",
+			"size": 4564412,
+			"crc": 1417217553,
+			"md5": "3ad3b9db15d5fdfa81bfce6e046ba93b",
+			"sha1": "fdae33cc0d384a2619b31f490796be73fe1462e4",
+			"sha256": "20fbdd846dcd31e03bb0abad65d1b4d6bb5b79cb036ff13d49ca728111c30f70"
+		}
+	]
+}

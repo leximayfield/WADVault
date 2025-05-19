@@ -1,0 +1,17 @@
+{
+	"uid": "quad2 (7725fd).wad",
+	"name": "QUAD (version 2)",
+	"description": "Four DeHackEd patches which modify the Shotgun guy, and test levels for both Doom and Doom2. The four patches are: QUAD.DEH - the Shotgun Guy now shoots a Quad Shotgun with twice the power of the Super Shotgun. QUADRUSH.DEH - as above, but now he rushes towards you as he attacks. OH----!.DEH - a Shotgun guy with an even more powerful shotgun - one shot and you're dead! SYCOSARG.DEH - as above, but once again he charges as he attacks.",
+	"version": "7725fd",
+	"date": "2015-09-15 18:06:13",
+	"files": [
+		{
+			"filename": "quad2.wad",
+			"size": 22702,
+			"crc": 3850617611,
+			"md5": "cff5929f603b4a96e2afff4b0e59d2a9",
+			"sha1": "7725fde8b85d14a5f152082fb760a1654d5e9e90",
+			"sha256": "b2928eb49fe5144235b569761c1a4a926fdbc1d34e1543dcff7a1ff2bd7c1f24"
+		}
+	]
+}

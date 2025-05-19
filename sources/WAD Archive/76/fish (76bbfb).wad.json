@@ -1,0 +1,17 @@
+{
+	"uid": "fish (76bbfb).wad",
+	"name": "BARREL2.WAD   (Barrel Version 2.0)",
+	"description": "",
+	"version": "76bbfb",
+	"date": "2013-11-02 15:47:37",
+	"files": [
+		{
+			"filename": "fish.wad",
+			"size": 133860,
+			"crc": 3806195961,
+			"md5": "7b42b4d448b92f82b2b43c98087f2963",
+			"sha1": "76bbfbaac0f521a22acaccf13ae538e259ed3dc0",
+			"sha256": "31cb40c590275d65b99a0cfd59dd14ed850ea9972b4ce555b9a72f6699b60f52"
+		}
+	]
+}

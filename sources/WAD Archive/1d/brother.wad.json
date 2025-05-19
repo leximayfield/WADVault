@@ -1,0 +1,16 @@
+{
+	"uid": "brother.wad",
+	"name": "Brother's Temple",
+	"description": "A simple plutonia-feeling map. It was a brother's idea of a map that I saw in some of his old notebooks but in that time there were no friendly map builders. This map has release date 2011 but I just uploaded to a some guy's forum an nowhere else because of reasons.",
+	"date": "2014-12-21 16:37:57",
+	"files": [
+		{
+			"filename": "brother.wad",
+			"size": 571058,
+			"crc": 3578445189,
+			"md5": "9079c86fb3113eba40a8f017c98f406d",
+			"sha1": "1d403f8eeef33f735f7e7a41b83f07aed864eb47",
+			"sha256": "12c3d50ff7e02bb378acb09399aa76c6d1abbf5f7d76f7a5af3ef031f91441c8"
+		}
+	]
+}

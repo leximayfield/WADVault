@@ -1,0 +1,17 @@
+{
+	"uid": "jobe (65f58d).wad",
+	"name": "Jobe",
+	"description": "Since this was my first level, it contains a bit of everything. Traps, a few constructions, I came up with and experiments with light levels and effects. Thus, it is quite linear and therefore probably not very suited for deathmatch. But I haven't tried so far... Well, I don't like the level anymore, after playing it over and over again, so it is time to release it. Hope you enjoy it!",
+	"version": "65f58d",
+	"date": "2013-11-04 19:20:24",
+	"files": [
+		{
+			"filename": "jobe.wad",
+			"size": 284087,
+			"crc": 1332680431,
+			"md5": "ff9c46f776cb6e47dc07c54fdb7dd37c",
+			"sha1": "65f58d83d5e09fd6aa3496046fa5bddc7f0e7e55",
+			"sha256": "b9faf572f4cf7e334366b5b55481ec60d6ef84603d64ff68e2640a339fa375ac"
+		}
+	]
+}

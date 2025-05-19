@@ -1,0 +1,17 @@
+{
+	"uid": "gotcha3 (b46f7c).wad",
+	"name": "GOTCHA 3",
+	"description": "This is a map of an industrial complex. It would seem that there has been some wierd experiments going on with the rival companies in this community. It seems that while you were sleeping in a secluded room, something has happened to the security personnel that has made them into killing machines. It has well lit buildings with lots of windows, the outside is kinda dark. There are quite a few buildings and there is a stream. The weapons in this include the shotgun, chaingun, and rocket launcher, depending on the level of play and what type of play. It is a good deathmatch level.",
+	"version": "b46f7c",
+	"date": "2013-07-09 20:24:14",
+	"files": [
+		{
+			"filename": "gotcha3.wad",
+			"size": 189837,
+			"crc": 2626833498,
+			"md5": "bbc971522ffed09e424f62bb28c14e42",
+			"sha1": "b46f7c9fdc37b55f126033a9b560073fbee985a6",
+			"sha256": "66454b28af315f22d89904feb312e6546b675c93bff34834ec91572abf707ae7"
+		}
+	]
+}

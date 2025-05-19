@@ -1,0 +1,17 @@
+{
+	"uid": "MASADA (f03867).wad",
+	"name": "MASADA.WAD",
+	"description": "There is something really screwy going on here. That last teleporter did not send me to any place I've ever been. Strange, though, this seems familiar, something like a place I read about in a history book... Well, I'd better kick butt, doesn't seem to be anyone else around to do it.",
+	"version": "f03867",
+	"date": "2014-11-01 14:54:51",
+	"files": [
+		{
+			"filename": "MASADA.wad",
+			"size": 242754,
+			"crc": 1047098525,
+			"md5": "32f7798740d13816a1be4c99cb35ccc5",
+			"sha1": "f038678fb6cc2fb26140fd3fe2ce3502d21df5d4",
+			"sha256": "bbfcaea476cc7f8481d82cf6c399a0c2e0585d281c7b6b636e815bc74b32009a"
+		}
+	]
+}

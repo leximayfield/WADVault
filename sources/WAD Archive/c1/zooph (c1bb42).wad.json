@@ -1,0 +1,17 @@
+{
+	"uid": "zooph (c1bb42).wad",
+	"name": "ZOOP .6  beta.  Full release will include",
+	"description": "Burnt out crater, with surrounding hallway. Deathmatch only, no monsters, but suitable weapons. Doom : Early teleporter testing sight. Heretic : Cool crater, no plot. Doom2 : This ones coming, sit tight.",
+	"version": "c1bb42",
+	"date": "2013-11-02 15:23:54",
+	"files": [
+		{
+			"filename": "zooph.wad",
+			"size": 30096,
+			"crc": 2994191524,
+			"md5": "b70c549c80da6bac64a16efeec96ec97",
+			"sha1": "c1bb42868327bd1fe5898188cfee96a3abf9f845",
+			"sha256": "63069205f55be13c0aecac1072e7d578bee24d1384fe3b961d0081b1e7a572f1"
+		}
+	]
+}

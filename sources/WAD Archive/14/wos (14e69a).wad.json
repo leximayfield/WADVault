@@ -1,0 +1,17 @@
+{
+	"uid": "wos (14e69a).wad",
+	"name": "Whispers of Satan",
+	"description": "Whispers of Satan is a 30 level add-on for id software's game Doom 2: Hell on Earth requiring a Boom compatible source port.",
+	"version": "14e69a",
+	"date": "2013-04-21 20:49:50",
+	"files": [
+		{
+			"filename": "wos.wad",
+			"size": 37101320,
+			"crc": 3617459598,
+			"md5": "e8410b16dc31d33b4acf5380335ca861",
+			"sha1": "14e69a0df81370bc43e2f098429e8376561dff0a",
+			"sha256": "2bae5d4b7632c7ab76fb3515a8819b7b95ffab744af295f8b5ec6f4d1df331c7"
+		}
+	]
+}

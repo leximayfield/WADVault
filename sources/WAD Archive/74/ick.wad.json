@@ -1,0 +1,16 @@
+{
+	"uid": "ick.wad",
+	"name": "ICK.WAD",
+	"description": "Called ICK for lack of a better title (because I used the ICKWALL textures in many areas).",
+	"date": "2013-07-09 20:23:53",
+	"files": [
+		{
+			"filename": "ick.wad",
+			"size": 81316,
+			"crc": 2684592819,
+			"md5": "7ec038001a6e3dc95e4bc2e7a9e1bb20",
+			"sha1": "740f5d7893c3708675bb4edfbd18fc7acff76761",
+			"sha256": "c492d5fa791569684ae4354b66a90bcb995ce7a1097697aa67806aad56a1217a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fortscar.wad",
+	"name": "Fort Scar",
+	"description": "The CIA is sending you into the valley to investigate reports of strange activites at the old castle used by Al Capone.",
+	"date": "2014-12-18 23:06:50",
+	"files": [
+		{
+			"filename": "fortscar.wad",
+			"size": 164935,
+			"crc": 483916296,
+			"md5": "277e8ba4600de27137d5137b2657809a",
+			"sha1": "0a184c1815a7dda872066596fce43734830b5dbb",
+			"sha256": "697c76f34264ad129d4c94692567aa05d81eaf11936ec9b20c4075a02461aa41"
+		}
+	]
+}

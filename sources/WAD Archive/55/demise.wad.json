@@ -1,0 +1,16 @@
+{
+	"uid": "demise.wad",
+	"name": "Demise Deathmatch Series",
+	"description": "4 deathmatch levels. Each level is fairly small, making fast and furious gameplay.",
+	"date": "2014-12-15 22:05:01",
+	"files": [
+		{
+			"filename": "demise.wad",
+			"size": 180372,
+			"crc": 3238222865,
+			"md5": "be188acff7b57c9ee64f62e8fd5fb178",
+			"sha1": "550c827d0a0605ca2264d3588499ece1a20ec424",
+			"sha256": "7134d822242566b06883d0a278303698a4132b636f2f147153a6440f6d182407"
+		}
+	]
+}

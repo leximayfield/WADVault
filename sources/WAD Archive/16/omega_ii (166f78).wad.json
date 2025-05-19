@@ -1,0 +1,17 @@
+{
+	"uid": "omega_ii (166f78).wad",
+	"name": "OMEGA2",
+	"description": "A neat looking map for Doom 2 only.",
+	"version": "166f78",
+	"date": "2013-11-02 15:55:04",
+	"files": [
+		{
+			"filename": "omega_ii.wad",
+			"size": 182147,
+			"crc": 1482689839,
+			"md5": "a11675e1cfaf3b66d552a85e1be85a25",
+			"sha1": "166f7825b4fc2bbe9391d8309fd84bf412eb5d68",
+			"sha256": "a2534b6269ec13e3985a689be327dfc24efa65a12c36f02d06c12b95204484ed"
+		}
+	]
+}

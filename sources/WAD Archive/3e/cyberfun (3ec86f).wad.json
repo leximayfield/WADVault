@@ -1,0 +1,17 @@
+{
+	"uid": "cyberfun (3ec86f).wad",
+	"name": "CyberFun",
+	"description": "One room Courtyard with a secret. Behind the platforms there are warp pads to get onto the platforms. And when you get the BFG you are warped into the center cage. Oh by the way, since the level is small there are a lot of frags, so I added a cyber-demon to liven things up. BEST IF PLAYED ON OLD-DEATHMATCH WITH RESPAWN (respawn cyber demon). Old-Deathmatch because you don't last long enough to run out of ammo, and you need to get weapons, and fast. You warp infront of weapons. This is a high pased wad, and very fun. !NEW SOUNDS AND MUSIC TOO!",
+	"version": "3ec86f",
+	"date": "2016-02-07 20:34:02",
+	"files": [
+		{
+			"filename": "cyberfun.wad",
+			"size": 200546,
+			"crc": 382539196,
+			"md5": "bd7f1c1f6ab3faa61049c012a226246b",
+			"sha1": "3ec86f22bd087e8a0ddf369aa78a6c9d62724718",
+			"sha256": "f0c351298318914d694581e0e38a10e53ddd010041dae7e8969058d4442ee838"
+		}
+	]
+}

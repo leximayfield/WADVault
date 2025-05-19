@@ -1,0 +1,17 @@
+{
+	"uid": "cmatduel_vampmode (78dc92).wad",
+	"name": "CMAT duel",
+	"description": "This is a conversion of the uber-old CMAT wad into a duel wad, in order to experiment an alternative to shoot!.wad. For those that don't know, CMAT was a SSG practice wad taking place in D5M1 courtyard where the goal was to kill a shotgun guy with 3500 hp.. more info here http://www.doom2.net/~alliance/ladder2.html On this conversion both players start with 666 hp and a SSG with unlimited ammo, I'd suggest setting 10 as fraglimit.",
+	"version": "78dc92",
+	"date": "2013-04-21 13:46:33",
+	"files": [
+		{
+			"filename": "cmatduel_vampmode.wad",
+			"size": 21647,
+			"crc": 3103833648,
+			"md5": "f09040869053deb2c87d470c961045e5",
+			"sha1": "78dc923ce579ee7429ee3697c0ca847eb7e627d2",
+			"sha256": "a4247d998f683a460e501caffbe144ef443d3c72e52e06be4051d0fc4e89af90"
+		}
+	]
+}

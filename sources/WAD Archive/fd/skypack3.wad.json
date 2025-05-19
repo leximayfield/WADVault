@@ -1,0 +1,16 @@
+{
+	"uid": "skypack3.wad",
+	"name": "Skypack 3",
+	"description": "Last one of the Skypacks. Contains 5 Bryce 4-rendered skies, all 256x240 pixels. I've also included the cut-down versions (256x128) for standard Doom.",
+	"date": "2015-09-14 19:35:36",
+	"files": [
+		{
+			"filename": "skypack3.wad",
+			"size": 519864,
+			"crc": 3628770342,
+			"md5": "9db00cddaa9764bc5e4dfa59f24fdfb9",
+			"sha1": "fd618770eedfcc1c3ca84701962807758193fa3f",
+			"sha256": "05527fe1fc37567aca17fc470a1c5584f00319428bd8a03e6f72652f11e54ff8"
+		}
+	]
+}

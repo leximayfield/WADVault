@@ -1,0 +1,17 @@
+{
+	"uid": "purpose (bc3ac0).wad",
+	"name": "PURPOSE.WAD",
+	"description": "This is an E2M1 level that could just as easily be an E1M1 version but to keep it out of shareware hands I made it an E2. (really guys, you should go ahead and register. You won't be disappointed.) The idea here wasn't to create a huge level but instead this is to be used as a launching point for additional levels/missions. The puzzles are basic and the shootouts (IMHO) are fun rather than always being cut-throat.",
+	"version": "bc3ac0",
+	"date": "2013-11-02 15:17:14",
+	"files": [
+		{
+			"filename": "purpose.wad",
+			"size": 121169,
+			"crc": 866024009,
+			"md5": "81f8270ecbd28b5de9a22522be374b2c",
+			"sha1": "bc3ac00c5d695896230a4ed66b3eff085714c4a2",
+			"sha256": "a8ccc7806cb1e2e4f817edc6a031650732872020d4eeb56b08a8289415c8a003"
+		}
+	]
+}

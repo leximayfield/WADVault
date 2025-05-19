@@ -1,0 +1,16 @@
+{
+	"uid": "CONFUSED.wad",
+	"name": "CONFUSED.WAD",
+	"description": "My second level in the series. I must warn you that If you decide to allow the demo to run, it goes on for at least nine minutes.",
+	"date": "2014-12-15 22:58:07",
+	"files": [
+		{
+			"filename": "CONFUSED.wad",
+			"size": 281755,
+			"crc": 3752208530,
+			"md5": "bb9d313e76f23678824f4ebe3440af0a",
+			"sha1": "4f0e7cdd24f26d7a526046a0c5981bc618967fdf",
+			"sha256": "4be8e65f4c55840713b6554f2913f41e719459bb12ee2df81d48266e323730c3"
+		}
+	]
+}

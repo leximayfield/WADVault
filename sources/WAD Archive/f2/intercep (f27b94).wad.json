@@ -1,0 +1,17 @@
+{
+	"uid": "intercep (f27b94).wad",
+	"name": "Interception",
+	"description": "\"Interception\" is a vanilla-compatible megawad for DOOM II. The story takes place in the distant future, and involves being part of a team of marines, who are sent a distress signal from an archeology site. The rest of your team is killed by some nasty hellspawns. Now it's your job to stop the invasion, or die trying. Along the way, you explore ancient military bases, an underground necropolis, and Hell itself. This megawad contains 32 levels of pain, action, and raw fear; all of which is co-op and DM compatible! With killer atmosphere and an incredible score by XenoNemisis and stewboy, Interception takes things back to basics.",
+	"version": "f27b94",
+	"date": "2013-04-21 14:23:27",
+	"files": [
+		{
+			"filename": "intercep.wad",
+			"size": 13336733,
+			"crc": 304330422,
+			"md5": "ca27733ac0be7322df8c86e2ad3bc647",
+			"sha1": "f27b94ba9415381929695223feff672171aa5771",
+			"sha256": "268a6efbf020a6f13dc3e27da587afa70d62bf7593443b45d354dc9f342e654e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "frozent.wad",
+	"name": "Frozen Time",
+	"description": "You need an OpenGL port with support of ZDoom extended nodes, hi-res textures and tall patches.",
+	"date": "2013-09-18 13:41:24",
+	"files": [
+		{
+			"filename": "frozent.wad",
+			"size": 12306557,
+			"crc": 1085128484,
+			"md5": "e92329e4038a337fdacd13b340183e9b",
+			"sha1": "c27eb84a37667d62bbbd7be2acfde2d10ca79079",
+			"sha256": "ad4e72961137d982982067704553af11e08ba4750383de4cbd75c6654ac78f56"
+		}
+	]
+}

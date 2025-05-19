@@ -1,0 +1,17 @@
+{
+	"uid": "loco (3a125f).wad",
+	"name": "loco doom ver .90",
+	"description": "9 ( by ver 1.0 it will have ten, but thats' it) kick ass levels",
+	"version": "3a125f",
+	"date": "2014-12-27 12:10:46",
+	"files": [
+		{
+			"filename": "loco.wad",
+			"size": 814570,
+			"crc": 1162122184,
+			"md5": "7592f9c85c6a11c5ba272c2a96b546c7",
+			"sha1": "3a125f9c0d159d68c9e159eef5f2e9bce772d211",
+			"sha256": "d68aea8bad9a65c9abc7ef1b51d0af577350abb49d29a7055c9894fe55142c1e"
+		}
+	]
+}

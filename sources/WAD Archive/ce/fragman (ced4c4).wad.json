@@ -1,0 +1,17 @@
+{
+	"uid": "fragman (ced4c4).wad",
+	"name": "Fragman",
+	"description": "This is one of several .wad files I have created exclusively deathmatch. In it contains a huge arena, several small rooms around the arena, multiple weapons, bonusus, secrets, traps and absolutely no monsters. FRAGMAN has been play tested several times and has been found to be plentiful in frags (hence the name). Any and all comments are welcome. Email Rob at CSERVE 73632,3627",
+	"version": "ced4c4",
+	"date": "2013-11-02 16:00:38",
+	"files": [
+		{
+			"filename": "fragman.wad",
+			"size": 62770,
+			"crc": 2411623180,
+			"md5": "5366788e0c3c0b89ccba33f565ffdae4",
+			"sha1": "ced4c4d59fb0315252458c08fd5794b4cb6d63bc",
+			"sha256": "d18c275d00fd9cdb75770fc6bf8cdca6d05598e91c328dcc6e92ceadc015ec39"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "d4d (8f539a).pk3",
+	"name": "Doom(4) for Doom v2.0",
+	"description": "A gameplay mod bringing some of the Doom4 mechanics and it's weapons, with mods included.\r\n",
+	"version": "8f539a",
+	"date": "2016-10-31 21:58:14",
+	"files": [
+		{
+			"filename": "d4d.pk3",
+			"size": 52451900,
+			"crc": 1264536572,
+			"md5": "2fafe5e680b3ebb1f5596e361bdf422c",
+			"sha1": "8f539a1042ac11788cd458dce6f2f49ddf62e398",
+			"sha256": "75cb7c40e7e46349a19011265f828c1e002abf5ea01fffe3ae73aed8eec5600c"
+		}
+	]
+}

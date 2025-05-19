@@ -1,0 +1,16 @@
+{
+	"uid": "metro3.wad",
+	"name": "Metro3",
+	"description": "CDoom 3dfloors,CDoombsp,CDoomedt fast test map",
+	"date": "2015-01-13 21:50:38",
+	"files": [
+		{
+			"filename": "metro3.wad",
+			"size": 187465,
+			"crc": 1882088043,
+			"md5": "d84bc42e4fd7609fa9fa5d6ff553ff77",
+			"sha1": "e781260dd4c7d382b122362eedc347a70f417027",
+			"sha256": "12e4ff381152ce562f329349d2c0346c4f18298b4344620a37506637427591a6"
+		}
+	]
+}

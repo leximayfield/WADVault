@@ -1,0 +1,16 @@
+{
+	"uid": "wrath1.wad",
+	"name": "WRATH1.WAD",
+	"description": "It's a DM ONLY wad for Doom II v1.9",
+	"date": "2014-12-15 21:36:27",
+	"files": [
+		{
+			"filename": "wrath1.wad",
+			"size": 200524,
+			"crc": 4001552134,
+			"md5": "efc88ba8fa1d8c7eaf3cbf6f792d397b",
+			"sha1": "8c8936fb12d48a4b99579cd8d9c17465176f3c14",
+			"sha256": "8099c2fc30f78c90f57e11288875f73cdc8e1140e6767913341b199b3908a6ec"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "leftover.wad",
+	"name": "Freedoom leftovers",
+	"description": "This is a collection of leftover resources from Freedoom that were used at some point, but replaced. A while back I cleared out all the unused material and moved it to a Subversion directory called \"attic\" with the hope that people might find it useful. I've gone through the attic (and also some of the old releases) and put this together from the interesting bits I found.",
+	"date": "2013-04-22 00:51:01",
+	"files": [
+		{
+			"filename": "leftover.wad",
+			"size": 1789292,
+			"crc": 3399573084,
+			"md5": "44867aa2abd4d06930129038ce0de806",
+			"sha1": "c496c409c9537f1edad3d0dfdcf1e47258606a0c",
+			"sha256": "bb42e65f0fb8f7317fbc01a47dbc062098b32b702ede59253ffd347cb3b2a9b3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "downtown.wad",
+	"name": "Downtown v1.0",
+	"description": "Basically, it's a city. Not a huge city, but it's big enough to require some good hardware to get some speed out of it. Lots of linedefs. The level itself is pretty difficult on UV but it is possible to beat it. On DeathMatch it's great. Try and grab the Invulnerabilty's in the library and in the parking lot. Also, in the sewer, you can set some good traps. The alley is a bad place to hide, as there is no way out. But most of the time, you'll just be running around searching for the other player in the streets so just grab the plasma rifle or double barrel and hunt down your friends.",
+	"date": "2014-12-18 22:48:16",
+	"files": [
+		{
+			"filename": "downtown.wad",
+			"size": 80465,
+			"crc": 2026666756,
+			"md5": "db733df70c83621063e48ff3cf757240",
+			"sha1": "a1aad94306099fa0826f8f906665f8344c6af800",
+			"sha256": "a17556bd065946c554923d9ffda7fd96555abbd15be102b0eb09e7dbc146a335"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "FASTWAD (f066e8).wad",
+	"name": "Fast.wad",
+	"description": "A tricky .WAD that requires the use of the human brain to complete. If you like a good puzzle, then this is for you!",
+	"version": "f066e8",
+	"date": "2014-02-15 16:53:19",
+	"files": [
+		{
+			"filename": "FASTWAD.wad",
+			"size": 55511,
+			"crc": 3423287481,
+			"md5": "50ef7b3d0f327d3e4b8b2cc919203711",
+			"sha1": "f066e85a1036f79d4fe4f88f997eb14b930c8708",
+			"sha256": "defe4ed88ac712099f3c4c8d8b7fa14a014904892686d14f5072ff07ec45c19a"
+		}
+	]
+}

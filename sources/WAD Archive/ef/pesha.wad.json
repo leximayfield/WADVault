@@ -1,0 +1,16 @@
+{
+	"uid": "pesha.wad",
+	"name": "Pesha",
+	"description": "\"Pesha\" is a series of three limit-removing maps, each one made in a single sitting for the Stanimap- ping contest. Maps, while thematically connected, are meant to be played from pistol start.",
+	"date": "2014-12-29 09:06:40",
+	"files": [
+		{
+			"filename": "pesha.wad",
+			"size": 1634228,
+			"crc": 3881004982,
+			"md5": "0034dcffbe7752707afc73c7af6c1585",
+			"sha1": "ef707c06648f0671fe69378c3b2180737d54409d",
+			"sha256": "81a53f4ca253765e5187dc428ca533c44665a719a3247dfee8e98847df52fb44"
+		}
+	]
+}

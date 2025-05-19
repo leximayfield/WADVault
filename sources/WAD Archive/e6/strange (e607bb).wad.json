@@ -1,0 +1,17 @@
+{
+	"uid": "strange (e607bb).wad",
+	"name": "STRaNGe",
+	"description": "This was just a WAD I was playing with while I was reviewing a number of WAD editors. It is not designed to be in the least bit clever. It does, howver, have one remarkable feature. There is a room in which all the 'baddies' turn into nice guys, and refuse to attack either you, or each other! If they are outside the room, they will shoot you, while you are in the room, and you can happily blast their nuts off. A side effect of all this is that barrels refuse to explode with their normal vehemence, and do not kill or injure passers by.",
+	"version": "e607bb",
+	"date": "2013-11-02 16:52:27",
+	"files": [
+		{
+			"filename": "strange.wad",
+			"size": 6464,
+			"crc": 3742582058,
+			"md5": "34b06397b191f1bfcd3d6979729661a5",
+			"sha1": "e607bb87537f81a7d377f7f11a411a171ec2c8ca",
+			"sha256": "b514271ee59beb99547dd09df9fc3f3e2eb17bde6c055ef79ce04ceee1c847e6"
+		}
+	]
+}

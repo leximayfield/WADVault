@@ -1,0 +1,16 @@
+{
+	"uid": "infstorm.wad",
+	"name": "Infernal Storm",
+	"description": "An oldschool E3-style map. I believe this is my best work so far. It provides a decent challenge with small armies of demons and fair supplies. UV difficulty also adds Skulltag enemies in the mix.",
+	"date": "2015-09-14 22:41:10",
+	"files": [
+		{
+			"filename": "infstorm.wad",
+			"size": 1643318,
+			"crc": 2593953416,
+			"md5": "918302b542086ada7455bab74f7c19e2",
+			"sha1": "2543dcc56414d13c342bda2db016fad6ebde8c24",
+			"sha256": "9f7f30298041d699d9f0c8d40ea47172159744d11586a4b3ac4c6248036b6e63"
+		}
+	]
+}

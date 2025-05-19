@@ -1,0 +1,16 @@
+{
+	"uid": "lithium.wad",
+	"name": "Lithium",
+	"description": "This is a minimalistic map with emphasis on action. Might take just a couple of minutes if you are good but it will keep you on your toes for most of the time. If you like intense fights in cramped environment give it a try! It's a short map but I had some fun playing it so decided to release it - enjoy!",
+	"date": "2014-12-27 12:49:30",
+	"files": [
+		{
+			"filename": "lithium.wad",
+			"size": 27686,
+			"crc": 3353551550,
+			"md5": "9db8252630361b714745512a0292d0c0",
+			"sha1": "f090176dff12c510f19d277f2147348d2192efef",
+			"sha256": "d78892e9f8cfc6aa355f65ae239c29056b0dcc7c7fe04ad7c090d89e8bcc021f"
+		}
+	]
+}

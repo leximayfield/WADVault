@@ -1,0 +1,16 @@
+{
+	"uid": "aberratn.wad",
+	"name": "Aberration Caves.",
+	"description": "Set in underground caves - this map uses Quake1 textures with a tech base theme with some temple thrown in. There is only one skill level as per usual with all my levels, but it should be do-able in the first attempt.",
+	"date": "2014-12-21 16:32:48",
+	"files": [
+		{
+			"filename": "aberratn.wad",
+			"size": 1020472,
+			"crc": 2381505491,
+			"md5": "184c48e83f14a1cdfa5df5c823504369",
+			"sha1": "ef1ca46b65e47d330178a5f91c55e8c00a16ff98",
+			"sha256": "acf3fa75a9253c06f8e3e97992331bb0f6f60d73a8c3135567caac98f79bf138"
+		}
+	]
+}

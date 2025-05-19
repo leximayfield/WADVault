@@ -1,0 +1,16 @@
+{
+	"uid": "concar.wad",
+	"name": "ENTER IF YOU DARE",
+	"description": "This level is based on the old town part Breton town of Concarnau. The old town is on an island in the river estuary. It is a very large level and is very slow. It is difficult, as finding good weaponry is not easy, and monsters come from all angles.",
+	"date": "2014-12-14 20:47:09",
+	"files": [
+		{
+			"filename": "concar.wad",
+			"size": 195692,
+			"crc": 1205364030,
+			"md5": "245a01d8f009fd32dae36db794ac81fc",
+			"sha1": "3941f8297b2f5e93a12e792ad0d598394bc39ed5",
+			"sha256": "7baf615097b56a3e67156f39d23c3d8c7bb432eebbd5b14d00e763c79a4a255a"
+		}
+	]
+}

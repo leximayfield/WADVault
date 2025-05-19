@@ -1,0 +1,16 @@
+{
+	"uid": "d2trinty.wad",
+	"name": "The Unholy Trinity for Doom 2",
+	"description": "A reasonable representation of Trinity College, Cambridge. The DOOM 2 conversion of the famous Trinity DOOM.",
+	"date": "2015-09-15 18:09:39",
+	"files": [
+		{
+			"filename": "d2trinty.wad",
+			"size": 895420,
+			"crc": 2398789928,
+			"md5": "82785433c3f9716e7f7247892b828fdf",
+			"sha1": "07a089f1b8bfbf8bc2ac34c43772c7843879b1cf",
+			"sha256": "a1697915c396d191a4e90d9db2cac112488521e08a6a50d5cab31e4a3fb9e2e7"
+		}
+	]
+}

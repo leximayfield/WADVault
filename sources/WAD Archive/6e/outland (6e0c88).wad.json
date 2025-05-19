@@ -1,0 +1,17 @@
+{
+	"uid": "outland (6e0c88).wad",
+	"name": "OUTLAND.WAD (IMPROVISE, ADAPT, OVERCOME)",
+	"description": "Your squad is to beam down to the surface and investigate the sudden loss of communication lines between UAC and a remote command center on the moon Deimos, Enemy activity is suspected. Your squad will eliminate any enemy activity with extreme predjudice. Unfortunately, detailed surface maps are unavailble due to the sensitive nature of company operations.",
+	"version": "6e0c88",
+	"date": "2013-11-02 15:25:13",
+	"files": [
+		{
+			"filename": "outland.wad",
+			"size": 130950,
+			"crc": 314109637,
+			"md5": "3a5dedfb4ade40660c0091c985e2588b",
+			"sha1": "6e0c881afb502cc07b1ad9f38747a80828adbd5c",
+			"sha256": "039b65a8794704353f4cfac480505e12129925486029e61b0d51d8fb25b303ba"
+		}
+	]
+}

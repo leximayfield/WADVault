@@ -1,0 +1,17 @@
+{
+	"uid": "bigfight (d88994).wad",
+	"name": "Bigfight DeathMatch",
+	"description": "Boxing wad for Doom2 1.9 Bit of a larf really.....",
+	"version": "d88994",
+	"date": "2016-02-07 20:38:45",
+	"files": [
+		{
+			"filename": "bigfight.wad",
+			"size": 305216,
+			"crc": 3863970369,
+			"md5": "9a6e19980dbdba65c14c9bc4fb75cb0e",
+			"sha1": "d88994d008eed47ebccef9050bbc8ea1642b39c6",
+			"sha256": "fe2ac5f9ea1c93fec6e4c14ab4393ff99cadd62d1daf5f0d601a1c9697d73dc1"
+		}
+	]
+}

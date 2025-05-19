@@ -1,0 +1,16 @@
+{
+	"uid": "rhand.wad",
+	"name": "Right Hand Fist",
+	"description": "Changes the fist from left handed to right handed. To be honest, I dont know why id Software didnt make it right handed to begin with?",
+	"date": "2015-09-14 20:14:07",
+	"files": [
+		{
+			"filename": "rhand.wad",
+			"size": 16704,
+			"crc": 2503856024,
+			"md5": "107aac41aeb24bce0d5c0cb523de530e",
+			"sha1": "bd35766a35cfe31c549d3a148e2990ffa6c63ddb",
+			"sha256": "44d228b99e9df3e63bd530822f5a11c29846754355b46f20cdb865212cb3e7f2"
+		}
+	]
+}

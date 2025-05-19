@@ -1,0 +1,16 @@
+{
+	"uid": "moonston.wad",
+	"name": "Moonstone",
+	"description": "One level for any limit removing port. This map is built in grid with the 64x64 dimensions. Moonstone mineral number 64. Command line: glboom-plus moonston.wad -complevel 2",
+	"date": "2015-01-13 21:36:02",
+	"files": [
+		{
+			"filename": "moonston.wad",
+			"size": 3925463,
+			"crc": 4253537680,
+			"md5": "a93b3fa76d0cd4f2c1f8b3773ba44ba8",
+			"sha1": "fbe8467f441b5afcaf367f1f233558bb9688198b",
+			"sha256": "d192724b0ec1d6ef5ad858eb9b9df8f150634f3955f542d8cec3301911f97f39"
+		}
+	]
+}

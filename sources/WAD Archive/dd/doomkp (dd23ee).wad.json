@@ -1,0 +1,17 @@
+{
+	"uid": "doomkp (dd23ee).wad",
+	"name": "The Keep",
+	"description": "This is primarily a Deathmatch level, but it's kind of fun as a single player also. Not much to say, got the idea from some other levels I saw, and the look from some of the Doom ][ pictures I've seen. Hope you like it. This is my fourth released pwad. COMING SOON: WOODY.WAD!!!",
+	"version": "dd23ee",
+	"date": "2013-11-02 15:21:00",
+	"files": [
+		{
+			"filename": "doomkp.wad",
+			"size": 84450,
+			"crc": 2428557030,
+			"md5": "239a639e034f1772ec551234f6f8279a",
+			"sha1": "dd23ee6e60be28d3733f9db666fe24cdadafeb8e",
+			"sha256": "4cf219471e233185e55c29a43472a34b57383feb115829dace0358f323f85eb9"
+		}
+	]
+}

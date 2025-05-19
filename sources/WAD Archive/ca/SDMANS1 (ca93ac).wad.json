@@ -1,0 +1,17 @@
+{
+	"uid": "SDMANS1 (ca93ac).wad",
+	"name": "SDMANS1.ZIP",
+	"description": "You accidentally trip over a log in your backyard, and when your face splats against the ground, you get teleported to the entrance of a humongous castle, with guards about to spot you. Basically an action/deathmatch/puzzle level. However you play it!",
+	"version": "ca93ac",
+	"date": "2013-11-02 16:51:32",
+	"files": [
+		{
+			"filename": "SDMANS1.wad",
+			"size": 115180,
+			"crc": 4097317662,
+			"md5": "8dd364878c9b1b49c3eb2c5c28790835",
+			"sha1": "ca93ac32526471c259dc495afa62fa0f7a495b1b",
+			"sha256": "09e38220eea0ab96744a55b4d355c59be3ed323df74948ace279b9386991d644"
+		}
+	]
+}

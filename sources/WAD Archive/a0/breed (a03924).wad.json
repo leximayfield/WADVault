@@ -1,0 +1,17 @@
+{
+	"uid": "breed (a03924).wad",
+	"name": "The Breed",
+	"description": "My first attempt at creating a WAD for Doom. Actually, finished this about 2 months ago and never got around to putting it on line. You enter this mission to try to destroy a group of madmen who are breeding imps and other \"nasties\". This level is not difficult, but does have a few surprises. A few secret rooms are scattered about, with a few \"goodies\" in them. I learned much while creating this level, and this will be seen when I finish my second level... Any comments are welcomed and appreciated.",
+	"version": "a03924",
+	"date": "2013-11-02 15:52:14",
+	"files": [
+		{
+			"filename": "breed.wad",
+			"size": 49918,
+			"crc": 3304381898,
+			"md5": "79aaae9e7bda706d09cc944e877340a3",
+			"sha1": "a03924a3a35b418e5ca7038588562a5ce596be18",
+			"sha256": "5cca06b075a3d5fc58b7a223b6296354f83e38b7d7d8ebee5e245476b97b0413"
+		}
+	]
+}

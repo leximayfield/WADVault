@@ -1,0 +1,17 @@
+{
+	"uid": "jptr_fix (af6dc6).wad",
+	"name": "The Unofficial DOOM: THE LOST EPISODES fix",
+	"description": "JPTR_FIX.WAD This will replaces the old demos with new ones to prevent crashing in Doom v1.9, the new demos are fairly accurate reenactments of the original demos. All intermission level name graphics with DOOM: THE LOST EPISODES level names found in THE LOST EPISODES OF DOOM book. And for THE ULTIMATE DOOM the episode title \"Thy Flesh Consumed\" is adjusted and adds a new menu bar.",
+	"version": "af6dc6",
+	"date": "2014-10-01 22:19:24",
+	"files": [
+		{
+			"filename": "jptr_fix.wad",
+			"size": 134904,
+			"crc": 1069145199,
+			"md5": "61fcc8f66c40ae77a9acae49755e24a9",
+			"sha1": "af6dc6bed42d8bf5ea91d091e13b48dd4f06ce3d",
+			"sha256": "bf3d8c20914be17a1a2c871849c82f0eb96712d8588fc8fd4f99ab51c44d50f2"
+		}
+	]
+}

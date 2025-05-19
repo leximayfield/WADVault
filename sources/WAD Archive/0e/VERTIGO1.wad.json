@@ -1,0 +1,16 @@
+{
+	"uid": "VERTIGO1.wad",
+	"name": "Vertigo1.wad",
+	"description": "Semi-small Level I designed for single player use. Will have deathmatch and co-op versions out soon.",
+	"date": "2014-10-14 21:11:43",
+	"files": [
+		{
+			"filename": "VERTIGO1.wad",
+			"size": 129217,
+			"crc": 1808922002,
+			"md5": "98a8b558349b1c86633440186d75da0a",
+			"sha1": "0ee99ebbe52d3a6f0a404cf766a0e3534eda9ba0",
+			"sha256": "6c8dc11dbb994ef6accf4d485296c2ddb94bf9d46f259913fc0704c48b6edc57"
+		}
+	]
+}

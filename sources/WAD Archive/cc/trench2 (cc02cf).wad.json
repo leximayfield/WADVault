@@ -1,0 +1,17 @@
+{
+	"uid": "trench2 (cc02cf).wad",
+	"name": "Trench2.zip",
+	"description": "This is a sequal to Trench Warfare which my friends clamoured for me to make.",
+	"version": "cc02cf",
+	"date": "2014-01-07 22:14:03",
+	"files": [
+		{
+			"filename": "trench2.wad",
+			"size": 80664,
+			"crc": 3978364423,
+			"md5": "7a29096640c2fb24bdaba3cefbc313e8",
+			"sha1": "cc02cf05ed85c7f413cc274873126b50ffbf1bff",
+			"sha256": "fd16bb05d0a9443198a2f03ddea18b6ec26e928ea379680b63f4ec139e4ba7f2"
+		}
+	]
+}

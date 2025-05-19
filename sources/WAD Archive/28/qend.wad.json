@@ -1,0 +1,16 @@
+{
+	"uid": "qend.wad",
+	"name": "Quake Style Ending",
+	"description": "Remake of Quake shub-niggurath`s pit in the doom engine! Check below for info! ***Info*** You know you collect all the 4 runes and then a hole opens in the start, you enter in for the final encounter! I tried to keep accurate to the original as possible, on easy theres no monster spawner. Shub niggurath is replaced with a spider mastermind! Because romero would be too easy (Just run to him and shot!) you must telefrag the Spyder first (AND say \"Right in the super chaingun!!!\") and then detonate romero! I recommend playing on ultra-violence its not hard. in original quake its not too hard if you are careful, So good luck! of course not very accurate, i suck at mapping!",
+	"date": "2016-11-12 17:09:56",
+	"files": [
+		{
+			"filename": "qend.wad",
+			"size": 70384,
+			"crc": 1103411607,
+			"md5": "8faad62c07362e75b61210633a29ed95",
+			"sha1": "28533748a39131b65f679cc6ae529c4cfdb326a0",
+			"sha256": "b7d5dee8cb29e7280653f1af9cbb2cee13a68811bac82f04db5aad768510916a"
+		}
+	]
+}

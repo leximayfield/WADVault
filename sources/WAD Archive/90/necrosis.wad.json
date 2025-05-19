@@ -1,0 +1,16 @@
+{
+	"uid": "necrosis.wad",
+	"name": "NECROSIS.WAD",
+	"description": "An expansion for HeXen which features new weapons, new artifacts and 9 levels of all-new gameplay!",
+	"date": "2013-12-04 13:03:06",
+	"files": [
+		{
+			"filename": "necrosis.wad",
+			"size": 16105517,
+			"crc": 142962983,
+			"md5": "1eb28e7d9d964771c2be1bbc83d4e218",
+			"sha1": "90344455b0a5fd14a9229e5da3bd5394812ea4a1",
+			"sha256": "334162d2583244b6dd3d197552d917a6c3e9cefc8703c616baa5219e91130221"
+		}
+	]
+}

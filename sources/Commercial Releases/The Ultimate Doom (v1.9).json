@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "The Ultimate Doom (v1.9)",
+	"name": "The Ultimate Doom",
+	"description": "Commercial release, contains episodes 1-4",
+	"version": "v1.9",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"date": "1995-05-25",
+			"size": 12408292,
+			"crc": "bf0eaac0",
+			"md5": "c4fe9fd920207691a9f493668e0a2083",
+			"sha1": "9b07b02ab3c275a6a7570c3f73cc20d63a0e3833"
+		}
+	]
+}

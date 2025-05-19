@@ -1,0 +1,17 @@
+{
+	"uid": "CASTLE (4db09f).wad",
+	"name": "CASTLE.WAD",
+	"description": "Set in and around a Castle, you must battle to gain entrance to the castle grounds then take on the keep. Watch out for those Barons, and Sargeants on the castle walls.",
+	"version": "4db09f",
+	"date": "2013-11-02 15:16:26",
+	"files": [
+		{
+			"filename": "CASTLE.wad",
+			"size": 96835,
+			"crc": 729167694,
+			"md5": "fb7c0c8059bd84b888ffa864cbf72f29",
+			"sha1": "4db09ff79bb12e3ae945d36db078bb947ca46915",
+			"sha256": "c8e778d1334888f938b751cea41749e5279139e20911ae5f93a53d5fc96ca7c1"
+		}
+	]
+}

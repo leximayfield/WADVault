@@ -1,0 +1,16 @@
+{
+	"uid": "c&cd.wad",
+	"name": "C&CDoom V.1.0",
+	"description": "Cobblers&Codswallop theme patch for DooM ...no, alright, you got me, it's COMMAND&CONQUER!",
+	"date": "2014-12-15 22:02:43",
+	"files": [
+		{
+			"filename": "c&cd.wad",
+			"size": 971124,
+			"crc": 1698607674,
+			"md5": "667e04366579d733e327b0b8c0008932",
+			"sha1": "f102eef08e729cf1eb51d345c680261d9454084b",
+			"sha256": "980c411207061f2e1cf3ef84c6a5adbb12b45638dc527a1b132572aee8531355"
+		}
+	]
+}

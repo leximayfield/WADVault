@@ -1,0 +1,17 @@
+{
+	"uid": "temple (e786dc).wad",
+	"name": "Temple",
+	"description": "This wad replaces map01 and map02 of Doom2. You are sent to an ancient temple deep in the Congo Basin located in south africa in order to find and retrieve any lost treasures located in the temple.",
+	"version": "e786dc",
+	"date": "2017-01-17 00:25:46",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 20153714,
+			"crc": 1623988631,
+			"md5": "d43e0cd75fa50dfbcee2d54060afd32f",
+			"sha1": "e786dcfbe49c053deff62df3a61298e761ba7d1b",
+			"sha256": "5fdc5bfe4d28162b1c087515de19688f80d610ed38116587bde98e3bab58169f"
+		}
+	]
+}

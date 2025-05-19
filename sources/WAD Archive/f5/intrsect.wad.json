@@ -1,0 +1,16 @@
+{
+	"uid": "intrsect.wad",
+	"name": "Intersection",
+	"description": "You'll start in a computer control center, and eventually make your way to the crossroads. Each path you take may seem worse than the last. You'll encounter some roadblocks along your way, which means that you will have to find a switch. This map includes an exit to the secret level which is very hard to find. Soon after you begin, you'll find a device useful for crushing enemies or other players.",
+	"date": "2014-12-14 21:05:40",
+	"files": [
+		{
+			"filename": "intrsect.wad",
+			"size": 173268,
+			"crc": 2374141582,
+			"md5": "4e251c549dfcd1ceb12bc71f7f3a6fd7",
+			"sha1": "f5b509d6836768d3919323a64453f7afc0d53914",
+			"sha256": "40b74bf30bc4cff21040943faf5983853b158a8d195869bbe52e9267aba90a67"
+		}
+	]
+}

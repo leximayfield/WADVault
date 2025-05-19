@@ -1,0 +1,16 @@
+{
+	"uid": "coagulation.wad",
+	"name": "Coagulation.WAD",
+	"description": "This is a port of the Halo 2 map, Coagulation. The basic game play is the same, with a bit of originalality, due to the Doom engine.",
+	"date": "2013-04-19 01:59:52",
+	"files": [
+		{
+			"filename": "coagulation.wad",
+			"size": 732512,
+			"crc": 2844937578,
+			"md5": "db031a52cbdc7dfb5153519369bc9e01",
+			"sha1": "b137ef018d16863fbab6705813598e3c8cb74a6d",
+			"sha256": "77d1939c77233adcac1aac46c66c99a382d0a023a6be14279dc6f478c97da4a6"
+		}
+	]
+}

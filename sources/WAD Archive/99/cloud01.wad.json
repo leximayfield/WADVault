@@ -1,0 +1,16 @@
+{
+	"uid": "cloud01.wad",
+	"name": "Entryway DM  (For Doom 2)",
+	"description": "This is a fairly large wad intended to take advan- tage of Doom Legacy's new capabilities (i.e. jump- ing and mouse look). It will be the first of a series of levels made specifically for Legacy. The series will be based on the names of the actual Doom 2 levels (i.e. \"Entryway\" or \"The Focus\") but will be original levels that are DM specific.",
+	"date": "2014-12-15 22:13:52",
+	"files": [
+		{
+			"filename": "cloud01.wad",
+			"size": 111477,
+			"crc": 2899851501,
+			"md5": "7ded8acf559df3a27cfc3d8fb8815d91",
+			"sha1": "99d5d6d5f94bccda036cda868cc7824a1153878e",
+			"sha256": "44bde9e26e84f7870113143f4d62c79fd4a4b9773655a5a3763097e5456baef7"
+		}
+	]
+}

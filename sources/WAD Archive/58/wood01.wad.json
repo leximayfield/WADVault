@@ -1,0 +1,16 @@
+{
+	"uid": "wood01.wad",
+	"name": "Wood01 the DeathMatch PWAD for DOOM ][",
+	"description": "Based on first level map01 by id Software.",
+	"date": "2014-01-07 22:21:40",
+	"files": [
+		{
+			"filename": "wood01.wad",
+			"size": 46924,
+			"crc": 965618567,
+			"md5": "5b226e97b38db31ced79f0317e07fe1c",
+			"sha1": "583a2b16daa165591689ff1384b631516245b63c",
+			"sha256": "d53ecc3a2835ac772fa1b0b1000becbd2835af66a06c945f9b5dd202999cbad0"
+		}
+	]
+}

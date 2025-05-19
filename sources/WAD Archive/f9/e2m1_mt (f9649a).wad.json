@@ -1,0 +1,17 @@
+{
+	"uid": "e2m1_mt (f9649a).wad",
+	"name": "E2M1_MT.WAD",
+	"description": "A level for guys who want mainly to fight.",
+	"version": "f9649a",
+	"date": "2014-01-11 11:10:40",
+	"files": [
+		{
+			"filename": "e2m1_mt.wad",
+			"size": 245665,
+			"crc": 1350257051,
+			"md5": "d4cd7a393ca3cc45c3db6d83619b6146",
+			"sha1": "f9649af73b9fc4603b0449e09779846f64e4d584",
+			"sha256": "37cd5ea6c6242500d23e90a36cbbc117b6717815e8f35a67392f8828e0d4defd"
+		}
+	]
+}

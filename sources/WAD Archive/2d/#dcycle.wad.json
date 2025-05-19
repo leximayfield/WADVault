@@ -1,0 +1,16 @@
+{
+	"uid": "#dcycle.wad",
+	"name": "Death Cycle",
+	"description": "A level good for both Normal and Deathmatch play. This is my 5th level, a circular level, small & compact. You have been cursed to be trapped in the Death Cycle, and you know that only the lucky ones could escape from here. Good Luck!",
+	"date": "2014-12-15 19:11:36",
+	"files": [
+		{
+			"filename": "#dcycle.wad",
+			"size": 273032,
+			"crc": 48331606,
+			"md5": "5bc4f07d90af8566d62b61e42d2d2778",
+			"sha1": "2da245ea3de5effa2e62de06f195c6975e7e64ce",
+			"sha256": "0f70073f6853ca66e92993db73e654c5f4c7198fbc472b46da361ae10eb2fa46"
+		}
+	]
+}

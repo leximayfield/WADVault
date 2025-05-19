@@ -1,0 +1,16 @@
+{
+	"uid": "shrooms.wad",
+	"name": "Shrooms",
+	"description": "Doomguy takes some magic mushrooms to relax. Demons invade. Doomguy finds new, altered forms of hell filled with demons. In short, a little experimental WAD.",
+	"date": "2016-10-17 17:13:48",
+	"files": [
+		{
+			"filename": "shrooms.wad",
+			"size": 11987129,
+			"crc": 1296016498,
+			"md5": "de75c637174c645992d90109ad78fc74",
+			"sha1": "aa2f287f50bb9fb799b1bdea66e9b85d34b3bf5e",
+			"sha256": "0a0506946c1f35adac03230d145d8390f0962e3ebffaae86c5a0d971b9295e9c"
+		}
+	]
+}

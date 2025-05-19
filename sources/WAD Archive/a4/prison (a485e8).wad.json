@@ -1,0 +1,17 @@
+{
+	"uid": "prison (a485e8).wad",
+	"name": "Prison Camp",
+	"description": "Okay. This is a level partially inspired by the book \"King Rat\" it takes place in a prison camp. The camp commandant has decided or been ordered to liquidate the inmates. You over power your executioner and TRY to escape.",
+	"version": "a485e8",
+	"date": "2013-11-02 16:52:17",
+	"files": [
+		{
+			"filename": "prison.wad",
+			"size": 82588,
+			"crc": 1079702913,
+			"md5": "ee0bc7fb4b2c30d2ffc7e3ca09dfa0c6",
+			"sha1": "a485e83ce721ce71db4321a88a3df9752afcb677",
+			"sha256": "4e93224bc46bb86430f96fc0835e91ac280c35a1c2f8a37f57a1b49bdae26a23"
+		}
+	]
+}

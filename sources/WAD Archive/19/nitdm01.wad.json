@@ -1,0 +1,16 @@
+{
+	"uid": "nitdm01.wad",
+	"name": "Nitro's Doom v1.0.0",
+	"description": "This is an eleven level WAD I made, this is the first version, so someday I'll work on the new version.",
+	"date": "2015-01-13 21:19:51",
+	"files": [
+		{
+			"filename": "nitdm01.wad",
+			"size": 1183495,
+			"crc": 2659531573,
+			"md5": "1ba40c6266e413385e9b9dae8ffdd46c",
+			"sha1": "19629b6ab021ee608e3c0eb1de3f89e2afbef7ae",
+			"sha256": "ea9251a79f1905359a561b791b1b0f278d4d2344b6286fe511e412ddb38a9ada"
+		}
+	]
+}

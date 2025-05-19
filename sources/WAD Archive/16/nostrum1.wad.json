@@ -1,0 +1,16 @@
+{
+	"uid": "nostrum1.wad",
+	"name": "Nostrum",
+	"description": "A map I finally finished after starting it a year ago and leaving it untouched until about 2 weeks ago. Theme and basic layout inspired by Map 05 of No Rest For the Living, Vivisection: http://doom.wikia.com/wiki/MAP05:_Vivisection_%28No_Rest_for_the_Living%29 Focus was a somewhat nonlinear level with tight combat and above-average diffuculty. Runs in vanilla/chocolate doom, tested primarily in zDoom. The definition of \"nostrum\" doesn't really fit the map or anything, I just think it's a cool sounding word.",
+	"date": "2015-09-14 19:50:50",
+	"files": [
+		{
+			"filename": "nostrum1.wad",
+			"size": 342282,
+			"crc": 1840426483,
+			"md5": "1b74cb8c59b54592e4157bd4d26f04f9",
+			"sha1": "16cbf20acc50375a7529847afbd0e92fef337988",
+			"sha256": "79fefda91e93bae1e64cfd1feb75b16707cf4a4d30f0641f0555bce8b6a41da2"
+		}
+	]
+}

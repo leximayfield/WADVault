@@ -1,0 +1,16 @@
+{
+	"uid": "sp_advent.wad",
+	"name": "Doom Advent Calendar - SporkMap",
+	"description": "My submission for the Doom Advent Calendar project. It's your basic UAC base type map.",
+	"date": "2015-09-15 17:10:35",
+	"files": [
+		{
+			"filename": "sp_advent.wad",
+			"size": 511175,
+			"crc": 3850130633,
+			"md5": "aed281fd068449fc9a3968703a11b77b",
+			"sha1": "d30101640b314f5a48b1a9987749d0c602bb6022",
+			"sha256": "d80fa2d0665602a27d6233a73ee60f7064c08c2a8e308c851bf9a6ee60460e96"
+		}
+	]
+}

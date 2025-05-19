@@ -1,0 +1,17 @@
+{
+	"uid": "ctb (48c508).wad",
+	"name": "Caution Tape Bonanza",
+	"description": "Due to the recent uprise of conventional lawsuits due to UAC's hazardous environments, UAC has performed the ingenious task of ensuring the utmost convenience when navigating UAC labs by providing extra precautions in the workplace by indicating all potential dangers that could inflict physical self-injury. UAC cares about your safety.",
+	"version": "48c508",
+	"date": "2014-12-21 15:06:16",
+	"files": [
+		{
+			"filename": "ctb.wad",
+			"size": 142964,
+			"crc": 860438283,
+			"md5": "861be45d4c5741c8b72677e2dedb900e",
+			"sha1": "48c50896c1151e90c768e0fc556eaf0639024985",
+			"sha256": "cd6a05dd0ddec1de552d783d0ee2f399a3945a536bb82528b69f4db59d3a84de"
+		}
+	]
+}

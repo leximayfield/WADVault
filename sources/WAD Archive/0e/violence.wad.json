@@ -1,0 +1,16 @@
+{
+	"uid": "violence.wad",
+	"name": "Violence",
+	"description": "A four map short episode based around the colour purple. Meant to be a nice relaxing \"sit back and play Doom\" set.",
+	"date": "2015-12-29 13:02:08",
+	"files": [
+		{
+			"filename": "violence.wad",
+			"size": 32720709,
+			"crc": 1964510029,
+			"md5": "e054b4962406c230faafb1e4347cd9d2",
+			"sha1": "0e205f7fb070b9fb1baae8aa34c7215e6985568c",
+			"sha256": "31239a8e7672edc4dcc03425d5121eed04c6b6e33b83d9e9fb86a1479cf56eee"
+		}
+	]
+}

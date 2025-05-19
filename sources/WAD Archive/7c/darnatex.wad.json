@@ -1,0 +1,16 @@
+{
+	"uid": "darnatex.wad",
+	"name": "Dark Arena Texture Set",
+	"description": "This is a texture wad containing all textures found from the GBA FPS game, Dark Arena",
+	"date": "2015-09-14 23:18:51",
+	"files": [
+		{
+			"filename": "darnatex.wad",
+			"size": 916338,
+			"crc": 3856993982,
+			"md5": "5a7c79e6d20067348814aab4507d3f3d",
+			"sha1": "7ce9f2d17612bb20ca61efc905e03c7c89579d0f",
+			"sha256": "44bae5340c4e31ae5a77d410b38c49a7c4b23a07dc694d4ab82c2c70c8fa6b85"
+		}
+	]
+}

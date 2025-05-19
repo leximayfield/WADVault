@@ -1,0 +1,16 @@
+{
+	"uid": "bounty.wad",
+	"name": "BOUNTY.WAD",
+	"description": "This level is designed for single or multiple players. It's a bunch of rooms that look something like the SPC Bounty.",
+	"date": "2013-11-03 17:44:03",
+	"files": [
+		{
+			"filename": "bounty.wad",
+			"size": 18625,
+			"crc": 433141122,
+			"md5": "efb2b0cbdff8c336c89ec16bd6e0d5b8",
+			"sha1": "9dc61c573d12e1f1c897459116b99baa2e74b3ba",
+			"sha256": "f10d86b8afc213e3f4e118c3ee7933a3261bf723dcfa2613639becd66912b96e"
+		}
+	]
+}

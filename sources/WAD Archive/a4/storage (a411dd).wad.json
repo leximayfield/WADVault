@@ -1,0 +1,17 @@
+{
+	"uid": "storage (a411dd).wad",
+	"name": "The Storage Facility",
+	"description": "There is something going on at the Venus Storage facility. Find out what.",
+	"version": "a411dd",
+	"date": "2014-12-29 16:56:56",
+	"files": [
+		{
+			"filename": "storage.wad",
+			"size": 656105,
+			"crc": 3233757070,
+			"md5": "44853c3adf3a3be4120ab499abe89756",
+			"sha1": "a411dd6cf7e4d5ecb055cd057186ec4f5061b507",
+			"sha256": "54ded9fdd395a974cefb062f4cf9d612060a9f52d1049dd52e6e13a5fbec4886"
+		}
+	]
+}

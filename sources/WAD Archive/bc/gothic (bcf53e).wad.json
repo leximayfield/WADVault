@@ -1,0 +1,17 @@
+{
+	"uid": "gothic (bcf53e).wad",
+	"name": "Gothic",
+	"description": "This is my best level so far. It turned out pretty nicely, I think. I wanted it to resemble a large gothic cathedral, and it sort of does (nice, huh?). I intend to make an entire episode based on this theme, this being the first level of the episode. I just wanted to get this one out, and let people play it, so I could get some feedback. I really would like to know what you people think of this level! Please? NOTE: If you are using anything less than DOOM version 1.666, then you will experience some very, VERY nasty HOM. Please be advised.",
+	"version": "bcf53e",
+	"date": "2013-11-03 17:47:03",
+	"files": [
+		{
+			"filename": "gothic.wad",
+			"size": 294567,
+			"crc": 2654232113,
+			"md5": "06eec6c0803004a50110ea4a3d62ef48",
+			"sha1": "bcf53e5ee6bfd638d5681e4a0d66683b10e8e984",
+			"sha256": "80991af78366311ac73848eda9389432232b9965eb7c2904b92f69cd8f28be93"
+		}
+	]
+}

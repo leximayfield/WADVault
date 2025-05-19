@@ -1,0 +1,17 @@
+{
+	"uid": "bitchin (48e65f).wad",
+	"name": "Bitchin 1 to 6",
+	"description": "Single or multi-player coop. Lots of nasties and no annoying mazes. Just bob & weave and blast away! Lots more enemies & bonuses in multi-player mode. All are beatable without cheats.If you have to cheat, take up tick-tack-toe or some other less challenging game. Most levels contain hidden transporters & weapons caches so multi players can beam back into action. P.S. Coloured doors stay open so you don't have to go looking for keys again.",
+	"version": "48e65f",
+	"date": "2013-11-06 22:30:52",
+	"files": [
+		{
+			"filename": "bitchin.wad",
+			"size": 1389233,
+			"crc": 3248569826,
+			"md5": "320b7798b425b9fd9fc0e00511c59b17",
+			"sha1": "48e65fcfe01a1924915b41a9ce8eba79c5f92874",
+			"sha256": "16542957c8547e50f83c536af9e784842dbb8bfef4e312641d28d17afc320512"
+		}
+	]
+}

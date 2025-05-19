@@ -1,0 +1,17 @@
+{
+	"uid": "amievil (15e97f).wad",
+	"name": "AM I EVIL",
+	"description": "medium sized medevial ,dungeon, castle feel deathmatch wad",
+	"version": "15e97f",
+	"date": "2014-01-07 21:47:32",
+	"files": [
+		{
+			"filename": "amievil.wad",
+			"size": 68457,
+			"crc": 1576372354,
+			"md5": "107ace3c12047444c70a076f6df887d6",
+			"sha1": "15e97fe47e41ddf3f6567468a9d92876bce18f56",
+			"sha256": "abfa5e7d077829034adfae8ee91257579524d47cf4db86733f1a9ce253a80558"
+		}
+	]
+}

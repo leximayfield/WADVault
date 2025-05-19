@@ -1,0 +1,16 @@
+{
+	"uid": "tguy2016.wad",
+	"name": "Tough Guy 2016",
+	"description": "Back when Doom was shiny, new and exciting, in June 1994, Rick Farmer released a level which he named TOUGHGUY.WAD. The main gimmick of the level were \"silent teleporters\". Kinda. The level came with a BAT file to replace the necessary sprites, but as it relied on DOS utilities, playing TOUGHGUY in 2016 is a pain in the neck. So I took the sacrifice, included all the sprites and sounds and released this for j00 to behold its tutti-fruttic 1994 magnificence. Other than the included sounds and sprites, I did NOT change a damn thing about this very tough wad.",
+	"date": "2016-11-12 17:11:52",
+	"files": [
+		{
+			"filename": "tguy2016.wad",
+			"size": 62848,
+			"crc": 2783937539,
+			"md5": "71ce9da0c86d319b1ffd6d821d945c30",
+			"sha1": "6c9f6d586e8ddb65eb466176e676359fb1cfdaa8",
+			"sha256": "4328b269235532a2c0485f93fe1acb227a4d5692adb3a4af0c57650380e4e0fb"
+		}
+	]
+}

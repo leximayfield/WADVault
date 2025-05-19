@@ -1,0 +1,16 @@
+{
+	"uid": "myho.wad",
+	"name": "mysterious house",
+	"description": "a mysterious house waits you!",
+	"date": "2015-01-13 21:32:10",
+	"files": [
+		{
+			"filename": "myho.wad",
+			"size": 430975,
+			"crc": 3971762833,
+			"md5": "19aba40d79dc7aad50cf6dc2b0d24c04",
+			"sha1": "a14c1796b75064e336ab9146750861fffd386a45",
+			"sha256": "a905fe04863fbad13d67f32687b90b8c9846740389ccf5794c4c37780a5588d8"
+		}
+	]
+}

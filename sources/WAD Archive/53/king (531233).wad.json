@@ -1,0 +1,17 @@
+{
+	"uid": "king (531233).wad",
+	"name": "Castle KingFish",
+	"description": "FOR REGISTERED VERSION OF HERETIC ONLY!! Medium size level designed specifically for 2 player DeathMatch. Not to BIG, Not to small, No Exit, No Monsters, just you and some other poor sod who is looking at you the wrong way! (Sod not included)",
+	"version": "531233",
+	"date": "2013-11-02 16:37:30",
+	"files": [
+		{
+			"filename": "king.wad",
+			"size": 62343,
+			"crc": 2909793152,
+			"md5": "f0b192e48481a054621e7813b9a2c981",
+			"sha1": "5312330fea8b1da0fc8b12ddb5b74956fd50e394",
+			"sha256": "1a3fcfc859ac312f37de34cb1cfb41d6ca741735a82fcce022fc44a6203557f0"
+		}
+	]
+}

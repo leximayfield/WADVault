@@ -1,0 +1,17 @@
+{
+	"uid": "descent (b5ba82).wad",
+	"name": "Descent",
+	"description": "For musically enhanced versions of our levels, visit: www.innerdemonentertainment.com/doom/ You are a United States Army Reservist, called up to fight the monsters that have begun appearing in Wyoming. They first started pouring out of the caves around Yellowstone National Park two weeks ago, attacking tourists. Now they have claimed Idaho Falls, Idaho and Bozeman, Montana, and the swarms are making their way east from there. You were captured defending the city of Billings, in Montana.",
+	"version": "b5ba82",
+	"date": "2019-03-19 22:25:36",
+	"files": [
+		{
+			"filename": "descent.wad",
+			"size": 2463682,
+			"crc": 635955157,
+			"md5": "553adf60702883d0c846f240ed31863b",
+			"sha1": "b5ba82c8ad9b4183f96698d37df52a816c401cf3",
+			"sha256": "fa3c21e4032b46deaf95f40936863626d9b3ef42d49fab1da906643ffc5d2029"
+		}
+	]
+}

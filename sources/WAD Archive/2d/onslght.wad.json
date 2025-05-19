@@ -1,0 +1,16 @@
+{
+	"uid": "onslght.wad",
+	"name": "Onslaught",
+	"description": "10 maps with various styles, all playable from pistol start. This updated version fixes the non-working door in map04 & the crash in map10 with some ports. Also fixed some textures & changed some monsters & items. The lowering floors at the start of map06 now work in Jdoom also.",
+	"date": "2015-01-13 21:43:46",
+	"files": [
+		{
+			"filename": "onslght.wad",
+			"size": 7097712,
+			"crc": 2297881836,
+			"md5": "aa5f2d06463e7c02152211cd9ee58c67",
+			"sha1": "2dbf44d1f7c61390427cac36b0f7611c7a932c75",
+			"sha256": "f3bfcfcd66fc906f81b4fa83af540824b27009f3b11a77060964244442d5be6c"
+		}
+	]
+}

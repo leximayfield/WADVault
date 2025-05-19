@@ -1,0 +1,16 @@
+{
+	"uid": "halvung.wad",
+	"name": "Halvung 1024",
+	"description": "Two maps 1024 is size, with a spacish look.",
+	"date": "2014-12-18 22:54:27",
+	"files": [
+		{
+			"filename": "halvung.wad",
+			"size": 1284356,
+			"crc": 2878467043,
+			"md5": "8d682f8ad12ce18ec287620b263c8810",
+			"sha1": "c2eb214a78fcdc29bb41280c658cd1e43f9c1614",
+			"sha256": "3b4d5b2fd0e9dfb0fc4d3c9c349940d060bc0f56d014d92e4251928c314d5690"
+		}
+	]
+}

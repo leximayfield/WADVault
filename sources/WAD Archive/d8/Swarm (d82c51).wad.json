@@ -1,0 +1,17 @@
+{
+	"uid": "Swarm (d82c51).wad",
+	"name": "Swarming!",
+	"description": "These are seven of my wads. They aren't supposed to be played consecutively as an episode, each one should be started with a pistol. This Swarm.wad was originally released as Swarming.wad but that was too dificult and map04 was so massive you couldn't save games so I edited it and it is now half the size and you can save all you want! Map01 has been made a little easier; Map07 is just as difficult as it ever was! Maps 05 and 06 are easy, the rest are very difficult and, except for 01, very long. Maps 03, 04 and 07 are the really difficult marathon levels but as in all the swarm levels the difficulty is with the amount of monsters not because of any mind boggling tricks or secrets. As I always say if I wanted a thinking game I'd play chess.",
+	"version": "d82c51",
+	"date": "2015-01-14 22:52:49",
+	"files": [
+		{
+			"filename": "Swarm.wad",
+			"size": 1201979,
+			"crc": 1674257591,
+			"md5": "f1d537424754feebbe5a48ce0136cd9b",
+			"sha1": "d82c51727358af5f4175cc25c0b96f826e95e670",
+			"sha256": "830ce658a5689f8b6cbeb90bef226982c146149834ca5c3b15e6ef35bc039c73"
+		}
+	]
+}

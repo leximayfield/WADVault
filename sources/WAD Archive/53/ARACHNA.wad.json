@@ -1,0 +1,16 @@
+{
+	"uid": "ARACHNA.wad",
+	"name": "ARACHNA.WAD",
+	"description": "The evil Spider Mother has made her lair in a Holy Church and turned it into a place of Supreme Evilness.",
+	"date": "2014-10-14 21:07:14",
+	"files": [
+		{
+			"filename": "ARACHNA.wad",
+			"size": 215150,
+			"crc": 610162946,
+			"md5": "083ad5ce2ba57d689b8d253586ec7f6b",
+			"sha1": "53a4030a8c837e2787b6c6560564c2ae6a4be3e4",
+			"sha256": "a6dc8cf18f48591b138e5e41a7c329561ab1adc84f83120f8a0f6d184e2e649a"
+		}
+	]
+}

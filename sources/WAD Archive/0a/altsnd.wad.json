@@ -1,0 +1,16 @@
+{
+	"uid": "altsnd.wad",
+	"name": "Alternate (console) Sounds for DOOM (all incarnations thereof)",
+	"description": "I felt that the sounds from the PSX and N64 versions of DOOM had much better sound effects, so I plugged my consoles up to my sound card, recorded various sound effects and managed to fit many weapon/enemy sound effects into this WAD. It's not complete, I haven't gotten out all of the sounds I want. If anyone knows how I might extract raw sounds from PSX game data, let me know, it would make this *much* easier. Also, if anyone has any better samples of existing sounds here, or has some decent-sounding new samples that I don't have in here, let me know, I'd like to include them. Hell, just let me know if you use this, I'd like to get an idea as to how many people are still playing DOOM (I do it between Quake II sessions :) )",
+	"date": "2013-04-21 22:11:55",
+	"files": [
+		{
+			"filename": "altsnd.wad",
+			"size": 436676,
+			"crc": 936971201,
+			"md5": "d06efe703008a51089d1d92d1a12c1a0",
+			"sha1": "0a688a841d0f37533e210c8970b602b0e13fa17c",
+			"sha256": "d076cd1a49d906cac4c48cf128e705bfa15020773d1ea1e0451c2cecde3b9495"
+		}
+	]
+}

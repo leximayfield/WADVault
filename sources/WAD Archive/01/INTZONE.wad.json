@@ -1,0 +1,16 @@
+{
+	"uid": "INTZONE.wad",
+	"name": "The Interdiction Zone",
+	"description": "You've been dropped in the maintenance area of enemy headquarters. You've got to find your way out, cross the interdiction zone, and destroy enemy HQ by locating and pressing the well guarded security destruct switch. Good Luck - as usual, you'll need it.",
+	"date": "2013-11-02 15:59:12",
+	"files": [
+		{
+			"filename": "INTZONE.wad",
+			"size": 272804,
+			"crc": 3772718794,
+			"md5": "608ddc23e8e58fe97e3d530047098e63",
+			"sha1": "01a277bc66d9526b569b6a90000bb1ea13307ecb",
+			"sha256": "2cf58a533f525acd72273bc9e031750b1dc5c4c9944f8b1399edc09c5b4fb94f"
+		}
+	]
+}

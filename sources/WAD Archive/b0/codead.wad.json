@@ -1,0 +1,16 @@
+{
+	"uid": "codead.wad",
+	"name": "Codead.wad",
+	"description": "Ok, now this isn't your normal Deathmatch level. Yes, it's called \"co\"dead for a reason. You play on cooperative mode! Let me explain. This map is kinda like playing capture the flag, in teams of two. Basicly the whole point of the match is to get the key on the opponent's side and get back to your side to exit. That's the basic concept, and if you can figure out the rest w/o reading all of this go ahead. If you need help, here's the details... Each side starts with a different color key. This key opens a door on the other side of the map that your opponents are guarding. You want to get to thier side and steal the \"flag\" that they guard. The flag is actually the blue skull key. Once you get the flag you need to get back to your starting point so you can open the blue door and exit. Remember, the other team is trying to do the same thing, so you need to guard your side to prevent them from stealing your flag. Got all that? Just test out the map some and you should be able to figure it out.",
+	"date": "2014-12-15 22:20:30",
+	"files": [
+		{
+			"filename": "codead.wad",
+			"size": 148914,
+			"crc": 1946064032,
+			"md5": "f2180cbeca3ccec1e243a016bd8ef18c",
+			"sha1": "b0b37ea6e02dcff109ae3b12e2f49a1480cd4a3a",
+			"sha256": "997560f4f9ebdbb5854833e1db1bf1a2fea0e0c2f7b6df166747d623252dca62"
+		}
+	]
+}

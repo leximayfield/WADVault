@@ -1,0 +1,16 @@
+{
+	"uid": "bfgdemo.wad",
+	"name": "bfgdemo.zip",
+	"description": "This is to demonstrate the BFG Level 1 strafe trick.",
+	"date": "2014-12-15 22:00:29",
+	"files": [
+		{
+			"filename": "bfgdemo.wad",
+			"size": 15344,
+			"crc": 289553416,
+			"md5": "eac78be53209e94e77accbd87ba7d256",
+			"sha1": "f37771e5ec90408a1b28561c2b6c9db268ed0f35",
+			"sha256": "d374fbe5c3fea513efca1378ab9afef915c1834bd0be477a7baf4a0ee48ade02"
+		}
+	]
+}

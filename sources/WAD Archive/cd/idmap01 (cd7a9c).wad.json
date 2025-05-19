@@ -1,0 +1,17 @@
+{
+	"uid": "idmap01 (cd7a9c).wad",
+	"name": "id Map01",
+	"description": "clean deathmatch level",
+	"version": "cd7a9c",
+	"date": "2013-04-19 09:33:33",
+	"files": [
+		{
+			"filename": "idmap01.wad",
+			"size": 63821,
+			"crc": 2102106566,
+			"md5": "d603c298232a9b58625b942130b09850",
+			"sha1": "cd7a9c61a929eaafdefb66645e9087cdcdd54f77",
+			"sha256": "eb3a45973cf91b1a689735c3b620d76aa8e84254d85f135c1c6a393b88914e4a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "foxer (88b3ee).wad",
+	"name": "Foxer.wad",
+	"description": "This is my very first attempt to create a Deathmatch wad. I borrowed some ideas off of a few popular DM wads and also brainstormed myself. When the wad was in preliminary stage, I released a *beta* of my wad called Foxer16.wad on my BBS for my users to test play. I had no idea is was going to be this good!!! Finally, this release of Foxer.wad is the final version. IMHO it is 10x better than what it was in beta form!! PLAY IT LOUD on The Playing Fields BBS!!",
+	"version": "88b3ee",
+	"date": "2014-12-03 20:23:48",
+	"files": [
+		{
+			"filename": "foxer.wad",
+			"size": 164718,
+			"crc": 1426508298,
+			"md5": "2777a09e594f3cfb550461df13e0bd2a",
+			"sha1": "88b3eeb7f17fa1279735315f2a451f631c389063",
+			"sha256": "fa45713d1513bcf49077e150a24b3a34db6ca4145e93dad4144c3c474bae315f"
+		}
+	]
+}

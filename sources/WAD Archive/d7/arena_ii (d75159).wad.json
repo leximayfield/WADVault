@@ -1,0 +1,17 @@
+{
+	"uid": "arena_ii (d75159).wad",
+	"name": "ARENA_II.WAD",
+	"description": "A big Arena for Multiplayer with much enemies to kill (really)",
+	"version": "d75159",
+	"date": "2014-12-14 21:07:18",
+	"files": [
+		{
+			"filename": "arena_ii.wad",
+			"size": 49988,
+			"crc": 555317553,
+			"md5": "e10407b3c81d2faaa7d593e7f51f6942",
+			"sha1": "d7515940e87ca8f2257456f84b675bebff70d496",
+			"sha256": "731df13aa59fd3f395d671e2c151783bf50cded3759bd3c7df7752d2fd63e4e3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "TNTRESIST.wad",
+	"name": "TNT: Resistance",
+	"description": "TNT: Resistance is an 8-map vanilla episode for Final Doom's TNT IWAD, featuring maps from various authors. All the maps were tested with Chocolate Doom/chocorenderlimits and should be playable in all source ports (well, almost all). The episode of course takes inspiration from the original TNT IWAD with plenty of new ideas thrown into the mix while only using the original stock textures of TNT.",
+	"date": "2017-12-18 12:44:12",
+	"files": [
+		{
+			"filename": "TNTRESIST.wad",
+			"size": 3077795,
+			"crc": 4219562200,
+			"md5": "be2f4c1cdc284dd058411880dc19e9cb",
+			"sha1": "8d5fc88f700adefb3b0965342f6a7bf7bc699e20",
+			"sha256": "d080d368fc579cbc78ba4353a781b499e13660757f5159d6824d48f45c3b3404"
+		}
+	]
+}

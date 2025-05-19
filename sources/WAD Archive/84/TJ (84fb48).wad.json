@@ -1,0 +1,17 @@
+{
+	"uid": "TJ (84fb48).wad",
+	"name": "The Journey",
+	"description": "A new 32-map megawad for DOOM II, focusing on short to medium length levels, played in a series or from pistol start, in single player or cooperative. THE JOURNEY takes you across a variety of locales, challenging you along the way with insidious traps and vicious monsters. The levels are easy to understand, but don't underestimate them because of the lack of massive hordes! Close quarters and strategical monster and item placement will test your skills. The average time to complete a given level is about 8 minutes, and all are designed with pistol start compatibility in mind. You aren't just handed all the weapons and supplies right away -- you'll have to explore and fight smart to upgrade your arsenal and make it out alive. If you don't want to worry about ammo that much, playing the levels in a series is a good idea. Skill levels are also implemented -- the changes don't work to neuter the identity of the encounters, but to allow the player to be just a bit more reckless. For more fun, take on the journey with friends or strangers in co-op mode. Or, use the levels as DeathMatch arenas. Map 01 especially is designed with DeathMatch in mind. For more info, check out the included TJMAPS.txt - it contains things such as music list, additional fluff for each level, usage tips for the new graphics, and more. Quick Start Load TJ.wad and TJ.deh into your favorite limit removing port, running the latest version of DOOM II. The entire WAD has been tested on many different ports, but for best overall experience I recommend ZDOOM, running under software mode. TJ.deh changes automap names and story screens, and includes modified frame data for a special effect used in a couple of maps. It's not strictly required but very much recommended. Recommended Rules: vertical autoaim, no up/down looking, no jumping, no crouching. Levels are designed to mitigate the annoyance of \"infinitely tall actors\" but I recommend turning that off.",
+	"version": "84fb48",
+	"date": "2016-10-17 17:27:45",
+	"files": [
+		{
+			"filename": "TJ.wad",
+			"size": 9936501,
+			"crc": 876289559,
+			"md5": "7d3edcbd1435a6289be739f8eb4a561f",
+			"sha1": "84fb4851528f567cbd3637c2514908302e3aa299",
+			"sha256": "e5fde4d9cfb8a11e926c35ab1e7ed8edf5010d163dddd8e5f48d0f84c2336146"
+		}
+	]
+}

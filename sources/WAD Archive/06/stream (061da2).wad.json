@@ -1,0 +1,17 @@
+{
+	"uid": "stream (061da2).wad",
+	"name": "STREAM.WAD",
+	"description": "Designed to be a deathmatch only level. There no monsters in here (add some if you want) so single player might get dull real quick :-) This is not a very big level, well actually it's quite small but should be fun and fast paced. Just run around and kill your friends !",
+	"version": "061da2",
+	"date": "2014-12-03 20:00:32",
+	"files": [
+		{
+			"filename": "stream.wad",
+			"size": 29075,
+			"crc": 515521532,
+			"md5": "3ae51b5668d03c55519497670dde590d",
+			"sha1": "061da2ef4d3d4579f9cffde0939945a2ec99613f",
+			"sha256": "725074baa25551c7a4582afda798357244915f646f73469957dfd92cf96fe6fa"
+		}
+	]
+}

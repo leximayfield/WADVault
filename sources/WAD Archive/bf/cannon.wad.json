@@ -1,0 +1,16 @@
+{
+	"uid": "cannon.wad",
+	"name": "Death Cube Cannon",
+	"description": "Experimental MAP30. Find the Death Cube Cannon and activate it. The previous space marines were killed by the demons before they got the cannon activated. It's all setup to fire the Death Cube into the heart of the demon infestation.",
+	"date": "2014-12-21 15:15:24",
+	"files": [
+		{
+			"filename": "cannon.wad",
+			"size": 69339,
+			"crc": 364914753,
+			"md5": "bd708054514206e2fb7eb71f00ca5b48",
+			"sha1": "bfc55d93af8dcea6f7c020c501831636e6ccaef3",
+			"sha256": "f76240ccf561a607b05b3850a97f2c53ef310a2a1ea13b187326dc611346b2b3"
+		}
+	]
+}

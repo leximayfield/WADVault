@@ -1,0 +1,17 @@
+{
+	"uid": "Based (29ca2e).wad",
+	"name": "Based",
+	"description": "This is my first mapset. Designed to teach me how to create maps up to PrBoom level.",
+	"version": "29ca2e",
+	"date": "2016-10-17 17:08:24",
+	"files": [
+		{
+			"filename": "Based.wad",
+			"size": 14148683,
+			"crc": 2563894973,
+			"md5": "acc7a298f196148d69de551edc765024",
+			"sha1": "29ca2e13bb2f2c9a29e242a2d1bbde4bfef9a73f",
+			"sha256": "2645df607d4520b2b6b175c5523f1d50ce3942b05571b772cd4f03a1d63956e4"
+		}
+	]
+}

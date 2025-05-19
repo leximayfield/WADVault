@@ -1,0 +1,16 @@
+{
+	"uid": "e101.wad",
+	"name": "E1 The Test",
+	"description": "My attempt of an E1 style wad with some bits from E2, to see if I should bother to release another E1 project im working on. Requires the Ultimate Doom wad",
+	"date": "2014-12-14 20:53:34",
+	"files": [
+		{
+			"filename": "e101.wad",
+			"size": 149532,
+			"crc": 2748751159,
+			"md5": "426c57fd9ab71e1094fe5cf3bbd0de99",
+			"sha1": "0b8f746c2bd36afb4a5d69912ab683544d70e036",
+			"sha256": "2153b559060cde7bd6a26a9f850dbf2e0707e7a5d16df105c70835e236306558"
+		}
+	]
+}

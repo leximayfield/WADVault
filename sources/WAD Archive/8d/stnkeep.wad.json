@@ -1,0 +1,16 @@
+{
+	"uid": "stnkeep.wad",
+	"name": "The Stone Keep",
+	"description": "this level will be included in our second DMC deathmatch levels compilation, called DMC2: Immortal Thoughts which is gonna be released VERY soon. More information about the compilation can be found at http://www.horizon.nl/~cono.",
+	"date": "2014-12-15 21:48:46",
+	"files": [
+		{
+			"filename": "stnkeep.wad",
+			"size": 278028,
+			"crc": 2407880174,
+			"md5": "07606b70f1537f2c33e648925b60a716",
+			"sha1": "8de805d367345d65978451a82b383fe15de0660a",
+			"sha256": "ee02b2ef7854d66408abd3ae942671db3859b8c40d3b5817dce881b4f575aeff"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "killall (d0a91d).wad",
+	"name": "KILL'HEM ALL!",
+	"description": "Deathmatch level ONLY! I tried to keep the same Doom ambience! (Little level for VERY FAST action!) There is an EXIT.",
+	"version": "d0a91d",
+	"date": "2014-12-30 11:33:53",
+	"files": [
+		{
+			"filename": "killall.wad",
+			"size": 57780,
+			"crc": 1893273633,
+			"md5": "db9f55e854e08a2063ec3d21b52d2c83",
+			"sha1": "d0a91d3287c4760b98e1afd77e9674b348208970",
+			"sha256": "16216bbabe96dd4af4ff49a466d20dcc83584829421cf983e15d209bd6b3415d"
+		}
+	]
+}

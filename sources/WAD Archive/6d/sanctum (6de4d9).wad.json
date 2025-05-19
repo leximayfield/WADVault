@@ -1,0 +1,17 @@
+{
+	"uid": "sanctum (6de4d9).wad",
+	"name": "Sanctum",
+	"description": "This level is for Registered Heretic v1.2. There are four puzzles that you must solve in order to find your way out. Remember that things don't always stay the same.",
+	"version": "6de4d9",
+	"date": "2014-12-30 11:29:02",
+	"files": [
+		{
+			"filename": "sanctum.wad",
+			"size": 294191,
+			"crc": 1508938772,
+			"md5": "376152141b665e275d5eadf1a5573a9f",
+			"sha1": "6de4d99785d7726c61faf28a9e465d79b4bee6cc",
+			"sha256": "2b006c84fbb0edcf69fbb8aa8e759202b1ca8672e71044e305fa2d1697b382ad"
+		}
+	]
+}

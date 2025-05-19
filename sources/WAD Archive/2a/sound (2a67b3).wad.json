@@ -1,0 +1,17 @@
+{
+	"uid": "sound (2a67b3).wad",
+	"name": "New Sounds",
+	"description": "Soundwad, which containes new sounds and music(beta version)",
+	"version": "2a67b3",
+	"date": "2018-03-27 21:12:13",
+	"files": [
+		{
+			"filename": "sound.wad",
+			"size": 1513180,
+			"crc": 2501191683,
+			"md5": "20a27c316a625f10b0f6cea0666f76a3",
+			"sha1": "2a67b3d352200d711a194203939f7179221e7884",
+			"sha256": "a453eef28c3ec546a0fe51d7903aff4ab47f24f5da22be29a0d8175ae622e6dd"
+		}
+	]
+}

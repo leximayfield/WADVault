@@ -1,0 +1,16 @@
+{
+	"uid": "boh.wad",
+	"name": "BOH v.1.1",
+	"description": "BOH is a simple deathmatch level designed for a fast paced game and made for the ZDaemon clan of the same name. There is no BFG, no plasma no major power-ups and no crying. Use of the mouse is strongly discouraged. See http://boh.ne1.net for more details.",
+	"date": "2014-12-15 22:39:27",
+	"files": [
+		{
+			"filename": "boh.wad",
+			"size": 75500,
+			"crc": 3319660660,
+			"md5": "cec8afa2f91a9869db7a6c5ae9048892",
+			"sha1": "60b2826c2544b967fcd634447531e75b4f1ea121",
+			"sha256": "89dd0c3151353915d3bace693b9b381daf8fd703e61b249d96446fef4bb1743a"
+		}
+	]
+}

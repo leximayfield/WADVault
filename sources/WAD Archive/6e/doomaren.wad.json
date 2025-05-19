@@ -1,0 +1,16 @@
+{
+	"uid": "doomaren.wad",
+	"name": "DooM Arena DOOMAREN.WAD",
+	"description": "This level was specially made for Deathmatch and has some new graphics.",
+	"date": "2014-12-15 21:30:24",
+	"files": [
+		{
+			"filename": "doomaren.wad",
+			"size": 149109,
+			"crc": 2550479819,
+			"md5": "ea3c79abdfbc2ff4b0b71a897da13cf3",
+			"sha1": "6e89226179b66f368a66e74c4d929d684924289d",
+			"sha256": "eb2093c840917518b0d7d8579cbd3285dbeffc4fd915e0d289494f1712e8baa5"
+		}
+	]
+}

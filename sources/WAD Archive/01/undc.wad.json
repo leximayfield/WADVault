@@ -1,0 +1,16 @@
+{
+	"uid": "undc.wad",
+	"name": "Rise of the Undead Cardinals",
+	"description": "You are Pastor Greg Herbert, you have recently been hearing a strange voice from the Church Basement. As you investigate, you discover a large portal. Daring to enter, you load up your pistol and go inside.",
+	"date": "2014-12-29 15:56:43",
+	"files": [
+		{
+			"filename": "undc.wad",
+			"size": 2638038,
+			"crc": 4000709144,
+			"md5": "c89d7d7c9688e82323ca4df139853315",
+			"sha1": "0136d8f90d99cf2c2e178136c8e4486d8733bdce",
+			"sha256": "a30a9f563de170dbf5fb5cccf1f6148550c0ece691634bd7ded5834f54ea78ec"
+		}
+	]
+}

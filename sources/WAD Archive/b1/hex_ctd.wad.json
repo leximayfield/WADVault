@@ -1,0 +1,16 @@
+{
+	"uid": "hex_ctd.wad",
+	"name": "The Connect-The-Dot Series",
+	"description": "A rather odd set of deathmatch levels. Created by drawing random dots on graph paper, and then connecting the dots. The levels might actually prove to be fun, as there are several areas in each map which are kind of hidden.",
+	"date": "2014-12-31 12:16:51",
+	"files": [
+		{
+			"filename": "hex_ctd.wad",
+			"size": 39720,
+			"crc": 4011345739,
+			"md5": "ada0eba50f73ec15f7ef31a63c0d2767",
+			"sha1": "b191f5450314b30cd2e9fc65c7522d8813392490",
+			"sha256": "5314a2d540f5aeb655c70f9cd72215a92599b04e862caa6661b6d28045bd0c00"
+		}
+	]
+}

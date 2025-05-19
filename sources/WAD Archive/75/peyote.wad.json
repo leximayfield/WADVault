@@ -1,0 +1,16 @@
+{
+	"uid": "peyote.wad",
+	"name": "Peyote",
+	"description": "A big brown-yellow complex, with some outdoor areas. Also a non-linear map (if the action is too hard, try another route). I've tried some fake 3D effects, and also some Boom features -translucent walls, deep water-. This map follows a similar style to my previous wad \"Hachisch\", but with a more solid theme, and some new textures.",
+	"date": "2014-12-29 09:02:00",
+	"files": [
+		{
+			"filename": "peyote.wad",
+			"size": 1494754,
+			"crc": 463926016,
+			"md5": "3667772e844060b0df30cdb5bb246dcb",
+			"sha1": "75a5d27f207bdf87953ad140056711b6279abb7f",
+			"sha256": "a3d21433c10b5d19ba15df1f9f20882cf16cd755598f77448aa42e82da6df19a"
+		}
+	]
+}

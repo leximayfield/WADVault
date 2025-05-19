@@ -1,0 +1,16 @@
+{
+	"uid": "HEXTUN.wad",
+	"name": "HEXEN TUNNELS",
+	"description": "A deathmatch wad with lots of items and weapons.",
+	"date": "2014-10-14 21:14:50",
+	"files": [
+		{
+			"filename": "HEXTUN.wad",
+			"size": 40885,
+			"crc": 1926075625,
+			"md5": "5e9b27eab9705f1ab8ecaa15e22b3049",
+			"sha1": "ac3077b0726543c20342c1d007cfae70c7649756",
+			"sha256": "5c3b6265de8247a29a011fa4e6186da0688236e744705ecb77b6ce790bf37d13"
+		}
+	]
+}

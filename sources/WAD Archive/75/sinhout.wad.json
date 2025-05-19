@@ -1,0 +1,16 @@
+{
+	"uid": "sinhout.wad",
+	"name": "Omegalore's First Wad",
+	"description": "This was my first wad I've made until I published SRFINAL and",
+	"date": "2014-04-27 21:19:49",
+	"files": [
+		{
+			"filename": "sinhout.wad",
+			"size": 379064,
+			"crc": 1122966642,
+			"md5": "41768829e4ff0cee5f1461f79c6426bb",
+			"sha1": "75b22a105b88739e4c9e1d58c6394d64b0ea2c86",
+			"sha256": "6287eec4e2b1e2e6dfc131644f1511f8bcfba3fb1f0142b0729894d0cdd6b366"
+		}
+	]
+}

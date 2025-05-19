@@ -1,0 +1,17 @@
+{
+	"uid": "helshall (8ee9ac).wad",
+	"name": "Hell's Hall",
+	"description": "FOR REGISTERED VERSION OF HERETIC ONLY!! It's a Hall. It's in Hell. You should play it.",
+	"version": "8ee9ac",
+	"date": "2013-11-02 16:38:26",
+	"files": [
+		{
+			"filename": "helshall.wad",
+			"size": 64949,
+			"crc": 821676300,
+			"md5": "356a4a719628be8bb5af8d3553f45d06",
+			"sha1": "8ee9ac41afd8549d666794b9d49520342da5a2f6",
+			"sha256": "5c6d3798d50269bd3aa9e03df11246290b76ced68fe34948d2fd7b9ec1aaa039"
+		}
+	]
+}

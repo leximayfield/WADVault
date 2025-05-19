@@ -1,0 +1,17 @@
+{
+	"uid": "shepherd (193cd9).wad",
+	"name": "SHEPHERD.WAD",
+	"description": "This is my first PWAD and while not the most flashy, it is solid. As far as I know it has none of the STUPID door and texture mismatches that make me want to scream and flame the author. Also, I kept it under a 100K and didn't include any CyberDemons or Spiders.",
+	"version": "193cd9",
+	"date": "2014-01-11 11:11:21",
+	"files": [
+		{
+			"filename": "shepherd.wad",
+			"size": 80369,
+			"crc": 738158964,
+			"md5": "12b3bf79141b8197cb3053d52ae694c0",
+			"sha1": "193cd92a391f06a1bd518f25dc73df37a3bd05cb",
+			"sha256": "53894b74286349e1f0762f30a2028bd9952fa5f40b1897e9bd73587b7ccc902f"
+		}
+	]
+}

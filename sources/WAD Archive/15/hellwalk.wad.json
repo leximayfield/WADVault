@@ -1,0 +1,16 @@
+{
+	"uid": "hellwalk.wad",
+	"name": "A Walk In Hell",
+	"description": "Entry for the Vinesauce DOOM Mapping Contest. A short, hell-themed cave map. The DeHacked patch (HELLWALK.DEH) is required in order to complete the map. Note that the patch will not work if there are additional mods which modify the Baron of Hell's death animation and/or include new death animations (e.g. Smooth Doom). This map is vanilla-compatible.",
+	"date": "2017-06-27 00:28:15",
+	"files": [
+		{
+			"filename": "hellwalk.wad",
+			"size": 202885,
+			"crc": 3856541935,
+			"md5": "75cb40d3509e91f71648a2fd2ad836e3",
+			"sha1": "15572c574675e70b98589c144581656865a222b3",
+			"sha256": "5987d31f4c5304a88dccdf8a70390e2a404f0cd872dc519d98857728d8c29dc4"
+		}
+	]
+}

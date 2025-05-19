@@ -1,0 +1,16 @@
+{
+	"uid": "remmy01.wad",
+	"name": "REMMY01.WAD for DOOM2",
+	"description": "A deathmatch only, dweller-like wad. Everything was build and placed with caution and thinking of playability.",
+	"date": "2014-12-15 23:16:09",
+	"files": [
+		{
+			"filename": "remmy01.wad",
+			"size": 64270,
+			"crc": 1711507277,
+			"md5": "139769f2297a1f2d8af72ec682aa5ea7",
+			"sha1": "21727745e35f584cd521d3738788774fd53c9f6d",
+			"sha256": "15a1bdead1fb693e365ba5227ed322792a1f020c717189029c26c860b01b7e52"
+		}
+	]
+}

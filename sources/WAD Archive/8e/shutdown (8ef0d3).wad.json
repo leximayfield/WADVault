@@ -1,0 +1,17 @@
+{
+	"uid": "shutdown (8ef0d3).wad",
+	"name": "SHUTDOWN!",
+	"description": "Alien forces have taken over an old installation and activated an nuclear reactor that should have been dismantled because of its instability. It it vital that the reactor is shut down. A slight problem with navigation upon landing on the site renders the taskforce with only one man, namely (you guessed it!) you!",
+	"version": "8ef0d3",
+	"date": "2014-01-04 11:55:47",
+	"files": [
+		{
+			"filename": "shutdown.wad",
+			"size": 113578,
+			"crc": 704170686,
+			"md5": "0425056539bc44dd390d5d68002d3919",
+			"sha1": "8ef0d3b8d783c7380bdd23df656d72cb9eee1871",
+			"sha256": "c71a7b68c25f02adccf7cc9a3898d7823afd51225399390091a0eb5e87885777"
+		}
+	]
+}

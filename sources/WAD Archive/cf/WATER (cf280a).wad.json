@@ -1,0 +1,17 @@
+{
+	"uid": "WATER (cf280a).wad",
+	"name": "WATER.WAD",
+	"description": "Your mission starts in some wet underworld. After that, be the guest in a lovely, though not too friendly populated mansion. But there's more outside ...",
+	"version": "cf280a",
+	"date": "2015-01-14 23:03:06",
+	"files": [
+		{
+			"filename": "WATER.wad",
+			"size": 193114,
+			"crc": 1694568976,
+			"md5": "7e0b16d9d5a1f6ce398c6f945d207aae",
+			"sha1": "cf280a72311bf62058ee228f7d877efddaf4e3e2",
+			"sha256": "6f7caaac973e6f34dae5c3e836fa317d712d5dd5b6b6ba18317160be0d0ad561"
+		}
+	]
+}

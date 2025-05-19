@@ -1,0 +1,17 @@
+{
+	"uid": "whitroom (f99e1b).wad",
+	"name": "WHITROOM.WAD (White Room)",
+	"description": "E1M1 replacement PWAD. Named for the colour of the exit room.",
+	"version": "f99e1b",
+	"date": "2013-11-02 15:57:21",
+	"files": [
+		{
+			"filename": "whitroom.wad",
+			"size": 101101,
+			"crc": 1258320304,
+			"md5": "09fe9c1de4dba49aa0aeeda0a7af0e0f",
+			"sha1": "f99e1b3f0a3797480dd89bc7484f05b6aaa35c1e",
+			"sha256": "b3642d4fd18dfecaf1b4092ad75b6d7961103d8b833dc882677f517543512db9"
+		}
+	]
+}

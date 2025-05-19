@@ -1,0 +1,16 @@
+{
+	"uid": "DURKDGN.wad",
+	"name": "Durk's Dungeon",
+	"description": "A small deathmatch level with all weapons, no monsters and several teleports.",
+	"date": "2014-10-28 21:54:56",
+	"files": [
+		{
+			"filename": "DURKDGN.wad",
+			"size": 65937,
+			"crc": 3054998100,
+			"md5": "2c74a88f555396e0ba5f31ad563ea6aa",
+			"sha1": "e8357f3e41e31faad9491c6c4801ab6a646daccd",
+			"sha256": "0af8e8937367d54c99114ce471cbf8cb1ea29897a717257f741be3d0042f0895"
+		}
+	]
+}

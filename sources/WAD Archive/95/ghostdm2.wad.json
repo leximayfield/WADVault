@@ -1,0 +1,16 @@
+{
+	"uid": "ghostdm2.wad",
+	"name": "GHOSTDM2.WAD",
+	"description": "A WAD that enables you to become a ghost. You are dead but still walking around, opening doors, etc. No monsters will notice you. It will work with any WAD and can be used to see original enemy placement in WADS",
+	"date": "2014-12-18 22:49:04",
+	"files": [
+		{
+			"filename": "ghostdm2.wad",
+			"size": 70217,
+			"crc": 1021755249,
+			"md5": "1fb067b21b2ac6a596d9c111fd1bb52d",
+			"sha1": "950cf1b22e323220e74006068adb515ea5caab95",
+			"sha256": "6a7148c3a5a6d9e9a857173ed5ef169791919d884a9d8e58a3f4f9b43a2366fc"
+		}
+	]
+}

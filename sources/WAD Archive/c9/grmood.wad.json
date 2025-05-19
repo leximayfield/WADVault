@@ -1,0 +1,16 @@
+{
+	"uid": "grmood.wad",
+	"name": "Greymood",
+	"description": "This is my first map added in idgames database. Main layout was made in one day and after that I polished everything and fixed main issues. I tried express my depressive feeling through grey, brown and white textures. Music choice was accident, which perfectly fitted in this kind of map. I recommend turn off infinite height, but it's not important.",
+	"date": "2017-09-17 18:47:42",
+	"files": [
+		{
+			"filename": "grmood.wad",
+			"size": 2185822,
+			"crc": 3700325456,
+			"md5": "810b28b30e058af093046929afdd10d7",
+			"sha1": "c9bb5e917a0cff59666bc1f6843a7fbe73fd3e69",
+			"sha256": "84bfc69ca66fd6ce2c95a9e7cbced387aa3a297a52dfb84cc1ee645c5ecb3ff3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "scum (59b70a).wad",
+	"name": "Scum of the Earth.",
+	"description": "A normal or co-operative wad with a night-time theme, new graphics and sound FX.",
+	"version": "59b70a",
+	"date": "2014-12-13 12:46:55",
+	"files": [
+		{
+			"filename": "scum.wad",
+			"size": 415073,
+			"crc": 2339645001,
+			"md5": "17b97f95d78ec32a72b3c3a4af8c5bda",
+			"sha1": "59b70ab06483e079a715ba231b52583432bb1b3c",
+			"sha256": "a3840da47d5f69d2542a75a106e84375b6b9243465e807a88ce61c596cd48bb1"
+		}
+	]
+}

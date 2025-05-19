@@ -1,0 +1,16 @@
+{
+	"uid": "n1.wad",
+	"name": "First Wad I've ever made",
+	"description": "I was deleting garbage off my computer, when suddenly I found this old wad. For reasons that I wont list here,I decided to upload this abomination to Doomworld. This is the first (and worst) wad I've ever made. I gave every single weapon at the beginning of the first map, I added too many monsters (On Map01-Map02), and since I had no creativity at the time, I pasted most of Doom 2's final map (Map30) into the end of the first map (Which I removed from the original wad so it could be accepted). I would say Map03 is the most creative map of them all. I lightly modified the original mod so it could be accepted. I changed the name of the original wad, I removed custom items, removed all mp3s, and also fixed problems that would make the wad unplayable. So download it today and give it 1 star.",
+	"date": "2017-09-17 18:53:02",
+	"files": [
+		{
+			"filename": "n1.wad",
+			"size": 197915,
+			"crc": 1606410027,
+			"md5": "a1d9c85a88c21e614455512c5c76654a",
+			"sha1": "40c1f84c2859cdbfb198c80c622f10614ec0b7c7",
+			"sha256": "5a1ac9195ce7209265c0bc7da11dcd7bf9536bff7094aadbfb70baeb3a651aba"
+		}
+	]
+}

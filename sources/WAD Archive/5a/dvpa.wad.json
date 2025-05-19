@@ -1,0 +1,16 @@
+{
+	"uid": "dvpa.wad",
+	"name": "Death, Violence, Pain, Aspirin (DVPA.wad)",
+	"description": "A deathmatch .wad, designed for pure carnage from start to finish.",
+	"date": "2014-01-07 22:20:05",
+	"files": [
+		{
+			"filename": "dvpa.wad",
+			"size": 47591,
+			"crc": 4268067915,
+			"md5": "b6bee03a9c4ade7ff37df38d0e4e8088",
+			"sha1": "5a5de228a4e67bc2c377293ae2f07fb404edd211",
+			"sha256": "832accbc9a0226f12ef7db79c860df419e3490ce9b41a41296d27ed32e186f1a"
+		}
+	]
+}

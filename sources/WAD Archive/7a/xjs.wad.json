@@ -1,0 +1,16 @@
+{
+	"uid": "xjs.wad",
+	"name": "XJS",
+	"description": "Small WAD where you'll have to confront a couple of arch-viles and avoid certain death through the use of some well placed teleporters.",
+	"date": "2015-01-14 22:47:16",
+	"files": [
+		{
+			"filename": "xjs.wad",
+			"size": 256824,
+			"crc": 4289779514,
+			"md5": "cbc98c386545f4129cf5f2d72ef211fc",
+			"sha1": "7a70f6f6b2b146bc713c014bcd051bf763fc854e",
+			"sha256": "299a9635411b08b5ab82a164bbb15912045e3ab9b82cb730b038fa73ca90e572"
+		}
+	]
+}

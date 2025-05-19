@@ -1,0 +1,17 @@
+{
+	"uid": "buttv2 (cc3f0b).wad",
+	"name": "BUTTV2.WAD",
+	"description": "This PWAD is for E1M1. It was designed primarily for deathmatch, which is apparent in the design.",
+	"version": "cc3f0b",
+	"date": "2014-01-11 11:06:47",
+	"files": [
+		{
+			"filename": "buttv2.wad",
+			"size": 125718,
+			"crc": 3904293126,
+			"md5": "c6b94906ab781a44333efbe50aa2b4a4",
+			"sha1": "cc3f0b237dc98c90f07023333cee2bafcc2078fc",
+			"sha256": "80ac25d72ff346ecb18188fef2dc02b3adddf9e9b32178c8b9757a49fe5ed0bd"
+		}
+	]
+}

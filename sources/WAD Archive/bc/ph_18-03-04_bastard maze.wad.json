@@ -1,0 +1,16 @@
+{
+	"uid": "ph_18-03-04_bastard maze.wad",
+	"name": "Bastard Maze",
+	"description": "A map themed around use of self-referencing sectors, made for the Valentines' Day ASS34 (featured as MAP19). As is often the way in these projects, the whole thing is deliberately mean and tongue-in-cheek... Therefore, the map lives up to it's name. Was actually inspired by a WAD featured in Hank Leukart's Hackers' Guide to Doom, which did a saner version of the invisible wall maze with colour-coded flooring.",
+	"date": "2019-08-06 20:33:49",
+	"files": [
+		{
+			"filename": "ph_18-03-04_bastard maze.wad",
+			"size": 185564,
+			"crc": 1739147898,
+			"md5": "c16f7b2648f88b787968b5d4a9c89012",
+			"sha1": "bc576e4f6a85babcbfbd1cf964073ccfe44ad9da",
+			"sha256": "ada7a11a77d725872c72c99a2f8c731c4b009fc4f46c6f93a27f2fca054a4038"
+		}
+	]
+}

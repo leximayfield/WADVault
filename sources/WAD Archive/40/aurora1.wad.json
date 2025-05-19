@@ -1,0 +1,16 @@
+{
+	"uid": "aurora1.wad",
+	"name": "Aurora 1.0",
+	"description": "A DOOM level.",
+	"date": "2013-11-03 17:48:09",
+	"files": [
+		{
+			"filename": "aurora1.wad",
+			"size": 90482,
+			"crc": 1131048528,
+			"md5": "2499c873d5a0f343dd87a7a2ca13eec6",
+			"sha1": "404d3e76c1f6f6e6abd65516c81e2992f955f604",
+			"sha256": "6b2955d24b96a60a532f57e47979efa587c7e4939f67f8f400b8ec87714bdccf"
+		}
+	]
+}

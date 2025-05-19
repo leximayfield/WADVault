@@ -1,0 +1,16 @@
+{
+	"uid": "dm_udie2.wad",
+	"name": "UDIE GOOD II",
+	"description": "This is a deathmatch only WAD for Doom2. It is designed for deathmatch 2.0. This map contains the following features: o Light switches to control lighting in certain areas. Use it to keep your opponent from spotting you as you plan your attact. o Lighting around doors to help you locate exits when its dark. o A temporary trap when you get the night goggles. This allow you opponent to take cheap shots at you. o Teleporters to keep the action intense. o Several lifts (some hidden) o All weapons except the chain saw. o A few one way walls to keep you on your toes. o EXCELLENT design for deathmatch. Play this level once and you will be hooked. o New music. o The archetuture is not to complex which speeds up play on slower computers. (especially during modem play) This level was written on a 486DX66 with 8 meg Ram.",
+	"date": "2014-12-15 23:03:33",
+	"files": [
+		{
+			"filename": "dm_udie2.wad",
+			"size": 113985,
+			"crc": 54014482,
+			"md5": "0eb5b4ead52a48826c9dd76595d3db29",
+			"sha1": "b1e74ac44bd4c6455282d7e923edbe7dfbc38670",
+			"sha256": "a01e939f7ff9add56baa4da47d82d1c445c5c1d9bd4812eb6e04a9a4a0c7ba3a"
+		}
+	]
+}

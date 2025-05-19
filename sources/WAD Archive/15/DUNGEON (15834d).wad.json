@@ -1,0 +1,17 @@
+{
+	"uid": "DUNGEON (15834d).wad",
+	"name": "Dungeon",
+	"description": "A single Doom 2 level, for single player mode.",
+	"version": "15834d",
+	"date": "2014-12-18 22:42:33",
+	"files": [
+		{
+			"filename": "DUNGEON.wad",
+			"size": 119504,
+			"crc": 3671943584,
+			"md5": "98c0b24cfe8502fdc46cc4d00edc8b5c",
+			"sha1": "15834d321664eab2d8890ef495157d1d31f1f880",
+			"sha256": "abd3ac8aaf048d4b40c48784ac118d8ba79bb383f708f9fae48218b7f5261a5b"
+		}
+	]
+}

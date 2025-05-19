@@ -1,0 +1,17 @@
+{
+	"uid": "river (570d43).wad",
+	"name": "The River",
+	"description": "1 Rocket Launcher, 1 shotgun, 1 chaingun, 1 chainsaw",
+	"version": "570d43",
+	"date": "2014-12-14 20:52:23",
+	"files": [
+		{
+			"filename": "river.wad",
+			"size": 32866,
+			"crc": 3249227906,
+			"md5": "4eaac9e3419d21fbf7e8dd01e6fd687a",
+			"sha1": "570d4383b5e3265600d36a5f1a27be22faa30cbb",
+			"sha256": "58f34f7ba5847fcc23b74ae51663bc0ae113b979e9c4bebf89b06d4e19f33ff3"
+		}
+	]
+}

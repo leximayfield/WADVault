@@ -1,0 +1,17 @@
+{
+	"uid": "cave (752214).wad",
+	"name": "The Forest Cave",
+	"description": "MAJORMUD lovers ATTENTION!! This WAD is a Doom-ized creation of the forest cave in MajorMud! It is possible to play co-op, but there isn't much to the level (the cave is small..), so I reccomend playing it deathmatch , altdeath and nomonsters. This would have been ALOT more realistic as a Heretic or Hexen level, but as of yet no editor for Hexen is where I've checked, (Hexen isn't even out of beta form yet :) ), and for some weird reason HEU decided to quit working on my comp, even if I d/l another copy it won't work! Any suggestions?!? Email me!!",
+	"version": "752214",
+	"date": "2014-08-30 14:03:07",
+	"files": [
+		{
+			"filename": "cave.wad",
+			"size": 42054,
+			"crc": 258579447,
+			"md5": "e4b738fcea61bb0ef1a6138d11a59ce7",
+			"sha1": "752214ff753f410fff77d742839764334f7549ce",
+			"sha256": "8b0ea1664eae561d447181666b696ca539afc5989aefc6576bd939fd44e52383"
+		}
+	]
+}

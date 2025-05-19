@@ -1,0 +1,17 @@
+{
+	"uid": "myhouse3 (c2b398).wad",
+	"name": "MyHouse.wad",
+	"description": "This is a completely blueprint accurate WAD of my house. I designed the level so my friends who don't have doom can come over to play Doom via modem would know the level without having to ask me which way to turn all the time. I also added a few underground tunnels and secret passageways that my house obviously doesn't have. There are hidden teleporters, detailed furniture, and a couple great hiding places. Even though the size of the file is large, the level itself is not that big. It is because of the furniture. Be sure to check out the fireplace and Bathroom's with moving toxic waste!!! This is my first attempt at creating a WAD so please be kind. Enjoy!!! (please tell my what you think!!!) noah@seas.ucla.edu",
+	"version": "c2b398",
+	"date": "2013-11-02 15:08:31",
+	"files": [
+		{
+			"filename": "myhouse3.wad",
+			"size": 157608,
+			"crc": 221963236,
+			"md5": "c216487a0b05c52a836f9b3673b1cc54",
+			"sha1": "c2b398f24a48b0f9f3eaa1e140164ff8fed30c82",
+			"sha256": "d80b5c70c5710cb96dc2fc8db7c3867d4e8a7469fc5196b2c14300f0baf2e57f"
+		}
+	]
+}

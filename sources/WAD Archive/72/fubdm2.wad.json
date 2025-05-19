@@ -1,0 +1,16 @@
+{
+	"uid": "fubdm2.wad",
+	"name": "fubdm 2",
+	"description": "an updated version of \"fubdm.wad,\" pending inclusion in a megawad. could be alright for ffa, 3+ players advisable.",
+	"date": "2014-12-15 22:55:39",
+	"files": [
+		{
+			"filename": "fubdm2.wad",
+			"size": 69510,
+			"crc": 444954950,
+			"md5": "7df2f0cbcd3b44fa37fa85d8c0e21d40",
+			"sha1": "72b3b96983e1027ff8ecc831bf9b026dbdef0c5d",
+			"sha256": "d5d09a5bc7f83429f902022865143d92165d1a352f395c67197dc36a5526652c"
+		}
+	]
+}

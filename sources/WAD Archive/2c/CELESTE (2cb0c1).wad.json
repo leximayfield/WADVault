@@ -1,0 +1,17 @@
+{
+	"uid": "CELESTE (2cb0c1).wad",
+	"name": "The Mystery of the Marie Celeste",
+	"description": "The year: 1943 The place: Somewhere in the northern Atlantic. The situation: Grim.",
+	"version": "2cb0c1",
+	"date": "2013-11-02 15:20:20",
+	"files": [
+		{
+			"filename": "CELESTE.wad",
+			"size": 315563,
+			"crc": 2338705556,
+			"md5": "e887eebbff4424b9f77ac446541f7208",
+			"sha1": "2cb0c1d4cf76cba8d5626c41b0283f43e668faff",
+			"sha256": "0083a13ef26330f0b12d6f69aed2c3f57283e75e61e0497c9d4f15ecc0b30375"
+		}
+	]
+}

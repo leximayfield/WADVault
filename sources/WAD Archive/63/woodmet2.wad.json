@@ -1,0 +1,16 @@
+{
+	"uid": "woodmet2.wad",
+	"name": "Courtyards from hell",
+	"description": "It is a level with several courtyards based on woodmet.wad It is harder and it is recomended that you find the secrets. Coop was not tested...",
+	"date": "2015-09-14 19:30:39",
+	"files": [
+		{
+			"filename": "woodmet2.wad",
+			"size": 269411,
+			"crc": 1588882407,
+			"md5": "6fc70617e719fa6aff8f0bcc340f9966",
+			"sha1": "63258f524d23aa970d80e08cd573bf8718111d2f",
+			"sha256": "e3354372eeaa1fe83d180005bb1775e780b75c473f5ca7e7fe62e12f93c39745"
+		}
+	]
+}

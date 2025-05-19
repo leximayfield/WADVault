@@ -1,0 +1,16 @@
+{
+	"uid": "avantgar.wad",
+	"name": "AvantGarden",
+	"description": "The mood was to create a crappy looking wad.",
+	"date": "2014-12-15 21:44:43",
+	"files": [
+		{
+			"filename": "avantgar.wad",
+			"size": 223784,
+			"crc": 857986649,
+			"md5": "2854737a5bd49bab0382b2d534986f3d",
+			"sha1": "eafc2ded535f80a441e2c4457054f7347ce779f3",
+			"sha256": "7a119cdf0d9faacb8dd051db4d29f4c61313290ed235dfcba0d9dd9267113e8f"
+		}
+	]
+}

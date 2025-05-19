@@ -1,0 +1,17 @@
+{
+	"uid": "thetower (97da48).wad",
+	"name": "The Tower",
+	"description": "The armoured bunker at Ibal Usiom has been over-run by the usual assortment of space demons and undead. Only you can take it back.",
+	"version": "97da48",
+	"date": "2015-01-14 22:49:15",
+	"files": [
+		{
+			"filename": "thetower.wad",
+			"size": 230874,
+			"crc": 3539325030,
+			"md5": "2720085ecf8591b74e6700c021c60a8a",
+			"sha1": "97da48cf832ca277f1439e97e12b276b1d345bbe",
+			"sha256": "8861486bd9c39d4f6279edc9ddad9cd96636a8a1676d5d0a460c8a3e383980a0"
+		}
+	]
+}

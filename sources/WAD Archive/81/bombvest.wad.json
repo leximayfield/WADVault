@@ -1,0 +1,16 @@
+{
+	"uid": "bombvest.wad",
+	"name": "Suicide Bomber Vest",
+	"description": "It's a simple DECORATE joke weapon patch that replaces the BFG9000 with a suicide bomber vest. You press the button and BOOM! You're a goner along with anyone else near by. I got the idea to make this from playing Ghoul's Forest 2. If you find this offensive, I apologize for this.",
+	"date": "2014-12-11 22:29:12",
+	"files": [
+		{
+			"filename": "bombvest.wad",
+			"size": 178295,
+			"crc": 2980190520,
+			"md5": "fd5634f0e36cb137307c4b7f2c567b2b",
+			"sha1": "818c5881d6a093c237ffc35e0b79db726d1aab69",
+			"sha256": "f5628d8f8af483505b91274483c6a8d2da3117b77ae5fe8c6c94e95319791035"
+		}
+	]
+}

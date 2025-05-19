@@ -1,0 +1,17 @@
+{
+	"uid": "destroy (f618bc).wad",
+	"name": "Destroyer of Life",
+	"description": "This is my first wad ever. Because I don't",
+	"version": "f618bc",
+	"date": "2013-11-02 15:15:55",
+	"files": [
+		{
+			"filename": "destroy.wad",
+			"size": 23141,
+			"crc": 1935743138,
+			"md5": "d1718ac3f5dc52c39572b690bf16b321",
+			"sha1": "f618bc5dd6524699dd2066e383dd184cafc5100f",
+			"sha256": "87d9075023e98357e32add8acce0b24de8e06f4ae3a329c2cd02d94992e937ae"
+		}
+	]
+}

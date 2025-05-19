@@ -1,0 +1,17 @@
+{
+	"uid": "inyoface (889fa2).wad",
+	"name": "\"IN YO FACE\"",
+	"description": "INYOFACE is a deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of a darkened arena in the center with an upper level all around the rectangular perimeter. The players start in one of four rooms at each corner of the upper level. They will each find a Health Supercharge, Blue Armor, Shotgun, Chaingun, Plasma Rifle and Rocket Launcher. The BFG 9000 is located in a pool in the middle of the arena where lighting is bright enough to be seen clearly. There are Teleporters in each of the top and bottom corners so that you can travel between the upper and lower level. This level is great in DEATHMATCH 2.0 as well as regular Deathmatch. Although there are no hidden rooms there is plenty of opportunity for ambush. This is the first level in a new Deathmatch only episode Gil and I are developing, so keep an eye out for future levels.",
+	"version": "889fa2",
+	"date": "2014-01-07 21:54:13",
+	"files": [
+		{
+			"filename": "inyoface.wad",
+			"size": 26696,
+			"crc": 1200201035,
+			"md5": "fd7fa5407a7a15b21adc7a687b75099e",
+			"sha1": "889fa2b757903841839f088efa296881b1f4d1eb",
+			"sha256": "d41e97863116e4df5d726dccd52d7b52f289c8aff75b27e2101f408395429693"
+		}
+	]
+}

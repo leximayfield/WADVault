@@ -1,0 +1,16 @@
+{
+	"uid": "iamevil1.wad",
+	"name": "I am Evil 1",
+	"description": "I think \"I am Evil\" sums it up",
+	"date": "2014-12-22 18:33:20",
+	"files": [
+		{
+			"filename": "iamevil1.wad",
+			"size": 57578,
+			"crc": 2931254363,
+			"md5": "2b04e6cfe8b2d8d7224cf6322720c912",
+			"sha1": "c2b840888b0d5f48411a9430b3de8057de6a8507",
+			"sha256": "2282e8b216f73b5df1ddb1bc648f893a3d6ae8772b9b6050ae6b3d7277bd74a0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zarkrm3 (660a73).wad",
+	"name": "MarkRoom 3 (Deathmatch)",
+	"description": "This is another in the arena-like series of my wads. (There are now 3 and more on the way.) Markroom3 is becoming my favorite. The wad is one room, but it has many sub-parts. The 2 main parts are the Stair Sections and the Floor Sections. The Stairs are elevated above the Floor sections and contain mostly ammo and armor. The Floor sections contain the weapons and the teleport Ladder. The Ladder can be used to traverse the room instead of the Stair sections. There is a Green Ladder which runs north and a Blue Ladder that runs south. Remember this. The Ladder can create some great teleporter races. \\ Now, since you're probably confused and don't know what the hell I'm talking about.... Play the damn level and see for yourself!",
+	"version": "660a73",
+	"date": "2016-02-07 20:25:08",
+	"files": [
+		{
+			"filename": "zarkrm3.wad",
+			"size": 34986,
+			"crc": 3257386264,
+			"md5": "b01c15ed8384ab896475375c69262534",
+			"sha1": "660a73f737e14c05c9af96544a579e6ea6609010",
+			"sha256": "a8d366f4e3052b725ebe644ce91c29c1625c67d06a8eef28ee0ab9547d458ee7"
+		}
+	]
+}

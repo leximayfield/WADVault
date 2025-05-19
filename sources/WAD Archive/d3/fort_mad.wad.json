@@ -1,0 +1,16 @@
+{
+	"uid": "fort_mad.wad",
+	"name": "Fortress of Madness",
+	"description": "Hello there my fellow doomers! This is Ogre reporting in to introduce this NEW 3 level masterpiece. FORTRESS OF MADNESS! Story: Takes place 2 weeks after the end of Doom][, the Marine who saved Earth has recieved a report from the UAC that the demons of Hell have built a new fortress called the Fortress of Madness. It is mainly an interogation center where human capitives are being kept. You are to return to hell and place a nuclear bomb in the fortress. But it won't be easy, as most of the fortress is underground, you will have to get to the bottom and plant the bomb. So what are you waiting for, Marine? Load up your guns!",
+	"date": "2014-12-22 18:33:36",
+	"files": [
+		{
+			"filename": "fort_mad.wad",
+			"size": 5813949,
+			"crc": 3834481576,
+			"md5": "56b5adfaec3da9f35abd55a2c46a918a",
+			"sha1": "d30b0401d716e54f81db1933f7d5c7de6ceee8c0",
+			"sha256": "53a04097014c229c3a7c2317b57615e37049692f8dcb22c59f323b0e8d243c3d"
+		}
+	]
+}

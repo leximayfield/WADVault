@@ -1,0 +1,17 @@
+{
+	"uid": "ZSCAPE (81a99e).wad",
+	"name": "ESCAPE.WAD",
+	"description": "There is no story... I called it \"escape\" because the room you start in looks like some kind of torture chamber or something. UV is very very difficult. ALL of the enemies are in it and I find that there is not enough ammo sometimes. Cheating is probably a good idea on this one. :)",
+	"version": "81a99e",
+	"date": "2014-10-14 21:13:29",
+	"files": [
+		{
+			"filename": "ZSCAPE.wad",
+			"size": 66910,
+			"crc": 2664956679,
+			"md5": "03d6c7188142a8ec56e0ebd460a335cb",
+			"sha1": "81a99e2b2881f8bb650551c2730b48be78b0d74e",
+			"sha256": "9077ece4b985f02df0121bde722fb0e6408125ef3a04ac4118263fbd45dc411f"
+		}
+	]
+}

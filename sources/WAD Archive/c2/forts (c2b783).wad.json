@@ -1,0 +1,17 @@
+{
+	"uid": "forts (c2b783).wad",
+	"name": "The forts. (DOOM 2)",
+	"description": "Are you ready for the ultimate deathmatch? Well, in Doom 2 it is hard to achieve! But, I have managed to make the coolest universal map! You can play capture the flag.",
+	"version": "c2b783",
+	"date": "2014-12-15 21:44:58",
+	"files": [
+		{
+			"filename": "forts.wad",
+			"size": 15135,
+			"crc": 3642364744,
+			"md5": "4f1cd42e60e1a40a08bc7c9e700d0d12",
+			"sha1": "c2b7839b945f17b50552933736e472b4e2e84483",
+			"sha256": "1284c9aec429c78e4fecc3f2bc4d65598e68efb2ee2983188599fbfe9a36c3e2"
+		}
+	]
+}

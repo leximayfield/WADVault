@@ -1,0 +1,16 @@
+{
+	"uid": "waldo2.wad",
+	"name": "Waldo World Arena",
+	"description": "This is a DOOMed version of the \"Waldo World Arena\" in Marathon. If you don't know what this means, too bad. If you DO, then you'll know exactly where you're at! This was always one of my favourites, & I plan to do more... \"What goes up, must come down\" is the next one. I sort of mimicked the texture choices, but mostly didn't. Because DOOM doesn't have the MA-75, & Marathon doesn't have the shotguns, the weapon placement is a little different. I replaced the Pfhor with four Imps...",
+	"date": "2014-12-15 22:55:14",
+	"files": [
+		{
+			"filename": "waldo2.wad",
+			"size": 18158,
+			"crc": 3576907847,
+			"md5": "493c3715562f0d6cb52e5ec0847f71e1",
+			"sha1": "c284158513afb6ea16118bc793c0290a90396906",
+			"sha256": "3d53e5fca0cd26caa0c605e119cda71d2e7f6d3ac8514caa8f7780ae8e245a34"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom (v1.666)",
+	"name": "Doom",
+	"description": "Updated for Doom II's engine",
+	"version": "v1.666",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"date": "1994-09-01",
+			"size": 11159840,
+			"crc": "f756aab5",
+			"md5": "54978d12de87f162b9bcc011676cb3c0",
+			"sha1": "2e89b86859acd9fc1e552f587b710751efcffa8e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "centrum.wad",
+	"name": "Centrum",
+	"description": "Episode 2 themed techbase level, following the same difficulty curve as it's predecessor Abyssus. Centrum stands for \"Center\" or \"Central area\" in Latin.",
+	"date": "2014-12-13 17:38:23",
+	"files": [
+		{
+			"filename": "centrum.wad",
+			"size": 320719,
+			"crc": 3197669698,
+			"md5": "2bd57ed1b5c1d8fdc0c432eef286a13e",
+			"sha1": "436ff7a651c90e7189e7363ed983726c0702cf9d",
+			"sha256": "d7a7f94920032f6ef96db89f02a1fad44b0a52770fc0092dd0ce20e303f839ca"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "flordmo2.wad",
+	"name": "Floor Demo 2",
+	"description": "First revision of moving 3D floors. The change is that they're now proper 3D.",
+	"date": "2015-09-14 19:34:37",
+	"files": [
+		{
+			"filename": "flordmo2.wad",
+			"size": 30446,
+			"crc": 3764286667,
+			"md5": "16c5cedadab189eae55439ca6fc4c1cf",
+			"sha1": "db2b463c99ed5f1588253d9994ad8a8f23c03532",
+			"sha256": "39bb824878749a77336002318fad94a9bb8151cfdc4ac3d44de5f3c65f17b28b"
+		}
+	]
+}

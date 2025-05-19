@@ -1,0 +1,17 @@
+{
+	"uid": "paranoia (484a0a).wad",
+	"name": "Paranoia",
+	"description": "5 levels, set in a Military Research installation in the desert South- West of the U.S. The main focus of the research is in Genetics, so there are a variety of Labs and computer centers. There are also waste and water treatment areas, storage bays, speciment containment areas, and power generators. Being a military installation there are armories, barracks, security posts, holding cells, and a Medical Center. There is even an Administration section (with offices), as well as bathrooms, a lounge, and vending machines. Plus lots of human and alien enemies!",
+	"version": "484a0a",
+	"date": "2014-12-29 08:57:00",
+	"files": [
+		{
+			"filename": "paranoia.wad",
+			"size": 9085518,
+			"crc": 2375287522,
+			"md5": "4dc004862b4c22a5dbbe05fe2f5d8701",
+			"sha1": "484a0aa127d906bde3263835d8fe37deae0ddf33",
+			"sha256": "0687556b450124a8f4e043802b7539e9246a900e0cb8d1e56d26d58d4f720475"
+		}
+	]
+}

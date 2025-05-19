@@ -1,0 +1,16 @@
+{
+	"uid": "aqueenv2.wad",
+	"name": "Asbestos Queen",
+	"description": "My very first attempt at a Boom-compatible map pack, though it's recommended you instead play in Zdoom and its derivatives for the sake of an enhanced CD-quality soundtrack. The featured maps range anywhere from a tech-greenhouse to a satellite crashed into a cave, and the start/end of each map follows on from the last to emulate a cohesive journey. It also features a new monster, a boss, and was designed with gameplay mod compatibility in mind.",
+	"date": "2016-11-12 17:12:29",
+	"files": [
+		{
+			"filename": "aqueenv2.wad",
+			"size": 19094420,
+			"crc": 3552930857,
+			"md5": "004769d77f972e27c56dd52c14bfef1c",
+			"sha1": "8b4f60928e36ef7c6b5380baf9c6947a96ec786e",
+			"sha256": "24f7a8d21c5fb6ae62619c87525e623544d09fb5274a98fa7b8cdc64873fcdb0"
+		}
+	]
+}

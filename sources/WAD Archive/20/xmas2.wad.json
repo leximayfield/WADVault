@@ -1,0 +1,16 @@
+{
+	"uid": "xmas2.wad",
+	"name": "Christmas DOOM 2",
+	"description": "Single/Co-op/DM wad for DOOM II Another brand new Level for Doom II.",
+	"date": "2015-01-14 23:06:32",
+	"files": [
+		{
+			"filename": "xmas2.wad",
+			"size": 204339,
+			"crc": 3806842562,
+			"md5": "6cb036820d8f628ad02c23e2c827f3a7",
+			"sha1": "208c11f4396b2ea54e91bd78a0e4c56cdd4f58d9",
+			"sha256": "f0e253be9dface06fb77aecedd3cf1ef0313bc21986c696561adc16ca98b23dc"
+		}
+	]
+}

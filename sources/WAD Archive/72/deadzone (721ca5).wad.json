@@ -1,0 +1,17 @@
+{
+	"uid": "deadzone (721ca5).wad",
+	"name": "Dead Zone v1.00",
+	"description": "An epic level named after the Dragon Ball Z movie, Dead Zone. Hope it's worthy of the name. (BTW, keep in mind I made this level... WITH MONO!... well, symptoms at least. I never did get tested, but I'm sure I had it.)",
+	"version": "721ca5",
+	"date": "2013-07-09 20:20:58",
+	"files": [
+		{
+			"filename": "deadzone.wad",
+			"size": 267176,
+			"crc": 2764085097,
+			"md5": "0f380a842bbb67785931154e258bec08",
+			"sha1": "721ca52245c490bb625b5782146314b6ffb3be75",
+			"sha256": "e399532a84de2dd2e60094bd687e184f56da5244d5934988bd6f0d10ba9d671a"
+		}
+	]
+}

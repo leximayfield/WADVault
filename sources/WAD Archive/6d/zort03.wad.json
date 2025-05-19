@@ -1,0 +1,16 @@
+{
+	"uid": "zort03.wad",
+	"name": "Zort 3",
+	"description": "The third instalment in the series of maps...yeah. Once again I just went the way of scripts, although I did add some colored lighting for effect(isn't too distracting)and whatnot. The scripts are just the most fun part of making a ZDoom map though. I can a actually talk to the player while he's playing the map, like I did here. You're lucky I know all that text is annoying otherwise you'd be seeing it every five seconds. I love it! Also you need to use jump in this map, and mlook is good too, for aiming and stuff.",
+	"date": "2014-12-29 17:07:29",
+	"files": [
+		{
+			"filename": "zort03.wad",
+			"size": 970752,
+			"crc": 1631199907,
+			"md5": "cdab39720f621d99391a72d3d4ef554e",
+			"sha1": "6dbf0a09fee25e927e87c8d7a9e8a0b20bdd818a",
+			"sha256": "c44b1c582749fddca98ad90edb790bb1ac3f105791611084bc83f13a35e98c89"
+		}
+	]
+}

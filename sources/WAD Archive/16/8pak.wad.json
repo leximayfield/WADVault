@@ -1,0 +1,16 @@
+{
+	"uid": "8pak.wad",
+	"name": "8-Pak Death-Match Wad",
+	"description": "8 DooM 1 (or Ultimate DooM) Death-Match levels. Converted from original DooM 2 wad (10 PAK) made by me. Perfect for a bloody marathon with alot of variety. All skill levels are included to match everyones various playing abilities. These levels are also optimized for use of monsters as they are kept at a minimum to allow for good respawning monster play in death-match (they won't get too much in the way but still add alot to the fun).",
+	"date": "2013-11-02 17:11:36",
+	"files": [
+		{
+			"filename": "8pak.wad",
+			"size": 504478,
+			"crc": 660452190,
+			"md5": "52d73b574bae8e06140d1422e82b5fea",
+			"sha1": "1657e26943e7e91e4c9e473308f7c36a48acb3b4",
+			"sha256": "841b1f54f6c5edfae1291af465710eae5b1d5014e68a89fdc323b6ede0776433"
+		}
+	]
+}

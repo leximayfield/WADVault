@@ -1,0 +1,16 @@
+{
+	"uid": "stadel.wad",
+	"name": "Stadel",
+	"description": "This is a small entry-sized map. I basically used this to figure out the three-d stuff. This may not run well on slower machines. Try less res if you are having problems. Hopefully they will fix this. Lots of 3D in this one.",
+	"date": "2014-12-29 17:01:40",
+	"files": [
+		{
+			"filename": "stadel.wad",
+			"size": 2288998,
+			"crc": 2687517719,
+			"md5": "d9fbd795c78de435c3c88075e6d15069",
+			"sha1": "4b1e4915a52ac773773d9353502bfa45b8fbec6a",
+			"sha256": "d938e5ba8596524bd0315fcb17075e1cbc144fffd54d0738d8fc02f28df8be76"
+		}
+	]
+}

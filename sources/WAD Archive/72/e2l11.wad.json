@@ -1,0 +1,16 @@
+{
+	"uid": "e2l11.wad",
+	"name": "Maniac Ridge",
+	"description": "A recreation of Duke 3D's e2l11, \"Lunatic Fringe\"",
+	"date": "2017-06-27 00:21:23",
+	"files": [
+		{
+			"filename": "e2l11.wad",
+			"size": 222507,
+			"crc": 1255660156,
+			"md5": "88a11e8373b4cf7e70e360c93ec0daaf",
+			"sha1": "72fea2f31a0a2d1b5b54841edb3c458ed8535314",
+			"sha256": "fd260f337beb0ff5603d92cde0708496f5825a937211fe6369b261a959003c42"
+		}
+	]
+}

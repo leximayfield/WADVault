@@ -1,0 +1,16 @@
+{
+	"uid": "HERESY.wad",
+	"name": "Heresy",
+	"description": "Heresy is an E1M1 replacement level for the registered version of Raven Software's/id Software's Heretic. It is a medium to large sized level with tons of secrets and bonuses. Every weapon is available, with enough ammo for each to keep you going. All the REALLY good stuff is hidden, so you'll have to be a brain to find it. Heresy features A TOTALLY NEW concept: The Chicken Passage. In Heresy, it sometimes IS A GOOD THING to be morphed into a chicken. There are two passages, each filled with different types of goodies, that are ONLY accessible while you are a chicken. Inside are three teleporters so your opponent will never know where you will appear. By the way, the background music is Mother, by Danzig.",
+	"date": "2014-10-28 21:55:42",
+	"files": [
+		{
+			"filename": "HERESY.wad",
+			"size": 131078,
+			"crc": 1794343962,
+			"md5": "89c013f25827a8374625eb1b8a39431f",
+			"sha1": "71fad77f8804b8c9f53c3a97badc68caa9e086d6",
+			"sha256": "d3f14ac0358d3dc70c45e4db78795b717b59ac327c3cc6e3e56fa06bad1849e4"
+		}
+	]
+}

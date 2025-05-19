@@ -1,0 +1,16 @@
+{
+	"uid": "hogwash.wad",
+	"name": "Hogwash",
+	"description": "Three deathmatch maps. The first map is a bit small, while the second and third open up a bit. I think, however, it is playable with any number of players below 8. Another note, for some reason the bots function well on the first map. ?",
+	"date": "2014-12-15 22:36:35",
+	"files": [
+		{
+			"filename": "hogwash.wad",
+			"size": 355427,
+			"crc": 1631921755,
+			"md5": "a109c08b8b133e78a43637216df12578",
+			"sha1": "ce73d85895738afd9f4f1625582e96e87ae647ed",
+			"sha256": "6666f1e12c51cf24118273cdd84ad92898e13f7910eae445a6a78e27263cf26e"
+		}
+	]
+}

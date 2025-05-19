@@ -1,0 +1,16 @@
+{
+	"uid": "jenesis.wad",
+	"name": "JENESIS",
+	"description": "The third and final part of my solo megawad. Part 3 of 'Jenesis' adds 12 extra maps to the first twenty (which have all also been modified for the better in some way or another) and replaces the final map, as its predecessor did.",
+	"date": "2013-04-19 17:38:10",
+	"files": [
+		{
+			"filename": "jenesis.wad",
+			"size": 21026425,
+			"crc": 3573042026,
+			"md5": "de7e807124b9eb4ae058e4ade34c37a4",
+			"sha1": "174f6ded2cd8d061352ee3fa0a82f31ec5176d06",
+			"sha256": "0d7d8705515aa7316ee7d8b09dfb93cad2b2607564b0bf03ef3fb6dfe7d89620"
+		}
+	]
+}

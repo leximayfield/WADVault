@@ -1,0 +1,17 @@
+{
+	"uid": "destruct (15685d).wad",
+	"name": "Destruction Zone (DESTRUCT.WAD)",
+	"description": "I made this wad in an attempt to replace MAP01 in DOOM 2. Level 1 has almost every weapon (no beserk), so does Destruction Zone. Level 1 is small and frags are quick just like Destruction Zone. Four player deathmatch is a blast!",
+	"version": "15685d",
+	"date": "2014-12-15 22:16:40",
+	"files": [
+		{
+			"filename": "destruct.wad",
+			"size": 55904,
+			"crc": 987620424,
+			"md5": "591a2f0145ade4e1279282beacfa2764",
+			"sha1": "15685d07944504bc0830224d372bacc02accd4f9",
+			"sha256": "72bf3a99f4419d30a921abf4185368a99d459c6feafd263fdbff548210b31e3f"
+		}
+	]
+}

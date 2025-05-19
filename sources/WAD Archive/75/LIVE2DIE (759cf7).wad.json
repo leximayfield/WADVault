@@ -1,0 +1,17 @@
+{
+	"uid": "LIVE2DIE (759cf7).wad",
+	"name": "Live to Die",
+	"description": "Deathmatch WAD.",
+	"version": "759cf7",
+	"date": "2014-01-07 22:15:26",
+	"files": [
+		{
+			"filename": "LIVE2DIE.wad",
+			"size": 24316,
+			"crc": 389401964,
+			"md5": "9fffcdd40d97461d176fd3e1a18caff2",
+			"sha1": "759cf71b6a96f8023114add71d80395f2fc28299",
+			"sha256": "82bbf27f5f3be66ff62e1025d4c323b570a8cd55154595420b007835b9df185d"
+		}
+	]
+}

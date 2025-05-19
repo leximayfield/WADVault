@@ -1,0 +1,16 @@
+{
+	"uid": "xplruin.wad",
+	"name": "Explorer: Ruins of Baevon",
+	"description": "During the events of Doom-II, a marine (not Doomguy) got trapped in hell.",
+	"date": "2015-09-14 22:14:58",
+	"files": [
+		{
+			"filename": "xplruin.wad",
+			"size": 874563,
+			"crc": 3857199006,
+			"md5": "d652c11130fda3211b9cd721c48a8a02",
+			"sha1": "c3d503254295ba42f550d6904ee440b1806ecbee",
+			"sha256": "1cb5eb68bd7fdc41a5f8eb2d4e100b1eeb58bdd8ef5f765d85162653425c0d29"
+		}
+	]
+}

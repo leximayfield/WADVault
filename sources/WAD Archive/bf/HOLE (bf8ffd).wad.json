@@ -1,0 +1,17 @@
+{
+	"uid": "HOLE (bf8ffd).wad",
+	"name": "Hole",
+	"description": "GREAT DEATHMATCH LEVEL",
+	"version": "bf8ffd",
+	"date": "2014-12-15 22:32:56",
+	"files": [
+		{
+			"filename": "HOLE.wad",
+			"size": 15251,
+			"crc": 2052435272,
+			"md5": "a152a8826972b343885f050f2ecebe61",
+			"sha1": "bf8ffd420c320ece5e9f423ab345fa755f98b011",
+			"sha256": "4946b65b696747d7c61d80f5e7e9cd8d75e3fc487346d6ae0806c864090f4cb9"
+		}
+	]
+}

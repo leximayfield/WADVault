@@ -1,0 +1,16 @@
+{
+	"uid": "octavia.wad",
+	"name": "The Challenge",
+	"description": "This is my attempt at bring an old Dungeons & Dragons story of mine to life. The setting is the City of Octavia, capital city of a medieval world (what a shock). An underground labrinth is located beneath the palace grounds and functions as a kind of underground gladiator arena. It's called The Challenge.",
+	"date": "2014-12-30 11:24:32",
+	"files": [
+		{
+			"filename": "octavia.wad",
+			"size": 179823,
+			"crc": 2533762802,
+			"md5": "b03ae8e1533bc1a924ff5b94a4b39530",
+			"sha1": "e6c1ddb61c73004c9d34a2c4041e0f10333caaeb",
+			"sha256": "e946a1cb4a60d4aa10f54c8dc813562f7404b2b8334f1188476afa4f459f86c5"
+		}
+	]
+}

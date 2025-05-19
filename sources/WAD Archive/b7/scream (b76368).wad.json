@@ -1,0 +1,17 @@
+{
+	"uid": "scream (b76368).wad",
+	"name": "Scream",
+	"description": "This level is made with co-op and Deathmatchers in mind, with varied terrain and viewpoints from which to snipe friends and enemies alike. An area of mineshafts and tunnels coupled with very intricate layouts make this a very challenging level. Not suited for solo only because one of the keys requires two players to locate. (HINT) For co-op, several areas require teamwork to clear, especially in locating the keys, or in seeing how switches alter the layout. Search and explore!",
+	"version": "b76368",
+	"date": "2015-01-14 22:48:13",
+	"files": [
+		{
+			"filename": "scream.wad",
+			"size": 402391,
+			"crc": 3934631702,
+			"md5": "b7c83972b53d749013cbb7d3549d27f5",
+			"sha1": "b76368e414fe576ddcbac6ec5ec75ecd40ef16cb",
+			"sha256": "750ac1524669500167e13689a346d02d79d9652fecd0158fb36171b53832e53d"
+		}
+	]
+}

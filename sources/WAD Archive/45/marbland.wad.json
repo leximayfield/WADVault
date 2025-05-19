@@ -1,0 +1,16 @@
+{
+	"uid": "marbland.wad",
+	"name": "Marbland",
+	"description": "2 maps for Boom with castle-style design. Textures: Memento Mori II, Requiem, Plutonia, Kuchitsu, Greenday, Gravity, Nordhell, Kobal, VooDoo Guns. Music: map01 - \"Rage\" by Mark Klem, map02 - untitled track by Eternal from freak4.wad map07. Sliding door idea: VooDoo Guns.",
+	"date": "2015-01-13 21:32:28",
+	"files": [
+		{
+			"filename": "marbland.wad",
+			"size": 4958541,
+			"crc": 1511784383,
+			"md5": "b9a2cf689b94a02a1d65404e2fac7d1f",
+			"sha1": "45a37161ffe56d12a837b0d9067d8020e2a7a211",
+			"sha256": "fe61b6e67173097861a0cc5276dc23932cac3d687e36a56bd6158f72191c14f9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "missile.wad",
+	"name": "MISSILE.WAD",
+	"description": "This pWAD started as several separate experiments into custom graphics and lighting effects. You are also (vitually) limited to the missile launcher throughout the level, which you might think would make things easier!",
+	"date": "2015-09-14 23:10:28",
+	"files": [
+		{
+			"filename": "missile.wad",
+			"size": 188060,
+			"crc": 314260877,
+			"md5": "a921a816fb86a09f8dd5e08bfb8df9bf",
+			"sha1": "5603bccb4ffab21494e273fb07753104d86e362c",
+			"sha256": "ad287069939b7587657f720c69532972621aff1581c17f9b786deec8f7876527"
+		}
+	]
+}

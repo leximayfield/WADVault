@@ -1,0 +1,17 @@
+{
+	"uid": "hdung1 (87fe61).wad",
+	"name": "Dungeon 1",
+	"description": "This is my first level for HERETIC. Although I have made several other .WAD files, they are all for DOOM and DOOM II.",
+	"version": "87fe61",
+	"date": "2013-11-02 16:38:54",
+	"files": [
+		{
+			"filename": "hdung1.wad",
+			"size": 39899,
+			"crc": 2234043387,
+			"md5": "948b2e1f703ce06a9f76bb4fb115550e",
+			"sha1": "87fe61f1082207dbae74d0aee929a8c34e338c20",
+			"sha256": "2e90daf168a38ab631c18b530d33c0ca600545cdbc1359bce410fdc8203cd295"
+		}
+	]
+}

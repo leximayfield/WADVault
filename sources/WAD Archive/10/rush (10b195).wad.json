@@ -1,0 +1,17 @@
+{
+	"uid": "rush (10b195).wad",
+	"name": "Rush",
+	"description": "Set of 12 boom-compatible slaughterish maps. Blast through tech bases, winter maps, hellish keeps and structures in the Void. MAP06 was made with Demonologist. MAP13 is in wad, but it's just an endmap.",
+	"version": "10b195",
+	"date": "2016-01-21 23:58:21",
+	"files": [
+		{
+			"filename": "rush.wad",
+			"size": 19894067,
+			"crc": 2811985930,
+			"md5": "746265b8f8af0a411e7f4e71ce8472d8",
+			"sha1": "10b195d7512607ba38288ce49cd57fb16f63702c",
+			"sha256": "d761872f08d0fe72bbe979f6e7a195f6057f2987c40dccf3ae4c99c43c50dcb5"
+		}
+	]
+}

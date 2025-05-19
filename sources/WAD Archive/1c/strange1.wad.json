@@ -1,0 +1,16 @@
+{
+	"uid": "strange1.wad",
+	"name": "Strange!",
+	"description": "Short map, strange places in water dimension.",
+	"date": "2015-01-14 14:35:27",
+	"files": [
+		{
+			"filename": "strange1.wad",
+			"size": 439754,
+			"crc": 3978305569,
+			"md5": "25c377d486cf44664e42d9c5b18d3cda",
+			"sha1": "1cc24af9a7a8e9d73861b5331c593c73ef02b98f",
+			"sha256": "1f21bc94717829572ddf93e314f142a9c5741b764ffc7ef7b6117c615a493e68"
+		}
+	]
+}

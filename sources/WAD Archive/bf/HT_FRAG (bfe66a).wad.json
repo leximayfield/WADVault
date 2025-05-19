@@ -1,0 +1,17 @@
+{
+	"uid": "HT_FRAG (bfe66a).wad",
+	"name": "HERETIC_FRAG",
+	"description": "Designed for Deathmatch",
+	"version": "bfe66a",
+	"date": "2014-02-15 16:58:40",
+	"files": [
+		{
+			"filename": "HT_FRAG.wad",
+			"size": 39249,
+			"crc": 3888349610,
+			"md5": "a5f2687b271e7da6c006fc86d704a0c2",
+			"sha1": "bfe66a057111dd68a0a3cd96252d3564c401c5da",
+			"sha256": "a439e4bf3a7bd820a2fa8caf5d3a219c2bb319973be0723eefe71528324857f7"
+		}
+	]
+}

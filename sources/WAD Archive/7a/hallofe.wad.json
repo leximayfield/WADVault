@@ -1,0 +1,16 @@
+{
+	"uid": "hallofe.wad",
+	"name": "Hall of evil",
+	"description": "A simple skulltag map I made for invasion. It gets very hard",
+	"date": "2014-12-12 14:16:07",
+	"files": [
+		{
+			"filename": "hallofe.wad",
+			"size": 107264,
+			"crc": 3700372074,
+			"md5": "974ab2fdb45c39e7807c435360f2754a",
+			"sha1": "7a6119b452bb34b1d93a4aade46e12326c00bc7d",
+			"sha256": "3eef22a1b4999a99bc75af6a23eb3046fcf526a56ed8879123ec6f9d6a0c4d5f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "church (a6ac7e).wad",
+	"name": "CHURCH.WAD",
+	"description": "You've found the unknown altar to the CyberLord. It looks just like a church... I wonder why? The level is pretty easy, I just created it to stir up trouble! Then I added some bad dudes...",
+	"version": "a6ac7e",
+	"date": "2013-11-02 15:18:05",
+	"files": [
+		{
+			"filename": "church.wad",
+			"size": 56750,
+			"crc": 546467170,
+			"md5": "5db5f2e7e5216ede456e1b6eacd09718",
+			"sha1": "a6ac7e92256dcac6a46556d45aecaf82f1839ce0",
+			"sha256": "15d19a4c02d4a20af6e3431e35fed9c4c619d80bbf04ff9763881b93ffea3fc7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "babylon6 (309d7a).wad",
+	"name": "Babylon 6",
+	"description": "Not only do the loads of Imps and Cacodemons slow you down, but the level itself seems to want to destroy you, with complex arrangements of switches, deceptive transporters, and crushing ceilings. It's tough, but beatable.",
+	"version": "309d7a",
+	"date": "2014-02-15 16:47:51",
+	"files": [
+		{
+			"filename": "babylon6.wad",
+			"size": 86894,
+			"crc": 651958821,
+			"md5": "0bfe1500c15a1485cfafe22cda4f16d6",
+			"sha1": "309d7adb9c56dd5f2a6ad1567570102fbcabe4db",
+			"sha256": "5353efac52596e6cdb1b56ae2c38f323e34b057566b496fc84062fa32961c2df"
+		}
+	]
+}

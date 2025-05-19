@@ -1,0 +1,16 @@
+{
+	"uid": "mbunk1.wad",
+	"name": "MBunk1.wad",
+	"description": "Multiplayer map, can be played in single player mode (A LOT of monsters are in there for four player co-op). It's a big bunker in the middle of four smaller ones.",
+	"date": "2015-09-15 19:23:24",
+	"files": [
+		{
+			"filename": "mbunk1.wad",
+			"size": 103487,
+			"crc": 2958559161,
+			"md5": "bec7a4ebd1e60d9d938e4d5b1d5043f8",
+			"sha1": "416cf8a1f5fc6be395da68fe040dbdb885b5e71c",
+			"sha256": "19f786791788c575c61558f5f593e97347ebb58d7ddd2a24ca11c2d8ebf38a78"
+		}
+	]
+}

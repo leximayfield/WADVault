@@ -1,0 +1,16 @@
+{
+	"uid": "rm_mrand.wad",
+	"name": "MRAndom sprite replacements",
+	"description": "I was thinking about parodying Linguica's SJW_DEAD, but accidentally made a decent map instead.",
+	"date": "2015-12-29 13:58:30",
+	"files": [
+		{
+			"filename": "rm_mrand.wad",
+			"size": 427310,
+			"crc": 2449319303,
+			"md5": "1eb90b4927a189f0f2c096d56372f696",
+			"sha1": "498af7b981309a930e3d247cb3d2d64cfa6f7627",
+			"sha256": "82768aebc1b8e9fb71c06b9a997235eadf427fca1d8c14d9891b45f71afda60f"
+		}
+	]
+}

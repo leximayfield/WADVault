@@ -1,0 +1,16 @@
+{
+	"uid": "syshktex.wad",
+	"name": "System Shock Textures",
+	"description": "242 textures from System Shock.",
+	"date": "2015-09-15 13:12:49",
+	"files": [
+		{
+			"filename": "syshktex.wad",
+			"size": 4280745,
+			"crc": 2608458178,
+			"md5": "febb734e0a8852543a60995b3e49cedd",
+			"sha1": "2d5e2a7c6d336b260cfe6595eb52e97955b47ae5",
+			"sha256": "637fb7c989dc06d88df0d598ac93b09a2115821d3080e7a44e1c61bdb7086b3b"
+		}
+	]
+}

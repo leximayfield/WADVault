@@ -1,0 +1,16 @@
+{
+	"uid": "robocop.wad",
+	"name": "Robocop game",
+	"description": "Robocop game",
+	"date": "2014-12-11 22:33:26",
+	"files": [
+		{
+			"filename": "robocop.wad",
+			"size": 9059516,
+			"crc": 1861220340,
+			"md5": "22b905aada6b0b33475d374b46877639",
+			"sha1": "69f36eb9e0ebbe19bd44df9585d6cf610034daff",
+			"sha256": "cc3e70fd2d0bcf3164e18fcd1df21eaf06a2bfd90b85d9a3e963130bb8f363df"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "megaman (01e140).wad",
+	"name": "Megaman.wad",
+	"description": "Great DeathMatch castle with some awesome slime traps. Good Weapons are in hard to get places so you can shoot your enemy as he clumsily goes for the weapon! I've seen a lot of levels, as the Gamer's Alliance DOOM maintainer, and this one is good!",
+	"version": "01e140",
+	"date": "2014-12-15 21:54:23",
+	"files": [
+		{
+			"filename": "megaman.wad",
+			"size": 140854,
+			"crc": 2433769063,
+			"md5": "87aef28a7c54788988f35419627e35de",
+			"sha1": "01e14082fabc41f881579cdb024769f5c0871a1f",
+			"sha256": "13644e70ddf6c8ec7be9f90c816ab83f1a2c3060945759bd6ff82d8cab0eb05c"
+		}
+	]
+}

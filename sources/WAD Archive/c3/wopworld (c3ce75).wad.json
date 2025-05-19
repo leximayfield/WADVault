@@ -1,0 +1,17 @@
+{
+	"uid": "wopworld (c3ce75).wad",
+	"name": "WOPWORLD.WAD : A brand new episode for",
+	"description": "See below.",
+	"version": "c3ce75",
+	"date": "2014-01-04 11:55:53",
+	"files": [
+		{
+			"filename": "wopworld.wad",
+			"size": 592673,
+			"crc": 2107167885,
+			"md5": "225c26d426f6617ebea81bc1e50c67fc",
+			"sha1": "c3ce75520b3023ba8cf92750bcb4ae91eda9e1d2",
+			"sha256": "0b66ffa919b70db3e6ee437a80f860972fefb2b5d870a9707335a0a051f54453"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gkdm8 (fe9a14).wad",
+	"description": "Yet another DOOM ][ DeathMatch only wad. Designed for a fast paced Frag Fest! Made primarily for DM 1.0 (skill 3) but added some stuff for DM 2.0 (all other skills)",
+	"version": "fe9a14",
+	"date": "2013-11-02 15:44:52",
+	"files": [
+		{
+			"filename": "gkdm8.wad",
+			"size": 34579,
+			"crc": 3428162097,
+			"md5": "668b2ec755bf793f6236c2005301ae62",
+			"sha1": "fe9a148b559c9d93c64d113fa56a64f285eed332",
+			"sha256": "9f3b99fd1a2ba63cbf3e36f4c594f42f403f402fa87c8ee6d88b153b02ce701c"
+		}
+	]
+}

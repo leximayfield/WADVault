@@ -1,0 +1,17 @@
+{
+	"uid": "undrgrnd (99ce58).wad",
+	"name": "UNDRGRND.wad",
+	"description": "large custom PWAD. May run a bit slow on some systems.",
+	"version": "99ce58",
+	"date": "2013-11-02 16:06:33",
+	"files": [
+		{
+			"filename": "undrgrnd.wad",
+			"size": 238556,
+			"crc": 4177319520,
+			"md5": "61f0e1243f6e119a4fbc855684720fc9",
+			"sha1": "99ce5831341b32e289f900fb284445bbcc2ff084",
+			"sha256": "55e57011c7db9e8b69dc092aa64f0832b7635ffd55644bca4c03796bc44b4b83"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmeef (a3c2c6).wad",
+	"name": "DMEEF.WAD",
+	"description": "REMAKE OF E2L1 WITH MANY CHANGES, AND ADDITIONS. REQUIERS THOUGHT AND SKILL.",
+	"version": "a3c2c6",
+	"date": "2013-11-02 17:00:47",
+	"files": [
+		{
+			"filename": "dmeef.wad",
+			"size": 54429,
+			"crc": 3055124328,
+			"md5": "387b4b100fdc6917aa58e96ee3d02c1a",
+			"sha1": "a3c2c691726ca9e05d60ede462fa0710e68e91e8",
+			"sha256": "63e5c6c26b00dc5b9deeb894bd28c9033f3ed124a5c5e0ef15ecc4f3bc50d298"
+		}
+	]
+}

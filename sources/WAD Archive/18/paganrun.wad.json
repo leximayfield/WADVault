@@ -1,0 +1,16 @@
+{
+	"uid": "paganrun.wad",
+	"name": "Pagan's Run",
+	"description": "The idea is to keep running and try to make it to the end without dying. The DOOM equivalent of an arcade game, perhaps, and is deliberately tough. Saving is NOT allowed.",
+	"date": "2015-01-14 23:06:50",
+	"files": [
+		{
+			"filename": "paganrun.wad",
+			"size": 380796,
+			"crc": 614756776,
+			"md5": "936b9a3729254c438c67114c8d99f355",
+			"sha1": "1875e71e67c8f5001dea0665f0228a2e4179e91f",
+			"sha256": "6879830be149dcab3f97d20c4359cccb5a4d5a3767f15caff1a5427ad94b2972"
+		}
+	]
+}

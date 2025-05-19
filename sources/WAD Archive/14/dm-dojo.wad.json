@@ -1,0 +1,16 @@
+{
+	"uid": "dm-dojo.wad",
+	"name": "daimon dojo",
+	"description": "If you remember the movie \"Matrix\", there's a part in the where Neo and Morpheus fighting into a sort of little martial arts gym (dojo), well i'll tried to remake a similar place but this time using the doom\\skulltag stuff over the bare hand figthing!",
+	"date": "2014-12-12 14:11:32",
+	"files": [
+		{
+			"filename": "dm-dojo.wad",
+			"size": 2479762,
+			"crc": 2949245759,
+			"md5": "a0a7b9280ef3a109ba848fd9af79fe56",
+			"sha1": "149d2cb201227f3629317d0e76bb33bcc48cc354",
+			"sha256": "1ccd3371445bdff8176556da786946132726da2749f09c29372d644aa531fff4"
+		}
+	]
+}

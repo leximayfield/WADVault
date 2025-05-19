@@ -1,0 +1,16 @@
+{
+	"uid": "4smile.wad",
+	"name": "Awesomesphere",
+	"description": "A simple graphics replacement for the Soulsphere in the game changed to the 'Awesome' 4chan smiley. No, I'm not a chantard.",
+	"date": "2015-09-14 22:04:27",
+	"files": [
+		{
+			"filename": "4smile.wad",
+			"size": 3032,
+			"crc": 2685146948,
+			"md5": "479cdf09f4e1e4ee72011525226a90da",
+			"sha1": "94492dddf892e9947bb3b317bd8f7c6547426a0b",
+			"sha256": "42004cd65220654e2adeba46d88509862df949ebed877cc282050c3d845322c7"
+		}
+	]
+}

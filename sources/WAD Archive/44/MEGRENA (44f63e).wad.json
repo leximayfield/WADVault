@@ -1,0 +1,17 @@
+{
+	"uid": "MEGRENA (44f63e).wad",
+	"name": "megrena.WAD",
+	"description": "This is first deathmatch only wad I have created. It is best descibed as a \"Mega-Arena\". Although the level is functional and used often here at work(!). If some was has the time the textures need aligning and there are a few problems that I could not work out.",
+	"version": "44f63e",
+	"date": "2014-11-01 14:52:27",
+	"files": [
+		{
+			"filename": "MEGRENA.wad",
+			"size": 40548,
+			"crc": 1655344553,
+			"md5": "62aa2b0ba279060a5c3b4826a8f55da4",
+			"sha1": "44f63e45ccdf1972d495df2459d2a15ffbe21e03",
+			"sha256": "4bd78ac181296e8a11f79b89e3a3d5edbccc7037deaed1e3eba63e58f0161afb"
+		}
+	]
+}

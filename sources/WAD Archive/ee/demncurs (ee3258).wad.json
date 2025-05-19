@@ -1,0 +1,17 @@
+{
+	"uid": "demncurs (ee3258).wad",
+	"name": "Demonic Curse",
+	"description": "This UAC facility has been cursed since it was first built, numerous deaths and other shady incidents have plagued this facility for so long now. But they've reached a new high, now demons have overrun the facility, and you're the only survivor.",
+	"version": "ee3258",
+	"date": "2018-04-05 07:53:43",
+	"files": [
+		{
+			"filename": "demncurs.wad",
+			"size": 2132500,
+			"crc": 2726616737,
+			"md5": "00583e153cc07c22f356ee37d9be9663",
+			"sha1": "ee325834a4243d84a47d96fecadde733f0491dec",
+			"sha256": "8259f3ed8f1706b588a9a55034b193fbaedac22e3f8680d46f2564b8f5efe3ed"
+		}
+	]
+}

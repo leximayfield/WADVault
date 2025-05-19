@@ -1,0 +1,17 @@
+{
+	"uid": "egypt (c007a8).wad",
+	"name": "EGYPTIAN DOOM for DOOM II v1.0",
+	"description": "A total conversion for doom 2, with 6 new levels, lots of new graphics, modified monsters/monster-behaviour, modified weapons, homing mines (!), new story (?) and some new sounds.",
+	"version": "c007a8",
+	"date": "2014-12-18 22:19:49",
+	"files": [
+		{
+			"filename": "egypt.wad",
+			"size": 1175356,
+			"crc": 3572327283,
+			"md5": "131c9357f3ee779bf4139aa9ce61e413",
+			"sha1": "c007a844da7b413244a8643b3ac7ec0e26bad465",
+			"sha256": "704923c305b4fe3b84510892039a612886d470b63718b80840cd1dc4ec98690d"
+		}
+	]
+}

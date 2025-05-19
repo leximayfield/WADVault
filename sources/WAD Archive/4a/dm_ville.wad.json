@@ -1,0 +1,16 @@
+{
+	"uid": "dm_ville.wad",
+	"name": "Deathmatch Ville",
+	"description": "This is a small deathmatch map with bunkers and cages. The map has all of the weapons, and no health power ups. This map was created for use on Dwango. The map also has a trap, be careful.",
+	"date": "2014-12-15 21:53:27",
+	"files": [
+		{
+			"filename": "dm_ville.wad",
+			"size": 14681,
+			"crc": 19502476,
+			"md5": "ebc4251f2f86afada072bcb98d880346",
+			"sha1": "4accf3dfc97c71b17f2197c16535322890962ede",
+			"sha256": "9827424d2fb30d798f5c99e00718929b68968eb8eeac6cbf3f50e49e314a5577"
+		}
+	]
+}

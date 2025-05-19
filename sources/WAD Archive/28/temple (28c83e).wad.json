@@ -1,0 +1,17 @@
+{
+	"uid": "temple (28c83e).wad",
+	"name": "The temple",
+	"description": "You are on a temple and you have to go to the exit, the end.",
+	"version": "28c83e",
+	"date": "2015-01-14 22:53:18",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 251026,
+			"crc": 4026713404,
+			"md5": "e1270a273a9f44db98d39d0a7caddc27",
+			"sha1": "28c83e6a56b4db9417fe20818384fb1122e0057f",
+			"sha256": "55aff73eb9fcf3066375ce22658974c6114d4ab1275d1fe69dd177f0f70231c4"
+		}
+	]
+}

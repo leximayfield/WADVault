@@ -1,0 +1,16 @@
+{
+	"uid": "ntspd001.wad",
+	"name": "NiGHTMARE Speedmapping Compilation #1",
+	"description": "This is a compilation of the WADs entered in NiGHTMARE's first speedmapping exercise. Participants were given 100 minutes to create a Doom 2 level on a certain theme. This week's theme was to create a human base set in an Arctic environment, using at least three of the new textures/flats.",
+	"date": "2015-01-13 21:36:11",
+	"files": [
+		{
+			"filename": "ntspd001.wad",
+			"size": 1423417,
+			"crc": 896552473,
+			"md5": "10c49db83a2b7a3478c32c78f238581b",
+			"sha1": "0e59b814761eb1d17996a40efff89fbfbe9852ee",
+			"sha256": "c5302b85d6a74032e6268a4633e8b8d515395ae2c2f6d4ba96f9c1fb3a8d3dd6"
+		}
+	]
+}

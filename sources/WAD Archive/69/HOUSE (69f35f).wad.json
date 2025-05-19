@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (69f35f).wad",
+	"name": "House",
+	"description": "A house concocted in the deep recesses of my mind whilst fast asleep. Strange, no? Some areas are dressed immaculately and other are just plain kindergarten rooms. But, what can you do? It seems to add to the atmosphere - Something is not quite right here...",
+	"version": "69f35f",
+	"date": "2018-05-29 00:28:52",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 577708,
+			"crc": 3042451621,
+			"md5": "850f6e0e16370f6f682fbac2c26a1eef",
+			"sha1": "69f35fe00b19dbf71b491410fa33e639e806b3f5",
+			"sha256": "341ec76d6c350b52b2c65148efc85961344aea09382150d6c440e99f8952ec46"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "switchesroom.wad",
+	"name": "Switches room",
+	"description": "4 rooms builded for a One-room level project long time ago, then joined them into this thing including a bizzare map01-map03 switcheroom sorta",
+	"date": "2015-12-29 12:21:17",
+	"files": [
+		{
+			"filename": "switchesroom.wad",
+			"size": 262108,
+			"crc": 485676301,
+			"md5": "52333d091ecd8834b4e54bb200f07f43",
+			"sha1": "744fc3e69228e4b3f3bd1ee31f362500b58a0e9b",
+			"sha256": "72f7bc477cbc7744a52a02f8f16775c2916928b0fdcd60be69d64ffadccec8df"
+		}
+	]
+}

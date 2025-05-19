@@ -1,0 +1,16 @@
+{
+	"uid": "tien.wad",
+	"name": "Tien",
+	"description": "An attempt at a map using only 10 sectors. It's not long, it's not \u00fcber-detailed, but it should be fun as long as it lasts. (Note that there are not difficulty levels at all, I just couldn't be bothered)",
+	"date": "2014-12-29 17:27:59",
+	"files": [
+		{
+			"filename": "tien.wad",
+			"size": 47473,
+			"crc": 2514255380,
+			"md5": "1b733d5954603deca2e219554affb336",
+			"sha1": "c256734c5f23b82fa54ed1555f09ebcc0534b5ed",
+			"sha256": "dea7bc8b6b65a3b86c896346251fe24cf675f20622073e8a79f5cba70761e291"
+		}
+	]
+}

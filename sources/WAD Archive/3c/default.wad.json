@@ -1,0 +1,16 @@
+{
+	"uid": "default.wad",
+	"name": "default dot wad",
+	"description": "Bunch of midi music i downloaed trougth the time i waste in the world wide web 2.0, all stored inside a wad file. this one works for all doom, heretic, hexen and strife megawad. Some of this midis are also used in some other projects, released or WIP.",
+	"date": "2015-09-15 18:20:06",
+	"files": [
+		{
+			"filename": "default.wad",
+			"size": 6206224,
+			"crc": 3307092669,
+			"md5": "668b028431adfb75776c11f791cefb82",
+			"sha1": "3c9b869064f7006307101e478d03b7739a8ac6eb",
+			"sha256": "3adb76dacfed2e4714bc4f24a0849772eb2ea17f9b05f8b23a9c1f3d20dc14ec"
+		}
+	]
+}

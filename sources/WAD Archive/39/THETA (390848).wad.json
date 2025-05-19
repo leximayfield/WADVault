@@ -1,0 +1,17 @@
+{
+	"uid": "THETA (390848).wad",
+	"name": "THETA-4.WAD",
+	"description": "",
+	"version": "390848",
+	"date": "2013-11-02 23:59:16",
+	"files": [
+		{
+			"filename": "THETA.wad",
+			"size": 180105,
+			"crc": 488104772,
+			"md5": "741aff4c524e65dba6e02dd1e75a43a9",
+			"sha1": "3908481b8d7647590956b1b34b79acc46fbc9161",
+			"sha256": "a1023399e14121c63f28de4a02a452e192e668321590a65a29a6e02d7291f0ec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "NEWUAC (65c08d).wad",
+	"name": "Union Aerospace Computers",
+	"description": "A (maybe?) slaughtermap with a focus on nonessential exploration. About half of your time can be dedicated to these areas, but of course they reward you. The area is supposed to be an old company yard, the demon-riddled remains of the Big Bad's sister company, awkwardly under the same acronym. A small house turned into a brainwashing station, a barebones office space complete with horrible boss and pinky pit, a nature walk, a pavilion fortress next to both of the parking lot bullies, the toxic computer construction plant, and the guard post guarding your final destination: UAC (not that one, the other one) headquarters. This IS my first map, so player beware. Although I think I've done a good job. Criticism welcome, but construcive is preffered. I tried to test everything: trigger traps, 4 different environments, open and closed areas, hordes, a few strong enemies, etc. Some things I couldn't try in this map, so I'll attempt them in another level sometime. Difficulty is both extremes: easy is a wimpy breeze, normal is a fast-paced fight, but you'll probably have reserves of health and ammo to help you through it. Hard.. well. you'll be greeted by an appropriate message. This is more or less an update to an old wad by the same name, but I had it taken down until I could fix a few pretty big problems, to name a few: a fatty got stuck on a wall, you could slide into a blue key area and basically break the level, an archvile could target you at the start, and I forgot it's basically forbidden to use nazis. Thanks for trying out my level!",
+	"version": "65c08d",
+	"date": "2016-08-12 21:56:14",
+	"files": [
+		{
+			"filename": "NEWUAC.wad",
+			"size": 423914,
+			"crc": 215245236,
+			"md5": "0cd6bb10e75bfbad5c362a84d8ce6260",
+			"sha1": "65c08d7139c81f14a729036455f01d6d58a24ca1",
+			"sha256": "0b152f0bbaa866c3f14e80ad667a8d6f86bf4a9ba8840d1c1e1b24b863653a48"
+		}
+	]
+}

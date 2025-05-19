@@ -1,0 +1,16 @@
+{
+	"uid": "ww-bsni.wad",
+	"name": "Batteries STILL Not Included!",
+	"description": "I always liked the original \"Batteries Not : Included,\" not just for its concept (energy : weapons only) but also for the unique designs : that I had come up with for the weapons. That : being said, I also had lots of glaring issues : that needed to be corrected. I originally : intended to port the mod to ZDoom and correct : those issues, but since ZDoom currently (as of : this writing, I've been disconnected for a week) : lacks custom pain states, it's difficult to port. : So instead, I made a sequel. New weapons, : expansions on old weapons, new ideas, and : graphics that don't suck.",
+	"date": "2014-12-11 22:26:14",
+	"files": [
+		{
+			"filename": "ww-bsni.wad",
+			"size": 3022478,
+			"crc": 2989327989,
+			"md5": "81904b881389fbf8e71ec578482c13fb",
+			"sha1": "f69b6a9e53e96d0de31f1d3500c60f7470cf6a33",
+			"sha256": "7d4d89b6a657f4e862b6a66845cafdc535b03d8be79258be060081cb947937f9"
+		}
+	]
+}

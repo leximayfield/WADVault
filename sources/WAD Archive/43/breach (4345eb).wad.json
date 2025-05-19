@@ -1,0 +1,17 @@
+{
+	"uid": "breach (4345eb).wad",
+	"name": "Into the Breach",
+	"description": "You have been sent in by your captain to clear out all monsters in the area before your superiors step into this fest pit of evil.",
+	"version": "4345eb",
+	"date": "2014-12-15 22:24:57",
+	"files": [
+		{
+			"filename": "breach.wad",
+			"size": 144702,
+			"crc": 3799246129,
+			"md5": "f66a0740c3f99f588232bc6cca7dd9ce",
+			"sha1": "4345ebd6f367d313b002ddcd5b2eb2c9f9b8bb8c",
+			"sha256": "4b24735d060dfbfb34b28fd5faa757c0792e01a884dde720a5c6827e16fba927"
+		}
+	]
+}

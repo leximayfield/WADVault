@@ -1,0 +1,17 @@
+{
+	"uid": "sherhell (307e92).wad",
+	"name": "SHERHELL",
+	"description": "A very nasty variation of E1M1, try it on ultra- violence",
+	"version": "307e92",
+	"date": "2014-01-07 21:47:38",
+	"files": [
+		{
+			"filename": "sherhell.wad",
+			"size": 326470,
+			"crc": 3100821534,
+			"md5": "5e3576076f2e7f08ac25e04281091151",
+			"sha1": "307e92e3659b9b438e2f6e3a01ddfd76f95f4540",
+			"sha256": "60e5a193b804f497968d8758f6044f1b6899ab51d365186f7c3a53620a7a18ed"
+		}
+	]
+}

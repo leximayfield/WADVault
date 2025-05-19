@@ -1,0 +1,17 @@
+{
+	"uid": "bull3 (b2a4c0).wad",
+	"name": "BULL3.WAD",
+	"description": "Smaller level, with a few good sniping spots.",
+	"version": "b2a4c0",
+	"date": "2016-02-07 20:32:46",
+	"files": [
+		{
+			"filename": "bull3.wad",
+			"size": 25331,
+			"crc": 1148282829,
+			"md5": "9897da82ab23925c2fbb978bf05d94a1",
+			"sha1": "b2a4c047511f1457a965422af2ced0709551becc",
+			"sha256": "b4c28040289a1b0d8efacdd1592ca2867a193e0c24344baa9d926e83d9f76438"
+		}
+	]
+}

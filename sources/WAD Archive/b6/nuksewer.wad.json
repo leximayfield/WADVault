@@ -1,0 +1,16 @@
+{
+	"uid": "nuksewer.wad",
+	"name": "Nuke Sewer",
+	"description": "Dark flickering sewer. Built from 10 sectors.",
+	"date": "2015-01-13 21:22:00",
+	"files": [
+		{
+			"filename": "nuksewer.wad",
+			"size": 109054,
+			"crc": 957315477,
+			"md5": "4c8367772ed7aa78d33101814e0d38f2",
+			"sha1": "b62a758ff911dc1252abca55609a30475eb1ce71",
+			"sha256": "96cc182456f1b576a55d8ad21e728d9d544c6c292bb9788a857db2ba9beb3702"
+		}
+	]
+}

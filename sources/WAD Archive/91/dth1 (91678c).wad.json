@@ -1,0 +1,17 @@
+{
+	"uid": "dth1 (91678c).wad",
+	"name": "The Beginning",
+	"description": "You probably wonder why the PWAD file is called DTH1 and not something like BEGIN. That is because it is the first Level of the Episode Doomed To Hell. It's not an easy level, but once you know it it gets very easy. There are some Secret Doors, which are vital. Without finding them you'll get stuck sooner or later.",
+	"version": "91678c",
+	"date": "2014-01-11 11:23:59",
+	"files": [
+		{
+			"filename": "dth1.wad",
+			"size": 105714,
+			"crc": 299531736,
+			"md5": "0352f2b23185856656fb63d8aed66cae",
+			"sha1": "91678c381f65169c5da30a33f16f8d1ba56e9f56",
+			"sha256": "7350f83e4e9294b394f2b44aace4653f4a1f83cb9875093caf09c0c98a69c7a0"
+		}
+	]
+}

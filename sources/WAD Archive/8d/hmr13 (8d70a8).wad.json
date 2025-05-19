@@ -1,0 +1,17 @@
+{
+	"uid": "hmr13 (8d70a8).wad",
+	"name": "Markroom for Heretic",
+	"description": "This is a Heretic deathmatch wad based on : the great Markroom wad for DOOM! : For deathmatchers only.",
+	"version": "8d70a8",
+	"date": "2013-11-02 16:41:00",
+	"files": [
+		{
+			"filename": "hmr13.wad",
+			"size": 34308,
+			"crc": 1550969477,
+			"md5": "cc2a851d0989f92c72321e656439c63f",
+			"sha1": "8d70a8733de408f6ac2fc464b5d20d7dd41e6086",
+			"sha256": "38d1ee4620ca22db95e1f557f7734aa69ac108663032ca316873324d0f2e5401"
+		}
+	]
+}

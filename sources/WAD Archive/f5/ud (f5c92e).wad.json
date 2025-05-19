@@ -1,0 +1,17 @@
+{
+	"uid": "ud (f5c92e).wad",
+	"name": "Undying Revised",
+	"description": "This is a small dm map, a revised version of undying and i have completely changed all aspects of this map,",
+	"version": "f5c92e",
+	"date": "2014-12-15 21:21:18",
+	"files": [
+		{
+			"filename": "ud.wad",
+			"size": 69976,
+			"crc": 2732885086,
+			"md5": "3951acf44558b8f94a1eedbe690fe089",
+			"sha1": "f5c92e533285269cc98fb1190cd06cab0459c2cb",
+			"sha256": "fd5d1b332440a8a54f666f97eed78c6a0158246c8f2364670c7f26701293a988"
+		}
+	]
+}

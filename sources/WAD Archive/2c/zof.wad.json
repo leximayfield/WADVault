@@ -1,0 +1,16 @@
+{
+	"uid": "zof.wad",
+	"name": "Zones of Fear",
+	"description": "After the first czech community project we were decided to make something larger hance Zones of Fear were born.",
+	"date": "2013-04-21 13:46:39",
+	"files": [
+		{
+			"filename": "zof.wad",
+			"size": 43126602,
+			"crc": 3175908229,
+			"md5": "343c4205e5753a4487ecc89f33e32b98",
+			"sha1": "2c734c302ca82115ec5339c2fe8912666c6e0042",
+			"sha256": "af4a4a5f81f29b8504a8e31d562bea05f2066f9c207c73893ddf21cc575d98a4"
+		}
+	]
+}

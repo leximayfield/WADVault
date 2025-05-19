@@ -1,0 +1,17 @@
+{
+	"uid": "mortal (8e8ebf).wad",
+	"name": "Mortal",
+	"description": "Demons have infested ... bla bla ... just 5 levels of mayhem",
+	"version": "8e8ebf",
+	"date": "2015-01-13 21:35:22",
+	"files": [
+		{
+			"filename": "mortal.wad",
+			"size": 1374676,
+			"crc": 1015727302,
+			"md5": "365a1a3358be990a3af82ec64d674c72",
+			"sha1": "8e8ebf0f1b30b43dcc7efb569bcda3182afed803",
+			"sha256": "734e76b582687eb3ad6f681a5e7a327c45207a38e4ddc191b7c1c35ca623aa3b"
+		}
+	]
+}

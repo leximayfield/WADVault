@@ -1,0 +1,16 @@
+{
+	"uid": "nukecan.wad",
+	"name": "Nuke Canyon",
+	"description": "Barren world full of sand, rocks and canyons. Do not jump in this map. It's not designed that you can jump. Though jumping does not ruin gameplay... but just allows you to get to some places faster.",
+	"date": "2014-12-15 23:05:56",
+	"files": [
+		{
+			"filename": "nukecan.wad",
+			"size": 864035,
+			"crc": 962493555,
+			"md5": "ee5c198402b546e6891c4c09ce6282d9",
+			"sha1": "dd2532a5bcaa081c797c586deb55435e258573a5",
+			"sha256": "3391694696fbda9f3106534fe68b21c96796b939d6d41a0db6132231aff0fdf1"
+		}
+	]
+}

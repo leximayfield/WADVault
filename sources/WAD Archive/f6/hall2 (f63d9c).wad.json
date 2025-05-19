@@ -1,0 +1,16 @@
+{
+	"uid": "hall2 (f63d9c).wad",
+	"description": "This prefab consists of a straight section of hallway, a right and left turn, a T-section and an intersection. It's a space style prefab.",
+	"version": "f63d9c",
+	"date": "2015-09-14 22:55:34",
+	"files": [
+		{
+			"filename": "hall2.wad",
+			"size": 198252,
+			"crc": 4007380798,
+			"md5": "bcdd6fff841797e2b913818a7b7eec2b",
+			"sha1": "f63d9c60fb216c9eab4796d9efa939e7e2945c2f",
+			"sha256": "c2ad1871d7dc22997ef7d44aeda621df04d49dec4fa86e2083309d2c271bf1c1"
+		}
+	]
+}

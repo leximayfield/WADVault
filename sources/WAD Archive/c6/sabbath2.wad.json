@@ -1,0 +1,16 @@
+{
+	"uid": "sabbath2.wad",
+	"name": "Black Sabbath Music WAD for Doom II",
+	"description": "Well, it's a music PWAD for Doom II, including War Pigs, Paranoid, Iron Man, After Forever, Supernaut & Sabbath Bloody Sabbath by Black Sabbath. Use IDMUS01-06 to switch.",
+	"date": "2015-09-14 19:34:05",
+	"files": [
+		{
+			"filename": "sabbath2.wad",
+			"size": 183848,
+			"crc": 3890466062,
+			"md5": "513df9c28d70af248fc311d9b6f26954",
+			"sha1": "c687debbc7afe7ca68f5bb358387b8c31737ce14",
+			"sha256": "65909bcd0146d101f398e24be2b2e10d8fedd4223eca8ce1db186a6244fd32b2"
+		}
+	]
+}

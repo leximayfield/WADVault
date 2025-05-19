@@ -1,0 +1,16 @@
+{
+	"uid": "cvdehierro.wad",
+	"name": "Calavera de Hierro Deathmatch",
+	"description": "A tribute to famous heavy metal bands wad, each map represents one song of a different band. Also comes with new DECORATE weapons taken from Weapons Factory Wad and others made and modified by myself, and also player skins taken from different sources. List of maps: CVDHDM01 - Sabbath, Bloody Sabbath (Black Sabbath) CVDHDM02 - Hangar 18 (Megadeth) CVDHDM03 - Brain Scan (Voivod) CVDHDM04 - Clayman (In Flames) CVDHDM05 - Ace of Spades (Motorhead) CVDHDM06 - Six O' Clock (Dream Theater)",
+	"date": "2014-12-12 14:20:26",
+	"files": [
+		{
+			"filename": "cvdehierro.wad",
+			"size": 24868850,
+			"crc": 970161374,
+			"md5": "03f61791bbd07e9664322fef0fde4c6f",
+			"sha1": "0f54560052cdbcc222c06a273b30f82a39ab0b60",
+			"sha256": "888c571141ceeb3c4c134d45d43b05fc50b240f2f2eacb2af04033e91f4fe0a7"
+		}
+	]
+}

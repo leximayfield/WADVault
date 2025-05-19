@@ -1,0 +1,17 @@
+{
+	"uid": "liftll (754611).wad",
+	"name": "LIFTLL.WAD",
+	"description": "Developed for Single play. Difficulty settings control enemy encounters. At all skill levels the same puzzles exist. This is meant for the more thoughtful player, but at the high difficulty levels time to think might be at a minimum.",
+	"version": "754611",
+	"date": "2013-11-04 19:22:43",
+	"files": [
+		{
+			"filename": "liftll.wad",
+			"size": 84424,
+			"crc": 3768972979,
+			"md5": "178135a48c6c97cf64f68af437f316cc",
+			"sha1": "754611e52425ea539825ca4191ecb397603a7864",
+			"sha256": "565eed25ac5f7802743a65a1cccecdc0a2604efe4f29907e6c152847ec2d2b7d"
+		}
+	]
+}

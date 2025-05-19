@@ -1,0 +1,17 @@
+{
+	"uid": "v-deth (dc8fe7).wad",
+	"name": "Vertical Death",
+	"description": "DEATHMATCH ONLY! You can play single or co-op, but why bother? This level is designed for pure adrenaline pumping deathmatch action. Smaller in size, with most of the combat area visible from any point. There are a few secrets in this level, see if you can find them. The exit CAN NOT be accessed by one player, 2 are required to operate it. Hit the switch and run for it... 2.0 rules are recomended, and there are a few monsters.",
+	"version": "dc8fe7",
+	"date": "2013-11-04 19:23:57",
+	"files": [
+		{
+			"filename": "v-deth.wad",
+			"size": 426980,
+			"crc": 3236815883,
+			"md5": "b125388d9189b8ba259b179a7754b5fb",
+			"sha1": "dc8fe7eb7cb00a7380eea103c919acd76fedfe08",
+			"sha256": "6cf53c5454b8e4786f4752b6bdc1f665cfbd4febcde6a2d1b3ea07eb1e0a1e6f"
+		}
+	]
+}

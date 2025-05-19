@@ -1,0 +1,16 @@
+{
+	"uid": "impencse.wad",
+	"name": "Imp Encounter: Second Edition",
+	"description": "This is based on the excellent fanfiction I read on DOOMWORLD. which you can read here: http://www.doomworld.com/vb/showthread.php?s=&threadid=13601 This map is not like regular maps in that you can't play it (unless you edit and recompile the scripts). It's sort of like an interactive fanfic, so just watch and enjoy. It only takes around 2:30 to run. This is the second edition of impenc.wad, it's not quite as censored as the previous one. This is the second version of impencse.wad which fixes some bugs in the origial wad that made it broke.",
+	"date": "2013-04-18 22:17:41",
+	"files": [
+		{
+			"filename": "impencse.wad",
+			"size": 107931,
+			"crc": 3285907396,
+			"md5": "7ea489bad4b484f21e5fae11b44329c5",
+			"sha1": "038cfce0731f4d0b3d45c1282937ce0289a18019",
+			"sha256": "faf5454621a3e623bcf5e6b3aa624fd25238cd183043b69fec379510f7d40875"
+		}
+	]
+}

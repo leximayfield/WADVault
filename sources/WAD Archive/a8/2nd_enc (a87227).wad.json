@@ -1,0 +1,17 @@
+{
+	"uid": "2nd_enc (a87227).wad",
+	"name": "Wolfenstein 3D 2nd Encounter",
+	"description": "Faithful recreation of the original 30-level",
+	"version": "a87227",
+	"date": "2015-09-14 22:42:44",
+	"files": [
+		{
+			"filename": "2nd_enc.wad",
+			"size": 8078269,
+			"crc": 232532910,
+			"md5": "3f900d01f8d3c24601331f2eacf38b4d",
+			"sha1": "a87227ef8e27a5d4d61ab15abdb4a26701e49942",
+			"sha256": "5db89cda04654e7a8b696548790ed72d6253e13d70975d4c53e1c98fa2601467"
+		}
+	]
+}

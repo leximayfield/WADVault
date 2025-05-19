@@ -1,0 +1,17 @@
+{
+	"uid": "k2 (55607f).wad",
+	"name": "K2.WAD",
+	"description": "It was designed mostly for Deathmatch but can be challenging for a single player. All the weapons are available plus berzerk. Health is limited to a soul sphere and a few stimpacks, but ammo is plentiful --although you can only get each type of ammo at one place, which should make players have to visit the entire level for one thing or another. Most rooms have two or more exits for easy movement/escape. Hope you like barrels! There's tons of em! Reference help.doc for hints that may not seem obvious.",
+	"version": "55607f",
+	"date": "2014-12-27 12:22:19",
+	"files": [
+		{
+			"filename": "k2.wad",
+			"size": 80165,
+			"crc": 945848407,
+			"md5": "ae2ee4964746d9d5b6a2508efd1713b2",
+			"sha1": "55607f3dbb80e2cf1b244e6528d7579b293044ce",
+			"sha256": "a5a4bd0c59324138de353d2bd565c4ca8d3a19b81ee3133fdf4e5fb085fd412e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "SIN7TDV2 (84cdbe).wad",
+	"name": "Sinister Seven + The Devilz Work (2-in-1 Pack)",
+	"description": "This is a combination of SinSeven.wad and tdevil2.wad, however it contains several bugfixes and improvements over both. This runs in any vanilla limit-removing compatible port, but is optimized in zdoom with a mapinfo lump. Difficult setting are implemented, so if it's too hard just turn it down a notch. Enjoy!",
+	"version": "84cdbe",
+	"date": "2016-10-18 18:03:41",
+	"files": [
+		{
+			"filename": "SIN7TDV2.wad",
+			"size": 7977039,
+			"crc": 2118473025,
+			"md5": "2d0d0e192d63d50252d68c6f5c0a32c7",
+			"sha1": "84cdbe53299c1ffe1f43ef9596b92bc8b569e46a",
+			"sha256": "ba888466fdba2c847340e743f11f2dfb88148caec417b899f47cca519de8a402"
+		}
+	]
+}

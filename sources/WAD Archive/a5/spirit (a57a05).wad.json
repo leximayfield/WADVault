@@ -1,0 +1,17 @@
+{
+	"uid": "spirit (a57a05).wad",
+	"name": "Demonic Spirit for DOOM II",
+	"description": "In my opinion episodes 1 and 2 of Doom1 are still the best. Of course I had those two episodes in mind when I worked on this WAD, but texture choice is somewhat different.",
+	"version": "a57a05",
+	"date": "2013-11-04 20:17:24",
+	"files": [
+		{
+			"filename": "spirit.wad",
+			"size": 282845,
+			"crc": 2075491311,
+			"md5": "1895699faa30a402a30a4ccea243cdf1",
+			"sha1": "a57a0520fe4612beff0415b14e63b5bd26a2d909",
+			"sha256": "8f3293c6510e960f89f2b756f6b84312d3eaa73c328537ed6cf95f999d89a7c6"
+		}
+	]
+}

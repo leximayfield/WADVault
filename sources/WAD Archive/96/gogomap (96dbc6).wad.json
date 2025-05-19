@@ -1,0 +1,17 @@
+{
+	"uid": "gogomap (96dbc6).wad",
+	"name": "GOGOMAP.WAD",
+	"description": "My recreation of 'Go-Go Studios' offices and the Mexican restaurant accross the street from us.",
+	"version": "96dbc6",
+	"date": "2013-11-03 17:47:36",
+	"files": [
+		{
+			"filename": "gogomap.wad",
+			"size": 168320,
+			"crc": 1711447076,
+			"md5": "80c6e4f18f6218722b111a0150232b0d",
+			"sha1": "96dbc6cb1b31fae3ac494e2e7f6cda5cbcf504b7",
+			"sha256": "811a9155bcfa73f328999aa10dac97d380340ed6e570e99a75412e98385941b8"
+		}
+	]
+}

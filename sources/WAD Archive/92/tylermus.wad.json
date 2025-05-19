@@ -1,0 +1,16 @@
+{
+	"uid": "tylermus.wad",
+	"name": "Tyler's Music",
+	"description": "This wad is a collection of midi files I found on the Internet...I was tired of the same ol' DOOM music, so I decided to put my own in!",
+	"date": "2015-09-14 21:53:51",
+	"files": [
+		{
+			"filename": "tylermus.wad",
+			"size": 606564,
+			"crc": 3161102154,
+			"md5": "231ceeaaf9d64fc8fc35de6c6fdbe584",
+			"sha1": "9291a7828845d23e5ab28727b22f4cdbca42084d",
+			"sha256": "d2168c58e3fce62d6279306c1762d31f7b2306323d023dc54440a2130f218f5b"
+		}
+	]
+}

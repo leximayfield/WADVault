@@ -1,0 +1,17 @@
+{
+	"uid": "edna (fdd8a8).wad",
+	"name": "EDNA",
+	"description": "Level one is modelled on my house, the design corresponds loosely to the plot of the radio play \"Attack of the Groovy Bushman.\"",
+	"version": "fdd8a8",
+	"date": "2014-12-03 20:25:03",
+	"files": [
+		{
+			"filename": "edna.wad",
+			"size": 2183867,
+			"crc": 1845755413,
+			"md5": "795cfeb188e4ccbce70a05d190c134da",
+			"sha1": "fdd8a87b4a8cbf89387a724f04de435450957bc6",
+			"sha256": "6fa33d1d7fa8639255326941bb9c0b0452a3728d34102b625852ed88a9576c51"
+		}
+	]
+}

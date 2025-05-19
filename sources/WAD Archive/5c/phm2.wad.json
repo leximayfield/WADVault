@@ -1,0 +1,16 @@
+{
+	"uid": "phm2.wad",
+	"name": "Pretty Hate Marine: Starfuckers Inc.",
+	"description": "A small base level. This map doesn't follow the \"rules\" of ep1 mapping, so don't expect a true ep1-ish level. This has one hard to find secret. This is the 2nd part of Pretty Hate Marine.",
+	"date": "2013-04-22 00:42:12",
+	"files": [
+		{
+			"filename": "phm2.wad",
+			"size": 249630,
+			"crc": 1535030050,
+			"md5": "791578dacd010fef7ef96a77def5f7b8",
+			"sha1": "5c67b2ac1ae2dffb0cd6667dec51131793c2b09a",
+			"sha256": "f67661d133699b3cf05a2be26b2029d31271426d7531135abe86911291c91da4"
+		}
+	]
+}

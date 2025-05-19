@@ -1,0 +1,17 @@
+{
+	"uid": "dmomen1 (0ae0d4).wad",
+	"name": "DMOMEN1.WAD",
+	"description": "A dark haunting WAD. With much emphasis on horror and the macabre. We tried to make it as gruesome as we could without overdoing it. I think. I've made this WAD file a little less difficult. No hidden exit this time. All the weapons are in plain sight. There's also ample weapons and ammo to kill all the different monsters. Revised to support deathmatch.",
+	"version": "0ae0d4",
+	"date": "2013-11-02 15:43:51",
+	"files": [
+		{
+			"filename": "dmomen1.wad",
+			"size": 139348,
+			"crc": 1255370205,
+			"md5": "619066d4354a4ba934c78871a4b41476",
+			"sha1": "0ae0d4ac208613c097daf6823b1b1962050f91ae",
+			"sha256": "4d9f387913c50514a1239d9532c95a1ade1af9bf08c80013125fc485e30cd112"
+		}
+	]
+}

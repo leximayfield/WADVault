@@ -1,0 +1,16 @@
+{
+	"uid": "xorg03.wad",
+	"name": "Xorg 3: Technophobia",
+	"description": "Metal-themed level inside a tower. Unfortunately (for you), there is some ACS in this level. And yes, you can jump *anywhere*.",
+	"date": "2014-12-29 16:41:32",
+	"files": [
+		{
+			"filename": "xorg03.wad",
+			"size": 709604,
+			"crc": 3497353575,
+			"md5": "861abce3bd6c3d8d0faa4e54b9413236",
+			"sha1": "afc75104a71940e25738ad65bbfa97ac9c6e393d",
+			"sha256": "7acd9ec93dfb3dd593876d962dd1fd2c07e291c6f9064c8933f1e084f0fb63c6"
+		}
+	]
+}

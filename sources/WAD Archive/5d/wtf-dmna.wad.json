@@ -1,0 +1,16 @@
+{
+	"uid": "wtf-dmna.wad",
+	"name": "Demonic Arena",
+	"description": "You have been captured by the demon hordes, and are being forced (?) to fight in a gladitorial arena.",
+	"date": "2015-09-14 22:41:24",
+	"files": [
+		{
+			"filename": "wtf-dmna.wad",
+			"size": 16818,
+			"crc": 3812428313,
+			"md5": "2c7b11ce9b81de25ec42f0e6e8b1920d",
+			"sha1": "5dad1d6f2c140159a900145b6b31e070a9df8e6b",
+			"sha256": "6bfbfd0495b9d0ab29eaf1be27890551430b97b858d8b30d29dda4443c30f17f"
+		}
+	]
+}

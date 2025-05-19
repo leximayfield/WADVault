@@ -1,0 +1,39 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom Classic Unity: Official Add-ons",
+	"name": "Doom Classic Unity: Official Add-ons",
+	"files": [
+		{
+			"filename": "PLUTONIA.WAD (2019-11-27)",
+			"date": "2019-11-27",
+			"size": 17421754,
+			"crc": "7530bd6e",
+			"md5": "0b381ff7bae93bde6496f9547463619d",
+			"sha1": "54e27b5791fbc5677bf7e83c1de3a92ea3ef935b"
+		},
+		{
+			"filename": "PLUTONIA.WAD",
+			"date": "2020-09-03",
+			"size": 17517186,
+			"crc": "7cc32623",
+			"md5": "ae76c20366ff685d3bb9fab11b148b84",
+			"sha1": "20fd23ee410c466b263a741bbd53bbef573ab47d"
+		},
+		{
+			"filename": "TNT (2019-11-27).WAD",
+			"date": "2019-11-27",
+			"size": 18434452,
+			"crc": "7a0117a3",
+			"md5": "a6685de59ddf2c07f45deeec95296d98",
+			"sha1": "503271390606ebded04a2cfaa1a4e249c0313a9d"
+		},
+		{
+			"filename": "TNT.WAD",
+			"date": "2020-09-03",
+			"size": 18529884,
+			"crc": "3243c2b4",
+			"md5": "f5528f6fd55cf9629141d79eda169630",
+			"sha1": "ca0f0495a6c2813b49620202774c56560d6d7621"
+		}
+	]
+}

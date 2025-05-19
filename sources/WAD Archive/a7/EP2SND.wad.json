@@ -1,0 +1,16 @@
+{
+	"uid": "EP2SND.wad",
+	"name": "EP SOUND LEVEL FOR DOOM & DOOM II",
+	"description": "Sound level, based on a lot of different sound levels from other wads, found on the doom archives. Some of these sounds are changed a little bit too sound better. The main feeling: a lot of noise. All weapon sounds have been changed and some explosions as well. They are more explosive and violent :)",
+	"date": "2013-11-06 22:42:52",
+	"files": [
+		{
+			"filename": "EP2SND.wad",
+			"size": 727147,
+			"crc": 2311466632,
+			"md5": "5931462703b8047ccff1aaf877078b8a",
+			"sha1": "a71c956fbdb92eacc38f5ecbce513670c5367da0",
+			"sha256": "8d3676f861f7aec3b80ace514b5bec4660d08f2a3f99bcd4f34f1e0ca79f1d2b"
+		}
+	]
+}

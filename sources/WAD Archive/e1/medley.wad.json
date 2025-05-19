@@ -1,0 +1,16 @@
+{
+	"uid": "medley.wad",
+	"name": "Hell Medley (original: Pekelna vsehochut)",
+	"description": "Early maps by Adolf Vojta, a few of which were later modified and appeared in Kama Sutra",
+	"date": "2014-12-13 17:51:11",
+	"files": [
+		{
+			"filename": "medley.wad",
+			"size": 1942601,
+			"crc": 1075625966,
+			"md5": "be30792bc5e3ec0ce008c9ba8bde9d41",
+			"sha1": "e12d43445c17c332053690bdc33dafcafd18d165",
+			"sha256": "f5a2d9dbbdd8a892df40bc532134c5b2dc4cc85a3698c8b85b60a05cafb180e3"
+		}
+	]
+}

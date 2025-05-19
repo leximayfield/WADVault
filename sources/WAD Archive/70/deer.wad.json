@@ -1,0 +1,16 @@
+{
+	"uid": "deer.wad",
+	"name": "Deer.wad",
+	"description": "|Square| made this in 90 minutes while {Hecubus} watched the Simpsons. Yay!",
+	"date": "2014-12-15 21:41:34",
+	"files": [
+		{
+			"filename": "deer.wad",
+			"size": 88768,
+			"crc": 1299799975,
+			"md5": "6a01c616f63bb02701f7aed13af9e07f",
+			"sha1": "70b19511201099d53b19e3b1a55bc09a15b4524b",
+			"sha256": "50999f7510300bf6bf22624775d8bd143be5a4d42bc9e9052f5e13c0b1f014cb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "zboat4.wad",
+	"name": "Zboat4",
+	"description": "This is the low-lag version of zboat3.wad. Seems I got a little carried away with the fireball effect at the volcano, and some of the connections on DoomServ could not handle it without the game slowing to a crawl. I hope that eliminating the particle fountain and almost all fireballs will fix that.",
+	"date": "2014-12-15 22:02:51",
+	"files": [
+		{
+			"filename": "zboat4.wad",
+			"size": 1126356,
+			"crc": 2073458527,
+			"md5": "ad58719c7a9af770efe3681fa3909d32",
+			"sha1": "d59b944e80298de44486ad1d3ce0e42d99ac88bb",
+			"sha256": "88b52b2571dd7716c276afc6b3bbee4b2ba42a8ade93092d8dd0fcf0a4c06b63"
+		}
+	]
+}

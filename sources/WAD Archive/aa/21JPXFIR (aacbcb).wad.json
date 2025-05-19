@@ -1,0 +1,17 @@
+{
+	"uid": "21JPXFIR (aacbcb).wad",
+	"name": "21 Crossfire, v1.0",
+	"description": "A small wad suitable for playing either stand-alone or (preferably) altdeath. Single player is pretty easy (I was able to beat UV and ended up with 100% health).",
+	"version": "aacbcb",
+	"date": "2013-07-03 20:22:39",
+	"files": [
+		{
+			"filename": "21JPXFIR.wad",
+			"size": 38719,
+			"crc": 4170067394,
+			"md5": "ffc299fd6465a3f76320382ae9f0e7e3",
+			"sha1": "aacbcb1e7e7612f4e53c13ebd2fd423f9b989726",
+			"sha256": "c0b544b384b569312f9f34a811fc31c6f54ddce63091b3a626be5ca41ec0c710"
+		}
+	]
+}

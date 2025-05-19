@@ -1,0 +1,16 @@
+{
+	"uid": "place.wad",
+	"name": "Place",
+	"description": "A small map made for the fun of it.",
+	"date": "2015-01-14 22:46:04",
+	"files": [
+		{
+			"filename": "place.wad",
+			"size": 117755,
+			"crc": 3077734730,
+			"md5": "2901cefb59a0ba4971244e76e3297112",
+			"sha1": "fddcbe7baec4bef8a26b91c7dc455657d944920a",
+			"sha256": "a0a84f8f7c27b296052e1c51e0469a4738d37091873089803e65844e717f80d5"
+		}
+	]
+}

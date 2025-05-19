@@ -1,0 +1,17 @@
+{
+	"uid": "asylum (878d57).wad",
+	"name": "ASYLUM.WAD",
+	"description": "This wad should provide hours of fun. You start off with at least one weapon and you can easily get others. Lot's of ways to ambush and lots of places to get killed :). This wad can only be exited with two or more players if you're not cheating.",
+	"version": "878d57",
+	"date": "2014-12-15 21:36:30",
+	"files": [
+		{
+			"filename": "asylum.wad",
+			"size": 65283,
+			"crc": 2053712358,
+			"md5": "8f3188e9af3bba93d4df3b97eff15e44",
+			"sha1": "878d577a5a0f1b0f80f95ffab814a79bc4455c46",
+			"sha256": "e1d156b8f0784ac2dd4768a09210b1d09c613af9c35e608e526cad4d3ac71258"
+		}
+	]
+}

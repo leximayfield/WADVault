@@ -1,0 +1,16 @@
+{
+	"uid": "killh.wad",
+	"name": "The Killhouse",
+	"description": "This is an update to the old Killhouse. The monsters/ammo/health balance is much better, and some minor bugs have been corrected. The Killhouse is a dark (not too dark!) house made of wood and metal. There are lots of monsters (compared to the size of map), but no Cyberdemons or Spiderdemons. There are 75 monsters in Ultra-Violence and some of them are in traps and ambushes. If UV skill setting is too difficult, try HMP! Skill levels 1 & 2 are for beginners. A file killhmax.lmp comes with this zip package. What is this file? It's a demo (recorded in Doom2 1.9) which shows how to get 100% kills and 100% secrets on UV skill. In case you don't know, it is played with the command: 'doom2 -file killh.wad -playdemo killhmax'. Please send comments to my E-mail address, so I know if someone really plays this wad! I'd also like to get some demos for this map, recorded by other people.",
+	"date": "2014-12-27 12:17:27",
+	"files": [
+		{
+			"filename": "killh.wad",
+			"size": 92655,
+			"crc": 2551898814,
+			"md5": "92861f969df36e451a5e9f51bcc65b5f",
+			"sha1": "59fb56879bf1c306dfa2ba5173f5ec0f3db48faf",
+			"sha256": "4a2fd741b25e1e16b2f8d9b0330cb8ac92455830b469e631c787624a6b3982d3"
+		}
+	]
+}

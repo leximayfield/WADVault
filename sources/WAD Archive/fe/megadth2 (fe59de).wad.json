@@ -1,0 +1,17 @@
+{
+	"uid": "megadth2 (fe59de).wad",
+	"name": "MEGADETH 2 (for Doom 2) Version 1.1",
+	"description": "The ultimate DeathMatch level.",
+	"version": "fe59de",
+	"date": "2014-01-07 21:51:17",
+	"files": [
+		{
+			"filename": "megadth2.wad",
+			"size": 326625,
+			"crc": 3136157831,
+			"md5": "06733683b28dc03da4b854297ff998a7",
+			"sha1": "fe59deb74f58bfab11ed0264c7e8e359aa83b53d",
+			"sha256": "49e0bb89580e8017536f3ab7e0ab09da56133b680fd62f657069c5c271279d18"
+		}
+	]
+}

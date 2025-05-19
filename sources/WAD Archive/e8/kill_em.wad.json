@@ -1,0 +1,16 @@
+{
+	"uid": "kill_em.wad",
+	"name": "KILL 'EM! v1.2",
+	"description": "A strictly Deathmatch level (the ONLY way to play Doom!). Try single player and you'll die of boredom instead of demon attacks. Here's a basic rundown of things you will and won't find in this level.",
+	"date": "2014-12-13 12:54:46",
+	"files": [
+		{
+			"filename": "kill_em.wad",
+			"size": 353155,
+			"crc": 1701752464,
+			"md5": "1691e8f1ad6da1c75562c4ebcf04a616",
+			"sha1": "e82f05938c97f9ea067ee77c304cd1447b6b9b00",
+			"sha256": "ad7b084babe0ed9a9bff2c10e317e1f400497ab76c9e05e87d4ec1a23c773418"
+		}
+	]
+}

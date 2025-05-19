@@ -1,0 +1,16 @@
+{
+	"uid": "stuff.wad",
+	"name": "stuff.WAD",
+	"description": "Designed for deathmatch.",
+	"date": "2014-12-15 23:09:12",
+	"files": [
+		{
+			"filename": "stuff.wad",
+			"size": 103125,
+			"crc": 737770771,
+			"md5": "19a19a8879ec2ebb5b8541e1624d2963",
+			"sha1": "5d31d6c2997a94bb39ab336e0e9c8371d419ee13",
+			"sha256": "2b6e6684feda799d1829ef87dff826a17bf3226f207c409ac5fb97b48f7d7457"
+		}
+	]
+}

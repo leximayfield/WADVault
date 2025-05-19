@@ -1,0 +1,16 @@
+{
+	"uid": "dft2.wad",
+	"name": "Dark Fate 2",
+	"description": "A very short, linear hellish map. It was made about a year ago as a very short speedmap, and I hadn't bothered to finish it. Over a couple of weekends I completed it and made it look nice. Couldn't think of a better title, so I simply called it \"Dark Fate 2\".",
+	"date": "2014-12-24 17:42:24",
+	"files": [
+		{
+			"filename": "dft2.wad",
+			"size": 622801,
+			"crc": 4253781136,
+			"md5": "900cab1a331338d68d7b0a9f70b470ce",
+			"sha1": "cb1b66749d2442fd1e6eb3e5f7541dbe12e76947",
+			"sha256": "57f0f9b50791c9757a7a397e48755161d9f3907537c81b5778bb096f8cc2a937"
+		}
+	]
+}

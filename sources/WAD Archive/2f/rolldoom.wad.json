@@ -1,0 +1,16 @@
+{
+	"uid": "rolldoom.wad",
+	"name": "Rollercoaster of Doom",
+	"description": "From Palace of the Beast TXT: \"...the first was 'Rollercoaster of Doom' (ROLLDOOM.ZIP), a comedy level I created while working on this.\"",
+	"date": "2014-12-14 20:56:28",
+	"files": [
+		{
+			"filename": "rolldoom.wad",
+			"size": 132294,
+			"crc": 3923405836,
+			"md5": "ba0d9a673a5a6cfff6118e8f4dcdb9cf",
+			"sha1": "2fc6fbbc870ad936a6e712fd164c0870e4edbfd5",
+			"sha256": "643d02be3fce35ac515562e4ede146215620966087d32d3211452e64ed12bfc3"
+		}
+	]
+}

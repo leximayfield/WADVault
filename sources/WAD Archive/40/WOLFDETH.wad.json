@@ -1,0 +1,16 @@
+{
+	"uid": "WOLFDETH.wad",
+	"name": "WOLFDETH.WAD",
+	"description": "Basically a modified version of level 32 in DooM2. Most textures are blue (Blood really shows in blue heheheheh). All weapons are included as well as only \"small\" versions of ammo (I.E only ammo clips and shells etc... NO BOXES of rockets, or cell PACKS, etc...)",
+	"date": "2013-11-04 20:07:19",
+	"files": [
+		{
+			"filename": "WOLFDETH.wad",
+			"size": 33696,
+			"crc": 3947842598,
+			"md5": "752b238435a23d2b2de8906367831992",
+			"sha1": "407f6fc2f25b6c7abc33ce6968a1bbbcc8416746",
+			"sha256": "66876c4c5ff03e3d8aa1e0e67b64dbdcc6e6582a39e3a6740b8ce9575e4626d9"
+		}
+	]
+}

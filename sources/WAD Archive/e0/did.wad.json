@@ -1,0 +1,16 @@
+{
+	"uid": "did.wad",
+	"name": "Decent Into Darkness",
+	"description": "I think this is a fun level for those who like lots of intense monster battles and tough secrets. This level's name is based on the ending of the level.",
+	"date": "2014-12-24 19:20:56",
+	"files": [
+		{
+			"filename": "did.wad",
+			"size": 194921,
+			"crc": 3752836303,
+			"md5": "39159dfd6911ed80b382c415625c3786",
+			"sha1": "e0754ab9902f8cd978b4a1358b1b376ce02fd3ee",
+			"sha256": "6b0842ef2a6bbcfc9cc0a0cf14d4951501367a7974bf4a3084b26e7c3e63543b"
+		}
+	]
+}

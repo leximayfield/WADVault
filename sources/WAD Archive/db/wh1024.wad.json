@@ -1,0 +1,16 @@
+{
+	"uid": "wh1024.wad",
+	"name": "UAC Research Vessel #1024",
+	"description": "I wanted to make an entry for Lutrov's 1024x1024 wad and came up with this awesome idea and started making it, but found out that the 244 linetype, which my level revolves around the use of, wasn't kosher for the project. So, I took the level and decided I hadn't released anything in way too long, and turned it into this.",
+	"date": "2014-12-29 15:05:31",
+	"files": [
+		{
+			"filename": "wh1024.wad",
+			"size": 480403,
+			"crc": 2164627686,
+			"md5": "e7461f6a759058f0f5b19e4c1f7220d0",
+			"sha1": "dbc42097d22fb2468e93dd0013ee7beb4f112ef5",
+			"sha256": "3db7c72db24ce1cc832b663f24f8c75fa4c9657c2dec386ec6da8b8146eab219"
+		}
+	]
+}

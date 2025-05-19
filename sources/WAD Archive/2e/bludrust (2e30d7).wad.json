@@ -1,0 +1,17 @@
+{
+	"uid": "bludrust (2e30d7).wad",
+	"name": "Title by Alfonzo",
+	"description": "A small community project where the maps are reminiscent of a rusting, aging, tech environment.",
+	"version": "2e30d7",
+	"date": "2018-04-05 07:53:38",
+	"files": [
+		{
+			"filename": "bludrust.wad",
+			"size": 3351095,
+			"crc": 1889071111,
+			"md5": "81dcf732369251b34ba3a7d664af2518",
+			"sha1": "2e30d7c71b4f00e8c1b8c7ae66e90f7e6e26f5b8",
+			"sha256": "a580c5c1c3c445208486962640ff9ee8418664db8415bff51bb0e2f53ef8b6cc"
+		}
+	]
+}

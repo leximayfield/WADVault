@@ -1,0 +1,17 @@
+{
+	"uid": "deepshit (f7ad85).wad",
+	"name": "DEEPSHIT",
+	"description": "Try to make it to the end without falling into holes, traps and opening doors without looking first.",
+	"version": "f7ad85",
+	"date": "2014-01-07 22:01:18",
+	"files": [
+		{
+			"filename": "deepshit.wad",
+			"size": 541385,
+			"crc": 2190071409,
+			"md5": "53a6a2e805e937edd767d79f04192716",
+			"sha1": "f7ad85dd7f6bc08c0f8fcf5181d90124c545b891",
+			"sha256": "9fcad4d02dcda24dae3d0fecff9b4dac8670573c752e7fabdef9f630a31ffcc3"
+		}
+	]
+}

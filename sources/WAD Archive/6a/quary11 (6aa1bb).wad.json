@@ -1,0 +1,17 @@
+{
+	"uid": "quary11 (6aa1bb).wad",
+	"name": "QUARY11.WAD",
+	"description": "A deathmatch level. Big chasm with all guns except BFG9000. No exit because it is intended for deathmatch.",
+	"version": "6aa1bb",
+	"date": "2013-11-02 15:15:29",
+	"files": [
+		{
+			"filename": "quary11.wad",
+			"size": 21802,
+			"crc": 707543393,
+			"md5": "81dd260bcfe568690c22e622ae24f44a",
+			"sha1": "6aa1bb59630faf24bd33d3a76293013424352a31",
+			"sha256": "6b47596609d63717f5c1cd479cdc901504b03d93c5607d9724ad370e9e5f2de7"
+		}
+	]
+}

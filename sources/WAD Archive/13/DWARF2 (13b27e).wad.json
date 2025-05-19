@@ -1,0 +1,17 @@
+{
+	"uid": "DWARF2 (13b27e).wad",
+	"name": "COFFIN.WAD (DWARF2.ZIP)",
+	"description": "This level would have had more, but I had problems with the texture I used (Redwall1, beware), so I gave up and decided to make another level with the remaining ideas (and another texture). Well, basically, this level is another Deathmatch joy, w/ not too many secrets, but plenty of weapons and a few tricks to getting them. Some of the switches on the columns aren't aligned, but in the interest of time, and a new level in the works, I said \"Screw It\"! So, enjoy the level and like the name says, it will become a coffin w/ a lot of bodies in it before long, hehe. Oh, yeah, if you play it co-op you might have a chance at UV setting, heheh.",
+	"version": "13b27e",
+	"date": "2013-11-02 23:52:20",
+	"files": [
+		{
+			"filename": "DWARF2.wad",
+			"size": 38643,
+			"crc": 2414353972,
+			"md5": "2efdf49e111b82c65c01f4948f0f3026",
+			"sha1": "13b27e066e374b6f88ba10995a4ec55185d653a7",
+			"sha256": "88b5d46567780743a6fbb1ae7fe611be31e1b310289a65c75f09ed0d668edf08"
+		}
+	]
+}

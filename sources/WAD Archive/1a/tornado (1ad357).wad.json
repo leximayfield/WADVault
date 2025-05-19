@@ -1,0 +1,17 @@
+{
+	"uid": "tornado (1ad357).wad",
+	"name": "The Texas Tornado Deathmatch Wad",
+	"description": "Well, I picked the name because a tornado just missed our house the other day. Seemed fitting for a wad file. This is a medium sized level. Pretty tough in the hard setting. No Cyberdemon or Spider- demon. There are a few Barons, though :-). You'll need all 3 keys to exit, one of the keys is in a hidden room.",
+	"version": "1ad357",
+	"date": "2013-11-02 15:08:55",
+	"files": [
+		{
+			"filename": "tornado.wad",
+			"size": 164299,
+			"crc": 3460146904,
+			"md5": "fb82a689aa359be3929aea15792ca249",
+			"sha1": "1ad3576778341a1b27236048c0cb03e84f53d316",
+			"sha256": "5c10b2ccea031bc0caad597cd88920b3528be7e425f003cb2df44f82705b2b18"
+		}
+	]
+}

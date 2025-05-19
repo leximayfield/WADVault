@@ -1,0 +1,17 @@
+{
+	"uid": "hexxed (f9ab06).wad",
+	"name": "HEXXED",
+	"description": "My friends and I have been playing deathmatch : since the day 1.2 came out, so I tried to put : some stuff that I know I like in this WAD. : I don't know of any bugs in it, but if you find : some, please let me know about them. Likewise for : suggestions for what you'd like to see.",
+	"version": "f9ab06",
+	"date": "2013-11-04 19:23:30",
+	"files": [
+		{
+			"filename": "hexxed.wad",
+			"size": 22046,
+			"crc": 3461428256,
+			"md5": "0a1732042a2e7801fddc9e4d2ac04349",
+			"sha1": "f9ab06e55747ee429fb14354f91c4559d43cd15e",
+			"sha256": "af474bc49ba787760587d1011c01af291ea63d6b9366ea88c1da46c6983914d1"
+		}
+	]
+}

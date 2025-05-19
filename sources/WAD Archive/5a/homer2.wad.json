@@ -1,0 +1,16 @@
+{
+	"uid": "homer2.wad",
+	"name": "HOMER2",
+	"description": "A replacement level for Map01 of Doom2 designed",
+	"date": "2015-09-15 18:02:19",
+	"files": [
+		{
+			"filename": "homer2.wad",
+			"size": 136538,
+			"crc": 573936036,
+			"md5": "e606a29af26bef05dda3f46f7c222c57",
+			"sha1": "5a16cdaae2f430ec38d255ba4b1df4f04da6b9a4",
+			"sha256": "066f4e08b92cacc941a8a89cabdff664b3ade2146f01463dbdbd761352989443"
+		}
+	]
+}

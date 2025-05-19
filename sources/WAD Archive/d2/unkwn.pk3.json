@@ -1,0 +1,16 @@
+{
+	"uid": "unkwn.pk3",
+	"name": "Unknown",
+	"description": "A 10 level \"Kilowad\", my first attempt, it isn't balanced or levelled: I'll figure those out later. The maps are probably worth a shot though.",
+	"date": "2017-12-31 15:43:34",
+	"files": [
+		{
+			"filename": "unkwn.pk3",
+			"size": 7826849,
+			"crc": 1193361289,
+			"md5": "384e5a0639dcdea82e5eb63ad908acfa",
+			"sha1": "d26d714c9473c38065129df87bac620817514611",
+			"sha256": "6c5c4b099a2ff0eb73b5a41479611cdec82fa2996c125b7b11c2130f90c4d591"
+		}
+	]
+}

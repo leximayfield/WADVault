@@ -1,0 +1,17 @@
+{
+	"uid": "rogues (688b7b).wad",
+	"name": "ROGUES, version 1.70 (former Small70.wad)",
+	"description": "I started this level with a small room and it grew and grew. I always kept in mind that this level should be nice for every skill and for multiplayer also. Especially deathmatch player like it because of its places to shoot somebody from behind and the big duel zone.",
+	"version": "688b7b",
+	"date": "2014-01-04 11:56:02",
+	"files": [
+		{
+			"filename": "rogues.wad",
+			"size": 126644,
+			"crc": 3381523894,
+			"md5": "96d484d3c896b9372d4561eb5afbf301",
+			"sha1": "688b7b7491ad13b315d57acde4e5b9e0d4663aff",
+			"sha256": "b4622b7aaa52687146ef5d247c3e3e1ee54ec5f2256077de3f49f57d20f107b6"
+		}
+	]
+}

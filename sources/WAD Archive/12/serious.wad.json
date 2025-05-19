@@ -1,0 +1,16 @@
+{
+	"uid": "serious.wad",
+	"name": "SERIOUS (PART TWO OF SERIES.WAD)",
+	"description": "This level is the second level of my WAD series. My first level can be found at FTP.CDROM.COM in the /pub/idgames/levels/doom2/s-u/ directory.",
+	"date": "2013-11-06 22:41:21",
+	"files": [
+		{
+			"filename": "serious.wad",
+			"size": 234429,
+			"crc": 1736072379,
+			"md5": "b1884923debb498fa3ee9f8c93283d53",
+			"sha1": "1219b21b80c40772d9ad755c9099e6e282ad52cd",
+			"sha256": "01faf5167dbc0c6a0be17cc5612607359f86ccc98c5219ba8d4c5c54950a26e5"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmcob (30d3c8).wad",
+	"name": "The Castle of Blood",
+	"description": "The Castle of Blood is well known among your fellow marines and you got the short straw. Your mission is to succed where no one has!",
+	"version": "30d3c8",
+	"date": "2013-11-04 20:15:34",
+	"files": [
+		{
+			"filename": "dmcob.wad",
+			"size": 312697,
+			"crc": 2658541267,
+			"md5": "d2ade1beeaca3b28da868e20cdd0ad77",
+			"sha1": "30d3c81a5e2ffc9716d7dea2d23ce3c300a40915",
+			"sha256": "08c121487cceab18c43f63af861a6439dcd342fa40adf713eb3594b61be0c8c0"
+		}
+	]
+}

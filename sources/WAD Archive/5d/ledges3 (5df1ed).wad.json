@@ -1,0 +1,17 @@
+{
+	"uid": "ledges3 (5df1ed).wad",
+	"name": "LEDGES3.WAD",
+	"description": "This patch file is for E1M1. This is the next DEATHMATCH WAD in the LEDGES series. Improved placement of weapons and items to insure optimum \"fragging\". This level is designed primarily for DEATHMATCH.",
+	"version": "5df1ed",
+	"date": "2013-11-02 15:11:37",
+	"files": [
+		{
+			"filename": "ledges3.wad",
+			"size": 38695,
+			"crc": 1927741741,
+			"md5": "141784b89813fc6ee4ab867ca65ef2df",
+			"sha1": "5df1edce9f4b6d06632c6e70d12efd4138974615",
+			"sha256": "271bb13369f26c3a6c0a406ccc1385105fbca2263e7afec828b8428bba0caa0f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "LAZARUS1J.wad",
+	"name": "Lazarus (release 1j)",
+	"description": "A series of mostly DooM-themed maps that utilizes the BooM mapping format. The project has evolved to accomodate Deathmatch (Free-for-all) play, but again keeping Chaindude's 1-on-1 mapping in mind. 32 maps (including the 1-on-1 maps) is the new goal for the developing team.",
+	"date": "2013-04-19 00:57:48",
+	"files": [
+		{
+			"filename": "LAZARUS1J.wad",
+			"size": 8943389,
+			"crc": 1875254591,
+			"md5": "65de982942e5d258f4b2cc3c9c16f05e",
+			"sha1": "e9f2016938346cb605f3e3c9f50616e863e20f17",
+			"sha256": "c727ae3f77ec285891395b74b6c499567575c40ef6d8587f83fa0f3758149671"
+		}
+	]
+}

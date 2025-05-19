@@ -1,0 +1,16 @@
+{
+	"uid": "HELLBOLT.wad",
+	"name": "Hellbolt",
+	"description": "Single player map with some cyberdemon surprises.",
+	"date": "2015-02-21 09:01:39",
+	"files": [
+		{
+			"filename": "HELLBOLT.wad",
+			"size": 184502,
+			"crc": 3303843999,
+			"md5": "ed2d04ba7d54ffba84225fe398e113bd",
+			"sha1": "4c6f019109ced2bd4d6eaa7fb5902160bf88a8c3",
+			"sha256": "c850ea2f3c9e7ec8a89190829b8a70bfca53e517cedcf4b640e3bf2f5939a091"
+		}
+	]
+}

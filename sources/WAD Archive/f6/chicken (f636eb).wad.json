@@ -1,0 +1,17 @@
+{
+	"uid": "chicken (f636eb).wad",
+	"name": "Chickens Everywhere!!!",
+	"description": "This WAD will turn all the Imps into Chickens who shoot eggs. This WAD is not the same as the Chook wad. In fact I created this before Chook even came out I just never had access to an online service.",
+	"version": "f636eb",
+	"date": "2014-10-14 21:22:16",
+	"files": [
+		{
+			"filename": "chicken.wad",
+			"size": 102852,
+			"crc": 137494011,
+			"md5": "a60147ec78af04ee271c423efbca2eb4",
+			"sha1": "f636eb07d5de80218afbbe9024651ca55070c95f",
+			"sha256": "93bbcaaccb5e96099136c84224b1b24ba0265064aca762ecb69c7abe2fb4b167"
+		}
+	]
+}

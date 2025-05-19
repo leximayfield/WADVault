@@ -1,0 +1,16 @@
+{
+	"uid": "t-stone.wad",
+	"name": "Stone Turmoil",
+	"description": "Stone Turmoil was just a 90 minute speedmap to begin with, but after getting feedback from the regulars of #dmclub, I decided I'd do a little work on it and release it. Minor gameplay changes have been made since, and skill settings have been added. I've included the original map (note: it has no skill settings, so it might seem hard to some of you), just so you can see the changes I made (if you're curious, that is).",
+	"date": "2014-12-29 16:29:39",
+	"files": [
+		{
+			"filename": "t-stone.wad",
+			"size": 462248,
+			"crc": 98452215,
+			"md5": "a91c650663c15c7fc3e7dfe4868a0f91",
+			"sha1": "d95b0543d76977bb3e137012cfeec5bfc584c53a",
+			"sha256": "885b70fc9d04f03a187cb3d96e6c6d7b404d0c026656ffb4fc475745b9d21e2f"
+		}
+	]
+}

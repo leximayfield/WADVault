@@ -1,0 +1,17 @@
+{
+	"uid": "autosave (e6c37d).wad",
+	"name": "Autosave",
+	"description": "Just a little tool that I made for autosaving at regular intervals, as I tend to forget to save half the time.",
+	"version": "e6c37d",
+	"date": "2014-12-24 17:36:21",
+	"files": [
+		{
+			"filename": "autosave.wad",
+			"size": 1070,
+			"crc": 587200095,
+			"md5": "aea8fd1592808d2834d4917577ed1977",
+			"sha1": "e6c37d2ac3adcf70261eaf48cc4c11f40420a07b",
+			"sha256": "a0c1493f57e5ef752dd79f8f261e6ba3b70f7859c8888adadef3837d4ce69ec3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cybq202.wad",
+	"name": "Cyberdemon's Quake2 DM02 ZDoom Conversion",
+	"description": "This is a conversion of Cyberdemon's Quake 2 DM map.",
+	"date": "2014-12-15 21:34:19",
+	"files": [
+		{
+			"filename": "cybq202.wad",
+			"size": 1203244,
+			"crc": 3509931672,
+			"md5": "22ddbfce364af67d2859210600445e07",
+			"sha1": "61d02c976f58610f1ec2f3b1cbd6a799aae95e23",
+			"sha256": "bc9f7e312a8e1ddba8775667e917f07a78b37b9891d4d18824f6b37f88569869"
+		}
+	]
+}

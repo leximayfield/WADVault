@@ -1,0 +1,16 @@
+{
+	"uid": "the_black_crown.wad",
+	"name": "The Black Crown",
+	"description": "this is my first set of levels, four in total. took me about a year or so messing around with doom builder 2 to figure out how most things work, and this is the result of that. i'm not quite done with these maps yet, they may be included in another mapset later on, but i thought i'd put them somewhere for now.",
+	"date": "2018-02-15 20:53:19",
+	"files": [
+		{
+			"filename": "the_black_crown.wad",
+			"size": 2791118,
+			"crc": 3672465808,
+			"md5": "1cd2a0b0fb499e3cf228eee33a292898",
+			"sha1": "71619504cb67942ea6ec16e9d55a332ee7d33a2f",
+			"sha256": "bc82709293b211900138a21b1a8159c9f8afe4d19b5dddb5bdd30221e1b93f5d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dada01.wad",
+	"name": "Dada",
+	"description": "Psychedelic Doom wad for Deathmatch. You're running around in a gray space in which moving white lines betray the layout of the map.",
+	"date": "2014-12-15 22:14:52",
+	"files": [
+		{
+			"filename": "dada01.wad",
+			"size": 3910200,
+			"crc": 3706065854,
+			"md5": "ff21cecdacc6df18cf09d14b402799c7",
+			"sha1": "68cd117afebadd628d0748c6d98f73e983d2150f",
+			"sha256": "6c1a77b5a3166ba139c54073e5e13f67e44e6010158e6acf81dfb64f0945c8fb"
+		}
+	]
+}

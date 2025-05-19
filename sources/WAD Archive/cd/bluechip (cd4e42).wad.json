@@ -1,0 +1,17 @@
+{
+	"uid": "bluechip (cd4e42).wad",
+	"name": "Bluechip.wad",
+	"description": "Get the bluechip and get the hell outta there!",
+	"version": "cd4e42",
+	"date": "2016-02-07 20:26:05",
+	"files": [
+		{
+			"filename": "bluechip.wad",
+			"size": 92526,
+			"crc": 2224268736,
+			"md5": "67449c048c484f86c34d95af1c1cd129",
+			"sha1": "cd4e423cb85f063d647ae34c8907ca1a9e7e4b1c",
+			"sha256": "7abbda20d1f3202bbdbbd4fb811c1a1927cb629ab763f45df65b55d9eed23e64"
+		}
+	]
+}

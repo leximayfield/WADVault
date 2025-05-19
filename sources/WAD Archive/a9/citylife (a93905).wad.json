@@ -1,0 +1,17 @@
+{
+	"uid": "citylife (a93905).wad",
+	"name": "CityLife",
+	"description": "A grey city in the night.",
+	"version": "a93905",
+	"date": "2013-11-02 15:23:20",
+	"files": [
+		{
+			"filename": "citylife.wad",
+			"size": 133629,
+			"crc": 1513400631,
+			"md5": "7ede1e8ab4766721053b784b1b67a1bc",
+			"sha1": "a9390543be9feb2d2aa89505104390a75631e611",
+			"sha256": "008862401801c432508fea32c6bf9c0aaf30bbda3f8369bd7d201aa4dce41836"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "CASTLE (2e8a79).wad",
+	"name": "who needs a title?",
+	"description": "This file is a Heretic Deathmatch level suited for up to 4 players. All weapons are present. I don't know how this will play in D.M. 'cause I didn't play it that way. It should work - I never had problems with making Deathmatch wads before.",
+	"version": "2e8a79",
+	"date": "2013-11-02 17:12:06",
+	"files": [
+		{
+			"filename": "CASTLE.wad",
+			"size": 234421,
+			"crc": 3669989318,
+			"md5": "7f748e0d759c871f1948eac9d87402ac",
+			"sha1": "2e8a79d3f7af8367fd49d55dabea9762bb29c45c",
+			"sha256": "0edec97821b066e86446f735221ab3add3790605bdfe324c5fd3c17bec31603f"
+		}
+	]
+}

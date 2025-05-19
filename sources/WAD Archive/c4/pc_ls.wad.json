@@ -1,0 +1,16 @@
+{
+	"uid": "pc_ls.wad",
+	"name": "Lucifer's Spell (For Heretic)",
+	"description": "New map for Heretic replacing E1M1. This is only my second level for Heretic. Its fairly large and straight forward in progression. Enjoy!",
+	"date": "2014-12-30 11:24:15",
+	"files": [
+		{
+			"filename": "pc_ls.wad",
+			"size": 385696,
+			"crc": 1526547241,
+			"md5": "d6477ed5bee152330b7ef31e411c6000",
+			"sha1": "c498ab2ce14bc34f6e8afac4e3243aec9ad01f75",
+			"sha256": "370fec09a97c6fdab143f8df4e36648fbfd709e51c92c9e5b9b71518d25c404f"
+		}
+	]
+}

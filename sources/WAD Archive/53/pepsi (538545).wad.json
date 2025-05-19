@@ -1,0 +1,17 @@
+{
+	"uid": "pepsi (538545).wad",
+	"name": "Pepsi Doom 2.0",
+	"description": "Pepsi Doom changes the blue health viles into ice cans of Pepsi, changes item pickup, and a few opening sprites.",
+	"version": "538545",
+	"date": "2015-09-15 18:00:49",
+	"files": [
+		{
+			"filename": "pepsi.wad",
+			"size": 118972,
+			"crc": 1356020851,
+			"md5": "578abd348770e99c91cfb7d166a32f39",
+			"sha1": "538545143befadbfea0510d4351130796331cfd6",
+			"sha256": "fbc74ee9aa9be9e2420605fc7d7606e2bddc292c48c1669faa6fe4e920e0d759"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "RTD (666d40).wad",
+	"name": "Return to Deimos",
+	"description": "My first attempt at creating a new level. Hope you like it.",
+	"version": "666d40",
+	"date": "2013-11-06 21:53:34",
+	"files": [
+		{
+			"filename": "RTD.wad",
+			"size": 53610,
+			"crc": 2051297746,
+			"md5": "1cca6a833e0bc95f9f7da4ce8cd47f90",
+			"sha1": "666d40234c8d3351f80575939dc22bb88eaf013d",
+			"sha256": "e2b8b4dd9cc09963cd116482123fd2119ea8fe073c6e2a4e6b75d082f96e317c"
+		}
+	]
+}

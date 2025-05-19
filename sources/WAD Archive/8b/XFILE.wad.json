@@ -1,0 +1,16 @@
+{
+	"uid": "XFILE.wad",
+	"name": "The X File (x_file.wad from xfile.zip)",
+	"description": "My first complete level from scratch. I find it difficult and I know the secrets. Created with DeeP ver 6.12",
+	"date": "2013-11-02 23:56:26",
+	"files": [
+		{
+			"filename": "XFILE.wad",
+			"size": 151888,
+			"crc": 4235439609,
+			"md5": "609b63af27af97995d7f54553be204d9",
+			"sha1": "8b6e1514df3d1ef1abc4a1547f53c0a51f84ca85",
+			"sha256": "7a17c9dc2748cf8b4b95dad65123b431cf6cdfa4ca51f8beb2879620886c2cf2"
+		}
+	]
+}

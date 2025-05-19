@@ -1,0 +1,16 @@
+{
+	"uid": "transfrm.wad",
+	"name": "The Transformer",
+	"description": "I started this one in 1996 but I lost interest and never finished it. After rediscovering it I finally decided to complete it. This is an update to last week's release which contained a texture bug and was incompatible with the latest ZDoom versions. This version has been checked with ZDoom 2.0.47, Legacy 1.4, PrBoom 2.2.3 and the original Doom2.exe.",
+	"date": "2015-01-14 14:32:23",
+	"files": [
+		{
+			"filename": "transfrm.wad",
+			"size": 173028,
+			"crc": 2519039186,
+			"md5": "4b6d2f94275427ebe470230132079701",
+			"sha1": "9c87987e0778f4d4b7cbe083dd68322b59b83cdc",
+			"sha256": "19d969057b0911f644f19ee62bb136cabb3a4f4a656534affa9e2242a29afcab"
+		}
+	]
+}

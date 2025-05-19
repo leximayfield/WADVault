@@ -1,0 +1,17 @@
+{
+	"uid": "hr (7cf608).wad",
+	"name": "Hell Revealed Episode 1",
+	"description": "Hell Revealed is a complete replacement for the first episode of Doom II - levels 1 to 11. All levels were made in a special attempt to make them high-quality and they all have LMPs for them inside this ZIP file. The following TXT files exist in the ZIP file:",
+	"version": "7cf608",
+	"date": "2014-12-18 22:43:03",
+	"files": [
+		{
+			"filename": "hr.wad",
+			"size": 1017489,
+			"crc": 1227269658,
+			"md5": "851717b89b3b22ab0dc8243c8311a9f9",
+			"sha1": "7cf608019d3184d7cf96a56404cd7a7b0170a0a1",
+			"sha256": "47566cec4a244ff5821018b0c15cdf9db2a9bfe19cc07de3879e530bf3d97797"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gz.wad",
+	"name": "Ground Zero",
+	"description": "DooM CTF! Not much, it's only \u00dfeta.",
+	"date": "2014-12-15 22:50:21",
+	"files": [
+		{
+			"filename": "gz.wad",
+			"size": 1231184,
+			"crc": 2858361349,
+			"md5": "0f4ceff04b8054c4ce62fc2168794142",
+			"sha1": "3dfc0b204b547abcdf96f0200dc8627489fdeafb",
+			"sha256": "c37f1ab32f2e099da83550df35cf5cd963c249ead39104e12a4491627e694f5d"
+		}
+	]
+}

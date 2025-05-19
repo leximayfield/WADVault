@@ -1,0 +1,16 @@
+{
+	"uid": "hhound.wad",
+	"name": "Hammer Hound",
+	"description": "Inspired by Blood 2's Behemoth.",
+	"date": "2015-09-14 22:22:26",
+	"files": [
+		{
+			"filename": "hhound.wad",
+			"size": 656438,
+			"crc": 3911500755,
+			"md5": "7fda574bfe83607d5ac37219e377d50a",
+			"sha1": "5c740231caf283f039b662c345c330f1c9d0e15e",
+			"sha256": "2f81c4f07b56d7b11a1d336760fd6c3ab35f140b629dcc90d414419bae0b742a"
+		}
+	]
+}

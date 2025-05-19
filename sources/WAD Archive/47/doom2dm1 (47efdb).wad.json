@@ -1,0 +1,16 @@
+{
+	"uid": "doom2dm1 (47efdb).wad",
+	"description": "This is a NEW DEATHMATCH Only Level for Doom ][ The first level for D][ was ok for 2 player DM but I found the rest were either too big or had too many powerful items in them.. This level has NO mega or supercharge spheres. ALL weapons are present.",
+	"version": "47efdb",
+	"date": "2014-12-03 20:25:26",
+	"files": [
+		{
+			"filename": "doom2dm1.wad",
+			"size": 82381,
+			"crc": 3595681412,
+			"md5": "851d4166266fe9d36fb5b2924eaa549e",
+			"sha1": "47efdb495192f5b9549a9f7aba362243991a0f9b",
+			"sha256": "b2d5bb11f4c1789d0e944fb76d278519a574afa856490d4dc08c4b07314f4bb6"
+		}
+	]
+}

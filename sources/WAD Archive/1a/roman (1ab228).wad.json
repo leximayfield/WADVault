@@ -1,0 +1,17 @@
+{
+	"uid": "roman (1ab228).wad",
+	"name": "ROMAN",
+	"description": "Death-Match Wad for DooM ][. Nice Roman style arena",
+	"version": "1ab228",
+	"date": "2014-12-15 22:11:54",
+	"files": [
+		{
+			"filename": "roman.wad",
+			"size": 118540,
+			"crc": 3986575187,
+			"md5": "8c2219e5f4efb4730831116947ce8660",
+			"sha1": "1ab22851c0983a14f44b72e5d980eda47e4deef9",
+			"sha256": "a92528ac0458b2d6da3a4488524f5d8cfca78b0f8112bb0832909c4aae85d977"
+		}
+	]
+}

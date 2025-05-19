@@ -1,0 +1,16 @@
+{
+	"uid": "VAL002.wad",
+	"name": "The Coliseum",
+	"description": "Mid-size strategic Deathmatch arena for Doom II.",
+	"date": "2014-10-14 20:55:47",
+	"files": [
+		{
+			"filename": "VAL002.wad",
+			"size": 36969,
+			"crc": 3242294016,
+			"md5": "075890e935f6abba9e2200e06ecbf51f",
+			"sha1": "5e0f5f862c38ec268bb7acfe9cf44d1b8b664698",
+			"sha256": "6ba422e67cd6823bf46810c7991daed79ab30407373833321db98a2d1d30f3df"
+		}
+	]
+}

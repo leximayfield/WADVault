@@ -1,0 +1,16 @@
+{
+	"uid": "FORWILS.wad",
+	"name": "For Wils",
+	"description": "This is a deathmatch! Create your own mood!",
+	"date": "2014-10-14 21:20:01",
+	"files": [
+		{
+			"filename": "FORWILS.wad",
+			"size": 229225,
+			"crc": 477132600,
+			"md5": "a9733d677e3a80cf1cc4f4e46f02e62d",
+			"sha1": "9ed7b1e91e0d1f56ea4fcdf3ddcc836dfe8b32d0",
+			"sha256": "fa4df46d2dbc0b425f2f9cb49b4b1eb1d3c3700562f7c003998935bb913ebd9a"
+		}
+	]
+}

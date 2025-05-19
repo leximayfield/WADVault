@@ -1,0 +1,17 @@
+{
+	"uid": "bigsky (650403).wad",
+	"name": "Big Sky -- Just another frag-fest.",
+	"description": "A death-match only level utilizing all weapons. The playing field is semi-open using multiple heights and nukeage to spice things up.",
+	"version": "650403",
+	"date": "2014-01-07 22:05:35",
+	"files": [
+		{
+			"filename": "bigsky.wad",
+			"size": 43829,
+			"crc": 3258559111,
+			"md5": "9de5613d14a39faa1540a4aa7fdbcd51",
+			"sha1": "6504031ed4169a436f56d175b9c433f07d12e6f0",
+			"sha256": "004cf5e3d9b7514d01647d8a83a98f02a9e21ca355a111ce0edb8103db148b82"
+		}
+	]
+}

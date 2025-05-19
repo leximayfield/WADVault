@@ -1,0 +1,17 @@
+{
+	"uid": "cistern (6ca175).wad",
+	"name": "The Cistern",
+	"description": "A series of stone corridors arranged around a reservoir of blood somewhere in Hades. You can SEE the exit (it's right in the middle) but how do you GET there? Plenty of tactical choices as to when and where to fight.",
+	"version": "6ca175",
+	"date": "2013-11-02 15:10:44",
+	"files": [
+		{
+			"filename": "cistern.wad",
+			"size": 215905,
+			"crc": 596101172,
+			"md5": "7b5a6b43c77d104f05a0c0c7a0bd1b31",
+			"sha1": "6ca1757fc25b568848c9dd9e12fc71f7c0a2f205",
+			"sha256": "110d5fd9f0eb27c644d6897b8e9a6d164212537d2560735b7195c2aba804c958"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ACHERON2 (0c57f7).wad",
+	"name": "CROSSING ACHERON 2",
+	"description": "CROSSING ACHERON is the second level in the INFERNO series. Having passed through DANTE'S GATE and survived, you now find yourself in a keep on the shores of the river Acheron. This is the second leg of the journey in your search for Beatrice. Your guide, Virgil, is nowhere to be found. \"He's buggered off!\" you think to yourself; but you have no time now to even think: you are immediately challenged by several Demons, and in the distance you hear the eerie purring of the Arch-Vile. (Just be sure not to stare at him for too long before you start running.) As usual, you dispatch what fiends you may and begin the task at hand.",
+	"version": "0c57f7",
+	"date": "2013-11-02 15:40:19",
+	"files": [
+		{
+			"filename": "ACHERON2.wad",
+			"size": 307085,
+			"crc": 4180273219,
+			"md5": "09f614388583272e13f1dc50cd646caf",
+			"sha1": "0c57f76579bad3b36c352fa09634493e0505968c",
+			"sha256": "ae335b21cb7bc48a2cd783f48c7cf3a1f39b0f80723ef511b43c583311c3a15c"
+		}
+	]
+}

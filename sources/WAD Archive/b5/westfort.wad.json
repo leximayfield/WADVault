@@ -1,0 +1,16 @@
+{
+	"uid": "westfort.wad",
+	"name": "Western Fort",
+	"description": "Small fort in the Old West designed mainly for deathmatch and solo play. 3 entrances, 4 corner towers, and 1 main building. Will you attack the fort by sneaking in through a back door or will you brave an assault through the front gates, or...?",
+	"date": "2014-12-15 21:52:09",
+	"files": [
+		{
+			"filename": "westfort.wad",
+			"size": 84510,
+			"crc": 812891504,
+			"md5": "02e11bf4e1435740de7dec824a71d2e3",
+			"sha1": "b522f35a85d13acbeb43dca793ac8d2d9c746c13",
+			"sha256": "d85b1b47afb33bd7ad282c30f679b60b56899703dbb6d93115c9f8ba60c80752"
+		}
+	]
+}

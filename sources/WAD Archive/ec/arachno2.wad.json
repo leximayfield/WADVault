@@ -1,0 +1,16 @@
+{
+	"uid": "arachno2.wad",
+	"name": "Arachnophobia II",
+	"description": "This should have been the last level for the second episode of \"Italian DooM\"; it should have been the level set on the great UAC military compound and barracks. It's the biggest and most complex level I have ever made; in fact, I had to split it into 3 different maps, while working on it, because of WadAuthor limitations! Notwithstanding, the level itself is not very detailed, although show some nice ideas and, here and there, awesome architecture, good detail, painstaking lighting, etc. Here is a suddivision of the map, according to exploring order: 0) Main Courtyard (Center); 1) Officers' mess and dormitory (South-Western area); 2) Warehouse (South-Eastern area); 3) Nukage Area (Eastern area); 4) Laboratories (Western Area): - Computer Station; - Server System; + Weapon Labs: - Arachnotron Plasma Lab; - Plasma Lab; - Rocket Lab; - FireBomb Rocket Lab; - Insanity Plasma Lab; - Teleport Lab; - Genetic Labs; 5) Hangars (Northern Area); 6) the RunWay and main Hangar of the War SpaceShip. This level was designed to provide an intense challenge to every kind of player, so it's pretty difficult and I suggest that you play it with low skill levels and, once you get acquaianted with it, play it again on UV! Skill levels differ mainly in: - different kind of some monsters and, in few cases, different placement; - different health and armor supplies and, in few cases, different ammo supplies; - different power-ups available (some of them are removed or changed with health supplies in high skill levels)... ...and something more I am not going to spoil! Tricks and traps are few... I chose this policy, because somebody complained about them in my previous .WADs. There are some consoles and computers which are not real switches, but you need to activated to go forth: to help the player to find them, I signalled them with arrows of blinking light, visible on ceiling and floor... but at last I added switches to them, according to Toranaga's hints. Other consoles and screens, which let you see some areas through cameras, are slightly signalled, because they are not necessary to finish the level, though they can help the player by letting him/her see what is awaiting for him/her. The .WAD contains ZDoom features, like additional monsters in DECORATE, and ACS Scripts, which make the map more interesting and funnier! So... you need ZDoom to play it! You need e2res.WAD, the resource pack of \"Italian DooM - Episode 2: The Singulairty\", to play it correctly.",
+	"date": "2014-12-24 19:17:03",
+	"files": [
+		{
+			"filename": "arachno2.wad",
+			"size": 8171143,
+			"crc": 4181198642,
+			"md5": "7d9319d864efe0040f6f5c4a5b4cb932",
+			"sha1": "ecdd1fcf5ea324b749b016c054343c56a3b8720b",
+			"sha256": "dfb3260a358f2ce43f86ff190501a425b283f5d3f0f5cc0958f599ecae11456d"
+		}
+	]
+}

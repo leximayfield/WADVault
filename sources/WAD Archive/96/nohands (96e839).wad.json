@@ -1,0 +1,17 @@
+{
+	"uid": "nohands (96e839).wad",
+	"name": "No Hands!",
+	"description": "A simple graphic change that removes the marine's hands from the Doom 2 and SkullTag weapons. Designed for those who play non-human skins or those desiring a change of pace. I'll admit that it's a little strange at first when playing, but I got used to it pretty quickly.",
+	"version": "96e839",
+	"date": "2015-09-15 19:24:14",
+	"files": [
+		{
+			"filename": "nohands.wad",
+			"size": 225744,
+			"crc": 803551455,
+			"md5": "ffa3bf94e881e24f5f18f41d3f8de99c",
+			"sha1": "96e839597e57cf2d788912a3a85385820456a8ee",
+			"sha256": "b8fdf980e7b1268f50a1ace9078cef0b4784c9e406dfa05a31b42a63b57340cb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dweller1 (56e9ce).wad",
+	"name": "DWELLER1.WAD for Doom II",
+	"description": "Deathmatch only WAD collection.",
+	"version": "56e9ce",
+	"date": "2014-01-07 22:02:19",
+	"files": [
+		{
+			"filename": "dweller1.wad",
+			"size": 553690,
+			"crc": 1659770391,
+			"md5": "2172e45b314f1b35f459a28af7b2d589",
+			"sha1": "56e9cea04a4efda82436ad0a497cf2b016e51379",
+			"sha256": "696f702d73d99e3e7cc3e15a16f4c1f5ec40c9abfbb0f5dc9d3d455a9ad02fcf"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "undrfire.wad",
+	"name": "Under Fire for Doom 2",
+	"description": "This is basically a square room/hallway layout, with several large rooms, no Cyberdemon, but a Boss Shooter, but you don't have to face it if you don't want to.",
+	"date": "2015-01-14 22:46:34",
+	"files": [
+		{
+			"filename": "undrfire.wad",
+			"size": 55654,
+			"crc": 2286978218,
+			"md5": "3be74018f80c11f8b399c2d338d922b5",
+			"sha1": "6a0d7dd88380b7956998c93d658227425129a230",
+			"sha256": "c2a5f1b5a94a7bd295095886344f0fa5a7da80cee6228d08a5cd01ef823b61b1"
+		}
+	]
+}

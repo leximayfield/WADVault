@@ -1,0 +1,17 @@
+{
+	"uid": "spacelab (959dc7).wad",
+	"name": "SPACELAB.WAD",
+	"description": "This is a DEATHMATCH 2.0 pwad. Please play this wad with -altdeath only. You will lack the necessary ammo with origional deathmatch rules. All weapons are accessable and a COOPERATIVE exit is included. Monsters: CYBE! Just to keep you on the move. Plus, a couple of barons for you to wave at as you go by! For BEST results, Play ultra-violence with respawn switched ON!",
+	"version": "959dc7",
+	"date": "2018-11-29 22:58:12",
+	"files": [
+		{
+			"filename": "spacelab.wad",
+			"size": 194285,
+			"crc": 3163581952,
+			"md5": "0a4d3587e7fcdfa236c95fea09290630",
+			"sha1": "959dc799a4274dc8829bc525b6f8419bcbe4b998",
+			"sha256": "4df4c2d40c3d05468b347a7bb644d4c4083cb40a02ecad9fb43fa70160e00423"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hquest (c2e203).wad",
+	"name": "Hero's Quest",
+	"description": "In Hero's Quest, you are a hero who has no memory of his past. You wake up in the jail cell in some unknown castle. You have to fight your way out.",
+	"version": "c2e203",
+	"date": "2018-06-15 11:31:17",
+	"files": [
+		{
+			"filename": "hquest.wad",
+			"size": 124059,
+			"crc": 3925322651,
+			"md5": "48eae335688afe2c122893d5c0167d6c",
+			"sha1": "c2e203a63d23b2721d9ca14373df9e2422f8a9a7",
+			"sha256": "a00613d5a180d5b8234d3135965116805f8388eafca8cc524338609f390f433c"
+		}
+	]
+}

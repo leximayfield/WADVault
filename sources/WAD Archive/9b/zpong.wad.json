@@ -1,0 +1,16 @@
+{
+	"uid": "zpong.wad",
+	"name": "ZPong v1.0",
+	"description": "I wrote this little example to test the possibilities of creating interactive environments in ZDoom maps, similar to those seen in Doom 3. Obviously nothing that complex is currently possible, but it is possible to",
+	"date": "2014-12-29 16:56:58",
+	"files": [
+		{
+			"filename": "zpong.wad",
+			"size": 175307,
+			"crc": 851118172,
+			"md5": "8074374a537535ded8f19edf4eade4a8",
+			"sha1": "9b70271134942bfdfa053e032560d1a14c31e90c",
+			"sha256": "a553828bdf637f5fd41187773dce9638bb95b612a705c65dc0da56368a212273"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ragstrong.wad",
+	"name": "Ragnor's Stronghold",
+	"description": "Birthday wad for Rangnor from Doomworld, leave your brain at home, this is the Die Hard of doom wads. Inspired by Map09 from TNT. Plays on the TNT IWad.",
+	"date": "2018-05-29 20:58:23",
+	"files": [
+		{
+			"filename": "ragstrong.wad",
+			"size": 117999,
+			"crc": 760309676,
+			"md5": "b474c9178d456667f3d561b374ed64f1",
+			"sha1": "9953ced5f1bfaa32a356947a97eb0ffeddfc5f85",
+			"sha256": "1ad936a8d4dd4f10acec3ad15d403656525536fbb95ed4acc1474a2108c419d4"
+		}
+	]
+}

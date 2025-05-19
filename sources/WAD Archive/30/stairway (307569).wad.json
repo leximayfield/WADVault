@@ -1,0 +1,17 @@
+{
+	"uid": "stairway (307569).wad",
+	"name": "STAIRWAY.WAD",
+	"description": "THIS IS THE STAIRWAY TO HELL!!!",
+	"version": "307569",
+	"date": "2013-11-04 20:06:48",
+	"files": [
+		{
+			"filename": "stairway.wad",
+			"size": 68207,
+			"crc": 283241243,
+			"md5": "fdf4c63a4e93e468c45f8cb5255806f1",
+			"sha1": "3075694b3a175463f13a6785a6f57a9be244215b",
+			"sha256": "3f441f1c29207f36d2e8d701858f739f69ef92c9569712b47e693379768c96a1"
+		}
+	]
+}

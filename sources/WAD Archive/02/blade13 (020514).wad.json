@@ -1,0 +1,17 @@
+{
+	"uid": "blade13 (020514).wad",
+	"name": "BLADE13.WAD",
+	"description": "Well, you've done it again. After successfully escaping from Hell, you've stumbled into yet another hole filled with bad guys. At least this one has some light in it, after all that cavern crawling. Good luck. Always keep at least five rockets in reserve...",
+	"version": "020514",
+	"date": "2013-11-02 15:07:37",
+	"files": [
+		{
+			"filename": "blade13.wad",
+			"size": 173846,
+			"crc": 1869498008,
+			"md5": "9886d5dba996e472e7a98478066112a1",
+			"sha1": "020514f28f0d76035ca2b69d35a1d538f33806c0",
+			"sha256": "3cccc52f9565be6ba6f0900ab480b2a5455f87f0aacbb2ef69d49d32d00bfe6a"
+		}
+	]
+}

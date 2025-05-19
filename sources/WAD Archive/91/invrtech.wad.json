@@ -1,0 +1,16 @@
+{
+	"uid": "invrtech.wad",
+	"name": "Inverter Technologies",
+	"description": "A tech themed level made for the UDMF format.",
+	"date": "2018-04-14 22:51:40",
+	"files": [
+		{
+			"filename": "invrtech.wad",
+			"size": 435035,
+			"crc": 2359431387,
+			"md5": "fc9e399b7000d3fa2e48102daed31792",
+			"sha1": "91aa1429d06504259e8357b7f93a4afa3aff3460",
+			"sha256": "63cdbf026bf2bea0e3ef5f147983b5cfffbb21866c9a7dfc276d87ab599aec3a"
+		}
+	]
+}

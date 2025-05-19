@@ -1,0 +1,17 @@
+{
+	"uid": "dark7mpk (c5233a).wad",
+	"name": "Dark7: Mission Pack (The Special Edition)",
+	"description": "7 dark base maps for zdoom.This is the sequal to dark7.",
+	"version": "c5233a",
+	"date": "2013-04-19 11:19:10",
+	"files": [
+		{
+			"filename": "dark7mpk.wad",
+			"size": 14564350,
+			"crc": 2529636866,
+			"md5": "7028bbcdb7ec4cb594a6194e509bc711",
+			"sha1": "c5233afcb677f5bbec623d01ffcbdbe24aaa3d50",
+			"sha256": "4a221c715204d947afb5543a467b3355142bd5b702ae5757f9cd137f17e8fbb9"
+		}
+	]
+}

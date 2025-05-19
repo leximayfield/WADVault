@@ -1,0 +1,17 @@
+{
+	"uid": "M16 (f1430d).wad",
+	"name": "M60.zip",
+	"description": "M60 machine gun that replaces the chaingun",
+	"version": "f1430d",
+	"date": "2014-12-11 22:29:26",
+	"files": [
+		{
+			"filename": "M16.wad",
+			"size": 322020,
+			"crc": 1115962378,
+			"md5": "7079c8c6c365d760dfefe1a930c6c8e4",
+			"sha1": "f1430da6a578cc8a0626ab7aa5bf8d7462e48d27",
+			"sha256": "da9f3a1161f59cee4faeca2ee3b4e9a829a06bb489da179736ab21541fad66ad"
+		}
+	]
+}

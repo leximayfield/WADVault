@@ -1,0 +1,17 @@
+{
+	"uid": "HANGAR41 (27c158).wad",
+	"name": "Hangar41",
+	"description": "Opening scene on Phobos; your left standing guard at the hangar door. After what seemed like an eternity of listening to the screams of your buddies over the radio, and the sounds of combat in the distance, your radio goes silent.",
+	"version": "27c158",
+	"date": "2013-11-02 15:23:04",
+	"files": [
+		{
+			"filename": "HANGAR41.wad",
+			"size": 127370,
+			"crc": 2505567879,
+			"md5": "2e7bc3b021ae9286a7c6a1408dd80470",
+			"sha1": "27c158fe158693400f6d5f41110604a44b63ea9b",
+			"sha256": "915855fd51f6994f56c1e3d590c6bb49fc2d592da24673decd9530bd11b607e2"
+		}
+	]
+}

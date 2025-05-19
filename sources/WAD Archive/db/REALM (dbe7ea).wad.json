@@ -1,0 +1,17 @@
+{
+	"uid": "REALM (dbe7ea).wad",
+	"name": "Realm of Hell.",
+	"description": "A Quake episode 2 styled level for BOOM, that uses very good architechture and design. As well as great gameplay.",
+	"version": "dbe7ea",
+	"date": "2014-12-29 09:12:38",
+	"files": [
+		{
+			"filename": "REALM.wad",
+			"size": 279915,
+			"crc": 821249905,
+			"md5": "b706daaf8dfc161355ec133fb5ff76a0",
+			"sha1": "dbe7ea3ab6dbf0a1594c2aa92dfb554dee055d6c",
+			"sha256": "6c457a9dafab7e0c3655e25e068be5933462aec61255158badc150bccdcd7417"
+		}
+	]
+}

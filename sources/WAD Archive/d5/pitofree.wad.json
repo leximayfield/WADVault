@@ -1,0 +1,16 @@
+{
+	"uid": "pitofree.wad",
+	"name": "The Pit of Freedom",
+	"description": "This wad was first designed with the intent of a good one person level but ended up progressing to the stage of a DeathMatch level with a little added work. It should be both enjoyable as a single player game and a death- match. You start at the top of an open pit. Three doors control your destiny. The one that brought you to this pit and two which are locked with keys you do not possess. The only way to go is down. The wind howls over the pit as two golems race forward to challenge the enterer.",
+	"date": "2013-11-02 16:36:50",
+	"files": [
+		{
+			"filename": "pitofree.wad",
+			"size": 123920,
+			"crc": 1459261840,
+			"md5": "2f880eca12b0befc22628deb6b36cc79",
+			"sha1": "d560e85c3a470a6acf621b341838d8b612ecf1b3",
+			"sha256": "fb0e523b0a5985620845b23c34a4d7d8c26ad5503c78bc70fe1c196d9593417f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hellebarde.wad",
+	"name": "Hellebarde",
+	"description": "Hellebarde is a 32-Level Megawad with small/medium Maps created for gzdoom. It features classic Gameplay with intense Boss Fights in well detailed Levels.",
+	"date": "2018-02-10 16:59:05",
+	"files": [
+		{
+			"filename": "hellebarde.wad",
+			"size": 105114540,
+			"crc": 302345898,
+			"md5": "b8c8a96675ae7d729acbbd0eafa49d92",
+			"sha1": "efb6c216416331365dac8ebcfae39fab20d54d54",
+			"sha256": "ee1e1087a38ddfdc2945e165edf0cddca56cb9db15dd9d165f54ad0bbb8b99d1"
+		}
+	]
+}

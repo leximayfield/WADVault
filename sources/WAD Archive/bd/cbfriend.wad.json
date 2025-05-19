@@ -1,0 +1,16 @@
+{
+	"uid": "cbfriend.wad",
+	"name": "Nuestro amigo Ciberio / Cybie, Our Friend",
+	"description": "Abstract techbase map with a space sky and a cyberdemon. Designed for the original Doom, and respecting the origi- nal limits -Visplane Overflows, etc-; I know, there is no point in this today, but it was a fun challenge trying to build a pretty scenery while avoiding those limits. I've spent a lot of time refining the gameplay. I Hope it pays and you find the map enjoyable and interesting. Features: * Non-linear. * Two different ways to kill the cyberdemon. * Singleplayer, cooperative and deathmatch. * A 1024x128 space sky with stars and planets. * An exit, and no illusio-pit (sorry!).",
+	"date": "2014-12-15 22:49:39",
+	"files": [
+		{
+			"filename": "cbfriend.wad",
+			"size": 671678,
+			"crc": 1307224813,
+			"md5": "f5e5a78d156b0b577e1a3cca0a9e3f7a",
+			"sha1": "bd06d95122e6d695a60ff29c67a6976bd34b20bd",
+			"sha256": "73cc6432ec35d851fb46d2beb0de1165c25001bf1583dc7844010c378446a7e2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "jth2 (07a84d).wad",
+	"name": "DOOMJS.WAD",
+	"description": "First two levels of a new episode.",
+	"version": "07a84d",
+	"date": "2013-11-02 15:24:57",
+	"files": [
+		{
+			"filename": "jth2.wad",
+			"size": 102949,
+			"crc": 2422346566,
+			"md5": "bd0a408d50af390067de6560cf2e8f38",
+			"sha1": "07a84dd2f0872420d4aebbdded42b7e2aa20db35",
+			"sha256": "27a351411057a2c67b29a8336caf3e698ab5eabceead5cdedfd66b2cb90c7d21"
+		}
+	]
+}

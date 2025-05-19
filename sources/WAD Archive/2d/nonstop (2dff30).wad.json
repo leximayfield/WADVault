@@ -1,0 +1,17 @@
+{
+	"uid": "nonstop (2dff30).wad",
+	"name": "Nonstop action WAD for DOOM II Deathmatch",
+	"description": "Doom II Wad for Deatmatch. The simple things in life are often the best... Minimum clutter - maximum action. No dead ends, no megaspheres, no pity. Stop moving and you're dead. If you haven't been fragged for 30 seconds in a 4 player deathmatch, then you haven't pressed the spacebar! If you get lost in the corridors, don't worry because someone will find you! Don't panic and you may achieve the ultimate DOOM satisfaction - fragging 3 others simultaneously with one shot.",
+	"version": "2dff30",
+	"date": "2014-12-15 22:08:26",
+	"files": [
+		{
+			"filename": "nonstop.wad",
+			"size": 16007,
+			"crc": 3407969857,
+			"md5": "a8ae66e4ed2004f4d07ec94c1496f96f",
+			"sha1": "2dff305c92bf89d28744f512122b7f788602a0fb",
+			"sha256": "75b47f2968df7ea8e171d24fa2407252a1ef0e5d351e990399af81982b8fe90c"
+		}
+	]
+}

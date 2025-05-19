@@ -1,0 +1,17 @@
+{
+	"uid": "aod (23e494).wad",
+	"name": "AOD (Adapt or Die)",
+	"description": "You can complete this level without God Mode, just save it during the game. ***********************GAME DESCRIPTION*********************** I'm not really sure what the theme is; It's a fun level and I think most Doomers should enjoy playing it. Just enjoy the effects and scenery.",
+	"version": "23e494",
+	"date": "2014-12-15 21:49:49",
+	"files": [
+		{
+			"filename": "aod.wad",
+			"size": 440227,
+			"crc": 1286409120,
+			"md5": "eadb7a5dd09d08f791e56b4ad44c986a",
+			"sha1": "23e49496aeaa5eea40c56426725e530bf35fec79",
+			"sha256": "a86c63c1ec0bc69b40bd0427bbdbf12e76e27d17cc1c5c1d67a0992f8b6b63f7"
+		}
+	]
+}

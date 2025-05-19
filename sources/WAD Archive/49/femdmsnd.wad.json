@@ -1,0 +1,16 @@
+{
+	"uid": "femdmsnd.wad",
+	"name": "FEMDMSND.WAD",
+	"description": "Replacement sound patch for female player to accompany FEMDOOM.WAD graphic patch",
+	"date": "2013-11-02 16:53:44",
+	"files": [
+		{
+			"filename": "femdmsnd.wad",
+			"size": 90813,
+			"crc": 1859550111,
+			"md5": "4d0b2a7a568cbeb72edf371b2f354de7",
+			"sha1": "496dcf72447e554bbaf55d3c08339ad8fdbee787",
+			"sha256": "1f745b1e945181ef5fcb2d24c3148ce28b593800e23ae7493d48a3f33714b960"
+		}
+	]
+}

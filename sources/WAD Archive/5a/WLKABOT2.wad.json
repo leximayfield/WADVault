@@ -1,0 +1,16 @@
+{
+	"uid": "WLKABOT2.wad",
+	"name": "Walkabout (Version 2.0)",
+	"description": "Designed for Doom II. Fight in crowded rooms as a team or single player. You might call this hack'n'slash. I have used all monsters except Spiderboss. Tips: Use the small arena (revealed later in game) to fight the cyberdemon. Some switches opens two doors. Some teleports gives different landings from time to time.",
+	"date": "2014-01-07 22:13:32",
+	"files": [
+		{
+			"filename": "WLKABOT2.wad",
+			"size": 171820,
+			"crc": 969577708,
+			"md5": "dde6f050acebcc3b50a0980ee958ef41",
+			"sha1": "5a1625320418b965c5d306c97e779b5840d1c622",
+			"sha256": "b1c26a5ad9c16605ac7d1580a4674f305153f35b274498270d0f05280551ab4e"
+		}
+	]
+}

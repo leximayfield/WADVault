@@ -1,0 +1,16 @@
+{
+	"uid": "outpost2.wad",
+	"name": "Outpost of Hell 2 - The Fortress",
+	"description": "This level is set in a fortress, composed by two parts: the first is its newest building, with offices, a little hospital, a cemetery; the second part is the real fortress, with a huge courtyard, battlements, towers, a big library, a first aid, some warehouses, a dormitory, a refectory, a \"church\" and a \"technology base\" or \"teleport base\". I tried to make a multi-theme level, with a main texture (GSTONE1) and other various textures (such as wood, metal, tech textures, etc.). I used again the SP_HOT texture in the crypts, in order to make a sort of link with the first episode of this series. Someone couldn't like it, but I think it is a characterizing texture! Note my improvements compared with my first level of \"Outpost of Hell\" series: it is more detailed, more good looking and architecturely very fine. This .WAD was designed as a single map, but I had to divide the level into two different maps, because of WadAuthor limitations and errors. It will take you more than one hour to play it to the end. You need ZDoom to play this level correctly!",
+	"date": "2015-01-13 21:31:38",
+	"files": [
+		{
+			"filename": "outpost2.wad",
+			"size": 2938326,
+			"crc": 717742830,
+			"md5": "7de7ef24aa68d08e34e3851f2942ca44",
+			"sha1": "307e4ccf8e5a048b4109825b3d724e8d76f3086d",
+			"sha256": "9d3670d9abc93c8577141f288239ff18271c6798699afd9f5db1424fedfc28bc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "deatheb (555b45).wad",
+	"name": "DEATHEB for DOOM ][",
+	"description": "This is a fast deathmatch episode for Doom ][ for 2, 3 or 4 players. Great !",
+	"version": "555b45",
+	"date": "2013-11-02 15:52:51",
+	"files": [
+		{
+			"filename": "deatheb.wad",
+			"size": 92365,
+			"crc": 1195197070,
+			"md5": "ac198df6d5fe5949ec1821581a83d08e",
+			"sha1": "555b45170cfd3836f6d5b3de2d8401e64a9fb4b4",
+			"sha256": "9f0787c981285b939b18ff166d411c7efa540564a3dae8aaa6fb5a7a9e4a97a0"
+		}
+	]
+}

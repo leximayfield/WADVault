@@ -1,0 +1,16 @@
+{
+	"uid": "DUpart1.wad",
+	"name": "DARK UNIVERSE-part 1",
+	"description": "6 map pack for GZdoom/Doom2. Small to Medium sized maps. Maps can be completed rather quickly (just find the switch that opens the exit and then find the exit), with lots of secrets, switches, scripted events, and hidden areas full of the stuff you might need to survive the next map. HMP and UV difficulties available. MOUSE LOOK REQUIRED. NO JUMPING/ CROUCHING. Intended for vanilla monsters and weapons but works well with most mods.",
+	"date": "2018-04-11 15:05:25",
+	"files": [
+		{
+			"filename": "DUpart1.wad",
+			"size": 57939889,
+			"crc": 1852537706,
+			"md5": "a2823e74e259f33c7db79dccc896dc88",
+			"sha1": "38283ec8adb94dc1330a9e6a198f7333258d1dbc",
+			"sha256": "7856b3e05256965cb09afbe5b8ba65e23b52aab55c094dc3da12037fcb409803"
+		}
+	]
+}

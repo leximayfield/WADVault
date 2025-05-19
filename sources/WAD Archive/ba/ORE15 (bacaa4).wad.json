@@ -1,0 +1,17 @@
+{
+	"uid": "ORE15 (bacaa4).wad",
+	"name": "Gonstonia",
+	"description": "Made for single and cooperative mode It includes a secret level entrence (HINT: look in the first room for a switch)",
+	"version": "bacaa4",
+	"date": "2014-11-01 14:50:51",
+	"files": [
+		{
+			"filename": "ORE15.wad",
+			"size": 99443,
+			"crc": 2011508038,
+			"md5": "3055184dde1201bc664da758458ffc57",
+			"sha1": "bacaa4da20908a8a684efc3bdf2a9173b38e7e7c",
+			"sha256": "d2d429648bbe0e5da31553da9af3899ddbb8fbf549617f51f0af3c393c888a44"
+		}
+	]
+}

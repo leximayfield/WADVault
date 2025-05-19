@@ -1,0 +1,16 @@
+{
+	"uid": "tohodoom.wad",
+	"name": "Touhou: Hell on Gensokyo",
+	"description": "The FIRST ever Touhou themed Doom wad to hit the archives! The UAC are experimenting with Interdimensional Portal technology, and this time they have made it into the realm of Gensokyo.",
+	"date": "2014-12-29 15:51:56",
+	"files": [
+		{
+			"filename": "tohodoom.wad",
+			"size": 27175002,
+			"crc": 2465002669,
+			"md5": "7828a235d7bcd31dd27d3caf83a5f1b3",
+			"sha1": "7ffc7657974f9c2038a1aac015e0dd09685e794e",
+			"sha256": "bde98a98880603f3af6f44c38533d798e48299ce86a7f99beae70d8431374477"
+		}
+	]
+}

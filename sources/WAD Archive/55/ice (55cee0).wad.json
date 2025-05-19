@@ -1,0 +1,17 @@
+{
+	"uid": "ice (55cee0).wad",
+	"name": "ICE",
+	"description": "Small HEXEN level. Done mainly just to see what I could do with Hexen.",
+	"version": "55cee0",
+	"date": "2015-12-09 23:40:47",
+	"files": [
+		{
+			"filename": "ice.wad",
+			"size": 70447,
+			"crc": 2973210799,
+			"md5": "6a3cc74dd042d813d2c4dd3f67b8b795",
+			"sha1": "55cee0b8709eb35e21fc449aace1cf199dc8eddc",
+			"sha256": "72b8e810da262fe2936849bea52e7c936fde629b7f3780bff75d3fefa178eb6e"
+		}
+	]
+}

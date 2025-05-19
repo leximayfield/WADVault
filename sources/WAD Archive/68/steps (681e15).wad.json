@@ -1,0 +1,17 @@
+{
+	"uid": "steps (681e15).wad",
+	"name": "Stairway To Hell",
+	"description": "My 1st good Doom2 level",
+	"version": "681e15",
+	"date": "2015-01-14 14:29:15",
+	"files": [
+		{
+			"filename": "steps.wad",
+			"size": 63788,
+			"crc": 1289885056,
+			"md5": "4b6e8c3b24d8c2931c2111c14c9d6a8b",
+			"sha1": "681e15b161c0c5feb63de3aba9de378d92611d9a",
+			"sha256": "830ca473e1aa181d6782db22dded6e6ad2e2774996fd58047bc6f2910f0ec0aa"
+		}
+	]
+}

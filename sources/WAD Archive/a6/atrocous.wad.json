@@ -1,0 +1,16 @@
+{
+	"uid": "atrocous.wad",
+	"name": "Atrocious",
+	"description": "this is my first wad, it's horrible. it's short, has lots of misaligned textures, the usual. play only if you're willing to die of the sheer cringe.",
+	"date": "2016-01-28 23:18:50",
+	"files": [
+		{
+			"filename": "atrocous.wad",
+			"size": 28491,
+			"crc": 858379977,
+			"md5": "46580b2328dc03b39de50fb4ae51831a",
+			"sha1": "a6044ec60663cea5522ae96c29f8bd3093e99b94",
+			"sha256": "d6e7c08fb60d8e09d5d4d21d15d896107236d73208c4e2cf1e492cc4484f6906"
+		}
+	]
+}

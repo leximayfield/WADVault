@@ -1,0 +1,16 @@
+{
+	"uid": "volition.wad",
+	"name": "Senators of Volition",
+	"description": "due to popular demand, i decided to do a design n' gameplay overhaul of my Mayhem2048 submission, which was MAP10, Sligenous. the map is now called Senators of Volition and has a red/tan color scheme throughout and gameplay is made to be more atmospheric. the map has been completely retextured from the original, but it's layout is the same. no keys, just press five switches to lower the exit, and yes Ribbiks, i decided to use one of your tunes in this, plz don't kill me.",
+	"date": "2014-12-29 16:41:21",
+	"files": [
+		{
+			"filename": "volition.wad",
+			"size": 781620,
+			"crc": 1672238138,
+			"md5": "c44aec93963deabc8eb4bfce46b29402",
+			"sha1": "16ac481d1628dbd660e50d0e6425465963bd7354",
+			"sha256": "6ff174ddccc94c38156ace621cb3858f17cbdf55d26402b8adc539f809bc0660"
+		}
+	]
+}

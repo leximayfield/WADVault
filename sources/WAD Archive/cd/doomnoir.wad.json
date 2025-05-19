@@ -1,0 +1,16 @@
+{
+	"uid": "doomnoir.wad",
+	"name": "Doom Noir",
+	"description": "This is just a PLAYPAL/COLORMAP replacement that changes DOOM into a *mostly* black and white game. The red range is left as-is. I originally put this together back in the late nineties and it languished on my hard drive afterwards. Sometime recently, I think it was the film \"Sin City\" that reminded me of this.",
+	"date": "2013-04-19 04:47:42",
+	"files": [
+		{
+			"filename": "doomnoir.wad",
+			"size": 21920,
+			"crc": 2717150300,
+			"md5": "adb2563e9bfcd5131cffc66267584037",
+			"sha1": "cd979858461894b79ce167773c3d916fea834478",
+			"sha256": "cba9d2fc68b390caa4c83b44be901a95a45d2bb638d74d18d2278ba881308f21"
+		}
+	]
+}

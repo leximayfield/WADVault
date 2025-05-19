@@ -1,0 +1,17 @@
+{
+	"uid": "dark7 (101ff4).wad",
+	"name": "Dark7",
+	"description": "7 dark, nightmare1 texture bases.This is a fixed version of the old dark7.Fix includes: Better texture alignment,fixed map01 glitch were you can't jump out of the water near the cargo loading area, removed the double mod07 lumps, and various other fixes.",
+	"version": "101ff4",
+	"date": "2018-05-29 01:05:11",
+	"files": [
+		{
+			"filename": "dark7.wad",
+			"size": 10382818,
+			"crc": 938399157,
+			"md5": "8a49c341359c3814f24886c753828d4f",
+			"sha1": "101ff4eb2b5cc02a9990726190d724bb17446322",
+			"sha256": "3dd201030b85478bdb2207fad53654c7fa8604c9f4537fb1faab1e9e65f7db35"
+		}
+	]
+}

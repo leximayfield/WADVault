@@ -1,0 +1,16 @@
+{
+	"uid": "corp3-b1.wad",
+	"name": "Corp3-B1.WAD for Doom II",
+	"description": "Designed for 2 or 3 player Deathmatch. Suitable for original DM and Alt-death.",
+	"date": "2014-12-15 22:28:40",
+	"files": [
+		{
+			"filename": "corp3-b1.wad",
+			"size": 525416,
+			"crc": 3611541203,
+			"md5": "fdd0329c54ad983ccdfdb18faaa64afb",
+			"sha1": "a15a7e601a15a19b27c62432ae56a71ee40e54be",
+			"sha256": "aecf2ebe25877adc1bdac6f5a2f27b2dd7478f6d8c34243c5924598806431d19"
+		}
+	]
+}

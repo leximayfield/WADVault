@@ -1,0 +1,17 @@
+{
+	"uid": "facility (ef5b23).wad",
+	"name": "The Facility.",
+	"description": "Requires Doom2",
+	"version": "ef5b23",
+	"date": "2019-10-07 23:42:26",
+	"files": [
+		{
+			"filename": "facility.wad",
+			"size": 1110286,
+			"crc": 3241737046,
+			"md5": "fa131b62cd18f531be7f2f8455b3f2ba",
+			"sha1": "ef5b23d8e22163d5a12417c6b8beff052e84d4bf",
+			"sha256": "b4e1659771f6b62aef01a98a44c89a309f7ebda324d053883e62727dfd2222b7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ancient.wad",
+	"name": "Ancient",
+	"description": "This is one of seven levels that I created a really longtime ago and never got around to adding more to. (5-6 years ago) I was originally intending to create a full 32 level megawad but run out of ideas after a while.",
+	"date": "2014-12-15 22:18:10",
+	"files": [
+		{
+			"filename": "ancient.wad",
+			"size": 45025,
+			"crc": 2727929896,
+			"md5": "c4c1fca8c10ba0e5209993906e2b9094",
+			"sha1": "5048cff2b0131591afde65900b35fcd6520c1af9",
+			"sha256": "8a1bcbdc21ace23a5536f8c7b798853607c8c91cbd11291ac3a248128df62f55"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "costa02.wad",
+	"name": "Costa02",
+	"description": "Doom II Deathmatch wad with two main buildings and an outside courtyard. I think I placed the weapons well enough for there to be some balance. Monsters are only present on skill 4. Best with altdeath, can use respawn because there aren't a lot of monsters.",
+	"date": "2013-11-04 19:20:04",
+	"files": [
+		{
+			"filename": "costa02.wad",
+			"size": 58572,
+			"crc": 859170706,
+			"md5": "d5b850508fe6c58a42ddccea60154cc1",
+			"sha1": "207afadc5d7cc04cef907c9220c4b188d2d6446b",
+			"sha256": "166e65270914f9475c7a7165000baa3001f0c2a56d0ef0bed7e999099392b8e1"
+		}
+	]
+}

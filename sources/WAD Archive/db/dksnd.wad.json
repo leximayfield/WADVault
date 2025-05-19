@@ -1,0 +1,16 @@
+{
+	"uid": "dksnd.wad",
+	"name": "Dungeon Keeper Sound Pack",
+	"description": "This wad has sounds from the RTS game Dungeon Keeper created : by Bullfrog. Includes replacement sounds for monsters, weapons, : pickups, and additional sounds compatible with ZDoom, GZDoom, : and Skulltag thanks to Marcus Koller. These additional sounds are : bullet ricochets, footsteps, and water splashes.",
+	"date": "2015-09-15 18:11:55",
+	"files": [
+		{
+			"filename": "dksnd.wad",
+			"size": 3318477,
+			"crc": 2781220148,
+			"md5": "c40559db280da72c2a0275aabf1d142e",
+			"sha1": "db8f5c0b80a711304b54e17323bcaa1c028064c3",
+			"sha256": "6619c1e14475fa95a1ff416e0625a814e1c6cb3e4208a5bca3156ee6d09e4c33"
+		}
+	]
+}

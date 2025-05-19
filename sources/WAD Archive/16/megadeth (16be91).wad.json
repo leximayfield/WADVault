@@ -1,0 +1,17 @@
+{
+	"uid": "megadeth (16be91).wad",
+	"name": "MEGADETH Version 2.4a",
+	"description": "The ultimate DeathMatch level.",
+	"version": "16be91",
+	"date": "2014-01-07 21:44:00",
+	"files": [
+		{
+			"filename": "megadeth.wad",
+			"size": 240083,
+			"crc": 2489999737,
+			"md5": "f4c5085831ab3c44fa0b8ed893d38f4e",
+			"sha1": "16be91ac979f344489a4636589fcc348751a07d7",
+			"sha256": "382a8a21af2b1ecb91fb053f21968220dc4e7364c18176c095ec8c71758a6e01"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "UACRFNRY.wad",
+	"name": "The UAC Water Refinery",
+	"description": "**THIS IS SUPPOSED TO RUN ON DOOM2.EXE** This time, I wanted to try something different. A non-ZDoom/Skulltag wad that works with doom2.exe This is what resulted. A decently detailed 1-level wad. Story: A water refinery has been invaded by the demons, who have taken over the refinery. The demons are currently filling the water up with hellslime in order to turn city population into former-human slaves. But in their way is you, a lone marine sent to take out the demons and secure the abundance of water to the cities of earth.",
+	"date": "2015-01-14 22:54:16",
+	"files": [
+		{
+			"filename": "UACRFNRY.wad",
+			"size": 120739,
+			"crc": 3249236139,
+			"md5": "8eda9fb6d04e54f3459f4b06ab82f2b4",
+			"sha1": "17683a8886cbc76aba64d0e0edec5583dcb97bf9",
+			"sha256": "edbdbda228f14e9ee68d7dab9a5a6043d6f6682bc7e7cf10a831de040242d76a"
+		}
+	]
+}

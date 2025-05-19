@@ -1,0 +1,17 @@
+{
+	"uid": "hex (f0baf5).wad",
+	"name": "hex.WAD",
+	"description": "THE STORY SO FAR : You are currently stationed at UAC's proving grounds, where experimental weapons, chemical, and vehicles are tested before being sold to the military. You don't like this post, but who said you have to.",
+	"version": "f0baf5",
+	"date": "2014-12-18 23:17:14",
+	"files": [
+		{
+			"filename": "hex.wad",
+			"size": 167416,
+			"crc": 1804202258,
+			"md5": "508cd553a9a49162081ec2a246926b0e",
+			"sha1": "f0baf5a105b818d0f55dc33ece23bbe1c50a9f18",
+			"sha256": "d9d9cd11277c848ba73d2813299270f64269a0a58abe91633d6722ebfaaa99d9"
+		}
+	]
+}

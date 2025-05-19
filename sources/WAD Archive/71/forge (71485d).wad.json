@@ -1,0 +1,17 @@
+{
+	"uid": "forge (71485d).wad",
+	"name": "FORGE.WAD",
+	"description": "",
+	"version": "71485d",
+	"date": "2013-11-02 15:40:04",
+	"files": [
+		{
+			"filename": "forge.wad",
+			"size": 631878,
+			"crc": 3761445906,
+			"md5": "12ebe7316753aee23089da3531a89d35",
+			"sha1": "71485d31613c6fa42e762ca842c74b1c2110660e",
+			"sha256": "b856b75b1be40dd5d89eb704579cd53c7349d651f1a9b68b7632b3748880051e"
+		}
+	]
+}

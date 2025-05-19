@@ -1,0 +1,16 @@
+{
+	"uid": "hellraiser.wad",
+	"name": "HELLRAISER!",
+	"description": "A simple deathmatch level for any port. Small, but fun.",
+	"date": "2014-12-15 23:03:37",
+	"files": [
+		{
+			"filename": "hellraiser.wad",
+			"size": 252673,
+			"crc": 1091247794,
+			"md5": "3f75644b99c8f619162be1d4e63b12fe",
+			"sha1": "74789aa62c6afb848cc8e50c96ee0005b980333d",
+			"sha256": "c8d95b1afc7e281e732344b78f5fc17df04811f1251b757b9cf08dabaf973d3f"
+		}
+	]
+}

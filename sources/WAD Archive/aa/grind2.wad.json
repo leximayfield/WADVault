@@ -1,0 +1,16 @@
+{
+	"uid": "grind2.wad",
+	"name": "Grind II (v1.3.0)",
+	"description": "The first in an almost-vanilla set of levels. No port effects are used, but a good port is required to run the wad. Be on the lookout for the simple fake slopes, the fake 3D floors, and the fake mirror. The demos show a walkthrough of the level on easy mode. Demos find 0% secrets, so no surprises are given away.",
+	"date": "2014-12-22 19:05:13",
+	"files": [
+		{
+			"filename": "grind2.wad",
+			"size": 271058,
+			"crc": 2878056708,
+			"md5": "d33713364bd271873ea876d26e88c48f",
+			"sha1": "aa6ed47b8f1804c42a7442d3781bae3789726236",
+			"sha256": "e40c8d198b914ee85bacbc573383de4eab21b71cbdce4997a9c6b2f9014cba17"
+		}
+	]
+}

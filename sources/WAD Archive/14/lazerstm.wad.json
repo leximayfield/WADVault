@@ -1,0 +1,16 @@
+{
+	"uid": "lazerstm.wad",
+	"name": "LAZERSTORM",
+	"description": "Modeled from the Lazerstorm game in Ft.Lauderdale, Florida. Great in Deathmatch! No exit so nowhere to run One secret with lots of goodies.",
+	"date": "2013-11-04 20:11:54",
+	"files": [
+		{
+			"filename": "lazerstm.wad",
+			"size": 28865,
+			"crc": 452677999,
+			"md5": "64c7a805b7bf0ed53188841c5f5aed17",
+			"sha1": "14258eaf9aa9441e523b4cf7143c093b3982ccfc",
+			"sha256": "a4481c21e9bc28c4c74841ae6139e5c913215cd3016e1145c17be02c87448f6e"
+		}
+	]
+}

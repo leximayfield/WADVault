@@ -1,0 +1,16 @@
+{
+	"uid": "zuma01.wad",
+	"name": "ZUMA01",
+	"description": "Some rooms are larger, giving you more space to move around. It's a 2-player exit, so you can't escape trouble by quickly pressing the exit button. Greetings to all wimps!",
+	"date": "2014-12-15 23:10:50",
+	"files": [
+		{
+			"filename": "zuma01.wad",
+			"size": 53435,
+			"crc": 3588878835,
+			"md5": "253dc1196661cf2b99a7dd7a25d1de80",
+			"sha1": "e66b56933ca37590064aaad39a9a26f4f9a34ac9",
+			"sha256": "1e5db60a6acf9c12efcffdf3bd815360eeae11b9464fb8094ecdda23145259a8"
+		}
+	]
+}

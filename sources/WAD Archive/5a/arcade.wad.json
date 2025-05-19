@@ -1,0 +1,16 @@
+{
+	"uid": "arcade.wad",
+	"name": "ARCADE ( A TributE To ArcadE GameS )",
+	"description": "30 levels of pure carnage. No mazes. Play it!",
+	"date": "2013-09-02 19:51:53",
+	"files": [
+		{
+			"filename": "arcade.wad",
+			"size": 2128975,
+			"crc": 2418809772,
+			"md5": "30d3f56412d9f6166842e1fef9ee667d",
+			"sha1": "5a5197bcfc3d0b56aec1bc9faa055aefed978fba",
+			"sha256": "8fe65f5ce5f9f0b35bb4dd784213d34734d87e425acf542c8c525cabb8fd95ab"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "x (d4a249).wad",
+	"name": "XFIRE.WAD",
+	"description": "A weird mix of half-baked ideas. (YOU try to come up with something original to compete with all those other new .WADs).",
+	"version": "d4a249",
+	"date": "2013-11-02 15:20:34",
+	"files": [
+		{
+			"filename": "x.wad",
+			"size": 61232,
+			"crc": 832006499,
+			"md5": "7e1c9b67ed0329af8eca3b4c4b076135",
+			"sha1": "d4a249dbe8664f40e6e42968cf3a1967840e381d",
+			"sha256": "79f9262955ac816ec849a97d2aee3e14ebe3b75969af015ba6902a5fdee7ada6"
+		}
+	]
+}

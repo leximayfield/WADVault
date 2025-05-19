@@ -1,0 +1,17 @@
+{
+	"uid": "dm2are (e6454d).wad",
+	"name": "Arena ][, the first DeathMatch WAD for DOOM ][",
+	"description": "After kicking some demonic butt and saving Earth from a fate worse than hell, it's time for some R&R. NOT !!! It's time to kick some Marine ass and see how good you *really* are.",
+	"version": "e6454d",
+	"date": "2013-11-02 15:45:15",
+	"files": [
+		{
+			"filename": "dm2are.wad",
+			"size": 41376,
+			"crc": 4129271469,
+			"md5": "4f48e8c5388679707ee127c2b3979cb4",
+			"sha1": "e6454dcdbb3ba6a483203b4e877260309c5f9cf0",
+			"sha256": "5d1d3b3523a4b017d15b8a04709002fcc90fd3ff844120e8b689c0e4ef8e3c13"
+		}
+	]
+}

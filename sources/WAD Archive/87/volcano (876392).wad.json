@@ -1,0 +1,17 @@
+{
+	"uid": "volcano (876392).wad",
+	"name": "Volcano Island (DeathMatch)",
+	"description": "Simple Death Match with small water passages that lead up to a big clearing with erupting volcanos. This is my first one so give me some feedback. You can play cooperative, but its really only for Death- match. I added the Player 1, 2, etc. so it wouldn't bug up.",
+	"version": "876392",
+	"date": "2013-11-03 17:46:35",
+	"files": [
+		{
+			"filename": "volcano.wad",
+			"size": 19023,
+			"crc": 1681354940,
+			"md5": "92232b6fc1f132f9cf962f0bf4db75d9",
+			"sha1": "8763925319aa63960d83aa8699d489f901dc3a9c",
+			"sha256": "9c3873ac96e12fa9de2c7c70b4e8cd760299a88167167553f16e8ff809cb82f3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tenfer.wad",
+	"name": "The Tenfer mines.",
+	"description": "You are secret agent sent to the Tenfer mines by UAC to see if people a dealing in illegal material.",
+	"date": "2015-02-21 09:03:39",
+	"files": [
+		{
+			"filename": "tenfer.wad",
+			"size": 142485,
+			"crc": 2488518485,
+			"md5": "59cc2fe387faf290b070608ac751f6f0",
+			"sha1": "2053b2584ec39f8cfdb8533495da1f6323edbdb0",
+			"sha256": "bd10c325d68f8193e258636e529f1ad78d71f3961872e795dd15dd63d6f78d4f"
+		}
+	]
+}

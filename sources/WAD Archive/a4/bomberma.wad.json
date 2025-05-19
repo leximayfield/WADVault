@@ -1,0 +1,16 @@
+{
+	"uid": "bomberma.wad",
+	"name": "Bomberman Skin",
+	"description": "bomberman from super bomberman",
+	"date": "2015-09-14 21:53:58",
+	"files": [
+		{
+			"filename": "bomberma.wad",
+			"size": 208704,
+			"crc": 4161739012,
+			"md5": "5be9f1048971f47df0db3e59ef5eecf7",
+			"sha1": "a4ec7cb3529172bdf0efe1c9ac579e55de7c6d09",
+			"sha256": "4b8e04e90f04b1ad988fa1bb0ef79a0e57b894bf67edc0e54a50322cef1c6a77"
+		}
+	]
+}

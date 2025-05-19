@@ -1,0 +1,17 @@
+{
+	"uid": "jumper02 (68f83e).wad",
+	"name": "Jumper02 for DOOM ][ Deathmatch 2.0",
+	"description": "A large central area with huge stairs and : big passage ways leading away and back. : A well marked exit prevents accidents. : Some jumping involved but not a bone breaker like : jumper01.wad. See comment section for additional : information.",
+	"version": "68f83e",
+	"date": "2014-12-03 20:05:50",
+	"files": [
+		{
+			"filename": "jumper02.wad",
+			"size": 100621,
+			"crc": 3457624617,
+			"md5": "ca8acb07c8a83a9566fdda8a9d07a4b9",
+			"sha1": "68f83ef6c5a309b552e35f995c9c47f7f6be4790",
+			"sha256": "fc6fda3d4b2adb02bab7bdd28dae8e6fe8aab15c05d46485367db336085dd572"
+		}
+	]
+}

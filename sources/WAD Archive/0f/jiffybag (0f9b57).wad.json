@@ -1,0 +1,17 @@
+{
+	"uid": "jiffybag (0f9b57).wad",
+	"name": "Jiffy Bag",
+	"description": "Jiffy Bag is a collection of 32 random maps made by me over the last 5 years or so. The maps all vary quite dramatically in theme, and are similar only in terms of size and design - given the short time I had to make these in, my general approach to mapping is pretty obvious in how each map plays and is structured, but this should hopefully contribute to a well-rounded, consistent end product.",
+	"version": "0f9b57",
+	"date": "2019-03-19 23:57:28",
+	"files": [
+		{
+			"filename": "jiffybag.wad",
+			"size": 10391298,
+			"crc": 3474493673,
+			"md5": "239c969e21059e18fb2704cf728b9575",
+			"sha1": "0f9b571d1ffd769b67ae34f26715cb5193891c83",
+			"sha256": "f973c07231073c82465d30e61efa9463492aa4d60226336acf68a6a538417504"
+		}
+	]
+}

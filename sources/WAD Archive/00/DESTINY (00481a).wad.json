@@ -1,0 +1,17 @@
+{
+	"uid": "DESTINY (00481a).wad",
+	"name": "Destiny",
+	"description": "Large(ish) FFA Deathmatch Map with a Gothic Style. 16 DM Starts.",
+	"version": "00481a",
+	"date": "2014-12-15 21:53:40",
+	"files": [
+		{
+			"filename": "DESTINY.wad",
+			"size": 767634,
+			"crc": 2440088129,
+			"md5": "1d9c578d475c411909285e962ef9474f",
+			"sha1": "00481a25370872b68c6c13267988d3dc8a2831e2",
+			"sha256": "b718f10c63107b31f77e5c1e821ea3471519923c6c5dbe52dec2c345a659ac5d"
+		}
+	]
+}

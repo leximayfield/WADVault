@@ -1,0 +1,17 @@
+{
+	"uid": "MIKE2 (ae134d).wad",
+	"name": "MIKE2.WAD",
+	"description": "This level is designed for DEATHMATCH play. It's a modified E1m1 with some new perks. Look for the chainsaw on the elevator, and some new exits/entrances to the rocket area. As well the slime pits don't cause you damage any longer, and dark areas have been added for added suspense.",
+	"version": "ae134d",
+	"date": "2013-11-02 15:09:13",
+	"files": [
+		{
+			"filename": "MIKE2.wad",
+			"size": 55952,
+			"crc": 2803207751,
+			"md5": "dbbb7e48d33a31970dfef0909d1a03ad",
+			"sha1": "ae134d3a0457800f72eff3b2d3e82711e4f494cc",
+			"sha256": "09b5835f7d2a5f540c95fe94571815a2c45c90cb6eca6d26379349b0f8336b4d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tnt-ren.wad",
+	"name": "TNT: Renascence (episode 1)",
+	"description": "TNT: Renascence (episode 1) is a remake of the first episode (11 levels) of TeamTNT's original TNT: Evolution.",
+	"date": "2013-05-21 19:21:19",
+	"files": [
+		{
+			"filename": "tnt-ren.wad",
+			"size": 2991470,
+			"crc": 664780146,
+			"md5": "7aa34cf6b4ba7577d72068073d5c8cf9",
+			"sha1": "5c7a12f453aeef9254aac7bfd81caa1947d8866d",
+			"sha256": "47a001939f6360fbcf86d8fc4a88969c98bcd89979bdfbc57201e5b57c95b991"
+		}
+	]
+}

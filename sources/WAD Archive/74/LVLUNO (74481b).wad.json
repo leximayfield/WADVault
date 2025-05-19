@@ -1,0 +1,17 @@
+{
+	"uid": "LVLUNO (74481b).wad",
+	"name": "Level Uno",
+	"description": "A level for Doom 2. The 1st pwad I've made for Doom2. e-mail me and tell me what you think.",
+	"version": "74481b",
+	"date": "2014-01-07 21:55:13",
+	"files": [
+		{
+			"filename": "LVLUNO.wad",
+			"size": 92273,
+			"crc": 1379704302,
+			"md5": "1214bd8908889d654acb507f32c4a22a",
+			"sha1": "74481b72f8c8db9a3be26138b7942e4b2e75d0c3",
+			"sha256": "4b73dae05a1ec0db73fc06541b23c30a15407fdcc0cd6d7de83e0155a9e0ea4f"
+		}
+	]
+}

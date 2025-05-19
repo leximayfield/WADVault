@@ -1,0 +1,17 @@
+{
+	"uid": "DARK (4371e4).wad",
+	"name": "Fights in the Darkness",
+	"description": "A dark deatmatch level with a few weapons and some trap places.",
+	"version": "4371e4",
+	"date": "2014-12-15 22:51:03",
+	"files": [
+		{
+			"filename": "DARK.wad",
+			"size": 40515,
+			"crc": 3701571581,
+			"md5": "5b2c5b00bed321eceda1b613ef20b9eb",
+			"sha1": "4371e41c7b3ce3616e10783486cb32450973869e",
+			"sha256": "07f4eea3063ffbe0b53a62eaa7be21461ae7f130afe341d691406516b84ca2b5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "spector.wad",
+	"name": "Spector",
+	"description": ".......uh, some evil DOOM trooper i guess",
+	"date": "2013-04-22 00:05:05",
+	"files": [
+		{
+			"filename": "spector.wad",
+			"size": 177372,
+			"crc": 44209872,
+			"md5": "8d75c30597f34b97cf20e12a09b746d5",
+			"sha1": "7dbb906b5549bacf43313e6f61d1769c597143a3",
+			"sha256": "fc7d537fa7fa74df5b2a3a44504a637a243a85d428767ed7459879a29c715063"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "LAKESIDE.wad",
+	"name": "Lakeside",
+	"description": "A map I threw together in the spring of 2012 over the course of a night. I've fixed some bugs, added a few monsters, and did some balancing work since initial release.",
+	"date": "2014-12-27 12:14:17",
+	"files": [
+		{
+			"filename": "LAKESIDE.wad",
+			"size": 164419,
+			"crc": 2348035311,
+			"md5": "ba431b8e91c9bd0521ef651bb6ba6e43",
+			"sha1": "8afa523d37d90c571a76c3b70c26442833c3a347",
+			"sha256": "0caf7b4b02834ea3175ad4f7394d1e49be67043bcd76f1a606fc7038eb9969c0"
+		}
+	]
+}

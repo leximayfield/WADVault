@@ -1,0 +1,17 @@
+{
+	"uid": "bright (9f0f31).wad",
+	"name": "BRIGHT",
+	"description": "Now you can see in all those dark places in Doom II and The Ultimate Doom. Other WADs that do this merely map all brightness levels to \"full light\". Use this instead of Gamma correction.",
+	"version": "9f0f31",
+	"date": "2018-04-14 20:29:05",
+	"files": [
+		{
+			"filename": "bright.wad",
+			"size": 8732,
+			"crc": 3421555462,
+			"md5": "af9797ea1af861c7776f376c34d4a367",
+			"sha1": "9f0f3194bb5d259100bf1f57c61e6851feb6f57e",
+			"sha256": "fcc15e917026ee4b124fade4231d86216661ca726f4b84ee9d6e2c8130c06978"
+		}
+	]
+}

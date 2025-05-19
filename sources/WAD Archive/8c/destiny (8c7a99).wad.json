@@ -1,0 +1,17 @@
+{
+	"uid": "destiny (8c7a99).wad",
+	"name": "Destiny of Destruction",
+	"description": "This is the first of three missions to hell and back. The levels aren't huge, but they can be a lot of fun.",
+	"version": "8c7a99",
+	"date": "2016-02-06 14:06:33",
+	"files": [
+		{
+			"filename": "destiny.wad",
+			"size": 243535,
+			"crc": 3955030780,
+			"md5": "8f4e4f2f420c364ef196704e3865d045",
+			"sha1": "8c7a9985894087cd0be95991050cf403e49067e8",
+			"sha256": "bcd91d017a4dce425417182263ac2e7cbfd82379ddb7f668004d28a328927397"
+		}
+	]
+}

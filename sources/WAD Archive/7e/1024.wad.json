@@ -1,0 +1,16 @@
+{
+	"uid": "1024.wad",
+	"name": "Congestion 1024",
+	"description": "32 maps no bigger than 1024 X 1024. Some maps have areas outside the 1024 X 1024 block but they are not part of the playing area. The idea was to focus on quick and fun gameplay.",
+	"date": "2013-04-19 00:19:58",
+	"files": [
+		{
+			"filename": "1024.wad",
+			"size": 11469954,
+			"crc": 3999504984,
+			"md5": "61293aa5cce1c8b679467cc280fa7b74",
+			"sha1": "7e65c8b5189e4d1ebac52019ae608ffef48b7342",
+			"sha256": "6d3cd2475642fa483830722c5657b39d58962594d96e4cce3e6aa60a6fc22a35"
+		}
+	]
+}

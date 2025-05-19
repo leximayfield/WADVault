@@ -1,0 +1,17 @@
+{
+	"uid": "time2die (86807b).wad",
+	"name": "TIME TO DIE",
+	"description": "Deathmatch, so get out there and KILL",
+	"version": "86807b",
+	"date": "2014-12-03 20:26:25",
+	"files": [
+		{
+			"filename": "time2die.wad",
+			"size": 15684,
+			"crc": 215241264,
+			"md5": "891a91986ef29198319505c01e8c733a",
+			"sha1": "86807b99e8978e309994fcd14e2095ba9defccbf",
+			"sha256": "e0792085ccc9897d35aed9e9da7880879b1950ec2101977ed0a500e48698baae"
+		}
+	]
+}

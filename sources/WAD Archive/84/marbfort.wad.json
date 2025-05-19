@@ -1,0 +1,16 @@
+{
+	"uid": "marbfort.wad",
+	"name": "marbfort",
+	"description": "A 5-level WAD for Doom II. After strolling through hellish catcombs, you emerge in a greenish pasture. A large fortress lies in front of you. Taking a few steps, you realize you're not alone, and bars descend from the ceiling blocking your way back. The only way out is through. Good luck! --- NOTE: The wad is designed for single player, although it supports cooperative and deathmatch. Recommended difficulty: Ultra-Violence!",
+	"date": "2015-09-15 17:55:00",
+	"files": [
+		{
+			"filename": "marbfort.wad",
+			"size": 504657,
+			"crc": 1561917370,
+			"md5": "cbe978d2d859782d260dbbf82c13dc99",
+			"sha1": "84babbecc7dc003d1a964fee85da41dc09316a99",
+			"sha256": "8314107960faa35aef0146c03f03d6f5bc2c6f49f6a256d509b11f1bf2f13408"
+		}
+	]
+}

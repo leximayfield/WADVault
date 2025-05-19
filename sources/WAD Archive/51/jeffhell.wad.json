@@ -1,0 +1,16 @@
+{
+	"uid": "jeffhell.wad",
+	"name": "Jeff's Hell",
+	"description": "This is my first attempt at creating a PWAD, so keep the flames to a minimum. Try not to get your ass blown off!!!",
+	"date": "2014-12-14 20:35:30",
+	"files": [
+		{
+			"filename": "jeffhell.wad",
+			"size": 46011,
+			"crc": 2048736013,
+			"md5": "9dcce15d57cb2e4b31f5d8af59422d2c",
+			"sha1": "5138399366323d0700d1dcd7589e06f72cdfeb7a",
+			"sha256": "7c7ec0bd117248bca820321a3f1e5ff01b0aef36e374696e0db51764aafab327"
+		}
+	]
+}

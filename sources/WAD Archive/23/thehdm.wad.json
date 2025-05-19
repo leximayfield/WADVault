@@ -1,0 +1,16 @@
+{
+	"uid": "thehdm.wad",
+	"name": "THE Heretic Deathmatch WAD",
+	"description": "NO plot in this one guys, Heck does anyone know the plot in Heretic anyway? Not quite as famous as the ol' UAC story. Oh well, it's still quite a good game.So here is THE Deathmatch WAD (my first for Heretic). Quite a nice layout. 105 sectors in there... and my first WAD with monsters. You might want -NOMONSTERS. As for ammo and energy, well, not too much. I don't like Deathmatching when you can stock up on ammo and become incincible. Makes for a much closer (and FUN) DM if you are pretty equal. Secrets: there is one. but you can find that <g>.",
+	"date": "2013-11-06 22:32:59",
+	"files": [
+		{
+			"filename": "thehdm.wad",
+			"size": 115329,
+			"crc": 1864185860,
+			"md5": "0f50739ad3ac5b2dfbd118a0e70b8b23",
+			"sha1": "23ea98240c7d407f46ed24e812a76eae23d5d74e",
+			"sha256": "7b4fa9004c6c0ddaffd77fa1b01cc386104f61e5d55d53591ebd7e09915b8b31"
+		}
+	]
+}

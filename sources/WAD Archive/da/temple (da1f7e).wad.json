@@ -1,0 +1,17 @@
+{
+	"uid": "temple (da1f7e).wad",
+	"name": "Death Temple",
+	"description": "The Death Temple is the worshipping grounds of the beasts of Hell. It is also the home of the Cyber Demon (Which you have to beat to go on). There are two (2) versions of this wad file. Both are completely different from eachother in that Temple.WAD is intended for Single and Multiplayer play ONLY. The Dethtemp.WAD is intended for Death match play ONLY. The differences are there are no monsters in DethTemp and another secret area. Temple has monsters but is not intended for Death match because there is no exit. Dethtemp has an exit. You may change them if you like.",
+	"version": "da1f7e",
+	"date": "2013-11-03 17:45:43",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 99760,
+			"crc": 1116846170,
+			"md5": "29691b187dd00c5ea9256330a4ebf564",
+			"sha1": "da1f7e519759926b62eb4730ad4539f87f94e1dc",
+			"sha256": "27c10fdf7cb1ef9015897654ab28f4c3fab354f3307588ce4ed8f0309869fb31"
+		}
+	]
+}

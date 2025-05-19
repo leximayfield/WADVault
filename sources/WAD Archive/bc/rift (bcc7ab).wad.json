@@ -1,0 +1,17 @@
+{
+	"uid": "rift (bcc7ab).wad",
+	"name": "Gaming Outpost's Complimentary Deathmatch Level",
+	"description": "If you like this level in a two player deathmatch, imagine it with four people. This level is strictly for die hard deathmatch fanatics. Sorry, no monsters and no exits.(use the -timer parameter)",
+	"version": "bcc7ab",
+	"date": "2013-11-04 19:20:11",
+	"files": [
+		{
+			"filename": "rift.wad",
+			"size": 199433,
+			"crc": 649530859,
+			"md5": "8b408f6c84f8e7b21bd4b986bc2e5783",
+			"sha1": "bcc7ab4e325e9e22a675835d805d09cada18f3f0",
+			"sha256": "e66ecdc9a08e7634f33a5aba4bf991c5f89dfcc936746cbf682653d7c2a16a25"
+		}
+	]
+}

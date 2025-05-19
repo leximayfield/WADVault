@@ -1,0 +1,16 @@
+{
+	"uid": "omega01.wad",
+	"name": "Omega 01",
+	"description": "This was originally a map for prowers project. But that project did die. Because no interest with it :(",
+	"date": "2015-01-13 21:44:37",
+	"files": [
+		{
+			"filename": "omega01.wad",
+			"size": 127986,
+			"crc": 3788094990,
+			"md5": "613ccda8a92316d92549f2b47d0309ef",
+			"sha1": "5f61df28dd1052dff7bddbd05d468cd1cfaa7e4a",
+			"sha256": "c8916d696582b5bedd35a28dcb6e369fa108a2daac153b4cd1880e605e0eed9f"
+		}
+	]
+}

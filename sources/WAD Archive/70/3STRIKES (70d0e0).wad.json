@@ -1,0 +1,17 @@
+{
+	"uid": "3STRIKES (70d0e0).wad",
+	"name": "3 Strikes and your OUT.  Wad file for DOOM2",
+	"description": "Well, this is another Wad file for Doom2. It has no theme, just KICK BUTT! This file is another attempt at making a good level for DOOM2: Hell on earth. It is full of monsters, (somehow I keep on using the same ones), alot of power ups, (I still keep using the same ones), and I hope lots of weapons and ammo, (I got through it fine, but, I know were everything is). (Just 1 hint; When you get to the exit room, 1 of the exit signs opens the exit door).",
+	"version": "70d0e0",
+	"date": "2014-11-01 14:58:50",
+	"files": [
+		{
+			"filename": "3STRIKES.wad",
+			"size": 153460,
+			"crc": 1738214777,
+			"md5": "7e1396545750f996457fde2b98ffd45c",
+			"sha1": "70d0e0430e1bf92c926f08ca06319ecd222b56d1",
+			"sha256": "bb9eef6d294e83000aab5dd78f3a5256b398bc94329062c124c551a2b5505e08"
+		}
+	]
+}

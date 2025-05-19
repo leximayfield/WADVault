@@ -1,0 +1,17 @@
+{
+	"uid": "hill (6dc53f).wad",
+	"name": "Lunchtime at Hill Engineers",
+	"description": "This map is the floor plan for Hill Engineers in Dalton, MA. Sounds boring, huh? Well, come to find out, this site of vicious deathmatches is in itself an excellent deathmatch arena. There are many routes and quick corners to run to. This plan seems to have been made with ambush in mind (no, DOOM didn't exist when we designed our office). Finding room for secret areas was tough, but our Architects came thru, as usual.",
+	"version": "6dc53f",
+	"date": "2013-11-02 15:54:52",
+	"files": [
+		{
+			"filename": "hill.wad",
+			"size": 360713,
+			"crc": 4284369705,
+			"md5": "372c8807506dfc1a71b05b12a2dd291a",
+			"sha1": "6dc53f7732b2b9adcf7418008dc78236b1e24349",
+			"sha256": "0ba021070595b8da100d00cc253d10088fcd1228bf9e967c6d8d3e395a2da4a2"
+		}
+	]
+}

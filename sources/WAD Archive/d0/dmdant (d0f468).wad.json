@@ -1,0 +1,17 @@
+{
+	"uid": "dmdant (d0f468).wad",
+	"name": "DANTE'S GATE",
+	"description": "This is my first level, folks, so be gentle with me. For the most part, the only \"theme\" I had in mind was to make the level as aesthetically pleasing and consistent as possible. In other words, I wanted it to look neat. There are lots of little nooks and crannies scattered about, and (I hope) a few sur- prises. I really hadn't intended the level to be so big (128K) when I first started; but, you know, one thing led to another and I just didn't know when to stop.",
+	"version": "d0f468",
+	"date": "2013-11-02 15:22:58",
+	"files": [
+		{
+			"filename": "dmdant.wad",
+			"size": 127966,
+			"crc": 3737884806,
+			"md5": "68c996109e9ec92edaa854866def612a",
+			"sha1": "d0f468bc6bf2005cd8c11eacde3ba47a54461398",
+			"sha256": "6a7f6a7efe629473f6b0c6339f7e554b62eaa052f2e9cff6af9161043d3ae7e3"
+		}
+	]
+}

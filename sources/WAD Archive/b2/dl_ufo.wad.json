@@ -1,0 +1,16 @@
+{
+	"uid": "dl_ufo.wad",
+	"name": "UFO",
+	"description": "This is a tiny level with huge amount of details, designed to look like an interior of alien spacecraft.",
+	"date": "2014-12-13 12:43:07",
+	"files": [
+		{
+			"filename": "dl_ufo.wad",
+			"size": 142968,
+			"crc": 3029186914,
+			"md5": "c39c840d4737df247e0b7eafe0e85a75",
+			"sha1": "b28c23f1b853163b192c5f055a3685554d6951fe",
+			"sha256": "b8af4f91da557a6ffcea530dc437f738e5b8489c63461a2a9c8c934895923b39"
+		}
+	]
+}

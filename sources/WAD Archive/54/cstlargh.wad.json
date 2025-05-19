@@ -1,0 +1,16 @@
+{
+	"uid": "cstlargh.wad",
+	"name": "Castle Argh!",
+	"description": "This is a deathmatch area. There's a castle with 4 corner towers. There's a moat around the castle. Inside on the bottom floor there is a maze at the center of which is the map's only megasphere. But, you have to press the button in one of the 4 corner towers to lower it. So... good luck with that.",
+	"date": "2018-04-15 18:37:03",
+	"files": [
+		{
+			"filename": "cstlargh.wad",
+			"size": 279594,
+			"crc": 3758282312,
+			"md5": "b9fc9fdcd7bc4a7257b8b2112a1e0995",
+			"sha1": "54bc1049863664578d04fbc3e77de2b94cd360ad",
+			"sha256": "59563b6141c47d2fa6221d60b81e7a2666a9747a227c293670d323bae0650ce8"
+		}
+	]
+}

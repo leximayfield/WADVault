@@ -1,0 +1,17 @@
+{
+	"uid": "SHOTGLRY (d4cc49).wad",
+	"name": "SHOTGLRY.WAD",
+	"description": "Shooting Gallery. This WAD has two rooms: One with everything you could want, and the second with a whole bunch of monsters.",
+	"version": "d4cc49",
+	"date": "2013-11-02 15:40:13",
+	"files": [
+		{
+			"filename": "SHOTGLRY.wad",
+			"size": 9695,
+			"crc": 4241440157,
+			"md5": "b6b89d5105394e4b16f21d7ab775f9da",
+			"sha1": "d4cc49e5236fa4db854257b8ff3e23c49d7a08bd",
+			"sha256": "30eaaa9daa9bc4c51cda366eeffe41370c9605fee16b03b3a4b2f724016a9dd3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "flameon (edea2f).wad",
+	"name": "F L A M E O N !",
+	"description": "Deathmatch but mainly single player",
+	"version": "edea2f",
+	"date": "2016-02-07 20:37:05",
+	"files": [
+		{
+			"filename": "flameon.wad",
+			"size": 95191,
+			"crc": 2273858084,
+			"md5": "c52a1d92f955c952e11e601d718065b8",
+			"sha1": "edea2f4fcce6da9c94033143d4bb7d3af201b830",
+			"sha256": "732f5379a2a55bd76ba216109688ebe08d72a3d4ef9273fefe1808e5b96cafc9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DEATH (156f19).wad",
+	"name": "Kingdom of Death",
+	"description": "This WAD should be used with ANNEX.WAD by Ryan McGrail. We designed them together.",
+	"version": "156f19",
+	"date": "2013-11-04 20:15:22",
+	"files": [
+		{
+			"filename": "DEATH.wad",
+			"size": 225292,
+			"crc": 2703139925,
+			"md5": "b8e0922a1d3567114ad8ce244dca1240",
+			"sha1": "156f19ce7660a182441e428d9085ce103f6bfd8c",
+			"sha256": "fbdcd690ce1eedbd7856af4446eba727b781893c982c4ccd8a39aab76f201601"
+		}
+	]
+}

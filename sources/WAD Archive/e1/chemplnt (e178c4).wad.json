@@ -1,0 +1,17 @@
+{
+	"uid": "chemplnt (e178c4).wad",
+	"name": "DEIMOS CHEMICAL PLANT",
+	"description": "A small level intended for fun, slightly challenging single-play, and",
+	"version": "e178c4",
+	"date": "2013-11-06 22:29:41",
+	"files": [
+		{
+			"filename": "chemplnt.wad",
+			"size": 72361,
+			"crc": 1152075067,
+			"md5": "c1f6b1555fe73e899d756f6e0f0cb9b8",
+			"sha1": "e178c4ed418c167d8e5dd171b6b50ea48c677b22",
+			"sha256": "b97cdafef95c91210b0fc088b0cc9b5cb7167a858f4d5b62e6d1ccf565f9d56f"
+		}
+	]
+}

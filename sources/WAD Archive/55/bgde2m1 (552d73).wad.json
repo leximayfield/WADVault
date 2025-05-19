@@ -1,0 +1,17 @@
+{
+	"uid": "bgde2m1 (552d73).wad",
+	"name": "BGDE2M1 (Castle Fear)",
+	"description": "Deathmatch ONLY level. No monsters. Lots of Windows. You and your buddies were mopping up a nasty little infestation site when you suddenly found yourself the only live Marine still in action. Your former comrades are out to eat your liver...",
+	"version": "552d73",
+	"date": "2015-12-07 12:34:18",
+	"files": [
+		{
+			"filename": "bgde2m1.wad",
+			"size": 96882,
+			"crc": 3075234500,
+			"md5": "75f46fe512048e24e9b495ed48ee9912",
+			"sha1": "552d73e5191b7a553ec03bff0e7ae2e204048e30",
+			"sha256": "1d49cca4951ed3eb3bc013f2c359a13f1b1d74353b7ae531ca1b882f6df9392a"
+		}
+	]
+}

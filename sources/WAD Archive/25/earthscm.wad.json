@@ -1,0 +1,16 @@
+{
+	"uid": "earthscm.wad",
+	"name": "EARTH SCUM A Doom II PWAD Adventure",
+	"description": "A new DOOM II PWAD adventure by Guy Stockie. Good quality game. Works best with a 486-66 or better. Nevertheless, be prepaird to die, Earth Scum....",
+	"date": "2013-11-02 16:02:24",
+	"files": [
+		{
+			"filename": "earthscm.wad",
+			"size": 161175,
+			"crc": 3884588996,
+			"md5": "bb106a1b12ef8a98eaca88791a34bf27",
+			"sha1": "25c49266d1e0db772b781318d2898c6ab6d2f43a",
+			"sha256": "79ba8b3e15861cb985226060e9f4f8a1ce0fd3370895c557d33199324bfd0d15"
+		}
+	]
+}

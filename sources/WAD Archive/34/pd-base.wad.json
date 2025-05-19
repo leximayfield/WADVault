@@ -1,0 +1,16 @@
+{
+	"uid": "pd-base.wad",
+	"name": "The Abandoned Base",
+	"description": "I'm releasing the whole pd-gates series. This was an 8 level series but 3 of them are really bad, so they are not being released. In this version, the wad file had been cleaned, the size is smaller. The design of the map has not been fixed. There are lost of textures that need aligment.",
+	"date": "2014-12-13 17:37:58",
+	"files": [
+		{
+			"filename": "pd-base.wad",
+			"size": 278065,
+			"crc": 2342860924,
+			"md5": "70923273c07806f1c282aca71077a344",
+			"sha1": "34471b47d0c95cfb022478264e48599d20d18749",
+			"sha256": "6d094eb003ba9538f31cde446739cc5699bcc12dbd774b243d600deadacb23a0"
+		}
+	]
+}

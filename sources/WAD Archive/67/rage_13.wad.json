@@ -1,0 +1,16 @@
+{
+	"uid": "rage_13.wad",
+	"name": "Rage_13.WAD",
+	"description": "This is the third level in a nine level episode currently under construction. Once all levels are complete all will be available in one wad file RageHell.wad including a complete story line. The final episode will actually replace e2m1-m9.",
+	"date": "2014-12-14 20:54:43",
+	"files": [
+		{
+			"filename": "rage_13.wad",
+			"size": 177270,
+			"crc": 2616867518,
+			"md5": "3dbd0f0b6d543b677243d007c646a094",
+			"sha1": "672f2ac8972c3d6364061449f080294cff79d198",
+			"sha256": "429d108f7c899456bea1e14b71bc843c329fd7bce7921f6c53d92ac4adb57d53"
+		}
+	]
+}

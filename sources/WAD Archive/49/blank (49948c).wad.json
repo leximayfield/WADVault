@@ -1,0 +1,17 @@
+{
+	"uid": "blank (49948c).wad",
+	"name": "Blank",
+	"description": "A short wad with no real reason for being built.",
+	"version": "49948c",
+	"date": "2014-12-15 21:26:37",
+	"files": [
+		{
+			"filename": "blank.wad",
+			"size": 11562621,
+			"crc": 1615388643,
+			"md5": "de9134a441eea06915d8378b33a2313e",
+			"sha1": "49948c51e37d6efbf9168e850168befce9694cb1",
+			"sha256": "70d21707d01b9daff106ac4a575e8a885da1201e6677b4602e439a539978f5bc"
+		}
+	]
+}

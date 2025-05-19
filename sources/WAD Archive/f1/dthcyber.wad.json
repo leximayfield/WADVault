@@ -1,0 +1,16 @@
+{
+	"uid": "dthcyber.wad",
+	"name": "\"Death by Cyberdemon\"",
+	"description": "1 level death match wad. There is one monster, a Cyberdemon, perched up in the middle of the level guarding the BFG. The level is structured in such a way that he can get you from almost anywhere, so he sort of acts like an equalizer for inexperienced players!",
+	"date": "2014-12-15 23:13:58",
+	"files": [
+		{
+			"filename": "dthcyber.wad",
+			"size": 93604,
+			"crc": 337329462,
+			"md5": "e6b01234378fe89dfc0746b50d6c7ceb",
+			"sha1": "f17271f92086e7bb9a3afe4fc09f58985a7f57c2",
+			"sha256": "6235512807aa0f4d2b85409ec1cb4880b3c834e87425b656af3d649d79039d51"
+		}
+	]
+}

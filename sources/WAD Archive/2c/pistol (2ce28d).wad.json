@@ -1,0 +1,17 @@
+{
+	"uid": "pistol (2ce28d).wad",
+	"name": "Pistol.wad, a wad for Doom2.",
+	"description": "This wad replaces episode 1, is quite large, and features a lot of twisty passages, big rooms and violence. The layout is reasonably interesting; most things interconnect, one way or another. There aren't any misaligned textures - I hate seeing that - or pits that you can't get out of. There are a few secret areas, but none that you need to find to be able to complete the level. You do have to flip nearly all the switches, though. The \"gimmick,\" I suppose, is that you'll have to go nearly the entire wad with nothing better than your trusty pistol (and guts of steel, natch). There's nothing here you can't kill - but you won't be able to kill everything, or finish every room, the first time you encounter it. If you hate wads in which you need to pay attention and dodge a lot, DON'T download this!",
+	"version": "2ce28d",
+	"date": "2013-11-04 20:18:21",
+	"files": [
+		{
+			"filename": "pistol.wad",
+			"size": 235529,
+			"crc": 469554324,
+			"md5": "1c2a606d3d22ae6c2ab28ba1878c63c2",
+			"sha1": "2ce28d09f50a3119fed050129cf521663b829432",
+			"sha256": "2587ecec694230f80b3ca894e4ce9a827eb2867fe875c379547d417d61049c7f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ZEUS (5998e9).wad",
+	"name": "ZEUS.WAD",
+	"description": "The ZEUS Level is a showpiece for what can be achieved with a colour scanner and a little (ha!) patience. Not a technically stunning level design-wise, but a good taster of things-to-come when other people pick up the idea of new textures seriously. Music score not composed by anyone, Graphics and original idea by yours truly, and WAV sound effects by Nic Dyde at the Post Cafe, rue de Bern, Geneva.",
+	"version": "5998e9",
+	"date": "2013-11-02 15:45:02",
+	"files": [
+		{
+			"filename": "ZEUS.wad",
+			"size": 584591,
+			"crc": 1045613639,
+			"md5": "44225285d6d7303872c0edd029bb0702",
+			"sha1": "5998e9fa2e838b1bfc90fb40b0221fbf386dea7d",
+			"sha256": "6bdfbe98400bd4d78d72a7e28cbc6f9e31359ee5d57ad7e1d1954d6ba44b4fa9"
+		}
+	]
+}

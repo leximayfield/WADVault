@@ -1,0 +1,17 @@
+{
+	"uid": "shootyer (cb9cdd).wad",
+	"name": "SHOOTYER.WAD",
+	"description": "If you like doom, you'll get to shoot yer wad playing this all new pwad!",
+	"version": "cb9cdd",
+	"date": "2013-11-06 22:30:02",
+	"files": [
+		{
+			"filename": "shootyer.wad",
+			"size": 204984,
+			"crc": 425482536,
+			"md5": "0f6e46db04f8bc2bfda2a156c9e79834",
+			"sha1": "cb9cdd8ed8e6dc93c8098009ecfa920c8be3b7c5",
+			"sha256": "2700ddcc0e0c24fad0578da506f7d6ed2b023c7f09a54b9a07164f2b9e6284cf"
+		}
+	]
+}

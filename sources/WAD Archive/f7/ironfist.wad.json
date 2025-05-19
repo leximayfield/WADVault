@@ -1,0 +1,16 @@
+{
+	"uid": "ironfist.wad",
+	"name": "ironfist.WAD",
+	"description": "Tournament style Deathmatch level. Use it for competitions!!!",
+	"date": "2014-12-15 23:05:09",
+	"files": [
+		{
+			"filename": "ironfist.wad",
+			"size": 504948,
+			"crc": 3751801015,
+			"md5": "67faaef1b037a3b8a5096526ffc14e68",
+			"sha1": "f7eb712baa69dafbd0e749d58bc935e2e767ae6b",
+			"sha256": "6c3be477ce2580ad81a40ac4756ec6563d7461daea2f4697d7e8778b368b39eb"
+		}
+	]
+}

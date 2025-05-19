@@ -1,0 +1,16 @@
+{
+	"uid": "micasa.wad",
+	"name": "Micasa",
+	"description": "Welcome to my house! It is in Elkhorn, WI. It took about 15 hours to build.",
+	"date": "2014-12-15 22:34:54",
+	"files": [
+		{
+			"filename": "micasa.wad",
+			"size": 63681,
+			"crc": 1497186455,
+			"md5": "a5c64dbd2f7ca345a9456b3632721a8d",
+			"sha1": "fc653b5b8f8eb141a9ec16e11830d777bd0443cf",
+			"sha256": "24287ae7011d2adf8f396915928819264d5158698bc1d6e8cf88626a9604b9f8"
+		}
+	]
+}

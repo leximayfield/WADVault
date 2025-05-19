@@ -1,0 +1,16 @@
+{
+	"uid": "ep01.wad",
+	"name": "The PSX Doom Tribute.",
+	"description": "A collection of maps for the PSX Doom resource wad..",
+	"date": "2014-12-24 17:12:35",
+	"files": [
+		{
+			"filename": "ep01.wad",
+			"size": 2104588,
+			"crc": 266206825,
+			"md5": "93a424a5053ef145f2347ea8c9c1d028",
+			"sha1": "f48be2ede5395e5843713ac3d1ff4d377621d4e1",
+			"sha256": "7d69723f067e7da56dd9f15852da910e6e7df9d8677e872169d582d7c335ab0c"
+		}
+	]
+}

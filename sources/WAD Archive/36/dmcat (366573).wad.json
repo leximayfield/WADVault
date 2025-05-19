@@ -1,0 +1,17 @@
+{
+	"uid": "dmcat (366573).wad",
+	"name": "CATACOMBS",
+	"description": "It is an evil level.",
+	"version": "366573",
+	"date": "2013-11-02 15:08:24",
+	"files": [
+		{
+			"filename": "dmcat.wad",
+			"size": 150735,
+			"crc": 2411758677,
+			"md5": "68d0ba0bbab94c0a270c008a481f6e2f",
+			"sha1": "366573f46a99c3c36fa59373ba8b79c2937c9271",
+			"sha256": "282d582b8111fe86003c869caabe257d867ca118398881cde0bd9bad2be28427"
+		}
+	]
+}

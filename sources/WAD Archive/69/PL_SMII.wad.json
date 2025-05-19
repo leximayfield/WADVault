@@ -1,0 +1,16 @@
+{
+	"uid": "PL_SMII.wad",
+	"name": "Kamikaze Suicidal",
+	"description": "A Plutonia map that replaces MAP22; this began as somewhat of a sequel to my Plutonia Revisited contribution known as Suicide Mission. I sorta felt my map was maybe too similar to the original Impossible Mission, so I thought to give it another go and make a toxic base level. Should be compatible with any source port.",
+	"date": "2016-11-12 16:57:36",
+	"files": [
+		{
+			"filename": "PL_SMII.wad",
+			"size": 765938,
+			"crc": 2367906913,
+			"md5": "982d0657c95b747b2072699f77694c55",
+			"sha1": "69ee393cd81a15dd190a4255b34f32eb21a6f848",
+			"sha256": "aaedb81968e18d48082850452527f91d055f0ba9d8465c55b2a600a339e324e5"
+		}
+	]
+}

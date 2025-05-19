@@ -1,0 +1,16 @@
+{
+	"uid": "pod.wad",
+	"name": "POD.WAD  (Pit-O-Doom)",
+	"description": "My 1st Doom wad. consisted of the 1st 4 rooms of this level. Adding another 50k to the level and converting it to DOOM II format produced this level. Supports single player, co-op, and... Death Match for the hard core FANatics!",
+	"date": "2015-01-14 14:26:09",
+	"files": [
+		{
+			"filename": "pod.wad",
+			"size": 70537,
+			"crc": 2802476561,
+			"md5": "927faf04ec051c2bb36dc448177fa135",
+			"sha1": "e24cd6b7a586bc18bc0925513ea9566bd1b12732",
+			"sha256": "ac55b8413702e7b5503f1838feee2244285a9fc775d32ab591b11000b9c383ec"
+		}
+	]
+}

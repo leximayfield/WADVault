@@ -1,0 +1,17 @@
+{
+	"uid": "CRCHAOS (c80693).wad",
+	"name": "Crawling Chaos",
+	"description": "Your mission is to assault the remnants of a UAC warehouse/",
+	"version": "c80693",
+	"date": "2013-11-06 22:30:33",
+	"files": [
+		{
+			"filename": "CRCHAOS.wad",
+			"size": 241923,
+			"crc": 2414809613,
+			"md5": "8f5cea1ddab5a0f8a484892b192e6bab",
+			"sha1": "c80693aa6ce167986f92d90c24cca10acc54db5f",
+			"sha256": "500428411e132db7195af08aec3b7bb4ad790b074ea6c2079506022e7f355105"
+		}
+	]
+}

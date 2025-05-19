@@ -1,0 +1,16 @@
+{
+	"uid": "wahd.wad",
+	"name": "We All Have to Die",
+	"description": "A Hexen gameplay mod inspired by the arcade classic \"Gauntlet.\" Includes health degeneration, raised health limit, and unlimited mana.",
+	"date": "2014-12-31 12:09:02",
+	"files": [
+		{
+			"filename": "wahd.wad",
+			"size": 8055,
+			"crc": 3669967463,
+			"md5": "18ed9e98ec84d692254c2c077f6fbae4",
+			"sha1": "4c0b2757ece930447743272fe86cdabc3e4641d1",
+			"sha256": "793e7fccc032294e975ec59cba9bf1ff5e98482e1dc6d1b0a1ba4b9efc1bbb56"
+		}
+	]
+}

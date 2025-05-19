@@ -1,0 +1,17 @@
+{
+	"uid": "dgold2lt (eec818).wad",
+	"name": "Doom Gold II Lite",
+	"description": "Sound and (some) graphics replacement PWAD for commercial DOOM.",
+	"version": "eec818",
+	"date": "2013-11-02 16:56:50",
+	"files": [
+		{
+			"filename": "dgold2lt.wad",
+			"size": 780066,
+			"crc": 2524939677,
+			"md5": "72d95c793f760b6b383f61e2ebcd879c",
+			"sha1": "eec818bb223408ed6e3c53f9274ed3d1f71d9e73",
+			"sha256": "b187bc5ffc6788b77cacebce43904a0152ed1eacf24b0b6c0a9100c23f2b5e04"
+		}
+	]
+}

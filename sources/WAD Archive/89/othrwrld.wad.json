@@ -1,0 +1,16 @@
+{
+	"uid": "othrwrld.wad",
+	"name": "The OtherWorld",
+	"description": "Pretty dark, this one, and a little empty when it comes to the weapons. Set in the usual stone fortress with plenty of enemies to take out. Watch all the shotgun dudes in the second room: they can get out of control very easily. I originally set out to make this one a little more monster orientated - with less emphasis on the architecture. Now that I look back on it, it seems to have a even balance of the two. Another in my series of ...world levels. They don't really have anything in common, it's just easier to make up names this way. After all, the level is what counts, not what I call it.",
+	"date": "2015-09-15 19:30:33",
+	"files": [
+		{
+			"filename": "othrwrld.wad",
+			"size": 212051,
+			"crc": 3916165205,
+			"md5": "a45bf5fa6d5be0421b1461b4547de923",
+			"sha1": "89ff5d6b883d1bfe3f3de75566823fd02c855d97",
+			"sha256": "f3e5dcd57b694fb2a6d39cc90778d4e8e4ff04c8408401f6571f947eb9504ef8"
+		}
+	]
+}

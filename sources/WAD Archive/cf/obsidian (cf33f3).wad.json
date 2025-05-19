@@ -1,0 +1,17 @@
+{
+	"uid": "obsidian (cf33f3).wad",
+	"name": "Hot Obsidian",
+	"description": "Three-level-episode for single player mode. Cooperative mode was not tested but could be fun. For further information see below.",
+	"version": "cf33f3",
+	"date": "2015-09-14 23:26:54",
+	"files": [
+		{
+			"filename": "obsidian.wad",
+			"size": 584443,
+			"crc": 771383729,
+			"md5": "17c9a434b1d1c7556669fbe6517209eb",
+			"sha1": "cf33f30578b451d7f3afc4d992124198177b17a2",
+			"sha256": "1e917919c17b1df87e54c0b8494de75dcaed887942a1542446db6a7c2fe37125"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "h20-3dfl.wad",
+	"name": "DOOM Legacy Water & 3-D Floor together",
+	"description": "While testing out DOOM Legacy's 3-D water and 3-D floors I thought, \"Can you have BOTH?! Nah...\" but tried it anyway. The result: a room, with a real basement filled with water! You can swim around in it of course, and go to the room with the BFG which I modeled after a similar section in Quake II's 1st level. The teleporter can be entered at any height if you're swimming into it. AND, push the switch and the water drains!! =) Also the nukage pool in front of you when you start will hurt you while you swim in it. If I had just tagged the actual sector itself to hurt you, you'd only get hurt when standing on the bottom, not when swimming.",
+	"date": "2014-12-24 17:30:52",
+	"files": [
+		{
+			"filename": "h20-3dfl.wad",
+			"size": 8911,
+			"crc": 79377480,
+			"md5": "d640b051c3a3a76d1302e1f33c6b1daa",
+			"sha1": "91bba12c3038fbd09ed785f1d35be2c8d57198b0",
+			"sha256": "b2ac8f3f4d0e4f698e47654141d13a912d67c644ef663e248c23a80d24d3699c"
+		}
+	]
+}

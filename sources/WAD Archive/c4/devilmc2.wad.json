@@ -1,0 +1,16 @@
+{
+	"uid": "devilmc2.wad",
+	"name": "DEVIL MATCH 2",
+	"description": "This level was created expressly for DeathMatch. There are no medikits, spheres, etc. only weapons(shotgun, supershotgun) and ammo. There are a secret passage where you can find the Plasma Gun... if you pass every try. This is not a realistic wad, is all fantasy based. And ... wath else?",
+	"date": "2014-12-15 22:20:27",
+	"files": [
+		{
+			"filename": "devilmc2.wad",
+			"size": 102045,
+			"crc": 2028242936,
+			"md5": "6d91f6b17d0b47599f29a8644b027e27",
+			"sha1": "c409e1ce277c1fd879f51bdb7ad0056edee2e1ff",
+			"sha256": "9dfb06276b4730a5cf420de2621b22dce78eb9deac9f05d5f4006fa05c10c076"
+		}
+	]
+}

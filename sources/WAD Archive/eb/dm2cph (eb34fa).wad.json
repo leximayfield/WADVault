@@ -1,0 +1,17 @@
+{
+	"uid": "dm2cph (eb34fa).wad",
+	"name": "Castle Phobos",
+	"description": "A ten level episode where the theme is set in a castle environment that was designed to have a good mix of battles and puzzles. New Monsters: A Seargent that looks similar to the player for multi-player confusion, Death's Shadow replacing the imps. Remember, this episode is built so that you will never become trapped. Every room that has an entrance, has an exit!",
+	"version": "eb34fa",
+	"date": "2013-11-04 20:12:37",
+	"files": [
+		{
+			"filename": "dm2cph.wad",
+			"size": 2135576,
+			"crc": 621785422,
+			"md5": "52321c923ae16fc1be8646bae9a368d0",
+			"sha1": "eb34fa92204551565cf48574610ae35f81e4bdbb",
+			"sha256": "788441ff230e1131ccfbaf0301424f6d717c2f50e2a13d67531a06a03126044f"
+		}
+	]
+}

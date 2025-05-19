@@ -1,0 +1,16 @@
+{
+	"uid": "close.wad",
+	"name": "Close Quarters",
+	"description": "Medium size mission with lots of small room and narrow passageways and pently of bad guys. All weapons are there, but you have to look for the Plasma rifle & BFG. There are also some nasty traps.",
+	"date": "2016-02-06 14:00:28",
+	"files": [
+		{
+			"filename": "close.wad",
+			"size": 127301,
+			"crc": 1820130293,
+			"md5": "3aa329713eca45b9edb71ed443375e12",
+			"sha1": "6bc7d7ac9204203200d3dfed89b88e9133bcccbf",
+			"sha256": "6b63f5b2abeaeb84c721abbd73703d370d3e7e21db7e39ff20b9d1fd8abde8df"
+		}
+	]
+}

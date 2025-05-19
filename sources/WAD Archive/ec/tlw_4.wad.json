@@ -1,0 +1,16 @@
+{
+	"uid": "tlw_4.wad",
+	"name": "The Lost WAD #4 (11/97)",
+	"description": "As with previous Lost WADs, I built this with attention to texture alignment and playability using ALL the keys. However, This time, I pushed the game-engine while paying close attention to shading, lighting and texture choices. The size of this WAD as a raw-copy (before music, graphics, etc) was 168k! I think you'll appreciate the extra work when you play The Lost WAD #4 and it earns and permanant home on your floppy discs!",
+	"date": "2015-01-14 14:43:17",
+	"files": [
+		{
+			"filename": "tlw_4.wad",
+			"size": 256586,
+			"crc": 4139491895,
+			"md5": "2601b9509e07b858e4b2e85d4ce9598f",
+			"sha1": "ecf93de61dcfd35e25b3ab6a9c3cbfc4ef712241",
+			"sha256": "108976894b44562718a77330294ab4d4fdf6da1a6875c2580cc5881be7f6dc7c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "GRATE (02addd).wad",
+	"name": "Death Grate",
+	"description": "Optimized, and I do mean optimized, for death- match play. No exits, and no monsters, which means no fun alone.",
+	"version": "02addd",
+	"date": "2014-08-30 14:34:16",
+	"files": [
+		{
+			"filename": "GRATE.wad",
+			"size": 19731,
+			"crc": 728915822,
+			"md5": "eb5628d44d2567decc2786fc67df4d8e",
+			"sha1": "02adddb4630626f7d42f3b4e5440224cfcd9ce54",
+			"sha256": "53c97a596a892169e9ce344fe63713b743183e652175755a1b6eaa05fcfdeb4b"
+		}
+	]
+}

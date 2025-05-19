@@ -1,0 +1,17 @@
+{
+	"uid": "big (f18178).wad",
+	"name": "BIG v1.0",
+	"description": "A Big, dark room. (At least as big as the downtown level 13 is in Doom II). This is great for death match. :-) However, it is quite challenging in single player mode.",
+	"version": "f18178",
+	"date": "2013-11-03 17:44:18",
+	"files": [
+		{
+			"filename": "big.wad",
+			"size": 26899,
+			"crc": 1478798875,
+			"md5": "bf8c7513d80f851dda8856c085b2cbfa",
+			"sha1": "f18178b82c41d5e9e9ae3ed4f41173491d537a9e",
+			"sha256": "df5b6bedc81e3f2e47ea7bfd56f4fca67df07d540922cece2689ce7341c2a2d5"
+		}
+	]
+}

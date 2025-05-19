@@ -1,0 +1,17 @@
+{
+	"uid": "tof01 (c90895).wad",
+	"name": "TOF01",
+	"description": "This is an ONLY Deathmatch Wad cause there are no monsters in it. You can still play it standalone if you enjoy it. This is not the first WAD I made but i decided to make a simple level, like MAP01 cause it seems it is the most enjoyable when it is small. It was specially intended for carnage doom. Please send me a mail to give me your impressions or comments.",
+	"version": "c90895",
+	"date": "2014-12-03 20:00:03",
+	"files": [
+		{
+			"filename": "tof01.wad",
+			"size": 26305,
+			"crc": 1615451433,
+			"md5": "364769032ed078ea4a6b9b050c2a83fa",
+			"sha1": "c90895fc04c063701bb3fd420ecb4ce4aaae21d3",
+			"sha256": "4ec4814ac87cb4d0d8166edf52a89daef899bc26243a3c40ba428fe7ee66466d"
+		}
+	]
+}

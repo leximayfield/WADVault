@@ -1,0 +1,16 @@
+{
+	"uid": "firecrat.wad",
+	"name": "The Fiery Crater v1.0",
+	"description": "After you entered the core of the volcano in Fiery Descent, you found yourself in the middle of a smoldering crater on the other side. This map picks up where that one left off, as you journey deeper into it, discovering an ancient fortress built into the side of the lava mountain.",
+	"date": "2014-12-30 11:17:27",
+	"files": [
+		{
+			"filename": "firecrat.wad",
+			"size": 428931,
+			"crc": 1125688172,
+			"md5": "d7aa3e26df236fc422a2d0e65e426ef0",
+			"sha1": "43f1b4700d1bb2cb3333134f0dba3617ebeb9444",
+			"sha256": "f3d67c3acfdc2062fc4cfa1e2e01975b18cd75a80d9d3611e6fe100632a8f104"
+		}
+	]
+}

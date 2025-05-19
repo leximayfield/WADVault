@@ -1,0 +1,17 @@
+{
+	"uid": "quake! (fcc6af).wad",
+	"name": "QUAKE! for DOOM",
+	"description": "4 excellent deathmatch levels for DOOM. Me and my friends use nothing else when we run a deathmatch-weekend. There were supposed to be one more level but a major bug was discoverd during playtesting. Perhaps I'll include it in the sequel to QUAKE!, if I ever make one.",
+	"version": "fcc6af",
+	"date": "2013-11-03 17:46:48",
+	"files": [
+		{
+			"filename": "quake!.wad",
+			"size": 329745,
+			"crc": 327427247,
+			"md5": "12f25149819f9bfd912180f928fccb34",
+			"sha1": "fcc6af57e39e919391189ec4701cf4791fdbc3c7",
+			"sha256": "c7176d1fe174e116ae24b228440614a31a7851bab46f112d169049bef286fbb1"
+		}
+	]
+}

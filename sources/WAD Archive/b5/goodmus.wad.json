@@ -1,0 +1,16 @@
+{
+	"uid": "goodmus.wad",
+	"name": "Goodmus.wad",
+	"description": "Replaces ALL music with other creations. (All 32 levels, Opening screen, Story screens)",
+	"date": "2015-09-15 17:27:35",
+	"files": [
+		{
+			"filename": "goodmus.wad",
+			"size": 1070139,
+			"crc": 4258498777,
+			"md5": "33841d4679c284cd0ad338bc39fec9eb",
+			"sha1": "b562c695c6acf5c75b8904651e3b22bd3c5b25ea",
+			"sha256": "10a078df4231363c412ac9e212310a3b1d6fa9bcd808b0625e3c91c2434aec85"
+		}
+	]
+}

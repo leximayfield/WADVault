@@ -1,0 +1,16 @@
+{
+	"uid": "stoned.wad",
+	"name": "Stoned",
+	"description": "Here is your standard E2M1ish looking level replacement with a tinge that it's not about the details of the level, but the gameplay. It might look like something from 1997-1998, but it plays well.",
+	"date": "2014-12-13 12:43:04",
+	"files": [
+		{
+			"filename": "stoned.wad",
+			"size": 86576,
+			"crc": 3131417377,
+			"md5": "a3ec57435e1aca693ca1e8615191808d",
+			"sha1": "3594322ed0adbd71ed158c6979628cf988418040",
+			"sha256": "3ff2ed7b947208c5733b1e41127bbd12c343899c16531e088a4aa625afebc69e"
+		}
+	]
+}

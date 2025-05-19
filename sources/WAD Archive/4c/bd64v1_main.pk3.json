@@ -1,0 +1,16 @@
+{
+	"uid": "bd64v1_main.pk3",
+	"name": "Brutal Doom 64 v1",
+	"description": "Following the GZDoom port of Doom 64, BD-64 revitalizes the old Doom 64 with new special effects, particles, lightning, gore, new sounds, more weapon animations (shotgun reloads, smoother minigun barrels, etc.) and monsters and stuff cut from the original Nintendo 64 version. Works on GZDoom and Zandronum in OpenGL mode. (Zdoom and Zandronum Software mode are not supported.)",
+	"date": "2016-10-31 16:12:34",
+	"files": [
+		{
+			"filename": "bd64v1_main.pk3",
+			"size": 19552436,
+			"crc": 4012027337,
+			"md5": "2f653a187b64844ee5cb8b61feeee558",
+			"sha1": "4c5742bdd6c3ca1fc3351d31c7f95ee3778ede50",
+			"sha256": "eeb2594fec1cb81dfab873c4cf764936ee39062efd32685f083ae83feb462d71"
+		}
+	]
+}

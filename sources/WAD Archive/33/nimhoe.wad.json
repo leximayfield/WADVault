@@ -1,0 +1,16 @@
+{
+	"uid": "nimhoe.wad",
+	"name": "Ni'mrod: Hell on Exdeus",
+	"description": "A map set in the nimrod universe (doesn't follow the story on though) set on Exdeus. NOTE: You must select nimrodpd.wad as the last wad to be dragged for the mapinfo to work right.",
+	"date": "2014-12-12 14:19:47",
+	"files": [
+		{
+			"filename": "nimhoe.wad",
+			"size": 3512847,
+			"crc": 3488166578,
+			"md5": "bbf83d1f25092cd5f0708c4ec0cd795f",
+			"sha1": "33e550ebd9c4aa26d3b6542ea33851f986b4f6e6",
+			"sha256": "f39807d76568dd2cd1d32b4afb4e973bb686ddee6bb6b84cab7f61dfae1520fc"
+		}
+	]
+}

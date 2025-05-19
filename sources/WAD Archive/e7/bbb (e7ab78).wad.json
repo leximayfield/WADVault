@@ -1,0 +1,17 @@
+{
+	"uid": "bbb (e7ab78).wad",
+	"name": "Belial's Bad Brain",
+	"description": "One level for any limit removing ports. PrBoom-Plus or (G)ZDoom are recommended.",
+	"version": "e7ab78",
+	"date": "2014-12-21 16:55:19",
+	"files": [
+		{
+			"filename": "bbb.wad",
+			"size": 2713724,
+			"crc": 1824947784,
+			"md5": "7a044b6e0e850b18d9c8ca5d275446d0",
+			"sha1": "e7ab788a4c6c28d3964f7aa96f0b6376af6b644f",
+			"sha256": "3d217b324249b385b8ea074b84157b8fc38e4c972a94a1ec10be233aa3848ba7"
+		}
+	]
+}

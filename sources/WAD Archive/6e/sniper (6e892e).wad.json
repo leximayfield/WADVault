@@ -1,0 +1,17 @@
+{
+	"uid": "sniper (6e892e).wad",
+	"name": "Sniper - A view from both sides",
+	"description": "This is a medium size level. Took me around 32 minutes to record. Lots of action with plenty of health and ammo.",
+	"version": "6e892e",
+	"date": "2015-01-14 14:44:43",
+	"files": [
+		{
+			"filename": "sniper.wad",
+			"size": 515453,
+			"crc": 696127327,
+			"md5": "f77b97a9b7cdc45cfe46998469b304f5",
+			"sha1": "6e892e24f23b47e0fb03fe1f94bdb6492fd1da85",
+			"sha256": "ba66ecd1229ef986d273631e2ccae3daf4040ea705f0ffa19779d7625883f2e9"
+		}
+	]
+}

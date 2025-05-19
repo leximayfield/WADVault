@@ -1,0 +1,16 @@
+{
+	"uid": "osp.wad",
+	"name": "THE OTHER SIDE OF PHOBOS",
+	"description": "An Episode 1-inspired map, set on a lonely moonbase on Phobos. This is not a \"pure\" Knee-Deep style map though.",
+	"date": "2014-12-13 17:46:45",
+	"files": [
+		{
+			"filename": "osp.wad",
+			"size": 241402,
+			"crc": 1623078350,
+			"md5": "c672e2b6a9223e2a40b93a7828f17a8c",
+			"sha1": "1df100931678e583c2e858f710cf96897a323bcf",
+			"sha256": "f1fed3ea54f9f67f8adae480707df367cf8c6bcd03a75ce542ed0b042bdbd88c"
+		}
+	]
+}

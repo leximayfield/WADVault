@@ -1,0 +1,16 @@
+{
+	"uid": "t-death2.wad",
+	"name": "Tobo's First Deathmatch level, remixed!",
+	"description": "My first attempt to make a DeathMatch level became too large, so I remixed it..removed some rooms and now it's smaller..:)",
+	"date": "2014-12-15 23:03:09",
+	"files": [
+		{
+			"filename": "t-death2.wad",
+			"size": 127476,
+			"crc": 1768380383,
+			"md5": "f22a08b785c25d8d1911214b47371aa0",
+			"sha1": "4183124845a97015d6ec9a8cd9f41a1086199b3a",
+			"sha256": "a777bf9389ab42190abeecb255944900d35ed5d3f89db71bc94c21cfced026ba"
+		}
+	]
+}

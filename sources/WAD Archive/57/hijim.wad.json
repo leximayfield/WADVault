@@ -1,0 +1,16 @@
+{
+	"uid": "hijim.wad",
+	"name": "Hi Jim!",
+	"description": "A message to my friend Jim Nieberding.",
+	"date": "2013-07-09 20:23:58",
+	"files": [
+		{
+			"filename": "hijim.wad",
+			"size": 38350,
+			"crc": 2592413991,
+			"md5": "d74be967e8b408c2442294289e7780ca",
+			"sha1": "570315b8e2f30add67bc646610b04048a490befa",
+			"sha256": "af38da063cc3486cf00648ac95bedc84010b9bda475d535ab216d970f01a3cfb"
+		}
+	]
+}

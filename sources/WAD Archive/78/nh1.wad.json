@@ -1,0 +1,16 @@
+{
+	"uid": "nh1.wad",
+	"name": "NH1",
+	"description": "small 6-map mini-episode",
+	"date": "2015-09-15 18:40:56",
+	"files": [
+		{
+			"filename": "nh1.wad",
+			"size": 73032,
+			"crc": 584067201,
+			"md5": "856356a7f06c8df7d02d0738cc7736a0",
+			"sha1": "7843db8735306e760f3123a64d13aa695a4e70ee",
+			"sha256": "0d15e00299553ac28ff4e2fe8804be58eba1b8b4396d19ae9b6e137d4d1a1223"
+		}
+	]
+}

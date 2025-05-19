@@ -1,0 +1,16 @@
+{
+	"uid": "mpwbase.wad",
+	"name": "Water Treatment Facility",
+	"description": "A short map I made in about 5 days. Inspired by Agent Spork's Simplicity.",
+	"date": "2015-01-13 21:45:41",
+	"files": [
+		{
+			"filename": "mpwbase.wad",
+			"size": 2874635,
+			"crc": 2603840339,
+			"md5": "e4e9e25059b98c3f2a64ba6343a9cada",
+			"sha1": "13b90b68174e3f6d442e6ebf571393f0f2801523",
+			"sha256": "16c306c5de6b0301f30f589a1db3c7e3043b09bb081f9137aa28e1ba5986b395"
+		}
+	]
+}

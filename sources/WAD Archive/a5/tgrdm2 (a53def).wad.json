@@ -1,0 +1,17 @@
+{
+	"uid": "tgrdm2 (a53def).wad",
+	"name": "TGRDM2",
+	"description": "TGRDM2 With 10 Deathmatch maps, and Easy Setup; makes it easy to play this file offline, and play against several bots!",
+	"version": "a53def",
+	"date": "2014-12-12 14:14:02",
+	"files": [
+		{
+			"filename": "tgrdm2.wad",
+			"size": 1250352,
+			"crc": 2752173121,
+			"md5": "128000366884491b19580a480e7da0c4",
+			"sha1": "a53def6db7ca0837ced2bebf01d48fed16764143",
+			"sha256": "8459dc208a4572970e0a39878a4061c9ba27e42c1ab27288edd6a28ee87903df"
+		}
+	]
+}

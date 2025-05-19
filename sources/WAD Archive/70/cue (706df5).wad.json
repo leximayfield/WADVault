@@ -1,0 +1,17 @@
+{
+	"uid": "cue (706df5).wad",
+	"name": "CUE MAZE",
+	"description": "My second huge effort. This one has many stairways and lifts for a more 3-D feel. Also, alot of puzzles to figure out. Good for Deathmatch as you can get thru all areas in both directions. Hint- To git the Rocket Launcher you must do a \"U\"-Turn. Dedicated to Computer Users of Erie so don't forget to look at the auto-map before ending the level.",
+	"version": "706df5",
+	"date": "2014-01-07 22:22:28",
+	"files": [
+		{
+			"filename": "cue.wad",
+			"size": 147518,
+			"crc": 1596320948,
+			"md5": "dc57cd893c4bb8b910c5e4237a51318d",
+			"sha1": "706df5b5d60f62664099347bf69b159d3b6e31d0",
+			"sha256": "88d26c051ace32407d14e8bcf7075499f8dada0ef8d5b3c46262230945bc2fef"
+		}
+	]
+}

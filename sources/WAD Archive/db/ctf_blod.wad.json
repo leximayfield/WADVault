@@ -1,0 +1,16 @@
+{
+	"uid": "ctf_blod.wad",
+	"name": "Bloodsport",
+	"description": "A set of maps made for Skulltag. Tons of graphics from Quake 2, CTF (Capture The Flag) gameplay ONLY, plentiful ACS scripting, special effects, scrolling skies, and MOD music. And don't forget all those nice special runes and powerups that just make the gameplay a whole lot more interesting.",
+	"date": "2014-12-15 21:46:21",
+	"files": [
+		{
+			"filename": "ctf_blod.wad",
+			"size": 15568837,
+			"crc": 2308355814,
+			"md5": "061dec680dcbcb2890bc076b2b06040c",
+			"sha1": "dbcd8bb48880164cca469bafa9d92a793257369d",
+			"sha256": "ed238e8956e20271c08d6322db8a5480f239042e339d6d23beeef13f2c637774"
+		}
+	]
+}

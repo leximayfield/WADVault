@@ -1,0 +1,16 @@
+{
+	"uid": "hrspfx10.wad",
+	"name": "Heretic Minor Sprite Fixing Project v1.0",
+	"description": "A comprehensive collection of minor sprite fixes for Heretic. This is compatible with any custom Heretic add-on as long as you load HRSPFX10.WAD with the lowest priority.",
+	"date": "2013-10-12 13:37:00",
+	"files": [
+		{
+			"filename": "hrspfx10.wad",
+			"size": 1469881,
+			"crc": 1060116038,
+			"md5": "f0bd3fc87e2289a2e94e5d5b0f962121",
+			"sha1": "20b0e3c4c0c594a6de5b01cbecfec3672fda6fda",
+			"sha256": "5dc3d19d848e1b3ed43da7f072f8f11c0ea39f00f6cc26a2e11178e0a946774e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "oceansde (208985).wad",
+	"name": "Oceanside",
+	"description": "Oceanside is a limit-removing 3-map WAD based on my home town of Oceanside, California where I grew up. Beautiful suburban scenery and overall feel-goodness guaranteed.",
+	"version": "208985",
+	"date": "2017-09-17 18:52:26",
+	"files": [
+		{
+			"filename": "oceansde.wad",
+			"size": 2694771,
+			"crc": 4135272770,
+			"md5": "be5cd9b0a4a191995894ebc0c2e1d682",
+			"sha1": "20898528c99212675639dd54b4f9e9322d4626bd",
+			"sha256": "7d8f66b95bcddc3c2f9da0a0aca0c0c76dc2fc30f9f314bf6186cad66f7ed628"
+		}
+	]
+}

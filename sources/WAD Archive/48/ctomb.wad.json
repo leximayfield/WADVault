@@ -1,0 +1,16 @@
+{
+	"uid": "ctomb.wad",
+	"name": "Crimson Tomb",
+	"description": "The Crimson Tomb has long been rumored to be filled with demonic artifacts of great power. One day you get really drunk and decide to barge in to collect them all. Go kick some ass! :P",
+	"date": "2014-12-21 17:07:42",
+	"files": [
+		{
+			"filename": "ctomb.wad",
+			"size": 517491,
+			"crc": 695439088,
+			"md5": "81cfed097e10458241a8d2a28ed05f49",
+			"sha1": "485049c73c53b92db8570ebf9802b6b3fe9fcbb4",
+			"sha256": "53b42e7e76c93527165ab34771239cb4ccd6cffecd857dfac98028045e3ca4ab"
+		}
+	]
+}

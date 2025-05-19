@@ -1,0 +1,16 @@
+{
+	"uid": "street3.wad",
+	"name": "Street3",
+	"description": "This is THE deathmatch level. The best ever made. Its got large rooms, small rooms and NO BFGS.",
+	"date": "2014-12-15 23:12:10",
+	"files": [
+		{
+			"filename": "street3.wad",
+			"size": 130554,
+			"crc": 2178745624,
+			"md5": "fa3ab32cbd654bbc0cbc890e8568a1e5",
+			"sha1": "6aaf497c10e2b4220fb7f0cfae184f2ad7c7fa11",
+			"sha256": "43bf30c96acd9acae502f909d01a034936fda13a631b5e2fb0f095ddc39ae7ba"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "p-38.wad",
+	"name": "Walther P-38 Pistol",
+	"description": "Replaces the Doom pistol with a Walther P-38",
+	"date": "2014-12-11 22:15:27",
+	"files": [
+		{
+			"filename": "p-38.wad",
+			"size": 48728,
+			"crc": 426705860,
+			"md5": "d15f2f4e7f3541a812b11cdd4f28e2be",
+			"sha1": "221f5fa4c2c31691f8fd0779fa107f09db881f96",
+			"sha256": "7a206f65a318dbd1f9410defcf4a38896eb193235b95f1466d086e0860e3f9bf"
+		}
+	]
+}

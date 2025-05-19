@@ -1,0 +1,16 @@
+{
+	"uid": "cybrfort.wad",
+	"name": "The Cyber Fort",
+	"description": "Doom 2 PWAD",
+	"date": "2014-12-15 22:51:07",
+	"files": [
+		{
+			"filename": "cybrfort.wad",
+			"size": 28284,
+			"crc": 41839076,
+			"md5": "ac7e97c28c5ea935d8e31942603269d6",
+			"sha1": "2ef9c7850ed5a62589fabea8ecb2486382393b97",
+			"sha256": "c66bf8b80a6c2b5c194acb8e4d5e94a34300b4be0cf3b617bd0035dfda784ae2"
+		}
+	]
+}

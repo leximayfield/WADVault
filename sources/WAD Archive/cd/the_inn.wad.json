@@ -1,0 +1,16 @@
+{
+	"uid": "the_inn.wad",
+	"name": "The Hunters'Inn!",
+	"description": "Deathmatch level ONLY! There is an EXIT (you can exit whenever you want).",
+	"date": "2014-12-30 11:21:10",
+	"files": [
+		{
+			"filename": "the_inn.wad",
+			"size": 189140,
+			"crc": 3553521236,
+			"md5": "e3c4fd057fe2549707bbb45531fef2bb",
+			"sha1": "cd584780656d49a20ca43baa1f98d46a35fe2598",
+			"sha256": "93fbe5c78a817f0f7d1f759cd2b3c873d2f7338814a48b37d362a2797728d7dd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "lake (4e01b4).wad",
+	"name": "LAKEDOOM",
+	"description": "Shortly after you managed to escape the clutches of Hell, you return to Earth",
+	"version": "4e01b4",
+	"date": "2014-08-30 13:56:14",
+	"files": [
+		{
+			"filename": "lake.wad",
+			"size": 174598,
+			"crc": 1230374864,
+			"md5": "ecbe21de597698de7329ce81dd61fb8f",
+			"sha1": "4e01b48d9b49e1dfff82938e1cf3bf8e9c8a2cc5",
+			"sha256": "13fe68c75b8e46d73c5e607fa467925c6b991dd1a24e33d4099c56da09752951"
+		}
+	]
+}

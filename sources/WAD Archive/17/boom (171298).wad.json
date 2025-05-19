@@ -1,0 +1,17 @@
+{
+	"uid": "boom (171298).wad",
+	"name": "Go off with a BOOM.",
+	"description": "I build this level only for the fun of it. It is possible to play this level in single, multiplayer and deathmatch mode.",
+	"version": "171298",
+	"date": "2014-12-18 22:50:18",
+	"files": [
+		{
+			"filename": "boom.wad",
+			"size": 167656,
+			"crc": 935760861,
+			"md5": "8ca2b7dc3286c6fadc3889cb84c2ecc5",
+			"sha1": "171298b6365c48b1e4d0f909dcdbcdfa51d85af1",
+			"sha256": "38800270191ce294bef9bee692f9b50001b6dab87b73229f366b76e20c462e0f"
+		}
+	]
+}

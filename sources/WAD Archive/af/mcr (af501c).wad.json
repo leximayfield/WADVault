@@ -1,0 +1,17 @@
+{
+	"uid": "mcr (af501c).wad",
+	"name": "Mint Chocolate Rage",
+	"description": "This level has a lot of brown and green in it, which is why I gave it the title. Do you remember levels 4 and 12 from Back to Nirvana X Episode 1? This level combines the elements from the levels into a single one. It involves the cybers killing off the cacodemons and viles resurrecting them after activating the crushers. Musis is \"Force of Darkness\" by Knightrider of Doom.",
+	"version": "af501c",
+	"date": "2019-03-06 21:47:47",
+	"files": [
+		{
+			"filename": "mcr.wad",
+			"size": 1722105,
+			"crc": 1554765879,
+			"md5": "d4635ba6f2a57e27f0a817c70fa2b86a",
+			"sha1": "af501c09a4894cbcfba7d5c0b68cecebb9e2c36e",
+			"sha256": "eeeab42513dda337c5c6fd739e67b9fecc37e45512ab68e11f25a294018eb37d"
+		}
+	]
+}

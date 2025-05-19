@@ -1,0 +1,17 @@
+{
+	"uid": "painhill (40fe61).wad",
+	"name": "Pain Hill (PAINHILL.WAD)",
+	"description": "New map for DOOM II",
+	"version": "40fe61",
+	"date": "2013-11-03 17:48:00",
+	"files": [
+		{
+			"filename": "painhill.wad",
+			"size": 102297,
+			"crc": 2146021499,
+			"md5": "262aec84e978b42b5f26c14bd12e5f28",
+			"sha1": "40fe61d5f5e636d9059ca2913af1ce52f1bb8263",
+			"sha256": "ce44675d8bcfd7538deb3225364bb21bd22a2f172aabacde78f11199f329767d"
+		}
+	]
+}

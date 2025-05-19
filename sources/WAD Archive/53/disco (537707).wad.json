@@ -1,0 +1,17 @@
+{
+	"uid": "disco (537707).wad",
+	"name": "DISCO.WAD",
+	"description": "Do you like dancing? Well, go ahead in this Doom game. There is a dance floor with 2 stages and a DJ, bars, toilets and everything.",
+	"version": "537707",
+	"date": "2014-12-18 22:14:30",
+	"files": [
+		{
+			"filename": "disco.wad",
+			"size": 162360,
+			"crc": 3570594682,
+			"md5": "31ab6ed21649fcadb86b38ead1b8bd0b",
+			"sha1": "537707b1eb44a1bf2869fed59497a8b2c025df0f",
+			"sha256": "fec32cb994d3f3e91ca2dc12c89ca2d7e503dd793336158ef1d37c908c150aae"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "baalhadad.wad",
+	"name": "Baal Hadad",
+	"description": "Four short levels made for Doom II in the Boom format. All but map 4 contain deathmatch starts. The player(s) travel from a scorched wilderness, to a primitive sewage area, to a bustling city with rotting demons hiding in the corridors below.",
+	"date": "2016-06-16 22:20:57",
+	"files": [
+		{
+			"filename": "baalhadad.wad",
+			"size": 244984,
+			"crc": 4081368985,
+			"md5": "fbe5d1202890acc14e40116153261242",
+			"sha1": "c2ea64c3370b8ac104b355345c91761e5a41046b",
+			"sha256": "2e86286643b7c35420d3e8c7916f9d817565b9d2efce92d289ee2974f9477906"
+		}
+	]
+}

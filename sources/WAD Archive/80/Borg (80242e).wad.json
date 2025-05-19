@@ -1,0 +1,17 @@
+{
+	"uid": "Borg (80242e).wad",
+	"name": "Borg DOOM",
+	"description": "Changes sargeant skins to look like the Borg off Star Trek: The Next Generation",
+	"version": "80242e",
+	"date": "2015-09-14 20:26:20",
+	"files": [
+		{
+			"filename": "Borg.wad",
+			"size": 62623,
+			"crc": 2273938744,
+			"md5": "3bc6f657e8f8ef950bebf75b28665c9d",
+			"sha1": "80242e88be5422550f4c02ece208186128c24038",
+			"sha256": "f31120bbf25e18e5d26d4fa734e7d3122138cea7c18ec3c9a0480d0fb432f57c"
+		}
+	]
+}

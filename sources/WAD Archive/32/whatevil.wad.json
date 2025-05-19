@@ -1,0 +1,16 @@
+{
+	"uid": "whatevil.wad",
+	"name": "Somehwat Evil",
+	"description": "Another large map using lots of brown textures, mostly brick and wood, and Legacy teleport trickery. Probably going to be my last wad for a long time, a year at least. :(",
+	"date": "2014-12-29 18:19:18",
+	"files": [
+		{
+			"filename": "whatevil.wad",
+			"size": 1358033,
+			"crc": 2744310174,
+			"md5": "95ee3d8e445dbaf2d4304988a0a51b05",
+			"sha1": "32bda9d6344bd8d90e216df000cf4a81d6d70e29",
+			"sha256": "bb85d15ad0917744785ba8b11b33d4958d2cfd96045458d8ce07b31a2513de06"
+		}
+	]
+}

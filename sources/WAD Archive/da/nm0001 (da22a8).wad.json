@@ -1,0 +1,17 @@
+{
+	"uid": "nm0001 (da22a8).wad",
+	"name": "The Bridge of Death",
+	"description": "Cross that bridge, and die! Better take :a moment and think before you assault that :bridge, or it may be your last moment.",
+	"version": "da22a8",
+	"date": "2013-11-02 15:47:28",
+	"files": [
+		{
+			"filename": "nm0001.wad",
+			"size": 77760,
+			"crc": 2195284671,
+			"md5": "abb25d6241c9089828d8f8b61b0062d0",
+			"sha1": "da22a8c8f8eefe9173dcb60d3dcf32306f2c5284",
+			"sha256": "fe1242fbb702b6230c7d95c14cadd7827f097cbea2dd46c40875565a8c04e4b3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nadir.wad",
+	"name": "The Nadir",
+	"description": "The Nadir is a short (~2 hours) Hexen adventure that aims to extend the experience once the vanilla game and expansion end. I found myself wanting to play more Hexen after completing these, so the result wasThe Nadir. This is a project I created as a personal goal and for my own enjoyment, but decided later in the creation process that I would share it with others who enjoy this game and user-created material.",
+	"date": "2013-12-04 13:03:35",
+	"files": [
+		{
+			"filename": "nadir.wad",
+			"size": 8059466,
+			"crc": 3696696483,
+			"md5": "d65a1482e9ff0b6a84c0dc2b0b7f39ba",
+			"sha1": "f7efeccbfb5e695d19671de5017bc6e351498355",
+			"sha256": "f2a5e16ee829ebf0799992e1d3893507eb2f13b49627db3ab8e73c0116cd7030"
+		}
+	]
+}

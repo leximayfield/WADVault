@@ -1,0 +1,17 @@
+{
+	"uid": "chubby (906815).wad",
+	"name": "Chubby",
+	"description": "deathmatch level",
+	"version": "906815",
+	"date": "2013-11-02 16:40:16",
+	"files": [
+		{
+			"filename": "chubby.wad",
+			"size": 29938,
+			"crc": 763836255,
+			"md5": "f71434067c14b7ab656f16cda5da2dc4",
+			"sha1": "906815f3e59efe375c996e7a5f3c1476a0ee316e",
+			"sha256": "6c55a17c79b65e6bbf0ff4283e2f29feb681d732e2b601fad3b9ff10390ab5bf"
+		}
+	]
+}

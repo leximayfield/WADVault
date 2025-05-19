@@ -1,0 +1,16 @@
+{
+	"uid": "LEDGE_II.wad",
+	"name": "LEDGE FOR DOOM II",
+	"description": "DeathMatch level for DOOM II, designed for DEATHMATCH 2.0 rules. Conversion from original DOOM I level - LEDGE__I.WAD",
+	"date": "2014-10-14 21:00:12",
+	"files": [
+		{
+			"filename": "LEDGE_II.wad",
+			"size": 39771,
+			"crc": 2969669757,
+			"md5": "73e1b1362023f491aee984eda3ba8cb2",
+			"sha1": "60d4f3d48943f700e537cf2a6bdade4a895713dc",
+			"sha256": "c064343444c4630955fd7af32a461704158ec63a7c0363f78ed2e6c66576bd03"
+		}
+	]
+}

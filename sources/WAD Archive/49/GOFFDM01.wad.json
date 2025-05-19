@@ -1,0 +1,16 @@
+{
+	"uid": "GOFFDM01.wad",
+	"name": "Goff's Deathmatch Floor",
+	"description": "Another Doom2 Deathmatch floor. I hate long intros. I like to kill people in doom2 and thats what I designed this floor for.",
+	"date": "2014-08-30 13:52:56",
+	"files": [
+		{
+			"filename": "GOFFDM01.wad",
+			"size": 101175,
+			"crc": 2380165932,
+			"md5": "aefcee83a9cdf7fa209f0924493bb84d",
+			"sha1": "49031dc3bd5067a17ed986ddc79f6709b4d567de",
+			"sha256": "a088dac40a62cc4ecd9c47010b6271714b86b08ed69262591ac4f71a484617eb"
+		}
+	]
+}

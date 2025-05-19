@@ -1,0 +1,15 @@
+{
+	"uid": "column3.wad",
+	"description": "This is a simple column with the torch and brick textures, however they are aligned correctly on a 16 sided column, so the torches look correct.",
+	"date": "2015-09-14 23:00:30",
+	"files": [
+		{
+			"filename": "column3.wad",
+			"size": 2153,
+			"crc": 3180252200,
+			"md5": "67bb98a8bc24d743acd2a42ed1650162",
+			"sha1": "0d0056ea16c889760359e9af8373f821c05a1aa2",
+			"sha256": "5dc12ad2aa649c2d4c0a0a0cd582593f805328746500ae3d3dc1536e34f223f9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "gridd2 (c826d5).wad",
+	"name": "The Grid for Doom II",
+	"description": "This is a deathmatch level set in a grid of criss-crossing upper and lower corridors with moving floors at each intersection. The upper corridors run north to south and are connected by windows. The lower corridors run east to west, and are dark. Shotgun, chaingun and chainsaw are available, with a rocket launcher in the middle.",
+	"version": "c826d5",
+	"date": "2016-02-07 20:31:34",
+	"files": [
+		{
+			"filename": "gridd2.wad",
+			"size": 32956,
+			"crc": 1530584481,
+			"md5": "de96f8d6a7016c6aeade5162a46863c8",
+			"sha1": "c826d55d8d092d6d637288c45667690c6412909a",
+			"sha256": "32a792199fcb57c831db4fa1c972ff8d3cad1c092932eabdc09a16b590fc1ae3"
+		}
+	]
+}

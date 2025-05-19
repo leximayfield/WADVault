@@ -1,0 +1,16 @@
+{
+	"uid": "JONESIN.wad",
+	"name": "Jonesin'",
+	"description": "This is a set of five maps with some emphasis on puzzles and plenty of action. When I set out I decided to shoot for a puzzle oriented wad, but I'm not quite satisfied with the outcome. I decided to release it so I can start fresh next time. NOTE: There is a beserk near the beginning of each level...get it!",
+	"date": "2014-12-27 12:18:35",
+	"files": [
+		{
+			"filename": "JONESIN.wad",
+			"size": 488935,
+			"crc": 3435733771,
+			"md5": "5a4f8b3726fcd585a8d9dcc07315fb15",
+			"sha1": "66ada846de0f19a335a5d1bf6a9e6c24753b6280",
+			"sha256": "d42adbedbe3f891e1cf736d14fafc0bdd3f5deb9c63fa5f3e327db96d4acd008"
+		}
+	]
+}

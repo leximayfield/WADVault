@@ -1,0 +1,16 @@
+{
+	"uid": "nesdth2.wad",
+	"name": "NesDeath II",
+	"description": "Another 7 levels of pure deathmatchness by your SSG-wielding warrior, Nestea. This time, all the music are provided by LurkerHunter (yea, it's all original). Also new is a MAPINFO lump... which means that ZDOOM (and anything built off of it) players will get the cool rotating skies and such. Sorry, but none of the maps feature any ZDOOM-related things (which is good for those who play Legacy/JDOOM/etc.). Wait till NesDeath III for that! ;)",
+	"date": "2014-12-15 22:53:32",
+	"files": [
+		{
+			"filename": "nesdth2.wad",
+			"size": 1252480,
+			"crc": 1894539857,
+			"md5": "4dfc34d8a8de734221bce426cccc302c",
+			"sha1": "516aa245296d5d2782f64158e80df75eff574ccf",
+			"sha256": "a72a5373826f49a64da395c2ac2d6657a5ac8e7aecab9511d56354e2df60646d"
+		}
+	]
+}

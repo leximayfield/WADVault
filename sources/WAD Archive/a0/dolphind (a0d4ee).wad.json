@@ -1,0 +1,17 @@
+{
+	"uid": "dolphind (a0d4ee).wad",
+	"name": "Dolphin's Dream (v1.1)",
+	"description": "A phychodelic colorful map.",
+	"version": "a0d4ee",
+	"date": "2019-03-19 22:25:22",
+	"files": [
+		{
+			"filename": "dolphind.wad",
+			"size": 774331,
+			"crc": 1597042110,
+			"md5": "538fc7d385b37a508898a0207d9cb560",
+			"sha1": "a0d4eedd7afabe00a3f129cb1e5f11a206c76d46",
+			"sha256": "fd3e1d6ba581651c21fce492ca253d9501fc9b7f1d027a3915ef4867e0dd0e3d"
+		}
+	]
+}

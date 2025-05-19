@@ -1,0 +1,17 @@
+{
+	"uid": "master (80f840).wad",
+	"name": "Master",
+	"description": "3 single player levels for legacy, released as-is. No work was being done on them so I changed a few things and are puting them out for everyone.",
+	"version": "80f840",
+	"date": "2015-01-13 21:38:13",
+	"files": [
+		{
+			"filename": "master.wad",
+			"size": 1770364,
+			"crc": 3012064407,
+			"md5": "8bc93be2519bea88c114dc365655883b",
+			"sha1": "80f840f7338a0e32f242bfef7a71ebeef50db7cc",
+			"sha256": "2cc73f81d1802c189f27d7f0b1988e359626410aa086aae28461c33500824296"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "labdmos.wad",
+	"name": "Labs of Deimos Revisited",
+	"description": "Inspired by Doom I's E2M4 but from scratch. Hope you enjoy!",
+	"date": "2014-12-13 12:43:02",
+	"files": [
+		{
+			"filename": "labdmos.wad",
+			"size": 751382,
+			"crc": 113806256,
+			"md5": "4bf8cf07aed62e178b458db14a75ecb1",
+			"sha1": "e1fc02e8fd32e5af3515b0c0cad3376a515a81ce",
+			"sha256": "370f3711199ffafaa0d83aa0ecb00ada63e1554985895eea8f1a1201a0572c1d"
+		}
+	]
+}

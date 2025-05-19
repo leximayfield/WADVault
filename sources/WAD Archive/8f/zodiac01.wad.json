@@ -1,0 +1,16 @@
+{
+	"uid": "zodiac01.wad",
+	"name": "zodiac01.wad",
+	"description": "This is Map 01 of a series of 12 Maps, each dedicated to a sign of the zodiac.",
+	"date": "2014-12-29 17:28:55",
+	"files": [
+		{
+			"filename": "zodiac01.wad",
+			"size": 898025,
+			"crc": 4242469538,
+			"md5": "37287165ab532d87c52d42a864ffcffe",
+			"sha1": "8f21aa6413cd3e424c2d538a83bc6c73d720fa62",
+			"sha256": "716263c1c068f166d1a4c800f5dea41dd6edca4c93d4a33a7f764e5553a7f692"
+		}
+	]
+}

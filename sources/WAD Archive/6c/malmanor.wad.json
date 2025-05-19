@@ -1,0 +1,16 @@
+{
+	"uid": "malmanor.wad",
+	"name": "Malignant Manor",
+	"description": "You have inherited a mansion in the British Isles in the town of Dunkeld. When you attempt to take possesion you find you have some squatters to contend with.",
+	"date": "2015-09-15 17:56:41",
+	"files": [
+		{
+			"filename": "malmanor.wad",
+			"size": 396095,
+			"crc": 1565318158,
+			"md5": "9f5a42b89a508e4df20e23d59739deff",
+			"sha1": "6cf2160665cc0c8b362b1a701aabc1a0d1fe7d3b",
+			"sha256": "8db73e56e531b5d5172a17f620747bbc5bd24c33856c05dcf5d110cc9d204f20"
+		}
+	]
+}

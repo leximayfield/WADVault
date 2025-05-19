@@ -1,0 +1,16 @@
+{
+	"uid": "distrib.wad",
+	"name": "Distribution Base",
+	"description": "A distribution point for supplies to UAC bases throughout this sector. Preliminary reports indicate a minor demon infestation. Base represents a major supply point for numerous battalions. Penetrate and secure, then proceed to exit. That is all.",
+	"date": "2014-12-18 22:51:23",
+	"files": [
+		{
+			"filename": "distrib.wad",
+			"size": 137210,
+			"crc": 1588792066,
+			"md5": "d0b2b33ec891be8a0d18f4366f9f9653",
+			"sha1": "9a251a38923e18c1cc0056428200e9d4c8897469",
+			"sha256": "1ff6b18a4e2baef1626adcef7d03efca75a057a0aba4f4754aaceef03d5bef11"
+		}
+	]
+}

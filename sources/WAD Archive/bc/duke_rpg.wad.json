@@ -1,0 +1,16 @@
+{
+	"uid": "duke_rpg.wad",
+	"name": "Duke's RPG for Doom",
+	"description": "This replaces the rocket launcher with Duke's mighty RPG. This >should< work with Doom, Doom II, and any of the source ports. It has been tested with Boom, Zdoom, and Smack My Marine Up. I recomend using it with a port that has a good crosshair, like Smack My Marine Up.",
+	"date": "2014-12-10 22:46:34",
+	"files": [
+		{
+			"filename": "duke_rpg.wad",
+			"size": 52584,
+			"crc": 190866758,
+			"md5": "632689e7cca111dafce2af0b685a8227",
+			"sha1": "bc10118e366de63b6c61896fcd1fad9d2f348980",
+			"sha256": "ea89798a870f29aba9748906d9f04fbc95dad8f57a361a5d170bab1cde81ca21"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nukedump.wad",
+	"name": "Nukage Dump",
+	"description": "Techbase map replacing E1M3.",
+	"date": "2014-12-13 12:46:33",
+	"files": [
+		{
+			"filename": "nukedump.wad",
+			"size": 130128,
+			"crc": 3955126559,
+			"md5": "f0d8b0be94458b918f6ca5405229653e",
+			"sha1": "55a41f7d8a8304581af6c4f11c6c2a8ed903ca7c",
+			"sha256": "64d2db1f108cbfb540018aff2ed663448fd934f5355058074c453c374355c394"
+		}
+	]
+}

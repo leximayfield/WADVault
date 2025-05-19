@@ -1,0 +1,17 @@
+{
+	"uid": "nitemare (383d98).wad",
+	"name": "NITEMARE.WAD",
+	"description": "This patch file is for E1M1. Try it at first without the map or any cheats. It's my first attempt and hopefully not my last! Have fun!",
+	"version": "383d98",
+	"date": "2013-11-02 15:49:08",
+	"files": [
+		{
+			"filename": "nitemare.wad",
+			"size": 36287,
+			"crc": 3850115722,
+			"md5": "710978f1fa2b5ed778fcbf01fb94cfee",
+			"sha1": "383d986265c28b4b5a1556a6eb134f0a476446ee",
+			"sha256": "89a1d611b3fe5d973bf43a48e0553d3967585ff6efbaf8ab402142c82fda5ccb"
+		}
+	]
+}

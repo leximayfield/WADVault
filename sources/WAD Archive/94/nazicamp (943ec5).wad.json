@@ -1,0 +1,17 @@
+{
+	"uid": "nazicamp (943ec5).wad",
+	"name": "Nazi Camp",
+	"description": "I was participating in a 1 hour speedmapping event and the theme was \"nazi camp\" so I made a nazi camp. It's kinda decent for an 1 hour job.",
+	"version": "943ec5",
+	"date": "2015-12-29 15:36:18",
+	"files": [
+		{
+			"filename": "nazicamp.wad",
+			"size": 864963,
+			"crc": 1453248663,
+			"md5": "332080e3ef7055abcb5fb6ccc4059770",
+			"sha1": "943ec5365a7be9c2f25ba1026589dab8d0957004",
+			"sha256": "7de95f7038c75cd33818e496de5018edfcd772f7a613ccd18ce7ba6223ddc609"
+		}
+	]
+}

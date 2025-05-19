@@ -1,0 +1,16 @@
+{
+	"uid": "bi.wad",
+	"name": "Bloody Ice",
+	"description": "Welcome to the bloody snowy island. Throughout the level, you will walk through snow and blood. Music is \"Death Rattle\" from Tactics Ogre. This level was updated on 3-19-2019. Changes since the last release include fixing some unaligned textures, adding Doom 3 and death sounds from Hard Doom, and removing unused textures. Demo can be found at: https://www.youtube.com/watch?v=RpfXqJzERus",
+	"date": "2019-03-22 22:04:14",
+	"files": [
+		{
+			"filename": "bi.wad",
+			"size": 12860032,
+			"crc": 386656611,
+			"md5": "7aaf91b9978ba12d54db696e667201bf",
+			"sha1": "e787b359a687e260b0f74e043d771b64f2937ef6",
+			"sha256": "4828b32a217f1797b02349da570a2a724e153eb9827fcf7615e2c5e3d7acd0d9"
+		}
+	]
+}

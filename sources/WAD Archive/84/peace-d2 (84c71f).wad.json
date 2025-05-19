@@ -1,0 +1,17 @@
+{
+	"uid": "peace-d2 (84c71f).wad",
+	"name": "PEACE-D2.WAD (Peace for Doom 2)",
+	"description": "This is the DOOM ][ release of peace.wad. If you like fast gameplay with big weapons (like MAP 7) you will enjoy this pwad.",
+	"version": "84c71f",
+	"date": "2013-11-02 17:00:43",
+	"files": [
+		{
+			"filename": "peace-d2.wad",
+			"size": 66027,
+			"crc": 1756850007,
+			"md5": "1c7843e3b2a161e3bd45eef78ab87992",
+			"sha1": "84c71f716222277f93a175ee2559ce215f170b1b",
+			"sha256": "e760f02aba612b428f9f5bdeae7052b1cad68c759dd25055b64178fd7dce8572"
+		}
+	]
+}

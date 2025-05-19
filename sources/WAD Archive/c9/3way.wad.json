@@ -1,0 +1,16 @@
+{
+	"uid": "3way.wad",
+	"name": "3-Way",
+	"description": "A fun deathmatch wad! Very good with 2 players. A fragfest with 4!",
+	"date": "2013-04-18 23:07:04",
+	"files": [
+		{
+			"filename": "3way.wad",
+			"size": 22127,
+			"crc": 2487287291,
+			"md5": "bb4371086911964dc7383902819d2e5f",
+			"sha1": "c97b5b89c02b43e5bb4c7cb0df172dfca8b84102",
+			"sha256": "3788f4e24872f4870d8c2a0543b2320788709671a0d5afe478544bd6fd31c0f0"
+		}
+	]
+}

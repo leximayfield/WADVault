@@ -1,0 +1,17 @@
+{
+	"uid": "mikes (3b7c2d).wad",
+	"name": "MIKES.WAD",
+	"description": "E1m1 - E1m4 Deathmatch. Minimal weaponry to add some skill and technique to the levels... ie: shoot, then while the opponent is still recovering from \"red-out\", duck out and come in another way. : E2m1 - Co-op, Deathmatch, or single player.",
+	"version": "3b7c2d",
+	"date": "2013-11-02 16:48:56",
+	"files": [
+		{
+			"filename": "mikes.wad",
+			"size": 293479,
+			"crc": 2806044672,
+			"md5": "67a5579af04640d65ee30d493618f3ef",
+			"sha1": "3b7c2d3a19d1a18d8d7d3887dca46ff1bc3aa091",
+			"sha256": "6e423bf91335b280a8f4f81af2f16eb562270630173fa0862fb5d479c274b45b"
+		}
+	]
+}

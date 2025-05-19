@@ -1,0 +1,16 @@
+{
+	"uid": "drfv.wad",
+	"name": "Disparate Realities",
+	"description": "A set of 9 slaughtermaps designed to be played from pistol starts. 10th map is an end map with no gameplay (MAP08).",
+	"date": "2019-03-04 04:33:13",
+	"files": [
+		{
+			"filename": "drfv.wad",
+			"size": 27632089,
+			"crc": 4243252737,
+			"md5": "001797e65a34b2d3041007c7c895434e",
+			"sha1": "958319c4850fbb533ddbff3fb39d0d15e604befa",
+			"sha256": "48dcd1b9f776b14fd7b4bdb9dd60509a3d6690af9f107f26ad5880b9677aac4b"
+		}
+	]
+}

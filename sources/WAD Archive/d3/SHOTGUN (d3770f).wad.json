@@ -1,0 +1,17 @@
+{
+	"uid": "SHOTGUN (d3770f).wad",
+	"name": "The unofficial DooM shotgun FAQ v. 3.0, 7/2/98",
+	"description": "A detailed description of the shotgun in DOOM, DOOM II, and THE ULTIMATE DOOM. There is also a WAD and a demo-lmp included, that show you the working of that weapon.",
+	"version": "d3770f",
+	"date": "2015-09-15 16:34:14",
+	"files": [
+		{
+			"filename": "SHOTGUN.wad",
+			"size": 15253,
+			"crc": 32811989,
+			"md5": "fa5dd5b3d94e7af654bd16fecff485b1",
+			"sha1": "d3770f109e275e6d7dd5dbbf3be378a9082b00e9",
+			"sha256": "73bec55f0640eb7c7c93eacb902796f1908ae1aab93d86d46b035c8dafaa9c85"
+		}
+	]
+}

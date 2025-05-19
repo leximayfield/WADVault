@@ -1,0 +1,17 @@
+{
+	"uid": "ravenlft (137525).wad",
+	"name": "RAVENLFT.WAD",
+	"description": "This WAD was based on the original Ravenloft module for AD&D 1st edition. I always thought that it was one of the best dungeons ever made. Almost all internal structures were recreated, using teleports at the stairs. Some structures were ignored, some were altered, but in the main the original castle is represented here.",
+	"version": "137525",
+	"date": "2014-01-07 21:57:35",
+	"files": [
+		{
+			"filename": "ravenlft.wad",
+			"size": 701357,
+			"crc": 2708534176,
+			"md5": "5d3d96f6c4943ca9202e25f7f32f89e5",
+			"sha1": "1375256e7bef300d82850f2ddd98165fcd9c7c99",
+			"sha256": "e0578429dd64f3dddf9187d0350cfd3fe1f37f9c3f94a36ec8b10490553cbdbe"
+		}
+	]
+}

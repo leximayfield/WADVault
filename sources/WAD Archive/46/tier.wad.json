@@ -1,0 +1,16 @@
+{
+	"uid": "tier.wad",
+	"name": "Tier",
+	"description": "A nice deathmatch level with dark yard, buildings and more stuff. WEAPONS' SOUNDS AND SPRITES THAT I MADE! SO GIVE A CREDIT",
+	"date": "2014-12-15 22:58:41",
+	"files": [
+		{
+			"filename": "tier.wad",
+			"size": 245900,
+			"crc": 2598714685,
+			"md5": "ff09331c89c8f8baa2ca76ab56a1de11",
+			"sha1": "4649442776bff613b97ee7b0711be3e0d34f98a2",
+			"sha256": "2aa320f833307c1af300e133463f9ca4505dfa76423b4e903fc4f2a38842955d"
+		}
+	]
+}

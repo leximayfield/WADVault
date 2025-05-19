@@ -1,0 +1,16 @@
+{
+	"uid": "casah.wad",
+	"name": "casa",
+	"description": "This wad intended to be my house and a little part of my neighbourhood, but now I don't think my neighbours would recognize it (not even my mother recognized the house!)",
+	"date": "2014-12-30 11:34:41",
+	"files": [
+		{
+			"filename": "casah.wad",
+			"size": 144879,
+			"crc": 3421609335,
+			"md5": "e38c69b0f45662e2f7ec36f49448ad79",
+			"sha1": "bcb02b1aa048e734e51e4da0a6a634ab03825cf0",
+			"sha256": "07bafe12dcd4b142eb4b8d745ea96d0a81facf9f4be5b8db5ab068904353fe59"
+		}
+	]
+}

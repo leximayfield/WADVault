@@ -1,0 +1,17 @@
+{
+	"uid": "ktulu (ce202b).wad",
+	"name": "The Call Of Ktulu",
+	"description": "The Call Of Ktulu by Metallica, inspired by HP Lovecraft's Call Of Cthulu, and supposed to be a call to a malignant god. Appropriate huh!",
+	"version": "ce202b",
+	"date": "2015-09-14 20:34:43",
+	"files": [
+		{
+			"filename": "ktulu.wad",
+			"size": 92612,
+			"crc": 2525527177,
+			"md5": "2d5830891c8a1ff97fb7e4fed2ebb7fb",
+			"sha1": "ce202b80a7bdb946c9b19af3d4e27041389c3f2e",
+			"sha256": "d792b957e7177a9a60e977bb345056e7879664552fed8e7fbe416412737c2c6a"
+		}
+	]
+}

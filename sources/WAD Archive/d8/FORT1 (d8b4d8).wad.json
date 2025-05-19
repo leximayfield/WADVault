@@ -1,0 +1,17 @@
+{
+	"uid": "FORT1 (d8b4d8).wad",
+	"name": "FORT1.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. You must invade the fort, kill the monsters and then defend it from your enemy. There are a few secrets here and there. Sorry, but there is no BFG!",
+	"version": "d8b4d8",
+	"date": "2014-08-30 14:35:25",
+	"files": [
+		{
+			"filename": "FORT1.wad",
+			"size": 71665,
+			"crc": 3384207466,
+			"md5": "06ae3b233356d2b115b90b7c6eed8984",
+			"sha1": "d8b4d80aa3ffa8b5651f51af4b22dfd6ebee71e1",
+			"sha256": "05f4a17a6c5c152882782d21956dc2832a64bab39deceaef3bb6204236c7f66a"
+		}
+	]
+}

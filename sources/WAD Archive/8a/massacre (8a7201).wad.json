@@ -1,0 +1,17 @@
+{
+	"uid": "massacre (8a7201).wad",
+	"name": "MASSACRE 2.0 (2044380 Bytes)",
+	"description": "There are many brain twisting PWADS on the internet where you get crazy finding your way through, or have to figure out how to kill hundreds of monsters with only six bullets. These three maps are designed to give you a happy slaughter time. There is both enough monsters and ammo, so you can realy beat them up. By the way, my maps are pretty large, so it will take you some time to get through. I tried to make them even larger but the DOOM II engine couldn't handle them anymore. I also replaced most of the SOUNDS by new realistic ones.",
+	"version": "8a7201",
+	"date": "2018-04-16 08:08:49",
+	"files": [
+		{
+			"filename": "massacre.wad",
+			"size": 2044380,
+			"crc": 2949085066,
+			"md5": "3c8de8898b6bf4564e114a7ebc769fb0",
+			"sha1": "8a720184c103f322973f11fbb864cc3d08f0e98d",
+			"sha256": "5de8a8d041e547bae9511615ae855a3863969001f0688c2e418a42a7124f307d"
+		}
+	]
+}

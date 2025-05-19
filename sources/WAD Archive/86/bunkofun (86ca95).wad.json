@@ -1,0 +1,17 @@
+{
+	"uid": "bunkofun (86ca95).wad",
+	"name": "BunkOFun",
+	"description": "deathmatch level",
+	"version": "86ca95",
+	"date": "2014-12-03 19:58:55",
+	"files": [
+		{
+			"filename": "bunkofun.wad",
+			"size": 41988,
+			"crc": 1173006762,
+			"md5": "a5fef43a7ea94d4410463016734c57cc",
+			"sha1": "86ca95b2c92eaa2aaf913d6bd59bd627bc1f103d",
+			"sha256": "e2d6728e32b1cba81c1aaccf1b1fa63d87bd170bc974a20eae2ba63ad4d0229f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zzone (07daae).wad",
+	"name": "ZZONE.WAD",
+	"description": "This level is designed for DEATHMATCH play. It's a room full of obstacles, lifts, ambush places and rocket launchers.",
+	"version": "07daae",
+	"date": "2015-12-07 13:48:42",
+	"files": [
+		{
+			"filename": "zzone.wad",
+			"size": 26636,
+			"crc": 612595464,
+			"md5": "7bd397910c126df09215545ecba76434",
+			"sha1": "07daae95fca71d159799bf7bdf1c69607223dba7",
+			"sha256": "609dbc6bd7b29a556db1f8b2fd76023f778840c4b78240efd19d5a2835a98782"
+		}
+	]
+}

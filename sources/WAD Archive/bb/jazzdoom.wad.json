@@ -1,0 +1,16 @@
+{
+	"uid": "jazzdoom.wad",
+	"name": "Jazz Doom",
+	"description": "A collection of jazz MIDI files I have in my collection. I suggest merging it with the main IWAD if you like it. DeuSF included. To merge, copy DeuSF.exe and jazzdoom.wad to your Doom II dir, and at the MS-DOS prompt type: deusf -merge jazzdoom.wad To restore: deusf -restor",
+	"date": "2015-01-11 14:14:30",
+	"files": [
+		{
+			"filename": "jazzdoom.wad",
+			"size": 824619,
+			"crc": 1212783527,
+			"md5": "8166ad4066f4b72a4b6e2844b7c25aea",
+			"sha1": "bba0cd3301bf2cf6aa4352a18bbddedcfe264325",
+			"sha256": "f59f61158d35fc3bc866afae4148c2c8731f37bbd6c625fe944abf167a3b3d47"
+		}
+	]
+}

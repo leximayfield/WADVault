@@ -1,0 +1,16 @@
+{
+	"uid": "bdwhell.wad",
+	"name": "FROM OUT OF THE WAD BIN... 'Bdw Hell'",
+	"description": "I started making this like 5 or 6 years ago. The aim was to make a megawad, changing every level in doom2.",
+	"date": "2014-12-15 23:13:50",
+	"files": [
+		{
+			"filename": "bdwhell.wad",
+			"size": 265760,
+			"crc": 4220745735,
+			"md5": "bbe603ae04fd5f8c62d6e2c39b49a31d",
+			"sha1": "8dce4ebffd2db468d91c7e03a2e7420923e4de2e",
+			"sha256": "8ba650f3fd493f9fda6f2c4d1da6132a3e2b7d560984543a304919d4ea116b81"
+		}
+	]
+}

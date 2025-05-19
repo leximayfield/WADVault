@@ -1,0 +1,17 @@
+{
+	"uid": "base (e1b0d5).wad",
+	"name": "Base32",
+	"description": "a small base style level",
+	"version": "e1b0d5",
+	"date": "2014-12-21 16:59:50",
+	"files": [
+		{
+			"filename": "base.wad",
+			"size": 123530,
+			"crc": 917567200,
+			"md5": "4271b0f1fe219ae74c80ff0f56595c43",
+			"sha1": "e1b0d5a028f32707ca7752509bc6a7419c84e829",
+			"sha256": "b5d201d71a2d1a29adcbc7ee6e030de659e8e80583344f7509ca53947186e5a3"
+		}
+	]
+}

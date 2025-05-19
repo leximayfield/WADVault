@@ -1,0 +1,17 @@
+{
+	"uid": "overdose (3d0205).wad",
+	"name": "Doxylamine Moon: Overdose",
+	"description": "TURN OFF \"try to evulate IT\"! The map is in fact a reinterpretation and continuation of my map from Sacrament wad. Major differences: - The map became \"playable\", e.g. there are many monsters in it (this was the main goal of remaking the original). - New locations added. Hope they are as successful as those in \"Doxylamine Moon\" in Sacrament. - Automap added and handled properly. - Also, old locations have been slightly modified. Now, a few words about the plot. Generally it's based on the Sacrament wad story: It's the End of the World. All unworthy people see each other as monsters, including the protagonist. The action is taking place later than the Sacrament.wad's plot. The protagonist wakes up in a museum, where he passed out for a while - due to an overdose. By this time the End of the World has entered the final phase long ago (it began in the end of Sacrament.wad), and among other things, the wet areas became freezing (slightly). The main character, of course, is not aware of what's going on, so he must think what to do in this situation.",
+	"version": "3d0205",
+	"date": "2019-03-19 22:42:54",
+	"files": [
+		{
+			"filename": "overdose.wad",
+			"size": 13067109,
+			"crc": 1561150431,
+			"md5": "046557e931e62ab161b3de204396308c",
+			"sha1": "3d020536371893564566f0f655c77c8244b70c38",
+			"sha256": "e3752aed581fe24ffe59143197a070331016c1141f8473b63d8ada86150c4475"
+		}
+	]
+}

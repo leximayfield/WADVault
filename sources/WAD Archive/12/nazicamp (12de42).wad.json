@@ -1,0 +1,17 @@
+{
+	"uid": "nazicamp (12de42).wad",
+	"name": "Nazi Camp",
+	"description": "You've been sent into a Nazi Camp to destoy their main communications computers. On this mission, your on your own. This one has a good Single player layout. DeathMatch and CoOp are implemented also.",
+	"version": "12de42",
+	"date": "2015-02-21 09:01:46",
+	"files": [
+		{
+			"filename": "nazicamp.wad",
+			"size": 248816,
+			"crc": 3517657329,
+			"md5": "d0b8eea98ee3c9dce1a86b3916a43eb2",
+			"sha1": "12de420e574a89f262f0bfd061056545f44ca697",
+			"sha256": "ee1fd798cce72c041d4853067d12f9cbc6893586e4e21789c525d015b58ac03f"
+		}
+	]
+}

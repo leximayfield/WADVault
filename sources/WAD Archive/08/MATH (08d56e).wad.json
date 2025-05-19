@@ -1,0 +1,17 @@
+{
+	"uid": "MATH (08d56e).wad",
+	"name": "Maths Lesson",
+	"description": "This wad was desinged during a pure maths lesson and was going to be a deathmatch but its not now!!",
+	"version": "08d56e",
+	"date": "2014-11-01 14:56:03",
+	"files": [
+		{
+			"filename": "MATH.wad",
+			"size": 61903,
+			"crc": 24661027,
+			"md5": "4524bcb0646091c429bcc1b0561e7ece",
+			"sha1": "08d56ed714f78c7f095c3123ab90460edd8deec3",
+			"sha256": "a9ff15d6e7153eb1e13be12231fae4bfa106456510d24c9f17f6caf8d2b6a967"
+		}
+	]
+}

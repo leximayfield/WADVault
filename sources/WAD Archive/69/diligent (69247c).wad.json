@@ -1,0 +1,17 @@
+{
+	"uid": "diligent (69247c).wad",
+	"name": "Diligent",
+	"description": "clean deathmatch level and single : player level obejct is just kill all.",
+	"version": "69247c",
+	"date": "2016-02-07 20:38:22",
+	"files": [
+		{
+			"filename": "diligent.wad",
+			"size": 82510,
+			"crc": 1408450659,
+			"md5": "6d104c6388d5df44bab99c0441b6c10d",
+			"sha1": "69247c5ece937a000c71f51916acc85f0bdb6398",
+			"sha256": "db2ac15aa6932a6f4ccace60fbea8295e516e10c6b91e1f2fd630825f4c161ec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "stahl1 (1c411a).wad",
+	"name": "STAHL1.WAD",
+	"description": "Medium sized deathmatch WAD. Excellent gameplay due to *extensive* playtesting. If the rocket launcher is your weapon of choice, you'll drool over this one. Wide multi-story areas, fast access to (almost...) evey position, sniper windows everywhere - but you can never be sure, your opponent won't slide behind your back while you try to catch a breath. This is a *fast* level which means: 1) You will not find a BFG in here. 2) You will not find poison pools. 3) You will not find jails. If you are disappointed by that, E-MAIL us. We will send you in return a personalized copy of our infamous WAD \"classics of suck\". Enough said. Now go out and do a clean job.",
+	"version": "1c411a",
+	"date": "2013-11-04 19:20:17",
+	"files": [
+		{
+			"filename": "stahl1.wad",
+			"size": 238224,
+			"crc": 2709164460,
+			"md5": "778437db542f6e4404cd62bd4588922c",
+			"sha1": "1c411a4670ad5ea559d7305b5aeef6af216cfdea",
+			"sha256": "11d7eb8447941b22edccb98d11fb2937325a1edb55200ef92ba632711cb0baa6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bittersweet (6ad76f).wad",
+	"name": "Bittersweet *UNFINISHED*",
+	"description": "To play, simple step onto the plate across the blood pool and wait for a chime. Hit use to start. When the loading screen says READY, hit use again to begin. Kill everything and return to an angel pad. Beat the bosses to open the books, and repeat.",
+	"version": "6ad76f",
+	"date": "2014-03-10 11:46:06",
+	"files": [
+		{
+			"filename": "bittersweet.wad",
+			"size": 38076729,
+			"crc": 939007361,
+			"md5": "c2e906250ca745931f11ace1c37bfb70",
+			"sha1": "6ad76f1997e75d3791208c0312ac71b029957db0",
+			"sha256": "139120602c508a9e66a48f70bd5ef52cba856f30dbdba6f537c490bc89ba9733"
+		}
+	]
+}

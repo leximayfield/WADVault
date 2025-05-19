@@ -1,0 +1,16 @@
+{
+	"uid": "algae.wad",
+	"name": "Algae.wad",
+	"description": "Algae.wad is an 9 level wadfile for your Doom2 registered version",
+	"date": "2013-11-03 17:48:52",
+	"files": [
+		{
+			"filename": "algae.wad",
+			"size": 875614,
+			"crc": 1920041883,
+			"md5": "909b985927b62ee161efc28d077c2a37",
+			"sha1": "815d132c66a76f58c30fbe4f6f4bde4343b59d8e",
+			"sha256": "5f883a3b277d9f642179849b1c999100185142457670e59bf0312317eb484fb6"
+		}
+	]
+}

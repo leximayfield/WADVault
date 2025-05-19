@@ -1,0 +1,17 @@
+{
+	"uid": "bludsprt (97f94e).wad",
+	"name": "BludSport",
+	"description": "Primarily a Deathmatch level, but single player and cooperative games are supported. Imagine each player (in Deathmatch) is dropped into a WORLD of pain before turning on each other. If you and your buddies want to run around an underground, multi-leveled assylum, plug it in and face your fears!",
+	"version": "97f94e",
+	"date": "2013-11-02 15:43:12",
+	"files": [
+		{
+			"filename": "bludsprt.wad",
+			"size": 67071,
+			"crc": 1362177373,
+			"md5": "6967d028270a9b99deee8ff67e9676e0",
+			"sha1": "97f94e0bd335521a6e500498d3f34dae98c20134",
+			"sha256": "2d2a9343b68491934faa69fd338fd01665332facfd49b6419c035680441b4bba"
+		}
+	]
+}

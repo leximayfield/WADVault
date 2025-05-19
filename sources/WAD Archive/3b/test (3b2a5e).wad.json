@@ -1,0 +1,16 @@
+{
+	"uid": "test (3b2a5e).wad",
+	"name": "TEST.LMP - Multiplayer Hanger",
+	"version": "3b2a5e",
+	"date": "2013-11-02 15:58:16",
+	"files": [
+		{
+			"filename": "test.wad",
+			"size": 63725,
+			"crc": 1309974326,
+			"md5": "fcdd7eb77d721405a2bb7121081ef8ed",
+			"sha1": "3b2a5e03f3a71f16291475ef09af45dd55682f0e",
+			"sha256": "bd4f15445eca06333e6a17b817c87fcf0f0065893377b8a8e679a1e86a854c97"
+		}
+	]
+}

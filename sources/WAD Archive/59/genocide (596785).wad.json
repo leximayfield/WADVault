@@ -1,0 +1,17 @@
+{
+	"uid": "genocide (596785).wad",
+	"name": "GENOCIDE",
+	"description": "Another great DooM ][ WAD file from the makers of Gateway to Hell and Return to Hell. This is recommended for single player games, but DeathMatch and Cooperative (2-4 players) is available. Also included is a Dehacked patch (v2.3) that makes our level even harder!",
+	"version": "596785",
+	"date": "2014-12-18 22:47:32",
+	"files": [
+		{
+			"filename": "genocide.wad",
+			"size": 305348,
+			"crc": 58544493,
+			"md5": "f60950d48ed464dfdec975023abb2804",
+			"sha1": "5967854b4631fd3b52b4908620aaa8999380cd94",
+			"sha256": "34969f6f496242b61f833f7216c0bdfbacc9caccc9decc3cd9c5dd78a4261ab8"
+		}
+	]
+}

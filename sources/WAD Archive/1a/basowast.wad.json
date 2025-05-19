@@ -1,0 +1,16 @@
+{
+	"uid": "basowast.wad",
+	"name": "Base of Waste",
+	"description": "First map that I release. Short (for about 5 minutes). Vanilla compatible, for Doom 1. 2 secrets. Very easy, especially if you find both secrets. Also, notice the lack of 90 degree corners! I started this a long time ago as a speedmap, but abandoned it for some time. 2 days ago, I felt like mapping, so I finished it. I was thinking of making sequels, because this feels a lot like some first map to an episode. Maybe I'll make a sequel or two someday. == STORY THAT I MADE UP AFTER MAKING THE MAP == You were watching the news, when they reported a weird accident in a local military base. You heard about the base in the news already - hippies were protesting against them, because they apparently were creating a lot of nuclear waste. \"Huh, they deserved it.\" you think. Nevertheless, since you've always been appealed by such mysterious accidents, you decided to go and check stuff out...",
+	"date": "2015-09-15 13:14:31",
+	"files": [
+		{
+			"filename": "basowast.wad",
+			"size": 164332,
+			"crc": 3906973233,
+			"md5": "d9fc4d19095067cf4e1b3106a8768bac",
+			"sha1": "1abd3d6febee07a842342829a20d423a8e50bc1e",
+			"sha256": "a549aa8b23e5caf9ebb524ade7688ea0649bb126aba9dcb38bcb55955b22b007"
+		}
+	]
+}

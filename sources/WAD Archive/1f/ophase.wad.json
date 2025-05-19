@@ -1,0 +1,16 @@
+{
+	"uid": "ophase.wad",
+	"name": "OUT OF PHASE",
+	"description": "This is a level set in some sort of tech base that's floating in the air! This is probably the result of something the UAC did, but as far as you're concerned, it's staying alive that matters.",
+	"date": "2015-09-15 13:30:06",
+	"files": [
+		{
+			"filename": "ophase.wad",
+			"size": 62820,
+			"crc": 3310394964,
+			"md5": "11c8cd9241193df32e85fb2f7feea662",
+			"sha1": "1f83e03efef386d67756fa29576efbd6768872ad",
+			"sha256": "eb9fd2e47dd490e9ac475d1472b2dc8ff804e2ba5cecfcac8440109b3a059fbd"
+		}
+	]
+}

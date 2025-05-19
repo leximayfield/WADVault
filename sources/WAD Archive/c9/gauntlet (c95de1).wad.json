@@ -1,0 +1,17 @@
+{
+	"uid": "gauntlet (c95de1).wad",
+	"name": "The Gauntlet",
+	"description": "This is my first level, so it probably sucks. But, at least I tried to make it tough to get through, and I tried to use SOME architecture. The basic layout is pretty much castle like, and some of the traps are real easy to spot, but they all seem to work well. :)",
+	"version": "c95de1",
+	"date": "2013-07-09 20:22:49",
+	"files": [
+		{
+			"filename": "gauntlet.wad",
+			"size": 392197,
+			"crc": 2399722560,
+			"md5": "18b067b24b64620f17ae8c43739bb853",
+			"sha1": "c95de189951d0f67096aba9e871bd7f9ad90d773",
+			"sha256": "34bb07811782756b9b0977f4a71e27ecfce10b21dc58b9c2bda35fafda848602"
+		}
+	]
+}

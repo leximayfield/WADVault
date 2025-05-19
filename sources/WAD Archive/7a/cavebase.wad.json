@@ -1,0 +1,16 @@
+{
+	"uid": "cavebase.wad",
+	"name": "Cavebase.wad",
+	"description": "You are in a cave base, you start out in the",
+	"date": "2014-12-15 23:03:32",
+	"files": [
+		{
+			"filename": "cavebase.wad",
+			"size": 62093,
+			"crc": 913968639,
+			"md5": "4de59d7e603ad6232878b863abc5b1af",
+			"sha1": "7a165b2bd721655786f80f0cba253055a4fc0a07",
+			"sha256": "1a8f407e62d0d0d81a367be7d0574f471a7a7e9ee9db0b1aa18fb7ee7550ca6b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "milart.wad",
+	"name": "Military Artifact",
+	"description": "It's my first map and it's terrible, but I decided to share it. I will be uploading more maps in the future!",
+	"date": "2015-09-14 20:34:01",
+	"files": [
+		{
+			"filename": "milart.wad",
+			"size": 11019,
+			"crc": 3654509622,
+			"md5": "13c1ea1e2ea5e5d90d38f0e48cea7f85",
+			"sha1": "11995e223acccb9bfd9c8e8d451e934b9794f1c6",
+			"sha256": "79a628b86e56e211b01fe1644d87474166d6dd877bff02a8949e9bb54003e6c4"
+		}
+	]
+}

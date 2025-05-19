@@ -1,0 +1,17 @@
+{
+	"uid": "zickwad (530b6d).wad",
+	"name": "DickWad",
+	"description": "A WAD with multiple levels, not-so-new sounds, new graphics, lots of secrets, deception, and evil tricks. Best on 486.",
+	"version": "530b6d",
+	"date": "2014-12-03 20:08:00",
+	"files": [
+		{
+			"filename": "zickwad.wad",
+			"size": 1637676,
+			"crc": 3110016167,
+			"md5": "f9d5024561f0038e35fae52c79295df7",
+			"sha1": "530b6deefb0bdf5781eba5e7c693c0d75cd48f32",
+			"sha256": "b5218843c40c89b318498d4a7e700d5f12cceaf81bc80aa4242fc1394a5d3db1"
+		}
+	]
+}

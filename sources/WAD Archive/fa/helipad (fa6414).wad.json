@@ -1,0 +1,17 @@
+{
+	"uid": "helipad (fa6414).wad",
+	"name": "HELIPAD.WAD",
+	"description": "This level doesn't work as well as anything but the first level in an",
+	"version": "fa6414",
+	"date": "2015-12-07 08:43:25",
+	"files": [
+		{
+			"filename": "helipad.wad",
+			"size": 90719,
+			"crc": 1219944352,
+			"md5": "88ef48333b9514074fe01c85db606639",
+			"sha1": "fa6414888926b5a9820fc04ca1ceb5c1465bb51b",
+			"sha256": "49d30af3b8931a86715474a0c8a43fba70893210c8f788f96273dd044217e8a8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "choppas (b535ca).wad",
+	"name": "Chainsaws-a-go-go.",
+	"description": "Its the annual buzzsaw festival, need I say more. A great way to relieve stress. Can be used as single player with monsters or as a deathmatch. For best results either ban the use of the pistol or use a hack to give the players no bullets. This wad probably works better in deathmatch2. Happy hacking, slashing, cutting, chopping.",
+	"version": "b535ca",
+	"date": "2015-12-07 07:34:35",
+	"files": [
+		{
+			"filename": "choppas.wad",
+			"size": 16942,
+			"crc": 768687122,
+			"md5": "72b47d2d41ffe341d84a8a175ab7504d",
+			"sha1": "b535cab05e08773088235d40bd8715f024fbc10d",
+			"sha256": "edc77bcdb6cb6b91b2abbde360b00669cd21a98970f24299f299925a10c10e91"
+		}
+	]
+}

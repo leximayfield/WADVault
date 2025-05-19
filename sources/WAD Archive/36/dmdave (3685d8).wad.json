@@ -1,0 +1,17 @@
+{
+	"uid": "dmdave (3685d8).wad",
+	"name": "Dave.WAD",
+	"description": "This is a practice level I made to try out the Doom Editor-The Real Thing.",
+	"version": "3685d8",
+	"date": "2013-11-02 16:40:17",
+	"files": [
+		{
+			"filename": "dmdave.wad",
+			"size": 56489,
+			"crc": 1567948309,
+			"md5": "73dc8779fb8bb3beae15260c402777da",
+			"sha1": "3685d85934f1f97d230acb48a94c6f0f5e036a43",
+			"sha256": "0790a9f131c46543dea2fd01bd0d4ace971f2ec4e48d630127599f6b0a56de7d"
+		}
+	]
+}

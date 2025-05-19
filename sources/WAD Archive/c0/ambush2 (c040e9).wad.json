@@ -1,0 +1,17 @@
+{
+	"uid": "ambush2 (c040e9).wad",
+	"name": "Ambush2",
+	"description": "Deathmatch level with some cool visual effects and some Quake Sound FX.",
+	"version": "c040e9",
+	"date": "2014-12-15 22:50:23",
+	"files": [
+		{
+			"filename": "ambush2.wad",
+			"size": 495283,
+			"crc": 4012744129,
+			"md5": "b877305347ac7e3be1756aa3e37fecbd",
+			"sha1": "c040e97f8d6672776092ff756ae60fa4983c4dd5",
+			"sha256": "70f7b2fd33288901216163fcf167d8b9624d54860c48168cb653a68e17da2d22"
+		}
+	]
+}

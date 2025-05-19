@@ -1,0 +1,17 @@
+{
+	"uid": "sod (0ccbc2).wad",
+	"name": "Spear of Destiny",
+	"description": "Faithful recreation of the Wolfenstein 3D",
+	"version": "0ccbc2",
+	"date": "2013-09-11 19:59:54",
+	"files": [
+		{
+			"filename": "sod.wad",
+			"size": 7485708,
+			"crc": 1412552236,
+			"md5": "15d3d9059d7e56645f128ba5433cf08f",
+			"sha1": "0ccbc2469746197b169b04c26c746c82edfb14c5",
+			"sha256": "9eab991d9ab69886f2a746020d85e48a71d4b5ca7e38e9f153f064f4667aeeab"
+		}
+	]
+}

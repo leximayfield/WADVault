@@ -1,0 +1,17 @@
+{
+	"uid": "crosfr01 (4838fa).wad",
+	"name": "CROSSFIRE (#1 in a continuing series)",
+	"description": "Cross Fire, a first-effort. That about says it all. (C.Y.A.)",
+	"version": "4838fa",
+	"date": "2013-11-02 15:15:35",
+	"files": [
+		{
+			"filename": "crosfr01.wad",
+			"size": 158333,
+			"crc": 2793746321,
+			"md5": "53c39f0acd108db082c408657913b365",
+			"sha1": "4838fa19cdea0dec6f4cdb60d8e041ef0e84a8bd",
+			"sha256": "55c08ae6e7638db05729a66b33e28de86901b93a4ca5fcd30ee072b974e281b8"
+		}
+	]
+}

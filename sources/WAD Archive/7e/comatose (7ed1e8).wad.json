@@ -1,0 +1,17 @@
+{
+	"uid": "comatose (7ed1e8).wad",
+	"name": "Comatose",
+	"description": "This map originally has been made for \"Pain\" project, but in the result I decided to cut it from there because of some reasons (which I cannot say yet). It is a continuation of the idea of \"Overdose\", but it's not related in terms of the story. A limit of sidedefs in LR format is achieved here, so it is not possible to draw at least one new line at all. Because of this, as well as the abundance of large open spaces with lots of sectors, map may slow down in complex sourceports like ZDoom and it's derivatives, so PrBoom-Plus is HIGHLY recommended. The biggest performance (in terms of FPS) will be in GLBoom-Plus. Also, complevel 2 is necessary. Have a great game.",
+	"version": "7ed1e8",
+	"date": "2016-01-28 23:30:36",
+	"files": [
+		{
+			"filename": "comatose.wad",
+			"size": 47990990,
+			"crc": 2385517053,
+			"md5": "620a681ff6c0c8423cb41b4d32f4506e",
+			"sha1": "7ed1e8829fdddbe52732b819c6fab728ac9c0c3f",
+			"sha256": "c7c996c5c130c350d32ca1c96830d025554c2a655637f998360e0ef0e0ed4942"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "baddream (03b8ec).wad",
+	"name": "BAD DREAM",
+	"description": "Blood, Blood, and watch your back. You wake up, or",
+	"version": "03b8ec",
+	"date": "2013-11-02 15:13:05",
+	"files": [
+		{
+			"filename": "baddream.wad",
+			"size": 108400,
+			"crc": 3864081002,
+			"md5": "26f82bfed864a55696b40f975aad6264",
+			"sha1": "03b8ec6c4fd301666c03aab48b59773c0b1a5d33",
+			"sha256": "9953d61af5f399f4e08a17aafb0c8872733dcf4a1a8fdc4ff2bcb01b4cf42580"
+		}
+	]
+}

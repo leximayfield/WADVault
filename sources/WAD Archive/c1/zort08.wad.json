@@ -1,0 +1,16 @@
+{
+	"uid": "zort08.wad",
+	"name": "Zort 8",
+	"description": "Green rock and some caves and a damn pesky Cyberdemon. It uses a fair amount of neato ZDoom features too.",
+	"date": "2014-12-29 15:30:35",
+	"files": [
+		{
+			"filename": "zort08.wad",
+			"size": 1022348,
+			"crc": 496287891,
+			"md5": "7af1ee1277ddd78cafc795627d905b2a",
+			"sha1": "c1011f41e3e0614258a6e7d8a1b128937f5f096d",
+			"sha256": "3953a1c87fa4738d04570c41c96f8645888df99f95573d4a309c84398f11a7e0"
+		}
+	]
+}

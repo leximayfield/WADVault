@@ -1,0 +1,16 @@
+{
+	"uid": "callisto.wad",
+	"name": "Callisto Anomaly",
+	"description": "A five-level mini-episode with a time-travel element. One of the maps is based on actual plans of the Romans baths in the city of Bath, England.",
+	"date": "2014-12-13 17:26:06",
+	"files": [
+		{
+			"filename": "callisto.wad",
+			"size": 970006,
+			"crc": 1346136072,
+			"md5": "fbac123dcd16767a6ef35013038f0701",
+			"sha1": "9dced2cf370407d1b36452f5f189f1ba7a9de4fe",
+			"sha256": "833bf17c5ea94ec543e8604bd53b0267cf9ca645518d71d4d49a4db9ec0b5558"
+		}
+	]
+}

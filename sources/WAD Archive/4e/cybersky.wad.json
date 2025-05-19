@@ -1,0 +1,16 @@
+{
+	"uid": "cybersky.wad",
+	"name": "XXXI CyberSky",
+	"description": "One level (map31) for limit removing ports. This map contains 39114 sidedefs, so you need port which can handle more than 32767 sidefs. PrBoom-Plus or GZDoom are recommended.",
+	"date": "2013-12-22 18:36:59",
+	"files": [
+		{
+			"filename": "cybersky.wad",
+			"size": 4557912,
+			"crc": 1407745720,
+			"md5": "ee788f1fb722217130f635a7b9db214c",
+			"sha1": "4ea5517e9ca1ca024995349cd2c572b0eaff71f7",
+			"sha256": "7c048e1fb67f05697568e3a0fe9ca7c0f0d4d00d92f7318c210e5c195d8340dd"
+		}
+	]
+}

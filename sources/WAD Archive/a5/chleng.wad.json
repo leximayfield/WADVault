@@ -1,0 +1,16 @@
+{
+	"uid": "chleng.wad",
+	"name": "CHLENG",
+	"description": "One day i decided to make some medieval/magic wad in doom. I made it. End of story.",
+	"date": "2017-06-27 00:20:32",
+	"files": [
+		{
+			"filename": "chleng.wad",
+			"size": 6502126,
+			"crc": 3791309821,
+			"md5": "fd937efacc9c1684d068567c6c6614c9",
+			"sha1": "a53ae3abbf8460fe182c9b7da0c46e86f84b7969",
+			"sha256": "c673196c7d47d894ff56dbae9c3780adf0a96c87ede0534122185a3139cb4645"
+		}
+	]
+}

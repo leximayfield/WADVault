@@ -1,0 +1,17 @@
+{
+	"uid": "RUNAWAY (c8ca8c).wad",
+	"name": "Running Scared",
+	"description": "An elite little map with no ammo or weapons. To beat it you have to use your fists and all that. Don't worry, it's not too hard(even on UV)and there's enough health to keep you alive as long as you don't make any dumb mistakes. And even if you do die, you can look at all the pretty lighting.",
+	"version": "c8ca8c",
+	"date": "2015-01-14 14:40:48",
+	"files": [
+		{
+			"filename": "RUNAWAY.wad",
+			"size": 93746,
+			"crc": 3889193811,
+			"md5": "e4355cb9cdf9590ac56e15a5fae7044d",
+			"sha1": "c8ca8cf4233988f1eac68edccb29d0ffc82fec73",
+			"sha256": "b91ae4dd98ce16d61cd4b85f0c689edce0414e7cb409115da72d84af0f534bff"
+		}
+	]
+}

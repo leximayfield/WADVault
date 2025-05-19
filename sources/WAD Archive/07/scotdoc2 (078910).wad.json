@@ -1,0 +1,17 @@
+{
+	"uid": "scotdoc2 (078910).wad",
+	"name": "SCOTDOC2.WAD",
+	"description": "My second wad. This is smaller than my first one, SCOTDOC1.wad. Have fun.",
+	"version": "078910",
+	"date": "2014-01-04 11:55:41",
+	"files": [
+		{
+			"filename": "scotdoc2.wad",
+			"size": 85664,
+			"crc": 3998905335,
+			"md5": "4d213ab5f1c1dee049124e740195360a",
+			"sha1": "07891032f8195e0f6b3389be313d48c7cd485eac",
+			"sha256": "03aa0d383485d095885c92af4e8b5b0503364b23e5b89eb28dca89c6f0f6b86f"
+		}
+	]
+}

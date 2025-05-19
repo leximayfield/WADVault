@@ -1,0 +1,17 @@
+{
+	"uid": "fragman2 (505bae).wad",
+	"name": "FRAGMAN 2",
+	"description": "GREAT DEATHMATCH WAD converted and re-edited for DOOM II.",
+	"version": "505bae",
+	"date": "2013-11-02 15:37:51",
+	"files": [
+		{
+			"filename": "fragman2.wad",
+			"size": 62337,
+			"crc": 612905540,
+			"md5": "1b99cfb44a29a2b5f709dd325fff7ec7",
+			"sha1": "505baef81ba53b3114741197eea3178a0640ccaa",
+			"sha256": "c08e4a565bcf3c498df22abc012ba9699ebc56e44b28eebc972298a0114be7e5"
+		}
+	]
+}

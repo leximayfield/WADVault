@@ -1,0 +1,17 @@
+{
+	"uid": "dwad (e66fbc).wad",
+	"name": "'D'-WAD",
+	"description": "A WAD with multiple levels, not-so-new sounds, new graphics, lots of secrets, deception, and evil tricks. Best on 486.",
+	"version": "e66fbc",
+	"date": "2013-11-02 15:14:27",
+	"files": [
+		{
+			"filename": "dwad.wad",
+			"size": 1687808,
+			"crc": 1704735821,
+			"md5": "3bb9983cfa5bdef143d77e8f8d44705f",
+			"sha1": "e66fbc2864e3b9f5ea032a697f81e9f4842eb430",
+			"sha256": "9f5172685eebc7829fee8a6eba388aa6181a26e4638f9851aaa89710fff20156"
+		}
+	]
+}

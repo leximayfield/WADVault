@@ -1,0 +1,17 @@
+{
+	"uid": "GEOMETRY (86df36).wad",
+	"name": "The Final Geometry",
+	"description": "The UAC base near Kruger 60 reports odd occurences, then nothing... You are the third team (one guy, what a team...) to be sent in (hope those earlier teams left some ammo...) Clear all otherworldly mutants, secure the base, and live to tell another tale.",
+	"version": "86df36",
+	"date": "2014-01-07 21:54:27",
+	"files": [
+		{
+			"filename": "GEOMETRY.wad",
+			"size": 553553,
+			"crc": 236461178,
+			"md5": "1cff2ab31b11a3825a614c9d497c5239",
+			"sha1": "86df36245ce5f35ee50771b4c49e94e952370856",
+			"sha256": "b0e6bfff73e107cf94fe32f9887dc9dfacd1a8f3a20195329ef313654e02624f"
+		}
+	]
+}

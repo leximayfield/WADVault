@@ -1,0 +1,17 @@
+{
+	"uid": "RH21A (8f2424).wad",
+	"name": "RH21A.WAD",
+	"description": "First level (Bottom) of my new \"Ship of DOOM\".wad.",
+	"version": "8f2424",
+	"date": "2013-11-02 15:44:31",
+	"files": [
+		{
+			"filename": "RH21A.wad",
+			"size": 81262,
+			"crc": 3325166495,
+			"md5": "d01cdf26513c90e0e5167c4299888fcb",
+			"sha1": "8f2424449308e569a79ab333364376af35b2ce95",
+			"sha256": "77709a262355def22a90d15e01be899ce9b750cc0d04812bf0c77de2ffa05c7c"
+		}
+	]
+}

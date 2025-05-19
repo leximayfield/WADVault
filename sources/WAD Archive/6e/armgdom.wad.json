@@ -1,0 +1,16 @@
+{
+	"uid": "armgdom.wad",
+	"name": "ArmageDoom",
+	"description": "My very first wad. A partial TC for Zdoom inspired",
+	"date": "2013-04-19 17:16:05",
+	"files": [
+		{
+			"filename": "armgdom.wad",
+			"size": 36895563,
+			"crc": 384151760,
+			"md5": "1539fecb1a0906c245c56de691494ed0",
+			"sha1": "6e71f29389347ed105bcae58432e8ead83bc0d9e",
+			"sha256": "a5ce94e880146fdad1e76c5d8d092cc3846ca46fbe54fbc7644daf2f97395083"
+		}
+	]
+}

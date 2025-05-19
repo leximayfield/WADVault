@@ -1,0 +1,16 @@
+{
+	"uid": "blofort.wad",
+	"name": "Bloodfall Fortress",
+	"description": "Doomguy gonna infiltrate in this unconquerable fortress and eliminate the threat. Kinda linear level at the beginning, automap is sometimes will be useful. This is my first finished map released to public.",
+	"date": "2014-12-21 17:10:40",
+	"files": [
+		{
+			"filename": "blofort.wad",
+			"size": 771532,
+			"crc": 1129659725,
+			"md5": "a32b347ebc99cc2047bdd1dd6bb2bbfb",
+			"sha1": "c42e7e74ea9716d3739cc6d1e3cb98c95d2119bf",
+			"sha256": "5ce4d78ad07e4fdba388d5b05b9dd2635eec7c3a9d4f790df950dd28fada6b86"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "fragfest (e1a714).wad",
+	"name": "Frag Fest v1.0",
+	"description": "Battle it out with your buddies in a world of transporters and all out hell. But dont be fooled by the fake player in the level!!",
+	"version": "e1a714",
+	"date": "2014-11-01 14:47:58",
+	"files": [
+		{
+			"filename": "fragfest.wad",
+			"size": 102776,
+			"crc": 3002845603,
+			"md5": "d05ffab78acc560f215dd0de384f7f88",
+			"sha1": "e1a7143bf0440a69b1a02c516d85e0e36805b5fa",
+			"sha256": "49b640f329a6170147428b18c3569cf359c9b0933c5970b10d1b330ada45b268"
+		}
+	]
+}

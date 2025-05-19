@@ -1,0 +1,17 @@
+{
+	"uid": "metro (959b3b).wad",
+	"name": "METRO.WAD",
+	"description": "Model of Subway station in St.Petersburg",
+	"version": "959b3b",
+	"date": "2014-12-03 20:14:35",
+	"files": [
+		{
+			"filename": "metro.wad",
+			"size": 46524,
+			"crc": 2206698403,
+			"md5": "9afcd49cb87ac1acf1dca035ab7b76db",
+			"sha1": "959b3b0789db3308603d1d7340adb1b17d1f574d",
+			"sha256": "065a4d6cba7419d6415d344aa6c8ce523ee133607bd94a2062cbabcefb565768"
+		}
+	]
+}

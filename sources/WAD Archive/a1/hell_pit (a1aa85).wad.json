@@ -1,0 +1,17 @@
+{
+	"uid": "hell_pit (a1aa85).wad",
+	"name": "HELL_PIT.WAD",
+	"description": "This WAD is designed with deathmatch play in mind. There are",
+	"version": "a1aa85",
+	"date": "2014-12-15 22:00:43",
+	"files": [
+		{
+			"filename": "hell_pit.wad",
+			"size": 210748,
+			"crc": 3953289150,
+			"md5": "eb3bf5fadaf50646a8c6d35743c1e080",
+			"sha1": "a1aa85a62e024ffc518f9e4961c8fe4f8ca34178",
+			"sha256": "afbc5c593e227c79ec8e9f5cadce9b157677131c84590b9c4eeb076b27dd1a6c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "minipack.wad",
+	"name": "MINIPACK",
+	"description": "Minipack consists of five small but cute levels: Atreju, Burn, Dilweed, Mutant and Cube.",
+	"date": "2015-02-21 09:02:33",
+	"files": [
+		{
+			"filename": "minipack.wad",
+			"size": 243830,
+			"crc": 3449996997,
+			"md5": "c3a03375309e0a91ba3dc0500a352f5b",
+			"sha1": "b5621511c6dfaace0280484ae691d019e815684b",
+			"sha256": "25e63be44fb627472233e6f45c6281f3f3a801eabe9b584d8d6bd100f8b32070"
+		}
+	]
+}

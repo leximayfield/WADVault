@@ -1,0 +1,16 @@
+{
+	"uid": "CABALL.wad",
+	"name": "caball (\"all the cabals\", basically)",
+	"description": "The seven maps included have all been released on idgames and Compuserve earlier, round about the time they were made (vintage 95, check the time stamps ;-). These are slightly altered versions of the original maps, made even more challenging to balance out the accumulative ammos gathered.",
+	"date": "2019-10-09 01:31:29",
+	"files": [
+		{
+			"filename": "CABALL.wad",
+			"size": 1004000,
+			"crc": 2529978827,
+			"md5": "a4a7e7b33233014601e1ba74c5dae1fe",
+			"sha1": "dc8cfe3f2f5437551cad2f9e92991c2d913d70c8",
+			"sha256": "5ed07c63382124793eb8c2881a4d85da15d430d32265c14d8452930ef3f2c2c4"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"uid": "tbooth2.wad",
+	"description": "This is another switchable teleport booth. This uses the ceiling and floor lighting effects as well as scrolling textures.",
+	"date": "2015-09-15 19:22:23",
+	"files": [
+		{
+			"filename": "tbooth2.wad",
+			"size": 10306,
+			"crc": 848005452,
+			"md5": "d4ec581c9a722bd099898fc0407d8a48",
+			"sha1": "a5de133eae08e97943b662664a1991594a18d339",
+			"sha256": "dd9acc98f6dcff5edd487d1b2113814f037468e5fa2fd45eea62772ce79982a5"
+		}
+	]
+}

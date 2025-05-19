@@ -1,0 +1,17 @@
+{
+	"uid": "sphere (0bf83b).wad",
+	"name": "SPHERE.WAD (for DOOM2)",
+	"description": "A more or less symmetrical square maze. It doesn't take long to get used to it so its not something you'll get lost in. There is a central area with a couple of side rooms and 'windows' seperating them from the central area, and passages extending to either side of the map.",
+	"version": "0bf83b",
+	"date": "2013-11-02 16:03:04",
+	"files": [
+		{
+			"filename": "sphere.wad",
+			"size": 27533,
+			"crc": 2086558766,
+			"md5": "12397de9316d6f7bfa53c114f242210b",
+			"sha1": "0bf83bf7f7f0353b43065a95cb36cc94e433881b",
+			"sha256": "56d7fa4cae99649a8d8bd004e85127538cfb741637ca996e9da02072166ae969"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "reddwarf.wad",
+	"name": "Red Dwarf sound fx",
+	"description": "Set the mood here.",
+	"date": "2013-11-04 20:10:02",
+	"files": [
+		{
+			"filename": "reddwarf.wad",
+			"size": 670321,
+			"crc": 632926022,
+			"md5": "3a6ff0eae30a5b6adc622bc1ce325415",
+			"sha1": "1d1e60b63cf3c01b053e73f53d25524de536cf22",
+			"sha256": "dedbf117fcc4c73c34d5672206a5e374410a0f422c9102ebe9e8f39c00e9ee2b"
+		}
+	]
+}

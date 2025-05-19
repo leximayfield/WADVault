@@ -1,0 +1,16 @@
+{
+	"uid": "war (a3b1da).wad",
+	"description": "My first set of Dm levels. The sometimes awkward design actually helps the gameplay. Level 1 is the standout, has a good balance.",
+	"version": "a3b1da",
+	"date": "2014-12-15 21:20:14",
+	"files": [
+		{
+			"filename": "war.wad",
+			"size": 144264,
+			"crc": 708672021,
+			"md5": "53a1221add1012a823125a1cc23cccd5",
+			"sha1": "a3b1dac2e1f5e54ee1f3afb4ba0ea2cc5e7f8449",
+			"sha256": "4b5fcb947d1bc792ea5acfe54c9cd5e52ce4d521d8404c6758237d95237b6b60"
+		}
+	]
+}

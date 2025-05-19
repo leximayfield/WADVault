@@ -1,0 +1,17 @@
+{
+	"uid": "HEPTIC (f13726).wad",
+	"name": "HEPTIC.WAD",
+	"description": "I did not build this level with a lot of tricks and traps in mind, though there are a few of them, but instead as a good old shotgun crawl. You will have a variety of weapons to choose from but you will have to use your resources wisely. I tried to construct this level so that it can be completed if you use your head as well as your trigger finger. Running around blasting wildly at anything that moves may get you to the end of the level, but it may leave you a little short- handed to deal with what might be lurking there. I hope you enjoy this level. It took me a long time to finish it (I am constantly refining and touching up). I originally designed it for single or cooperative, but I have included several death- match starts and with the level's connectivity I think that it could work fairly well in deathmatch. Your responses are welcome and encouraged. Enjoy!!",
+	"version": "f13726",
+	"date": "2013-11-02 15:44:27",
+	"files": [
+		{
+			"filename": "HEPTIC.wad",
+			"size": 115068,
+			"crc": 2113153323,
+			"md5": "464fb8fe61bb8fefd2ef1804cf5d74d0",
+			"sha1": "f13726a0b6b1d8bb7c9a7220aea684eb36b99719",
+			"sha256": "4ebd932d0badfb81a3373b686c0d296fc35f2dd1ae027366a0d900da59b4d892"
+		}
+	]
+}

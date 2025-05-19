@@ -1,0 +1,17 @@
+{
+	"uid": "maso (8954cd).wad",
+	"name": "MASO - The Ultimate Czech mikrolevel",
+	"description": "I was inspired by discussion on Usenet that was dealing with mikro-deathmatch levels. And because I am limited to two-player deathmatch now, I thought we could have some fast action, too. MASO is a Czech expression for \"Meat\", or \"Massacre\" in slang.",
+	"version": "8954cd",
+	"date": "2014-01-07 22:03:13",
+	"files": [
+		{
+			"filename": "maso.wad",
+			"size": 32472,
+			"crc": 2510495169,
+			"md5": "2990186d25fe50e598dd078cb7a627af",
+			"sha1": "8954cdcc65e2b49412ba24ed5bf02960797b12c5",
+			"sha256": "4e49a06ac8c027f52bd041cf7c0cb5b290655a174637816d11d9a5867c9b79af"
+		}
+	]
+}

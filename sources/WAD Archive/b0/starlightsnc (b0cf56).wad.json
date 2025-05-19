@@ -1,0 +1,17 @@
+{
+	"uid": "starlightsnc (b0cf56).wad",
+	"name": "Starlight Sanctuary, Enhanced Edition",
+	"description": "You find yourself in a strange, mysterious world full of stars. Evil lurks within, so you'll need to fight your way through. Short wad with a fair amount of action. This update fixes a bug enabling it to run on current versions of GZDoom. How did I manage to forget about this release? Oh well.",
+	"version": "b0cf56",
+	"date": "2019-03-23 00:30:43",
+	"files": [
+		{
+			"filename": "starlightsnc.wad",
+			"size": 973732,
+			"crc": 2714598209,
+			"md5": "61833fa4e864c9261e53870734d4104e",
+			"sha1": "b0cf56c1bf8ae0756829aa51bbdac9b1d7befb20",
+			"sha256": "74dfa3057f3f344abc0ff6483555df0cc955080300f9d3c95c13e605ddaa2325"
+		}
+	]
+}

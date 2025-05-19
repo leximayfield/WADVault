@@ -1,0 +1,16 @@
+{
+	"uid": "scenes.wad",
+	"name": "Scenes (for Doom ][ Only!)",
+	"description": "There are 3 wads in this file, subtitled as follows: Map 01 -- Castle Map 02 -- Country Club Map 03 -- Vacation, further subdivided: a) Island b) Dungeon c) Caverns d) Mine e) Mountain",
+	"date": "2013-11-02 16:40:23",
+	"files": [
+		{
+			"filename": "scenes.wad",
+			"size": 801261,
+			"crc": 3782903303,
+			"md5": "03d4833ee5a1f4733c1beccd4f64dea9",
+			"sha1": "93a5e5d565d093662fa89df726bab7642b1b70d3",
+			"sha256": "bd98f34f2a25d64dc3f2b640d37625eb0fccdb3d86e5db1f3bc2640d32267954"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellstar (8706ac).wad",
+	"name": "HellStar",
+	"description": "A simple battle arena of increasing difficulty.",
+	"version": "8706ac",
+	"date": "2019-03-06 21:59:22",
+	"files": [
+		{
+			"filename": "hellstar.wad",
+			"size": 92658,
+			"crc": 2541726250,
+			"md5": "a6a47a306a06e8ec72ca28a04fab16a4",
+			"sha1": "8706acc2237f759dea666bcb01f78757ccd99f16",
+			"sha256": "dae7e4e263d7360a02f9bfe5339331455eff253d85739868c10a404b4d32b9cb"
+		}
+	]
+}

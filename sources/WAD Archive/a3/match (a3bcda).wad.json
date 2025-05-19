@@ -1,0 +1,16 @@
+{
+	"uid": "match (a3bcda).wad",
+	"name": "TheMATCH",
+	"version": "a3bcda",
+	"date": "2014-01-07 22:10:36",
+	"files": [
+		{
+			"filename": "match.wad",
+			"size": 103489,
+			"crc": 3887744379,
+			"md5": "e1a809e75bfc1368a7634347c60c7519",
+			"sha1": "a3bcdaa06830eccbcc09a5f6aa37e8627aafc009",
+			"sha256": "12909e91e1c305cc9ac4dedd1832b510eb212018dbf017ee2a2dcdfbe8727554"
+		}
+	]
+}

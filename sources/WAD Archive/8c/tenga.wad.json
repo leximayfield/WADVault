@@ -1,0 +1,16 @@
+{
+	"uid": "tenga.wad",
+	"name": "Tei Tenga entrance.",
+	"description": "A small techbase with more challenging monsters than the usual techbase. But there is ample ammunition and health.",
+	"date": "2015-09-14 20:23:39",
+	"files": [
+		{
+			"filename": "tenga.wad",
+			"size": 635079,
+			"crc": 3632018978,
+			"md5": "6d2132768f7b5a48a9e3a738fe175a2f",
+			"sha1": "8c26b2f434f794aaafeaf3a698465bfa96817ae0",
+			"sha256": "0131735b5d2716314c050827a454e75ae2121eedab298576016bf2d95075a49a"
+		}
+	]
+}

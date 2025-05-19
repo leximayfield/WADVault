@@ -1,0 +1,16 @@
+{
+	"uid": "grasc.wad",
+	"name": "Grayscale",
+	"description": "A small, compact, and (hopefully) fun level for Doom 2. The level is not actually in black and white or anything, despite its name.",
+	"date": "2014-12-24 17:30:02",
+	"files": [
+		{
+			"filename": "grasc.wad",
+			"size": 88454,
+			"crc": 3289682611,
+			"md5": "3c576438207b2c8067aa189aaccc0004",
+			"sha1": "df079071f3ff914080aa87cc2c98286173ff410b",
+			"sha256": "816d203985f506545ab99dd04faa8e5aaf6eea85a72b4f1867ddd056e590495b"
+		}
+	]
+}

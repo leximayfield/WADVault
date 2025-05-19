@@ -1,0 +1,17 @@
+{
+	"uid": "ultima (4530de).wad",
+	"name": "Ultima Doom",
+	"description": "This is an ultimate doom wad replacing thy flesh consumed. Featuring the pretty unique works of a life time. At this i actually came with ideas for these maps starting with inspiration from alien resurrection and final fantasy 8. And now with some underwater stuff too.",
+	"version": "4530de",
+	"date": "2019-03-19 21:36:49",
+	"files": [
+		{
+			"filename": "ultima.wad",
+			"size": 38403252,
+			"crc": 1568666805,
+			"md5": "b88a5a1780a4359616e2a1418dd0faeb",
+			"sha1": "4530de64d75c1fe3fbc377f0010d257f37625d48",
+			"sha256": "2ab704a68130cc3fe3a737861440727264e00c675076c66e95b1d9333d643938"
+		}
+	]
+}

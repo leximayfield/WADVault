@@ -1,0 +1,16 @@
+{
+	"uid": "roll.wad",
+	"name": "Skin roll para doom  doom2",
+	"description": "skin de roll (hermana o algo asi de megaman) del juego Marvel Vs Capcom",
+	"date": "2015-09-14 23:27:00",
+	"files": [
+		{
+			"filename": "roll.wad",
+			"size": 284461,
+			"crc": 3260312262,
+			"md5": "187c1a2601479ef83ef23e81bd84ac2a",
+			"sha1": "bf97ded3cc290da51d38aa682ba1fc29842a8175",
+			"sha256": "6c7e8b709439fe3639370783fd60c783becdd7f8249fa3145c8d27f123836215"
+		}
+	]
+}

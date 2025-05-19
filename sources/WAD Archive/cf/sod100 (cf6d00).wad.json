@@ -1,0 +1,17 @@
+{
+	"uid": "sod100 (cf6d00).wad",
+	"name": "Sewers of DOOM v1.00",
+	"description": "It is a little known fact that the moonbase providing the setting for the first DOOM episode (Knee Deep in the Dead) has an extensive waste disposal system. Said waste disposal system went to Hell (pun intended) when the moonbase was invaded, however, leaving sloshing pools of green yuck all over the place. You beat the baddies in the moonbase and wrestled Hell itself to its knees; are you ready for the next challenge? The sewers are clogged with hellspawn, and you've just been named plumber. Guess that cushy desk job will have to wait a wee bit longer...",
+	"version": "cf6d00",
+	"date": "2013-11-04 20:06:58",
+	"files": [
+		{
+			"filename": "sod100.wad",
+			"size": 341940,
+			"crc": 1514348144,
+			"md5": "54bd0e4f4faf17af69ac6e2a684585ef",
+			"sha1": "cf6d00bb99ca8c81978bb1137cba00eab1f23f95",
+			"sha256": "b3313b5928e5af7b7403eaf93ba2dd7b18b0b22df5178a2cd86535c02c6c99d9"
+		}
+	]
+}

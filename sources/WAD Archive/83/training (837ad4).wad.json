@@ -1,0 +1,17 @@
+{
+	"uid": "training (837ad4).wad",
+	"name": "The Training Session",
+	"description": "An update of Training.WAD. Fixes some bugs",
+	"version": "837ad4",
+	"date": "2013-11-04 20:18:54",
+	"files": [
+		{
+			"filename": "training.wad",
+			"size": 84023,
+			"crc": 2158044462,
+			"md5": "810958c6eb448c7b5b22da774c1cc82c",
+			"sha1": "837ad4f6e35487c8c349187ffc5eee786fabc86f",
+			"sha256": "4c6db14d6ad75e94c62f337e83fcb1c60d87a3c20ebb588a98b88b94e8f727b9"
+		}
+	]
+}

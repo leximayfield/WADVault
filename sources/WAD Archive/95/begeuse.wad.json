@@ -1,0 +1,16 @@
+{
+	"uid": "begeuse.wad",
+	"name": "Betelgeuse",
+	"description": "- Varied style, but all floating in sideral space. - The map has only platforms and columns, so don't fall. There are also some wide areas. - A lot of different textures: hellish, futurist... A little of all. - A Dehacked patch. I recommend you use it, makes the game innovative and unreal. - Some new monsters: * ZOMBIE MARINE: A brown Doom marine. * ROCKET GUY: A zombie soldier with a bazooka, can beat you with only one shot. * ZOMBIE RAILGUNNER: A soldier with a laser weapon. Be careful. * ZOMBIE BFG: Hmm, doesn't need comments... Feel the pain of a BFG 9000's blast. * STEALTH FIGHTER: Transparent sodier/cyborg. - These monsters come, as usual, from ftp://archives.3dgamers.com/pub/idgames/combos (monsters.zip) - Besides the new monsters, I modified some of the original Doom enemies: * Fast imps, attack with the manucubus' fire. * Transparent Lost Souls. * The cacodemons' fireballs are invisible. * The Cyberdemon's rockets (and yours) are destructible. * Increased attack power for arachnotrons. * Etc, etc... - New sounds: * Taking a powerup, item or weapon. * Firing the pistol, shotgun, chaingun or plasma rifle. * Some monster's attacks. * Opening and closing doors. * Destroying Lost Souls.",
+	"date": "2014-12-21 16:30:17",
+	"files": [
+		{
+			"filename": "begeuse.wad",
+			"size": 3157252,
+			"crc": 1808245722,
+			"md5": "2ae1b0be95a23b03a9c550759a8e08fe",
+			"sha1": "956ec14bf347c48543101c0ffb0d4b9bf7382b2f",
+			"sha256": "e2c2222797e1698789b7e94c2099fd76d8fcdcd80b16cb18e6f2ce99d800625b"
+		}
+	]
+}

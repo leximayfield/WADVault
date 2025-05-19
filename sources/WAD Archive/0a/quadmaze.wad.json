@@ -1,0 +1,16 @@
+{
+	"uid": "quadmaze.wad",
+	"name": "Quadra Maze",
+	"description": "Starting off, you have a choice of four possible routes. Lot of long hallways make this a very maze like WAD.",
+	"date": "2016-02-06 13:54:13",
+	"files": [
+		{
+			"filename": "quadmaze.wad",
+			"size": 30720,
+			"crc": 2274602627,
+			"md5": "6c81650b41d5ac132ecaf6c296606df4",
+			"sha1": "0ab8b67d487866957e658c7e69041fab2e10db63",
+			"sha256": "c7806d3a5d38b6b2fbd28185397b6b364231ec33580e0b5db2cc36598f3ac345"
+		}
+	]
+}

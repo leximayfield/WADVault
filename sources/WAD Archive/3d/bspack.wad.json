@@ -1,0 +1,16 @@
+{
+	"uid": "bspack.wad",
+	"name": "Square Of Destruction!",
+	"description": "This was meant for another project but hey! Its a Doom 2 map with some new textures! It uses slot Map09. It should take about 8-10 min to play depending on the skill level. Main features: 1. One new level. 2.New textures 3. The type of monsters that appear is depending on the skill level, so the higher the skill does not just mean more monsters. 4. Map tweeked for deathmatch play. The map should play best with 6-12 people.",
+	"date": "2014-12-21 14:10:22",
+	"files": [
+		{
+			"filename": "bspack.wad",
+			"size": 984440,
+			"crc": 3254551970,
+			"md5": "07fabf83374b7863d36833971e062bf0",
+			"sha1": "3de463339fabc867026ba96cd114fcb68b612543",
+			"sha256": "6e5f3580485422df8db273a6bf57dbb3f545f34239a42ec351a13b6b957fae11"
+		}
+	]
+}

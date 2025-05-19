@@ -1,0 +1,16 @@
+{
+	"uid": "qstrsfst.wad",
+	"name": "Quester's Fest",
+	"description": "Short, Boom (-complevel 9), rocket-centric, slaughter-ish, lightly-puzzle-y-but-not-much- really speedmap I made while helping a buddy get into mapping. We mapped for about 3.5 hours, followed by about 30 minutes of testing and bug fixes. I didn't finish in time, so I went back later for another hour of work. UV will kill you a few times; HMP is a much easier, more casual experience. Uses textures from Jimmy and a sky from Mech. Midi \"Boss\" comes from Fester's Quest NES game.",
+	"date": "2017-06-27 00:13:11",
+	"files": [
+		{
+			"filename": "qstrsfst.wad",
+			"size": 1057315,
+			"crc": 546846126,
+			"md5": "7ccaf0e4e4f54b14ead046c2c7c7ec24",
+			"sha1": "37bcaebe00d6dfba1ebec2b8479295d971284fa7",
+			"sha256": "643dc63d77a87b6b9ee62da9d87712de1d2af6dc683e4f0e9a77e664091fafe5"
+		}
+	]
+}

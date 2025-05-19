@@ -1,0 +1,16 @@
+{
+	"uid": "hbbeta3.wad",
+	"name": "Hellbound",
+	"description": "32 map megawad with collections of maps made from different periods of my doom mapping hobby, along with new ones. All old maps are re-polished to make them consistent in look with the newer ones. Maps are \"progressively\" chained together (so the previous map's end is more or less linked to the next one's start). Difficulty is medium, sometimes hard, but not insane. Experienced players can do it in UV without any problem.",
+	"date": "2013-07-31 21:02:00",
+	"files": [
+		{
+			"filename": "hbbeta3.wad",
+			"size": 59537933,
+			"crc": 2943600778,
+			"md5": "24903d7bea185492d1ea2811f7ef79af",
+			"sha1": "6c468c2ffc54a920650630040d3f5bf6b6f8cfba",
+			"sha256": "f0e7704e5f2c7b52388e3fbc0d5f1930ca50fd2fcca30f7d75a88c956764a16b"
+		}
+	]
+}

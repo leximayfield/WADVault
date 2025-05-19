@@ -1,0 +1,16 @@
+{
+	"uid": "terror21.wad",
+	"name": "Terror21.WAD",
+	"description": "Search and destroy, watch your \"six\". This is a Deathmatch, Deathmatch+Co-op level challange.",
+	"date": "2013-11-02 15:13:08",
+	"files": [
+		{
+			"filename": "terror21.wad",
+			"size": 64508,
+			"crc": 3182367870,
+			"md5": "b644bf0b318e810175be2ae05825dbea",
+			"sha1": "10bfc0c7cde430aedfe2c236921b3d3391e92fb6",
+			"sha256": "7abe208fda60cd31a6835a51ca7257b64cdbf82610903ba60e151e427c9cb08c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "astro (8490c9).wad",
+	"name": "Astrostein",
+	"description": "10-level WolfenDOOM adventure, featuring new",
+	"version": "8490c9",
+	"date": "2018-04-14 19:36:33",
+	"files": [
+		{
+			"filename": "astro.wad",
+			"size": 9949446,
+			"crc": 1796699940,
+			"md5": "1d1f55e48b56ed33bf5e133a3c67fe65",
+			"sha1": "8490c9b5e8e92c096c7343903b2b726214e6e6cc",
+			"sha256": "3fb7acba03c7cce7d7a5177a50594028b045d1d2fbf58e7232f0772424acd406"
+		}
+	]
+}

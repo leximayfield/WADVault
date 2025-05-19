@@ -1,0 +1,17 @@
+{
+	"uid": "crescent (b465ce).wad",
+	"name": "CRESCENT.WAD",
+	"description": "The idea for the layout is borrowed from STARWAR1.WAD by Matt Falk. In no way is this wad connected to any of the tremendous wads in the starwars series by Matt Falk. If his next ones are as good as STARWAR1, then I will have to buy some more floppy disks to store them. : The name of the wad is obtained from the shape of the map. : The story: As humanity reaches out into the unexplored regions of space they may encounter some less- than-friendly races. One such incidence occurred a few years ago on Pluto. The base, a sector of the Specialized Planetary Defence (SPD) ring was overrun by some nasty semi-humanoids with a bad attitude. An unsuspecting marine on an inspection tour landed and was suprised to find the base crawling with \"things\" he had never seen before. He had had bad receptions before, but not like this one...",
+	"version": "b465ce",
+	"date": "2016-02-07 20:39:16",
+	"files": [
+		{
+			"filename": "crescent.wad",
+			"size": 305884,
+			"crc": 1872532567,
+			"md5": "be6b43b0ce31a518e0e333a5ed9281a4",
+			"sha1": "b465cefb996851272864ecc82a60e0e1c09a3770",
+			"sha256": "791bf005fd6d9d310af44559522192f3de6677f7607127b7c9c6a69b3e7ff064"
+		}
+	]
+}

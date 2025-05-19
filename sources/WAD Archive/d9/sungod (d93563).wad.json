@@ -1,0 +1,17 @@
+{
+	"uid": "sungod (d93563).wad",
+	"name": "\"Sun God\"",
+	"description": "SunGod is a *very* large level created with",
+	"version": "d93563",
+	"date": "2013-11-02 15:15:50",
+	"files": [
+		{
+			"filename": "sungod.wad",
+			"size": 490631,
+			"crc": 2824954343,
+			"md5": "b9f1316cd386f6c4ba02e9f8ddfc5f7f",
+			"sha1": "d93563e410f962cdbe8efe71026d6c1d60e494c1",
+			"sha256": "647fcb5a89f0cba059d98f6568f7e0bfb4436c737eb9e5f5650ac1961e0c3f0f"
+		}
+	]
+}

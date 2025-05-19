@@ -1,0 +1,16 @@
+{
+	"uid": "marbel.wad",
+	"name": "Marbellous",
+	"description": "A medium-sized level with lots of marble.",
+	"date": "2015-01-13 21:46:59",
+	"files": [
+		{
+			"filename": "marbel.wad",
+			"size": 1090972,
+			"crc": 3222452359,
+			"md5": "cee0dff07ef7e991418afdd6dc86af98",
+			"sha1": "e291cbc19054aba2469efacaecf6a07213d76248",
+			"sha256": "bdf13def858cc54eefc27fa654b7bb902f02250cdff34f65fd166888f5b2de17"
+		}
+	]
+}

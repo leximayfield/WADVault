@@ -1,0 +1,17 @@
+{
+	"uid": "ECLIPSE (d5562f).wad",
+	"name": "Eclipse (2x2 series) / version 1.1",
+	"description": "Two levels for any limit removing port.",
+	"version": "d5562f",
+	"date": "2014-12-24 17:30:20",
+	"files": [
+		{
+			"filename": "ECLIPSE.wad",
+			"size": 5165214,
+			"crc": 922115400,
+			"md5": "f715a198d0ea0a656bf97fdf14f27a64",
+			"sha1": "d5562f949b8f8c4ef67bca0cda1940bcce442426",
+			"sha256": "ced339ec19a5b2841795034b7b22ed3c80cbf0ae0043c1d33555e18aa5ede01a"
+		}
+	]
+}

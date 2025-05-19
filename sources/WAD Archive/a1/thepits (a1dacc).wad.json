@@ -1,0 +1,16 @@
+{
+	"uid": "thepits (a1dacc).wad",
+	"description": "Very primative take on Quake2 DM5/\"The Pits\" for DOOM2",
+	"version": "a1dacc",
+	"date": "2015-01-14 23:03:16",
+	"files": [
+		{
+			"filename": "thepits.wad",
+			"size": 81727,
+			"crc": 3770754068,
+			"md5": "a33485d8e869d2fd8ec8cf1bf1b54028",
+			"sha1": "a1daccdc755d6b7b6c6a85cddcb2b6a0ecc660eb",
+			"sha256": "e0b83e0cd5536dafdcad95f24ed5a62f9014ef89c1ea219fdc09641585954073"
+		}
+	]
+}

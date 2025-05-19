@@ -1,0 +1,17 @@
+{
+	"uid": "iweird (2b179c).wad",
+	"name": "I Am Very Weird (release 3)",
+	"description": "Watch out for traps...",
+	"version": "2b179c",
+	"date": "2014-10-27 23:04:27",
+	"files": [
+		{
+			"filename": "iweird.wad",
+			"size": 101457,
+			"crc": 3844243483,
+			"md5": "33ad5d377861ceb45fbb96ae27ec20e9",
+			"sha1": "2b179cf3921691ae06767a733663eb545226eef1",
+			"sha256": "9f3f387517c220b50f27a3d130507e4f1a9a6ec20c6acb74521d70da64ec2183"
+		}
+	]
+}

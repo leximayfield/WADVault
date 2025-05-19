@@ -1,0 +1,17 @@
+{
+	"uid": "genocide (e4da8a).wad",
+	"name": "Genocidal Genesis",
+	"description": "My first three WADs combined into one. Exits have been added from originals, level 1 (Fire Vat) has a weird exit. The level is not big enough to have a co-operative exit, so if you rush, you can make it on your own. Level 2 (Demon Arena) is larger, but there is only one route up the platforms, the long way, so you must have two players. Use IDCLIP to get thru the STARTAN wall to the east of the map. Death Sprial can be completed by anyone, IF YOU CAN GET PAST THE WONDERFUL SURPRISE AT THE END...",
+	"version": "e4da8a",
+	"date": "2014-12-15 23:14:49",
+	"files": [
+		{
+			"filename": "genocide.wad",
+			"size": 331825,
+			"crc": 3606925863,
+			"md5": "db827bcd48f41b636fe3e2d9729f35aa",
+			"sha1": "e4da8a0853955ce07549092306137a518c8d95a3",
+			"sha256": "64502d6f2b875d485a166ae88c0c8f173fba363e0a75d40ed7c471163ba42211"
+		}
+	]
+}

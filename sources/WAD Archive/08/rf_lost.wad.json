@@ -1,0 +1,16 @@
+{
+	"uid": "rf_lost.wad",
+	"name": "Lost Base",
+	"description": "It's a half tribute to E1 and a break to my bad habit of starting things and never finishing them.",
+	"date": "2014-12-14 20:54:12",
+	"files": [
+		{
+			"filename": "rf_lost.wad",
+			"size": 128677,
+			"crc": 2396164219,
+			"md5": "dc6e3c1dd02a333d33a65bf0a46dcbd3",
+			"sha1": "087fa14696c94dc7170cf323b822722e2621ce03",
+			"sha256": "df278fa7e1a2c17c7a9deddd2f909f2105b5394f524d304b72b6cdd444d0def6"
+		}
+	]
+}

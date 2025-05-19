@@ -1,0 +1,16 @@
+{
+	"uid": "spam.wad",
+	"name": "SPAM",
+	"description": "OK, this is my first attempt at a Doom level, so I went all out. Spam is now the weapon of choice, because it is so dangerous. Everything I can think of has been changed to SPAM, and I included a level that I made with Garrett's help. There is tons of edited sprites and a whole bunch of other stuff. Check it out.",
+	"date": "2014-01-07 21:48:18",
+	"files": [
+		{
+			"filename": "spam.wad",
+			"size": 890972,
+			"crc": 474630667,
+			"md5": "484bece6ddbad987a7c7391c2f9415a0",
+			"sha1": "9d7a1fd2f034fe3991ff7bb644310f1124a5059f",
+			"sha256": "c84ae1075fb107559b4e76554ce1661a73d71d03bb683d66728f54677417f37a"
+		}
+	]
+}

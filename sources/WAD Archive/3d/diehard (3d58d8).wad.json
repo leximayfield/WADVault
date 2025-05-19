@@ -1,0 +1,17 @@
+{
+	"uid": "diehard (3d58d8).wad",
+	"name": "DieHard.wad",
+	"description": "I was downloading, and saw a play-level wad for DieHard II, a deathmatch, I believe and wondered why noone had done a DieHard wad so I decided my first wad would be just that.",
+	"version": "3d58d8",
+	"date": "2015-09-14 20:03:58",
+	"files": [
+		{
+			"filename": "diehard.wad",
+			"size": 1072315,
+			"crc": 3601840305,
+			"md5": "9429f92524959ce480ca63e189c065c4",
+			"sha1": "3d58d8b20be5bc6103fd2b6ed84b2f3de604d65b",
+			"sha256": "c01646fa4e15f1c0026aace9c7935ab0da743e8ed99e8695b3d5e450362affe7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wad04.wad",
+	"name": "Wado4(For lack of a better name)",
+	"description": "A level I made from scratch. I tried to get some nifty lighting and such into it. I also tried to make it somewhat non-linear, meaning that you do not have to go everywhere in the level to beat it, but going in the non-required areas could be benificial...",
+	"date": "2015-01-14 14:29:03",
+	"files": [
+		{
+			"filename": "wad04.wad",
+			"size": 147241,
+			"crc": 2936190497,
+			"md5": "04a5ea22dad83b983651e5e16addac40",
+			"sha1": "cf9e693c8ad729bdeb43d61b59d8b18bd13f6af6",
+			"sha256": "fac103c80660880a58c19657ac6d162cad4556d2ced2fb9282bb389b0732cb5f"
+		}
+	]
+}

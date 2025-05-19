@@ -1,0 +1,17 @@
+{
+	"uid": "infest (82e62f).wad",
+	"name": "Infestation",
+	"description": "Infestation is a massive remake of E1M7 from my ITD episode.",
+	"version": "82e62f",
+	"date": "2014-12-22 19:03:07",
+	"files": [
+		{
+			"filename": "infest.wad",
+			"size": 761172,
+			"crc": 2444173831,
+			"md5": "231bf0560ee4907f44715d3c129cfc21",
+			"sha1": "82e62f10908e934766558c934657bda57c2ac0fa",
+			"sha256": "cbadd79e30d593e1c9667672120fb7ad6203b0f14d79df736f660dd62085f592"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rjwarsb3.8.pk3",
+	"name": "Rocket Jumping Wars",
+	"description": "This is a 4 vs 4 Team LMS mod. In this Gamemode there are two teams, the Rocket Jumpers, and the Rocketeers. Rocket Jumpers must hit the exit switch avoiding the Rocketeers, and before the timelimit is hit. If the timelimit is hit all the Rocket Jumpers will die. Rocketeers must stop Rocket Jumpers from hitting the exit switch, or they all will die. Rocket Jumpers can take down Rocketeers with their secondary fire (Grenades). This can be used too for \"Grenade Jumping\"; which consists on shooting a Grenade and Rocket Jump over it just when it explodes. Rocketeers' secondary fire may help to kill the Rocket Jumpers more easily (Advanced Rockets). Rocketeers can also use the teleports at the start of the map to teleport to near-exit zones of the map.",
+	"date": "2013-04-21 17:22:30",
+	"files": [
+		{
+			"filename": "rjwarsb3.8.pk3",
+			"size": 3876056,
+			"crc": 3632605601,
+			"md5": "463b2bd47304b5a3e61b03cc7c3d3873",
+			"sha1": "6c1bf114882a22e2cd260d5b1084913a0a5ec9f8",
+			"sha256": "6e80ba9bed5c429608d3ae3eeaa61e0b8f2e9e8688aa46d9556a2df1f30336ae"
+		}
+	]
+}

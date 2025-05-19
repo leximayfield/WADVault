@@ -1,0 +1,17 @@
+{
+	"uid": "slayer (bedae2).wad",
+	"name": "SlayeR.wad, Issue 2.",
+	"description": "11 SP & 4 DM maps for DooM2. 2.4 Mb when unzipped. Issue2 contains a few bug fixes.",
+	"version": "bedae2",
+	"date": "2013-04-18 22:58:20",
+	"files": [
+		{
+			"filename": "slayer.wad",
+			"size": 2402692,
+			"crc": 1989251955,
+			"md5": "06e9559604fb11034ffa5a39ba515271",
+			"sha1": "bedae28ba9f0bd2065272a3759723185bc1865ac",
+			"sha256": "132401f4bd0128ec3779f10164975b76e61963f5c32c4db8cb7078d1e2cd97e6"
+		}
+	]
+}

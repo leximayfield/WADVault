@@ -1,0 +1,16 @@
+{
+	"uid": "64lemons.wad",
+	"name": "64 Lemons",
+	"description": "4 maps. All vertices are on the 64x64 grid (not things).",
+	"date": "2013-04-19 01:39:55",
+	"files": [
+		{
+			"filename": "64lemons.wad",
+			"size": 775862,
+			"crc": 1721839202,
+			"md5": "f2aabab099d62f2062beeeaa5b53055b",
+			"sha1": "de74ce6980b6bab34e135d05ee82e38305ad3916",
+			"sha256": "708063567722f0245225159d4e088983ddc2e15433aa30e854f0844014dc0de3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "luwp.wad",
+	"name": "Love you with poison",
+	"description": "Difficult map, requires the Survive in Hell wad. Get it at levels/doom2/Ports/megawads/sihr2fix.zip and load before luwp.wad. When playing, observe your surroundings and make sure to collect all important items before activating another trigger (the traps are kind of obvious).",
+	"date": "2015-01-05 16:31:45",
+	"files": [
+		{
+			"filename": "luwp.wad",
+			"size": 569134,
+			"crc": 463384389,
+			"md5": "f4299878011c1390e7969a69197e1f53",
+			"sha1": "ecb0d55ccdb15adf16dadc401b54a47166088fc4",
+			"sha256": "73c8db35796636b95b537e342866b9f569a0503c6fe2d7ad24081c1da79ee661"
+		}
+	]
+}

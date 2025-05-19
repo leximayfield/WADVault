@@ -1,0 +1,16 @@
+{
+	"uid": "vrgl_3t.wad",
+	"name": "3-Tech",
+	"description": "One level for MAP16. Only runs with BOOM or BOOM-compatible ports. It is NOT a level that I made to play and look good, it is just a map I made to submit it to a mapping contest, so do NOT expect it to be as good as my other wads. I just released it for the heck of it.",
+	"date": "2014-12-29 17:03:48",
+	"files": [
+		{
+			"filename": "vrgl_3t.wad",
+			"size": 188071,
+			"crc": 2958119150,
+			"md5": "53a98090c81a27999f94a8cff5bdaa4b",
+			"sha1": "544f0acce4acd9535a2d987c8d0b22f9b702d144",
+			"sha256": "34f105383a6465f15725cadc802c27b4ef79a5dee695c801b9a5f6feee7ca34b"
+		}
+	]
+}

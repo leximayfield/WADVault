@@ -1,0 +1,16 @@
+{
+	"uid": "op2000.wad",
+	"name": "Operation 2000",
+	"description": "A group of mad scientists have been killing people and turning them into demons. Break into their HQ and gun em down.",
+	"date": "2015-01-13 21:35:52",
+	"files": [
+		{
+			"filename": "op2000.wad",
+			"size": 17373835,
+			"crc": 1830158076,
+			"md5": "94b61ce2b1d4b7145b3baf1ab7632cbc",
+			"sha1": "764fb8ae2061ff43db391243a158c9b095cf7a84",
+			"sha256": "c8f191450b767a5a7d05249cba2d64387b4fb46c14c0849ba1cc35c27d245cc0"
+		}
+	]
+}

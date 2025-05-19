@@ -1,0 +1,16 @@
+{
+	"uid": "bfctf2.wad",
+	"name": "The Thorn Supremacy",
+	"description": "Another CTF map. This time it's based off of the UT fan favorite.",
+	"date": "2014-12-12 14:04:01",
+	"files": [
+		{
+			"filename": "bfctf2.wad",
+			"size": 36664,
+			"crc": 1892156305,
+			"md5": "fa8db44a80357d431f1f45735637034b",
+			"sha1": "aa966152510ccb5723f484d88f5dfcba5c1b1076",
+			"sha256": "8894be7d29c9cdbbf4c20ea8d56368489bc21a3875052d0525715759b51c0bdf"
+		}
+	]
+}

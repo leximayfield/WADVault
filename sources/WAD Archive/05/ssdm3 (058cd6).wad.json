@@ -1,0 +1,17 @@
+{
+	"uid": "ssdm3 (058cd6).wad",
+	"name": "SSDM3.WAD",
+	"description": "I decided to make a ledges type of level but start from scratch. It got kinda big :-) Prob'ly better 4 player.",
+	"version": "058cd6",
+	"date": "2013-11-06 22:29:30",
+	"files": [
+		{
+			"filename": "ssdm3.wad",
+			"size": 255641,
+			"crc": 2914271547,
+			"md5": "361198ec095be584e0ead7602af7a337",
+			"sha1": "058cd6f68f2c5db48108a3e93be07168294af2bd",
+			"sha256": "92e7f28adc52ab817d0e93e0a95571cf2a42c260d34fb73a81fd527065438f26"
+		}
+	]
+}

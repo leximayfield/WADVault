@@ -1,0 +1,16 @@
+{
+	"uid": "cityass.wad",
+	"name": "City Assault",
+	"description": "During an assault into an infested city, a group of marines were pinned down by a Cyberdemon. You are sent with an armoured convoy to rescue these marines, but the convoy got ambushed. You escape, but you need to proceed on foot. Jumping is required to finish this level.",
+	"date": "2013-10-12 13:25:58",
+	"files": [
+		{
+			"filename": "cityass.wad",
+			"size": 6350536,
+			"crc": 3629692524,
+			"md5": "9a6f25b563024d00844d2cf1c640237c",
+			"sha1": "f5e7fe10f942e61d224a6be444bc4bf93d967a7e",
+			"sha256": "045c61ce6d75b0c4afc723e7de202698abce60fbd8db87f1ad291b4a17df88e0"
+		}
+	]
+}

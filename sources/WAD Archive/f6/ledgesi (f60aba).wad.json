@@ -1,0 +1,17 @@
+{
+	"uid": "ledgesi (f60aba).wad",
+	"name": "LEDGESI.WAD",
+	"description": "This is the update or improved version of ledges for the new DEATHMATCH 2.0 rules.",
+	"version": "f60aba",
+	"date": "2014-12-03 20:05:22",
+	"files": [
+		{
+			"filename": "ledgesi.wad",
+			"size": 39070,
+			"crc": 1379366596,
+			"md5": "d1a697ea86c660d24893b304e22b5c44",
+			"sha1": "f60aba192eef11b9287858db7fcad64de262c93c",
+			"sha256": "9e58a9347f6f02d83448f985b0c85254f5d67e32b78d4606cdf9d04c269332d8"
+		}
+	]
+}

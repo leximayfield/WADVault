@@ -1,0 +1,16 @@
+{
+	"uid": "ill_engn.wad",
+	"name": "illicit engineering",
+	"description": "A new Doom 1 episode. Eight levels of killing monsters in corrupted bases and demonic strongholds as you try to thwart Hell's plans to construct twisted machines using stolen and warped UAC technology.",
+	"date": "2015-09-15 17:33:54",
+	"files": [
+		{
+			"filename": "ill_engn.wad",
+			"size": 872245,
+			"crc": 281886973,
+			"md5": "61765adff3433c55f67a9ec97dcff0d3",
+			"sha1": "265e4878a544a76e02fc7a66573c359ee66017b8",
+			"sha256": "648d161b9e48b32a42a184160c38a0f2336027a6c91bb541afd5d1951a26fc09"
+		}
+	]
+}

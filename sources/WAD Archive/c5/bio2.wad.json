@@ -1,0 +1,16 @@
+{
+	"uid": "bio2.wad",
+	"name": "BIO2.WAD",
+	"description": "You better use your mind on this one. You'll have a hard time as you have to repeat some steps to get through.",
+	"date": "2014-12-31 12:08:18",
+	"files": [
+		{
+			"filename": "bio2.wad",
+			"size": 356435,
+			"crc": 2730060608,
+			"md5": "759f64d3fdaffe05bd2b8422c605fcf3",
+			"sha1": "c50fdf9a7d031bbc20efe6e74d593c501a72989d",
+			"sha256": "66a26f03d93cbf7bbf235086eabb729240f229c530d503ba0d3041e4808ef097"
+		}
+	]
+}

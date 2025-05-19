@@ -1,0 +1,17 @@
+{
+	"uid": "trial_b1 (86958f).wad",
+	"name": "Trial",
+	"description": "This is basically an unfinished wad. I wanted to have some outside input. I plan on expanding the level and maybe adding more levels. This all depends on time and if I can figure out a good theme for my doom world. If you have any comments / flames please E-Mail me or post to alt.games.doom. This is my first attempt at creating a playable doom level, so any advice would be great :)",
+	"version": "86958f",
+	"date": "2015-12-07 08:52:27",
+	"files": [
+		{
+			"filename": "trial_b1.wad",
+			"size": 51299,
+			"crc": 4044836069,
+			"md5": "7945dbe4f21c4b2d0ac3e3ce65490754",
+			"sha1": "86958fa7e5f46a2d9e542da00f8b0cdfda77c047",
+			"sha256": "73e82828cdaa1dfc300f4e1f2957d881348b6f0a3db87e527e517c8784f48fe6"
+		}
+	]
+}

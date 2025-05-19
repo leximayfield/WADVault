@@ -1,0 +1,16 @@
+{
+	"uid": "YDHWB.wad",
+	"name": "Heavy Weapons Blinking",
+	"description": "After doing and playing in YDDMT.WAD, I decided that I want to make a deathmatch level with safe starts (like MAP21 in YDDMT.WAD) and powerful weapons and 200%, so that we'll have a tough deathmatch (BFG9000 in the beginning!). The main area has much ammo for the new deathmatch (with items respawn)",
+	"date": "2014-10-14 21:01:17",
+	"files": [
+		{
+			"filename": "YDHWB.wad",
+			"size": 8855,
+			"crc": 4003211632,
+			"md5": "01522e4ce6bb7cc9002f797de8515c81",
+			"sha1": "1137ee063335578486e2eb0ce9fd68e619814190",
+			"sha256": "ff7f848bd5f7647c1c1a6eb3d80ffe4d7fa0f9cd6b110d8ace4747db901134db"
+		}
+	]
+}

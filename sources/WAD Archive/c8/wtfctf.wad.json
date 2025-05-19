@@ -1,0 +1,16 @@
+{
+	"uid": "wtfctf.wad",
+	"name": "WTF! Capture the Flag",
+	"description": "The third installment to the WTF series of maps, with absolutely no effort into it this time around.",
+	"date": "2014-12-12 14:14:07",
+	"files": [
+		{
+			"filename": "wtfctf.wad",
+			"size": 1789943,
+			"crc": 3025117111,
+			"md5": "80b384a554dc1a87d57fc8bf86271231",
+			"sha1": "c81339c4b26ee5b734f16c37b1cc05e78a410064",
+			"sha256": "e63448eaa215d02310cd21558b6aa309f2272400ce6d72026ef0654e3caea375"
+		}
+	]
+}

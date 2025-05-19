@@ -1,0 +1,17 @@
+{
+	"uid": "daychain (752815).wad",
+	"name": "The Day of Chains",
+	"description": "E2-themed map, made as a present for Chaingunner's birthday.",
+	"version": "752815",
+	"date": "2018-04-14 23:02:54",
+	"files": [
+		{
+			"filename": "daychain.wad",
+			"size": 1717697,
+			"crc": 3311530323,
+			"md5": "5566c81c7d57226b0fb09c8573a781c8",
+			"sha1": "752815fcd2f3fc386d2c3e1c2fbbc87fa2d4c8bb",
+			"sha256": "2ba13c183dcdf224829526e53f2a7e387f32dbbbf7dc42f2657ef8daf38a9c2e"
+		}
+	]
+}

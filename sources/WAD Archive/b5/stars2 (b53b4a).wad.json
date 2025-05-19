@@ -1,0 +1,17 @@
+{
+	"uid": "stars2 (b53b4a).wad",
+	"name": "Doom Starfield  (version 2)",
+	"description": "A starfield sky texture (256x128) for use with Doom or Doom2 (replaces sky1 and rsky1)",
+	"version": "b53b4a",
+	"date": "2015-09-14 22:10:02",
+	"files": [
+		{
+			"filename": "stars2.wad",
+			"size": 70236,
+			"crc": 123976506,
+			"md5": "7ae6fe019cd6a54d43ee3e67cc3d634f",
+			"sha1": "b53b4a7f063ba0af095e34836e02484d80506b0b",
+			"sha256": "4db2d63da12ca27a9b9b8998f9c37e73d2646134d9a008a951ae711df501a736"
+		}
+	]
+}

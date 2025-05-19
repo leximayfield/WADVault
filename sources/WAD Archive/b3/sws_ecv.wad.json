@@ -1,0 +1,16 @@
+{
+	"uid": "sws_ecv.wad",
+	"name": "Somewhat Simple Extra Crispy version",
+	"description": "This a new/final/fix version of my Somewhat Simple DM map I made a few months ago. I added some more slopes, skybox, title pic, blah blah blah.",
+	"date": "2014-12-15 22:21:22",
+	"files": [
+		{
+			"filename": "sws_ecv.wad",
+			"size": 287312,
+			"crc": 268179611,
+			"md5": "1df585f5bd892aefd87e235cd6e38005",
+			"sha1": "b325deb0aff72efe9a89f2074077adab10466757",
+			"sha256": "7144a7c38e4fe83195cb68ba30056adee21fa6ba0ed8c4f0b9cda1ae313b5924"
+		}
+	]
+}

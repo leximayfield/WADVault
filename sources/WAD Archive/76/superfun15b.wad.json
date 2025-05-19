@@ -1,0 +1,16 @@
+{
+	"uid": "superfun15b.wad",
+	"name": "superfun15b",
+	"description": "dehacked powered up weapons, mainly 4 deathmatch: blah blah blah no sneaking plz thx blah blah blah blah blah blah blah bourgeois blah blah blah blah PISTOL - faster than normal, but it still sucks FIST - lights up the room (and wakes up monsters) but does no damage when the button is held, and punches continuously when you release the button CHAINSAW - cuts people/monsters in half 4 times faster, but i didnt make it chase you this time:/ SHOTGUN - shoots continuously, reloads when you let go of the button, i didnt make it shoot any faster or slower cuz i wanted the click-click sound to match the reloading animation perfectly SSG - shoots faster, recoils instead of reloading CHAINGUN - shoots twice faster than normal ROCKET - flies for some distance, then turns into an explosive fireball that damages anything near it as it flies and makes a cool sound/firetrail; you should not be able to hurt yourself with it unless you teleport/respawn into its path; doesnt explode when it hits the wall so it's safe to use in close combat (but doesnt do that much damage) FLAMETHROWER (former plasma) - has limited range, but deadly when up close, like opposite of rocket ARCHVILE POWERS (former BFG) - does the spray dmg without any ball that has to hit a wall, you make a sound that players can hear when it's selected",
+	"date": "2013-04-19 04:40:05",
+	"files": [
+		{
+			"filename": "superfun15b.wad",
+			"size": 67324,
+			"crc": 204823221,
+			"md5": "4e33cc41614088ca9793f7edb741027d",
+			"sha1": "768087e51915cc501047a0c673db7fe8d3893314",
+			"sha256": "bd3489aeb28eb21a86d7e8b0d56ec9a8b03d33c1da0ff071ffc9c44c669db606"
+		}
+	]
+}

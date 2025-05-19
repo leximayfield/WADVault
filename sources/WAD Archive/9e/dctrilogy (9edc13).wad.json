@@ -1,0 +1,17 @@
+{
+	"uid": "dctrilogy (9edc13).wad",
+	"name": "Doom Core Trilogy",
+	"description": "The complete Doom Core Trilogy - contains the Doom Core and Reverie megawads and the episode Eternally Yours - 77 maps in all for use with ZDoom ports. Also contains many new co-op related fixes and features a few new maps and text screens and graphics to make for the definitive experience.",
+	"version": "9edc13",
+	"date": "2019-11-27 20:21:52",
+	"files": [
+		{
+			"filename": "dctrilogy.wad",
+			"size": 29174037,
+			"crc": 3959419140,
+			"md5": "4181fe13f97d860c42adbcd34dc6ed14",
+			"sha1": "9edc13de8539a4a473afdcba7cf8f13d8152a176",
+			"sha256": "179666ca17fde93f84937d8e05708864ca659d7f8343f199079556beaf79bf10"
+		}
+	]
+}

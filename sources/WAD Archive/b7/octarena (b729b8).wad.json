@@ -1,0 +1,17 @@
+{
+	"uid": "octarena (b729b8).wad",
+	"name": "Octagon Arena",
+	"description": "An eight-sided play arena with eight respawns. There are also observation rooms.",
+	"version": "b729b8",
+	"date": "2014-12-15 22:22:55",
+	"files": [
+		{
+			"filename": "octarena.wad",
+			"size": 82965,
+			"crc": 4122961222,
+			"md5": "4df8b1b48eb145a7e8b8a9a2e5872583",
+			"sha1": "b729b89eb2c5b4a2d90625b3de969f23e5b1d6ec",
+			"sha256": "ad3238e16831ca456075d334d99843c7ae1814d833e52f07538d97ab6ba9400f"
+		}
+	]
+}

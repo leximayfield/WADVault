@@ -1,0 +1,16 @@
+{
+	"uid": "xuled.wad",
+	"name": "XuLED (pronouced 'zoo-lehed')",
+	"description": "Ten OS style maps with new engine features, a small weapon mod, and has some color changes. As well as some midi music files.",
+	"date": "2013-04-19 04:35:19",
+	"files": [
+		{
+			"filename": "xuled.wad",
+			"size": 2887291,
+			"crc": 2391925769,
+			"md5": "32b954437135bb12f43246888e243327",
+			"sha1": "6a17b77f1320cd7b73e1ca14fc50693f7738f867",
+			"sha256": "e5a36247b387462fe883fe41d113e3979a55b509f6e581e787d41e0a9e2c412e"
+		}
+	]
+}

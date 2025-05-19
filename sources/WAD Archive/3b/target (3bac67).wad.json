@@ -1,0 +1,17 @@
+{
+	"uid": "target (3bac67).wad",
+	"name": "Whatever",
+	"description": "I don't know really its just based on a common circular courtyard that looks like a target from above.",
+	"version": "3bac67",
+	"date": "2013-11-02 15:18:23",
+	"files": [
+		{
+			"filename": "target.wad",
+			"size": 54726,
+			"crc": 4208916402,
+			"md5": "3893b2f5f9f332b36fa34021b7a7e7de",
+			"sha1": "3bac67d4a04fb84b815d96c80e4eb2eba1c8fd8d",
+			"sha256": "ee5be779d7ed2177fc93a707fcdd53d2b7e9cbbf569ab9e54c74c3a554b21f7f"
+		}
+	]
+}

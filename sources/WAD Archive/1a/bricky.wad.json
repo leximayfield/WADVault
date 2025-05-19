@@ -1,0 +1,16 @@
+{
+	"uid": "bricky.wad",
+	"name": "Bricky",
+	"description": "That's a map I made in 2013, not sure about when, I think it was in august, only my brother and darkwave played this map",
+	"date": "2014-12-21 16:51:53",
+	"files": [
+		{
+			"filename": "bricky.wad",
+			"size": 768063,
+			"crc": 1828108444,
+			"md5": "6601d870ec24a676465d0e330bd0ffd7",
+			"sha1": "1a5032455d551a6dae0e77ff220ce258f7a3fb7e",
+			"sha256": "22012d8f58686bc27f7c26607e755ffae720c6ee68ef9dbfdd56fb060c819598"
+		}
+	]
+}

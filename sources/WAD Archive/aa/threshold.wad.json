@@ -1,0 +1,16 @@
+{
+	"uid": "threshold.wad",
+	"name": "Threshold",
+	"description": "A LARGE map ment for team DM or FFA with about 10 ppl",
+	"date": "2014-12-15 21:49:24",
+	"files": [
+		{
+			"filename": "threshold.wad",
+			"size": 1343220,
+			"crc": 2056122525,
+			"md5": "7b2cc9ac907ea4cc822768e29cf718bd",
+			"sha1": "aa95c3583715029e9302ebf57638ed8a069794a1",
+			"sha256": "ed29c46fa6d7f3ad0fe466ed6fd790ea02bd9557ce7760b7d98a6898d9c0fff7"
+		}
+	]
+}

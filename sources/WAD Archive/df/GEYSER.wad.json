@@ -1,0 +1,16 @@
+{
+	"uid": "GEYSER.wad",
+	"name": "GEYSER",
+	"description": "This is my first wad",
+	"date": "2013-11-04 19:20:15",
+	"files": [
+		{
+			"filename": "GEYSER.wad",
+			"size": 22656,
+			"crc": 1311363050,
+			"md5": "0a9c875d8d26e7af5e4150587ec102aa",
+			"sha1": "df63dc2b25f2b415e51488de6188fd9c66a0d401",
+			"sha256": "44bcca48ba110a7fc767d217338bc83956fcf4add537a4d8e6a240abf5120504"
+		}
+	]
+}

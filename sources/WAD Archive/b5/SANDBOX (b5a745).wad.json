@@ -1,0 +1,17 @@
+{
+	"uid": "SANDBOX (b5a745).wad",
+	"name": "The Sandbox",
+	"description": "This is a simple, but fast-paced PWAD for doom. Meant for DEATHMATCH. Quite boring for single play.",
+	"version": "b5a745",
+	"date": "2013-11-02 16:49:15",
+	"files": [
+		{
+			"filename": "SANDBOX.wad",
+			"size": 3093,
+			"crc": 513836233,
+			"md5": "8893f9493f85556298a843d313dec2b2",
+			"sha1": "b5a74516141761d8deb956dcbd7ac5ea3378e67f",
+			"sha256": "92d4c949b34dd5636e91ead97679a48621f2acdbccf97c46856a1238d39ff643"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tekbase.wad",
+	"name": "TekBase",
+	"description": "Demons have invaded again, yada yada, shoot 'em up in 12 varied levels, going from a simple Tech base to a demon infested tourist trap castle. All maps beatable from a pistol start. Starts on Map14 because XWE scares and confuses me.",
+	"date": "2015-09-15 18:08:52",
+	"files": [
+		{
+			"filename": "tekbase.wad",
+			"size": 2052163,
+			"crc": 538139266,
+			"md5": "0b0bb99703a77f01947c19b0f8721610",
+			"sha1": "2af5e7cba787401cacc2290e8ed7664540b860c8",
+			"sha256": "04da7cfc4c0b1c0bff32c4733a378f84b28814be612298b0eb6b117b9a3b2559"
+		}
+	]
+}

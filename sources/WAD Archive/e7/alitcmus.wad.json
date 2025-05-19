@@ -1,0 +1,16 @@
+{
+	"uid": "alitcmus.wad",
+	"name": "AL|ENS-TC Music",
+	"description": "New music for all of the episode 2 levels in Justin Fisher's AL|ENS-TC",
+	"date": "2015-09-14 20:26:30",
+	"files": [
+		{
+			"filename": "alitcmus.wad",
+			"size": 240252,
+			"crc": 3324545367,
+			"md5": "5187dc6edad3a67b0e6d1fbea3e1d2b8",
+			"sha1": "e7de05f0be8eaba5fd09cee671906965d2b5c68e",
+			"sha256": "9ae4fbbd2bf11e76d458030373cc9bb9916ed0cd0c226c21f58c210ec248400f"
+		}
+	]
+}

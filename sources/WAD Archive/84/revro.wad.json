@@ -1,0 +1,16 @@
+{
+	"uid": "revro.wad",
+	"name": "Revolting Rocks",
+	"description": "A speedmap for vanilla Doom 2 done in 3 hours. Should take a few mins to play. Set in a rocky area in the",
+	"date": "2015-01-14 22:53:32",
+	"files": [
+		{
+			"filename": "revro.wad",
+			"size": 125505,
+			"crc": 773269014,
+			"md5": "be534162a90da79591f002a9a718da76",
+			"sha1": "844a45b41c4e8ee2683122e0d6e9230ddb35c8e1",
+			"sha256": "d3a481b37e4f3a849538b48d880a62a63b00174d4874e76290111c3850b7153e"
+		}
+	]
+}

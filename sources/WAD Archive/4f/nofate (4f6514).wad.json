@@ -1,0 +1,17 @@
+{
+	"uid": "nofate (4f6514).wad",
+	"name": "NoFate Deathmatch #1: The Slaughter",
+	"description": "Have you got the guts to compete in the nastiest deathmatch around? I didn't think so....",
+	"version": "4f6514",
+	"date": "2014-01-07 21:53:42",
+	"files": [
+		{
+			"filename": "nofate.wad",
+			"size": 61771,
+			"crc": 3979049567,
+			"md5": "c7a118bd7390e7b736650bfb13c9bdb1",
+			"sha1": "4f6514248764407badcea16908d2a0701033813a",
+			"sha256": "f5bf8a8cb1dcae0a63c4539b13c068aa62f2e981583b81d2fedc97a8a5c49318"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "wispers (4eb7f5).pk3",
+	"name": "Dark Wispers: Remastered",
+	"description": "Dark Wispers is a small to medium size 4 map set that takes place before the events of \"Project Slipgate\" and \"Dissolution\". You are sent into the nether-realm to retrieve an artifact that is critical in defeating the monster infestation on the planet.",
+	"version": "4eb7f5",
+	"date": "2019-08-17 13:01:31",
+	"files": [
+		{
+			"filename": "wispers.pk3",
+			"size": 34591759,
+			"crc": 1611175078,
+			"md5": "c1155882efc91d648d589813e3232405",
+			"sha1": "4eb7f5243fdaa17defbadaadd8c75f3853b086f6",
+			"sha256": "762e65e77d3ed239b9501daa85630083ca767208a1bb20d21c23943cf99d12ed"
+		}
+	]
+}

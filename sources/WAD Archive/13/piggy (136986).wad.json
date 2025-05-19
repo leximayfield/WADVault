@@ -1,0 +1,17 @@
+{
+	"uid": "piggy (136986).wad",
+	"name": "Piggy",
+	"description": "Piggy, was designed for deathmatch. I hoped : that this wad would be used in the Lithium BBS : Tourney and also for our weekly frag fest ritual : at Matt's house. I also had to reclaim <<MY>> : wall textures. :) Four player mode will be sure : to produce plenty of frags in deathmatch 2.0, : and even more in 1.0. This wad should acuarately : judge two players' Doom skills on in a 1-on-1 : match, since all of the weapons are here and : there is plenty of room to fight. The plasma : gun is hard to get since this gun is responsible : for many deaths, but if you are playing in a two : on two situation, your friend can flip the switch : on the inside wall so you can warp out of the maze, : without getting trapped. Also notice how the : person picking up the plasma gun can't shoot out : under the ledge while standing on the platform.",
+	"version": "136986",
+	"date": "2013-11-02 15:57:18",
+	"files": [
+		{
+			"filename": "piggy.wad",
+			"size": 19417,
+			"crc": 981415372,
+			"md5": "6b34cd09ff3b35cc5c08c41c483f666d",
+			"sha1": "1369869c1724085c9702ef5b4b5d09d78be02317",
+			"sha256": "d37982b9e7f2e793c44841bcf91452e9b18249a0b058682e8404ddeb52b24b9e"
+		}
+	]
+}

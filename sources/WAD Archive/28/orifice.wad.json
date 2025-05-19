@@ -1,0 +1,16 @@
+{
+	"uid": "orifice.wad",
+	"name": "World Orifice",
+	"description": "Inspired by Nostril Caverns. It plays a lot differently, but hopefully the inspiration comes through. 20K monsters. Expect that a casual playthrough will take a few hours of in-game time, and probably a lot more real time. Easy and Medium difficulties have small amounts of extra resources, and monsters are the same. MIDI is by me.",
+	"date": "2017-11-27 12:32:50",
+	"files": [
+		{
+			"filename": "orifice.wad",
+			"size": 2989158,
+			"crc": 1483643790,
+			"md5": "e14a5b3b15a66265893dfbf6b29eb47f",
+			"sha1": "2803dee436aae1b78200074ed403804958d9f337",
+			"sha256": "146b350fdb61f32919f8f84b132e39aaec413af54eb5e958d739e1ff231f33de"
+		}
+	]
+}

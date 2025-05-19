@@ -1,0 +1,16 @@
+{
+	"uid": "MORD.wad",
+	"name": "Mordechai's Revenge",
+	"description": "Deathmatch, dude! What more needs to be said?",
+	"date": "2014-02-15 17:06:50",
+	"files": [
+		{
+			"filename": "MORD.wad",
+			"size": 100841,
+			"crc": 118024754,
+			"md5": "cb31dc96303837fdd49234c604c5824d",
+			"sha1": "9a8eae8e9493ea28529567880c2b9d2dc8bb2297",
+			"sha256": "b1c9fd1576a2c31d3a80b3f5a7e3f10dcd4d4cf3a3c2f5b456ed09093150c479"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dethch2 (a6584b).wad",
+	"name": "Deathmatch Cathedral (Doom II)",
+	"description": "hellch.wad modified for Doom II.",
+	"version": "a6584b",
+	"date": "2014-01-07 22:03:05",
+	"files": [
+		{
+			"filename": "dethch2.wad",
+			"size": 44393,
+			"crc": 665899113,
+			"md5": "489e582e2cdb5a6f33ae3c3c511ecff8",
+			"sha1": "a6584b1edf1bb59dcd244e0f235beab57fb46418",
+			"sha256": "cd0702534f330bda0a067eabbc2c0adcb4904118490c3f94da17fc90d73ddd60"
+		}
+	]
+}

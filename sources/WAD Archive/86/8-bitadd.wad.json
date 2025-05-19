@@ -1,0 +1,16 @@
+{
+	"uid": "8-bitadd.wad",
+	"name": "8-bit Binary Addition",
+	"description": "A voodoo doll powered 8-bit binary calculator. It only supports addition.",
+	"date": "2014-12-20 18:35:10",
+	"files": [
+		{
+			"filename": "8-bitadd.wad",
+			"size": 695380,
+			"crc": 3077381101,
+			"md5": "da63c60f928c94923583806b90406ad7",
+			"sha1": "867e307245d50a866a7af78d1895afd5945307b0",
+			"sha256": "a53d7825e8fb30312f55089c4849c26b89adc1e29da81e498530950f49c882f1"
+		}
+	]
+}

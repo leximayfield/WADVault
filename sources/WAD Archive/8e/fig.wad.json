@@ -1,0 +1,16 @@
+{
+	"uid": "fig.wad",
+	"name": "fig.wad",
+	"description": "Small game. Monsters feed in when they hear shooting. Rooms that are accessed only when floor drops.",
+	"date": "2013-04-19 02:19:32",
+	"files": [
+		{
+			"filename": "fig.wad",
+			"size": 26511,
+			"crc": 2917476144,
+			"md5": "2b272075198f75cbe587a46b105432b5",
+			"sha1": "8e8d93d951ae514ef5936faffe084c9a27355606",
+			"sha256": "6af061cbeddcb0ff3bc8ad397f28729d25ca1310f22fe1314966d5ceec043c92"
+		}
+	]
+}

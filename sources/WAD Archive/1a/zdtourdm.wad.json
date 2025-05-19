@@ -1,0 +1,16 @@
+{
+	"uid": "zdtourdm.wad",
+	"name": "Zdaemon Tournament Deathmatch",
+	"description": "10 deathmatch maps designed for slaying each other, mostly in hell/marble style.",
+	"date": "2013-04-19 09:46:48",
+	"files": [
+		{
+			"filename": "zdtourdm.wad",
+			"size": 7301053,
+			"crc": 1116866740,
+			"md5": "b7bd8844f7141d2110a14b04ccc51f42",
+			"sha1": "1a71710b99d172151b46c111f310c89643d608ca",
+			"sha256": "b968db56aee62374baf5e898b54f14f775ab8013de0cfd09fc5948ded7c7edab"
+		}
+	]
+}

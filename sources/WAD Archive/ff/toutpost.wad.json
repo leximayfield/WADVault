@@ -1,0 +1,16 @@
+{
+	"uid": "toutpost.wad",
+	"name": "Teleport Outpost",
+	"description": "My first map, one short level taking place in a small base.",
+	"date": "2016-10-17 17:30:56",
+	"files": [
+		{
+			"filename": "toutpost.wad",
+			"size": 130139,
+			"crc": 364130709,
+			"md5": "9b7cf38bef0d28b5bf2cc7b32d4393a1",
+			"sha1": "ff907edf25f73877b7865045ff0548b78c226a50",
+			"sha256": "2acdcf113fa8611e671fadf8cba405cd77e09156f24fb45aac00ed6524bbc755"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "immortal (3581cd).wad",
+	"name": "Immortal",
+	"description": "The design of these wads spans three or four time periods thus the name Immortal. It also reflects the game itself. Many changes have occured and we have Quake, Boom, Xdoom and Zdoom to name a few. Some of them include nice enhancements but for me nothing matches the feel and play of the original game.",
+	"version": "3581cd",
+	"date": "2014-12-18 22:19:14",
+	"files": [
+		{
+			"filename": "immortal.wad",
+			"size": 5537840,
+			"crc": 213204159,
+			"md5": "2d04790366c9178f14181c287d407412",
+			"sha1": "3581cd92a27044c0bdece31897fe6bbaecf0ccd0",
+			"sha256": "02d50f2022afd334793ad03a6f5756b79fa109ccd7d824d6a194f81c6a6843b7"
+		}
+	]
+}

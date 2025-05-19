@@ -1,0 +1,16 @@
+{
+	"uid": "iconic01.wad",
+	"name": "Iconic",
+	"description": "E2M2 themed level, harder than the previous map of mine named \"Stoned\".",
+	"date": "2014-12-13 17:45:17",
+	"files": [
+		{
+			"filename": "iconic01.wad",
+			"size": 172989,
+			"crc": 3542518722,
+			"md5": "25aa6f9071a13721c4499b2745b9d80a",
+			"sha1": "28b087e5ca6cd42372d6f00d863c8bf69ceef4ff",
+			"sha256": "e65bc0dba6577ff4c79a117ae13f2422d6ce2c912677eeaaeb531ffc66a7b449"
+		}
+	]
+}

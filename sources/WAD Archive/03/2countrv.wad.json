@@ -1,0 +1,16 @@
+{
+	"uid": "2countrv.wad",
+	"name": "2countrv",
+	"description": "A 2-bit ripple counter, built using WadC. Based on the design of Fraggle's binary ripple counter from 2006. The code can generate counters of arbitrary bit-depth. I originally thought to upload a demo of an 8-bit counter (to be different to Fraggle's example) but there's already a built-by-hand 8-bit counter (8-bitadd). So instead I downgraded it to 2 bit and added a surprise for when the counter overflows.",
+	"date": "2016-10-17 17:31:58",
+	"files": [
+		{
+			"filename": "2countrv.wad",
+			"size": 27312,
+			"crc": 914811636,
+			"md5": "ee7ac7c5fd59a059f92d04ab986ceb2d",
+			"sha1": "03b69bdf7b8f560063e382e48f9f6c9e2a5c3ec4",
+			"sha256": "1dd02bf15f26181a4ca4424dd417c5691f984a529a26702d05267a8c453affd9"
+		}
+	]
+}

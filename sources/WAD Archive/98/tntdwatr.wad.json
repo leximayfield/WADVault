@@ -1,0 +1,16 @@
+{
+	"uid": "tntdwatr.wad",
+	"name": "Tainted Waters",
+	"description": "My first attempt at Doom mapping, and my first proper release for any game. The story is... ...(being made up as I type this)... ...a UAC facility harvesting water from deep rock deposits accidentally tapped into Hell through a misguided attempt of teleporting in new water filters. Naturally this resulted in Arch Viles, flickering lights, and a lack of ergonomic keyboards in the facility. Go forth, and purify the tainted water supply! There are co-op spawns, multiplayer spawns, and multiplayer Things. These have not been tested.",
+	"date": "2017-08-17 17:41:26",
+	"files": [
+		{
+			"filename": "tntdwatr.wad",
+			"size": 165583,
+			"crc": 2861922386,
+			"md5": "4ca5d0f44b8a87a71063336f74a78573",
+			"sha1": "98d1f15706051e028ab63c3e667443a56bd2c97c",
+			"sha256": "1e410b74335642d2c9d1cad55477f2fe66af620e8fb17d5ba63781ae1a598b8c"
+		}
+	]
+}

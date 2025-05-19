@@ -1,0 +1,17 @@
+{
+	"uid": "statues (a8d9de).wad",
+	"name": "STATUES.WAD",
+	"description": "This is my first go at a doom level. It tends to reflect my liking for large rooms which don't look too dangerous initially.",
+	"version": "a8d9de",
+	"date": "2013-11-02 15:22:36",
+	"files": [
+		{
+			"filename": "statues.wad",
+			"size": 91963,
+			"crc": 3409511771,
+			"md5": "f6ce2a598a67b4628eeeef50aa3952b0",
+			"sha1": "a8d9dea242b1d1cc482bd18f4b5c6a1ad383ee08",
+			"sha256": "aae98e14f22baa5e417d42b74f9aa53bc5969a237d61717d1eb5082556aace98"
+		}
+	]
+}

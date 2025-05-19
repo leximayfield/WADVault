@@ -1,0 +1,17 @@
+{
+	"uid": "dmcoco (22529d).wad",
+	"name": "Command Control (COMCON.WAD)",
+	"description": "Command Control, normally where big decisions are made. The only thing you'll need to decide is which target deserves your attention first. Play starts out slow but quickly turns into a DOOM-fest with few parts that allow for breathing.",
+	"version": "22529d",
+	"date": "2013-11-02 15:06:32",
+	"files": [
+		{
+			"filename": "dmcoco.wad",
+			"size": 328158,
+			"crc": 323175648,
+			"md5": "a93329aeae2d022c02c67882df35112b",
+			"sha1": "22529df00f4ac4f67db2c53b8a7919d3c12f45d5",
+			"sha256": "46060ff31f76dfc338b2674e38f2a9df857f66d6b8baf9cd8f2138ca003876d5"
+		}
+	]
+}

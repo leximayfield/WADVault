@@ -1,0 +1,16 @@
+{
+	"uid": "gta.wad",
+	"name": "GTA.WAD (Get Them All)",
+	"description": "A large WAD with many, many monsters.",
+	"date": "2014-12-14 20:51:32",
+	"files": [
+		{
+			"filename": "gta.wad",
+			"size": 116034,
+			"crc": 3876741986,
+			"md5": "7e7bf5669f48699fe719b7210aa9f20f",
+			"sha1": "10b0a30336593377699a004554bede7435cbc9bb",
+			"sha256": "371338c4d949809e4c4ab0334b3594159fd6fb059af6bfce53fa1a9d95b33af3"
+		}
+	]
+}

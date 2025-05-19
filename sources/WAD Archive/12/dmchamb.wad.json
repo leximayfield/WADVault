@@ -1,0 +1,16 @@
+{
+	"uid": "dmchamb.wad",
+	"name": "CHAMBERS OF DEATH",
+	"description": "a Patch WAD file with 27 \"Chambers of death\" levels. They are all basically the same in episode 1. They are all in the Chambers of Death Format. Episode 3 Mission 5 is the most difficult level.",
+	"date": "2014-12-13 12:42:42",
+	"files": [
+		{
+			"filename": "dmchamb.wad",
+			"size": 1455288,
+			"crc": 2603473901,
+			"md5": "68d27688e76bf484ce1fc3b77e47f9ef",
+			"sha1": "121af508d86620dfc98b01a4a7af9ef8118445db",
+			"sha256": "2928f1bc218d29207ce38864e6bf58ee7c77905beddde671831a909f465a3006"
+		}
+	]
+}

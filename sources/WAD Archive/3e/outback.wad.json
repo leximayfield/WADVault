@@ -1,0 +1,16 @@
+{
+	"uid": "outback.wad",
+	"name": "Outback Station",
+	"description": "There are monsters and guns in it. You use the guns to shoot the monsters. (and each other) No health (well, two Megaspheres), so try not to get hit! Play on -altdeath for added mayhem in Deathmatch.",
+	"date": "2013-11-06 22:31:08",
+	"files": [
+		{
+			"filename": "outback.wad",
+			"size": 49294,
+			"crc": 3568583415,
+			"md5": "46664234cdf09615681443bc5a1ec97c",
+			"sha1": "3e4f67eddfe2f6ba0bb8abde3cb2338c5fdb5b4f",
+			"sha256": "f2d8dec57058b23b2fda8fc146e29fa004635ea7de14cfd45106262118e63eaa"
+		}
+	]
+}

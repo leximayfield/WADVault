@@ -1,0 +1,17 @@
+{
+	"uid": "DEATH2 (d52beb).wad",
+	"name": "Death 2",
+	"description": "At small wad made out of Jay DeVore's",
+	"version": "d52beb",
+	"date": "2014-01-07 22:01:28",
+	"files": [
+		{
+			"filename": "DEATH2.wad",
+			"size": 117428,
+			"crc": 2166967943,
+			"md5": "fe2cf987e4c68af6bfc49253cd3d4f31",
+			"sha1": "d52bebf8084531ca8a074e275a70ca82907d945e",
+			"sha256": "87aff2b4985ea3f4ab6ee33e8f317b497b9fa673c214f766e0e4d34a044da04e"
+		}
+	]
+}

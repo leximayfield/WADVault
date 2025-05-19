@@ -1,0 +1,16 @@
+{
+	"uid": "axix.wad",
+	"name": "The Axix",
+	"description": "Really big, really detailed level for Doom 2. The Axix is a tech base built by UAC for research and development. Unfortunately, it seems that some teleporter tests screwed up and now a portal is opened to some demonic temple. Your job? Clear the Axix of all demons, and find your way to the Temple. Once there, find a way to close the portal. Simple. Just try not to die....",
+	"date": "2014-12-21 16:21:29",
+	"files": [
+		{
+			"filename": "axix.wad",
+			"size": 745446,
+			"crc": 3869807952,
+			"md5": "5d4fb2b26952dedefcf1f3fca0f7b3df",
+			"sha1": "a29d0a521cd1d1a17a1d9c903fe0ca6f88ebb34b",
+			"sha256": "686e00897317e72cd940443bbe99f812dad3b46993bb591ac31fa159222d2f07"
+		}
+	]
+}

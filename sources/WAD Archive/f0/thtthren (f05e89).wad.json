@@ -1,0 +1,17 @@
+{
+	"uid": "thtthren (f05e89).wad",
+	"name": "THT: Threnody",
+	"description": "Ty Halderman, the essential pillar of the Doom community, passed away in 2015. He is greatly missed and his contributions to the Doom scene have helped keep this old game alive and kicking. This project tries to honor Ty with levels that pay tribute to his work be it in the form of his levels or contribution to the Boom sourceport.",
+	"version": "f05e89",
+	"date": "2016-08-12 22:01:36",
+	"files": [
+		{
+			"filename": "thtthren.wad",
+			"size": 48874698,
+			"crc": 2278139518,
+			"md5": "64e50daeeec860d95bd3438453043e86",
+			"sha1": "f05e897b5b98bce69c2e164aae96ebccb0f00479",
+			"sha256": "5fd1eb95551f71618ab286edc04a4c613821090fdcb31a6c3b105add39b1fbef"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nick (71d4c2).wad",
+	"name": "Nick.zip",
+	"description": "Great dark tunnels with dark, dark, rooms to hide in. Deathmatch only.",
+	"version": "71d4c2",
+	"date": "2014-01-04 11:55:47",
+	"files": [
+		{
+			"filename": "nick.wad",
+			"size": 8933,
+			"crc": 464603812,
+			"md5": "6e2edef0b4eb5447e63a3cfc7fcbebdc",
+			"sha1": "71d4c2d6140f8d656cdaf9230b3303e64478f838",
+			"sha256": "26a142a46add473d52691ffbde24fe069364b03d78d2f293a20f7933a8d901d3"
+		}
+	]
+}

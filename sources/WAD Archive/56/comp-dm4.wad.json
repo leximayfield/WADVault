@@ -1,0 +1,16 @@
+{
+	"uid": "comp-dm4.wad",
+	"name": "Computer Deathmatch 2.0",
+	"description": "This is a repackaging and fix-up of \"Computer Deathmatch v1.6\", an old Doom mod that simulates playing Deathmatch using bots that are actually dehacked-modified monsters. Despite being fairly simple, the end result is actually quite fun to play.",
+	"date": "2013-04-22 00:51:00",
+	"files": [
+		{
+			"filename": "comp-dm4.wad",
+			"size": 215544,
+			"crc": 963936672,
+			"md5": "86099a216eb7248fc747351e00b3312c",
+			"sha1": "56112f789f029931b8f1eb264400531db532d008",
+			"sha256": "6687b84ec213a28fa3fa429e1968607168b89f6f1f3157b7e5092751d8f9e46e"
+		}
+	]
+}

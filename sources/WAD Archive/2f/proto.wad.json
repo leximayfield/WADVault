@@ -1,0 +1,16 @@
+{
+	"uid": "proto.wad",
+	"name": "Prototype",
+	"description": "Episode 4 is my favorite episode of Ultimate Doom, so I decided to start making my own mapset for it. I originally planned to make all 9 maps but unfortunately work got in the way, so here we are with 4 (Technically 5) maps.",
+	"date": "2015-09-15 16:42:08",
+	"files": [
+		{
+			"filename": "proto.wad",
+			"size": 881783,
+			"crc": 927530743,
+			"md5": "ab213e1e0dd8ef453c7213c9af3ea3ea",
+			"sha1": "2f3bffb38c24082f6e66d1d5cebac04f098c0bc2",
+			"sha256": "78193af0b1b0e77492d712b35b097284e3c3e920fae09521735761725ae98a9a"
+		}
+	]
+}

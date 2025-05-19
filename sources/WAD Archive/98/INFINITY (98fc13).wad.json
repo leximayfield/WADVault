@@ -1,0 +1,17 @@
+{
+	"uid": "INFINITY (98fc13).wad",
+	"name": "INFINITY.WAD",
+	"description": "This is a \"ledges\" type wad. It was designed entirely for Deathmatch but can be challenging for single player. All the weapons are available plus BERSERK. The basic layout is a figure eight or the \"infinity\" symbol (thus the name). Weapons and regeneration start points have been strategically located and fine tuned after a lot of deathmatch play. Health is limited as is ammo and armor. Everything has been set up such that the players will have to visit the entire level for one thing or another. Reference hint.doc for hints that may not seem obvious.",
+	"version": "98fc13",
+	"date": "2013-05-22 19:43:10",
+	"files": [
+		{
+			"filename": "INFINITY.wad",
+			"size": 80281,
+			"crc": 1475245255,
+			"md5": "75be5648678eab75ff5a1ed35befc353",
+			"sha1": "98fc13460ce813f5c63c8679a2f3aba79d5b0f43",
+			"sha256": "7b5e2874490dd3cfc8846192831f7ff8e80b90573b6cb65d782aefa12b0da4e0"
+		}
+	]
+}

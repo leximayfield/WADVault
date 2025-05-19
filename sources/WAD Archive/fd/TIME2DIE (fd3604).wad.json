@@ -1,0 +1,17 @@
+{
+	"uid": "TIME2DIE (fd3604).wad",
+	"name": "TIME TO DIE",
+	"description": "Deathmatch, so get out there and KILL",
+	"version": "fd3604",
+	"date": "2013-11-03 17:48:28",
+	"files": [
+		{
+			"filename": "TIME2DIE.wad",
+			"size": 15684,
+			"crc": 663866374,
+			"md5": "c7235d5bec090d00274355bb94f2809f",
+			"sha1": "fd3604f6b05b186e8dccc97a9fd65f1c3057f442",
+			"sha256": "b5ad4d6f2a3d83b4ec2fed8dd41bc9c5771f6fcffc3642e805428d3059040113"
+		}
+	]
+}

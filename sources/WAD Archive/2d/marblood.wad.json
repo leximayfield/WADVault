@@ -1,0 +1,16 @@
+{
+	"uid": "marblood.wad",
+	"name": "marblood.WAD",
+	"description": "a average sized dm level with marble every where",
+	"date": "2014-12-15 22:32:53",
+	"files": [
+		{
+			"filename": "marblood.wad",
+			"size": 93808,
+			"crc": 3484159888,
+			"md5": "c3e480399cf02c2d6e5408a630cd242e",
+			"sha1": "2dcf2107577ab681bbaee4113be7a72d4b4c3763",
+			"sha256": "15d48eee0445d54a72d3e4eb371327c3723dda846b33a8b1d6883bf84ac65241"
+		}
+	]
+}

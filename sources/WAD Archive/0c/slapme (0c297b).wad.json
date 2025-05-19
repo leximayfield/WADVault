@@ -1,0 +1,17 @@
+{
+	"uid": "slapme (0c297b).wad",
+	"name": "Slapme",
+	"description": "This is my second WAD, the sequel to SPANKME. The name has nothing to do with the design, but I bet it made you look at this file.",
+	"version": "0c297b",
+	"date": "2013-11-02 16:07:51",
+	"files": [
+		{
+			"filename": "slapme.wad",
+			"size": 55268,
+			"crc": 1721050775,
+			"md5": "bb89aa5a916991b300ddbca007d56f44",
+			"sha1": "0c297b6d414931f88ab4000ed19f8cc141132e23",
+			"sha256": "4acd43693142d8c02892af96af4b68350dda8371125ef4f61af1c0ccb6038e80"
+		}
+	]
+}

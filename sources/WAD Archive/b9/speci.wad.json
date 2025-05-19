@@ -1,0 +1,16 @@
+{
+	"uid": "speci.wad",
+	"name": "Speci (Special)",
+	"description": "Some kind of deathmatch level. Big monsters.",
+	"date": "2014-12-15 22:14:30",
+	"files": [
+		{
+			"filename": "speci.wad",
+			"size": 54498,
+			"crc": 2783523714,
+			"md5": "6f904a7eb4bc65928476a96f051b2fb2",
+			"sha1": "b9ac09278a60d740adb5c98017c2540b2ab963f3",
+			"sha256": "d83f77cc1940d8861c464f2ee411d65a522bf6f647848f20b00ea81b9882fe4f"
+		}
+	]
+}

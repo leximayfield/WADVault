@@ -1,0 +1,16 @@
+{
+	"uid": "the_crie.wad",
+	"name": "The_Crie",
+	"description": "A Deathmatch WAD for registered Heretic",
+	"date": "2014-10-20 19:58:02",
+	"files": [
+		{
+			"filename": "the_crie.wad",
+			"size": 82838,
+			"crc": 3990722128,
+			"md5": "da86e74b51b2ace4e3178685465ce4b8",
+			"sha1": "9a39dc769adbb6215009cc4c7b6bbb77ac1cfa32",
+			"sha256": "1ddb7de99ff517089440af493ca9c41e48336d451b51a971dac4049e4e49e853"
+		}
+	]
+}

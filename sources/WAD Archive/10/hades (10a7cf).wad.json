@@ -1,0 +1,17 @@
+{
+	"uid": "hades (10a7cf).wad",
+	"name": "The Dark Netherworld of Hades",
+	"description": "The Dark Netherworld of Hades was a realm that was unheard of... until it was discovered. Many people fear for their lives, because at any moment, the demons may make their move toward the surface, and invade...",
+	"version": "10a7cf",
+	"date": "2014-12-18 22:54:35",
+	"files": [
+		{
+			"filename": "hades.wad",
+			"size": 601497,
+			"crc": 1897299238,
+			"md5": "b4e7bdcb92d7f3203214aec062506409",
+			"sha1": "10a7cfae5d8d3a226146c7a38dd117d1a5313842",
+			"sha256": "5701efbb9768dfd8df1df703f2f4617985126fad8c9b2d57baee9971f695b976"
+		}
+	]
+}

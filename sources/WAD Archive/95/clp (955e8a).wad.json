@@ -1,0 +1,17 @@
+{
+	"uid": "clp (955e8a).wad",
+	"name": "Cargo Loading Pad (It's just a name for the level, like every level in DOOM.)_",
+	"description": "Your friends want to play Deathmatch, so you hook your computers up and play this WAD.",
+	"version": "955e8a",
+	"date": "2014-12-03 20:10:10",
+	"files": [
+		{
+			"filename": "clp.wad",
+			"size": 143144,
+			"crc": 174771924,
+			"md5": "0dd511c6dbd4a6346f851fd4ecc1afcc",
+			"sha1": "955e8a8418cf3abdd3113523b9d20abe122fb990",
+			"sha256": "3b1bf19fc9e23edda6e92c7cb2289d7e72e439f1d8ae3e81991e129ca78cf4fd"
+		}
+	]
+}

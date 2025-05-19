@@ -1,0 +1,16 @@
+{
+	"uid": "dm4ish.wad",
+	"name": "DM4-ish",
+	"description": "Remake of Quake map DM4 for Doom2 DM. My first Doom2 map and I wanted to do something very vertical, and I had already done a DM4 remake once so this seemed like a nice first challenge. Removing all the rooms above rooms from the original was rather easy, mostly done by moving stuff apart. Most complex was the GL area which I solved by making it one level (already on the original you can go in all directions by jumping to the ledge on the side). I took great care that the original connectivity was preserved. As to weapons, it is pretty close to the original but I had to swap some things around to make it most fun in \"old deathmatch\" mode: I originally had the LG replaced by a plasma gun but that would have made that area too campable so I moved it to the RL/HH area. Obviously a map like this will be most fun with the full mlook/jumping experience, but I made it just flat enough that it is playable without them.",
+	"date": "2013-04-18 23:03:25",
+	"files": [
+		{
+			"filename": "dm4ish.wad",
+			"size": 52986,
+			"crc": 349891054,
+			"md5": "f154bf327542e28bb1056e36b5bc9365",
+			"sha1": "84b932534a63768515d04ae57865058ac7ec8347",
+			"sha256": "d376dd3e8507801b800ad8a579cb5c521b865c11f33c607b42398ef0b99b55a5"
+		}
+	]
+}

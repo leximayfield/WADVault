@@ -1,0 +1,16 @@
+{
+	"uid": "cosby.wad",
+	"name": "Fat Albert's DOOM",
+	"description": "The comedy of Bill Cosby and DOOM, together at last !",
+	"date": "2015-09-15 17:58:31",
+	"files": [
+		{
+			"filename": "cosby.wad",
+			"size": 1015190,
+			"crc": 253978642,
+			"md5": "4d71e6bc12a422ea6a51ffcd8609c96d",
+			"sha1": "bc20068459979ee32f2e4da14a4423817eb7aa4b",
+			"sha256": "847cab94700ebc7d1ce8df969ef5a588f262e930dfa42d820f0266b4fa2eee65"
+		}
+	]
+}

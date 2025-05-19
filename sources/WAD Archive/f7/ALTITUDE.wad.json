@@ -1,0 +1,16 @@
+{
+	"uid": "ALTITUDE.wad",
+	"name": "Altitude",
+	"description": "One large City themed map designed for Vanilla/Chocolate Doom with multiple possible routes and a lot of optionality.",
+	"date": "2018-04-14 13:42:35",
+	"files": [
+		{
+			"filename": "ALTITUDE.wad",
+			"size": 1583750,
+			"crc": 1579737581,
+			"md5": "94b2c4fa581d3b7e524f3bca346fbf39",
+			"sha1": "f7342ff0b924306ba8a7ec94d4d6d0c9431e4aaf",
+			"sha256": "0afc4716c7458cbbfda16b064f890a5baa4a09dfe24dbbb4378d797b247e5976"
+		}
+	]
+}

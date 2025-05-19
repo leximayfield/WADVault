@@ -1,0 +1,16 @@
+{
+	"uid": "dm2-inu.wad",
+	"name": "Divine Malice II",
+	"description": "Its the sequel to Divine Malice, and this one is much better IMO. Thanks to some extra lumps, I didn't need to use DeHacked to make it fully compatible, but to use the mod to the fullest, you require *prepares to duck* GZdoom thanks to FSGLOBAL.",
+	"date": "2013-04-18 23:45:15",
+	"files": [
+		{
+			"filename": "dm2-inu.wad",
+			"size": 1912072,
+			"crc": 1978094810,
+			"md5": "5efd2f71b1144bfd6bd78c4810559db6",
+			"sha1": "693582fce66df7f13d8752652d29e2e09614f970",
+			"sha256": "f03dfaba473afb3360a2b96389295d325cbf5eee467e7f15278e192865e5a655"
+		}
+	]
+}

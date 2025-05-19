@@ -1,0 +1,16 @@
+{
+	"uid": "triggrhp.wad",
+	"name": "Trigger-happy (Updated version)",
+	"description": "Trigger-happy is a fast paced almost claustrofobic indoor map with abstract design and filled with nazis to kill. Dare yourself to escape this Mastermind dungeon and face the beast with ULTRA-VIOLENCE. This is the definitive version of my 2nd map triggerh.wad; it, features vanilla compability, detailed rooms, reworked enemy and item placement, diffilculty spikes and so on. Higly recommended to play using the Chocolate Doom source port, under 320x200 (or Crispy's 640x400), since it was intentionally made for.",
+	"date": "2017-06-27 00:05:31",
+	"files": [
+		{
+			"filename": "triggrhp.wad",
+			"size": 332466,
+			"crc": 1013189034,
+			"md5": "8c1b3864fd7a1457bd3da22318aeb85a",
+			"sha1": "ef6cbc725c23a75ebdbbc1e05b8779e21ed8c53b",
+			"sha256": "e7d4e94613b913545a05ca229e5041cbf1c33677f0b8cc47130bc1675bc2d793"
+		}
+	]
+}

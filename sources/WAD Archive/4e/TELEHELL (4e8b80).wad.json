@@ -1,0 +1,17 @@
+{
+	"uid": "TELEHELL (4e8b80).wad",
+	"name": "Telehell.wad",
+	"description": "This WAD has few doors...and fewer places to hide! It is small, so you don't have to spend an hour looking for your buds(?) to frag 'em. Check the map often, because this level is full of teleports, and it is hell if you get lost!",
+	"version": "4e8b80",
+	"date": "2014-10-28 21:53:42",
+	"files": [
+		{
+			"filename": "TELEHELL.wad",
+			"size": 20815,
+			"crc": 3891230568,
+			"md5": "7f40c3fbe7e01066f18c576c11c12e5e",
+			"sha1": "4e8b801326b59d53096150f32263c6d8e26919cf",
+			"sha256": "fb6fe11a194aaef159b40b7ee4a337f65029b633289c9d9a5cf045ae01dae5c8"
+		}
+	]
+}

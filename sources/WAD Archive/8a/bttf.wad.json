@@ -1,0 +1,16 @@
+{
+	"uid": "bttf.wad",
+	"name": "Back to the fire",
+	"description": "A medium to large sized tech map, use opengl mode!",
+	"date": "2014-12-21 16:21:05",
+	"files": [
+		{
+			"filename": "bttf.wad",
+			"size": 13610875,
+			"crc": 493058980,
+			"md5": "8d5e1a853514001f874d236aef7326ef",
+			"sha1": "8a273f17f7ac69122658df152c9358307a328413",
+			"sha256": "799a701feb565994f20f09332648ea1177d1017ff305a3d4c235065c168c5ef8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "storage (d69231).pk3",
+	"name": "Storage Area 32",
+	"description": "Storage Area is a dark, flooded, rusted metal base using the quake2 scenario as its theme. To add to the gameplay, it features polydoors, dark ambient music tracks, static lighting and a tga skybox.",
+	"version": "d69231",
+	"date": "2019-05-06 23:58:54",
+	"files": [
+		{
+			"filename": "storage.pk3",
+			"size": 8469193,
+			"crc": 2904822735,
+			"md5": "8a501ceaaf4c8ec5a727dfabb5c948fe",
+			"sha1": "d69231edce33b9cc63b3b7ca31a94c86538204b2",
+			"sha256": "5b851a7d4532f711deed2faa025fb73b2f5548ec8f2c79600fb747fb03a95b00"
+		}
+	]
+}

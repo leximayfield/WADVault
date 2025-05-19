@@ -1,0 +1,16 @@
+{
+	"uid": "phobmass.wad",
+	"name": "Phobos Massacre",
+	"description": "A replacement for Episode 1 of DOOM, in E1 style. This wad is an attempt to capture the atmosphere of \"Knee Deep in the Dead\" and to evoke nostalgia in players who enjoyed the original DOOM levels.",
+	"date": "2013-11-23 15:23:57",
+	"files": [
+		{
+			"filename": "phobmass.wad",
+			"size": 2334745,
+			"crc": 2027099011,
+			"md5": "bde23cd574c9dea09e06d7c58cb6ca3d",
+			"sha1": "6ba5d836d145ed043b055c6abd2f94567e37fcbc",
+			"sha256": "91215d2086b94fdbac1aac0308e024f75e7fd5a47bbec0a95e45a7d9f7a83384"
+		}
+	]
+}

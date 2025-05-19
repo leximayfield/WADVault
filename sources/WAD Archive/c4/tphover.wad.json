@@ -1,0 +1,16 @@
+{
+	"uid": "tphover.wad",
+	"name": "Technophobia Overdose",
+	"description": "Big sized map for ZDoom, mainly using Doom 2 stock textures.",
+	"date": "2014-12-29 17:02:32",
+	"files": [
+		{
+			"filename": "tphover.wad",
+			"size": 6797258,
+			"crc": 1150338440,
+			"md5": "10e6a370bcda6e0e48d918e469e72b19",
+			"sha1": "c4aa8ea85b31921b25491dfe1d0148b2c7af0e3e",
+			"sha256": "2b1fe6e9be0cc8aebfa8c6d759096fb13cf8608fb0f20f175a998b5953ace50d"
+		}
+	]
+}

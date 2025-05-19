@@ -1,0 +1,17 @@
+{
+	"uid": "DARK (ddb5b3).wad",
+	"name": "Citadel of Darkness",
+	"description": "This is a massive map, part of it is a demon university. There are also huge outside areas, even a chapel, with an archvile as the priest delivering a sermon.",
+	"version": "ddb5b3",
+	"date": "2019-10-07 23:42:24",
+	"files": [
+		{
+			"filename": "DARK.wad",
+			"size": 1989205,
+			"crc": 95811112,
+			"md5": "a2ff2191fd3f28ebaf57979a9e1b6550",
+			"sha1": "ddb5b34f12f5a4894a3ce842595ad1bf28c5771f",
+			"sha256": "5e480a55b3b721f34ec26af3b86ed7a45c3e0c960e779b161e6ac93708c20dce"
+		}
+	]
+}

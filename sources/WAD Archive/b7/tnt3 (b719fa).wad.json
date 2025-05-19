@@ -1,0 +1,17 @@
+{
+	"uid": "tnt3 (b719fa).wad",
+	"name": "Torment and Torture 3 : Fortress of Damnation",
+	"description": "The latest successor in the TNT series. As known, you will encounter a lot of ZDoom effects, neat detailed areas and of course scripting :) (not included are the many surprises placed in the map :D",
+	"version": "b719fa",
+	"date": "2014-12-29 17:23:23",
+	"files": [
+		{
+			"filename": "tnt3.wad",
+			"size": 9900032,
+			"crc": 305224332,
+			"md5": "80493e159da078de88eeb60c2fcb487e",
+			"sha1": "b719fa91c5080d2fe5aa4beb44e08414697dd5c2",
+			"sha256": "1a01ceee8bd91204a48408ace9525adc34c3fe94a6c552349747f8603741eeeb"
+		}
+	]
+}

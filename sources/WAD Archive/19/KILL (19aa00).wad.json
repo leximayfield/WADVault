@@ -1,0 +1,17 @@
+{
+	"uid": "KILL (19aa00).wad",
+	"name": "Kill.zip",
+	"description": "Kinda got the idea of this map from a screenshot of another wad. Forgot what the wad is.",
+	"version": "19aa00",
+	"date": "2015-01-05 16:32:18",
+	"files": [
+		{
+			"filename": "KILL.wad",
+			"size": 3766529,
+			"crc": 2588881208,
+			"md5": "e0d6745f2de2468b573bd332c5b45ada",
+			"sha1": "19aa002c42066f67bd15a7665705b9bb80913b75",
+			"sha256": "ac6adb9ec6a55b8cbba1ed3b9ac7654c2735ca30684d49f16cceae9a69ac1e52"
+		}
+	]
+}

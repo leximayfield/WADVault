@@ -1,0 +1,16 @@
+{
+	"uid": "spsycho.wad",
+	"name": "Shadow Psycho",
+	"description": "Doom/Doom2 replacement for Hexen's Bishop.",
+	"date": "2015-09-15 13:30:01",
+	"files": [
+		{
+			"filename": "spsycho.wad",
+			"size": 122881,
+			"crc": 2757566218,
+			"md5": "b9f8b5cadb2aecd857992b484c4ae5e0",
+			"sha1": "f4fe5ed4c917b1ac9bde4351dd01f72e3535b07f",
+			"sha256": "2905c33425d0151b09a4fcad796e48eed12816b3cdacd6ffa1cc85a4419dfc9e"
+		}
+	]
+}

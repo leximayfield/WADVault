@@ -1,0 +1,17 @@
+{
+	"uid": "mutiny20 (30e27a).wad",
+	"name": "Mutiny Mod 2.0",
+	"description": "Make sure you have ZDoom r1301/GZDoom r259 or later. ZDoom 2.2.0 or older GZDoom version WILL NOT WORK! This is an update to the first Mutiny Mod, greatly extending its features.",
+	"version": "30e27a",
+	"date": "2014-12-11 22:31:52",
+	"files": [
+		{
+			"filename": "mutiny20.wad",
+			"size": 19851550,
+			"crc": 3199132223,
+			"md5": "aab33432a2706db9f9dc267626c287d0",
+			"sha1": "30e27a2215cb660c001424a3b28a1d5035636fa1",
+			"sha256": "5cd8e2a17ded4925b3b16cef732104965a5dcdd6f6cfcb002b0e6579e2c29d9c"
+		}
+	]
+}

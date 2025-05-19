@@ -1,0 +1,17 @@
+{
+	"uid": "invade1 (324bcf).wad",
+	"name": "INVADE1.WAD (INVASION...",
+	"description": "This is level 1 of a 9 level storyline episode. You thought it was all over after you finished the grand tour in hell after Episode 3 -- Inferno.",
+	"version": "324bcf",
+	"date": "2013-11-04 20:09:51",
+	"files": [
+		{
+			"filename": "invade1.wad",
+			"size": 680975,
+			"crc": 1073004776,
+			"md5": "cd4632a7ae9c3c44e2d36496f4c238f6",
+			"sha1": "324bcf19eb57adc2b7f8a8de255e87634d910f86",
+			"sha256": "c63923ce474be68ada4cdec8436c6840aa118f7fd03d184ff266c6b0108666f6"
+		}
+	]
+}

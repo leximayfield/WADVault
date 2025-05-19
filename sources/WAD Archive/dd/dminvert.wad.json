@@ -1,0 +1,16 @@
+{
+	"uid": "dminvert.wad",
+	"name": "Doom Music Inversion",
+	"description": "Changes the notes in all the music so they are inverted, so low notes are high and vice versa. Makes for some weird, wacky or awkward sounding tunes.",
+	"date": "2014-04-20 12:56:21",
+	"files": [
+		{
+			"filename": "dminvert.wad",
+			"size": 1526017,
+			"crc": 2776165646,
+			"md5": "e03983c89e03b51ce9a2c6740c97517d",
+			"sha1": "dd7405aa26b26bbf7a565f1898f10f095e27fa5f",
+			"sha256": "4bfbf74f0f75b4d048e5e1e98a013b6c8bc7535400692662419936cd7a401c29"
+		}
+	]
+}

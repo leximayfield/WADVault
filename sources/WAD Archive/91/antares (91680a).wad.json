@@ -1,0 +1,17 @@
+{
+	"uid": "antares (91680a).wad",
+	"name": "Antares (a.k.a. alpha scorpionis, the",
+	"description": "This level is based on a space station \"far out in the uncharted backwaters of the un- fashionable end of the western spiral arm of the Milky Way Galaxy, etc...\". But seriously folks, this level has about 90% of its own graphics. BIG DEAL, so what does that mean? That means that you don't have to look at the same old shit on the walls anymore, this level carries its own walls, designed by me using many original and some borrowed from other textures in Doom][. The complexity of the textures was helped to a great extent by the fabulous program CorelDraw! for windows version 4 (especially using the canvases and the fills).",
+	"version": "91680a",
+	"date": "2014-01-07 22:26:42",
+	"files": [
+		{
+			"filename": "antares.wad",
+			"size": 466163,
+			"crc": 181382938,
+			"md5": "a988072de3e19a0d53c12042e8aa7645",
+			"sha1": "91680a101746fa7331ca0dcac1f7bf1fb029a75d",
+			"sha256": "06753da169da17ae57a087d1112bd594c42fedd9a2321ddd8f4d77d1159cb813"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "clrspec.wad",
+	"name": "Clear Spectres & Proper Blood",
+	"description": "Quick and dirty modification for the spectres so they show up almost invisible (92% transparent) and two seperate files pertaining to the Baron and Caco based monsters so they bleed the same blood color that comes out of them when they die. One is for the normal ZDoom ports, one is for Skulltag as the port has one new Baron and two Caco variations. The files as they are: ClrSpec.wad - The spectre modification PropBlod.wad - For ZDoom ports PropBdST.wad - For Skulltag only Tested with ZDoom 2.5.0 and Skulltag 0.98d and haven't noticed anything out of the ordinary.",
+	"date": "2018-04-15 00:02:03",
+	"files": [
+		{
+			"filename": "clrspec.wad",
+			"size": 118,
+			"crc": 3150221872,
+			"md5": "4bae86e3999629c99b215c9391423b7b",
+			"sha1": "499ae3b73dbb79cb6ad28aa1bf4eb070fe3877dd",
+			"sha256": "c8ddf321b3d5e3d4cf5a367fa9ecb7008e0a871b97672bb58ab62e7ca3ca2329"
+		}
+	]
+}

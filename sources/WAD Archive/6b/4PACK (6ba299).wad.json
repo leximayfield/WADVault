@@ -1,0 +1,17 @@
+{
+	"uid": "4PACK (6ba299).wad",
+	"name": "\"DooM2 Deathmatch 4-Pack\" 4PACK.WAD (DM24PK.ZIP)",
+	"description": "Previous DOOM levels: \"Training Facility\" DMTRAIN.WAD These levels were designed for deathmatch play. No monsters. Deathmatch 2.0 (-altdeath) rules are recommended. Features open play areas, rooms for hiding, and elevated perches for long distance spotting/shooting. See special notes below.",
+	"version": "6ba299",
+	"date": "2014-11-01 14:54:48",
+	"files": [
+		{
+			"filename": "4PACK.wad",
+			"size": 389389,
+			"crc": 1788723734,
+			"md5": "3a3b30a49501f7b289b9af7f2fd2abc4",
+			"sha1": "6ba299eca1ce6a481221147ad2c76521f9236aee",
+			"sha256": "4adcb4baf6c64d4bb21c3903494af57cee8dd7682d5529580dfa7d9c64847123"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "jstuff10 (12b612).wad",
+	"name": "jstuff10.WAD",
+	"description": "A small wad, although not without interest.",
+	"version": "12b612",
+	"date": "2013-11-02 15:44:36",
+	"files": [
+		{
+			"filename": "jstuff10.wad",
+			"size": 82420,
+			"crc": 1132211030,
+			"md5": "1b3a1d172ccd6c07e47458006f173ae3",
+			"sha1": "12b612a20022fe742d5721c86a776d305f71fc36",
+			"sha256": "f0516a271f109b5eb1b95818e35bae5cf901bf930fdb2675932fca9936545d93"
+		}
+	]
+}

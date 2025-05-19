@@ -1,0 +1,17 @@
+{
+	"uid": "pigeon03 (5fddf3).wad",
+	"name": "Pigeon Speedmapping Session 3 -- 50 Christmas Pigeons",
+	"description": "This is the third installment of Pigeon speedmapping sessions. Main goal was to make a map under a limit of three hours and the themes were: 1) Maps shouldn't go below 1024x1024 and not beyond 3072x3072. 2)Include purple or teal textures. 3)Good usage of crushers. Bonus theme: 4)Draw a signature area outside of the map to identify the mapper. Only one theme is needed to be used. In the duration of both sessions, we had 12 maps submitted.",
+	"version": "5fddf3",
+	"date": "2017-12-27 12:44:34",
+	"files": [
+		{
+			"filename": "pigeon03.wad",
+			"size": 12131193,
+			"crc": 3037277739,
+			"md5": "905a9a8a290fbfc75c73893d17200c64",
+			"sha1": "5fddf3835272ff216b75bd132c8d0ca3f9908e9d",
+			"sha256": "34c182687d13e86d28327f4800638973fe5f3d433876aff72394ba133299715f"
+		}
+	]
+}

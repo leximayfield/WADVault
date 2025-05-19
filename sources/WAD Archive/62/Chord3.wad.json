@@ -1,0 +1,16 @@
+{
+	"uid": "Chord3.wad",
+	"name": "CHORD3.WAD",
+	"description": "MAP27 It took way too long to make. Detailed, dificult, you know the drill... just download it and play it, trust me. It requires a source port (any source port that removes VPO and HOM, ie. almost any source port) to run, though jumping etc. is cheating.",
+	"date": "2013-04-18 22:08:10",
+	"files": [
+		{
+			"filename": "Chord3.wad",
+			"size": 588106,
+			"crc": 3194103225,
+			"md5": "80c4fa3e3881916a175db032c50e2ef9",
+			"sha1": "62cc11b631d510ae7feb0c7a445f39d454940aed",
+			"sha256": "b37f5bddf59240e25e85d408cd53854b8b1c8defeae1f7321a0807b6045f569b"
+		}
+	]
+}

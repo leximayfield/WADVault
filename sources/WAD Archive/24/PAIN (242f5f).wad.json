@@ -1,0 +1,17 @@
+{
+	"uid": "PAIN (242f5f).wad",
+	"name": "PAIN.WAD",
+	"description": ".WAD for you people that like hard",
+	"version": "242f5f",
+	"date": "2013-11-02 16:02:31",
+	"files": [
+		{
+			"filename": "PAIN.wad",
+			"size": 8521,
+			"crc": 2787783019,
+			"md5": "02842e67a5db4295c3e27bb4efc53e3a",
+			"sha1": "242f5f6e1d6e7494966bae97be23068a5b8a30c4",
+			"sha256": "a844cd66c9a4586bacb8e8b07704bd0ffeed229bfc4c05d142e8828de91e74ff"
+		}
+	]
+}

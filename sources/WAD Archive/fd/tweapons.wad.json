@@ -1,0 +1,16 @@
+{
+	"uid": "tweapons.wad",
+	"name": "Tweapons",
+	"description": "A weapon mod with 20 new weapons! (Numbers are weapon slots) 1-FastChainsaw 2-BFGPistol 2-Laser 6-Railgun 6-Multi_PulseRailgun 6-Railrifle 3-Double-BarrelPlasmaShotgun 4-Plasma_Quaker (There are 2 one fires red and one fire blue) 6-flame_thrower 4-flame_quaker 4-Super__Scope 4-Super_laser 8-BFGNuke 9-Infernolauncher (Enhances BFGNuke + There's a seekermissile one) 0-Dinner_Blaster (JOKE) 0-Super_Dinner_Blaster (JOKE)",
+	"date": "2014-12-11 22:08:18",
+	"files": [
+		{
+			"filename": "tweapons.wad",
+			"size": 1339289,
+			"crc": 2916723842,
+			"md5": "b4c2657e739d018b39bc26ee96d81e97",
+			"sha1": "fda0069d2b914ddec1c118f349dba35b3bed6ca5",
+			"sha256": "67994f9221f06ac78151061df46f312687b0f7d40420255534077b9587c1a3b6"
+		}
+	]
+}

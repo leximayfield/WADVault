@@ -1,0 +1,17 @@
+{
+	"uid": "dm2gm3a (e65f68).wad",
+	"name": "DM2GM3A.ZIP (dm2gm3a.wad + .txt)",
+	"description": "A DOOM II combo co-op/ deathmatch / single player wad. This pwad represents my most ambitious effort for pwad design to date. I have payed particular attention to design elements like textures, lighting and shading, weapon placement, monster selection, and most of all playability. One area of this level is extremely complex, graphically, and had occasionally caused a NoAvailableVisplanes or similar message and subsequent crash to DOS. This should be fixed, but if you have any trouble, please e-mail me right away. This wad designed for use with DOOM II and replaces map01 (level 1). Any and all feedback welcomed. Also, there are no unsolvable puzzles or traps. all secret doors are identifiable via texture change lighting, or similar. Any area you can see, you can get to. Hope you like it, if not please tell me why, so I can improve on design. ANY and ALL Feedback Welcome!",
+	"version": "e65f68",
+	"date": "2013-11-04 20:12:23",
+	"files": [
+		{
+			"filename": "dm2gm3a.wad",
+			"size": 155251,
+			"crc": 2610251248,
+			"md5": "50fd53185088de333ca5bde495e87c80",
+			"sha1": "e65f68bbeb53b5ec6e2633551544a12a9724926b",
+			"sha256": "ccaa77187097d71b394d485a955f8faec7b2e73621dd739dc9c7d9bdb815a2fc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "yardz (35fe39).wad",
+	"name": "Yards of Chaos",
+	"description": "This is not just yet another deathmatch map. I put a lot of thought and testing into this excellent level. The weapons and powerups are placed to ensure maximum excitement and fun. There is no BFG or plasma rifle in the map, they are _NOT_ suitable for deathmatch.",
+	"version": "35fe39",
+	"date": "2013-11-06 22:30:26",
+	"files": [
+		{
+			"filename": "yardz.wad",
+			"size": 116652,
+			"crc": 1582557734,
+			"md5": "d3c1f84360a7559661be6fa16c29953b",
+			"sha1": "35fe39a9174207925d72139e4d420d79636b8843",
+			"sha256": "3bce4d1a113d9fcb893b58b3a2beab72fe5aa6e24d795d1d8192d6be56bc56b4"
+		}
+	]
+}

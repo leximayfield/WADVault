@@ -1,0 +1,17 @@
+{
+	"uid": "biohazrd (b10c78).wad",
+	"name": "BIOHAZRD, an excellent Doom ][ Deathmatch Level",
+	"description": "A lot of intersecting hallways that all lead to a large central room with a pit. This is a Deathmatch level. No monsters, traps or anything else that would steal a frag from another player. Also has one exit (not hidden) so that you can see the frag stats.",
+	"version": "b10c78",
+	"date": "2014-12-03 19:58:40",
+	"files": [
+		{
+			"filename": "biohazrd.wad",
+			"size": 107135,
+			"crc": 665926386,
+			"md5": "2992ca85220330cd8a573e32c690c8a8",
+			"sha1": "b10c7812a3fffb97676d436f0a812774e366ed9b",
+			"sha256": "f79a17bab10efecbe00e07bb71bfa3e52a45ba3af94f6380268b6543756d1dcb"
+		}
+	]
+}

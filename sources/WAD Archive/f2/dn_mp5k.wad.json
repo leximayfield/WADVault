@@ -1,0 +1,16 @@
+{
+	"uid": "dn_mp5k.wad",
+	"name": "MP5K Sub-machine gun",
+	"description": "This replaces the chaingun with a MP5K sub-machine gun. The original gun graphics are taken from the MP5K weapon add-on for Duke Nukem 3D by Ian Jones. I had to modify the sprites a little, but it turned out okay. I got the icon for the weapon from Dt-uzi by Don Tello. This >should< work with Doom, Doom II, and any Doom port. I recommend getting Smack My Marine Up for this patch, because of it's cool-ass cross hair.",
+	"date": "2014-12-10 22:46:04",
+	"files": [
+		{
+			"filename": "dn_mp5k.wad",
+			"size": 23388,
+			"crc": 3922582432,
+			"md5": "a9b358d1246bc0211de21f1068591311",
+			"sha1": "f20fd108646b067010c96481ae6222ef6365099b",
+			"sha256": "49814a79c5cc33552351e3e2713915db012cf980493a1115a9993a4c077928cd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "KNEEDEEP (496b77).wad",
+	"name": "FSW4.WAD",
+	"description": "A simple level, layout-wise, originally designed exclusively for Deathmatch, but adapted for one player games as well. Features : - Exiting on Deathmatch is difficult unless you co-operate - Several \"stages\" based in the same area. Just when you think you've finished ... - Last \"stage\" is the hardest, but you can exit without completing it. This level is mainly a shoot-the-bad-guy level; Completion is easy with a minimum of kills, but the aim is to get 100% kills.",
+	"version": "496b77",
+	"date": "2013-11-02 15:51:41",
+	"files": [
+		{
+			"filename": "KNEEDEEP.wad",
+			"size": 576243,
+			"crc": 2490972251,
+			"md5": "5d40cd95aadef0605ae2a2f030d26d24",
+			"sha1": "496b77f5370db70261687f6bb0a8a4352f96b394",
+			"sha256": "729908716baf7128aaa85bdc251790e9bdfa10bc4b8417786d31a1df7f029d3f"
+		}
+	]
+}

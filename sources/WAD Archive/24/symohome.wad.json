@@ -1,0 +1,16 @@
+{
+	"uid": "symohome.wad",
+	"name": "SYMOHOME.WAD",
+	"description": "Oh shame! Just back from walking the elephant and what happens? Bloody hellspawn again! Have to frag 'em I suppose. What a life, eh? This level is fairly HARD to complete, but fun to explore and even more fun in multi-player mode! New graphics created on an Acorn RISC PC (what's that?) and converted to BMP's using !ChangeFSI and !ToBMP software.",
+	"date": "2015-01-14 22:44:36",
+	"files": [
+		{
+			"filename": "symohome.wad",
+			"size": 184634,
+			"crc": 1109978948,
+			"md5": "bb73d21b9b874af1adf872aedf5bcfbf",
+			"sha1": "24b77e351ee394651944a8ee155aa1d348e29bfa",
+			"sha256": "c3f7cea3022f30814a2c8605d0fa52372e742fc431adc4f59474c69316317b96"
+		}
+	]
+}

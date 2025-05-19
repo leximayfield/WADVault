@@ -1,0 +1,16 @@
+{
+	"uid": "dmfield.wad",
+	"name": "Deathmatch Field -or- Field of Screams",
+	"description": "A big flat area floating somewhere.. just a : deathmatch level recommended for lots of players. : It'll support 32 players. Kefka suggested we just : do a big flat area where there's no place to : hide... just constant shooting heh",
+	"date": "2014-12-15 21:49:29",
+	"files": [
+		{
+			"filename": "dmfield.wad",
+			"size": 67646,
+			"crc": 262533668,
+			"md5": "51f34fa2e65855223db78e0def2bee2f",
+			"sha1": "78023f0c62d5ab0a9305558b5cd6390169120ac5",
+			"sha256": "7f2949573163164aab85493e32ab6ad44d40a2fe6170a89cb884eebfa7c0eecf"
+		}
+	]
+}

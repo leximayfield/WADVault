@@ -1,0 +1,17 @@
+{
+	"uid": "kik16 (1f5283).wad",
+	"name": "KIK16.ZIP",
+	"description": "Deathmatch Wad for Doom II This wad is the latest version of Kikass. v1.6 This introduces a couple of imps, a couple of extra rooms, and a vantage point.",
+	"version": "1f5283",
+	"date": "2013-11-02 15:50:44",
+	"files": [
+		{
+			"filename": "kik16.wad",
+			"size": 29384,
+			"crc": 9799942,
+			"md5": "63a3c5b98b5218cef479172b526aa04d",
+			"sha1": "1f5283eba935410de82de58e7d54b9f942a052f6",
+			"sha256": "edeccf2404dd8451cb7e1c8fc2838c013419f534cee416557513617abef0ed91"
+		}
+	]
+}

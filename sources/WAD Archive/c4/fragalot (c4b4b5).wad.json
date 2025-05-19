@@ -1,0 +1,17 @@
+{
+	"uid": "fragalot (c4b4b5).wad",
+	"name": "Castle Fragalot",
+	"description": "A DooM II Deathmatch level set in a techno-fantasy castle.",
+	"version": "c4b4b5",
+	"date": "2014-12-15 22:39:33",
+	"files": [
+		{
+			"filename": "fragalot.wad",
+			"size": 1315796,
+			"crc": 1317907922,
+			"md5": "ebc27d30152c4065f3f024623c104d4c",
+			"sha1": "c4b4b510b43e0b4a660a7727f449d5ee9932798a",
+			"sha256": "fbef51eb982989dc19aba4ff6b078bc865ce3f397c1261aa12e4853d49e639bf"
+		}
+	]
+}

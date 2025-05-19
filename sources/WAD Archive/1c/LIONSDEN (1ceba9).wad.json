@@ -1,0 +1,17 @@
+{
+	"uid": "LIONSDEN (1ceba9).wad",
+	"name": "The Lion's den",
+	"description": "The transporter beam found a fairly safe drop point. You materialize to find yourself in a strange place. It shines of hi-tech, though the mission briefing said dark and gloomy dungeons... Oh well, another day in the life of a dispensible marine...",
+	"version": "1ceba9",
+	"date": "2014-01-07 22:21:51",
+	"files": [
+		{
+			"filename": "LIONSDEN.wad",
+			"size": 80302,
+			"crc": 2391817404,
+			"md5": "2165e96cda90bd73d67aea4818ff3d1f",
+			"sha1": "1ceba941215c0514d8f158c59a3e45e0ed8c6731",
+			"sha256": "cba17161a96670289bbac3e04ef64c1284134c5c43fb762b730c1ed97c3895fa"
+		}
+	]
+}

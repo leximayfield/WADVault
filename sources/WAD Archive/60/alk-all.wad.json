@@ -1,0 +1,16 @@
+{
+	"uid": "alk-all.wad",
+	"name": "Alkylation (version 1.0)",
+	"description": "An UAC outpost has been invaded by a new kind of demons. It's up to you to go there and clean the installations.",
+	"date": "2014-12-21 16:56:53",
+	"files": [
+		{
+			"filename": "alk-all.wad",
+			"size": 23762101,
+			"crc": 337307200,
+			"md5": "6ae1d306d925f003d020bcf181fd096a",
+			"sha1": "60cf45d752bbdd33bddf29c6986ce097b98269a8",
+			"sha256": "447da330a9ed97e329304a64af04bcfb1a1949dc682e79543034d2ce61f15868"
+		}
+	]
+}

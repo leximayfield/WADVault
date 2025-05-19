@@ -1,0 +1,17 @@
+{
+	"uid": "tgrcp1de (957607).wad",
+	"name": "Navala",
+	"description": "TGRCP1 hat 5 Maps, mit neuen Features, und leichteres Setup f\u00fcr offline oder online Spiele! Version 1.00: 20 April. 2007 Original release Version 1.75: 2 Augest. 2008 Rewritten the whole ACS Trays Fixed alot of Bugs Fixed Runtime issues Small changes in the maps Added the \"SVS\" feature Updated \"RPC\" Version 1.76: 15 June. 2009 Fixed a compatiablity issue on Skulltag 97e! Wall cameras are not so distorted! Fixed the platform height issue, on map five. Version 1.77: 17 June. 2009 Skulltag Monsters no longer fight with the same type. Fixed the Map Rotation sequence for Online users. Unversioned Updates: 23 November. 2012 Expunged a superfluous lump Created a new WADINFO Changed version scheme 1.77 -> 1.03 Version 1.04: 25 November. 2012 Ported the project to ZDoom! Resources used from: * Monsters SkullTag\\Zandronum * Weapons Realm667 Resources * Spheres Realm667 Resources Sadly, not everything was ported over: Runes, and some armor and health bonuses. Converted images to PNG format.",
+	"version": "957607",
+	"date": "2018-04-16 08:21:34",
+	"files": [
+		{
+			"filename": "tgrcp1de.wad",
+			"size": 5631231,
+			"crc": 246139520,
+			"md5": "114d9098579151399f01ba9720ea0f04",
+			"sha1": "95760702bae87a1fa21e0b97d7d9b6353cc0e83a",
+			"sha256": "fb8199406eafe7f79852dfab1f6ace776480dfb49a3697ae9e74cc14fa688a12"
+		}
+	]
+}

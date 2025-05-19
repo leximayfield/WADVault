@@ -1,0 +1,16 @@
+{
+	"uid": "drkwrld1.wad",
+	"name": "Dark World I",
+	"description": "This level has a lot of maze like halls and requires all the key cards to pass. There are eight secrets.",
+	"date": "2013-07-09 20:20:59",
+	"files": [
+		{
+			"filename": "drkwrld1.wad",
+			"size": 68528,
+			"crc": 2092904723,
+			"md5": "0341d6e12551d1f0517e7405bb47744c",
+			"sha1": "43e04099fe3ff0a5688431a6e15158189133400c",
+			"sha256": "b88599387bd413c6aa5cf0ffc410d1d3fa345c7c15bbff1eab73d1c75a39b955"
+		}
+	]
+}

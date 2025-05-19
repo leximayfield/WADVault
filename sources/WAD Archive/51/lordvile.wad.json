@@ -1,0 +1,16 @@
+{
+	"uid": "lordvile.wad",
+	"name": "Lord Vile",
+	"description": "This is the Lordvile for Zdoom with decorate support. I've only tested this with 2.0.96, but I'm guessing it should work with 2.0.63a. He is a boss caliber monster that spawns archviles 20% of the time and has two powerful missile attacks that each have a 40% chance of being used. Originally, I was going to give him a reflective defense, but I thought that would make him too hard. The demo level is divided into 4 sections. Each section has a different version of the Lord Vile. To get to a different section just head for the teleporter in the corner. Commence with the ole' IDDQD and IDKFA because there are no weapons or powerups. About the Lord Viles: Version 1 This Lord Vile waits patiently for you to show up and piss him off. After you've beaten him he teleports away. Version 2 This Lord Vile again waits patiently for you to show up, but then he arrogantly suggests that you worship him. After you beat on him for a while he decides to \"get serious,\" fly around, in fire, and throw every attack he has at you. When flying, one BFG shot will kill him and he also won't spawn those annoying archviles. Version 3 Where is the Lord Vile???? A Ha, he's on another plane of existence, or something. Walk into the middle of the arena and fire your weapon. He should teleport in and start beating on you. In all other regards he's the same as Version 2. Version 4 This guy just flys around while surrounded by fire. He's the same flying monster from Version 2 and 3. Although I have 4 different versions, they are just there to give you ideas how you may use him for your wad. Feel free to make him do anything you want for your wad.",
+	"date": "2014-12-11 22:29:55",
+	"files": [
+		{
+			"filename": "lordvile.wad",
+			"size": 712206,
+			"crc": 1466065033,
+			"md5": "9968d9b76d4bd116dff07bbc7138d883",
+			"sha1": "519c6af6fa022c531c8516c42c787a215d8eb594",
+			"sha256": "598abda5a86aa3430c5bc6820ce0b9e672a974db6bb46a1f21b756ff850548b1"
+		}
+	]
+}

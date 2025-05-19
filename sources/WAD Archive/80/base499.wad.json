@@ -1,0 +1,16 @@
+{
+	"uid": "base499.wad",
+	"name": "Base 499",
+	"description": "A 1on1 deathmatch map, I decided to actually throw some effort into it and voila, it was completed. Not ideal for weaponswitching, jumping, or mouselook in MP play.",
+	"date": "2013-04-19 01:14:28",
+	"files": [
+		{
+			"filename": "base499.wad",
+			"size": 780102,
+			"crc": 3151928414,
+			"md5": "8d8b2286abebeaa0498fb209a10b0639",
+			"sha1": "80e6c69461b192e35312afcc595b71bc27bdfe17",
+			"sha256": "74680be4b31f14946e4de5279b095736e59421265c272ca0bf9a19c5937fb8a0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "wolfen (b09ab1).wad",
+	"name": "Wolfen",
+	"description": "A warlord has harnessed ancient powers, and is turning his subjects into wolf like creatures. He must be stopped before his wolfen army grows beyond possible defeat.",
+	"version": "b09ab1",
+	"date": "2014-12-31 12:07:44",
+	"files": [
+		{
+			"filename": "wolfen.wad",
+			"size": 11069527,
+			"crc": 831529246,
+			"md5": "1510ecee5e5e7566954d895452b7f4f4",
+			"sha1": "b09ab12a38bda59723dfd7e896c79e4921e4b062",
+			"sha256": "f4ea9b8bb7e53a2d9929b1fb4e6c40e40704d34a30692f2b0cd12b61605bddb2"
+		}
+	]
+}

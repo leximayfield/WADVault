@@ -1,0 +1,16 @@
+{
+	"uid": "steamboatimpy.wad",
+	"name": "Steambot Impy",
+	"description": "It is a rather small map, my first one, that i made to test my skills and familiarize with the GZDoom builder. I always wanted something steampunk'ish to play, so this is a small cargo steamship teleported into a hellish dimension and now full of demons and former crew members (roughly sixty monsters-full). It needs GZDoom and Doom 2 to play. Any criticism is appreciated - maybe i'll make something better next time.",
+	"date": "2015-12-29 15:15:22",
+	"files": [
+		{
+			"filename": "steamboatimpy.wad",
+			"size": 1430336,
+			"crc": 2915735196,
+			"md5": "1bfb8f88534cc8dc52c584b5419ecdb5",
+			"sha1": "1bc2501f82ad8c46f97a88ef5a15e6bb6a343d42",
+			"sha256": "54c52af149a7df4c76c793e523ca5ad52f252c20468bc92698af46ca02fc534b"
+		}
+	]
+}

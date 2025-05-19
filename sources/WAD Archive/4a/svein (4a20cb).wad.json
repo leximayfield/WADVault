@@ -1,0 +1,17 @@
+{
+	"uid": "svein (4a20cb).wad",
+	"name": "Svein's Keep",
+	"description": "A Deathmatch showdown set in the grim hallways of ol' Svein's castle. It's my first WAD, so don't complain :-).",
+	"version": "4a20cb",
+	"date": "2014-12-15 21:36:29",
+	"files": [
+		{
+			"filename": "svein.wad",
+			"size": 93039,
+			"crc": 78166212,
+			"md5": "f4dad3746ea7b9035c4d03441c06205b",
+			"sha1": "4a20cb554989e678240a673d17f76f3d11894829",
+			"sha256": "522042c4afa53e697f52c74cd3c5f89fab67a7d45b2eea16b59d4f57f81249f4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "plinch.wad",
+	"name": "Plinch",
+	"description": "You are thrust headfirst into legions of demons, barons, arch-viles, revenants, and imps...using your fist! \"Plinch\" is a a punch and pinch and a lunch and maybe a lynch.",
+	"date": "2015-01-14 22:44:06",
+	"files": [
+		{
+			"filename": "plinch.wad",
+			"size": 158122,
+			"crc": 3540277338,
+			"md5": "b12b0b6ef7544b964d065e87c30155aa",
+			"sha1": "ca1c8d3dc39526d43266b0986689cde4eeef0d74",
+			"sha256": "ff214d4ac0e53a5ef60a1cb67bf7f27c6d683af2c1062adeee3e133891493064"
+		}
+	]
+}

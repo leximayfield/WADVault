@@ -1,0 +1,16 @@
+{
+	"uid": "SMEGAD.wad",
+	"name": "Escape from the Hellbase(demo)",
+	"description": "Player escapes from the Hellbase.",
+	"date": "2015-01-14 23:07:38",
+	"files": [
+		{
+			"filename": "SMEGAD.wad",
+			"size": 533844,
+			"crc": 469045900,
+			"md5": "0a067b054511cb882e63e78cf138e3a7",
+			"sha1": "3bdb0411081d7cceb0aa624c34b69d63ed50cda6",
+			"sha256": "1b45a73d423a9ce41889c6ac7f7d2ae0065038a6394c463630a008f58e0fb19c"
+		}
+	]
+}

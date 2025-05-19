@@ -1,0 +1,17 @@
+{
+	"uid": "spook (8e944b).wad",
+	"name": "Spook sounds and music wad version 1.1",
+	"description": "This wad replaces the music on every level of the original",
+	"version": "8e944b",
+	"date": "2014-12-11 22:20:00",
+	"files": [
+		{
+			"filename": "spook.wad",
+			"size": 1809418,
+			"crc": 2499324679,
+			"md5": "5429ead80ee72e6bd430d8410ae26986",
+			"sha1": "8e944b693b3a470d79523da907581681128ea489",
+			"sha256": "b8a478556051421279a84139aaead78b62afb4a5aef8044c235c6c57b3915f8e"
+		}
+	]
+}

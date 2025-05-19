@@ -1,0 +1,17 @@
+{
+	"uid": "chaos (dd531a).wad",
+	"name": "Chaos",
+	"description": "Multiplayer fun.",
+	"version": "dd531a",
+	"date": "2016-06-16 22:20:19",
+	"files": [
+		{
+			"filename": "chaos.wad",
+			"size": 22089,
+			"crc": 3287729612,
+			"md5": "97a5186d364b779ee79608210b9fef9e",
+			"sha1": "dd531a69a351a347f63474ff4a37d3685380d6e4",
+			"sha256": "d9d423ba49ca98ad27eaef788403f57ccfce8b22083155c5f1e0d7583caea00f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dm_guns.wad",
+	"name": "Deathmatch Guns by DoomKid",
+	"description": "Am I the only one who likes the thought of a gun mod for Deathmatch that isn't over the top? I've seen many mods out there like Brutal Doom, Real Guns Advanced and even Burl Tumd, and while they're all REALLY fun, they seem to make things just a tad too unbalanced for Deathmatch play. (If you haven't played those wads, go do it now.) The aim of this pack is to keep the guns feeling like classic DOOM guns, while souping them up just a tad and keeping them fair. The fist is now a bayonet that deals just over double damage. The pistol is now a machine gun, so no more running arround with the pea shooter! The shotgun is now automatic, making it a fair fight against the SSG, which is also slightly more powerful. The chainsaw now has 2 blades - the most unoriginal idea in Doom history, but damn, I love it anyway. It deals double damage as well, of course.",
+	"date": "2014-05-22 21:01:38",
+	"files": [
+		{
+			"filename": "dm_guns.wad",
+			"size": 488509,
+			"crc": 391577049,
+			"md5": "f4ce556c734b45c8e1c7a08c097bb044",
+			"sha1": "9517bc56e6752f35d8d67f9c1b51688508b6f3c4",
+			"sha256": "93ade6c3a580c2c57620523144a90ef2c1f239714617171b89a7c3ae7bd26dc9"
+		}
+	]
+}

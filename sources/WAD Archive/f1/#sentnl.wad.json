@@ -1,0 +1,16 @@
+{
+	"uid": "#sentnl.wad",
+	"name": "Sentinel",
+	"description": "The only level that I have designed purely for DM. This is my 11th level. Nocturnal, Circular island, Fragfest. This level has monsters and dificulty level, you can decrease the number of monsters by playing in an easier dificulty level. If you find out why this level is called \"Sentinel\" you can rule this island with tyranny! Play this with Doom2.exe or a port that does not support jumping.",
+	"date": "2014-12-15 22:47:19",
+	"files": [
+		{
+			"filename": "#sentnl.wad",
+			"size": 283945,
+			"crc": 3520907624,
+			"md5": "161150e1e005e530f6007b888f69d5e6",
+			"sha1": "f155f25c463c72410e889a77bbe920b7bcca3350",
+			"sha256": "4122872d5cd94ce4642712182e283d3666264d12173d8dba7974f82402f42141"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wacky.wad",
+	"name": "wacky.wad",
+	"description": "Utilizes all three keys, but it is a quite small level. Conserve your health. All weapons are found within. No big architectual wonders, as I kept 2 the basics. If you play this level with Deathmatch, be sure to add -nomonsters in the command line!",
+	"date": "2015-01-14 22:55:58",
+	"files": [
+		{
+			"filename": "wacky.wad",
+			"size": 28442,
+			"crc": 598840590,
+			"md5": "f341b8b3bddc7c2a1e7eca83545d6aa9",
+			"sha1": "b5cac984f66ea5203047050c51e5ee66cdcc5a89",
+			"sha256": "ef4d76133f7c525836c8f34b89bc18130cab582378762a462aa4917e5350cd83"
+		}
+	]
+}

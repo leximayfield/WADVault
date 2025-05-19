@@ -1,0 +1,17 @@
+{
+	"uid": "tpbm (d0251f).wad",
+	"name": "Thy PrBoom Maps: Beta 1",
+	"description": "This is the 14 map beta version of my upcoming megawad: \"Thy PrBoom Maps\". This has 14 finished maps and a few little nods towards the next few maps in the form of DeHackEd code and MIDI's found within the .wad (but that is not important). This map set is for casual players, you don't need to be MLG Doom to get through these 14 maps on Ultra Violence but there will be some resistance however. There should be a MAPS.txt located in the .zip, this will give you a rundown of currently available maps within the .wad, have fun I guess. (P.S, this was intended for the PrBoom source port, it will work with other advanced ports however).",
+	"version": "d0251f",
+	"date": "2014-12-29 15:49:19",
+	"files": [
+		{
+			"filename": "tpbm.wad",
+			"size": 5903102,
+			"crc": 2464956266,
+			"md5": "8a2ac9ae200478830387114b3eb31a46",
+			"sha1": "d0251f98884afbe50dfec46e61ef76cea9b83f10",
+			"sha256": "6c00a34170cb909877aa4145e2ff3bc6db8c4e719a0419688b4bd26ebc8e0625"
+		}
+	]
+}

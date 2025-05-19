@@ -1,0 +1,16 @@
+{
+	"uid": "hxabyss.wad",
+	"name": "Abyss",
+	"description": "A fortress type map.",
+	"date": "2016-01-20 22:08:40",
+	"files": [
+		{
+			"filename": "hxabyss.wad",
+			"size": 216102,
+			"crc": 3250965044,
+			"md5": "a614ebb65028403e33ccd0e4b2ddddd0",
+			"sha1": "3f0449c9891f4d154686161ef0ef74ca31101918",
+			"sha256": "225cc2007df3b8658a7834030db6a717090780f4031f4fa872c329af1bb1008b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "bench.wad",
+	"name": "Benchmark v1.1",
+	"description": "This is intended as a benchmark wad to compare the performance of various source ports. The selected difficulty setting is used to tune the number of enemies (quarter for easy difficulties, half for normal difficulty, full for hard difficulties).",
+	"date": "2015-09-15 16:40:42",
+	"files": [
+		{
+			"filename": "bench.wad",
+			"size": 325046,
+			"crc": 931180263,
+			"md5": "7cb5190fadba3293a1233a20da987735",
+			"sha1": "73911e231af834f84b574c10f5628c63a4784fee",
+			"sha256": "8b0c965aace8bfb6922a1b335d05f995e9b937a1d929ca7db67d688f69e60649"
+		}
+	]
+}

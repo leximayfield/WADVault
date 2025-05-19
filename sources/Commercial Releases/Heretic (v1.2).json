@@ -1,0 +1,16 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Heretic (v1.2)",
+	"name": "Heretic",
+	"version": "v1.2",
+	"files": [
+		{
+			"filename": "HERETIC.WAD",
+			"date": "1995-06-28",
+			"size": 11095516,
+			"crc": "54759180",
+			"md5": "1e4cb4ef075ad344dd63971637307e04",
+			"sha1": "a54c5d30629976a649119c5ce8babae2ddfb1a60"
+		}
+	]
+}

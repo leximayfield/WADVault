@@ -1,0 +1,17 @@
+{
+	"uid": "dmcath24 (c1e7cd).wad",
+	"name": "Deathmatch Cathedral",
+	"description": "Designed to have a demonic presence about it. You are locked inside an Unholy Cathedral- and only one of you shall survive!",
+	"version": "c1e7cd",
+	"date": "2014-01-04 11:56:04",
+	"files": [
+		{
+			"filename": "dmcath24.wad",
+			"size": 55050,
+			"crc": 2067284964,
+			"md5": "e45cddab88695a0d76a3f464010cbc4c",
+			"sha1": "c1e7cda3391eeba412a86b27ab489aa041b11aff",
+			"sha256": "23e656623bb93d2257f59996af6cc277facd240adac811be83e43121a0163ff0"
+		}
+	]
+}

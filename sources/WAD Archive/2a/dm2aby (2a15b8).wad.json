@@ -1,0 +1,17 @@
+{
+	"uid": "dm2aby (2a15b8).wad",
+	"name": "abyss.wad",
+	"description": "It was discovered that the UAC has an underwater base, UB1 (information not previously disclosed to the Military). The UAC has admitted that early experimentation into dimension travel was moved to this location to maintain secrecy on the technical end. Experiments went off as planned with the exception of several minor mishaps with UAC personnel only. Hours before the the invasion of Earth, communication with the base broke off. There was no reported emergency but no one has attempted contact for lack of time and priority (after all, most UAC members were busy trying to save their own butts after the invasion). Top UAC officials believe that a rival corporation, WEEST Inc., having had more than one corporate spy \"removed\" from UAC, discovered UB1 and somehow managed to \"gain control\" of it from UAC staff. If this is true, WEEST Inc. personnel would be unprepared for the power and capabilities of the DTP's (Dimension Test Platforms) - they might destroy themselves and UB1 with them. As a member of Team Alpha, an elitist Military unit, you have been summoned to teleport to the dockpad, gain entrance to UB1, seize control, and repair the communication tower.",
+	"version": "2a15b8",
+	"date": "2013-11-04 20:11:29",
+	"files": [
+		{
+			"filename": "dm2aby.wad",
+			"size": 57853,
+			"crc": 3842840163,
+			"md5": "f8584798392a8aba63314c6ed40f94a6",
+			"sha1": "2a15b86d0ff434ab734b97a78aef61f691312898",
+			"sha256": "0e633d85eddb238e673cce177c7260c7cab066c65537e37f285253ce18bdb7a8"
+		}
+	]
+}

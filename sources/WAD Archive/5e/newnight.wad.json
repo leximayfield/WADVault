@@ -1,0 +1,16 @@
+{
+	"uid": "newnight.wad",
+	"name": "New Nightmare",
+	"description": "A dark level (surprise) set in an undisclosed location.",
+	"date": "2015-01-13 21:36:44",
+	"files": [
+		{
+			"filename": "newnight.wad",
+			"size": 835600,
+			"crc": 2542452051,
+			"md5": "3fbf59c6dfb3492df691a03d371cf791",
+			"sha1": "5e106046d495c6657a6c1a594867483f970c879d",
+			"sha256": "6f5134731cdf51c64716c3d79a9ba6210251169f5eb6b9c4600475eb2c8f4fe6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellgate (dba5a8).wad",
+	"name": "HellGate I",
+	"description": "The UAC genius who developed the trans-dimensional warp was believed killed during the fiasco on Deimos. But it appears that he managed to escape, using a new interplanetary teleporter! Even worse, this man has made an evil pact with the forces of evil - he is building a HellGate to transport hordes of demons and imps to take over the world. Our hero, the stolid marine, must put this menace to an end. Already, demonic troops stand guard over the complex where the unethical maniac has performed his fiendish work. You are dropped into the central compound at night. Your mission - destroy all opposition. Deactivate the HellGate!",
+	"version": "dba5a8",
+	"date": "2014-01-11 11:18:52",
+	"files": [
+		{
+			"filename": "hellgate.wad",
+			"size": 184345,
+			"crc": 804700896,
+			"md5": "a4da9098d8cbd69a6e01fa51b5cdfa32",
+			"sha1": "dba5a81c4191fb353fdb3860eafc8a2bd6c76f9c",
+			"sha256": "789bebe05cf17fb624782b76c241a298cf29e8fd5adfb0f8e2bf2f4bc8ec31e2"
+		}
+	]
+}

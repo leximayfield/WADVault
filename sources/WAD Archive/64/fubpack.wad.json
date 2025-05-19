@@ -1,0 +1,16 @@
+{
+	"uid": "fubpack.wad",
+	"name": "fubpack",
+	"description": "a series of 3 dm maps, all of which are reasonably dated. i have no idea how well these play because all i can test with are bots that can't figure out how to use super shotguns for some reason. level design inspired by popular ffa maps on zdaemon and probably best suited for those purposes. suggest 4-8 players.",
+	"date": "2014-12-15 23:00:25",
+	"files": [
+		{
+			"filename": "fubpack.wad",
+			"size": 301677,
+			"crc": 3810140326,
+			"md5": "b6aeba114e56a18d7f223885a8e6ff2a",
+			"sha1": "643f204c14aac8c653cbcfad2e75a22a42ead573",
+			"sha256": "c3afca134f17e7cc15879580fd6bae5a04bf148eb9f192a7a70486a04140d12b"
+		}
+	]
+}

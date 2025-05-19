@@ -1,0 +1,16 @@
+{
+	"uid": "pickles.wad",
+	"name": "A crate of pickles",
+	"description": "Crate of pickles. It looks like a crate of rockets...but no, they're UAC certified pickles.",
+	"date": "2015-09-14 19:32:33",
+	"files": [
+		{
+			"filename": "pickles.wad",
+			"size": 128920,
+			"crc": 4178980517,
+			"md5": "387964adf5f350051074afedb1be6619",
+			"sha1": "548f59c8d4aa28b29c2894966665d51b2702b64e",
+			"sha256": "7111c66e28f538fb210207a4b9fbc0d963f76e0dfe4ac435a65ddf8a4e18cfde"
+		}
+	]
+}

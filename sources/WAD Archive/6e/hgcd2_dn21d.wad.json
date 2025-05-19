@@ -1,0 +1,16 @@
+{
+	"uid": "hgcd2_dn21d.wad",
+	"name": "HGCD2_DN21D",
+	"description": "I originally created this map for Duke Nukem 3D deathmatch. The map was extremely popular on KALI. Now, I have redrawn this famous map for Doom II.",
+	"date": "2019-03-20 01:10:20",
+	"files": [
+		{
+			"filename": "hgcd2_dn21d.wad",
+			"size": 67014,
+			"crc": 2778538352,
+			"md5": "ac62d3ef6e6b1d57d95dcd6fdc5c4f10",
+			"sha1": "6ee8c676b490abb7df7234707dde1e6004d45faf",
+			"sha256": "cab47c22f2217e1ad50a3b1cc20319d101a2465f9e6c0f0e3ba6d79fb3b49866"
+		}
+	]
+}

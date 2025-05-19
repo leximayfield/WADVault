@@ -1,0 +1,17 @@
+{
+	"uid": "docks (bbd4cd).wad",
+	"name": "Fight by the Docks",
+	"description": "Short, intense dockside fight",
+	"version": "bbd4cd",
+	"date": "2014-12-18 22:55:25",
+	"files": [
+		{
+			"filename": "docks.wad",
+			"size": 69864,
+			"crc": 267664014,
+			"md5": "049ebaaee21090b07025e8fbdb1f5db5",
+			"sha1": "bbd4cdfe37b8f8d39c4e823037813881ec947aa3",
+			"sha256": "8025ce0d38becbb494b3d6f57ac97526d58d3b702f10e31eae8c6411bed345a0"
+		}
+	]
+}

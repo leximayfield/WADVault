@@ -1,0 +1,17 @@
+{
+	"uid": "dfight (b11644).wad",
+	"name": "Deadly Fight",
+	"description": "This level's architecture is similar to that of level 8 from Chillax. However, ther are a lot of differences. You have a huge fight with teleporting enemies at the end of the level so have your resources ready. Good luck trying to survive.",
+	"version": "b11644",
+	"date": "2019-03-19 22:26:01",
+	"files": [
+		{
+			"filename": "dfight.wad",
+			"size": 1997297,
+			"crc": 4081204394,
+			"md5": "3d10182c28d0be7e56b7ae3964a0c12e",
+			"sha1": "b1164403d52953dc3a11284dbe5027ca2bf59752",
+			"sha256": "884a5df5924242cce5a0addfc44a39f47322fec337fd0148a1af56810c6e4768"
+		}
+	]
+}

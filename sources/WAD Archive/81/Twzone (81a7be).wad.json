@@ -1,0 +1,17 @@
+{
+	"uid": "Twzone (81a7be).wad",
+	"name": "The Twilight Zone (version 5 released to ftp)",
+	"description": "The Twilight Zone is a 32 level megawad for Doom2. The original version was completed in 1997. Most levels to todays standards have an old school feel. There have been many changes to the level design in all maps to improve the feel. A few of the earlier maps still have wolfenstein textures in them.",
+	"version": "81a7be",
+	"date": "2013-04-21 20:50:05",
+	"files": [
+		{
+			"filename": "Twzone.wad",
+			"size": 5243344,
+			"crc": 2892890414,
+			"md5": "8602a3d474f65779ed9ca7913bd20e26",
+			"sha1": "81a7bed07a7ad6a7b3184e74468950dd03f57a8b",
+			"sha256": "7ce9dbc6799868732e3bef16278b44fc15a2adf00a9edf6341f13ff2e1682252"
+		}
+	]
+}

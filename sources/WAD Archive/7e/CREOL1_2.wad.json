@@ -1,0 +1,16 @@
+{
+	"uid": "CREOL1_2.wad",
+	"name": "CREOL1_2.WAD",
+	"description": "This Wad is for DOOM ][ only. (If there is enough interest, maybe a DOOM I version will be created.) It is designed to look like the current location of CREOL (Center for Research in Optics and Lasers) at the University of Central Florida. It is designed as things were in March 95 (ie, student bull pen in Dr. Riza's lab, etc.). For those that know the author, goodies can be found in his laboratories and on his office desk. Bad monsters can be found in appropriate places (advisor's office, etc.). Any constructive criticism or new ideas will be appreciated (I already have some plans for the next version). Anyone who felt cheated that I didn't include their lab, tough :), I only had so much space and time.",
+	"date": "2014-01-07 22:09:25",
+	"files": [
+		{
+			"filename": "CREOL1_2.wad",
+			"size": 210135,
+			"crc": 4145357848,
+			"md5": "d850bc8904f172b671300ac37c58dd06",
+			"sha1": "7e90be82c8ebc40e0c9fbae347f405c34457fc53",
+			"sha256": "f135cdf55d72aa226741f24eaf7f8f888057509c18c55ab30f1b5254c47236cc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "undergrd (a3ceef).wad",
+	"name": "Underground",
+	"description": "This is a DOOM II DEATHMATCH pwad.",
+	"version": "a3ceef",
+	"date": "2014-01-07 22:18:29",
+	"files": [
+		{
+			"filename": "undergrd.wad",
+			"size": 186960,
+			"crc": 863275596,
+			"md5": "1ddbac478cf6a905c334d00ca6cafd82",
+			"sha1": "a3ceefbac64c98e249c9b16e6c9add48220b3550",
+			"sha256": "1b17e9374608d48b837a9176079b9152ff274367e3dfca16ad378672d73027d8"
+		}
+	]
+}

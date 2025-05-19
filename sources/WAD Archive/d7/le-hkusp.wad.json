@@ -1,0 +1,16 @@
+{
+	"uid": "le-hkusp.wad",
+	"name": "Usp .45 Tactical (without silencer)",
+	"description": "This is my first weapon mod for Heretic. It's a weapons mod which replaces the Goldwand with the Usp pistol from Counter-Strike.",
+	"date": "2014-12-11 22:28:21",
+	"files": [
+		{
+			"filename": "le-hkusp.wad",
+			"size": 54743,
+			"crc": 1115634859,
+			"md5": "a9cccef01f98573d92af72c8af8ac363",
+			"sha1": "d765ef2602e0efb0f8c57a1c1e00fd2492c74a3e",
+			"sha256": "c8e2a8be47621faf0ff64abcb63733e590311de7c32919de2fbb25fca4fd9aab"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "caslotr (ff5df3).wad",
+	"name": "Castle of the Renegades",
+	"description": "Well, here it is and only 3 months in the making. Maybe now I can reclaim my life. At least until I start my first Doom II level. ;) I already have some ideas for that. This one should keep you death- matchers busy for a while. It's got sniper points overlooked by sniper points over- looked by sniper points! I've also set it up to prevent early exits from deathmatches. To see what I mean, try going through that yellow door before you have lowered all the key pedestals. I've included separate .txt files explaining the plot (such as it is) and some interesting technical points that I encountered in the making of CASLOTR.WAD. Let me know what you think. Enjoy!",
+	"version": "ff5df3",
+	"date": "2014-01-07 21:53:55",
+	"files": [
+		{
+			"filename": "caslotr.wad",
+			"size": 736752,
+			"crc": 4210055627,
+			"md5": "d8af9e1e1bb7f46498d62c51d5977f75",
+			"sha1": "ff5df3569bbd7abdc26f30dbb19906ca148454dc",
+			"sha256": "24f50e6bbf03bf0dc47a35c99c6e27a87c54b6186433d61c2c8efcde5b81ae16"
+		}
+	]
+}

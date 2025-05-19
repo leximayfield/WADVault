@@ -1,0 +1,17 @@
+{
+	"uid": "MKPIT (755c57).wad",
+	"name": "Mortal Kombat Pit",
+	"description": "This is a take off of the pit level in Mortal Kombat (tm) the game. This is a little preview of a giant 30 level (doom 2 version) wad file that will probably have sounds from the game, and maybe (if I can find them) music and graphics! If you seen any please E-mail me!!!",
+	"version": "755c57",
+	"date": "2014-08-30 14:29:28",
+	"files": [
+		{
+			"filename": "MKPIT.wad",
+			"size": 90945,
+			"crc": 3705811383,
+			"md5": "3f613404873bba48318abc2ce55b2e74",
+			"sha1": "755c57a846741eb36531c50ea58380d7401c2f2f",
+			"sha256": "23ea8b9ee734cdbfe6dc70fd7a3d87dfee3c0fb75294223298633727aec8d08d"
+		}
+	]
+}

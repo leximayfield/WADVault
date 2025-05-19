@@ -1,0 +1,17 @@
+{
+	"uid": "RIP2 (4efc08).wad",
+	"name": "Rest in Pieces II",
+	"description": "After playing against some people who can memorize a level after playing it 1 or 2 times I decided and tried to create a board that would be difficult to memorize, and it is. Remember the outside wall is a door where you can restock your health and armor. Enjoy!",
+	"version": "4efc08",
+	"date": "2013-11-02 16:05:45",
+	"files": [
+		{
+			"filename": "RIP2.wad",
+			"size": 54920,
+			"crc": 1201379397,
+			"md5": "296efdc1b591ca83dcb91d37d9634f2d",
+			"sha1": "4efc089f0bd61bb9b532211c813aefc72321fef1",
+			"sha256": "a08f415d137b18dcdbbb4630670c8b46509dc615abc88274b67dc3b67e9499a8"
+		}
+	]
+}

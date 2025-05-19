@@ -1,0 +1,16 @@
+{
+	"uid": "within.wad",
+	"name": "Within The Realm",
+	"description": "A medium sized, frag level thingy...",
+	"date": "2014-12-15 21:42:43",
+	"files": [
+		{
+			"filename": "within.wad",
+			"size": 25353,
+			"crc": 1530609453,
+			"md5": "c8a2a875e78aea1f63282c5a3278d1a6",
+			"sha1": "96383a9e4d5229211d82fe2ec82a41cf6f6dd4ef",
+			"sha256": "4147523e6520aa6bee39f7768d0c3c914f9d82ffedbe91f560e35940e7e2f119"
+		}
+	]
+}

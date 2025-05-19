@@ -1,0 +1,16 @@
+{
+	"uid": "RUNOUT.wad",
+	"name": "RUNOUT",
+	"description": "New level for DOOM2. Ran fine on Version 1.666 It's just an interesting blast fest. See if you have enough ammo to escape; or will you runout.",
+	"date": "2014-10-14 21:00:08",
+	"files": [
+		{
+			"filename": "RUNOUT.wad",
+			"size": 47700,
+			"crc": 784196135,
+			"md5": "680ae1c71b94dd166aa5b11dbd0dd974",
+			"sha1": "8158d4bfaeb048f2458b5228ab426da39acb68f0",
+			"sha256": "bf91c8e913ceb99e71a5f71d87703863d28fdc920ed6658bf695fe54c5b22765"
+		}
+	]
+}

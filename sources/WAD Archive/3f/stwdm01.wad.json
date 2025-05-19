@@ -1,0 +1,16 @@
+{
+	"uid": "stwdm01.wad",
+	"name": "STWDM01.WAD",
+	"description": "This map is inteneded for small FFA games, TDM games and 1v1.",
+	"date": "2014-12-15 21:52:57",
+	"files": [
+		{
+			"filename": "stwdm01.wad",
+			"size": 133844,
+			"crc": 722406914,
+			"md5": "2fda183b6cbe902d7154e3f7e4387bda",
+			"sha1": "3f11d928432e32e9d1be023c47b9fae15262dc16",
+			"sha256": "264ee149b234a29bce9eb955d1105c9be7cdc67e8a50a6931789cda80abf00eb"
+		}
+	]
+}

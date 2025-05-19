@@ -1,0 +1,17 @@
+{
+	"uid": "DMJH1 (5e4df7).wad",
+	"name": "DMJH1.WAD",
+	"description": "First DOOM .WAD that Ive ever Made. Short but fun. Use it as a base.",
+	"version": "5e4df7",
+	"date": "2013-11-02 15:49:37",
+	"files": [
+		{
+			"filename": "DMJH1.wad",
+			"size": 42153,
+			"crc": 689125835,
+			"md5": "4f32f0ea73bad2fdf6836a97ce6c32ef",
+			"sha1": "5e4df76b268df2d4a83b86db75eb8ef694607430",
+			"sha256": "540416e5579e2ae50ae8642af2430ecc5f2c466d854f79585e9788c01139b1dd"
+		}
+	]
+}

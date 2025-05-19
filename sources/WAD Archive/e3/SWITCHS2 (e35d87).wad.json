@@ -1,0 +1,17 @@
+{
+	"uid": "SWITCHS2 (e35d87).wad",
+	"name": "Lots of Switches",
+	"description": "Just shoot every monster and try to find the right switch to bring down the red key in the yard. Elsewhere, look for secret rooms/passages. ...there are few of them.",
+	"version": "e35d87",
+	"date": "2014-02-15 16:59:51",
+	"files": [
+		{
+			"filename": "SWITCHS2.wad",
+			"size": 111185,
+			"crc": 1868174447,
+			"md5": "6d841a16460b73c60f70ca7382504afc",
+			"sha1": "e35d87650c86225dd92e13973e4259d96bdbeeb8",
+			"sha256": "19f0158ca2aab94a1520fa3e8984b5ef2cfefe2092e1c472b45122dc3b07faed"
+		}
+	]
+}

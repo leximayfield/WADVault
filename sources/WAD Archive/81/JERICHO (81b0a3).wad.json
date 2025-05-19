@@ -1,0 +1,17 @@
+{
+	"uid": "JERICHO (81b0a3).wad",
+	"name": "Jericho.WAD",
+	"description": "A single player adventure, relatively difficult with a few twists.",
+	"version": "81b0a3",
+	"date": "2014-11-01 14:55:05",
+	"files": [
+		{
+			"filename": "JERICHO.wad",
+			"size": 602652,
+			"crc": 3671568265,
+			"md5": "3f4f5618a4b24f6b9d51e2f551cba46d",
+			"sha1": "81b0a3eb7c0427dfe464068cbccede00547219fd",
+			"sha256": "855afa87ac9604afa0852632e5cb8463b7332abb745cc1a1346218d1aa0a4597"
+		}
+	]
+}

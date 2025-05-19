@@ -1,0 +1,17 @@
+{
+	"uid": "Shadow (d1e396).wad",
+	"name": "Shadowcaster",
+	"description": "A 21st century Heretic episode covering many styles of level, both traditional and unusual as well. Having achieved everything I wanted to in DooM 2, I have decided to move on to Heretic 'cos it's just as easy to make levels for it as it is for DooM. (although I will return to DooM afterwards) It's also a great game and I thought of some great ideas, many using Heretic's special features.",
+	"version": "d1e396",
+	"date": "2014-12-30 11:20:43",
+	"files": [
+		{
+			"filename": "Shadow.wad",
+			"size": 4342429,
+			"crc": 3748423472,
+			"md5": "9603dac88e1eb1fe33c18133a29454ea",
+			"sha1": "d1e39634ee2e85dce0f02dcc274c65f38dbd9cda",
+			"sha256": "6b208c6692bf6c3ec1cac394b00a573783ef98af788224df84e4edd4977465b3"
+		}
+	]
+}

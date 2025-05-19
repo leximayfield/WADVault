@@ -1,0 +1,16 @@
+{
+	"uid": "minideth (a14d80).wad",
+	"name": "Mini DeathMatch for DOOM2",
+	"version": "a14d80",
+	"date": "2013-11-03 17:46:42",
+	"files": [
+		{
+			"filename": "minideth.wad",
+			"size": 64412,
+			"crc": 2469863149,
+			"md5": "f89a1b457a8a6e81656cd967a6937116",
+			"sha1": "a14d802c816f4ae5edfeb6edb36ed7fab5c1db10",
+			"sha256": "061af51a06de7ddedbe99ccbe0b2a7321f624b0033c7618d4d9f0870a46ef7df"
+		}
+	]
+}

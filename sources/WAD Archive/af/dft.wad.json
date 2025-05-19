@@ -1,0 +1,16 @@
+{
+	"uid": "dft.wad",
+	"name": "DARK FATE",
+	"description": "\"Dark Fate\" is a fast paced single player level for Doom II, inspired by the style of the original Doom's third episode, \"Inferno\". This map was made quite fast, in probably about 15-20 hours.",
+	"date": "2014-12-18 23:16:24",
+	"files": [
+		{
+			"filename": "dft.wad",
+			"size": 434102,
+			"crc": 4234148008,
+			"md5": "2dda245da18db91e4e9e5634553bbd49",
+			"sha1": "aff3fc34b3a9a71f66f434b0c80a275a9284e07f",
+			"sha256": "10fb1265dd9c2de9a0545a40df7661d46fa1d97cdca13c5c2bb451b7ec03c0a5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "inqstr.wad",
+	"name": "The Inquisitor",
+	"description": "A single map about our Doomguy, who has been teleported to the land of the damned. You want to escape from it and return back home, however, it's not so easy to do it... New weapons, new monsters and new artifacts may look unusual, but you accept the challenge and meet your fate. More details about wad's storyline are explained in INQUISITOR_ENG.pdf",
+	"date": "2014-12-22 19:14:55",
+	"files": [
+		{
+			"filename": "inqstr.wad",
+			"size": 15838212,
+			"crc": 769392886,
+			"md5": "6082766131cbad7ed9079ef242f373dc",
+			"sha1": "ebbc3a02223be8f27b79468e45f5784f360291c1",
+			"sha256": "77d8e6adeef3436327ecaf85278ce48788e0cc2721fc75efe00627275de54b1f"
+		}
+	]
+}

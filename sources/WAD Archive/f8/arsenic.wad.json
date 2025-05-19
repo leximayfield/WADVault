@@ -1,0 +1,16 @@
+{
+	"uid": "arsenic.wad",
+	"name": "Arsenic",
+	"description": "Classic style map for vanilla Doom 2. I tried to create some fun and challenging battles. Watch out for arch-viles! If using a modern source port, please play with jumping DISABLED. Enjoy!",
+	"date": "2014-12-15 22:40:48",
+	"files": [
+		{
+			"filename": "arsenic.wad",
+			"size": 153602,
+			"crc": 1944303649,
+			"md5": "8bd76bf3c7b63eb8e3c606d17ec741c0",
+			"sha1": "f85067238b2e4e2af1781eb1412a2fd1d948f76b",
+			"sha256": "2ac5d40a1719b81e630fa165a4e99c45cf0bace4ec32198d63b9cd0496b6157f"
+		}
+	]
+}

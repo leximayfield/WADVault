@@ -1,0 +1,17 @@
+{
+	"uid": "challenj (bd531e).wad",
+	"name": "CHALLENJ.WAD",
+	"description": "Basic Doom Scenario. I experimented with things to try to make a Star Wars level. Send me e-mail and tell me what you think of the bar.",
+	"version": "bd531e",
+	"date": "2013-11-02 15:14:52",
+	"files": [
+		{
+			"filename": "challenj.wad",
+			"size": 88829,
+			"crc": 2731659807,
+			"md5": "f3313cab7b36643f1523954d103bd172",
+			"sha1": "bd531e7f5ccaf09096183e3cddd2883b22a1f0e0",
+			"sha256": "b2125dbb80c38a5e60178792bfd0fa41994abcd7703a7d27b141293b7ce48490"
+		}
+	]
+}

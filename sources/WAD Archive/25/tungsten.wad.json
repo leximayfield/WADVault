@@ -1,0 +1,16 @@
+{
+	"uid": "tungsten.wad",
+	"name": "Tungsten",
+	"description": "A small single-player techbase map made for the third battleofthebits.org Doom 2 mapping contest. This map features new textures based on the stock ones, edited by yours truly, and showcases my \"unorthogonal\" style of maps seen over the last 2 or 3 years starting with Mayhem 2048's MAP01 \"Unorthogon\", and a birthday map for friend of mine jmickle66666666.",
+	"date": "2018-04-15 23:20:40",
+	"files": [
+		{
+			"filename": "tungsten.wad",
+			"size": 925016,
+			"crc": 3120585387,
+			"md5": "ab88f4ba167281ab900c64ecf11b27cb",
+			"sha1": "25fbc953253f4bdee67d30404bf19c62f82588da",
+			"sha256": "95bf89192b8d7b6157457ab7bafcd06b4c5ff61971d7f6cebcb0e43e671d908c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doomfate.wad",
+	"name": "dm_doomedfate",
+	"description": "In the phobic deimos moon there is an union aerospace corporations' hidden moon base. The map idea is based on dm_alesserfate and dm_lucifersfate maps in Aliens Versus Predator 2. This is sort of a tribute to those two maps.",
+	"date": "2014-12-14 20:53:31",
+	"files": [
+		{
+			"filename": "doomfate.wad",
+			"size": 347728,
+			"crc": 3058913872,
+			"md5": "ab6a338c2ff3572c1c54832a08789e31",
+			"sha1": "e013c5fa99ebc3f5e67e5f11f3654ceee62bc650",
+			"sha256": "b9b59ca9143017e1b9d404d96e112f86d2ef663a6a48180466302923cb73d69d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "CERBERUS (37f8c0).wad",
+	"name": "Cerberus",
+	"description": "This level is my first wad file. It turned out that the file ended up to be a little more difficult than I expected in Ultra Violent mode, but still can be done as the lmp will show. Due to level complexity and enemy population I would not recommend playing with anything less than a dx2/66 with a pentium recommended.",
+	"version": "37f8c0",
+	"date": "2014-10-14 20:58:07",
+	"files": [
+		{
+			"filename": "CERBERUS.wad",
+			"size": 185011,
+			"crc": 3038502855,
+			"md5": "4ba44a2d4e9dc262f87164030d9b8bf7",
+			"sha1": "37f8c020d4fe9085fc2e9e22a72da36850749bbb",
+			"sha256": "04d99e00169b48b0efa1925c98ce00e36d3977d85b7f3058b02ebdab592deb85"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gundm1.wad",
+	"name": "Gunner DeathMatch 1",
+	"description": "I've added node for Doombot 4.0. A metal Deathmatch level inspired by the KZdoom series made by Kirk Kesler. But not where near a complicated. Theres no ZDoom Effects, but you better have a port where you have no visplane overflow, because this one has quite a bit of viewable planes.",
+	"date": "2014-12-15 23:10:49",
+	"files": [
+		{
+			"filename": "gundm1.wad",
+			"size": 123736,
+			"crc": 3202395505,
+			"md5": "85c1735b6194f450ca6d9c7e53060cfc",
+			"sha1": "5efa3b656a328eb1ff45effd002cf6eaa88b8fe2",
+			"sha256": "14f225dad3d22c89b7668bca0d7298e8e76d93cb0fcef2657bf2f2bad37fd432"
+		}
+	]
+}

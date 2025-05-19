@@ -1,0 +1,16 @@
+{
+	"uid": "CYBRDNCE.wad",
+	"name": "Cyberdemon Dance",
+	"description": "This is a medium sized wad with one large central room in which the player starts and ends the level. There are 4 small wings off of this room which house the necessary keys and switches required to finish this level. Included in this level is one Cyberdemon which sits on a perch above the main room. A word of warning, throwing the wrong switch will allow the Cyberdemon to enter the main room, forcing you to \"Dance\" with it until either of you die or until you throw the exit switch.",
+	"date": "2014-08-30 14:34:23",
+	"files": [
+		{
+			"filename": "CYBRDNCE.wad",
+			"size": 173452,
+			"crc": 3309751510,
+			"md5": "f6edd106178a0b56555ae1fa7d22f768",
+			"sha1": "2c29dd2b9d19de427b0df8794187f748479392be",
+			"sha256": "e0c6519bad8368ca4890ab29daa80ab15ea675a8d896b9963de50a4e31d4963d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "freek.wad",
+	"name": "FREEK.WAD",
+	"description": "My second public wad, hopefully it will be better than the first.",
+	"date": "2013-07-09 20:22:16",
+	"files": [
+		{
+			"filename": "freek.wad",
+			"size": 64508,
+			"crc": 4079104460,
+			"md5": "e64c9b79eb8b6981ea99224c979dbf44",
+			"sha1": "baa4564c1a79a2fc14fbcb6f4a8eefcce8e7020d",
+			"sha256": "32fc4c17eda30d72f70781f4ba31cf4f7db5bb37571df2dd9f43656d4bd44121"
+		}
+	]
+}

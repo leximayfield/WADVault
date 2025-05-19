@@ -1,0 +1,16 @@
+{
+	"uid": "h-duel.wad",
+	"name": "Heretic: Contention",
+	"description": "A map set designed for duels (1v1), with varying themes ranging from E1M1, to episode 2 themes, and anything I could pull out of my hat.",
+	"date": "2013-04-21 13:44:56",
+	"files": [
+		{
+			"filename": "h-duel.wad",
+			"size": 3256167,
+			"crc": 2511835275,
+			"md5": "565d692cea0e2a568762be7dd6cbfbd8",
+			"sha1": "9f206f51ff11d1e8886f997f4a47b8b6e9429061",
+			"sha256": "0e5be1e533d569cf50a8bf430f39f2996606c19c68ab9d89037a0c13c3fc6c14"
+		}
+	]
+}

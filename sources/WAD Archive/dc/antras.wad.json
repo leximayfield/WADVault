@@ -1,0 +1,16 @@
+{
+	"uid": "antras.wad",
+	"name": "Antras - means \"the second\"",
+	"description": "A tree-level PWAD with new music and some graphics.",
+	"date": "2014-12-15 21:23:05",
+	"files": [
+		{
+			"filename": "antras.wad",
+			"size": 1173200,
+			"crc": 127484235,
+			"md5": "1e69fdf0c0ff6f8ce3a74e3d8cd57f9d",
+			"sha1": "dc54271beefddd8a46e1c53eebddaf75d0e32314",
+			"sha256": "9638399c6a539abd1701022e765d93a6ca5f56e880cd7ca92c82b7f3d117200c"
+		}
+	]
+}

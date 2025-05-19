@@ -1,0 +1,17 @@
+{
+	"uid": "chemdept (542203).wad",
+	"name": "Chemical Depot 6",
+	"description": "After clearing out the UAC's nukage processing plant, you make your way through the chemical depot, leaving behind a trail of demon blood. The demons had taken over the facility to breed a new, more powerful set of demons. Now, it is up to you to shut down their operation for good!",
+	"version": "542203",
+	"date": "2015-09-15 13:41:32",
+	"files": [
+		{
+			"filename": "chemdept.wad",
+			"size": 100776,
+			"crc": 415463139,
+			"md5": "e82dc0f76244ed1feb2d90bd046ff555",
+			"sha1": "542203d38a780c027715789a652bdc541cb9bc64",
+			"sha256": "f5c7bc37f2114da87bfc1d557c3348bc7452b7a7162d78ecbea87f46ec4b3656"
+		}
+	]
+}

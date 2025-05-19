@@ -1,0 +1,16 @@
+{
+	"uid": "dvstc.wad",
+	"name": "Untitled.  The wad name comes from the TC",
+	"description": "A medium sized level with some interesting architecture. Its got a large courtyard, A lot of moving sectors, and an interesting fountain.",
+	"date": "2014-12-18 22:57:57",
+	"files": [
+		{
+			"filename": "dvstc.wad",
+			"size": 119088,
+			"crc": 2382125209,
+			"md5": "e79bb04bc21ea3c89f6e9bf55bb3b96d",
+			"sha1": "aa5cae9603f02834cc441d0d3af495cdd8a0e9fc",
+			"sha256": "5e6486df1ae1a343ade2f0547fbf1df8c351bddc4e0a45df119f891415f6bace"
+		}
+	]
+}

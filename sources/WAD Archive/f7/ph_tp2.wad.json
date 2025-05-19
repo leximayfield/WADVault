@@ -1,0 +1,16 @@
+{
+	"uid": "ph_tp2.wad",
+	"name": "The Tiny Double Pack",
+	"description": "A compilation of Tiny Pack 1 (Tiny Chances of Survival), which has been bug-fixed and updated to use the ZMAPINFO format, and the new first (and only) level in Tiny Pack 2 (Minimal Resistance). Has two difficulty modes (\"Easy\" and \"Tough\") and plays in single player only. All levels are very small and have speed-running par times recorded. Story is at the end of the text file, before the copyrights section. This project has been abandoned, but released in a playable state for your enjoyment.",
+	"date": "2014-12-29 09:07:06",
+	"files": [
+		{
+			"filename": "ph_tp2.wad",
+			"size": 1488063,
+			"crc": 277329449,
+			"md5": "3f0889afbb79e063560d137192523743",
+			"sha1": "f7ba40ee541948687dec38769e9f84f70763360d",
+			"sha256": "11f7a62865108840d87ad0ff6bc9b5d32aa43369896a66ed798da60404d3529c"
+		}
+	]
+}

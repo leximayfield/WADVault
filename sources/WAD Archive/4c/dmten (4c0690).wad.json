@@ -1,0 +1,17 @@
+{
+	"uid": "dmten (4c0690).wad",
+	"name": "court.zip",
+	"description": "A tennis match from hell, watch out for the net. Singles or doubles.",
+	"version": "4c0690",
+	"date": "2013-11-02 15:07:42",
+	"files": [
+		{
+			"filename": "dmten.wad",
+			"size": 7252,
+			"crc": 981469032,
+			"md5": "7a8545ba82141f67f1f07500d2c044f3",
+			"sha1": "4c0690483749d96c9d86c0d2bfced894d49dd9a0",
+			"sha256": "8d3c83084c6ae992c62641f5d24e6e9949e877250e027d04a9a7b81d0cdc8fd6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ww-style.pk3",
+	"name": "Style Mod",
+	"description": "My entry for CutmanMike's second Doom Mutator Contest, in which contestants create a new gameplay mod using no new sprites, sounds, or maps - code only. So using ZDoom's textures system and some clever Decorate tricks, I cooked up this thing.",
+	"date": "2014-12-11 22:18:43",
+	"files": [
+		{
+			"filename": "ww-style.pk3",
+			"size": 8567,
+			"crc": 2603532551,
+			"md5": "0e12b1ade692456de248886090995e5e",
+			"sha1": "691e8b451d4d56c0ec22c06f66c3d45cabebc926",
+			"sha256": "a8fc7ba6e1cd3dbe911daca7e9aac6328e90f6dea892eb4a410fed0dcd967df6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "light_maze_v3.1 (bf62fa).wad",
+	"name": "Light-Maze",
+	"description": "Light-Maze is based on JumpMaze and Cooperative.",
+	"version": "bf62fa",
+	"date": "2013-05-16 19:42:56",
+	"files": [
+		{
+			"filename": "light_maze_v3.1.wad",
+			"size": 30075770,
+			"crc": 393621045,
+			"md5": "258f61461c8aa793939249f8887d46a4",
+			"sha1": "bf62fa7905ded5463efebcfd25ef75c637fc810e",
+			"sha256": "274a7cabb187cd4a38a08c905f94a92af17625dced2c5114b22ea3b41326163b"
+		}
+	]
+}

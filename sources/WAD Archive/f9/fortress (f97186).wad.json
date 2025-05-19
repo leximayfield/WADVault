@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (f97186).wad",
+	"name": "doomsday fortress",
+	"description": "an old school wad with original textures,sounds,and music. description a large fortress, my personal masterpiece. will take about 1-1/2 hours to complete. supports single,multi,and deathmatch.",
+	"version": "f97186",
+	"date": "2014-12-18 22:33:03",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 786763,
+			"crc": 1735216301,
+			"md5": "cb81c0d302bb40276dafe083a4258962",
+			"sha1": "f971866dd310eddd77c1e766a0fd7879ddc95ba1",
+			"sha256": "b52c780b291ba638fb3662e44027e81c547a614604e2f9f3adf4d6b51ea5943a"
+		}
+	]
+}

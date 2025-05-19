@@ -1,0 +1,17 @@
+{
+	"uid": "town (0b8643).wad",
+	"name": "TOWN.WAD",
+	"description": "Destroy the minions of Hell who have overrun a town. Intense house-to-house fighting, with a few puzzles and obstacles. \"Professionally designed\"",
+	"version": "0b8643",
+	"date": "2015-12-07 10:49:28",
+	"files": [
+		{
+			"filename": "town.wad",
+			"size": 78079,
+			"crc": 3354018698,
+			"md5": "b90e834c53cbaef6a1f7b0c5d235a90f",
+			"sha1": "0b8643eb1117a5687511d8e75992098238b0f2e2",
+			"sha256": "a715178c92ef7f2bb7764136626e697cfe3af00564fffe0f2504e575c7d4b031"
+		}
+	]
+}

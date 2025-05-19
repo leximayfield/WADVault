@@ -1,0 +1,16 @@
+{
+	"uid": "anhs.wad",
+	"name": "A New Hellspawn",
+	"description": "A UAC research facility has gone silent. See notes below for extra information.",
+	"date": "2014-12-21 16:25:44",
+	"files": [
+		{
+			"filename": "anhs.wad",
+			"size": 20185794,
+			"crc": 4153207266,
+			"md5": "c8186e63bc0afaac1fc6fba5e7734730",
+			"sha1": "485aed384ec6c9b4e52ac149d64acfecbf1ad81f",
+			"sha256": "702e50baaef6b531ead2b4c44ef280c9fa621528fdb295df072b66acaca1b0d8"
+		}
+	]
+}

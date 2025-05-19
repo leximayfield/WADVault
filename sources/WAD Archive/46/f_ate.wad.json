@@ -1,0 +1,16 @@
+{
+	"uid": "f_ate.wad",
+	"name": "After the eclipse",
+	"description": "A simple Boom wad. It's my first released work here, and even my first work with Boom. It has only 11 Maps, cause I don't have much time to make a full megawad. I don't know where did the name come from, It's just a name.",
+	"date": "2014-12-24 18:54:06",
+	"files": [
+		{
+			"filename": "f_ate.wad",
+			"size": 8137009,
+			"crc": 2355200570,
+			"md5": "b5cf1ab4f8de07355de9e854cec410ee",
+			"sha1": "46c26fd05405a3efb196482dfae1a3dcc00e5db3",
+			"sha256": "8c05bd02492fbafed3c24dbb02d58769e4111ba1910bc27853ddc9dd42ad67e0"
+		}
+	]
+}

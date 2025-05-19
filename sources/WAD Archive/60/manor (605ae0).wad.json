@@ -1,0 +1,17 @@
+{
+	"uid": "manor (605ae0).wad",
+	"name": "The Manor",
+	"description": "This WAS a DM map but now it's single player... you can try it on Deathmatch too, all the stuff is still there... (hint- the ledge in the courtyard can be lowered. Also, think about what you're going to do, there are to many monsters to just rush in there [in Ultra Violence])",
+	"version": "605ae0",
+	"date": "2015-09-14 20:22:13",
+	"files": [
+		{
+			"filename": "manor.wad",
+			"size": 512004,
+			"crc": 1246767669,
+			"md5": "4fbf60a98694d87d0aa6c4c8265f6407",
+			"sha1": "605ae0147c662c814cd10cad6353964522eb6eca",
+			"sha256": "01ee1228c5ee9bead3cda8a56ec6b141b40ab9c4848707956fddd1420deb7b51"
+		}
+	]
+}

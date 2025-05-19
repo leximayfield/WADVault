@@ -1,0 +1,16 @@
+{
+	"uid": "cs_x_rg_extramsc.wad",
+	"name": "Chainsaw per Railgun swap. EXTRADEH version",
+	"description": "This wad changes all the chainsaws found on a map for railguns. Each railgun shot uses 5 cells.",
+	"date": "2013-04-19 00:22:11",
+	"files": [
+		{
+			"filename": "cs_x_rg_extramsc.wad",
+			"size": 34802,
+			"crc": 3533486722,
+			"md5": "b004986dd12400839db0f394ec2e44a0",
+			"sha1": "34dc66057116e5addc054576b4efd2256f2fc40d",
+			"sha256": "b1c509791f44d2c8584dd9ab95d53ecf5c68b8578f74bb1544d8c691e22163d0"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hellblok.wad",
+	"name": "Hell Blok",
+	"description": "I had first set out to create a prison Hell Block, but, the level didn't quite end up that way. Hope you enjoy the end results. There are a few ideas I've implemented into this WAD that I haven't seen in any other WADs to date. Enjoy!!",
+	"date": "2013-11-02 23:59:28",
+	"files": [
+		{
+			"filename": "hellblok.wad",
+			"size": 183559,
+			"crc": 2550691382,
+			"md5": "2a0349b79d49059d88e7d1bba9ce5243",
+			"sha1": "d545cc89a6860315b269444ec0ca199f016405ec",
+			"sha256": "7ee9c0cbda74e7cfa24d312893070710a62a420cdb65df99795973a3a6ccccbe"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Stalker (5b14ee).wad",
+	"name": "Stalker",
+	"description": "Designed specifically for deathmatches, with lots of hiding places and a few good sniper positions",
+	"version": "5b14ee",
+	"date": "2014-01-04 11:56:06",
+	"files": [
+		{
+			"filename": "Stalker.wad",
+			"size": 76476,
+			"crc": 3680280734,
+			"md5": "26baec555a69ec661c5ee0a6efd985c0",
+			"sha1": "5b14ee9ad451b40a6dcff225b973038ce8b8d5de",
+			"sha256": "668614c7a1b2e0a447196f85208ecc1e210e7d31b8c09be5bd33c8bdfd43bb60"
+		}
+	]
+}

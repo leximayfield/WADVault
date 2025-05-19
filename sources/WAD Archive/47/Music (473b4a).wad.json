@@ -1,0 +1,17 @@
+{
+	"uid": "Music (473b4a).wad",
+	"name": "Music WAD",
+	"description": "i have changed all the music for doom2 so that (and southpark sounds)",
+	"version": "473b4a",
+	"date": "2015-09-14 20:20:23",
+	"files": [
+		{
+			"filename": "Music.wad",
+			"size": 950252,
+			"crc": 3529503161,
+			"md5": "9cc7be686ddc6b58df5a35d5bf09f9c3",
+			"sha1": "473b4a9b3c331953e5bcc701c9cd584f6b33ccb4",
+			"sha256": "4b43df06d562d0c5a4d93c5977d9bea47ec67eb8201af6dff3c13cc90a5d4bf5"
+		}
+	]
+}

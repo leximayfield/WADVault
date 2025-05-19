@@ -1,0 +1,16 @@
+{
+	"uid": "ransom.wad",
+	"name": "Ransom",
+	"description": "No description here",
+	"date": "2015-01-14 23:12:35",
+	"files": [
+		{
+			"filename": "ransom.wad",
+			"size": 736938,
+			"crc": 591930159,
+			"md5": "8f969c7e54600bb3c41098a49c2b5ab4",
+			"sha1": "99777ed21e86fb99a4c84d6561589effc5491a09",
+			"sha256": "485a4896daf30abee2ac8eb914121f2f8331f067a2bdfe2f5bcc7b0df3fc66d3"
+		}
+	]
+}

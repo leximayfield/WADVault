@@ -1,0 +1,17 @@
+{
+	"uid": "ht_cthdr (539c66).wad",
+	"name": "Another Heretic Cathedral",
+	"description": "Level 1 from Eternity converted to Heretic.",
+	"version": "539c66",
+	"date": "2013-11-02 16:39:42",
+	"files": [
+		{
+			"filename": "ht_cthdr.wad",
+			"size": 166333,
+			"crc": 1787279687,
+			"md5": "c9fa0111dc918a1da90f0bab4f726953",
+			"sha1": "539c6618e816e6745f2ff340afb2e771ecac9d0e",
+			"sha256": "b654deb0c59396c42edae8b511d2d4da95339711ec791351b754ffbc5eeac46f"
+		}
+	]
+}

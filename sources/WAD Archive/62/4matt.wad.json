@@ -1,0 +1,16 @@
+{
+	"uid": "4matt.wad",
+	"name": "Maps 4Matt",
+	"description": "7 maps created for Matt Tropiano's birthday in 2015.",
+	"date": "2019-03-06 22:00:09",
+	"files": [
+		{
+			"filename": "4matt.wad",
+			"size": 2458298,
+			"crc": 537356045,
+			"md5": "82e69e7e88415246a3ba11192f48bae3",
+			"sha1": "62bae0ecdf44e834a2fde2fccda1eb2e59c4f1d2",
+			"sha256": "2f8c1c5983dbf79fd36417bd84c0a1adf3c7dafccfc920496c749a188fffc01a"
+		}
+	]
+}

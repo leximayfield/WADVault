@@ -1,0 +1,16 @@
+{
+	"uid": "udmforig.wad",
+	"name": "UDMFORIG.zip",
+	"description": "This is a UDMF format map of ORIGWAD.wad for reference purposes only.",
+	"date": "2014-12-13 12:50:34",
+	"files": [
+		{
+			"filename": "udmforig.wad",
+			"size": 5761,
+			"crc": 109777549,
+			"md5": "0caaf9b4e017e288eef787e4e4badeda",
+			"sha1": "a10e41a6bc6127b4efb31971856ecbb791b4fbcd",
+			"sha256": "f88f18f86ae6b5cc1ffe646fa5119ecf62ebe61dae55b56732d01d74b2c00229"
+		}
+	]
+}

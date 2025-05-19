@@ -1,0 +1,17 @@
+{
+	"uid": "hitler (9bce25).wad",
+	"name": "Hitler",
+	"description": ": Hitler.wad is a compilation of Wolfenstein 3D to the Doom engine only to those who supports decorate",
+	"version": "9bce25",
+	"date": "2013-11-23 15:22:43",
+	"files": [
+		{
+			"filename": "hitler.wad",
+			"size": 405407,
+			"crc": 493003007,
+			"md5": "59f66beec65f9130ea9e55fe7380aa7d",
+			"sha1": "9bce252281261d8f0f9caed436a35f6835848e1f",
+			"sha256": "6c9ec24d444dc7a4855f139f9f97753341ee65d609298f8cca2f18e5b6c4512d"
+		}
+	]
+}

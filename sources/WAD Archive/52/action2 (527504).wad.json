@@ -1,0 +1,17 @@
+{
+	"uid": "action2 (527504).wad",
+	"name": "Urban Brawl: Action DooM 2",
+	"description": "Urban Brawl is the prequel to Scuba Steve's: Action Doom, telling your character's history before those events. Urban Brawl embodies a comic book look and feel with cell shaded graphics and story sequences. All of this is fused with a gameplay that is reminicent of an old beat-em up game.",
+	"version": "527504",
+	"date": "2014-07-25 21:13:22",
+	"files": [
+		{
+			"filename": "action2.wad",
+			"size": 141780101,
+			"crc": 2243084168,
+			"md5": "c106a4e0a96f299954b073d5f97240be",
+			"sha1": "5275040a9a2a1d1c37ece22b16c7531e4f73b0cd",
+			"sha256": "2e05f2fbbb07aa692470a1664c4963cdceaf8fc910e7ae000cbb693f39322b94"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "smedley (f27b37).wad",
+	"name": "SMEDLEY",
+	"description": "A remake of the Doom 2 level \"Entryway\" (map01).",
+	"version": "f27b37",
+	"date": "2013-04-18 23:51:27",
+	"files": [
+		{
+			"filename": "smedley.wad",
+			"size": 4991618,
+			"crc": 4261399443,
+			"md5": "db13bab049c753fd213d94a89a83758e",
+			"sha1": "f27b3705dd4f34edd504e92ae6fab47858314806",
+			"sha256": "fe80ae7c1de68f7a368378fbb10a664d8e375daee16ff152e9df9bf0fecf7a18"
+		}
+	]
+}

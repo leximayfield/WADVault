@@ -1,0 +1,17 @@
+{
+	"uid": "UAC (bc0d5d).wad",
+	"name": "Union Aerospace Corporation",
+	"description": "An 11-level Doom2 episode, the first creation that the Sp-team has spawned thus far. The levels would probably be best described as a mix of Doom and Doom2 styled levels with some of our own ideas thrown in the pot. Quality and playability was one of our main goals when creating these levels and hopefully you'll find them as enjoyable to play as we did making them.",
+	"version": "bc0d5d",
+	"date": "2015-01-14 14:32:03",
+	"files": [
+		{
+			"filename": "UAC.wad",
+			"size": 2485360,
+			"crc": 2158522812,
+			"md5": "5062afec40d3a559ab5e7540fc95d248",
+			"sha1": "bc0d5d9765fc8d90bcdb3d99f09390094a17696b",
+			"sha256": "ad8eabf9c4782c4682eb59b8171f629fef10b2dc8ae54d340f4d4c5c9cfd056e"
+		}
+	]
+}

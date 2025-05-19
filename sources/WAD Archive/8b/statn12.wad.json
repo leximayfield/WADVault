@@ -1,0 +1,16 @@
+{
+	"uid": "statn12.wad",
+	"name": "Station 12z",
+	"description": "really simple SP map, with some good DM action included",
+	"date": "2014-12-14 20:59:02",
+	"files": [
+		{
+			"filename": "statn12.wad",
+			"size": 68555,
+			"crc": 1747629462,
+			"md5": "328cefc19048dba82f0b8d9a077cc8a3",
+			"sha1": "8b0d4bedf55017052de41e1f8903ee0298fc7ee7",
+			"sha256": "261e51d3ddc26f5ae0320452939e9504fdbd9bade4db33f0eae7f4260a7ef097"
+		}
+	]
+}

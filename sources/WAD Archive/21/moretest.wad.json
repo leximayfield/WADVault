@@ -1,0 +1,16 @@
+{
+	"uid": "moretest.wad",
+	"name": "More Test",
+	"description": "This is just my first wad with custom textures and badass music.",
+	"date": "2015-01-13 21:33:01",
+	"files": [
+		{
+			"filename": "moretest.wad",
+			"size": 6817447,
+			"crc": 1857409439,
+			"md5": "d529677fa60b799090cace7720dc8eed",
+			"sha1": "2154c451855cfa517c73c7ee8bd36cee8d3b0f23",
+			"sha256": "816df44a21c4f27be27c55932509bf2636086445492e516867c7b6f5fffb22ad"
+		}
+	]
+}

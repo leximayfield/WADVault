@@ -1,0 +1,17 @@
+{
+	"uid": "derelict (f068c7).wad",
+	"name": "Derelict (version 1.1)",
+	"description": "Lost in a desert somewhere on a recently colonized planet, you're about to die from thurst. You stumble under the cruel sunlight. Suddenly, in a small depression, you find the entrance to a mining station. Most of the inhabitants seem to have left in a hurry. Some of them even seem to have gone mad with fear and shoot everything in sight. Visiting the derelict buildings you wonder what could possibly have frightened them. Actually after a few moments, you wish you never found out.",
+	"version": "f068c7",
+	"date": "2014-12-22 18:37:00",
+	"files": [
+		{
+			"filename": "derelict.wad",
+			"size": 548840,
+			"crc": 2276463790,
+			"md5": "e3ee60c8aa5d38ad4eff66358d0dbb81",
+			"sha1": "f068c7fa820b8489d31050623d98df0e6e25fff3",
+			"sha256": "dca57baba7301951639ce521600fc84e7d279ae4846201ccf77de57ab0baa936"
+		}
+	]
+}

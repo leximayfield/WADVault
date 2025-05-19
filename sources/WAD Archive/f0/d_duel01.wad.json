@@ -1,0 +1,16 @@
+{
+	"uid": "d_duel01.wad",
+	"name": "Twilight Duel",
+	"description": "Randomly decided to doodle on a grid paper, then that paper turned into a map!",
+	"date": "2014-12-12 14:15:01",
+	"files": [
+		{
+			"filename": "d_duel01.wad",
+			"size": 85019,
+			"crc": 4197618024,
+			"md5": "120205f31052c3c3cd2bcca9d08e6a04",
+			"sha1": "f0471768687a3e478dd1af91def8c838b45c9418",
+			"sha256": "3e75588e920df1c12891c0b20cf567ce363513e1b95119d82d42ce2e2bec2c4e"
+		}
+	]
+}

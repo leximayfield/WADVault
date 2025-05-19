@@ -1,0 +1,17 @@
+{
+	"uid": "lodge (8bf909).wad",
+	"name": "Lodge of the Undead for Ultimate Doom",
+	"description": "The UAC likes to provide a little R & R for its",
+	"version": "8bf909",
+	"date": "2014-12-13 17:50:23",
+	"files": [
+		{
+			"filename": "lodge.wad",
+			"size": 338281,
+			"crc": 1540507696,
+			"md5": "fbdc310717d01e796bdd5dd135aa991f",
+			"sha1": "8bf909e37fc6598e630f710dd3ba509199bc7e7e",
+			"sha256": "c1351344402fefb106b4d16c9ee1d8aff13720969d2019a78f457493f2a7fabb"
+		}
+	]
+}

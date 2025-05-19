@@ -1,0 +1,17 @@
+{
+	"uid": "walk (3a9c4d).wad",
+	"name": "Walk",
+	"description": "10 levels for DOOM2.",
+	"version": "3a9c4d",
+	"date": "2015-01-14 14:36:20",
+	"files": [
+		{
+			"filename": "walk.wad",
+			"size": 2211777,
+			"crc": 1889443334,
+			"md5": "1232962cb68e2aefcdc8f2265dcba2ce",
+			"sha1": "3a9c4d3e2a1d75a1073136fa7b0a21a64c08b158",
+			"sha256": "6f02583b47f7fd140dd215d284dba8de40437f93efe5eb06d75355def3863082"
+		}
+	]
+}

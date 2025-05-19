@@ -1,0 +1,17 @@
+{
+	"uid": "august (6bfa00).wad",
+	"name": "Augustus Caesar",
+	"description": "Pure deathmatch design. Well balanced placement of weapons and ammo. This level offers a real challenge to experienced deathmatch players. The more advanced weapons require some risk to obtain. Zip file includes a one player demo that shows where all secrets and items are located.",
+	"version": "6bfa00",
+	"date": "2013-11-04 19:21:44",
+	"files": [
+		{
+			"filename": "august.wad",
+			"size": 75989,
+			"crc": 3242579796,
+			"md5": "680e3283289ab827ffbc0c63e7032caa",
+			"sha1": "6bfa0022a5f3c86c92354a1efb8dc8cad2122e67",
+			"sha256": "8df61a00b0f1ab910b90903cb4e7eade420fdc18e2abdf910ad22c6e20195f54"
+		}
+	]
+}

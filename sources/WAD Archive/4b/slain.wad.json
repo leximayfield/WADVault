@@ -1,0 +1,16 @@
+{
+	"uid": "slain.wad",
+	"name": "Slain (slain.zip)",
+	"description": "This level is a huge and hard level. Hint: Exit in level 1 is in the room where you started.",
+	"date": "2015-02-21 09:05:26",
+	"files": [
+		{
+			"filename": "slain.wad",
+			"size": 374740,
+			"crc": 581174153,
+			"md5": "ce45f35d5422981c66fc5b23ceefb858",
+			"sha1": "4b2fd6819362e65a369457fae427d92c71da17e7",
+			"sha256": "37638dfea1f9e10b0f1de2a94fb5a96ce04a6ee656fe8cf9540728c3890f0d06"
+		}
+	]
+}

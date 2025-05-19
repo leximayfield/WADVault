@@ -1,0 +1,17 @@
+{
+	"uid": "forest1b (c8e7ac).wad",
+	"name": "Forest BBS Level V.1b",
+	"description": "Three levels for the Forest BBS as a special set for DOOM 2 !! Strictly Deathmatch only, but can be played single-player or Co-op. But let's face it. If you can download this file, then surely you have access to Multi-player DOOM!!!!!!",
+	"version": "c8e7ac",
+	"date": "2014-12-03 20:09:58",
+	"files": [
+		{
+			"filename": "forest1b.wad",
+			"size": 212228,
+			"crc": 3946039964,
+			"md5": "6753c614b1c1dc6f4759ca4d01b1e20b",
+			"sha1": "c8e7ac3c31ce540ed355873bfffd536cd8c54218",
+			"sha256": "c9a7e0afeb3a07341820fe50b274de0b2d2681adf46f70ae7482d9ee932cd7f6"
+		}
+	]
+}

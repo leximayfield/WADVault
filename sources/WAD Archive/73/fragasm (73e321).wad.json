@@ -1,0 +1,17 @@
+{
+	"uid": "fragasm (73e321).wad",
+	"name": "Fragasm",
+	"description": "A two-level fast-paced DEATHMATCH 2.0 frag fest. : E1M2 of this PWAD was previously released : separately under the name OCTAFRAG.WAD",
+	"version": "73e321",
+	"date": "2014-12-03 20:23:32",
+	"files": [
+		{
+			"filename": "fragasm.wad",
+			"size": 747566,
+			"crc": 2415411291,
+			"md5": "5783e14b30f039fc2583f3a038a4a8b7",
+			"sha1": "73e321a9364c1ff455122a25b414fd7d80b11fa2",
+			"sha256": "ff2874a504ef0f7141ed54f1e94d4e4939c81d80fc4e6c505e80e4e3357c4cd5"
+		}
+	]
+}

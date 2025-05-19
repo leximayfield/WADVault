@@ -1,0 +1,16 @@
+{
+	"uid": "mydoom2.wad",
+	"name": "My Doom II",
+	"description": "Six-level Doom II wad with new levels, sounds, music, and graphics.",
+	"date": "2015-01-29 14:14:03",
+	"files": [
+		{
+			"filename": "mydoom2.wad",
+			"size": 773908,
+			"crc": 4217641436,
+			"md5": "345da4744c1cfcf7ad9d5cf845be4930",
+			"sha1": "098a6c24754a2bee8bed3045c3fdc49c0ac4fe29",
+			"sha256": "34a13b09b527d3ebf7c045e28accfda26be06fd9a46c8e4ebf15ef3a884b4806"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "crypt (cb8817).wad",
+	"name": "Crypt.wod (spooky, huh?)",
+	"description": "Tied of playing badly constructed pwads with boring graphics, I've come up with this luvverly level. It's deathmatch only and centres around a church at night. I think the setting is quite atmospheric; hope you like it.",
+	"version": "cb8817",
+	"date": "2014-12-15 22:09:26",
+	"files": [
+		{
+			"filename": "crypt.wad",
+			"size": 160697,
+			"crc": 3261979295,
+			"md5": "52b2b9c820808ab031c9f883f30a972b",
+			"sha1": "cb8817f0af3b6dd4f0b4bafcd304d9788f4ae33b",
+			"sha256": "a9b888442ed19ac9ecc6c351af5f319be3e8892a9fc703bba334b7c6ad705354"
+		}
+	]
+}

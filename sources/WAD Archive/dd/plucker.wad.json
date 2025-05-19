@@ -1,0 +1,16 @@
+{
+	"uid": "plucker.wad",
+	"name": "Plucker",
+	"description": "A symmetrical deathmatch level for Doom 2.",
+	"date": "2017-09-17 18:52:54",
+	"files": [
+		{
+			"filename": "plucker.wad",
+			"size": 159088,
+			"crc": 1037908277,
+			"md5": "b131ae2a5281636cff340a8cf88cbbfb",
+			"sha1": "dd9d22ba6be9ea0eb830f6f7146ed6ede47a66a9",
+			"sha256": "fd311311c0e253f34e29d567bd407b2e111b02010f7d09d8c14dc0101f8c85c8"
+		}
+	]
+}

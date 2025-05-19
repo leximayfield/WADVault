@@ -1,0 +1,16 @@
+{
+	"uid": "RW2.wad",
+	"name": "Real World 2",
+	"description": "A 10 level wad for doom2. This wad was made in Delmenhorst, Germany.",
+	"date": "2013-10-07 22:11:44",
+	"files": [
+		{
+			"filename": "RW2.wad",
+			"size": 1769736,
+			"crc": 839915552,
+			"md5": "c98a320717fb1e4d72cde55a09c62a3b",
+			"sha1": "764b6fdfc09bb1828e577d522b80f7820ec78706",
+			"sha256": "9ac0d05430fca9f1247ca9fac968cc5d03d986e118d75aa89a37f4574c6e2768"
+		}
+	]
+}

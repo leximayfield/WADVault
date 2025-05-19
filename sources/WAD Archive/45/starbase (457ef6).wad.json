@@ -1,0 +1,17 @@
+{
+	"uid": "starbase (457ef6).wad",
+	"name": "STARBASE Version 1.1",
+	"description": "A \"different\" DeathMatch level.",
+	"version": "457ef6",
+	"date": "2014-12-14 20:55:28",
+	"files": [
+		{
+			"filename": "starbase.wad",
+			"size": 266454,
+			"crc": 47021851,
+			"md5": "ddfc64d3f357781eccf7f3091caf0e92",
+			"sha1": "457ef60c8a632a4f8d580ce6357dcce500aec84d",
+			"sha256": "d6f3420f982d2b0f05ac3ba5b126026f594e7c38e06da404c4d75679039c4673"
+		}
+	]
+}

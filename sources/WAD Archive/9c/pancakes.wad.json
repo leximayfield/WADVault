@@ -1,0 +1,16 @@
+{
+	"uid": "pancakes.wad",
+	"name": "Pancake Heaven",
+	"description": "A quick and simple little map as an antidote to the extensive, detailed, demanding work I just put into Bethlehem. This one features a castle. Have fun dudes.",
+	"date": "2015-01-14 14:54:54",
+	"files": [
+		{
+			"filename": "pancakes.wad",
+			"size": 76253,
+			"crc": 2276915586,
+			"md5": "75c9b2bc658a43f881aebba3bb97a99b",
+			"sha1": "9c9aedcd9a52a060e0e9a116dc9f8074338cf2a7",
+			"sha256": "f3679defa7c5396b045e67b637a4ead168989751f435d5b2e6faaf88953b5837"
+		}
+	]
+}

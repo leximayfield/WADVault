@@ -1,0 +1,17 @@
+{
+	"uid": "siege10 (cd0ef4).wad",
+	"name": "Siege 1.0",
+	"description": "You've agreed upon a site - the \"old\" remains of a castle. Only in this fortress shows signs of alien occupation-metalic walls, and a radioactive moat juxtaposed with ancient carved lion heads. You scramble to the front entrance, knowing that inside lies the weapondry you need to quash your opponents. Only the castle stands between you and victory. The siege is just beginning...",
+	"version": "cd0ef4",
+	"date": "2013-11-02 16:07:26",
+	"files": [
+		{
+			"filename": "siege10.wad",
+			"size": 110614,
+			"crc": 599460492,
+			"md5": "1c020eb34fe0e061ecc896232f1c3bba",
+			"sha1": "cd0ef48f80d1e6f8e2fadfe19548f1a6dff31f16",
+			"sha256": "a7ddbeab0d7c03b3969934b567b8aaa2b80172078be5d3fe821eb7987c874c96"
+		}
+	]
+}

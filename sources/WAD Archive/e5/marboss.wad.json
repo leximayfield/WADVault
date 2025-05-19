@@ -1,0 +1,16 @@
+{
+	"uid": "marboss.wad",
+	"name": "The Marble Demon Boss",
+	"description": "You have to fight a boss and survive against it's nasty, devastating attacks.",
+	"date": "2015-01-13 21:23:33",
+	"files": [
+		{
+			"filename": "marboss.wad",
+			"size": 81668,
+			"crc": 4174673312,
+			"md5": "9f50269d619d861d42d1c2a1fef6e489",
+			"sha1": "e545fc53dbf6803ae13f4947c96c388f5579a2f5",
+			"sha256": "7775b9e98f32a5731869320aacaa4302a3fa203662b11147aa18d15ee1363d61"
+		}
+	]
+}

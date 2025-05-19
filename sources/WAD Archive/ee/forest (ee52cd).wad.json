@@ -1,0 +1,17 @@
+{
+	"uid": "forest (ee52cd).wad",
+	"name": "Forest 1.0",
+	"description": "A very large wad. You start in a forest and then you have to get through some very difficult what do you say rooms? Rooms is that what you call it? Hmm..",
+	"version": "ee52cd",
+	"date": "2014-12-18 23:10:22",
+	"files": [
+		{
+			"filename": "forest.wad",
+			"size": 176001,
+			"crc": 3026055430,
+			"md5": "faf3cd241f45e93a903d364bccd523a3",
+			"sha1": "ee52cdbf15960e34d96ddaf9e351c4e04ce83f8d",
+			"sha256": "bb0dcb4a7fdc308edc73b59c1f5cc3564d02018508c2d576043a90d87dfdeb01"
+		}
+	]
+}

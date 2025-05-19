@@ -1,0 +1,17 @@
+{
+	"uid": "dante2 (1161ca).wad",
+	"name": "DANTE'S GATE 2 for DOOM ][",
+	"description": "DANTE'S GATE is the first level in my INFERNO series and is fully compatible with DOOM ][. I've added monsters, weapons, and other goodies along the way. The level has an entirely different look and feel. For the most part, the only \"theme\" I had in mind was to make the level as aesthetically pleasing and consistent as possible. But there is a storyline:",
+	"version": "1161ca",
+	"date": "2014-01-04 11:55:34",
+	"files": [
+		{
+			"filename": "dante2.wad",
+			"size": 145898,
+			"crc": 1729948824,
+			"md5": "b93e4672f2f9a4f43f35ed78ebaa05fa",
+			"sha1": "1161ca0f00a0e11c464baf85c30a98708f5678e8",
+			"sha256": "7ac3f85906492da9c0e73ae06c5c62c12705778ed9b0135d92322fd56ba151fc"
+		}
+	]
+}

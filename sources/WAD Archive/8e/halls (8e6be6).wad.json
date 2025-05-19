@@ -1,0 +1,17 @@
+{
+	"uid": "halls (8e6be6).wad",
+	"name": "The Halls of Hell",
+	"description": "Just you, your buddies, and the halls of hell.",
+	"version": "8e6be6",
+	"date": "2014-12-18 22:37:04",
+	"files": [
+		{
+			"filename": "halls.wad",
+			"size": 86154,
+			"crc": 350901651,
+			"md5": "b55b056d8718ef41a7d36114e3b394c0",
+			"sha1": "8e6be6cf035d237aa07bd19030e3838e56b135d7",
+			"sha256": "7d26328553150355ddbe5881a00324f7765f4ec2eb70e3c0532d592b2cfa3731"
+		}
+	]
+}

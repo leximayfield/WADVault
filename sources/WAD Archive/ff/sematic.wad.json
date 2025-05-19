@@ -1,0 +1,16 @@
+{
+	"uid": "sematic.wad",
+	"name": "SEMATIC (si-mat'ik). adj., serving as a warning or sign of danger.",
+	"description": "A new level for Doom 2. It seems that the Chigs have overrun a UAC installation and have built a heavily fortified refueling depot to assist in the attack on Earth. You are the last of a team of four to transport down to the surface. Your job is simple. Find your way into the complex, kill everything that moves, and come out alive.",
+	"date": "2013-11-03 17:48:21",
+	"files": [
+		{
+			"filename": "sematic.wad",
+			"size": 408879,
+			"crc": 4015218868,
+			"md5": "f017d505775545c4d113c607a8838171",
+			"sha1": "ff1643544d9b271f5281d2279d785c5184a82505",
+			"sha256": "a6766eaf5eeaa8a1b48deb009078debedff75764ceabfe2ac7f7ec6f8c1ea3b3"
+		}
+	]
+}

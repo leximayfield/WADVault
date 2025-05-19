@@ -1,0 +1,17 @@
+{
+	"uid": "domain (e31698).wad",
+	"name": "The Devil's Domain",
+	"description": "Blood's cheap...It's everywhere...",
+	"version": "e31698",
+	"date": "2013-11-02 16:00:00",
+	"files": [
+		{
+			"filename": "domain.wad",
+			"size": 22582,
+			"crc": 1229665288,
+			"md5": "013f9a1df9fb1947090bc63d826bc988",
+			"sha1": "e31698e9a7fbd43c264b5b5e269f51133b4cfeca",
+			"sha256": "59e93ab2febfdaa0932fc63de9da950a68b541a9c492c64314f170ccb16e284f"
+		}
+	]
+}

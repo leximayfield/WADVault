@@ -1,0 +1,16 @@
+{
+	"uid": "uacplant.wad",
+	"name": "UAC Plant level for DOOM II",
+	"description": "This is a large, single-player level for DOOM II. It contains some puzzels, and visual trickery. It's quite tough at higher skill levels. It is an 02 level, so either -warp or IDCLEV to it, or just play through the first level and get a head start on ammo and wepons. THE STORY - It has been reported that a division headquarters of UAC Corp. has been taken over by hellish creatures. Your mission is (what else) get in there and kick some butt. Can you do it in less then 1 hour?",
+	"date": "2015-01-14 14:43:57",
+	"files": [
+		{
+			"filename": "uacplant.wad",
+			"size": 492579,
+			"crc": 2416457672,
+			"md5": "5d14aba9b5dc2affd338c7b1702b6fb4",
+			"sha1": "ec5a76335d2397fc08890742f5fb1b6cf6919dcc",
+			"sha256": "0bcab35034a20b1892a706d0663c4e8d5db70c87b942d406c157afd16cf4494a"
+		}
+	]
+}

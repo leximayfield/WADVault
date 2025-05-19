@@ -1,0 +1,17 @@
+{
+	"uid": "castle (926798).wad",
+	"name": "CASTLE OF WIZARDRY",
+	"description": "This level is based around the concept of a medieval castle, complete with moat, battlements, gatehouse, guardroom, stables and a central keep with cells, musician's gallery, kitchen, well, great hall and stairacse, bedrooms, long gallery and turrets. It is a very difficult level, and can at times be a bit slow.",
+	"version": "926798",
+	"date": "2019-06-13 13:29:25",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 164230,
+			"crc": 691682247,
+			"md5": "a7d654e4862b465760df73ad22330d60",
+			"sha1": "926798175d7c1efd574c3d47b85fcf9801712913",
+			"sha256": "31a1c6f346326f401b9665c10d7e1b1ddec59e2e3096461c814ddf0bf1b4415d"
+		}
+	]
+}

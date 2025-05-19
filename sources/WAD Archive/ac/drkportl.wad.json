@@ -1,0 +1,16 @@
+{
+	"uid": "drkportl.wad",
+	"name": "THE DARK PORTAL",
+	"description": "This is the first-ever Hexen HUB created by 3D Delta Developers. Many pain-staking hours of production have been used to perfect the workmanship in these five handcrafted levels. We kept the same theme that Id Software (c) and Raven Software (c) originally planned for their own master WAD (Seven Gates, Ice, Fire, Steel, Etc.), but we added new twists and turns that are sure to please the dedicated Hexen fan. The hub ends in an exciting conclusion that can only be experienced by completing every puzzle and hitting (almost ) every switch. We have play-tested this hub for hundreds of hours, searching for every bug, so you don't have to! Each board contains around 300 or so lines of script code, but none of these boards compare to our steel board's 1000 lines of code! This heavily developed code gives the hardest puzzles that extra edge: randomization! Each level averages around 300,000 bytes a piece! This is the largest hub around! We also took full advantage of the \"Ethereal travel\" by making the players warp from board-to-board for puzzle solving fun, rather than the \"Head-straight-for-the-end-switch\" routine where you run, well, straight to the end-- just to get to the next board! That was no challenge for us. BE WARNED: only the most advanced players will tough out the challenges that we throw at them; so, are you up to our challenge? -- Roots/CoFounder Of 3D",
+	"date": "2014-12-31 12:16:33",
+	"files": [
+		{
+			"filename": "drkportl.wad",
+			"size": 1672914,
+			"crc": 1646877014,
+			"md5": "ba7cae7186aa2246fbdc633f45ccf30e",
+			"sha1": "ac411544bb33860ad437b74ee71413aa0a609598",
+			"sha256": "2b9474e2d800b08cdbab71d1972ba7c2c8a769afcc66060ff1bd3fc58fce1ad1"
+		}
+	]
+}

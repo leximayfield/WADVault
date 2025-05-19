@@ -1,0 +1,16 @@
+{
+	"uid": "helclash.wad",
+	"name": "Hell clash",
+	"description": "A classic episode replacer for ultimate doom.",
+	"date": "2015-12-29 13:05:54",
+	"files": [
+		{
+			"filename": "helclash.wad",
+			"size": 1395185,
+			"crc": 664565756,
+			"md5": "53aaa9f92a222340a37a66cb4a121b1f",
+			"sha1": "18916bbc848b3dcf037052863f553a8f76ab22bd",
+			"sha256": "3811778e9cf144e7934f50633d3ab33e2faf079b64acd6ecc167db602258c6a9"
+		}
+	]
+}

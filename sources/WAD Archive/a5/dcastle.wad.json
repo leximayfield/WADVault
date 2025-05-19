@@ -1,0 +1,16 @@
+{
+	"uid": "dcastle.wad",
+	"name": "DooM Castle",
+	"description": "This should have been the secret level for the second episode of \"Italian DooM\", that at last was abandoned, because Buzzbomber never completed his maps for it, as if he left the team without saying anything to me and Toranga. Its layout was first designed by Toranaga and then I added monsters and items plus ACS Scripts. Most of the level is quite classic, i.e. it has got mainly original \"DooM 2\" textures, flats and monsters, gameplay is quite classic, apart from few puzzles. You can notice 5 section in the map: 1) Throne Room, that's the central area, where you start and the Yellow Key is placed; but \"do not dare to touch the King's Key without his protection\"! 2) The Maze, in the southern area, where is nothing you need to finish the level, though you can find ammo... and much more! So Doomers who don't like mazes can skip this area... but at their own risk! 3) Library, in the western area, locked with the Red Skull Key, where the Blue one is hidden. 4) Dungeons and King's Rooms, in the eastern area, locked with the Blue Skull Key. 5) Castle Entrance, destroyed by monsters, who invaded the castle and put a dimensional gate just there. It is disabled, but it can be activated again using the switches located in the Eastern and Western wings of the castle. You need ZDoom and e2res.WAD, the resource pack of \"Italian DooM - Episode 2: The Singulairty\", to play it correctly.",
+	"date": "2014-12-24 18:48:50",
+	"files": [
+		{
+			"filename": "dcastle.wad",
+			"size": 1038862,
+			"crc": 3924788094,
+			"md5": "10e2c01104433b71f5b56b798a9f0a2d",
+			"sha1": "a52f6672c781cf80fae8e6e5db6747cb371c81a0",
+			"sha256": "c535560fe39e4f3f2d878ec70f24373e97010811c46263674e5145a3f045cecd"
+		}
+	]
+}

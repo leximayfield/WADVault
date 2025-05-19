@@ -1,0 +1,16 @@
+{
+	"uid": "risblood.wad",
+	"name": "Rising Blood",
+	"description": "This is a remake of one of my really early levels. I always considdered it as my first really good level and I felt that it needed a revival.",
+	"date": "2014-12-29 09:13:39",
+	"files": [
+		{
+			"filename": "risblood.wad",
+			"size": 1057332,
+			"crc": 1418987441,
+			"md5": "deb3c15be572573a167c70814dc3f64e",
+			"sha1": "e1456439a14f44e96a7838e5c4ace8c6302477a9",
+			"sha256": "27b360486d3927fa7c9278bd2e2e45b41b3c6c47d347203fea3c998c3d3a1ac7"
+		}
+	]
+}

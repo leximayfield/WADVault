@@ -1,0 +1,16 @@
+{
+	"uid": "tw.wad",
+	"name": "Terror Within: An E2 Replacement",
+	"description": "A complete Episode 2 replacement for the original Doom. Made this a long time ago & retouched with DB, so the quality is on par with 1994.",
+	"date": "2014-12-13 17:24:23",
+	"files": [
+		{
+			"filename": "tw.wad",
+			"size": 642413,
+			"crc": 3401279671,
+			"md5": "1e51d0eb2bd9e8ec5dce4e81fc221fc8",
+			"sha1": "b6d97d40fbd90d5fbff8a9e6dfe480863bf80a18",
+			"sha256": "6d95255f7de501f5378cdbe336a390cffa7b59897f14bec6e49e4a913fba0c9b"
+		}
+	]
+}

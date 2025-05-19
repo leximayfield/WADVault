@@ -1,0 +1,17 @@
+{
+	"uid": "DMWORK (bcd7a2).wad",
+	"name": "AT_WORK.WAD",
+	"description": "This level is based on my work place. Its pretty accurate except for the northern part of the building. I took an artistic detour here, there would have been too many 2 sided linedefs in this area with all the machinery.",
+	"version": "bcd7a2",
+	"date": "2013-11-02 15:14:33",
+	"files": [
+		{
+			"filename": "DMWORK.wad",
+			"size": 304225,
+			"crc": 2846245509,
+			"md5": "8164d1bcc6f36e928338d9734b754b1e",
+			"sha1": "bcd7a2ac2ed2d0cbec3183cf41077df13c59f3ad",
+			"sha256": "2efe14928e07610ba2aed8363fd510356e65fb1f14a9846882c340416748b43b"
+		}
+	]
+}

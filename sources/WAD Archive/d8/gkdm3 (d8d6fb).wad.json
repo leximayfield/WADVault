@@ -1,0 +1,16 @@
+{
+	"uid": "gkdm3 (d8d6fb).wad",
+	"description": "2 player DOOM ][ DeathMatch only wad designed with DM 1.0 in mind.",
+	"version": "d8d6fb",
+	"date": "2013-11-02 15:46:28",
+	"files": [
+		{
+			"filename": "gkdm3.wad",
+			"size": 42711,
+			"crc": 2258441723,
+			"md5": "802bdfdb370cd05746a69f6cbb40cdda",
+			"sha1": "d8d6fb1461c6d9a65cbb83aa92b51d1f8466d49f",
+			"sha256": "289f5b040ff44e7be6d03b60fbff39ea6e8b0f965ed31606b7b3cc97e91c579e"
+		}
+	]
+}

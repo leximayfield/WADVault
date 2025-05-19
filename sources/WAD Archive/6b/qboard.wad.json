@@ -1,0 +1,16 @@
+{
+	"uid": "qboard.wad",
+	"name": "Qboard Doom2 SP wad",
+	"description": "Doom2 SP wad containing 3 SP maps by the above authors. The project originally started out as a \"retro\" mapping project, i.e. for a large group of quake mappers to each make a doom map and then combine them to a megawad. Sadly after the initial enthusiasm of dozens of mappers only 3 people actually came up with a map and the result is this wad. Rather than letting the project die or waiting forever, we decided to release it anyway.",
+	"date": "2014-12-29 08:44:47",
+	"files": [
+		{
+			"filename": "qboard.wad",
+			"size": 1273550,
+			"crc": 3313901572,
+			"md5": "6f3734d2a58d4a41699cc84625052789",
+			"sha1": "6bd77014ef03b0946d9a4b0fa0072f3f34c2b50b",
+			"sha256": "e2e981791b0cacecddd6dbc8891aaac2c6e557db103a2f9c2fb34c2129e9f19f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "oval3.wad",
+	"name": "oval3.wad",
+	"description": "A Deathmatch only wad for Doom2. holes for each player to start in. Each person gets Small arena wad with 8? surrounding rooms, good for 2-3 players. 4 is a little tight. A modification of OVAL, a wad by who knows? Changed lighting, weapon spread, the center lift, added the SShotgun rooms at the ends, and of course converted it to Doom2.",
+	"date": "2014-12-15 21:25:38",
+	"files": [
+		{
+			"filename": "oval3.wad",
+			"size": 45130,
+			"crc": 2152951662,
+			"md5": "8198ab7241b6a03a1c9a6a07a6f02b5a",
+			"sha1": "78e5b7d97590915f10c959ffa1fed0ba70a484ee",
+			"sha256": "7d71e951fde2886cf69c551b1c49260a2830786cc865a8a3c7e3bc97ac50da58"
+		}
+	]
+}

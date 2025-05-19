@@ -1,0 +1,17 @@
+{
+	"uid": "red (046518).wad",
+	"name": "RED.WAD",
+	"description": "Explore this small but potent array of terror with your opponent(s) until you've seen all the RED you want to see!",
+	"version": "046518",
+	"date": "2015-12-07 11:13:20",
+	"files": [
+		{
+			"filename": "red.wad",
+			"size": 74853,
+			"crc": 1296216800,
+			"md5": "f90f3932a87a7c19e06e004b0e17d38e",
+			"sha1": "046518af29f5421cdee6836b42bfd302d802e028",
+			"sha256": "5f512a40ea3a781baf67422d302dd50f2e5aaacf3ba37c7019ab7cff8c83854e"
+		}
+	]
+}

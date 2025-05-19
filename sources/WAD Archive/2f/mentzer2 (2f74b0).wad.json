@@ -1,0 +1,17 @@
+{
+	"uid": "mentzer2 (2f74b0).wad",
+	"name": "Mentzer2.WAD (For Doom 2)",
+	"description": "This is a Deathmatch Wad created for Doom 2. All Weapons are available and no monsters are present. Ammo, health, armor, and weapons are spread out to provide for constant action. This is the second in a series of deathmatch wads for Doom 2.",
+	"version": "2f74b0",
+	"date": "2014-12-03 20:07:15",
+	"files": [
+		{
+			"filename": "mentzer2.wad",
+			"size": 58959,
+			"crc": 103636771,
+			"md5": "47ee9f70b8e567ccb6e13e080d7a307b",
+			"sha1": "2f74b0d7c97e720ec11074e7c02e97b7e97f7273",
+			"sha256": "7c1b382ac2fe08e918ab697e7f2f6118a71cb4f55169135e14780f977a5c7f1c"
+		}
+	]
+}

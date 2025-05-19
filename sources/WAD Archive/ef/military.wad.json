@@ -1,0 +1,16 @@
+{
+	"uid": "military.wad",
+	"name": "Military",
+	"description": "Go in there and kick their asses !",
+	"date": "2015-01-13 21:46:09",
+	"files": [
+		{
+			"filename": "military.wad",
+			"size": 732169,
+			"crc": 2675442259,
+			"md5": "dabb1dc49875b31f8a9084e753253aed",
+			"sha1": "efc2e4edd4daaad4a96c42f667a1131111bd74f6",
+			"sha256": "db1c9eeb9c10e740f8ed8b8abf964869002845b1d8d202bb5fa74673d4c30d42"
+		}
+	]
+}

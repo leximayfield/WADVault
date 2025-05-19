@@ -1,0 +1,17 @@
+{
+	"uid": "bone (f7fa93).wad",
+	"name": "The Bone Yard",
+	"description": "Short 3 level tech base. Was planning on doing more levels, but got distracted. I wanted to relase these and may finsh out my plans later.",
+	"version": "f7fa93",
+	"date": "2014-12-15 22:01:37",
+	"files": [
+		{
+			"filename": "bone.wad",
+			"size": 360288,
+			"crc": 2033037347,
+			"md5": "70a31ccccfd358fbb06281f0f2a9da0e",
+			"sha1": "f7fa93648a08340f1b8d0f25ada973301fb42f28",
+			"sha256": "45ce5066c295b88799523ad49d217cc9ad01d224a6e98511002c1ac3aea7ebb2"
+		}
+	]
+}

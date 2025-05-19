@@ -1,0 +1,16 @@
+{
+	"uid": "demonexp.wad",
+	"name": "Demon Experiments",
+	"description": "An experiment on imprisoned demons at UAC HQ has gone horribly wrong. The anaesthetic that was injected into the demons was the wrong kind, lasting too short. Demons are wreaking havoc in the labs, and have slaughtered everyone there. Except you. You have managed to survive the onslaught. You get into the armory and load up your weapons. Destroy this evil before it gets out!",
+	"date": "2015-09-14 19:32:16",
+	"files": [
+		{
+			"filename": "demonexp.wad",
+			"size": 4838117,
+			"crc": 1406851429,
+			"md5": "2ce55cb2c66533f356b69a02c39f49c9",
+			"sha1": "6067a792c5fbe60799c82a83ae455918d1dd6a7f",
+			"sha256": "1529d35f745581fb512ae835e4976fa0b4ebc9d5776a481450c0f90a421de5b3"
+		}
+	]
+}

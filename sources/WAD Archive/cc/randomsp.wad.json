@@ -1,0 +1,16 @@
+{
+	"uid": "randomsp.wad",
+	"name": "Random SP (Random Single Player)",
+	"description": "A set of 12 maps created by myself because I felt like creating some maps. There's a little story between chapters (3 in total) that vaguely describe what's going on although I didn't bother much with that. The maps also support deathmatch to a certain degree, but I don't recommend that you deathmatch on most of these levels.",
+	"date": "2014-12-29 09:12:31",
+	"files": [
+		{
+			"filename": "randomsp.wad",
+			"size": 5559207,
+			"crc": 3866826651,
+			"md5": "8708cca07d28a36ca82d559722cf5fbb",
+			"sha1": "cc36648d234495c72a3ebb10b112eb4892b1e527",
+			"sha256": "c95fa5e78f031bea6931be8a04f73ed8786f3c915dc8591f5277897f197b03c4"
+		}
+	]
+}

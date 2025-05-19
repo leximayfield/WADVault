@@ -1,0 +1,17 @@
+{
+	"uid": "DTWID-LE (1b1eda).wad",
+	"name": "Doom the Way id Did - The Lost Episodes",
+	"description": "Six episodes of classic Doom maps, originally candidates for last year's \"Doom the Way Id Did\", arranged in an episodic format.",
+	"version": "1b1eda",
+	"date": "2013-04-18 21:34:16",
+	"files": [
+		{
+			"filename": "DTWID-LE.wad",
+			"size": 6728586,
+			"crc": 2721063877,
+			"md5": "2fa3574e1966187a05dc12ea8e7fa30e",
+			"sha1": "1b1edafb3ce64bc147bbd9264f9161058e551ab5",
+			"sha256": "94ff23a27153aaccc2165cf045af6c58ac996b7a21b83303ba115de17b768f52"
+		}
+	]
+}

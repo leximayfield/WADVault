@@ -1,0 +1,17 @@
+{
+	"uid": "JAX02 (0a8ac9).wad",
+	"name": "JAX02.WAD",
+	"description": "This is my second attempt at wad construction. This wadfile is pretty straight forward...find the redkey and get the hell out of dodge!!!!!",
+	"version": "0a8ac9",
+	"date": "2014-01-07 21:58:24",
+	"files": [
+		{
+			"filename": "JAX02.wad",
+			"size": 122701,
+			"crc": 1983257288,
+			"md5": "ddd3698344a60b66af7ab0f855ef3104",
+			"sha1": "0a8ac942182af0aa6326a9151b9cb8f8b9cde7a9",
+			"sha256": "7ff4694bbb3638f75682def2fb5f3b6d2209eaa185a5177b07f5548be7e864dd"
+		}
+	]
+}

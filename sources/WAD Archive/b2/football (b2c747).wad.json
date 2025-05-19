@@ -1,0 +1,17 @@
+{
+	"uid": "football (b2c747).wad",
+	"name": "Football",
+	"description": "The gridiron is all set up for what appears to be",
+	"version": "b2c747",
+	"date": "2013-11-02 15:19:56",
+	"files": [
+		{
+			"filename": "football.wad",
+			"size": 32287,
+			"crc": 3269740587,
+			"md5": "6e0483cfde33311f37a7eb8342b1c7a9",
+			"sha1": "b2c747c86f14115e90b66d997bc0594082ac9572",
+			"sha256": "f522ff335df99fd821da5403743b0482c5b5e84716b71587f7429396e55766d5"
+		}
+	]
+}

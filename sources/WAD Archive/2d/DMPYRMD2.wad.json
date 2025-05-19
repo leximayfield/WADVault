@@ -1,0 +1,16 @@
+{
+	"uid": "DMPYRMD2.wad",
+	"name": "Demon Pyramid",
+	"description": "Although this is the second wad I started on, it is the first wad I have finished. (The first level I started on was 'Underworld', E2M7 on PM7.WAD or MAP22 on PM6.WAD. Until I got and used BSP, it had severe HOMs and I could not finish it. By the time I used BSP, I was busy revising 'Demon Pyramid' which was already finished.) It took me a long time to build the level on Doom and then some to port the level to Doom][. It took even more time to playtest and modify the level.",
+	"date": "2014-10-14 21:24:34",
+	"files": [
+		{
+			"filename": "DMPYRMD2.wad",
+			"size": 523186,
+			"crc": 971440632,
+			"md5": "0e91fa6800ee5cf45c8bb3a644faac72",
+			"sha1": "2d6c0fa63ce23375af5f038bc0d72d9b909e91d3",
+			"sha256": "23eb187587ce8562fc43386504fd5a2b3fcd6e3e9815cdd70da0c0c635e6378f"
+		}
+	]
+}

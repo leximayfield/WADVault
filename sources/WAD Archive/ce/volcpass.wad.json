@@ -1,0 +1,16 @@
+{
+	"uid": "volcpass.wad",
+	"name": "Volcano Pass",
+	"description": "An open, volcanic canyon filled with monster-spam. It's silly, difficult map that shouldn't be taken seriously. Also supports deathmatch and co-op, which the map might be better suited for. MAP02 is the same level with even more monsters. I was originally going to include this in a different wad, but I felt it was too chaotic and out of place compared to the other levels.",
+	"date": "2016-07-21 19:39:48",
+	"files": [
+		{
+			"filename": "volcpass.wad",
+			"size": 1493833,
+			"crc": 3854475885,
+			"md5": "165c37b5660e20368a0d891f60bec481",
+			"sha1": "ce8f755b098a77368425e22fcd378df8bfca31ff",
+			"sha256": "7d652bcf9bd56b410b1c6aa48a7eab734f1562777099d4d97b7e562ad6787e11"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "pyro2 (e28870).wad",
+	"name": "Pyro's Revenge II (For Doom II only!)",
+	"description": "There are some decent puzzles to solve here that require good coordination and luck.",
+	"version": "e28870",
+	"date": "2016-02-07 20:25:38",
+	"files": [
+		{
+			"filename": "pyro2.wad",
+			"size": 110707,
+			"crc": 583663598,
+			"md5": "6ca14f7b67cefa68d1a6694b6456fea6",
+			"sha1": "e28870b6fdbdb907966c34f073dfaee021e838b9",
+			"sha256": "523c8a32b7a14b5db0731477a3d0abef49edcf9962b2412659579f51507d6407"
+		}
+	]
+}

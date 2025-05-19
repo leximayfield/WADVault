@@ -1,0 +1,16 @@
+{
+	"uid": "hall1 (4f4bd4).wad",
+	"description": "This prefab consists of a straight section of hallway and a right turn. By using sector rotation, you can create halls that point in any direction.",
+	"version": "4f4bd4",
+	"date": "2015-09-14 23:12:13",
+	"files": [
+		{
+			"filename": "hall1.wad",
+			"size": 48808,
+			"crc": 2329789902,
+			"md5": "aadf28589b7e5f81b856eb8d0baf88aa",
+			"sha1": "4f4bd44fe84afdd7c746e5d7e96c0807472603f5",
+			"sha256": "431cf9e4f4c1241269c75ce81ffeb91d049cc24b97b2b4d2de5d94a797fa0d28"
+		}
+	]
+}

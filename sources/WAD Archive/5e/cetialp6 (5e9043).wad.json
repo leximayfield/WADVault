@@ -1,0 +1,17 @@
+{
+	"uid": "cetialp6 (5e9043).wad",
+	"name": "\"CETI ALPHA VI\" - for DOOM ][",
+	"description": "This WAD was designed from scratch originally as a Deathmatch level. It now works well for co-op or single play as well, and supports ALL the skill settings. Ultraviolent is TRULY ultraviolent. Also, you DO NOT NEED to find ANY secret doors to get all the keys. There are no places where you can't get out of, no places where you are going to fall in poison with 200% health and have to wait till you die (I hate that). However, there are many many secret switches, doors and items that are worth the effort to look for. There is only ONE BFG in the level and it is fairly well hidden. It also requires the finding of a secret or two to get to. And there is a sure-fire way to tell if your \"cohorts\" have found it before you. If you truly cannot solve this level (try harder!) I have a LMP that shows the solution available by request.",
+	"version": "5e9043",
+	"date": "2013-04-19 04:34:10",
+	"files": [
+		{
+			"filename": "cetialp6.wad",
+			"size": 389024,
+			"crc": 2667700569,
+			"md5": "2aa6080364549685cc58a8209fa7398f",
+			"sha1": "5e9043acd3b6c863b3d007c99eb580cce0ce7522",
+			"sha256": "6e0dbf366abf84711d7b97976c33fd608820b7ddeb822a80a3a9c5b930667076"
+		}
+	]
+}

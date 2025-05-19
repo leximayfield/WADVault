@@ -1,0 +1,17 @@
+{
+	"uid": "liftor (fc45be).wad",
+	"name": "LIFTOR.WAD",
+	"description": "With over 100 separate lifts, need I say anything more? LIFTOR was though created with DOOM v1.666 allowing you Eight Channel sound and DeathMatch v2.0 for proper play and desired effect.",
+	"version": "fc45be",
+	"date": "2016-02-06 14:01:53",
+	"files": [
+		{
+			"filename": "liftor.wad",
+			"size": 196498,
+			"crc": 4169061648,
+			"md5": "d7b3b67d0a5b5b534053bde32ef442da",
+			"sha1": "fc45becea4f4167f6929153d251171f40ccf9dfd",
+			"sha256": "e5ba20e3e76221cd2d65677cc9a78a041fbc18d820a1614b3ebb92901cce6adf"
+		}
+	]
+}

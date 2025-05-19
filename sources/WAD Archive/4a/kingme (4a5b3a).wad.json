@@ -1,0 +1,17 @@
+{
+	"uid": "kingme (4a5b3a).wad",
+	"name": "KINGME.WAD",
+	"description": "A big ol' level P.S. You can get past the grids",
+	"version": "4a5b3a",
+	"date": "2014-12-27 12:17:21",
+	"files": [
+		{
+			"filename": "kingme.wad",
+			"size": 243416,
+			"crc": 1211828952,
+			"md5": "4cd2a4f87f1042f78cab88478c0dfc8f",
+			"sha1": "4a5b3a86bb2ca9304b1a4f882b55b554d68b3fec",
+			"sha256": "137590b0b61049a89a021356f74ed41ef2db4b0f69960271b46a50d519a95e31"
+		}
+	]
+}

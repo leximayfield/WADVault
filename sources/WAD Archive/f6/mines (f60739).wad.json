@@ -1,0 +1,17 @@
+{
+	"uid": "mines (f60739).wad",
+	"name": "The Mines",
+	"description": "My second map. I tried to focus on the details and the atmosphere.",
+	"version": "f60739",
+	"date": "2016-10-17 17:15:10",
+	"files": [
+		{
+			"filename": "mines.wad",
+			"size": 719842,
+			"crc": 146780466,
+			"md5": "4aa68363d18b82f10a34af20585ad871",
+			"sha1": "f607395161d83dec05cdd4a23ae2dece124c743c",
+			"sha256": "4b16475ab01892fa0c42217d5a69fb9ca8270eb9ce8d722efeeb3c93b833d352"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "4way.wad",
+	"name": "4way",
+	"description": "Big level, I tried to get the feel of many different levels in one. Each of the 4 \"ways\" is like a separate level.",
+	"date": "2014-12-15 19:09:14",
+	"files": [
+		{
+			"filename": "4way.wad",
+			"size": 507145,
+			"crc": 2458742235,
+			"md5": "f1ab4d000c54c50da8ba720c105d53e3",
+			"sha1": "b9d528592aec9324ed9fb7052703b6777ba1356d",
+			"sha256": "3b681f9712494adffd8d21e05e2fb4c9133f32a7c007e31e13dc12523db8e100"
+		}
+	]
+}

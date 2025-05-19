@@ -1,0 +1,16 @@
+{
+	"uid": "kbrick_2.wad",
+	"name": "kbrick_2",
+	"description": "OK, I think I got what I wanted in the first kbrick.WAD. Skill 1 is real easy, health and ammo. The rest are hard, a noticable change from 1 to 3 to 4. This WAD should run nice on slower comps.",
+	"date": "2014-12-27 12:55:42",
+	"files": [
+		{
+			"filename": "kbrick_2.wad",
+			"size": 165986,
+			"crc": 2247601480,
+			"md5": "3de643dbf5965c9f1b6effb89f2b000c",
+			"sha1": "39b9f279268b9f45f2d3dd581732590d09824d48",
+			"sha256": "4468d61f58263de93b485c6313a42e8eff775f5f618913b701fc31325269dc5e"
+		}
+	]
+}

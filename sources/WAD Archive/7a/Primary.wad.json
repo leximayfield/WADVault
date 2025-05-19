@@ -1,0 +1,16 @@
+{
+	"uid": "Primary.wad",
+	"name": "Primary",
+	"description": "Primary is a large natural-themed map based around several outdoor areas. It focuses on immersive, epic gameplay, with little puzzle solving. There are several routes to take, and challenges tend to be very rewarding.",
+	"date": "2013-04-19 03:33:47",
+	"files": [
+		{
+			"filename": "Primary.wad",
+			"size": 1795920,
+			"crc": 4011374056,
+			"md5": "83052da6956ed9d044ef8acbaa88c8cd",
+			"sha1": "7ab2f916b4d4833d8b11ff5833af97d0aa6ce4e5",
+			"sha256": "08b72350739bab9999781ff07e65425b0e8cbff688ab93a849e915e3a0eecd52"
+		}
+	]
+}

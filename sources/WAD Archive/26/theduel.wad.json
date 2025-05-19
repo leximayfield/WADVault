@@ -1,0 +1,16 @@
+{
+	"uid": "theduel.wad",
+	"name": "The Duel",
+	"description": "I started out to remake the duel mode from Golden Axe in Doom. However, it turned out a bit different. It's more like Serious Sam. However, you get different points for killing enemies and saving ammo. You're health also effects your score if you survive.",
+	"date": "2013-04-21 13:29:03",
+	"files": [
+		{
+			"filename": "theduel.wad",
+			"size": 144020,
+			"crc": 3482463581,
+			"md5": "d11e44c7de88d8c5b62c5f37a4a1220d",
+			"sha1": "26c8eb7690d97602abf0b4863c8a3969488a577a",
+			"sha256": "47332cb9b0cd682da3d17c4e96c9b5bda86c99696849b3e69f12e2b00e608c4a"
+		}
+	]
+}

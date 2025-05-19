@@ -1,0 +1,16 @@
+{
+	"uid": "duketex.wad",
+	"name": "Duke Nukem Texture Pack",
+	"description": "Resource WAD as base for level designers",
+	"date": "2015-09-15 17:30:43",
+	"files": [
+		{
+			"filename": "duketex.wad",
+			"size": 7764933,
+			"crc": 717831215,
+			"md5": "157649d7b4b5f284f4936afe87e4e5f8",
+			"sha1": "716e39b9b99245fcde4cd24c99f7b4fa318a1213",
+			"sha256": "0cacd7bd018eca1c4e77b51ed9855aa10b2cd3b4206a37246a93c98fd43bbf36"
+		}
+	]
+}

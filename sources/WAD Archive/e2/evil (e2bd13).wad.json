@@ -1,0 +1,17 @@
+{
+	"uid": "evil (e2bd13).wad",
+	"name": "evil.wad",
+	"description": "I don't know.....just shot anything that moves...",
+	"version": "e2bd13",
+	"date": "2014-12-18 22:32:33",
+	"files": [
+		{
+			"filename": "evil.wad",
+			"size": 115073,
+			"crc": 3331253842,
+			"md5": "6909356099c2d57f8f59c0d2f3cf5368",
+			"sha1": "e2bd135effebcf64a5f86b8f23efd9f4ea15870b",
+			"sha256": "fd250a11907966da1d022292f54e3b943e3a5d953e3c9eaf1c14b44c73cd8a0a"
+		}
+	]
+}

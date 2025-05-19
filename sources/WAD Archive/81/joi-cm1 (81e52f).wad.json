@@ -1,0 +1,17 @@
+{
+	"uid": "joi-cm1 (81e52f).wad",
+	"name": "Commando Mission 1 (3 fortress)",
+	"description": "Note!!! This level is for deathmatch only. Your mission is to take over all three main buildings, and kill every other military personel. Unfortunately all the other commandos have the same intructions. Commando mission 1 is very tight and compact wad map. And it has plenty of action even with -nomonsters parameter There are no secret or hidden places, and all weapons are available. But remember, there are only one way to restore your health, a single supercharge in the middle of central square.",
+	"version": "81e52f",
+	"date": "2016-02-07 20:25:49",
+	"files": [
+		{
+			"filename": "joi-cm1.wad",
+			"size": 45652,
+			"crc": 687057296,
+			"md5": "ca15e8f3816383f16ec38dcf24ec116a",
+			"sha1": "81e52f3fa99364846ddd41369782c6c01bee5d59",
+			"sha256": "53e65440022ffa9ff8da6f8781c1b9e8bbaf1114b994a29cb5b4fae7fdd85e08"
+		}
+	]
+}

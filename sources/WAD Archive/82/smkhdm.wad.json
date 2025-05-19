@@ -1,0 +1,16 @@
+{
+	"uid": "smkhdm.wad",
+	"name": "SMK Heretic Deathmatch v1.1",
+	"description": "This is a small Heretic DM map modeled after the second battle arena in the SNES game Super Mario Kart. I've included the music from that map, as well as the same layout. The design leads to lots of fast-paced battles as you can always see the other players!",
+	"date": "2014-12-30 11:29:06",
+	"files": [
+		{
+			"filename": "smkhdm.wad",
+			"size": 163616,
+			"crc": 2286104578,
+			"md5": "eb97d46094035fd1801bbaca1ff75fa9",
+			"sha1": "827d440d30d804577bb59b3e5490dac127ad8466",
+			"sha256": "eddf5bf13de399d5dc21169305e4d3f002b6de5cb30c51e759bf7e7bd05d86c4"
+		}
+	]
+}

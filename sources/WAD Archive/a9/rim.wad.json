@@ -1,0 +1,16 @@
+{
+	"uid": "rim.wad",
+	"name": "Rim - The Colony",
+	"description": "You are on Rim, a planet covered with water. Small but neat map.",
+	"date": "2014-12-14 20:49:26",
+	"files": [
+		{
+			"filename": "rim.wad",
+			"size": 152381,
+			"crc": 2837830153,
+			"md5": "7da97014a3347b296f34f5623eecfcf9",
+			"sha1": "a97c760f36cbb6ca055b4e448e1d741fcb39b02e",
+			"sha256": "bd156d64f55ae4dd426e250c7a9c29c4bbc93cb3d63d563735ed3e81889c741a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hidengo.wad",
+	"name": "Hidengo.wad",
+	"description": "A weird rectangle thingy type level. Symmetrical and full of secrets. Made for deathmatch.",
+	"date": "2014-12-15 21:37:22",
+	"files": [
+		{
+			"filename": "hidengo.wad",
+			"size": 63550,
+			"crc": 3979261635,
+			"md5": "6c9b7c5ab8a79aae0d1c30573d0c34b7",
+			"sha1": "d3e1877b2aa2b1e419a4fad0aa99b35c517b037c",
+			"sha256": "fd8b13a40636cea951b40b7f264e9753e1d629d251ed859c60eb7b6bda80466a"
+		}
+	]
+}

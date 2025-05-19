@@ -1,0 +1,17 @@
+{
+	"uid": "scream (417a73).wad",
+	"name": "Scream",
+	"description": "This is my third level made from scratch! When you play this level the first thing you will hear is the hideous scream of the Baron of Hell. This is a medium size level, but very challenging, it contains a Castle Tower, and more than a few Barons of Hell.",
+	"version": "417a73",
+	"date": "2016-02-06 13:53:08",
+	"files": [
+		{
+			"filename": "scream.wad",
+			"size": 134179,
+			"crc": 2688599236,
+			"md5": "ecc99b0092407d88007aaf848c32df93",
+			"sha1": "417a73fe648d86b27fcbfdabb56bc43eaef6454a",
+			"sha256": "7fd21ce5a2e5951b7c766979c7de9fef24d04fe2b396affaa5c0d205f5c4e0a1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fughdm01.wad",
+	"name": "Ugh DM 1 : Underground Base",
+	"description": "This is a small deathmatch level for ZDoom, making use of slopes and a fancy little script for a central event in the map. This is my first DM level as well as the first level in which I use slopes. Well, the slopes are not a very active part of the level, they are only decorative. For this level, I created a set of new textures... which took me maybe an hour. I really wanted to build a level that used no Doom 2 textures at all. I do use a few computers from Doom 2, but anyway, it's mostly new. Looking at the map, it's a fast-paced level with few places to camp or hide. This means that you can play it against a single opponent as well as against 7, and get action all the time. The plasma gun is very tricky to get... you'll find out why. Waiting for it is not always the best thing to do since the other players can come from any direction =)",
+	"date": "2014-12-15 21:41:17",
+	"files": [
+		{
+			"filename": "fughdm01.wad",
+			"size": 1254144,
+			"crc": 1450887053,
+			"md5": "7b1cdb89eea6887848f2b91f6f0880f6",
+			"sha1": "b9a4e263904f5200a268483267a54de09f6d1e5e",
+			"sha256": "0ec4a17a8d98cafffd99bc04df0d42ea64fca096f2b3d8b71135fa71e02d9c19"
+		}
+	]
+}

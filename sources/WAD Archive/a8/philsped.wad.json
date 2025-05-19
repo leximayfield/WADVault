@@ -1,0 +1,16 @@
+{
+	"uid": "philsped.wad",
+	"name": "Some evil Outpost",
+	"description": "A quick random speedmap I made out of sheer bordom on New Years day.",
+	"date": "2014-12-13 17:38:04",
+	"files": [
+		{
+			"filename": "philsped.wad",
+			"size": 66704,
+			"crc": 1157752885,
+			"md5": "5a6b507275896e55a0c4e455c1781181",
+			"sha1": "a8061e2c8a72de6f9cf9f7a9627bfa74825fc28a",
+			"sha256": "0b546b5594c0235cd4296f095186dd276a01a81824527ef89c3bd95c43e0f6cc"
+		}
+	]
+}

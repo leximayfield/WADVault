@@ -1,0 +1,17 @@
+{
+	"uid": "grindr1a (721463).wad",
+	"name": "Meat-Grinder I (v1.A)",
+	"description": "This level replaces GRINDER1.WAD dated 5/12/95. There's now an exit, for those who like to see the \"who-killed-how-many-of-who\" screen when they're done, and the four corner pillars have been lowered to open the whole level up some more.",
+	"version": "721463",
+	"date": "2016-02-07 20:38:59",
+	"files": [
+		{
+			"filename": "grindr1a.wad",
+			"size": 29826,
+			"crc": 965399568,
+			"md5": "450ce1f0ca70c273365913a87b49aed1",
+			"sha1": "72146348ccf6cecb9b21fdd67a7a52a8fab2ec36",
+			"sha256": "275fecda2a4c6719ee37aebe17f3fc1835f9d7c48aba54b5e43f0c29221977ec"
+		}
+	]
+}

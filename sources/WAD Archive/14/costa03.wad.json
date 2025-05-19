@@ -1,0 +1,16 @@
+{
+	"uid": "costa03.wad",
+	"name": "Costa Level 3",
+	"description": "Doom II Deathmatch wad that is very small. It is ideally for two people. It is quick action with lots of frags. I even made an attempt this time to align the textures. There is no BFG.",
+	"date": "2013-11-06 22:29:45",
+	"files": [
+		{
+			"filename": "costa03.wad",
+			"size": 42340,
+			"crc": 1164725478,
+			"md5": "4a66fecd8e3e1de1b8109f5d4613de92",
+			"sha1": "14fa1b45cdffc54da0bc75c68e2704149f6470ee",
+			"sha256": "c1013f050ffb647634ed247ab36e2f091cbbfff2b92338d7e9f46db562005d2b"
+		}
+	]
+}

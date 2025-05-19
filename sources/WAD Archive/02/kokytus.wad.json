@@ -1,0 +1,16 @@
+{
+	"uid": "kokytus.wad",
+	"name": "Kokytus",
+	"description": "My second map. A medium sized hellish map with some zdoom features.",
+	"date": "2015-01-05 16:28:41",
+	"files": [
+		{
+			"filename": "kokytus.wad",
+			"size": 1527629,
+			"crc": 1011086992,
+			"md5": "42631b81781b9a13b93bcd67ff929c9b",
+			"sha1": "02f776df8884b6c0fcf8573b28b2dbaf7a97be01",
+			"sha256": "081135a895de7d60bddc48ccdfab4e1ee1908ca1ee4f9da82974fd3cfc0184cf"
+		}
+	]
+}

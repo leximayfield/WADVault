@@ -1,0 +1,16 @@
+{
+	"uid": "beyv1.wad",
+	"name": "Beyond the veil",
+	"description": "A large base overrun by two enemy factions at the same time - emergency lockdown has been initiated. This map was originally supposed to be the first (second, actually) level of an entire episode started in mid-2004 in order to shorten the wait for Doom3, but did not advance beyond 1.5 maps (surprise surprise!). After sitting around on my HDD for five years, I decided to put some finishing touches on and release it along with an early WIP version of the fourth map (E1M4 - not playable, only included for archival purposes). Maybe I will get around to continue working on the episode some time, but at the moment it seems unlikely.",
+	"date": "2014-12-13 12:42:34",
+	"files": [
+		{
+			"filename": "beyv1.wad",
+			"size": 1872715,
+			"crc": 2083801678,
+			"md5": "d4f56292ed25a1e654042515c13c6545",
+			"sha1": "9c7306298b667fbe97c7c7cf717c251a6f51915f",
+			"sha256": "bb721038795114765a05003a84153762d3ec4dd0b6320633c77302f59d05fd51"
+		}
+	]
+}

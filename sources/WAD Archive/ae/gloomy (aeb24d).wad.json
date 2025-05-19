@@ -1,0 +1,17 @@
+{
+	"uid": "gloomy (aeb24d).wad",
+	"name": "Gloomy dungeon",
+	"description": "Dark, dank passageways ... The best bit is the Great Hall, where an animated firefight should develop.",
+	"version": "aeb24d",
+	"date": "2016-02-07 20:33:47",
+	"files": [
+		{
+			"filename": "gloomy.wad",
+			"size": 66721,
+			"crc": 2733914562,
+			"md5": "8ac4bfeac313fc6b081971d56ee0d539",
+			"sha1": "aeb24d5ace613a9083e7af58a050ed6da4d21b85",
+			"sha256": "749337f42d206b6efd653835fb137bbf1b6b81d11dd5f5d4e45762b49b14d1e8"
+		}
+	]
+}

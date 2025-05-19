@@ -1,0 +1,16 @@
+{
+	"uid": "thesis.wad",
+	"name": "Thesis",
+	"description": "Single map wad made primarily for duels. Inspired by essay driven insanity. Map list: MAP01 - Thesis by Decay",
+	"date": "2013-07-26 17:27:56",
+	"files": [
+		{
+			"filename": "thesis.wad",
+			"size": 429958,
+			"crc": 1941701833,
+			"md5": "43751a585b7ec2ace8376f556cafd092",
+			"sha1": "576f5d983f2d894121a7f29994ea610a0119e9df",
+			"sha256": "12a54217ed2ccf5de456c8aba1558b6a91a36538ee648aff84651c534e2448c7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hgc_nwextrem.wad",
+	"name": "HGC_NWExtrem.wad",
+	"description": "This is the final version of my famous Night Wedding wad. It has been revised to take advantage of GZDoom's lighting effects.",
+	"date": "2019-10-07 23:43:24",
+	"files": [
+		{
+			"filename": "hgc_nwextrem.wad",
+			"size": 4929609,
+			"crc": 1663800782,
+			"md5": "b4c5e3cab78872ba3865f5e748687caa",
+			"sha1": "470b36ee93572b00e1891d84347cab118c9b9ec1",
+			"sha256": "f524c07952390a4e4b32e4755c14cc5fb9ad670a37819fa92c8a3dc0bf471f62"
+		}
+	]
+}

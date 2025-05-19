@@ -1,0 +1,16 @@
+{
+	"uid": "POLYGON.wad",
+	"name": "Polygon Base",
+	"description": "A totally non-linear level, other than needing all three keys to exit, you're free to go anywhere you want. Play on HMP for a Doom-like experience, UV adds the Doom 2 monsters, NTR is real easy. Clear all otherworldly mutants, secure the base, and live to tell another tale.",
+	"date": "2015-01-14 22:42:35",
+	"files": [
+		{
+			"filename": "POLYGON.wad",
+			"size": 1151613,
+			"crc": 2456921557,
+			"md5": "f79a0225c8a985442d33c2ea0a698016",
+			"sha1": "5a564d5cd0106a6bfb4580bd9fe7267297459684",
+			"sha256": "a88ff87977f1f29908b677e85028bb5cd46f8f5b75d6ff3db4f96a697dd63825"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vh.wad",
+	"name": "Van Halen Wad For Doom 2",
+	"description": "Small deathmatch level with cool ceiling cutouts, and some familiar replacement sounds.",
+	"date": "2014-12-15 21:56:49",
+	"files": [
+		{
+			"filename": "vh.wad",
+			"size": 449391,
+			"crc": 1880194325,
+			"md5": "bfdea7c5449ecab36158eeefd87d8c9d",
+			"sha1": "cadbd529cb206e4ca304ea0030737fc2ff257224",
+			"sha256": "052524db63dc5baacd657bee2ec20f353e9f8e3a1959a3537dfcdee349c9e071"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "MAX2 (beef7b).wad",
+	"name": "MAX2.WAD",
+	"description": "This is a remake of max.wad with lots of added goodies. More high spaces to snipe from. Fast moving 2 to 4 player.",
+	"version": "beef7b",
+	"date": "2014-08-30 13:57:18",
+	"files": [
+		{
+			"filename": "MAX2.wad",
+			"size": 43089,
+			"crc": 3046295345,
+			"md5": "a14d824e8cd2ed77eeb39e2750707632",
+			"sha1": "beef7b61b505db9fab811d1ff9c76ae2bc61b6d9",
+			"sha256": "24ae4eb8ede6bea95c85f3cb52e0d5658551b23ea586487080990faff7ae9a75"
+		}
+	]
+}

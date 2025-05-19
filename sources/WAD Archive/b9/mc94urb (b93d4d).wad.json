@@ -1,0 +1,17 @@
+{
+	"uid": "mc94urb (b93d4d).wad",
+	"name": "MCmicrocomputer - Urbino '94",
+	"description": "A deathmatch level originally developed as the official arena for the 1st Italian Doom Championship (Urbino, September 11-25, 1994), sponsored by MCmicrocomputer, the leading italian microcomputer magazine. (That explains its name and the presence of the MC logo in the central hoctagonal hall). The level is quite wide, very symmetrical, with 3 rings of long corridors which surround a central \"plaza\". 4 carefully designed special entry points ensure the optimal deployment of players. All the major weapons are present, as well as some healing potions, lots of barrels and a few monsters. Some nice tricks are played with switches, lifts and lights (in certain areas the presence of the light or the lowering of a floor is an useful warning against a potential ambush). The level is designed to be played by no less than 4 players, and with the deathmatch 2.0 rules. An exit switch (very hidden) is supplied; however, the level is to be played on a fixed time base as enforced by the -timer # command line switch (only in Doom v. 1.666). The suggested time base (adopted in the Italian Championship) is 25 minutes.",
+	"version": "b93d4d",
+	"date": "2014-12-03 20:11:33",
+	"files": [
+		{
+			"filename": "mc94urb.wad",
+			"size": 337098,
+			"crc": 3647228762,
+			"md5": "658eb3d8d73d6b5a903c5a6a73c7c3cb",
+			"sha1": "b93d4dd416ab9a7df768c3d376380d03cfd6f998",
+			"sha256": "f146a3243ae1f97026fde1a84f59bec9f84a7738566e38f280ef717adf3415f6"
+		}
+	]
+}

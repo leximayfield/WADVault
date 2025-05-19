@@ -1,0 +1,16 @@
+{
+	"uid": "carpd.wad",
+	"name": "Carpodeathia",
+	"description": "An abandoned station, placed in a remote location somewhere in high hills. You may consider some corners quite tight, but let me explain. At the beggining I wanted to create a map suitable to play on symbian phones (where you don't have a option to run in DOOM), so the corners weren't a problem. But during the development stage I changed my concept... and this is what you get. Since it's my first release, I would be much thankful for sending any comments about this map. If it is acceptable, be sure to look out for further releases.",
+	"date": "2014-12-15 22:34:37",
+	"files": [
+		{
+			"filename": "carpd.wad",
+			"size": 99539,
+			"crc": 4101230386,
+			"md5": "195782fd226ed84f86d6fb529227a4fc",
+			"sha1": "5710c7e7c0d62302c4ec669acc33126cca42228b",
+			"sha256": "a181d78b9118ec3ced88d8c2c5c753bbf458a903aa02cf919cdca5083ef1049d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "MATRIX (71babf).wad",
+	"name": "The Matrix",
+	"description": "This is my first Doom level. It's not too tough and not too easy! I hope you enjoy it as much as I enjoyed writing it. Please feel free to let me know how you liked/disliked it. All comment/suggestions/ critizims welcomed!! Tested on Doom Version 1.2 Should work on 1.5 and 1.666 but did not test on these versions.",
+	"version": "71babf",
+	"date": "2013-11-02 15:18:34",
+	"files": [
+		{
+			"filename": "MATRIX.wad",
+			"size": 110657,
+			"crc": 3946432628,
+			"md5": "8d16ca5782505a434b528ef15e224bf0",
+			"sha1": "71babf99e28083c26aa3969ccd518bc115b70d85",
+			"sha256": "7815dcc6c56c6225e107d1a0961134a424dd4a7251a93dce39d50a6ea35aad5e"
+		}
+	]
+}

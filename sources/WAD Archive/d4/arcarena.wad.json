@@ -1,0 +1,16 @@
+{
+	"uid": "arcarena.wad",
+	"name": "Arch Arena",
+	"description": "Pretty kewl arena style level.",
+	"date": "2014-12-15 22:49:52",
+	"files": [
+		{
+			"filename": "arcarena.wad",
+			"size": 377656,
+			"crc": 4196551260,
+			"md5": "eaf788830cebf0870ad5801bb789b6fe",
+			"sha1": "d44bce5559659b3b02576bbf457f02fcc5acfe94",
+			"sha256": "8c8d0043155348d9bcfe5028b6f089f6d5beb4684685e8a0def15d82a3764e0b"
+		}
+	]
+}

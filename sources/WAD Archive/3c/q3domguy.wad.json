@@ -1,0 +1,16 @@
+{
+	"uid": "q3domguy.wad",
+	"name": "Quake 3 Style Doomguy",
+	"description": "What started off as an attempt to create the Quake 3 Doom guy resulted in this, a nice doomguy varient. He has khaki trousers, green armour, beige boots and features the Doom player sounds from Quake 3.",
+	"date": "2014-12-12 14:15:54",
+	"files": [
+		{
+			"filename": "q3domguy.wad",
+			"size": 551374,
+			"crc": 1728474059,
+			"md5": "4ad7db5c3d14cce06dc324c6a14d2fee",
+			"sha1": "3cfb72cb3e9cac775a5e0d6cbf9439613c0a2e59",
+			"sha256": "f6d5c5378eeabd39c3d03b8374a8618572c2bc89f7ff397057b48b37aacdeabc"
+		}
+	]
+}

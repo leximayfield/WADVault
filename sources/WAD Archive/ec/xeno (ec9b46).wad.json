@@ -1,0 +1,17 @@
+{
+	"uid": "xeno (ec9b46).wad",
+	"name": "CEILING XENOMORPH",
+	"description": "A new Xenomorph that runs across the ceiling for anybody out there building Aliens conversions, that replaces the Baron of Hell. There is another one I've seen that does the ceiling thing, but that one is kind of lame and doesn't have very good action at all. This guy was made from a regular ground dwelling dude from one of the other patches and redrawn a bit for life running across the ceiling. I had to squish him up a bit and redraw some of the tails and arms and stuff, and do a little rearranging of the pictures to give it a realistic crawling motion, with a violent, tail whipping, teeth gnashing attitude, but the final result was well worth it;}",
+	"version": "ec9b46",
+	"date": "2018-04-14 23:47:41",
+	"files": [
+		{
+			"filename": "xeno.wad",
+			"size": 223616,
+			"crc": 1852975105,
+			"md5": "ce717637c9df42b7ecaa6b4590fab456",
+			"sha1": "ec9b4631801cee0ed86c0d1bb97cd52a7328bac1",
+			"sha256": "d4f6156433bc69b8be5e6852d30356581cbe82be5ba08299fde2d536aa36fcfb"
+		}
+	]
+}

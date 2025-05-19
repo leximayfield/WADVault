@@ -1,0 +1,17 @@
+{
+	"uid": "bludlust (746605).wad",
+	"name": "BloodLust",
+	"description": "This level was originally designed as a death match level. For 2 players the deathmatches tend to be more stealthy with lots of hunting. With four players, it is a wild romp of death, destruction, and well, BLOODLUST!!!! >^]__ _ _| It is relatively difficult. If you try to get 100% kills, you WILL need to conserve ammo. I've seen it beaten with one shell and zero shells left!!! This is my first from scratch level (ooh!! a disclaimer!!)",
+	"version": "746605",
+	"date": "2015-12-07 07:54:10",
+	"files": [
+		{
+			"filename": "bludlust.wad",
+			"size": 88684,
+			"crc": 278897414,
+			"md5": "a92c4931e7598ad0bde54b46e4b1cd20",
+			"sha1": "746605466e8a9a3b53a17fd34d7bf1daa6359120",
+			"sha256": "e5f5ab4ac7a3799a91abd2e268b9eee364c3e753d7ebfaf4dc950b7b164e8713"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "coopbuildlm (7e7fc4).wad",
+	"name": "Coop Build",
+	"description": "Toke's coop wad! Have fun playing it. R.I.P. Toke!",
+	"version": "7e7fc4",
+	"date": "2013-04-19 11:29:13",
+	"files": [
+		{
+			"filename": "coopbuildlm.wad",
+			"size": 4446706,
+			"crc": 488215465,
+			"md5": "ca647575c04b493e79236430652f5cd4",
+			"sha1": "7e7fc4c848bbad3ca1d2a4d911eca9e90a4445da",
+			"sha256": "ed41efa95edb1835fd0d133bd18ab25ff8fe77b4d10b4f682cc7933dac21a95c"
+		}
+	]
+}

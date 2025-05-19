@@ -1,0 +1,17 @@
+{
+	"uid": "unknown1 (875caa).wad",
+	"name": "Unknown1 (updated version)",
+	"description": "You wake up in a place unknown to you. Monsters are everywhere. There's only one way to escape this place. You know what you have to do.",
+	"version": "875caa",
+	"date": "2019-03-23 00:30:06",
+	"files": [
+		{
+			"filename": "unknown1.wad",
+			"size": 31817868,
+			"crc": 227882748,
+			"md5": "36baca9152b0f7454cea45b936616944",
+			"sha1": "875caa0d8c3889ca19ebf2091895ac458a1a121a",
+			"sha256": "113cdda1c9c09b2dcbf115d469698de73f0aceb8ed6f55ebb0279627f33d8436"
+		}
+	]
+}

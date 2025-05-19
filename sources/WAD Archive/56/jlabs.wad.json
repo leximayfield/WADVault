@@ -1,0 +1,16 @@
+{
+	"uid": "jlabs.wad",
+	"name": "JLabs (AKA, \"Joe's Labs\")",
+	"description": "About a year or two ago, I began working on a co-op wad that I was not too happy with. At one point, I got the brainy idea of modifying MAP01 from my wad and turning it into a Death Match version, with revamped architecture and improved flow. The rest of the wad wasn't that great, and I didn't really think any of my other maps would go well with this -- so we have the final incarnation of MAP01, from my old co-op wad, in DM format!",
+	"date": "2014-12-15 21:36:16",
+	"files": [
+		{
+			"filename": "jlabs.wad",
+			"size": 777767,
+			"crc": 3123038100,
+			"md5": "7580e75e58e58c08e425d14c55f8c833",
+			"sha1": "5695786a1af7fbf76215cebadec9aac8f28277d4",
+			"sha256": "1ab3990d26dc6888a945249294affd722c2786d5c312756c72a8f2eccac3f8c2"
+		}
+	]
+}

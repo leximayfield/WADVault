@@ -1,0 +1,17 @@
+{
+	"uid": "keep (963f89).wad",
+	"name": "Pain Keep",
+	"description": "A nice map for Boom, using the gothicdm textures. Standard hell building and some fights, I hope you like it. I have added more ammo and a hidden megasphere near the start of the map and there should be plenty of ammo and health now.",
+	"version": "963f89",
+	"date": "2015-01-05 16:25:17",
+	"files": [
+		{
+			"filename": "keep.wad",
+			"size": 1010564,
+			"crc": 2245400916,
+			"md5": "e9edf43d9b0e42b4748f665c08df6983",
+			"sha1": "963f891764a926f6630281faaa1d4a35bf4396a6",
+			"sha256": "cf65e7d0dfc0aecb63a421aa122c9a2dc578a605721a3248df2a77efba2a0291"
+		}
+	]
+}

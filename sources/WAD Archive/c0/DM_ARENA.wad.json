@@ -1,0 +1,16 @@
+{
+	"uid": "DM_ARENA.wad",
+	"name": "Death Match Arena",
+	"description": "Duke it out with your friends in this cool 4 floor arena, with a sludge pit at the very bottom. (If you REALLY wanna' have fun, play death match with the monsters on, you'll have a little suprise at the beggining!)",
+	"date": "2014-08-30 14:26:26",
+	"files": [
+		{
+			"filename": "DM_ARENA.wad",
+			"size": 21504,
+			"crc": 1821381264,
+			"md5": "415fd48d891b93441dab61dca94ede62",
+			"sha1": "c0d128d93c41d260e982100b865228cedbfaeeeb",
+			"sha256": "202d8a5178440d5972cc6ab287b7fd543bf9666986bb22088ff8ad5fe73f83bc"
+		}
+	]
+}

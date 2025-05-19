@@ -1,0 +1,17 @@
+{
+	"uid": "idmap01! (f22823).wad",
+	"name": "id Map01! - Tournament Edition",
+	"description": "clean deathmatch level *changes from idmap01.wad* item placement changed from idmap01.wad more deathmatch starts removal of the hideous BFG",
+	"version": "f22823",
+	"date": "2013-11-02 15:39:47",
+	"files": [
+		{
+			"filename": "idmap01!.wad",
+			"size": 65889,
+			"crc": 1942769056,
+			"md5": "b47312dc108175700faaf09cef318c7f",
+			"sha1": "f22823679a23ec7101c0c0f52f862566415ccf9d",
+			"sha256": "a170ad41334dc36c69b7500dc2366319f06e7dc6c176be4d3cb2eb71ec414c42"
+		}
+	]
+}

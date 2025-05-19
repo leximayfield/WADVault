@@ -1,0 +1,17 @@
+{
+	"uid": "paradox2 (e4f90b).wad",
+	"name": "Paradox 2",
+	"description": "Tom's very last Doom2 level: it's a deathmatch fragfest with a cool double bridge in the middle.",
+	"version": "e4f90b",
+	"date": "2014-12-15 22:24:28",
+	"files": [
+		{
+			"filename": "paradox2.wad",
+			"size": 45504,
+			"crc": 870926139,
+			"md5": "8c345f8308c475f1494964ed390f1edb",
+			"sha1": "e4f90bd6f81d78f7742f48fae8c7af29c8f4e332",
+			"sha256": "4873ca2e91f14aed5f2c2cddf3e9757c60f1dd9519ec037ba37ca114a449a565"
+		}
+	]
+}

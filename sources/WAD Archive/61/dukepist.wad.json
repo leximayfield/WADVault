@@ -1,0 +1,16 @@
+{
+	"uid": "dukepist.wad",
+	"name": "Duke Nukem's pistol for Doom",
+	"description": "Replaces the pistol with Duke's pistol from Duke Nukem 3D. There's also a small DeHackEd patch that comes with this that you don't need, but I suggest using. You probably want to use a Doom port with a good crosshair, like Smack My Marine Up or ZDoom.",
+	"date": "2014-12-10 22:47:01",
+	"files": [
+		{
+			"filename": "dukepist.wad",
+			"size": 26040,
+			"crc": 50188984,
+			"md5": "74a6986ce9af2fb1747809bc367d16d7",
+			"sha1": "610e963a429df2759e83814374e45642eea0e964",
+			"sha256": "71f74aac2f14d3c6ee995980223411849c492663786e21cdfdb0c8b46eae3923"
+		}
+	]
+}

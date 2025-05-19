@@ -1,0 +1,17 @@
+{
+	"uid": "castle1 (7237f8).wad",
+	"name": "Castle of Combat for HERETIC, REG ONLY",
+	"description": "This is level 1 of a 5 level adventure originally designed as an AD&D game. Look for the other levels coming soon.",
+	"version": "7237f8",
+	"date": "2018-06-15 11:28:37",
+	"files": [
+		{
+			"filename": "castle1.wad",
+			"size": 137805,
+			"crc": 1367458663,
+			"md5": "23828a7756791534a9f718c234cd55bc",
+			"sha1": "7237f8a946ab6bda874c2ba4a1723802fbfa861e",
+			"sha256": "3ebf00ac1cc8bd5c89b0cd5121a800e4d90be0e76f473c1b8ffa29b15d1eaa85"
+		}
+	]
+}

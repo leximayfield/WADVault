@@ -1,0 +1,17 @@
+{
+	"uid": "STEEL (4565a2).wad",
+	"name": "Steel Conquerors",
+	"description": "Small Doom 2 map in the style of the early Doom 2 levels.",
+	"version": "4565a2",
+	"date": "2018-05-28 22:20:10",
+	"files": [
+		{
+			"filename": "STEEL.wad",
+			"size": 130824,
+			"crc": 1899890408,
+			"md5": "2ad24fc1547b7fd347e522766cb9bca2",
+			"sha1": "4565a2ad1921c11caa9128fea615e90a400f39fa",
+			"sha256": "05eacf9b438401d8d919f369abf866b443fd41fc3d2a06c72d21d04f1118e044"
+		}
+	]
+}

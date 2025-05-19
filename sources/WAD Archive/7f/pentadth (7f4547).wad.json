@@ -1,0 +1,17 @@
+{
+	"uid": "pentadth (7f4547).wad",
+	"name": "Penta-Death",
+	"description": "A Deathmatch level. Small enough for a fast paced 2 player dm. Plenty of hidden triggers that you must find. E-mail me for hints.",
+	"version": "7f4547",
+	"date": "2013-11-04 19:19:09",
+	"files": [
+		{
+			"filename": "pentadth.wad",
+			"size": 38292,
+			"crc": 423240659,
+			"md5": "703bf9118fa0f8fb04cff6ddbc0261bb",
+			"sha1": "7f454756bbea1fa221950727e47927ec984bc2c2",
+			"sha256": "8d3203130f5d5e07bf2eb54f449cba22993e57f7cfc5972dee1900011f1af716"
+		}
+	]
+}

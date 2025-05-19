@@ -1,0 +1,16 @@
+{
+	"uid": "#cavemen.wad",
+	"name": "Cavemen",
+	"description": "A nocturnal level, mostly in caverns. This is my 9th level, a very huge level, and ... ok, hard! You have been captured by these demonic cavemen and all your buddies are dead or turned into killing undead bodies, just now you have destroyed one of those poor creatures and have taken his pistol, now you will show these demons that keeping you alive was a pure mistake. This level overwrites level MAP07 of DoomII.",
+	"date": "2014-12-15 19:09:51",
+	"files": [
+		{
+			"filename": "#cavemen.wad",
+			"size": 529369,
+			"crc": 2656395909,
+			"md5": "6731e86373e2c93f4087e4533ed11082",
+			"sha1": "842c8bfba76e95f67a63fb260cd4a516bab63fdd",
+			"sha256": "ad9b3a8f241ea161b4fa4997dddee2b25bf1cfe82d966e73e6e24b77f710185c"
+		}
+	]
+}

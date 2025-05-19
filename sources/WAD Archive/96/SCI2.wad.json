@@ -1,0 +1,16 @@
+{
+	"uid": "SCI2.wad",
+	"name": "Scientist 2",
+	"description": "Made for \"vanilla\" doom2.exe and includes: -20 single player maps (map01 upto 20 = all 11 maps from sci.wad + 9 new maps), -10 bonus deathmatch maps (map21-30) -some new textures and sprites including some weapons and a renewed scientist sprite.",
+	"date": "2013-04-20 11:49:17",
+	"files": [
+		{
+			"filename": "SCI2.wad",
+			"size": 11924260,
+			"crc": 794364491,
+			"md5": "5162fc0b74d2cf0fc6ee7da37cab152e",
+			"sha1": "9603d9960860275d97c524681b0ed224df2454b8",
+			"sha256": "5b84fe0b8e6166a071c772845b74d2c9c16e4bfa76e4eb665d3fa0e37061f2e9"
+		}
+	]
+}

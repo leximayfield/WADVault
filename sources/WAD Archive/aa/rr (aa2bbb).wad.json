@@ -1,0 +1,17 @@
+{
+	"uid": "rr (aa2bbb).wad",
+	"name": "RRWARD01.WAD (all the cool names were taken)",
+	"description": "This is a _very_ large file, owing to the detail given to the level (lots of linedefs) and the shear size of the map. This map is designed primarily for single player games, but has multi-player starts, and an interesting consession for DeathMatch, though the map was not designed for DeathMatch. This map took over 150 \"man-hours\" to create, and outgrew both DEU 5.0 and DEU 5.1's memory allocation schemes. There are no \"step wrong and die\" traps - If you can get into an area (without cheating) you can get out. There are secrets, hidden doors and switches galore in this map.",
+	"version": "aa2bbb",
+	"date": "2018-12-07 12:31:33",
+	"files": [
+		{
+			"filename": "rr.wad",
+			"size": 4046,
+			"crc": 1774392948,
+			"md5": "1b4bcf81ec6191c1c3723664fd30a5bf",
+			"sha1": "aa2bbbb2977caf6cd17ea63db80eea88df241782",
+			"sha256": "f9a30ca4797b330adbb09065741b47c23a60765bef28eac6d42c2eb8c8362122"
+		}
+	]
+}

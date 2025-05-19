@@ -1,0 +1,16 @@
+{
+	"uid": "aliendm.wad",
+	"name": "Alien DeathMatch",
+	"description": "The level is set in a UAC's nuclear plant, occupied by aliens.",
+	"date": "2014-12-15 22:50:07",
+	"files": [
+		{
+			"filename": "aliendm.wad",
+			"size": 143150,
+			"crc": 1528830726,
+			"md5": "c344f58a66268ecebfdb7b7c4a09c43f",
+			"sha1": "c68a3c3eefefe4e43633f2ea783b79c32b2049e1",
+			"sha256": "b3168a2bba244ae4477fcbdae9bdba9632e83c5d23ec70b8a03ed0699305d24d"
+		}
+	]
+}

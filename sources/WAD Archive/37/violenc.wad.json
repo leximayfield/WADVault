@@ -1,0 +1,16 @@
+{
+	"uid": "violenc.wad",
+	"name": "violenc.wad",
+	"description": "Violence: leet ass deathmatch level. Ok this is my first attempt at a deathmatch .wad and I am quite pleased with the results. The design is pretty simple but as several elements which make it good for deathmatch, in my own opinion anyhow. try it out. Hope you like it.",
+	"date": "2014-12-15 22:07:51",
+	"files": [
+		{
+			"filename": "violenc.wad",
+			"size": 34392,
+			"crc": 1935489350,
+			"md5": "54ace3ed8ad6c12738d8cfb9b82b279b",
+			"sha1": "370098ec373403acc545c1fcb784f64b42d07474",
+			"sha256": "fd588553de6fa24b22d558ecc68dfc3b880fca6cbad47132a8288455122dfe2f"
+		}
+	]
+}

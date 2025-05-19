@@ -1,0 +1,16 @@
+{
+	"uid": "S2-PNP.wad",
+	"name": "The Pits and the Pedestal",
+	"description": "Designed for Deathmatch. Each player starts off in the center section. Each platform in the center section opens a door. There is one warp that takes you to the tall pedestal in the center section. Deathmatch is much better WITHOUT monsters, so I didn't even include them.",
+	"date": "2013-11-03 17:48:51",
+	"files": [
+		{
+			"filename": "S2-PNP.wad",
+			"size": 28838,
+			"crc": 3919380724,
+			"md5": "377082738d51faa22ac2fd1a914e4c27",
+			"sha1": "fa0e3ad9ec914d6e7784e8c4a9619ffc60aafb65",
+			"sha256": "5792a9acd2438ff77b18fbbbe6054a702a629f92c28b3ddf923c0911dd7c6a5c"
+		}
+	]
+}

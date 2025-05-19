@@ -1,0 +1,17 @@
+{
+	"uid": "armory (9b8b14).wad",
+	"name": "Armory",
+	"description": "The armory! What a perfect place to end up. So damn many hell spawn around, now you can mop them up! Be careful, security is tight and there are measures to keep the weapons safe. With some skill you can get to them and take care of business.",
+	"version": "9b8b14",
+	"date": "2014-01-04 11:55:35",
+	"files": [
+		{
+			"filename": "armory.wad",
+			"size": 181906,
+			"crc": 1042591102,
+			"md5": "d0892cbc56c95f3c770532f4a7941d27",
+			"sha1": "9b8b148ed0f33833956cd5756395cea14aedcfad",
+			"sha256": "48914ec103b7b762e0d226551754e8ea6827f72aa43770bd7bff88f4bebd2970"
+		}
+	]
+}

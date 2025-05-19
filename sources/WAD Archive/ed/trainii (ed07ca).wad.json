@@ -1,0 +1,17 @@
+{
+	"uid": "trainii (ed07ca).wad",
+	"name": "Training II",
+	"description": "After fighting your way through the first infested level of the UAC's corrupted training program, you discover little clues as to why your here or what they want from you. Now your on the second level of the program, and it looks as if this will be another tough fight. One things for sure, those bastards will pay once you find them...if you do.",
+	"version": "ed07ca",
+	"date": "2014-01-07 22:17:48",
+	"files": [
+		{
+			"filename": "trainii.wad",
+			"size": 184099,
+			"crc": 3976179027,
+			"md5": "c4ef38641f3dfeaa74e6d10b41dc741b",
+			"sha1": "ed07cafeaf1d6262dd6d37990c5bea5937d65eb5",
+			"sha256": "37343d4c970ba4331b4f412deab72fb8e391d6c126f26ad597239e1f038b9255"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "zapnrun2.wad",
+	"name": "Zap'em and Run Like Hell (DooM 2)",
+	"description": "A DooM wad that works in all modes, including Co-Op and Death Match. Consists of many large rooms connected by narrow and dark tunnels. A special congrats goes to all players who end up with 100% secrets and items without using the computer map. Pay special attention to any subtle differences in wall textures. This DooM 2 wad was converted from a DooM 1 wad with DooM 2 monsters added for more blasting enjoyment.",
+	"date": "2013-11-06 22:45:35",
+	"files": [
+		{
+			"filename": "zapnrun2.wad",
+			"size": 141143,
+			"crc": 1455446081,
+			"md5": "6ef038c259f8894d97034e7c4ae747be",
+			"sha1": "8ddb1b8ee4da6103782cb7984fc1d8ee0086348a",
+			"sha256": "7007f56033f635818daafd7ff0f1a86f50d434a9ce4d35698c278c149b89ac2f"
+		}
+	]
+}

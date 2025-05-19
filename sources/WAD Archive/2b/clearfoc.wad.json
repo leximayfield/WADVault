@@ -1,0 +1,16 @@
+{
+	"uid": "clearfoc.wad",
+	"name": "Clear Focus",
+	"description": "A small base level to get your focus cleared. The level kinda follows the DTWID rules so it feels more like an id level but isn't. Any minor alignment errors found were intentional and should not be of any concern.",
+	"date": "2014-12-13 17:54:24",
+	"files": [
+		{
+			"filename": "clearfoc.wad",
+			"size": 39865,
+			"crc": 1650661926,
+			"md5": "2fcc14e187e06a47126bc497292bbc8a",
+			"sha1": "2b49d716f2debdaa8fdf9292987e2886d87a8ddd",
+			"sha256": "2786ee64b299c3578cc0a4ad065f8ca78a070c0441408144f2f01c00c130c475"
+		}
+	]
+}

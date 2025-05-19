@@ -1,0 +1,17 @@
+{
+	"uid": "mk21 (b365de).wad",
+	"name": "MK21.WAD",
+	"description": "This is the first level in the Asmodeus series. This series takes place on episode 2.",
+	"version": "b365de",
+	"date": "2013-11-02 15:58:13",
+	"files": [
+		{
+			"filename": "mk21.wad",
+			"size": 70495,
+			"crc": 1124511514,
+			"md5": "936cb5b5d3475edb07631148d7a1e9af",
+			"sha1": "b365de0f3fe999f03682a75e3afc26d9573d780b",
+			"sha256": "30fdac9177d2d46cb4aa9caafd060cacea87903ce76f30640fa6b96a16e5e592"
+		}
+	]
+}

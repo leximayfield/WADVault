@@ -1,0 +1,16 @@
+{
+	"uid": "outposdm.wad",
+	"name": "Outpost of Hell - DeathMatch",
+	"description": "This is a DM .WAD designed for FFA game mode, inspired by my \"Outpost of Hell\" series: in fact, it has got the same gothic style with some hellish touches. It is a medium-big map with a long red corridor around the main arena in the centre and four rooms at cardinal points, where the different main weapons (Shotgun, Chaigun, Rocket Launcher and Plasma Gun) are placed together with the Super Shotgun in each start point. The BFG is placed on a pedestal in the middle of the arena: there is a start on it, but you can reach it with one teleport located in one of the 4 \"start rooms\"... but I won't reveal you the exact position. ;) Just look at map and you'll find this teleport. Moreover there are 2 Green Armours and 1 Blue Armour hidden in 3 of the 4 \"start rooms\". Two teleports in each \"start room\" leads to the red corridor, whereas other teleports hidden in it lead to the main arena. Health, armour and ammo are scattered here and there. I hope you enjoy it and have fun with your friends... and enemies! ;) WARNING: The new background music is a .MIDI file, so you'll listen to it only if you use a port that can play it, such as ZDoom-based ports (ZDoom, GZDoom, ZDaemon...).",
+	"date": "2014-12-15 22:47:41",
+	"files": [
+		{
+			"filename": "outposdm.wad",
+			"size": 146306,
+			"crc": 3526637015,
+			"md5": "f6c8ff1782736750854fd1f48e8d9f1d",
+			"sha1": "4eaec63d0a49655c2c798bce69556c932268e318",
+			"sha256": "c64fee20635cd12854acb379e86f237b44b838a4cdfbcc462d914359f66b1d8d"
+		}
+	]
+}

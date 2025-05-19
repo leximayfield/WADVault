@@ -1,0 +1,16 @@
+{
+	"uid": "zeurk.wad",
+	"name": "The Tunnel System",
+	"description": "A tunnel system with many passages and rooms, and a big arena. One room has not the \"Tunnel\" theme; the \"Red Hall\". This is done intentionally. Just gloomy, altought it runs on MAP04, wich means that the music is swingin' :)",
+	"date": "2014-12-15 21:24:13",
+	"files": [
+		{
+			"filename": "zeurk.wad",
+			"size": 100381,
+			"crc": 1048462787,
+			"md5": "a634117f3035901d68c8093a46e11cbc",
+			"sha1": "6ddcb222c5af1636375828375f1e5e427104e827",
+			"sha256": "0320459cc9bb9d1c265db49532ff524fe708ce8ae7ec94775fdfe23f7b88e0c4"
+		}
+	]
+}

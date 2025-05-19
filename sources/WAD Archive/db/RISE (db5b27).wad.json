@@ -1,0 +1,17 @@
+{
+	"uid": "RISE (db5b27).wad",
+	"name": "RISE.WAD",
+	"description": "You start off in a dimly lit stairway... Lots of fun things--stairs that go up AND down, hidden weapons, switches that must be pushed twice, a few puzzles. Plenty of monsters, but all difficulty levels are supported. If you get stuck, check the map, push the switches again, and look and listen. There should be no texture misalignments that are not deliberate! (Or impossible to correct!)",
+	"version": "db5b27",
+	"date": "2015-01-14 22:58:15",
+	"files": [
+		{
+			"filename": "RISE.wad",
+			"size": 1139225,
+			"crc": 1386465670,
+			"md5": "a35a01df232e414a1f3facbf378c0f12",
+			"sha1": "db5b27f118e856489f7ec612fb69d3133d824510",
+			"sha256": "30f710427d08c77fc9ed81441d397c952f267a1047f3e5c961904e4efb07ecb7"
+		}
+	]
+}

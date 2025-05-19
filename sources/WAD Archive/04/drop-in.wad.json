@@ -1,0 +1,16 @@
+{
+	"uid": "drop-in.wad",
+	"name": "Drop-in.wad",
+	"description": "Great Deathmatch wad 2-4 player. Fast run and shoot wad.",
+	"date": "2013-11-02 16:37:38",
+	"files": [
+		{
+			"filename": "drop-in.wad",
+			"size": 20448,
+			"crc": 3528720799,
+			"md5": "7089f1fa23f8973d63e35982e138e834",
+			"sha1": "0496a1c9cf770e2effbbf94142d18d24fa6be7ab",
+			"sha256": "088dc3c0d88af94d01d61e6e21f751f0515a4ac1d7841029c1aece2ff551488f"
+		}
+	]
+}

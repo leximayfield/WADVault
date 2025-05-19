@@ -1,0 +1,17 @@
+{
+	"uid": "NJDOOM2 (9e12ec).wad",
+	"name": "NJ Doom2",
+	"description": "Olde replacement for Doom2. Released purely because of interest in old, cheesy 1994 WADS. This is not the first version of this file. It may be based on an early revision but this one has been \"legalised\" by removing maps 31 and 32 which were just edited version of the Id originals to make them a little more like the Wolf originals. It is likely that this is not even based on the original version of NJDoom but an early revision. The file date indicated a December 1994 release which may or may not be accurate. This file was originally uploaded to the Compuserve action games forum in 1994.",
+	"version": "9e12ec",
+	"date": "2014-12-27 12:54:37",
+	"files": [
+		{
+			"filename": "NJDOOM2.wad",
+			"size": 4705736,
+			"crc": 714665207,
+			"md5": "c5fdd652c5b1de2e21a1b4ce6e523b05",
+			"sha1": "9e12ec8bdca891cee3e09f5270e14637b6332765",
+			"sha256": "f5bc65aca37037e5adc5b2d8cdd74051cb4a729bf0a2d66b525c9b2cf17c89cc"
+		}
+	]
+}

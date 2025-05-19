@@ -1,0 +1,16 @@
+{
+	"uid": "DOUBTS.wad",
+	"name": "Doubts Even Here",
+	"description": "Simple 2048x2048 map. Right?",
+	"date": "2014-12-18 23:12:13",
+	"files": [
+		{
+			"filename": "DOUBTS.wad",
+			"size": 88075,
+			"crc": 4068929619,
+			"md5": "6f06e8876a2c8412f129a084bbd24dd3",
+			"sha1": "fae8a9916ad39ffeaa996243af0cf8674b83baa3",
+			"sha256": "05388bb6f64f3a2276b53dcae5f55ec69b660333e198ebbf1d0725e4c1cb56ea"
+		}
+	]
+}

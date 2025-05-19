@@ -1,0 +1,16 @@
+{
+	"uid": "bennyh.wad",
+	"name": "Benny Hill",
+	"description": "A tribute to Benny Hill, and the silly way Doom monsters run.",
+	"date": "2014-12-21 16:44:40",
+	"files": [
+		{
+			"filename": "bennyh.wad",
+			"size": 131399,
+			"crc": 2123388592,
+			"md5": "9849d7bf1dea3963308968d9bae1124e",
+			"sha1": "c0a401ff3ff1fc6ed9bda7f9967f1f24b54a44de",
+			"sha256": "898202a33f4c5f3a66bd57af166d6e074c532823c65e84155ed0128271eacd27"
+		}
+	]
+}

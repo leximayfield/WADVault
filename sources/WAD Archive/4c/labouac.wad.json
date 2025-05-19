@@ -1,0 +1,16 @@
+{
+	"uid": "labouac.wad",
+	"name": "LaboUAC",
+	"description": "one level for zdoom gzdoom many 3d floors",
+	"date": "2015-01-05 16:34:38",
+	"files": [
+		{
+			"filename": "labouac.wad",
+			"size": 14224480,
+			"crc": 2243762235,
+			"md5": "16a07353f21143cb9d56ce49d0885cc1",
+			"sha1": "4c50078ff4a48e9efef0b3eaae79c180fd0b9ffd",
+			"sha256": "ca26d994af64d260a151635600f7ffeff8992218c69d99de25f5973098dd4307"
+		}
+	]
+}

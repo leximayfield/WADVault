@@ -1,0 +1,16 @@
+{
+	"uid": "dallion.wad",
+	"name": "Dallion One",
+	"description": "This is a partially-complete version of Valanas. The possibility of ever finishing it just seems so remote that I figured I should just release what is finished. Anyway, please, play this on easy, at first, as it can be very difficult otherwise. If there's anything seriously broken about it say so in the review section. Thanks.",
+	"date": "2014-12-18 22:26:20",
+	"files": [
+		{
+			"filename": "dallion.wad",
+			"size": 843254,
+			"crc": 346563468,
+			"md5": "a09e3ac77a3bdd937156a9cfa22ae87e",
+			"sha1": "c7d3ba063abce6f6e7ce6aa8fd35ef52952350e6",
+			"sha256": "4c5bda492c55fb41320c283b9999c126538e30e4d04fbe74ab5bd959b14128ff"
+		}
+	]
+}

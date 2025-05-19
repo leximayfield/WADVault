@@ -1,0 +1,16 @@
+{
+	"uid": "bgcastle.wad",
+	"name": "BIG CASTLE for DOOM II",
+	"description": "A castle wad that actually looks like a castle, complete with moat, battlements, and (of course) many, many secret passages. No new graphics, but creative use of the defaults. Quite challenging at ultra-violent. No cheating required.",
+	"date": "2014-12-15 22:40:11",
+	"files": [
+		{
+			"filename": "bgcastle.wad",
+			"size": 398125,
+			"crc": 2580312221,
+			"md5": "8fc920a372f15a2c9bfbf51a6c01ee59",
+			"sha1": "66876a4b7bc14258fa5f077fd8a6d47d6a9cb1e8",
+			"sha256": "f3933987cc898f1f241911187b54fdabba0119061bb154d5337b2070462da0c0"
+		}
+	]
+}

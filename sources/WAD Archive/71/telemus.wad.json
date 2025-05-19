@@ -1,0 +1,16 @@
+{
+	"uid": "telemus.wad",
+	"name": "Telekom sound resource",
+	"description": "Music & sound wad for doom2",
+	"date": "2015-01-13 10:30:52",
+	"files": [
+		{
+			"filename": "telemus.wad",
+			"size": 1475416,
+			"crc": 3815667750,
+			"md5": "a1b29e92bddedc8e2e54ba3590143099",
+			"sha1": "7154e23c06aab618ff7183da385a5c50ca7d5de6",
+			"sha256": "4466449ddfff78c1218f84917bf9e34a6eeb7040e62e24bb6ba318bd38b98ccd"
+		}
+	]
+}

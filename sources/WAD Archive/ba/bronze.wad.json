@@ -1,0 +1,16 @@
+{
+	"uid": "bronze.wad",
+	"name": "Bronze",
+	"description": "Cool level with weapons 1 - 5 chainsaw - rocket launcher",
+	"date": "2014-12-15 22:43:56",
+	"files": [
+		{
+			"filename": "bronze.wad",
+			"size": 121756,
+			"crc": 2205278146,
+			"md5": "c83f1e04912a1c821a88f0cf776b280f",
+			"sha1": "ba4d6ed41ba01dd02b87e224514f0842f51a7566",
+			"sha256": "287501ca44c4e26db06596c3b9174fda52d22a4b8046fcff44eb16b49657458d"
+		}
+	]
+}

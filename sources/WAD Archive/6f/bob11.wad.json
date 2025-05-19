@@ -1,0 +1,16 @@
+{
+	"uid": "bob11.wad",
+	"name": "BOB11.WAD for Doom II",
+	"description": "Deathmatch only WAD. Small. No exit. Plays good. Fast paced. High frag Inspired by DoomI e1m1 but FAR from the original.",
+	"date": "2014-01-07 21:47:47",
+	"files": [
+		{
+			"filename": "bob11.wad",
+			"size": 47910,
+			"crc": 2031110265,
+			"md5": "00a00cd925b9a5bd7f85fd7d4e17bdba",
+			"sha1": "6f310f59c99e5552ac6993148224b648116caa4d",
+			"sha256": "5e2ad7b915a93b8773c845efbd5e3fdc79d8e270de377f2536962bb25bc4e151"
+		}
+	]
+}

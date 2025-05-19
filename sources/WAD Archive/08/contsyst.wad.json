@@ -1,0 +1,16 @@
+{
+	"uid": "contsyst.wad",
+	"name": "Controlled System",
+	"description": "A techbase inspired mainly by E1M7 and Nicolas Monti's wads I guess. This is mostly me playing around with a couple of ideas I had for a while, such as using radiation suits instead of keys.",
+	"date": "2018-04-15 23:01:25",
+	"files": [
+		{
+			"filename": "contsyst.wad",
+			"size": 182542,
+			"crc": 3224198803,
+			"md5": "625dd71da06859f54205ff4b3126491f",
+			"sha1": "08ee2107155c754903f1e464c683aeb24e99fe38",
+			"sha256": "b38c95ec967bacb7263cf1dfc02107cff9b2402879f08eb6a238c954f170ad60"
+		}
+	]
+}

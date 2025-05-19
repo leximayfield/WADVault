@@ -1,0 +1,16 @@
+{
+	"uid": "rod.wad",
+	"name": "Realm Of Demonology (Updated version)",
+	"description": "A collection of story-driven relatively short maps based on some rather old ideas of mine which I've finally managed to realise in more or less adequate way. These maps are a bit harsh, but hopefully still provide some not-so-common visuals and deep atmosphere, as well as fast-paced and at times rather furious - but in general moderately difficult - gameplay. Technically there are 7 maps with 6 playable and 1 tiny outro map to prevent player from moving further into Doom 2 maps. IMPORTANT - cc4-tex.wad is required to play. There's also some .OGG music tracks so port with .OGG support is recommended - though not necessary - to play this .wad the way it's intended to be played. Changes in updated version: - tweaked Map03 since gameplay was too unpolished in original version; - fixed linedef 4812 in Map06 which seemed to have missing 'impassible' flag.",
+	"date": "2014-12-29 08:44:18",
+	"files": [
+		{
+			"filename": "rod.wad",
+			"size": 8989776,
+			"crc": 284082353,
+			"md5": "11f737bb449633f50416ce0069cafa5d",
+			"sha1": "514fd20ab8e1ad5da790f86a18a4a362620b1706",
+			"sha256": "53e54a5b080a360b144bc92c341ddeff05f2b9ef44752a0d37523a6951a2674c"
+		}
+	]
+}

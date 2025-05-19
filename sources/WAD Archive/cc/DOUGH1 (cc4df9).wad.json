@@ -1,0 +1,17 @@
+{
+	"uid": "DOUGH1 (cc4df9).wad",
+	"name": "DOUGH1.WAD",
+	"description": "First attempt",
+	"version": "cc4df9",
+	"date": "2013-11-02 15:14:44",
+	"files": [
+		{
+			"filename": "DOUGH1.wad",
+			"size": 24204,
+			"crc": 184127195,
+			"md5": "a5bbf6fb69fc1d02195f720b15b0ac10",
+			"sha1": "cc4df966fdae04ec474a6a7ee0cb054f2dcfba89",
+			"sha256": "816f8dbd413510021496321dabbd36bad4a8c89660fb6f6cbf7943fa20bfba39"
+		}
+	]
+}

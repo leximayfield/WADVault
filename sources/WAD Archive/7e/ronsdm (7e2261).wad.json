@@ -1,0 +1,17 @@
+{
+	"uid": "ronsdm (7e2261).wad",
+	"name": "Ron's  Deathmatch",
+	"description": "Made for DoomII. Levels 1-5 deathmatch levels with some monsters No Bfg or Plasma. Level 5 is a copy of Wolf3d Level 1 Episode 1 dunno if it has been done before. designed for 2 player modem deathmatching with -nomonsters",
+	"version": "7e2261",
+	"date": "2013-11-02 16:01:35",
+	"files": [
+		{
+			"filename": "ronsdm.wad",
+			"size": 500037,
+			"crc": 3239198262,
+			"md5": "c90010e435cdc5e8f18029285a98ac2f",
+			"sha1": "7e2261453b69ad2bf46ae3551223f8b97cfc13b5",
+			"sha256": "03678a1087453e3fded6c954caca5e87dffa9c21dd1d7ab2d256e75125cd4001"
+		}
+	]
+}

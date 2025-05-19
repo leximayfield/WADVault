@@ -1,0 +1,16 @@
+{
+	"uid": "evermore.wad",
+	"name": "Evermore",
+	"description": "This is a fun level for doom2. You must go through the hallways killing the bad monsters and pressing the switches. When you reach the exit, a huge surprise waits you.",
+	"date": "2014-12-18 23:20:57",
+	"files": [
+		{
+			"filename": "evermore.wad",
+			"size": 74728,
+			"crc": 944803652,
+			"md5": "2fed10f35583c04707a1490cdea1afbe",
+			"sha1": "e2771c433b0eb6e574acafac00107147a9f639c2",
+			"sha256": "5bc7b17b90117a09e775c648a2d5e413bbc18802bc6c95eaa904caf432c334ad"
+		}
+	]
+}

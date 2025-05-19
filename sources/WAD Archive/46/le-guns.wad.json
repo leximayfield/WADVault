@@ -1,0 +1,16 @@
+{
+	"uid": "le-guns.wad",
+	"name": "DuduCrazy's Guns (and Music)",
+	"description": "Are you tired of the original Doom weapons? Are you tired of listen to the same music? Well, this mod is for you! it replaces the original doom weapons, plus, three additional weapons, from Heretic. And that's not all. replaces the music, too. from level 1 to level 23.",
+	"date": "2014-12-11 22:14:48",
+	"files": [
+		{
+			"filename": "le-guns.wad",
+			"size": 1918940,
+			"crc": 2098342079,
+			"md5": "62a50cf9d0887f7c087508fd0b2e6155",
+			"sha1": "463a2033d95d2db154b7f0e16ec712afc5f9bc76",
+			"sha256": "af364d924cd529831e60250de902ece77048e6f66b59cccac77015d0b1a30bbd"
+		}
+	]
+}

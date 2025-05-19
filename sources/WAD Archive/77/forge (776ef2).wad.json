@@ -1,0 +1,17 @@
+{
+	"uid": "forge (776ef2).wad",
+	"name": "FORGE.WAD",
+	"description": "",
+	"version": "776ef2",
+	"date": "2014-01-07 22:06:13",
+	"files": [
+		{
+			"filename": "forge.wad",
+			"size": 502754,
+			"crc": 3417136239,
+			"md5": "6ea78fc9721fdd575b1cb7c6d252df90",
+			"sha1": "776ef2b932aa67e5fc5fd2dd38daf1d94778be15",
+			"sha256": "a90597583dc307c285da5f44a34eb42ae5d361ae8a04e5e87e2a1b2f8b553f7b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "interceptsoverflow (fd0397).wad",
+	"name": "intercepts overflow",
+	"description": "This shows what an intercepts overflow in prboom-plus is like. Play with -complevel 2 and turn on intercepts overflow emulation in the options menu. It's possible to kill all monsters.",
+	"version": "fd0397",
+	"date": "2014-12-24 17:40:44",
+	"files": [
+		{
+			"filename": "interceptsoverflow.wad",
+			"size": 69845,
+			"crc": 2690141453,
+			"md5": "b5741602739ae540031789f132be1380",
+			"sha1": "fd0397f13c70021f11830d49f33860588ea3441f",
+			"sha256": "263a6f3ba6e1b33dfec3c7b0833940aec2d61d75235b5c88266b6212ba053c66"
+		}
+	]
+}

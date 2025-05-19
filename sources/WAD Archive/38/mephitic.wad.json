@@ -1,0 +1,16 @@
+{
+	"uid": "mephitic.wad",
+	"name": "Mephitic Purity",
+	"description": "Moar brown than Quake with a hint of sewage. Initially began as a map for Community Chest 3, which was originally proposed as a ZDoom-based project, but then it was decided that it would revert to Boom-Compatible, so the map couldn't be included (and, chances are, would never have been finished in time anyway).",
+	"date": "2016-10-17 17:34:31",
+	"files": [
+		{
+			"filename": "mephitic.wad",
+			"size": 2624303,
+			"crc": 2370137922,
+			"md5": "90cee61943b0fb12f806c0952733f305",
+			"sha1": "38210378e4ce4cfd8dd498dc09f443256c7b0987",
+			"sha256": "b129fdc92fb20b08f28df09870cb7b0cc1957fd83f3de8c6e54248e9296fc106"
+		}
+	]
+}

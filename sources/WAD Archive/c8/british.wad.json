@@ -1,0 +1,16 @@
+{
+	"uid": "british.wad",
+	"name": "British Doom Localisation Patch",
+	"description": "This is a localisation patch which changes Doom to use British spellings. It replaces the status bar graphic and changes some of the internal messages using dehacked.",
+	"date": "2013-04-22 00:50:17",
+	"files": [
+		{
+			"filename": "british.wad",
+			"size": 22224,
+			"crc": 2015703968,
+			"md5": "5983048abfdf04f9408ea4993691df71",
+			"sha1": "c86b9263c182eba603fd7e28bf1bb91fc1b18118",
+			"sha256": "d8d5e46417ddc6939f41eef9010272f5125453ddc50ab2c12be6558bba7b7d3c"
+		}
+	]
+}

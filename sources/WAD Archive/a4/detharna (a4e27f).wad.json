@@ -1,0 +1,17 @@
+{
+	"uid": "detharna (a4e27f).wad",
+	"name": "DETHARNA.WAD",
+	"description": "A level built for Deathmatch games. A large central arena with a couple paths to it. I tried to build it so that you run into each other a lot or you can tell where the other guy is. Also with some escapes for when the you've got someone on your tail.",
+	"version": "a4e27f",
+	"date": "2013-11-04 20:14:48",
+	"files": [
+		{
+			"filename": "detharna.wad",
+			"size": 105785,
+			"crc": 3098758534,
+			"md5": "ff93c25c8c53f1ca6d0a1dc5acdf1646",
+			"sha1": "a4e27f09c68f8b3a69e25a5e728bbf924d6c8683",
+			"sha256": "8f5ba746d8cf140def9483e64728b3c7bd24e753b42dedcceda08581acfcc514"
+		}
+	]
+}

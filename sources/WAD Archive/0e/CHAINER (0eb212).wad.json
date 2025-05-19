@@ -1,0 +1,17 @@
+{
+	"uid": "CHAINER (0eb212).wad",
+	"name": "Chainer",
+	"description": "This level is designed for Deathmatch and single player playing. Have played with a two player network in Deathmatch and got like 15 frags in about 1 hour, so it isn't all kill. WARNING: Lots I meen lots of chainguns!",
+	"version": "0eb212",
+	"date": "2014-11-01 14:50:13",
+	"files": [
+		{
+			"filename": "CHAINER.wad",
+			"size": 64946,
+			"crc": 3737488575,
+			"md5": "ff3d16920c03500e7733e0588a04d674",
+			"sha1": "0eb212dd1379e0d49e6b1c3e6eb1de75b5d18483",
+			"sha256": "b08e25329bdfaea17cea3fcd0a95244d12431068dfad9bb8381cd33c9eb87c21"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ht_frag1 (ba31d5).wad",
+	"name": "HERETIC_FRAG",
+	"description": "Update to HT_FRAG.WAD adds more weapons :fixes the chicken in a hole bug.",
+	"version": "ba31d5",
+	"date": "2013-11-02 16:37:53",
+	"files": [
+		{
+			"filename": "ht_frag1.wad",
+			"size": 39360,
+			"crc": 2676592846,
+			"md5": "61ad37f6a8f8f7eae84e74d57958dc67",
+			"sha1": "ba31d527b160f1e9d10eb81e97ba1acd59ef857c",
+			"sha256": "1c7862d4a3dc700efd0ef2c1133ce39620137904f5538d46516d7b128693f32d"
+		}
+	]
+}

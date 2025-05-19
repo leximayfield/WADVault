@@ -1,0 +1,17 @@
+{
+	"uid": "thecrypt (dabe37).wad",
+	"name": "TheCrypt",
+	"description": "One of the harder wads i've made. I always try and focus on level design and lighting and thecrypt.wad is no exception. I must have played this level hundreds of times and I still have fun!.",
+	"version": "dabe37",
+	"date": "2015-01-14 22:48:06",
+	"files": [
+		{
+			"filename": "thecrypt.wad",
+			"size": 157343,
+			"crc": 2269966868,
+			"md5": "71704b15d61537afcd7d26a5a8f34894",
+			"sha1": "dabe37b66455a6e230bd2e2c148cc5b9c5c15e7a",
+			"sha256": "6e313720478f5c3208786ef7384e45f1345f4b8b79db7d157f709cbb9ed8a28b"
+		}
+	]
+}

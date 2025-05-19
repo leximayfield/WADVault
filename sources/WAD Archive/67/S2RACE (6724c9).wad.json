@@ -1,0 +1,17 @@
+{
+	"uid": "S2RACE (6724c9).wad",
+	"name": "RACE11.WAD",
+	"description": "Great Deathmatch Game. Each player starts off in an identical wing of the main maze. The race is to be the first one to find the way out and to get the good stuff (rockets, weapons). Each corner warp will warp back to a different wing. The center warp will warp to the other section. Go up the stairs here and have a perfect shot at your opponents. Good luck finding the exit.",
+	"version": "6724c9",
+	"date": "2013-11-02 15:17:00",
+	"files": [
+		{
+			"filename": "S2RACE.wad",
+			"size": 61897,
+			"crc": 46801835,
+			"md5": "06bef887b1a52f00d21378cfe3cd1bb6",
+			"sha1": "6724c94cc08cd650da460ce916f2f4fabff2b7b1",
+			"sha256": "ec20c9e3560c8b1ecdf13df5473502d473b308ca5516c0fb2e1c4ae315ea027a"
+		}
+	]
+}

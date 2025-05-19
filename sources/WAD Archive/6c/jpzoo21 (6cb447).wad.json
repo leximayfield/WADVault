@@ -1,0 +1,17 @@
+{
+	"uid": "jpzoo21 (6cb447).wad",
+	"name": "JPZOO21.WAD 1.0",
+	"description": "Welcome to the Zoo. In the \"Too Young\" skill, I finished the level in 25 minutes (no die, one save). The most difficult thing is to found my face in a texture and the word written on it (Windows Wingdings font coded). Every next level will contains a new word. Putting all the words together makes a sentence about hope ;-) You can exit this level without founding the face (!) Warning: A second face (beta tester) is present, but no word on it. E-mail me the word you founded and how (not with an editor!). I'll E-mail to the first five players the next level (today under construction). E-mail bugs and suggestions. I hope you'll enjoy...",
+	"version": "6cb447",
+	"date": "2013-11-04 19:23:56",
+	"files": [
+		{
+			"filename": "jpzoo21.wad",
+			"size": 230374,
+			"crc": 46521046,
+			"md5": "e6f0460543e6c7420962072ec0c381ef",
+			"sha1": "6cb447eb26db8ed7b2c26c0328fc67199a87d394",
+			"sha256": "cecedf6b3b6d23cbe402d743cb540c74c24146f5e4a8dd2cd53d05dbb3a985fa"
+		}
+	]
+}

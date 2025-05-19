@@ -1,0 +1,16 @@
+{
+	"uid": "2sector.wad",
+	"name": "2sector",
+	"description": "Sometimes the best things are simple. Sometimes they are complicated. Whatever they are, it is sometimes important to return to basics. Thus, this. A 37-map megawad, where no map uses more than two sectors. This is inspired partially by the remarkable lack of intelligence given to us by those this WAD is dedicated to, namely cSc and SWAT_Commander, and catalysed by the somewhat older and less deathmatch-y 10sector contest.",
+	"date": "2013-04-19 02:49:13",
+	"files": [
+		{
+			"filename": "2sector.wad",
+			"size": 7177824,
+			"crc": 2736454167,
+			"md5": "4154f90a9a90af6bb99e1b2028b9ddd2",
+			"sha1": "7cd2a3583bab3914c479329ac7b26172a8eeede3",
+			"sha256": "5ff00f18f7ee0be5696293e6d0d348793ecdfb1897a0d3a33c9ab6b3174d54ee"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "biolage.wad",
+	"name": "Biolage",
+	"description": "I found some neat textures at www.freetextures.com so I thought I would build a texture wad and make a ZDoom level. A lot of environment effects are in this one, including ambient sounds, level interaction and of course the surreal textures.",
+	"date": "2014-12-15 22:27:46",
+	"files": [
+		{
+			"filename": "biolage.wad",
+			"size": 2102116,
+			"crc": 2702834640,
+			"md5": "79af23e19aa4ad20e7a26973e88f8c02",
+			"sha1": "2e5f82e42da42e6668643bf9d883ffe7e637909e",
+			"sha256": "1ee6593e587e98b2ab3c5582092537311a0a7e2a4c306985c630a9e129982da7"
+		}
+	]
+}

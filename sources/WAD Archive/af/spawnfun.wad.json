@@ -1,0 +1,16 @@
+{
+	"uid": "spawnfun.wad",
+	"name": "Spawning Fun",
+	"description": "A set of small but hard maps highly inspired by NUTS. Enemies are spawned. Maps 1-8 end automatically. YOU NEED A VERY POWERFUL COMPUTER TO RUN THIS. BUY A NEW ONE IF IT IS OLD AND SLOW! Don't say I didn't warn you ;-)",
+	"date": "2014-12-29 17:06:08",
+	"files": [
+		{
+			"filename": "spawnfun.wad",
+			"size": 990768,
+			"crc": 1380470580,
+			"md5": "3829f31da753c82167bb6282fec92ba4",
+			"sha1": "af70e9083b1f7b986b7463f3e839566ea3002130",
+			"sha256": "6bfae19d2923e3f7179e0bfb3f438fb0cb90c121cd82ffbe0de760695b7c4eee"
+		}
+	]
+}

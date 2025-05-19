@@ -1,0 +1,16 @@
+{
+	"uid": "briks_dm.wad",
+	"name": "bricks deathmatch",
+	"description": "a deathmatch wad. It has all of the weapons except the BFG, and as you can probably guess, most of the textures are bricks.It also has NO health, to make it as fast as possible.",
+	"date": "2014-12-15 22:41:47",
+	"files": [
+		{
+			"filename": "briks_dm.wad",
+			"size": 36434,
+			"crc": 735513564,
+			"md5": "d510b1a4eb6397f593e3c55541ec0bfd",
+			"sha1": "5f3041225ba18039891b83f6e5baaba57ca50588",
+			"sha256": "cab050626d654fae323b54089ab1e69d5dc257073db7a556b89a55bf5c4bdfb3"
+		}
+	]
+}

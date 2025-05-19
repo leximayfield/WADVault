@@ -1,0 +1,17 @@
+{
+	"uid": "courtyrd (40f71c).wad",
+	"name": "COURTYRD.WAD",
+	"description": "This Wad is for DOOM II only. This level supports 4 player deathmatch and single player and multiplayer modes. Includes monsters for added challenge. We have tested it with 2 and 3 players and consider it to be excellent. I have made it through in single player but have not been able to get all the monsters and make it through; can you? This is the 7th revision of this wad.",
+	"version": "40f71c",
+	"date": "2013-11-06 22:34:58",
+	"files": [
+		{
+			"filename": "courtyrd.wad",
+			"size": 108966,
+			"crc": 2320046082,
+			"md5": "53c2d70124e414d213affaa9a46a31a5",
+			"sha1": "40f71cfac2a91aba351d79e331cebefce402f7fa",
+			"sha256": "0e7d42672910f4d16cdef4d6472b522a35f435dbbc46d255ef05e6dbb99ca167"
+		}
+	]
+}

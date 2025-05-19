@@ -1,0 +1,16 @@
+{
+	"uid": "xump.wad",
+	"name": "Hexen Upstart Mapping Project (XUMP)",
+	"description": "This project should be run with GZDoom or Zdoom. Requires the HEXEN.wad. Supported for Co-op: up to 4 players. Designed for jump, freelook and some maps require crouch. GZDoom is recommended as some maps look strange in zdoom and map18 sometimes crashes in zdoom. Project Lead: HexenMapper Idea Base: DUMP projects run by TerminusEst13 Special Thanks: Zedonk, PerfectionismTech, Mikolah Playtesting: Ichor, Whirledtsar, HexenMapper, Zedonk Title Music: HexenMapper Titlepic: HexenMapper MAPS (12): MAP01 Title: Pit of Sorrows Author: Skeletonpatch (scripts/finishing: HexenMapper) MAP02 Title: Garden of Torture (Hub) Author: HexenMapper MAP03 Title: The Cursed Village Author: Manhs MAP04 Title: Castle Klattakus Author: Dynamite Kaitorn MAP05 Title: Frozen Sands Author: VIE-rus MAP06 Title: Athenaeum Author: Watler Confetti MAP07 Title: Sanctuary of the Damned Author: Manhs MAP08 Title: Grisly Gorge Author: Whirledtsar MAP09 Title: Abandoned Observatory Author: Mikolah MAP10 Title: The Stagnum Ignis Author: Zedonk MAP11 Title: Shattered Valley Author: Shades MAP18 Title: Arena Author: HexenMapper (Lich trail ACS: Mikolah) Hub Progression Scripts: If you need to open up the new areas of the hub, type the following commands into the console: puke 50 puke 51 puke 52 puke 53 puke 54 These 5 scripts will progressively open up the hub.",
+	"date": "2019-03-06 21:36:16",
+	"files": [
+		{
+			"filename": "xump.wad",
+			"size": 16041944,
+			"crc": 1461917539,
+			"md5": "d9d6603346459811dd2f820db645e200",
+			"sha1": "c249753368fc5bd6eaea814a09b6d0bf883b907c",
+			"sha256": "67df2774bf6780d09aebbccc5928bb113619bdac1b8acd226e473fc24bdf907d"
+		}
+	]
+}

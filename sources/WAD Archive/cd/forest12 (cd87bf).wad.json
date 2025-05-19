@@ -1,0 +1,17 @@
+{
+	"uid": "forest12 (cd87bf).wad",
+	"name": "FOREST.WAD ver 1.2",
+	"description": "Forest is a three mission WAD with new graphics. Look at the sky and watch for some text on some walls. It also includes my own demos of each level right in DOOM! In 1.1, I also changed the credit screen. In 1.2, I changed the IWAD to PWAD because of WadMaster (thanks Raphael).",
+	"version": "cd87bf",
+	"date": "2013-11-02 15:07:29",
+	"files": [
+		{
+			"filename": "forest12.wad",
+			"size": 532476,
+			"crc": 2821918793,
+			"md5": "0033513bcf5fa9c729cf1c1dfdaa1553",
+			"sha1": "cd87bffe6f4d41f7d6f7ca5cacb48708cfb8f266",
+			"sha256": "103ccd1c98e074da951059f00f89f705e7aeb4d06ccd9780956f4a8cf76b94bb"
+		}
+	]
+}

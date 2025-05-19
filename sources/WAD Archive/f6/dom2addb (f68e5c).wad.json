@@ -1,0 +1,17 @@
+{
+	"uid": "dom2addb (f68e5c).wad",
+	"name": "Army of Darkness",
+	"description": "A challenging WAD.",
+	"version": "f68e5c",
+	"date": "2013-11-02 15:16:59",
+	"files": [
+		{
+			"filename": "dom2addb.wad",
+			"size": 84886,
+			"crc": 2238262338,
+			"md5": "5cf36c0d58ba7e0eda8aa962669e1de0",
+			"sha1": "f68e5c87bb53c4251ad247dc4e34061991bd4f08",
+			"sha256": "ecb3e7bfd3243dee890224e04bd786f3716f9a3bcb5e96951a656fcfeaefdbec"
+		}
+	]
+}

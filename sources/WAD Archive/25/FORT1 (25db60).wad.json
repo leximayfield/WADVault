@@ -1,0 +1,17 @@
+{
+	"uid": "FORT1 (25db60).wad",
+	"name": "Fort-1",
+	"description": "Take cover in dark bunkers while creatures outside try to overrun you. After that, try to overrun their bunkers.",
+	"version": "25db60",
+	"date": "2013-11-02 15:24:05",
+	"files": [
+		{
+			"filename": "FORT1.wad",
+			"size": 37441,
+			"crc": 1939375952,
+			"md5": "232a0f5d8da6971cb5cb87a14154145d",
+			"sha1": "25db60f4525a3146dc5dbc4908c39158906d9d21",
+			"sha256": "91861f1c49a6ff7bf630c0140aa941bce7d615c72f45109433e96a089eaa3421"
+		}
+	]
+}

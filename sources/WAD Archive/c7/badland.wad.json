@@ -1,0 +1,16 @@
+{
+	"uid": "badland.wad",
+	"name": "BADLAND",
+	"description": "A detailed single player only level for Hexen. Some devious puzzles as well as loads of action. A huge outdoor desert area, with a fort, a castle, a well, a tower and lots of dungeons and cultist places. It would have been a staggering cripple on the 486 DX2 66 I had when Hexen came out. On a Pentium, it's smooth, though.",
+	"date": "2014-12-31 12:08:35",
+	"files": [
+		{
+			"filename": "badland.wad",
+			"size": 235501,
+			"crc": 3233023908,
+			"md5": "1f51523943842319ca58bc04c9371ea8",
+			"sha1": "c72203024ee6787c160ea4790e7de7dd4e5f916a",
+			"sha256": "f87b3d3886fbc5eda6c7a928ef06ac54bfac4fb5b95a022900d56cedde53c105"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "undertow.wad",
+	"name": "UNDERTOW for DOOM II v1.9  (Advanced port NOT required)",
+	"description": "2 bite-sized single player levels done in the underhalls style with a few twists. Focus is on single play and cooperative. Let me know what you think.",
+	"date": "2015-01-14 23:10:49",
+	"files": [
+		{
+			"filename": "undertow.wad",
+			"size": 366503,
+			"crc": 408936407,
+			"md5": "56b3778c0abcc4ad44754eb926cea274",
+			"sha1": "f15779f4e57480236c59dda3708e273f4523aa9f",
+			"sha256": "6dab75f9dc31b1616e7ed9c731d96e279628a44e32781a915051c96907fa7851"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "strength (b2dc25).wad",
+	"name": "STRENGTH.WAD",
+	"description": "Welcome to Training Level 1. You have just arrived at the new training base and have been assigned a light test to see how you fare in battle. If you pass you will continue being tested until you are ready for full combat. This test will NOT be easy, but with a little strength, you should survive.",
+	"version": "b2dc25",
+	"date": "2014-01-11 11:25:40",
+	"files": [
+		{
+			"filename": "strength.wad",
+			"size": 46685,
+			"crc": 1765149707,
+			"md5": "1e9e48ec071513c7c859806bc20ff447",
+			"sha1": "b2dc25eb41d132bb78164a1a0c58fd1a61e69737",
+			"sha256": "9e7b30daa8596442ed8d37be287fb277af2a8820dbe8f6f5933b6e0b121cad47"
+		}
+	]
+}

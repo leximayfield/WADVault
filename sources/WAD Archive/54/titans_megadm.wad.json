@@ -1,0 +1,16 @@
+{
+	"uid": "titans_megadm.wad",
+	"name": "Titans_megadm  (DOOM ][ Deathmatch)",
+	"description": "This megapack includes 15 maps for deathmatch only.",
+	"date": "2013-04-22 00:12:55",
+	"files": [
+		{
+			"filename": "titans_megadm.wad",
+			"size": 817035,
+			"crc": 2525318028,
+			"md5": "d6b4d70743c6ffdc5f00a1c27691cfd7",
+			"sha1": "54d2632b94cb89d7a5a022bc23ab89df675d908f",
+			"sha256": "d9ffe134e600ed8533e9758b01054356fa84e0cd60af1f6e403b0e5eb6f454ff"
+		}
+	]
+}

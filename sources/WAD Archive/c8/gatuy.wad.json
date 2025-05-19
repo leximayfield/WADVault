@@ -1,0 +1,16 @@
+{
+	"uid": "gatuy.wad",
+	"name": "GATUY",
+	"description": "A detailed single player only-level in an urban setting for DOOM 2. Some devious puzzles as well as loads of action. If you appreciate elaborate level design, then this is for you. (Should also appeal to Duke Nukem-fans, since it includes some toilets.)",
+	"date": "2014-12-18 22:41:29",
+	"files": [
+		{
+			"filename": "gatuy.wad",
+			"size": 196424,
+			"crc": 509590150,
+			"md5": "147bc050bf92009ad42c57c45ccb4060",
+			"sha1": "c89fea015470f61fffc15217bf2e9172ff7c9394",
+			"sha256": "766f424c6bad733dcac39b459064d15957fb60cdbdadb7589a3cf59a5fe4e232"
+		}
+	]
+}

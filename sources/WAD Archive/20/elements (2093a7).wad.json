@@ -1,0 +1,17 @@
+{
+	"uid": "elements (2093a7).wad",
+	"name": "Elements",
+	"description": "This is a WAD for Doom II that can be used for either single-player, cooperative, or deathmatch play. There are three \"worlds,\" if you will, (earth, fire, and water) that you must fight through to get to the exit. It's pretty straight- forward.",
+	"version": "2093a7",
+	"date": "2013-11-02 16:58:59",
+	"files": [
+		{
+			"filename": "elements.wad",
+			"size": 30457,
+			"crc": 4054225284,
+			"md5": "e77ef7fb493fa46b14cacfd40085e289",
+			"sha1": "2093a772bb48dd003d985bb46439dc21920be9ab",
+			"sha256": "0616066335485dbf881c4c92966140b6cc3d9dc4c47d003a23b171623efc1d22"
+		}
+	]
+}

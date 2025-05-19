@@ -1,0 +1,17 @@
+{
+	"uid": "coreless (95fd9c).wad",
+	"name": "CoreLess",
+	"description": "-DeathMatch: This level consists of three main areas",
+	"version": "95fd9c",
+	"date": "2014-12-15 21:46:48",
+	"files": [
+		{
+			"filename": "coreless.wad",
+			"size": 152023,
+			"crc": 3147580380,
+			"md5": "6bb76fbed5ee943f7c41c69a77eba575",
+			"sha1": "95fd9cae8f612c6e8b5e7657abcfd72046b749d8",
+			"sha256": "b5e8a201bda4d1c3148505e1f7da17d0cb37a977f8bf532c82ace3de9e24022e"
+		}
+	]
+}

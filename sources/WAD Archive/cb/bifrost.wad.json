@@ -1,0 +1,16 @@
+{
+	"uid": "bifrost.wad",
+	"name": "Bifrost",
+	"description": "Single map based on the idea of rainbow bridges.",
+	"date": "2019-03-06 21:48:28",
+	"files": [
+		{
+			"filename": "bifrost.wad",
+			"size": 5792108,
+			"crc": 683209929,
+			"md5": "3fb8ef3e1b5dc7711067edf5b392e595",
+			"sha1": "cbd93b65cf9b913d91006fb0b23ea429b7bf50dc",
+			"sha256": "f8375cdd171d927324597276413cf27a12fba3b9bdd658e9db1cc76350a1abf6"
+		}
+	]
+}

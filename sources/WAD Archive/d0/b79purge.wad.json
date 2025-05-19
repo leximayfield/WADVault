@@ -1,0 +1,16 @@
+{
+	"uid": "b79purge.wad",
+	"name": "Mountain Of Purgatory",
+	"description": "This WAD is made of 2 levels, the first is simply a brief intro with very few things. The second level is a hub made of 4 maps where the main one is supposed to look like a mountain in the middle of a huge open area. Please note that this file requires ZDoom.",
+	"date": "2014-12-21 16:45:36",
+	"files": [
+		{
+			"filename": "b79purge.wad",
+			"size": 1026143,
+			"crc": 1244847815,
+			"md5": "a714c143d1080f5f44fc81df0c0e00d2",
+			"sha1": "d0add00acccc5e557068f56323945858d2286d0b",
+			"sha256": "e233130034eedbfb8470de22f87df18b6a28a424aaa59e0cb55523dd191c4182"
+		}
+	]
+}

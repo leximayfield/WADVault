@@ -1,0 +1,16 @@
+{
+	"uid": "part_exl.wad",
+	"name": "Prticle Accelirator Weapon Patch",
+	"description": "This changes the plasma gun into this cool new gun I call the Particle Accelirator. To use this, you need to use the included .deh patch. For best results, use this with ZDoom and railgun.bex.",
+	"date": "2014-12-11 22:19:17",
+	"files": [
+		{
+			"filename": "part_exl.wad",
+			"size": 37260,
+			"crc": 3430869641,
+			"md5": "8a2d36d59617325633e67660a7a192b4",
+			"sha1": "774b36bc6e271f7d7e3cd50c085da8564a051ba0",
+			"sha256": "219835cab684705b1c05fe59d4cb1c6a22c8fbd32ae00337bebba3a0130ee6c0"
+		}
+	]
+}

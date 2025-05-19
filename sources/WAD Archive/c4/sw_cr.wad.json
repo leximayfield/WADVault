@@ -1,0 +1,16 @@
+{
+	"uid": "sw_cr.wad",
+	"name": "Star Wars: Chibi Rebellion v5.0",
+	"description": "Star Wars: Chibi Rebellion is a semi random hub based mini-adventure. Each session is built using a pool of maps to give a different experience each time. Each hub culminates in a final map the contains your mission objective. Once completed, you can begin a new mission retaining any weapons & bonuses you gained on the previous plays.",
+	"date": "2014-12-29 15:16:33",
+	"files": [
+		{
+			"filename": "sw_cr.wad",
+			"size": 39184067,
+			"crc": 2734333392,
+			"md5": "dd989b79ff8aa54182a06e916114f0a4",
+			"sha1": "c45a4ceef0f698026349749d9dd11d451a3bb9d8",
+			"sha256": "1184b5d6a4a1e48adeb47e33edc26b8f83ce804cb4a2cb30d491695c27dfeb0b"
+		}
+	]
+}

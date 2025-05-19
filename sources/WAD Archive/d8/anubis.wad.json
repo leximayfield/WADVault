@@ -1,0 +1,16 @@
+{
+	"uid": "anubis.wad",
+	"name": "Anubis",
+	"description": "A new monster model for Doom and Doom II. This model replaces the Imp with the Anubis Warrior from The Mummy Returns. You can check it out easily on Doom's E1M1 or Doom II's MAP01.",
+	"date": "2015-09-14 22:20:25",
+	"files": [
+		{
+			"filename": "anubis.wad",
+			"size": 477928,
+			"crc": 3096707210,
+			"md5": "b16e205e40cc6e2be5da58467b105d4e",
+			"sha1": "d86a0832fe3b36b546284e47c0731abbbd79a602",
+			"sha256": "6186776b1737e6d8a49a703fe3bbc73796941b60c7eddb56e2e35881311e0495"
+		}
+	]
+}

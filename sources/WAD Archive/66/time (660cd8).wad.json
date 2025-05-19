@@ -1,0 +1,17 @@
+{
+	"uid": "time (660cd8).wad",
+	"name": "The Axis of Time",
+	"description": "Simple level made especially for DM 1.0 Consists of a series of planes circling around a central point. Perhaps the axis of time??? There's also a Cyberdemon in the axis who's there to keep you moving!",
+	"version": "660cd8",
+	"date": "2014-12-15 21:21:25",
+	"files": [
+		{
+			"filename": "time.wad",
+			"size": 539878,
+			"crc": 353566900,
+			"md5": "119f749424c02245b0f985bede0da070",
+			"sha1": "660cd8ccf3659c0df576352d8db9bf863a17666d",
+			"sha256": "1b67ac7b3f08404cb5f90a7c7861699586b9aa1f12af8438fc91b667e6875b7c"
+		}
+	]
+}

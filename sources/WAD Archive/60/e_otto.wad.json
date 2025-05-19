@@ -1,0 +1,16 @@
+{
+	"uid": "e_otto.wad",
+	"name": "Confruntation with Otto",
+	"description": "This is a remake to Wolfenstein 3-D's confruntation with Otto Giftmacher (first nocturnal mission.) It's just the boss level being remade. The chosen boss is the spiderdemon (again) not the cyberdemon, because I find the latter boring.",
+	"date": "2014-12-13 17:52:50",
+	"files": [
+		{
+			"filename": "e_otto.wad",
+			"size": 41726,
+			"crc": 2992934116,
+			"md5": "076fe08889f8263c60b2762505676924",
+			"sha1": "605e6e91500c7106c8c7d6561c5579d728506e7c",
+			"sha256": "7599d7663f8b742ef97a4caf41b386b5273d133fbe4bf5eac867fbc9bba4046a"
+		}
+	]
+}

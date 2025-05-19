@@ -1,0 +1,16 @@
+{
+	"uid": "compterm.wad",
+	"name": "computer terminal tutorial",
+	"description": "This is not presented as a playable level but for demonstrating doom editing techniques. Specifically, how to setup a computer terminal based on Doomguy0505's original tutorial on ZDoom wiki (http://zdoom.org/wiki/Computer_Terminal) and how it compares to the ZDoom dialogue system.",
+	"date": "2016-07-20 20:12:47",
+	"files": [
+		{
+			"filename": "compterm.wad",
+			"size": 25479,
+			"crc": 1489868021,
+			"md5": "19338ede658337a52de94cf3f4a02299",
+			"sha1": "75ae8c596030f5c8e5424371b982b98b04cc0961",
+			"sha256": "236a6749c1af2c35ac3beb2c7dcd2c546c697f0ff45b7866077a4cae80b7e81c"
+		}
+	]
+}

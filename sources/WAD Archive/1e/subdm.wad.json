@@ -1,0 +1,16 @@
+{
+	"uid": "subdm.wad",
+	"name": "Submarine Deathmatch",
+	"description": "Submarine Map I did with some cool traps in it.",
+	"date": "2013-04-18 23:07:39",
+	"files": [
+		{
+			"filename": "subdm.wad",
+			"size": 305694,
+			"crc": 49679958,
+			"md5": "6d2821159590e4317066f5c7d87fa939",
+			"sha1": "1eceea454a5a0de8440acf62e2d2dbca235daa44",
+			"sha256": "c646afe631ec941d2fb4f069081de933f72bf7c959d20de012ae847adc465238"
+		}
+	]
+}

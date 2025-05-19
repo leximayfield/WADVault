@@ -1,0 +1,17 @@
+{
+	"uid": "wow (671c51).wad",
+	"name": "Wow",
+	"description": "A cyberdemon has escaped from a lab, where they are trying to find his weakness. He was injured by a marine,which was made short work of, and he was trapped inside a illusio-pit. Your job is to find it, and kill it.",
+	"version": "671c51",
+	"date": "2013-11-23 14:53:43",
+	"files": [
+		{
+			"filename": "wow.wad",
+			"size": 2428,
+			"crc": 2179030374,
+			"md5": "669c2024bcd2871385a7483f3a6bff65",
+			"sha1": "671c515e40fb1e806c33e94d295071e442951fc2",
+			"sha256": "9ad4455849c1b62764598739153e882dbecd5fee4e7a89bcc86707953f5591b7"
+		}
+	]
+}

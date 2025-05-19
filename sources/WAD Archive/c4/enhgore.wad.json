@@ -1,0 +1,16 @@
+{
+	"uid": "enhgore.wad",
+	"name": "Enhanced Ultimate Gore V1.3",
+	"description": "This wad changes the death sequences of some the creatures in Doom2. The Imps head gets blown off The Demons arm flys off. And unlike the standard version has Flame thrower. DO NOT RUN FROM THE COMMAND LINE YOU NEED THE FILE DEUSF (should be included) AND RUN THE BATCH FILE ENHGORE.BAT",
+	"date": "2013-04-19 01:49:03",
+	"files": [
+		{
+			"filename": "enhgore.wad",
+			"size": 272704,
+			"crc": 3748453360,
+			"md5": "765b23a1d473f1552a684e2efb3d7bef",
+			"sha1": "c4be91d60c45996bd12544524cb6080d06fc6566",
+			"sha256": "ef9701b9d9d1efd18c6a181c688259f25f9fec909f9236bdb7394ca4309ce074"
+		}
+	]
+}

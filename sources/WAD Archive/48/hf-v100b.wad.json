@@ -1,0 +1,16 @@
+{
+	"uid": "hf-v100b.wad",
+	"name": "Hell-Forged",
+	"description": "Hell-Forged is a reboot of Demon Eclipse's Episode 2. It no longer directly relates to the story in Doom 1, as the original project did. Instead it takes place on a different medieval human world where Hell has begun its invasion. It is, however, a sequel to DE-EP2, chronologically.",
+	"date": "2019-11-13 01:44:12",
+	"files": [
+		{
+			"filename": "hf-v100b.wad",
+			"size": 97836661,
+			"crc": 2431216308,
+			"md5": "f88bcac82aabcfcd23204e1fe546785f",
+			"sha1": "48282df7cfd3abe42a819f523f15d5983ee76566",
+			"sha256": "a995f65776395f53325c60782b879ee5f15843dd72297f1cf9ada89a75c78fe4"
+		}
+	]
+}

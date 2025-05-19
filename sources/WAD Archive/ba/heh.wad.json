@@ -1,0 +1,16 @@
+{
+	"uid": "heh.wad",
+	"name": "Heh.wad",
+	"description": "This is (was) my first attempt at constructing a level for Doom. If I did good at anything, I think it was the texturing. You may notice when playing on skill 04 that each time you start the level over, the monsters will do things differently than they did before. This makes for interesting game play. There is no story or plot to this map. It's basically just a bang, bang, shoot em up type level. This wad is best played on skill 04. I hope you enjoy it, and feel free to e-mail me.",
+	"date": "2014-12-18 22:28:07",
+	"files": [
+		{
+			"filename": "heh.wad",
+			"size": 823314,
+			"crc": 192962593,
+			"md5": "82783a2e962b6188487c91ad8d64af3a",
+			"sha1": "ba179c0bb91f712cc4081c50a413a40ae7754fe9",
+			"sha256": "c29817d13d87d70db1bc30f2ebfbc56e8c31ae09e55c2b734e4c2c858507f831"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tmoc (15abcf).wad",
+	"name": "Temple of Chaos",
+	"description": "The UAC has once again taken it upon themselves to experiment with teleportation. Believing that they have succeeded this time, they sent in an entire team of researchers and marines. However, instead of arriving at the destination platform, they mysteriously vanished. It is up to you, UAC's strongest marine, to find out what happened. What unworldly horrors await you at your destination?",
+	"version": "15abcf",
+	"date": "2014-12-29 16:09:16",
+	"files": [
+		{
+			"filename": "tmoc.wad",
+			"size": 2142604,
+			"crc": 3209373565,
+			"md5": "93cdecf098a6958e55fe39bca094a03f",
+			"sha1": "15abcfd27ca5db08d1bdf2f715a1ddda1d4e45b2",
+			"sha256": "94889d00ab6b2452b63624c0d01d3aeede1ff94c9c1066e70902fa28481d01a6"
+		}
+	]
+}

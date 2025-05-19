@@ -1,0 +1,16 @@
+{
+	"uid": "freak4.wad",
+	"name": "Tuning Contest WAD",
+	"description": "This is a compilation of all the contest wads which were sent to the contest held in iddqd.ru and doomworld.com. Read the rules_e.html To play this PWAD file, unzip it into the directory with your PWADs then start: glboom-plus.exe -file freak4.wad -complevel 11 (or higher) or zdoom.exe -file freak4.wad",
+	"date": "2014-12-22 18:35:42",
+	"files": [
+		{
+			"filename": "freak4.wad",
+			"size": 11650912,
+			"crc": 3385258615,
+			"md5": "2ff48ff09879f668ab86fe937e4fe299",
+			"sha1": "b5b2c150c8a8d8432140c36f3023ffd7f610be81",
+			"sha256": "958232c1b93f4db90b2900b20e94dbc91273a94e11e39eb82484aa18271cfb52"
+		}
+	]
+}

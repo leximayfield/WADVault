@@ -1,0 +1,17 @@
+{
+	"uid": "fragbox (e943fd).wad",
+	"name": "Frag Box",
+	"description": "***NO ONE CAN SURVIVE*** The main layout is a big square room with brown pillars all over the place. All guns except BGF are spread out all over the place with plenty of ammo. Tons of Megaspheres and two lookout points to spot the enemy. Non stop fragging!",
+	"version": "e943fd",
+	"date": "2014-01-07 21:56:58",
+	"files": [
+		{
+			"filename": "fragbox.wad",
+			"size": 52263,
+			"crc": 1643554101,
+			"md5": "82000f09bd6a171285a92836f42e0016",
+			"sha1": "e943fdc9fde37930ca3cfd789cdf8c70f9f4df92",
+			"sha256": "1d1613f3b6725cad77a21287dceda53aacc119cab13bdeff9eb2fadcae939b6d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vinfdeth.wad",
+	"name": "In the Vicinity of Death",
+	"description": "This deathmatch map was made for my dntbleed.deh patch, but you can play it normally too.",
+	"date": "2013-04-22 00:33:50",
+	"files": [
+		{
+			"filename": "vinfdeth.wad",
+			"size": 31243,
+			"crc": 2516210647,
+			"md5": "473ae00024c6b69064a56e8430837fa9",
+			"sha1": "d9cf3215046f308b866f24afa600c344f6634cef",
+			"sha256": "bc6db59943ca3995f52ceb6017f93aa72706f7d9bcb1009e6cf2f975a0a58a7f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cpunch.wad",
+	"name": "CHAOS PUNCH",
+	"description": "A Doom I style level where you mostly use the berserk fist!",
+	"date": "2014-12-13 17:54:57",
+	"files": [
+		{
+			"filename": "cpunch.wad",
+			"size": 105820,
+			"crc": 4075781494,
+			"md5": "a3e26d8ef572c3d7a37013556d1b6cae",
+			"sha1": "1174faac2a5070084e5b2a4d7a9b3d35ea64745b",
+			"sha256": "b7a43520e229806cf51e6ef626d38a1c04b8025d0ef35ea0e3a1b058d4cca5d5"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zaniac (c41d57).wad",
+	"name": "Fun times in Maniac Central Station(1)",
+	"description": "The first in the MCS series, covering various city areas. This one is the start of the sewer and maintenance tunnels.",
+	"version": "c41d57",
+	"date": "2016-02-07 20:25:44",
+	"files": [
+		{
+			"filename": "zaniac.wad",
+			"size": 77109,
+			"crc": 2923109174,
+			"md5": "5e8978e17e5942dacf97276ce227851b",
+			"sha1": "c41d5721923d6771574579a9c5e5cc4b1e1eab20",
+			"sha256": "abd91e1d295d18c35126ef37f9472daa168faaf5601e65d835901abc4a82731d"
+		}
+	]
+}

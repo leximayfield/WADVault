@@ -1,0 +1,17 @@
+{
+	"uid": "chilly (ae7288).wad",
+	"name": "CHILLY",
+	"description": "This wad is the new version of Chill that many bugs have been eliminate and make it harder for sniper to takes advantage. This included new sounds FX which are the same one as Chill and the graphics is only for STBAR. This version also include more teleports and more weapons on the floor as well as barrels. Try it out and have fun.",
+	"version": "ae7288",
+	"date": "2013-11-04 19:18:49",
+	"files": [
+		{
+			"filename": "chilly.wad",
+			"size": 413271,
+			"crc": 3540795554,
+			"md5": "4155f4b412f7157536a7eba06c92a188",
+			"sha1": "ae7288923a7187f395d4a4b06bcc96d793ce3ac7",
+			"sha256": "c352354f29df16c382e5add435ccce5e39eb0a48ea91a8125d362ec577a760b3"
+		}
+	]
+}

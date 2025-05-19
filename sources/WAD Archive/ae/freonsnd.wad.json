@@ -1,0 +1,16 @@
+{
+	"uid": "freonsnd.wad",
+	"name": "Freon 3 sounds",
+	"description": "Sound FX replacement. Only replaces sounds that affect deathmatch. Guns, player death a switch, chainsaw, etc. I recommend a sub-woofer to get the full effect of the chainsaw idling sound. It's awesome! NO BEAVIS AND BUTTHEAD!! YEAH!!",
+	"date": "2015-09-15 17:28:13",
+	"files": [
+		{
+			"filename": "freonsnd.wad",
+			"size": 488661,
+			"crc": 3442160200,
+			"md5": "0f59390145f258123894d68833fc9cff",
+			"sha1": "aea19dbf824333d8b20e8b346f1f4b09c6d8359e",
+			"sha256": "a0f1f374a2e3345efd7f58fb6b4e7bf1880a76af8a9ebcc1e55b85b78e7f2d27"
+		}
+	]
+}

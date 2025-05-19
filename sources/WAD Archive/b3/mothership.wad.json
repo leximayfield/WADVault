@@ -1,0 +1,16 @@
+{
+	"uid": "mothership.wad",
+	"name": "Mothership",
+	"description": "This is a single map set on a UFO. Works only in Eternity 4.00.00 or higher.",
+	"date": "2019-03-19 22:42:41",
+	"files": [
+		{
+			"filename": "mothership.wad",
+			"size": 20449909,
+			"crc": 2650186488,
+			"md5": "4910ea44b080cad43707cd2e990954a4",
+			"sha1": "b3760fc687c632130239b9b770a75526648571d2",
+			"sha256": "8140f697464d0784ee408204dad2c0d332dfc702aebb992d54ad8a4c16c6c0c3"
+		}
+	]
+}

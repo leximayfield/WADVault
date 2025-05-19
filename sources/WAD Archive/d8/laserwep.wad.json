@@ -1,0 +1,16 @@
+{
+	"uid": "laserwep.wad",
+	"name": "Laser Weapon",
+	"description": "I was very disappointed the laser weapon patch that I found on the internet, so I set out to create my own.",
+	"date": "2014-12-11 22:29:02",
+	"files": [
+		{
+			"filename": "laserwep.wad",
+			"size": 40804,
+			"crc": 3189887503,
+			"md5": "7f65ccca5ded3d7ee39650b3f9824007",
+			"sha1": "d8430ddbebd27ca620a95e89589d9558097131a4",
+			"sha256": "fe748017fc46ae6a8fd92346953c6d1e8a2ee6a02bb2724e2128fcab5f06d839"
+		}
+	]
+}

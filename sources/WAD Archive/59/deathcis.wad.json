@@ -1,0 +1,16 @@
+{
+	"uid": "deathcis.wad",
+	"name": "Death in C sharp",
+	"description": "It is revamped version of my old never released map for Doom1. The main purpose: Playable in both SP and DM. I haven't got any testers so I tried it with bots. That means that, I haven't got a single idea if it is bad or worse. I used music from Fear Factory - Edge Crusher",
+	"date": "2014-12-22 18:59:50",
+	"files": [
+		{
+			"filename": "deathcis.wad",
+			"size": 510484,
+			"crc": 1218376969,
+			"md5": "c8c9335c05a5e3238da433626c54d9f5",
+			"sha1": "591bf6bb2b1a354dc51000202180381e9caea055",
+			"sha256": "5aa75b6f0ef254e1c56ad6a97b9e2818c0ad0402dd769f148bbe124132b1b2a3"
+		}
+	]
+}

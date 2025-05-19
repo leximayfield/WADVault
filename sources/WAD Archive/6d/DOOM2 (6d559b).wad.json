@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (6d559b).wad",
+	"name": "Doom II v1.666",
+	"version": "6d559b",
+	"date": "2015-02-06 10:01:05",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14943400,
+			"crc": 3802563517,
+			"md5": "30e3c2d0350b67bfbf47271970b74b2f",
+			"sha1": "6d559b7ceece4f5ad457415049711992370d520a",
+			"sha256": "5e701c806a8d3a03700f7fef97b7ad62d0aed50fd240dfac26cdf39ac3d0a8d5"
+		}
+	]
+}

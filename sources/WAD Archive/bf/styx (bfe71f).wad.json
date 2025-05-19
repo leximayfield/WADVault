@@ -1,0 +1,16 @@
+{
+	"uid": "styx (bfe71f).wad",
+	"name": "STYX.WAD ver 1.1",
+	"version": "bfe71f",
+	"date": "2013-11-02 15:19:55",
+	"files": [
+		{
+			"filename": "styx.wad",
+			"size": 36269,
+			"crc": 1416535644,
+			"md5": "694a9ae1d67f3e511a63e39cf6dd65c3",
+			"sha1": "bfe71f0dc2ffc9db3d200af1b237acc5b61fc261",
+			"sha256": "fe56d8a635a03321e4fd9a43e5c885e03b4ec536a8d1da82b0ca88faa5b0158e"
+		}
+	]
+}

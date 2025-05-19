@@ -1,0 +1,17 @@
+{
+	"uid": "dmlamou1 (efcdee).wad",
+	"name": "My first level Version 2.0 : it's a long and built on 21/11/94 difficult one.",
+	"description": "It's my first level. It's a long and difficult one.",
+	"version": "efcdee",
+	"date": "2015-12-07 11:53:19",
+	"files": [
+		{
+			"filename": "dmlamou1.wad",
+			"size": 379341,
+			"crc": 2001831472,
+			"md5": "c76f5f0ed667f6a8ab323deda12efe9a",
+			"sha1": "efcdeec44bea417167f093b68130d9ad765f93b0",
+			"sha256": "a4cf46b413e5f74617c6e7717c7c3c4b54c3c0bad48bf3dd435e67a10208ce4d"
+		}
+	]
+}

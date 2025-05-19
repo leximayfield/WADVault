@@ -1,0 +1,17 @@
+{
+	"uid": "slapme (08d05c).wad",
+	"name": "Slapme",
+	"description": "This is my second WAD, the sequel to SPANKME. The name has nothing to do with the design, but I bet it made you look at this file. It's another one of my top deathmatch WADs. I've gone for a bit of a castle courtyard theme this time. Its a large courtyard with sniper points all round. Lots of stairs and corridors to run up and down. The best weapons and bonuses are in difficult places in the open. Its excellent way to give your mates a good slapping.",
+	"version": "08d05c",
+	"date": "2013-11-02 15:11:13",
+	"files": [
+		{
+			"filename": "slapme.wad",
+			"size": 55268,
+			"crc": 3414833688,
+			"md5": "5e9f0009671a692123186ee96223f624",
+			"sha1": "08d05c3edf5d5abfede0befe6e4c3df32e4abdaa",
+			"sha256": "7af10215be392c8791c8f2d1df4c1040b9ad4c08f0b41e3830f903da49e31f34"
+		}
+	]
+}

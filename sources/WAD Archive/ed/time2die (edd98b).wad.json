@@ -1,0 +1,17 @@
+{
+	"uid": "time2die (edd98b).wad",
+	"name": "Time to Die!",
+	"description": "This is a HUGE, three-key level designed mostly for solo and co-op play. Death Match is supported, but I would stay behind the yellow key boundary so that play is restricted to a tighter, more circular traffic pattern area. This pwad started as an experiment in trying out the new DCK ver. 2.2 editor. It was so much fun to use I couldn't stop! This editor is so far superior to anything I have ever used that I was able to really let my creativity run free! I'm sure you will appreciate the architectural detail, light and shadow detail (check-out the sundial!) and the challenging tricks and traps. My favorite way to play is on difficulty level #3.",
+	"version": "edd98b",
+	"date": "2014-01-07 22:15:23",
+	"files": [
+		{
+			"filename": "time2die.wad",
+			"size": 345529,
+			"crc": 962391317,
+			"md5": "d8a13ada478d8582bd1d27d1bb532213",
+			"sha1": "edd98bfba28f0baeb57dc0a927b4031c6eeeee73",
+			"sha256": "0e03370e2e12ff743b6c092974f52735c6077927a2cf7e5e41ff2cd16337f1ec"
+		}
+	]
+}

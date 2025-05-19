@@ -1,0 +1,17 @@
+{
+	"uid": "quatro (5a39e3).wad",
+	"name": "QUATRO.WAD",
+	"description": "Much ammo, weapons, monsters (especialy cacodemons - I like them), spider boss on skill >=3 in multiplayer game. Different exits for singleplayer and multiplayer games. In multiplayer one player must press switch to open doors to exit and another go thru this door. Level was originally designed as a deathmatch level, but also good for cooperative and singleplay.",
+	"version": "5a39e3",
+	"date": "2013-11-02 15:11:26",
+	"files": [
+		{
+			"filename": "quatro.wad",
+			"size": 231216,
+			"crc": 1027467834,
+			"md5": "510eeb8f99fea37dea2250e262b18317",
+			"sha1": "5a39e3927233ff6b02120709cf6b052f3c10c338",
+			"sha256": "755faf03f310fdfdac0debd47b6d795d1d6b29b39ac3eb0dc70dbbfa15e29e74"
+		}
+	]
+}

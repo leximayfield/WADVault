@@ -1,0 +1,17 @@
+{
+	"uid": "mesh (754862).wad",
+	"name": "MESH.WAD",
+	"description": "Larger than average WAD set in Sci-Lab Environment. Fighting is tempered with a few puzzles..",
+	"version": "754862",
+	"date": "2013-11-02 15:12:29",
+	"files": [
+		{
+			"filename": "mesh.wad",
+			"size": 168904,
+			"crc": 4243085466,
+			"md5": "c0f83c0e2413f181aecd940494b5f4ad",
+			"sha1": "7548623c5ea25c6751c693a4bc42ac3895d721c3",
+			"sha256": "9e24cfbdf59280493e43187eb29e032ee87a98125e3eaf9d88667005a2350fdc"
+		}
+	]
+}

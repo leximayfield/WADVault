@@ -1,0 +1,17 @@
+{
+	"uid": "patman1 (5e8c66).wad",
+	"name": "The Death Trap",
+	"description": ": This level is not for the heavy-fingered Doomer. I'll tell you now that you shouldn't play it on Ultra or Nightmare unless you are willing to die alot trying to win. I still have a little trouble with it, and I WROTE the darn thing :) It consists basically of a fairly complex sector structure, with some well-hidden secrets and ALOT of monsters :) Probably not a very good deathmatch, but haven't gotten to try that out yet because our local system is not allowing Doom multi for some reason.. :/ Anyway.. try it out and tell me what you think.. comments allowed and very much welcome. Bear with me, I'm new at this :)",
+	"version": "5e8c66",
+	"date": "2013-11-02 15:23:26",
+	"files": [
+		{
+			"filename": "patman1.wad",
+			"size": 190610,
+			"crc": 3419333067,
+			"md5": "c503c489e45846a4b9a030666fac1216",
+			"sha1": "5e8c66393006512646929d1abb08e9583ef656c9",
+			"sha256": "2b77515ceaf51eaae302c0194470a55f4d878032146a9c2cb8d2219b7f740aa8"
+		}
+	]
+}

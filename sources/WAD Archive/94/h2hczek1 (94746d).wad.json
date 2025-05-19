@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczek1 (94746d).wad",
+	"name": "H2H Czech Series 1 (H2HCZEK1.WAD)",
+	"description": "This is the first pwad that I made for deathmatch tournaments held by H2H in San Diego (619-426-0073). As you can see, it is not a deathmatch specific wad because the original idea was to design something similair to Id's shareware episode.",
+	"version": "94746d",
+	"date": "2016-02-07 20:39:35",
+	"files": [
+		{
+			"filename": "h2hczek1.wad",
+			"size": 123560,
+			"crc": 1265285051,
+			"md5": "406f905e35ced75c738e45ddc98fa395",
+			"sha1": "94746d52db81da598f4e0f211c5d451215c7ee5c",
+			"sha256": "957f20f551a6f18169dfa77dfa918acdb52bb4eccd385559b2dd76b12a766ee3"
+		}
+	]
+}

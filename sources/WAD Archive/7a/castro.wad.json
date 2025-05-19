@@ -1,0 +1,16 @@
+{
+	"uid": "castro.wad",
+	"name": "Castro",
+	"description": "You wake up in the pit...looking around you see monsters...some doors.You realize that you are in Castro castle,and if you don`t escape there too fast,you are monster food!",
+	"date": "2014-12-31 12:08:27",
+	"files": [
+		{
+			"filename": "castro.wad",
+			"size": 59501,
+			"crc": 2818900627,
+			"md5": "9223fac1adbd2afb586c095ae1089043",
+			"sha1": "7ad27cc3e85559fd218643db7e881ce291b8e862",
+			"sha256": "09175174ccdfb22f2e045dd7505ae5069138b2696286f9ef45cfb804220f4c23"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "STATIONX (f7e2de).wad",
+	"name": "Station-X",
+	"description": "Well, this started out to just be a small DeathMatch wad, with a center area, and four off-shoots connected to each other through hallways... After creating the base of the level I decided to include some creativity and throw in some added rooms and extras to atleast make it a quick and, hopefully, enjoyable Single Player level as well. There are secret areas that can only be entered one way... After creating the level I decided to make it harder to access the secret areas during a Death Match so the killing could be quicker then always having to hunt down your opponents in a large maze of possibillties. Henceforth many of the secret areas can only be entered thru work of switches and not just walking up to the door and pushing. This wad is not too large. The main play field is a good DM area but that's my oppinion...",
+	"version": "f7e2de",
+	"date": "2013-11-04 20:13:24",
+	"files": [
+		{
+			"filename": "STATIONX.wad",
+			"size": 61723,
+			"crc": 4137298704,
+			"md5": "b30c6ee1d5ac6067592fb426eb37f6a7",
+			"sha1": "f7e2de620f01160541d0d1c5008b6d9f084c0c42",
+			"sha256": "5baf1b678215128e20ae0d4cbf740305538db0d474660e138c0555f25235cec4"
+		}
+	]
+}

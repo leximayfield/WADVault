@@ -1,0 +1,16 @@
+{
+	"uid": "impenc.wad",
+	"name": "Imp Encounter",
+	"description": "This is based on the excellent fanfiction I read on DOOMWORLD. which you can read here: http://www.doomworld.com/vb/showthread.php?s=&threadid=13601 This map is not like regular maps in that you can't play it (unless you edit and recompile the scripts). It's sort of like an interactive fanfic, so just watch and enjoy. It only takes around 2:30 to run.",
+	"date": "2014-12-24 17:47:44",
+	"files": [
+		{
+			"filename": "impenc.wad",
+			"size": 103936,
+			"crc": 2902014884,
+			"md5": "9bcec44669fd069f0903057fe77ae1f3",
+			"sha1": "1c473a604252245e98e72c86fdbc7de6710a9649",
+			"sha256": "fa4a76a0e9a82004ed74ec8d1659250a7f487ad2b7f1b2a07b9400dd0904a9b5"
+		}
+	]
+}

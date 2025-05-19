@@ -1,0 +1,17 @@
+{
+	"uid": "SCOUT (6242e4).wad",
+	"name": "Scout",
+	"description": "Starship based on Traveller RPG Type S Scout ship. As the ship itself was not very big, I also included a small starport with some surprises. I just got the editor for Dark Forces, and I'm going to be using that, so there are some rough edges here. Feel free to work on them.",
+	"version": "6242e4",
+	"date": "2014-08-30 13:50:46",
+	"files": [
+		{
+			"filename": "SCOUT.wad",
+			"size": 125535,
+			"crc": 839481465,
+			"md5": "adcf1d453d3d69b6193e6a90959245e0",
+			"sha1": "6242e4f1a1c77415355972e38f9812c1d4123227",
+			"sha256": "6ef3d3b1de89c4a9e6e52151579b32489a0c271f0d4df19c72af0c8491fe8500"
+		}
+	]
+}

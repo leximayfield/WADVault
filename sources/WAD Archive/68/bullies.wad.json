@@ -1,0 +1,16 @@
+{
+	"uid": "bullies.wad",
+	"name": "BULLIES",
+	"description": "Quake,Rott and not forgetting Duke3D. This is an alternative to the fine DOCKS : level.",
+	"date": "2014-12-30 11:35:53",
+	"files": [
+		{
+			"filename": "bullies.wad",
+			"size": 90529,
+			"crc": 1274827985,
+			"md5": "a42146017701b2b5d7f0d33a3ce92042",
+			"sha1": "68c96e0fb12fea92fb41e95e26023228757a6d52",
+			"sha256": "9c400c7f1da3e9af2712c2e72257cd061c560a31b3ade42ef1c30b659f4e6c51"
+		}
+	]
+}

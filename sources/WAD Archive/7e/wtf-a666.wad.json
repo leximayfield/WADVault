@@ -1,0 +1,16 @@
+{
+	"uid": "wtf-a666.wad",
+	"name": "Alamo666 - Hell's last stand!",
+	"description": "NOTE! This was originally intended as a strictly coop level, and a seperate coop version of just this level will be released shortly. You probably need a pretty decent system (high-end 486 & up) for the level to run ok. One piece of advice is to save often on the level. Due to the size it may get tiresome having to hash through the beginning. Also...THIS IS NOT A LINEAR LEVEL; it is expected that you may have to return to places several times. While deathmatch starts are there, primarily in and around the fort, deathmatching has not been tested. Feel free to email me if this level really pisses you off.",
+	"date": "2015-09-15 13:37:38",
+	"files": [
+		{
+			"filename": "wtf-a666.wad",
+			"size": 434986,
+			"crc": 2019931663,
+			"md5": "a21ee07db1b4bb9d12f2f169dd02cee6",
+			"sha1": "7ef37cb07f0e926176315c8e303462fa1355a07c",
+			"sha256": "020a3276ea48ebe09b4b41bd91f8bf3f61869b0f65490776588e445e34a53eb9"
+		}
+	]
+}

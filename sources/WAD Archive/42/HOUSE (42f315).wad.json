@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (42f315).wad",
+	"name": "House.wad",
+	"description": "Welcome to my house! A deathmatch geared",
+	"version": "42f315",
+	"date": "2013-11-04 19:20:26",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 32120,
+			"crc": 2922501119,
+			"md5": "538b5e8d1ba3eb7651a9d2244a9db426",
+			"sha1": "42f3156b8131943522046a0f63f5dbcd242b9e56",
+			"sha256": "3e5390ea7c0b44b9c4c907f4df7dcf19466af53c5781738886a8a9ee5a682836"
+		}
+	]
+}

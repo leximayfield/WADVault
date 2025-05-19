@@ -1,0 +1,16 @@
+{
+	"uid": "reckon.wad",
+	"name": "the_reckoning",
+	"description": "My second WAD attempt. The first is still in the making and is already over 300K. I haven't even finished defining the walls let alone put all the details in. This wad is a simple little skill tester. I think it starts with a clever little trick, but you may tell me otherwise.",
+	"date": "2014-12-31 12:13:11",
+	"files": [
+		{
+			"filename": "reckon.wad",
+			"size": 88420,
+			"crc": 1332482854,
+			"md5": "4dffa1c1274c11a557bca8930a25757d",
+			"sha1": "1a723281b7d6cc194b43fa3aae5898e8b2dedcb3",
+			"sha256": "0b55597545e7150e7c62bc2cce5de68b2ed0e3828bef53839039cce2c2b74ea5"
+		}
+	]
+}

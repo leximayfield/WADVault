@@ -1,0 +1,17 @@
+{
+	"uid": "condo (7cf224).wad",
+	"name": "Condo.WAD",
+	"description": "A compact, fast-action deathmatch wad. Good ambush and sniping spots, but don't stay in one spot too long. This is a frag- a-second style wad. With 4 players on a net you will always be fragged or fraggin'someone. Not much \"dead\" time..ha ha ..",
+	"version": "7cf224",
+	"date": "2016-02-07 20:33:10",
+	"files": [
+		{
+			"filename": "condo.wad",
+			"size": 39099,
+			"crc": 3251000862,
+			"md5": "d5fed26aa9af8931a4248d8e9100c5ea",
+			"sha1": "7cf2244b1a16880273084a4a86e7106a4acb7fd1",
+			"sha256": "8a270f54b768a491149f2205882ddab9e268bc01a89458174b05c6804c6ea883"
+		}
+	]
+}

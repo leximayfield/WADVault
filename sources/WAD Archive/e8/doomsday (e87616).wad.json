@@ -1,0 +1,17 @@
+{
+	"uid": "doomsday (e87616).wad",
+	"name": "Doomsday.Wad",
+	"description": "This is a Deathmatch only wad.",
+	"version": "e87616",
+	"date": "2013-11-04 20:11:57",
+	"files": [
+		{
+			"filename": "doomsday.wad",
+			"size": 114302,
+			"crc": 2544319015,
+			"md5": "46baa09924aef8c0611a7c53da1f734d",
+			"sha1": "e8761663f65baa96565b0a3775cefd26a2d55066",
+			"sha256": "b53400c789e893c0555d45ef42ff7cbd3905f691513ddcb4abef2eb67c30b3d7"
+		}
+	]
+}

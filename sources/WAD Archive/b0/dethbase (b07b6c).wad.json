@@ -1,0 +1,17 @@
+{
+	"uid": "dethbase (b07b6c).wad",
+	"name": "Deathly base",
+	"description": "just a silly dm level...with some stupid sound replacements my retarded ass made",
+	"version": "b07b6c",
+	"date": "2014-12-15 22:42:17",
+	"files": [
+		{
+			"filename": "dethbase.wad",
+			"size": 399302,
+			"crc": 2128961639,
+			"md5": "0e65626c23aa18054928d509c21047a2",
+			"sha1": "b07b6ccb02f24e3ecd56188b91456077afe0030b",
+			"sha256": "d58483a5f14737970535930f9d00db8469929d182c0575139b54a53ee9c5aba0"
+		}
+	]
+}

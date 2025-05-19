@@ -1,0 +1,16 @@
+{
+	"uid": "vortexdm.wad",
+	"name": "VortexDM",
+	"description": "A deathmatch with plenty of hideouts and snipes set in a brick dungeon-like arena of stairs, lifts and double-backs.",
+	"date": "2014-12-15 22:25:14",
+	"files": [
+		{
+			"filename": "vortexdm.wad",
+			"size": 85193,
+			"crc": 1345377509,
+			"md5": "32b93695484c0900a8cf487879a171c6",
+			"sha1": "548fa67fc5d6467e65d60af3a9bb15aeb0ccad0c",
+			"sha256": "6cdf465e5006096ea50d69c03042ec867e5ebd65fe8ce64c149dccc369c79570"
+		}
+	]
+}

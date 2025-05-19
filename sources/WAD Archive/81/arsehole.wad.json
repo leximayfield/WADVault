@@ -1,0 +1,16 @@
+{
+	"uid": "arsehole.wad",
+	"name": "Arsehole",
+	"description": "It's a duel map frag the other player. I also remembered to add in an exit to this one, so it definitely is vanilla compatible this time.",
+	"date": "2014-12-15 22:23:10",
+	"files": [
+		{
+			"filename": "arsehole.wad",
+			"size": 75886,
+			"crc": 3465477663,
+			"md5": "09f0d5bbecc7849cb4aff4fc4b1a3f31",
+			"sha1": "81ef656bab065cea2c03717a91abc8b65df3ca53",
+			"sha256": "cb1f05e1b28e20805c4a65110ed4aa22ca18112850ef356363f893f933553743"
+		}
+	]
+}

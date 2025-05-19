@@ -1,0 +1,17 @@
+{
+	"uid": "cw_sweet (ac3c9f).wad",
+	"name": "CW's Sweet WAD",
+	"description": "A cool WAD for all types of play! if you're going to play DM though, make sure you turn OFF monsters...",
+	"version": "ac3c9f",
+	"date": "2013-11-06 22:41:14",
+	"files": [
+		{
+			"filename": "cw_sweet.wad",
+			"size": 351988,
+			"crc": 2544639073,
+			"md5": "6a58eb29c9206e7e14153ec44bcfc7aa",
+			"sha1": "ac3c9f8a0a4ea79a05460b503b7eda9ba35407e4",
+			"sha256": "c2502a4d8a02b6428dde7df2adfc3cc215ad206f6d3cb4eddc0321581e7393f6"
+		}
+	]
+}

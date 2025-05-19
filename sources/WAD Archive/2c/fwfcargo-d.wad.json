@@ -1,0 +1,16 @@
+{
+	"uid": "fwfcargo-d.wad",
+	"name": "fwfcargo doom2.exe version",
+	"description": "A cargo bay",
+	"date": "2014-12-15 21:24:42",
+	"files": [
+		{
+			"filename": "fwfcargo-d.wad",
+			"size": 171191,
+			"crc": 4217181950,
+			"md5": "ecb77364c8eae0c9212c1a57785056bf",
+			"sha1": "2cf0643c714a25755a7f604ee28d109a710ee706",
+			"sha256": "ee31f6ec0ddb904e9e3b3c8b7ecc7afa21df954363abaa3de262a4ed511d3695"
+		}
+	]
+}

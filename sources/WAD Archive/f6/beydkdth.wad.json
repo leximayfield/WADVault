@@ -1,0 +1,16 @@
+{
+	"uid": "beydkdth.wad",
+	"name": "Beyond Kadath",
+	"description": "This is a story-driven WAD roughly in the vein of H.P. Lovecraft's Cthulhu Mythos. Make sure you read the back story at the end of this file as it will enhance your gameplay. This WAD was started in 1995 while I was still in college, then shelved for ten years while I participated in \"Real Life\". I recently had some free time and, after discovering a number of outstanding DOOM utilities (DoomBuilder is an incredible editor), I decided to part the mothballs and finish the WAD. The original WAD was greatly extended and enhanced, and I'm satisfied with the result. I hope you will be too.",
+	"date": "2014-12-21 17:05:36",
+	"files": [
+		{
+			"filename": "beydkdth.wad",
+			"size": 1564816,
+			"crc": 116634496,
+			"md5": "d6f5981dc45a005de7ca432e44c2a676",
+			"sha1": "f65c4acdebd12c073993b33d6b08de1c127d7056",
+			"sha256": "806d21de64b2310ca6e7e1420401577b94d40f96a708bd60402363b1e57641a3"
+		}
+	]
+}

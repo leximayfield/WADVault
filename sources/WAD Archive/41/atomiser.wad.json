@@ -1,0 +1,16 @@
+{
+	"uid": "atomiser.wad",
+	"name": "Atomiser DOOM",
+	"description": "Having problems with hellspawn? Is your bodycount too low? What you need is Atomiser DOOM. With this weapon in your paws, you only need one shot to terminate any enemies.",
+	"date": "2015-09-14 20:36:39",
+	"files": [
+		{
+			"filename": "atomiser.wad",
+			"size": 52852,
+			"crc": 787647050,
+			"md5": "9b3b17f68e02a682ff7139708c9fa415",
+			"sha1": "419b110e6a37521d7708304658f9851b2d6d10ab",
+			"sha256": "1e5dd50b31c60d0cd11c6089396645af3d1c7452552db0ff173d47f5e38ded7a"
+		}
+	]
+}

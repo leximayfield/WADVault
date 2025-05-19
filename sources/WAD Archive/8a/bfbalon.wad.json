@@ -1,0 +1,16 @@
+{
+	"uid": "bfbalon.wad",
+	"name": "Beef Balogna",
+	"description": "This is a small map that I created inspired by the strife first level. The level is named after the song beef baloney by the punk band fear.",
+	"date": "2014-12-21 16:39:21",
+	"files": [
+		{
+			"filename": "bfbalon.wad",
+			"size": 60363,
+			"crc": 351292724,
+			"md5": "770dfbe2fe21c53a6758b2e8041255ff",
+			"sha1": "8a1115b94ace049a49b1314376c8d5c654c43ba4",
+			"sha256": "fbebe8064a765db38451b8dd8e384987381aa87c7708a0782af8898bf7d89fab"
+		}
+	]
+}

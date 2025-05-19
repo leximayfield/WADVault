@@ -1,0 +1,17 @@
+{
+	"uid": "catwalk2 (47cbdd).wad",
+	"name": "CATWALK2.WAD",
+	"description": "An arena style deathmatch for two players. The centrepiece is a \"fake 3D\" double bridge. The map has a Quake-esque look and atmosphere. It is an updated design from the original catwalk.wad, and has a few new graphics.",
+	"version": "47cbdd",
+	"date": "2014-12-15 22:36:46",
+	"files": [
+		{
+			"filename": "catwalk2.wad",
+			"size": 35447,
+			"crc": 3966258823,
+			"md5": "e0b4f53d01a5af4ddc9a9878e02a6a26",
+			"sha1": "47cbddc953f332e526d8fe83c512ee303fc784a1",
+			"sha256": "baac831982f461ebe5343a13841c540b577efc4a9adc9ba4d668b7cbe646291d"
+		}
+	]
+}

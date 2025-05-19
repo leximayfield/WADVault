@@ -1,0 +1,17 @@
+{
+	"uid": "vilebug (9e46d6).wad",
+	"name": "Bug Out",
+	"description": "This is a remake of vilebug.wad. I thought the original wad and demo was lame(or the wad any- way). I completly remade the wad, and the demo.",
+	"version": "9e46d6",
+	"date": "2014-12-18 22:59:18",
+	"files": [
+		{
+			"filename": "vilebug.wad",
+			"size": 24968,
+			"crc": 2814604308,
+			"md5": "5a841f334c9823e5501a33d23a89c881",
+			"sha1": "9e46d6ef64b3907922b5098e05003f64a6009791",
+			"sha256": "781ea7a99f15476cad7ffcd961307122315cf25d3c27c2bd8a5e0fa9b56e8167"
+		}
+	]
+}

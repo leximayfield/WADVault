@@ -1,0 +1,17 @@
+{
+	"uid": "SMALL (640abe).wad",
+	"name": "little.WAD",
+	"description": "This is just a little wad file I was messing around with. I put it out because is has a cool secret.",
+	"version": "640abe",
+	"date": "2013-11-02 15:57:52",
+	"files": [
+		{
+			"filename": "SMALL.wad",
+			"size": 3656,
+			"crc": 3053065764,
+			"md5": "96238f85c8b9496a25a326105a42b96a",
+			"sha1": "640abe0522ee7a65048ff4adca9dd17be1d8aa55",
+			"sha256": "0b2f16e7e120337134f9d8351547ac453274269f5acd8d99882be18d8cad3b06"
+		}
+	]
+}

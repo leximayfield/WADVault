@@ -1,0 +1,17 @@
+{
+	"uid": "Fx (be73e9).wad",
+	"name": "Doom Alien Star - FX Pack",
+	"description": "This is the Sound, Music, and Graphics effects pack for the exciting new game being released for DOOM called \"ALIEN STAR\". You need this for the full enjoyment of the game.",
+	"version": "be73e9",
+	"date": "2014-01-11 11:19:24",
+	"files": [
+		{
+			"filename": "Fx.wad",
+			"size": 658338,
+			"crc": 3880561815,
+			"md5": "7ee20e7897c8655913906cc1b5dc9b95",
+			"sha1": "be73e9580f51730b594cc9fa10b06e541c51c4e7",
+			"sha256": "54cc67cffdd6450191f3be45b8495366a32e77e8565c210a3dfb8b239df2b225"
+		}
+	]
+}

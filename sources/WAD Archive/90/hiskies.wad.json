@@ -1,0 +1,16 @@
+{
+	"uid": "hiskies.wad",
+	"name": "High Resolution Skies",
+	"description": "This is a set of 16 high resolution skies produced from photographs I've taken over the years with cameras, be it my digital camera or from camera phones. They vary in size and are ready to use in your projects if you so desire. A small WAD file is included for sampling two of the skies included. Most skies tile both ways but some only tile horizontally. If you wish to alter any for your projects, you are allowed to do so, just give credit.",
+	"date": "2017-11-27 12:30:07",
+	"files": [
+		{
+			"filename": "hiskies.wad",
+			"size": 417916,
+			"crc": 1326975332,
+			"md5": "be35c7ed6392ce5bd1421a22b4fbab71",
+			"sha1": "90fe130baaea6f56eb32210fa140192bbf7f7625",
+			"sha256": "026aeeb078e448b2597132f225e7678aca4fd14b88c7334a3b07b7de845a0768"
+		}
+	]
+}

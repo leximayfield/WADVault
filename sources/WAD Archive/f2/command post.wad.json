@@ -1,0 +1,16 @@
+{
+	"uid": "command post.wad",
+	"name": "Command Post",
+	"description": "A reasonably large outpost/depot/recycling facility, 2 landing pads, crusher(fun), evil sludge silo(also fun). (nb. funny looking 3-piece door included)",
+	"date": "2013-07-31 21:16:12",
+	"files": [
+		{
+			"filename": "command post.wad",
+			"size": 499848,
+			"crc": 485300935,
+			"md5": "05bf8b18ad4939e65baa7e26431347fc",
+			"sha1": "f27514c2c3c8649295e7822a4728f3f3dd054f11",
+			"sha256": "3506d00fe71976b8d86043d6c99842849d17bef2af96d5bb7bbd3689b51b317a"
+		}
+	]
+}

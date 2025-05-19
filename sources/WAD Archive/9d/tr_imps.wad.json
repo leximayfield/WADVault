@@ -1,0 +1,16 @@
+{
+	"uid": "tr_imps.wad",
+	"name": "Impsicity",
+	"description": "My first completed and released map, it's a rather demonic level with lots of imp-based monsters. UPDATE (1/16/2006): Fixed a line error that was found after the level was uploaded. It actually works now!",
+	"date": "2014-12-29 17:02:00",
+	"files": [
+		{
+			"filename": "tr_imps.wad",
+			"size": 1828033,
+			"crc": 4269385703,
+			"md5": "bf8d66708b5f231dfb3d9fcbbb795ac3",
+			"sha1": "9d9ad7c0641bbc6c677dfc1322174f8d2b270031",
+			"sha256": "e406b2555d1eaddf350c9f81fa3a0a3782993e443a9c9fefe713f599ec05fcf2"
+		}
+	]
+}

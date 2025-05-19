@@ -1,0 +1,16 @@
+{
+	"uid": "reality03.wad",
+	"name": "Reality Maps",
+	"description": "This wad is a limit-removing wad designed for Boom compatibility (-complevel 9) for MAP01-02, and Vanilla compatibility (-complevel 2) for MAP03. The maps are intended to be played \"Reality\" style, which means you can't get hurt at all. Play on Ultra-Violence if you want to start with 1 health or play on the other difficulties if you want to start with 100 health.",
+	"date": "2013-04-19 01:11:08",
+	"files": [
+		{
+			"filename": "reality03.wad",
+			"size": 704884,
+			"crc": 2073384297,
+			"md5": "6969c1c43707b5084967e6870c981d4b",
+			"sha1": "2f55cfb514e81f82b1603fbf25901f947fd1b10d",
+			"sha256": "70c689dc6261334f9ac80695e6524aefd073dfdbd7543acf3198b6a331920085"
+		}
+	]
+}

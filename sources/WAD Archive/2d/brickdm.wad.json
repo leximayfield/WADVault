@@ -1,0 +1,16 @@
+{
+	"uid": "brickdm.wad",
+	"name": "Brick Death Match: Skin and Heat",
+	"description": "This level uses mostly brown textures ( don't worry, it's not ugly.:)) There is a lava pit in the center of the structure. You can use this to damage your enemies if you can shoot him or her in there.",
+	"date": "2014-12-15 22:27:48",
+	"files": [
+		{
+			"filename": "brickdm.wad",
+			"size": 190112,
+			"crc": 3203660070,
+			"md5": "64c27b0f9a9998b8a32a2844c5b245fa",
+			"sha1": "2daecb743bd28aaae1f1a0eae3fa1ffec242c41d",
+			"sha256": "5f6927549e944a4f82b29ed8f9d84006cc1d9406bc48d57be72451ab0856e760"
+		}
+	]
+}

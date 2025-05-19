@@ -1,0 +1,17 @@
+{
+	"uid": "octafrag (91d182).wad",
+	"name": "OCTAFRAG.WAD",
+	"description": "This is a DEATHMATCH-only level, designed for optimal fragging. Although the level is small, the rooms are multiply and redundantly connected so it seems larger than it really is and the action will always be fast and furious. No toxic waste or barrels, so suicide wussies have no choice but to duke it out 'till the end. ;-) This also means that there are no sniper's nests per se; be sure to watch your back! Other features are a unique central elevator shaft with four random lifts, as well as a cooperative exit which requires at least two players to operare. Happy fragging!!",
+	"version": "91d182",
+	"date": "2013-11-02 15:11:14",
+	"files": [
+		{
+			"filename": "octafrag.wad",
+			"size": 28094,
+			"crc": 3844619342,
+			"md5": "ada5025945327a30f7d305272ee76a62",
+			"sha1": "91d1827d0b255530069e9027c9348c3ffeb75f93",
+			"sha256": "8b2fe5fa8d8356832c1bd5e5df67a05fbe62927c478df6e074efada13a28bd90"
+		}
+	]
+}

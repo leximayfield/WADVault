@@ -1,0 +1,17 @@
+{
+	"uid": "amt (554bf2).wad",
+	"name": "Ancient Mountain Temple",
+	"description": "Story: A few years after the events of Doom 2, the UAC, still not having learned their lesson, began experimenting with teleporter technology again. After successfully developing a functional teleporter, the UAC sent in a team of marines and scientists to explore the destination. What they found at the teleporter's destination appeared to be an ancient temple in the mountains of one section of hell. Wasting no time, the marines and scientists began to investigate the seemingly empty temple. Everything appeared to be going smoothly; that is, until the demons arrived... It's your job as the UAC's strongest marine to travel to the ancient temple, rescue any survivors, kill all demons, and close any demonic portals that could be creating new demons. There's no time to waste. WAD info: Being an experienced Doom player and the author of this wad, I have to be careful when telling others how difficult it is. After letting a few of my close friends (who are average at the game) test it, I can say that it's very difficult on ultra violence. Difficulty settings are implemented, so use those if it's too difficult for you.",
+	"version": "554bf2",
+	"date": "2015-09-15 19:30:48",
+	"files": [
+		{
+			"filename": "amt.wad",
+			"size": 333264,
+			"crc": 3201976551,
+			"md5": "0a18fd0ccb107b85804bc1ce3d79e1dc",
+			"sha1": "554bf2dc1f9956bbbbcec044eb43df29b17d3666",
+			"sha256": "002a955fb9c92731b0491924d1a12b687495efa9a7e01505b56b824f40370a7b"
+		}
+	]
+}

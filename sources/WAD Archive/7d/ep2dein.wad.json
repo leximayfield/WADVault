@@ -1,0 +1,16 @@
+{
+	"uid": "ep2dein.wad",
+	"name": "The Deimos Incident",
+	"description": "//*********// This is my whole Episode 2 replacement, packed together. The secret level (e2m9) is a new one. The levels, wich can be found individually on /idgames, included here are: BIG TRUBLE AT DEIMOS BASE (e2m1cl) WAREHOUSE OF THE DAMNED (e2m2cl) AMBUSH AT DEIMOS REFINERY (e2m3cl) HELL WALKS AT DEIMOS LABS (e2m4cl) LOST AND TRAPPED (e2m5cl) DAMNED HALLS (e2m6cl) SECRET LABS (e2m7cl) THE DEMON'S KEEP (e2m8cl) CORRIDOR OF MYSTERY (this is the unreleased secret level) I have made a fistful of tiny modifications here and there [notoriously the name of the first level ;)], but \"the song remains the same\". Have fun, Carlos. //***********//",
+	"date": "2017-06-26 23:58:07",
+	"files": [
+		{
+			"filename": "ep2dein.wad",
+			"size": 3242746,
+			"crc": 423211570,
+			"md5": "dd8a010262dcb5deec5e840571f41d05",
+			"sha1": "7d094c065d1098188422fe9d29cf922a3dc1fbc7",
+			"sha256": "f66f5846a7242768c1be46fe224b5264315735190f164e2c9026dd5968414ddd"
+		}
+	]
+}

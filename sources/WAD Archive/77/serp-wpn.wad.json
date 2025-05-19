@@ -1,0 +1,16 @@
+{
+	"uid": "serp-wpn.wad",
+	"name": "Serpent: Resurrection - Weapons Mod",
+	"description": "A standalone mod containing the weapons from Serpent: Resurrection. Compatible with any Hexen wad that has no additional weapons.",
+	"date": "2014-12-31 12:11:56",
+	"files": [
+		{
+			"filename": "serp-wpn.wad",
+			"size": 4726,
+			"crc": 1617719290,
+			"md5": "93ff6c0dcefe6122e2ebc1236064b887",
+			"sha1": "771b4d5119c2114743636ec6e205a328dd706674",
+			"sha256": "bef3220f38aadc28cdaf7e747a0cd6cbb6d54118c0cde83b12b1f6ca4e951c08"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "SHOWTIME.wad",
+	"name": "SHOWTIME.WAD",
+	"description": "This is the first level in a new 3 level episode (called \"Massacre\"), SHOWTIME.WAD is rough stuff !!!",
+	"date": "2014-10-14 21:06:27",
+	"files": [
+		{
+			"filename": "SHOWTIME.wad",
+			"size": 65275,
+			"crc": 3595276025,
+			"md5": "c53a2fa4e3734dcb5b27c20c2cd81b0d",
+			"sha1": "d3cfbf9d75981c167bbb2e0f19193cccf38e7e6a",
+			"sha256": "f40015c6c41f7810599ad369687ac7184913b2154c2474a930b9f735609b310d"
+		}
+	]
+}

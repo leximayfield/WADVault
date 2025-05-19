@@ -1,0 +1,16 @@
+{
+	"uid": "HIGHLNDS.wad",
+	"name": "Highlnds.wad (for Doom 2)",
+	"description": "This is one of the largest single level pwads in existance. The general setting is a wide-open city with many large buildings. The level is actually divided into 5 sections, each with a different purpose. The first is your main base, where the players start. This contains most weapons and a fair bit of power-ups. The second is a small central region which is used to gain access to the remaining three city-like areas. These must be opened in sequential order with keycards. The first main area is given the theme of fire, the second being water, and the third being earth. Basically, this level could also be called Elementl.wad as well. To beat this level you must defeat the Cyber-Boss, as well as a horde of other monsters.",
+	"date": "2014-10-14 21:01:10",
+	"files": [
+		{
+			"filename": "HIGHLNDS.wad",
+			"size": 188795,
+			"crc": 992878686,
+			"md5": "acd4c3a9d807614757ec25a7db4a2fbd",
+			"sha1": "ad496635b5bd925c960ec2f13a887523dc8e57df",
+			"sha256": "58ab38248270b095d47b83e64c00f97a1d683c9c3683238cf84b7fd97293dc43"
+		}
+	]
+}

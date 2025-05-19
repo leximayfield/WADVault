@@ -1,0 +1,16 @@
+{
+	"uid": "dtrain.wad",
+	"name": "Decay-Train",
+	"description": "The old Train level in my project \"Decay\"",
+	"date": "2014-12-24 17:10:00",
+	"files": [
+		{
+			"filename": "dtrain.wad",
+			"size": 147404,
+			"crc": 2815089938,
+			"md5": "f0aef3b37717b3acee1d7e77eb1ba795",
+			"sha1": "c6683ff49ef9b2cde24c06ef426d472195f9009a",
+			"sha256": "b1c70a73e2721ce6d849e956a8f04f571f89475a5838066129f6e97ea085f6ac"
+		}
+	]
+}

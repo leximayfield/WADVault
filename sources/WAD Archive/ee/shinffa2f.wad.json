@@ -1,0 +1,16 @@
+{
+	"uid": "shinffa2f.wad",
+	"name": "Shinobi.cl's Free-For-All map pack",
+	"description": "Deathmatch only. Designed for ZDaemon. Skulltag works, but some maps just don't work/look right. You've been warned.",
+	"date": "2013-04-19 02:14:32",
+	"files": [
+		{
+			"filename": "shinffa2f.wad",
+			"size": 32563208,
+			"crc": 2538445996,
+			"md5": "1915a3c45d01d8b923be828673bb753d",
+			"sha1": "ee0b2f90d432391972a847511b5ed5c8ccb71413",
+			"sha256": "15ac3a2205f7053644784a89f7ac5d42ab9e36dba63ac6f09c9aba09d49075f9"
+		}
+	]
+}

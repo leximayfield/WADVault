@@ -1,0 +1,16 @@
+{
+	"uid": "guy2ply2.wad",
+	"name": "RALKATH.WAD",
+	"description": "Ok, this is a nice little replacement .EXE file for Doom 2. It changes some of the enemies into other players (just like the ones you kill in deathmatch). There are 4 different types of players, and here's the list! COLOUR WEAPON SPEED HEALTH Green Rocket Launcher Okay Good Indigo Shotgun Okay Okay Brown Pistol Bad Okay Red Chaingun Good Bad",
+	"date": "2014-12-18 22:33:45",
+	"files": [
+		{
+			"filename": "guy2ply2.wad",
+			"size": 400793,
+			"crc": 2508254977,
+			"md5": "9f57827c803c3dd07a970669c4822ea5",
+			"sha1": "d3f6ccc7cf25a544afb7ea707f15f8ed1f0aba79",
+			"sha256": "2299dc75e2b28aacc221849e35134c395bf1597cf58f37975916d081f1df838f"
+		}
+	]
+}

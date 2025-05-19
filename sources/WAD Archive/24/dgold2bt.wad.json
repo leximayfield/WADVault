@@ -1,0 +1,16 @@
+{
+	"uid": "dgold2bt.wad",
+	"name": "Doom Gold II Bright",
+	"description": "Sound, music and (some) graphics replacement & lighting PWAD for commercial DOOM.",
+	"date": "2013-11-14 14:30:07",
+	"files": [
+		{
+			"filename": "dgold2bt.wad",
+			"size": 1063704,
+			"crc": 3320899409,
+			"md5": "fc1aebb7dad13917ee8ba02296245230",
+			"sha1": "24fa6d841fef87a42700ff874f88ad2fe55405e0",
+			"sha256": "9b5cc77fc5d714fdd1ad955ffab99fabb6cc53b0a037c6627920478c965cc4bb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Black (d2f6da).wad",
+	"name": "Black",
+	"description": "Single-Level Deathmatch for Doom ][. Players compete in a large room with two control room bunkers to inflict bad things upon others. The title comes from the dark wall textures used.",
+	"version": "d2f6da",
+	"date": "2014-10-14 20:58:12",
+	"files": [
+		{
+			"filename": "Black.wad",
+			"size": 134483,
+			"crc": 2239909526,
+			"md5": "c886c8ffb7944829cec560e3ee0232c1",
+			"sha1": "d2f6da628030f0b31ea9184c6610a4aa0ece1c58",
+			"sha256": "eff75768c5ddf2ac3b304a72bccae76f2d4fec893cec432a693ffbdb94f07804"
+		}
+	]
+}

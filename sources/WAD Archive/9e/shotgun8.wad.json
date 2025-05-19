@@ -1,0 +1,16 @@
+{
+	"uid": "shotgun8.wad",
+	"name": "Octoshotgun",
+	"description": "This is a small joke weapon I made in a few hours. An eight-barreled shotgun. And you thought the quad-barrel was overkill :P The sprites are a little shaky since I had to extend them in Photoshop. I also know that the hand is cut off for a frame, but it doesn't really matter since it goes by so quickly. There are over 25 frames just for reloading since it takes so long. Video Preview: http://www.youtube.com/watch?v=3tkRGR5h49Y",
+	"date": "2014-12-11 22:20:58",
+	"files": [
+		{
+			"filename": "shotgun8.wad",
+			"size": 484406,
+			"crc": 1161781235,
+			"md5": "5088e22c875e86acfa72b05f87dfb69e",
+			"sha1": "9e7cc755fefdc0397e68973a57b97d27e98ad6eb",
+			"sha256": "e0d4d2bb0dfb68b9555f998ff89bc6900488250bf18cad42d66686c63a9eb6ff"
+		}
+	]
+}

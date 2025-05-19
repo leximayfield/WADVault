@@ -1,0 +1,17 @@
+{
+	"uid": "pureevil (d2fa73).wad",
+	"name": "PURE EVIL",
+	"description": "A nice level with some ideas I had thought up. : Includes a movie theatre and lots of linedef : triggering functions.",
+	"version": "d2fa73",
+	"date": "2015-12-07 07:33:59",
+	"files": [
+		{
+			"filename": "pureevil.wad",
+			"size": 191173,
+			"crc": 2328854443,
+			"md5": "a1e5a50f682d0bca163fc2557e34423e",
+			"sha1": "d2fa73b64204aa56019f4ff5ea74483262402042",
+			"sha256": "7cafe86c3194baa21167404aab2a283842aa83ce7d745321e935cbd6962366c0"
+		}
+	]
+}

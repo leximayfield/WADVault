@@ -1,0 +1,17 @@
+{
+	"uid": "guts02 (82ce26).wad",
+	"name": "Guts #2",
+	"description": "The second in the series of Deathmatch levels. This one is a bit less of a hunting level, more of a blastfest level with lots of teleports. All the weapons are here, but have fun getting the BFG! There is a co-op exit.",
+	"version": "82ce26",
+	"date": "2013-11-04 19:22:32",
+	"files": [
+		{
+			"filename": "guts02.wad",
+			"size": 111566,
+			"crc": 1681302576,
+			"md5": "72dc074907efd2263b2a3b98eeb78dc8",
+			"sha1": "82ce26876724ffa7a5d41d655b4852940c67f3a1",
+			"sha256": "4b2acc61ac60050e242d0489eefd69d62420a583b8fdcacdf49b2be2976756e6"
+		}
+	]
+}

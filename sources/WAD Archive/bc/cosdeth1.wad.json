@@ -1,0 +1,16 @@
+{
+	"uid": "cosdeth1.wad",
+	"name": "COSDeth1.WAD",
+	"description": "My first 2 deathmatch WAD files. It's no use playing these in single player or Co-Operative 'cos they won't work.",
+	"date": "2014-12-15 22:06:31",
+	"files": [
+		{
+			"filename": "cosdeth1.wad",
+			"size": 29251,
+			"crc": 1570386053,
+			"md5": "29d52ef71eddd39153858729beee9bfa",
+			"sha1": "bcb9e0213a78cf465e4992529b8e59d2cb619d90",
+			"sha256": "67628594b5c9e80a03e8a8325a213c0e00aa6e598d37c6c5bbb24ca8f1d37d52"
+		}
+	]
+}

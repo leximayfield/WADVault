@@ -1,0 +1,16 @@
+{
+	"uid": "jupiter7.wad",
+	"name": "Jupiter 7",
+	"description": "Classic Doom II map. Should run with vanilla and any source port. This level is relatively large. Estimated completion time of around 30 minutes.",
+	"date": "2015-01-05 16:31:56",
+	"files": [
+		{
+			"filename": "jupiter7.wad",
+			"size": 267863,
+			"crc": 239429327,
+			"md5": "688448b15ca2499e186add17a980d47e",
+			"sha1": "b149a556475717b8d59214f28598f59cbe11c23b",
+			"sha256": "ac6d311452c427355c027de53709d7dda466d6c334297ca742aee8faa07c1406"
+		}
+	]
+}

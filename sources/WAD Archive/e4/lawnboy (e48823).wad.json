@@ -1,0 +1,17 @@
+{
+	"uid": "lawnboy (e48823).wad",
+	"name": "\"Lawnboy\" DOOM ][ WAD",
+	"description": "Very large in terms of area, lawnboy is based on the scenario of a yard, i.e., mostly open area. There are some twists, of course.",
+	"version": "e48823",
+	"date": "2016-02-07 20:31:31",
+	"files": [
+		{
+			"filename": "lawnboy.wad",
+			"size": 82929,
+			"crc": 1463809917,
+			"md5": "ff9bd42d5ad4872fc768e59a7b6a17c1",
+			"sha1": "e48823f1d71db477e89690769b1bdb5d45781ec2",
+			"sha256": "b7a39bf8f6ecb3443e3230ebd8af33a4d6856140d39f05c988e2f54a20f5eb0d"
+		}
+	]
+}

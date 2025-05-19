@@ -1,0 +1,16 @@
+{
+	"uid": "titania.wad",
+	"name": "Titania",
+	"description": "A small map inspired by Ultimate Doom's design.",
+	"date": "2013-04-21 23:17:38",
+	"files": [
+		{
+			"filename": "titania.wad",
+			"size": 425234,
+			"crc": 980610118,
+			"md5": "ef2b06768b870dd88eab908c20c0033c",
+			"sha1": "0d743834716b03a0265be60baffee3bbc968c85c",
+			"sha256": "e86c003f381b133943ff85f375cf534992788d09b322e84d7b5b92df2bd10511"
+		}
+	]
+}

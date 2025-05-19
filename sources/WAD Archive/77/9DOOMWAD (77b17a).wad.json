@@ -1,0 +1,17 @@
+{
+	"uid": "9DOOMWAD (77b17a).wad",
+	"name": "River of Death",
+	"description": "DOOM II Wad featuring fast paced action occurring along a large river with several side-trips/adventures. Tough, especially at difficulty settings 3-5.",
+	"version": "77b17a",
+	"date": "2013-11-06 21:55:37",
+	"files": [
+		{
+			"filename": "9DOOMWAD.wad",
+			"size": 98825,
+			"crc": 2969117683,
+			"md5": "154c2bd217420e82f8e144ccaa5faffe",
+			"sha1": "77b17a761f0c68dedf7a39c0cde5c8eaf43db740",
+			"sha256": "77b721a65430f17ef6901795ff9bd27d40f483c1b164d537cfd918d0b4c61627"
+		}
+	]
+}

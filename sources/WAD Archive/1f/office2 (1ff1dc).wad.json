@@ -1,0 +1,17 @@
+{
+	"uid": "office2 (1ff1dc).wad",
+	"name": "Office Building Deathmatch II",
+	"description": "Layout of the office building I work in, 2nd floor and outside. Excellent for strategic or all-out-fraggin' deathmatch play. Lots of power-ups/ammo to survive that lucky rocket hit. One secret room (can you find it?). Let me know if you can beat UltraViolence single-player (100% monsters)!",
+	"version": "1ff1dc",
+	"date": "2013-11-04 20:15:56",
+	"files": [
+		{
+			"filename": "office2.wad",
+			"size": 84192,
+			"crc": 2426769041,
+			"md5": "39fd32f33e2ff10553ef9f643ea2f23d",
+			"sha1": "1ff1dc7bb3e3340ed7d16f5e5ae79dab73444a83",
+			"sha256": "183e7eaade1ce4e2f0381b01075ece872d9630b7565be68b96084c55ad1852d4"
+		}
+	]
+}

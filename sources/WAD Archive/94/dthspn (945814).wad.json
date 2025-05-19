@@ -1,0 +1,17 @@
+{
+	"uid": "dthspn (945814).wad",
+	"name": "Death Spawn",
+	"description": "This is my first deathmatch level for DOOM II. Lot's of Hiding Places, Secrets, Weapons, Health, etc., so enjoy blasting each other!",
+	"version": "945814",
+	"date": "2014-12-03 20:07:05",
+	"files": [
+		{
+			"filename": "dthspn.wad",
+			"size": 119791,
+			"crc": 1940415721,
+			"md5": "ecc4918e3679fc25fc8a0466f8060198",
+			"sha1": "9458140659a9b40eb003c270b40c31a2df07bd8b",
+			"sha256": "843ec241d79fc9eb258715b585f5d89a6881c194230344036770cce322f510cd"
+		}
+	]
+}

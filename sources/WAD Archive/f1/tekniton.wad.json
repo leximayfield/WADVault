@@ -1,0 +1,16 @@
+{
+	"uid": "tekniton.wad",
+	"name": "Tekloniton",
+	"description": "Non linear level with lots of fight. Expect a HUGE slaughter at the end of the map. Difficulty is hard, but not impossible.",
+	"date": "2015-09-15 19:35:27",
+	"files": [
+		{
+			"filename": "tekniton.wad",
+			"size": 2481469,
+			"crc": 54275390,
+			"md5": "5d66c5899eca27d50d9c9b934b964efd",
+			"sha1": "f1f5a19f9137b70454512195764933dee9986732",
+			"sha256": "28efa1c444132e02dcd10a5bce5955e07439c24322359538616099c4995036f0"
+		}
+	]
+}

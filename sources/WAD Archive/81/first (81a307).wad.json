@@ -1,0 +1,17 @@
+{
+	"uid": "first (81a307).wad",
+	"name": "FIRST SPAWN",
+	"description": "\"FIRST SPAWN\" is my very first map. Don't go into it with high hopes, as the only thing unique about it is the 'Monochrome' flavour.",
+	"version": "81a307",
+	"date": "2014-12-24 17:10:54",
+	"files": [
+		{
+			"filename": "first.wad",
+			"size": 251292,
+			"crc": 855084657,
+			"md5": "d862e43d72d876822f66f570e3088d21",
+			"sha1": "81a307b12486eb9d38c97b34bee6d5126bda9ae7",
+			"sha256": "fc5f145954bf6efc96ba8f629e45ff25ea7a28e241c14eefbdfdc7c1bfc84ba0"
+		}
+	]
+}

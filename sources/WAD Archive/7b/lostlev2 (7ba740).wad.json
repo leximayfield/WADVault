@@ -1,0 +1,17 @@
+{
+	"uid": "lostlev2 (7ba740).wad",
+	"name": "LOSTLEV2.WAD",
+	"description": "This is the original LOSTLEVL made for DOOM early in 94. I have had several requests to convert the level to DOOM2, so here it is. A few of the new monsters and the SSG have been added. Textures from DOOM have been replaced with DOOM2 textures.",
+	"version": "7ba740",
+	"date": "2016-02-07 20:39:30",
+	"files": [
+		{
+			"filename": "lostlev2.wad",
+			"size": 208947,
+			"crc": 3036873683,
+			"md5": "16d271b128a74304c9bbc34df746ca8e",
+			"sha1": "7ba740ac27045d54edf9fd208435b9be1e6f6328",
+			"sha256": "dcd6d5b35fe513a25c129b46d16c2983c23b7140c2990f3d469d72fd2d0ce204"
+		}
+	]
+}

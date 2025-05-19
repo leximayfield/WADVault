@@ -1,0 +1,16 @@
+{
+	"uid": "mpl.wad",
+	"name": "Micro Plutonia",
+	"description": "3 very much Plutonia-inspired maps. Some trivia: The last map (06) was first finished 2010 for Plutonia Revisited, but was omitted from the project so I released it seperately. The other two are new maps. Note that these maps are placed as map04-06, and not 01-03. I should also recommend the use of savegames when you play map06 as that map has a lot of trial-and-error gameplay.",
+	"date": "2015-09-15 13:16:32",
+	"files": [
+		{
+			"filename": "mpl.wad",
+			"size": 890657,
+			"crc": 868351967,
+			"md5": "ba73561e72f6691d132e9935d4247998",
+			"sha1": "8200fa197afd072019460ba2a091c5d583a5cfcd",
+			"sha256": "a7039735da284b9b5c28a9f947ddf4c0cc7219b23b4d749ed4643d65f06107aa"
+		}
+	]
+}

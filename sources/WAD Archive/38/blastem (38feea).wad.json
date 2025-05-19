@@ -1,0 +1,17 @@
+{
+	"uid": "blastem (38feea).wad",
+	"name": "BLASTEM",
+	"description": "Two level deathmatch for Doom 2. First level is a large open area with buildings, many weapons, sniper spots, ect. Second level is similar to a large arena, and has ledges.",
+	"version": "38feea",
+	"date": "2013-11-02 15:55:08",
+	"files": [
+		{
+			"filename": "blastem.wad",
+			"size": 242221,
+			"crc": 3444776821,
+			"md5": "8cab8a9e8b5951b70abb3b0e0892de27",
+			"sha1": "38feea1182b0e979f7fe88e47fec13601797f40f",
+			"sha256": "0accc6a06e3cd0ab3b20d1cff0b3ca674a851694bde6b5bd379e0531f38c87e6"
+		}
+	]
+}

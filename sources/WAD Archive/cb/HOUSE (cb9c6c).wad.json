@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (cb9c6c).wad",
+	"name": "House.wad",
+	"description": "Welcome to my house! A deathmatch geared",
+	"version": "cb9c6c",
+	"date": "2015-12-07 13:59:38",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 32120,
+			"crc": 4778454,
+			"md5": "5e29a1afaf81f4598f4e554ec7b09d78",
+			"sha1": "cb9c6c29d65fa1a9bab99fd6f5c13a6d83323a92",
+			"sha256": "2fb06f247863e446939cfb5156835413efc182786bdfe53fc185ffe2c1120d05"
+		}
+	]
+}

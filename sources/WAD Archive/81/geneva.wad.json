@@ -1,0 +1,16 @@
+{
+	"uid": "geneva.wad",
+	"name": "Geneva Convention-compliant medikits",
+	"description": "This WAD replaces the Doom medikits with medikits from the BFG Edition release of Doom that are compliant with the Geneva Conventions.",
+	"date": "2016-08-12 21:53:06",
+	"files": [
+		{
+			"filename": "geneva.wad",
+			"size": 2356,
+			"crc": 1253301657,
+			"md5": "62db293ccd8992463f597d9e8b29fd5f",
+			"sha1": "81032baa4eb95210038a911f8dd071fb02687a19",
+			"sha256": "4d4a4b5115b3744864bf7fda10ed5199d7dd6d5514d63270368012b1ec5714ce"
+		}
+	]
+}

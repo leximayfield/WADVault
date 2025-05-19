@@ -1,0 +1,16 @@
+{
+	"uid": "njtrain.wad",
+	"name": "Runaway Train",
+	"description": "A single level with very linear gameplay :-) Set on a moving train.",
+	"date": "2015-01-13 21:25:28",
+	"files": [
+		{
+			"filename": "njtrain.wad",
+			"size": 1297838,
+			"crc": 2884578271,
+			"md5": "c24babdb7dc96ba721945920772dc7fd",
+			"sha1": "8017196d5d67bc6d81c592f02e43f002b4a7c0d9",
+			"sha256": "d4046f693754fb7939901652d32143aebe22c8dd60a78f4f30935ef90417e063"
+		}
+	]
+}

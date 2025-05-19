@@ -1,0 +1,17 @@
+{
+	"uid": "campus1 (7bf3ca).wad",
+	"name": "Campus",
+	"description": "Doom2 level designed loosly around the",
+	"version": "7bf3ca",
+	"date": "2016-02-07 20:35:44",
+	"files": [
+		{
+			"filename": "campus1.wad",
+			"size": 181365,
+			"crc": 1826988801,
+			"md5": "27893504210c5fe8fb1085c1a2be9500",
+			"sha1": "7bf3caf5b2fea22156622711544fead66604d608",
+			"sha256": "8940b84c2e1a193fe5e4f5c20f79daa4258d04af9ef723c257773d22d2781bba"
+		}
+	]
+}

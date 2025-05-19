@@ -1,0 +1,16 @@
+{
+	"uid": "burlbase.wad",
+	"name": "BURLBASE.wad",
+	"description": "Enter a top-secret research and power installation, determine who attacked it, get the power back on-line, and track the attackers back to their source.",
+	"date": "2014-12-13 17:49:09",
+	"files": [
+		{
+			"filename": "burlbase.wad",
+			"size": 753874,
+			"crc": 3028679104,
+			"md5": "9915fb57f43d0572022bf1d69539b9c3",
+			"sha1": "7052658d6153ff015ee4247168919fc6f8a78ac6",
+			"sha256": "d70dfcf9800a1cb888c22a24ef1e4f830921f781303e571f231577af36639f98"
+		}
+	]
+}

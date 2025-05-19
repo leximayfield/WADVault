@@ -1,0 +1,16 @@
+{
+	"uid": "castle9.wad",
+	"name": "Castle of Combat for HERETIC, REG ONLY",
+	"description": "This is the secret level (9) of what will soon be a complete episode based on an AD&D Role Playing Adventure game. Look for the last level (8) coming soon.",
+	"date": "2014-12-14 20:58:11",
+	"files": [
+		{
+			"filename": "castle9.wad",
+			"size": 200991,
+			"crc": 3630978225,
+			"md5": "030804601626f47a9e83ca9807b6b327",
+			"sha1": "abb81cec03509e1d1d4038487dd908b7f8d084d4",
+			"sha256": "569c9144adbcd7e290f7bd287fdc116b8da0cc694591ce7be4477ae543ad39b0"
+		}
+	]
+}

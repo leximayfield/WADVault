@@ -1,0 +1,16 @@
+{
+	"uid": "speed1.wad",
+	"name": "Speed: The Freestyle Enigma",
+	"description": "This is a set of nine Boom-compatible (-complevel 9) speedmaps that I made in roughly three hours each. I was originally hoping to release this once I hit ten maps, but I haven't really had the motivation so I've decided to actually release it instead of just letting it just sit there as another unfinished project. Each of the nine maps has some sort of different idea or gimmick to it, so no two maps really feel the same. Generally speaking, the quality increases further on as I learn to speedmap better. All of the maps (except map03) are on the small side and often feature some tricky close-quarters combat.",
+	"date": "2018-09-30 20:26:37",
+	"files": [
+		{
+			"filename": "speed1.wad",
+			"size": 3032628,
+			"crc": 894177023,
+			"md5": "3b6631b5ca849ace3b8119b2b8106598",
+			"sha1": "b30737d466ad2bb360c468c6ba75172c10e4f00a",
+			"sha256": "c25e80b814125538a277b4a907b7058643413ed30c4f4d093f6f90b4cad0a3fc"
+		}
+	]
+}

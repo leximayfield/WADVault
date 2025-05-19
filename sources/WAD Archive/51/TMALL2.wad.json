@@ -1,0 +1,16 @@
+{
+	"uid": "TMALL2.wad",
+	"name": "Terror Mall",
+	"description": "A 4 level episode in a mall. Unlike CPHOBOS, all of the secrets here have better hints to their existance. This episode has extensive new graphics and is built to look just like a mall with a new monster. Uses DeHackEd for new effects such as shooting computers and windows, the new monster and new text. For you deathmatch players, I have put in a button on level 3 that will take you back to level 2. This is a 2 level infinite cycle in the Doom version, but does not work for Doom2, just goes to level 2 then on to the last.",
+	"date": "2013-11-02 16:04:49",
+	"files": [
+		{
+			"filename": "TMALL2.wad",
+			"size": 2701892,
+			"crc": 3989458716,
+			"md5": "978316918d816fe5020f1022b10c6213",
+			"sha1": "51bc7b77f35384fd59aeb6984fb20c776dc9ec26",
+			"sha256": "39cf2fb0439d55167a7c8bdf2e5cb17aa14539aea008d220ffa5bfff43e288ec"
+		}
+	]
+}

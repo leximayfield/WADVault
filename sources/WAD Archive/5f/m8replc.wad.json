@@ -1,0 +1,16 @@
+{
+	"uid": "m8replc.wad",
+	"name": "E1M8 Replacement",
+	"description": "I got bored and made this WAD. It's a replacement for E1M8, as hinted by the title. First foray into vanilla mapping.",
+	"date": "2014-12-14 21:01:32",
+	"files": [
+		{
+			"filename": "m8replc.wad",
+			"size": 62823,
+			"crc": 762404373,
+			"md5": "2e05209a4ff9bc20e9f51a229e50b3da",
+			"sha1": "5ffb88e71dc981399b76753147ec74a69e93737b",
+			"sha256": "f087b00f6f178c6dd354de2745587e3f02ae8715a4574b787d1111588a0d86d8"
+		}
+	]
+}

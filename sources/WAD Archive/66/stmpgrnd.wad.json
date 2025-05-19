@@ -1,0 +1,16 @@
+{
+	"uid": "stmpgrnd.wad",
+	"name": "Stomping Grounds",
+	"description": "Short-medium sized map for any limit removing port",
+	"date": "2014-12-29 16:50:38",
+	"files": [
+		{
+			"filename": "stmpgrnd.wad",
+			"size": 1323072,
+			"crc": 47482312,
+			"md5": "00518356fa78aa6c2743f3fac1ad838d",
+			"sha1": "664fea30bd5e0fb5e8ad3541d879337cfd8e7849",
+			"sha256": "7646c66f7cb781dd01ee3bdda0aaf29cef9c10881dc2b27ada978e4f10bca099"
+		}
+	]
+}

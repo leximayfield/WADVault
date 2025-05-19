@@ -1,0 +1,17 @@
+{
+	"uid": "epic11 (018392).wad",
+	"name": "EPIC11.WAD (v 1.0)",
+	"description": "Conspiracy of bad guys and architecture. Ammo conservation required.",
+	"version": "018392",
+	"date": "2016-02-07 20:35:41",
+	"files": [
+		{
+			"filename": "epic11.wad",
+			"size": 118234,
+			"crc": 1159695440,
+			"md5": "0f66544b25517afec6312f7284aebf72",
+			"sha1": "0183921cc42c1ef58d1feb160fd5ed06f2da1d33",
+			"sha256": "cb1c02fd9bbb8f345b4d505b2d2031ac03442e89501d5e7e3bef433e6605e340"
+		}
+	]
+}

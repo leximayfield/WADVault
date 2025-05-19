@@ -1,0 +1,16 @@
+{
+	"uid": "mattpack.wad",
+	"name": "Mattbratt's Level Pack",
+	"description": "You're the Space Marine that Accidentally Teleported into the Terrible Portal of Hell.",
+	"date": "2015-01-13 21:21:57",
+	"files": [
+		{
+			"filename": "mattpack.wad",
+			"size": 1085049,
+			"crc": 3384532730,
+			"md5": "df6bd7fb5da5bc7b5d87c94eb5e8fe27",
+			"sha1": "563158bf0c9439dca787f6ee4f40e64108e6700c",
+			"sha256": "21d44bee446f5714eca5dedb96750fa8f1b3f3496ac2cae3c26dc064efd72f7b"
+		}
+	]
+}

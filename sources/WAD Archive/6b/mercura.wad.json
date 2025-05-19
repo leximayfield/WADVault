@@ -1,0 +1,16 @@
+{
+	"uid": "mercura.wad",
+	"name": "Mercura 3-Level Co-Op",
+	"description": "Three-level co-op WAD. All levels are conversions : of my single-player maps (hopefully for the better.) : It may be somewhat difficult playing alone.",
+	"date": "2015-09-15 19:24:40",
+	"files": [
+		{
+			"filename": "mercura.wad",
+			"size": 383935,
+			"crc": 712315020,
+			"md5": "f45722b1607ad3e382fec979fd3fed93",
+			"sha1": "6b9af9dfb37685cfe6f9e39a543d530566d8b1b4",
+			"sha256": "d92d2ef910b810f45f2ed5cb7c2e142a7f772422058c92f3a8193199cfd1bba4"
+		}
+	]
+}

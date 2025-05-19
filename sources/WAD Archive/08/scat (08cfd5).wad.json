@@ -1,0 +1,17 @@
+{
+	"uid": "scat (08cfd5).wad",
+	"name": "Scattered Ashes",
+	"description": "Scattered Ashes is a 10-level wad made in 3 weeks as a part of the NaNoWADMo 2018 project. Each level takes about 5 minutes to play through. The gameplay is pretty standard in some maps, but it can get quite gimmicky in others, so there's a bit of variety in terms of that. The wad is split into 2 episodes. One centers around the colors gray and black, the other around green. Freelook is recommended.",
+	"version": "08cfd5",
+	"date": "2019-03-06 21:50:23",
+	"files": [
+		{
+			"filename": "scat.wad",
+			"size": 16208413,
+			"crc": 1239161837,
+			"md5": "49e29d2d0df09183d2db88b168d3573a",
+			"sha1": "08cfd52318efd002964b34975a00ca9a2c619145",
+			"sha256": "8449d98563b33f70b3f9861985d9d954f19891cd4c8b55ace11a9c2836436cfe"
+		}
+	]
+}

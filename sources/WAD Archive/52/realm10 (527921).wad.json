@@ -1,0 +1,17 @@
+{
+	"uid": "realm10 (527921).wad",
+	"name": "REALM10.WAD",
+	"description": "REALM is an additional level built for the registered version of DOOM. It has every monster (HARD setting) and every weapon can be obtained. Eventually I will add new graphics when I get the chance.",
+	"version": "527921",
+	"date": "2015-12-07 10:24:17",
+	"files": [
+		{
+			"filename": "realm10.wad",
+			"size": 147007,
+			"crc": 216744278,
+			"md5": "68bb30a1b394113bfa1d735c062a3b56",
+			"sha1": "52792151e9a85672e88bd37ffc257f7d77f04ae5",
+			"sha256": "fb2981841dc0ec4e607e1d37bad06b864fa8ce4eaf89d669b19da10c20a76dc0"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "unseen.wad",
+	"name": "The Unseen Death",
+	"description": "This level is based off another level but I added the out side rings most of the transporters and all the enemies and all the weapons.",
+	"date": "2015-01-14 22:47:09",
+	"files": [
+		{
+			"filename": "unseen.wad",
+			"size": 100058,
+			"crc": 1802929004,
+			"md5": "a4a5fd92f178f77195578b5eda8ad429",
+			"sha1": "0ae6dab6a48e2e13e4c1f2aae8b72574ae97cf1b",
+			"sha256": "81bacc10ccf2606e6b3fa3ab3041c5253aee736b235baf112a04fe3ff66a9d09"
+		}
+	]
+}

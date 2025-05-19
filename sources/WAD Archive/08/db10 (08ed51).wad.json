@@ -1,0 +1,17 @@
+{
+	"uid": "db10 (08ed51).wad",
+	"name": "DB10.WAD",
+	"description": "A pretty straight forward level it shouldn't be too difficult for anyone.",
+	"version": "08ed51",
+	"date": "2014-01-07 22:02:47",
+	"files": [
+		{
+			"filename": "db10.wad",
+			"size": 78921,
+			"crc": 2586261773,
+			"md5": "ea6952c384679a94e60c31157ace853a",
+			"sha1": "08ed51f63624e7b095ce93d678cdbe5907d2dce0",
+			"sha256": "509ed34c17107eb661838eba07b3248338223eee5a68cc5209c997806cf05ec1"
+		}
+	]
+}

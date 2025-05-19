@@ -1,0 +1,17 @@
+{
+	"uid": "easy (9e1d91).wad",
+	"name": "Easy Wad",
+	"description": "This is a special level, even though it's so easy. Because, you see, not only is the level design very simple, but the monsters don't even attack! They just sit there on their butts until you fire a first shot, and then they just run around, doing nothing. Pretty cool, huh? I did it by changing the reject resource. Since the number 16 is square, I just printed 32 ASCII 255 characters to a file with Borland C++ 4.0. I've included that file, so if you want to make your own easy level, it must have 16 sectors. If it has more, it won't work correctly. I'm on the finishing stages of my utility that'll make the monsters harmless automatically. It's called BENIGN. It should be done pretty soon.",
+	"version": "9e1d91",
+	"date": "2013-11-06 22:18:21",
+	"files": [
+		{
+			"filename": "easy.wad",
+			"size": 78788,
+			"crc": 2502124091,
+			"md5": "38f8e39ab7116c43d0ffea3500a15d19",
+			"sha1": "9e1d91aea4396921b9e6c303c634cec1ad918fc0",
+			"sha256": "a0370b3f54f63cdab604b07329b516d0e9f4e0da9cb65ac190f112a262eae1ee"
+		}
+	]
+}

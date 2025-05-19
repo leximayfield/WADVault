@@ -1,0 +1,16 @@
+{
+	"uid": "Nihilo.wad",
+	"name": "Nihilo",
+	"description": "A Hell-themed map for Doom 2.",
+	"date": "2015-01-13 21:32:43",
+	"files": [
+		{
+			"filename": "Nihilo.wad",
+			"size": 461794,
+			"crc": 3591405480,
+			"md5": "460adfb9c76b86a2a7f8d1532d9821c7",
+			"sha1": "a0c828a81c4a1b758469af50a79d832052f50856",
+			"sha256": "b6175804e7183d1f176b541572a7254a7d07579361f910b841b0956f146cd697"
+		}
+	]
+}

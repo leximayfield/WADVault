@@ -1,0 +1,17 @@
+{
+	"uid": "energize (9dfed0).wad",
+	"name": "Energize.wad (Doom 2 only)",
+	"description": "This is a fast playing Deathmatch wad. It is suitable for all playing levels. There are no safe spots in this level, you can be attacked from behind, infront, overhead, or underneith.",
+	"version": "9dfed0",
+	"date": "2014-12-03 20:21:37",
+	"files": [
+		{
+			"filename": "energize.wad",
+			"size": 200047,
+			"crc": 246732954,
+			"md5": "d2a3b187acc8b304e1761c065d3bc3bc",
+			"sha1": "9dfed0cba6a8eac81919984128d97e044d2ca790",
+			"sha256": "f28673d1500581461f379650f90ae3374a38b102ffc8757448e84ace52c6a860"
+		}
+	]
+}

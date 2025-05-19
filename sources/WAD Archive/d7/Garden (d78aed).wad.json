@@ -1,0 +1,17 @@
+{
+	"uid": "Garden (d78aed).wad",
+	"name": "Hell's play garden",
+	"description": "A little PWAD I made to teach my friends to make their own wads 'cos they can't figure it out their selves!",
+	"version": "d78aed",
+	"date": "2014-12-18 22:35:15",
+	"files": [
+		{
+			"filename": "Garden.wad",
+			"size": 29073,
+			"crc": 3267700412,
+			"md5": "6a94a4a781e6315e2ff26a88eb2dd01c",
+			"sha1": "d78aedda285252b91d47a05b416b316dc4e831af",
+			"sha256": "3958605d1fb9156f065e6bafea2442d4fb2529ca77f3fd5f3a31110672c5e189"
+		}
+	]
+}

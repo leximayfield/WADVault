@@ -1,0 +1,16 @@
+{
+	"uid": "QUAKE-H.wad",
+	"name": "QUAKE! for Heretic",
+	"description": "4 excellent deathmatch levels for Heretic. Me and my friends use nothing else when we run a deathmatch-weekend. There were supposed to be one more level but a major bug was discoverd during playtesting. Perhaps I'll include it in the sequel to QUAKE!, if I ever make one.",
+	"date": "2013-11-06 22:54:14",
+	"files": [
+		{
+			"filename": "QUAKE-H.wad",
+			"size": 330491,
+			"crc": 1435500336,
+			"md5": "75c325ff5309141c99ad124a66e3a233",
+			"sha1": "1a808a2a44de4c5454ddd9833a4300c79c5a68e7",
+			"sha256": "fbef2b76c1b348ef834e3a3ddda0437c2854ac1a46e19d83ab228664472bee6b"
+		}
+	]
+}

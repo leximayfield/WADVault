@@ -1,0 +1,17 @@
+{
+	"uid": "COOLDOOM (5980bc).wad",
+	"name": "COOLDM2.WAD",
+	"description": "A bunch of new sounds.",
+	"version": "5980bc",
+	"date": "2013-11-02 16:45:55",
+	"files": [
+		{
+			"filename": "COOLDOOM.wad",
+			"size": 511007,
+			"crc": 1423403682,
+			"md5": "f2dc980b39c2b2579aa898cb5e883f8c",
+			"sha1": "5980bc35a712debe2ad6e0d54b1afde8685692b6",
+			"sha256": "27161527fe88383f7d015c48bf1e5f9af5a485df06ced1eb53e879d5e82ee76f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "mtdoom (dd92c2).wad",
+	"name": "Mt. Doom",
+	"description": "Short but sharp. Entering the nukage is fatal.",
+	"version": "dd92c2",
+	"date": "2013-11-02 15:09:03",
+	"files": [
+		{
+			"filename": "mtdoom.wad",
+			"size": 28853,
+			"crc": 3439922129,
+			"md5": "3614849c3350676642476f615e8d72ca",
+			"sha1": "dd92c26a79d8fff66f457c295b86f39b6d4809a1",
+			"sha256": "7ea1f739adae5b19047a1db62bf99cff491f5c627895154b9bde3c761b7c2b8c"
+		}
+	]
+}

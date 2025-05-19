@@ -1,0 +1,16 @@
+{
+	"uid": "hex1 (4abc3a).wad",
+	"name": "HEX1.WAD",
+	"version": "4abc3a",
+	"date": "2015-12-07 09:05:29",
+	"files": [
+		{
+			"filename": "hex1.wad",
+			"size": 165265,
+			"crc": 77177672,
+			"md5": "0e94034f1a7b4a9d89b0ccdae6bd5e9a",
+			"sha1": "4abc3a110f7b6a46ac1a27462314dcb6fcff529e",
+			"sha256": "ee84d591e0caddf6c7ef3ed3a3839b646f63f0b99772007ff24d909bc4c7d42f"
+		}
+	]
+}

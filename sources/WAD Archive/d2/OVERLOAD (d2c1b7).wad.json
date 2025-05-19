@@ -1,0 +1,17 @@
+{
+	"uid": "OVERLOAD (d2c1b7).wad",
+	"name": "Overload",
+	"description": "Pwad for DOOM2 - Only 7 rooms but this one got WAY out of hand. May still be some visplane errors in 1.9, but BSP30 -vp option really cleaned it well. Tested fine in Doom95. Could this be the world's 1st Doom95 specific wad?",
+	"version": "d2c1b7",
+	"date": "2013-04-19 00:37:40",
+	"files": [
+		{
+			"filename": "OVERLOAD.wad",
+			"size": 383013,
+			"crc": 2525030275,
+			"md5": "9f0ef282f420f6dcc78091e826014ec2",
+			"sha1": "d2c1b742a543cf5430b860cc8a3e930fcd5a0bb7",
+			"sha256": "8e19241bfe052fac3423053e1aa4d1f32d85ec3ed22230f2ea305c331a9b9d9f"
+		}
+	]
+}

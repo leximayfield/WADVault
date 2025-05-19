@@ -1,0 +1,16 @@
+{
+	"uid": "capfest (3eac3a).wad",
+	"name": "Capfest, Deathmatch WAD for DOOM][",
+	"version": "3eac3a",
+	"date": "2016-02-07 20:27:31",
+	"files": [
+		{
+			"filename": "capfest.wad",
+			"size": 101621,
+			"crc": 653175735,
+			"md5": "08be9bca7dcb7527f38cba0d31fb7c18",
+			"sha1": "3eac3a2bdd32dffc7ef4942c2ed6a4d7bea028b3",
+			"sha256": "465863efd5c6f95a695f30d20c5b763bae986f9c9e50f401ef33ed5bf2abc835"
+		}
+	]
+}

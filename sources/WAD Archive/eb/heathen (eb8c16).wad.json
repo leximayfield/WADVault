@@ -1,0 +1,17 @@
+{
+	"uid": "heathen (eb8c16).wad",
+	"name": "Heathen",
+	"description": "Created with the same theme of an upcoming release, which I see as a landmark in my own mapping. And no, that doesn't necessarily mean a landmark in Doom mapping at all! :P",
+	"version": "eb8c16",
+	"date": "2014-12-15 21:50:34",
+	"files": [
+		{
+			"filename": "heathen.wad",
+			"size": 116344,
+			"crc": 902212326,
+			"md5": "a46fff13f9167dc62d57eb92054a54f0",
+			"sha1": "eb8c163de5f89ae037ceb0fac3096a1579a80bf9",
+			"sha256": "7d2bdc5a9dbcc951391410c2c1d0243d62a99f9f2cfac749140974946a428bef"
+		}
+	]
+}

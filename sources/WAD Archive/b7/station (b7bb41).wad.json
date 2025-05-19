@@ -1,0 +1,17 @@
+{
+	"uid": "station (b7bb41).wad",
+	"name": "millitary station",
+	"description": "short and sweet, a few barons and knights not too hard, but a bit different!.",
+	"version": "b7bb41",
+	"date": "2014-12-29 16:52:57",
+	"files": [
+		{
+			"filename": "station.wad",
+			"size": 368284,
+			"crc": 2736075446,
+			"md5": "41108cae7c4666fdbb3dd22fb8958195",
+			"sha1": "b7bb41a93ffdaa713e0f1b112085ac00ba61eea2",
+			"sha256": "a698f29ebdbc4c72d878536c2ee473f00850c01f61a5f99acced2ab5c8547298"
+		}
+	]
+}

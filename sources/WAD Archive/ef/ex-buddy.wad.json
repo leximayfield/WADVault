@@ -1,0 +1,16 @@
+{
+	"uid": "ex-buddy.wad",
+	"name": "Possessed Marine v1.2",
+	"description": "This WAD changes the SS Nazi into a possessed marine with a shotgun. Use it to add another enemy that fits well without replacing others. It gets rid of the Pain Elemental's respawn frames (I had to steal a frame from somewhere.) It's between the Sargeant and the Chaingunner in toughness and attack power, but otherwise similar to the other former humans. Plus it's green, so with this one the four former humans have approximately the same tints as the standard multi-player colors (greenish, grayish, brownish, and reddish.)",
+	"date": "2015-09-15 17:23:28",
+	"files": [
+		{
+			"filename": "ex-buddy.wad",
+			"size": 85860,
+			"crc": 1455973307,
+			"md5": "0b6c2512ecb9ba68ee2feaec5b0c24a7",
+			"sha1": "ef5b2e4c590de83c3cdc036f796a190ddea737c4",
+			"sha256": "07fdbd7ff3c05eaeaf00ab8dabf4931db5e6b7d1fa162b67a93c178f49ac057e"
+		}
+	]
+}

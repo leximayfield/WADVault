@@ -1,0 +1,17 @@
+{
+	"uid": "desolation (5abf87).wad",
+	"name": "Desolation",
+	"description": "My 12-level Megawad for Doom 2/Final Doom, and sequel to my previous work, Damnation. Horror-themed but still with plenty of action. Uses .ogg music files for the levels and text screens, as well as ambient sounds throughout the levels. Continues the story of Damnation, with the surviving marine encountering the Thanatos Base on the borders of the system. Overall difficulty of the Wad is hard, with some difficult encounters in addition to some surprising tricks and traps. Levels are generally large, and average about 10-15 minutes in length each. Uses some monsters/weapons/items from Skulltag. Requires Zandronum, as well as the additional files in the .zip (cc4-tex.wad, q2tex.wad, IDTEX.wad, skulltag_data.pk3, skulltag_actors.pk3). Read the .rtf file as well if you want to know more about the story and details on the development of the Wad.",
+	"version": "5abf87",
+	"date": "2014-08-03 12:07:27",
+	"files": [
+		{
+			"filename": "desolation.wad",
+			"size": 72571885,
+			"crc": 3648237143,
+			"md5": "4df67d011b124ef72c498112f294f266",
+			"sha1": "5abf87a7cdb6a59d1c6ee8e27dc3877c78f1e8cc",
+			"sha256": "23353db655293acfd1e1da3540654038588839f01f811baf85533c3cdedce8fc"
+		}
+	]
+}

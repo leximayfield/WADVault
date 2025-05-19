@@ -1,0 +1,17 @@
+{
+	"uid": "feast (30ac49).wad",
+	"name": "Demon's Feast",
+	"description": "Sort of a midevil palace, complete with a gruesome \"dining hall\".",
+	"version": "30ac49",
+	"date": "2014-12-18 23:15:11",
+	"files": [
+		{
+			"filename": "feast.wad",
+			"size": 197818,
+			"crc": 3619619696,
+			"md5": "b86ef6971acbab6ccd6a8e6947411461",
+			"sha1": "30ac494c46f55272f95b66e93bcf71d540cc5936",
+			"sha256": "2182c7b34c7242c691aafdaf9f600f4e5b47717cb32681214f53fe298b8c0b78"
+		}
+	]
+}

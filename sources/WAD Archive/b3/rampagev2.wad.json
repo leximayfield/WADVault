@@ -1,0 +1,16 @@
+{
+	"uid": "rampagev2.wad",
+	"name": "Rampage V2",
+	"description": "One map - escaping from seven floors of asylum with serious hallucinations. Revenge of loony.",
+	"date": "2018-03-27 21:12:06",
+	"files": [
+		{
+			"filename": "rampagev2.wad",
+			"size": 4210565,
+			"crc": 2229964815,
+			"md5": "52eb5cfc5ab209164eb0b4e0791df42b",
+			"sha1": "b321d04c1b3d2c977dc9790c4a3cbd16a182f1b9",
+			"sha256": "257da09d28483db2fcf398f4a185e8ef6166fead3f48d96babb7d92e062f8b75"
+		}
+	]
+}

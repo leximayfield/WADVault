@@ -1,0 +1,16 @@
+{
+	"uid": "newmaps.wad",
+	"name": "Newmaps: A Chex Quest Mod",
+	"description": "This is the final version of Newmaps. Newmaps is a Chex Quest mod (*cough*) based on The Ultimate Chex Quest. In May 2005 I came across The Ultimate Chex Quest. Then I saw some of the fanmade maps and thought: \"Hey! Why don't I try my hand at making Chex Quest levels?\" And so Newmaps was started. In June of 2005 I released the first beta which only had the first two maps complete. Back then, I only planned to make five or so levels, but then I started making more and more and it became this big thing. I don't even want to think of how many hours I put into it. I hope you have as much fun playing it as I had making it for you. (Man, how many times has this been said before?) (NOTE: If you just play the first few levels and decide it's too boring and stop playing, don't. Remember, I had just learned to map when I made those. The later ones are much cooler!)",
+	"date": "2014-12-13 17:55:50",
+	"files": [
+		{
+			"filename": "newmaps.wad",
+			"size": 19619216,
+			"crc": 3512798025,
+			"md5": "09b6dcb6c4cdb8777d53085d7d36ff75",
+			"sha1": "c9c5526ae44d1deba020666eeb195e00d1c54d96",
+			"sha256": "2112fc739b8a8b396c4632220fd04d76358d9b2c8cd384fbf1e77ce2721c080a"
+		}
+	]
+}

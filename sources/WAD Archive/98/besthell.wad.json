@@ -1,0 +1,16 @@
+{
+	"uid": "besthell.wad",
+	"name": "The Best Level in Hell",
+	"description": "A single-room map that should challenge even the wiliest veterans on Hard. Best of luck.",
+	"date": "2014-12-15 22:27:16",
+	"files": [
+		{
+			"filename": "besthell.wad",
+			"size": 34875,
+			"crc": 3734611453,
+			"md5": "fb624c8786ba005d67fc887d491bc482",
+			"sha1": "98db425a704f551cb8713bddfda954cdd6387b6b",
+			"sha256": "7e2e456cca79aba86589875cb3a62be59cb0a46259893f3581c207068fb9fd87"
+		}
+	]
+}

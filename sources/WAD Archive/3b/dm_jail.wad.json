@@ -1,0 +1,16 @@
+{
+	"uid": "dm_jail.wad",
+	"name": "Jailbreak",
+	"description": "You (and your buddies in co-op mode) are the only survivor(s) of a UAC Marine Infantry strike to reclaim the UAC Logisitical Bases on Titan, one of the moons of Jupiter. The commanders did not know who or what had taken control of the facilites and all communications had been shut off.",
+	"date": "2014-12-13 17:35:18",
+	"files": [
+		{
+			"filename": "dm_jail.wad",
+			"size": 447615,
+			"crc": 3077151769,
+			"md5": "f130269ceab8e745dc516aad25926bb2",
+			"sha1": "3bfe239b22156be4211633544d5fa781cd38f12c",
+			"sha256": "9fd6a4a84eba81b2a95e51e1cd4073fcab960fd89f12eb3d0a010c1892131d30"
+		}
+	]
+}

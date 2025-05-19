@@ -1,0 +1,17 @@
+{
+	"uid": "riesa (2465ca).wad",
+	"name": "RIESA.WAD",
+	"description": "My first four levels. If you like realism and ambience then this WAD is for you!",
+	"version": "2465ca",
+	"date": "2015-01-14 14:47:43",
+	"files": [
+		{
+			"filename": "riesa.wad",
+			"size": 749158,
+			"crc": 1497782871,
+			"md5": "6b84881560876e9427bc831863472e8c",
+			"sha1": "2465ca97f4424a211c66efb5d8dee8464e65d7dd",
+			"sha256": "e85c8cf27767827913785a6c7775232b6dcacf875bd881d1d07daf3e8155b05d"
+		}
+	]
+}

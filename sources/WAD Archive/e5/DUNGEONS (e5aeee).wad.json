@@ -1,0 +1,17 @@
+{
+	"uid": "DUNGEONS (e5aeee).wad",
+	"name": "Dungeons",
+	"description": "Medium-sized wad centered around a rocky maze and a castle-like area. This was my first released Doom2 level, back in July 1995. Now that I've come back to Doom editing (May 1998) and started making another map, I've decided to revise this wad, fixing some bugs and updating the text file.",
+	"version": "e5aeee",
+	"date": "2014-12-18 22:59:03",
+	"files": [
+		{
+			"filename": "DUNGEONS.wad",
+			"size": 319522,
+			"crc": 2678068198,
+			"md5": "e98cb69f855d5ba0c6a62b6070f5ad13",
+			"sha1": "e5aeee637cf1f1bd9d897103667896866773bc62",
+			"sha256": "cfb50d38116d5fa2d1c9c6abeccd7fea6dd5abdf0cf163c814e131fa27983e19"
+		}
+	]
+}

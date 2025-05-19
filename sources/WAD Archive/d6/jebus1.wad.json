@@ -1,0 +1,16 @@
+{
+	"uid": "jebus1.wad",
+	"name": "Jebus Duel",
+	"description": "A simple 1 map wad intended for 1 v 1 Battles, preferably on Skulltag. Can run on any source port because its built off the Boom mapping Config. =]",
+	"date": "2014-12-15 21:48:43",
+	"files": [
+		{
+			"filename": "jebus1.wad",
+			"size": 97631,
+			"crc": 1656323285,
+			"md5": "79ec18d8e806e746f5018fc66dc8ca0a",
+			"sha1": "d69650e0ffab74691c3994172c5bb100aaefc3bf",
+			"sha256": "80dd4ee4d71dd1bc1e4c1c8fde558dde3693ec94266a560902eb21afe90cf3b2"
+		}
+	]
+}

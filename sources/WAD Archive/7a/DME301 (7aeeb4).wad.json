@@ -1,0 +1,17 @@
+{
+	"uid": "DME301 (7aeeb4).wad",
+	"name": "ARENA.WAD",
+	"description": "Well, this isn't really much of a map, but it does demonstrate that you can make maps with DMapEdit. I made this while I wrote DMapEdit to test out my editor. I will be writting a much better wad later. Keep an eye out for it.",
+	"version": "7aeeb4",
+	"date": "2013-11-02 16:49:55",
+	"files": [
+		{
+			"filename": "DME301.wad",
+			"size": 25784,
+			"crc": 1638156366,
+			"md5": "1ab99780672232783666ab4197250788",
+			"sha1": "7aeeb412b903dc58fde16f6b1f126c634254b3c4",
+			"sha256": "def6596c05b578884b8c8c3eca0f5a1f51847868009a877f4dce0a30dfa6a052"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hellsamb.wad",
+	"name": "Hell's Ambiance",
+	"description": "Hell's Ambiance is a compilation of unnerving ambient tracks to give Doom that extra spooky atmosphere if you are tired of the PSX Doom or Doom 64 track set. It features 18 tracks from Kevin MacLeod's royalty free set while the rest is supplemented by Jaxxoon R's Dark Ambient Pack (also on /idgames/) to give maximum tension. This set replaces primarily Doom 2 but advanced ZDoom based ports can utilize the $musicalias so it replaces Doom tracks as well.",
+	"date": "2015-09-14 22:59:54",
+	"files": [
+		{
+			"filename": "hellsamb.wad",
+			"size": 102695662,
+			"crc": 1127829391,
+			"md5": "9221a9fc03e23ac80898d9b127eae3bf",
+			"sha1": "bf1254228a1b1b38fdae272c221a28edf31bf954",
+			"sha256": "60ca477b1121cd245ac90883b1ad48e8f861bb8df4a1f5ca1a2c31e2b047fae2"
+		}
+	]
+}

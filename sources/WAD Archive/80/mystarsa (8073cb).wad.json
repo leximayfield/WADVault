@@ -1,0 +1,17 @@
+{
+	"uid": "mystarsa (8073cb).wad",
+	"name": "My version of Santa Rosa Assault",
+	"description": "If you've ever played the original SRA, you probably know how slow it runs, how you can shoot through walls, bump into hanging keens, look at misalignment, etc, etc... Anyway, this wad is an improvement of the original. It runs faster, has solid walls that you can't shoot through, and other things. This will be in Houses 1.3 soon.",
+	"version": "8073cb",
+	"date": "2014-01-07 22:10:35",
+	"files": [
+		{
+			"filename": "mystarsa.wad",
+			"size": 107932,
+			"crc": 3083083168,
+			"md5": "dadd8ff30ecbc58cd11937e7729ee4db",
+			"sha1": "8073cb8844ec24b16d7190fc37ff1302c8a3d2bb",
+			"sha256": "1ed9c4fa1323203d428cc5bf93d5e64ec5a200d53caaf890c78971c59bc8d783"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "gallery2 (fbfaef).wad",
+	"name": "Gallery - The Art of Maligormax",
+	"description": "Oh no. The malicious aliens have attempted to put up an art exhibition, in one of their most secret nests. Needless to say, in a place such as this, every single painting has been stolen.",
+	"version": "fbfaef",
+	"date": "2014-12-18 23:07:19",
+	"files": [
+		{
+			"filename": "gallery2.wad",
+			"size": 160619,
+			"crc": 1475715371,
+			"md5": "cde0800baa4cdd79b3ee456d791f46e2",
+			"sha1": "fbfaef49826bda362cf73fd833a0d21013680ba7",
+			"sha256": "756e86f2c73c100307cb0408a507d908a8e874a6043e59e5e49eda9c7f22a361"
+		}
+	]
+}

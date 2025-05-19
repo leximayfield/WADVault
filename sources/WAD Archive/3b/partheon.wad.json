@@ -1,0 +1,16 @@
+{
+	"uid": "partheon.wad",
+	"name": "The Parthenon",
+	"description": "As the name implies, this Doombot CTF map is based upon the ancient building of the Greeks.",
+	"date": "2014-12-15 21:21:06",
+	"files": [
+		{
+			"filename": "partheon.wad",
+			"size": 263528,
+			"crc": 4249222284,
+			"md5": "afea63ba184acf7bb0ae963b19b3fb14",
+			"sha1": "3b8e6c020c9704f46863ab5b2c3121eb01426b6c",
+			"sha256": "27e1a48b7fb173312ad2a033e4853461268d8fac6cde915034e3d6ac5aa5c7c4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hop11 (2aadc4).wad",
+	"name": "Hall of Pain",
+	"description": "1st level of upcoming epic (I hope :-) )",
+	"version": "2aadc4",
+	"date": "2013-07-09 20:22:53",
+	"files": [
+		{
+			"filename": "hop11.wad",
+			"size": 64650,
+			"crc": 1350379089,
+			"md5": "d3d68636d868e10a248ac8d755d57b20",
+			"sha1": "2aadc4294cae565472190038d3575de90bf86972",
+			"sha256": "6e59de9aab50f1991dac48ecf61c374b89d7b64ac4b956216e9a171b25184777"
+		}
+	]
+}

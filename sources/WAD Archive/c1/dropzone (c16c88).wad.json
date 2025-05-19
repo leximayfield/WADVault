@@ -1,0 +1,17 @@
+{
+	"uid": "dropzone (c16c88).wad",
+	"name": "Drop Zone",
+	"description": "The Plutonia Experiment. Alien Vendetta. Brutal Doom. All revolutionary in their days, but they all pale in comparison to this, the ultimate DOOM experience! It's so great, so expansive, that MegaWAD is not a sufficient term to describe it! Introducing the world's very first GIGAWAD - are you prepared to enter... the DROP ZONE!?",
+	"version": "c16c88",
+	"date": "2015-09-15 13:16:52",
+	"files": [
+		{
+			"filename": "dropzone.wad",
+			"size": 8711713,
+			"crc": 1965005476,
+			"md5": "bff4996624abdfb16afa1177ddcae3a2",
+			"sha1": "c16c889c83ae37df9f49720bfcf0bd011c4f11ac",
+			"sha256": "358a4e07d09af035d6dc7d211a1cfcbdd09fdb6440a0c3fb6cee7277ba8e0d36"
+		}
+	]
+}

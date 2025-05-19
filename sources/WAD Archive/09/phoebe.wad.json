@@ -1,0 +1,16 @@
+{
+	"uid": "phoebe.wad",
+	"name": "Phoebe",
+	"description": "An abandoned space colony on Phoebe, one of the Jupiter's moons. This map is taken from the sixth Russian Doom Community \"tuning contest\", where participants had to improve a computer generated map while keeping the original layout intact. I've modified it a little since then, so it should work under PrBoom+ instead of ZDoom.",
+	"date": "2014-12-29 09:01:46",
+	"files": [
+		{
+			"filename": "phoebe.wad",
+			"size": 12859985,
+			"crc": 2561179577,
+			"md5": "89736fde06449d693548864ed885af1c",
+			"sha1": "0966c13875bde0e2cb379262c1ddaebc33779da2",
+			"sha256": "ee90f9b151ab14ed8f1ec1a6f4edbc16f6283e7e9b6e4c94bc2f0e29c933d6fb"
+		}
+	]
+}

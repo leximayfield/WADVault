@@ -1,0 +1,16 @@
+{
+	"uid": "ruma.wad",
+	"name": "Ruma.",
+	"description": "A base around a brown canyon. Was going to be map03 of my mini episode, but didn't fit the theme. And the new map03 is so much cooler anyway. =) I kept the gray start/exit part for new map tho.",
+	"date": "2014-12-29 09:01:05",
+	"files": [
+		{
+			"filename": "ruma.wad",
+			"size": 1069262,
+			"crc": 4021560245,
+			"md5": "85973f5957ca392f0acfccc8a5f01f81",
+			"sha1": "17ded5cd24cb338a0ca76139c0deeb07884d05a6",
+			"sha256": "241169f429311799881c5c1b2c4d9bb47070711eca692a1e91a6d65b8b62b3f5"
+		}
+	]
+}

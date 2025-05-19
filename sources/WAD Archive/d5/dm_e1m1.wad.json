@@ -1,0 +1,16 @@
+{
+	"uid": "dm_e1m1.wad",
+	"name": "DeathMatch E1M1 upgrade",
+	"description": "Upgrade of E1M1.WAD (by Rooks)",
+	"date": "2014-01-07 21:52:45",
+	"files": [
+		{
+			"filename": "dm_e1m1.wad",
+			"size": 89069,
+			"crc": 4194821796,
+			"md5": "003ec691fb3c48da3c100501f09c63ce",
+			"sha1": "d5aa10cd126a0f7bf7e017817e13d8ebed27b3ba",
+			"sha256": "4ebb4e8df32d8f7339ab0851f7b56b59e558840aabc8c5dbc3d851152d793358"
+		}
+	]
+}

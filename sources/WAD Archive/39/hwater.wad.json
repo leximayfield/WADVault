@@ -1,0 +1,16 @@
+{
+	"uid": "hwater.wad",
+	"name": "Heavy Water Plant",
+	"description": "Travel through this heavy water facility on your way to the nuclear power station. Beware the elite troops that await your arrival.",
+	"date": "2016-03-05 14:43:46",
+	"files": [
+		{
+			"filename": "hwater.wad",
+			"size": 237095,
+			"crc": 1435182159,
+			"md5": "ea06660bebdf0c16fcd5304810b0d3a6",
+			"sha1": "39f7ba97753d578aed19d9b081d5c412e057efb1",
+			"sha256": "9944d284e02e7507e92559d211fc1effe181fffeb9691d1d1c4da0f6134b388d"
+		}
+	]
+}

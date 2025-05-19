@@ -1,0 +1,16 @@
+{
+	"uid": "fungus.wad",
+	"name": "Fungus",
+	"description": "A UAC mining and research base on a distant planet has gone silent. Secret experiments are rumored to be happening there, some suggesting a psychoactive fungus was discovered on the planet. You've been sent to investigate and evacuate any survivors.",
+	"date": "2018-09-30 20:28:31",
+	"files": [
+		{
+			"filename": "fungus.wad",
+			"size": 4286346,
+			"crc": 268451012,
+			"md5": "ea9ca32dabbf1d6c6034ab44eac7b881",
+			"sha1": "222e079781e4ca629ce4dffd7f667b1905a89f10",
+			"sha256": "9c7a3b5087bd4d1d020e8d7a11feb5511481b543f2867a13d0e7e757047d3a4f"
+		}
+	]
+}

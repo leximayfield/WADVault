@@ -1,0 +1,16 @@
+{
+	"uid": "subways.wad",
+	"name": "SUBWAYS.WAD",
+	"description": "Deathmatch Wad for Doom II",
+	"date": "2014-12-15 21:49:43",
+	"files": [
+		{
+			"filename": "subways.wad",
+			"size": 74264,
+			"crc": 1043263451,
+			"md5": "a5913253f16efbc07ee95f079bc1174d",
+			"sha1": "0a711faad543f8216c5d365ef35666b583c2b95e",
+			"sha256": "0497c8c04429402727d0344a2b4f662933bbb10ecc5477e2fac82606b849b88b"
+		}
+	]
+}

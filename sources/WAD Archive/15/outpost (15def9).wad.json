@@ -1,0 +1,17 @@
+{
+	"uid": "outpost (15def9).wad",
+	"name": "Outpost",
+	"description": "A very short Level where you explore a small out post",
+	"version": "15def9",
+	"date": "2018-04-16 08:09:14",
+	"files": [
+		{
+			"filename": "outpost.wad",
+			"size": 79385,
+			"crc": 1624340250,
+			"md5": "0e53000b1321ed40a7cefd888f3dbc43",
+			"sha1": "15def93042872b7c06481639337fa9ff4af35cc9",
+			"sha256": "9e1ee1c3643d6d796f00b7f0ef8cf9ce775a06341479273a66f2dd28daff7d6f"
+		}
+	]
+}

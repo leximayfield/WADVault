@@ -1,0 +1,17 @@
+{
+	"uid": "qwerty (aa3fb3).wad",
+	"name": "QWERTY",
+	"description": "This is my first megawad there isn't really much of a story but i'm planning on making a sequel that expands the story of the first one.",
+	"version": "aa3fb3",
+	"date": "2017-01-17 00:25:47",
+	"files": [
+		{
+			"filename": "qwerty.wad",
+			"size": 52836866,
+			"crc": 3199904473,
+			"md5": "55c3c9d11a694bafa2f7f23ee324646b",
+			"sha1": "aa3fb37df54f1b967af4e869ae5fa9102a4297f0",
+			"sha256": "24b837b3767c6792fff5ff2c2646dea4ebc786869f2febd642d2f5ce3c9fbf3b"
+		}
+	]
+}

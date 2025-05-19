@@ -1,0 +1,16 @@
+{
+	"uid": "MUSKADET.wad",
+	"name": "Muskadet",
+	"description": "One big classic vanilla map, inspired by \"Interception\" and \"Bellatrix\".",
+	"date": "2015-09-15 18:18:23",
+	"files": [
+		{
+			"filename": "MUSKADET.wad",
+			"size": 614333,
+			"crc": 464385647,
+			"md5": "8d69e26dbd89c6b7f632a93302117297",
+			"sha1": "67aadf2c02b70c57cdcdcad56b70cd11f2abd4c0",
+			"sha256": "eddddd6bc858fe250b91b0eaee429f5bbe69d46ccf301bb90c7e948f32272d91"
+		}
+	]
+}

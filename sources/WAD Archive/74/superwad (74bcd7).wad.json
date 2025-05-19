@@ -1,0 +1,17 @@
+{
+	"uid": "superwad (74bcd7).wad",
+	"name": "Superwad",
+	"description": "I named it Superwad because I was watching an anime called Super GALS at the time.",
+	"version": "74bcd7",
+	"date": "2014-12-29 18:21:34",
+	"files": [
+		{
+			"filename": "superwad.wad",
+			"size": 676480,
+			"crc": 3783860665,
+			"md5": "201b3b763e4266ea0a7352c2f37039d8",
+			"sha1": "74bcd790075e8d6bf6489c9656ec92124959fef0",
+			"sha256": "9b9b509b7a73b15e9066dae146505bbe72c97e9c7065d3355f88daaeaa86fb05"
+		}
+	]
+}

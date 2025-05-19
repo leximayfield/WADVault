@@ -1,0 +1,16 @@
+{
+	"uid": "CRZYFROG.wad",
+	"name": "Crazy Frog Doom",
+	"description": "This wad replaces all music with Axel F remix by my favorite artist... Crazy Frog!! (MIDI VERSION) I tested on almost all levels on both games so it works good.",
+	"date": "2016-01-28 22:56:51",
+	"files": [
+		{
+			"filename": "CRZYFROG.wad",
+			"size": 2283429,
+			"crc": 3545283739,
+			"md5": "4beb7d1e25175a41586006b789e12c01",
+			"sha1": "555147cb2ccec872e7a123b17a826e9a88c31425",
+			"sha256": "da3be03710b87e4a1c30f6d0245b9db103d64ef3c5ea6716025e9367b2098bb6"
+		}
+	]
+}

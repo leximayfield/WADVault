@@ -1,0 +1,16 @@
+{
+	"uid": "bluecaco.wad",
+	"name": "Blue Cacodemon",
+	"description": "It replaces all the cacodemon sprites with modifided ones to make them blue. I must say that the blue ones look cooler than the red ones.",
+	"date": "2013-04-18 23:05:39",
+	"files": [
+		{
+			"filename": "bluecaco.wad",
+			"size": 136079,
+			"crc": 3280884002,
+			"md5": "4382c984b8d06fadbe40fea06fbfe864",
+			"sha1": "d058199827cdc52995d62d5da4fddf96f7ece78a",
+			"sha256": "035faee001ea46523c2f1b1602a4ae0876b6a5b2b229c24230f505ecbf2565f4"
+		}
+	]
+}

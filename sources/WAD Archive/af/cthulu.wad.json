@@ -1,0 +1,16 @@
+{
+	"uid": "cthulu.wad",
+	"name": "CthuluDoom",
+	"description": "Adaptation of H P Lovecraft tale 'The Picture In The House' (1920).",
+	"date": "2016-08-12 21:51:32",
+	"files": [
+		{
+			"filename": "cthulu.wad",
+			"size": 3947912,
+			"crc": 1644385253,
+			"md5": "f2cc3bb6c9252547748e79318e888b26",
+			"sha1": "afc6bf7ae4158663e49a8a3f58180f87f1ec468c",
+			"sha256": "eef09248eec810cfcdf49bee636fca791b28061c48a31dbbd9ca1df382ddc1bd"
+		}
+	]
+}

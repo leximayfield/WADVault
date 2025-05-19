@@ -1,0 +1,16 @@
+{
+	"uid": "doomhak2.wad",
+	"name": "Doom Hack - version 2",
+	"description": "This is a fantasy super-weapons patch for Doom2, featuring a complete set of awesome telekinetic weapons. The player's face in the status bar has been modified, and there are also some changes to the monsters, things and texts.",
+	"date": "2014-12-10 22:46:30",
+	"files": [
+		{
+			"filename": "doomhak2.wad",
+			"size": 67794,
+			"crc": 3244245360,
+			"md5": "b7f544954a1519ef74f1daf40a5d5019",
+			"sha1": "3d1456979c3423f7b00139c976855319fcc4714f",
+			"sha256": "576fe5a2b92e8b01cf21cdeb1ab841b76c786cca330923db930c50448a565053"
+		}
+	]
+}

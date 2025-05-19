@@ -1,0 +1,17 @@
+{
+	"uid": "chase (a6542b).wad",
+	"name": "CHASE.ZIP (chase.wad + chase.txt)",
+	"description": "Originally designed as a fairly simple WAD with deathmatch in mind, gradually grew to a fairly large level suitable for good one player action. Basically, prepare to chase and be chased in deathmatch mode, and run like hell in UV single player mode. Have included my favorite items from id's original levels, namely teleporters, certain textures and a few secrets with some attention to lights and lighting. Hope you find it enjoyable.",
+	"version": "a6542b",
+	"date": "2015-12-07 11:45:44",
+	"files": [
+		{
+			"filename": "chase.wad",
+			"size": 179212,
+			"crc": 987364728,
+			"md5": "cad39a3ea95465e8d71dc4ccc5681e22",
+			"sha1": "a6542b333c58ae29afb97109ab9f93c9dbe69143",
+			"sha256": "cf411dca1f67ee33d3693a6eb4a8e54cd7955f44148ba269ed757da9fed783b0"
+		}
+	]
+}

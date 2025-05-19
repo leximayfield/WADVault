@@ -1,0 +1,16 @@
+{
+	"uid": "c_sand.wad",
+	"name": "Castles Made of Sand.",
+	"description": "The second map I've made for Doom. The first one you can download above. This level was actually designed on paper at work during the making of my first level back in December 2002. This is what I remember from it and is pretty similar to the design I think. There is only one skill level in this so bad players will probably find it difficult and good players might find it easy. I find it challenging.",
+	"date": "2014-12-15 22:45:54",
+	"files": [
+		{
+			"filename": "c_sand.wad",
+			"size": 254753,
+			"crc": 66666589,
+			"md5": "40b4cd8d23b76606c9c995dcb4ae2635",
+			"sha1": "2169f4cf9746b7c13281ea7ddce4fe714f51310b",
+			"sha256": "0cfb9183bb113e3084809b9f09267dd6601374b642c2a576ce8d9468ead6a1fd"
+		}
+	]
+}

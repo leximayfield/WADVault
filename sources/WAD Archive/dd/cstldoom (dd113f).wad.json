@@ -1,0 +1,17 @@
+{
+	"uid": "cstldoom (dd113f).wad",
+	"name": "Castle Doom",
+	"description": "Single-player megawad that pits the player against the forces of Castle Doom. I tried to keep it generic so that the various advanced ports can all run it the same way.",
+	"version": "dd113f",
+	"date": "2015-03-05 08:56:52",
+	"files": [
+		{
+			"filename": "cstldoom.wad",
+			"size": 51064623,
+			"crc": 4092280803,
+			"md5": "f01c8e9883e7b01675137688e08a1110",
+			"sha1": "dd113fa8efeb86a4d42fd3455d402b13c0bdf434",
+			"sha256": "398aa2dcd406735a1683d9b00acffeae06145933d2cb8f9b12c759e1bc4200b8"
+		}
+	]
+}

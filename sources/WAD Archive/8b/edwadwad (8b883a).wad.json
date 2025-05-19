@@ -1,0 +1,17 @@
+{
+	"uid": "edwadwad (8b883a).wad",
+	"name": "Edwad Wadwad (ED-209 Demo WAD)",
+	"description": "A medium-sized single-player wad. Compact. Briefly tested in deathmatch. Might be alright with three or four players. May seem a bit tough at the start, but gets easier. For more fun, don't be too cautious. Wade in.",
+	"version": "8b883a",
+	"date": "2018-04-16 07:54:34",
+	"files": [
+		{
+			"filename": "edwadwad.wad",
+			"size": 173750,
+			"crc": 2008111220,
+			"md5": "afee6e80353b077d473e17841e575c44",
+			"sha1": "8b883a13d2d8141c38892c4323bdc15b7510f9a2",
+			"sha256": "51454d3ad4d6e1eec93bf30e1727933ad3d44026320936516a988ec8a7545b42"
+		}
+	]
+}

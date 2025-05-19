@@ -1,0 +1,17 @@
+{
+	"uid": "home (bbbd5c).wad",
+	"name": "Home Invasion",
+	"description": "For more Doom 2 levels and other horror-themed entertainment products visit http://www.innerdemonentertainment.com/",
+	"version": "bbbd5c",
+	"date": "2015-09-15 19:20:29",
+	"files": [
+		{
+			"filename": "home.wad",
+			"size": 245610,
+			"crc": 3942778027,
+			"md5": "6d17f1c494ab2617516dc3c06347da57",
+			"sha1": "bbbd5c17dac5ecab85980a50c3bd1adc75ce9488",
+			"sha256": "a79e51f23c404dc7e6f289880d348b47d94b25af16755d99762714bda9e1f596"
+		}
+	]
+}

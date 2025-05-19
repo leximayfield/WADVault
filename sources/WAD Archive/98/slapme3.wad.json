@@ -1,0 +1,16 @@
+{
+	"uid": "slapme3.wad",
+	"name": "Slapme",
+	"description": "This is an updated version of slapme2 for Doom II. It's primarily designed for deathmatch set around a castle courtyard, but has some beasties added for solo or co-op play (mostly just to let you know where the other player is). There are lots of good sniper spots which usually have sniper spots overlooking them also... To quote Andrew Hulme ... \"Give your mates a right good slapping with this wad.\"",
+	"date": "2013-11-02 15:57:09",
+	"files": [
+		{
+			"filename": "slapme3.wad",
+			"size": 56986,
+			"crc": 1206461282,
+			"md5": "6c2d9ec5d7f950aa022917416a74787c",
+			"sha1": "98a776a156ab4566ea5e447e88870f34e50cab39",
+			"sha256": "130b942444f64a425d53adcf0afddbb82a013fc9650403c58f26afd0889e0477"
+		}
+	]
+}

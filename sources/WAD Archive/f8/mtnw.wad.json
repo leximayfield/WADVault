@@ -1,0 +1,16 @@
+{
+	"uid": "mtnw.wad",
+	"name": "Maps that Never Were",
+	"description": "The idea started one day while I was searching for a file via ZDaemon's getWAD service. You simply enter the file name you want, and it searches the database to see if the file exists. If it does, you download it and continue with your day as usual. I don't recall totally, however I think I was looking for a file whose name had something to do with blood. I started typing stuff that come directly to mind: demon.wad, dark.wad and other such general names that could possible get me somewhere. Even though I never found the file I was originally looking for, I did however find a number of one-map, 100 or so monster levels that seemed pretty decent and played nicely. Many of them looked like semi-successful first map attempts, while others dated back to 95'. So I thought - why not put them all in a giant wad and play them? In the end, it's exactly what I did. And so I called it 'maps that never Were', because I believe these maps - that have sat in a dark corner of the internet for quite some time - deserve a little light. The wad is designed for Zdaemon and can be played single-player or in a coop server. Because many maps are generally easy to race through, I have made a deHACKED patch that sets the max health limit to 70 and 120 with powerups. Excellent choice for survival gamemodes.",
+	"date": "2013-04-21 13:47:48",
+	"files": [
+		{
+			"filename": "mtnw.wad",
+			"size": 5229816,
+			"crc": 2750651334,
+			"md5": "128b318a1874a83011c2a2313bec0a49",
+			"sha1": "f870b5adb8ad2f94ef665150f7674ab3897541fd",
+			"sha256": "ca35b843936f036da74de2560c5d33641f1771cd9d54dac5178ce89b9b1c4b56"
+		}
+	]
+}

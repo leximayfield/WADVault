@@ -1,0 +1,17 @@
+{
+	"uid": "undrgrnd (e68ee5).wad",
+	"name": "UNDRGRND.wad",
+	"description": "large custom PWAD. May run a bit slow on some systems.",
+	"version": "e68ee5",
+	"date": "2016-02-07 20:35:15",
+	"files": [
+		{
+			"filename": "undrgrnd.wad",
+			"size": 238556,
+			"crc": 1562451527,
+			"md5": "541dba58e9518015724ba80aef9cbf89",
+			"sha1": "e68ee56cd37dbb0930a3e10c1f80f8748488cd97",
+			"sha256": "9ae421eaa9652e93135cdee51140492f75bb4ac0aef293219d2bce34f06e500c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "9RING12 (ab47cf).wad",
+	"name": "9 Rings of Hell",
+	"description": "A 9-level Deathmatch episode based on circular-shaped rooms. Meant to be Deathmatch (1 or 2), but has both monsters and difficulty levels, and can be played as either single-player or cooperative. (Single = mass carnage!)",
+	"version": "ab47cf",
+	"date": "2013-11-04 20:18:16",
+	"files": [
+		{
+			"filename": "9RING12.wad",
+			"size": 192057,
+			"crc": 125745702,
+			"md5": "b20c5b0566c3aaf89e7167414406c958",
+			"sha1": "ab47cffcaaf1357796de1f946f27ea000c286081",
+			"sha256": "0a19506c7ed0a7a3af7a41efbf8b7835d4f65ac9e810247df488e6a515fc48d1"
+		}
+	]
+}

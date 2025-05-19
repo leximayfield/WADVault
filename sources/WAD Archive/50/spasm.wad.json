@@ -1,0 +1,16 @@
+{
+	"uid": "spasm.wad",
+	"name": "Spasm",
+	"description": "A simple map I made in a day when I was bored.",
+	"date": "2019-11-13 02:10:03",
+	"files": [
+		{
+			"filename": "spasm.wad",
+			"size": 154135,
+			"crc": 3306572153,
+			"md5": "857eca2dd3bdaa805fd59b160fe3e46d",
+			"sha1": "5059b06e2f15fc52a8eba0b2a4cb2c27ff0b1245",
+			"sha256": "df8ad1635c6654ed66bc0f2c7ca7be5fc4b5204bcbea20b49940abb178044359"
+		}
+	]
+}

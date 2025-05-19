@@ -1,0 +1,17 @@
+{
+	"uid": "building (a6494a).wad",
+	"name": "Building of Death",
+	"description": "A building, alot of secrets, alot of sniper spots. not too big, and not too small...",
+	"version": "a6494a",
+	"date": "2016-02-07 20:35:56",
+	"files": [
+		{
+			"filename": "building.wad",
+			"size": 49515,
+			"crc": 931463774,
+			"md5": "8336068fc7cded8e850631f4476acb88",
+			"sha1": "a6494a4654ca12ee8b4e1e920ce490c34c0a1bb9",
+			"sha256": "a9bebd6a3bc79e56419d5751e58d53127aa97e38af2e436dc68b519b219c75fd"
+		}
+	]
+}

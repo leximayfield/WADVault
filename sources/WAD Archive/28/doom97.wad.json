@@ -1,0 +1,16 @@
+{
+	"uid": "doom97.wad",
+	"name": "DOOM97.WAD --> DOOM97S.WAD",
+	"description": "The very first Offline-Deathmatch level all over the Doom world, I hope. Your aim is to kill all the bad guys - except me. After doing that you have to running down the street, that's all - and perhaps a little bit more to do for you. There is only one absolute deadly trap in the level, so save your game every hour :*)",
+	"date": "2014-12-18 22:30:38",
+	"files": [
+		{
+			"filename": "doom97.wad",
+			"size": 956600,
+			"crc": 1802417532,
+			"md5": "d5a5cf74c3cc3e8cc46e3c44b3707e2a",
+			"sha1": "28c77ef2625247dbc7ab23562d267cd3f68dfceb",
+			"sha256": "765cd99a74cfd749226877523a99013052349810e65316b3d78de024f9dcc3fa"
+		}
+	]
+}

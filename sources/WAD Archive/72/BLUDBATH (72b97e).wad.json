@@ -1,0 +1,17 @@
+{
+	"uid": "BLUDBATH (72b97e).wad",
+	"name": "bloodbath",
+	"description": "a bath for deathmatch only, where you got enough frag to make B.B.Q",
+	"version": "72b97e",
+	"date": "2014-01-07 22:03:46",
+	"files": [
+		{
+			"filename": "BLUDBATH.wad",
+			"size": 57414,
+			"crc": 2624799396,
+			"md5": "99f3b4ef840fd045fb69f0ac0a407b9d",
+			"sha1": "72b97e54195b0048977caef74e053643f015f753",
+			"sha256": "b2933dfde705a670cec3fb62db1f75494fcddbee04bd476b72d666c48f74a025"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "castle (5599e1).wad",
+	"name": "Castle Arena",
+	"description": "For more Doom 2 levels and other horror-themed entertainment products visit http://www.innerdemonentertainment.com/",
+	"version": "5599e1",
+	"date": "2018-04-16 08:14:44",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 70070,
+			"crc": 3043226437,
+			"md5": "aa2e8111d3f6f6012c60db48064df0e3",
+			"sha1": "5599e1c103636bf39ccd3458bdd7171cef0464e0",
+			"sha256": "6dd1e75bd7e4a200677a0cb2c4761466580fd5d54a1f9421ea0906421849bfef"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "twisted (67d0f3).wad",
+	"name": "Twisted tower of death",
+	"description": "You have arrived at the legendary tower complex of the demons. Escape in one piece.",
+	"version": "67d0f3",
+	"date": "2014-12-29 16:42:55",
+	"files": [
+		{
+			"filename": "twisted.wad",
+			"size": 464456,
+			"crc": 864692125,
+			"md5": "98073f63f61d6a6c551e7d82ac331ff7",
+			"sha1": "67d0f3667457026a025c358f8350c32e850158ed",
+			"sha256": "bf966d6ad0cd073fbfc0cfd04a0d7a72cb6b6064223417a6c043226902a4ab3a"
+		}
+	]
+}

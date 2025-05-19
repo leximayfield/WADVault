@@ -1,0 +1,16 @@
+{
+	"uid": "rainbow.wad",
+	"name": "Rainbow Plasmagun",
+	"description": "After the release of a Plasma Pack by Protojo at the SkullTag Forums, It was highly requested for someone to make a \"Rainbow Plasmagun that fired random colored plasma\" So here it is.",
+	"date": "2014-12-11 22:22:51",
+	"files": [
+		{
+			"filename": "rainbow.wad",
+			"size": 4412,
+			"crc": 2555724379,
+			"md5": "19c2e4769d5a101f9539cd8b6165d5b0",
+			"sha1": "a8f34d098d9b77571f3e61a46767eb842d22cbda",
+			"sha256": "0a70a83433f09a2afaa9096d2a59b93b48b5c12422838f47a4e2170a70a1ff91"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "asylum (160039).wad",
+	"name": "The Asylum",
+	"description": "DO NOT USE FREE LOOK, JUMP, OR OTHER POST-DOOM SETTINGS! A linier, survival-horror-style level inspired by the Asylum from the game Shadowman. It seems to work ok with gzdoom, skulltag and zandronum, but was broken by both doomsday and prboom+. Despite its dependence on zdoom mechanics, this level was NOT designed to accommodate any features beyond the original doom principles and as such, something as simple as free look and the ability to jump (to say nothing of cheat codes etc.) may easily break it. So use traditional doom controls with jump disabled. Also, it is not meant to be pitch black in the first several rooms, so if that happens you need to turn up the brightness. To survive the level, I suggest you keep fast movement toggled on. Some trial and error is inevitable, but how much will depend on your observance and on un-Doom-like common sense. If you wish to save your progress, do so carefully, because there are many ways to screw yourself up, even if you don't yet realise it. Using multiple save slots is best so you can backtrack when you need to.",
+	"version": "160039",
+	"date": "2015-12-29 13:55:08",
+	"files": [
+		{
+			"filename": "asylum.wad",
+			"size": 421841,
+			"crc": 864524959,
+			"md5": "3cbf1696ef66a582cdf87e1df46570bf",
+			"sha1": "160039c667414c65ee01cfa42e85ea85ae57bc60",
+			"sha256": "b85da556cf255137417866bffa7f4ede3f11db7a19655f9b54a01aa8508dad76"
+		}
+	]
+}

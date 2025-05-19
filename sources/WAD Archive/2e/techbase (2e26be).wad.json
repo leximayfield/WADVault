@@ -1,0 +1,17 @@
+{
+	"uid": "techbase (2e26be).wad",
+	"name": "TECHBASE.WAD   v1.0",
+	"description": "After the \"Doom\" incident an interplanetary war was sparked between the Humans and the creatures from Hell. You were sent on a mission to a major enemy military installation to gather intelligence....but you were captured. Sl`Tek Kor, Commander of the 121st Infantry (also a spider daemon), found you lurking around and imprisioned you....but not before you were able to find out that a major weapons shipment is about to take place.",
+	"version": "2e26be",
+	"date": "2013-11-02 16:03:17",
+	"files": [
+		{
+			"filename": "techbase.wad",
+			"size": 59884,
+			"crc": 3575648820,
+			"md5": "6ed53f1a23daf655d848c87270ada4d4",
+			"sha1": "2e26be9ddae0ba69ee045c454a9fc25c49059a3a",
+			"sha256": "d04fa3f8999dc3c11b77281f6e4b2898f3c2bf7af06826070f669cbb0c77f072"
+		}
+	]
+}

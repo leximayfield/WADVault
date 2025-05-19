@@ -1,0 +1,16 @@
+{
+	"uid": "audit.wad",
+	"name": "UAC's Auditorium",
+	"description": "Based very loosely on the floor plan of the Singapore Press Holdings auditorium",
+	"date": "2014-12-14 21:10:15",
+	"files": [
+		{
+			"filename": "audit.wad",
+			"size": 31364,
+			"crc": 1321618841,
+			"md5": "18d1c30965c89bdafbe74effde4bcef9",
+			"sha1": "e3aa8e8dbcd9f983b0698eb43a314bf0cc3e4eab",
+			"sha256": "c760c2c7f34c8331fab811a21bbc16a3a5f15a655ae65a09f6d893fb0c3f24ed"
+		}
+	]
+}

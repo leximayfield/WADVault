@@ -1,0 +1,16 @@
+{
+	"uid": "iceworldgl.wad",
+	"name": "ICEWORLD with OpenGL nodes",
+	"description": "ICEWORLD.WAD is a copy of Counter Strike map FY_ICEWORLD, and",
+	"date": "2018-03-27 21:12:31",
+	"files": [
+		{
+			"filename": "iceworldgl.wad",
+			"size": 89103,
+			"crc": 1144810416,
+			"md5": "7de9bbefbe85926227b733d6e054f619",
+			"sha1": "163d9a0e05882f40db761d8983fb38ac4f4a778c",
+			"sha256": "ee4e2ba8245ceea58e7f60ac65db0fd7fa23f36652cf1324fbf09aba21ee6397"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "primus (d951b8).wad",
+	"name": "PRIMUS.WAD",
+	"description": "This is my first WAD ever,so it is noticeably lacking some of the more sophisticated features like rising staircases etc.I wrote it as a learning experience. There are lots of monsters,and the play level is moderate.There are also a number of secret rooms and no shortage of weapons.",
+	"version": "d951b8",
+	"date": "2013-11-02 15:49:27",
+	"files": [
+		{
+			"filename": "primus.wad",
+			"size": 160578,
+			"crc": 4089690716,
+			"md5": "489130e8b186f804772476a83e4092da",
+			"sha1": "d951b89dc51c023a880135c690efa6101a4c931d",
+			"sha256": "b5863d3bb2d4079cd8a9a0e8d6a29dc148dbe6baca7048c4a607ac8b5b2f1033"
+		}
+	]
+}

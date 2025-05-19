@@ -1,0 +1,16 @@
+{
+	"uid": "pointoc.wad",
+	"name": "POINT of CONTENTION",
+	"description": "Hello all my dooming friends! I'm here to release a map I've created recently, Point of Contention. There are five spawns - Two start with the chaingun and three with the shogun. There is a central SSG that is equidistant from each spawn. There is also a plasma gun, blue armor and soulsphere present. This makes for a frantic 1v1 map which can be played in two different ways: Option#1 (Recommended) - Play with NOS flags: Items Respawn, Freelook on, No Jump. With NOS flags, this map will be all about moving through this tight little spaceship as fast as you can. Continue to grab the soulsphere and blue armor, then nab the BFG and re-juice it with fresh ammo from the provided plasma gun. Option#2 - Play with pure OS flags: Freelook, Jumping, and Item respawn all OFF. This creates a map where you will absolutely need that SSG, and it will become a king of the hill scenario around the BFG lift. Whoever is best at defending it will come out on top, but they will have to grab that plasma gun to reill their ammo at some point, so keep a sharp eye on your enemy! This wad is very unforgiving to new players - It's designed to reward knowledge of your guns, constant movement and reading your opponent. I don't think I'll make another map quite in this style again. Oh, and of course, this runs in Zdaemon, Zandronum and Odamex. I had a lot of fun making it and hope you have a lot of fun playing it.",
+	"date": "2015-08-17 22:42:02",
+	"files": [
+		{
+			"filename": "pointoc.wad",
+			"size": 524254,
+			"crc": 3339864157,
+			"md5": "9314f9f9af39afcdd5acdb9ec614182e",
+			"sha1": "9f3a6065e2dc8bed89e47991a6b6f31dbc968afb",
+			"sha256": "03e5cfcbf036cb2e735402453920ea238998b9f746c82339201d6832b4cb4f7f"
+		}
+	]
+}

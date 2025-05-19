@@ -1,0 +1,17 @@
+{
+	"uid": "jump (18574b).wad",
+	"name": "JUMP.WAD",
+	"description": "This file is a modified version of episode 3 level 6. I modified it for deathmatch play and basically kept the same map, but re-colored it,and raised and lowered some of the floors. This level also contains an overkill of weapons and health. (the name comes from the big JUMP in the northern section of the map, 500 to -511)",
+	"version": "18574b",
+	"date": "2013-11-02 15:14:53",
+	"files": [
+		{
+			"filename": "jump.wad",
+			"size": 145734,
+			"crc": 1610164758,
+			"md5": "571c705b41943f81d94ad61f35d15fa5",
+			"sha1": "18574b938b51ea834d717763dcd65087d7f71bed",
+			"sha256": "1dfa7ee9def0b0b3ee08b4b8344a7face62e25366695a2f9fdb2ac90ac57f7cb"
+		}
+	]
+}

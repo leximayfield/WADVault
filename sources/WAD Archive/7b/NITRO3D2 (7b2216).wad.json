@@ -1,0 +1,17 @@
+{
+	"uid": "NITRO3D2 (7b2216).wad",
+	"name": "NITRO3D2.WAD (revision 4 *see additional*)",
+	"description": "My Third WAD. (First for Doom ][) Designed for single player, multiple player or Deathmatch modes All creatures appear in all dificulty levels. Deathmatch and Multiplayer modes have not been tested",
+	"version": "7b2216",
+	"date": "2013-11-06 22:29:12",
+	"files": [
+		{
+			"filename": "NITRO3D2.wad",
+			"size": 194571,
+			"crc": 1236629094,
+			"md5": "193f1fb1b3aede87065ba109338ff0a0",
+			"sha1": "7b2216eea9aaa807d541b21f949fb67dca383ce5",
+			"sha256": "1fc19278f2079a5c211e7282dea0cec66fffd1bd6c84b6953addea00cefb16ba"
+		}
+	]
+}

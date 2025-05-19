@@ -1,0 +1,16 @@
+{
+	"uid": "cntrmsur.wad",
+	"name": "CNTRMSUR.WAD  (Countermeasure)",
+	"description": "A DEATHMATCH ONLY wad for Doom][. The general idea I had when designing this level was to keep it fair. Everyone starts in a similar area and gets a chance to pick up a shotgun before they enter the arena. Almost anything that one player may decide to try, an alert player can attempt to prevent. The exit is cooperative, easy to figure out. (Hint: There may be a little more than the exit switch in the red room! keep an eye open for it to lower when someone goes for the rocket launcher, and you'll be well prepared to handle them when they re-enter the arena! :) )",
+	"date": "2014-12-15 22:53:26",
+	"files": [
+		{
+			"filename": "cntrmsur.wad",
+			"size": 258204,
+			"crc": 2308152131,
+			"md5": "9a183acac386bb22a655a8825c6dfde5",
+			"sha1": "1a792d8e73e7438f1099b8d42c3f768d92eb8cf8",
+			"sha256": "57e9d5fddf97cd77175f2979c6722e6490e781582fc7b1b7debdb1b74ad8db37"
+		}
+	]
+}

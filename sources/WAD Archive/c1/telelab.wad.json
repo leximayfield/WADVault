@@ -1,0 +1,16 @@
+{
+	"uid": "telelab.wad",
+	"name": "UAC Teleportatation Labs",
+	"description": "You are a space marine, blah, blah, blah. You are in one of the UAC's teleportation laboratory's when Hell starts breaking in, through a teleporter. If in \"I'm To Young To Die\"-\"Hurt Me Plenty\", then the invasion has slowed. If in \"Ultra Violence\"-Nightmare\", the monsters are still coming in, as fast as in the beggining.",
+	"date": "2015-01-14 14:50:56",
+	"files": [
+		{
+			"filename": "telelab.wad",
+			"size": 236086,
+			"crc": 1143873915,
+			"md5": "5c871684891ce9fc84f8eb5bfd1c4af4",
+			"sha1": "c18f70ae2178cfb3c732ec2e074ee3d0f890bbd6",
+			"sha256": "f60abc1a292aea9e2392218162217a19008b9d9473adec01899b3f8cf73fea34"
+		}
+	]
+}

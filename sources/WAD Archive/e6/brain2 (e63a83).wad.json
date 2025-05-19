@@ -1,0 +1,17 @@
+{
+	"uid": "brain2 (e63a83).wad",
+	"name": "BRAIN2",
+	"description": "New level.",
+	"version": "e63a83",
+	"date": "2014-12-15 23:04:17",
+	"files": [
+		{
+			"filename": "brain2.wad",
+			"size": 44808,
+			"crc": 563229156,
+			"md5": "378eb4159ac32f0ceeb3183e425d6acd",
+			"sha1": "e63a83cdacd54d29abe29b1ee791fc9b8074901b",
+			"sha256": "fa232c352098ed707349af5fb7e40a51a77e68c0251ab7fa8e898703aa92971c"
+		}
+	]
+}

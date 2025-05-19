@@ -1,0 +1,17 @@
+{
+	"uid": "tcdoom11 (7454a4).wad",
+	"name": "TC-DOOM v1.1",
+	"description": "Amongst my close DOOM playing crowd, we always",
+	"version": "7454a4",
+	"date": "2014-12-03 20:07:01",
+	"files": [
+		{
+			"filename": "tcdoom11.wad",
+			"size": 359830,
+			"crc": 2168449564,
+			"md5": "52b39cf20492eaae8435be9483817ad2",
+			"sha1": "7454a41567041689206c79285b474b102a5abb51",
+			"sha256": "dd40828378a9dbadc99c92cb35fc06545bf1f670a976ddc3b02bbf9b82f4d76f"
+		}
+	]
+}

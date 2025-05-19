@@ -1,0 +1,17 @@
+{
+	"uid": "MAP32 (1f9899).wad",
+	"name": "cato_01",
+	"description": "Update does not include any map changes. All skills are implemented.",
+	"version": "1f9899",
+	"date": "2015-06-29 12:39:06",
+	"files": [
+		{
+			"filename": "MAP32.wad",
+			"size": 93421,
+			"crc": 1935334446,
+			"md5": "9f4e396f1712a94dfd3b078d4c8ca91f",
+			"sha1": "1f989994acf445836fcde41b121be767cc41935c",
+			"sha256": "29314dd480461f179f41a79bb981f452dbc5bb31b3881fd79651960fc13b6bde"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "CLINIC (67653f).wad",
+	"name": "The Clinic",
+	"description": "\"The Clinic\" is so named because parts of it are modeled after a real medical clinic. This map is incredibly large and is quite difficult. You'll begin outside of the clinic and must find all three keys before exiting. Unfortunately, the monsters at the reception desks will be less than helpful. Not only will you be treated to almost every type of enemy, but you'll see many interesting sights along your way. You'll see demonic artwork, a fountain of blood, computer diagnostic centers, and tons of secret items that taunt you. This clinic is very different from the medical clinic it was designed from!",
+	"version": "67653f",
+	"date": "2014-12-15 21:41:01",
+	"files": [
+		{
+			"filename": "CLINIC.wad",
+			"size": 186862,
+			"crc": 3998329874,
+			"md5": "510ea4e4e917749d2c56d5d27b75342f",
+			"sha1": "67653fee20e3de7f4e1314e642e778e4876e44ee",
+			"sha256": "6547550167f2a973bfe99d569cbae5ed0dbe60f58b959651d01af094c4ec90f8"
+		}
+	]
+}

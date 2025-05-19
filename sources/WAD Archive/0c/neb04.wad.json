@@ -1,0 +1,16 @@
+{
+	"uid": "neb04.wad",
+	"name": "Nebula 95: Drown Stone Cassette B",
+	"description": "Fourth entry in a series of small vanilla doom maps in a space adventure built off personal nostalgia. Each entry consists of a two short maps: an introductory monsterless map with a single secret to find before tackling the mission, and the main map itself. I release them in the order they are made, but the difficulty depends on the map. Drown Stone Cassette A (just Drown Stone) is based on my submission for Snakes' Secret Santa project, in which I was tasked at imitating Forty-Two/stewboy's style. I originally planned on using this map as part of the Nebula 95 series, but I realized toward the end of making it that it didn't quite fit for a few reasons: it was boom-compatible, and it used new non-sky textures in the map, which sort of went against the style I had in mind for this series. I liked it too much the way it was though, so I released this version to the archive as Dstone.wad. For the second version (the one you're looking at), the resources were changed and it was optimized to be vanilla-compatible, which meant making changes to the architecture and gameplay of the map. If you want to play a more direct action-oriented styled map, try out DStone.wad. If you want to play a slightly more puzzle-oriented cheesy nineties version of the map, give this one a go.",
+	"date": "2018-04-14 21:40:57",
+	"files": [
+		{
+			"filename": "neb04.wad",
+			"size": 975978,
+			"crc": 2737516403,
+			"md5": "23a00afee27cb3715e7ad921098e4bd1",
+			"sha1": "0c1bb24aaa351952f4ee1f33cd748342ec8c3c5d",
+			"sha256": "7903ac8cc27ed9cc9a3d1af3204fb4c1dd4249232af331ad1e307f58d6f00c06"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "kaos (298a41).wad",
+	"name": "Intense KAOS",
+	"description": "6 QUALITY levels, new grafix, new sounds",
+	"version": "298a41",
+	"date": "2014-01-11 11:15:13",
+	"files": [
+		{
+			"filename": "kaos.wad",
+			"size": 533059,
+			"crc": 1620474700,
+			"md5": "a4f3a8b8c45950f2929a4116b3655671",
+			"sha1": "298a4176ea0427315d87a1b7293a9028967dec26",
+			"sha256": "b617b317b661238977af877289d1fe6c0481da80c528fa9c768708cef110b4b6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "WAKE_DED (9e0137).wad",
+	"name": "MOONBASE",
+	"description": "You fell asleep on Earth, but you wake up somewhere else....is it a dream or are you really fighting for your life on a moonbase in another dimension?",
+	"version": "9e0137",
+	"date": "2013-11-14 14:15:14",
+	"files": [
+		{
+			"filename": "WAKE_DED.wad",
+			"size": 97299,
+			"crc": 3603808309,
+			"md5": "3a46535c30d4a888ad2dd20847e1e891",
+			"sha1": "9e0137b208e804559445524c5355d12abd9b2b18",
+			"sha256": "f5678fbb4bd4467b8da4e4cf4998b02a6ef00b92d52a0ce2f6aa03680a192e2a"
+		}
+	]
+}

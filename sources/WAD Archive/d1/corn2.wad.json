@@ -1,0 +1,16 @@
+{
+	"uid": "corn2.wad",
+	"name": "CORN2.WAD",
+	"description": "This is upgraded verdion of corn. I worked a long time converting the old wad to doom2 I hope you like it. There are a few more parts added, and I fixed a few minor bugs. ENJOY!!!",
+	"date": "2014-12-15 21:30:22",
+	"files": [
+		{
+			"filename": "corn2.wad",
+			"size": 135467,
+			"crc": 2595584355,
+			"md5": "6749a669eeb6550ba97cc0cae5654afb",
+			"sha1": "d181823e8205dc12e2cb63451a96c31b6430438c",
+			"sha256": "34c19f36768f65e5d802582d3a60d49dee83a3e686bb54d4cc84980eac78b409"
+		}
+	]
+}

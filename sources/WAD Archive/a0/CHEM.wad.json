@@ -1,0 +1,16 @@
+{
+	"uid": "CHEM.wad",
+	"name": "The Chemical Plant",
+	"description": "Good single player, puzzle solving level, based very loosely on some ideas from Hexen (another great game!!) Good Deathmatch level too.",
+	"date": "2014-08-30 14:01:45",
+	"files": [
+		{
+			"filename": "CHEM.wad",
+			"size": 125102,
+			"crc": 3921891703,
+			"md5": "be5d23a4f162c60ac968948400fa5a0f",
+			"sha1": "a026a93aacd2fa3d17baa5ccfae36bb0209fde23",
+			"sha256": "4dcf9bde3cfcb6b70b994b1ec802e185748a2c2bc1f6b7a647bdbc2a711f1e59"
+		}
+	]
+}

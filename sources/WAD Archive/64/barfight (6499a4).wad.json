@@ -1,0 +1,17 @@
+{
+	"uid": "barfight (6499a4).wad",
+	"name": "Barfight.WAD",
+	"description": "It's my first deathmatch level for Doom2. This level was inspired by a 3D pic I made with 3D studio max, which is the TITLEPIC for this level. I added a parking lot, a small office building, a bathroom, and a kitchen. Hope you have fun in this level! :)",
+	"version": "6499a4",
+	"date": "2014-12-15 21:20:54",
+	"files": [
+		{
+			"filename": "barfight.wad",
+			"size": 185448,
+			"crc": 429370746,
+			"md5": "b4bfbdaca3ab6ab81c57a8c5df88ed60",
+			"sha1": "6499a4837a3e5267021f39841aa683db46e59bf8",
+			"sha256": "0a67165002b929dfa6e8f7f3484a9aa299a367a268c74235f07b0eae76f3ddd0"
+		}
+	]
+}

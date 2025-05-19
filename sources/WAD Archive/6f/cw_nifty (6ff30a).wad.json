@@ -1,0 +1,17 @@
+{
+	"uid": "cw_nifty (6ff30a).wad",
+	"name": "CW's Nifty WAD",
+	"description": "Yet Another Nifty little WAD by CW. Pretty small, but lots of places to go. New sounds, new music.",
+	"version": "6ff30a",
+	"date": "2013-11-04 19:24:41",
+	"files": [
+		{
+			"filename": "cw_nifty.wad",
+			"size": 286287,
+			"crc": 2354899138,
+			"md5": "18cad6c2b95a49f99c3ed93e435c999e",
+			"sha1": "6ff30aba3011830c7fd17505e6b8048dbea3f756",
+			"sha256": "a4596bfc1d08a640c37ba7eef79fa2d37a8c377e545bf600e93896e9f89b9161"
+		}
+	]
+}

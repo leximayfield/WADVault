@@ -1,0 +1,17 @@
+{
+	"uid": "HELLSTEF (61b32e).wad",
+	"name": "The room of HELL",
+	"description": "A level for Doom II. I have included a LMP demo that show you it's very hard, you have to move quickly or else you gonna die. In the room of the Hell there is a door on the right side of the very big boss (he's sleeping don't worry about him). Open this door and you'll find some help, not 2 but 3 Archviles are waiting in this room to protect something ...",
+	"version": "61b32e",
+	"date": "2014-02-15 16:56:40",
+	"files": [
+		{
+			"filename": "HELLSTEF.wad",
+			"size": 60001,
+			"crc": 660985345,
+			"md5": "31e7eb03b35187a26a684f3d2d41a4e7",
+			"sha1": "61b32e6980e1559ba2e98abec3211f5c50d05ad0",
+			"sha256": "0c48e1e5c4255d22f7eef2ea8903e12bbb47fbc339fe9a9385d473bfcfd80d2f"
+		}
+	]
+}

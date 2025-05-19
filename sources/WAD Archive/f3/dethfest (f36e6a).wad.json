@@ -1,0 +1,17 @@
+{
+	"uid": "dethfest (f36e6a).wad",
+	"name": "Deathfest",
+	"description": "My attempt at finding the \"flow\" (That mystical force that makes a deathmatch wad so fraggin' good!). Try it you'll like it!",
+	"version": "f36e6a",
+	"date": "2014-12-03 20:00:22",
+	"files": [
+		{
+			"filename": "dethfest.wad",
+			"size": 38373,
+			"crc": 3608770449,
+			"md5": "1b5c56d824f0174f887e6a845df0c05f",
+			"sha1": "f36e6ae828b08a65ef052c55c99eed297b5d6b29",
+			"sha256": "0d9d05515dd50aa8ce8e58b8f199037c9e57dc9785668f656cb78fcca17fc022"
+		}
+	]
+}

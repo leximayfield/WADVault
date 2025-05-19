@@ -1,0 +1,17 @@
+{
+	"uid": "gotcha (072757).wad",
+	"name": "Gotcha Where I Wantcha",
+	"description": "This is a medium length level, attractively designed to test your reaction to multiple attacks (most of which you control), including some front/back/side attacks. All skill levels have been set and tested extensively for health, ammo and playability. UV is best played by experienced Doomers. I'd really enjoy watching someone beat this so, if you can handle it, send me a lmp.",
+	"version": "072757",
+	"date": "2014-12-18 23:10:44",
+	"files": [
+		{
+			"filename": "gotcha.wad",
+			"size": 299104,
+			"crc": 1687409704,
+			"md5": "b74eb6d6741f6c906cc2c7b9e19387d6",
+			"sha1": "072757d0ad91809b7e0b21f17f509d6616385617",
+			"sha256": "21dbf3a6d3a3b82919f98c4175cb1f3930b4b155483ec13f9c77a8408bc9dba0"
+		}
+	]
+}

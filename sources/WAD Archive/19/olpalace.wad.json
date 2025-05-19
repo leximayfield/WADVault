@@ -1,0 +1,16 @@
+{
+	"uid": "olpalace.wad",
+	"name": "The Overlord's Palace",
+	"description": "You are in the Overlord's palace, trapped! You tried to find a way out without starting something, but there was no luck. Now, you must defeat the Overlord, and claim your reward!",
+	"date": "2015-01-13 21:46:24",
+	"files": [
+		{
+			"filename": "olpalace.wad",
+			"size": 2337505,
+			"crc": 24098535,
+			"md5": "1ffcf55ab5127c267d3d2b6a41c42df8",
+			"sha1": "1932bdf794347a4e63b55a6c90454510f4cd0317",
+			"sha256": "4edea896af780338d97f720937ab0de60e207ee5f7bc9acd2efaeec6a61ac6fe"
+		}
+	]
+}

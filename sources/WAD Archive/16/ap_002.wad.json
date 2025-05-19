@@ -1,0 +1,16 @@
+{
+	"uid": "ap_002.wad",
+	"name": "The Underground",
+	"description": "Part two in a series of levels to be individually released and then eventually combined to form a final compilation. The Underground takes you into the depths of the hellspawn's rank, poisonous lair. Navigate the twisted confines of this place and overcome the horrors it contains to reach the surface once again.",
+	"date": "2014-12-21 17:01:54",
+	"files": [
+		{
+			"filename": "ap_002.wad",
+			"size": 124456,
+			"crc": 603795809,
+			"md5": "b939b111fee051b862ea6cbd927758ff",
+			"sha1": "161aadc1bfa11faf3498e5a5f7c4ca964b27d41b",
+			"sha256": "72f4798591f0ff3938a07564d61b0c1be5d7eab1fb047f7b133fa69cc5db7cbf"
+		}
+	]
+}

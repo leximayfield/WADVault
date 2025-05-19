@@ -1,0 +1,16 @@
+{
+	"uid": "HORSSHOE.wad",
+	"name": "Horse Shoe",
+	"description": "A classic, oldschool Doom 2 map. I got inspired to create this after watching the IGN 90 minutes video of cooperative game of Doom Episode 1 with John Romero. If you watched that video the map name should make more sense.",
+	"date": "2014-12-18 22:45:11",
+	"files": [
+		{
+			"filename": "HORSSHOE.wad",
+			"size": 406647,
+			"crc": 839272921,
+			"md5": "ea323bfd65a7e4aab7c6968382ab1df8",
+			"sha1": "bfdc57305c0ee34f800f75e4da09faab969ee709",
+			"sha256": "fa3998f703d417074ca44aaba3f4c5810815314a31db803c8f71c0fe5a8a1aca"
+		}
+	]
+}

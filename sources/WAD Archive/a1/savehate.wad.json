@@ -1,0 +1,16 @@
+{
+	"uid": "savehate.wad",
+	"name": "SAVE YOUR HATE",
+	"description": "Single-palyer map for EDGE 1.24 or later. Heavily infestated tech complex with some neat 3D architect. You can grab EDGE from http://edge.sourceforge.net",
+	"date": "2014-12-29 17:07:19",
+	"files": [
+		{
+			"filename": "savehate.wad",
+			"size": 650658,
+			"crc": 1025730379,
+			"md5": "fab2ea87421c91ee0208abc2b01b395e",
+			"sha1": "a12e5843e291c98c229bbac500a686cf39a745a0",
+			"sha256": "32d261ec5beb44c10ace8c8022856a29fb1feafa27a03422c180d7dce366cd8e"
+		}
+	]
+}

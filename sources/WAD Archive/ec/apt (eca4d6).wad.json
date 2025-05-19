@@ -1,0 +1,17 @@
+{
+	"uid": "apt (eca4d6).wad",
+	"name": "My Apartment!",
+	"description": "My apartment, just like the title says! (DOOM ][) This is my first attempt at making a PWAD, so be kind. BTW, my apartment is in Tampa, FL, near the Univ. of South Florida, where I am a Mech. Engineering Grad. Student. I started with the intent of making a DM only level, but put some monstas and an exit in for the hell of it.",
+	"version": "eca4d6",
+	"date": "2014-12-03 20:18:55",
+	"files": [
+		{
+			"filename": "apt.wad",
+			"size": 29158,
+			"crc": 4294363970,
+			"md5": "4784b0481031d486b763c64cddeb8c5e",
+			"sha1": "eca4d6a8b19863bf74875b3f78397e1df3f7530a",
+			"sha256": "fb5b0f2d067d4802b706a02de80d8945cd18c2321de263e2057b5676e27e6002"
+		}
+	]
+}

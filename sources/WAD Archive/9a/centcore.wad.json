@@ -1,0 +1,16 @@
+{
+	"uid": "centcore.wad",
+	"name": "The Central Core",
+	"description": "A medium sized tech base level. It starts out sort of easy, but the ending is extremely difficult, but possible (at least on HMP :) .) This is my first level that I think is good enough to upload (I've made 3 other ones.) Please comment.",
+	"date": "2014-12-15 21:25:05",
+	"files": [
+		{
+			"filename": "centcore.wad",
+			"size": 548163,
+			"crc": 1553483768,
+			"md5": "576497531a6add105bb87d3464ad454b",
+			"sha1": "9a3f7a88efe1ab23666c918b83ee00feb57cb660",
+			"sha256": "975714f5f1b2596a55346b397915e98f4b98dee3da766e39f3b0bc347358df7b"
+		}
+	]
+}

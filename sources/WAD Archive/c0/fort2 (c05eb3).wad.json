@@ -1,0 +1,17 @@
+{
+	"uid": "fort2 (c05eb3).wad",
+	"name": "FORT2.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. This level is based on FORT1.WAD, designed by yours truly. The structure of the fort has been modified. More monsters and secrets have been added. There is also an additional small building in front of the fort. There is now more than one way to enter the fort. Sorry, but there is still no BFG! Real warriors don't need one!",
+	"version": "c05eb3",
+	"date": "2014-08-30 14:27:43",
+	"files": [
+		{
+			"filename": "fort2.wad",
+			"size": 90713,
+			"crc": 1609076971,
+			"md5": "6ed12dc76dc6e801652bddf47db3a079",
+			"sha1": "c05eb3325cd361bc5c487ffe44542fd56d533f62",
+			"sha256": "550b58d0f9f49aaffb2e3526c65eda9bb888ffe144a4edb48f7aa29086e1966a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "apoclyps.wad",
+	"name": "Apocalypse",
+	"description": "A medium length level that depicts an old factory overrun by demons.",
+	"date": "2014-12-15 22:15:06",
+	"files": [
+		{
+			"filename": "apoclyps.wad",
+			"size": 243252,
+			"crc": 2692635306,
+			"md5": "d7ac102ae60cb5a9207fdf0b28a5c57c",
+			"sha1": "36ac99164a4ebdec8cc515c8398a2533771cc11d",
+			"sha256": "8a36ba6493b06534cfe6d675d9c676a1a771649e04d94b22445532b86de141b9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "spirec.wad",
+	"name": "Spire Complex",
+	"description": "A 10-map WAD including a credits level to stop you from progressing to DOOM 2 maps. Contains extended dehacked patch embedded inside WAD",
+	"date": "2014-04-02 12:45:36",
+	"files": [
+		{
+			"filename": "spirec.wad",
+			"size": 1924207,
+			"crc": 2890501346,
+			"md5": "0fb5248ae5a57ccf1d2f48d00c03c8bf",
+			"sha1": "3c78ed7d5bf8968c8d88050572558b3c3814944c",
+			"sha256": "63a2a78d3dcf91d8f4f5c96635b27a7a6c2c95b656c97f264d2a78925a8a0e84"
+		}
+	]
+}

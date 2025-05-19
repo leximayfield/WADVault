@@ -1,0 +1,17 @@
+{
+	"uid": "pandora (bcde69).wad",
+	"name": "PANDORA'S BOX",
+	"description": "This, my second level, was constructed around a few of the ideas I like in some of the original DOOM levels, namely: The roof top walk in E3M3. The ability to shoot to later areas across chasms in E1M7. The idea of teleports and switches to create a route to the exit room in E3M7. It is difficult with many early distractions. It can be completed in many ways, despite the number of switches which have to be set in order.",
+	"version": "bcde69",
+	"date": "2014-12-13 17:26:39",
+	"files": [
+		{
+			"filename": "pandora.wad",
+			"size": 161263,
+			"crc": 2571706017,
+			"md5": "098b5eed3c63e08a99af8fedd98baaf6",
+			"sha1": "bcde69d7ed2fde1813fd2e513c092d2bc2cf6455",
+			"sha256": "fbf328c02c7ce09271495fabd8062c39ee9a8fc8ed66d51914ec297435bc5e80"
+		}
+	]
+}

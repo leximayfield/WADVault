@@ -1,0 +1,17 @@
+{
+	"uid": "hydro (0a49f6).wad",
+	"name": "Hydro Power Plant",
+	"description": "Medium sized deathmatch level with cooperative and single player support",
+	"version": "0a49f6",
+	"date": "2014-12-15 21:23:24",
+	"files": [
+		{
+			"filename": "hydro.wad",
+			"size": 79700,
+			"crc": 2481499544,
+			"md5": "c132113fe673a1d6e30eff405d1312a0",
+			"sha1": "0a49f60b1ef3f132d3e07ed5a9bcfa3465bde237",
+			"sha256": "ee2a4a45fb57ab49de70fc5722abef4879bf621d758f6ddf5144d453d662197e"
+		}
+	]
+}

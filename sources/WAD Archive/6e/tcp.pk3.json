@@ -1,0 +1,16 @@
+{
+	"uid": "tcp.pk3",
+	"name": "Ten Community Project",
+	"description": "Fuzzball Fox came up with the concept of using only 10 textures for a map, and challenged the ZDoom forum members to create 15 single player maps and 5 multiplayer maps that used this limit, and also limit the player to a 2048x2048 area. The resulting mapset is split into two episodes, SinglePlayer (starting MAP01 and ending on MAP15) and Multiplayer, which can be played either as a second single player episode, or with up to 3 other players co-operatively (starting on MAP16 and ending on MAP20). All maps are pistol start compatable. The secret exit in the single player episode is in MAP12, which takes you to MAP21. The coop episode has no secret level.",
+	"date": "2015-01-13 10:36:38",
+	"files": [
+		{
+			"filename": "tcp.pk3",
+			"size": 15849776,
+			"crc": 3469575494,
+			"md5": "0b13e3e91caa2e21acb369bcb5151231",
+			"sha1": "6e515f7786647d8258f1f0fbb9772283351d2067",
+			"sha256": "18e17d9a06b68d2d00ff0790233189fa0a7d87d3d446899006dd531c91321b91"
+		}
+	]
+}

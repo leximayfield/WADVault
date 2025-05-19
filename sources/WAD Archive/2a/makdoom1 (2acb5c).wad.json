@@ -1,0 +1,17 @@
+{
+	"uid": "makdoom1 (2acb5c).wad",
+	"name": "MAK's Doomdom",
+	"description": "Cheektowaga, New York 14227 One classic Doom level complete with all three keys, traps, secret doors, and of course, lots of targets. This level is an attempt to mirror the mood and detailed maps that made the original game so much fun. Stress was placed on QUALITY. Some WAD files floating around have a thrown together feel.",
+	"version": "2acb5c",
+	"date": "2013-11-02 15:23:23",
+	"files": [
+		{
+			"filename": "makdoom1.wad",
+			"size": 714961,
+			"crc": 1131073775,
+			"md5": "1687a48267e6719eb37ce71de90607a8",
+			"sha1": "2acb5ce752b931a658f8258586299e9a8e7e59aa",
+			"sha256": "bafb6871b17525d9861cc361c2fb2d3ae6f0ebb86451073b42e87e56299704b3"
+		}
+	]
+}

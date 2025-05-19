@@ -1,0 +1,16 @@
+{
+	"uid": "xacrir.wad",
+	"name": "Xacrir",
+	"description": "Xacrir is a duel/small deathmatch map, inspired in UDM series, the map is perfect for OS games and NS as well, the player limit is 6 because there aren't enough spawns for more player, this work in Odamex, ZDaemon and Zandronum",
+	"date": "2014-12-15 22:24:59",
+	"files": [
+		{
+			"filename": "xacrir.wad",
+			"size": 146300,
+			"crc": 1005408616,
+			"md5": "7bd922fc8a2203b16873279af3d33a5d",
+			"sha1": "7b697c424fcb0b6a8af4d62782ae4359893c2a42",
+			"sha256": "3423e2e0ca56045f5328f51fee61752ba90dc2308063f29f40e8636d30a4b2f9"
+		}
+	]
+}

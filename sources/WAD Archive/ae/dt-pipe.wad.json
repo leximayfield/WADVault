@@ -1,0 +1,16 @@
+{
+	"uid": "dt-pipe.wad",
+	"name": "Pipe Bombs",
+	"description": "Replaces rocket launcher. Pipe bombs that you throw, hit the ground, wait, explode. There's no way to get them to use a detonator, so they work on a short fuse instead. You can collect a bunch of pipe bombs, but you need to find one with a primer before you can use them.",
+	"date": "2014-12-10 22:47:40",
+	"files": [
+		{
+			"filename": "dt-pipe.wad",
+			"size": 63484,
+			"crc": 2241269350,
+			"md5": "1ce7cb29a9d05bf12483cca2055d816b",
+			"sha1": "ae1f2b81955cbed9eef271cabc83fcc81bbf193d",
+			"sha256": "eb2d7143aab65d111b1273131c802c4f59ff95e00a49da8388d8e566a63010cd"
+		}
+	]
+}

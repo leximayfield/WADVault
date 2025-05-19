@@ -1,0 +1,16 @@
+{
+	"uid": "archpit9.wad",
+	"name": "Archpit 9",
+	"description": "Challenging level consisting of 3 main rooms, boss monsters and more.",
+	"date": "2014-12-15 21:47:01",
+	"files": [
+		{
+			"filename": "archpit9.wad",
+			"size": 51932,
+			"crc": 795554000,
+			"md5": "559e87334120fc07c41cada28e64157f",
+			"sha1": "049d54aee81bbf58a8162a755ec57972fa31f0e5",
+			"sha256": "e9ccbba1e001b7e589b6a1d355583468959a25efcd28b0c7e51821b39c5d5d2b"
+		}
+	]
+}

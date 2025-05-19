@@ -1,0 +1,16 @@
+{
+	"uid": "paina.wad",
+	"name": "Friendly Pain Elemental",
+	"description": "A small experiment level, the first of its kind (as far as I know). In vanilla Doom, there's a limit to 21 lost souls, so by trapping them in a room you can make pain elementals harmless. I set out to make a level that required you to protect a pain elemental and lead it through the level, so that it could fly around an obstacle and open a door or something for you. Unfortunately, I couldn't figure out how to design the level so that it could be led to do anything, so you don't actually have to protect it. The level is still decent without having to do that so I decided to upload it. The pain elemental in the first room makes a good shield.",
+	"date": "2015-01-14 23:01:13",
+	"files": [
+		{
+			"filename": "paina.wad",
+			"size": 231171,
+			"crc": 1793987922,
+			"md5": "464bb07c55bdb50bd6a4138f7750193d",
+			"sha1": "dcce4d48692b209521bdfd7cac06958cc0cea596",
+			"sha256": "a9fba3682502fc8edc696afa11a5b6f60bd301d4077d327e040edc33c2c445bd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "vilebug (58cdb3).wad",
+	"name": "Bug Out",
+	"description": "Okay, this wad showcases three of the bugs in Doom][. Yes, all three in one level. The Arch- Vile bug, where monsters become invunerable(both to you and to the blockmap), the VooDoo bug(as I like to call it)where you can walk around dead. And the little known Reverant bug, where his rocket goes in a continous loop.",
+	"version": "58cdb3",
+	"date": "2014-12-18 22:52:08",
+	"files": [
+		{
+			"filename": "vilebug.wad",
+			"size": 21148,
+			"crc": 2616962720,
+			"md5": "e966d654f3cc4f94aac57e33fcadea20",
+			"sha1": "58cdb306b905cf7d7ba8c413e62eb67da33e74f8",
+			"sha256": "94d6f007d7118a1e3c5f51e36ea08b895010232dd747b90d0c691b54db34e18c"
+		}
+	]
+}

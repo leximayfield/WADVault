@@ -1,0 +1,17 @@
+{
+	"uid": "hl (fc3938).wad",
+	"name": "Hell Legacy",
+	"description": "Just two levels which I created plus some other stuff like decorate, new textures etc... Maybe there is nothing amazing, because I am novice at level making, but I really tried my best.",
+	"version": "fc3938",
+	"date": "2014-12-22 19:02:59",
+	"files": [
+		{
+			"filename": "hl.wad",
+			"size": 5025670,
+			"crc": 4067969110,
+			"md5": "22621b40e7f1fe3eaa6c38c6999d10cc",
+			"sha1": "fc39381547f8f8aaaf838a544ef51469ed4c68e5",
+			"sha256": "68f3de6166cad5d2846c02ffefad32c9b47af58bfbffb7ac57b7e65bfd2aada0"
+		}
+	]
+}

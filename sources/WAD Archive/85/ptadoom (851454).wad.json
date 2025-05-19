@@ -1,0 +1,17 @@
+{
+	"uid": "ptadoom (851454).wad",
+	"name": "CAVLAB11.WAD",
+	"description": "My first WAD. Designed for single player mode with some nice surprises in it. Up until you get the red key it has a strange resemblance to where I work. In fact that Baron seems to be in my bosses office ;)",
+	"version": "851454",
+	"date": "2013-11-02 15:09:24",
+	"files": [
+		{
+			"filename": "ptadoom.wad",
+			"size": 77232,
+			"crc": 3787399370,
+			"md5": "715e9733015f14ddbe1c345dc6728b7d",
+			"sha1": "851454c219d9af687767f48319d2fa29ec6b88ea",
+			"sha256": "569b26c74a71ffa3c75043f6ecdb492b33ec7c56c216f41685b4a1ad1023b168"
+		}
+	]
+}

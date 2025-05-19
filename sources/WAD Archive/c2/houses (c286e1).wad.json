@@ -1,0 +1,17 @@
+{
+	"uid": "houses (c286e1).wad",
+	"name": "Houses",
+	"description": "11 deathmatch levels. The first 7 are house related",
+	"version": "c286e1",
+	"date": "2016-02-07 20:33:36",
+	"files": [
+		{
+			"filename": "houses.wad",
+			"size": 1581458,
+			"crc": 2055279592,
+			"md5": "b61a001cbf4913beb13065b32fb84098",
+			"sha1": "c286e108f8e808c5707018a742ea652664ab9058",
+			"sha256": "8620af4f0a8cb9a775c20870f76577891aebd5f467160f82c0901052f9ae8ce7"
+		}
+	]
+}

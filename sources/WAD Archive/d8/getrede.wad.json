@@ -1,0 +1,16 @@
+{
+	"uid": "getrede.wad",
+	"name": "GETREDE",
+	"description": "This is my first 2 level original wad. The first has metal textures in the beginning but then goes into a rock and brick textures. The 2nd level stares off with a night setting in a small house populated area, the idea is to get into the castle. But first you must get the RED key in the tower. HINT get the protective suit just prior in attempting to get the RED key.",
+	"date": "2014-12-18 22:16:03",
+	"files": [
+		{
+			"filename": "getrede.wad",
+			"size": 960455,
+			"crc": 3289565055,
+			"md5": "cd29bc9aeb1008239aa3a3a4a30a7499",
+			"sha1": "d836aeb3b4f2cc9b6cd80e8744b29dd2b2b68f23",
+			"sha256": "505bd9a6f380aee2cb42466f7bc36ce3905cb258dd6aec8fa56b45d3af1205cc"
+		}
+	]
+}

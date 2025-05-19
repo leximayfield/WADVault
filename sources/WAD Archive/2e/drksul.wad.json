@@ -1,0 +1,16 @@
+{
+	"uid": "drksul.wad",
+	"name": "Test2",
+	"description": "Doom II level packed full of action, monsters, and challenges. Great for all types of gameplay. Great design and construction.",
+	"date": "2014-12-18 22:14:42",
+	"files": [
+		{
+			"filename": "drksul.wad",
+			"size": 68464,
+			"crc": 2502901076,
+			"md5": "4e654f5571f8e101d71b90d01568f348",
+			"sha1": "2edca453fcd889b818e8d27aa74771254a9d726f",
+			"sha256": "77bb2aa8ca31b291a169ca32e89fb5aa3e78cc787c880e82309d70428192cdac"
+		}
+	]
+}

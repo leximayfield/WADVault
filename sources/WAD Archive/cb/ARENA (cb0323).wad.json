@@ -1,0 +1,17 @@
+{
+	"uid": "ARENA (cb0323).wad",
+	"name": "Arena",
+	"description": "An arena with several pillars in the center with enemies on them as turrets and sevaral other structures for cover. There are also several teleporters leading to miscelaneous treasures. NO EXIT. DESIGNED WITH ALT-DEATHMATCH 2.0 IN MIND(+ENEMIES COMING BACK). This is a battle of either pure geurilla tactics of of brute force.",
+	"version": "cb0323",
+	"date": "2014-02-15 16:47:19",
+	"files": [
+		{
+			"filename": "ARENA.wad",
+			"size": 52123,
+			"crc": 2040403839,
+			"md5": "8bb4ac128138d98ed7a839fd089c2440",
+			"sha1": "cb03230f661885f47c59c72590ce2f8edf4373b9",
+			"sha256": "73fd01cf94ad47cba9c72681879bf5d3ab07b89a00aa1a8f85053d4a6e942b5c"
+		}
+	]
+}

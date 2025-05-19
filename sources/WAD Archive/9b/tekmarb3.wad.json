@@ -1,0 +1,15 @@
+{
+	"uid": "tekmarb3.wad",
+	"description": "This map begun with a blood-marbled room as a possible candidate entry to CC2, but soon evolved into a textural experiment involving two facing worlds, tech vs marble. I tried to find a good tex combination, since most tech(*) textures do not fit well with marble. I hope I can satisfy this.",
+	"date": "2014-12-29 15:28:29",
+	"files": [
+		{
+			"filename": "tekmarb3.wad",
+			"size": 634487,
+			"crc": 864082356,
+			"md5": "4886af205035cdeccdc15a3041a68e00",
+			"sha1": "9bb8c1ab226995a5315fe3b889a961068285af3a",
+			"sha256": "443da58f92bef3fba6207609ac0532a44ff29b7bb2aef1a1c79f5acaddb24919"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "the-q.wad",
+	"name": "Gaming Outpost's Complimentary Deathmatch Level",
+	"description": "If you like this level in a two player deathmatch, imagine it with four people. This level is strictly for die hard deathmatch fanatics. Sorry, no monsters and no exits.(use the -timer parameter)",
+	"date": "2013-11-04 19:25:03",
+	"files": [
+		{
+			"filename": "the-q.wad",
+			"size": 111105,
+			"crc": 1572474979,
+			"md5": "65b662adad7b099d625e8c7f0dc35191",
+			"sha1": "7c3468d4744c24d29ed8e096dd3fb08aae2a76c3",
+			"sha256": "08aa82c92523de92f52d6f2afb5a9a2310de7562ea9f1cf9985243a5cdbcd603"
+		}
+	]
+}

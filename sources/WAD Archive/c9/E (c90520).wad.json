@@ -1,0 +1,17 @@
+{
+	"uid": "E (c90520).wad",
+	"name": "E.WAD",
+	"description": "An awsome level made specifically for DeathMatch. All weapons are available, with enough health to keep you just above 3%.",
+	"version": "c90520",
+	"date": "2014-01-07 22:08:34",
+	"files": [
+		{
+			"filename": "E.wad",
+			"size": 38417,
+			"crc": 3430643353,
+			"md5": "c109071d7086d49538baf87cfe936f2e",
+			"sha1": "c905201ff5c22bb166727fa836a6d2f03ef84519",
+			"sha256": "ac80de59860d84ab196ffd980f47ec3653a5259b697b322568f784aa6346077d"
+		}
+	]
+}

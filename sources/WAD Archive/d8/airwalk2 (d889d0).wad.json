@@ -1,0 +1,17 @@
+{
+	"uid": "airwalk2 (d889d0).wad",
+	"name": "Air Walk II",
+	"description": "This WAD was made for deathmatches. It does allow for single and co- operative play, but it would probably be boring. Are you good enough to do the second air walk?",
+	"version": "d889d0",
+	"date": "2014-01-07 21:51:41",
+	"files": [
+		{
+			"filename": "airwalk2.wad",
+			"size": 213245,
+			"crc": 479162089,
+			"md5": "9505166600851b15226b2524567b0f18",
+			"sha1": "d889d059ce13a1294aac330151e757ec37620c38",
+			"sha256": "15fb7ad1bc53cb029981b39e419c5cf47450c100962e00ce95d4914fc2f9224c"
+		}
+	]
+}

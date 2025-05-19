@@ -1,0 +1,16 @@
+{
+	"uid": "nog.wad",
+	"name": "NOG.WAD",
+	"description": "This level was made specifically for a Doom2 tourney we held and was received well by the players. It works nicely for anywhere from two to four players -- it's small enough so that you'll never spend too long looking for each other but big enough so that there's a bit of breathing room.",
+	"date": "2014-12-15 21:42:46",
+	"files": [
+		{
+			"filename": "nog.wad",
+			"size": 90299,
+			"crc": 376221179,
+			"md5": "6210105797af692387837e0e81818c58",
+			"sha1": "3e0fe68582be9655656646aa54c881d14bd2ea0f",
+			"sha256": "097037529bbd27c9a9fe7fed945a4e0731d9a9f944bd08cd64c05e609025a7d0"
+		}
+	]
+}

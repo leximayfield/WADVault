@@ -1,0 +1,17 @@
+{
+	"uid": "WATER (2cf6f0).wad",
+	"name": "Waterworld",
+	"description": "Deathmatch level, small for high frag count, two small pits with various ledges and rooms surrounding pits perfect for 2-4 players. It kicks ass, my fellow fragmeisters. Waterfall, lifts, and a BFG for good measure. Enjoy.",
+	"version": "2cf6f0",
+	"date": "2014-12-15 22:34:52",
+	"files": [
+		{
+			"filename": "WATER.wad",
+			"size": 238452,
+			"crc": 3781652004,
+			"md5": "16f8e4f39de54c6aa2f3188b57b362fa",
+			"sha1": "2cf6f0065feb2b32003a7225257518226aa84af3",
+			"sha256": "41a3d633261656a7f9f317f02a48c9a69b349ad664fbd67c353e89b385037112"
+		}
+	]
+}

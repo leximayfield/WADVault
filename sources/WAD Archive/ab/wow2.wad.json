@@ -1,0 +1,16 @@
+{
+	"uid": "wow2.wad",
+	"name": "WOW2",
+	"description": "Well, the idea came just before I finished WOW! That PWAD is jolly good but there are no modified sprites nor flats. That is because I had only dmgraph to work with, and this program cannot manage these sprites properly. So I downloaded Wintex. Then things have become different! This PWAD is a complement of the first one. I have modified all flats and ceilings and almost all static sprites (torches, columns, etc). In fact I didn't change the enemies because I still don't know what to do with the sounds, but I've got enough material for the graphic part.",
+	"date": "2015-09-15 17:06:48",
+	"files": [
+		{
+			"filename": "wow2.wad",
+			"size": 1350308,
+			"crc": 4104615923,
+			"md5": "557b21088393f07b1356368d5a77e738",
+			"sha1": "ab81da2445e7b8fa52831deede5b62705148f2b3",
+			"sha256": "5c4dc937656cd010bc5b69ed073bc5acfe1f60989450d23758ea4504b23af064"
+		}
+	]
+}

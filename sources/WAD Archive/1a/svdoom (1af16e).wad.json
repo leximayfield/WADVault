@@ -1,0 +1,17 @@
+{
+	"uid": "svdoom (1af16e).wad",
+	"name": "Server Doom",
+	"description": "This allows any specific supported engine to continuously run all maps from E1 to E4. This file ignores (End Episode), and well reroute to the next episode when the current is finished. Perfect for multiplayer proposes! Thanks to Kyle \"Skunkrocker\" Guthrie for the episode 4 intermission screen, that SVDoom utilizes and retrieved permission for. Version 1.00: 25 April. 2008 Original Release Version 1.01: 20 November. 2008 Fixed a possible HOM issue that sometimes occur in SkullTag. Version 2.00: 30 November. 2012 * Expunged CISVD.txt; superfluous ASCII file... * Added a new lump 'ZMAPINFO' for engines that support it * Applied level number capability; useful for ACS scripts. * Enforced 'No Jumping' and 'No Crouching'; changable * Enforce 'Smooth Lighting' variable to true. * Enforce 'Normal Infighting' * Ports that use MAPINFO should render intermission screens almost adjacent to those that use ZMAPINFO.",
+	"version": "1af16e",
+	"date": "2013-08-06 19:55:11",
+	"files": [
+		{
+			"filename": "svdoom.wad",
+			"size": 116177,
+			"crc": 3457240523,
+			"md5": "0b0f047798d5c4fef953d6acc9d1ef67",
+			"sha1": "1af16e10cad2709c576d4193640bb22702b5ec6d",
+			"sha256": "e5d60b15f08431a9f682b614c18e41f2ec8b7a0fd8bafe9fc44cafd7aa2b2416"
+		}
+	]
+}

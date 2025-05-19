@@ -1,0 +1,16 @@
+{
+	"uid": "firefall.wad",
+	"name": "FIREFALL for HEXEN",
+	"description": "Intended for deathmatch play. High altitude, volcanic fun.",
+	"date": "2014-12-31 12:16:35",
+	"files": [
+		{
+			"filename": "firefall.wad",
+			"size": 67558,
+			"crc": 1330739542,
+			"md5": "7b660287081cfa3987c7516b7f859dc5",
+			"sha1": "ef492a06913c8063a4471ca2d7711c6c521674a8",
+			"sha256": "8bade8846a9ca0af348e900e3d9fded2ec3b7ae8c1ed1839590b8c26bdd4b0e7"
+		}
+	]
+}

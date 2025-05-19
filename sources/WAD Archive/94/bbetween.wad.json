@@ -1,0 +1,16 @@
+{
+	"uid": "bbetween.wad",
+	"name": "THE BRIDGE BETWEEN",
+	"description": "A modified version of \"The Bridge Between\" map included in the Cyberdreams release. Less room and more attractive ambientation. There are enough starts for four players, but it should be played as a one-on-one deathmatch. Don't use this map with the original doom2.exe (you'll just be able to read an amazing \"Visplane Overflow\" message).",
+	"date": "2014-12-15 22:31:14",
+	"files": [
+		{
+			"filename": "bbetween.wad",
+			"size": 109608,
+			"crc": 3630938517,
+			"md5": "58e9ca0d3bb976add5e4a3938e4e77b5",
+			"sha1": "9452d56b7261fc393f46b4b5dd4a60842927d6e3",
+			"sha256": "64697842267b068c67f129f179f9b9504552d4c4b43fafdfd887c866d3aa31d6"
+		}
+	]
+}

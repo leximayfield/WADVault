@@ -1,0 +1,16 @@
+{
+	"uid": "ph_best3.wad",
+	"name": "Persephone Volume 3",
+	"description": "This is the third and final volume of Persephone, my \"best of\", featuring 14 previously-released maps. MAP23 leads into MAP23A, B, C and D in a linear fasion with no intermissions, because of how small each map is, so the episode should still feel like a 10-map set. Minor alterations were made to MAP22 and MAP30 to account for the updated slope calculations in ZDoom since they were originally made, whilst MAP28 has had a crusher near the end made considerably less dangerous because I wasn't happy with it in hindsight. MAP27 has had a minor texture change to avoid needing to add a whole extra switch compilation texture for only one use in the entire map set. Of note is MAP29: A Labour of Hate, which was originally submitted to Back to Saturn X as a potential \"Hunter Complex\" map. I've retextured this entirely and removed two walls that were put in to maintain vanilla compatibility, also changing the music. I believe this constitutes the first wide release of that map.",
+	"date": "2019-08-04 01:01:41",
+	"files": [
+		{
+			"filename": "ph_best3.wad",
+			"size": 14366156,
+			"crc": 85793566,
+			"md5": "ddbaced8c82c4537af4e4f62dd410116",
+			"sha1": "936fb12a4f7777197d31d55a52e2586f30a6935b",
+			"sha256": "763697e1a66a3d0e267dcf1c785a8889333c3f9f3480f1d3c20dea51f2223947"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "SS27BETA.wad",
+	"name": "ss27beta.WAD",
+	"description": "Ok, ok.. this isn't finished coz deu won't handle files of arbitrary size (yet). I thought it would be fun nevertheless so here goes. This s'possed to be a level with 4 arenas in each major direction... Each arena will have a theme when I finish this (Fire/Acid/Earth/Stealth). At the moment the central sections is done and the arenas are sorta stubbed. This level will be part of an eposode later. It is meant to replace e2m7 so its pretty rough in places. It's pretty open with only a few doors requiring keycards. So don't be too concerned if a whole heap of voices rises to meet your gunfire <G>. There are peep holes and ambush spots almost everywhere so happy deathmatch! Most heavy firepower is heavily guarded or hidden. The only easy weapon to get is the shotgun. Also no BFG here (yet). ...and contrary to popular belief plasma gun can be reached. Apart from that this level is mostly hack, slash and ambush type. You DO need to find one secret to finish this level (but it has three hints pointing at it. It's dead obvious from the map).",
+	"date": "2014-02-15 17:09:06",
+	"files": [
+		{
+			"filename": "SS27BETA.wad",
+			"size": 373590,
+			"crc": 550685466,
+			"md5": "c33679bc5401fea7b28c9fa3b2ada08d",
+			"sha1": "8e4fcd06c9aacf89277b59f3cc4a457759f06230",
+			"sha256": "457ca875ea811ab68deae1bd996db54400fc36dd13a469003da642fe95b5c96e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "NUCLEAR2 (60c50d).wad",
+	"name": "NUCLEAR.WAD",
+	"description": "This level has a little bit of everything to it. Wide-open cavernous areas, hidden corridors, good observation/sniper spots, numerous nooks and crannies to ambush/be ambushed in, and a river of poisoned water. The level is built around a nuclear reactor core.",
+	"version": "60c50d",
+	"date": "2013-11-02 23:54:01",
+	"files": [
+		{
+			"filename": "NUCLEAR2.wad",
+			"size": 218186,
+			"crc": 1576431988,
+			"md5": "097d7de6e30b43400fbebf25290d2270",
+			"sha1": "60c50df043d54bbd4ab580ee9a4f48e8a929a6b3",
+			"sha256": "9064c3f22db3e444da287b38b11f22e9a10675cc987013935472b40e3e8d7d5e"
+		}
+	]
+}

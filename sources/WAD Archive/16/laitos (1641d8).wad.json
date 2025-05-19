@@ -1,0 +1,17 @@
+{
+	"uid": "laitos (1641d8).wad",
+	"name": "Laitos v1.4",
+	"description": "This PWAD was made for the DoomCenter episode 1 week contest. Yet another update... this time fixed ZDoom co-op functionality, and while at it did some other little editing.",
+	"version": "1641d8",
+	"date": "2014-12-13 17:41:27",
+	"files": [
+		{
+			"filename": "laitos.wad",
+			"size": 530098,
+			"crc": 261501752,
+			"md5": "51dece61e898f241fcbc5aa43834413f",
+			"sha1": "1641d8d3b2fae75afba088142bfe86746032c9ba",
+			"sha256": "d336c25ea9ef288a6ad81f7890f70078f8bce1a99f6a129adf474fef9938d4db"
+		}
+	]
+}

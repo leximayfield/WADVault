@@ -1,0 +1,17 @@
+{
+	"uid": "thanatos (d7941a).wad",
+	"name": "Thanatos",
+	"description": "1 medium sized map set place in an underground base.",
+	"version": "d7941a",
+	"date": "2014-12-29 16:28:06",
+	"files": [
+		{
+			"filename": "thanatos.wad",
+			"size": 2831881,
+			"crc": 3044483562,
+			"md5": "561ce0421e1e65777022b7b966ab147f",
+			"sha1": "d7941aecc39b36f844002de3d900596450e1b415",
+			"sha256": "f712c2e4005a3cd80ae93d1f5d815ee3384109eb6de0560e7838e3cc4f5f6166"
+		}
+	]
+}

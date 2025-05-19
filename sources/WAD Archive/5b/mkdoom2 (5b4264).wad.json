@@ -1,0 +1,17 @@
+{
+	"uid": "mkdoom2 (5b4264).wad",
+	"name": "MAK's Doomdom",
+	"description": "Two classic Doom levels complete with all three keys, traps, secret doors, and of course, lots of targets. These levels are an attempt to mirror the mood and detailed maps that made the original game so much fun. Stress was placed on QUALITY. This WAD is not the most difficult one in existence, that was not the goal. (I wouldn't call it a cake walk, either) \"A well balanced game with stupid sounds that is fun to play\" may sum it up.",
+	"version": "5b4264",
+	"date": "2013-11-02 17:00:20",
+	"files": [
+		{
+			"filename": "mkdoom2.wad",
+			"size": 1050925,
+			"crc": 4182920163,
+			"md5": "35dd5adee6b45c9996a3246e57a970bf",
+			"sha1": "5b4264710a47bfb99c6389022a8b1c9a06973a37",
+			"sha256": "14bf590d22c8807dc2625916d5d192abb92618dd0bc4d988d58cf3755f85371a"
+		}
+	]
+}

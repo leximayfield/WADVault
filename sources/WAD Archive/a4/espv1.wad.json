@@ -1,0 +1,16 @@
+{
+	"uid": "espv1.wad",
+	"name": "Eternal Slumber Party",
+	"description": "32 hard maps from the past 5 years compiled into a megawad.",
+	"date": "2014-08-27 12:29:46",
+	"files": [
+		{
+			"filename": "espv1.wad",
+			"size": 32158244,
+			"crc": 962400579,
+			"md5": "b2cc47e393aad3c084cb96aa5a42442e",
+			"sha1": "a478bd20226b12b32cae77ae3a8c550679046aae",
+			"sha256": "9c6498e65864cfcf1d52b1d30cb9a19ba82763dc3bf76ffca1dbfbefece2636b"
+		}
+	]
+}

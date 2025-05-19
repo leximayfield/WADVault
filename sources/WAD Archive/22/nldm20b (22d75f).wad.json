@@ -1,0 +1,17 @@
+{
+	"uid": "nldm20b (22d75f).wad",
+	"name": "DOOM2 DEATHMATCH DUEL",
+	"description": "Excellent deathmatch wad. Its best for 2 or 3 players but can be used for 4. It was designed for Deathmatch2.0 (altdeath). There is a cool elevator with up and down switches. The better weapons are harder to get and all weapons are included.",
+	"version": "22d75f",
+	"date": "2014-12-03 20:26:45",
+	"files": [
+		{
+			"filename": "nldm20b.wad",
+			"size": 65133,
+			"crc": 2864714405,
+			"md5": "cafb3f1864d83337be33edbd293879b1",
+			"sha1": "22d75fc87b1ae0d38db807ed42e8df0f353b6542",
+			"sha256": "6bdd5cb46dca298ae2182cebd39ef780eff563537cf6af16f0030e6fff627186"
+		}
+	]
+}

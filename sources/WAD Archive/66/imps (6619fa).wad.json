@@ -1,0 +1,17 @@
+{
+	"uid": "imps (6619fa).wad",
+	"name": "IMPS.WAD ver 1.0",
+	"description": "This is my second shot at a doom level. I used Doom Editor (the real thing) v2.60b4. My first was not worth showing, but I like the area \"outside\" in this one. Very hard to finish on level 4, but it can be done.",
+	"version": "6619fa",
+	"date": "2013-11-02 15:14:14",
+	"files": [
+		{
+			"filename": "imps.wad",
+			"size": 63096,
+			"crc": 3260216060,
+			"md5": "ec109171752dc2fe63fa390b4ad9139e",
+			"sha1": "6619facfcb0b448c0ded43881817c31ca74ad69f",
+			"sha256": "fc1df5b2b4521dbb4db262104e27571096fbb412f782460678c3b457d64c759d"
+		}
+	]
+}

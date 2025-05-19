@@ -1,0 +1,17 @@
+{
+	"uid": "mm (e4be45).wad",
+	"name": "Memento Mori (updated version!)",
+	"description": "Memento Mori took us more than 5 months to complete and it's worth the time!",
+	"version": "e4be45",
+	"date": "2013-04-19 01:48:51",
+	"files": [
+		{
+			"filename": "mm.wad",
+			"size": 7825282,
+			"crc": 943028050,
+			"md5": "371e532847f2b9ae916db4dce76640d8",
+			"sha1": "e4be45898b99f4b987110d2db9f5a3284d82dde2",
+			"sha256": "3e34522f61e40e508fbbcf1f32c3de3f9dc9ec5749e2a411bbe646d7ae35a22e"
+		}
+	]
+}

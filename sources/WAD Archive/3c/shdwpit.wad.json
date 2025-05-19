@@ -1,0 +1,16 @@
+{
+	"uid": "shdwpit.wad",
+	"name": "Shadow Pit",
+	"description": "A simple, octagon shaped deathmatch level with a pit in the center.",
+	"date": "2014-12-15 22:45:10",
+	"files": [
+		{
+			"filename": "shdwpit.wad",
+			"size": 266790,
+			"crc": 1321317139,
+			"md5": "cd59d98dedc21bb81cfe28a0f99aa935",
+			"sha1": "3cb4db8bb1b9cd2c5b1e5d2e850869cd190065d5",
+			"sha256": "822ddbcea1293815b0595e55fae41c1417939e3b659a57bef5ee508d55b6f572"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "level3.wad",
+	"name": "Modified level 3 (enhanced for major fragging",
+	"description": "Modified level 3 for more challenging deathmatches. Play tested and tested. Lots of fragging good time.",
+	"date": "2013-11-02 16:03:03",
+	"files": [
+		{
+			"filename": "level3.wad",
+			"size": 73104,
+			"crc": 3330095295,
+			"md5": "749812ecc9e2ead3e1679637d64ee936",
+			"sha1": "d5106a2d9a29d6a07e8fd26540fc19e2cd223e41",
+			"sha256": "c0e189c95753968817dd04ebb488207f54d83702d0caf62e9f448f59ad43c219"
+		}
+	]
+}

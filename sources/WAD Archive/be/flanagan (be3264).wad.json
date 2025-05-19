@@ -1,0 +1,17 @@
+{
+	"uid": "flanagan (be3264).wad",
+	"name": "FLANAGAN",
+	"description": "This is a modified version of sloth map03. It's a circular, symmetrical spam arena thing - again. FLAN - AGAN. It's designed for jumping, rocket jumping, and freelook, but you can get to the exit without using those things. It's not designed for crouching or bfg aiming.",
+	"version": "be3264",
+	"date": "2013-04-19 02:36:38",
+	"files": [
+		{
+			"filename": "flanagan.wad",
+			"size": 4107582,
+			"crc": 1205942021,
+			"md5": "f2d846b30bdbb80231aaf25c7cc590e3",
+			"sha1": "be326444f0ab042a6950fc74504ff98aa3dc74db",
+			"sha256": "6010ebf3845f18d9bc67d5b5cfba54db253323b4ea41a05f9af58ee7f6cdd63a"
+		}
+	]
+}

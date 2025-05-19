@@ -1,0 +1,16 @@
+{
+	"uid": "tblood.wad",
+	"name": "Temple of Blood",
+	"description": "OK, this was originally going to be a level for the 10-sector contest, but I didn't finish it on time. It was just sitting on my hard drive collecting dust so I slapped a few more monsters in it to finish it, added a couple of weapons, and decided to release it. I'm warning you, this is a buggy piece of crap, and parts of it are way too narrow and you can't move, and there are way too many monsters, and I'm sure some textures aren't aligned properly, ect. The only reason I'm releasing it is because it will probably be a long while before I make anything that I deem worthy to release to the general public that I finish (I'm always running out of ideas) and this is the only thing I've been able to finish. Don't worry, when I do release something, it will be MUCH better than this (it had been a while since I had messed with a level editor when I made it, plus I was limited to only 10 sectors). OK, yada yada yada, on with the level. Oh right, it is set in a temple with lots of blood.",
+	"date": "2014-12-29 16:57:06",
+	"files": [
+		{
+			"filename": "tblood.wad",
+			"size": 163512,
+			"crc": 3049801117,
+			"md5": "712202be3378228c8e80ff711fee6b49",
+			"sha1": "a83a7757f6ebd414e69eefd53c30d70b70f604fb",
+			"sha256": "6f23cd41cac44deb1178d856f7fc21712b45a0c6716abd65c69fb1f3eaeb0bb4"
+		}
+	]
+}

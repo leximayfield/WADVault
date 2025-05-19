@@ -1,0 +1,17 @@
+{
+	"uid": "sanctum (405916).wad",
+	"name": "Lost Sanctum",
+	"description": "A difficult episode 4 style map. I tried to use some episode 4 visual themes as well as some new ones.",
+	"version": "405916",
+	"date": "2014-12-13 17:46:39",
+	"files": [
+		{
+			"filename": "sanctum.wad",
+			"size": 369050,
+			"crc": 220904706,
+			"md5": "ea845aea9e158e710f1675f99932b1ee",
+			"sha1": "4059161789e1e5b0068f657a8ec8a2302fcfa199",
+			"sha256": "1a394e8e50e48304833426d22e02798fbe0dab9f27d98723547f276116e02865"
+		}
+	]
+}

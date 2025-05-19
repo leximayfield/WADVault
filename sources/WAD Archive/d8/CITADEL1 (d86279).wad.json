@@ -1,0 +1,17 @@
+{
+	"uid": "CITADEL1 (d86279).wad",
+	"name": "CITADEL",
+	"description": "This DOOM patch WAD file is based on various",
+	"version": "d86279",
+	"date": "2015-12-05 13:24:34",
+	"files": [
+		{
+			"filename": "CITADEL1.wad",
+			"size": 63659,
+			"crc": 2829545403,
+			"md5": "53b3e63ad8e73f08905d288e2f0ecadd",
+			"sha1": "d86279ac7fd839194b148b9c631174573c4cba5b",
+			"sha256": "db0520c02c622b527abd11738946051acf4c27477af16cee08a4c346a7b4603c"
+		}
+	]
+}

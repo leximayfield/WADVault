@@ -1,0 +1,16 @@
+{
+	"uid": "hellcage.wad",
+	"name": "Hell's Cage",
+	"description": "You find yourself trapped within the fire of a hellish temple, and have to fight the demons to escape.",
+	"date": "2014-12-24 19:06:50",
+	"files": [
+		{
+			"filename": "hellcage.wad",
+			"size": 18497822,
+			"crc": 1148586415,
+			"md5": "5bfc7ce88825904ca141440f4676f6cf",
+			"sha1": "056eea87a7ab8c1d975fbcb7f891bd89e9e94537",
+			"sha256": "c704ed5058b54b1e081a452a412e180a00c18fa3cbe3e73c8da310bbe9b03e99"
+		}
+	]
+}

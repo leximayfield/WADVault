@@ -1,0 +1,16 @@
+{
+	"uid": "100wave.wad",
+	"name": "100th wave",
+	"description": "This megawad is compiled out of the first maps I made. I was still learning, so while the first maps may be noobish and simple (but still not really bad), the later ones get better and better as you progress. 100th wave includes new graphics, some of which you've never seen before (some work from scratch and some resources from the internet, but no CC4 or Nick Baker). An OBLIGATORY deh patch grants new storyline and two new enemies.",
+	"date": "2018-05-29 00:50:28",
+	"files": [
+		{
+			"filename": "100wave.wad",
+			"size": 5781181,
+			"crc": 3485728951,
+			"md5": "808dfe7fe71de1ce25552952aa3d7aa4",
+			"sha1": "5e95159b78be644d1288381d4cc40a1c043837cf",
+			"sha256": "02fe8cf1d43dc71be0887ee5aa514a720084291273dc7eb0e1fcba6a7514b3fd"
+		}
+	]
+}

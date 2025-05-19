@@ -1,0 +1,16 @@
+{
+	"uid": "quadbeam.wad",
+	"name": "QuadBeam for BOOM v2.01",
+	"description": "This is a small (800 linedef) *BOOM only* wad that has a marble 'n' metal (and a little wood) theme. It's not that hard, and its my first level. There are six Cybers in it, but they are only to dispose of those who can't find the secret path through one of the courtyards. The overall layout is a small slime pit in the middle, with four arms comming out of it, each with quite a bit of outdoor area.",
+	"date": "2014-12-29 09:01:48",
+	"files": [
+		{
+			"filename": "quadbeam.wad",
+			"size": 259259,
+			"crc": 3854087179,
+			"md5": "0607a2dbaf3bc983d470d9a1ae76b971",
+			"sha1": "aafae4f7509685313956c4b45c7a1ed03479fb14",
+			"sha256": "95f566942ca63282bcf5d30e5a78f7a7ae3a2c60e7a85ea1d75367942e9f24d8"
+		}
+	]
+}

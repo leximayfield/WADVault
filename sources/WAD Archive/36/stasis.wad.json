@@ -1,0 +1,16 @@
+{
+	"uid": "stasis.wad",
+	"name": "The Stasis Equation",
+	"description": "Korax has had four Heresiarchs teleported in, in stasis. He plans to wake them very soon to unleash destruction upon the world. It is you're job to find the skull of Yorick and replace it on it's statue. This will destroy the slumbering Heresiarchs. Be careful, their chamber is doubtlessly trapped....",
+	"date": "2018-06-20 03:21:03",
+	"files": [
+		{
+			"filename": "stasis.wad",
+			"size": 285956,
+			"crc": 2552635221,
+			"md5": "7eacd0705d34797bae359ad90bce5091",
+			"sha1": "366a5cda71588d8289117d83ebdf4ef8a27daabc",
+			"sha256": "6a3cac178d95f19236caa65cf7ac76185883eca488f75937a87017aa0d7d35df"
+		}
+	]
+}

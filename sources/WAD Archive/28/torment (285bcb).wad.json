@@ -1,0 +1,17 @@
+{
+	"uid": "torment (285bcb).wad",
+	"name": "Greater Torment",
+	"description": "Map1 deathmatch only replacement for DOOM ][",
+	"version": "285bcb",
+	"date": "2013-04-22 00:42:40",
+	"files": [
+		{
+			"filename": "torment.wad",
+			"size": 401124,
+			"crc": 2375289536,
+			"md5": "87e63f82340a171eb3ae4c93a1b4eb40",
+			"sha1": "285bcb5641a928a8354b9968bd51721e1e28a13f",
+			"sha256": "27891f8738163be4ca6eefdf6c68cdd2a6dc446b26c29bfb90f5f0b7488d0089"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "64.wad",
+	"name": "Congestion: 64",
+	"description": "32 maps not bigger than 64x64.",
+	"date": "2013-09-13 19:32:44",
+	"files": [
+		{
+			"filename": "64.wad",
+			"size": 41048,
+			"crc": 3048225643,
+			"md5": "9f528b176d0fbc77faebb29ca3f27ed5",
+			"sha1": "7fea5bb643692e3c19f38ca9057b607b58de4710",
+			"sha256": "9454825c3b6538f695675773b7e4dc148f5aadd54ca744cde03aa1b3a90a694b"
+		}
+	]
+}

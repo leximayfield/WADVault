@@ -1,0 +1,16 @@
+{
+	"uid": "primarygold.wad",
+	"name": "Primary: Gold",
+	"description": "Primary: Gold is an updated version of my first map release. It is very, very large and is sprinkled with a great number of encounters based around several varying locales. Gameplay is best described as a mix of classic Doom and an action-adventure title",
+	"date": "2014-12-29 08:52:05",
+	"files": [
+		{
+			"filename": "primarygold.wad",
+			"size": 5145926,
+			"crc": 346395346,
+			"md5": "986a41eff4f7e1065ed55da1eb71e276",
+			"sha1": "a6ef468efacbef23754659208136a270af36ab81",
+			"sha256": "fd3973ca4bdefd5dddddc0d9f9db654dc0c6b542d8b25d46bdc97eddcb1fb77a"
+		}
+	]
+}

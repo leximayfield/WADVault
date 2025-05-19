@@ -1,0 +1,17 @@
+{
+	"uid": "FACTORY (5f3e54).wad",
+	"name": "The Demon Factory",
+	"description": "1 fairly large level. Contains many ZDoom",
+	"version": "5f3e54",
+	"date": "2014-12-24 19:12:59",
+	"files": [
+		{
+			"filename": "FACTORY.wad",
+			"size": 298482,
+			"crc": 46457656,
+			"md5": "b573f86aa5de41f7b61c39fe71447ca8",
+			"sha1": "5f3e5414e5e036f8e38baf29b83a986d00f41b0c",
+			"sha256": "dba149737d3dc3f9ead740a49c263a581d4af0d8dd8ed4b540efbbbed7fa389d"
+		}
+	]
+}

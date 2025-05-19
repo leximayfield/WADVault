@@ -1,0 +1,16 @@
+{
+	"uid": "waiting.wad",
+	"name": "Courtyard",
+	"description": "A map I created while waiting for the new Doom (2016) game, puzzle based arena map. Open to criticism, this being my first completely finished map.",
+	"date": "2016-06-16 22:38:18",
+	"files": [
+		{
+			"filename": "waiting.wad",
+			"size": 196836,
+			"crc": 2997391120,
+			"md5": "fe5e0046ba08bf8b98868886ee0968f5",
+			"sha1": "5b36de8ceb25f5f1919e749d2f364082cbc7c1a3",
+			"sha256": "8a40812a4b45191bee4d5ddbc319e4aa408c8c5cda7c01b93fd7d329a1512d0d"
+		}
+	]
+}

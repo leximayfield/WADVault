@@ -1,0 +1,16 @@
+{
+	"uid": "tempbaph.wad",
+	"name": "Temple of Baphomet",
+	"description": "A hell/marble themed map. Has a couple of sounds from Heretic and a song from Unreal to give the map some ambiance. It doesn't have the best detail but I hope you enjoy it.",
+	"date": "2015-09-14 23:30:11",
+	"files": [
+		{
+			"filename": "tempbaph.wad",
+			"size": 1081178,
+			"crc": 3720659014,
+			"md5": "fcd8a3b16aaf102de2b63efa94253e29",
+			"sha1": "117c135d386a2b6e00687a4608f66ec5d1fe12cd",
+			"sha256": "7793c5f614c747c390a9a1c4402157429ad34a669dfb74d716c222b46131a970"
+		}
+	]
+}

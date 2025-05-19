@@ -1,0 +1,16 @@
+{
+	"uid": "escavern.wad",
+	"name": "Escape the Cavern",
+	"description": "You find yourself in a giant cavern. Escape to daylight!",
+	"date": "2014-12-22 19:01:50",
+	"files": [
+		{
+			"filename": "escavern.wad",
+			"size": 246742,
+			"crc": 3547236263,
+			"md5": "d295335be27093d36a631955aec96016",
+			"sha1": "110ad62c9fa5990d1dc986ef09aa0d9de4e40fd6",
+			"sha256": "0d6340b97a4a8f151e0f02d64103ab45ed25e6dd6bf8380e5e749d37a9b7366b"
+		}
+	]
+}

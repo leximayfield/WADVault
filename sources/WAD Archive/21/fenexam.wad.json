@@ -1,0 +1,16 @@
+{
+	"uid": "fenexam.wad",
+	"name": "fen boi's 3d examples",
+	"description": "fenexam provides two areas using the instant lift trick to effect a 3D appearance. The first area provides a solid looking floor/ceiling over an underground passageway. Only the passageway can be walked through. The second area provides a simple 'car park' effect using similar techniques. Both areas will work in source ports using software rendering.",
+	"date": "2018-04-14 23:00:35",
+	"files": [
+		{
+			"filename": "fenexam.wad",
+			"size": 53474,
+			"crc": 3799373133,
+			"md5": "e3daceec8c9f72ff2149e1cac64de98d",
+			"sha1": "21302b8d5170db30ed5880c945db85e26ee75088",
+			"sha256": "28e4af49de333cdf8ecc40ad0b2de549f893fc13a5f93c1f2eed41247979ec02"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "king (86c156).wad",
+	"name": "KingMoun.WAD",
+	"description": "DeathMatch 2.0 wad for Doom ][",
+	"version": "86c156",
+	"date": "2013-11-02 15:41:24",
+	"files": [
+		{
+			"filename": "king.wad",
+			"size": 50729,
+			"crc": 724671867,
+			"md5": "d5838151c865caec288f2a9cd7e1bebd",
+			"sha1": "86c1568794742a2eb1257fece7972d37aa7f2551",
+			"sha256": "c05b9f6a44df8fb9b45e652e97d1567b6cb1c1c6f92bccbca2f016196777ac69"
+		}
+	]
+}

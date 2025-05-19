@@ -1,0 +1,16 @@
+{
+	"uid": "nmndef.wad",
+	"name": "NMN demon experiment facility",
+	"description": "Welcome to the NMN demon experiment facility, this is were the NMN corporation leads in it's experiments on demons and other creatures from the depths of hell. A few subjects have broken loose and slaughtered the staff. Are you a bad enough dude to save the facility?!",
+	"date": "2017-08-27 23:00:36",
+	"files": [
+		{
+			"filename": "nmndef.wad",
+			"size": 12064585,
+			"crc": 997355699,
+			"md5": "c9a89902c35568dc358328b8b5bc6b80",
+			"sha1": "08bd0e9dca173c0c53e7f3b5ae0060b67b4c2733",
+			"sha256": "8e468994f8cca5e1796f4e7d80d304839a35eb0569b67586249884f2722e8588"
+		}
+	]
+}

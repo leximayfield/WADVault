@@ -1,0 +1,17 @@
+{
+	"uid": "village (2397e0).wad",
+	"name": "village",
+	"description": "two old level for zdoom gzdoom",
+	"version": "2397e0",
+	"date": "2014-12-29 18:21:18",
+	"files": [
+		{
+			"filename": "village.wad",
+			"size": 28420080,
+			"crc": 3375190304,
+			"md5": "e89b6729fa67ada55c751b1098a74311",
+			"sha1": "2397e021d6d31f478aae8ba784ad83593dfc76d0",
+			"sha256": "973f65c90414a840d02d550558885cd3e0c072d136146d81db7d8931ab09f292"
+		}
+	]
+}

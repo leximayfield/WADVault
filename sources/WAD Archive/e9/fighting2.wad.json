@@ -1,0 +1,16 @@
+{
+	"uid": "fighting2.wad",
+	"name": "Fighting 2",
+	"description": "I had a headache for pretty much the whole day (an extremely rare occurrence). Couldn't really get any work done but I still wanted to produce at least something.",
+	"date": "2019-04-15 22:05:03",
+	"files": [
+		{
+			"filename": "fighting2.wad",
+			"size": 812369,
+			"crc": 273477834,
+			"md5": "892bd749e3892a3a4a5f22c57349be75",
+			"sha1": "e96d1da744225b32a6f4fcd35e74d0fe4b0cfe12",
+			"sha256": "43f5ce7966a1fb61796401d0c8ebdb3dbb6713802f8651553f860beec9ed1d10"
+		}
+	]
+}

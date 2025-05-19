@@ -1,0 +1,17 @@
+{
+	"uid": "wrath (81aea4).wad",
+	"name": "Wrath",
+	"description": "THIS MAP IS DIFFICULT. Extremely. I find it fun, some may find it too hard, I find it challenging. Enjoy.",
+	"version": "81aea4",
+	"date": "2014-12-29 15:56:39",
+	"files": [
+		{
+			"filename": "wrath.wad",
+			"size": 310044,
+			"crc": 4015686687,
+			"md5": "5388c05ab2fb73af3ccdc10f49ecd78c",
+			"sha1": "81aea46ee516d63298a2135d0e58f23878d90d1b",
+			"sha256": "ce7d4fde88a679b4f698cbc540248ee3ad2a42f9625c4f278e9309ad4e8081f4"
+		}
+	]
+}

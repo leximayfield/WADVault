@@ -1,0 +1,17 @@
+{
+	"uid": "marbas11 (ebc20b).wad",
+	"name": "Marine Base E1M1",
+	"description": "A Marine Base on a distant outpost, taken over by the Hordes of Hell. Although saved as E1M1, it is probably a better replacement for E1M4 or E2M2. It includes an exit to the secret level, but it's tough to find. The regular exit takes a bit of fancy finger- work to get to as well! Only contains Weapons 1-5, but adds a Plasma gun (and no extra cells) in Deathmatch mode. I've tried to keep all textures etc. pretty consistent, except for a few special areas, and I think I've gotten rid of all HOM effects. 8-) The only construction problem that I can find is in the deep blue Demon room (you'll know it when you get there), that sometimes the screen gets stuck in 'Cyberspace' 8-( - any hints on how to fix this gratefully received. Other than that, all walls have been aligned unless they (a) hide secret doors, or (b) are meant to be that way (cf the spiral staircase) This is probably a little easy as is, but I'm going to add more monsters for UV, and take away a few imps and sergeants for ITYTD",
+	"version": "ebc20b",
+	"date": "2013-11-02 15:08:48",
+	"files": [
+		{
+			"filename": "marbas11.wad",
+			"size": 161378,
+			"crc": 402111982,
+			"md5": "400435256152572137c923322c33bca8",
+			"sha1": "ebc20beb109a48ad4b858f3daa8351fa5cb3dfe6",
+			"sha256": "f14aab849e734362672e91e57e91340c026895e994b098aa7dc88f3661997a0f"
+		}
+	]
+}

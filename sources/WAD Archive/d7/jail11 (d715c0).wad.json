@@ -1,0 +1,17 @@
+{
+	"uid": "jail11 (d715c0).wad",
+	"name": "JAIL11.WAD ver 1.1",
+	"description": "This is my first DOOM-Level. It has been developed with DEU 5.1 and 5.2 on a 486DX2/66. It has only been tested for single play. You start near the properly locked prison. Something strange has happened there and the warders who managed to escape won't let you in (this should set you thinking). Find the key and ....",
+	"version": "d715c0",
+	"date": "2014-01-04 11:55:36",
+	"files": [
+		{
+			"filename": "jail11.wad",
+			"size": 86481,
+			"crc": 1143420475,
+			"md5": "b4097a45535aa80986494e657ca93fd0",
+			"sha1": "d715c0391b9e7de493de66548a51604fec450ec6",
+			"sha256": "a3ff67d15210bb1dddec209de1bf15012c4e127e5f472510bbcb53af00de5beb"
+		}
+	]
+}

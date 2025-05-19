@@ -1,0 +1,17 @@
+{
+	"uid": "deadmen (c6b784).wad",
+	"name": "Dead Men Tell No Tales",
+	"description": "Dead Men Tell No Tales. But you're not Dead ..... Yet.",
+	"version": "c6b784",
+	"date": "2016-02-07 20:30:52",
+	"files": [
+		{
+			"filename": "deadmen.wad",
+			"size": 70986,
+			"crc": 542989578,
+			"md5": "8056893f8ee8a1e1ae85b06fa93a4a2c",
+			"sha1": "c6b78440de3db913a04e35f1229d5e10c203ec29",
+			"sha256": "7b881cc7d1cc0e35db0dd3373327587a2217d52a17cffa7503e112d95445a40b"
+		}
+	]
+}

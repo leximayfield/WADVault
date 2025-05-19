@@ -1,0 +1,17 @@
+{
+	"uid": "eye (bced07).wad",
+	"name": "The Eye",
+	"description": "A fairly tough single map with a circular layout and moments of mild carnage",
+	"version": "bced07",
+	"date": "2013-04-27 17:57:07",
+	"files": [
+		{
+			"filename": "eye.wad",
+			"size": 2629709,
+			"crc": 146472144,
+			"md5": "5d7a716e493fd1da980cdbb9b3365d90",
+			"sha1": "bced07f7b98e0dce2907c509a12d3677fa179c4b",
+			"sha256": "e53044e34490b1be2cc51be362edf90c98d1a458008e979793bd2655c90c9d7c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "charge.wad",
+	"name": "Charge Sequence",
+	"description": "Chagre Sequence is a simple CTF map designed for 8-12 players. There are five routes going through the map. Each one of them is connected to eachother, and all five are shared by both teams. There are plenty of bridge things, so make sure to have co_realactorheight set to 1 (or whatever is the corresponding command in your source port of choice).",
+	"date": "2014-12-15 22:27:34",
+	"files": [
+		{
+			"filename": "charge.wad",
+			"size": 467343,
+			"crc": 1795187053,
+			"md5": "ba03d09be09aadb9962c2e590f62aab9",
+			"sha1": "93a71b0f3a1afa318c7baf56dcbd659010e2d0a7",
+			"sha256": "0882104d9c50957b24aa584c977e6d356d9759c0a2f0fb1c1b1edef31bc244ef"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rtscroll.wad",
+	"name": "Right Scroll",
+	"description": "Play it. Holy poop on a stick, that texture is scrolling the wrong way!!! This is incredible!!! If only this was known ten years ago people might have cared!!!! For the more technical minded, the trick is done by creating a whole ton of extra linedefs with the wall scroll special which all reference the same sidedef as the one you want to scroll backwards. You need to reference the sidedef an additional X-1 times, where X is the width of the texture in pixels. While a backwards-scrolling texture is the most obvious trick, you can also change the number of extra sidedef references to just make the scrolling texture haul ass super fast. Another idea would be to make a super-wide texture comprised of smaller \"frames\" placed side by side, i.e. make a giant wide texture with individual 32-pixel-wide frames side by side. Then make 31 extra sidedef references and the texture will appear to animate at 35 FPS because the texture will shift over 32 pixels every tic to the next \"frame.\"",
+	"date": "2015-09-14 19:52:09",
+	"files": [
+		{
+			"filename": "rtscroll.wad",
+			"size": 4525,
+			"crc": 3197185975,
+			"md5": "528085046c1ac767331461f8b76861b5",
+			"sha1": "3a2944681b7513eac7575cffd24bf8a636bab3db",
+			"sha256": "a477d628305db9ff8746f671a0d0b1b38ecadfcc6f2613d1d9bc8de396327beb"
+		}
+	]
+}

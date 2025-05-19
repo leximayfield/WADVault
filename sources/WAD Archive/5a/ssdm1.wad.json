@@ -1,0 +1,16 @@
+{
+	"uid": "ssdm1.wad",
+	"name": "Steve Sarlls' DeathMatch 1",
+	"description": "A deathmatch wad with some monsters. rooms with lots of halls and teleporters. Originally Doom 1 I converted it for Doom 2 and changed shotguns to Double Barrels.",
+	"date": "2013-11-04 19:25:08",
+	"files": [
+		{
+			"filename": "ssdm1.wad",
+			"size": 106052,
+			"crc": 2145642171,
+			"md5": "f3cb13a990246269bf576086800dc777",
+			"sha1": "5a642da9e21042f1dd8778180c7d71f87ec7201a",
+			"sha256": "6404ee30de649772206e02b6da3b736165f3e6cccfabf98da93e96098b2d1560"
+		}
+	]
+}

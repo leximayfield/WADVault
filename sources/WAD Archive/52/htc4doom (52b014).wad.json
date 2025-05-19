@@ -1,0 +1,17 @@
+{
+	"uid": "htc4doom (52b014).wad",
+	"name": "Heretic 4 Doom",
+	"description": "Do you want to play some fan-made Heretic levels but you're too cheap to buy Heretic? This WAD is a hack which may be for you.",
+	"version": "52b014",
+	"date": "2018-05-02 00:31:16",
+	"files": [
+		{
+			"filename": "htc4doom.wad",
+			"size": 299784,
+			"crc": 3618820176,
+			"md5": "e5727e246af36efdb06907e53fed3ec1",
+			"sha1": "52b014386cfa926ed61c5790e8c3eea2ff00337f",
+			"sha256": "73faff96868722f7f969e663e860717adb6e089ad532312adae2525282e5ed9a"
+		}
+	]
+}

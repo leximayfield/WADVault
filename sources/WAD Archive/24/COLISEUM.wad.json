@@ -1,0 +1,16 @@
+{
+	"uid": "COLISEUM.wad",
+	"name": "Coliseum of Carnage \t(for Doom][)",
+	"description": "A level that begins when you parachute down near a perimiter guard chamber of an enemy base. Your mission is to make your way through the spectre infested maze to a semi-fortress, and on to an illegally run coliseum. (They use poor defensless Cyber-Demons for entertainment!) There is a hidden self-destruct switch you must press to destroy it. Lots of neat rooms (in my opinion).",
+	"date": "2014-02-15 17:00:34",
+	"files": [
+		{
+			"filename": "COLISEUM.wad",
+			"size": 89726,
+			"crc": 3593055752,
+			"md5": "a7bba97d72772b69fd3bc44e7e1b3975",
+			"sha1": "24ae2f7919b95c492173cec226293874a940c0d7",
+			"sha256": "1e84dbccf8bb33d5b62c86fe79150830ae4943373a096ad7f0bec7fb652305b0"
+		}
+	]
+}

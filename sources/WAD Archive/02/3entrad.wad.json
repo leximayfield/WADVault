@@ -1,0 +1,16 @@
+{
+	"uid": "3entrad.wad",
+	"name": "3 Entradas",
+	"description": "A simple level that takes place in a chemical plant. This is the first level of my mega-wad KAOS.",
+	"date": "2014-12-15 19:09:25",
+	"files": [
+		{
+			"filename": "3entrad.wad",
+			"size": 145800,
+			"crc": 1236379155,
+			"md5": "0cd80e6b3c3efdc51807b52af5593c33",
+			"sha1": "02511560876dcfe846eef99ed08df2cd992420be",
+			"sha256": "7cc017977392f3fb6631baccd58c7f66d07ae941dc1424df7085237d3a01f9fb"
+		}
+	]
+}

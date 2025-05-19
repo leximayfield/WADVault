@@ -1,0 +1,17 @@
+{
+	"uid": "paradox9 (697342).wad",
+	"name": "paradox 9 (DOOM 2 level)",
+	"description": "This level is meant to be a deathmatch level, but it can also be used as a \"quickie\" single player level. In single player mode, it is intended to be quite difficult to finish in ultra- violence, challenging in hurt-me-plenty, and a piece of cake on any other level. I've included a demo of me finishing most of the level in ultra-violence mode if you need some hints to help guide you. To run the demo, run:",
+	"version": "697342",
+	"date": "2016-02-07 20:33:53",
+	"files": [
+		{
+			"filename": "paradox9.wad",
+			"size": 44752,
+			"crc": 1025841635,
+			"md5": "194ad0478cb36fc0d6d09816bb64b6ca",
+			"sha1": "6973427ba6a784cb38970c69330e03f50af5a004",
+			"sha256": "10f80daec4d81ab866764106c1d5dce476eeb17030bb3cfaab30f0f74ae52a64"
+		}
+	]
+}

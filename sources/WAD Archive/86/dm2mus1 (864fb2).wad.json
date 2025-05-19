@@ -1,0 +1,17 @@
+{
+	"uid": "dm2mus1 (864fb2).wad",
+	"name": "Doom II Enhanced Music: Volume I",
+	"description": "Tired of hearing the same old music? Hate the low-quality music WADs? Want music WADs that contain all kinds of music fitted to each level instead of one style of music thrown into the game without regard for the level's \"personality?\" The Enhanced Music WADs are for you! These WAD files are split into 3 different files so that you can load whichever WAD file contains the songs that you like the most.",
+	"version": "864fb2",
+	"date": "2018-04-14 21:17:37",
+	"files": [
+		{
+			"filename": "dm2mus1.wad",
+			"size": 542144,
+			"crc": 1636966459,
+			"md5": "5e614ce703df1a4033b2d3bd142fd232",
+			"sha1": "864fb2daf127288cd2257fb120cdaf6e2adcce2e",
+			"sha256": "a73f11680a5dbac7a3b6d97135df220031672f95709bbcd2202d9cc3656b5a5d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ZOMBDPST.wad",
+	"name": "Double Pistols from Zombie Doom",
+	"description": "Due to the recent death of Zombie Doom, I've set out to create a series of weapons patches based on some of the weapons from the Zombie Doom beta. Al was cool enough to let me do this, so enjoy!",
+	"date": "2014-12-10 20:43:06",
+	"files": [
+		{
+			"filename": "ZOMBDPST.wad",
+			"size": 58600,
+			"crc": 3465717836,
+			"md5": "ddc389f510a9f6bdba96d06d74b8b699",
+			"sha1": "1e86b5495807912aee7796cd9af5289b76260de1",
+			"sha256": "b42710beb007c93f4ecd52b9288b30116f4e6c1206545c05c9f99da447dbc2e9"
+		}
+	]
+}

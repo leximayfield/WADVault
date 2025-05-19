@@ -1,0 +1,16 @@
+{
+	"uid": "grafix.wad",
+	"name": "Grafix Project - Alt Death",
+	"description": "This wad replaces the death animations of all Doom2 characters with the exception of the specter, Keen, the Wolfenstein soldier. Some of the monster's death animations vary. I have greatly altered some while hardly touching others as there is little I found I could do. The baron of hell and the hell knight are two good examples of that. However, there should be a noticeable difference in most of the deaths. Enjoy! >:D",
+	"date": "2015-09-15 16:45:10",
+	"files": [
+		{
+			"filename": "grafix.wad",
+			"size": 458000,
+			"crc": 83069161,
+			"md5": "97b65524cc4c82849559b39e3ac6af2d",
+			"sha1": "14f4e781df61b2f75078dda88218dad5186f2f39",
+			"sha256": "a6e63ce90347c1b596411dafd57d788a6fbd1396ee10891c1e3f39e4ffdc3aee"
+		}
+	]
+}

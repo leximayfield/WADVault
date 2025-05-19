@@ -1,0 +1,17 @@
+{
+	"uid": "DARKNESS (664ddb).wad",
+	"name": "Darkness Falls",
+	"description": "a long, 3 map mod for Gzdoom, with hard battles, new bosses and difficult chalanges.",
+	"version": "664ddb",
+	"date": "2014-12-24 17:05:49",
+	"files": [
+		{
+			"filename": "DARKNESS.wad",
+			"size": 49425702,
+			"crc": 1352646318,
+			"md5": "7a75a0d05ef9ddcae2d406287b1193aa",
+			"sha1": "664ddb014c2df8528335ed8e7fd7614fe262c01d",
+			"sha256": "f5dfc74d37cc3460ebe87e30b78108308cb2f8ea9b9ca4bea32196e487bc802c"
+		}
+	]
+}

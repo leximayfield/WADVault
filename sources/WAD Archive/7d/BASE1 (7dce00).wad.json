@@ -1,0 +1,17 @@
+{
+	"uid": "BASE1 (7dce00).wad",
+	"name": "BASE.ZIP (Includes BASE.WAD & BASE.TXT)",
+	"description": "",
+	"version": "7dce00",
+	"date": "2013-11-14 14:15:15",
+	"files": [
+		{
+			"filename": "BASE1.wad",
+			"size": 86274,
+			"crc": 1432123331,
+			"md5": "b560825eb47efcef446e9ae9598fac8e",
+			"sha1": "7dce004f265db9e606b080a3dc9dea6d23459cf4",
+			"sha256": "b600bd7f5202d4281300d748686803e7241163f67afcf9425c88a9d964c8e0fb"
+		}
+	]
+}

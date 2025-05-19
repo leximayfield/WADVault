@@ -1,0 +1,16 @@
+{
+	"uid": "theden.wad",
+	"name": "The Den",
+	"description": "i tried to make this one smaller and tighter than my previous wads i took my inspiration from my 2 fav wad series, danzigs and dwellers and tried to implement my own style into a similar layout imo i did a good job... the switch pillars and the ssg platform all lower the ssg platform to stop your opponent from getting the bfg the pathway to the bfg is closed if the bfg ledge is reached... it needs to be re-opened to be gotten again also if you get killed (or get stopped via the switches), your opponent has a chance to get the bfg so dont screw up :) (that sounds like a strategic, thinking game to me) this map is designed for 1 on 1, but i guess it can be used for 3 or 4 way games it might be a fun, very fast paced 2 on 2 map. btw this is an unchanged version from the first public beta. i no longer have the resources to edit it any further (pc fried, and im broke), but it is very polished and offers fun play as it is.",
+	"date": "2014-12-15 21:36:18",
+	"files": [
+		{
+			"filename": "theden.wad",
+			"size": 150687,
+			"crc": 270483494,
+			"md5": "917f6924160bf9eb4ea087cd75c42566",
+			"sha1": "1a0fcc7f2d8478da1551defb3984b1c52b080194",
+			"sha256": "79fd49b7a373ad162b8fbdad921bd64d70d7844b9c1b67b5df0e30a526c3167c"
+		}
+	]
+}

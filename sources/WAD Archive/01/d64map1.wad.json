@@ -1,0 +1,16 @@
+{
+	"uid": "d64map1.wad",
+	"name": "Crushing fear",
+	"description": "This is a Doom 64 map for Doom 2. It uses Doom 64 weapons, sprites and enemy's, this was suppose to be for snipers Doom 64 II: The Rising project but things changed a little so i am releasing this map as a standalone map. There are 2 files, the wad that has the level it self, and a wad that has the Doom 64 sprites and enemy's and textures. Just drag and drop \"both\" files on your .exe file (in Zdoom's case, its Zdoom.exe, for example) and run Doom 2, then start playing and enjoy! ALso, there are no Difficulty Settings.",
+	"date": "2014-12-24 17:10:52",
+	"files": [
+		{
+			"filename": "d64map1.wad",
+			"size": 192480,
+			"crc": 1845878159,
+			"md5": "daa039a116d0f7352aeba9fcb8d1ffdc",
+			"sha1": "01f01f368746fcfeda880dd16d82454d89eca313",
+			"sha256": "719b05187e961763d2e1f5ba49da2fba46cdcfc3aec2547cad526367830afcea"
+		}
+	]
+}

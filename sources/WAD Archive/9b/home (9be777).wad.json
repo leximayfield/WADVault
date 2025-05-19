@@ -1,0 +1,17 @@
+{
+	"uid": "home (9be777).wad",
+	"name": "The Homefront (1st release)",
+	"description": "This level is a redisign of one of my old houses, plus a few added caves. Its a small level and is extremely simple play for the purpose of the story line. The only enemies in this level are imps and you might not even encounter them. This level is quit good for Deathmatch play. Its in a wide open area and it's small. Whenever you start you will find yourself picking up a Double Barrel shotgun. (in my opinion the best DM weapon)",
+	"version": "9be777",
+	"date": "2014-12-18 22:52:29",
+	"files": [
+		{
+			"filename": "home.wad",
+			"size": 124428,
+			"crc": 3181900081,
+			"md5": "831ae69017fccc49518c4530a1a81cf2",
+			"sha1": "9be7774b523240a9f68f86e63d46d1bde411d92d",
+			"sha256": "b15c4f7f77e00f9ed577306eb70fca7e8206b46f5c39aaddcb3b0f9b432ae57e"
+		}
+	]
+}

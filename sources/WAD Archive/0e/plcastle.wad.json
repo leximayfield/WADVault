@@ -1,0 +1,15 @@
+{
+	"uid": "plcastle.wad",
+	"description": "This is a single level (MAP01), the first one I ever made. It is very small and was done in a few hours. You need the plutonia IWAD to run it, hope you like it!",
+	"date": "2014-12-29 08:40:22",
+	"files": [
+		{
+			"filename": "plcastle.wad",
+			"size": 186705,
+			"crc": 92008078,
+			"md5": "afbec96b2a196106d82f914464277041",
+			"sha1": "0e7ed2bedc120d56073a9557bcdc77cc2de8cc76",
+			"sha256": "b05cf1fdd9f723229cf1d863dff46bd238255b44a9cf0592b28226c51c1beb3f"
+		}
+	]
+}

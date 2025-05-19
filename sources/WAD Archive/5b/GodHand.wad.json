@@ -1,0 +1,16 @@
+{
+	"uid": "GodHand.wad",
+	"name": "GodHand",
+	"description": "This is my first map I made, its a Deathmatch map made for Skulltag,Zandronum, and Zdaemon.",
+	"date": "2014-12-15 21:47:36",
+	"files": [
+		{
+			"filename": "GodHand.wad",
+			"size": 38363,
+			"crc": 1750409356,
+			"md5": "edb47e3229ddacb4cc4324c020ca8e9e",
+			"sha1": "5b5a7d135d568e74d8b0b0a9f40969c19d475f4a",
+			"sha256": "aadab061a7082621b82ee84101c80fdc1e0cdced06924f3ac9a22f035f7e3c2a"
+		}
+	]
+}

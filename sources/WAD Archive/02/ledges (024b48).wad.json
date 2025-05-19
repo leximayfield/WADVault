@@ -1,0 +1,17 @@
+{
+	"uid": "ledges (024b48).wad",
+	"name": "LEDGES.WAD",
+	"description": "This patch file is for E1M1. To designed for only deathmatch play. It works best with 4 players but can be played with 2 or 3 players. All weapons are evenly spaced to insure a good deathmatch.",
+	"version": "024b48",
+	"date": "2013-11-02 15:07:16",
+	"files": [
+		{
+			"filename": "ledges.wad",
+			"size": 39414,
+			"crc": 2634890444,
+			"md5": "17cb7f82e95953b963a3579c2f0f0df0",
+			"sha1": "024b481aba48640858218c93ebc55c74140cd757",
+			"sha256": "5b43cc57a3ae57ccb002847f2b2ee43f4705f67e3e086d63e5dfe52e30e7e123"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "evildead (c66149).wad",
+	"name": "Evil Dead (1,2,&3) Sounds",
+	"description": "Sounds from all the Evil Dead movies.",
+	"version": "c66149",
+	"date": "2013-11-04 20:07:44",
+	"files": [
+		{
+			"filename": "evildead.wad",
+			"size": 1044916,
+			"crc": 1833516512,
+			"md5": "b544949d8798197e0772657b32d688f6",
+			"sha1": "c6614969151f4035f408b24cc27213e86ebfe7f8",
+			"sha256": "05d99442d8d8dcbd6e08d6e12797f8faf7d88a64c89a3e5b2d73b8b5a91fbaec"
+		}
+	]
+}

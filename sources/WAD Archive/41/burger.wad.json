@@ -1,0 +1,16 @@
+{
+	"uid": "burger.wad",
+	"name": "BURGER",
+	"description": "There's a super secret.",
+	"date": "2014-12-21 15:14:29",
+	"files": [
+		{
+			"filename": "burger.wad",
+			"size": 238435,
+			"crc": 673156337,
+			"md5": "66ac2a5678f8209b7be75986e5c49014",
+			"sha1": "41532defffd896186409ff87e374f5305edf2223",
+			"sha256": "06c0fccb05cc01a609b57d542ecd4f96f98fb62e2bf0846d539e5c4e6017d91d"
+		}
+	]
+}

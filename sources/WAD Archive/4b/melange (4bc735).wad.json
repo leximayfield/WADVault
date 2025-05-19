@@ -1,0 +1,17 @@
+{
+	"uid": "melange (4bc735).wad",
+	"name": "Melange",
+	"description": "Three DeathMatch levels. Map 1 is two complex buildings. Map 2 is me having fun with RMB. CyberDeamons are nice! Just stay in the dark. Map 3 is me trying to push the DOOM Engine to the limit. If I had added one more sector or light change, you would be getting visplane error.",
+	"version": "4bc735",
+	"date": "2014-12-03 20:21:17",
+	"files": [
+		{
+			"filename": "melange.wad",
+			"size": 224677,
+			"crc": 1578889532,
+			"md5": "c4b77dc9238700880f45506c96df9b44",
+			"sha1": "4bc7356db7b15506506e2155308acf688c2892f1",
+			"sha256": "9b8580e197cd04e7f184d9659cf5fbaf1ba63ce9d13d6ce0af6fea2e313c0a70"
+		}
+	]
+}

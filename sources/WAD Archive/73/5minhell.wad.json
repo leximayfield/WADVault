@@ -1,0 +1,16 @@
+{
+	"uid": "5minhell.wad",
+	"name": "Five Minutes of Hell",
+	"description": "Basically, this is a temple in hell that can be blazed through in 5 minutes. No real plot, just demons getting blown away. This wad originally began life as part of what was going to be a 9 map set for Vanilla Doom, but I abandoned it after switching to Zdoom. Then I took bits of maps 2, 3, and 5, converted them to Zdoom format, put them together, and added some basic Zdoom functions and scripts. It was going to be part of the Doomworld Mega Collab (or whatever it was called), but I missed the deadline. It gathered dust on my hard drive for a few months, until recently when I decided to polish it up and release it anyways. One more thing. Given that this is my first public release, I'd appreciate some constructive criticism so that I know what to improve next time.",
+	"date": "2014-12-15 21:56:36",
+	"files": [
+		{
+			"filename": "5minhell.wad",
+			"size": 519197,
+			"crc": 374510390,
+			"md5": "43c1d620ebceb32f066e33cda2c43e16",
+			"sha1": "73bb012030778ad8b0826479841f2bb5b616282e",
+			"sha256": "b2c20beb03649c3b0ba80fe76d5be7c93adde05aea2cb21ffb9a3e2b9092bc54"
+		}
+	]
+}

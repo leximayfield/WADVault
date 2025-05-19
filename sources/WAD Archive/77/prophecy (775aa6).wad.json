@@ -1,0 +1,17 @@
+{
+	"uid": "prophecy (775aa6).wad",
+	"name": "PROPHECY.ZIP (version 1.1)",
+	"description": "Transmission logged September 13th 1996 5:30 AM.",
+	"version": "775aa6",
+	"date": "2014-12-13 17:47:16",
+	"files": [
+		{
+			"filename": "prophecy.wad",
+			"size": 189435,
+			"crc": 1708767865,
+			"md5": "cd27f4402eb37251a4b8e9d614a8f822",
+			"sha1": "775aa6193fc74100072217400351d9ba9055ba87",
+			"sha256": "d37805a00961ec15cba8a9afcf22efbfddacfd484e4d2ae03faaa90cd86896a0"
+		}
+	]
+}

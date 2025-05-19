@@ -1,0 +1,17 @@
+{
+	"uid": "quickie (41be84).wad",
+	"name": "quickie.wad",
+	"description": "Square arena with overlooking ledges and 4 teleporters. The lifts lower to reveal John Romero's head w/cube launcher of course :-).",
+	"version": "41be84",
+	"date": "2013-11-04 19:20:43",
+	"files": [
+		{
+			"filename": "quickie.wad",
+			"size": 10220,
+			"crc": 2182997315,
+			"md5": "11f4959e5dbac723c0ec914be2246ae4",
+			"sha1": "41be84ee7e6313f1c9849a53dd48d34da066c4d6",
+			"sha256": "b5bd1d9216cfd166f9798c4b4cc11be8bfa2cda4eb2ae71c727ed832a023f2bf"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rim2.wad",
+	"name": "Rim 2 - Cere",
+	"description": "DOOM map",
+	"date": "2014-12-14 20:39:11",
+	"files": [
+		{
+			"filename": "rim2.wad",
+			"size": 279783,
+			"crc": 2963620927,
+			"md5": "b344f211ccf2b2ee85cb7eb4e979ae29",
+			"sha1": "7ebf3f1d1b940e9911198dbb14d5b3bd7d06ea25",
+			"sha256": "dc4c87ca3532830c17213e5bcf4727a8394d2ed1a4ea6947b5a64b2e7f4a7b03"
+		}
+	]
+}

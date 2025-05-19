@@ -1,0 +1,16 @@
+{
+	"uid": "gdm_cave.wad",
+	"name": "GooberMan's DeathMatch series",
+	"description": "Rather tense little deathmatch map based in an abandoned asteroid mine. Lots of ambush points, things you'll miss first time, a few scripted effects, and the best part is the dim lighting. Possibly a bit big for 2-4 players, but should prove fun with 8 players.",
+	"date": "2014-12-15 22:55:22",
+	"files": [
+		{
+			"filename": "gdm_cave.wad",
+			"size": 275776,
+			"crc": 1556497444,
+			"md5": "31b63c0eea9007d8b7c6534708159df8",
+			"sha1": "93fe694bb6ca27795146462a599e779a75a93780",
+			"sha256": "3ddae77a66573fbcf5be43d4b084c2ee6c61b603aaaa3840b6656480a86265a6"
+		}
+	]
+}

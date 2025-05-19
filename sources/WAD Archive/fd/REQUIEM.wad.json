@@ -1,0 +1,16 @@
+{
+	"uid": "REQUIEM.wad",
+	"name": "THE GATEWAY",
+	"description": "This map is a taste of what Final Doom is all about - unleashing the potential of the DooM2 engine. The level incorporates a unique use for the Archvile ghost making technique, where it can resurrect a demon giving him the ability to walk through walls and not be shot. The first known way to kill such an enemy is to hit him in a rocket explosion. Another way is to get the ghost to hit another enemy who has a close attack ability, who will then go and tear the ghost apart. +----------------------------------------------------------------+ + Mission 24 + --------------",
+	"date": "2013-04-19 17:13:41",
+	"files": [
+		{
+			"filename": "REQUIEM.wad",
+			"size": 11464486,
+			"crc": 1798261277,
+			"md5": "f5bdfb5a32ead6f8c642fc13555074de",
+			"sha1": "fd314d239e9a8528cca069c83ff3cc2bef6fabc5",
+			"sha256": "c05dc4b416b17656fbc31358225aa0646ff9a892a5ee785b1fe9afe7e81b2383"
+		}
+	]
+}

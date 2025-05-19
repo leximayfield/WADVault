@@ -1,0 +1,16 @@
+{
+	"uid": "surftune.wad",
+	"name": "Doom Surfin",
+	"description": "Replaces all music from Episode 1 with hard drivin' jams, some of them familiar tunes. We'll start you off with Wipeout.",
+	"date": "2015-09-15 16:37:57",
+	"files": [
+		{
+			"filename": "surftune.wad",
+			"size": 341625,
+			"crc": 131784410,
+			"md5": "ec6bac41ac581120874a605178d3ceb5",
+			"sha1": "04eeaf997067781edc3e64ff4c6c7b590f8d883d",
+			"sha256": "d7a8f8e738fa0c6559727441fc230fbbf84b70bf130aaa1c599591462d9634cc"
+		}
+	]
+}

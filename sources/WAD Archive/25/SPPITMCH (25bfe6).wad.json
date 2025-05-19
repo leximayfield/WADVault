@@ -1,0 +1,17 @@
+{
+	"uid": "SPPITMCH (25bfe6).wad",
+	"name": "GLADIATR.WAD",
+	"description": "Try this small WAD as the eigth level on the first episode. It's not large, but fun if you try it starting with a pistol only! NOTE: you must warp to level 8 on episode 1 for this WAD to work, it will not work if you change the WAD to any other level.",
+	"version": "25bfe6",
+	"date": "2013-11-02 15:14:13",
+	"files": [
+		{
+			"filename": "SPPITMCH.wad",
+			"size": 8388,
+			"crc": 116291669,
+			"md5": "b598fa92216a4af28b87a35b67514ddd",
+			"sha1": "25bfe6c531f970b3647afdf9ad9f77197180f7f4",
+			"sha256": "87f7aad5a1b7041c087c119c5ea4167bbe712c6dcf64179746395257507ec495"
+		}
+	]
+}

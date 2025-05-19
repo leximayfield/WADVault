@@ -1,0 +1,17 @@
+{
+	"uid": "STEEL (33b4e4).wad",
+	"name": "Steel",
+	"description": "This one is another a precision level: a couple of wrong moves can destroy your chances of finishing. You might want to get used to using the single barrel in a couple of places in this level. But try the big room with the stairs with just the double barrel - a lot of fun that. It's short, but more open than any of my other levels.",
+	"version": "33b4e4",
+	"date": "2015-01-14 22:53:54",
+	"files": [
+		{
+			"filename": "STEEL.wad",
+			"size": 103933,
+			"crc": 2329742488,
+			"md5": "38eb8ad5f7328c3938582ecfba642b6a",
+			"sha1": "33b4e4db578f2b4b89554b734ea1755ab46a25ce",
+			"sha256": "ffd81aa22e16c61e0a840e41e8f850b14d6f5eed0ce0da875dec2a71b42f9d7d"
+		}
+	]
+}

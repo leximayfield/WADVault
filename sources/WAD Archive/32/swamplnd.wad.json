@@ -1,0 +1,16 @@
+{
+	"uid": "swamplnd.wad",
+	"name": "Swamplands",
+	"description": "There are hostile activity on Deimos swamp. Explore buildings middle of the large swamp. Dangerous castle ahead!",
+	"date": "2014-12-14 20:47:44",
+	"files": [
+		{
+			"filename": "swamplnd.wad",
+			"size": 358059,
+			"crc": 1543525892,
+			"md5": "90b903acaba8a1bb4bb5a3d724e70bdd",
+			"sha1": "3295e7d27a81ddfe077a4cba1a1f9aee2e1d11d0",
+			"sha256": "e63c589243eac881a86f1320faff41a268758e633a35b69f1f9c4ac64a5244cf"
+		}
+	]
+}

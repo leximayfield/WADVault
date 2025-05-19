@@ -1,0 +1,17 @@
+{
+	"uid": "alt (efe3f1).wad",
+	"name": "A.L.T.",
+	"description": "Third WAD by [B0S] clan. Now it's 32 levels. Plot: \"It all happened because of that strange portal in the cargo compartment of this falling plane. After we loaded the object we had found under kilometers of ice in the cargo hold, the commander appointed me to escort the valuable cargo. Who could've known that the mysterious find was going to suddenly come to life? A bright flash is the last thing I remember after liftoff.\"",
+	"version": "efe3f1",
+	"date": "2013-08-23 14:35:44",
+	"files": [
+		{
+			"filename": "alt.wad",
+			"size": 36340270,
+			"crc": 2116097661,
+			"md5": "f05a6e87f023b77b3443ee5e35f0c898",
+			"sha1": "efe3f15c0805815f10e6527bfb95078383f51b5e",
+			"sha256": "51ed76f99cfca31b2ad864072e312d81ef641b7fc39f94b93c14dd80625d4e7c"
+		}
+	]
+}

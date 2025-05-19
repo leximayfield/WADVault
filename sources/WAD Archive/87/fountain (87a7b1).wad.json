@@ -1,0 +1,17 @@
+{
+	"uid": "fountain (87a7b1).wad",
+	"name": "The Fountain",
+	"description": "A single-level Doom2 PWAD.",
+	"version": "87a7b1",
+	"date": "2014-12-18 23:11:05",
+	"files": [
+		{
+			"filename": "fountain.wad",
+			"size": 299912,
+			"crc": 665576863,
+			"md5": "f49ea5a9565f501f47b180d7d3e73f3d",
+			"sha1": "87a7b18cb797074cbc1602c75e67951d5a7856f4",
+			"sha256": "5617d9b2b5918a607faab1dddeada881fac407bf465f7bfe32ff5725ada7ffc1"
+		}
+	]
+}

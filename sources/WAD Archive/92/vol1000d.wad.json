@@ -1,0 +1,16 @@
+{
+	"uid": "vol1000d.wad",
+	"name": "V.O.L. (1000 Demons)",
+	"description": "The Demon's Sanctuary is threatening to flood our world with evil beyond comprehension. They have built an altar of demonic summoning that when activated will give them a gateway into our world.",
+	"date": "2014-12-29 18:25:12",
+	"files": [
+		{
+			"filename": "vol1000d.wad",
+			"size": 643084,
+			"crc": 2037252573,
+			"md5": "169f9bb35f689e129d5328a411e78d94",
+			"sha1": "92ac887161b2a10bc96b1055faed9456c6cf5950",
+			"sha256": "cb915e62b78c722188763268cf571ef373d4eb2eb7ba75b46a390fd9550f5153"
+		}
+	]
+}

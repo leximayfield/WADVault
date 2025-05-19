@@ -1,0 +1,16 @@
+{
+	"uid": "strifed1.wad",
+	"name": "STRIFE DOOM (Version 1)",
+	"description": "StrifeDoom is set in the days before the well known \"strife\" occurred in the small township of Tarnhill between \"The Order, a well-equipped religious dictatorship, and The Front, the rag tag resistance movement\".",
+	"date": "2014-12-29 18:17:08",
+	"files": [
+		{
+			"filename": "strifed1.wad",
+			"size": 2981854,
+			"crc": 3328304704,
+			"md5": "cedef45552954bb35b773d6f9864171c",
+			"sha1": "3bf373992080bd3903037ba06279c7e42f18f66f",
+			"sha256": "6cc3a20ddb7b9e80226ee07d8ac12caf18ab6946fd41ff8a21b5c455cc2f9bd6"
+		}
+	]
+}

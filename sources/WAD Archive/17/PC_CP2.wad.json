@@ -1,0 +1,16 @@
+{
+	"uid": "PC_CP2.wad",
+	"name": "2048 UNLEASHED (Pcorf community project 2)",
+	"description": "Welcome to 2048 UNLEASHED - An all new 32 level single player megawad for DOOM 2 put together by various authors in the community. Known as the Pcorf Community Project 2 at the Doomworld forums. The aim of this project was simple and it was to create a 2048x2048 Boom compatible level for DOOM 2 using the Whispers of Satan texture wad. 10 months later I received 49 levels divided into two episodes, the first 2048 UNLEASHED which contains the 32 main levels and the second ALL HOPE FOR PEACE which contains 17 additional levels.",
+	"date": "2015-11-22 17:52:41",
+	"files": [
+		{
+			"filename": "PC_CP2.wad",
+			"size": 21430729,
+			"crc": 2225559126,
+			"md5": "f9fc002a2ab7f337bbc9ce9c0f641e1a",
+			"sha1": "1721cd9b3b5f716d9f4b557220e1839994398389",
+			"sha256": "b36f34c94fa4ebc4ab453f8717f8c9989b5963be5aeb6f693466673dc6bb2907"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "lift (f21ad9).wad",
+	"name": "Hell Gate With Lift",
+	"description": "A small base with four directions to enter. There is a computer station, a key room, a lift and a hell gate. I apologise for crap architecture and/or gameplay, I've only started mapping, so be nice :}",
+	"version": "f21ad9",
+	"date": "2014-12-27 12:49:34",
+	"files": [
+		{
+			"filename": "lift.wad",
+			"size": 46704,
+			"crc": 1832143687,
+			"md5": "d74c0f34c2f3572fbf84035ad374ec36",
+			"sha1": "f21ad9765a896cee1bceb65bd9178b95dc8483bb",
+			"sha256": "61119907f0fd03d2d259c0af5305236b00b5075dbd84d9637641c867abde2366"
+		}
+	]
+}

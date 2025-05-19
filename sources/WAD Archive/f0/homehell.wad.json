@@ -1,0 +1,16 @@
+{
+	"uid": "homehell.wad",
+	"name": "From Home To Hell",
+	"description": "This is a map pack for Doom 2, which contains 7 levels. These maps follow these rules: *No super shotgun *No backpack *An Ultimate Doom Style //*****MISSION***// A big, unstoppable demon summoned a horde of his minions to conquer your planet. However, God has put you, a veteran UAC law enforcer, in his path of destruction. Your mission is clear: travel to his hellish home, obliterate him and return home. //****END OF MISSION***//",
+	"date": "2016-10-17 16:59:01",
+	"files": [
+		{
+			"filename": "homehell.wad",
+			"size": 5411008,
+			"crc": 3648683544,
+			"md5": "015be58b60f9dafbcea3509a947616fe",
+			"sha1": "f030bd2a9634b22a991686bec415842e7ed8de33",
+			"sha256": "12a1b527f9131fd5184ce3de5045c77fddbc16ce439afe8f7e651f959dbf0e0f"
+		}
+	]
+}

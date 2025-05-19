@@ -1,0 +1,16 @@
+{
+	"uid": "sw_rm23.wad",
+	"name": "Sewers Remake V2.3",
+	"description": "You need to load doom.wad before this one otherwise some textures will be missing. A limit-removing remake of Sewers (E1M10) made by David Calvin in 1994. Remake partly inspired by SgtMarkIV's Sewers.",
+	"date": "2019-08-20 12:38:18",
+	"files": [
+		{
+			"filename": "sw_rm23.wad",
+			"size": 874118,
+			"crc": 106186890,
+			"md5": "214c650e7d59f200491c31728727cd89",
+			"sha1": "b29552f1ade108d37f10bcf518c0318f21af6e54",
+			"sha256": "06f77552969378e854e7b2024873c1f27d8784d78c1e487c6024f960c60e3cff"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "labfrag.wad",
+	"name": "LABFRAG.WAD (for DOOM2)",
+	"description": "This WAD started as an experiment in gun-activated switches that manipulate textures. I borrowed a cool texture technique from Brian Martin's DDAY3_3.WAD. You'll know what I mean when you see it. A small map suitable for massive amounts of death. There are shotguns, SS's, rockets and plasma weapons, and a BFG. An Exit, as well. Intended for deathmatch. Please E-mail your reviews of this WAD. I'd like to know how I did!",
+	"date": "2014-12-15 22:36:52",
+	"files": [
+		{
+			"filename": "labfrag.wad",
+			"size": 245315,
+			"crc": 269558007,
+			"md5": "cd9fb77cf615e0f9b1c8ff0b0b3f7b6c",
+			"sha1": "bf3b4333426fec5c474f318e5b1a210c89010376",
+			"sha256": "2d9954628033c9b1ce45e90c5b9cbced560ce46147f4640f9814a05d469e9c03"
+		}
+	]
+}

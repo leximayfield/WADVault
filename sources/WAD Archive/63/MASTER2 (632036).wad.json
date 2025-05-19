@@ -1,0 +1,17 @@
+{
+	"uid": "MASTER2 (632036).wad",
+	"name": "Master Levels",
+	"description": "Doom deathmatch WAD [read below for the rules]",
+	"version": "632036",
+	"date": "2013-11-02 16:44:31",
+	"files": [
+		{
+			"filename": "MASTER2.wad",
+			"size": 125373,
+			"crc": 288952321,
+			"md5": "16703ed4f6fc52ea2ab95d8580ed2071",
+			"sha1": "6320362c77d02a28edfb2dbfb665674609ec5633",
+			"sha256": "b96e2f8fcc5b7d6db73899cc183cf66bca05891a38520661134bc92b222ca110"
+		}
+	]
+}

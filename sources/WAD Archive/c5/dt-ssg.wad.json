@@ -1,0 +1,16 @@
+{
+	"uid": "dt-ssg.wad",
+	"name": "Single Barrelled Break-Action",
+	"description": "Replaces the DooM II double barrelled shotgun with a severly sawed-off single barrelled. Why? I dunno. Nothing to do. You only fire a 7-pellet spread, but the reload is faster, so it's not a complete loss. All I can say is: Kick Demon Ass Chuck Norris Style!",
+	"date": "2014-12-10 22:46:11",
+	"files": [
+		{
+			"filename": "dt-ssg.wad",
+			"size": 42964,
+			"crc": 3455830206,
+			"md5": "5921ed9b7da4a1d917f3ec063c0fe57a",
+			"sha1": "c506773e800812772e6a15d4a19a4fcf181d51f4",
+			"sha256": "3b2716a9920959243e35f80471b07540f12aee1881aaddd71980b82299a1d3cd"
+		}
+	]
+}

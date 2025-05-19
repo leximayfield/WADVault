@@ -1,0 +1,17 @@
+{
+	"uid": "abbey3 (e9cb49).wad",
+	"name": "ABBEY3",
+	"description": "You are a apprentice returning to your village, but something is wrong and you suspect the priest for inviting the evil forces.",
+	"version": "e9cb49",
+	"date": "2013-11-02 16:37:13",
+	"files": [
+		{
+			"filename": "abbey3.wad",
+			"size": 333533,
+			"crc": 2042690436,
+			"md5": "db68eebfc2b073e3f84c6a742ebb675a",
+			"sha1": "e9cb49c3f53932363542edc60faf90ce9b818334",
+			"sha256": "b2316752ac2e861bea6f83c7588024643417a2f8c1115fffcdaed56f09a1105a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "swarmdm.wad",
+	"name": "Swarm Deathmatch!",
+	"description": "Great deathmatch wads that play great in both deathmatch modes.(Except Map01) Map01 is just a small tight but smoothe duel-type level. I made it as small and as light as possible for all of those whose systems have problems with those huge deathmatch levels. Good for 2,3 or even 4 platers. Map02 is for 2,3 or 4 players. Map03 is best with 2 players. Map04 is best with 4 players. All maps are made with Deathmatch 1 in mind but all of them except Map01 have enough ammo and power-ups for Altdeath.",
+	"date": "2014-12-15 22:00:11",
+	"files": [
+		{
+			"filename": "swarmdm.wad",
+			"size": 646818,
+			"crc": 2860234300,
+			"md5": "ecd08100e010c859b5264f138640bbbf",
+			"sha1": "c1f6b67475ff7453b4797bb7638e78525d7694a4",
+			"sha256": "e2ab1a1aff08046f4ec05872da28b243774ca6dc6e044621a3d58a1ea6e16661"
+		}
+	]
+}

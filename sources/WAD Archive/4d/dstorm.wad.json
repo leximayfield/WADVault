@@ -1,0 +1,16 @@
+{
+	"uid": "dstorm.wad",
+	"name": "Dusk Storm",
+	"description": "Brick N Metal Map around medium size, following the Hr/AV styled gameplay. You can consider this a \"demo\" to my upcoming project.",
+	"date": "2014-12-24 18:56:15",
+	"files": [
+		{
+			"filename": "dstorm.wad",
+			"size": 604261,
+			"crc": 2484255994,
+			"md5": "a68015ac37b2ebe239870b015b61e207",
+			"sha1": "4de381f4ed4f98812884e18349b1c1162f9c8606",
+			"sha256": "999ccc06a2834df6ea0b51f5cc18738be7d0aad871c0d3d7901de62445dc28ca"
+		}
+	]
+}

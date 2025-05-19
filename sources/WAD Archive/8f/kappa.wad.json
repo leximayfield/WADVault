@@ -1,0 +1,16 @@
+{
+	"uid": "kappa.wad",
+	"name": "Kappa Base",
+	"description": "This is a small tech base I made over the course of the summer. Note: I recommend you play on Ultra-Violence, as I have balanced it for play on that skill level.",
+	"date": "2015-01-05 16:19:01",
+	"files": [
+		{
+			"filename": "kappa.wad",
+			"size": 609831,
+			"crc": 454478401,
+			"md5": "a0428ceb55273df570034b4aa8913d9f",
+			"sha1": "8f210327ece561f65c2f7b948c3b88a871220f31",
+			"sha256": "e7dc4641f3142eac4f470752f9c05adc1a41df949d9e825674f66230a992f745"
+		}
+	]
+}

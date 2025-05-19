@@ -1,0 +1,16 @@
+{
+	"uid": "obstruct.wad",
+	"name": "Obstructor",
+	"description": "A little map fo doom 2 where you fiht in a industrial place. Wel,l at least this is what it seems to be.",
+	"date": "2015-09-15 17:46:42",
+	"files": [
+		{
+			"filename": "obstruct.wad",
+			"size": 228681,
+			"crc": 801305685,
+			"md5": "77d60c87b2b06f1d4086441c1d26be63",
+			"sha1": "42ccbe766eda2191c43f32419f91351dcf2778dd",
+			"sha256": "2efdb6bf729d765b74f3d73f667c63e975fc6db2761587f41814d979c52df62e"
+		}
+	]
+}

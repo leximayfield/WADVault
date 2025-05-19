@@ -1,0 +1,17 @@
+{
+	"uid": "wad (7202be).wad",
+	"name": "No Man's Land 1.1",
+	"description": "Well, this is it! The best DeathMatch arena that my",
+	"version": "7202be",
+	"date": "2016-02-07 20:27:14",
+	"files": [
+		{
+			"filename": "wad.wad",
+			"size": 25158,
+			"crc": 2616428950,
+			"md5": "d51cc6408b08aea3f88312ceb49daadb",
+			"sha1": "7202be60b13d70a774431d72f0d07ebfdb7ea86c",
+			"sha256": "9eb608bcaaa9ac6b0de3e948531b7f8f2033119f8c7a3db60eb17da12a4fced6"
+		}
+	]
+}

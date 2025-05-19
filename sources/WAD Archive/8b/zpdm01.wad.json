@@ -1,0 +1,16 @@
+{
+	"uid": "zpdm01.wad",
+	"name": "Compact Refinery",
+	"description": "A Deathmatch map set in a small, symmetrical refinery. Features automated (walkover) doors, three weapons, single exit. 2-4 players (1v1 is IDEAL).",
+	"date": "2014-12-15 22:48:51",
+	"files": [
+		{
+			"filename": "zpdm01.wad",
+			"size": 53885,
+			"crc": 1270924691,
+			"md5": "1accf1ebb706e2559aba191c73ca0de6",
+			"sha1": "8b23eb62858b497331568d52218ce9718101fd6c",
+			"sha256": "7e529656716369b375cae5b6d2bce9f428459a50feb75f006042b087fe763afc"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "du_or_di.wad",
+	"name": "DU_OR_DI.WAD",
+	"description": "Deathmatch wad for Doom 2",
+	"date": "2014-12-15 22:00:05",
+	"files": [
+		{
+			"filename": "du_or_di.wad",
+			"size": 132852,
+			"crc": 2299589920,
+			"md5": "598144767c35747de9cc733b1b7e181e",
+			"sha1": "0825dad837028d7dac8a3d07a8e1cc56200c91c2",
+			"sha256": "0f92730e2cd84c434e8e65447cea98fdc986630afe818f197367e9aa7901f685"
+		}
+	]
+}

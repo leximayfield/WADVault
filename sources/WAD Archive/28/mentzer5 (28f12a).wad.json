@@ -1,0 +1,17 @@
+{
+	"uid": "mentzer5 (28f12a).wad",
+	"name": "Mentzer5.WAD (For Doom 2)",
+	"description": "AKA: Tunnels of Death",
+	"version": "28f12a",
+	"date": "2016-02-07 20:25:27",
+	"files": [
+		{
+			"filename": "mentzer5.wad",
+			"size": 91606,
+			"crc": 330478725,
+			"md5": "ec70550802508656143c57b94e127609",
+			"sha1": "28f12ab0487ded50ffdda6694310ff4a7c30a57d",
+			"sha256": "49906c28860a5f802b49f5e91cb2e38a8f4676cc38425d0a2cbd925c0ebf4a32"
+		}
+	]
+}

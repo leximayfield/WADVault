@@ -1,0 +1,16 @@
+{
+	"uid": "hydrologica.pk3",
+	"name": "Hydrologica",
+	"description": "Started this map in January 2017 as a way to decrease my anxiety from getting a new job. Completed in October 2018 as a way to decrease my frustration and anger after losing said job. Anyway... this is a quite large, mosty open (no switch hunts, minimal colored doors) map with many ways to explore and complete the level. It was inspired by oldschool level design in which you can skip places and room on the map. Theme of the map is a remote UAC facility located on a rock island (and below) and your task is to destroy it by blowing up it\u00b4s thermal reactor. There are few autosave spots before more punishing/unfair bits of the map (Depends on difficulty). 1.1 version is bit more challenging and unfair than v1.0 was, but I feel it is still in the not BS territory. This version also uses GZdoom (Hexen) config instead Zdoom (Hexen). No specific features are used, so I guess just to be futureproof or to open possibilites for dynamic lightning later on. R.I.P John Peter Bain (Total Biscuit) and Chester Bennington.",
+	"date": "2019-03-19 22:33:12",
+	"files": [
+		{
+			"filename": "hydrologica.pk3",
+			"size": 2861133,
+			"crc": 3045409840,
+			"md5": "3bc6eccdef0d126332383dcce9a2328b",
+			"sha1": "1699741c57576cf1664c26c6b702a59326e70561",
+			"sha256": "ad09c4b726c2b53041376005108662c699f14b25d789741bb56784fb298f5525"
+		}
+	]
+}

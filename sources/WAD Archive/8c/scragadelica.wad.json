@@ -1,0 +1,16 @@
+{
+	"uid": "scragadelica.wad",
+	"name": "Scragadelica",
+	"description": "Deathmatch in an open slime area with five stations; four in each corner and one in the middle. Four ways to the outer area with more ammo. Similar to the original MAP07 but the pads have ceilings. Monsters added for single player and co-operative play.",
+	"date": "2015-01-14 22:50:04",
+	"files": [
+		{
+			"filename": "scragadelica.wad",
+			"size": 27786,
+			"crc": 2334496842,
+			"md5": "40d8a86503479f2a84929b0a8da4c9b8",
+			"sha1": "8c081ce861f0ba0f84050ce5557fdeef8bdc200f",
+			"sha256": "7dcb2526ac03088febf0364cf569fedfa84f1b874218da4eeec9f6da64b60548"
+		}
+	]
+}

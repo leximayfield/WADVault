@@ -1,0 +1,17 @@
+{
+	"uid": "killzone (c8b1d1).wad",
+	"name": "KILLZONE.WAD",
+	"description": "Completely new version of Episode 1 Level 1",
+	"version": "c8b1d1",
+	"date": "2014-01-07 21:57:45",
+	"files": [
+		{
+			"filename": "killzone.wad",
+			"size": 181821,
+			"crc": 3753700292,
+			"md5": "f12915229b82a3a3ae2c0fe4a1d48d97",
+			"sha1": "c8b1d1d3fed24115e57e1d1a8f0d0134c2520ac9",
+			"sha256": "04fd7156ad954124d8c15db89ff4cc6e055e61e654972121c444ca04e63c6c4f"
+		}
+	]
+}

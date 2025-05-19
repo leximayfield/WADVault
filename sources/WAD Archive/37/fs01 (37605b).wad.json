@@ -1,0 +1,17 @@
+{
+	"uid": "fs01 (37605b).wad",
+	"name": "Firestorm's Domain!",
+	"description": "A modification in the well loved LEVEL1.WAD Hidden walls all over the place, nice ambush areas. Intersecting paths that all lead to a place! I made another one called MAP01.WAD but that had too many bugs, so this is my new release.",
+	"version": "37605b",
+	"date": "2014-01-07 22:09:09",
+	"files": [
+		{
+			"filename": "fs01.wad",
+			"size": 71918,
+			"crc": 19680464,
+			"md5": "e3e1d83b94d4aa80eb40489009bb8259",
+			"sha1": "37605b6aad876c3493ab2386528e433502818eb9",
+			"sha256": "a5c61a41631b419054f984ff944b6f87c7d34260bed3b722733b1823926a4870"
+		}
+	]
+}

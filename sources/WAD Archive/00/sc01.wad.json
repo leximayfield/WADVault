@@ -1,0 +1,16 @@
+{
+	"uid": "sc01.wad",
+	"name": "Simple Challenge #01!",
+	"description": "You are in a room with nothing but walls, you are tired, and desperate for answers, so you get up and find you're way out of the building!",
+	"date": "2013-04-20 17:36:20",
+	"files": [
+		{
+			"filename": "sc01.wad",
+			"size": 75964,
+			"crc": 1646975964,
+			"md5": "3e0e95c8c84a5ecc3565e4c6153a34ea",
+			"sha1": "0000e0b4993f0b7130fc3b58abf996bbb4acb287",
+			"sha256": "d04fee8d6e15101bfef98fe62555f57aff40a68db58c6ccc3ec9ad5189e72641"
+		}
+	]
+}

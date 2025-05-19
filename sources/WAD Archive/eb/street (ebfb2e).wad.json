@@ -1,0 +1,17 @@
+{
+	"uid": "street (ebfb2e).wad",
+	"name": "STREET.WAD",
+	"description": "Vous vous retrouvez dans une p..... de rue style HARLEM.",
+	"version": "ebfb2e",
+	"date": "2013-11-02 16:47:06",
+	"files": [
+		{
+			"filename": "street.wad",
+			"size": 381698,
+			"crc": 3100900171,
+			"md5": "5c6eb97b463484d5b5156d83c58ed027",
+			"sha1": "ebfb2e19f8daca3ab2dc81f9a2bcdea5055a97a7",
+			"sha256": "1ede2f8d857917e99b26ed214ff6e7975c14f641a77d6fcef6e0c10e3e6ad1f1"
+		}
+	]
+}

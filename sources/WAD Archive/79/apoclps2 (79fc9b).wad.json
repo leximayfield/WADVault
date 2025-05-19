@@ -1,0 +1,17 @@
+{
+	"uid": "apoclps2 (79fc9b).wad",
+	"name": "APOCALYPSE",
+	"description": "This is a DOOM2 remake of my DOOM single player level, APOCLPSE. New creatures were added, old DOOM textures replaced, a few new secrets, and the SSG. Note: this WAD is much harder than the DOOM version was. Good Luck.",
+	"version": "79fc9b",
+	"date": "2016-02-07 20:31:22",
+	"files": [
+		{
+			"filename": "apoclps2.wad",
+			"size": 197129,
+			"crc": 1627988038,
+			"md5": "26b0972ab30ac4750cb6a6ba47287f20",
+			"sha1": "79fc9b50f6d429092272c805e8cc3f0420c03817",
+			"sha256": "60a3676068980f4e1054851a1313768f735b359a7f69c165d184c642525016dd"
+		}
+	]
+}

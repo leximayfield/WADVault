@@ -1,0 +1,17 @@
+{
+	"uid": "wworld (0d1418).wad",
+	"name": "WWORLD.WAD",
+	"description": "Waynes World SoundFXs 3.0 Great sounds that make you want to hurl",
+	"version": "0d1418",
+	"date": "2014-01-04 11:55:55",
+	"files": [
+		{
+			"filename": "wworld.wad",
+			"size": 1228477,
+			"crc": 1984941687,
+			"md5": "d13e34e761d02e8a413330b790b3b75d",
+			"sha1": "0d1418a9cfb7f461180f9fca044c3f4b5dc0a8dc",
+			"sha256": "fef271a63e6ae61c4052725852cece5d6866115ed50f4b837b3aeeb512242c19"
+		}
+	]
+}

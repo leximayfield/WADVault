@@ -1,0 +1,17 @@
+{
+	"uid": "Fallen (a3d785).wad",
+	"name": "Fallen",
+	"description": "It's Doom. If you don't understand that by now, you've got problems. Otherwise, VERY difficult level where you kill enemies. Centralized map; not to big.",
+	"version": "a3d785",
+	"date": "2014-12-18 22:54:48",
+	"files": [
+		{
+			"filename": "Fallen.wad",
+			"size": 56878,
+			"crc": 228387564,
+			"md5": "580fc746b5b9d71588955c1654f27d87",
+			"sha1": "a3d785defdb04ffeda13cc7d7a38be5eac50c6ca",
+			"sha256": "ed7dfae25be0b4f3cfb3e1a330213160e46db5c9d5a339f4862c2c4a2668ab7d"
+		}
+	]
+}

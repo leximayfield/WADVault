@@ -1,0 +1,16 @@
+{
+	"uid": "deathball-v1.3.pk3",
+	"name": "DeathBall Version 1.3",
+	"description": "Based off of the Bombing Run game mode from Unreal Tournament, players grab the ball and run into the pit in the opposing team's base to score!",
+	"date": "2013-04-19 01:09:32",
+	"files": [
+		{
+			"filename": "deathball-v1.3.pk3",
+			"size": 12163748,
+			"crc": 466630126,
+			"md5": "4d90d6969e4a72a397b5fc357cd1ef78",
+			"sha1": "26ed65986829b944a54492bd58e2361c6159d1b9",
+			"sha256": "d4d3b02712359afb22880fcff795e6c4d9fe4ca6b5734250c9d8b7852b59ade6"
+		}
+	]
+}

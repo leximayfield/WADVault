@@ -1,0 +1,17 @@
+{
+	"uid": "dude-ii (d06f5a).wad",
+	"name": "The Doom II Dude",
+	"description": "This is a deathmatch only WAD. I started it on DOOM 1 but when DOOM 2 came out I converted it. This is my first WAD so it's not that pretty.",
+	"version": "d06f5a",
+	"date": "2016-02-07 20:31:24",
+	"files": [
+		{
+			"filename": "dude-ii.wad",
+			"size": 30384,
+			"crc": 2355602630,
+			"md5": "b28e6eeff049b9b7e7bc55fbbdab738f",
+			"sha1": "d06f5aa2bd85df27486e04be32740fbbc4cabcb2",
+			"sha256": "017e547fd15c2e275a462ad793e95c8b33b2ebb1d5fc75bc258fcda85df8184a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "base (e1641a).wad",
+	"name": "Phobos base",
+	"description": "I started this as a test map to learn editing and now it has 2 more maps. E1M2 & E1M3",
+	"version": "e1641a",
+	"date": "2014-12-13 19:48:49",
+	"files": [
+		{
+			"filename": "base.wad",
+			"size": 1660556,
+			"crc": 150904462,
+			"md5": "78059371bfd57da07e071d309410c3c8",
+			"sha1": "e1641a398c7533ef3a6848cb9a22601c3b83b558",
+			"sha256": "bd1ad9345a8e89692b2e0ccba7b438de02d3b945db8e0e98e861e21f68c36a59"
+		}
+	]
+}

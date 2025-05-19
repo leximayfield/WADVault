@@ -1,0 +1,17 @@
+{
+	"uid": "thearena (3fb516).wad",
+	"name": "DeathMatch at The Arena!!",
+	"description": "A new DeathMatch arena based around one central area. Every player starts off in an isolated place. Many secrets and traps exist throughout the level. Teleporters in that central area take the players about the level looking for powerups, weapons, and yes quality fragging! *Enjoy*",
+	"version": "3fb516",
+	"date": "2013-11-04 19:25:10",
+	"files": [
+		{
+			"filename": "thearena.wad",
+			"size": 66069,
+			"crc": 1254685615,
+			"md5": "2f2580ca42203324a8ed305878962456",
+			"sha1": "3fb5163e4ec057d50d3718a0f50d5a58597ab7bf",
+			"sha256": "f078d808ebc44f7189b93c58ecd1611387c1e0c99f12a73aa21e5f7df601b542"
+		}
+	]
+}

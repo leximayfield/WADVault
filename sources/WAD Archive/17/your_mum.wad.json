@@ -1,0 +1,16 @@
+{
+	"uid": "your_mum.wad",
+	"name": "Your Mum",
+	"description": "A duel map that took no time at all. Aside from some graphics problems after clearing some unnecessary graphics (the file would have been smaller but it didn't like it when I removed unnecessary graphics for some reason).",
+	"date": "2014-12-15 22:33:11",
+	"files": [
+		{
+			"filename": "your_mum.wad",
+			"size": 2469012,
+			"crc": 467383924,
+			"md5": "d3a2f0123d6cd217c4a33d595ca47e9d",
+			"sha1": "174eb7dfeb64b1bd83fde98c84ff2f6eb7e0dfd5",
+			"sha256": "05638a4ad5fce5ce8d6651e35b97c89c589e351cbe358c9be5b09d4c985c5815"
+		}
+	]
+}

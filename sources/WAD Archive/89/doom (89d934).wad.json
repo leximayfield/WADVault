@@ -1,0 +1,16 @@
+{
+	"uid": "doom (89d934).wad",
+	"name": "Doom v0.2a (Technology demo)",
+	"version": "89d934",
+	"date": "2013-04-21 00:45:55",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 496250,
+			"crc": 629660027,
+			"md5": "740901119ba2953e3c7f3764eca6e128",
+			"sha1": "89d934616c57fe974b06c2b37a9837853a89dbbc",
+			"sha256": "8104dbdb6df0fcbe67afe5fb89282cefbcf162c3d2604142d6d267bbdfca8df9"
+		}
+	]
+}

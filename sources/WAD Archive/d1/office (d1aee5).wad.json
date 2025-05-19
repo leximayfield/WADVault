@@ -1,0 +1,17 @@
+{
+	"uid": "office (d1aee5).wad",
+	"name": "Offices of Death",
+	"description": "This is a floor plan of the office I work in. There are 2 FULL FLOORS of cubicles, offices, libraries, reception areas, etc. AND there is the roof! The elevators and staircases all work as you would expect them to.",
+	"version": "d1aee5",
+	"date": "2014-12-15 21:47:47",
+	"files": [
+		{
+			"filename": "office.wad",
+			"size": 221837,
+			"crc": 570402986,
+			"md5": "52aa39bf8181d5a610f1e4887c94d09c",
+			"sha1": "d1aee5eff7265ea957728290caafefe4f5295c1f",
+			"sha256": "197c93a10c466e550be55719ec4ff454b97627f375fcb9318fee139c617c141b"
+		}
+	]
+}

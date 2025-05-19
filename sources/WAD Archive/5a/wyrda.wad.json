@@ -1,0 +1,16 @@
+{
+	"uid": "wyrda.wad",
+	"name": "Wyrda",
+	"description": "One Boom-compatible map made on the 31st of October in the space of 24 hours.",
+	"date": "2014-12-29 16:41:09",
+	"files": [
+		{
+			"filename": "wyrda.wad",
+			"size": 651681,
+			"crc": 219780918,
+			"md5": "7fe3338d6ca2a000914653c5d34be97d",
+			"sha1": "5ac1a00abd7e0823a8c1f628d81eab0b2767e210",
+			"sha256": "794c0d552328e7445caf4751e3b161baa30627aabf52da960e904da2c1b2d4f1"
+		}
+	]
+}

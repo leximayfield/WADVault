@@ -1,0 +1,16 @@
+{
+	"uid": "whntbb.wad",
+	"name": "When The Bough Breaks",
+	"description": "When The Bough Breaks - a single player/co-op map for GZDoom and Zandronum. Play cat and mouse with a couple of cyberdemons (depending on the difficulty settings chosen) to open the map. Push past them to reach the other side and the weapons you need to begin the fight. All difficultly &#65279;settings available. Mouse look recommended &#65279;but not required. Designed for no jumping/crouching.",
+	"date": "2019-03-06 21:42:35",
+	"files": [
+		{
+			"filename": "whntbb.wad",
+			"size": 13455057,
+			"crc": 1289179965,
+			"md5": "fa33bf6dd829c00e8c165de7f6160b2e",
+			"sha1": "90cdae5540c561e5280a74fde8d7fb27d8e3c9cb",
+			"sha256": "9a4f2eae371f11f17832cd4d6ee158027d0cc2032e10042baba216c0d1c9bcae"
+		}
+	]
+}

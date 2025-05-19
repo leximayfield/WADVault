@@ -1,0 +1,17 @@
+{
+	"uid": "self-ep (42d906).wad",
+	"name": "SELFISH SERIES 1",
+	"description": "Selfish 1-3 combined into a mini-episode for Doom 2. I originally released these levels as Selfish1.wad, Selfish2.wad and Selfish3.wad but decided to merge them into a mini-episode with music replacements.",
+	"version": "42d906",
+	"date": "2018-05-28 19:16:05",
+	"files": [
+		{
+			"filename": "self-ep.wad",
+			"size": 843624,
+			"crc": 219758671,
+			"md5": "c03877d17921c6bf67886ae2ed692b5e",
+			"sha1": "42d9067521edb0c065b5091e63862562ab9f6171",
+			"sha256": "989e223fa5d99f480572585a3952bfd9ef87e26970ce98cf1dc36847820ffdf6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "AT_WORK (53b37d).wad",
+	"name": "AT_WORK.WAD",
+	"description": "This level is based on my work place. Its pretty accurate except for the northern part of the building. I took an artistic detour here, there would have been too many 2 sided linedefs in this area with all the machinery.",
+	"version": "53b37d",
+	"date": "2013-11-02 15:48:25",
+	"files": [
+		{
+			"filename": "AT_WORK.wad",
+			"size": 304225,
+			"crc": 1614681463,
+			"md5": "f2c5dbe71ed9a65b3b2495cf92600c74",
+			"sha1": "53b37dc0289119c85b7b9eea5e4cbddfa557b3d3",
+			"sha256": "615056bcfad36791e2b04b13bba55224d512cb482b4efcd5e49c0ebab3aa9d3f"
+		}
+	]
+}

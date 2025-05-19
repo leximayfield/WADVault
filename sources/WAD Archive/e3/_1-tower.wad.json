@@ -1,0 +1,16 @@
+{
+	"uid": "_1-tower.wad",
+	"name": "_1-tower",
+	"description": "A medium sized, medieval themed and detailed duel map with two areas separated by a tower, with a main focus on the SSG per usual. No jumping or crouching. My first try at making a duel map.",
+	"date": "2018-06-15 11:25:31",
+	"files": [
+		{
+			"filename": "_1-tower.wad",
+			"size": 660028,
+			"crc": 4020999355,
+			"md5": "5616d2408a32ff4bd68d36006699d72f",
+			"sha1": "e3ab70d7af9d19ea09f14e51af6985cc916dbf5c",
+			"sha256": "908da173b773851007c53b28d84321a26fddf88cac9965d1199bbfd7d2cc0d8d"
+		}
+	]
+}

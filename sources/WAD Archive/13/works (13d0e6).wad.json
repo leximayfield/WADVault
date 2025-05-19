@@ -1,0 +1,17 @@
+{
+	"uid": "works (13d0e6).wad",
+	"name": "The Sewage Works (release 16)",
+	"description": "A sewage works in your hometown has fallen prey to the demons that invaded planet Earth. Having been parachuted into the heart of the complex, it is your job to clean up. There is a disgusting odour in the air, and it isn't just the smell of unprocessed sewage putrefying in the sunshine. If you beat the demonic invaders then you will have to find your own way out. Local human survivors say that the main entrance has been barricaded or damaged; the old sewer tunnels are perilous but may be your only alternative.",
+	"version": "13d0e6",
+	"date": "2014-10-27 23:04:31",
+	"files": [
+		{
+			"filename": "works.wad",
+			"size": 1550519,
+			"crc": 1507666801,
+			"md5": "187d9a53cbe3537de485c31bc5ff9e70",
+			"sha1": "13d0e6b4dcc52e846124d6ff65c131141423c893",
+			"sha256": "934dc985fe2b03de7b27e71abee10c7f9303098fda9259a220c9f75da1dc09ef"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "kronos (84a1d6).wad",
+	"name": "KRONOS.WAD",
+	"description": "Kronos was begun in early April, and due to a hard disk crash and a QIC-80 tape error, lost for several weeks, during which DEU 5.1 was released. (And no, I didn't have a second backup.) The tape decided on it's own to work for just one pass 4 days ago, and I did manage to recover the most of my Doom files. <sigh>",
+	"version": "84a1d6",
+	"date": "2014-01-11 11:20:00",
+	"files": [
+		{
+			"filename": "kronos.wad",
+			"size": 95107,
+			"crc": 3972419153,
+			"md5": "39656a09ed469bf2985f479d016ceaa4",
+			"sha1": "84a1d690f504d5e3e222f7042fe39c2167e8f84d",
+			"sha256": "895a002444b027f7af2fe9e2ef6a48e1277caa4e34132da2a012873fc9ce6134"
+		}
+	]
+}

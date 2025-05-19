@@ -1,0 +1,17 @@
+{
+	"uid": "JJE2M2 (7131f9).wad",
+	"name": "What ever you want to call it",
+	"description": "This is my first level, folks, so be gentle with me. It was intended for Death Match Play but will play on all levels. Enjoy.",
+	"version": "7131f9",
+	"date": "2013-11-02 15:55:56",
+	"files": [
+		{
+			"filename": "JJE2M2.wad",
+			"size": 127515,
+			"crc": 1367249036,
+			"md5": "9f43481d31805d16c306a94da4d55511",
+			"sha1": "7131f969c4550fbb7fbf16d37d97eda6ebf6f51f",
+			"sha256": "65c8137a0b161cb596897911a808b01db5fdeaa2a4741955e0b654cbffb8d6e4"
+		}
+	]
+}

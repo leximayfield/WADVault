@@ -1,0 +1,17 @@
+{
+	"uid": "napalm (f0bb7b).wad",
+	"name": "Napalm",
+	"description": "One level for Doom2+ or any limit removing port. PrBoom-Plus or GZDoom are recommended. To play this PWAD file, unzip it into the directory with your PWADs then start: glboom-plus.exe -iwad tnt.wad -file napalm.wad (g)zdoom.exe -iwad tnt.wad -file napalm.wad",
+	"version": "f0bb7b",
+	"date": "2015-01-13 21:37:52",
+	"files": [
+		{
+			"filename": "napalm.wad",
+			"size": 1266399,
+			"crc": 3701660778,
+			"md5": "6a0115d6a2433f3d4acc0ad581ff20d7",
+			"sha1": "f0bb7b05735506808ac71ba853f65fcec4d4c018",
+			"sha256": "2e7c9a1e0f79cc0ebdabbb6584c65a11d16daf184097953827f09e7e7a448a66"
+		}
+	]
+}

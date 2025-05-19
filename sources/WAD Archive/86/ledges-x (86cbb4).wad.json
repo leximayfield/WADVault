@@ -1,0 +1,17 @@
+{
+	"uid": "ledges-x (86cbb4).wad",
+	"name": "Ledges of Doom II",
+	"description": "This level is a conversion of LEDGESI : for Doom II. It adds 2 teleporters, : the super shotgun, barrels and some : dark hallways and rooms. The textures : have been changed and aligned correctly. : The monsters have been redone so you : can play with monsters and respawn on.",
+	"version": "86cbb4",
+	"date": "2016-02-07 20:26:56",
+	"files": [
+		{
+			"filename": "ledges-x.wad",
+			"size": 40433,
+			"crc": 3915407706,
+			"md5": "377d0b69fb0293b21072f8ffe7306852",
+			"sha1": "86cbb405816ebbfa4709495b79edc75a8f9ce744",
+			"sha256": "dc6705de32a2925edb694aa6d1ca717638f0420efaf4ab729d7270d379a5ae9c"
+		}
+	]
+}

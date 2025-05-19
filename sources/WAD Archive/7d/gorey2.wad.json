@@ -1,0 +1,16 @@
+{
+	"uid": "gorey2.wad",
+	"name": "Gorey  (version 2)",
+	"description": "This graphics-only patch makes the death animations of the weaker monsters bloodier (Troopers, Shotgun Sargeants, and Imps).",
+	"date": "2015-09-14 23:10:14",
+	"files": [
+		{
+			"filename": "gorey2.wad",
+			"size": 39807,
+			"crc": 4049267798,
+			"md5": "89c70d87bee412ff3acfd019b6c1d6c4",
+			"sha1": "7dfae3fcaa14b18dd8f0c95be553045b696bb62d",
+			"sha256": "bd3f4194ff2ec8f57b62fd456fa51c5b30b1f6f036c11755360fb41e05b35ba7"
+		}
+	]
+}

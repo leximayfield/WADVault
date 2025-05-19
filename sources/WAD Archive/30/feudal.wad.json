@@ -1,0 +1,16 @@
+{
+	"uid": "feudal.wad",
+	"name": "feudal.wad",
+	"description": "A simple castle with some fine details and level-specific textures, such as a torch housing, a window frame and several wall hangings based upon various word processing fonts.",
+	"date": "2014-12-14 20:51:40",
+	"files": [
+		{
+			"filename": "feudal.wad",
+			"size": 945748,
+			"crc": 2537473225,
+			"md5": "71447ec0d68fdfb403325afb84797c68",
+			"sha1": "30e407ebaabe33c2b7d30cfa415fbcec3c9e45ee",
+			"sha256": "4bd2df97ebd893c935a169cc3f8381b2e7efe025ca38c91a7fce9d21feb74414"
+		}
+	]
+}

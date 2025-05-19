@@ -1,0 +1,17 @@
+{
+	"uid": "gloom (0a0d8d).wad",
+	"name": "Gloom of DOOM",
+	"description": "Really... Its all in the title: Gloom! Not a large PWAD, but see if you can survive long enough, and solve without cheating!",
+	"version": "0a0d8d",
+	"date": "2013-11-02 15:07:00",
+	"files": [
+		{
+			"filename": "gloom.wad",
+			"size": 50945,
+			"crc": 3055705088,
+			"md5": "433dca5b0cb4120e74489724c93688ce",
+			"sha1": "0a0d8de76eceb30da9b35d38b5cfea3a5d120f42",
+			"sha256": "33926ec5dd9a5d264258ce77bf5499e2efe8ea1a5e1030d4c0445c54383fe074"
+		}
+	]
+}

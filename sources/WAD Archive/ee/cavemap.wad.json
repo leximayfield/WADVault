@@ -1,0 +1,16 @@
+{
+	"uid": "cavemap.wad",
+	"name": "Cave Complex",
+	"description": "Large gothic/hell theme cave style map with multiple paths and branching areas. Screenshots - https://i.imgur.com/fZClmnA.jpg",
+	"date": "2017-11-27 12:28:56",
+	"files": [
+		{
+			"filename": "cavemap.wad",
+			"size": 14980307,
+			"crc": 1884675808,
+			"md5": "dd4659389dfcfebe5bb4487f558adac1",
+			"sha1": "ee6a91e899e55e43be475ceaf63f127704ccac49",
+			"sha256": "8dc5b2c089918062ed5a28f5179af2f712078faa05f874f82020beb18b6dbf8c"
+		}
+	]
+}

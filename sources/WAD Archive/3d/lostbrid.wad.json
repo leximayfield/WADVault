@@ -1,0 +1,16 @@
+{
+	"uid": "lostbrid.wad",
+	"name": "Lost Bridge",
+	"description": "It's the lost bridge leading to the UAC Facility... You must enter this UAC Facility. Watch out! There's bogeyballs living under the bridge! Don't jump in the waste river.",
+	"date": "2015-01-05 16:23:50",
+	"files": [
+		{
+			"filename": "lostbrid.wad",
+			"size": 17146,
+			"crc": 3365012286,
+			"md5": "e48633b66583d60c7cfea10b17cad2cd",
+			"sha1": "3de325d245caf4452ec8f5c146ca682aa7eae907",
+			"sha256": "da87e59a40ac09a3632a8c1fe233529c7d2409394009d377da8587563e5bdcac"
+		}
+	]
+}

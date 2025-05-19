@@ -1,0 +1,16 @@
+{
+	"uid": "hhole.wad",
+	"name": "Hells Hole",
+	"description": "My second map, a brick themed hellish map that is much an improvement over my first map.",
+	"date": "2014-12-18 22:57:25",
+	"files": [
+		{
+			"filename": "hhole.wad",
+			"size": 79247,
+			"crc": 2447541797,
+			"md5": "7118900d913dc49c3be46860fefc6308",
+			"sha1": "2f37e862208a774413bfe4cb0119cad066288345",
+			"sha256": "f62031ba7b712f5059f2a00e88661925ce4f10b611f96804d28b4f4fc124c517"
+		}
+	]
+}

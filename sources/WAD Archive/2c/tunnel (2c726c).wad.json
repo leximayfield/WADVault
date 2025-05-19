@@ -1,0 +1,17 @@
+{
+	"uid": "tunnel (2c726c).wad",
+	"name": "TUNNEL.WAD",
+	"description": "Lately, the sewers beneath the moonbase you are stationed at have been acting oddly. No plumbing works, the base is overheated, something isn't right. Then earlier this morning, a man was pulled through his shower drain by something... it wasn't a pretty sight. Now something has to be done. As you stand before the entrance to the sewer tunnels you take a glance back at your watching comrades and wonder if you'll ever see them again...",
+	"version": "2c726c",
+	"date": "2013-11-02 15:36:58",
+	"files": [
+		{
+			"filename": "tunnel.wad",
+			"size": 62722,
+			"crc": 28939558,
+			"md5": "4fe74a39842986d781771d7d3bf22ead",
+			"sha1": "2c726c45270e93c11b4aa599fe1b1dce7b0924d3",
+			"sha256": "9a40ba18e9d9300ba7b3ef927bd6ffa40f30d34ca9b13824cb0a187f36ba48df"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "cement (62d3d2).wad",
+	"name": "cement.WAD",
+	"description": "Dark, you'll feel foreboding DOOM after starting this level. This level is pretty linear, so you don't have to worry about getting the keys in the right order, because you get the keys when you need them. Not easy. Trust me, I created this level and it takes me at least 15 minutes to get through, and sometimes I get my ass kick.",
+	"version": "62d3d2",
+	"date": "2013-11-02 15:09:20",
+	"files": [
+		{
+			"filename": "cement.wad",
+			"size": 125820,
+			"crc": 1179997134,
+			"md5": "4d73ff5b5b6085d733f2f630379dd91b",
+			"sha1": "62d3d2c03b3096b317ace9faeb777657901d8ca2",
+			"sha256": "5925506a30fee67ccbfed78a31bc2ed991b243c0b6ff12beb905822db055c9b1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "trgrfngr (0c97a9).wad",
+	"name": "Trigger Finger",
+	"description": "I've always enjoyed e1m1 for deathmatching but I've never found a d2 conversion I liked. As you can see, I've made one which I think you'll enjoy. Other than the texture changes I've made some modifications that should make deathmatching it more interesting.",
+	"version": "0c97a9",
+	"date": "2014-12-03 20:01:04",
+	"files": [
+		{
+			"filename": "trgrfngr.wad",
+			"size": 89087,
+			"crc": 4020154665,
+			"md5": "1105a3acbf98980ae8c60d9348bfbcf6",
+			"sha1": "0c97a99dc332fa7c44573156d4c608f6fef50025",
+			"sha256": "9ec7cd795b37046e15d668727e8521c4a29b77ced1114513b2ff55d65abea092"
+		}
+	]
+}

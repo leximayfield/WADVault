@@ -1,0 +1,16 @@
+{
+	"uid": "blackmod.wad",
+	"name": "BLACKMOD.WAD",
+	"description": "Black modular designed deathmatch arena-style level.",
+	"date": "2014-12-15 21:43:31",
+	"files": [
+		{
+			"filename": "blackmod.wad",
+			"size": 588444,
+			"crc": 1971552986,
+			"md5": "4a602e6ba4c43b4396bcda1722dbce14",
+			"sha1": "fb89860204369232ec451bcd9f780f80d3bea0d4",
+			"sha256": "e4f62826035b91cad0af61ae40721797c28d5c838c5c1dc313e3656cd584e6df"
+		}
+	]
+}

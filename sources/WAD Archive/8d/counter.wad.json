@@ -1,0 +1,16 @@
+{
+	"uid": "counter.wad",
+	"name": "Binary ripple counter",
+	"description": "This is a 4-bit binary ripple counter implemented using voodoo dolls and conveyor belts. A simple example of how logic circuits can be constructed inside Doom levels using the Boom extensions.",
+	"date": "2013-04-22 00:50:58",
+	"files": [
+		{
+			"filename": "counter.wad",
+			"size": 25300,
+			"crc": 274513970,
+			"md5": "84c58ea3edf7fcbc07cee8111cea35e8",
+			"sha1": "8d0de31d8b392fc2d7fd817e933b3cf43bca799a",
+			"sha256": "9575b7dae0b46170b959cc1a7e66d17a17530f1d482821fa0bf26b2a4747a38d"
+		}
+	]
+}

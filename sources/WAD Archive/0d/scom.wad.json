@@ -1,0 +1,16 @@
+{
+	"uid": "scom.wad",
+	"name": "Space Communications",
+	"description": "Very short but playable space port themed map with an escape pod exit.",
+	"date": "2015-01-14 22:49:18",
+	"files": [
+		{
+			"filename": "scom.wad",
+			"size": 203771,
+			"crc": 4176237875,
+			"md5": "eff86be995960f470465ac8b6526ba19",
+			"sha1": "0db54d58a1dcb694b95c6000d5a10fa45da46219",
+			"sha256": "bbc2f34f02368b796f54c02ed3a559292bce949708f47257cfe36a2ebdc96ff5"
+		}
+	]
+}

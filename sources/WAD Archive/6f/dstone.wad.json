@@ -1,0 +1,16 @@
+{
+	"uid": "dstone.wad",
+	"name": "Nebula 95: Drown Stone",
+	"description": "(cc4-tex.wad required!) The level was made for the Secret Santa Imitation project, led by Brian \"Snakes\" Knox. It is a small and tough map meant to imitate the style of Stuart \"Forty-Two/stewboy\" Rynn. Included in the zip is a postmortem I wrote for the project.",
+	"date": "2014-12-24 17:56:30",
+	"files": [
+		{
+			"filename": "dstone.wad",
+			"size": 220511,
+			"crc": 236846452,
+			"md5": "ac61b7c720a73db314590a116b36dd80",
+			"sha1": "6fac10f50b60fd9272ae5246e073e1431b9ed2c6",
+			"sha256": "db003da21ea2d270488c8b96a221ed6e19fefaca7d4b060ea27425a188547fdf"
+		}
+	]
+}

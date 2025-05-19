@@ -1,0 +1,17 @@
+{
+	"uid": "blitz (ca2d17).wad",
+	"name": "Blitzkrieg!",
+	"description": "This is undoubtedly the fastest paced level ever made! You cannot rest a second without being fragged! So load the level and get ready for adren- aline pumping action. WHO NEEDS CAFFEINE?!",
+	"version": "ca2d17",
+	"date": "2014-12-15 21:20:08",
+	"files": [
+		{
+			"filename": "blitz.wad",
+			"size": 86500,
+			"crc": 3283511422,
+			"md5": "abe65da1abcaff5955e1d6d023315f13",
+			"sha1": "ca2d17d72252e234a690646969265f1f6070741c",
+			"sha256": "e24433a82ff9b3d2f4edce830849c553387bf49dc24f3ebbcb333f0f76619f2d"
+		}
+	]
+}

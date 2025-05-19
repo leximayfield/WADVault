@@ -1,0 +1,17 @@
+{
+	"uid": "RAMPAGE (b668f7).wad",
+	"name": "RAMPAGE!",
+	"description": "Why are you even reading this?? Go play the damn thing!!",
+	"version": "b668f7",
+	"date": "2014-12-15 23:08:20",
+	"files": [
+		{
+			"filename": "RAMPAGE.wad",
+			"size": 41653,
+			"crc": 3034110390,
+			"md5": "0f4a884a9fce6b28d858d79987a991b6",
+			"sha1": "b668f744c2b4d33ddb7d5ef3e0f3762a99d93eae",
+			"sha256": "dd91ffef9d5ec2ef846fe57e86a3defff052fa8406bb032a4cbf52ebe6abde96"
+		}
+	]
+}

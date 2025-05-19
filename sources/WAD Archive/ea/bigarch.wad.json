@@ -1,0 +1,16 @@
+{
+	"uid": "bigarch.wad",
+	"name": "Big Arch",
+	"description": "This is a deathmatch level inspired by a dream about a big arch, damn dreams! :-)",
+	"date": "2014-12-15 22:33:02",
+	"files": [
+		{
+			"filename": "bigarch.wad",
+			"size": 462256,
+			"crc": 690657101,
+			"md5": "fd020bc4cd194a31ec1d97ca061eae9f",
+			"sha1": "eabed1ee1b1117c0be8d0bc3c56482e86188ecc4",
+			"sha256": "f07cff3ff241e37028f4605eba796ad064c1a5fc8cd06ce4fd94b75353b1dad7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hsfc.wad",
+	"name": "HSFC.WAD",
+	"description": "Lot's of wad's of offices and universities have been made over the years, and now with interest in Doom dwindling due to the advent of quake, we are ready to release the definitive Doom II reconstruction of a real building. This WAD recreates Hartlepool 6th Form College located on the North East coast of England. This college could practically have been built to be made into a Doom level. The structure of the college is ideal for deathmatch with many open corridors and stuff leading to deadly crossfire situations. All monsters have been replaced with staff and students of the college, music and sounds have also been replaced and a compehensive dehacked patch has been created to facilitate the realism. The level can also be played in simulator mode (1st 2 skill levels) to get to know the building. This wad represents almost a years worth of hard work and incorporates many recent innovations in wad design. Play it, be amazed, tell your friends, and spend the next year waiting for the upcoming Quake version.",
+	"date": "2015-09-15 17:49:21",
+	"files": [
+		{
+			"filename": "hsfc.wad",
+			"size": 4908960,
+			"crc": 1933716062,
+			"md5": "f240dd936cfce2ff58d4097cf298ac35",
+			"sha1": "3aa59023bcb3493a9927064145c54d4d469131f8",
+			"sha256": "a9c26363e8025216287aab032a2b4c597020e88cf76af745bbfbd2474cbfd675"
+		}
+	]
+}

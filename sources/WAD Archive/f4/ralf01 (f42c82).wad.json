@@ -1,0 +1,17 @@
+{
+	"uid": "ralf01 (f42c82).wad",
+	"name": "Ralf01",
+	"description": "Lots of monsters - lots of fun. RALF02.WAD runs with DOOM 1.2 and 1.666. It's not a very big level, because it's my first PWAD I've created. Hope You enjoy it. If You like it or have critics, please email me.",
+	"version": "f42c82",
+	"date": "2013-11-02 15:06:03",
+	"files": [
+		{
+			"filename": "ralf01.wad",
+			"size": 59204,
+			"crc": 4108561117,
+			"md5": "76f7bce59f58c2c0d2b1a7ff05da88d3",
+			"sha1": "f42c828a569c053a48b0f3a653f7ea2a77e90cfb",
+			"sha256": "826bab4b55ce5dc71591d2cb40cf3a353716bc00d4f26ab271a925befa84fac6"
+		}
+	]
+}

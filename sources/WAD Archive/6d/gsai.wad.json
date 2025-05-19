@@ -1,0 +1,16 @@
+{
+	"uid": "gsai.wad",
+	"name": "Gsai",
+	"description": "Doom .wad found on the 'Net up this room before.",
+	"date": "2014-12-13 12:51:05",
+	"files": [
+		{
+			"filename": "gsai.wad",
+			"size": 75441,
+			"crc": 283884489,
+			"md5": "034a0df6f22cb5450096eb1ae063f713",
+			"sha1": "6d0e76ceea9f796b0a7363c071e86aa58b7421f4",
+			"sha256": "ba6a877b16ddf513e71ee655549a8f2893dab9973db29c97f653f983f5c37e37"
+		}
+	]
+}

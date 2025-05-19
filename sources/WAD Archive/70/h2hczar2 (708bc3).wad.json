@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczar2 (708bc3).wad",
+	"name": "The Bridge",
+	"description": "This is another arena-type deathmatch pwad that I made for the H2H DOOM BBS in San Diego (619-426-0073). Arenas are made for altdeath and should be small enough for two players. I did my best to offer some enjoyment also for those who can play just solo. Small hint: be very carefull where you run, expect heavy monsters and conserve ammo.",
+	"version": "708bc3",
+	"date": "2014-12-15 22:23:13",
+	"files": [
+		{
+			"filename": "h2hczar2.wad",
+			"size": 79352,
+			"crc": 4243894626,
+			"md5": "606c77ad404e0ef10e6fc43116bfbc2e",
+			"sha1": "708bc3cc874d49cc4fbd0e9a4169605113074953",
+			"sha256": "0af58c99cb3ca451aa994262cabba45c9c1f1b03d9287b77b9484321eeea5801"
+		}
+	]
+}

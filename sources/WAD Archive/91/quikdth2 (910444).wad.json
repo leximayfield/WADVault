@@ -1,0 +1,17 @@
+{
+	"uid": "quikdth2 (910444).wad",
+	"name": "QUIKDTH2.WAD",
+	"description": "Great 2-4 player DeathMatch. May be a little too small for 4 players. Haven't tested it with 4 yet.",
+	"version": "910444",
+	"date": "2014-01-07 22:01:34",
+	"files": [
+		{
+			"filename": "quikdth2.wad",
+			"size": 46307,
+			"crc": 191159413,
+			"md5": "3ee35d6562a4fea29133fd5f8e4e0a5a",
+			"sha1": "910444d190d7cdda3a35a56c07c4e8e9400848eb",
+			"sha256": "375f745941648d5d238290fe37345bb14395f0bc31c77e7617f3b8ebb7ab21dc"
+		}
+	]
+}

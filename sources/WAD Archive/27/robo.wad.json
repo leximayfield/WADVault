@@ -1,0 +1,16 @@
+{
+	"uid": "robo.wad",
+	"name": "Robo Doom",
+	"description": "Robo Doom replaces the Cyber Demon with a compleatly new monster that looks like a i-pod, this patch uses wire frame models from True Space2. Please mail me telling me what you think if my patch. like it? hate it? (looks great)",
+	"date": "2015-09-14 20:30:56",
+	"files": [
+		{
+			"filename": "robo.wad",
+			"size": 510638,
+			"crc": 2677941972,
+			"md5": "8027b00a63bea8c2ec124be0f807210e",
+			"sha1": "279ef5281e9f7bd2831210442df7b465708a5af8",
+			"sha256": "d2f5e5ee9ee2524f3c688b08120f5deea1e9df014155d93e522b65a22af34c96"
+		}
+	]
+}

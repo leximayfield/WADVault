@@ -1,0 +1,17 @@
+{
+	"uid": "unknown (e5fa97).wad",
+	"name": "The Unknown (magdalena)",
+	"description": "My third DM wad. This one is for Heretic. Since there are no Bots for Heretic, I cannot say if this wad is great or not.",
+	"version": "e5fa97",
+	"date": "2013-04-22 00:44:59",
+	"files": [
+		{
+			"filename": "unknown.wad",
+			"size": 215175,
+			"crc": 4187637516,
+			"md5": "0964f22ecb3dc92fae9484c00dd726fa",
+			"sha1": "e5fa972e950cf59abbf3316c9d4cf1bcb35d7f52",
+			"sha256": "ef2792a88524e8a0f257eb152d713e9f071a4a224afadd50bb58dd21458558d2"
+		}
+	]
+}

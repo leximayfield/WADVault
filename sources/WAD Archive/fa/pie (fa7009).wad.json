@@ -1,0 +1,17 @@
+{
+	"uid": "pie (fa7009).wad",
+	"name": "Pie.wad (Easy as...)",
+	"description": "I got tired of all those levels with n cyberdemons, 2n spiders and n^2 barons, so I created a little something for *real* Doom masters to beat. Go ahead. Punch out those cybers. Or find a couple of helpful tricks...",
+	"version": "fa7009",
+	"date": "2015-12-07 10:01:28",
+	"files": [
+		{
+			"filename": "pie.wad",
+			"size": 5691,
+			"crc": 710884851,
+			"md5": "7420bcedee80b2c2c1698cd1fd5e020b",
+			"sha1": "fa70099aee0558bf117e7d9b5f297d7494ce4d82",
+			"sha256": "bc1ec4285048527eefbcd8e626f56cb84cd6cbbf55c15e322e632b4853927407"
+		}
+	]
+}

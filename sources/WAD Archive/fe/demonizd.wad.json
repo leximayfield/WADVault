@@ -1,0 +1,16 @@
+{
+	"uid": "demonizd.wad",
+	"name": "DemoniZed.WAD   a BOOM only PWAD",
+	"description": "2 Levels only for the Team TNT 's engine modification: BOOM v. 2.02 DO NOT TRY run with original DOOM2.exe it will crash!! Map01 is MEGA-HUGE-EVIL LEVEL! This level alone is around 1.6 MB big, loaded with 15000+ linedefs and 21000+ sidedefs. This is a TOTAL CARNAGE. Level 2 is action all the time. Your goal is simply: SURVIVE AND KILL!",
+	"date": "2014-12-24 19:24:43",
+	"files": [
+		{
+			"filename": "demonizd.wad",
+			"size": 3462743,
+			"crc": 2428831081,
+			"md5": "16ce136c8c7ece3e7b796c9db59742ad",
+			"sha1": "fe86e20f1573ff16914dc8581c7f400f9e4bc77f",
+			"sha256": "85032debbc5ddb4b16f234143b1831111d69a1ba852b75f8e7f367f7b8230c7f"
+		}
+	]
+}

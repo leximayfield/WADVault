@@ -1,0 +1,16 @@
+{
+	"uid": "sj_cstat.wad",
+	"name": "Citadel Station",
+	"description": "A map based on System Shock Level 1. Includes the healing suite, storerooms and cyberspace port, part of the central hub and gamma quadrant's storeroom and maintenance entrance. This was intended to be a simply-styled map while I took a break from making some other more detailed level.",
+	"date": "2014-12-29 16:41:23",
+	"files": [
+		{
+			"filename": "sj_cstat.wad",
+			"size": 116461,
+			"crc": 3657904388,
+			"md5": "ba22aee6d318294d77258dea6db33f18",
+			"sha1": "e9817a41aee03261d94bf0a78155564509664212",
+			"sha256": "5b3fe212bb1e6d57c91ac8835df666c03ebc178854aeda70cb0515d6bc464857"
+		}
+	]
+}

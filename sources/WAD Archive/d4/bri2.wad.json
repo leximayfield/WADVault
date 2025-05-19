@@ -1,0 +1,16 @@
+{
+	"uid": "bri2.wad",
+	"name": "bri2.wad",
+	"description": "A small Deathmatch level (better because you meet your opponent(s) more often). Includes two \"secret\" observation points. Includes all weapons except the BFG-9000.",
+	"date": "2016-02-06 13:59:37",
+	"files": [
+		{
+			"filename": "bri2.wad",
+			"size": 20639,
+			"crc": 2628037697,
+			"md5": "e00bb80e3e7cbfb3b1a68be666a94743",
+			"sha1": "d4c058265385e6132d2063aef533618f4e27a5b9",
+			"sha256": "5e93ba127a5b770034efeff5f0bc565fce2e3c6c171ce559e11782409324014c"
+		}
+	]
+}

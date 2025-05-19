@@ -1,0 +1,16 @@
+{
+	"uid": "ee.wad",
+	"name": "Easter Egg",
+	"description": "Since Easter is around the corner, I made a level consisting of an egg-shaped field.",
+	"date": "2019-04-21 22:06:01",
+	"files": [
+		{
+			"filename": "ee.wad",
+			"size": 1526576,
+			"crc": 392003055,
+			"md5": "6fc247f6aa2f9324b32b43a53b3b7b32",
+			"sha1": "ac9f08d75828c259d9c60c45f1f76d3a98ffcf75",
+			"sha256": "1268fa90087eebeb0a6b21b5dadb25384b8f38de3acaf017c7130b408e43904c"
+		}
+	]
+}

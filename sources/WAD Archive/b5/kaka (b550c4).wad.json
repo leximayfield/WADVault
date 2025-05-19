@@ -1,0 +1,17 @@
+{
+	"uid": "kaka (b550c4).wad",
+	"name": "cakewalk",
+	"description": "This map is more of a experiment, i want to see if a map that has details like the first doom and decent gameplay can score good reviews without having to put any extreme detail into it and at the same time make sure the level does not look like crap. The map is short and not very hard, but i never intended it to be hard or long.",
+	"version": "b550c4",
+	"date": "2014-12-12 14:17:47",
+	"files": [
+		{
+			"filename": "kaka.wad",
+			"size": 117541,
+			"crc": 1255676370,
+			"md5": "a8439282b6f1ddd1fffb401831166426",
+			"sha1": "b550c4f4e94da436df80a0d3d3444c6e79d1ade3",
+			"sha256": "04de5a1602f9b5534f1d6b840135edad0c15026f0e7c463ecaae9c2c5be09a5e"
+		}
+	]
+}

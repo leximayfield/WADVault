@@ -1,0 +1,17 @@
+{
+	"uid": "HELIX2 (7ae055).wad",
+	"name": "HELIX2",
+	"description": "Another Wad from author of Helix, Good for Missle launchers and sniper type fighting. Have fun getting the BFG if your not the first there.",
+	"version": "7ae055",
+	"date": "2014-11-01 15:00:17",
+	"files": [
+		{
+			"filename": "HELIX2.wad",
+			"size": 46530,
+			"crc": 2079207446,
+			"md5": "2e8d6af455b785a1ff4d25278689a94c",
+			"sha1": "7ae055c0dbc1653b4052e262a86cc88719542f33",
+			"sha256": "15e04e5c736825258d7ff465df2a296d82aa2c068d8978477b3f93f2720eaf01"
+		}
+	]
+}

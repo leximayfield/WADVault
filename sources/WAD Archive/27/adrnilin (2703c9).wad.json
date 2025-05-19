@@ -1,0 +1,17 @@
+{
+	"uid": "adrnilin (2703c9).wad",
+	"name": "ADRENALINE",
+	"description": "My first try at a DOOM2 level. Starts simple, progressively becomes more and more involved. Never stand looking in one direction too long, something will sneak up on you!",
+	"version": "2703c9",
+	"date": "2013-11-06 22:32:01",
+	"files": [
+		{
+			"filename": "adrnilin.wad",
+			"size": 130306,
+			"crc": 2604861200,
+			"md5": "bf0b9f32f7882bec779a54a6eaac78bd",
+			"sha1": "2703c9b4849af004514299717bfce6350d82d775",
+			"sha256": "d1d23c1863ff8d9d539372d7788d95395636f02f668c8fc38f7e64e40386aca4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "proxima (e35e2c).wad",
+	"name": "Proxima Centauri",
+	"description": "This WAD file supports all three modes of play: Deathmatch, Single, and Co-Op. Its an indoor/outdoor setting with some excellent DM battle areas. The cyberdemon can end up helping you out quite a bit if you know how to manipulate him. ;)",
+	"version": "e35e2c",
+	"date": "2014-01-07 22:15:46",
+	"files": [
+		{
+			"filename": "proxima.wad",
+			"size": 233680,
+			"crc": 1926514511,
+			"md5": "bbb471d96f198ce18dfb653c96fb9d0b",
+			"sha1": "e35e2ca61e0fbab443cf6933391d2a8d09c1eb7e",
+			"sha256": "39d13ca0ea5cb16b8807fe85aaaf899aeb87e64b6ae5d86ee484fb11f709d841"
+		}
+	]
+}

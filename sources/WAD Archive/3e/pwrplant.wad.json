@@ -1,0 +1,16 @@
+{
+	"uid": "pwrplant.wad",
+	"name": "The Power Plant",
+	"description": "this level will be included in our third DMC deathmatch levels compilation, called -= DMC3: DEADLY CONTACT =-",
+	"date": "2014-12-15 21:44:45",
+	"files": [
+		{
+			"filename": "pwrplant.wad",
+			"size": 266908,
+			"crc": 3431770185,
+			"md5": "4af406dfc6e0b321f8474e19d973ce2a",
+			"sha1": "3e016126acddb7389669c02add2304005d2955af",
+			"sha256": "e42d359ffce2ef824b0de50200bfc0747fbda394a55c9f63160ae84754510b71"
+		}
+	]
+}

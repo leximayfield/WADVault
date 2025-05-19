@@ -1,0 +1,16 @@
+{
+	"uid": "chilbase.wad",
+	"name": "Chill Base",
+	"description": "This was meant for the \"Maps of Inebriation\" mini-project but I got mapper's block and never got around to 6 maps but didn't want this map to rot and go nowhere. It's a modest tech base with all the usual bits and bobs around.",
+	"date": "2018-04-15 00:33:38",
+	"files": [
+		{
+			"filename": "chilbase.wad",
+			"size": 177119,
+			"crc": 341311521,
+			"md5": "71c7a3bc0c306678572aeaf9160b3c30",
+			"sha1": "1b06a91e25e5cf8a3bf7d4293eaf58b3b7948e83",
+			"sha256": "818ef4194e6afa77ea7f0c7066fc010f2360e0a8241e9b3ca80533d779b72b9d"
+		}
+	]
+}

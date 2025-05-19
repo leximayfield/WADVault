@@ -1,0 +1,17 @@
+{
+	"uid": "wolfen (b3e137).wad",
+	"name": "Wolfenstein",
+	"description": "Two simple maps I made to basicly see if I could make maps.",
+	"version": "b3e137",
+	"date": "2015-09-14 22:40:37",
+	"files": [
+		{
+			"filename": "wolfen.wad",
+			"size": 190521,
+			"crc": 296158879,
+			"md5": "db7b1d60e2f96932a7da062eac94a895",
+			"sha1": "b3e137f3e0d786a83e4c942f672f3ccf95e75d5a",
+			"sha256": "18d01c2e1e1bc498b5d97c38f7b6654a57605b0abd8c2fa3d9cff20a8610670d"
+		}
+	]
+}

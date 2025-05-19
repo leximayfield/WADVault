@@ -1,0 +1,16 @@
+{
+	"uid": "mars2.wad",
+	"name": "MARS2",
+	"description": "A Very unique Level for DOOM2.",
+	"date": "2015-09-14 22:26:21",
+	"files": [
+		{
+			"filename": "mars2.wad",
+			"size": 349871,
+			"crc": 3507623160,
+			"md5": "6ad6375b4b7965c5cc0d861aa82188cf",
+			"sha1": "e54178fb39a1536ca7e85f7d028dcc9aba31ac09",
+			"sha256": "b69fdfb8a703a6aa0c2e1d40c2462debe04d4594b15d8efe9e3c7c2c25d6fc7d"
+		}
+	]
+}

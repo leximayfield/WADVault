@@ -1,0 +1,17 @@
+{
+	"uid": "RBBTHOLE (a05830).wad",
+	"name": "The Rabbit Hole",
+	"description": "A LARGE level for Doom 2. e-mail me and tell me what you think.",
+	"version": "a05830",
+	"date": "2014-01-07 22:16:25",
+	"files": [
+		{
+			"filename": "RBBTHOLE.wad",
+			"size": 272774,
+			"crc": 1277704006,
+			"md5": "b7b507c1e587c182666aa75ca30c576f",
+			"sha1": "a05830a6dc8bd65203837ad1751a1786821f1834",
+			"sha256": "0cc2aa25204f8b71aa36342c937ae02b232999877c2f6a8e289b9c33a3d9f8dd"
+		}
+	]
+}

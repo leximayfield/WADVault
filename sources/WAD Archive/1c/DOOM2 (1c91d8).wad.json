@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (1c91d8).wad",
+	"name": "Doom II (Xbox)",
+	"version": "1c91d8",
+	"date": "2016-06-21 20:57:24",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14683458,
+			"crc": 562049224,
+			"md5": "a793ebcdd790afad4a1f39cc39a893bd",
+			"sha1": "1c91d86cd8a2f3817227986503a6672a5e1613f0",
+			"sha256": "8ffb138a55ba56aceb6d8a5b84fd693cfa9a1f18180faa855f5eb8a5aad78778"
+		}
+	]
+}

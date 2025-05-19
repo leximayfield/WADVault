@@ -1,0 +1,17 @@
+{
+	"uid": "fallout (9f5dd7).wad",
+	"name": "fallout.wad",
+	"description": "This is a level, designed for both single player and deathmatch. co-op starts are also included",
+	"version": "9f5dd7",
+	"date": "2014-12-18 22:41:32",
+	"files": [
+		{
+			"filename": "fallout.wad",
+			"size": 137949,
+			"crc": 3988246396,
+			"md5": "578a1fbc21516114802ef17585406e42",
+			"sha1": "9f5dd72641407cc4dbf9bddf23e9218d4bac366b",
+			"sha256": "e8f25c9b03d7ee7cce0215ee05733b9686bb33efc12a5be54434e7aab0cd26b2"
+		}
+	]
+}

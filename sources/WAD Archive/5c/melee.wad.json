@@ -1,0 +1,16 @@
+{
+	"uid": "melee.wad",
+	"name": "MELEE.WAD",
+	"description": "These levels have all kinds of battle fields from big & open areas to small rooms for shotgun fighting.",
+	"date": "2014-12-15 21:57:47",
+	"files": [
+		{
+			"filename": "melee.wad",
+			"size": 735758,
+			"crc": 475330144,
+			"md5": "4fcb967a79078323046ea345d245b01c",
+			"sha1": "5c66dcc1f69cd3a08d7b98a4d2c8583994cb1c00",
+			"sha256": "f540d48e1f772ffc860badaaca183a3db8cdab33e9b66be28123665c80230385"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "death1 (09b21e).wad",
+	"name": "Kingdom of Death",
+	"description": "Lots of level ideas I had incorporated into a Deathmatch level. It differs from most Deathmatch levels that I've seen in that it has multiple weapon locations (somewhat preventing a player from hanging out near one), a few traps that allow for alternate killing methods, and a means to permanently cut off the route to the BFG if it becomes too annoying (be careful of what switch you hit). It also has a few really good hiding places (if you can find them) and lots and lots of ammo. IT IS NOT PLAYABLE AS A SINGLE PLAYER LEVEL! It has a coop exit and no monsters, but there is a player one start point so you can look at it. This is my second level.",
+	"version": "09b21e",
+	"date": "2013-11-02 23:55:47",
+	"files": [
+		{
+			"filename": "death1.wad",
+			"size": 53428,
+			"crc": 4134973467,
+			"md5": "271fa532ea0b774677c982f83d19540e",
+			"sha1": "09b21e94874c6762711a7368011690371b5ccfe6",
+			"sha256": "9d7a0aee1173eb969018071b8cf4fb79e182e9045fe36b4490966fa165e4c8a1"
+		}
+	]
+}

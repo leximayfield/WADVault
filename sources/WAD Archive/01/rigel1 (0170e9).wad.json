@@ -1,0 +1,17 @@
+{
+	"uid": "rigel1 (0170e9).wad",
+	"name": "RIGEL I",
+	"description": "This WAD is my best one to date. Shadow/lighting effects, difficulty level support - the works. It makes a killer deathmatch wad and will work just fine for co-op and single play also. My goal was to defy the common opinion that you can't have a great deathmatch WAD and have it be fun to play co-op or solo also. Well, try this one! :) Comments, good and bad, are greatly appreciated. WARNING: Ultra Violent is REALLY REALLY hard. If you can get through it without dying send me a LMP of it! I'd love to see you do it. It is NOT impossible, just very hard.",
+	"version": "0170e9",
+	"date": "2016-02-07 20:28:18",
+	"files": [
+		{
+			"filename": "rigel1.wad",
+			"size": 377210,
+			"crc": 1207415826,
+			"md5": "96a65ea1653ffe0b95acc63ab7ffae41",
+			"sha1": "0170e9aca8445ced1aaa97243153db618173649f",
+			"sha256": "a5a61427ddcba3da0b2f77841ae969ab03aca5d93324128dbd96b44e2f07f0fc"
+		}
+	]
+}

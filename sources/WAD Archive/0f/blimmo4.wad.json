@@ -1,0 +1,16 @@
+{
+	"uid": "blimmo4.wad",
+	"name": "Blimmo4.WAD",
+	"description": "4 small single-player levels.",
+	"date": "2014-12-15 22:17:13",
+	"files": [
+		{
+			"filename": "blimmo4.wad",
+			"size": 445685,
+			"crc": 4200012690,
+			"md5": "bc5131f3ea9c81e65844839d701976ec",
+			"sha1": "0f638a74454ee2f6aae5b847e2f623ba81473aaf",
+			"sha256": "7db7eeea73f4ede6b49b4a874eba0c99e1b565575874a5f475427afd0719c7a7"
+		}
+	]
+}

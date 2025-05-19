@@ -1,0 +1,17 @@
+{
+	"uid": "pisa (8b9464).wad",
+	"name": "The Bleeding Tower Of Pisa",
+	"description": "A large new level for Doom 2. E-mail me and tell me what you think.",
+	"version": "8b9464",
+	"date": "2015-01-14 22:55:27",
+	"files": [
+		{
+			"filename": "pisa.wad",
+			"size": 438475,
+			"crc": 634070594,
+			"md5": "7a1be4fbfc84d0823992415ef77a4a03",
+			"sha1": "8b946434d16aaae8dadcfe1bf178fc07f038d01e",
+			"sha256": "4d8e0b75072d2c5924037aa42e3efe5a8a12aed8b9f07b224a1ee69131907f90"
+		}
+	]
+}

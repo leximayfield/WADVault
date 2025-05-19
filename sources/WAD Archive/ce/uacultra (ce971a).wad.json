@@ -1,0 +1,17 @@
+{
+	"uid": "uacultra (ce971a).wad",
+	"name": "UAC Ultra (v1.2)",
+	"description": "You're a Space marine...",
+	"version": "ce971a",
+	"date": "2013-04-19 03:28:18",
+	"files": [
+		{
+			"filename": "uacultra.wad",
+			"size": 7473347,
+			"crc": 3805197025,
+			"md5": "b6e368ef8d79fabc98e61bb9a8b0681e",
+			"sha1": "ce971adeea97e5d585ff904f40a83a8b94971a2c",
+			"sha256": "db52da533223c74c01d8dd0eb2d81b39fc6a344249be3a7fe92a34a8a0926798"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "corridor (594f4b).wad",
+	"name": "Corridors from Hell",
+	"description": "You transport into a small, narrow room with no obvious exit. Ahh, in front of you are",
+	"version": "594f4b",
+	"date": "2014-12-13 17:45:41",
+	"files": [
+		{
+			"filename": "corridor.wad",
+			"size": 216820,
+			"crc": 711187290,
+			"md5": "a6eb896ff3437b117f3ec5cb24d477f5",
+			"sha1": "594f4b7e497e2a684c1e8b262403f86c7ccd633c",
+			"sha256": "e4fea1dfe09b9d1b4cfc8048d251f9a38412bcf283486c2cf5cb568a78b30fda"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "my_secnd.wad",
+	"name": "MY_SECND.WAD",
+	"description": "Here is my second WAD for DOOM (tm)1. Scroll down for more DIZ",
+	"date": "2014-01-07 21:52:53",
+	"files": [
+		{
+			"filename": "my_secnd.wad",
+			"size": 350791,
+			"crc": 3579258122,
+			"md5": "3b93563e63eebf71ac8e4ffa59a8893e",
+			"sha1": "64e2c7433e6e68633a18db2ac6c6817ca95df4b7",
+			"sha256": "80d628e5b55a2aa2dc58aadf78a7ca6dc57d7428e8591c1701ec4fa7ea4fe24e"
+		}
+	]
+}

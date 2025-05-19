@@ -1,0 +1,16 @@
+{
+	"uid": "fragamor.wad",
+	"name": "FRAGAMOR (in english read 'FRAG TO DEATH')",
+	"description": "A very nice level with neat special effects: - the toilets with a mirror like in Duke3D (but you don't see your reflection), you can hide behind toilets door - you make splashing noise when you walk in water - bump into a distributor machine to get berserk or goggles - arrows appears on the floor to show when someone is passed at the dark corridor - and BEST OF ALL: the CAGE!!!! there are two teleporters, one lead to a megasphere, but if you walk too fast sometimes you fall in the other teleporter which leads to the cage: ask your friends to kill you! Try to make some frags while in the cage!",
+	"date": "2014-12-15 22:24:39",
+	"files": [
+		{
+			"filename": "fragamor.wad",
+			"size": 455648,
+			"crc": 632881034,
+			"md5": "23c8481632ff9925ea0bb2deb26fd6ad",
+			"sha1": "1fdcc35abd1a953f4334ec45eb4113f122797cdc",
+			"sha256": "c2788475740d9809cdccf63a7ce9f3264a5b700f676658d69bf7fa791300507e"
+		}
+	]
+}

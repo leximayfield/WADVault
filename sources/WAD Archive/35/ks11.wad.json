@@ -1,0 +1,16 @@
+{
+	"uid": "ks11.wad",
+	"name": "KS11.zip",
+	"description": "Smaller level than is usual for me, but no less difficult on UV. Actually, there's a LOT of monsters even in lesser modes. Lots of jumping in this one so play only with ZDoom. In fact you can't complete the level w/o jumping.",
+	"date": "2015-01-05 16:28:20",
+	"files": [
+		{
+			"filename": "ks11.wad",
+			"size": 651244,
+			"crc": 495023475,
+			"md5": "41229ded4a957d698bea00dbf547ee19",
+			"sha1": "35953879db63094213158a9dd55f8faee9a28db3",
+			"sha256": "31be93c7b9c604a39c6d192afd0eb8838c3401d0ddffd4bf1774f31e82c0cef1"
+		}
+	]
+}

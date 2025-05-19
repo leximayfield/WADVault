@@ -1,0 +1,17 @@
+{
+	"uid": "om (48527e).wad",
+	"name": "Old memories",
+	"description": "A non linear level for heretic. You'll fight in a brown fortress, and you have to escape alive Good luck!",
+	"version": "48527e",
+	"date": "2014-12-30 11:18:28",
+	"files": [
+		{
+			"filename": "om.wad",
+			"size": 593226,
+			"crc": 1098550419,
+			"md5": "a7d9833ebe48f81ce52d8a050843f912",
+			"sha1": "48527e5b05e7b0ed908235c72e6d18be27964a64",
+			"sha256": "244d8e93b92b0398239838c82332c67b918ba853638007ed2949d219a6556d3c"
+		}
+	]
+}

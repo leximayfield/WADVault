@@ -1,0 +1,16 @@
+{
+	"uid": "hardguns.wad",
+	"name": "Hard Doom Guns",
+	"description": "Vanilla DEHACKED gameplay mod. Balance of Doom's weapons and monsters has been tweaked to better suit slaughter gameplay, and generally to be better balanced. Pistol can now find its usefullness even if you have chaingun, the same with shotgun x SSG, plasma gun x BFG, even fist and chainsaw have been enhanced. Zombiemen and arachnotrons became a decent threat and some other monsters were altered as well. See the entire list of changes in the enclosed textfile (hardguns_INFO.txt).",
+	"date": "2015-09-15 17:23:31",
+	"files": [
+		{
+			"filename": "hardguns.wad",
+			"size": 20235,
+			"crc": 3544379183,
+			"md5": "5fe1b97c823a883ff96f4c34e39fa322",
+			"sha1": "8fbf6f923f4252ddf2b82aa6c043bf4d92842f0d",
+			"sha256": "c69b277c36d650518e26901e6c32510a842d6ea0c32108fbb2646546b7c6e240"
+		}
+	]
+}

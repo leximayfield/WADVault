@@ -1,0 +1,16 @@
+{
+	"uid": "itnt.wad",
+	"name": "Innocence: The New Technology",
+	"description": "A 9 level wad for Doom II. This is a project by Team DIS; made up of Jazzmaster, Jimmy, PRIMEVAL and Blindspot Software. This mapset was done in the spirit of TNT: Evilution.",
+	"date": "2015-09-15 16:38:57",
+	"files": [
+		{
+			"filename": "itnt.wad",
+			"size": 3132760,
+			"crc": 2043760229,
+			"md5": "bd39d3d76beebd8b171f0f3fbdc3fc1e",
+			"sha1": "b47f60d82e81104cf62390a95063469d6155171b",
+			"sha256": "2120f21bf6dc8583f4ba72868fe74cd702dfd2990fa4a295d7447ecff980cc33"
+		}
+	]
+}

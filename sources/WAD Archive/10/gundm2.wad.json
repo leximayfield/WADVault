@@ -1,0 +1,16 @@
+{
+	"uid": "gundm2.wad",
+	"name": "Gunner DeathMatch 2",
+	"description": "I've added nodes for Doombot 4.0.",
+	"date": "2014-12-15 23:12:19",
+	"files": [
+		{
+			"filename": "gundm2.wad",
+			"size": 171300,
+			"crc": 426968238,
+			"md5": "40e19e9e1dc8d94882750f989d371ad0",
+			"sha1": "1005958eae9fc452ab1fe737f84544671bc49816",
+			"sha256": "25f5d9a725bedcb75f9d8d2f590d8cecbbae6214f58b04d385e644dae0d6e553"
+		}
+	]
+}

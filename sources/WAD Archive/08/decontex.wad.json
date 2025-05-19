@@ -1,0 +1,16 @@
+{
+	"uid": "decontex.wad",
+	"name": "deConstruct Industrial Textures",
+	"description": "123 textures & 72 flatsconverted to Doom 2.",
+	"date": "2015-09-14 21:54:52",
+	"files": [
+		{
+			"filename": "decontex.wad",
+			"size": 1594704,
+			"crc": 1694978252,
+			"md5": "3b168daf4a6855795bfe7485a00d6bc0",
+			"sha1": "085faa6cbdbdc3500e340e9599e582862e82475b",
+			"sha256": "030e11230f3b7af11a6ce4e174bd2f7efbcc879909863b13e5d1210a1d47e532"
+		}
+	]
+}

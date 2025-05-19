@@ -1,0 +1,16 @@
+{
+	"uid": "portun.wad",
+	"name": "PORTUN.WAD",
+	"description": "This level is designed to provide lots of shooting action. There aren't a lot of puzzles, but there are nine secret areas (you don't need to find them to get to the end). But there are many monsters. Also, this level includes all weapons (some of them on even three places), 100% and 200% armour, berserk, 100% health, backpack, computer map and invulnerability. To exit this level you must find blue, red and yellow key. This level has been tested only in single-player mode. The difficulty levels are also implemented.In general, the harder the difficulty, the more monsters you get. This level is designed to be challenging WITHOUT using the cheat keys!",
+	"date": "2015-01-14 22:43:11",
+	"files": [
+		{
+			"filename": "portun.wad",
+			"size": 260227,
+			"crc": 2646851938,
+			"md5": "4bd254559d77b15550a0122063d4a637",
+			"sha1": "c34f38ee9abc56c210f86e6866a4593fc0fe9eff",
+			"sha256": "d3a073a30fee4fb1c57d717905dc8b5e6a54646daac48639eef5205c78bcb548"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pain2011.wad",
+	"name": "Pain 2011",
+	"description": "A large, complex level for Doom 2 mixed with adventurous elements",
+	"date": "2014-12-29 09:00:00",
+	"files": [
+		{
+			"filename": "pain2011.wad",
+			"size": 340854,
+			"crc": 3439071676,
+			"md5": "139cfed762a11a41bf1307f0eff092a7",
+			"sha1": "496694d2dea59f38b76e547c9fdcb6b24451da2c",
+			"sha256": "a123801b913eb519f8ff2ff89dd184ee2413d0cd2216053884a1f734656edbe7"
+		}
+	]
+}

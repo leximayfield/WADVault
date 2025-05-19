@@ -1,0 +1,17 @@
+{
+	"uid": "tunnels (07d830).wad",
+	"name": "TUNNELS.WAD",
+	"description": "Simple little level with no where to hide! One center chamber with three exits that all connect at one point or another! A teleport in the center of the room moves you to the exit. I've also included some barrels (he he) and two Lava pits where you can commit suicide. BUT: Be warned! Once in the pit, you can't get out until you're dead!",
+	"version": "07d830",
+	"date": "2016-02-07 20:26:17",
+	"files": [
+		{
+			"filename": "tunnels.wad",
+			"size": 13164,
+			"crc": 1074437525,
+			"md5": "30b5b0d6f0b5cb66f3917b942c291a9c",
+			"sha1": "07d8308938a29d0792d46cf8029c22964fc3077e",
+			"sha256": "469aed6fea3c90bda6208e3939d6e3d1f15c9a3a913b061edbaf52a18aa3f2a5"
+		}
+	]
+}

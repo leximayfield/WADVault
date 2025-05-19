@@ -1,0 +1,17 @@
+{
+	"uid": "NGS1 (117dd0).wad",
+	"name": "NGS1.WAD",
+	"description": "My first try, so please be jentle. If you have any suggestions or comments please let me know.",
+	"version": "117dd0",
+	"date": "2015-12-07 08:10:01",
+	"files": [
+		{
+			"filename": "NGS1.wad",
+			"size": 135682,
+			"crc": 699699522,
+			"md5": "ffbb6dc70906d7fc8a48d7e28cfcb494",
+			"sha1": "117dd03c2a9331e93fcc3acb0d315afc7624ddfa",
+			"sha256": "7d09a31b64722ecc310e55f24966a2df22447f8a7e2017626d6b794b649e027f"
+		}
+	]
+}

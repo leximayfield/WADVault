@@ -1,0 +1,17 @@
+{
+	"uid": "melange (1b85b5).wad",
+	"name": "MELANGE.WAD",
+	"description": "A fairly simple level with a couple of tricks in it, good for all modes of gameplay. Watch out for the Spectres in the darker areas...",
+	"version": "1b85b5",
+	"date": "2013-11-02 16:03:29",
+	"files": [
+		{
+			"filename": "melange.wad",
+			"size": 71559,
+			"crc": 523172141,
+			"md5": "524af61d1adfaf2972bae759b8af9eb3",
+			"sha1": "1b85b5710cf213ecc68b1101bc31a8c60fe1a734",
+			"sha256": "77bfb281c4363b3369b240ff0bb957d9ec32cefc3b4a24c490be1a598e37f515"
+		}
+	]
+}

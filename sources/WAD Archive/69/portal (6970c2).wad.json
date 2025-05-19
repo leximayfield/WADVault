@@ -1,0 +1,17 @@
+{
+	"uid": "portal (6970c2).wad",
+	"name": "The Portal",
+	"description": "1-level WolfenDOOM adventure, featuring new",
+	"version": "6970c2",
+	"date": "2018-04-14 19:36:18",
+	"files": [
+		{
+			"filename": "portal.wad",
+			"size": 3402763,
+			"crc": 3271789927,
+			"md5": "88d569af0c86c7a312be4cb87d483f1c",
+			"sha1": "6970c27c70acd905421b4c62fe09df623a63107e",
+			"sha256": "514c48ed62fc2e91827a63fdf7a9caaf4eb7b79d33adf31e6e28cbfb8b421171"
+		}
+	]
+}

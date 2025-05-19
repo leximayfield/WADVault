@@ -1,0 +1,16 @@
+{
+	"uid": "sq2.wad",
+	"name": "Squonker2",
+	"description": "A 32 level compilation of most every DOOM2 map I have made myself,",
+	"date": "2014-12-27 12:27:12",
+	"files": [
+		{
+			"filename": "sq2.wad",
+			"size": 2282251,
+			"crc": 3297973394,
+			"md5": "539e4b4284b42b6728cd3b4ab9848379",
+			"sha1": "879de2d84ff3ed64606791b00ab567f2b57e9034",
+			"sha256": "dc97a942480bfe41bcda30dc7a3f0d1ec3fe3c05ae1738c239c63d3b1ba6a91a"
+		}
+	]
+}

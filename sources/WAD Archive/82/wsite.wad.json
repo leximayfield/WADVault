@@ -1,0 +1,16 @@
+{
+	"uid": "wsite.wad",
+	"name": "Waste Site",
+	"description": "The story of this wad is pretty unusual. It all started with a very ambitious project \"Fear The Shrill\" (some screenshots were shown to public on \"The Doomer's Reccess\" (home13.inet.tele.dk/CNH) The main goal of the project was to create an 11 level wad with levels styled with good Mapper's styles, like maps that would look they were made by Kaiser, or Karthik (rather inspiration, not stealing someone's style). The thing was to learn map editing and accomplishing ambitious projects. Later Fear The Shrill evolved into an episode 1 replacement, but with a new style, new maps, new story and new graphics.. exactly, graphics. By that time I simply couldn't find any good sprites or textures for my project so I realized that I should start making my own. So I began searching for some good art programs. PSP and 3ds Max were my choices (tough I don't own 3ds as of yet, but it's only a matter of time). It took a lot of time to study them, but I think I've advance to a rather good level in artmaking (comparing my current skills to those from the past- I did improve), and my natural talents helped me too :-) (hypocryte). However, later I found a rather good way for motivation when working on projects-teams. On WIP I've teamed up with the Doom Refresh Daemon Team (check out this awesome project at --doomos.webpark.pl--). The team's leader, Ellmo found me useful and I joined the group. My position was mostly a beta tester but I could also add some minor graphics to the project, such as a new gun O_o. Needless to say after some time me and Ellmo began work on an outstanding new project which You can check at www.republika.pl/newproject - The mighty RONE. Stay tuned. Currently I decided to release this map just for people to play it and see what Fear The Shrill alpha was going to be. Because I'm working on RONE, FTS is hold for an unknown yet period of time. Will it ever be finished? No one knows..",
+	"date": "2014-12-29 16:54:11",
+	"files": [
+		{
+			"filename": "wsite.wad",
+			"size": 1059865,
+			"crc": 3541418961,
+			"md5": "38172d18cc96b03a18c5cdc0f2bf273c",
+			"sha1": "82034ecf83b775225fd5d68d505234a2ae073d56",
+			"sha256": "511cb880769790b49998acf085250b57ce0b3b7700e075f09e90ba4e6814b7f2"
+		}
+	]
+}

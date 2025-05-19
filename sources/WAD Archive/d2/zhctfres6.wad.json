@@ -1,0 +1,15 @@
+{
+	"uid": "zhctfres6.wad",
+	"description": "Resources for Capture the Flag in Heretic. So far, this contains a bunch of stuff and not just flags or broken skins. There's been a small chunk of work to fill in missing sounds. The effect isn't complete, of course, but Heretic won't be so strangely silent as it was before. ZHCTFRES may have a voice built into it in the future.",
+	"date": "2013-08-06 21:01:17",
+	"files": [
+		{
+			"filename": "zhctfres6.wad",
+			"size": 577835,
+			"crc": 3824343948,
+			"md5": "5feec67310fcd07776513b3fe17ccada",
+			"sha1": "d25f45e587a3148d5c681fd80b406108be669fe6",
+			"sha256": "d8beb648cee4458000301d53c3cc13c494136f12c336318f5cab981dc2a817cb"
+		}
+	]
+}

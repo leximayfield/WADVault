@@ -1,0 +1,17 @@
+{
+	"uid": "earth (a85bcc).wad",
+	"name": "Earth",
+	"description": "Ten level episode replacement for first episode of Hell on Earth.",
+	"version": "a85bcc",
+	"date": "2013-04-19 02:35:46",
+	"files": [
+		{
+			"filename": "earth.wad",
+			"size": 3913680,
+			"crc": 82308743,
+			"md5": "cdf6bdf64c2361bc99d64fdf548157fb",
+			"sha1": "a85bcc1e894eea40441dfd2411cf4c4cb54700ac",
+			"sha256": "d2b4193d5bf9743bac6e18d7b476e6f0f54ae8981f7408d13750a3b6dec3b045"
+		}
+	]
+}

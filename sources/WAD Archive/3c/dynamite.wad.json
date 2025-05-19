@@ -1,0 +1,16 @@
+{
+	"uid": "dynamite.wad",
+	"name": "Dynamite Deathmatch 1.1",
+	"description": "A pack of 11 Deathmatch maps of varying themes. They're pretty much maps that I've accumulated over the past year, so the quality isn't as consistant as I'd like it to be; but I suppose it doesn't really matter. I just hope you guys can have fun with it.",
+	"date": "2013-04-19 03:42:33",
+	"files": [
+		{
+			"filename": "dynamite.wad",
+			"size": 10104681,
+			"crc": 1669496993,
+			"md5": "c34d16d9d7a38a48b209df258b70c9ba",
+			"sha1": "3c604dd0f6ddda516b376586f92e6cada3b907cd",
+			"sha256": "aa7a66b52b542ae1ca9d90c150bb768ebdbf8a7ed19364be431bf29b2adce950"
+		}
+	]
+}

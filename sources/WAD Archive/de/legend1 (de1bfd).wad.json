@@ -1,0 +1,16 @@
+{
+	"uid": "legend1 (de1bfd).wad",
+	"name": "The Legend of Doom 1.0 for Doom1",
+	"version": "de1bfd",
+	"date": "2014-12-13 17:40:30",
+	"files": [
+		{
+			"filename": "legend1.wad",
+			"size": 288442,
+			"crc": 1669965209,
+			"md5": "61bb92ed8a08ebc65991db08395df43f",
+			"sha1": "de1bfddd81d0bbb7d7d7e1f2b95740f8d194bc9e",
+			"sha256": "4ad0264fe0c7898afab2799432a0861a15cbb9355bb835596ef52d3f0f2d8ad3"
+		}
+	]
+}

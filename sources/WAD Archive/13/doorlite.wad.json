@@ -1,0 +1,16 @@
+{
+	"uid": "doorlite.wad",
+	"name": "Door of Light",
+	"description": "Rush for the Door of Light. Penetrate through the twisted fortress protecting what's left of our military base. All formerly sent personnel failed to report.",
+	"date": "2014-12-18 22:22:09",
+	"files": [
+		{
+			"filename": "doorlite.wad",
+			"size": 90882,
+			"crc": 3044006942,
+			"md5": "b12f3349b524b96bd4ba028ed2fa78c3",
+			"sha1": "13fd4e5af3d38c3002703fa593e4822397b7c270",
+			"sha256": "7e820cb0ef9055dbf7e5821f16d2d41bf20b83d515397b868dd14aeb0bab3e08"
+		}
+	]
+}

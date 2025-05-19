@@ -1,0 +1,16 @@
+{
+	"uid": "khills.wad",
+	"name": "khills series",
+	"description": "This is a BASE style WAD, set in the hills. This WAD will run in ANY of the new PORTS for DOOM2, so crank up the Resolution!",
+	"date": "2015-01-05 16:24:30",
+	"files": [
+		{
+			"filename": "khills.wad",
+			"size": 204450,
+			"crc": 1679878217,
+			"md5": "53053b2dc38f7a225d7c65951fcafb5f",
+			"sha1": "202ed511a9434c9bc60b5d5125764806da8bf89d",
+			"sha256": "1339082382092e5e712eba0b67c9f11b1760b71d3fadacbbd77fd5b9ed4fab60"
+		}
+	]
+}

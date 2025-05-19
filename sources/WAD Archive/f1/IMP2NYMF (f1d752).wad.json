@@ -1,0 +1,17 @@
+{
+	"uid": "IMP2NYMF (f1d752).wad",
+	"name": "Imps 2 Nymphs",
+	"description": "Graphics and Sound Patch for Imps => Nymphs, also changes barrels (nudity)",
+	"version": "f1d752",
+	"date": "2013-11-04 20:16:43",
+	"files": [
+		{
+			"filename": "IMP2NYMF.wad",
+			"size": 2521407,
+			"crc": 2294620537,
+			"md5": "a25afb36787750715624b4d607232675",
+			"sha1": "f1d752c0f65b7f9d3646c2059e1b28b43370dd46",
+			"sha256": "731f5de543c8fb514e9c48bf2179e24b594e6e693db817e651c382c3302971ad"
+		}
+	]
+}

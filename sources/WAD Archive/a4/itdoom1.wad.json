@@ -1,0 +1,16 @@
+{
+	"uid": "itdoom1.wad",
+	"name": "DooM MuseuM",
+	"description": "Why the name \"Italian DooM\"?! Because it was made by three Italian Doomers, grouped in the so-called \"Italian Team\". But there's more: in the .WAD there are some new nice features too, such as messages in Italian... with the literal translation in English below, of course! This .WAD is ZDoom-oriented, so it works just with ZDoom, particularly with versions higher than 2.0.63a, since the .WAD contains new features, like DECORATE and DECALDEF lumps, which are supported only by the last versions of this source port. The .WAD contains 8 maps, one of which is a secret map (see \"Levels Information\" below for further info about the sequence of levels, its authors and more). Other features of this .WAD are: - two new monsters: a strengthened \"CyberMasterMind\" and the \"Arachnophyte\"! - new graphics (textures, flats, sprites, pictures, etc.); - new background musics. \"Italian DooM\" is a .WAD for Single Player mode (SP), although there are Cooperative and Deathmatch starts in some maps. Levels can be beated in sequence or from scratch. Playing the levels in sequence means following the story, of course. Play it and discover the new \"Italian DooM\": the first episode, of course!",
+	"date": "2014-12-24 17:34:48",
+	"files": [
+		{
+			"filename": "itdoom1.wad",
+			"size": 13118284,
+			"crc": 381055587,
+			"md5": "0629d99fee4bd10f0b7ba5ddf5d63cdf",
+			"sha1": "a465639594d09efac4490a7d5dbe4cde7f6e6873",
+			"sha256": "0546f80057472aa2ec323e7012743fbde29a65533922f90392da2c506cd94ead"
+		}
+	]
+}

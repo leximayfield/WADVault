@@ -1,0 +1,16 @@
+{
+	"uid": "deathrow.wad",
+	"name": "Deathrow",
+	"description": "Same as most levels, kill all the monsters and find the secrets to win.",
+	"date": "2013-11-02 15:37:10",
+	"files": [
+		{
+			"filename": "deathrow.wad",
+			"size": 129251,
+			"crc": 3472688212,
+			"md5": "07499819a13d9046d369524ae81ac5c6",
+			"sha1": "4a37a094c10d9f70444452d4e6ec450770e73a8d",
+			"sha256": "89af8a8d3ccd9fe785aa5913d3552ca478bbbcb5402c4a4c1d84e906d5224511"
+		}
+	]
+}

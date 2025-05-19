@@ -1,0 +1,17 @@
+{
+	"uid": "dthtrap (3a3e0c).wad",
+	"name": "Deathtrap",
+	"description": "I think the name says it all. Its playable but tough. This was an experiment in building a simple level that would be dangerous and make the most of a player's skills. It may be easier to play cooperatively, and deathmatch will be deadly. Warning! The monsters have free travel and may come through the wallsat you! Tons of ammo included.",
+	"version": "3a3e0c",
+	"date": "2014-01-04 11:55:51",
+	"files": [
+		{
+			"filename": "dthtrap.wad",
+			"size": 73898,
+			"crc": 1888162360,
+			"md5": "4b5b3a6b275830fde4283f5f945cf8ac",
+			"sha1": "3a3e0c61e25110cc6bdfa5b8b775e69e4d1c501c",
+			"sha256": "177087450eb9da73e31b349b2697dc28adb08dbbe664c2c60765d69f9a94fe81"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "lplant.wad",
+	"name": "Lava Plant 3d",
+	"description": "Tech style small sized deathmatch wad in a lava plant.",
+	"date": "2015-01-05 16:23:26",
+	"files": [
+		{
+			"filename": "lplant.wad",
+			"size": 422295,
+			"crc": 607472746,
+			"md5": "9c5cab25ae70868c53dbe7d86aeddc61",
+			"sha1": "f5c01d3a82f488daaec3750204f1cf699fc9f8a3",
+			"sha256": "45d1ef1ba4077871db33801b99afcfa245858c2ea1b32e30494cd43fc665df57"
+		}
+	]
+}

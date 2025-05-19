@@ -1,0 +1,17 @@
+{
+	"uid": "victim (2a4fbe).wad",
+	"name": "VICTIM.WAD",
+	"description": "One of the deatchmatch competitors has to enter a bunker-like stronghold by using the teleporter in the north of the starting-room. Once used this teleporter is sealed. The other ones are his victims, and THERE ARE ways to kill the bunker dude. Inside the bunker are six rooms, connected by teleporters. The main platform in the middle of the area is the main lookout and connection to four sniper positions. This looks like that:",
+	"version": "2a4fbe",
+	"date": "2014-01-11 11:10:00",
+	"files": [
+		{
+			"filename": "victim.wad",
+			"size": 66929,
+			"crc": 1148822059,
+			"md5": "cfcad0d535f5a80702c940127e71c0ba",
+			"sha1": "2a4fbe01e63c1b246b380d1db237c72b8cd0112c",
+			"sha256": "049916f5eb10cd211d34e76a485fe4e9999ed2d898916a6d1167d7ff1b7e684c"
+		}
+	]
+}

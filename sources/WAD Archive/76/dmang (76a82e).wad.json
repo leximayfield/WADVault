@@ -1,0 +1,17 @@
+{
+	"uid": "dmang (76a82e).wad",
+	"name": "Gates of Anguish",
+	"description": "After a weekend of R&R, you return to your base to find your unit has not returned from routine maneuvers on Mars. Upon checking in with your CO, you find him a changed person. He only moans, \"Despair, Despair, Why did it have to be Despair.\" Your comrades had been sent to pay a routine visit to UAC's genetics and physics lab knicknamed \"Despair\" because of its remote location. Grabbing your sidearm, you head for the hanger some call the \"Gates of Anguish\" to begin your search for the fate of your comrades. Your journey begins with a quick flight to the remote landing pad cut into the red rock. Your shuttle deserts you as the first shots are fired, leaving you no easy way back. From here on, its just you against the denizens of the hellish place.",
+	"version": "76a82e",
+	"date": "2013-11-02 15:11:33",
+	"files": [
+		{
+			"filename": "dmang.wad",
+			"size": 164919,
+			"crc": 501135481,
+			"md5": "95592a7b51a4413adf7f3a32d755cbb9",
+			"sha1": "76a82eba205da77db0c173d9b757318aba94c657",
+			"sha256": "509509c18bc67a46ea6589684eb0eb95aa375bc083d4448743435556573f38f5"
+		}
+	]
+}

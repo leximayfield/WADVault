@@ -1,0 +1,16 @@
+{
+	"uid": "wdgstn.wad",
+	"name": "Worm Digestion",
+	"description": "A single player wad for Doom 2. Medium-sized difficulty. Multiplayer is supported. I have done a better job in this wad of aligning every texture and eliminating the HOM effects. The color selection is better as well. Hope you like it!",
+	"date": "2013-04-18 23:09:28",
+	"files": [
+		{
+			"filename": "wdgstn.wad",
+			"size": 1871798,
+			"crc": 1449082012,
+			"md5": "5cd11c360d637575c888a7f3be0950fd",
+			"sha1": "edfa8b82633c87229a44ab8717b85f5301005c37",
+			"sha256": "453706f29d12690d65e4d2dd7d6395430c97d60e325bcbf00f6d8d596bb33a74"
+		}
+	]
+}

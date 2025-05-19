@@ -1,0 +1,17 @@
+{
+	"uid": "torched (cad566).wad",
+	"name": "DUNGEON.WAD",
+	"description": "Ninth Level (Secret Level) - \"Dungeon\"",
+	"version": "cad566",
+	"date": "2018-05-28 19:48:39",
+	"files": [
+		{
+			"filename": "torched.wad",
+			"size": 768330,
+			"crc": 1910080998,
+			"md5": "bc83cf4330f6d6921c1046f082f29e82",
+			"sha1": "cad566665ab388d7628203d7e51f238c8ac58d8b",
+			"sha256": "c6c9793cd1ef5dd94241f0431bbcc13c000a05c6185649c53ee52e6c829fe5e7"
+		}
+	]
+}

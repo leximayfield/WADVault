@@ -1,0 +1,17 @@
+{
+	"uid": "quake2 (daa9d6).wad",
+	"name": "QUAKE! for DOOM II",
+	"description": "5 excellent deathmatch levels for DOOM II. Me and my friends use nothing else when we run a deathmatch-weekend. There were supposed to be one more level but a major bug was discoverd during playtesting. Perhaps I'll include it in the sequel to QUAKE!, if I ever make one.",
+	"version": "daa9d6",
+	"date": "2013-11-04 19:22:42",
+	"files": [
+		{
+			"filename": "quake2.wad",
+			"size": 445156,
+			"crc": 40164059,
+			"md5": "a09b05d2533851e0e6581a19410d8f0a",
+			"sha1": "daa9d6280cca9cea6f35fe86b32dd9156726b9e8",
+			"sha256": "e236e4d15a42a6907ef6b9e9878b851c2b32fa0af0d55fc1b84b0fbf215ad38a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "forest2 (b17c47).wad",
+	"name": "FOREST.WAD ver 1.1",
+	"description": "Forest is a three mission WAD with new graphics. Look at the sky and watch for some text on some walls. It also includes my own demos of each level right in DOOM! I also changed the credit screen.",
+	"version": "b17c47",
+	"date": "2013-11-02 15:19:33",
+	"files": [
+		{
+			"filename": "forest2.wad",
+			"size": 623892,
+			"crc": 2656383612,
+			"md5": "f17fbb3df469540a27cfbe3f6aa315a8",
+			"sha1": "b17c47605d1874a2372e7f592c81aca4a651e675",
+			"sha256": "76fc66c8f15a053780a84625b2f678fbbbe941f0bddc5a4b5106051cbe5810b2"
+		}
+	]
+}

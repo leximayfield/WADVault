@@ -1,0 +1,16 @@
+{
+	"uid": "tsst.wad",
+	"name": "The sunset temple",
+	"description": "You've been sent out on a mission to a temple in a confidential location in south america to retrieve any artifacts of interest and eliminate any and all hostilities",
+	"date": "2017-02-20 20:29:10",
+	"files": [
+		{
+			"filename": "tsst.wad",
+			"size": 4125150,
+			"crc": 4063418694,
+			"md5": "1a9233fc14a5d099a080ca1286d31f69",
+			"sha1": "4738a18919eb33b58c3ed0fbd00bfab7f02fb78d",
+			"sha256": "2a740152a45444cb1a1e0c39770c55c33001d90eea438d1a9f635cc0605b4cb6"
+		}
+	]
+}

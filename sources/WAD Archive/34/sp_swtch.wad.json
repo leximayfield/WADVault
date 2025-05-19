@@ -1,0 +1,16 @@
+{
+	"uid": "sp_swtch.wad",
+	"name": "Switch Stampede",
+	"description": "Someone in #zdoom asked me to make this a few months ago, and someone in #dmclub asked me to upload it for some reason.",
+	"date": "2014-12-29 17:07:23",
+	"files": [
+		{
+			"filename": "sp_swtch.wad",
+			"size": 479595,
+			"crc": 412736981,
+			"md5": "ab6bf13bacc87e7ddbccfb1599ef8e41",
+			"sha1": "34a37858d298ca29d21170483ffe876bfa857778",
+			"sha256": "15bdbecf3dcc733c64eda58a38cc26dfcafe021d4936ad5127765fae2c03e491"
+		}
+	]
+}

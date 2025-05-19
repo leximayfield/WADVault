@@ -1,0 +1,16 @@
+{
+	"uid": "io.wad",
+	"name": "Io",
+	"description": "A sort of techbase in Io. Lot of action. Made for the 9th Cabro's map tournament (3th place).",
+	"date": "2014-12-24 17:39:52",
+	"files": [
+		{
+			"filename": "io.wad",
+			"size": 553146,
+			"crc": 1868332523,
+			"md5": "e50d6583f1cd7edd4ff62a8711ed59f2",
+			"sha1": "91e0ae95234957aa4c1d687d1c86ce379fc4bada",
+			"sha256": "9db12d960e49bede82d80f82da5b32bacb4195c3d9a976e94477f81cd0c815bd"
+		}
+	]
+}

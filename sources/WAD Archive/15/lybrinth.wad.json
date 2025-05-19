@@ -1,0 +1,16 @@
+{
+	"uid": "lybrinth.wad",
+	"name": "Theseus and the Baron of Hell",
+	"description": "Trek around in a DARK maze killing things and trying to get out. Fun. Wandering monsters.",
+	"date": "2013-11-06 22:31:53",
+	"files": [
+		{
+			"filename": "lybrinth.wad",
+			"size": 52588,
+			"crc": 937846556,
+			"md5": "7069e906b4d8128a1a2cfb43d2e7515e",
+			"sha1": "159eaf6284112ff940dcddceece75fedbc88698b",
+			"sha256": "acb8d6d1a6fa451a141a87ae51ff78209971e538a3ca4db5d1edf61150bdf350"
+		}
+	]
+}

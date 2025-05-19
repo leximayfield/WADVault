@@ -1,0 +1,16 @@
+{
+	"uid": "worlddm.wad",
+	"name": "Eugen's World of DOOM v1.0 :-)",
+	"description": "A Graphics PWAD which replaces a few things in DOOM/DOOM ][ :-) Read README.TXT for what I replaced :-)",
+	"date": "2015-09-15 16:21:54",
+	"files": [
+		{
+			"filename": "worlddm.wad",
+			"size": 330868,
+			"crc": 596009687,
+			"md5": "a6e7a93f3c80a0f3c759ffe9b91469ae",
+			"sha1": "a0c75d1b4ee2df42f33bbdd0a1cddb646c75372b",
+			"sha256": "039407126d2049da993139a157e2703b398e13e6d46af733dfdd3d4f5fe04b80"
+		}
+	]
+}

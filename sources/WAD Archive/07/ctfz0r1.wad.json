@@ -1,0 +1,16 @@
+{
+	"uid": "ctfz0r1.wad",
+	"name": "Capture the Flag 1",
+	"description": "It's CTF. You move around and steal the other teams flag, because they suck and you rule.",
+	"date": "2014-12-12 14:06:11",
+	"files": [
+		{
+			"filename": "ctfz0r1.wad",
+			"size": 869030,
+			"crc": 484461737,
+			"md5": "5f59f1020896e1b702699aa2d5391c5e",
+			"sha1": "07e2714021cc515307dfbbffbd769e2c7086df8a",
+			"sha256": "0e10217dd627703e0960c6072c3e4dfdf677b9d01e61b0f918b2f56660036060"
+		}
+	]
+}

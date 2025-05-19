@@ -1,0 +1,16 @@
+{
+	"uid": "BDS1.wad",
+	"name": "The Kicker!",
+	"description": "If you love the game, you'll want to add this WAD to your collection! A lot of thought and time went into it's design, and I hope you'll enjoy it. Every monster EXCEPT the Spiderdemon makes an appearance, and every weapon EXCEPT the BFG9000 is available - with ample ammo (you'll need it!). The level has 4 main areas: The Red Room (I recommend blasting the Baron in the dark balcony before leaving with the Blue Skull key); The huge parapet area (patiently pick away at the Cyberdemon from the ground level where the Red Skull key is (you'll see!) - then go up and collect the goodies...); The computer room, where the chainsaw works nicely on the Demons - and you can transport to a \"challenge\" that will net you the Yellow Skull key; --->and if you choose NOT to take the first EXIT - you can transport to the 4th area, \"The Tiered Section\". This last section was a real challenge to make - 'DEU' to it's size, and many 2-sided linedefs, some strategically located walls were necessary to eliminate some HOM effects. If you can make it through alive to the 2nd switch on the bottom tier, you'll have to move quickly to get to the 'door' out before it closes (watch for the Sargents and Imps). If you find yourself low on ammo and health, there is a teleporter that will take you back to the top of this section to 'scavenge'. Finally, the EXIT at the top of the elevator will take you to game two's secret level. If you've never been there before - have fun!! (:->)",
+	"date": "2016-02-06 13:53:32",
+	"files": [
+		{
+			"filename": "BDS1.wad",
+			"size": 178884,
+			"crc": 685061895,
+			"md5": "a944c1845b666cef81a30b2ce6675f00",
+			"sha1": "f449728e0302e4653f1821cce2abdfa1882c7395",
+			"sha256": "7e5c79918be56fab9e75a847bb3b98313b00314fe2c3f6a501f890badc8b986a"
+		}
+	]
+}

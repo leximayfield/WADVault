@@ -1,0 +1,16 @@
+{
+	"uid": "kahuna.wad",
+	"name": "The Big Kahuna",
+	"description": "a medium sized level incorporating most of the features of Doom2. This level was originally made to test a new map editor I was trying, but I thought the end product was quite good, so here it is.",
+	"date": "2014-12-27 12:22:09",
+	"files": [
+		{
+			"filename": "kahuna.wad",
+			"size": 52607,
+			"crc": 2032930282,
+			"md5": "d433253848692f3d79a8ec7d5f1f87c5",
+			"sha1": "bd6241de7526e714f95ff9c93f40ad6c2894c818",
+			"sha256": "092a10ce634eccd1519709062e49b419662ca89f7590a4e9e76d12f0c82ffad9"
+		}
+	]
+}

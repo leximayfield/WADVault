@@ -1,0 +1,16 @@
+{
+	"uid": "sporktpdm.wad",
+	"name": "Agent Spork's Tech Plant DeathMatch",
+	"description": "A small Tech style DeathMatch map for ZDoom 1.23 or higher. This is my first attemt at making a ZDoom map.",
+	"date": "2014-12-15 22:59:23",
+	"files": [
+		{
+			"filename": "sporktpdm.wad",
+			"size": 3859079,
+			"crc": 137064597,
+			"md5": "e4bae59f75f415346e66c5682be2db73",
+			"sha1": "c9478b7dc4a37d4817bb232afafcd22e079efbed",
+			"sha256": "20b5f37d7eb5fa706cb3c6835961d9e027c100854dc38be258e3111acffd8709"
+		}
+	]
+}

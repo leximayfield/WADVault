@@ -1,0 +1,17 @@
+{
+	"uid": "trilogy (450924).wad",
+	"name": "Trilogy",
+	"description": "Three highly playable levels created to try out some ideas.",
+	"version": "450924",
+	"date": "2013-11-06 22:45:00",
+	"files": [
+		{
+			"filename": "trilogy.wad",
+			"size": 806032,
+			"crc": 3026905414,
+			"md5": "bcbab81e98a6822474028a4e8a3bc356",
+			"sha1": "4509249bc36c7ab78f3d2f28ed759b80433dc1c4",
+			"sha256": "20f6fcbb8fed5e393487039997fae5df231eaec02ce8abdd6de29295915bd8a3"
+		}
+	]
+}

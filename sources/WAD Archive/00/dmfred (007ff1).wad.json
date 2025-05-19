@@ -1,0 +1,17 @@
+{
+	"uid": "dmfred (007ff1).wad",
+	"name": "DMFRED.WAD",
+	"description": "Fred's quest?",
+	"version": "007ff1",
+	"date": "2013-11-04 20:09:33",
+	"files": [
+		{
+			"filename": "dmfred.wad",
+			"size": 102121,
+			"crc": 1262695505,
+			"md5": "5819a2e44086885672cd2e8c5efef01e",
+			"sha1": "007ff1fca2350813defe930041c7df5795b10421",
+			"sha256": "f5ee846a7dea8b698d36a53eb312a20da50970a58994fc55af087a9069d53371"
+		}
+	]
+}

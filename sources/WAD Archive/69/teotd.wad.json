@@ -1,0 +1,16 @@
+{
+	"uid": "teotd.wad",
+	"name": "The Eye of the Demon",
+	"description": "It's map 30. So you gotta kill the evil demon boss.",
+	"date": "2014-12-29 16:57:00",
+	"files": [
+		{
+			"filename": "teotd.wad",
+			"size": 282128,
+			"crc": 3421316130,
+			"md5": "62c77b3f7b78149e88cc5a1eab26b97d",
+			"sha1": "699e93ed87b4624324bf97c4c4ec86bda6af51d1",
+			"sha256": "bf378573044cd8d6fc0190a19a1b9e8b1960bb60daed12d0a9176bfbe493c659"
+		}
+	]
+}

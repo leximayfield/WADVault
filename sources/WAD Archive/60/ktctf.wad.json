@@ -1,0 +1,16 @@
+{
+	"uid": "ktctf.wad",
+	"name": "CramMped Capture The Flag",
+	"description": "8-map CTF mappack.",
+	"date": "2014-12-12 14:03:35",
+	"files": [
+		{
+			"filename": "ktctf.wad",
+			"size": 2348188,
+			"crc": 2031555564,
+			"md5": "0b9c007e31ac1d697dee596096f20832",
+			"sha1": "602cbb800125b7a19a2c0fb429b3ab152b80c12e",
+			"sha256": "299028b69efbc791f2d18805840f00345fcb33d78d69ae414dcf1bd5180272fa"
+		}
+	]
+}

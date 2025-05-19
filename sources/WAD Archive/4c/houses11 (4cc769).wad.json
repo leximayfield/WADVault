@@ -1,0 +1,17 @@
+{
+	"uid": "houses11 (4cc769).wad",
+	"name": "Houses 1.1",
+	"description": "14 deathmatch levels. The first 9 are house related. This WAD changed a lot since the last release (You will take you longer to find funky music.)",
+	"version": "4cc769",
+	"date": "2014-12-03 20:22:52",
+	"files": [
+		{
+			"filename": "houses11.wad",
+			"size": 2269483,
+			"crc": 2145680967,
+			"md5": "7bb94509b41cbc90b7d5735de2588eb1",
+			"sha1": "4cc76910c9baaf6a2dbaec95d1a1fc19d36f4b32",
+			"sha256": "2e24995a46d99fb1f2f953887af9534b143940965157c28d5d1ecfb0cbe3caba"
+		}
+	]
+}

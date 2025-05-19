@@ -1,0 +1,17 @@
+{
+	"uid": "castle (816d60).wad",
+	"name": "CASTLE.WAD",
+	"description": ".A deathmatch only map which looks pretty cool. An open castle with four towers and a medium sized courtyard. Also several separate areas off of the main courtyard. Good sniping. Some tough puzzles in order to get all of the power ups. All weapons are available. Some of the pillars in the courtyard are lifts activated by remote switches, some are imobile. The NW and SE towers can only be accessed by teleporting in or by rematerializing there after you've been fragged. The teleport puzzle is a little tricky to figure out, its almost impossible to utilize with four players. I hope you all like it. It's my best effort yet, I believe.",
+	"version": "816d60",
+	"date": "2014-12-03 20:28:15",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 141602,
+			"crc": 3591441864,
+			"md5": "252b342fe75ce757ad2568a258ae2090",
+			"sha1": "816d607b37f027e567c9a890d7b86c97296873c7",
+			"sha256": "fce852f0db6571984b14c9365b3a22e6aedb94f0a683ffe9875b47eba052f521"
+		}
+	]
+}

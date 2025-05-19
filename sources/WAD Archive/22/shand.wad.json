@@ -1,0 +1,16 @@
+{
+	"uid": "shand.wad",
+	"name": "Sleight of Hand",
+	"description": "This DM map is not what it appears. :) Just because you can see into the next room does not necessarily mean you can get there from here. The fire is the portal to where you want to be. And yes, you can get to all rooms. You just have to find the way.",
+	"date": "2014-12-15 22:04:31",
+	"files": [
+		{
+			"filename": "shand.wad",
+			"size": 191646,
+			"crc": 2061062339,
+			"md5": "9fbbcd9c97b2f933ccef044eee46ae7e",
+			"sha1": "221ece23c61ded8931a4e59cfc2187259d5328d0",
+			"sha256": "54d5ba38d6a169a1232a7bcc45f50bf70a5c0c934e6206b6aef892ff45436b83"
+		}
+	]
+}

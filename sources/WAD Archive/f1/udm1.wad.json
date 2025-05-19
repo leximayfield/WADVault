@@ -1,0 +1,16 @@
+{
+	"uid": "udm1.wad",
+	"name": "Unidoom DM 1",
+	"description": "16 action packed dm maps, 2 deathtag maps",
+	"date": "2013-04-19 03:00:13",
+	"files": [
+		{
+			"filename": "udm1.wad",
+			"size": 6615472,
+			"crc": 1339147499,
+			"md5": "bec209759eab1aec9321dbbc935f1785",
+			"sha1": "f1137d453dcfb23cb37f52dabb2672fa3c6f057d",
+			"sha256": "137a9eeb383493b913d1e552a9f0b7062c874c1fbf6655d1c57ca0ec5cdbf31c"
+		}
+	]
+}

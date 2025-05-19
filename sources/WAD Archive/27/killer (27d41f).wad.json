@@ -1,0 +1,17 @@
+{
+	"uid": "killer (27d41f).wad",
+	"name": "Killer",
+	"description": "Basically a fairly straight forward level with lots of killing to be done- especially on the harder levels. So get that trigger finger primed and start monster mashing (oh, and try not to get lost in the maze).",
+	"version": "27d41f",
+	"date": "2014-01-07 22:03:54",
+	"files": [
+		{
+			"filename": "killer.wad",
+			"size": 217666,
+			"crc": 1287943985,
+			"md5": "c8d30eda174ce7b2f7e3446a3025f11d",
+			"sha1": "27d41f99a9cc682f2b583b5aaa8d131780eb1a01",
+			"sha256": "b967cc409e19c0fdd92dc65b4538b6289d0b13e980fbd1d9d58cd66a9cc22013"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zoo (2c45d9).wad",
+	"name": "If I Ran The Zoo",
+	"description": "This is an arena in which you can safely view several demonic exhibits. You can see demons, imps, arachnotrons, mancubi, revenants, barons, cyber demons, and cacodemons. Viewing other enemies would be dangerous, since they would kill you or each other. There is a control room that you can enter at your own risk. There are switches clearly marked for your convience that allow you to let the demons out of their areas. It's great to just do a bit of cheating and watch them all fight each other. Monsters that cannot be safely viewed are stored and can be released. If things get out of control, there is a weapons room with enough raw power to turn every monster on the level inside out. The candles in the control hallway mark how far away you should stay from the window - or you may be splatted by rockets and fireballs.",
+	"version": "2c45d9",
+	"date": "2015-01-14 22:52:42",
+	"files": [
+		{
+			"filename": "zoo.wad",
+			"size": 74390,
+			"crc": 1633904226,
+			"md5": "7fde55436c5d4f79739067abd6655032",
+			"sha1": "2c45d979c1c84b78cd4ba444418fe58ee6d1a5ce",
+			"sha256": "dbcb79b0ab2976dafaa01cb9311937b48371d48d9fa8c1cac938acc23a2c50d4"
+		}
+	]
+}

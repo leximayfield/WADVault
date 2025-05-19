@@ -1,0 +1,16 @@
+{
+	"uid": "ntspd003.wad",
+	"name": "NiGHTMARE Speedmapping Compilation #3",
+	"description": "This is a compilation of the WADs entered in NiGHTMARE's third speedmapping exercise. Participants were given 100 minutes to create a Doom 2 level on a certain theme. This week's theme was to design a tribute to (not a remake of) participants' favourite level in either Doom 1 (excluding episode 1 (although someone broke this rule), e2m8 and e3m8) or Doom 2 (excluding map01, map07, map30, map31 and map32).",
+	"date": "2015-01-13 21:43:50",
+	"files": [
+		{
+			"filename": "ntspd003.wad",
+			"size": 984305,
+			"crc": 145683895,
+			"md5": "96933fef8324e83840cb38ec4c852aa8",
+			"sha1": "865c27a90760d713eb24aa884433c962677ade23",
+			"sha256": "7351323a8c46a8ccc48a4fe62b68e942083a971f2b41e16a729e9b105d5dfbc6"
+		}
+	]
+}

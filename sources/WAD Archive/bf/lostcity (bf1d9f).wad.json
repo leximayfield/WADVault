@@ -1,0 +1,17 @@
+{
+	"uid": "lostcity (bf1d9f).wad",
+	"name": "Lost Cities",
+	"description": "After you destroy the John Romero Doll (Level 30) You go home. Only to find that a long lost city in the jungle has been settled by what is left of the evil minions. It's your job to find them and destroy all of them by flipping the final switch on the second floor to destroy the evil city.",
+	"version": "bf1d9f",
+	"date": "2014-12-27 12:22:23",
+	"files": [
+		{
+			"filename": "lostcity.wad",
+			"size": 216192,
+			"crc": 1733406639,
+			"md5": "85c60680a3f156c51cac794485e95125",
+			"sha1": "bf1d9f1eefbedc35fdfa12fa8bdfd581ce0df8bc",
+			"sha256": "682a1caae32db669e4a336f053c896e15842a2dade32f7e18e230fb345fc9a44"
+		}
+	]
+}

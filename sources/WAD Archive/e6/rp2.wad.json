@@ -1,0 +1,16 @@
+{
+	"uid": "rp2.wad",
+	"name": "RustPoint Map2",
+	"description": "Just the map after the first Rustpoint. It is uploaded due that it needs a different Engine then the first map and the time that map 3 will take to build.",
+	"date": "2014-12-29 08:45:37",
+	"files": [
+		{
+			"filename": "rp2.wad",
+			"size": 3159308,
+			"crc": 2020511626,
+			"md5": "c0d2682f03c52b714ee57f9a2261f3dd",
+			"sha1": "e670105b98db8b9c448d22fdf06550ea875da856",
+			"sha256": "cc0a032582e8f43631be8a40888d5e125b85dd87ef301947cacfaca0b0243f09"
+		}
+	]
+}

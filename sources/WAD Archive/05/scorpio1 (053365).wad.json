@@ -1,0 +1,17 @@
+{
+	"uid": "scorpio1 (053365).wad",
+	"name": "The Scorpio Project, Act 1 (scorpio1.wad)",
+	"description": "You've cleaned up the mess left by the Military's secret projects on Phobos and Deimos. With this victory, the hellish invasion seems to have been thwarted.",
+	"version": "053365",
+	"date": "2013-11-04 20:07:00",
+	"files": [
+		{
+			"filename": "scorpio1.wad",
+			"size": 120635,
+			"crc": 3500003465,
+			"md5": "e653f1dce57260077efbf5d32ff0d04c",
+			"sha1": "0533655802ee02a0829f080b35f546b12bd66031",
+			"sha256": "58bd3308dcfb75f864ee079f6d08bc0d7c5bf1f61e30837d8e8c94a0bb8e51ae"
+		}
+	]
+}

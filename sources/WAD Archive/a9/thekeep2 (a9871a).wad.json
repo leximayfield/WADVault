@@ -1,0 +1,17 @@
+{
+	"uid": "thekeep2 (a9871a).wad",
+	"name": "Deathmatch: THEKEEP2, for Doom II",
+	"description": "TheKeep2 is the final update of The-Keep.Wad. The medieval castle has few secrets to give away but playing a deathmatch can be fun. The chaingun appears to be the weapon of choice in this wad. There are two places now to pick it up.",
+	"version": "a9871a",
+	"date": "2013-11-02 17:12:26",
+	"files": [
+		{
+			"filename": "thekeep2.wad",
+			"size": 215922,
+			"crc": 930817960,
+			"md5": "99ff346e99c5c03d9d96dbdd2780fcc3",
+			"sha1": "a9871a255b89867452bac826a2840eaf82ede5b4",
+			"sha256": "c462cb48b045a7ec080e5ea5237eddb7268f252eb134d73b688cb7af9cfa7861"
+		}
+	]
+}

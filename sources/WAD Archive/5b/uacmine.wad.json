@@ -1,0 +1,16 @@
+{
+	"uid": "uacmine.wad",
+	"name": "UAC Mine",
+	"description": "This was meant to be a full Vanilla Doom episode replacing episode 2, but I lost intrest... It's in the style of episode 2, early levels I made (like a year ago). Thee quality is good, but it's nothing hugely special.",
+	"date": "2014-12-14 20:39:22",
+	"files": [
+		{
+			"filename": "uacmine.wad",
+			"size": 530908,
+			"crc": 1272796090,
+			"md5": "2ea54fab9c1ef88265e98b07fe8655fb",
+			"sha1": "5b87576f53aee5b8f7bc2032e742e1c4acd9f068",
+			"sha256": "e8008e7ec52c20487b68a44a8ea9d6d28d6e8f37898429200c9163e701f7dffa"
+		}
+	]
+}

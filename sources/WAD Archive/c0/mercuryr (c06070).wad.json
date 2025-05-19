@@ -1,0 +1,17 @@
+{
+	"uid": "mercuryr (c06070).wad",
+	"name": "Mercury Rain (v1.1)",
+	"description": "A short, slightly puzzle-oriented map made for TerminusEst13's third DUMP project (Doom Upstart Mapping Project).",
+	"version": "c06070",
+	"date": "2018-04-16 08:07:38",
+	"files": [
+		{
+			"filename": "mercuryr.wad",
+			"size": 3744376,
+			"crc": 446298822,
+			"md5": "00fa090a1982d63d5327a9e03edfb789",
+			"sha1": "c0607067a7895e433e852905ee940d8b452e08e9",
+			"sha256": "d6f7301596c2accbf97f0323f5fd3f3203b442904d9ead9ba9d34ad348fe60ff"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "teams.wad",
+	"name": "Teams",
+	"description": "A Deathmatch only wad for Doom2. holes for each player to start in. Each person gets Large main arena, and 4 overlooking rooms that overlook one another, some teleporters, balanced weapon loadout at each start. Designed for 4 players 2 on 2, but is just fine in a free for all. A team must work together to get the plasma gun (ultimate dm weapon)",
+	"date": "2013-11-04 19:21:45",
+	"files": [
+		{
+			"filename": "teams.wad",
+			"size": 40388,
+			"crc": 2809142435,
+			"md5": "7804a1a799ef2414e95c31a33f8790e9",
+			"sha1": "c3b3d840890e9fd8c0bf7e99c2dc6505334092dd",
+			"sha256": "cf15f1e7a33f8d585dae73ef16eb1b88385cfc1e7a1b7ec2f07128e9e79329d6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "biotex.wad",
+	"name": "Biolage Tetxures",
+	"description": "I found some neat textures at www.freetextures.com so I thought I would build a texture wad and make a ZDoom level. This is the texture wad used in my level biolage.wad.",
+	"date": "2015-09-14 22:56:51",
+	"files": [
+		{
+			"filename": "biotex.wad",
+			"size": 857328,
+			"crc": 2890312644,
+			"md5": "28568911d1044dd13d6957b9cb6edbce",
+			"sha1": "90fa7832bd6dbf46a35cfa7481372773dd746d5b",
+			"sha256": "73640c205b65f9e825365ca91582c33cd344d6d225b897b72a8a2c375e761ca3"
+		}
+	]
+}

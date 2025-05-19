@@ -1,0 +1,16 @@
+{
+	"uid": "zuul.wad",
+	"name": "ZUUL",
+	"description": "A Doom 2 conversion of Abandoned Chapel, originally for Hexen.",
+	"date": "2014-12-29 15:29:18",
+	"files": [
+		{
+			"filename": "zuul.wad",
+			"size": 744861,
+			"crc": 779484389,
+			"md5": "fdbce1435cb06d7596f3750be076ef4f",
+			"sha1": "51c26020ef3e176ab24e1450600674f4735cb6ae",
+			"sha256": "9dac824dcb6e5e4fb3457bba5d2b47b373ea295567fd15a6c747b26a56c085a2"
+		}
+	]
+}

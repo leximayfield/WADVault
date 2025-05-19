@@ -1,0 +1,17 @@
+{
+	"uid": "pentgram (75008c).wad",
+	"name": "PENTAGRA.WAD",
+	"description": "There's nothing quite as evil as the sign of Satan itself... Well, maybe certain farts might be considered more evil....... If you haven't done so yet, go play HUNTER.WAD.",
+	"version": "75008c",
+	"date": "2014-01-07 22:05:47",
+	"files": [
+		{
+			"filename": "pentgram.wad",
+			"size": 107253,
+			"crc": 3670358351,
+			"md5": "88511490b9b1ff443e8060339e2733f0",
+			"sha1": "75008cc26dbd58bbacb7418e7ba77b8164370796",
+			"sha256": "a2b817ea69572f58c495de7edc48762dc78d1ecee519ec33492e731073d639c3"
+		}
+	]
+}

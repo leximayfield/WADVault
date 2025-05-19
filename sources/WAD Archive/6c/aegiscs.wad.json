@@ -1,0 +1,16 @@
+{
+	"uid": "aegiscs.wad",
+	"name": "Aegis Computer Station",
+	"description": "\"...Something strange occurs on that base. You need to find out, what. Be careful, marine, it can be dangerous.\" Tiny tech base full of monsters to kill. It's my first map.",
+	"date": "2015-09-15 19:19:18",
+	"files": [
+		{
+			"filename": "aegiscs.wad",
+			"size": 325356,
+			"crc": 52540080,
+			"md5": "81f6291aeed8b777e0a74f0722b23f69",
+			"sha1": "6cb02efa808ce302a0f20255f77775bc62ce8826",
+			"sha256": "58ae3e131e62c969cad1bc5142e44eec69c9e00e89f7d610a156942e427900f6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "LUNAAI.wad",
+	"name": "Luna AI",
+	"description": "Luna AI is a prequel to the events in Doom 2. The demons have corrupted the AI that controls the orbital defense weapons surrounding earth. You and your marine buddies head to the moon to shut the AI down, upon landing everything goes to hell. Its down to you to shut the AI down and pave the way for the liberation of Earth. Luna AI is a single vanilla compatible map with a few extra features, including a different use for the commander keens (blow them up), 2 new monsters and a finish that ends in a bang. A dehacked patch is included externally and as a lump. Make sure this is running before playing!",
+	"date": "2018-06-15 11:27:33",
+	"files": [
+		{
+			"filename": "LUNAAI.wad",
+			"size": 1257063,
+			"crc": 3816902214,
+			"md5": "c25dcb3a59b7ba3c324af2f48670e93f",
+			"sha1": "7625b201a4da809fd5dece08ed49667db691e7cf",
+			"sha256": "9eb8aa0b4361db1d99c1b5da705372b70599bff53f1923683caa5d0b62a5fff9"
+		}
+	]
+}

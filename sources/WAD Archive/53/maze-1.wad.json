@@ -1,0 +1,16 @@
+{
+	"uid": "maze-1.wad",
+	"name": "MAZE-1",
+	"description": "You are trapped (like a rat) in a maze. This maze is in three distinct sections, each with its' own look and its' own enemy. You must find the key needed to exit each section and move to the next and then find the key needed to exit this map. (difficult on HURT ME PLENTY, even more so on ULTRA VIOLENT, almost imposible on NIGHTMARE).",
+	"date": "2013-11-03 17:45:28",
+	"files": [
+		{
+			"filename": "maze-1.wad",
+			"size": 91166,
+			"crc": 155799110,
+			"md5": "dcdc225f9550ea28a441187bcf8d73fe",
+			"sha1": "53a1f69d59c7378baf356702f4d4fb125bcf2e3d",
+			"sha256": "4d58ba8917663fe8ea28ca14c663544f4bc5bab5e1af4b0c5583ec47fb71c298"
+		}
+	]
+}

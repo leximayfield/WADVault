@@ -1,0 +1,17 @@
+{
+	"uid": "hellhole (a6db16).wad",
+	"name": "HellHole",
+	"description": "See below",
+	"version": "a6db16",
+	"date": "2013-07-09 20:23:24",
+	"files": [
+		{
+			"filename": "hellhole.wad",
+			"size": 91523,
+			"crc": 3179976241,
+			"md5": "d6e661b88f8ba5033f3d730969b03543",
+			"sha1": "a6db169f447b36fed8f9689a3637becb181f5821",
+			"sha256": "320f7719b704e7f2ebb9fa4b07456f36e9598d3aa5c71b68bb125c012c216e07"
+		}
+	]
+}

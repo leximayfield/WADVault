@@ -1,0 +1,16 @@
+{
+	"uid": "flux.wad",
+	"name": "Energy Flux",
+	"description": "My map made for the contest on czech website https://www.high-voltage.cz/. We wanted to make a megawad based on the maps sent for this competition, but eventually there were only four. So we decided to let it be. But my map can be published anyway.",
+	"date": "2019-03-06 21:21:17",
+	"files": [
+		{
+			"filename": "flux.wad",
+			"size": 2280120,
+			"crc": 2379412466,
+			"md5": "f3039cf49ea4e827936b0c798a5315ec",
+			"sha1": "fe4f043ab4446bd4c042670ab253ae1dd9c81283",
+			"sha256": "8a9be459ecaa4ff39f33a0c92966b20c073d95446e0cf69c4f9d51392cf06aea"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dodge (a0a538).wad",
+	"name": "dodge and shoot",
+	"description": "simple, but effective deathmatch level",
+	"version": "a0a538",
+	"date": "2013-11-02 16:00:52",
+	"files": [
+		{
+			"filename": "dodge.wad",
+			"size": 23680,
+			"crc": 1911508160,
+			"md5": "cc56436c9b5e86b336d0bd8f768e8d0d",
+			"sha1": "a0a538d8a3e36dc2e5c0944e327e66b07a113caa",
+			"sha256": "1336318174f90e6003d33751ae328eaf5050ad1ca3d8c2d5553e08e706f42d5c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "voodoo.wad",
+	"name": "VOODOO",
+	"description": "I was messing around with different player starts",
+	"date": "2013-11-06 22:31:27",
+	"files": [
+		{
+			"filename": "voodoo.wad",
+			"size": 92823,
+			"crc": 2832447056,
+			"md5": "461176d75abca39b0a19817603d30339",
+			"sha1": "905bae00bd0f654648c3b8e6aeca1ff08af2c012",
+			"sha256": "9ed239a03837469fc1dc75daacb0e3d5f097dce739ce92ec2ed46449755812b2"
+		}
+	]
+}

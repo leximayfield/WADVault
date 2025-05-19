@@ -1,0 +1,17 @@
+{
+	"uid": "toughguy (ab1b50).wad",
+	"name": "toughguy.zip",
+	"description": "This level is my first, and as such was designed to demonstrate an idea I had to simulate 3D play by silencing the teleporter and making the destination look like the jump point. Once I demonstrated that it worked I made a hardcore shotem' up because my roomates complained that DOOM is too easy. The level lacks a \"motif\" and I was lazy with the textures but if you have time to notice you must be a DOOM GOD. An included file toughguy.bat replaces the nessesary sounds & graphics, plays the game (with added extensions) then restores on exit. To play unzip all files to your DOOM dir and type \"toughguy\". The bat file calls DMGRAPH & DMAUD so you'll need them too.",
+	"version": "ab1b50",
+	"date": "2013-11-04 20:08:35",
+	"files": [
+		{
+			"filename": "toughguy.wad",
+			"size": 46813,
+			"crc": 1853918809,
+			"md5": "0efea678a489f8186610bee61caedd90",
+			"sha1": "ab1b50a213e9b3738dc3e79f426c9b0dae81e101",
+			"sha256": "6d36054f4a054121b3de95d031176c806331fb27a48710cc0c6b6fa95bfc0b37"
+		}
+	]
+}

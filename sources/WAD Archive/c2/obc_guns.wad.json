@@ -1,0 +1,16 @@
+{
+	"uid": "obc_guns.wad",
+	"name": "Operation Body Count guns",
+	"description": "These are guns from wolf3d-engine game called Operation Body Count. ZDoom special effects, low-res sprites that are small in doom and custom gameplay balance make these guns feel very different from original game (which I have never played anyway :p, analysis based on YouTube videos).",
+	"date": "2014-12-11 22:25:59",
+	"files": [
+		{
+			"filename": "obc_guns.wad",
+			"size": 1108064,
+			"crc": 840890510,
+			"md5": "e449c8263613c43f51f9d2f9daa66204",
+			"sha1": "c29735f5287c39ca5dbdb2c37c128001b9e6727a",
+			"sha256": "b0d5db62ca052b7a4c2bedfca7fa0eaa5b934ada1e785dc4d4952a918963a1c0"
+		}
+	]
+}

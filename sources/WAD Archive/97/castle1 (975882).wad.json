@@ -1,0 +1,17 @@
+{
+	"uid": "castle1 (975882).wad",
+	"name": "CASTLE1.WAD",
+	"description": "Open Castle, with wall, moat, well, you'll see...",
+	"version": "975882",
+	"date": "2013-11-02 16:06:50",
+	"files": [
+		{
+			"filename": "castle1.wad",
+			"size": 215634,
+			"crc": 3039319297,
+			"md5": "6c62c105db203428ab179196d8d0e651",
+			"sha1": "975882b4c2089ef1f2b4ba4cd8b4a2d051a27f2e",
+			"sha256": "ff5b58b60f710d1cae9343d91dc5d7c4612fb76a4938481a8bea9b7dd73b8e38"
+		}
+	]
+}

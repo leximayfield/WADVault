@@ -1,0 +1,16 @@
+{
+	"uid": "dogtag2.wad",
+	"name": "DETHTAG: Revolutionary Team play for Doom ][",
+	"description": "Totally new team game that works within Doom ]['s current architecture. Deathtag requires that a team score 5 (score is tallied WITHIN the map), and once a team scores 5 points, you can exit or reset the level and start again.. perfect for matches of more than one game.",
+	"date": "2014-01-07 21:45:40",
+	"files": [
+		{
+			"filename": "dogtag2.wad",
+			"size": 144366,
+			"crc": 2983779018,
+			"md5": "ebb218db5041db7cc4a8b1ec33d9bd21",
+			"sha1": "e83be3c9f83f2161c081c9146967f0ce60dd32a4",
+			"sha256": "ca16ebe0ba9c8a28f890336e55dbc46c1468f9f27fadfa73556ca0affb4a9020"
+		}
+	]
+}

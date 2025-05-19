@@ -1,0 +1,17 @@
+{
+	"uid": "dethpond (c61d87).wad",
+	"name": "Pond of the Deathmatch Crater",
+	"description": "This outside arena is so complicated that I had to block some areas from visplane areas that happened in corners of the level. I mean \"complicated\" as in there are a lot of 2 sided linedef around. DEU's node builder could barely handle it. This level includes a giant pond with a \"storm drain\" room adjacent to it. It also has a drop hole with an invisibility sphere in of it, so you can drop down in surprise and shoot something.",
+	"version": "c61d87",
+	"date": "2014-01-11 11:14:29",
+	"files": [
+		{
+			"filename": "dethpond.wad",
+			"size": 176692,
+			"crc": 1780071434,
+			"md5": "d649322e5c23069c417a950f2624f327",
+			"sha1": "c61d8760af28bb143bed5ab39f3bf1e4bbd77517",
+			"sha256": "7f26919a5c3b44ddcac6e4c8c98daa1840c92ff7cf6d4e5692b2bbb9b35a1aeb"
+		}
+	]
+}

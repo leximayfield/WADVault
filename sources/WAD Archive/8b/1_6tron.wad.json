@@ -1,0 +1,16 @@
+{
+	"uid": "1_6tron.wad",
+	"name": "1_6TRON.WAD",
+	"description": "6 levels for DOOM2. Watch out for the sequel 7_12TRON.WAD which will be available soon!?",
+	"date": "2014-12-15 19:13:02",
+	"files": [
+		{
+			"filename": "1_6tron.wad",
+			"size": 1005222,
+			"crc": 1909751640,
+			"md5": "a90d0e5b8330c2d77ba55c8be4a1fd8f",
+			"sha1": "8b30b8b30aebd51ed07127ba1a54790b5fbf199e",
+			"sha256": "600a5cdd695bfb1bdb921550acdd984017f5325da55aabe3a7fdf1f09ac45536"
+		}
+	]
+}

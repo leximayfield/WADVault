@@ -1,0 +1,16 @@
+{
+	"uid": "doom1 (72caf5).wad",
+	"name": "Doom Shareware v1.25 (Sybex)",
+	"version": "72caf5",
+	"date": "2014-10-06 20:12:06",
+	"files": [
+		{
+			"filename": "doom1.wad",
+			"size": 4225460,
+			"crc": 576552881,
+			"md5": "17aebd6b5f2ed8ce07aa526a32af8d99",
+			"sha1": "72caf585f7ce56861d25f8580c1cc82bf50abd1b",
+			"sha256": "8d767a2718df922961d36ec4660f39789ec60c69ec87589b5e15a081e8625ee5"
+		}
+	]
+}

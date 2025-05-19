@@ -1,0 +1,16 @@
+{
+	"uid": "hadehria.wad",
+	"name": "\"Hadeharia\"",
+	"description": "My first public release map. Not the best, but still enjoyable.",
+	"date": "2014-12-18 23:08:30",
+	"files": [
+		{
+			"filename": "hadehria.wad",
+			"size": 24744,
+			"crc": 166519928,
+			"md5": "c1dec43dc55f09912b06b689e3bacdc9",
+			"sha1": "4b41a539ebe9aabb1efa94f88cca73e1d154105d",
+			"sha256": "f3da049e92cd0d270b04d892eaed42d0828052e7f1b2ee3d4600a67331fbd433"
+		}
+	]
+}

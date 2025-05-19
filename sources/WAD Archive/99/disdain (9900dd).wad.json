@@ -1,0 +1,17 @@
+{
+	"uid": "disdain (9900dd).wad",
+	"name": "Disdain.WAD",
+	"description": "There's not much of a story to this .WAD, I built it mostly for challenging architecture and just plain blood and carnage. ;) It (I think) would be fun for Deathmatch play, so let me know what you think.",
+	"version": "9900dd",
+	"date": "2013-11-02 15:37:41",
+	"files": [
+		{
+			"filename": "disdain.wad",
+			"size": 150312,
+			"crc": 3351986612,
+			"md5": "b9c5d177f5311f8e655bf1fed7d50520",
+			"sha1": "9900dd52a5a489c7f5569f452c45885533305220",
+			"sha256": "52e737ec198f4665232ff809995dbb466dfe9bf054db370ce8732afd98e38d4b"
+		}
+	]
+}

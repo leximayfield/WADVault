@@ -1,0 +1,17 @@
+{
+	"uid": "kssht (f80a77).wad",
+	"name": "Khorus' Speedy Shit",
+	"description": "A vanilla megawad for Doom 2 containing 32 short, chaotic and challenging maps. The wad's premise was to create at least one speedmap a day. There was no set time limit, times ranged from 1.5 to 3.5 hours. Don't let the word \"speedmap\" scare you off though! In the author's opinion, this wad contains many of his best maps to date.",
+	"version": "f80a77",
+	"date": "2013-04-19 02:27:22",
+	"files": [
+		{
+			"filename": "kssht.wad",
+			"size": 3377407,
+			"crc": 226865231,
+			"md5": "386ca3627ae68c8b556c14a2813fffaf",
+			"sha1": "f80a776da6570749b67e9a7c6f40e94d669e0c04",
+			"sha256": "f160f42934b3f2033297ec5bbfc8ebc6fccdfec9c7212219c4beb9368b79d8ab"
+		}
+	]
+}

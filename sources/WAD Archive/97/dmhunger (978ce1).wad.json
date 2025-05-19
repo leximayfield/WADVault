@@ -1,0 +1,17 @@
+{
+	"uid": "dmhunger (978ce1).wad",
+	"name": "DMHUNGER.WAD",
+	"description": "There's no real theme to this WAD file. It's just a good ole fashioned shoot-em up. I hope you've practiced killing the Barons of Hell with the chain gun because you'll have to do that in one spot. Lots of guys to shoot and lots of places to see.",
+	"version": "978ce1",
+	"date": "2013-11-02 15:21:49",
+	"files": [
+		{
+			"filename": "dmhunger.wad",
+			"size": 170086,
+			"crc": 3944094818,
+			"md5": "379ef27142808ca5f701e97ac44c1b36",
+			"sha1": "978ce104102ed1af5a64f8f376429dedf332b684",
+			"sha256": "7686d7abb64f916b277308848b418a6c4b320d929679adca88fbfa653c20a4cc"
+		}
+	]
+}

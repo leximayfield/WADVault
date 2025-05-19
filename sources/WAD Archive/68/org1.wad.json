@@ -1,0 +1,15 @@
+{
+	"uid": "org1.wad",
+	"description": "A great deathmatch level, designed around 4 players.",
+	"date": "2015-09-14 22:39:39",
+	"files": [
+		{
+			"filename": "org1.wad",
+			"size": 22170,
+			"crc": 2539151982,
+			"md5": "28d732c72fd170b40ba488532fe41bd3",
+			"sha1": "68965a81bc9a085c3a14806d4f4b6f7124117b1d",
+			"sha256": "a8413f214b512d8cb14ae23ed23b846b52254b135da85e985aac96d4b28b17ed"
+		}
+	]
+}

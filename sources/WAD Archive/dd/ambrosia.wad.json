@@ -1,0 +1,16 @@
+{
+	"uid": "ambrosia.wad",
+	"name": "AMBROSIA.WAD  <pwad>",
+	"description": "Preview of first 6 levels of AMBROSIA",
+	"date": "2014-01-04 11:55:35",
+	"files": [
+		{
+			"filename": "ambrosia.wad",
+			"size": 404264,
+			"crc": 1408592183,
+			"md5": "653a3724ccb7314d971b95c8318f4d51",
+			"sha1": "dd13697559dd745961d4d60b71d70a88e096d80e",
+			"sha256": "a30e0c7a7fe51d1491e2069d63dbd912ce60dbd5a03c8d2c6c7cd0768f11c99f"
+		}
+	]
+}

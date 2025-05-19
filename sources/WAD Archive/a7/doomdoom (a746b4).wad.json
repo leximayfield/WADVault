@@ -1,0 +1,17 @@
+{
+	"uid": "doomdoom (a746b4).wad",
+	"name": "DOOM=DOOM",
+	"description": "I wasn't sure how to achieve good gameplay in an open city, so I just put a roaming cyberdemon and a Peter Gabriel song in there. The cyber wants to be your sledgehammer but perhaps you have other plans?",
+	"version": "a746b4",
+	"date": "2017-11-27 12:32:04",
+	"files": [
+		{
+			"filename": "doomdoom.wad",
+			"size": 1256490,
+			"crc": 2118142194,
+			"md5": "35fed1967a77a8cfb3893444e9a329ca",
+			"sha1": "a746b4a3176d0e66124d1b14f53f09a48afd20e4",
+			"sha256": "014c169640d8fe6b58c98d7e7496fb520440087e228916812ae5050d3ffd304e"
+		}
+	]
+}

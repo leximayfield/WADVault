@@ -1,0 +1,16 @@
+{
+	"uid": "basedm4.wad",
+	"name": "Base DM #4",
+	"description": "Base style deathmatch level. Small/medium size. This WAD won't work properly without BooM or some other port that supports all BooM effects that I used. All that the level really tries to be is a base-style deathmatch area. All skill levels have been included. They follow TeamTNT's good deathmatch rules. Drop through the floor in upper floor to fall to lower floor!",
+	"date": "2013-07-26 07:49:22",
+	"files": [
+		{
+			"filename": "basedm4.wad",
+			"size": 433251,
+			"crc": 3350759642,
+			"md5": "ac251ca5978999a993f3cac024ed62f9",
+			"sha1": "8b84806be266a5f2c5888d38d92babf2b9760aba",
+			"sha256": "00ef3c230af29ad155786707d274fd5db509621396a16d53aab3118fce404d65"
+		}
+	]
+}

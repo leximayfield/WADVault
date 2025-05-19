@@ -1,0 +1,16 @@
+{
+	"uid": "el_old.wad",
+	"name": "Elegy",
+	"description": "An old version of Elegy",
+	"date": "2018-05-28 23:37:52",
+	"files": [
+		{
+			"filename": "el_old.wad",
+			"size": 288376,
+			"crc": 199028345,
+			"md5": "19214640f975892781ae7f1ecf604f03",
+			"sha1": "26105de3252c73a2cc8b46316841384e202c4f37",
+			"sha256": "ecb55842e4392ec8a2813d3687635b58480a28919bff38122febc44ff339a233"
+		}
+	]
+}

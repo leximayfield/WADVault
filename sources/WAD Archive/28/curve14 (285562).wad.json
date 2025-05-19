@@ -1,0 +1,17 @@
+{
+	"uid": "curve14 (285562).wad",
+	"name": "CURVE14.WAD",
+	"description": "You are set down in a twisting hallway with monsters around every corner. You're only hope is the weapons you get and finding the door.",
+	"version": "285562",
+	"date": "2016-02-07 20:30:40",
+	"files": [
+		{
+			"filename": "curve14.wad",
+			"size": 92360,
+			"crc": 2821156317,
+			"md5": "5e61a29f6129edffc6602901319db9de",
+			"sha1": "2855620a2c74880bb003277efa9ba677bbd49b54",
+			"sha256": "9628f70058b2e6184e9f497d0507e6f6220336f095759650238d2250ee6de3e2"
+		}
+	]
+}

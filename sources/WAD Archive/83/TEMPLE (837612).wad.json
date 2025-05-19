@@ -1,0 +1,17 @@
+{
+	"uid": "TEMPLE (837612).wad",
+	"name": "Temple of Killtradan",
+	"description": "You are entering the big temple of DOOM. I have build a big temple room, and... other rooms to buils a DOOm level. I've tested it in 'Heart Me Plenty' diff. setting, but I know where are the monsters... so it's difficult to see if the difficulty levels are correctly set. If not, I think the y are more difficult than the ID ones. I can't play via net, so I can't make a multi-player game. I have just put 4 deathmatch starts and 4 players starts, but I can't say if TEMPLE.WAD is a good multi-player level. I hope someone will try and tell me what to do to change it in a GREAT net game.",
+	"version": "837612",
+	"date": "2013-11-02 16:37:24",
+	"files": [
+		{
+			"filename": "TEMPLE.wad",
+			"size": 192843,
+			"crc": 661425738,
+			"md5": "386c0e614913d5acb4a7cdd946827833",
+			"sha1": "837612ab8b2d6bf5b2d8f50b5e6c3924b4ff82ba",
+			"sha256": "7cba22774d4bb034522050b4c94e67c22efec9b6a3d445ddff919f55b054eddf"
+		}
+	]
+}

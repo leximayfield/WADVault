@@ -1,0 +1,16 @@
+{
+	"uid": "winwin.wad",
+	"name": "Window over window special effect",
+	"description": "It's a window...you just stand there and look at it.",
+	"date": "2015-09-15 17:58:50",
+	"files": [
+		{
+			"filename": "winwin.wad",
+			"size": 10464,
+			"crc": 1003952696,
+			"md5": "4b6ec65e6e32d939b21fc01b2352ceaf",
+			"sha1": "809a1fa507163c380f572f869e434c655a3a5195",
+			"sha256": "5bb9147b44fde3b3e5c9788108d96ae74069f653bff93cdb77bb5d9e0caaadee"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "breakin (090309).wad",
+	"name": "Break-In",
+	"description": "You are breaking into a secret base",
+	"version": "090309",
+	"date": "2014-12-15 21:47:38",
+	"files": [
+		{
+			"filename": "breakin.wad",
+			"size": 94855,
+			"crc": 2738103026,
+			"md5": "22cce5d67bf48729736c5e923ffee2e0",
+			"sha1": "09030916393a1f299dcc9d55994f8ac92f0e70e6",
+			"sha256": "0bba058118e2c6a06444da1607f0f6f334968452a83589cac5b2d4d39798eb9b"
+		}
+	]
+}

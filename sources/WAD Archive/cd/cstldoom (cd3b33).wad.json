@@ -1,0 +1,17 @@
+{
+	"uid": "cstldoom (cd3b33).wad",
+	"name": "Castle of Doom",
+	"description": "I realized that there aren't many wads for hexen, So I decided to make this absolute masterpiece for you all to enjoy.",
+	"version": "cd3b33",
+	"date": "2018-05-02 20:13:17",
+	"files": [
+		{
+			"filename": "cstldoom.wad",
+			"size": 441839,
+			"crc": 3253533116,
+			"md5": "4e90ef1b0c1cb6ef9e9bed6ddcdaa7bd",
+			"sha1": "cd3b339c06db2477d18a5e104ad5b8ddeee0c0b7",
+			"sha256": "a5efa070e60ecc319dcce1c2301352d84c080a168dfa72a8589ec439839b3569"
+		}
+	]
+}

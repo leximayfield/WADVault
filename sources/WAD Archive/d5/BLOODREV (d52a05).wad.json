@@ -1,0 +1,17 @@
+{
+	"uid": "BLOODREV (d52a05).wad",
+	"name": "Blood's Revenge",
+	"description": "A normal wad with 2 levels, with no dumb plot.",
+	"version": "d52a05",
+	"date": "2013-11-04 20:12:28",
+	"files": [
+		{
+			"filename": "BLOODREV.wad",
+			"size": 106783,
+			"crc": 3967583274,
+			"md5": "82e7b5548cd9a8c757dc0fe7b39a4109",
+			"sha1": "d52a05932099721a856146ac5b7b01280351ddac",
+			"sha256": "76f4c729433d49963756d1b550e8ee588a8be06bd2d6a3771a5a6b05e7d51c92"
+		}
+	]
+}

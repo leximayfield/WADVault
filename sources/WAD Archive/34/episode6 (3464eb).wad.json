@@ -1,0 +1,17 @@
+{
+	"uid": "episode6 (3464eb).wad",
+	"name": "New Episode 6 - ZDaemon compatible version",
+	"description": "In previous episode, you defeated Joker in his stronghold on Mars called Cruel. He was planning an invasion to earth. You got trapped in Cruel. Your main goal now is to find a way to escape. After 3 days of wandering, you receive radio transmission from Earth: \"Unknown spaceship fleet is going to attack here! Already they have subverted our defenses with their energy beams! We can't do anything but watch helpless...\". Your Anomaly-Detector located a teleport device in nearby town that could possibly transfer you on board one of the attacker ships. Infiltrate their ship and find a way to switch on the self-destruct sequence to put an end to this invasion once and for all!",
+	"version": "3464eb",
+	"date": "2014-12-22 18:56:48",
+	"files": [
+		{
+			"filename": "episode6.wad",
+			"size": 4102560,
+			"crc": 473840022,
+			"md5": "6ea62e3e41f1d33692e02b54e8016567",
+			"sha1": "3464eb984e4d84719a61dfaa435a7c11678af8ff",
+			"sha256": "457bf07551559d053ff0226e164413d63000e55a964564f4e7871ed7fdf5ab2a"
+		}
+	]
+}

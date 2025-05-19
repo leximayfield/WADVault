@@ -1,0 +1,16 @@
+{
+	"uid": "eraspeed.wad",
+	"name": "Eratspeed",
+	"description": "A set of 6 speedmaps for DM using the Erratic Texture Pack.",
+	"date": "2014-12-15 22:55:31",
+	"files": [
+		{
+			"filename": "eraspeed.wad",
+			"size": 2147294,
+			"crc": 1820427135,
+			"md5": "bf25085594d9494026f599d7020a8565",
+			"sha1": "5b092bc7b0738731fe9aae5125f59f06427846b5",
+			"sha256": "c0be2ab23580ca5a134f68f4c8c64eb4ee56e0752ea4b2404d962f304d962bbc"
+		}
+	]
+}

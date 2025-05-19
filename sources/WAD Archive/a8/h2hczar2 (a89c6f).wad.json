@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczar2 (a89c6f).wad",
+	"name": "H2H CZECH ARENA 2 (H2HCZAR2.WAD) DOOM II version",
+	"description": "This is another arena-type deathmatch pwad that I made for the H2H DOOM BBS in San Diego (619-426-0073). Arenas are made for altdeath and should be small enough for two players. I did my best to offer some enjoyment also for those who can play just solo. Small hint: be very carefull where you run, expect heavy monsters and conserve ammo.",
+	"version": "a89c6f",
+	"date": "2014-01-07 22:00:56",
+	"files": [
+		{
+			"filename": "h2hczar2.wad",
+			"size": 79322,
+			"crc": 3972990677,
+			"md5": "98619133b8604fe8ab4d5f5868ab5d1b",
+			"sha1": "a89c6fcf608c7bd1b703451f3e3211db4736206d",
+			"sha256": "a5cf5d8efa752d6d8fd7e438ebad3b689926959525718d3e4fddb501d5fb067f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "yrstick.wad",
+	"name": "Your Stick",
+	"description": "A void type level, fighting on multi level platforms",
+	"date": "2014-12-15 21:39:22",
+	"files": [
+		{
+			"filename": "yrstick.wad",
+			"size": 595169,
+			"crc": 1596978757,
+			"md5": "d0ff041d28eb15f4bcc0650ef00c5b29",
+			"sha1": "bb5697dd5e58f4ddc6eeb5787fd18cd912904c24",
+			"sha256": "b178d999073fe2e200e3e45c61c0a9e520b998adbefa9309a408dbf0819a1f15"
+		}
+	]
+}

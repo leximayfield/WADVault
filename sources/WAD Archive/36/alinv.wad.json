@@ -1,0 +1,16 @@
+{
+	"uid": "alinv.wad",
+	"name": "Alpha Invasion",
+	"description": "Pack of 11 Invasion maps for SkullTag made by several people. It uses supergod-ammo dehacked patch.",
+	"date": "2013-04-19 04:26:06",
+	"files": [
+		{
+			"filename": "alinv.wad",
+			"size": 4984685,
+			"crc": 3992922126,
+			"md5": "4f3b837a0356825c4ff1617de478ddaa",
+			"sha1": "364799057e02f7a227b28980467254c37be299c6",
+			"sha256": "0f16f5fed51f9ec9bd2eb0d54d177f0dda44e15335137106164338b6788096e3"
+		}
+	]
+}

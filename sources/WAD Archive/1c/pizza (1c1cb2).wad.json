@@ -1,0 +1,17 @@
+{
+	"uid": "pizza (1c1cb2).wad",
+	"name": "Death to Venus",
+	"description": "A nice little DeathMatch only WAD. It requires movement and minimizes luck. There is a building in the middle of the wad which is similar to a local pizza place which is where the name comes from.",
+	"version": "1c1cb2",
+	"date": "2013-11-02 16:08:02",
+	"files": [
+		{
+			"filename": "pizza.wad",
+			"size": 76416,
+			"crc": 3716348581,
+			"md5": "483ed19cf8928a0f9a4226638e7e1237",
+			"sha1": "1c1cb215a80de02e1fbf0a862f18c4f33ae2d6ef",
+			"sha256": "ff6ced01ea915a1a2fa4bc29c57cd8c303bcf8fbb98750ea2085fb7fd4079242"
+		}
+	]
+}

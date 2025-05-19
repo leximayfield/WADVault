@@ -1,0 +1,16 @@
+{
+	"uid": "CRATEWAR.wad",
+	"name": "Crate Warz",
+	"description": "A level for Doom 2 that is just the right size for a deathmatch. It takes place in a warehouse where you jump from crate to crate to get to sniper spots and weapons.",
+	"date": "2014-08-30 14:34:56",
+	"files": [
+		{
+			"filename": "CRATEWAR.wad",
+			"size": 22601,
+			"crc": 3947825750,
+			"md5": "b401df4e2e058ac7dc744fec4264fd4a",
+			"sha1": "c32459e5b72012684e92103d102982eca727571d",
+			"sha256": "8d636c80470d7860fc12e8dd4959845b19f1e552a2b4dfa124971921d7888cb2"
+		}
+	]
+}

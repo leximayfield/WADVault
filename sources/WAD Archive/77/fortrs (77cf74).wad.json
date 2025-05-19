@@ -1,0 +1,17 @@
+{
+	"uid": "fortrs (77cf74).wad",
+	"name": "The Fortress",
+	"description": "An evil haven battle fortress, chock full of things to kill and places to see. Enjoy the atmosphere, I do.",
+	"version": "77cf74",
+	"date": "2013-07-09 20:21:06",
+	"files": [
+		{
+			"filename": "fortrs.wad",
+			"size": 171891,
+			"crc": 3118625557,
+			"md5": "d8710c9e73a2886c67dc404711b1d97a",
+			"sha1": "77cf74c953de3ff8f0fd5e93b2e75f8608bf0d23",
+			"sha256": "a7ae9c24f2e51b41e2c6fd3e0940cedac5762ca5e624934b84e12437bf5546cb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "earthwad (c20497).wad",
+	"name": "DMEARTH",
+	"description": "It's earth, it's home, and it sucks. You expected a welcome party hosted by friends and family, but looks like the Hellspawn are hosting this one, and it ain't a welcome party, it's a sweet goodbye.",
+	"version": "c20497",
+	"date": "2013-11-02 15:48:53",
+	"files": [
+		{
+			"filename": "earthwad.wad",
+			"size": 125237,
+			"crc": 1561084796,
+			"md5": "61e09f62b62951733f2a82dead18cf08",
+			"sha1": "c20497b97574dcff23da7b9bef0096256a873594",
+			"sha256": "314192c9970ca4e5a51d3991322e83c6962f803c5ebec84447ee7c09412b40de"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "kingmoun (440cde).wad",
+	"name": "KingMoun.WAD",
+	"description": "DeathMatch 2.0 wad for Doom ][",
+	"version": "440cde",
+	"date": "2013-11-02 16:08:19",
+	"files": [
+		{
+			"filename": "kingmoun.wad",
+			"size": 33427,
+			"crc": 2891200740,
+			"md5": "ea22051c0c93ba711aa78b0925328125",
+			"sha1": "440cdebfa741360c193c51fd2679310cf6c7785c",
+			"sha256": "8a49ec859bc871f035ef0cfccc1f92982612a15e9b96dd7b1bc60a1182004856"
+		}
+	]
+}

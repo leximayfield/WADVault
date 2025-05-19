@@ -1,0 +1,17 @@
+{
+	"uid": "wack (0d2f9e).wad",
+	"name": "Wack",
+	"description": "Lots of monsters, a fair number of puzzles. Highly non-linear - there are multiple solutions to nearly all the puzzles. You may need a 486/66 or better for this one (or low detail, or reduced screen size...).",
+	"version": "0d2f9e",
+	"date": "2014-01-04 11:56:02",
+	"files": [
+		{
+			"filename": "wack.wad",
+			"size": 236924,
+			"crc": 3627293359,
+			"md5": "ae112f60e99c64eaad4cb088de283966",
+			"sha1": "0d2f9ebebfa8259145db6da95cf2b3adffcbc1fa",
+			"sha256": "1c6082f88080ad2a570d2b3ef9b742c73e54a43f4ef578bdef61b6646fa8e99b"
+		}
+	]
+}

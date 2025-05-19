@@ -1,0 +1,16 @@
+{
+	"uid": "caina.wad",
+	"name": "Circle of Caina",
+	"description": "This is an icy deathmatch map I made where I tried to blend all of the good parts of regular Map02, Map03, and Map11, and end up with something the flowed better than any of the three. I think I succeeded pretty well in doing that. In 1-on-1 this map is a power struggle over the main circle. The frag rate keeps pretty decent even though there are a lot of seek and destroy frags. With 3 or more players however, it doubles as a great FFA arena. There are tons of crazy jumps as well. Keep in mind, this map is inspired by Map02, Map03, and Map11, so if you don't like to play any of those maps in DM, then this might not be for you. Oh, and yes you CAN get the BFG without cheating. Just run very fast. :)",
+	"date": "2014-12-15 22:36:40",
+	"files": [
+		{
+			"filename": "caina.wad",
+			"size": 529574,
+			"crc": 4020244146,
+			"md5": "56f778689a5b572f9b6df35b14237348",
+			"sha1": "237e238074a1148fe19a6ef3aa732bc3e31edd44",
+			"sha256": "dda461b75ca259d90b1efdf0462f435a1af8438e7dc9382968c699eedaf1cdf1"
+		}
+	]
+}

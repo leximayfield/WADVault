@@ -1,0 +1,16 @@
+{
+	"uid": "plasmaplant.wad",
+	"name": "Plasmaplant",
+	"description": "Plasmaplant was originally a \"plasma and pistol only\" idea for my now venerable Cabal series, and so the map is based off an almost 20 years old paper sketch. I changed the layout and style but kept the central gameplay ideas.",
+	"date": "2015-09-14 23:28:32",
+	"files": [
+		{
+			"filename": "plasmaplant.wad",
+			"size": 6348044,
+			"crc": 2638712760,
+			"md5": "cf3d716f98c84c011fc4e8cdfe54d83a",
+			"sha1": "15a14077c85e6f4e014290b2dd1edb5b76fc3057",
+			"sha256": "7d016ebafb8dd911e402329e2efd417926b58a3dc6548c0b094517fb48ab54a5"
+		}
+	]
+}

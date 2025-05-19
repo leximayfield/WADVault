@@ -1,0 +1,17 @@
+{
+	"uid": "slime (a01a5b).wad",
+	"name": "Green Tech",
+	"description": "This is a simple old school Ultimate Doom map.",
+	"version": "a01a5b",
+	"date": "2019-04-09 21:57:38",
+	"files": [
+		{
+			"filename": "slime.wad",
+			"size": 106523,
+			"crc": 3075702593,
+			"md5": "e01ca942b10cdd0f275270663a46650c",
+			"sha1": "a01a5bfba6aa26c351d7f959075230579171ef4e",
+			"sha256": "1302f04dc6cee8b86a2032b3c1575b4efe2fdaeadfd4846a6f3e34fdb6467188"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "barrofun.wad",
+	"name": "Barrels o'Fun",
+	"description": "The idea came up, when I thought about a new map for Nutty - a map, where players look like barrels. It must be interesting and funny, if players in deathmatch could pretend not to be a player but part of the decoration. However, Doom doesn't allow sprite replacements for one map only, so I couldn't realise this idea in Nutty. On the other hand, I didn't feel like making a whole wad with several maps around one single gameplay idea. So, I decided to ask the community for help. In the end, seven mappers have contributed 10 maps in total. Thanks for their participation and good work!",
+	"date": "2013-04-18 23:25:41",
+	"files": [
+		{
+			"filename": "barrofun.wad",
+			"size": 1971708,
+			"crc": 2379147039,
+			"md5": "ca04ad8b0c6a20460677e654cc8a4d5e",
+			"sha1": "4872bcefb93614ea060c1d140c3730ef23dcb0a4",
+			"sha256": "9389a38e67f8fd7d4f18118d8e4b2bbefd5bf180429046694bac955c4fa215f6"
+		}
+	]
+}

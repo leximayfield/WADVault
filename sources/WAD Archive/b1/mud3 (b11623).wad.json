@@ -1,0 +1,17 @@
+{
+	"uid": "mud3 (b11623).wad",
+	"name": "BATTLESTATION 1",
+	"description": "Modified specifically for the co-op game!",
+	"version": "b11623",
+	"date": "2014-01-07 22:05:01",
+	"files": [
+		{
+			"filename": "mud3.wad",
+			"size": 2470626,
+			"crc": 3094512462,
+			"md5": "8e3832d9db17718dc358fb4f8e308da7",
+			"sha1": "b11623612584842ad15542c8bb20e61bfb5cfab0",
+			"sha256": "f70fa592298f2cd00d487df4b579d61ad890d663dd7528f1692bd965446b0353"
+		}
+	]
+}

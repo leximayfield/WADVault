@@ -1,0 +1,16 @@
+{
+	"uid": "scubaadv.wad",
+	"name": "Scuba Steve's Epic Adventure",
+	"description": "One fine day Scuba Steve decided to go out and have an adventure. This is what happened.",
+	"date": "2014-12-29 15:33:27",
+	"files": [
+		{
+			"filename": "scubaadv.wad",
+			"size": 2153608,
+			"crc": 3974806204,
+			"md5": "fe3dfb92809443b02acf559d91f6c340",
+			"sha1": "a662a00b166145076ad3e13786c58a7c67d9c0d0",
+			"sha256": "5b46949272564fb169c30a96fbc87129ca85848b5e01c41788098e659d886a04"
+		}
+	]
+}

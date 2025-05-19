@@ -1,0 +1,16 @@
+{
+	"uid": "rustik.wad",
+	"name": "Rustik",
+	"description": "A simple level for Doom 2 with rustic walls textures.",
+	"date": "2015-01-14 14:27:56",
+	"files": [
+		{
+			"filename": "rustik.wad",
+			"size": 224836,
+			"crc": 1406714331,
+			"md5": "f3e585b00e88b150d947c62e16be0079",
+			"sha1": "cf357fcb50386258a8fe0cf1ff259bf401bad1d5",
+			"sha256": "39857061927d9c90868325fa156cbf606ea9056e1447f8205c559a5306fab1f5"
+		}
+	]
+}

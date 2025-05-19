@@ -1,0 +1,17 @@
+{
+	"uid": "area8 (4f9450).wad",
+	"name": "AREA8.WAD",
+	"description": "Cool deathmatch level in an arena with 2 main areas in the middle and walkways going round the outsides. Best deathmatch level ever!",
+	"version": "4f9450",
+	"date": "2016-02-07 20:28:47",
+	"files": [
+		{
+			"filename": "area8.wad",
+			"size": 70448,
+			"crc": 981226208,
+			"md5": "27dcb02570307032a0e8ed4e6bfb4d9d",
+			"sha1": "4f94505fd2e58aa9a184503e7c5d34baad2022c2",
+			"sha256": "6f6e95d8f0aa5bdeebe22896d44c67eca828882b126966a0335531c16e370017"
+		}
+	]
+}

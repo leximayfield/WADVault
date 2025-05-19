@@ -1,0 +1,16 @@
+{
+	"uid": "hf2.wad",
+	"name": "Hellfire 2",
+	"description": "This megawad represents the collection of the maps, created at various times, and united by one common theme - the ideas put in my first wad, Hellfire. Map 01 represents remake of map 01 from Hellfire, however the gameplay was essentially remade: there are few surprises waiting for you. Map 02 - 04 are created from scratch, and are exploring the \"city\" theme, map 05 is Hellfire`s map 21 remake, with essential re-worked of some locations. I also wished to pass some atmosphere from Doom's e3m1 on this map. Map 06 is created from scratch, and represents new variation of the infernal river Styx. At its creation, I've tried also to reproduce Doom's atmosphere from e3m2, but at the same time - using monsters from Doom 2. And at last, map 07 is a re-creation of map 03 from Cheogsh 2, as far as limit-removing format allows to do it. I hope that those players, who couldn't estimate for some reasons this map in GZDoom, can enjoy it in PrBoom-plus.",
+	"date": "2014-12-24 17:36:07",
+	"files": [
+		{
+			"filename": "hf2.wad",
+			"size": 10926375,
+			"crc": 3505617905,
+			"md5": "f59b1d16199113d2e52fd0758e8be2bd",
+			"sha1": "8845677a10613b9dd2a0ff6ebf04d6178bf1ea3e",
+			"sha256": "187bf5e85c6de90a07d433a673d51b3fbc6b1db0ada3477fc28ef897b76921c6"
+		}
+	]
+}

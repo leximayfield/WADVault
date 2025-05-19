@@ -1,0 +1,17 @@
+{
+	"uid": "dethdoor (05a9d1).wad",
+	"name": "Death's Door",
+	"description": "Small and AWESOME DEATHMATCH LEVEL, interconnecting hallways, lots of doors, nooks in side for weapons",
+	"version": "05a9d1",
+	"date": "2016-02-07 20:30:26",
+	"files": [
+		{
+			"filename": "dethdoor.wad",
+			"size": 8354,
+			"crc": 1843133932,
+			"md5": "241ed8a642bd1323b409e18fa7c9d328",
+			"sha1": "05a9d1a76e86965041f6544528545309527ce831",
+			"sha256": "46a1fed1b64abc3ab3bd6edba342f73ce2f5f26cb32f4f76f1002bd90813877d"
+		}
+	]
+}

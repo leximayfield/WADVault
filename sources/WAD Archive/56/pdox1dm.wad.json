@@ -1,0 +1,16 @@
+{
+	"uid": "pdox1dm.wad",
+	"name": "Paradox Level 1 DeathMatch Section",
+	"description": "I was finishing the single player section of the first level of Paradox, wondering what I should do for the DM section, when I suddenly realised that, with a few modifications, the single player section would make an excellent DM level. So here it is.",
+	"date": "2014-12-15 22:24:35",
+	"files": [
+		{
+			"filename": "pdox1dm.wad",
+			"size": 474384,
+			"crc": 1166632646,
+			"md5": "38f591d0c505ce368a9b80e43bfa50bf",
+			"sha1": "562aab3d611de5ed66efb6efce5553804792c972",
+			"sha256": "dd6e56ae13af870071bcd5865531faac4a250dd504790984439494416c9c1295"
+		}
+	]
+}

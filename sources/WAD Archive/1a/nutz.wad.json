@@ -1,0 +1,16 @@
+{
+	"uid": "nutz.wad",
+	"name": "Nutz - The artifical way to play",
+	"description": "Medium to small arena for nice 2 player deathmatch.",
+	"date": "2014-12-15 22:16:08",
+	"files": [
+		{
+			"filename": "nutz.wad",
+			"size": 26520,
+			"crc": 2793763465,
+			"md5": "1a25618c6a89b3edac0dbfdc9481b474",
+			"sha1": "1aa754582b95e2fef43c468eda8223d10c112db5",
+			"sha256": "35151fc4cc2156e9b081b070f225b89212f4abdc3deed612b564be5d7cdd1a97"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "aw.wad",
+	"name": "A.W",
+	"description": "First attempt at a Doom Wad.",
+	"date": "2018-04-14 22:18:25",
+	"files": [
+		{
+			"filename": "aw.wad",
+			"size": 508453,
+			"crc": 336035852,
+			"md5": "139b70ea0daa53f6cb301825568afb92",
+			"sha1": "320e8736535a501390c00577e1dd9692cb248cd6",
+			"sha256": "d346fb455ad11997f1ac01e2490cf4ee71de59b307629ddca7cc4c384a1e9df4"
+		}
+	]
+}

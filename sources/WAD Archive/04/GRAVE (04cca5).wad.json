@@ -1,0 +1,17 @@
+{
+	"uid": "GRAVE (04cca5).wad",
+	"name": "GRAVE",
+	"description": "This is probably not very good for deathmatch because of it's size, but I haven't tried it yet so who knows.",
+	"version": "04cca5",
+	"date": "2014-02-15 16:55:19",
+	"files": [
+		{
+			"filename": "GRAVE.wad",
+			"size": 101976,
+			"crc": 561209940,
+			"md5": "97305e66a2759536119cda6b0a0392ce",
+			"sha1": "04cca5fa535c763d4dba87b0205e23a8f3086927",
+			"sha256": "5b8d291c864f31b0c40590a681cd92b8a5ce4213ae65b56936c0da879feac6c9"
+		}
+	]
+}

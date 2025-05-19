@@ -1,0 +1,16 @@
+{
+	"uid": "kairezh.wad",
+	"name": "KaiRezh",
+	"description": "A first attempt to try out building a short 3 level wad. There is many custom enemies, as well as weapons. This is a good for someone who is an average player, not too hard to too easy. I spent a good chunk researching how to make enemies, and it turned out fine. Your goal is to sort hell out of town, simple right? not so much, there is a monstrous Dragon waiting for you.",
+	"date": "2015-09-15 13:42:56",
+	"files": [
+		{
+			"filename": "kairezh.wad",
+			"size": 9913273,
+			"crc": 1716307186,
+			"md5": "0924b26c0c4084be77653e3a9b096778",
+			"sha1": "59bf90ccc22de0e96d76247c0b35f044090b48b2",
+			"sha256": "7fb3d15400874fbdfc08ee591c5564c1825264f07c0b9485705264caf8682930"
+		}
+	]
+}

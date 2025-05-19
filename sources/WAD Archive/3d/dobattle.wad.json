@@ -1,0 +1,16 @@
+{
+	"uid": "dobattle.wad",
+	"name": "Do Battle! - Version 1.0",
+	"description": "3 levels of manic/tricky/novel Doom II action, with NO new graphics, sound or music. Just a bizzare twist on the game.",
+	"date": "2014-12-18 22:23:02",
+	"files": [
+		{
+			"filename": "dobattle.wad",
+			"size": 202384,
+			"crc": 1999344741,
+			"md5": "770c9a6db986dc3afe4a996d20f6baa3",
+			"sha1": "3debf1d9f8a1e850ecd16558b9fef82c7bf081d4",
+			"sha256": "0159a0ddc61a173258cc24bdb7ea793b47f2c02197f71a1ea59a883c777201be"
+		}
+	]
+}

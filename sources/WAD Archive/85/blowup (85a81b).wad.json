@@ -1,0 +1,17 @@
+{
+	"uid": "blowup (85a81b).wad",
+	"name": "Blowup",
+	"description": "tech, industrial, metal, brick - sort of mixed theme; it is a big map, so you should save from time to time; some places are dark with zdoom, brighter with prboom; five/six monsters are in a secret room;",
+	"version": "85a81b",
+	"date": "2014-12-21 16:43:54",
+	"files": [
+		{
+			"filename": "blowup.wad",
+			"size": 6974794,
+			"crc": 3867498395,
+			"md5": "a63c1c371ff147e5bffc78e360b76b6a",
+			"sha1": "85a81bd41331581ccc3da2ab7e068386060ece98",
+			"sha256": "ce4a879987be14ebd4f4fec88d9e8cebcbcde99c57f68d81b90184f4f6cbcf1c"
+		}
+	]
+}

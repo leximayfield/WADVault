@@ -1,0 +1,17 @@
+{
+	"uid": "DANZHALL (e4f0bc).wad",
+	"name": "DanzHall -- Heaven for light-stepping,",
+	"description": "A death-match only level utilizing only shotguns. The playing field is semi-open using lighting and teleports to spice things up.",
+	"version": "e4f0bc",
+	"date": "2014-08-30 14:32:05",
+	"files": [
+		{
+			"filename": "DANZHALL.wad",
+			"size": 41632,
+			"crc": 4116127991,
+			"md5": "b1f6d226e1b7ccf16804ed36861e5834",
+			"sha1": "e4f0bc3bac1c015330bfa2a9a54b2401d3aa5d2a",
+			"sha256": "a92bba6dc99f9d81dd4d5ab61a07c231521c1152057726e88aa867be006112fc"
+		}
+	]
+}

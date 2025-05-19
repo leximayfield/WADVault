@@ -1,0 +1,16 @@
+{
+	"uid": "nwo.wad",
+	"name": "NWO",
+	"description": "This is an excellent Doom 2 DEATHMATCH wad.",
+	"date": "2014-12-15 21:31:03",
+	"files": [
+		{
+			"filename": "nwo.wad",
+			"size": 156644,
+			"crc": 3167823191,
+			"md5": "702be57f34a440972376b3b0d4d4bffc",
+			"sha1": "b0e03aa60271610cc88159227bf84d2914757f52",
+			"sha256": "771e7671ecb3651c341a653d5c1bd4142f73bd895a4c201fd778aefd175101cb"
+		}
+	]
+}

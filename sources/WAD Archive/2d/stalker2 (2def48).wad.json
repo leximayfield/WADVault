@@ -1,0 +1,17 @@
+{
+	"uid": "stalker2 (2def48).wad",
+	"name": "Stalker2",
+	"description": "The continuation of the completely underwhelming STALKER.WAD A deathmatch level for E1M1, best played with 3 or 4 players",
+	"version": "2def48",
+	"date": "2014-01-11 11:33:04",
+	"files": [
+		{
+			"filename": "stalker2.wad",
+			"size": 72759,
+			"crc": 3220506643,
+			"md5": "d2363307c99c5c0aa08e1e200aa4ef5c",
+			"sha1": "2def4807934c6add1e311b62a7eaae1f01e5a27c",
+			"sha256": "f7f05ce0beab912aec72867dfaf64b26bc121af2c22f7f86bcb35d5dbdae2bb4"
+		}
+	]
+}

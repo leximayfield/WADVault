@@ -1,0 +1,16 @@
+{
+	"uid": "kurogane.wad",
+	"name": "Kurogane",
+	"description": "A gloomy map for Doom 2.",
+	"date": "2014-12-27 12:25:21",
+	"files": [
+		{
+			"filename": "kurogane.wad",
+			"size": 478353,
+			"crc": 1955013697,
+			"md5": "23872c255274cc8b92a0e1cf4e42f25f",
+			"sha1": "0e5110e3e11a95c57093cb87eca7eaffaaca2cd9",
+			"sha256": "e365b3ad1c682124477242c7d43964933ff3d1d330bb06fe496ee9c13d72a2a5"
+		}
+	]
+}

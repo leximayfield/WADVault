@@ -1,0 +1,16 @@
+{
+	"uid": "im64.wad",
+	"name": "Iron Maiden tunes for Awe64 (Doom95)",
+	"description": "I decided to spice up doom by making a Maiden tune collection to use as doom background music. Nobody knows when Melt is out, but with this and doom you should have something of a substitute. (I actually made this wad a couple of weeks ago trying to make Awe64 work with doom95, but thought it might be nice to share it with others now that Virtual XI is being released soon...)",
+	"date": "2015-09-14 20:48:01",
+	"files": [
+		{
+			"filename": "im64.wad",
+			"size": 1444992,
+			"crc": 326808672,
+			"md5": "a9a8c2931c86f7a64ed3f27fd57105cd",
+			"sha1": "9d6c8d06715772d4525d74e59b8118387327e1e6",
+			"sha256": "d6884226afc094cfe4944c15a95143af6b79ae1336362d281e232db253cd12d6"
+		}
+	]
+}

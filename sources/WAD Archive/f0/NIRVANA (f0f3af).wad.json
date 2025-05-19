@@ -1,0 +1,17 @@
+{
+	"uid": "NIRVANA (f0f3af).wad",
+	"name": "NIRVANA MUSIC",
+	"description": "Music addon for DOOM][",
+	"version": "f0f3af",
+	"date": "2015-09-14 19:41:08",
+	"files": [
+		{
+			"filename": "NIRVANA.wad",
+			"size": 324792,
+			"crc": 3443852713,
+			"md5": "2f18c6ab406fd9ca602cb5c07b222487",
+			"sha1": "f0f3af811a0cffe29ce5063a46dcfdf1619f635e",
+			"sha256": "01a9c91a2b3c30dcdd77ba2bc668bb94fff21c36f2dea211d02a01665c07ed81"
+		}
+	]
+}

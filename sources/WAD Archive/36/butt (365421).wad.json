@@ -1,0 +1,17 @@
+{
+	"uid": "butt (365421).wad",
+	"name": "BUTT.WAD",
+	"description": "This PWAD is for E1M1. It was designed primarily for deathmatch, which is apparent in the design.",
+	"version": "365421",
+	"date": "2014-01-11 11:17:13",
+	"files": [
+		{
+			"filename": "butt.wad",
+			"size": 112757,
+			"crc": 494322353,
+			"md5": "6ed94bdb0d4735e2b59835d153e2fd1c",
+			"sha1": "3654216eed49ef1a56ca375fa5f5394748755999",
+			"sha256": "3b1cb1abfe086f1699f7e5811dc1055ef3b6f52d32a84c5f21b2e5741e8a7b7d"
+		}
+	]
+}

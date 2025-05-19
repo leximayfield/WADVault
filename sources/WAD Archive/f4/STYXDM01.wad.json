@@ -1,0 +1,16 @@
+{
+	"uid": "STYXDM01.wad",
+	"name": "Styx Deathmatch 01",
+	"description": "4 small deathmatch levels for fast 1-on-1 fragfests",
+	"date": "2013-04-19 04:43:24",
+	"files": [
+		{
+			"filename": "STYXDM01.wad",
+			"size": 621662,
+			"crc": 2280784319,
+			"md5": "c9d830f1e17eb55c1c65e68221ee43d1",
+			"sha1": "f45d8c3f7f5727c4dbb7f61a17ba39ef95d58846",
+			"sha256": "214c199f7706c38e9aca92d9e8e6afdd7296708ce75de8668c304f53c32c3a5a"
+		}
+	]
+}

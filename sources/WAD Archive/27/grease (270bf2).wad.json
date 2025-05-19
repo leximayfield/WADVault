@@ -1,0 +1,17 @@
+{
+	"uid": "grease (270bf2).wad",
+	"name": "Grease. Just because.",
+	"description": "This is intended FOR DEATHMATCH ONLY. Other people can play it, but I dunno why you'd want to. Don't ask me why I made this - I have no way of actually deathmatching with anyone myself :( I would still appreciate any feedback. I basically came up with the idea and made it in about an hour. The idea is to have some fast paced action without suicide holes for wimps. All weapons save BFG are here, but you have to travel to get them. Take a look, anyways.",
+	"version": "270bf2",
+	"date": "2016-02-07 20:36:57",
+	"files": [
+		{
+			"filename": "grease.wad",
+			"size": 8553,
+			"crc": 2756320161,
+			"md5": "11a7c4a0350b4d964217314481b58fba",
+			"sha1": "270bf2db19bb839885d02a443790b461afe19a7d",
+			"sha256": "b0848dfb2dd33c621441acefccb8d2f3514ffbf4ecf8899fb636182269ebfc41"
+		}
+	]
+}

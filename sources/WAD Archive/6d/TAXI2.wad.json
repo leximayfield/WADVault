@@ -1,0 +1,16 @@
+{
+	"uid": "TAXI2.wad",
+	"name": "Taxi #2",
+	"description": "Deathmatch wad for Doom2",
+	"date": "2014-10-14 20:54:36",
+	"files": [
+		{
+			"filename": "TAXI2.wad",
+			"size": 100313,
+			"crc": 3236342907,
+			"md5": "be14c14a8b955afb2e365718c6c1d111",
+			"sha1": "6d973a24294a3d1618363557e2a902f73d6c93d6",
+			"sha256": "b25e006d01aa346f4640d242a9c63c082ebd2a3bf8aeb0cadb843bce743c9aec"
+		}
+	]
+}

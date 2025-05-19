@@ -1,0 +1,16 @@
+{
+	"uid": "hextest.wad",
+	"name": "hextest.WAD",
+	"description": "THE STORY SO FAR :",
+	"date": "2014-12-18 22:55:36",
+	"files": [
+		{
+			"filename": "hextest.wad",
+			"size": 70981,
+			"crc": 3559736640,
+			"md5": "370380c6807316e8e6ac90e23d384c81",
+			"sha1": "47ce3063efb99f1d453c606a59989928de8b3724",
+			"sha256": "ede53c1f09e360363fcda1226dbeef11fb417ce6d759dee5071bb6bfec300ff1"
+		}
+	]
+}

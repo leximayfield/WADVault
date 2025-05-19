@@ -1,0 +1,16 @@
+{
+	"uid": "crynos.wad",
+	"name": "Crynos",
+	"description": "This is not specifically a deathmatch wad. This is mainly for single player gameplay. I have put deathmatch places in each level just in case you wish to deathmatch on them.",
+	"date": "2014-12-15 21:51:53",
+	"files": [
+		{
+			"filename": "crynos.wad",
+			"size": 262834,
+			"crc": 1421681194,
+			"md5": "deba662017d19aadae712b2a90fa8415",
+			"sha1": "c8ca6b4bffcb6f82946232f41be5cfb522f6498f",
+			"sha256": "151b1878a54b967bde3d8fa1be6312e1497238db0476a906fa470ddb80880f38"
+		}
+	]
+}

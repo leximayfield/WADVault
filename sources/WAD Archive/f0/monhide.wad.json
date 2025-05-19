@@ -1,0 +1,16 @@
+{
+	"uid": "monhide.wad",
+	"name": "The Monster Hideout",
+	"description": "The longest map I have made, with no scripting!",
+	"date": "2015-09-15 17:23:18",
+	"files": [
+		{
+			"filename": "monhide.wad",
+			"size": 431576,
+			"crc": 1204438430,
+			"md5": "db7615fc444b44dedf97c14581c36351",
+			"sha1": "f03c46e903a7898aec38b049a74ef7000203c486",
+			"sha256": "de214f518043ec884191508f7b214fa961e70fd266533743a4c0dc538dc827ba"
+		}
+	]
+}

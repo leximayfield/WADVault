@@ -1,0 +1,17 @@
+{
+	"uid": "aa21doom (5b0615).wad",
+	"name": "Another Awsome DOOM PWAD (E2M1)",
+	"description": "Another Awsome DOOM PWAD (E2M1) Play an action-packed NEW level for registered DOOM, Episode two, Mission one. Includes new sounds! Does not alter your DOOM.WAD.Just unzip in your DOOM directory and enter at the DOS prompt: AA21DOOM",
+	"version": "5b0615",
+	"date": "2013-11-02 15:19:38",
+	"files": [
+		{
+			"filename": "aa21doom.wad",
+			"size": 128061,
+			"crc": 1321081058,
+			"md5": "b2c014ec4f8bc2a7e8a2c41c9d3e370a",
+			"sha1": "5b061524bead09b1ae0e33548e88ccfe51b0202b",
+			"sha256": "8a0b4fe70403ffa87ddfec854cce1e103f6a2f07c6513aa99a0d1bd6554cc93e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ALIENSND (60d841).wad",
+	"name": "Alien Sound F/X",
+	"description": "All new, updated, optimized Alien Doom F/X & BGM",
+	"version": "60d841",
+	"date": "2014-01-04 11:55:40",
+	"files": [
+		{
+			"filename": "ALIENSND.wad",
+			"size": 2311712,
+			"crc": 2672991987,
+			"md5": "0d23d38dc92c4d41794f7c9350e93e92",
+			"sha1": "60d8416d7b00b939ee5aaea32c6bc548c42b47a4",
+			"sha256": "d0bac409b6d4bc06b2cc6df2a5090aa6b06ac7967e3bb777f9a0cc2d7a0cbdae"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "arena (7ab122).wad",
+	"name": "Arena",
+	"description": "It is a very large play field with lots of weapons and power-ups. Monsters are also quite abundant. I have tried it several times and it is quite fun to play.",
+	"version": "7ab122",
+	"date": "2014-12-13 17:29:43",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 28238,
+			"crc": 502068044,
+			"md5": "7486077188fd1a2eeae9b98bfdc47462",
+			"sha1": "7ab122149f48c7cc6b1410f89d4fc6d083317586",
+			"sha256": "6b5f46fdd8e7df0150d05d360d00f1cd63f62b958c497cc6c9a592cb2d03f144"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hellroom.wad",
+	"name": "Rooms of hell",
+	"description": "You are an FBI agent who has been able to get into a secret government experimental area. You are trapped and you must find a way out - FAST.",
+	"date": "2015-02-21 09:00:45",
+	"files": [
+		{
+			"filename": "hellroom.wad",
+			"size": 75139,
+			"crc": 2371242284,
+			"md5": "43406cb7180ecae28ab47c91f6186fb6",
+			"sha1": "d7675d357704b2f7e14c708ea832d65e8934ab33",
+			"sha256": "2353835991f95168b9955277d9a9d8c6afb9da59598a970aae5156b6e2300bd9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bridge (3ea2ae).wad",
+	"name": "The Bridge",
+	"description": "A simple little bridge (sorta). It works like one",
+	"version": "3ea2ae",
+	"date": "2013-11-02 15:49:51",
+	"files": [
+		{
+			"filename": "bridge.wad",
+			"size": 7040,
+			"crc": 254753439,
+			"md5": "73682ff0bc753e7943dfd3798be86528",
+			"sha1": "3ea2aebdc5fc1fe948773f68999761ee5c6da8ac",
+			"sha256": "b9152b32f66d2fd00c474599a83bdff1f978b76d42b7d41f185bc0c8a176c304"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "SHOTGUN (41729f).wad",
+	"name": "Shotgun",
+	"description": "re-make of map 1, The only weapons are Fist, Handgun, and Shotgun. The level is made for Deathmatch Only. The level is pretty much a duplicate of map1 but all the textures have been changed.",
+	"version": "41729f",
+	"date": "2013-11-03 17:47:28",
+	"files": [
+		{
+			"filename": "SHOTGUN.wad",
+			"size": 48016,
+			"crc": 3165260544,
+			"md5": "8e0161419827dee82c8c3eef578617ba",
+			"sha1": "41729f05c1888d5ba2330ec67eed14e6625fac3f",
+			"sha256": "013a89d84997c48800b5022971663412d3f2cd8c79909f9985661c87a784df5b"
+		}
+	]
+}

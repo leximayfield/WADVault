@@ -1,0 +1,17 @@
+{
+	"uid": "murder2 (2f850a).wad",
+	"name": "MURDER2.WAD",
+	"description": "Caving DOOM style!",
+	"version": "2f850a",
+	"date": "2013-11-02 15:46:36",
+	"files": [
+		{
+			"filename": "murder2.wad",
+			"size": 353666,
+			"crc": 3748393001,
+			"md5": "c6a616b6a60eca654351e0d78e49bd48",
+			"sha1": "2f850a9be4cc23574dc75f0f52cd265b64ef41bc",
+			"sha256": "02f9267f56bfbe2ad8750bff6c91590cb7efb8cbe5c4d7d790ebd3e062b581bf"
+		}
+	]
+}

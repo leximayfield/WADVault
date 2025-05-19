@@ -1,0 +1,17 @@
+{
+	"uid": "ring (e605b0).wad",
+	"name": "Steel Cage Match",
+	"description": "Steel Cage fight! Designed primarily for DEATHMATCH in mind. New status bar designed by me, and new death sound. For single or coop, watch as the crowd follows you around the ring. Don't get to close, they'll rip your head off.",
+	"version": "e605b0",
+	"date": "2013-11-02 15:36:07",
+	"files": [
+		{
+			"filename": "ring.wad",
+			"size": 250122,
+			"crc": 1779938706,
+			"md5": "ba8c1aa1939196d680c5e7eeb8a1d565",
+			"sha1": "e605b015d3afd09cac81a893cf9dc39fa535bd76",
+			"sha256": "f041558bc2704c9d2902dd9136ad70585ce533dec9280798c959716fb18f245b"
+		}
+	]
+}

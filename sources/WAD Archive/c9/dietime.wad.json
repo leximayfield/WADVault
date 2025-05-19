@@ -1,0 +1,16 @@
+{
+	"uid": "dietime.wad",
+	"name": "DieTIME",
+	"description": "Deathmatch level with some bad dudes.",
+	"date": "2014-12-15 21:20:32",
+	"files": [
+		{
+			"filename": "dietime.wad",
+			"size": 34833,
+			"crc": 317290043,
+			"md5": "f795b944949eeb1d5bf9397fb3913436",
+			"sha1": "c9b1d29c51cb01d375da4049b01589f3647dd727",
+			"sha256": "753b696c9c27f96be835602acc7135d173679db0a2ae2589cbbb00f8ca6c3b64"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "chaosdm (eba3ee).wad",
+	"name": "CHAOSDM.WAD",
+	"description": "This level replaces E1M1 (Heretic) and is for DeathMatch only. The level layout is a large sign of Chaos with four main battle areas interconnected with paths and teleports. There are 8 deathmatch starts, all 'safe' and have crossbows. Half of the starts have flasks and the other half have urns (just to give the fights some flavor). All of the other weapons are there, including 4 Firemace spots. The weapons and items are kind of tricky to get to (hint: each teleporter goes to 3 places, try the back sides of the teleport pads). Ammo and health is very limited to keep with the DOOM deathmatch feel. The exit is inside the exit door in the middle. Watch out for the sandpit in the desert, and let the war begin!",
+	"version": "eba3ee",
+	"date": "2013-11-02 17:10:38",
+	"files": [
+		{
+			"filename": "chaosdm.wad",
+			"size": 125838,
+			"crc": 3601835502,
+			"md5": "57daf71a840e105cb22c7ecf8c263c6c",
+			"sha1": "eba3ee1e1352898f6e8221ace2b0528af1c200b3",
+			"sha256": "48f84b956219e08d1eefd4ab2cbc7d70c7016a74b716095d45d00976e932f503"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doomx1-3.wad",
+	"name": "Doom-X (part)",
+	"description": "The same basic story as the Classic Levels, but with completely new environments, using the standard id textures and flats - only the sky has been replaced. As with the original, the levels get larger, more complicated, and more difficult as one progresses into the game. Note: health and ammo will not be just lying around waiting to be picked up, unless they are next to a dead body, and there are powerups, but no health or ammo to be found in the Alien sectors. Starting with Level 3, maps are divided into three basic areas: Human, identified by textures other than stone 2/3 or marble; Ancient, identified by stone 2/3 and wood; and Alien, identified by marble. They are not rigedly divided: you may be in a Human area on the surface, then go down into the Ancient foundation it was built on, for instance, or transport into it. And as you will see (if you view the levels in an editor, the Alien areas, which never map, occupy increasingly more and more space, especially in Levels 6 & 7.",
+	"date": "2014-12-13 19:40:25",
+	"files": [
+		{
+			"filename": "doomx1-3.wad",
+			"size": 1286381,
+			"crc": 4209988166,
+			"md5": "adec2f644a3f96865d00f1c1f0dbbfb6",
+			"sha1": "35e28ce25b50f1ce4c57e127d8dfaf3469a20e2c",
+			"sha256": "720e215c682e133a858b4ebdca159f0b5cf86f0f5b6aecd9a82ac032b9fbc09c"
+		}
+	]
+}

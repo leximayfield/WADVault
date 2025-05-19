@@ -1,0 +1,16 @@
+{
+	"uid": "asyv10.wad",
+	"name": "Asylum (v1.0)",
+	"description": "Asylum is a Doom 2 level inspired by the asylum texture set created by DethteX, Rick Clark and editor. It is Vanilla compatible so you can play it with Chocolate Doom.",
+	"date": "2016-08-12 21:51:05",
+	"files": [
+		{
+			"filename": "asyv10.wad",
+			"size": 1811829,
+			"crc": 628075345,
+			"md5": "0bbc1d500e0694a13c8542bbd02cb85b",
+			"sha1": "baad7fd332098fefed1d462b6c34303fef60128e",
+			"sha256": "9508730d2f504f95d80c197b77accb84587f7006e81c99b5a794ce649499eaa3"
+		}
+	]
+}

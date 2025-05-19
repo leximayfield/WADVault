@@ -1,0 +1,17 @@
+{
+	"uid": "PISTOL (4309a4).wad",
+	"name": "Xuta's Doom Stuff (Pistol Version)",
+	"description": "Makes you start without pistol, and makes Zombiemen drop pistols. Also makes your viewheight \"proper\" in my opinion.",
+	"version": "4309a4",
+	"date": "2014-12-11 22:19:25",
+	"files": [
+		{
+			"filename": "PISTOL.wad",
+			"size": 1002,
+			"crc": 306583987,
+			"md5": "463753bd64c11e016e656128f6d832cb",
+			"sha1": "4309a4dbe389b03821a6e1ee86b1aaddc6e71d31",
+			"sha256": "b8176ab6abfd4e5b110a70280bb85e595ddff363ee8217d7d7eb4ef4146ea821"
+		}
+	]
+}

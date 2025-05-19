@@ -1,0 +1,17 @@
+{
+	"uid": "thejoker (12a702).wad",
+	"name": "THEJOKER.WAD",
+	"description": "Enter a whole new atmosphere of complete black and white, find the infiltrators and trap them, destroy them, release the the hell above and below! Try the level on UV and Respawn! There is no EXIT!",
+	"version": "12a702",
+	"date": "2013-11-02 15:19:49",
+	"files": [
+		{
+			"filename": "thejoker.wad",
+			"size": 150451,
+			"crc": 2195912641,
+			"md5": "a53903a666a16c6e067a6a4b54c9ed60",
+			"sha1": "12a7027c4697869efc7aaf92e63d503c67f36a30",
+			"sha256": "ce9697ea0a09418bc92bf6ab081ca7f0e2b3bd2e3f123efa4b4ac74cb8f9f769"
+		}
+	]
+}

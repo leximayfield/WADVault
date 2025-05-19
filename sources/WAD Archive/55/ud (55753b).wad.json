@@ -1,0 +1,17 @@
+{
+	"uid": "ud (55753b).wad",
+	"name": "Undying",
+	"description": "A Small Deathmatch with 3Dfloors and secret hiding places, ideal for 4 players",
+	"version": "55753b",
+	"date": "2014-12-15 22:24:54",
+	"files": [
+		{
+			"filename": "ud.wad",
+			"size": 41186,
+			"crc": 4120320106,
+			"md5": "d9368f7a8a841d3d0f9e505302e958c0",
+			"sha1": "55753b02f134a4221702055e03bf14e716d76c6d",
+			"sha256": "86af2173858cd076b387ec6b716b6ac7ee714f7ef4d06fa1b407ea79825142ff"
+		}
+	]
+}

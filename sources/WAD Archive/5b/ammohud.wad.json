@@ -1,0 +1,16 @@
+{
+	"uid": "ammohud.wad",
+	"name": "Heretic Ammo HUD",
+	"description": "Just a little utility wad that shows the ammo for all weapons (not just your current one) on ZDoom's fullscreen HUD.",
+	"date": "2014-12-10 22:01:05",
+	"files": [
+		{
+			"filename": "ammohud.wad",
+			"size": 2058,
+			"crc": 1727476567,
+			"md5": "e33054b3fd7b843a1918ead95bd1bbbb",
+			"sha1": "5bf53a1a1e67cc01a27f5a7bd95cb05c7cf24e2f",
+			"sha256": "df9c6db67696b6b5f8a6c6836d38a592fcc74430a8d39cf602c1fc4e8383cf5c"
+		}
+	]
+}

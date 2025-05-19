@@ -1,0 +1,16 @@
+{
+	"uid": "unrest.wad",
+	"name": "Unrest",
+	"description": "A Deathmatch WAD, fortunatly not a crappy one (at least in my opinion). Basically its a base, but with the western end (and some of the south) still under construction (hence the cave). This level may look small, but it definately plays big. The Shotgun, Super Shotgun, Chaingun and Rocket Launcher are available. The Berserk Pack, Backpack and Green Armor are also distributed in here. The are two secrets, one with a soulsphere and one ith the plasma rifle. A pair of hints if you cant find them: Look for a blotch, and try your keyboarding skills. Of course ammo, health and some armor bonuses are spread throughout.",
+	"date": "2014-12-15 22:25:58",
+	"files": [
+		{
+			"filename": "unrest.wad",
+			"size": 114174,
+			"crc": 1068766898,
+			"md5": "d709c62c23066797b2b902f0a2384e29",
+			"sha1": "b8f551899f2e4807e1dcc119d288365f5d758799",
+			"sha256": "88512d450a799947401b71631d5ea7a67d3f1513e1f189c287ca395cc9fc9bc3"
+		}
+	]
+}

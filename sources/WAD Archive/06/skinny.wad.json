@@ -1,0 +1,16 @@
+{
+	"uid": "skinny.wad",
+	"name": "Skinnyman",
+	"description": "One map for Boom-compatible source ports made as a break from another project. A somewhat unconventional style of gameplay is encouraged here: my only tip is to seek the red flags.",
+	"date": "2017-10-19 19:28:58",
+	"files": [
+		{
+			"filename": "skinny.wad",
+			"size": 678714,
+			"crc": 1414242349,
+			"md5": "85ecd0b535ef608149f425da00cbf05a",
+			"sha1": "06495c20b132bb78949bad5221791058935328fd",
+			"sha256": "0c534538d0a223b6a5ec4df48abb557bed8072abd44b217b7a649a63ac88ca81"
+		}
+	]
+}

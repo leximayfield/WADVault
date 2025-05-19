@@ -1,0 +1,17 @@
+{
+	"uid": "dm_alpha (faf662).wad",
+	"name": "Deathmatch Alpha",
+	"description": "You and your friends have decided to train on grounds you may find on a real mission. Within you find a temple with an exit leading outside and a military battleground in which to fight. You take a position and find your friend scrambling to find his. That's when you're up a FRAG. Each player starts with exactly the same armor and weapons. Players are judged on their skills to survive.",
+	"version": "faf662",
+	"date": "2015-12-07 09:45:11",
+	"files": [
+		{
+			"filename": "dm_alpha.wad",
+			"size": 69648,
+			"crc": 3917754208,
+			"md5": "2f4537f73b864f4355a8368f8356e2fd",
+			"sha1": "faf662fe92f00d546e9b718a12712d587cedf02e",
+			"sha256": "310be14e657b4a20f26b15c7178579db719f3f21ba68fc44e98c1cf0fd9cb14d"
+		}
+	]
+}

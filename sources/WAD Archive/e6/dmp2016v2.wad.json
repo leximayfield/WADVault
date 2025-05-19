@@ -1,0 +1,16 @@
+{
+	"uid": "dmp2016v2.wad",
+	"name": "Doomworld Mega Project 2016",
+	"description": "This was set to be the first map in a short story driven episodic map set for Doom 2. It died out when I lost progress on the second map, and I decided to release this map anyway as part of the Doomworld Megawad Project for 2016. I'll save juicy story details for if I ever decide to revisit the project but for now this is the first public taste of my amatuer mapping style. Influenced by the first episode of Scythe mostly, this small map combines a few staple elements of many PWADs like a storage room with crates to traverse, indoor and outdoor areas, a lot of enemies and a decent arsenal for a first map. I experimented with lighting a lot, much of it is a failed attempt but I'm proud of it and I hope to get feedback and suggestions and criticism of my mapping style so far.",
+	"date": "2017-05-21 20:48:26",
+	"files": [
+		{
+			"filename": "dmp2016v2.wad",
+			"size": 57377156,
+			"crc": 2392346757,
+			"md5": "da896d42dab85bb7d8efbb8e81f94878",
+			"sha1": "e62fe2277c6a84e793089f1aaf449b97cce777a7",
+			"sha256": "a14d9b0b74e3809779310f6041904e7b549289715c239cda2e0ac8b2b95cf0c9"
+		}
+	]
+}

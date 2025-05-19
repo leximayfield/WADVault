@@ -1,0 +1,16 @@
+{
+	"uid": "housed.wad",
+	"name": "House of Doom",
+	"description": "These are strictly Doom2 deathmatch levels. There are monsters in the first level, but they are mainly there to guard stuff. Best played when set to respawn, altdeath, deathmatch.",
+	"date": "2014-12-15 23:08:36",
+	"files": [
+		{
+			"filename": "housed.wad",
+			"size": 67173,
+			"crc": 3766580076,
+			"md5": "b2145ebc00b3ad914bb2d86b50f7d93c",
+			"sha1": "1357177b6ed59b57343c4672abf8d26b4e471fb0",
+			"sha256": "27878b9c1d66a7cad8d0388dee141e0b7e1db65fcb327b82e3703887e337f515"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "outpost1.wad",
+	"name": "Outpost 1",
+	"description": "Another quality deathmatch level by me, Marc Bublitz. This one takes place in an outpost. There are several reasons why I particularly like this one: First, I'm kind-of fond of the \"Cyber-Attack\" ad I've constructed. Secondly, I'm very happy I could get a satisfactory color alignment with one of my ray-traced spaceships. Also, notice the neat gate that I've edited from the MIDBARS texture.",
+	"date": "2013-11-04 19:22:39",
+	"files": [
+		{
+			"filename": "outpost1.wad",
+			"size": 202780,
+			"crc": 4177272700,
+			"md5": "083110f05ce505b876ec7ec20e4a80b1",
+			"sha1": "4c773b05114bf2676047da2891e9c8429d0fba63",
+			"sha256": "95740fb7c79c34598575facdf76c78b38ceb3d6fccbd0cda5b40ab556ce33dd9"
+		}
+	]
+}

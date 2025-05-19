@@ -1,0 +1,17 @@
+{
+	"uid": "skybase (c39053).wad",
+	"name": "Sky Base",
+	"description": "It is the future. Man has polluted the atmosphere to the point where we can no longer safely breathe it. Large, floating atmospheric reprocessors have been created to help repair the atmosphere. It will be a long process. A few years after the \"skybases\" went online, mankind got a big wakeup call. Our first (and maybe our last) alien encounter has happened. The alien race (thier names are unknown) have intercepted our transmissions that we make in every day life (TV, radio, ...) and have learned our communications, technology, languages, and our plight. But rather than help out, they would rather have the planet for thier own! You see, the atmosphere is perfect for them, so why not let us die out. They destroyed all but one reprocesor. The remaining reprocessor has been reverse engineered to cause more harm to our atmosphere. This must be stopped. Listening to thier transmissions, and logging into the skybase mainframe (for some reason, they didn't prohibit that), we have learned that many people who died on the skybase have been electronically ressurected to help serve them. Also, many traps have been set for anyone who tries to land and \"be the hero\". Luckily they weren't prepared for you! Your mission is to kick ass and shutdown/disable the base. As you circle the base in your shuttle, you see them laughing at you. Good ...underestimation allowed David to beat Goliath. Make the fuckers pay!!!",
+	"version": "c39053",
+	"date": "2015-01-14 23:03:01",
+	"files": [
+		{
+			"filename": "skybase.wad",
+			"size": 670152,
+			"crc": 4200568701,
+			"md5": "7169a0c21f645b3a6c7fbbe8b010911d",
+			"sha1": "c39053ca47afd63fe08e35120a56c8a4af95ab14",
+			"sha256": "ea9958d9663d12e081e50d722fd8e27e3949cc03b47bbe2adc6c90ff410d90eb"
+		}
+	]
+}

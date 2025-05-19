@@ -1,0 +1,17 @@
+{
+	"uid": "facelift (82a2cb).wad",
+	"name": "FACELIFT.WAD",
+	"description": "DEATHMATCH ONLY!!! No sniper areas, just fast moving in-your-face action. Includes an exit.",
+	"version": "82a2cb",
+	"date": "2013-11-04 19:18:51",
+	"files": [
+		{
+			"filename": "facelift.wad",
+			"size": 41646,
+			"crc": 3119053371,
+			"md5": "cc425081ae32b3889f6a33ae16700fa1",
+			"sha1": "82a2cb03a027b7f6fb5530bc12e0add65a57f201",
+			"sha256": "fe539089493abd7ffea2b6fed64ada8ee1d92526500ba57dd86cc31466db0539"
+		}
+	]
+}

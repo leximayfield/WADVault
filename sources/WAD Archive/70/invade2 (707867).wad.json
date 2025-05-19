@@ -1,0 +1,17 @@
+{
+	"uid": "invade2 (707867).wad",
+	"name": "INVADE2.WAD (INVASION... Level 2--The Upper Decks)",
+	"description": "This is level 1 of a 4 level storyline episode.",
+	"version": "707867",
+	"date": "2015-12-07 10:40:16",
+	"files": [
+		{
+			"filename": "invade2.wad",
+			"size": 2552382,
+			"crc": 3435111631,
+			"md5": "aa206aed936f09f04760d61114579007",
+			"sha1": "707867db8e7467bdf6b7773e5ae6e2db44fecd2b",
+			"sha256": "cc73fc332eb9d3bf16f6702c2d18446e098a43cf94406b105f36b4c8ef67a5de"
+		}
+	]
+}

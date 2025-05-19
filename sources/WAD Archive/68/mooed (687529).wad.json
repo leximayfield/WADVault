@@ -1,0 +1,17 @@
+{
+	"uid": "mooed (687529).wad",
+	"name": "MOOeD DOOM",
+	"description": "Funny joke-wad, that will give you something to laugh. Pink status bar, new Title-screen, reversed Doom-Logo (MooD instead of DooM), new sounds, music and three levels.",
+	"version": "687529",
+	"date": "2014-12-13 17:29:21",
+	"files": [
+		{
+			"filename": "mooed.wad",
+			"size": 1063876,
+			"crc": 2399827027,
+			"md5": "f09e83236cf2cf031ce4d747ae138d16",
+			"sha1": "68752935b5b739aadd75ff30908282312cbcf825",
+			"sha256": "877635eab93178a89c9929284a5e45131dce805eb7bf3d9b2d98168a6a03aaa6"
+		}
+	]
+}

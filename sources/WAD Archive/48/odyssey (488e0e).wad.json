@@ -1,0 +1,17 @@
+{
+	"uid": "odyssey (488e0e).wad",
+	"name": "Odyssey",
+	"description": "7 challenging DOOM 2 levels",
+	"version": "488e0e",
+	"date": "2013-11-02 16:38:04",
+	"files": [
+		{
+			"filename": "odyssey.wad",
+			"size": 1041146,
+			"crc": 2170627436,
+			"md5": "9e729eefbf2a54f88aab762b4506fc6f",
+			"sha1": "488e0ea4ba2be901d0fd19bc0aa9e1bbb15c38f6",
+			"sha256": "f768756a22fd4f176beb81c983d9d9e26261c5a70c19ccaa047060f93c511c95"
+		}
+	]
+}

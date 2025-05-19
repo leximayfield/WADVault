@@ -1,0 +1,17 @@
+{
+	"uid": "altima (5f6225).wad",
+	"name": "ALTIMA.WAD",
+	"description": "Deathmatch. Would welcome any comments.",
+	"version": "5f6225",
+	"date": "2014-12-03 20:08:05",
+	"files": [
+		{
+			"filename": "altima.wad",
+			"size": 72658,
+			"crc": 4049480314,
+			"md5": "79e69547d91ed0ac847f636c48878625",
+			"sha1": "5f62255b4a021c07f7d20e5d106a4d3adf13866d",
+			"sha256": "13b7a3f8b5911209674564cdcb511d5252993777d6b114e4090765b4211e9640"
+		}
+	]
+}

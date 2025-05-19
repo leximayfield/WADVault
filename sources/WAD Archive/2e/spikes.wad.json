@@ -1,0 +1,16 @@
+{
+	"uid": "spikes.wad",
+	"name": "spikes.wad",
+	"description": "Utilizes all three keys, but it is a quite small level. Conserve your health. All weapons are found within. No big architectual wonders, as I kept 2 the basics.",
+	"date": "2015-01-14 23:04:05",
+	"files": [
+		{
+			"filename": "spikes.wad",
+			"size": 47680,
+			"crc": 1180325276,
+			"md5": "afbe9fe83686c7c1fbc4ea626d7f7f25",
+			"sha1": "2e72a050ae4c910ff2bea971573db7f53b932f58",
+			"sha256": "b768adde336ea04e566282aa5edd1fbcece3bb36a3a11c8aa3029f4632f6becf"
+		}
+	]
+}

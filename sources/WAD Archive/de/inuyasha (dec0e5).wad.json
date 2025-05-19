@@ -1,0 +1,17 @@
+{
+	"uid": "inuyasha (dec0e5).wad",
+	"name": "Inuyasha Skin V1.5",
+	"description": "This is a skin based on the popular anime series \"Inuyasha\" (as if you couldn't tell im a big fan :P) PS: sorry its been so long to update, ive just been busy =P I updated the sprites, so custom colors are usable ^_^",
+	"version": "dec0e5",
+	"date": "2015-09-14 21:08:42",
+	"files": [
+		{
+			"filename": "inuyasha.wad",
+			"size": 100258,
+			"crc": 288492935,
+			"md5": "bbccfe195d8c20e942ef67c3ce58cd8c",
+			"sha1": "dec0e54d368c4d08ddc16d53bc9d5fd87c0469dc",
+			"sha256": "064a0255f24aa78f905fe0f94fe50ecff2f25209e0ef1ce5c7578004999ca933"
+		}
+	]
+}

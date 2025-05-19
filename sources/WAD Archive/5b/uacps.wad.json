@@ -1,0 +1,16 @@
+{
+	"uid": "uacps.wad",
+	"name": "U.A.C. Power Station UACPS.WAD",
+	"description": "You're on Phobos at a U.A.C. Power Station overtaken by the demonic monsters from Hell. Kill everything in your path and get out of there.",
+	"date": "2015-01-14 14:29:40",
+	"files": [
+		{
+			"filename": "uacps.wad",
+			"size": 123592,
+			"crc": 3614368725,
+			"md5": "746fe11bd4a2c36f127db7c9f7ad51f1",
+			"sha1": "5b2a5a084195c4a1dfde51a445db1d2658607358",
+			"sha256": "8d18be3da41d10198b03ebd6193e38063689797703e45eb9137cfc29457b0f4f"
+		}
+	]
+}

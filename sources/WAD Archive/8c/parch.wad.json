@@ -1,0 +1,16 @@
+{
+	"uid": "parch.wad",
+	"name": "Parcheesi",
+	"description": "A quicky, lazy map made out of annoyance of having lost a month's worth of work on Under Neith. My first (serious) Doom II map in 6 or 7 years.",
+	"date": "2015-01-14 14:37:20",
+	"files": [
+		{
+			"filename": "parch.wad",
+			"size": 245424,
+			"crc": 3981336561,
+			"md5": "de1bda4a208d523a6dcdc3cdd2504b78",
+			"sha1": "8c171c35a5afe8c5611185dabbadb30b24699fa0",
+			"sha256": "a46b8076bf44749dd7e25fd2904da391288dc1e6c04e4757fb005eaf9f2e265d"
+		}
+	]
+}

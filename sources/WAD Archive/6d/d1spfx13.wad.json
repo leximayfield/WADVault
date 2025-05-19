@@ -1,0 +1,16 @@
+{
+	"uid": "d1spfx13.wad",
+	"name": "Doom 2 Sprite Fixing Project v1.3 (Doom 1 compatible)",
+	"description": "This is a Doom 1/Ultimate Doom-compatible version of my comprehensive collection of minor sprite fixes for Doom 2. This is compatible with any custom Doom 1 add-on as long as you load D1SPFX13.WAD with the lowest priority.",
+	"date": "2013-10-12 13:43:09",
+	"files": [
+		{
+			"filename": "d1spfx13.wad",
+			"size": 1442735,
+			"crc": 2993042226,
+			"md5": "6ecb034b196a4fd34bd5d9e6d32cb20d",
+			"sha1": "6d6c01677042b8d6fce44bca572306d76230b981",
+			"sha256": "44309a14c22ed6fc0b62edbb01c981872118c4765628f4dfe67804faed554bff"
+		}
+	]
+}

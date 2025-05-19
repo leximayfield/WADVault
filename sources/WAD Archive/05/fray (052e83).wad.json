@@ -1,0 +1,17 @@
+{
+	"uid": "fray (052e83).wad",
+	"name": "Fray",
+	"description": "Rooms with huge amount of monsters and some teleports for moving around. Kill! Kill! Kill!",
+	"version": "052e83",
+	"date": "2014-12-18 23:16:27",
+	"files": [
+		{
+			"filename": "fray.wad",
+			"size": 106881,
+			"crc": 507558432,
+			"md5": "ab7f0929de365edc7ec3beabc8a97a8d",
+			"sha1": "052e839836891df54ceb5c52539177b226a4c3c5",
+			"sha256": "8739e7db186009aa97cae9367d6b50a6fb9b1841460249335f5ee41c5d192ed2"
+		}
+	]
+}

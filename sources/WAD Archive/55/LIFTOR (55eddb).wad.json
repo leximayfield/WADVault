@@ -1,0 +1,17 @@
+{
+	"uid": "LIFTOR (55eddb).wad",
+	"name": "LIFTOR.WAD",
+	"description": "With over 100 separate lifts, need I say anything more? LIFTOR was though created with DOOM v1.666 allowing you Eight Channel sound and DeathMatch v2.0 for proper play and desired effect.",
+	"version": "55eddb",
+	"date": "2014-01-07 22:03:03",
+	"files": [
+		{
+			"filename": "LIFTOR.wad",
+			"size": 87620,
+			"crc": 2873653406,
+			"md5": "079b3e4f725c23950c8a17e6e0395137",
+			"sha1": "55eddb925a0ff82349aed419258006e04d64740f",
+			"sha256": "786862249a7b72f84826a76c78463d15164bf2497cb5c6b62b7a3725ce86ecf6"
+		}
+	]
+}

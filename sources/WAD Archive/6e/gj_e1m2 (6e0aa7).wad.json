@@ -1,0 +1,17 @@
+{
+	"uid": "gj_e1m2 (6e0aa7).wad",
+	"name": "GJ_E1M2.WAD",
+	"description": "Just another WAD file. Included with this WAD is a complete map of all areas in postscript format (LEVEL.MAP) generated with Renegade Graphics Doom Edit.",
+	"version": "6e0aa7",
+	"date": "2013-11-02 15:15:03",
+	"files": [
+		{
+			"filename": "gj_e1m2.wad",
+			"size": 146306,
+			"crc": 570184568,
+			"md5": "3915805a0125657be7edfad9eb76b335",
+			"sha1": "6e0aa7ca6b8f7d154f52af3e41d21fd5a3b43ad2",
+			"sha256": "a8ae0e2449807acfa41f97eff0ffe65896765be7c18a33e3b961b98dda72289b"
+		}
+	]
+}

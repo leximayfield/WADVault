@@ -1,0 +1,17 @@
+{
+	"uid": "teleport (29efcb).wad",
+	"name": "teleport.wad",
+	"description": "This is a replacement for the teleporter sprites and sounds. No map included here. It is just a by-product for the nutty.wad.",
+	"version": "29efcb",
+	"date": "2013-04-19 01:23:28",
+	"files": [
+		{
+			"filename": "teleport.wad",
+			"size": 34992,
+			"crc": 1415174092,
+			"md5": "fbba82df5259be4217c2978d349a126f",
+			"sha1": "29efcbfd5e37cb903ff2242051ffbe44288471aa",
+			"sha256": "73bd4a3889896a3959274a421f970c904194913d715eabd00a89814c343ffda6"
+		}
+	]
+}

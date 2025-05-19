@@ -1,0 +1,16 @@
+{
+	"uid": "breaker1.wad",
+	"name": "Breaker",
+	"description": "An indoor/outdoor map with a challenging to get BFG and a slightly symmetrical layout. Not too big, but not too cramped. Ideal for 2-4 players, but 8 is fun in a zany kinda way (especially if you are able to get the BFG :)",
+	"date": "2014-12-15 21:31:34",
+	"files": [
+		{
+			"filename": "breaker1.wad",
+			"size": 42067,
+			"crc": 2632260843,
+			"md5": "fdc57ff5e9f1f4f33057b09158db749f",
+			"sha1": "cc8595ed7c43c9d284ef073c6d4d0b7ab681a04a",
+			"sha256": "cb3da7a0b1de7bfa5a7c9cf478aa742189070a2c07ea737e2e463d054bef0cce"
+		}
+	]
+}

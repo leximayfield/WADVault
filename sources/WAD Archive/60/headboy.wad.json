@@ -1,0 +1,16 @@
+{
+	"uid": "headboy.wad",
+	"name": "Headboy",
+	"description": "Doom II .wad found on the 'Net up this room before.",
+	"date": "2014-12-13 17:38:27",
+	"files": [
+		{
+			"filename": "headboy.wad",
+			"size": 273180,
+			"crc": 3893895178,
+			"md5": "9f7d5c0614be5455e87e4acfcde360ba",
+			"sha1": "609fd475911979c7627c78b9ef152ed96826b7a7",
+			"sha256": "273a78f314e9819c17fa334bc0d49763657856ad0930ebda2ce34ebe8d8c7329"
+		}
+	]
+}

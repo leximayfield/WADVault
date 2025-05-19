@@ -1,0 +1,17 @@
+{
+	"uid": "zenith (ed9254).wad",
+	"name": "The Zenith Citadel",
+	"description": "An amazing WAD with a lot of detail and ambience. Tough too. Download it NOW! You won't be disappointed! I spent a long time making sure everything was perfect.",
+	"version": "ed9254",
+	"date": "2014-12-31 11:58:53",
+	"files": [
+		{
+			"filename": "zenith.wad",
+			"size": 518643,
+			"crc": 2405139150,
+			"md5": "538bf63bbb9fd8aa1753d90c89d34adc",
+			"sha1": "ed9254edb6311a35bee9869440c80f01153a2c37",
+			"sha256": "8af39c5d21d0bb0983d4d1ac24c37b8fc73df800a47182168eb066f07ce0cb18"
+		}
+	]
+}

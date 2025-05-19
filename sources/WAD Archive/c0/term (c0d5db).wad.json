@@ -1,0 +1,17 @@
+{
+	"uid": "term (c0d5db).wad",
+	"name": "Termination",
+	"description": "\"Alright soldier, listen up: There is an army coming from the Mars base, we still do not know what it wants but we do know what they are and what they did. This army is responsible for the slaughter of some of the UAC's finest! Their first target is the UAC's cargo base on the recently conquered Luna Base Bravo, we sent our best men from Alpha to prevent the takeover but it was inevitable: Rather than send in the best, they sent in the many. Before we knew it Alpha was drowning in targets and despite the advanced gear and training, Alpha were KIA due to the sheer amount of hostiles. This is where you come in, this base is key to the defense of Earth due to its strategic location. The enemy knows its importance but rather than have the best guard it, they just have hundreds of grunts. This should be a cake walk if you do it right, stock up and explore before heading to administration (marked with an exit sign) as intel believes that the administration is being used as a staging area for the invading platoon, lock and load.\" This is an E1M1 map that is like a primitive slaughter map, but less slaughtery and more \"explore to find ammo to kill everything\" kind of map, it was made for PrBoom but should work in any limit removing port (I advise no jumping or looking up and down, it was made for classic gameplay.)",
+	"version": "c0d5db",
+	"date": "2014-12-13 12:44:43",
+	"files": [
+		{
+			"filename": "term.wad",
+			"size": 489402,
+			"crc": 2875345861,
+			"md5": "13b6d3f5cd57ee4b75f1753d1885c24f",
+			"sha1": "c0d5dbd83ceb3c239dcbf9b2449390a2207c2d7f",
+			"sha256": "44cd8881f7528ba086d5e3f19119d1bea88c86a2c52d2265045fad7ec101eed9"
+		}
+	]
+}

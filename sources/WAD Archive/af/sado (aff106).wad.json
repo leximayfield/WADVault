@@ -1,0 +1,17 @@
+{
+	"uid": "sado (aff106).wad",
+	"name": "SADO",
+	"description": "Welcome to SADO - mikrodeathmatch arena, even more bloody and faster than you ever thought. This is the sequel to MASO.WAD and closes the SADO-MASO mikroseries. This level brings you the maximum massacre in two-player deathmatch. (our average frag rate: 1 frag in 6.5sec). Try this level and you will not be sorry, especialy if you like lunatic rocket attacks and meat in the air! (Oh, no exit this time, play with -timer <minutes>)",
+	"version": "aff106",
+	"date": "2014-01-07 22:19:16",
+	"files": [
+		{
+			"filename": "sado.wad",
+			"size": 17428,
+			"crc": 2730345028,
+			"md5": "df4bbef71d259f40e4a18251eb7cac5f",
+			"sha1": "aff106553bbbe85cab80480f355ca402303d468a",
+			"sha256": "81f5f23d7ca67a0ff1e1925e97bf1b6c3075691b006d044a85510dd31600b8c8"
+		}
+	]
+}

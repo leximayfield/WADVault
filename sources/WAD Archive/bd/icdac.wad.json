@@ -1,0 +1,16 @@
+{
+	"uid": "icdac.wad",
+	"name": "Yule Time Doom",
+	"description": "A smallish arctic tech base created for Torn's Doom Advent Calendar project.",
+	"date": "2015-09-14 19:52:08",
+	"files": [
+		{
+			"filename": "icdac.wad",
+			"size": 613404,
+			"crc": 577152973,
+			"md5": "7cdd5aa363aa58eac556b88683e3f16b",
+			"sha1": "bd43655b6b7a70bc2bee438827aae7a8f79a0427",
+			"sha256": "0fb126dc38212d2ed877afcb2bb3f14124900016605c7d5ac9be74cbd0ffb539"
+		}
+	]
+}

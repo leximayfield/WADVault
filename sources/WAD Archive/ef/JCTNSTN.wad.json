@@ -1,0 +1,16 @@
+{
+	"uid": "JCTNSTN.wad",
+	"name": "Junction Station",
+	"description": "This is my first released map. It's a random tech base level with medium length and difficulty. I took inspiration from Doom, Doom 2 and TNT Evilution maps. Since it's a vanilla map, you can play it as intended or with your favourite mod (e.g. Complex Doom, Brutal Doom, etc), but expect some balance issues if you play with a mod.",
+	"date": "2015-09-15 17:28:44",
+	"files": [
+		{
+			"filename": "JCTNSTN.wad",
+			"size": 336224,
+			"crc": 2313327801,
+			"md5": "e70e3669b2fc98560033b9cba295c80c",
+			"sha1": "efeb902a7188659c52a2be31da01756b2e7cc33f",
+			"sha256": "66776d8c49b8b778cfd6d339986b44aa95769a7ea9e7a0572451bdb327530d2e"
+		}
+	]
+}

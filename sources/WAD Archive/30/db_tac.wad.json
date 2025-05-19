@@ -1,0 +1,16 @@
+{
+	"uid": "db_tac.wad",
+	"name": "The Abandoned City",
+	"description": "This is a fair sized city type map for Heretic's E1M5",
+	"date": "2014-12-30 11:17:59",
+	"files": [
+		{
+			"filename": "db_tac.wad",
+			"size": 707836,
+			"crc": 1744004835,
+			"md5": "99f5dfa9f12905622daac45264eecb77",
+			"sha1": "30da6b5161891d45c64f223e188f1ba805e290b1",
+			"sha256": "bfa5f5483ea60f4e20a85fc5d99b4d9d0b6e052572e6724076f5dc0e153294fd"
+		}
+	]
+}

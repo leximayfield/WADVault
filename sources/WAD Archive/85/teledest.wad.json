@@ -1,0 +1,16 @@
+{
+	"uid": "teledest.wad",
+	"name": "Control Your Destiny",
+	"description": "Shoot the romero head to control where you teleport.",
+	"date": "2015-04-06 11:32:21",
+	"files": [
+		{
+			"filename": "teledest.wad",
+			"size": 30144,
+			"crc": 1302069615,
+			"md5": "04a77907d20c6488419c1414e5b2e1dd",
+			"sha1": "85eb9738e91522c517638a2b477fc1258d44c2ed",
+			"sha256": "7919fcf17a0655ff9a5e503289cb2d029308c0d6b70a0a9112050396ea218038"
+		}
+	]
+}

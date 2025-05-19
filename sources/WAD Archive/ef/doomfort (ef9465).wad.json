@@ -1,0 +1,17 @@
+{
+	"uid": "doomfort (ef9465).wad",
+	"name": "Doom Fort",
+	"description": "Deathmatch level",
+	"version": "ef9465",
+	"date": "2014-12-15 22:09:42",
+	"files": [
+		{
+			"filename": "doomfort.wad",
+			"size": 120782,
+			"crc": 1404855040,
+			"md5": "c5f15e3f45ed559e0104e874ead79d33",
+			"sha1": "ef94651125f7d9c717f1d14be93f2b4cc984cae9",
+			"sha256": "46a3744364f0671b04563d806f394cb9f1cbe6de319d552d4e38b67c45e18259"
+		}
+	]
+}

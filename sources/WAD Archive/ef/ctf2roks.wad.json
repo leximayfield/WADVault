@@ -1,0 +1,16 @@
+{
+	"uid": "ctf2roks.wad",
+	"name": "Doombot CTF-ROKS 2",
+	"description": "This is my second CTF map using the ROKS mod. I personally think map makes a great CTF game and the blue boys really are good at grabbing that red flag. You must use the Doombot CTF mode for this map and the ROKS patch.",
+	"date": "2014-12-15 22:45:27",
+	"files": [
+		{
+			"filename": "ctf2roks.wad",
+			"size": 146381,
+			"crc": 1673981774,
+			"md5": "a87f57746cdf01c60d1c446da4de864b",
+			"sha1": "efebbea56c004c70cccf106700eb71558b5d4fff",
+			"sha256": "377d8d989342390b54ed51a028691dfcfbc6546e3126c9e42a75e868064295d5"
+		}
+	]
+}

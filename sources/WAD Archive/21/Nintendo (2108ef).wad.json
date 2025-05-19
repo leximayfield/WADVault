@@ -1,0 +1,17 @@
+{
+	"uid": "Nintendo (2108ef).wad",
+	"name": "NINTENDO DOOM 2",
+	"description": "Nintendo graphic and sounds replacements for Doom II (also works with Doom I)",
+	"version": "2108ef",
+	"date": "2014-02-15 10:51:01",
+	"files": [
+		{
+			"filename": "Nintendo.wad",
+			"size": 6017718,
+			"crc": 2126544124,
+			"md5": "148aae8d9ca609995da64299f2906596",
+			"sha1": "2108ef44956e288eb3bed2b3ab0bfd153cfb4f00",
+			"sha256": "e9331744e6236284272bd32c3231bc7d59824be70193b990c20977b49a7546ef"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hydrogen.wad",
+	"name": "Hydrogen",
+	"description": "Doom II map, roughly in E1 visual style. Designed for classic gameplay. Please do NOT jump. Freelook is allowed but not recommended. Exploration is encouraged!",
+	"date": "2019-09-07 12:51:56",
+	"files": [
+		{
+			"filename": "hydrogen.wad",
+			"size": 302353,
+			"crc": 3430228753,
+			"md5": "c8fd00d8982bbb16d2f2329d39a82c6c",
+			"sha1": "3c43ed7585194e4572e0813c80ba14a741ad7aa7",
+			"sha256": "38a8706eebbc32e897abff17741848e4204ec604cc7d9f1a48255bda8ac2f782"
+		}
+	]
+}

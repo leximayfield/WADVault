@@ -1,0 +1,16 @@
+{
+	"uid": "WALKER (2e9b0c).wad",
+	"description": "DOOM PATCH WAD",
+	"version": "2e9b0c",
+	"date": "2014-01-11 11:08:59",
+	"files": [
+		{
+			"filename": "WALKER.wad",
+			"size": 70925,
+			"crc": 1560855758,
+			"md5": "f9abe34c0292f518ed76e888f70a82f3",
+			"sha1": "2e9b0c3798b3a5f35c96f4a35a47160340dffaea",
+			"sha256": "1dc576463f778b4e9788ff74e4ab6a3004e1f31f350630131ae56ef2d32be5bb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "grenade2 (4b1d52).wad",
+	"name": "Grenade Weapon Patch",
+	"version": "4b1d52",
+	"date": "2015-12-07 08:10:36",
+	"files": [
+		{
+			"filename": "grenade2.wad",
+			"size": 200251,
+			"crc": 3280821326,
+			"md5": "11f8cd2fe461a869fbeed825b6574116",
+			"sha1": "4b1d5287abe29da4b05d70d0f0ce14dc66cc179f",
+			"sha256": "1820fab98e0e0e9aff79d8694ccbac4a3f466643750bbaa8b74b770914f3ee5e"
+		}
+	]
+}

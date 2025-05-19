@@ -1,0 +1,17 @@
+{
+	"uid": "temple (948219).wad",
+	"name": "Temple of the Ancients",
+	"description": "5-level hub, set in a variety of environments. You start in a command center, but explore medieval and techno-medieval areas as you uncover the secrets of the Temple of the Ancients.",
+	"version": "948219",
+	"date": "2014-12-29 16:45:23",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 5940800,
+			"crc": 92341153,
+			"md5": "5ecc883e5973b152768c5acfde9dfdc7",
+			"sha1": "9482199cc6b7d8ba60886730834c436418f51456",
+			"sha256": "c99addba2aa7fca5d4e31407266b3f92557d813419cd6b4bca74bb78fb125f59"
+		}
+	]
+}

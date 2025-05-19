@@ -1,0 +1,16 @@
+{
+	"uid": "ts.wad",
+	"name": "Twisted Shadows",
+	"description": "Find your way out of a gruesome villa by solving puzzles and surviving any threat that comes your way. Please do not cheat, it will ruin the game.",
+	"date": "2015-09-14 20:40:19",
+	"files": [
+		{
+			"filename": "ts.wad",
+			"size": 7270431,
+			"crc": 3283379409,
+			"md5": "82a0852ea7128ef783deec78458d350b",
+			"sha1": "ce231502528de35722958a2a00f1c21e2c68d88e",
+			"sha256": "14af89255b630f4392fcca738ee480d9620c0e456d831cbd32e7700fcadd9b60"
+		}
+	]
+}

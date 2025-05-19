@@ -1,0 +1,16 @@
+{
+	"uid": "stfball.wad",
+	"name": "Skulltag Soccer",
+	"description": "This is a soccer modification for the Skulltag teamgame mode.",
+	"date": "2013-04-18 23:08:44",
+	"files": [
+		{
+			"filename": "stfball.wad",
+			"size": 5990555,
+			"crc": 990251086,
+			"md5": "7fbe69b86ee664adf1160c15b3e54600",
+			"sha1": "cfab6d8d6a10574590319606fd368fa54509859c",
+			"sha256": "025f705317fa7d76b3a30a4b55ad346db3f11bbb19a29ce5873e8c72390e760d"
+		}
+	]
+}

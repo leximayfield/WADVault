@@ -1,0 +1,17 @@
+{
+	"uid": "phobos (845cbb).wad",
+	"name": "Phobos",
+	"description": "Phobos is a 4 level pwad set under a spectacular Phobos sky with Mars, the Red Planet, looming malevolently on the horizon. It loosely follows the story line of the first 4 Doom I levels but with larger, more spectacular, more challenging levels. Briefly, the levels are as follows:",
+	"version": "845cbb",
+	"date": "2013-04-19 02:14:51",
+	"files": [
+		{
+			"filename": "phobos.wad",
+			"size": 3786788,
+			"crc": 632699849,
+			"md5": "7ff2dcc06816370dd4738ee1233bfba1",
+			"sha1": "845cbb1006b92d63bfcd6d3998b67507727ac8cb",
+			"sha256": "92b8162fe362da416fe3ddbe1d58fc4b15f2c6b447847a831ac264274c24aec2"
+		}
+	]
+}

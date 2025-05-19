@@ -1,0 +1,16 @@
+{
+	"uid": "ESP.wad",
+	"name": "ESP",
+	"description": "33 hard maps that I tested myself. Max demos for all maps included (speed demo for map30).",
+	"date": "2015-01-08 19:48:25",
+	"files": [
+		{
+			"filename": "ESP.wad",
+			"size": 34380310,
+			"crc": 2828380454,
+			"md5": "f7194995eee341190f6e27019f5f442a",
+			"sha1": "f5fb69d53105fb24ca23d826b59393b53794b893",
+			"sha256": "b11b7a36e868fe5757e2c01acfdcd126e1e51172985bb20603f50700f7379c87"
+		}
+	]
+}

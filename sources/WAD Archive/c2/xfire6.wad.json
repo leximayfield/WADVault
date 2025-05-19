@@ -1,0 +1,16 @@
+{
+	"uid": "xfire6.wad",
+	"name": "xfire6",
+	"description": "Symmetrical map with four main rooms. Inspired by my previous map sureshot and Iron Yard by friction (quake3 map)",
+	"date": "2014-12-15 21:55:29",
+	"files": [
+		{
+			"filename": "xfire6.wad",
+			"size": 56366,
+			"crc": 3895029900,
+			"md5": "b7c62e5fe32525de3e318d287f16b456",
+			"sha1": "c24cbbacbb2a18ebeed637f7fe1903cd9c9cebfa",
+			"sha256": "8421c56ceab6eaea7e643346a2d46a93e8783176bd33720cd6c053b2e45876de"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tower (75de43).wad",
+	"name": "TOWER.WAD",
+	"description": "Episode 3 level 1 has always been kinda : lame for me. Not much happening there....and : the only way to crank it up a little was to : hurry thru it. TOWER.WAD replaces E3L1 with : what I attemped to be a \"classic\" type of : DOOM level. Check out the \"BARON TUBE\". : I should add that this wad was originally designed : for CO-OP play, but has been edited for single : player mode. (It's much more fun in co-op though). : If someone should try it...and you think it's too : busy...please let me know.",
+	"version": "75de43",
+	"date": "2013-11-02 15:25:58",
+	"files": [
+		{
+			"filename": "tower.wad",
+			"size": 132622,
+			"crc": 2990551281,
+			"md5": "c296cc74f944a73915f3085b866ac761",
+			"sha1": "75de43f1e677da0ac259f90d1cc9ec0f78fb84d5",
+			"sha256": "b1439de26d57d325e693ec94287b848e7097fccc7c43b8ffa904dc979d6a2144"
+		}
+	]
+}

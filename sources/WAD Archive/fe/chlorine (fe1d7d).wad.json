@@ -1,0 +1,16 @@
+{
+	"uid": "chlorine (fe1d7d).wad",
+	"name": "Chlorine wad (for Doom ][)",
+	"version": "fe1d7d",
+	"date": "2014-01-07 22:27:36",
+	"files": [
+		{
+			"filename": "chlorine.wad",
+			"size": 244728,
+			"crc": 2552058599,
+			"md5": "a3d9e6b6efcd0129cf94fae8ab51befc",
+			"sha1": "fe1d7d12f54644effe1100dafb4b644e6721c835",
+			"sha256": "b476fa6152bb9952fbfada194956a6a90e4b4de1e5236cddeecf653c75a4eca1"
+		}
+	]
+}

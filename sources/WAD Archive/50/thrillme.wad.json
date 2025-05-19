@@ -1,0 +1,16 @@
+{
+	"uid": "thrillme.wad",
+	"name": "Thrill Me",
+	"description": "Deathmatch level designed for quick frags and fair regeneration positions",
+	"date": "2014-12-15 21:57:21",
+	"files": [
+		{
+			"filename": "thrillme.wad",
+			"size": 149923,
+			"crc": 56017891,
+			"md5": "dad1b628240cf9909bdf69d0fda33e41",
+			"sha1": "5082b8bea3eb966032771d80c2e372185038b5c2",
+			"sha256": "b8269196f98e6fbb15fc2abce79f097dbd46a331f8afa62b2b9250fc848150e7"
+		}
+	]
+}

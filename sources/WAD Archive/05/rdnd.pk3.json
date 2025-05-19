@@ -1,0 +1,16 @@
+{
+	"uid": "rdnd.pk3",
+	"name": "Random Deaths & Decoration",
+	"description": "After getting burnt out on Brutal Doom, I still wanted vanilla gameplay but I liked having alternate deaths for the monsters (and other things) so I put together this for my entertainment and yours. Nearly all monsters have multiple death sequences, dead things and gore are randomized and a couple other surprises. There are no weapon changes at all so if you want to load up your favorite weapons mod that doesn't alter monsters, make sure you load it up before it.",
+	"date": "2014-12-11 22:15:30",
+	"files": [
+		{
+			"filename": "rdnd.pk3",
+			"size": 1684887,
+			"crc": 3025079559,
+			"md5": "257e63cf523c059fa81f142b63be9812",
+			"sha1": "05279157aaece8e0197df868d65dd0df1bd659fe",
+			"sha256": "57b4162ac4a38c3cb523ef8ed7c413a4760d33326a42bc48fb14e1841fba1d4e"
+		}
+	]
+}

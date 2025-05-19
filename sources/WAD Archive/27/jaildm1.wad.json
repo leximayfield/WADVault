@@ -1,0 +1,16 @@
+{
+	"uid": "jaildm1.wad",
+	"name": "Jail DeathMatch 1",
+	"description": "A jail-like deathmatch level.",
+	"date": "2014-12-15 21:26:59",
+	"files": [
+		{
+			"filename": "jaildm1.wad",
+			"size": 122313,
+			"crc": 3693949070,
+			"md5": "7412d6333b2796bfc12251ce9ea55c8e",
+			"sha1": "275a380b1716dddaef683cf48a84d8c4728aafc1",
+			"sha256": "a28e6e25ce8903644448d93da9ecd5c385d505671c4e8f04521b0859030bc4e9"
+		}
+	]
+}

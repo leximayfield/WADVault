@@ -1,0 +1,16 @@
+{
+	"uid": "tiny-II.wad",
+	"name": "TINY DEATHMATCH 2 -- DooM ][",
+	"description": "Highly symmetric, tiny arena-type maps",
+	"date": "2013-04-19 00:25:54",
+	"files": [
+		{
+			"filename": "tiny-II.wad",
+			"size": 3038088,
+			"crc": 2792836414,
+			"md5": "9b1280c1850072c988809d47bf90a076",
+			"sha1": "7941d54bb1c553fe761d3a34eef81a23c999f2ed",
+			"sha256": "07ecaeb45a0919326d871197cf905fa19bd15550fc12264963ede98df8ef418f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "rose (108790).wad",
+	"name": "The Rose",
+	"description": "4 areas, connected by middle area and teleporters",
+	"version": "108790",
+	"date": "2013-04-19 15:16:56",
+	"files": [
+		{
+			"filename": "rose.wad",
+			"size": 122912,
+			"crc": 2495037619,
+			"md5": "8ba26f50140cd5ddb9e5da123a8d6b9e",
+			"sha1": "1087905f97ff49403611feee5e08e6611d38e520",
+			"sha256": "10b9b99bdb2ec39a99e4a936d109cf253da676d8e193c54fbb6432d7539d8c48"
+		}
+	]
+}

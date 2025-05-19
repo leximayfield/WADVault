@@ -1,0 +1,16 @@
+{
+	"uid": "doomcas.wad",
+	"name": "Doom Castle",
+	"description": "While you're backpacking in Europe a thunderstorm",
+	"date": "2014-12-13 12:47:10",
+	"files": [
+		{
+			"filename": "doomcas.wad",
+			"size": 527516,
+			"crc": 1496844212,
+			"md5": "3df5c24668acb08feb8dacb3f440dccf",
+			"sha1": "1582ccc1b34b1e4b767a3d259b4ba69666e117cc",
+			"sha256": "74e3eda3faa4290e0f3dde7336dc510fe62973d3bfc7b595b0ce98b73e00916a"
+		}
+	]
+}

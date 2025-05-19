@@ -1,0 +1,16 @@
+{
+	"uid": "KH0RNE.wad",
+	"name": "The halls of Kh0rne",
+	"description": "A medium sized deathmatch wad file that is VERY red. The difficulty settings determine the weapons available. The harder the level the less powerful weapons you can get.",
+	"date": "2014-02-15 17:05:35",
+	"files": [
+		{
+			"filename": "KH0RNE.wad",
+			"size": 55189,
+			"crc": 3826721541,
+			"md5": "1a89576aedf41f0324a642ba845d2fb7",
+			"sha1": "5ce684750ad8673fa4b5937a62ef827c21eefaff",
+			"sha256": "a451b796c1d209a537d7f2c61609a12f09cf9142aa5ee09954bd7cc3221e94ff"
+		}
+	]
+}

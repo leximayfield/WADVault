@@ -1,0 +1,17 @@
+{
+	"uid": "khoon (b44f64).wad",
+	"name": "KHOON Version 1.1",
+	"description": "The ultimate DeathMatch level.",
+	"version": "b44f64",
+	"date": "2015-12-07 07:54:42",
+	"files": [
+		{
+			"filename": "khoon.wad",
+			"size": 652060,
+			"crc": 4002292522,
+			"md5": "ace3f369f4112d0d62d38ab220a90e3e",
+			"sha1": "b44f64619532ab2f91cdde6b3d2da15d3ec412e3",
+			"sha256": "1116804bdc9d1a3dea6a2d55f0c148b0bff35a94c3bfccf28807dddfefbdd6ac"
+		}
+	]
+}

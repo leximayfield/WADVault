@@ -1,0 +1,17 @@
+{
+	"uid": "corridor (9eb040).wad",
+	"name": "Corridor 9 from Outer Space (DOOM 2)",
+	"description": "A scifi style deathmatch wad. Fight your way through the corridors of an alien base.",
+	"version": "9eb040",
+	"date": "2014-12-15 23:12:34",
+	"files": [
+		{
+			"filename": "corridor.wad",
+			"size": 210591,
+			"crc": 3232673981,
+			"md5": "74054701121b0df872fd5bd21ebd39f6",
+			"sha1": "9eb0403afbccb5dff18143b76ded67533a4d7f85",
+			"sha256": "51644a885af44564946a29d1cef4eb48d6674b3cb2060e9e1e4a8deba634e2be"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "lab01.wad",
+	"name": "Lab01.wad",
+	"description": "This level wants a fast machine. It's not as big as it is detailed. Lots of work went into this one including numerous hours of lining up vantage points and textures.",
+	"date": "2013-11-03 17:45:50",
+	"files": [
+		{
+			"filename": "lab01.wad",
+			"size": 225586,
+			"crc": 2014139400,
+			"md5": "294973a2ffbc17f1b37754afc22ce969",
+			"sha1": "c23cb065f3f5bda9bb7a3cab55429bb9434f2002",
+			"sha256": "1048b2d3496496a37af7494ff6cb673d89a84b3e7da27138cfcf5fa1bcb177b6"
+		}
+	]
+}

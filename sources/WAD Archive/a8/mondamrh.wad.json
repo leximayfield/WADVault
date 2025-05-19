@@ -1,0 +1,16 @@
+{
+	"uid": "mondamrh.wad",
+	"name": "Monastery of the damned",
+	"description": "A level I created during the summer. I tried to create a detailed level with plenty of challenge, whilst keeping that heretic feel",
+	"date": "2014-12-30 11:18:04",
+	"files": [
+		{
+			"filename": "mondamrh.wad",
+			"size": 523927,
+			"crc": 150192213,
+			"md5": "51bd1a0ca2394f7b80f7a7148da4e45a",
+			"sha1": "a83fc62618cdc01eda3bfcada6101050cf7b0931",
+			"sha256": "703a8a12ddc7dfc7e9736a338823afe9a375b8bf7e2f591a1cbe4451277e4324"
+		}
+	]
+}

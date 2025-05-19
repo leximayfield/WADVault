@@ -1,0 +1,17 @@
+{
+	"uid": "school (59cbce).wad",
+	"name": "Deathmatch Court Yard",
+	"description": "A small court yard deathmatch for Doom II.",
+	"version": "59cbce",
+	"date": "2013-11-02 15:56:49",
+	"files": [
+		{
+			"filename": "school.wad",
+			"size": 21187,
+			"crc": 1210146515,
+			"md5": "830d03d7fd3f3ca1831186499b30b820",
+			"sha1": "59cbce86d1de94f643d6c6c775560b2840d48c9e",
+			"sha256": "ea5f286432ee53830b52d6c3ed04368b53bbb5e158bde305629adf4364bc6701"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ssllaos.wad",
+	"name": "SSLLAOS",
+	"description": "A big map for deathmatch playing.",
+	"date": "2014-12-15 21:21:47",
+	"files": [
+		{
+			"filename": "ssllaos.wad",
+			"size": 109507,
+			"crc": 2670100045,
+			"md5": "d16fe7017e43a00ad44c2eb97b74ff02",
+			"sha1": "6116a7c1f2108df68358177147ae8a616f9b0f7c",
+			"sha256": "bb12301e23d6523dcae80fe5f9327596b884eb187e53cf11458856ca33c6b383"
+		}
+	]
+}

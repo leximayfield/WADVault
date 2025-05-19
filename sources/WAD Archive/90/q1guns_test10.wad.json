@@ -1,0 +1,16 @@
+{
+	"uid": "q1guns_test10.wad",
+	"name": "Quake Guns Mod (Test10)",
+	"description": "This wad turns Doom into Quake. Weapons look and feel, items, HUD, menu, sound and text messages!",
+	"date": "2013-04-18 23:47:26",
+	"files": [
+		{
+			"filename": "q1guns_test10.wad",
+			"size": 2409192,
+			"crc": 2167520789,
+			"md5": "b7aaea7820479f02efc25ef924cbcbdf",
+			"sha1": "90437cc53ad1ef040f3908c78d3a311acf3e4ad5",
+			"sha256": "12ae69357031f6183aaf2453cb036415ba5045750557ed6b405a2cc976acb758"
+		}
+	]
+}

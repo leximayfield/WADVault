@@ -1,0 +1,16 @@
+{
+	"uid": "shamrock.wad",
+	"name": "Shamrock Base",
+	"description": "Shamrock Base is a small level with heavy amounts of green since Saint Patrick's Day is coming up. The building the player starts in is shaped like a 4-leaf clover. You will need a ZDoom-based source port to play this since it is in Universal Doom Map Format. That includes but not limited to ZDoom, GZDoom, and Zandronum. The level is small so that if you do not like my long levels, this one is for you. It is beatable with custom mods that make the enemies more dangerous, such as Hard Doom. If you wish to play it with other mods, you can do that as well. If any issues arise, please contact me for assistance.",
+	"date": "2019-03-17 03:22:54",
+	"files": [
+		{
+			"filename": "shamrock.wad",
+			"size": 11997653,
+			"crc": 3907769536,
+			"md5": "756711113d341d181663e03b613e0d6a",
+			"sha1": "a35e3ec09ab6cccba8319b4df6ce26e2a6d66bf5",
+			"sha256": "2b9d1e7a8f20fea36a5e6022ae32f46de79f71dd358748ad6f3ec915bba82ea0"
+		}
+	]
+}

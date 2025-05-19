@@ -1,0 +1,16 @@
+{
+	"uid": "maptest2.wad",
+	"name": "Map Test 2 - Schlagobers Schuetzenfest",
+	"description": "Quaketest map 2 for Doom2 Old DM skill5. Rocks. I took some artistic freedom, so don't expect a 1:1 remake.",
+	"date": "2014-12-15 22:07:11",
+	"files": [
+		{
+			"filename": "maptest2.wad",
+			"size": 131673,
+			"crc": 2821402824,
+			"md5": "91492b9e5e8f6ed5d02829b0c4594ea3",
+			"sha1": "2c796a8c4716c1a192359b2746acf1cd54251942",
+			"sha256": "253cbaeb4b309f79bee5ce0eb017dcd26d828f924ce5b1b7c0a5afaaef5eaed8"
+		}
+	]
+}

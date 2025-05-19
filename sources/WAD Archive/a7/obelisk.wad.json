@@ -1,0 +1,16 @@
+{
+	"uid": "obelisk.wad",
+	"name": "Obelisk of Blood",
+	"description": "One litle Deathmatch arena with jump pads",
+	"date": "2014-12-12 14:07:43",
+	"files": [
+		{
+			"filename": "obelisk.wad",
+			"size": 169248,
+			"crc": 2399658947,
+			"md5": "192a968d2fc343cbb530e1e5e57692da",
+			"sha1": "a75c35d50d8af0bb2fa33c31121ba2b23e6aa2eb",
+			"sha256": "5bc94aacabd12d3c50e62a7ec023f8fc1968bb503ac581ef2ab19c8d3c147149"
+		}
+	]
+}

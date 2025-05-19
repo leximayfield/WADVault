@@ -1,0 +1,16 @@
+{
+	"uid": "big_gun.wad",
+	"name": "BIG GUNS for DOOM II v1.9 (Advanced port NOT required)",
+	"description": "Medium sized level packed with monsters, set somewhere in hell. Built for single player. Let me know what you think. (goto website for Doom-God version of this wad. Demos included)",
+	"date": "2014-12-15 22:27:14",
+	"files": [
+		{
+			"filename": "big_gun.wad",
+			"size": 363569,
+			"crc": 3662681982,
+			"md5": "614342200dc90af99c5f56e3f046a1dc",
+			"sha1": "57e3c102966f84e9115c3e54156f92ceb421f298",
+			"sha256": "50e0b675e238de8333998bbe06dd90c8d139a2453582bf5d665ecba1463eaadd"
+		}
+	]
+}

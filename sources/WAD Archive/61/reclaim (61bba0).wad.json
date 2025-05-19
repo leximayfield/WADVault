@@ -1,0 +1,17 @@
+{
+	"uid": "reclaim (61bba0).wad",
+	"name": "The Water Reclaimation Facility",
+	"description": "You have been investigating a series of homicides. The sheriff is frightened that an evil Satanic cult has moved into the area and has taken refuge in the old abandoned water reclaimation facility outside of town. He made you his deputy and ordered you to go to the reclaimation facility to recon any possible cult activity. He hands you a pistol and bids you farewell. You eventually make it to the facility shortly after nightfall. You slowly climb down a broken water main and enter the darkness not knowing what horrors await you.",
+	"version": "61bba0",
+	"date": "2015-01-14 22:48:00",
+	"files": [
+		{
+			"filename": "reclaim.wad",
+			"size": 263665,
+			"crc": 3201882326,
+			"md5": "c399970a745acfc0c5b7a3c4d11a1e68",
+			"sha1": "61bba08ceb83039df6da840941d1f63607d8411a",
+			"sha256": "ffd52c4c02407de067b3bd44d79cf60ca98393314bd180e1a4ed97343c3d93c0"
+		}
+	]
+}

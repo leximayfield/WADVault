@@ -1,0 +1,17 @@
+{
+	"uid": "magmtowr (5010c3).wad",
+	"name": "Magma Tower",
+	"description": "A grill has been captured by demons and is being held hostage in the Magma Tower!",
+	"version": "5010c3",
+	"date": "2016-03-05 14:52:24",
+	"files": [
+		{
+			"filename": "magmtowr.wad",
+			"size": 3726857,
+			"crc": 2816046885,
+			"md5": "bb43438350d0bf1a1278bfaa29c560fc",
+			"sha1": "5010c30dd2b4ae843f9831bfe5ba5462b0f00938",
+			"sha256": "a19e23e77a690849599f681d24ae8a7a6c3fca4da2da39114769bd46b2a23ce5"
+		}
+	]
+}

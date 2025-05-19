@@ -1,0 +1,17 @@
+{
+	"uid": "feast (b369ad).wad",
+	"name": "FEAST.WAD",
+	"description": "Ever wonder where all these fiends from hell entertain guests? What kind of reception center would they have? Who would they worship? what would security be like?",
+	"version": "b369ad",
+	"date": "2014-12-18 22:43:18",
+	"files": [
+		{
+			"filename": "feast.wad",
+			"size": 229590,
+			"crc": 225093373,
+			"md5": "3e4219a6a489bcc5296d50a3e104ddd0",
+			"sha1": "b369ad61b283bf22f03ff252de06b86d32bb576c",
+			"sha256": "19199de54410578889dbeece8a297e42c1c48e554480fe466e8fdc52f3b3a8e3"
+		}
+	]
+}

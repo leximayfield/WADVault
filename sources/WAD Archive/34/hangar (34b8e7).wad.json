@@ -1,0 +1,17 @@
+{
+	"uid": "hangar (34b8e7).wad",
+	"name": "The Hangar",
+	"description": "It's a map with extensive use of 3D Floors, with gameplay in mind. You should to run it with GZDoom, because sloped 3D floors can't be seen in software mode. They can be walked, but they are invisible. It's harder tan my standard design, so I think it feels more \"punchy\".",
+	"version": "34b8e7",
+	"date": "2019-03-06 21:48:49",
+	"files": [
+		{
+			"filename": "hangar.wad",
+			"size": 583758,
+			"crc": 1931571329,
+			"md5": "33bcfa7adb320655890937eda36c2e44",
+			"sha1": "34b8e75f24c07a86fe5fda32ad0eb91c335872f0",
+			"sha256": "2263a9bf1f3da10ac2083bf4904dd60eba3f88683866c68015948caf1058b3ae"
+		}
+	]
+}

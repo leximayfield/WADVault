@@ -1,0 +1,16 @@
+{
+	"uid": "cworm.wad",
+	"name": "Corpse Worm",
+	"description": "Doom/Doom2 replacement for Hexen's Afrit, a worm that hatches from a Demon's corpse.",
+	"date": "2015-09-14 20:37:44",
+	"files": [
+		{
+			"filename": "cworm.wad",
+			"size": 46393,
+			"crc": 3328798136,
+			"md5": "0771208ca438d10a3f8f63789f425461",
+			"sha1": "330cdc6e70f64565fb41b710861617c057717dcb",
+			"sha256": "e951942c027ac38f0155d68a6cb42d4af0b18863ea4c411b900a58d366cc70a7"
+		}
+	]
+}

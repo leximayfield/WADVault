@@ -1,0 +1,16 @@
+{
+	"uid": "morpdoom.wad",
+	"name": "Animaniacs vs. Power Rangers DOOM",
+	"description": "You are Wakko Warner. You looked out of the water tower window one night and saw that the land was infested with Power Rangers! AAAAH! So you decided to have a little fun. With the various weapons you just happened to have around the tower, you go down and hunt the freaks! This replaces EVERY enemy that appears in doom one, although it will work with either doom. It also changes a WEALTH of other graphics. Over 500 changed frames all in all.",
+	"date": "2015-09-14 19:30:32",
+	"files": [
+		{
+			"filename": "morpdoom.wad",
+			"size": 1746012,
+			"crc": 964009139,
+			"md5": "7fd6565fdfa5285b151f9fdcca8f61a5",
+			"sha1": "b949a5883faf8efbcca849b2f6e33244478281af",
+			"sha256": "72e185681cf98688787006d4803e44fbd6280aa5a1dc180109b02eb7ecd2ea3d"
+		}
+	]
+}

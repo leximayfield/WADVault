@@ -1,0 +1,17 @@
+{
+	"uid": "dm2gm2 (92f4d7).wad",
+	"name": "DM2GM2.ZIP (dm2gm2.wad + .txt)",
+	"description": "A DOOM II combo hunt'em deathmatch / single player wad. Rather spread out, lots of open areas with little obstruction. Take a while and explore this wad, think you may find it interesting. Contains 6 teleporter dest's. Hmm...what else, oh yeah a Cyberdeamon and Spider Demon together, should not be too tough though, as the area has good vantage points/ sniper locations. There are no nasty tricks or unsolvable traps. This wad designed for use with DOOM II and replaces map01 (level 1).",
+	"version": "92f4d7",
+	"date": "2013-11-02 15:47:18",
+	"files": [
+		{
+			"filename": "dm2gm2.wad",
+			"size": 146591,
+			"crc": 4144181907,
+			"md5": "6d21cc34774a835fa6936f0897ef90dc",
+			"sha1": "92f4d701815486dcdf197c8138fb0d6449048f6c",
+			"sha256": "0986f1056d8058a6b75d0446d6197813e69bdfaea4bd4c6fff10431aae81ea1c"
+		}
+	]
+}

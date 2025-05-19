@@ -1,0 +1,16 @@
+{
+	"uid": "ender.wad",
+	"name": "ENDER",
+	"description": "You are to infiltrate an enemy detention center. Assasinate the leader and escape...",
+	"date": "2016-02-06 13:54:38",
+	"files": [
+		{
+			"filename": "ender.wad",
+			"size": 77137,
+			"crc": 4240453612,
+			"md5": "093ebf9ef0e25d4f3ba1adfd56f52c7f",
+			"sha1": "fbb03330473ecf34eac3a3e87a80877dfb2f5959",
+			"sha256": "43e5c72101ecae205a3371825fd0a8e1947718ba5deedfbd17cc815c0e958951"
+		}
+	]
+}

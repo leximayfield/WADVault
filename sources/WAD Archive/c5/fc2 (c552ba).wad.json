@@ -1,0 +1,17 @@
+{
+	"uid": "fc2 (c552ba).wad",
+	"name": "Fenchurch 2 (Fenchurch 1 for Doom and never got sent out.)",
+	"description": "I really can't remember, I made this about a year and a half ago. The name come from \"So Long and Thanks For All The Fish\" By Douglas Adams (The Hitchhiker's Guide to the Galaxy Series)",
+	"version": "c552ba",
+	"date": "2014-12-18 23:14:25",
+	"files": [
+		{
+			"filename": "fc2.wad",
+			"size": 153552,
+			"crc": 528833520,
+			"md5": "69a51f1212474bf493f4c837e33fe39c",
+			"sha1": "c552ba25c2f658b96d255adcdfe7906f448cea5a",
+			"sha256": "016f5faf1413df894a2e86b7f9917ab2823cc6abdd6064ea267de9bec264fa35"
+		}
+	]
+}

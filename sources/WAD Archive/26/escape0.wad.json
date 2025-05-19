@@ -1,0 +1,16 @@
+{
+	"uid": "escape0.wad",
+	"name": "Escape Zero",
+	"description": "Another of my really early levels. Infact, I think it's my first. I've fixed it up a bit since then, of course. It's a standard deathmatch level. Only 2 types of guns, lot'sa health and nowhere to hide.",
+	"date": "2014-12-15 22:15:02",
+	"files": [
+		{
+			"filename": "escape0.wad",
+			"size": 40065,
+			"crc": 895779901,
+			"md5": "80cabe36def90b256e17bd9317c53648",
+			"sha1": "2660bc8b4e1eaad7af9fd85f4f8120e67d5fb6b3",
+			"sha256": "724556405d17761dabf7d1b8074c1d4ebbf68fb0946754fefac87d84f403f423"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "brutalst.wad",
+	"name": "Brutalist Doom",
+	"description": "Brutalist Doom is a WAD that retextures Doom to a have a Brutalist architecture. From Wikipedia:",
+	"date": "2014-12-11 22:15:26",
+	"files": [
+		{
+			"filename": "brutalst.wad",
+			"size": 107850,
+			"crc": 1424035109,
+			"md5": "0942be00962d35b60d03091ba245f33d",
+			"sha1": "98c5a20b45b9cd671b5501e1b871a15e255c5333",
+			"sha256": "3b4f07468725e7082c7e3be0762a4f4e58a5d6395ad8a581b1faa985566c0206"
+		}
+	]
+}

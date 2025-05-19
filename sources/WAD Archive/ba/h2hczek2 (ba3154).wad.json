@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczek2 (ba3154).wad",
+	"name": "H2H Czech Series 2 (H2HCZEK2.WAD)",
+	"description": "This is another pwad that I made for deathmatches on H2H in San Diego (619-426-0073). As you can see, it is not a deathmatch specific wad because the original idea was to design something similair to Id's shareware episode. This level is suitable also for single and co-op.",
+	"version": "ba3154",
+	"date": "2014-12-15 21:28:43",
+	"files": [
+		{
+			"filename": "h2hczek2.wad",
+			"size": 130264,
+			"crc": 3164902546,
+			"md5": "b590cfa7893eab0d3fe10ae3e4f45b68",
+			"sha1": "ba3154530a63d88ba24cc040159718da7a75d6b7",
+			"sha256": "7423553325a24fbebcc15837c1ef67035c84346ddab6f97b8056f62dbc9c572a"
+		}
+	]
+}

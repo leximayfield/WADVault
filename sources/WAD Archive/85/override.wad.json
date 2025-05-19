@@ -1,0 +1,16 @@
+{
+	"uid": "override.wad",
+	"name": "OVERRIDE.WAD",
+	"description": "DEATHMATCH\\single player but only to check out the level",
+	"date": "2014-01-07 22:17:19",
+	"files": [
+		{
+			"filename": "override.wad",
+			"size": 65568,
+			"crc": 449041636,
+			"md5": "8af690d0a77a4856750722415512b36e",
+			"sha1": "851be99dcb8d2858e9cf02419d0569af3c7bf653",
+			"sha256": "16de2d19d9ffffd2483d03a3f506229856f8471ba1ff5bd68094622355550a16"
+		}
+	]
+}

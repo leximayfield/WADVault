@@ -1,0 +1,16 @@
+{
+	"uid": "ivory.wad",
+	"name": "The Ivory Tower",
+	"description": "This single-player-level for DOOM2 tells an enigmatic story. You witness the war between an evil army of SS-soldiers and the demons they created in their blasphemous laboratory while a huge shimmering ivory tower, the symbol of release, rises up on the horizon. There, in the tower's top, you will face your last trial... >>> In addition, this zip-file contains IVORY-DM.WAD, the same level modified for deathmatch play.",
+	"date": "2014-12-18 22:14:15",
+	"files": [
+		{
+			"filename": "ivory.wad",
+			"size": 685869,
+			"crc": 2518895545,
+			"md5": "4956ea3f7da3fdace9e3a5fa2790aff7",
+			"sha1": "97b4a0c4d81d8a43c98533d35e57316e504a76f2",
+			"sha256": "56d2da618e95818ec08ab048b1288f0b44c39bde2647b1ebf7e0932dd870005f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "real (7efbba).wad",
+	"name": "Real",
+	"description": "This is my first serious(?) WAD. It started a long time ago (1998), when I decided to make something more serious than TsotsoFX (Which got a rather \"funny\" review at doomworld ;) I started with Deu, with a theme of a base inside a rocks and caves, the player starting from a cave with dead human bodies and destroyed walls. Then I had to remove some ugly detail which also caused a visplane error and much later I continued the project with Doom Builder.",
+	"version": "7efbba",
+	"date": "2014-12-13 12:53:56",
+	"files": [
+		{
+			"filename": "real.wad",
+			"size": 740977,
+			"crc": 1383216096,
+			"md5": "cc545cebd7111bf6aaaa2a62d9cd24a6",
+			"sha1": "7efbba3aba929151b5bc0918f7c142231b52b95d",
+			"sha256": "76a3af9f103490b468f9c423b766408c454d5b8f7781ceb8dc18c14c66bdc23c"
+		}
+	]
+}

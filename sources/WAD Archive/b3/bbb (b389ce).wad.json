@@ -1,0 +1,17 @@
+{
+	"uid": "bbb (b389ce).wad",
+	"name": "BREEZE, BRAVADO & a revised 1.2 vs. of BRAVE",
+	"description": "All 3 levels are extremely big - (Breeze is 270k Bravado is 219k and Brave is 294k) Should have a DX2-66 with 8 mb ram to run properly. Brave was released previously at over 330k but I pared it down to 290k by reducing halls and extra redundant chambers that wouldn't detract from the over all game. BREEZE is the only brand new release in this TRILOGY ( I have spent all together too much time indulging my hobby ! ) and if you have my previous offering, Bravado, in which Brave was included, you dont need this big file; however, Breeze is E2M1 so you can play it first and decided what you want to do after that.",
+	"version": "b389ce",
+	"date": "2014-10-20 19:52:16",
+	"files": [
+		{
+			"filename": "bbb.wad",
+			"size": 781325,
+			"crc": 1967294534,
+			"md5": "9cc9dd4e0ba3b599b50cf53787cfc912",
+			"sha1": "b389ce1a4710bcd5737b952f103649b41acf7157",
+			"sha256": "7998d90a7486ccdebd37cc2227ddcfc1cae799d87d2f23bda04b564134c30899"
+		}
+	]
+}

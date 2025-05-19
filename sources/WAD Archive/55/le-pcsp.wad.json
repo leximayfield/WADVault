@@ -1,0 +1,16 @@
+{
+	"uid": "le-pcsp.wad",
+	"name": "Player Class Switch Proof-of-Concept Demo",
+	"description": "This is a Proof-of-Concept of a player class switch system that i was originally planning to implement in DuduKrazy's Guns III. Unfortunately, the system had some major exploits regarding the player health and armor. So i decided to scrap it.",
+	"date": "2014-12-11 22:16:14",
+	"files": [
+		{
+			"filename": "le-pcsp.wad",
+			"size": 665755,
+			"crc": 1785021097,
+			"md5": "42efe401b8ceb91cdc6c930697c0eee2",
+			"sha1": "55518fa7ae4bf711cd60cb2189e0ae34136236c2",
+			"sha256": "0e1316350742a8cdfac0865d55acf7acbd2b26a3e5b8656ba893c9c446c6cfb6"
+		}
+	]
+}

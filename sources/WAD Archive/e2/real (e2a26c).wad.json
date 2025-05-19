@@ -1,0 +1,17 @@
+{
+	"uid": "real (e2a26c).wad",
+	"name": "The real sounds collection",
+	"description": "IMHO, The best sound collection for DOOM. Cheers!",
+	"version": "e2a26c",
+	"date": "2015-09-14 20:24:32",
+	"files": [
+		{
+			"filename": "real.wad",
+			"size": 1368324,
+			"crc": 4229011743,
+			"md5": "0369a989d0877fc488d9953d13157b4b",
+			"sha1": "e2a26c2cbc179646d8b12b78dc633a739d7632cb",
+			"sha256": "6eef50a173299f0e2a12f874ea181c63ae17ba4756363f90e298a38713953dd9"
+		}
+	]
+}

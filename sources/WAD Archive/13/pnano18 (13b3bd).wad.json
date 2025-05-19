@@ -1,0 +1,17 @@
+{
+	"uid": "pnano18 (13b3bd).wad",
+	"name": "Nanopineapple 2018",
+	"description": "Thirty-two maps, all first made during November and then further refined in December 2018. Wow, talk about an intense month... Nanopineapple was designed for Boom ports and pistol starts. No jumping, crouching, or free aim! This breaks the WAD. Infinite height is encouraged for a more challenging experience, but turning it off won't break the game. Enjoy!",
+	"version": "13b3bd",
+	"date": "2019-09-01 12:53:36",
+	"files": [
+		{
+			"filename": "pnano18.wad",
+			"size": 6049153,
+			"crc": 1083661639,
+			"md5": "d439ccbcfbf2d428d59a32d27ed2c2ad",
+			"sha1": "13b3bd7b1b4c89f83f332a2b02699aed853dcd97",
+			"sha256": "40607be29563ff566561bcc10d46094e45f5cd938d829ca0f06fe1c4ff4376c5"
+		}
+	]
+}

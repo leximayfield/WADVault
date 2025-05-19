@@ -1,0 +1,16 @@
+{
+	"uid": "green (545643).wad",
+	"description": "Very fast deathmatch play. Small and very compact. Some original design taken from Mountkng.wad Map05.",
+	"version": "545643",
+	"date": "2014-12-15 22:13:24",
+	"files": [
+		{
+			"filename": "green.wad",
+			"size": 60643,
+			"crc": 3440845979,
+			"md5": "bc76efa8f4c9df4d67ee77f97a6f34a8",
+			"sha1": "54564383ac5e24dade733abe041716bef4c9ce4d",
+			"sha256": "27cc6fc6ac4b07e1dcc069bfb9eb7eadf7d34769c82219a6147b1e3340af6482"
+		}
+	]
+}

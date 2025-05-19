@@ -1,0 +1,17 @@
+{
+	"uid": "dethbase (98e74b).wad",
+	"name": "Death Base",
+	"description": "Read DETHBASES.TXT for story. Level 1 of my DooM ][ episode.",
+	"version": "98e74b",
+	"date": "2014-12-18 22:36:34",
+	"files": [
+		{
+			"filename": "dethbase.wad",
+			"size": 215520,
+			"crc": 1787588979,
+			"md5": "eac3ff0d85c0674a8af91394a3b623c4",
+			"sha1": "98e74bc70f6ab34a279b1ccb1894073243b2f1bf",
+			"sha256": "b32b48239e2aa24be53718e268cc177702a241cf3e9985ffcc79ac2a8ca2d548"
+		}
+	]
+}

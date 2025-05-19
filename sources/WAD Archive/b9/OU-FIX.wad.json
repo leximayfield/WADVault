@@ -1,0 +1,16 @@
+{
+	"uid": "OU-FIX.wad",
+	"name": "Fix for OTTAWAU.WAD (from ottawa09.zip) v1.2",
+	"description": "The sprites & flats installation of Jean-Serge Gagnon's OTTAWAU.WAD - CHG2OU.BAT - requires registered DOOM v1.9 and won't install with Ultimate DOOM, leaving the sprites and flats graphics inaccessible, as they are contained within proprietary-format .PCH files. This fix changes the format of these extra items to something that is usable with both vanilla and source ports The fix fully complies with the Copyright/ Permissions section of OTTAWAU09.TXT: - it does NOT use OTTAWAU.WAD as a base to build additional levels - it does NOT distribute OTTAWAU.WAD, with or without modifications",
+	"date": "2014-12-11 22:16:47",
+	"files": [
+		{
+			"filename": "OU-FIX.wad",
+			"size": 70947,
+			"crc": 406243479,
+			"md5": "a6e7d70857e5b0f882cdce49837f9d70",
+			"sha1": "b916237f5ee52c4c9171148a2022be3d894418f8",
+			"sha256": "222b1a3e887d280dcda219af2c5c9622238b10636e83e9bcd7040acf64a01322"
+		}
+	]
+}

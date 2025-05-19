@@ -1,0 +1,16 @@
+{
+	"uid": "ega.wad",
+	"name": "EGA.WAD",
+	"description": "This level is designed to provide lots of shooting action between monsters. There aren't a lot of puzzles, or secret doors that must be found to get to the end. But there are many monsters (7 Cyberdemons at ultraviolence). Also, this level includes all weapons. There are several teleports and a few rooms with a glass walls (we can look through this walls, but we can not shoot through them). To exit this level you must find blue, red and yellow key. You do not have a lot of ammo, so shoot only if you must. This level has been tested in single-player mode and deathmatch mode. The difficulty levels are also implemented. In general, the harder the difficulty, the more monsters you get. This level is designed to be challenging WITHOUT using the cheat keys!",
+	"date": "2014-12-18 22:44:26",
+	"files": [
+		{
+			"filename": "ega.wad",
+			"size": 95643,
+			"crc": 4174616980,
+			"md5": "514f128e0a2819d6fd85c08613cf80fd",
+			"sha1": "fdf13837c2c35f6e204f685100e4f6793965399e",
+			"sha256": "72dda989dcedbd328fee54e556d61840d3924d695cec42036496ccd0f8d40992"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tuft.wad",
+	"name": "Tuft Hunter",
+	"description": "A map with some shootguns and only one rocket launcher. The main theme in this map is shootgun fights (hehe).",
+	"date": "2014-12-15 21:39:31",
+	"files": [
+		{
+			"filename": "tuft.wad",
+			"size": 23264,
+			"crc": 1004883464,
+			"md5": "64af993256bccde4869480b767dfce42",
+			"sha1": "a0eb58e8b19f1d0c765352f050ad6c38b8b31804",
+			"sha256": "337caa0092a5df2685449b1753641daa9d19a05240ae50979c47b057a3aaa6f5"
+		}
+	]
+}

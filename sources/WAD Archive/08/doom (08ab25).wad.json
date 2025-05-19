@@ -1,0 +1,15 @@
+{
+	"uid": "doom (08ab25).wad",
+	"name": "The Ultimate Doom (Unity 1.1)",
+	"version": "08ab25",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 12468955,
+			"crc": 879381501,
+			"md5": "21b200688d0fa7c1b6f63703d2bdd455",
+			"sha1": "08ab2507e1d525c4c06b6df4f6d5862568a6b009",
+			"sha256": "e082c77ba084131c20a3c33070e5f0ff62d68dd7961c8c7bc4cdc6e43677e0cb"
+		}
+	]
+}

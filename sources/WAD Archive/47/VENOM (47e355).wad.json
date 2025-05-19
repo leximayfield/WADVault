@@ -1,0 +1,17 @@
+{
+	"uid": "VENOM (47e355).wad",
+	"name": "VENOM",
+	"description": "As I was saying, this was my first level for Doom",
+	"version": "47e355",
+	"date": "2014-08-30 14:23:04",
+	"files": [
+		{
+			"filename": "VENOM.wad",
+			"size": 349302,
+			"crc": 2914659861,
+			"md5": "90f60c29c2de6dd78b0419826f21a1e3",
+			"sha1": "47e355f5838a9f61a72d93cc4faa97348dc41678",
+			"sha256": "83b0437793a46c2f7de1bb485cf479eb5b98e6623abd734394fc16a2b60b7ca6"
+		}
+	]
+}

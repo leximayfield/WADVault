@@ -1,0 +1,17 @@
+{
+	"uid": "njhthief (cf4162).wad",
+	"name": "Thief - The Trail of the Arch-Heretic",
+	"description": "A moody, ambient WAD intended to put some of the feeling of \"Thief: the Dark Project\" into Heretic. It's a reworking of my own njthief WAD for Doom2. This is a revision of the file originally uploaded. It contains minor bug fixes and a number of mainly cosmetic improvements.",
+	"version": "cf4162",
+	"date": "2014-12-30 11:28:01",
+	"files": [
+		{
+			"filename": "njhthief.wad",
+			"size": 8429302,
+			"crc": 2663602068,
+			"md5": "601da7cc8a58cd004676f13ca5fa0cec",
+			"sha1": "cf41626c254b53546c2bc5c005f3b5d7ab6e8ef3",
+			"sha256": "ea4064a108b2a102fd7f5cff4185ae57701e3914bd1bd5a83233874c8474ca3b"
+		}
+	]
+}

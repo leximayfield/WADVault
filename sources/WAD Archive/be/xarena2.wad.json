@@ -1,0 +1,16 @@
+{
+	"uid": "xarena2.wad",
+	"name": "Xaser's Arena (Version 2)",
+	"description": "Okay, basically you're going to go train some in your holographic combat simulator room thingy, which puts you in a fight with some of those nasty demons. However, when you go inside, something goes wrong. All the systems say \"Virus Alert\" and the door locks behind you, so you can't get out. Suddenly, a bunch of baddies appear, and one of them shoots you. Damn, that actually hurt! Somebody must have messed with the simulator making it use real baddies. You have to find a way to activate all the control terminals inside the arena in order to unlock the doors and get out. However, all the enemies won't let you escape so easily...",
+	"date": "2015-01-14 23:07:53",
+	"files": [
+		{
+			"filename": "xarena2.wad",
+			"size": 454492,
+			"crc": 3214314056,
+			"md5": "3a08ceed052a44c2eeaf184835dc7139",
+			"sha1": "be789ebf141401205b497ca3420739c161596b90",
+			"sha256": "48e21242260bf73d79a2d00cc02654998630d39dca8f574d818da77ced36b4b4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "impact (389c2f).wad",
+	"name": "Impact",
+	"description": "My first finished Doom 2 level. Attempted to follow the design principles outlined by John Romero for Doom E1. I additionally tried to design a level that would be a good introduction of the game mechanically and visually for someone completely new to the game.",
+	"version": "389c2f",
+	"date": "2017-06-27 00:08:10",
+	"files": [
+		{
+			"filename": "impact.wad",
+			"size": 59872,
+			"crc": 4281054108,
+			"md5": "c832e524e090e72d59ee4e5eba471b63",
+			"sha1": "389c2ffdaad853909b59e99db516e6c658992997",
+			"sha256": "22e390d11740372328a860f8f269ba26186c39d39aa55ca44260e0c985ea6f07"
+		}
+	]
+}

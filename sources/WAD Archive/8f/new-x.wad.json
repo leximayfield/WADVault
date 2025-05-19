@@ -1,0 +1,16 @@
+{
+	"uid": "new-x.wad",
+	"name": "Yet Another Doom2 Wad...",
+	"description": "This is yet another wad I've sent out. Although It's simple, it's fun...",
+	"date": "2014-12-15 21:26:02",
+	"files": [
+		{
+			"filename": "new-x.wad",
+			"size": 39276,
+			"crc": 1517425659,
+			"md5": "4a092d42c6d3fcccdf2ece2ead98fa5c",
+			"sha1": "8fc73cafba7a2e256ea7c82fc525378a6062726e",
+			"sha256": "a6ac64aa2f0a3ddacf72e38afb86dc6dca67b07f2f97bf8097fc1b34a7c5c1f4"
+		}
+	]
+}

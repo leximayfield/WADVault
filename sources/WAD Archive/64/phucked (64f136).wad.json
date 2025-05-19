@@ -1,0 +1,17 @@
+{
+	"uid": "phucked (64f136).wad",
+	"name": "Phucking Phragged!",
+	"description": "My first deathmatch-only pwad which includes a multi-level building with hexagonal rooms and many elevators. Watch out for the trap door!",
+	"version": "64f136",
+	"date": "2014-01-04 11:55:55",
+	"files": [
+		{
+			"filename": "phucked.wad",
+			"size": 59227,
+			"crc": 950617865,
+			"md5": "5bf5db5156d3d67d76e330f68a15b776",
+			"sha1": "64f136e484e8a326efd81331d8b6f567fb57f92e",
+			"sha256": "c7732e3e9c4be6c7190cef4352b89d01aca4cd55d78dc0e36156365f3c9d0a92"
+		}
+	]
+}

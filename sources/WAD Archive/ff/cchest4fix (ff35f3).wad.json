@@ -1,0 +1,17 @@
+{
+	"uid": "cchest4fix (ff35f3).wad",
+	"name": "Community Chest 4",
+	"description": "The fourth installment of the series, Community Chest 4 boasts 32 maps made by 20 different authors from the Doom community. After four years of work, they have been made available for your enjoyment. Included in this package is the base resource WAD compiled for the project, which can be found in cc4-tex.zip. It may be a good starting point if you need a large, varied, and meticulously organized texture WAD for your project!",
+	"version": "ff35f3",
+	"date": "2013-04-19 17:46:11",
+	"files": [
+		{
+			"filename": "cchest4fix.wad",
+			"size": 72442794,
+			"crc": 3966973783,
+			"md5": "4f634afbe8b57d1b6eb71d7338c68626",
+			"sha1": "ff35f30395d8948d408b3d44b890d9a8cea5d9ee",
+			"sha256": "0cbe32b1a8604fd18264f0db6dc047c989fbba1e1e581c0ae199cc701c92a5a1"
+		}
+	]
+}

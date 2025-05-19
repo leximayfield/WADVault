@@ -1,0 +1,16 @@
+{
+	"uid": "doors-stay-open.pk3",
+	"name": "Doors stay open",
+	"description": "Reassigns LineDef tags for pushable doors so they stay open. (cf. http://www.vgcats.com/comics/?strip_id=210) Tested in Skulltag .98D and GZDoom 1.5.6 Works with doom, doom2, tnt and plutonia IWADs. Does NOT work with heretic IWAD. Put it last in your PWAD list.",
+	"date": "2013-04-21 00:50:48",
+	"files": [
+		{
+			"filename": "doors-stay-open.pk3",
+			"size": 453,
+			"crc": 3324090093,
+			"md5": "e7c0f2c03e4ccfbe09bdd435c43d8cf8",
+			"sha1": "9063d05d48ca1136d4acf70ee355691d9f15106c",
+			"sha256": "827bc6fddaf2166887a715aa37f89715ee028ed1f55c25b82b5f3d258b9f77b1"
+		}
+	]
+}

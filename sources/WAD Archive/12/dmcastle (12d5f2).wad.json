@@ -1,0 +1,17 @@
+{
+	"uid": "dmcastle (12d5f2).wad",
+	"name": "The Doom 2 Castle",
+	"description": "The doom castle. A castle taken over and now overrun by mutated humans and hideous demons. You have been designated to get back the castle. You start in a large courtyard, with a large amount of mutants guarding the entrance. You take them out easily, that wasn't so hard. You open the front door to come face to face with an arachnotron! You frantically start shooting, and what's that, behind you...",
+	"version": "12d5f2",
+	"date": "2014-12-18 22:42:35",
+	"files": [
+		{
+			"filename": "dmcastle.wad",
+			"size": 128598,
+			"crc": 3820785210,
+			"md5": "a2419b25ed69b531535c875dc8233163",
+			"sha1": "12d5f2d7523d539622c4e2c0c770417b2eab8dbb",
+			"sha256": "78ca15202617de5a88e23aef92ac8ab07e45f7d7b96e9c0f00bb0e452f61f10d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pc_dbf.wad",
+	"name": "Dark Barren Forest",
+	"description": "A Dark Barren Forest. Its a dark night and outside lies an unknown beast and it must be killed to win the level. This level will only run in Zdoom. Jumping and shooting are the keys to winning this level. You are only given a SSG, and two shotgunners await outside and decrease your health and chickens run around in a pen nearby.",
+	"date": "2014-12-29 09:08:03",
+	"files": [
+		{
+			"filename": "pc_dbf.wad",
+			"size": 2998516,
+			"crc": 3965058932,
+			"md5": "59f17509305b8205fc5b35e9cc1d81ed",
+			"sha1": "bda5586ba5ecd7dc62d7af0b1bf138e695c74258",
+			"sha256": "a997dcaca5e339a980ae809c44a5379aaddfad7cbf27f473e0a7a92b4284254c"
+		}
+	]
+}

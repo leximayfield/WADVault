@@ -1,0 +1,16 @@
+{
+	"uid": "spdvilla.wad",
+	"name": "Speed Villa",
+	"description": "map02 was made in 100 minutes. map01 has, uh, something I wanted to put in but didn't have time, so I said \"I hereby change the rules, we're having two hours\" and added it. Later I made some demos and decided to wrap it up for a thread on Doomworld's demos forum.",
+	"date": "2015-09-15 16:38:05",
+	"files": [
+		{
+			"filename": "spdvilla.wad",
+			"size": 80004,
+			"crc": 1195007111,
+			"md5": "076e58c0d1fd32281e90ea692c511483",
+			"sha1": "a4f10fb1c606730f17032f10d85584e845d315f7",
+			"sha256": "ec9b34bc5a24524ec95359b9ea25cea5e0d5cf43d8b107ee086efe09e61c7d37"
+		}
+	]
+}

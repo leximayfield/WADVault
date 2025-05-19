@@ -1,0 +1,16 @@
+{
+	"uid": "pm6.wad",
+	"name": "P.M. Six",
+	"description": "P.M. Six equals my initals plus six levels. Below are brief descriptions of each level.",
+	"date": "2013-11-02 16:40:42",
+	"files": [
+		{
+			"filename": "pm6.wad",
+			"size": 594142,
+			"crc": 2108472589,
+			"md5": "9bfed711475c705c0bbde12cbcf517e6",
+			"sha1": "ccb3bc2ef997adc82d9aa3f0a3f82959226de6be",
+			"sha256": "c000f649962181a9f7a52d2905b85be0646fb898c8a1fe9f56c2192b3d517ecc"
+		}
+	]
+}

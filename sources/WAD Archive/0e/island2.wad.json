@@ -1,0 +1,16 @@
+{
+	"uid": "island2.wad",
+	"name": "The Island 2",
+	"description": "A sequel to the first Island, again, a tropical forest, but this time with a much larger indoor area. Plus it runs faster.",
+	"date": "2014-12-24 17:30:45",
+	"files": [
+		{
+			"filename": "island2.wad",
+			"size": 8718113,
+			"crc": 1516350759,
+			"md5": "61ef23627d42d095db8d5e82814f2400",
+			"sha1": "0e9ee40ae26008bb439d638040262659a1f7ac54",
+			"sha256": "1607c54a268f2e412ecc87e37cd0d7538a73b26af2bbea01bdb5c4f840ac088f"
+		}
+	]
+}

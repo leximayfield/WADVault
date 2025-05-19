@@ -1,0 +1,16 @@
+{
+	"uid": "chipdoom.wad",
+	"name": "Chiptune Doom",
+	"description": "All the original Doom tunes remixed into chiptunes via Impulse Tracker (IT) format. If you don't know what a chiptune is, basically it emulates the sound of the NES, Commodore64, etc. music engines in the form of tracker-based music (MOD, XM, S3M, IT, etc). It should be noted that these songs were converted BY HAND, without the aid of a MID->IT converter of any sort. In general, the drums are not the same quality as in most chiptunes, but better. Version 1.1 tweaks the tempo of several songs to get their lengths closer to the original MIDIs. Also, E2M2 has a missing instrument added, and there are various other improvements to some other songs. The WAD is now compressed with WadPTR to save some space (20%).",
+	"date": "2013-04-19 00:32:50",
+	"files": [
+		{
+			"filename": "chipdoom.wad",
+			"size": 2279475,
+			"crc": 1886022164,
+			"md5": "cb859ae8a234996b1aa415540647b970",
+			"sha1": "02a875b39ed59849f5b2304ffd579461b3fa4938",
+			"sha256": "52702f32b0a9b6e7165de0f7f192041aa7e14afe293b2f6728db7c088240051e"
+		}
+	]
+}

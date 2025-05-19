@@ -1,0 +1,16 @@
+{
+	"uid": "archpitm.wad",
+	"name": "Archpit Multiplayer",
+	"description": "Challenging level consisting of 3 main rooms.",
+	"date": "2014-12-15 22:23:31",
+	"files": [
+		{
+			"filename": "archpitm.wad",
+			"size": 57576,
+			"crc": 2543124017,
+			"md5": "925f8f951637db7ab7a752618672c007",
+			"sha1": "523a0c2d9a9221752f8394d84044100138c3d0fd",
+			"sha256": "d464add9f112974a09f8cc5790760bf02eb12ea01c50d72dfa03f5101d0b90e0"
+		}
+	]
+}

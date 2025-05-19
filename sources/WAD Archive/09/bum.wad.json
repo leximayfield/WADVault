@@ -1,0 +1,16 @@
+{
+	"uid": "bum.wad",
+	"name": "2 Player Deathmatch",
+	"description": "This is ONE of the best 2-player deathmatch boards created for DOOM2. All the weapons except for the BFG 2001 are present, and there is armour and a health sphere (which is difficult to get, without actually get'en IT!!)",
+	"date": "2014-12-15 22:54:57",
+	"files": [
+		{
+			"filename": "bum.wad",
+			"size": 73207,
+			"crc": 2407490922,
+			"md5": "d08cfbccfd68d74aa9c13753d14d188c",
+			"sha1": "09fbdcc0a9368b0b402404b14dc38a8ae245f16f",
+			"sha256": "071d42ce159adeed981be263d10c404c133937f6fc5c133fea41096614b02f7e"
+		}
+	]
+}

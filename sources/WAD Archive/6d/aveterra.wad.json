@@ -1,0 +1,16 @@
+{
+	"uid": "aveterra.wad",
+	"name": "Ave Terra",
+	"description": "A small level with constantly changing geometry",
+	"date": "2016-11-12 17:07:55",
+	"files": [
+		{
+			"filename": "aveterra.wad",
+			"size": 440455,
+			"crc": 924907291,
+			"md5": "569c17cb9b2e9e06dde646a14c1a796c",
+			"sha1": "6d1266203611dee02513a3e174965829301f550c",
+			"sha256": "dfba71f437270ecb8f17eec3deade8b67ad687607989cc8f52cd324cc040f38a"
+		}
+	]
+}

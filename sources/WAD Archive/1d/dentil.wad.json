@@ -1,0 +1,16 @@
+{
+	"uid": "dentil.wad",
+	"name": "Dentil",
+	"description": "Zig-zagging level, at least until the walls fall...",
+	"date": "2014-12-18 22:32:16",
+	"files": [
+		{
+			"filename": "dentil.wad",
+			"size": 57096,
+			"crc": 2818851519,
+			"md5": "e3c5f150533ca7ce192d777dd6a84d05",
+			"sha1": "1dc91f410c27a5b38e852d3d79b55695d1d8f909",
+			"sha256": "fcd0ae2780ea2790350baf438da541e7652d63173966979af6c8eb28b2b347ed"
+		}
+	]
+}

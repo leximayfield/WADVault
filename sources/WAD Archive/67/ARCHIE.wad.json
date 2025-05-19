@@ -1,0 +1,16 @@
+{
+	"uid": "ARCHIE.wad",
+	"name": "Archie",
+	"description": "This is an major revision of an earlier wad I made named Impgod wad. This will also demonstrate the invincible monster bug in DooM 2, but unlike Impgod wad, this is a fully functional solo level. This wad should give you a real test of your DooM skills. PS... Don't forget that there's only one way to kill some of these mothers!",
+	"date": "2014-08-30 14:00:46",
+	"files": [
+		{
+			"filename": "ARCHIE.wad",
+			"size": 70108,
+			"crc": 3327552174,
+			"md5": "87677099be906b774826c33d38ea318f",
+			"sha1": "6706da6ec1f2ba208e59fb9f004b9605a02e06fa",
+			"sha256": "1fccd3114b56e3f08f7272bc86dc66f2cbbd325e6a23857ed75261e98eb92e39"
+		}
+	]
+}

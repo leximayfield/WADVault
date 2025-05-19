@@ -1,0 +1,16 @@
+{
+	"uid": "greydeth.wad",
+	"name": "Grey Death Shades",
+	"description": "Changes some colors giving the game a gothic feeling... kinda like some Tori Amos songz :)",
+	"date": "2015-09-15 19:20:32",
+	"files": [
+		{
+			"filename": "greydeth.wad",
+			"size": 19644,
+			"crc": 999292369,
+			"md5": "a35b3cb84663a4ac3135682d0e4543eb",
+			"sha1": "f4c076bedcc44675810115d434a41e91977ce6d8",
+			"sha256": "17802f848ee2c587f1554d9b7ac43a83aa3bff258537cdccf6b3efde6c023387"
+		}
+	]
+}

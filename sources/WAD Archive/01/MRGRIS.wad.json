@@ -1,0 +1,16 @@
+{
+	"uid": "MRGRIS.wad",
+	"name": "The death in brown and gray",
+	"description": "A futurist base with a lot of brown and gray tex- tures. I tried to build a pretty and detailed map, within the limits of the original Doom II -this was a requisite of the 6th Cabro's Map Tournament-, and with the action of the classics... A lot of cannon fodder, I mean. This is a revised update of the original mrgris.wad; it fixes a bug that sometimes left the player stuck in the yellow key area.",
+	"date": "2015-09-14 22:02:25",
+	"files": [
+		{
+			"filename": "MRGRIS.wad",
+			"size": 426739,
+			"crc": 860781598,
+			"md5": "5d5e3acd8475c13c02e293ba0c325971",
+			"sha1": "01353794b1115bbe629aed8878d98707b3e2d20f",
+			"sha256": "499f2aa5fa696dc14fb1029195bb9a2719d65a017982a6538b95a1404d87cb00"
+		}
+	]
+}

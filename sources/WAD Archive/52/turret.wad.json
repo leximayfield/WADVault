@@ -1,0 +1,16 @@
+{
+	"uid": "turret.wad",
+	"name": "Turret Syndrome",
+	"description": "See below for instructions. It definitely helps to know what you're doing before you try.",
+	"date": "2014-12-29 16:11:22",
+	"files": [
+		{
+			"filename": "turret.wad",
+			"size": 139812,
+			"crc": 2485544416,
+			"md5": "71fd99f6439c3daef730eeefac6105c9",
+			"sha1": "52eaa31e99d9409147d0a5b3b23205e31dc2be6e",
+			"sha256": "eb6bc853cf792ff4dee2ec5094bb9851ad02a4fc43d76a46f67981383aa12a41"
+		}
+	]
+}

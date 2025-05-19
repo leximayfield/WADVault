@@ -1,0 +1,17 @@
+{
+	"uid": "ck1 (92bd5b).wad",
+	"name": "Catch'em and Kill'em I",
+	"description": "This DOOM II pwad was designed with 2/4-player deathmatch in mind. It's got no monsters UNLESS you use -SKILL 4 or 5. This will present you with a \"Final Enemy\" like the dude on level #32 (I'm to lazy to put monsters in, so this way, it'll randomize it for me :) Lots of dark corners/rooms to hide in to surprise your buddy. All weapons except the Plasma Gun and the BFG9000 are there, you've just got to look for them (I dont like the P.G. or BFG in deathmatch... spend a long time getting ammo and one flukey shot from the BFG and your SCReWeD! and the P.G. is a stupid weapon! (:-)",
+	"version": "92bd5b",
+	"date": "2013-11-02 15:46:59",
+	"files": [
+		{
+			"filename": "ck1.wad",
+			"size": 46550,
+			"crc": 2984024297,
+			"md5": "e1172cd942a5e6699972fc9facdcf6db",
+			"sha1": "92bd5b3657ec9c9af73168f7624c434a1df58b6f",
+			"sha256": "583c5740c81aa669d4f2ca2eea4327e9822918ed07ca7cba9e74ae9e94097787"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "MAC10 (bb5c06).wad",
+	"name": "Mac-10",
+	"description": "Kick Butt option instead of pistol",
+	"version": "bb5c06",
+	"date": "2013-11-06 22:30:55",
+	"files": [
+		{
+			"filename": "MAC10.wad",
+			"size": 28022,
+			"crc": 461006390,
+			"md5": "0c657698ced6dc1c7348b74f20b00c09",
+			"sha1": "bb5c06d37818b58cddcd784054c00d143f86416f",
+			"sha256": "d6d336b7f64d1c9550862567e786cb388ad43873b5c2b6ed4a0c7ad0ace76e91"
+		}
+	]
+}

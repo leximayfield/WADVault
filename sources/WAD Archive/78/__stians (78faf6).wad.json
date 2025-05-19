@@ -1,0 +1,17 @@
+{
+	"uid": "__stians (78faf6).wad",
+	"name": "Stian's deathmatch series for DOOM ][",
+	"description": "Collection with four of my own deathmatch levels. Health is sparse on all of them. Meaning lots of frags and a hopefully a short life for everyone. This levels have been developed, tested and adjusted to be fun for deathmatch. They work best with 3 or 4 players. There are no secrets, but you might want to take a look with your favourite DOOM-editor to get hold of the trigger lines.",
+	"version": "78faf6",
+	"date": "2013-11-04 19:19:55",
+	"files": [
+		{
+			"filename": "__stians.wad",
+			"size": 182458,
+			"crc": 3552776973,
+			"md5": "623b775b1da169b6c1237b0044c58e82",
+			"sha1": "78faf64dede68ceace23a814998e37ae80338ef7",
+			"sha256": "1afd22cc497170206e1750ac7d914d08d71556dd2813053390d21e435aabd41d"
+		}
+	]
+}

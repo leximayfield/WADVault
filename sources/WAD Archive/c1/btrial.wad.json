@@ -1,0 +1,16 @@
+{
+	"uid": "btrial.wad",
+	"name": "The Blood Trials",
+	"description": "*GZDoom with freelook enabled heavily recommended* A short, but replayable level that lets you take three different routes to get to the end, which act as self-contained challenges.",
+	"date": "2017-06-27 00:22:51",
+	"files": [
+		{
+			"filename": "btrial.wad",
+			"size": 6231726,
+			"crc": 175732136,
+			"md5": "a9c7c5046b538e2e480ab1cc0554ec10",
+			"sha1": "c1e664c2d716de2d47310a161cc744804cccd960",
+			"sha256": "97406bd023a48e31af3dd6dae6c31d75b5a14783c8542c781a79192c8e4f1e21"
+		}
+	]
+}

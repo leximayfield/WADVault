@@ -1,0 +1,16 @@
+{
+	"uid": "ace1.wad",
+	"name": "Ace1",
+	"description": "A smallish level with a gothic/medievil type theme which is based around a study/library overun by demons etc. You may use any port to play this level but please disable mouselook and jumping as it was intended to play under vanilla Doom2 parameters ;) It took 2-3 weeks to complete and most of that time was taken learning the editors I used so hopefully its a bit playable.",
+	"date": "2014-12-15 22:03:42",
+	"files": [
+		{
+			"filename": "ace1.wad",
+			"size": 143414,
+			"crc": 2426608686,
+			"md5": "44fac4ce8041ec124b5f61839c2d2a11",
+			"sha1": "24ef6ab0c9e78273640d96d994cf93c5f361366e",
+			"sha256": "f4493bfbbd0e78b07b54fa23e6c11309c07060f372f558321a2f15fe09b84b87"
+		}
+	]
+}

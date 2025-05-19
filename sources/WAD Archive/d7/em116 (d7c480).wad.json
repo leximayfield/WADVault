@@ -1,0 +1,17 @@
+{
+	"uid": "em116 (d7c480).wad",
+	"name": "Eternal Memories 1",
+	"description": "17 small maps made from memory, based on areas from TeamTNT's Eternal Doom 3. Some stuff is intentionally different, while other stuff is an error in memory. Looking at the eternall maps in an editor or in-game wasn't allowed. I played eternall a lot a few years ago and each map once casually about a month before starting the wad.",
+	"version": "d7c480",
+	"date": "2014-12-24 19:18:47",
+	"files": [
+		{
+			"filename": "em116.wad",
+			"size": 2639100,
+			"crc": 2038205444,
+			"md5": "d470214a0ef30d33a26a2f568466fc26",
+			"sha1": "d7c48093abd384430f49e108f5ecd2cda11f22b0",
+			"sha256": "fe8c8d69e0b0bc400d1fb574fd99833783e0828a85ea26a82a48f3108907f364"
+		}
+	]
+}

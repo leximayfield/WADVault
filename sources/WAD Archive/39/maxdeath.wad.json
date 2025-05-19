@@ -1,0 +1,16 @@
+{
+	"uid": "maxdeath.wad",
+	"name": "maxdeath.wad",
+	"description": "A DOOM II deathmatch only level. This is my first wad, so go easy on me :) Any feedback or CONSTRUCTIVE criticism would be appreciated.",
+	"date": "2013-11-06 22:40:29",
+	"files": [
+		{
+			"filename": "maxdeath.wad",
+			"size": 35458,
+			"crc": 1568014614,
+			"md5": "fa1617a6601555fbef759e75e4435748",
+			"sha1": "393a02d893f7dae2ba726e6df622ce6886ec1118",
+			"sha256": "c1ef3994c9ac6b39582fcf3095028d024305c9a3d05c7a4347ca036354bcab3d"
+		}
+	]
+}

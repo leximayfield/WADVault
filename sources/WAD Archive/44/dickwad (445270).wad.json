@@ -1,0 +1,17 @@
+{
+	"uid": "dickwad (445270).wad",
+	"name": "DickWad",
+	"description": "A WAD with multiple levels, not-so-new sounds, new graphics, lots of secrets, deception, and evil tricks. Best on 486.",
+	"version": "445270",
+	"date": "2014-01-07 22:16:37",
+	"files": [
+		{
+			"filename": "dickwad.wad",
+			"size": 1687808,
+			"crc": 675062872,
+			"md5": "18074f5aef72999db9ec04b15a2b0321",
+			"sha1": "445270b9be542e283751098ce279ccf23c6c98fb",
+			"sha256": "5f781bd34efa6fa6d9d2cefb6a96efb8e3f17bf9fedf61697c1cacdd6303256e"
+		}
+	]
+}

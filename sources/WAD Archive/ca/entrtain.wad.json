@@ -1,0 +1,16 @@
+{
+	"uid": "entrtain.wad",
+	"name": "Entertainer",
+	"description": "This is an awesome Deathmatch level consisting of one fairly large \"arena\" with two attached stair cases and a duel room that you can get to via teleport. This level is pretty cool I think, especially considering it is only the second level I ever created so far (the other bit the dust). I hope you all like it. Send suggestions and such to me at the above address. I will try to respond if you want me to. Thanks for trying this level.",
+	"date": "2014-12-15 23:03:12",
+	"files": [
+		{
+			"filename": "entrtain.wad",
+			"size": 95767,
+			"crc": 610191805,
+			"md5": "a32bde5dc2987db3e317d3611b4e4ccc",
+			"sha1": "ca563134d62015bc9cbd6b915b80edc3b0f55c57",
+			"sha256": "bee39d4dc06a92ed06c47d8961a5458e4463796da8aad2af204788cafbb8a72e"
+		}
+	]
+}

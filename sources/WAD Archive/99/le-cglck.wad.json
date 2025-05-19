@@ -1,0 +1,16 @@
+{
+	"uid": "le-cglck.wad",
+	"name": "Custom Glock18",
+	"description": "Finally, after hours of work, here is my first custom weapon mod. i know there's already a Glock 18, but this one is a brand new weapon.",
+	"date": "2014-12-11 22:21:12",
+	"files": [
+		{
+			"filename": "le-cglck.wad",
+			"size": 86956,
+			"crc": 3673125993,
+			"md5": "351449a3bbf434d972155b6a50676113",
+			"sha1": "99b61ed5c6679903143780fc4b974827f6e7ee50",
+			"sha256": "daa91b8a0df0847d97921620127d266cfcc81537d2a13ff8a5b9ef67d100652b"
+		}
+	]
+}

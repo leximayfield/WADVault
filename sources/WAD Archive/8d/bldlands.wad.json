@@ -1,0 +1,16 @@
+{
+	"uid": "bldlands.wad",
+	"name": "Bloodlands",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2014-12-15 23:13:02",
+	"files": [
+		{
+			"filename": "bldlands.wad",
+			"size": 322080,
+			"crc": 503490218,
+			"md5": "5ed50e9eee2279fe5b9c9f2e80b37df3",
+			"sha1": "8d37603b7deaf786bea52691764195162951c9f3",
+			"sha256": "fc8fbf0e005531177ed2c7c7f89edc8793aab2a3278a8cc10261b04c11a32f5f"
+		}
+	]
+}

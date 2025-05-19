@@ -1,0 +1,17 @@
+{
+	"uid": "painless (65f79f).wad",
+	"name": "Painless",
+	"description": "Painless is my final level for DOOM. It encompasses all the things I've collected about the DOOM engine into one level. Although the level is large, it will save with no problems. Deathmatch and Cooperative starts are available in the level, so feel free to frag your co-workers/friends/relatives/spouses/selves.",
+	"version": "65f79f",
+	"date": "2013-11-02 15:13:49",
+	"files": [
+		{
+			"filename": "painless.wad",
+			"size": 255430,
+			"crc": 2653690038,
+			"md5": "5dd442accf428e625c23e9b0b4be9793",
+			"sha1": "65f79f19e6681143ef5f42d1834eaace5e6463e3",
+			"sha256": "37efa1c11812563de3accb11cd5be3ba10ae56f7ba24981010238c9135329a71"
+		}
+	]
+}

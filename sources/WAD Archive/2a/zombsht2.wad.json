@@ -1,0 +1,16 @@
+{
+	"uid": "zombsht2.wad",
+	"name": "Double Barrel Shotgun from Zombie Doom",
+	"description": "Due to the recent death of Zombie Doom, I've set out to create a series of weapons patches based on some of the weapons from the Zombie Doom beta. Al was cool enough to let me do this, so enjoy!",
+	"date": "2014-12-10 20:42:55",
+	"files": [
+		{
+			"filename": "zombsht2.wad",
+			"size": 54040,
+			"crc": 4265320712,
+			"md5": "ad65e03289ff61ec36870c4b0da87a77",
+			"sha1": "2a67a0d3a23c8cddfec65959aa86937117e8a0bc",
+			"sha256": "a48a5591e5c2d871182fe8de4353d12b6494d60da6f2700f82e7a3cde0d3a95a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "kgy2.wad",
+	"name": "Return to the Exit",
+	"description": "You've just reached the exit. But when you try to approach the exit switch... Damn! This quest appears to be longer than you thought.",
+	"date": "2014-12-27 12:36:44",
+	"files": [
+		{
+			"filename": "kgy2.wad",
+			"size": 220032,
+			"crc": 2235131836,
+			"md5": "0138dae6a2cb5cae7574cf38f678eec0",
+			"sha1": "aebb5e85b7dddef5adc3979b82c345be22414d1a",
+			"sha256": "79ccdd78ab86c9a67415b2acec19739fdb58d8fdab10e5125848cb7bfb6c1832"
+		}
+	]
+}

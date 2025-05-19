@@ -1,0 +1,17 @@
+{
+	"uid": "bdm2_f (06c8d3).wad",
+	"name": "BDM2_F.WAD  (aka brian's death match wad for doom][)",
+	"description": "This is a wad designed for death match but it seems more fun in single player. It is a half outside, half inside level. I think it came out pretty damn good, Give it a look! All the weapons are there but not keys. In single player there are gobs of baddies but plenty of amo. This is a fixed version of bdm2.wad, just a little different, and no visplane error. (though only one person found the bug before)",
+	"version": "06c8d3",
+	"date": "2014-01-07 22:26:38",
+	"files": [
+		{
+			"filename": "bdm2_f.wad",
+			"size": 82573,
+			"crc": 3024694483,
+			"md5": "bd25619b5de31fa173a85da8abf7cb2c",
+			"sha1": "06c8d3d4e8604cc23665ca9a198931c372161947",
+			"sha256": "1e8f48bc21b65f0293b18e215dfc6e14d7980d467a7c8e44d2c67998f1a5aded"
+		}
+	]
+}

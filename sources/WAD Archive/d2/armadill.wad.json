@@ -1,0 +1,16 @@
+{
+	"uid": "armadill.wad",
+	"name": "Armadillo",
+	"description": "A new 5-level mission. These levels are fairly hard on 'Ultra Violence' and are intended for only some of the best players (like ourselves). 'Hurt me Plenty' is for average/above average players and 'Hey, not too rough'is a doddle.",
+	"date": "2014-12-15 22:14:25",
+	"files": [
+		{
+			"filename": "armadill.wad",
+			"size": 760532,
+			"crc": 1044731724,
+			"md5": "f0dfa43f845fbb362849bfb9511df23d",
+			"sha1": "d26fe543ebd0a827ef4c3af1f424d52314e6de6f",
+			"sha256": "21efb64e94a5b525ae75a6e5b24600a0555b2773574edc0dd7e51d5086dabd5d"
+		}
+	]
+}

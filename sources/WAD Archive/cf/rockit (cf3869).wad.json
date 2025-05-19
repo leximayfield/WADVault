@@ -1,0 +1,17 @@
+{
+	"uid": "rockit (cf3869).wad",
+	"name": "Rock It!",
+	"description": "Complete music replacement for both Doom and Doom 2 with : original compositions found on the internet. Mostly heavy : rock with some techno and electronic tracks scoured around.",
+	"version": "cf3869",
+	"date": "2015-09-15 13:15:39",
+	"files": [
+		{
+			"filename": "rockit.wad",
+			"size": 1869836,
+			"crc": 971588431,
+			"md5": "cb38711b350c5fb4f70342609df048c0",
+			"sha1": "cf38690330aa722cca44132e2b50fa32bd7866d2",
+			"sha256": "bddfb38b2c300a29d2bd2c055d36751a3e20894c2464732fa4123126907285e6"
+		}
+	]
+}

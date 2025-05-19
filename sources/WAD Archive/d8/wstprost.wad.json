@@ -1,0 +1,16 @@
+{
+	"uid": "wstprost.wad",
+	"name": "Waste Processing Station",
+	"description": "Waste Processing Station is a base-themed map that's made in the ZDoom (UDMF) mapping format. The map only uses stock resources provided with Doom 2 so no new things or textures are included.",
+	"date": "2014-12-29 15:13:16",
+	"files": [
+		{
+			"filename": "wstprost.wad",
+			"size": 1231803,
+			"crc": 1753515852,
+			"md5": "2fb3c091f0976b3939c04167578c956a",
+			"sha1": "d82279d4db460a7278778960bf252b2983cbd1ad",
+			"sha256": "4b15daab6b807a3ddf32fbb99dd887f518d6fdf2c55b2be87fff0cdf5fe36fd7"
+		}
+	]
+}

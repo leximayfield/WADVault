@@ -1,0 +1,17 @@
+{
+	"uid": "complex (26215d).wad",
+	"name": "Military Research Complex",
+	"description": "Refer to Mission Brief, below.",
+	"version": "26215d",
+	"date": "2014-12-21 15:11:22",
+	"files": [
+		{
+			"filename": "complex.wad",
+			"size": 2508727,
+			"crc": 1576028341,
+			"md5": "2476ff9f2ef630f0d8b62bf35461af6e",
+			"sha1": "26215ddb9b6adbab28452942522c1035678231fd",
+			"sha256": "e57d91bbc83d0f2c2233f0c49bf07b99637cfac3cabc2094caae414d38a6d53e"
+		}
+	]
+}

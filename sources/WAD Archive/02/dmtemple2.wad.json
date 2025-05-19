@@ -1,0 +1,16 @@
+{
+	"uid": "dmtemple2.wad",
+	"name": "Deathmatch: Temple",
+	"description": "A deathmatch wad that is set in a temple made of bricks, there are alotsa stone pillars where you can cover, also an outdoors area with the river that has the deep water effect, the BFG room is the ashwall room that you can see from the inside the temple find the teleporter to get to the BFG room! And also there is a new difficulty screen for nightmare, i replaced it with \"Bring it on!\" it's the first custom difficulty screen i made. By the way this is an updated version of DMTEMPLE.WAD, you can download the old one on my blog, www.tnbdoomblog.blogspot.com",
+	"date": "2014-12-15 21:35:49",
+	"files": [
+		{
+			"filename": "dmtemple2.wad",
+			"size": 210845,
+			"crc": 4255936972,
+			"md5": "cacc675547f6fb838c893c4e2129ea5f",
+			"sha1": "020c1af9679980a42fb3f5d78bd28a7d826dcfa7",
+			"sha256": "9dc418adf201036a6adfabd295485fe6a9166b275cf0c428d4260d897d7133e1"
+		}
+	]
+}

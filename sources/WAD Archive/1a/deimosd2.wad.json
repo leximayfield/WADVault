@@ -1,0 +1,16 @@
+{
+	"uid": "deimosd2.wad",
+	"name": "Deimos Carnage",
+	"description": "Medium sized Doom II deathmatch level with Shores Of Hell style design. Good for 4-6 players.",
+	"date": "2014-12-15 21:50:26",
+	"files": [
+		{
+			"filename": "deimosd2.wad",
+			"size": 803086,
+			"crc": 1539744126,
+			"md5": "a9aa2af8d7858eb692df64d0d6e429b1",
+			"sha1": "1a83581f26d8b118e00d851082957920e5812cd2",
+			"sha256": "3806708689ff16aa5db3e54822c0418b29ef4faa4a5c3b2ae6f0a24ea147965e"
+		}
+	]
+}

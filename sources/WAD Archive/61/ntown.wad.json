@@ -1,0 +1,16 @@
+{
+	"uid": "ntown.wad",
+	"name": "Night Town",
+	"description": "A limit-removing level for Doom 2, inspired in some parts by Plutonia Revisited and Memento Mori map 28.",
+	"date": "2017-10-19 19:28:48",
+	"files": [
+		{
+			"filename": "ntown.wad",
+			"size": 1006226,
+			"crc": 3738250965,
+			"md5": "32ebc458229ae6445f187c33b95c2d93",
+			"sha1": "61335485258726d5cf864bd4aeaf2cdc9b75f4ee",
+			"sha256": "a0de4940fca3e24b2260a755a761113713054b58c2bafccdb99dd0b03b9ea4ec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "stairwar (c67fb9).wad",
+	"name": "STAIRWAR",
+	"description": "A single room map, with all of the weapons, and tons of ammo, and a whole horde of monsters. A pretty big challenge for a player to finish (the beginning is pretty rough) in a single-player game, but I can do it, so you should be able to as well! =O). I've never tried it with > 2 players... It's kind slow with multiple players until you kill off most of the monsters, and then the speed improves (this is on 486-66 Mhz machines with 128Kb cache) The theme: The world's longest marble staircase!",
+	"version": "c67fb9",
+	"date": "2015-12-07 08:59:13",
+	"files": [
+		{
+			"filename": "stairwar.wad",
+			"size": 39599,
+			"crc": 37649442,
+			"md5": "427042afbef523e1b18b4ff58fafc455",
+			"sha1": "c67fb9d0e99d79dd05818c281606f865cd341411",
+			"sha256": "b154a22efcb3a8bc0d66bb19705f221d04a3441c488302d74a2deecef5aebc64"
+		}
+	]
+}

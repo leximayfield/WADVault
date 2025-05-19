@@ -1,0 +1,17 @@
+{
+	"uid": "happydth (b32e71).wad",
+	"name": "Have A Nice Day!",
+	"description": "This level was designed as a deathmatch level. It can, however, be very challenging if you play it one-player. I was using a DeHacked version of Doom2 while I made this, and it's set up for use with it. Without it, you'll probably want to use the IDKFA code for ammo, since you're gonna run out long before you kill the monsters. This level lends itself to mostly arena-style combat, which is my favorite.",
+	"version": "b32e71",
+	"date": "2013-11-02 15:57:55",
+	"files": [
+		{
+			"filename": "happydth.wad",
+			"size": 122330,
+			"crc": 1877206067,
+			"md5": "9a7a09be5551f17730cbcef3c435eccc",
+			"sha1": "b32e71505031bc1a917512d030c3c3b2c1333674",
+			"sha256": "651d80638b280418be3f61e98c27d635f882911527e23c7a7ecf8e1b31b0e7ce"
+		}
+	]
+}

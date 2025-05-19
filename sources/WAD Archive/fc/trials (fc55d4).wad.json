@@ -1,0 +1,17 @@
+{
+	"uid": "trials (fc55d4).wad",
+	"name": "The Trials",
+	"description": "Started out as a bit of a mess about with DB2 but",
+	"version": "fc55d4",
+	"date": "2015-01-14 14:40:36",
+	"files": [
+		{
+			"filename": "trials.wad",
+			"size": 205993,
+			"crc": 2609933976,
+			"md5": "00efc921772dbe762d2dba0e8a8826a9",
+			"sha1": "fc55d4e52c273a27bd25ab5c68966343c0e20b29",
+			"sha256": "58cdad2066ca2ceefd868428822defb2a2e90bfaca3a7f9482a5450fe7cdba3a"
+		}
+	]
+}

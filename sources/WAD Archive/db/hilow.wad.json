@@ -1,0 +1,16 @@
+{
+	"uid": "hilow.wad",
+	"name": "HI-Low Death (DOOM 2)",
+	"description": "A small deathmatch wad. Full of pit falls.",
+	"date": "2014-12-15 22:26:54",
+	"files": [
+		{
+			"filename": "hilow.wad",
+			"size": 21440,
+			"crc": 984136001,
+			"md5": "7188d4b2d6061cff96192c722c900994",
+			"sha1": "dbf441c7d48b9f45b1010599e3e9f2712bff2eef",
+			"sha256": "77118f8a01a5708907ad63975ba17f6ea4ce26932bcf626d17ff55ce912fd2d1"
+		}
+	]
+}

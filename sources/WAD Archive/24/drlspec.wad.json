@@ -1,0 +1,16 @@
+{
+	"uid": "drlspec.wad",
+	"name": "DoomRL Special Levels: A Recursive Adaptation, Version 1.1",
+	"description": "So there was Doom. And there were roguelikes. Then there was Doom: the Roguelike. And now, the iconic special levels unique to DoomRL have their own adaptations in ye olde Doom 2 (or Final Doom). Each map also has co-op and deathmatch starts, and deathmatch-only items. See below for a summary of each map, and what's been tweaked in the process of adapting them. If a level's gimmick has you stumped, check there.",
+	"date": "2014-12-24 18:54:39",
+	"files": [
+		{
+			"filename": "drlspec.wad",
+			"size": 921668,
+			"crc": 873765278,
+			"md5": "3d8e61f98d8d06769939ce29c73508ff",
+			"sha1": "24775a6a13e726d1d33748ff0eb7ff7adb0ab756",
+			"sha256": "708801515ad222cff339b26de01c11c3da680b5b79b5e9cea148347e06344178"
+		}
+	]
+}

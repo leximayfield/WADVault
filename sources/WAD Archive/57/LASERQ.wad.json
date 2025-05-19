@@ -1,0 +1,16 @@
+{
+	"uid": "LASERQ.wad",
+	"name": "Laser Quest (Deathmatch WAD)",
+	"description": "This WAD is based on the floor layout of my local Quasar, (called laser quest). I made a wad for Doom 1 ages ago (my first DM wad) and this is an updated Doom 2 version. This one has a couple of surprises - two hidden foot switches which make the whole level change state. (see the hints section, below) It can be played with or without monsters. (best with monsters, personally) High frag counts, quick kills.",
+	"date": "2014-10-14 21:00:15",
+	"files": [
+		{
+			"filename": "LASERQ.wad",
+			"size": 62536,
+			"crc": 3747153981,
+			"md5": "4b7b2e35b37f67669cb64723f8ad8548",
+			"sha1": "571c0c30894558b51ac725879fcad615d39af77e",
+			"sha256": "ffc68a4afe5096573c8b9505d1c45631ca167fb182901ea01264260e528a8da3"
+		}
+	]
+}

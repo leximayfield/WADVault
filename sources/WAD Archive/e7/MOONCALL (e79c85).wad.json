@@ -1,0 +1,17 @@
+{
+	"uid": "MOONCALL (e79c85).wad",
+	"name": "Moon's Call",
+	"description": "The sequel to Moonsong. Another practice map, this one intended to practice some different types of architecture and gameplay tweaks. After taking the gateway planted in Moonsong, you drop into a hellish world situated in the void. Isolated and alone, your only option is to go through.",
+	"version": "e79c85",
+	"date": "2016-11-12 17:04:48",
+	"files": [
+		{
+			"filename": "MOONCALL.wad",
+			"size": 533971,
+			"crc": 3119390696,
+			"md5": "eb85837b37b44986568fa8760c03c329",
+			"sha1": "e79c85923eae210ae4873be4794aefe87c12b80f",
+			"sha256": "4ad7a6635c3549932acaefc0113a46622e92bf23230d151451f533d49b5d1853"
+		}
+	]
+}

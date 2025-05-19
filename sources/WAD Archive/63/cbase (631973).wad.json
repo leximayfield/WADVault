@@ -1,0 +1,17 @@
+{
+	"uid": "cbase (631973).wad",
+	"name": "Condemned Base",
+	"description": "My first map, please play and review. It's fairly large, starting in a techbase environment and moving into hellish. ************************************************** Pointless backstory: A rogue member of the UAC has opened the floodgates to hell and escaped. You are the last of a crack team of marines to deal with this inconvenience. You determine to clean out the base of hellspawn, and find the bastard responsible, even if you have to follow him into hell....",
+	"version": "631973",
+	"date": "2014-12-15 22:15:38",
+	"files": [
+		{
+			"filename": "cbase.wad",
+			"size": 944449,
+			"crc": 2530453754,
+			"md5": "b848270e92404f40aad2adf364e29343",
+			"sha1": "631973972f8742440e5d5eaf7ec4a53ab7421497",
+			"sha256": "ed48076a59a46eeacdb8f33914116fce638739c453fd98563e633240ddf4d649"
+		}
+	]
+}

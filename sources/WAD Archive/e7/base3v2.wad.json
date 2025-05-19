@@ -1,0 +1,16 @@
+{
+	"uid": "base3v2.wad",
+	"name": "Earthbase3",
+	"description": "A Military base, dark, and abandoned (except for baddies, of course!)",
+	"date": "2014-12-15 21:51:42",
+	"files": [
+		{
+			"filename": "base3v2.wad",
+			"size": 446588,
+			"crc": 3123241249,
+			"md5": "e7654fe8a116332b2c4d11d67f9544b8",
+			"sha1": "e7b770be2ac48ed858da2b0b4501c8b2295636ec",
+			"sha256": "d7d85b3c735a307ac637695083e479af4180f8d4a8b18ebcaabae99c7aa852ee"
+		}
+	]
+}

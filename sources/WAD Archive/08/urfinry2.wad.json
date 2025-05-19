@@ -1,0 +1,16 @@
+{
+	"uid": "urfinry2.wad",
+	"name": "The UAC Water Refinery - Part 2",
+	"description": "** MEANT TO PLAY ON DOOM2.EXE ** This is the second part of The UAC Water Refinery. I have added three new textures, which replace the blood-puking head-statue from the original Doom. The detail has been cut down a little, due to the limits of Vanilla Doom. Story: Takes place right before you press the switch at the end of the first part. As you press the swith, you go down an elevator. You are now inside the underground Water Refinery, where you now have to halt the demonic corruption of the water. To do this, you will have to defeat the 4 Masterminds behind the operation.",
+	"date": "2014-04-17 12:46:43",
+	"files": [
+		{
+			"filename": "urfinry2.wad",
+			"size": 574731,
+			"crc": 2644461384,
+			"md5": "b7a90c1f437fab5a0edbbf2c43c95d38",
+			"sha1": "08f90faf32f48d12bcc56bfe3588764231eb1160",
+			"sha256": "92f8ebeb1beb535901680acb644105f5b20c3d31f905332b0174fc8edbc83fd5"
+		}
+	]
+}

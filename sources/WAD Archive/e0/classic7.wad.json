@@ -1,0 +1,16 @@
+{
+	"uid": "classic7.wad",
+	"name": "classic7.wad",
+	"description": "A level in the classic Doom style. Theme = Episode 1 Base",
+	"date": "2014-12-13 17:35:48",
+	"files": [
+		{
+			"filename": "classic7.wad",
+			"size": 166518,
+			"crc": 2989356218,
+			"md5": "9acec0910e55ab1446c92185694e0ad5",
+			"sha1": "e074c79ffabc05b74552905b84f0e9e414959ae9",
+			"sha256": "d2eb6baef450e43b4d58fea05bc0dc3b9a4fa514ae132011b69a895a5621ab86"
+		}
+	]
+}

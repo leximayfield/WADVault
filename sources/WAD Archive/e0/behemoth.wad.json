@@ -1,0 +1,16 @@
+{
+	"uid": "behemoth.wad",
+	"name": "Behemoth",
+	"description": "A moderately large map featuring a hellish fortification with progressively more difficult fights, especially in the secret areas.",
+	"date": "2018-03-28 00:13:35",
+	"files": [
+		{
+			"filename": "behemoth.wad",
+			"size": 4825049,
+			"crc": 1956137093,
+			"md5": "afe963441a06d464031a74bd19da880d",
+			"sha1": "e05dc899f99cc462c6d680b79c8daf6046c7773d",
+			"sha256": "dceae441a5a57b2ceef897246952a1d3213d2c5a2f69098458afa033b295c629"
+		}
+	]
+}

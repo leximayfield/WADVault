@@ -1,0 +1,16 @@
+{
+	"uid": "HIDDEN.wad",
+	"name": "Hidden Temple",
+	"description": "My first complete singleplayer map. Thematically, Hidden Temple should make you feel like you're exploring in a lost world. It's a quick one, though.",
+	"date": "2014-12-24 19:17:26",
+	"files": [
+		{
+			"filename": "HIDDEN.wad",
+			"size": 539520,
+			"crc": 2860357200,
+			"md5": "257d075052e30460b33b0962a41a3415",
+			"sha1": "01f18b86d35e21263ce9bea8bd07fd1c09d93b7c",
+			"sha256": "c063900c1ecf33f4bd5c6f6f33f9b94005abc20bd380f0feecf929993da767d5"
+		}
+	]
+}

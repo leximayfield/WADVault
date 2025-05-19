@@ -1,0 +1,16 @@
+{
+	"uid": "gzmain31.wad",
+	"name": "Doom Guy's House",
+	"description": "Converted main2d2.wad to use GZDoom features like 3D floor, mirror, and fog. A simple house wad. MAP01 -- \"Move IT\" OGG music in gzmain41.wad produced by the author himself",
+	"date": "2018-04-14 22:18:44",
+	"files": [
+		{
+			"filename": "gzmain31.wad",
+			"size": 455640,
+			"crc": 4226973699,
+			"md5": "72545a340e53e57c6b1ccca47868561f",
+			"sha1": "a34027ea28938feca295bc1034658d5adbbdc99d",
+			"sha256": "738ad3928ad3bafc5ed096450fcebc8982150cc9dbaf01f9c88b624eea8a5466"
+		}
+	]
+}

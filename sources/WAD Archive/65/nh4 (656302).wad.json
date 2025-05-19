@@ -1,0 +1,17 @@
+{
+	"uid": "nh4 (656302).wad",
+	"name": "NH4",
+	"description": "Two maps with no health.",
+	"version": "656302",
+	"date": "2016-05-14 23:48:44",
+	"files": [
+		{
+			"filename": "nh4.wad",
+			"size": 581001,
+			"crc": 770124918,
+			"md5": "175d9d9f31c03ef1269cb9fbf21f8bef",
+			"sha1": "656302e4e32d8cc7d96f53ca071afb0b79abce0f",
+			"sha256": "173577f33b9b66f63e6e39b0d83692871beefec7b5507a6cf9f660b0f90261ed"
+		}
+	]
+}

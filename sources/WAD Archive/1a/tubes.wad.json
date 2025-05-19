@@ -1,0 +1,16 @@
+{
+	"uid": "tubes.wad",
+	"name": "tubes.wad",
+	"description": "Small game. No monsters. Lots of trip lines.",
+	"date": "2014-12-13 12:55:00",
+	"files": [
+		{
+			"filename": "tubes.wad",
+			"size": 27146,
+			"crc": 275439149,
+			"md5": "6460c1cb88f5ee76b80ad4d0f9d1bfd4",
+			"sha1": "1ab7ab3a94e79fe34bf157fa10ea5d259ed997c6",
+			"sha256": "ca7205e082d348e8e0a8e5bad35a26c30475d8a9289a6b2b44c48cc4eba53242"
+		}
+	]
+}

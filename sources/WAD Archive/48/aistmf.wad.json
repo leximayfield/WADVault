@@ -1,0 +1,16 @@
+{
+	"uid": "aistmf.wad",
+	"name": "AAAIIIEEEE!  Its Stuck to My Face!",
+	"description": "Well i was sittin' there and suddenly the darndest thought popped up in my head. What if i made a script which would change the light colors of a room when the walls were shot. BAMN the wad was born. But you cannot have a level with just a room so i threw on the other stuff. The anti grav room, for the longest time i wasn't so sure what to do with that space, all i knew was that i needed it for purposes of connectivity but i eventually made it antigrav with that bfg dispenser on a 40 second timer. I had polyobject doors but they bleed like all get out and were not nessecary so i just took 'em out and put in conventional ones. The midi, stayin' alive was a silly thing. I showed my roomie the script. He gave me that concerned look he often does and says \"Is that disco doom?\" I said no but that reminds me I got a stayin' alive midi in some forgotten dusty portion of my hard drive so i pulled out that midi and put it in the wad as d_disco note that this wad does not replace iwad entries like most wads do. To access this map it is listed as \"aistmf\". Either run zdoom with the command +map aistmf or type map aistmf in the console. If you want the classic map01 music you can type \"changemus D_RUNNIN\". Well actually it replaces one IWAD lump, DEMO1 its a zdoom 1.23 beta demo.",
+	"date": "2014-12-15 22:14:21",
+	"files": [
+		{
+			"filename": "aistmf.wad",
+			"size": 455424,
+			"crc": 1283126520,
+			"md5": "3837b8d47efd771e891d1acac38f341e",
+			"sha1": "489e8874a817d9cf1b398f046729f3170214dc1a",
+			"sha256": "446e4de3531d0a401b7e9776d8fb5b13ed58dbd5c022438ac0b04c66c15be66e"
+		}
+	]
+}

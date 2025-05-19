@@ -1,0 +1,16 @@
+{
+	"uid": "whackme (27fd81).wad",
+	"description": "Excellent deathmatch level for 2-4 players. Really good fun to play, its up there with the best, even if I do say so myself.",
+	"version": "27fd81",
+	"date": "2014-12-03 20:18:12",
+	"files": [
+		{
+			"filename": "whackme.wad",
+			"size": 30170,
+			"crc": 3448768557,
+			"md5": "39fdb9ec2a4d1c9673ec50b3b652c077",
+			"sha1": "27fd81f31705be2db6cc0fa9609df020db246933",
+			"sha256": "c5ed267bd36626da500b921c29a46f86d5dc72ecd0cef3bce0aa85424959bd3c"
+		}
+	]
+}

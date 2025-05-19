@@ -1,0 +1,16 @@
+{
+	"uid": "hellbas.wad",
+	"name": "Hell Base",
+	"description": "The UAC has been attacked and you have been brought to the demon's hell base. You must kill all of the demons and kill the Cyberdemon that masterminded the plan. (This is my first wad)",
+	"date": "2015-12-29 15:35:08",
+	"files": [
+		{
+			"filename": "hellbas.wad",
+			"size": 31846,
+			"crc": 2569408438,
+			"md5": "8d2cdca4b1dd0b6bb0aa8c6f8737292d",
+			"sha1": "e4c1353970dd1b5a72ba06865a6e9afba7eccc71",
+			"sha256": "17dc000b02a69c9db17023618a72a8c583f0c78b9c3911dd0308ffbc91300ad9"
+		}
+	]
+}

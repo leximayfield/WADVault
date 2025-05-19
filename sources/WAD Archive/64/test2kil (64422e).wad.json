@@ -1,0 +1,17 @@
+{
+	"uid": "test2kil (64422e).wad",
+	"name": "Test 2 Kill (Saten's Training Grounds)",
+	"description": "Your orders are to infiltrate and destroy Saten's inner-city training fortress. All of Saten's forces are trained here.",
+	"version": "64422e",
+	"date": "2013-11-04 20:16:41",
+	"files": [
+		{
+			"filename": "test2kil.wad",
+			"size": 765368,
+			"crc": 42233572,
+			"md5": "3439bcca6d8e0ebf270d763bb1190492",
+			"sha1": "64422e1c9b8b0c2c3ee28f71f6dfdf9605b54b9b",
+			"sha256": "c9ff20ff7f8fa85268f95217f6ee1dcfbf98e5202c641c9763f9fc528aa0c99f"
+		}
+	]
+}

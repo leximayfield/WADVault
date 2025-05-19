@@ -1,0 +1,16 @@
+{
+	"uid": "theplant.wad",
+	"name": "The Plant",
+	"description": "First, this is the first third (fourth?!?) of what is sure to become a HUGE wad.",
+	"date": "2015-01-14 22:42:09",
+	"files": [
+		{
+			"filename": "theplant.wad",
+			"size": 293868,
+			"crc": 3171010777,
+			"md5": "7f5ff33fc5357ee00232f5e5b493ff2d",
+			"sha1": "b6195f283fbede832c9c2294c9e9d5bda02ad7a1",
+			"sha256": "4783aece7a2ea72fd083aba00b103378cd23b7ff0e41224292e01286f84020a3"
+		}
+	]
+}

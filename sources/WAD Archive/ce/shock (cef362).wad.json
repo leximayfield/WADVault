@@ -1,0 +1,17 @@
+{
+	"uid": "shock (cef362).wad",
+	"name": "SHOCK.WAD",
+	"description": "Well, this is my first attempt at making a scratch level for Doom. Let me begin by saying all flames to /dev/null. <g>",
+	"version": "cef362",
+	"date": "2016-02-07 20:35:48",
+	"files": [
+		{
+			"filename": "shock.wad",
+			"size": 39353,
+			"crc": 1081418093,
+			"md5": "e03386046605e8ae2f5528a6f20a9b81",
+			"sha1": "cef3625c1a8ab67ee56ea80d9545052bb45a7b00",
+			"sha256": "a4ea52fb5ead0623e4d93c639560b12a94e79112ff4ac1bea6c11bcc8107a2a2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "newcity.wad",
+	"name": "NewCity",
+	"description": "A large single level cityscape for single or multi-player games.",
+	"date": "2014-12-14 21:09:04",
+	"files": [
+		{
+			"filename": "newcity.wad",
+			"size": 739128,
+			"crc": 3429835173,
+			"md5": "2362240ac7114a7f2be445f90341da52",
+			"sha1": "782e045fed3766038b4be695d3b1a505c1cfd023",
+			"sha256": "d7e2a2b4787fe10ab73382e2f7c583202c068d25bcc57ffb5f20d16018cc13cf"
+		}
+	]
+}

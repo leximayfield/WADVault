@@ -1,0 +1,16 @@
+{
+	"uid": "suiciide.wad",
+	"name": "SuicIIde Doom",
+	"description": "These levels are VERY SMALL and are intended to demonstrate my technical trick that uses the voodoo doll bug.",
+	"date": "2015-01-14 14:40:16",
+	"files": [
+		{
+			"filename": "suiciide.wad",
+			"size": 971823,
+			"crc": 2926472388,
+			"md5": "ee7a16162061e17c75fee5b3f5457a74",
+			"sha1": "240f46cb8f253f67e1d24a05df9cd43606f187fa",
+			"sha256": "fd6b6cdad02b3c86a91ba5c87b5c265d344e2dbfcc6225ea770a22ab0f13d9f2"
+		}
+	]
+}

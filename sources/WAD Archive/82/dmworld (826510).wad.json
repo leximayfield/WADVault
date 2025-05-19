@@ -1,0 +1,17 @@
+{
+	"uid": "dmworld (826510).wad",
+	"name": "Deathmatch World",
+	"description": "These levels are designed for deathmatch. It`s best played with respawning monsters and -altdeath. We have excluded the BFG so that the game is more challenging.",
+	"version": "826510",
+	"date": "2014-12-15 22:58:14",
+	"files": [
+		{
+			"filename": "dmworld.wad",
+			"size": 420647,
+			"crc": 1525918209,
+			"md5": "d49d2d61abc3b084fc4dcf5aa93abdb7",
+			"sha1": "826510b0325a8b749f372b13431808af00e07c55",
+			"sha256": "42ec4866ff62322232640efc5a051bd216e408d1b66be8d0d30abe41da1eec87"
+		}
+	]
+}

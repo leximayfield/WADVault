@@ -1,0 +1,16 @@
+{
+	"uid": "uac_cntr.wad",
+	"name": "The UAC Center v1.5",
+	"description": "This was my first WAD. Your mission is to enter the UAC Center and clear it of all monsters. Along the way you'll face many challenges and lots of secret areas. Don't expect to find any HOM or texture problems, much time was spent making this level a pleasure to look at. Good luck!",
+	"date": "2015-01-14 22:51:12",
+	"files": [
+		{
+			"filename": "uac_cntr.wad",
+			"size": 151646,
+			"crc": 3223173062,
+			"md5": "b0862e2f5b47bce6e08fe382315356bf",
+			"sha1": "d48e39eaca52ea53e7f24663fb85d5652ee228cd",
+			"sha256": "42a6e4d4ab66335312f82bd32e1e451e41a12332af662de73bfb3d2152fe38b9"
+		}
+	]
+}

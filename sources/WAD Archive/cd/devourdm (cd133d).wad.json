@@ -1,0 +1,17 @@
+{
+	"uid": "devourdm (cd133d).wad",
+	"name": "Devour - Death Match",
+	"description": "A Doom II Death Match level, based on \"Deathmatch Court Yard\", but with additional weapons, teleports, hidden rooms, textures, and more importantly - monsters.",
+	"version": "cd133d",
+	"date": "2016-02-07 20:37:37",
+	"files": [
+		{
+			"filename": "devourdm.wad",
+			"size": 35529,
+			"crc": 153047347,
+			"md5": "d169bc7562078118578aeb2073ed2d99",
+			"sha1": "cd133d6c1eaeffb4c84326d030afa4aee3100c09",
+			"sha256": "1150b8a4d3ebf67c932b856b85ec635a03f694448a1f1934f10776b1b4ccd13e"
+		}
+	]
+}

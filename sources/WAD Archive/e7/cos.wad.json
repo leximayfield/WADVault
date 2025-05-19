@@ -1,0 +1,16 @@
+{
+	"uid": "cos.wad",
+	"name": "City of Sin (version 1.2)",
+	"description": "This was originally released in 2006 as a 3-level demo for a larger cancelled project. For the 2016 release, some minor modifications to the original demo maps were made, a new fourth map was added and the new compilation was renamed to \"City of Sin\".",
+	"date": "2018-03-27 21:12:54",
+	"files": [
+		{
+			"filename": "cos.wad",
+			"size": 2294833,
+			"crc": 2451466953,
+			"md5": "c511945a01fdc842bcf6b59ec8d46f27",
+			"sha1": "e7eb84ad485982014ed65a2c901c26afba022f18",
+			"sha256": "2e7b4911f8c8ab630b05d5116516d4078cfe0303b65a0afc87d9f17f895160ec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "TECHNOID (ca7e35).wad",
+	"name": "TechNoid.WAD",
+	"description": "Mutant TechNoids (Technical Nerds) have invaded. Your mission is to eradicate and escape. Lot's of hard to find doors and timing puzzles to solve.",
+	"version": "ca7e35",
+	"date": "2013-11-02 15:25:36",
+	"files": [
+		{
+			"filename": "TECHNOID.wad",
+			"size": 97167,
+			"crc": 150478407,
+			"md5": "fa1ca1491d59170ed70d4430105e5388",
+			"sha1": "ca7e35190f0e70b172e9946b0c853950a356d180",
+			"sha256": "d38f4728d03dac6370962e8ea902d2e3a121b774a0655f8283bc25bb6540b67c"
+		}
+	]
+}

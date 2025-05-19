@@ -1,0 +1,16 @@
+{
+	"uid": "redtst.wad",
+	"name": "Compound-RedRoom",
+	"description": "The Compound - was never finished but still good. Cmd Line = doom2 -file redtst.wad Difficulty is reversed. Hurt Me Plenty = Ultra Voilence Ultra Voilence = Hurt Me Plenty",
+	"date": "2015-01-14 23:06:35",
+	"files": [
+		{
+			"filename": "redtst.wad",
+			"size": 266389,
+			"crc": 538386177,
+			"md5": "8030a5d03ffff99be52406614d3db2fd",
+			"sha1": "cdf69fd72548c11eb3dd1e3fcd8b594bef9ab969",
+			"sha256": "14df89a3d4556e0494c26f589d3727caec039c0cbba36b1df7ea4e78d6fd8693"
+		}
+	]
+}

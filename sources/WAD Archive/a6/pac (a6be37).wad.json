@@ -1,0 +1,17 @@
+{
+	"uid": "pac (a6be37).wad",
+	"name": "Pacwad",
+	"description": "Ultra-violence is for wimps! NIGHTMARE is where REAL DOOMIES play! REAL DOOMIES don't need guns. We use OUR FISTS! Experience the first and only wad designed for play on NIGHTMARE! A familiar board is the scene for this fast action adventure. Put your gun away and grab the cherries because it's berserk time! NOW GO MUNCH SOME GHOSTS! Item placement is exactly the same as in the arcade game, but it's a lot harder to find your way around when you're IN the game. All difficulty levels are supported, and should be tried in order (yes, tough guys too :) ). Also, try different routes through each level, as I have put unique traps in each one. \"I'm too young to die\", and \"Hey, not too rough\" are good for fans of the original game (with respawn) as the monsters are all in the central area (just like the original). \"Hurt me plenty\", \"Ultra-violence\", and \"Nightmare\" have great action and tricks. \"I'm too young to die\" and \"Hey, not too rough\" have 4 ghosts, \"Hurt me plenty\" has 8, and \"Ultra-violence\" and \"Nightmare\" have 12 (I thought 16 was excessive). Try this in deathmatch (great action!) and see graphics.txt for info on putting in some cool graphics. Send a lmp of your best \"Nightmare\" game. Can you survive all 15 minutes of recording time?",
+	"version": "a6be37",
+	"date": "2018-04-14 23:38:53",
+	"files": [
+		{
+			"filename": "pac.wad",
+			"size": 101906,
+			"crc": 2033250447,
+			"md5": "96860a6d574ce05efcba9a263146f770",
+			"sha1": "a6be3760c81ebd581e51b5f25707b0f570240d61",
+			"sha256": "7e57ed6cd5df42cff2a8dc06a22e7278576283e30dbefab0c00b03cb98eb3c12"
+		}
+	]
+}

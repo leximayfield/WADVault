@@ -1,0 +1,17 @@
+{
+	"uid": "gladiatr (7c94e2).wad",
+	"name": "Gladiator",
+	"description": "This level is basically a large arena where you get to test your skills against all the monsters, and very large amounts of them too. It's meant to be completed without saving, but you probably have to train and try different tactics before you manage that. The order in which different monsters are released is very non-linear, and you need to find the order that works best for you. This gives the level an element of strategy. Unless you play at the easy difficulty settings, you will not get enough ammo to kill everyone yourself, so you need to get the monsters to kill each other. This is everyones fight against everyone else. Will you be the survivor? Note that the level is located on map29 (to get the right sky and music). Run with -warp 29, or use the cheat IDCLEV29.",
+	"version": "7c94e2",
+	"date": "2014-12-24 19:12:05",
+	"files": [
+		{
+			"filename": "gladiatr.wad",
+			"size": 230956,
+			"crc": 1767952969,
+			"md5": "a1cce660214a1fd47bc7d83a911ac3cb",
+			"sha1": "7c94e22a7a38f78becf566b8809f5ebed8b06763",
+			"sha256": "3130fd2d8131f8f83d0182e8762d4079ed0b7289ad8c086cc8094c21fc57a5af"
+		}
+	]
+}

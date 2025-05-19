@@ -1,0 +1,16 @@
+{
+	"uid": "fez2 (b77a0f).wad",
+	"description": "Second wad in the 'fez' collection (OK I know it's also E1M1)......lots more evil traps and secrets and a heap more experimentation but predominantly lots of blasting............",
+	"version": "b77a0f",
+	"date": "2013-07-09 20:21:43",
+	"files": [
+		{
+			"filename": "fez2.wad",
+			"size": 131665,
+			"crc": 2920563014,
+			"md5": "15ef50de745b5d288a0f6961583275eb",
+			"sha1": "b77a0fec4141d77e5b0b1b46016f6d513969fc71",
+			"sha256": "779e6c84e2a11565d82da48c25d2ee866051370cdaef28459264047aa2fae5c9"
+		}
+	]
+}

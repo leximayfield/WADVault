@@ -1,0 +1,17 @@
+{
+	"uid": "jal_cas1 (4410cd).wad",
+	"name": "JAL_CAS1.WAD         (Castle1)",
+	"description": "Set in a castle/dungeon theme Fairly challenging but not massive",
+	"version": "4410cd",
+	"date": "2013-11-02 15:50:17",
+	"files": [
+		{
+			"filename": "jal_cas1.wad",
+			"size": 32778,
+			"crc": 992952570,
+			"md5": "1ad88bb45f95c07a0871221eac36c319",
+			"sha1": "4410cd229dfcc6c525cd48ba5c7592d39a7d38ce",
+			"sha256": "874b2318850a0aa49e6a7db0f5b4045d2736a02e38d2eb94623ff8cee0dd0ec0"
+		}
+	]
+}

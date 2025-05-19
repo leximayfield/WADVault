@@ -1,0 +1,16 @@
+{
+	"uid": "lts_hansmon1.wad",
+	"name": "Hans Monument - Team Survival Edition",
+	"description": "A Survival Invasion type of map modified to be played with teams. Players start by choosing either A or B team,",
+	"date": "2013-04-19 04:40:06",
+	"files": [
+		{
+			"filename": "lts_hansmon1.wad",
+			"size": 614423,
+			"crc": 38391236,
+			"md5": "a6b63a47d028fc8c05a46a8bb77e7e01",
+			"sha1": "4b4e5c69098698d21853da8b06032d8831e9c90c",
+			"sha256": "4c13adf7b30c7aa30a466a71c0d7f4fdeb09b2e76e1860243eddc720a46e53d7"
+		}
+	]
+}

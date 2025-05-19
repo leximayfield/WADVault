@@ -1,0 +1,17 @@
+{
+	"uid": "hellhous (c4cb67).wad",
+	"name": "HELL HOUSE",
+	"description": "First game, first level of registered version of HERETIC.",
+	"version": "c4cb67",
+	"date": "2014-10-28 21:53:34",
+	"files": [
+		{
+			"filename": "hellhous.wad",
+			"size": 118818,
+			"crc": 63997732,
+			"md5": "a133d254e79d6fccb2ddd613e665f795",
+			"sha1": "c4cb67a8a9f6693386f27a13c7b4e711e1664e49",
+			"sha256": "c43b042cbb15b122df936b0d60673087f61788aef807616d76d3d74c1090d76a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "invpack.wad",
+	"name": "Invasionpack",
+	"description": "Note: This wad requires the Skulltag resources to be loaded, which should come with Zandronum. 18 extremely difficult invasion maps for Skulltag/Zandronum. You'll be astounded by the quality of the levels.",
+	"date": "2014-12-22 18:34:02",
+	"files": [
+		{
+			"filename": "invpack.wad",
+			"size": 3818988,
+			"crc": 2045934687,
+			"md5": "cf879a8419b96306552a1e5b08339fdf",
+			"sha1": "e87a8f4427158a49fb15888acd6278ef4c08816a",
+			"sha256": "7672d21dda30117750bdbdaff098979400da4ce9821f2891c6ba3799c645235a"
+		}
+	]
+}

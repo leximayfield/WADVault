@@ -1,0 +1,17 @@
+{
+	"uid": "frgfst21 (889e0d).wad",
+	"name": "Frag Festival",
+	"description": "Very big (over 550 sectors) deathmatch level with many different areas including a large death arena, a room with many disorienting elevators, some strategically placed lighting, a couple of one-way walls, etc. I suggest playing on difficulties 1, 2, or 3 with \"-respawn\", or on difficulty 4 without \"-respawn\", unless you are really cool. :) Since this level is so big, you might try hunting each other down in \"cooperative\" mode, so you can see where your \"friend\" is. (I've played for over a half an hour before without seeing my \"friend\") Also, you might want to look really hard, and you might find some secret areas that you might use to your advantage. (Maybe even use an editor to find them) Well, enough of this, let's get to the important stuff.",
+	"version": "889e0d",
+	"date": "2015-12-07 11:09:29",
+	"files": [
+		{
+			"filename": "frgfst21.wad",
+			"size": 285197,
+			"crc": 711392273,
+			"md5": "472510bc795eb98c3ec17dd890bda8df",
+			"sha1": "889e0deb484444a81a2962566be06fd6f2d7526c",
+			"sha256": "1f8ecda32e16e867f41b59c5dc75669179a754aee471aec96d6277a3faf2de85"
+		}
+	]
+}

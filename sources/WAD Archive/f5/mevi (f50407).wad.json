@@ -1,0 +1,16 @@
+{
+	"uid": "mevi (f50407).wad",
+	"description": "These are the DEATHMATCH wads for the first two levels in the MEV series, for both DOOM I and II. (The D2 version is recommended, as it has the Super Shotgun! Oh...and is a bit more refined.)",
+	"version": "f50407",
+	"date": "2013-11-02 15:07:01",
+	"files": [
+		{
+			"filename": "mevi.wad",
+			"size": 167178,
+			"crc": 2466442202,
+			"md5": "51b25f49916a23556f4d9eb08b383284",
+			"sha1": "f5040787fb878b4b9004965406fdb7a23bcf5eeb",
+			"sha256": "ee1b0cb49a5782cf030954d91882541bf6ec2e701304ff79da6b652645ba4f88"
+		}
+	]
+}

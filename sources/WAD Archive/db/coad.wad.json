@@ -1,0 +1,16 @@
+{
+	"uid": "coad.wad",
+	"name": "Coadjutor to the Stars.",
+	"description": "A single-player/cooperative map. Mainly, a space- base theme with a quarry and some nukage to even it out. Something I made in my spare time a long time ago.",
+	"date": "2014-12-15 23:02:55",
+	"files": [
+		{
+			"filename": "coad.wad",
+			"size": 366276,
+			"crc": 145176685,
+			"md5": "4adaac47c601fbb33cae87d3d6b431b5",
+			"sha1": "dbee38c449df5ea19e3fe76c648b4669b177b6da",
+			"sha256": "a2c8d1de39b9b76ae64922eeb28c5d624d1e12852d024ffb2d987501f93f6543"
+		}
+	]
+}

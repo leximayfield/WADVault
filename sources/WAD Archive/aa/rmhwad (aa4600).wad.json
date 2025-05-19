@@ -1,0 +1,17 @@
+{
+	"uid": "rmhwad (aa4600).wad",
+	"name": "rmh.wad",
+	"description": "These wads are designed to be primarily for Deathmatch play, but the author intended for them to be still useful and enjoyable for play by individuals (or even cooperative mode). The designs are most conducive towards exciting Deathmatches, and all levels are relatively compact, but they are set up in such a way so that the other modes of play are still fun and fast-moving.",
+	"version": "aa4600",
+	"date": "2013-11-02 15:07:09",
+	"files": [
+		{
+			"filename": "rmhwad.wad",
+			"size": 531515,
+			"crc": 1102028316,
+			"md5": "0732669bc4a2da2e6d936fa5cda4f156",
+			"sha1": "aa46009adb155b8a4254c42a9ccd15179479fb84",
+			"sha256": "d3d31de612d3d825c3d029c1105b5c462ca3aab0abc07d4740aff3c5ba2af1c4"
+		}
+	]
+}

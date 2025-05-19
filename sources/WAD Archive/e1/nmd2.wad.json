@@ -1,0 +1,16 @@
+{
+	"uid": "nmd2.wad",
+	"name": "Needs More Detail II",
+	"description": "A deliberately underdetailed episode 2 replacement with short to medium sized levels. Bugfixed version removes fatal e2m6 linedef error.",
+	"date": "2014-12-14 20:52:23",
+	"files": [
+		{
+			"filename": "nmd2.wad",
+			"size": 934347,
+			"crc": 1232058239,
+			"md5": "0cdffa1a083785593e7a4c542fc0761b",
+			"sha1": "e14c4ac0cff9a32697b2c9000f4814f4352ee383",
+			"sha256": "e02f5d9b988ebb3957152d646e1e5342601a56214df04b79c24913e063d52a21"
+		}
+	]
+}

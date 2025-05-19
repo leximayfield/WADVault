@@ -1,0 +1,16 @@
+{
+	"uid": "PL2.wad",
+	"name": "Plutonia 2",
+	"description": "An add-on sequel for Final DOOM's \"The Plutonia Experiment\". It emulates Plutonia's design and gameplay styles and follows from where it left off.",
+	"date": "2013-04-20 11:49:15",
+	"files": [
+		{
+			"filename": "PL2.wad",
+			"size": 18131932,
+			"crc": 2419127978,
+			"md5": "ba0566478ac42bd2c3845fa97098bf70",
+			"sha1": "4ef41ba4b3c0d39d79fc592b2b258765bca36657",
+			"sha256": "9495a54ecfd5ab2dde4fed22eb4a1dd3e70296899df835f5aa74d8a8cc6f253e"
+		}
+	]
+}

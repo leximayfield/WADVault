@@ -1,0 +1,17 @@
+{
+	"uid": "dave1 (f7530d).wad",
+	"name": "Dave1.WAD",
+	"description": "Big level with lots of special lighting and a few other special effects. You have to watch your back in this one. Also, lots of area left to add to if you have DoomED-The Real Thing editor.Availible in the Gamer's Forum as DMREAL.ZIP. I'd highly recommend this editor",
+	"version": "f7530d",
+	"date": "2016-02-07 20:26:27",
+	"files": [
+		{
+			"filename": "dave1.wad",
+			"size": 121832,
+			"crc": 2218304601,
+			"md5": "962978180c63e169d59dd87ac01f0258",
+			"sha1": "f7530df96a189504e65ccf35638d7a7b12ca608c",
+			"sha256": "b1ad84d71ee7e314dfe16eef35d181b8bbba87cca3520b99c9007626153b49a5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rocker1.wad",
+	"name": "Rocker1",
+	"description": "Medium sized wad with typical 3 key solution.It is very playable with weapons/health provided. Watch your back.",
+	"date": "2015-01-14 14:37:30",
+	"files": [
+		{
+			"filename": "rocker1.wad",
+			"size": 123035,
+			"crc": 1958303351,
+			"md5": "0da98827c783f6ec39c528525ce9303c",
+			"sha1": "9fa111769abe748a762bdd100bfcb9b0d50aba0a",
+			"sha256": "54b0cf602ac550d9cf71c9dc4d51231fd365c1b5d725eda58f7f2bd3892c2ff0"
+		}
+	]
+}

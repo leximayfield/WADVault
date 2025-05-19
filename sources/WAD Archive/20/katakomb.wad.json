@@ -1,0 +1,16 @@
+{
+	"uid": "katakomb.wad",
+	"name": "The Depths of the Catacombs",
+	"description": "This is based on the Catacombs level in Painkiller, featuring fast pace action and ACS scripting.",
+	"date": "2015-01-05 16:27:39",
+	"files": [
+		{
+			"filename": "katakomb.wad",
+			"size": 2809276,
+			"crc": 2260808092,
+			"md5": "85e9399bf80b3e9ea8fd277c4842ac18",
+			"sha1": "20266cec2449cc213777ef3d05fd04f80551bf8e",
+			"sha256": "80ff0e502facc3b0ee40a95f4890b5b995079f6844af92c0b753fd5f2c01590d"
+		}
+	]
+}

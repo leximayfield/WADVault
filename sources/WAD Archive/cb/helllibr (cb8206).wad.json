@@ -1,0 +1,17 @@
+{
+	"uid": "helllibr (cb8206).wad",
+	"name": "Hellbrary",
+	"description": "Large city based library level with something sinister twisting the architecture.",
+	"version": "cb8206",
+	"date": "2018-05-29 20:37:10",
+	"files": [
+		{
+			"filename": "helllibr.wad",
+			"size": 576539,
+			"crc": 906431903,
+			"md5": "cefa415c10ff7ac2a371e0b15670b19c",
+			"sha1": "cb82062381cc6a7d0e12aee5182c66b406d35dc5",
+			"sha256": "9f18dbacf8c251f21344fdeb37d0cf240299a2b557a61f4212fa5735de3df3ad"
+		}
+	]
+}

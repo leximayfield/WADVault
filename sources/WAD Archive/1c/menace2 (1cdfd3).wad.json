@@ -1,0 +1,17 @@
+{
+	"uid": "menace2 (1cdfd3).wad",
+	"name": "MENACE2.WAD",
+	"description": "This is a Sequel to the first Menace wad and I can describe these wads as mini Death Arenas which are designed to be fast paced and is inspired by the infamous Danzig series.",
+	"version": "1cdfd3",
+	"date": "2014-12-15 22:56:09",
+	"files": [
+		{
+			"filename": "menace2.wad",
+			"size": 197310,
+			"crc": 848446002,
+			"md5": "f9383b187a58145a02545e2969f9c4a3",
+			"sha1": "1cdfd3df30e1e71a7e2abcd14cd0070689af0e1b",
+			"sha256": "50c186d2153429e3dc21b549ed27409c2d807fc1c0ddad0b9559f26a61e26b3c"
+		}
+	]
+}

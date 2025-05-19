@@ -1,0 +1,16 @@
+{
+	"uid": "deicon.wad",
+	"name": "Deimos Condensed",
+	"description": "Hellbase map. 20-50 minutes of play. Plucks various elements from the Deimos levels. Heavy use of dark. Alternate routes available. (ie. keycards are easier to obtain than skull keys) Gratuitous combat. Lots of monsters. Somewhat moderate and open space.",
+	"date": "2016-08-12 20:56:24",
+	"files": [
+		{
+			"filename": "deicon.wad",
+			"size": 1729766,
+			"crc": 2737897530,
+			"md5": "16ae8c00c78cef32d12ea86b37f81ee3",
+			"sha1": "144f49c90a48ff3309965a66b778fdb5c1594eb0",
+			"sha256": "a927fe03cd70232394b6ed0d7a473b2c6ccfa92c98602163013c53e49cdeb079"
+		}
+	]
+}

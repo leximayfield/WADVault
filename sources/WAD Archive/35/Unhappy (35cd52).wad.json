@@ -1,0 +1,17 @@
+{
+	"uid": "Unhappy (35cd52).wad",
+	"name": "UnHappy",
+	"description": "deathmatch level NO BFG",
+	"version": "35cd52",
+	"date": "2013-11-03 17:43:20",
+	"files": [
+		{
+			"filename": "Unhappy.wad",
+			"size": 29990,
+			"crc": 1163218080,
+			"md5": "6472e52f6e36050ffdb0160974b38f16",
+			"sha1": "35cd520ef608bf6cb9c913c74af97a8645d76126",
+			"sha256": "12714cc4b05e2db692f890f8990ad984073a47e9c4723f283c8977d79e82dbc7"
+		}
+	]
+}

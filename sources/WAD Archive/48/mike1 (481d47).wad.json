@@ -1,0 +1,17 @@
+{
+	"uid": "mike1 (481d47).wad",
+	"name": "Mike 1 ver.1.2",
+	"description": "This is a large traditional doom level with many tricks and puzzles to try to work through. It features many tricks and mass killing! It is also a cool Deathmatch Level.",
+	"version": "481d47",
+	"date": "2013-11-06 22:29:29",
+	"files": [
+		{
+			"filename": "mike1.wad",
+			"size": 276779,
+			"crc": 3327590664,
+			"md5": "dc69c920b768919a51cc3652400ac59e",
+			"sha1": "481d470d253216c7e8a9f09de3b27bebfa850e89",
+			"sha256": "dc663fdeb90f4abe7492b8dad0f4a341289aab720bb466c6d6f61324aaae7b23"
+		}
+	]
+}

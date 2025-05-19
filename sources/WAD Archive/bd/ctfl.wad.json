@@ -1,0 +1,16 @@
+{
+	"uid": "ctfl.wad",
+	"name": "Skulltag CTFL",
+	"description": "Based heavily off of a map for Tribes 2. I modified the idea a bit aswell. Each team starts with the enemy flag in their base, they must take the enemy flag and run it through the map to thier flag in the enemy base.",
+	"date": "2014-12-12 14:18:55",
+	"files": [
+		{
+			"filename": "ctfl.wad",
+			"size": 77409,
+			"crc": 1718678898,
+			"md5": "6b201f998969147e2b98732d3e27e575",
+			"sha1": "bde70a54f73f2a6c318c0458b7e31e707b06f00b",
+			"sha256": "1822dd662f7e44ca2e6acb94b8b405c8b3de392caf92d38416247891395235f6"
+		}
+	]
+}

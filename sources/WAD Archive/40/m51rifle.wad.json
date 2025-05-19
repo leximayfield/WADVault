@@ -1,0 +1,16 @@
+{
+	"uid": "m51rifle.wad",
+	"name": "M51 Rifle",
+	"description": "A new weapon I created. Fire rate: Full auto Replaces: Chainsaw Damage: 3 Fire speed: Slow Slot number: 2",
+	"date": "2015-09-15 17:58:34",
+	"files": [
+		{
+			"filename": "m51rifle.wad",
+			"size": 38979,
+			"crc": 4280448997,
+			"md5": "0105fe12cbe61803159584197d50ba28",
+			"sha1": "4021de0bb8320bbf0c477357e474b6c0e396834b",
+			"sha256": "fddfe442394c83644944dce3f25cf1dbf200cbfa376166d97e0935d930a6b778"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "reds1.wad",
+	"name": "Red Section",
+	"description": "Single deathmatch level with a tech/gunk feel. Great for up to 8 players.",
+	"date": "2014-12-15 21:37:05",
+	"files": [
+		{
+			"filename": "reds1.wad",
+			"size": 197748,
+			"crc": 2801098915,
+			"md5": "7cbebd0dff3c14e1810843cf6bde3421",
+			"sha1": "bbe46b036c63b5431e85e553416f5f0643af8617",
+			"sha256": "7b3c03519c6ea07bd775799418344fa871791abf70bac76095e7c5a607f4680f"
+		}
+	]
+}

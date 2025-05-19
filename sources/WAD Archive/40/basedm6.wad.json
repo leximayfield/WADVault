@@ -1,0 +1,16 @@
+{
+	"uid": "basedm6.wad",
+	"name": "Base DM #6",
+	"description": "Medium size base-style deathmatch level. Fits best for 2-3 players, and supports up to 8 players. All skill levels have been included. They follow TeamTNT's good deathmatch rules (see below). Teleports behind the doors take you to plasma rifle and to BFG. On skill levels 1-2 you however can only get rocket launcher and Double Barreled Shotgun from them.",
+	"date": "2013-07-26 17:28:08",
+	"files": [
+		{
+			"filename": "basedm6.wad",
+			"size": 439421,
+			"crc": 3120850632,
+			"md5": "b96a8fd17d6e60e520be0f7e1c79ea6e",
+			"sha1": "40dab1aca857519563fba358132cbb9afd5af88c",
+			"sha256": "7f31d3623d974669ddf3b3a757ca69df866a62014ca1bd3e70f26962ac9f36d4"
+		}
+	]
+}

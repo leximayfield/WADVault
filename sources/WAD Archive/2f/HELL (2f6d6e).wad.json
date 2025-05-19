@@ -1,0 +1,17 @@
+{
+	"uid": "HELL (2f6d6e).wad",
+	"name": "buttv3.WAD",
+	"description": "",
+	"version": "2f6d6e",
+	"date": "2014-01-04 11:55:48",
+	"files": [
+		{
+			"filename": "HELL.wad",
+			"size": 33553,
+			"crc": 3660462315,
+			"md5": "91ad547ce5052f762eb14d9360cbf3fb",
+			"sha1": "2f6d6ef1fb69c76f74b12ad5ba3349691fc89640",
+			"sha256": "57fe0b6ddd4fa244b1f21c2cfb914b08dd9635a2dd6f31b89ee22791f242cf0d"
+		}
+	]
+}

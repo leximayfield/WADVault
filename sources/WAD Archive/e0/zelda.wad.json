@@ -1,0 +1,16 @@
+{
+	"uid": "zelda.wad",
+	"name": "Zelda",
+	"description": "This is a very simple level and my second attempt at making a level. I just wanted to do this level for fun. If you are a legend of zelda fan then you will notice in map mode if you use the code IDDT twice in map mode you will see that the triforce is the last room. Look for the secret wall that lets you stock up on all the weapons in the game. It is unlike any secret you have ever seen. The exit in the level is hidden somewhere in the triforce.",
+	"date": "2015-01-14 22:57:40",
+	"files": [
+		{
+			"filename": "zelda.wad",
+			"size": 20790,
+			"crc": 2005504380,
+			"md5": "9197deb93b142a0348e30a49e84a9a54",
+			"sha1": "e06487ad4ad96899dee60c050358b907acddd7b7",
+			"sha256": "3cd94071df34c8d54e52ebffd6afef2f26b8943398a1aad4535be873082c71d3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "metad1.wad",
+	"name": "METALLICA DOOM1 PWAD",
+	"description": "Cool PWAD with METALLICA's albums sleeves on the walls. This is intended to be a DeathMatch WAD, but you may also play single-player, I added some cool enemies (and let me tell you is quite hard to finish).",
+	"date": "2014-12-13 17:40:11",
+	"files": [
+		{
+			"filename": "metad1.wad",
+			"size": 302572,
+			"crc": 3571167680,
+			"md5": "1b5cc6a19173528648dc9ae90c4c1456",
+			"sha1": "89a2e7ffe258c301177d1660e9db8192f6b7dfff",
+			"sha256": "1ac5317ac076cf24e7f2f839fab57783c3ddbd81102f378368b7f845b8e9737b"
+		}
+	]
+}

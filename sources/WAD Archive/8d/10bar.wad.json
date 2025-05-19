@@ -1,0 +1,15 @@
+{
+	"uid": "10bar.wad",
+	"description": "One of my favorite single-player levels is E1M8. But if you've played Doom for a while, you know that it gets pretty easy to finish the level, even when using just the pistol. This is E1M8 with a little twist: it has *8* extra barrons and a few extra boxes of shotgun shells to kill them with. Just unzip 10bar.zip in your doom directory, type 10bar, get some popcorn and watch the show! If you think that you're man (or woman:) enough to try it for yourself, three words of advice: run like hell! If you get out of it with over 100% health,or even if you just barely finish the level, please send me an lmp, I'd love to see it!",
+	"date": "2015-09-14 20:04:06",
+	"files": [
+		{
+			"filename": "10bar.wad",
+			"size": 57569,
+			"crc": 1026061084,
+			"md5": "e15414cf538217091deda6bc27c99cb2",
+			"sha1": "8d24e3e98e75e86d83af17fd530d32f9e5add3b3",
+			"sha256": "61a9d1192ec21733fd955b087ffba24a996633037af5faf3d5fb510e6af06c74"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom (v1.1)",
+	"name": "Doom",
+	"description": "Registered release, contains episodes 1-3",
+	"version": "v1.1",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"date": "1993-12-16",
+			"size": 10396254,
+			"crc": "66457ab9",
+			"md5": "981b03e6d1dc033301aa3095acc437ce",
+			"sha1": "df0040ccb29cc1622e74ceb3b7793a2304cca2c8"
+		}
+	]
+}

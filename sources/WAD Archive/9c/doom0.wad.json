@@ -1,0 +1,16 @@
+{
+	"uid": "doom0.wad",
+	"name": "Doom 0 (abandoned beta)",
+	"description": "This is a megawad project I started way back in 2013 but was burnt out of finishing it halfway through because I wasn't feeling like it despite having the rest of the maps sketched on my middle school notebooks and because I've lost two huge maps (MAP15 and MAP29) because of a lack of memory in my PC. In short, this was collecting dust for years and I've improved over the years and don't like most of the maps here very much nowadays, so I've decided to leave this project behind and move on, enjoy some of my earliest efforts.",
+	"date": "2017-12-09 13:27:44",
+	"files": [
+		{
+			"filename": "doom0.wad",
+			"size": 2526323,
+			"crc": 571360435,
+			"md5": "35291bd60da9231207e25786b2479c2a",
+			"sha1": "9c825023a6d0b8aa49914311b81350766076e94b",
+			"sha256": "d9a33f0d361bddeac5df85a62caf1933c72e4ec870b5f74b03ed499741fdfb56"
+		}
+	]
+}

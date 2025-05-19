@@ -1,0 +1,16 @@
+{
+	"uid": "fortp.wad",
+	"name": "Fort Plasma",
+	"description": "When I was a little boy with my red SNES cartridge, I always dreamed of PC doom and sniping at people from towers. Here it is.",
+	"date": "2014-12-15 22:13:01",
+	"files": [
+		{
+			"filename": "fortp.wad",
+			"size": 83228,
+			"crc": 1651954835,
+			"md5": "91d2745008164d1788cac7c477de96ca",
+			"sha1": "412751becb48f025f4515cf071c8e6878def35ff",
+			"sha256": "5eb47b7cf450c6830569b1adfe147837bde0d5073132113292a172f29d87d6c5"
+		}
+	]
+}

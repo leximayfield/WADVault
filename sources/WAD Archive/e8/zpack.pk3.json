@@ -1,0 +1,16 @@
+{
+	"uid": "zpack.pk3",
+	"name": "Zpack - Random Maps for ZDoom",
+	"description": "The initial basic idea was to make a \"Doom style\" map with fairly transparent ZDoom upgrades. To clarify, a lot of maps today depart significantly from the style and feeling of classic Doom maps, so this was to be a \"find red key to open red w/ simple puzzles\" map making basic use of ZDoom's features (for example, the early raising stairs puzzle is very Doomy simple, but not possible in vanilla Doom). The titular Terror Cube \"device\" was put in to allow me to plausibly vary the theme throughout the map (not that plausibility is needed with Doom nowadays). I originally planned 4 sections, but time and design constraints forced me to drop the \"Marble Palace\" section. In my goals for a \"Doom style\" map, I felt I largely succeeded.",
+	"date": "2013-04-19 03:40:40",
+	"files": [
+		{
+			"filename": "zpack.pk3",
+			"size": 46209661,
+			"crc": 2752753550,
+			"md5": "7e9d4c59c48e9496c76f0953c6638846",
+			"sha1": "e831c5569c81435a7fb33d314ff31c9fdb8226fe",
+			"sha256": "c0b80d2ddf1c86014bdbad56b815df0b7ea87d7e1284d16d9389df512cb0d545"
+		}
+	]
+}

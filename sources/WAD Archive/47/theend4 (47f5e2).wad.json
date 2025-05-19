@@ -1,0 +1,17 @@
+{
+	"uid": "theend4 (47f5e2).wad",
+	"name": "The End Complete",
+	"description": "DeathMatch Level, lots of traps, and a few hidden rooms",
+	"version": "47f5e2",
+	"date": "2013-11-02 15:58:24",
+	"files": [
+		{
+			"filename": "theend4.wad",
+			"size": 44028,
+			"crc": 308198357,
+			"md5": "a4a76f19133d4dd86c46906a90149605",
+			"sha1": "47f5e22313e6f4f93ee4468bdcaa46baa05e088e",
+			"sha256": "5502889abd05cb60282b86e19d3a2252d26bbed97c3046e030e86dc7142018e8"
+		}
+	]
+}

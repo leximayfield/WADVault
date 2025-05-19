@@ -1,0 +1,16 @@
+{
+	"uid": "atcmus2.wad",
+	"name": "AL|ENS-TC Music",
+	"description": "New music for all of the episode 2 levels in Justin Fisher's AL|ENS-TC for DOOM 2",
+	"date": "2015-09-15 17:12:53",
+	"files": [
+		{
+			"filename": "atcmus2.wad",
+			"size": 265760,
+			"crc": 2399028896,
+			"md5": "532a86965fe0c24d03aaee2583984bcc",
+			"sha1": "e9eeb86b936f8be5fff286b44040509631185e13",
+			"sha256": "aba6fed1d5c84a6abad178ca9b4cffec1a1e2c1d9f2f19414612c6b35197dfdf"
+		}
+	]
+}

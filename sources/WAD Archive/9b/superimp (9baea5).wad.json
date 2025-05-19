@@ -1,0 +1,17 @@
+{
+	"uid": "superimp (9baea5).wad",
+	"name": "Super Imps",
+	"description": "I experiment with a level where I put many imp into a big room and there is a Cyberdemon in the middle. You can also exit in the start room if you get boerd.",
+	"version": "9baea5",
+	"date": "2015-01-14 22:50:37",
+	"files": [
+		{
+			"filename": "superimp.wad",
+			"size": 21009,
+			"crc": 2133608593,
+			"md5": "46de4f5718a740ebbdb50d1bda6d96c4",
+			"sha1": "9baea55487da9e9dc0c25c826cae3c201966544b",
+			"sha256": "6d93f41fe5fab4240ed8d7df4619cab37bd42287fe33f83d8cf12dfe2da81ce2"
+		}
+	]
+}

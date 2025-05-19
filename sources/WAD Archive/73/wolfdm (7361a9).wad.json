@@ -1,0 +1,17 @@
+{
+	"uid": "wolfdm (7361a9).wad",
+	"name": "WolfDM",
+	"description": "A group of 4 DM maps with a wolf3d theme.",
+	"version": "7361a9",
+	"date": "2013-04-22 00:42:31",
+	"files": [
+		{
+			"filename": "wolfdm.wad",
+			"size": 901400,
+			"crc": 3242937378,
+			"md5": "8f82301c9cb2626a56f89e0bc727537c",
+			"sha1": "7361a9421e0f5329a720a3eeba88ca98bed906bb",
+			"sha256": "84d8f1f9e0e156dc8e32a7cef6f8d25cb0be8d65127bef8ba1cec0188f54d627"
+		}
+	]
+}

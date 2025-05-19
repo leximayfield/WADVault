@@ -1,0 +1,16 @@
+{
+	"uid": "DEMWAD01.wad",
+	"name": "DemWAD01",
+	"description": "lv01-039.lmp (Doom2, MAP01, UV Max in 0:39 by Xit Vono) plays back with this map, which is also fully playable in single player mode (might be a little bizarre, though). This is version 1.1 (the original was presented at Doomworld Forums). I aligned some of the CRACKLE and ROCKRED textures, so even though some misaligned textures must have remained, they are less obvious, for sure; I made some lighting correction and other cosmetic stuff; finally I made sure the demos still work (lv01-039.lmp and dem1-033.lmp: a new demo by Xit Vono).",
+	"date": "2014-12-18 22:19:32",
+	"files": [
+		{
+			"filename": "DEMWAD01.wad",
+			"size": 134865,
+			"crc": 4061554117,
+			"md5": "42602ad6400183fdcbbd551dd185ea5a",
+			"sha1": "1e8ee6d9cf26f7f33c24eed746fef669ee0fc9e8",
+			"sha256": "5f8edbc75d69412d9ed50b14149aafedb05674727777fec35acd5598981092db"
+		}
+	]
+}

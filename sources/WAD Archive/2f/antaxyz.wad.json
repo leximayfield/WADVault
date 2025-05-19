@@ -1,0 +1,16 @@
+{
+	"uid": "antaxyz.wad",
+	"name": "The Antaresian Spacepond",
+	"description": "This is a map I made for antares031's birthday, which was on the 19th. MBF-compatible, there is some effort made into making the skill settings differ from each other more than just adding or removing monsters. I might've spent too much time and effort making this :P",
+	"date": "2019-03-22 22:04:14",
+	"files": [
+		{
+			"filename": "antaxyz.wad",
+			"size": 8495938,
+			"crc": 1199351464,
+			"md5": "966b5d4cc7c59569dc9942e7e8060bbc",
+			"sha1": "2f33c23bd8c6ac9bd217ccceea04b0ede67b7307",
+			"sha256": "ad9f4881ac6504ebd47c16947626c6aafd0632e6874f6f884a94bffcb63d0b87"
+		}
+	]
+}

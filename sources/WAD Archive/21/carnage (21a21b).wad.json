@@ -1,0 +1,17 @@
+{
+	"uid": "carnage (21a21b).wad",
+	"name": "Carnage",
+	"description": "Two simple yet challenging new levels for DOOM 2. The first level is a medium sized level. The first level very much looks like a Wolf3d level, that has a little Doom2 in it. It has alot of long long hallways that are littered with Nazis. The second level is a good sized level. This level will keep your finger on the trigger. There are some tricks to this level that will keep you wondering, confused and lost for hours. Cooperative and DeathMatch play are NOT supported, nor are the difficulty settings. Most Doomers should find these levels to be a challenge.",
+	"version": "21a21b",
+	"date": "2014-12-03 20:07:23",
+	"files": [
+		{
+			"filename": "carnage.wad",
+			"size": 240449,
+			"crc": 4019311066,
+			"md5": "5f79f6ed69f53af885257d2d11251aa9",
+			"sha1": "21a21bc50da58439c47fb231e2cff71d75e4c251",
+			"sha256": "a9ba7e2768e813ae85895ee4126e7bef89e2a265dbd4b5c73fcfaf6f3587d095"
+		}
+	]
+}

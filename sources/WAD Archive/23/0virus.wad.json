@@ -1,0 +1,16 @@
+{
+	"uid": "0virus.wad",
+	"name": "Zero Virus",
+	"description": "This DEH/wad brings back the old feeling of Doom, where instead of facing tons of monsters, you would have trouble fighting a few at a time.",
+	"date": "2015-09-14 22:23:29",
+	"files": [
+		{
+			"filename": "0virus.wad",
+			"size": 4473,
+			"crc": 409519925,
+			"md5": "11a2ab72c3a00802bb0911ae9191ec6a",
+			"sha1": "2302a2b4b8871bbbb2d292fe7b6936b14e358372",
+			"sha256": "0e4575d6891b39a8486f54a1f1e768194d512327a27337270a17d25d1c8a2d9c"
+		}
+	]
+}

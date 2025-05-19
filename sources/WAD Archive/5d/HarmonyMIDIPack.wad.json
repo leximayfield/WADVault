@@ -1,0 +1,16 @@
+{
+	"uid": "HarmonyMIDIPack.wad",
+	"name": "Harmony MIDI Pack",
+	"description": "An add-on for Harmony that adds 11 unique MIDI tracks to the levels, and an extra 3 for the title, intermission and ending. Simply run this with the Harmony IWAD.",
+	"date": "2015-09-14 22:22:29",
+	"files": [
+		{
+			"filename": "HarmonyMIDIPack.wad",
+			"size": 568123,
+			"crc": 3541731639,
+			"md5": "763006868658030dc44e2c2c7bbb8f3e",
+			"sha1": "5d83fca24089aa4ae9dfc342fe12ff5bcc33d64f",
+			"sha256": "ddb550c58280119ccbe588d7afad2f0b89f27013faf37011aea9f6c847fe0d05"
+		}
+	]
+}

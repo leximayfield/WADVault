@@ -1,0 +1,17 @@
+{
+	"uid": "Face (854663).wad",
+	"name": "Doom Face Fix",
+	"description": "You may have not noticed this, but when your playing doom2 and either you shoot about 6 or 7 rounds from the pistol and the marine grits his teeth his eyes turn blue. When you let off the fire button his eyes go back to black.Also when you pick up a weapon the marines eyes turn blue..These files fix that so the marines eyes stay one color. Extract this zip file to your doom directory (and if you wish back up your old doom wad) and run fix.bat. Enjoy :-D",
+	"version": "854663",
+	"date": "2015-09-15 16:20:09",
+	"files": [
+		{
+			"filename": "Face.wad",
+			"size": 225200,
+			"crc": 1768497479,
+			"md5": "9a17e05887ceacbe6fba1954c9cc7144",
+			"sha1": "85466334ce5b10e2763708fe924c79ca6717fd26",
+			"sha256": "15627873d103d533680ed01db08388abfbf353b1c4f74e1a1f77ddfdb1034a8c"
+		}
+	]
+}

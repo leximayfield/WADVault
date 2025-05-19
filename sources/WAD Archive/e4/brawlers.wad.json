@@ -1,0 +1,16 @@
+{
+	"uid": "brawlers.wad",
+	"name": "Brawlers",
+	"description": "Vanilla DEHACKED gameplay mod. Monsters will attack you only when provoked (after a pain state), or at melee range (monsters without a melee attack too)",
+	"date": "2015-09-15 13:44:37",
+	"files": [
+		{
+			"filename": "brawlers.wad",
+			"size": 1840,
+			"crc": 3145895184,
+			"md5": "2c2e0f67a6f009ceb97a9df10ff9cdec",
+			"sha1": "e4aff3583b600b1e400662ee389ff92a05b78ba8",
+			"sha256": "3af74daf1ade46dac76333be2e371d4298c91b3f582433b82a80e27fd44a1a89"
+		}
+	]
+}

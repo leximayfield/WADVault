@@ -1,0 +1,16 @@
+{
+	"uid": "sprfix14.wad",
+	"name": "Doom 2 Minor Sprite Fixing Project v1.4",
+	"description": "A comprehensive collection of minor sprite fixes for Doom 2. This is compatible with any custom Doom 2 add-on as long as you load SPRFIX14.WAD with the lowest priority.",
+	"date": "2014-06-21 11:14:33",
+	"files": [
+		{
+			"filename": "sprfix14.wad",
+			"size": 2741749,
+			"crc": 1904260939,
+			"md5": "c35a48aa5c1f4d723ed2894803279d3a",
+			"sha1": "bf6789a8ff1bb964a0acc1fd5d48f997d56ed866",
+			"sha256": "6a30748a0982e3448b4964b51c7e98f015e167c5295bdf91ea7aeb6cf6a60128"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "2kewl (b00f80).wad",
+	"name": "2-KeWL",
+	"description": "MAP01 for Doom II has been replaced. There are many secrets, but nearly all are visible on the map. All weapons are out there and lots of ammo for an action packed deathmatch. Can be played normally and also as co-op, but it's not as good because the secret passages stuff it up a bit.",
+	"version": "b00f80",
+	"date": "2014-01-11 11:23:55",
+	"files": [
+		{
+			"filename": "2kewl.wad",
+			"size": 79587,
+			"crc": 3448857977,
+			"md5": "d480cde2422cf736bd452b31a4f77d67",
+			"sha1": "b00f80848390983197341a4471d1411472b91578",
+			"sha256": "44f1de837c627e4d01eb22b79a97ad420433db03bb6928e48a5b86bf8e55f302"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dredwood.wad",
+	"name": "Dreadwood Inn",
+	"description": "Fight with Dreadwood Inn to live to see the light of anther day.94 Monsters.",
+	"date": "2019-03-06 21:41:39",
+	"files": [
+		{
+			"filename": "dredwood.wad",
+			"size": 107404,
+			"crc": 415234878,
+			"md5": "5623dc965f31894ad5d66fbbe9446834",
+			"sha1": "24e50e5af9536a722349c3ce4e42be104b121bd5",
+			"sha256": "c7fbb99a4d0b16c34b9ee610bb7a1fdb24bbd41dd87f14655b43df4ccef81d15"
+		}
+	]
+}

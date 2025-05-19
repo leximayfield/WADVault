@@ -1,0 +1,17 @@
+{
+	"uid": "infected (dff8b3).wad",
+	"name": "Infected Area",
+	"description": "7 single player levels for DOOM ][",
+	"version": "dff8b3",
+	"date": "2014-12-18 23:19:01",
+	"files": [
+		{
+			"filename": "infected.wad",
+			"size": 1572505,
+			"crc": 3857073717,
+			"md5": "61372d1a65e0418350ce8aaffc6ab48b",
+			"sha1": "dff8b3f99914ebc5563c7e7b6efa4190d7544014",
+			"sha256": "2e0cd4191823e267dc9467f42c7e207f5fb6bf73fba15b0397a29b7dbb65127b"
+		}
+	]
+}

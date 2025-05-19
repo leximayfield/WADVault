@@ -1,0 +1,17 @@
+{
+	"uid": "star8 (868f7d).wad",
+	"name": "8 Pointed Star Chamber (Doom 2)",
+	"description": "My 3rd and most complex level so far. This is a GREAT level for Multiple players, and a bit of a challenge for a normal game. Have fun!",
+	"version": "868f7d",
+	"date": "2014-12-03 20:02:52",
+	"files": [
+		{
+			"filename": "star8.wad",
+			"size": 64665,
+			"crc": 1272859958,
+			"md5": "0b90475d7b6a4db18d90c297d382dc07",
+			"sha1": "868f7d8d74b5f78126a4b3fdeb82a972c87ea529",
+			"sha256": "bad900f693617b811dd99fa9c64d72f303457487744007b0785bb8516efa9e5d"
+		}
+	]
+}

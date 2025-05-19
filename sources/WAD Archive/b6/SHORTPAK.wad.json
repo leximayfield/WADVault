@@ -1,0 +1,16 @@
+{
+	"uid": "SHORTPAK.wad",
+	"name": "Short Pack",
+	"description": "Seven-Level Deathmatch for Doom ][. A series of small maps with lots of contact with other players. Each level has a very distinct theme.",
+	"date": "2014-10-14 20:59:19",
+	"files": [
+		{
+			"filename": "SHORTPAK.wad",
+			"size": 203938,
+			"crc": 4005154050,
+			"md5": "a14f76b296e6310730e8a6a5ff6324c1",
+			"sha1": "b68df736ab1f87a5d81dd9a728d0e7fccbc39b3d",
+			"sha256": "551e8ad2f8ccb13e6af039fa50bf9e0d629604a1e6fd01d5c0f7e35a6ce277f4"
+		}
+	]
+}

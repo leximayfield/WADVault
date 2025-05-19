@@ -1,0 +1,17 @@
+{
+	"uid": "twisted (e71aaf).wad",
+	"name": "Twisted Minds",
+	"description": "This wad has been playtested for hundreds of hours! The balance for a two-player wad is excellent!",
+	"version": "e71aaf",
+	"date": "2014-12-15 22:22:57",
+	"files": [
+		{
+			"filename": "twisted.wad",
+			"size": 37915,
+			"crc": 103586267,
+			"md5": "b8e405f6158fedfb7edb75ac538f8eee",
+			"sha1": "e71aafd384c81e97b051a13f184f3f05f9cc5e52",
+			"sha256": "6d0e5c91154ee51fb171c81a9d77ac58d8ac949b6d40cad90705bf8cb168c954"
+		}
+	]
+}

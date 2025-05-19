@@ -1,0 +1,17 @@
+{
+	"uid": "ottawau (d01eae).wad",
+	"name": "OTTAWAU.WAD ver 0.9 (pre-release)",
+	"description": "You are at Ottawa University and are about to go to the pool for a swim, but...",
+	"version": "d01eae",
+	"date": "2014-01-07 22:22:59",
+	"files": [
+		{
+			"filename": "ottawau.wad",
+			"size": 1659104,
+			"crc": 146343043,
+			"md5": "30ee9a23de4e1628fe70cc10169cf9ed",
+			"sha1": "d01eae4c507f4342c3dfb22eb40c8ef15b3d795e",
+			"sha256": "70f76a5cb91bb38269d4d11d5b3abde73e3abec78c12713b68b1e5944a0b9bb9"
+		}
+	]
+}

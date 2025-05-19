@@ -1,0 +1,17 @@
+{
+	"uid": "pc_cbase (c20342).wad",
+	"name": "The Combat Base",
+	"description": "Single player map for Doom 2 that I whipped up in some spare time. Its a linear progression base map with no new music or textures.",
+	"version": "c20342",
+	"date": "2014-12-29 08:40:17",
+	"files": [
+		{
+			"filename": "pc_cbase.wad",
+			"size": 200681,
+			"crc": 3714432700,
+			"md5": "be2cecf5f92c20d64e19f5272eee8d17",
+			"sha1": "c20342d18536677968f041b61d611ff33e1e286d",
+			"sha256": "d21ff02715856e26f2c129c109b3215ca1dfc71c453683182c851e01567e0264"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "whackr (6bc99c).wad",
+	"name": "Whacker",
+	"description": "This is a Deathmatch WAD only, with an Arena theme. Sort of a king of the hill setup. The title came in early design when it looked a lot like a weed whacker on the map.",
+	"version": "6bc99c",
+	"date": "2014-01-04 11:55:38",
+	"files": [
+		{
+			"filename": "whackr.wad",
+			"size": 54671,
+			"crc": 569106683,
+			"md5": "6420c3cbc0b984730d841b728d4e4f08",
+			"sha1": "6bc99c5f550effe400c18db25e27c12452791508",
+			"sha256": "606e762e6e42ffc3e8e1748e571519667b73e4c8933137646aee791391e21d1b"
+		}
+	]
+}

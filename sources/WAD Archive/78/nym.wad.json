@@ -1,0 +1,16 @@
+{
+	"uid": "nym.wad",
+	"name": "Nym v1.0",
+	"description": "This map features a game known as Nym, you usually would play with matches, but here you play with demons instead. ;) For detailed rules of the Nym game, see bellow! It also features 54 keys, 13 secrets, some jokes and a lot of nice ZDoom features. For the real challange try 100% of all and don't save! It can done.",
+	"date": "2015-01-13 21:35:32",
+	"files": [
+		{
+			"filename": "nym.wad",
+			"size": 219840,
+			"crc": 518533268,
+			"md5": "8be665161cc16cdfa849024107febf1e",
+			"sha1": "785e2143fbc7af0fa226fb23e188ff35b6e57518",
+			"sha256": "83bb525e85f6ed273a53c822b3ffcff3d3cc34bb11244b8c38bb938eb344dea4"
+		}
+	]
+}

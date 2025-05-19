@@ -1,0 +1,17 @@
+{
+	"uid": "CROSS (f64976).wad",
+	"name": "cross.WAD",
+	"description": "In this new and exciting deathmatch-Pwad you'll find no cross at all. It's called cross because of the huge cross in the open-air-arena I wanted to design, but with ver <1.9 the whole level HOMs all around, so I left it out. But - guess what - without this cross the DM-playing still works and is still mutch fun. Perhaps this Pwad is a little to big for two players, so... (Try out: THOS_02.wad, STAIRS.wad, LIFT.wad, CYRC.wad, RALLE.wad, ASYM.wad and all the other Pwads I've created...)",
+	"version": "f64976",
+	"date": "2014-12-14 20:59:54",
+	"files": [
+		{
+			"filename": "CROSS.wad",
+			"size": 243158,
+			"crc": 2899112988,
+			"md5": "6c8d152f608f430b09db0737c06e43cc",
+			"sha1": "f64976d6f6ed4651af11b8b1262003828643160e",
+			"sha256": "651ae581aabfa675f75e867b98ac47f2f1be1893787140fd74f58f775df7c772"
+		}
+	]
+}

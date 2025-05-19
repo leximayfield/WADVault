@@ -1,0 +1,16 @@
+{
+	"uid": "gleam.wad",
+	"name": "Gleam",
+	"description": "Silvery interior, a few open spaces. Small multiplayer wad with high action rate. It is based on a wad I played in 1995, but that I lost, and rebuilt in 1997. I lost that one too, so here is the third iteration.",
+	"date": "2016-01-28 22:56:05",
+	"files": [
+		{
+			"filename": "gleam.wad",
+			"size": 60168,
+			"crc": 1720162554,
+			"md5": "6562df1149b9e79720721c8669f0a2ed",
+			"sha1": "567b4163ee63cc98ea4b2b24dc9b7e311198fe6b",
+			"sha256": "e667297c545e76eb5d64fce62549136abc907497931094b0cfab227e753439f5"
+		}
+	]
+}

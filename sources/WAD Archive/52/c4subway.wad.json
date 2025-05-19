@@ -1,0 +1,16 @@
+{
+	"uid": "c4subway.wad",
+	"name": "Cygnus IV - The Subway",
+	"description": "Fight your way through the subway of the alien city on Cygnus IV.",
+	"date": "2014-12-15 21:55:08",
+	"files": [
+		{
+			"filename": "c4subway.wad",
+			"size": 241432,
+			"crc": 1271277615,
+			"md5": "36f2d8b07d87620ff8fb47286c12db15",
+			"sha1": "5289151196610cc9a6ac39b7fbdbc29c5e07baf5",
+			"sha256": "32a74fca816096193b1057348b344dbf37819ab8ff6a4a2773f6d65aed521534"
+		}
+	]
+}

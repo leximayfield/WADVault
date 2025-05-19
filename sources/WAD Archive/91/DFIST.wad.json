@@ -1,0 +1,16 @@
+{
+	"uid": "DFIST.wad",
+	"name": "DOOM FIST!",
+	"description": "\"Doom Fist\" is a joke i've made for a little competition in doom moding, its a scripted sequence were the player basicly doesn't exist, its like a film.",
+	"date": "2017-10-19 19:27:57",
+	"files": [
+		{
+			"filename": "DFIST.wad",
+			"size": 40301,
+			"crc": 4014177082,
+			"md5": "a013a00d2a1109eb95f96ee9b666cc73",
+			"sha1": "9154b0b89d6747e96cc321d939b8ebf6935af5df",
+			"sha256": "c119106545e6ca1611bc2f1e654d2725251de6a82e8cddec6a146a9ff83cbb13"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "lostlevl (424dad).wad",
+	"name": "DMLOST.WAD",
+	"description": "This is the Lost Level of DOOM, the one your mother never told you about! A big, complex WAD, almost 200K, this one is not for novices.",
+	"version": "424dad",
+	"date": "2014-01-11 11:08:05",
+	"files": [
+		{
+			"filename": "lostlevl.wad",
+			"size": 194393,
+			"crc": 4021928884,
+			"md5": "526affa79be56816585c1e6ec5f67437",
+			"sha1": "424dade4692b367df45b6f8169be408b9e8fdfd7",
+			"sha256": "225b47b626e7d88bfc10435825dd51333cc43339906695658dd7e3ac32ad6770"
+		}
+	]
+}

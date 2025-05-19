@@ -1,0 +1,16 @@
+{
+	"uid": "sersound.wad",
+	"name": "SERENITY SOUNDS (sound WAD for SERENITY)",
+	"description": "The sounds in these WAD have been selected on various grounds. One of the important ones is that you don't get bored by a sample (since you'll be hearing it zillions of times!!). The samples do not match some kind of theme (for instance like the Aliens sound-wad), but we still like it 8^) This WAD works with all Doom 1.x versions.",
+	"date": "2013-11-06 22:03:05",
+	"files": [
+		{
+			"filename": "sersound.wad",
+			"size": 1149314,
+			"crc": 1592465078,
+			"md5": "4e1d073ae103f9f4f8408d0c4b0e8cd0",
+			"sha1": "fd03c8ce791b659ae75684308792834c55b6de6a",
+			"sha256": "f1b06782844702f775d7b247bb47427be7c796a12908e144eb2744c15b51ea49"
+		}
+	]
+}

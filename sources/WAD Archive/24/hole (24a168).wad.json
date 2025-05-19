@@ -1,0 +1,17 @@
+{
+	"uid": "hole (24a168).wad",
+	"name": "JACKSON HOLE",
+	"description": "My First WAD. There's a sky-def problem. Solutions?",
+	"version": "24a168",
+	"date": "2016-02-06 13:58:36",
+	"files": [
+		{
+			"filename": "hole.wad",
+			"size": 148222,
+			"crc": 2288335214,
+			"md5": "f428ef436edc6a754ecfb24a4d883310",
+			"sha1": "24a168555b8394621fe3f71f40a52779b1150fa6",
+			"sha256": "007042b6bbb4d36265e53d36cbe432394a4b95a5a7365127b695d3b15208c765"
+		}
+	]
+}

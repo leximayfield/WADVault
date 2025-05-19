@@ -1,0 +1,16 @@
+{
+	"uid": "ad_demo.wad",
+	"name": "AD_DEMO.WAD",
+	"description": "This is a 3-level demo of ADMICTM.WAD. For more information about the full release of the WAD, please visit: http://www.geocities.com/timessquare/3332 or http://www.netlink.net.au/hatty",
+	"date": "2014-12-15 22:13:54",
+	"files": [
+		{
+			"filename": "ad_demo.wad",
+			"size": 218616,
+			"crc": 2499266650,
+			"md5": "37956ecfa9c22e7d2fee7e86194dc58c",
+			"sha1": "fe787edfd09a6edd8abec7ce89e613884797e3c6",
+			"sha256": "d29cfac69fe86aef6ab508c8b81aa6e2e2e983c0e7c7801b0f1271531494f2bb"
+		}
+	]
+}

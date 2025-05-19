@@ -1,0 +1,16 @@
+{
+	"uid": "heart.wad",
+	"name": "Heart (v1.17.3b)",
+	"description": "Heart is the third level in the Grind series, following Grind2 and Dream. This level took a lot of time to complete, especially some of the detailing. It took forever to get the ammo/health balance right but I've beaten it a few times now and my testers inform me it's not impossible. The level was up to 15,000 SideDefs before I packed them (13,420 SideDefs packed), making this my largest level even though it's a fairly small map.",
+	"date": "2014-12-24 18:56:23",
+	"files": [
+		{
+			"filename": "heart.wad",
+			"size": 732087,
+			"crc": 1323396548,
+			"md5": "ba5c09afa9227866ba6d813a2a2bb96e",
+			"sha1": "36c1ff55a8e34d07714f7b0791e81e0a1f97f1c9",
+			"sha256": "a56336275abaea5ac71211baa627d1d31cd9e1cbe10a4921f36c6c3823fe0eed"
+		}
+	]
+}

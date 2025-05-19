@@ -1,0 +1,16 @@
+{
+	"uid": "fcution.wad",
+	"name": "Fragglicution",
+	"description": "These are the levels I made for \"execution\", but different to the released versions. I discovered these when trawling through some old stuff on my hard drive.",
+	"date": "2013-04-22 00:51:02",
+	"files": [
+		{
+			"filename": "fcution.wad",
+			"size": 300116,
+			"crc": 1701016842,
+			"md5": "793d4e097e6625e68246f7ed6cdb09fa",
+			"sha1": "ea6fdca3f640bf8aea9736f35eff0b8041e49628",
+			"sha256": "ad6273ef16b15034f89be1631f8af3066754fe054837fbdaa1bef5d93996b56e"
+		}
+	]
+}

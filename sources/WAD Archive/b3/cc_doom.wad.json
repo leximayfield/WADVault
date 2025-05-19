@@ -1,0 +1,16 @@
+{
+	"uid": "cc_doom.wad",
+	"name": "CC_Doom (version 1.0)",
+	"description": "The CC team is proud to present our first WAD: CC_DOOM, these eight excellent high speed deathmatch levels.",
+	"date": "2014-12-15 22:17:54",
+	"files": [
+		{
+			"filename": "cc_doom.wad",
+			"size": 746680,
+			"crc": 132962469,
+			"md5": "521e5f74c8280c45fbfc35307fe6b5a7",
+			"sha1": "b3319d268393ac639404a3a1172f319cde91de0f",
+			"sha256": "158791d20e64b8bfbafea7086f4a51e7a81f1c275100875860f1b903657868a5"
+		}
+	]
+}

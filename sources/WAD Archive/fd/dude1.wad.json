@@ -1,0 +1,16 @@
+{
+	"uid": "dude1.wad",
+	"name": "The Dude's adventures: Part I \"House invasion\"",
+	"description": "The Dude's house got invaded by monsters from hell! He must defend it!",
+	"date": "2014-12-18 23:20:12",
+	"files": [
+		{
+			"filename": "dude1.wad",
+			"size": 12375,
+			"crc": 908341452,
+			"md5": "d2ebe6c87f688717c8ec0a2407ff94df",
+			"sha1": "fdd373bcfeeb4cf0d2f0a23221ca9a9910a40427",
+			"sha256": "3b12435e1e6dd3c5210f2e6be59f8fc3f2300770b69adefe45567b759a0f19ec"
+		}
+	]
+}

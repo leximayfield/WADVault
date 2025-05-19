@@ -1,0 +1,17 @@
+{
+	"uid": "q-zone (0cbe58).wad",
+	"name": "Quake-zone",
+	"description": "A nice level based on Quake for deathmatchin'",
+	"version": "0cbe58",
+	"date": "2014-12-15 22:47:43",
+	"files": [
+		{
+			"filename": "q-zone.wad",
+			"size": 510193,
+			"crc": 352670297,
+			"md5": "73f5813bb190b5e59f9d4dfbde79e0e9",
+			"sha1": "0cbe5869885bf66addf30ff6ff09ba2ae7997ba8",
+			"sha256": "85637395d22a70444e5aa57f98fcfa0e864ebc3732f232436035927a8d51cd94"
+		}
+	]
+}

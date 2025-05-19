@@ -1,0 +1,17 @@
+{
+	"uid": "sbaw (ef4c45).wad",
+	"name": "SBAW.WAD Spider Behind a Wall (subtitled- two barons and a spider behind a wall, spin off of the Bar",
+	"description": "Big room free-for-all with two barons and a spider. Take a look at the map, zoom out and you'll see a picture (won't tell you what it is, but it has six legs and a chaingun)",
+	"version": "ef4c45",
+	"date": "2013-11-02 15:06:06",
+	"files": [
+		{
+			"filename": "sbaw.wad",
+			"size": 67572,
+			"crc": 317705581,
+			"md5": "3e84a1c4ea453613a63b5b05c427e975",
+			"sha1": "ef4c45f0dd89e66b3878ce4c6826e59fedb3f020",
+			"sha256": "5860fedc0001b54a1f6c6c1ff29eeb4bb5237e57fbf9bd31dc8db2438d0213d0"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "blodrivr.wad",
+	"name": "Blood River",
+	"description": "After hours of battle, you come close to the end, and hunt down every last demon hell has to offer.",
+	"date": "2015-09-15 18:12:16",
+	"files": [
+		{
+			"filename": "blodrivr.wad",
+			"size": 516801,
+			"crc": 1340058249,
+			"md5": "422e6b3ee42ae5046f68eb48b9fa9a9a",
+			"sha1": "b1fe2cdd0cc205d8cb2076e8f687abc7a79ff85d",
+			"sha256": "b6104740d52342458a0fcb105a8e8ddac9045e69310798ce2837144b67bcf28b"
+		}
+	]
+}

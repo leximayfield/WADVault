@@ -1,0 +1,17 @@
+{
+	"uid": "trapped (34306b).wad",
+	"name": "Trapped",
+	"description": "Trapped its a 1 Level only in where the goal its to escape the unknown place you got in",
+	"version": "34306b",
+	"date": "2017-06-27 00:12:56",
+	"files": [
+		{
+			"filename": "trapped.wad",
+			"size": 842686,
+			"crc": 279372753,
+			"md5": "66419fae27ef00d4391b4681a46eb047",
+			"sha1": "34306b9a9706a4467fa39171464dffe1ac9e7d39",
+			"sha256": "abccd1c9d7b0aa62f50c3e36e51a61c7879c0ec804de451ec5e416d50d00a038"
+		}
+	]
+}

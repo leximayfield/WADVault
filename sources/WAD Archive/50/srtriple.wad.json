@@ -1,0 +1,16 @@
+{
+	"uid": "srtriple.wad",
+	"name": "Triple challenge",
+	"description": "Triple challenge has 3 levels for you to play. To play a level, select NEW GAME from the title menu, and then select a level. Good luck! Jumping is required.",
+	"date": "2014-12-29 17:05:42",
+	"files": [
+		{
+			"filename": "srtriple.wad",
+			"size": 2961556,
+			"crc": 972121637,
+			"md5": "fbc793007f69b6b23434221603bb438d",
+			"sha1": "503ae5d00a1e7ab6962c13f0fd7d3c696ea47753",
+			"sha256": "1af221cccc8bf32e276a3b60c157f17c89aad5d0f4aded5898312ee6bb8f1890"
+		}
+	]
+}

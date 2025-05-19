@@ -1,0 +1,16 @@
+{
+	"uid": "deepfry.wad",
+	"name": "DeepFry",
+	"description": "Small level for deathmatch, OUCH. good for BFG",
+	"date": "2013-11-06 22:41:44",
+	"files": [
+		{
+			"filename": "deepfry.wad",
+			"size": 4468,
+			"crc": 2702022116,
+			"md5": "28fd4c41ef0c3dcfe9deeb95720eaa7f",
+			"sha1": "61175de2b4039d840a9886d917a041a006b77952",
+			"sha256": "ad6c24fdd976aa54390a50d1b98aca9f120c70f86e5ce93d716b07d64ba2fd3c"
+		}
+	]
+}

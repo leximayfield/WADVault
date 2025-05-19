@@ -1,0 +1,17 @@
+{
+	"uid": "forsaken (aed739).wad",
+	"name": "Forsaken (Forsaken.wad from Forsaken.zip)",
+	"description": "This is a classic \"linear\" level. But, as popularity demands, you better watch your back. Not as tricky as Blindside!, but playtesters noted that it was just a bit harder in the long run.",
+	"version": "aed739",
+	"date": "2013-11-03 17:49:18",
+	"files": [
+		{
+			"filename": "forsaken.wad",
+			"size": 395860,
+			"crc": 1696841046,
+			"md5": "746d8a4d3ca7def53b0d8433a70b81b3",
+			"sha1": "aed739f41b0d3a730b27410224b1a05acbe15a48",
+			"sha256": "bb54efd204f9c0d75f26116cbed51521de678131475219aa8d137397a089a06b"
+		}
+	]
+}

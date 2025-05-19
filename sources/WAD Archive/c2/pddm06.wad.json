@@ -1,0 +1,16 @@
+{
+	"uid": "pddm06.wad",
+	"name": "The Block DM",
+	"description": "A very simple DM level for Ultimate Doom. This map has lots of action, and was made only for 2 players, but it holds 4.",
+	"date": "2014-12-13 17:44:33",
+	"files": [
+		{
+			"filename": "pddm06.wad",
+			"size": 670096,
+			"crc": 2620305352,
+			"md5": "f6066f87057152d11a34d9fdc6dfd839",
+			"sha1": "c26f3ac8fd0308b06755ee0303cce85dcfff84a8",
+			"sha256": "073afa367784ab1ee3f82f49381ea0ff99a93179dfc4cb82e989417ef38f4c34"
+		}
+	]
+}

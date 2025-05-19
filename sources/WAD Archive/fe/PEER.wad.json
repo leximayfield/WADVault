@@ -1,0 +1,16 @@
+{
+	"uid": "PEER.wad",
+	"name": "Peer",
+	"description": "First in a series of 2 player deathmatch wads. It has a nice center combat area, a unique ledge that will surely challenge those high-speed snatchers, and lot's a weps. Look for walkthrough walls even after your feet get hot. You never know. I've tossed in a few baddies for those who hate finding an empty arena, but it's best with the -nomonsters flag set. Its small to medium size it optimized for 2 players. I'm looking for feedback from 4 player users. Also any other comments to help on upcomming wads. Enjoy!",
+	"date": "2014-10-14 21:20:46",
+	"files": [
+		{
+			"filename": "PEER.wad",
+			"size": 31983,
+			"crc": 3815950431,
+			"md5": "79c8659acc72355ed903cfa1eafd42ba",
+			"sha1": "feb4f9e8bdedb00edd0816fe42680fe7e00da3b2",
+			"sha256": "09464b4262575fc087ec4727bb498e1abf9ba87a64a381306de274c77a99085c"
+		}
+	]
+}

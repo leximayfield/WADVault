@@ -1,0 +1,17 @@
+{
+	"uid": "little (66a297).wad",
+	"name": "The first one",
+	"description": "The first little wad",
+	"version": "66a297",
+	"date": "2013-11-04 20:08:55",
+	"files": [
+		{
+			"filename": "little.wad",
+			"size": 55762,
+			"crc": 1480868582,
+			"md5": "fcc7d2d18c8db96cfa6a140ff320e10a",
+			"sha1": "66a2973b807983e9be10f884092dcdac85f87324",
+			"sha256": "4e6867d5efa3d875cfed2dd96b04408215d3c5f4f2063871b207c080e71b60ad"
+		}
+	]
+}

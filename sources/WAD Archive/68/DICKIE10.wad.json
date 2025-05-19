@@ -1,0 +1,16 @@
+{
+	"uid": "DICKIE10.wad",
+	"name": "dickie10.WAD, issue 1",
+	"description": "This wad is 413kb when unzipped.",
+	"date": "2014-12-18 22:24:15",
+	"files": [
+		{
+			"filename": "DICKIE10.wad",
+			"size": 422428,
+			"crc": 2609213490,
+			"md5": "b623aeff244a098b8d2bc662f3db2870",
+			"sha1": "68e1ba853b5a5a08716e3ce014d2dbbfcd0a01e9",
+			"sha256": "cb7e1f2afbcedfecfd4a51840d084b6748b8a625c841451a67b16743ff5c9776"
+		}
+	]
+}

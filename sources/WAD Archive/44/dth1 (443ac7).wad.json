@@ -1,0 +1,17 @@
+{
+	"uid": "dth1 (443ac7).wad",
+	"name": "The Beginning",
+	"description": "DTH1 is the first Level of the Episode Doomed to Hell. There isn't any Story, well you're Doomed to Hell, don't ask me why. <g>",
+	"version": "443ac7",
+	"date": "2013-11-02 15:13:59",
+	"files": [
+		{
+			"filename": "dth1.wad",
+			"size": 335601,
+			"crc": 294209864,
+			"md5": "58806606c56e65109961cdf8636d6709",
+			"sha1": "443ac7caee69d6fa286ce5090e6341c679d3498f",
+			"sha256": "dd2c812f79a6f29c1ff77ba25e833799cd57d5738cace9e39d33e37ddf5a43fe"
+		}
+	]
+}

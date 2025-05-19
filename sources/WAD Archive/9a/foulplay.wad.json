@@ -1,0 +1,16 @@
+{
+	"uid": "foulplay.wad",
+	"name": "Foul Play",
+	"description": "An oldschool deathmatch map. The map is a blend of a traditional base melded into a rock cavern.",
+	"date": "2014-12-15 21:40:32",
+	"files": [
+		{
+			"filename": "foulplay.wad",
+			"size": 197849,
+			"crc": 3247635526,
+			"md5": "e965bd64ef285f6fc9c330cb7696f8d2",
+			"sha1": "9a19e49f20735e2a716c132c9fa7ceed563e88ca",
+			"sha256": "41e27ee08acfa499efc6b9fafee8626b8a5b6564a5e330a557c8cccc3bbcaa1c"
+		}
+	]
+}

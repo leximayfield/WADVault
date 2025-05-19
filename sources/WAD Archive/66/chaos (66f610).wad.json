@@ -1,0 +1,17 @@
+{
+	"uid": "chaos (66f610).wad",
+	"name": "CHAOS",
+	"description": "A nice coop/single map with 2 levels and many monsters.. weapons.",
+	"version": "66f610",
+	"date": "2014-12-15 22:30:19",
+	"files": [
+		{
+			"filename": "chaos.wad",
+			"size": 291997,
+			"crc": 1672679062,
+			"md5": "7978777f726fc87aa7e3d32fac1374be",
+			"sha1": "66f610e5b7de61a35e07611226ab45b09c06ebb7",
+			"sha256": "0db78a7823b4eac80cec04c311dce84eea556f56f3959ff8ec141f4ec4d4debc"
+		}
+	]
+}

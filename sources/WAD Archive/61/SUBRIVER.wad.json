@@ -1,0 +1,16 @@
+{
+	"uid": "SUBRIVER.wad",
+	"name": "The Subterranean River",
+	"description": "A river running through an underground city. : Fight your way through the docks, the throne room, : the flooded temple, a cathedral, the crypts and : much more in this massive level.",
+	"date": "2014-10-28 21:55:19",
+	"files": [
+		{
+			"filename": "SUBRIVER.wad",
+			"size": 282336,
+			"crc": 1698318225,
+			"md5": "5ce8a3c7efdbe5c00cdb3dc2aef7911e",
+			"sha1": "61d5ddd2d3d46094d3d49a24e40cfe503f0995b8",
+			"sha256": "b27810d3c52efdc238a5e3bbbbeedb4716cc62e1629a6bb2ae098bc7fc9f32ab"
+		}
+	]
+}

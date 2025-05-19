@@ -1,0 +1,17 @@
+{
+	"uid": "office01 (337158).wad",
+	"name": "DOOMED Office 1.0",
+	"description": "This is a wad that i created of my office. plenty of deathmatch starts and network action.",
+	"version": "337158",
+	"date": "2014-01-07 22:24:56",
+	"files": [
+		{
+			"filename": "office01.wad",
+			"size": 67393,
+			"crc": 3985589262,
+			"md5": "5f119ae9112cac4667789b585cc1dfae",
+			"sha1": "33715816106a201b7a49d8be4a492378fa198f0f",
+			"sha256": "98e61156b1ff81a89faf91b5cf5f68926cbf4a0306c5e5696df55f03041584c7"
+		}
+	]
+}

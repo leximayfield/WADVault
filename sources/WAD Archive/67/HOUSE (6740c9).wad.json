@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (6740c9).wad",
+	"name": "House and the dangerous garden!",
+	"description": "Map with the starting area based on my flat (you start in my room!), and after a while you will have to enter the garden of evil.",
+	"version": "6740c9",
+	"date": "2018-11-29 21:17:57",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 115525,
+			"crc": 3019123070,
+			"md5": "b040d430d10ec5063b6b42891e05bfbb",
+			"sha1": "6740c95c49a5184dc8d44ca74d8751ee8fca1137",
+			"sha256": "061fdbce8b5bc9b20b5ba6263945785b1bd48f8ad354897bf7ee052943b9ee53"
+		}
+	]
+}

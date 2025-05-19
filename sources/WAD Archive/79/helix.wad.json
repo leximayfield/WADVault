@@ -1,0 +1,16 @@
+{
+	"uid": "helix.wad",
+	"name": "HELIX",
+	"description": "Good deathmatch, respawn is a must, lots of hiding places to dodge fire, not many secrets, but they are good and designed to make the play fast, run and shoot.",
+	"date": "2014-01-07 21:47:24",
+	"files": [
+		{
+			"filename": "helix.wad",
+			"size": 546257,
+			"crc": 1770066843,
+			"md5": "60994480a60e1888dcf18636133c1e71",
+			"sha1": "79456f6b70e2583f5b395728b65bad5473a7843b",
+			"sha256": "e3b5a5cea87dedfe5605e308300d3d4ff3a3e6dc729242a27a34f979f3d22ff8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "uacexp.wad",
+	"name": "UAC Experiment",
+	"description": "This level attempts to recreate that quintessential : experience that Episode 1 of DOOM instilled in me.",
+	"date": "2014-12-13 17:29:28",
+	"files": [
+		{
+			"filename": "uacexp.wad",
+			"size": 410181,
+			"crc": 789871950,
+			"md5": "0b4a854ed2e52e1e9280e7f86b1e8ba9",
+			"sha1": "bc28100b26a3f3982d1bfddf7b616aaa0bb7cfed",
+			"sha256": "8c6da0b770d69414a880281f4fccf16d4c797057978773bbfe012f4725df8287"
+		}
+	]
+}

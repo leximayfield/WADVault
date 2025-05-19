@@ -1,0 +1,16 @@
+{
+	"uid": "necropia.wad",
+	"name": "Necropia Zone (2010 Final Version) for ZDoom",
+	"description": "Necropia 2010 is new megawad with 32 new levels for use with Doom2",
+	"date": "2014-10-06 20:04:23",
+	"files": [
+		{
+			"filename": "necropia.wad",
+			"size": 9834650,
+			"crc": 1421726487,
+			"md5": "78d7ff66b8a4345f30dcf66c5517448f",
+			"sha1": "4cc1211f8a98b99f41e8fa607d4758a0603b8933",
+			"sha256": "5fcd5ee6fa36b81c5c9623c152e9c1f83af9476ac22bca519449fa2b34115b42"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "surge2 (bacb00).wad",
+	"name": "Surge DM II (v2.1)",
+	"description": "The sequel to the acclaimed Surge DM. Not just small, fast paced levels this time though. And not gothic either. Techno style 0wnz j00r ll4m4 455!",
+	"version": "bacb00",
+	"date": "2013-07-26 15:01:08",
+	"files": [
+		{
+			"filename": "surge2.wad",
+			"size": 6911636,
+			"crc": 2973047593,
+			"md5": "33d717a40213983076bef8900ceb68a6",
+			"sha1": "bacb006eab361d7f4e91ff3bd4642c3abf26eb21",
+			"sha256": "d7de5858039e8f403a1b04fdc67ef0e3bad1e58dd38178642efc3991fe983963"
+		}
+	]
+}

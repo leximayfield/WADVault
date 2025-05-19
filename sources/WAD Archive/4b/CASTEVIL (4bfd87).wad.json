@@ -1,0 +1,17 @@
+{
+	"uid": "CASTEVIL (4bfd87).wad",
+	"name": "CASTEVIL.WAD",
+	"description": "Castle of Evil. (previously released in beta form as ss27bet2.wad) First of all let me say... This is bloody *HUGE* 8) I've been working on this for a long time since most of the earlier editors couldn't handle a large level like this one.",
+	"version": "4bfd87",
+	"date": "2014-01-07 21:53:36",
+	"files": [
+		{
+			"filename": "CASTEVIL.wad",
+			"size": 663991,
+			"crc": 681186327,
+			"md5": "99ec2ed64015b420f225d5d2e5dbdc5e",
+			"sha1": "4bfd873de1333c8911c03a4c133b416f4100adbb",
+			"sha256": "37f32ea35f1872ddf3081890bbc4b76372c341bb6ad6b1adc0f5b49a2b4010c4"
+		}
+	]
+}

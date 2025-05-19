@@ -1,0 +1,16 @@
+{
+	"uid": "arenadth.wad",
+	"name": "ARENA O' DEATH 1.2",
+	"description": "An hard deathmatch for hard marines with an hidden exit, tons of ammo for tons of monsters (demons, barons, spiders & cyber assholes ). PLAY IT WITH -altdeath option",
+	"date": "2014-01-07 22:25:55",
+	"files": [
+		{
+			"filename": "arenadth.wad",
+			"size": 10499,
+			"crc": 2113278337,
+			"md5": "37fe5169bccd8f1035b7e81f3dc917fe",
+			"sha1": "82510c1208e97e94a0a26a5dbc206d1c9150e8e0",
+			"sha256": "e0a4a26b0aceccd45d91525ea78bb04ae1d5ef298e9435864c76313ff98115d9"
+		}
+	]
+}

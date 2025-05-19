@@ -1,0 +1,17 @@
+{
+	"uid": "sabremau (2c7ee7).wad",
+	"name": "Sabre Mau",
+	"description": "It's just a simple Deathmatch 2 WAD for Doom 2, with some optional monsters which can be respawned in Deathmatch to spice things up. The weapons change depending on the skill level you're on:",
+	"version": "2c7ee7",
+	"date": "2013-11-04 20:15:03",
+	"files": [
+		{
+			"filename": "sabremau.wad",
+			"size": 8696,
+			"crc": 972979839,
+			"md5": "707fda8432d683ee0e78144a7f57ddd8",
+			"sha1": "2c7ee7b607acb21f3593bc73fd26fa617fcb02e0",
+			"sha256": "cf15d26e0e4703fab37c0c018d9ba987e849ac1d92612808511cc04d53c8b43c"
+		}
+	]
+}

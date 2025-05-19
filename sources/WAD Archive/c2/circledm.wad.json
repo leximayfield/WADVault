@@ -1,0 +1,16 @@
+{
+	"uid": "circledm.wad",
+	"name": "Circle DM",
+	"description": "It`s not so much big, There`s is no BFG 9000 :( But this is the Boom version of the level, soon will this be for ZDoom too.",
+	"date": "2014-12-15 21:42:44",
+	"files": [
+		{
+			"filename": "circledm.wad",
+			"size": 64642,
+			"crc": 636577252,
+			"md5": "e7ce73f6cb167838c29d788323486dd3",
+			"sha1": "c2cb5147a0b70257d037a64adfa5f90c495234e0",
+			"sha256": "cea4bbd8ca0612fac211e8fc33d462330b2b2832553c6f5fdb7e49aa14fe86f0"
+		}
+	]
+}

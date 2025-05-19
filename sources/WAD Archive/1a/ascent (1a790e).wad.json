@@ -1,0 +1,17 @@
+{
+	"uid": "ascent (1a790e).wad",
+	"name": "The Ascent",
+	"description": "My best PWAD yet. Textures are matched (mostly) and the bugs are next to minimal.",
+	"version": "1a790e",
+	"date": "2014-01-07 21:58:57",
+	"files": [
+		{
+			"filename": "ascent.wad",
+			"size": 205872,
+			"crc": 3913672968,
+			"md5": "4e7d14237c95a99499580270c844ac38",
+			"sha1": "1a790ea6b436bc460f74147e7257102148c8129b",
+			"sha256": "ffa04cb059ccc87c97fe0aabde3fbc6925b37671eb27175cab89925d7907454d"
+		}
+	]
+}

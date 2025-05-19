@@ -1,0 +1,16 @@
+{
+	"uid": "pc_didac.wad",
+	"name": "Didac's Revenge",
+	"description": "A Small level for Zdoom that relies on several Zdoom specific features in order to beat. A few surprises in here.",
+	"date": "2014-12-29 08:49:26",
+	"files": [
+		{
+			"filename": "pc_didac.wad",
+			"size": 61860,
+			"crc": 2162138442,
+			"md5": "a3a4a1e928da37599610b93f677313da",
+			"sha1": "08886ab42f5b1b628aaffdabb8c0e4afcab5b18e",
+			"sha256": "c3359ee17ee8789d76aa597f35b623b24e2e7fd2fbf05caba247d1e7e82fdcfb"
+		}
+	]
+}

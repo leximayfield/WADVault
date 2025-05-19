@@ -1,0 +1,17 @@
+{
+	"uid": "hellbase (789a43).wad",
+	"name": "HellBase",
+	"description": "One of my first wads. Uses ZDOOM. The last base on Mars, is not excepted from the demons. Somewhere there is a creature that guarded by three above demons. Tuda sent the best fighter, he can destroy the hell!",
+	"version": "789a43",
+	"date": "2014-12-24 17:13:23",
+	"files": [
+		{
+			"filename": "hellbase.wad",
+			"size": 289884,
+			"crc": 465105439,
+			"md5": "80469906a1e9f8215d015627fa8d0e2e",
+			"sha1": "789a43eb57b8e887f8f430f928034dfe08268844",
+			"sha256": "55fb95bf4157be79378c57e236d47eb01b46d8f2f294b8030a7c96429c297a91"
+		}
+	]
+}

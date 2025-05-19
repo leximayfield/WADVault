@@ -1,0 +1,17 @@
+{
+	"uid": "MUTINY (d12dba).wad",
+	"name": "Mutiny Mod",
+	"description": "Make sure you are using the LATEST version of GZDoom (1.0.29) or a recent SVN build of ZDoom. Older GZDoom releases and official ZDoom releases will not work! You will get a fatal syntax error in MAPINFO when trying to start the game.",
+	"version": "d12dba",
+	"date": "2014-12-11 22:12:28",
+	"files": [
+		{
+			"filename": "MUTINY.wad",
+			"size": 8323214,
+			"crc": 1023793998,
+			"md5": "dcc77e5fc41f6632bd6251be621d9b29",
+			"sha1": "d12dbaaa9a3c8e2b5778364a3794318a97c2f4f9",
+			"sha256": "252c40e467106ae2c5ec4a0a9fdb893e33bcc7a43764c7331f87422e98dc88b8"
+		}
+	]
+}

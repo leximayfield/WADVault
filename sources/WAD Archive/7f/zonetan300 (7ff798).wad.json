@@ -1,0 +1,17 @@
+{
+	"uid": "zonetan300 (7ff798).wad",
+	"name": "Zone 300",
+	"description": "A 32 level megawad of small maps for Doom 2. Your mission is simple. Blast you way through techbases, dungeons and hellish abodes and save Earth from extinction. These maps contain no more than 300 linedefs apart from the much larger super secret level. Zone 300 = Short, quick and simple.",
+	"version": "7ff798",
+	"date": "2013-12-04 13:03:10",
+	"files": [
+		{
+			"filename": "zonetan300.wad",
+			"size": 3052784,
+			"crc": 3837681079,
+			"md5": "9dbc1f3e6a21840973502772087b726a",
+			"sha1": "7ff798af30957df6dd82d2e7d10950129c3007c7",
+			"sha256": "57b5de8b55cdb04f399882af7e9770448551de82a8ef041878ddc6a3abc24399"
+		}
+	]
+}

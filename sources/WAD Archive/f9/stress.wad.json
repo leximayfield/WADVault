@@ -1,0 +1,16 @@
+{
+	"uid": "stress.wad",
+	"name": "Stress",
+	"description": "This is a small taste of what is Mindstate DM, that it will be a DM Megawad maybe with 32 maps...",
+	"date": "2014-12-15 23:12:29",
+	"files": [
+		{
+			"filename": "stress.wad",
+			"size": 364231,
+			"crc": 121611692,
+			"md5": "caa20360d59a427d8598b719314bbf6b",
+			"sha1": "f950fe602bd842b55c0c7424710891a2104c5f4c",
+			"sha256": "2f39522b673d327428a96fb93debfb2eb1c0050e1502e387461cd8b5732268ec"
+		}
+	]
+}

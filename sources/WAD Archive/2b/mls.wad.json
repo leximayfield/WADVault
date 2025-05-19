@@ -1,0 +1,16 @@
+{
+	"uid": "mls.wad",
+	"name": "Marine's Last Stand v1",
+	"description": "Slaughter map, apparantly. That's what they call these kinds of maps, right? Man, it's been years since I last dabbled in any doom editing.",
+	"date": "2015-01-13 21:30:57",
+	"files": [
+		{
+			"filename": "mls.wad",
+			"size": 447376,
+			"crc": 1130339128,
+			"md5": "9a88dadbf9755639b2e72819ee844548",
+			"sha1": "2b2004cd613b50336e888212f4c057c70d8bdf5f",
+			"sha256": "21b08cb4f756b51bb438bb319a22191ab3d5867b6c7149adf5606737e94ac289"
+		}
+	]
+}

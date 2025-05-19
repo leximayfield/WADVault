@@ -1,0 +1,17 @@
+{
+	"uid": "DCV (42608c).wad",
+	"name": "DOOM Core",
+	"description": "This is a collection of 32 levels previously unreleased (with the exception of REJECTS.WAD) this is a collection of levels I made from November 2009 - December 2010. Hopefully, you'll find something in here worthwhile and fun to play.",
+	"version": "42608c",
+	"date": "2013-04-21 18:55:08",
+	"files": [
+		{
+			"filename": "DCV.wad",
+			"size": 10324165,
+			"crc": 687474362,
+			"md5": "a916b466457baefe380facce0c459abd",
+			"sha1": "42608c39bc722900a793f79de344ef457c0dd4fe",
+			"sha256": "da305cddba6e9db1b93c6c3b994879b7f933d52ae7635c858441d559b83b0bbc"
+		}
+	]
+}

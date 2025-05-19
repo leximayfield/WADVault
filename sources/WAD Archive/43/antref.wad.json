@@ -1,0 +1,16 @@
+{
+	"uid": "antref.wad",
+	"name": "Another Refinery",
+	"description": "Just another E1 insipred level (but with Doom II stuff in it). Made to be vanilla-compaitble.",
+	"date": "2014-12-15 22:16:28",
+	"files": [
+		{
+			"filename": "antref.wad",
+			"size": 137235,
+			"crc": 174418985,
+			"md5": "27a8e5208383903d04f38e8284acb5a2",
+			"sha1": "4349d8474107b98c340648523c5e72069ab7502f",
+			"sha256": "ecf6ba307f90bcd68fc10e36b5d47f7a1bb2e8acaa1aeda63acbc62037feb107"
+		}
+	]
+}

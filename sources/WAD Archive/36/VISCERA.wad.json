@@ -1,0 +1,16 @@
+{
+	"uid": "VISCERA.wad",
+	"name": "Viscera!",
+	"description": "My 10 best deathmatch levels, designed and playtested over several months. Designed for -altdeath.",
+	"date": "2014-10-14 21:01:59",
+	"files": [
+		{
+			"filename": "VISCERA.wad",
+			"size": 364811,
+			"crc": 4011023097,
+			"md5": "547563b785350c994b04eab4c2a36ff0",
+			"sha1": "36bfced3d808da91927e57380b04786732a08f01",
+			"sha256": "892861f33e380f455c0bb40178f3e9342d8f82a313ee47b4e07e42b3fe1c36d4"
+		}
+	]
+}

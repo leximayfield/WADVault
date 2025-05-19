@@ -1,0 +1,17 @@
+{
+	"uid": "jail (bbee8e).wad",
+	"name": "The jail",
+	"description": "You are trying to escape the Far Views jail.",
+	"version": "bbee8e",
+	"date": "2015-02-21 09:00:15",
+	"files": [
+		{
+			"filename": "jail.wad",
+			"size": 105710,
+			"crc": 2526313316,
+			"md5": "0847a6c37b524ef4de0838511b551494",
+			"sha1": "bbee8e71757f86fff5753fa0cfda6052153d6f27",
+			"sha256": "571d19510f25b4db2facbf80441bcc1e156e9b26d29301cdc7007631cca1f3fe"
+		}
+	]
+}

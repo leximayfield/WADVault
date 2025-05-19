@@ -1,0 +1,17 @@
+{
+	"uid": "edenloss (8519b9).wad",
+	"name": "Eden Loss",
+	"description": "An 8 level wad, The last 4 are a HUB.",
+	"version": "8519b9",
+	"date": "2014-12-24 17:06:35",
+	"files": [
+		{
+			"filename": "edenloss.wad",
+			"size": 4560695,
+			"crc": 3990764423,
+			"md5": "66ec5f7ebeed6e85633a308f78efdf73",
+			"sha1": "8519b92eb3672075cfceebc2559936cc2def4cb8",
+			"sha256": "0927b713c25dc28c115b4784117dbda564e0cf7be70a6cd8974ed04e85478d7e"
+		}
+	]
+}

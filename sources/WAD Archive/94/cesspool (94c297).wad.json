@@ -1,0 +1,17 @@
+{
+	"uid": "cesspool (94c297).wad",
+	"name": "Cesspool",
+	"description": "Cesspool is a map with all new textures and music. The difficulty is scaled according to my observations of forum members' attitude towards difficulty settings. The three generic difficulty settings range from average difficulty, hell revealed level of difficulty and extremely difficult but not impossible. I recommend you beat the map at least once before trying it on Ultra Violence.",
+	"version": "94c297",
+	"date": "2014-12-15 21:28:23",
+	"files": [
+		{
+			"filename": "cesspool.wad",
+			"size": 1226050,
+			"crc": 1979910926,
+			"md5": "e433c0e7d2cce60291816553050c628b",
+			"sha1": "94c2979d472cbb3761addcf2ff04537a0b378790",
+			"sha256": "29bf1184595ef1621775755dff7eb1863281d7fc08934e6a61b8780a9bb32718"
+		}
+	]
+}

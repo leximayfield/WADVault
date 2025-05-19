@@ -1,0 +1,17 @@
+{
+	"uid": "plucky (70dc2e).wad",
+	"name": "Plucky.WAD",
+	"description": "My second attempet at making a Doom level from scratch. Large, Secrect areas. Some puzzles.",
+	"version": "70dc2e",
+	"date": "2014-01-04 11:55:49",
+	"files": [
+		{
+			"filename": "plucky.wad",
+			"size": 128061,
+			"crc": 2451214778,
+			"md5": "ae196ffa6840517e3c0ac30a0cd4210f",
+			"sha1": "70dc2ec09cc10bc4c0cd9f11e69260f578e35862",
+			"sha256": "0bf6fce98a8d8584d4aa0386a316127e5873777b89d1582c25c9f8f4134acade"
+		}
+	]
+}

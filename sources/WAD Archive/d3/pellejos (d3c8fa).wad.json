@@ -1,0 +1,17 @@
+{
+	"uid": "pellejos (d3c8fa).wad",
+	"name": "PELLEJOS.WAD",
+	"description": "Another DEATHMATCH level.. really fun discovering the secret rooms, he he he :)",
+	"version": "d3c8fa",
+	"date": "2013-11-02 15:06:58",
+	"files": [
+		{
+			"filename": "pellejos.wad",
+			"size": 29582,
+			"crc": 408697301,
+			"md5": "b9655503adc7a0fdd81c41cbcd4194bd",
+			"sha1": "d3c8fa96cef620a989408373aad303dd85f94f1e",
+			"sha256": "cd72100c660b2ba8b6fbd9027edd5c7a461993e5cf9b4b95ad42ba7b55e48b4e"
+		}
+	]
+}

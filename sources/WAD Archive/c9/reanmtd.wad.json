@@ -1,0 +1,16 @@
+{
+	"uid": "reanmtd.wad",
+	"name": "REANIMATED",
+	"description": "Two levels set in a nukage base. The idea was to make two small speedmaps using some Linkin Park MIDIs that we downloaded as the music. This is the first time we are working together on a WAD and we intended to release them on May 15 (Karthik's birthday).",
+	"date": "2014-12-29 09:11:56",
+	"files": [
+		{
+			"filename": "reanmtd.wad",
+			"size": 1469429,
+			"crc": 1260868802,
+			"md5": "8462d306170f9ac6eb91094f6ae1150f",
+			"sha1": "c92b37bec91a180ab07a2f9e53ea624729fac7cc",
+			"sha256": "4c6e244353ab62b5c8710439e8ea3141bea677e9f8cc9623ec4e40837b09742c"
+		}
+	]
+}

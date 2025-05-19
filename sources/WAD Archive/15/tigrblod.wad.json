@@ -1,0 +1,16 @@
+{
+	"uid": "tigrblod.wad",
+	"name": "C'mon bro, I got tigerblood!",
+	"description": "I wanted to create a level that kept changing layout as the player progresses. This means a lot of lowering walls and floors... and perhaps some bloody surprises too! It is a medium sized level with a moderate amount of monsters. There should be plenty of ammo and health. The ambitions for this level from my part was merely to create a no-bullshit map that is fun to play.",
+	"date": "2014-12-29 16:38:24",
+	"files": [
+		{
+			"filename": "tigrblod.wad",
+			"size": 442813,
+			"crc": 4167617559,
+			"md5": "8da417f1e206db95fa08baecc0306542",
+			"sha1": "15b253a2004c9a3d248783c515a5404f1cf26a0b",
+			"sha256": "303a0effe1c1c4f6da88e9b98884c5ea1ca39df72fe8b0b9e384e3df26a8c4c0"
+		}
+	]
+}

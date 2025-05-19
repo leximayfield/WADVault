@@ -1,0 +1,16 @@
+{
+	"uid": "D2INO.wad",
+	"name": "Doom 2 In Name Only",
+	"description": "Imagine a world where Doom II was never released, and the only information that ever came to light was the level titles. Then imagine that nearly 20 years later, some people decided to make some levels based on how they interpreted the level name. Those very levels are in this WAD file.",
+	"date": "2014-08-03 12:06:44",
+	"files": [
+		{
+			"filename": "D2INO.wad",
+			"size": 19737215,
+			"crc": 4243352127,
+			"md5": "08fd14ecf4c85d5e1d913673c1eeb6db",
+			"sha1": "ba33d82a7dc68bc5f65a325b571c5faebac1dbdd",
+			"sha256": "1eadf7c1e112112313fcd0d313a7ef8c72a1d44db4d330bd3cecb766caebdda5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "watworld.wad",
+	"name": "\"Water World\"",
+	"description": "Water Water every where. Just because the tunnel looked one way the last time you walked down it, it dose not mean that it's that way now.",
+	"date": "2014-12-30 11:21:12",
+	"files": [
+		{
+			"filename": "watworld.wad",
+			"size": 210895,
+			"crc": 2445103917,
+			"md5": "749204c4bfa306e34e76b07d34de2f73",
+			"sha1": "a7efd57de13a1d25960d6d4d74dea4a05f9fd239",
+			"sha256": "fa9fdd9bf32d568ad90c7b3a166892ec7c22df5a6393573fa8804c461199cf76"
+		}
+	]
+}

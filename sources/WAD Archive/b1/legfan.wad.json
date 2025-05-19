@@ -1,0 +1,16 @@
+{
+	"uid": "legfan.wad",
+	"name": "Legacy Fan",
+	"description": "A demonstration on how to make a rotating fan with 3d floors in Doom Legacy.",
+	"date": "2015-01-05 16:33:00",
+	"files": [
+		{
+			"filename": "legfan.wad",
+			"size": 25751,
+			"crc": 3804479733,
+			"md5": "a26af8cff6a189cc165b34424a816c4b",
+			"sha1": "b187e4c05ac5e0d95091e01e6db15cae55945fe6",
+			"sha256": "621f5c8ee8a433715763cb77b30cb138a90bb6f48a87c55c0ca067c04d223a03"
+		}
+	]
+}

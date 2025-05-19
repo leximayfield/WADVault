@@ -1,0 +1,16 @@
+{
+	"uid": "tenthou.pk3",
+	"name": "Ten Thousand V 1.1",
+	"description": "This is a Zdoom project of the dice game \"Ten Thousand\". It can be used in single player, but it's best to be played in multiplayer, up to 8 players supported.",
+	"date": "2014-12-29 18:23:29",
+	"files": [
+		{
+			"filename": "tenthou.pk3",
+			"size": 3319665,
+			"crc": 3934137708,
+			"md5": "32b59d332e2916bf03962769a5dc235c",
+			"sha1": "8f4286f3a6c43d468b48f76b960362a4d24ff5c7",
+			"sha256": "882fe5e30c0bf3b696e73308d49be94d98c5c70a639e9a38f5a62ce46384ad30"
+		}
+	]
+}

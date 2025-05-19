@@ -1,0 +1,17 @@
+{
+	"uid": "alpha (8623b8).wad",
+	"name": "ALPHA.WAD",
+	"description": "There are numerous texture misalignments and : probably a ton of things that I could've done : better. Still, it plays not too shabby. : Let me know what you think.",
+	"version": "8623b8",
+	"date": "2014-12-15 23:07:34",
+	"files": [
+		{
+			"filename": "alpha.wad",
+			"size": 223252,
+			"crc": 3323350495,
+			"md5": "d97752c4dce747a7107be08caac65413",
+			"sha1": "8623b883265ae4b06ec878f680d153686a75e8b4",
+			"sha256": "8be353992c98cd79efb6d8f7d2f873aff8ba7f549c49546b910fbe5466f6725e"
+		}
+	]
+}

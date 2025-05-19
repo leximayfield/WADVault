@@ -1,0 +1,15 @@
+{
+	"$schema": "../schema.json",
+	"uid": "DOOM II (PC-98)",
+	"name": "DOOM II",
+	"files": [
+		{
+			"filename": "DOOM2.WAD",
+			"size": 14604584,
+			"crc": "dbaa4a2b",
+			"md5": "b96683d113c4f4e9a916e1c7d1d71ffd",
+			"sha1": "c78e5f516eb8f26aafd6e487aab3e7323b672fb6"
+		}
+	],
+	"date": "1995-02-01"
+}

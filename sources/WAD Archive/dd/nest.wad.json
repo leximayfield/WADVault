@@ -1,0 +1,16 @@
+{
+	"uid": "nest.wad",
+	"name": "The Nest 1.0",
+	"description": "The Nest Digging in an old Pictish burial mound in the north of Scotland, archaeologists uncovered a strange underground cavern containing a technology unknown to man...",
+	"date": "2014-12-15 22:18:34",
+	"files": [
+		{
+			"filename": "nest.wad",
+			"size": 111372,
+			"crc": 1760974537,
+			"md5": "a8e36aabf9a5dc16621afe77df60096a",
+			"sha1": "ddb9e42fa443a5723fafecbf181b58ef782ebfcb",
+			"sha256": "b17b7da31a553ce04bd727608d92355fcbbc7e3e956008c3be9e1f646d6c86b2"
+		}
+	]
+}

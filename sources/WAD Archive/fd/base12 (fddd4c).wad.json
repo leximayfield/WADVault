@@ -1,0 +1,17 @@
+{
+	"uid": "base12 (fddd4c).wad",
+	"name": "What Lurks Beneath Base12?",
+	"description": "This is my first .WAD that I actually completed from beginning to end. I have tried to make some other levels, but they all fell apart due to lack of know-how about DEU. I am working on another .WAD now, so stay tuned. Just to warn you this level is HARD, I died many times just trying to test it. Wesley Leong: : My two .WADS are born out of some crazy ideas and tricky sector constructions. I also like to put tedious ordeals into my level, but hang in there if things get too rough. My .WADS stress strategy as well as skill. You and 3 fellow marines have been choosen for a rescue operation. SCENARIO: Communications between Earth and UAC Base 12 have been cut off for unknown reasons. Base 12 is a crucial research and manufacturing facility. YOUR MISSION: Beam down to Base 12 and secure the area. Beam survivors off surface. Eradicate any hostile activity. If aliens are encountered, you are ordered to locate the alien origin and destroy it, then after dustoff nuke the site from orbit. PRIORITY: High CHANCE OF ALIEN ACTIVITY: High CHANCE OF SURVIVAL: Most Unlikely ARMAMENT: 4 Shotguns ARMOR: 4 Standard Issue Combat Suits",
+	"version": "fddd4c",
+	"date": "2014-01-04 11:55:53",
+	"files": [
+		{
+			"filename": "base12.wad",
+			"size": 550983,
+			"crc": 3176253166,
+			"md5": "2d330aa776732f03f06fba98f8c4bd8a",
+			"sha1": "fddd4c23c2017c2da095c50f00a900184a947024",
+			"sha256": "97f504131990292202ee56521885e1e26d1d288b44fa7ef8d54d9283709545bf"
+		}
+	]
+}

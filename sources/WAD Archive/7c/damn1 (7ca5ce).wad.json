@@ -1,0 +1,17 @@
+{
+	"uid": "damn1 (7ca5ce).wad",
+	"name": "DAMNATION ALLEY",
+	"description": "This is an outdoor \"City\" Level designed for Deathmatch with a few things in mind: a. Variety. I wanted a level that lacked the typical mirror symmetry of many WADs. Almost all the buildings are unique and offer interesting locations to earn your frags. Players are drawn to different elevations for more interesting attacks. b. Open Areas with Easy Access. I prefer the open outdoor \"wargame\" feel to a DeathMatch level as opposed to maze-like levels. For the most part, doors just get in the way of a fast paced DeathMatch game. Thus, doors were used sparingly. Windows are passable, making for great last-minute escape routes (as well as to jump through to surprise your opponent). The outdoors are well lit so you can see your opponents. Indoors tends to be a little darker, but not pitch black. Lots of room to maneuvre as well so you'll have to earn your kill! d. Size. Big enough for four players, but not large enough to prevent 2 players from never seeing one another. There are plenty of windows and the area is quite open, so even two players should have little trouble finding one another. c. Looks. You'll be looking at the level quite a bit during a DeathMatch level so it might as well look good. I spent quite a bit of time ensuring all the textures were mapped properly (where possible). There's a lot of construction detail as well, which explains the large size of this SINGLE level WAD.",
+	"version": "7ca5ce",
+	"date": "2013-11-06 22:31:51",
+	"files": [
+		{
+			"filename": "damn1.wad",
+			"size": 410517,
+			"crc": 68999066,
+			"md5": "1d1053c9835c65942763473823406ad4",
+			"sha1": "7ca5ce141e5b973e664a0f853ff0f405161cd145",
+			"sha256": "ee36758eb74ddef3dd0162e6e8549a7ff53b0fedb673e5b27352501ffa806d29"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "bpc.wad",
+	"name": "BPC.wad",
+	"description": "Deathmatch wad for DoomII",
+	"date": "2014-12-15 22:18:31",
+	"files": [
+		{
+			"filename": "bpc.wad",
+			"size": 205872,
+			"crc": 812939963,
+			"md5": "3937b4d7d4d72961681b00676d6e2940",
+			"sha1": "0a44364c46c0f94bb18f01779eb1d76fa0de106c",
+			"sha256": "b59582a280e48469a673771dca1f16cdd8dad5b4b856367a98793ce7812afec6"
+		}
+	]
+}

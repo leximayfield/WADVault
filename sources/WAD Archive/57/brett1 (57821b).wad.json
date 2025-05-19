@@ -1,0 +1,17 @@
+{
+	"uid": "brett1 (57821b).wad",
+	"name": "Brett's Hell",
+	"description": "My first set of four patch files (more levels in the works). I really love the action packed levels on Doom, so I have tried to really take my favorite monster moods and put them into a full action series of increasingly more complex levels.",
+	"version": "57821b",
+	"date": "2013-11-02 15:43:53",
+	"files": [
+		{
+			"filename": "brett1.wad",
+			"size": 336541,
+			"crc": 4189657463,
+			"md5": "7b64c83a2194daa780be52c6686d4d25",
+			"sha1": "57821b4aa35597ed97384ff669985e07161aca3d",
+			"sha256": "213d1a5fe76ab1fd7634333e185632f3b16dc7ab279aea37bb4f030b95f4ddc3"
+		}
+	]
+}

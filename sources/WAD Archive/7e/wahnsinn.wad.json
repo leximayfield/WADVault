@@ -1,0 +1,16 @@
+{
+	"uid": "wahnsinn.wad",
+	"name": "Der Wahnsinn, \"The Insanity\".",
+	"description": "A large stage filled with large monsters. Designed for experts, careless pedestrians and coop play.",
+	"date": "2015-01-14 22:47:57",
+	"files": [
+		{
+			"filename": "wahnsinn.wad",
+			"size": 306128,
+			"crc": 299242261,
+			"md5": "47f595d93a6b4b1cb5aefac5679b23a1",
+			"sha1": "7ea2245bc8daf4e78cfc05202e1ac38bf8b0d2ab",
+			"sha256": "997859c070efaed74cb1b5d29e0837a1dc4680a3db0230debf761db46e77f9fe"
+		}
+	]
+}

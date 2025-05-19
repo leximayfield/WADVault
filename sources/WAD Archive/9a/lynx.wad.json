@@ -1,0 +1,16 @@
+{
+	"uid": "lynx.wad",
+	"name": "Lynx Up!",
+	"description": "This is a small level with a basic map shape of an Atari Lynx. It is mindless carnage, and great fun!",
+	"date": "2013-11-10 11:30:05",
+	"files": [
+		{
+			"filename": "lynx.wad",
+			"size": 134472,
+			"crc": 1226338891,
+			"md5": "b6ef9bb60d369a523ef002641163c2bc",
+			"sha1": "9abae8bf0c049877e82c7e4ff80dc00f05600294",
+			"sha256": "ae64c2696460f2f7a24748bb76579b9e0aa3270bb99c33b081d7211a4aa3cc23"
+		}
+	]
+}

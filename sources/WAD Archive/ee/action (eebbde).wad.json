@@ -1,0 +1,17 @@
+{
+	"uid": "action (eebbde).wad",
+	"name": "Scuba Steve's: Action DooM",
+	"description": "Action Doom is meant to try and bring back the run and gun feeling from the old 2D shooters like Contra and Metal Slug. In the tradition of such games there are no bullet weapons, only projectiles. And just like Contra every enemy and subsequently you, all have but one hit point, aside from bosses and mini bosses.",
+	"version": "eebbde",
+	"date": "2013-05-06 09:20:33",
+	"files": [
+		{
+			"filename": "action.wad",
+			"size": 26555451,
+			"crc": 1132185176,
+			"md5": "e2962e0787f1fd66bf9866a9553eeafa",
+			"sha1": "eebbdec7bf9f3492ddc4fce2e83a8b041e32b628",
+			"sha256": "7bb1e125f1a85d2a1fd17130456db7e49a1e78cfa9c44143573d1a6369437d7a"
+		}
+	]
+}

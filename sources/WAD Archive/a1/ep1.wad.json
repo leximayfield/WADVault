@@ -1,0 +1,16 @@
+{
+	"uid": "ep1.wad",
+	"name": "Ep1.zip",
+	"description": "An e1m1 type map.",
+	"date": "2014-12-22 18:54:59",
+	"files": [
+		{
+			"filename": "ep1.wad",
+			"size": 370384,
+			"crc": 2809151886,
+			"md5": "244e17257c7232ee3c228443fd83dae1",
+			"sha1": "a1d4c2bed3139234e3fd3973b34565647b8df91a",
+			"sha256": "30a90683babe1e1580c68a9ef410cc7f79bf1b626ccdbb39417fa8b5c15288a7"
+		}
+	]
+}

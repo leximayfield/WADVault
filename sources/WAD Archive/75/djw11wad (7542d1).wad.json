@@ -1,0 +1,17 @@
+{
+	"uid": "djw11wad (7542d1).wad",
+	"name": "DJW11.WAD",
+	"description": "This level has some of the feel of the original levels by ID software. It is a bit tougher than the first episode levels, but not as tough as the second and third. Lots of smaller monsters instead of a few of the big guys.",
+	"version": "7542d1",
+	"date": "2013-07-09 20:21:19",
+	"files": [
+		{
+			"filename": "djw11wad.wad",
+			"size": 85762,
+			"crc": 1569919028,
+			"md5": "faa820c7265fef20a721512db81dab26",
+			"sha1": "7542d1d79e1f77f8b7c83c42d44cc8d9aeed7c86",
+			"sha256": "2e2d41cab7ee93a4171307ff8f0eba0561e3b28e0c41bd37a2b211702f64e46d"
+		}
+	]
+}

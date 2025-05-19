@@ -1,0 +1,17 @@
+{
+	"uid": "spaced (66a19d).wad",
+	"name": "SPACED",
+	"description": "Your Space Frigate is attacked and disabled and you are the only survivor of your crew (unless your playing coop). The bad guys are teleporting aboard whats left of your ship and your only chance is to grab your weapons and teleport down the nearest planet (which happens to also be infested with baddies).",
+	"version": "66a19d",
+	"date": "2013-11-02 15:06:52",
+	"files": [
+		{
+			"filename": "spaced.wad",
+			"size": 194929,
+			"crc": 1687542666,
+			"md5": "b6eea2e96298637e28d0623d431bbbe1",
+			"sha1": "66a19dbae4394ec3dd52805acb98a14dbb50a152",
+			"sha256": "b0f9e2dca043f36763f8a6f92f86a8d41bf9297b93cc28afc7dd03c692e9134d"
+		}
+	]
+}

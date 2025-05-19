@@ -1,0 +1,16 @@
+{
+	"uid": "fastmap.wad",
+	"name": "FASTMAP",
+	"description": "I called this map like that because i made it in less then 2 hours,but i think is great if you want a simple,short but fun map.",
+	"date": "2019-05-04 01:04:00",
+	"files": [
+		{
+			"filename": "fastmap.wad",
+			"size": 7475,
+			"crc": 4019410684,
+			"md5": "83b62e77a6cf8e6298727fa0f8065598",
+			"sha1": "4a364ef4b1561b4f3f26ecc45d5c934e0b35d225",
+			"sha256": "d88f8b7e10eba2017c2db36588ebbb00af8422e2c87acf062df1636133b64f46"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "whack.wad",
+	"name": "Whack",
+	"description": "A techbase to blast your way through.",
+	"date": "2015-01-14 14:29:21",
+	"files": [
+		{
+			"filename": "whack.wad",
+			"size": 134933,
+			"crc": 680400541,
+			"md5": "caf2f4e72774cdeb13c662f38f0bace8",
+			"sha1": "b603d7a7a9caf4ec2fa2a52d3b1d47dcf2d1a5cd",
+			"sha256": "984d62000429443ebf6116350c83f3ce05d8deb39ad8df09b73844495ae6b023"
+		}
+	]
+}

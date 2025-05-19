@@ -1,0 +1,16 @@
+{
+	"uid": "mad_2.wad",
+	"name": "MAD_2",
+	"description": "(lEVEL FOR DOOM2) This is a level, designed for both single player and co-op",
+	"date": "2015-09-15 18:40:44",
+	"files": [
+		{
+			"filename": "mad_2.wad",
+			"size": 102784,
+			"crc": 3381806999,
+			"md5": "d11238b5fe9217eccc8addef9c5e5be9",
+			"sha1": "af996dc433b5f18256df60c023ade301e7109833",
+			"sha256": "1bb807fb6269dc384989e93b412d2a4267e12e4c2afb4e289d9ffa95be0ba39d"
+		}
+	]
+}

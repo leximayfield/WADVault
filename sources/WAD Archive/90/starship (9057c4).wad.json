@@ -1,0 +1,17 @@
+{
+	"uid": "starship (9057c4).wad",
+	"name": "Starship",
+	"description": "Starship is a complete SIX LEVEL hub. You are a disgruntled crew member of a massive warlike star cruiser. You set out to sabotage the ship by cutting it off from its power sources on three enslaved worlds; Alluvialis, Palaxistant, and Mazzarri. Warp portals on the starship take you to each planet, where you have to find the power conduit and shut it off. After you shut down all the power, you gain access to the starship's homeworld, Abbatoir where you must face Korax.",
+	"version": "9057c4",
+	"date": "2014-12-31 12:12:34",
+	"files": [
+		{
+			"filename": "starship.wad",
+			"size": 1765822,
+			"crc": 245674604,
+			"md5": "f6ae9931fccd9e8563580bb537724d22",
+			"sha1": "9057c47b33aea5ff8a4921453d2a355798494973",
+			"sha256": "34fdb1de42ec4bbe5d0bf95b5af9aebd5a6db1e6dbddabca34e5eb56898b009c"
+		}
+	]
+}

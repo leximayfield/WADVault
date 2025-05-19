@@ -1,0 +1,17 @@
+{
+	"uid": "makmyday (5f90ad).wad",
+	"name": "MAKMYDAY.WAD",
+	"description": "This is really good stuff for all those, who love playing DOOM just because it's fun! I put in some nice things to get and its a full level with all keys. Since this is my first level, i'm expecting some bugs, although i'd only found one. So, if you discover another, don't bother, i will find it, too. Since you cannot reach me in any way, just look out for updates on your server. They are coming!!! MAKMYDAY contains a lot of enemies, but there's always a chance to beat them. Look out for strange looking walls, they may be a secret door. Watch your back at the beginning! Perhaps you shouldn't take the chaingun in the startroom before you are sure not to forget something!!",
+	"version": "5f90ad",
+	"date": "2014-01-07 21:52:13",
+	"files": [
+		{
+			"filename": "makmyday.wad",
+			"size": 524679,
+			"crc": 3833029179,
+			"md5": "387705a89c7259172dda493dbd72f23c",
+			"sha1": "5f90adf600488651dd784459a184bb6fa050de7c",
+			"sha256": "ef7ffd261eaca0857b18d59572982c9da84f05d5e86b48107ea3bdff2716dba5"
+		}
+	]
+}

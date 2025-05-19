@@ -1,0 +1,16 @@
+{
+	"uid": "ultratex.wad",
+	"name": "UAC Ultra Textures (v1.1)",
+	"description": "The texture set to go with my Doom 2 episode entitled UAC Ultra (uacultra.wad)",
+	"date": "2013-12-01 12:59:30",
+	"files": [
+		{
+			"filename": "ultratex.wad",
+			"size": 2048017,
+			"crc": 3101391005,
+			"md5": "39f60a9d2456c40f2a4184c82b5cd8be",
+			"sha1": "757144cc704731ac68be8bd132930f661b322c0b",
+			"sha256": "ef0a9948bdea2689fa6f88724e263311ccb8b392da7044835b2a58096ef87836"
+		}
+	]
+}

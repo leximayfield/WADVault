@@ -1,0 +1,17 @@
+{
+	"uid": "2bad (6819a3).wad",
+	"name": "2BAD.WAD, version 1.0",
+	"description": "A couple of cavernous rooms with too many monsters, snipers up high, lots of trip wires - watch yer' back. Because of the amount of monsters in Ultra-Violence, the game may be choppy on slow machines.",
+	"version": "6819a3",
+	"date": "2013-11-02 15:22:30",
+	"files": [
+		{
+			"filename": "2bad.wad",
+			"size": 110124,
+			"crc": 3364020284,
+			"md5": "2d6c301683e65754a34e2b1ee3be2af4",
+			"sha1": "6819a3b926cd3dd27a31d6ccf59b93e61878339a",
+			"sha256": "1ede3b1b738acf9181d7ffee4c6a411d36aca00cea35b4ef14e161e9ec5f9fe4"
+		}
+	]
+}

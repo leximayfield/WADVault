@@ -1,0 +1,17 @@
+{
+	"uid": "house2 (4a07c9).wad",
+	"name": "The House of DOOM 2",
+	"description": "This is the DOOM2 version of the House of Doom. There are many changes to this version from the Doom 1.9 version released. I have added more sounds, more graphics, skill levels, and new additions to the map. It now also has a title screen. It's just better.",
+	"version": "4a07c9",
+	"date": "2014-12-18 22:15:04",
+	"files": [
+		{
+			"filename": "house2.wad",
+			"size": 882127,
+			"crc": 4068121387,
+			"md5": "b9d8553b424d90b1082c31a84c0901a8",
+			"sha1": "4a07c91ace52f3eb751c5d4793cfae434d3798bf",
+			"sha256": "d5d83164391e2cae126e2673d834a709368ba21fc74204ced08af951a8be814c"
+		}
+	]
+}

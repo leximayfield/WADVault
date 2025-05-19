@@ -1,0 +1,17 @@
+{
+	"uid": "visor-1 (28960e).wad",
+	"name": "Visor-1.WAD",
+	"description": "Semi small wad that can be used as either a single player or deathmatch (or co-op if need be). My first level wad, so any comments would be appreciated!",
+	"version": "28960e",
+	"date": "2013-11-06 22:37:14",
+	"files": [
+		{
+			"filename": "visor-1.wad",
+			"size": 149063,
+			"crc": 3237871716,
+			"md5": "b4af39ab0021db15bd4bc5f1fc39cf4c",
+			"sha1": "28960e9d57e5d4dfbcb0bd3924a76c0040d03398",
+			"sha256": "6e8d03d1f03996fd893f3e4d12531dc9a244a9308c8be622d5473625d8870e29"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "infoutp (a07551).wad",
+	"name": "Infernal Outpost",
+	"description": "This is a map I made a few months ago to play with a few friends in coop. I tried not to go overboard with scripting and such so I could instead use a few clever mapping tricks.",
+	"version": "a07551",
+	"date": "2015-09-14 21:53:41",
+	"files": [
+		{
+			"filename": "infoutp.wad",
+			"size": 1478270,
+			"crc": 2987657116,
+			"md5": "2bc148fb2796a15b813c388186036b32",
+			"sha1": "a0755183247d8362b1bad31818cb57e8de8dd049",
+			"sha256": "90193408dbba07fdae12be755bf9d176f0993e904162868ca701fe934bf3ec2b"
+		}
+	]
+}

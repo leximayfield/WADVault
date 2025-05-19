@@ -1,0 +1,17 @@
+{
+	"uid": "dream (25fa6f).wad",
+	"name": "Dream (v1.30.7)",
+	"description": "Second in my mini-episode. This level is the follow-up to Grind2 and is meant to be played after it (hence the health boxes at the start). This level is a little bigger than Grind2, but not by much. There are definately more monsters this time around, and I believe the skill is a little harder. Skills 1 and 2 are very easy and are meant primarily for sight-seeing. Neat effects this time include: Pillar in main room is used for navigation, the lift in the cave, the drain in the nukage-floor room, and of course the demon-worship temple area...",
+	"version": "25fa6f",
+	"date": "2014-12-24 19:07:33",
+	"files": [
+		{
+			"filename": "dream.wad",
+			"size": 247401,
+			"crc": 513904207,
+			"md5": "7ff7ae0dcd0217c4816d97fa798d7a20",
+			"sha1": "25fa6f7391bb2acb811cb181bc83a6b018ef1e33",
+			"sha256": "026f7f5876d9a9916d4cd8a573abe8acbaabb0dd82c0a975874a715443dea1d9"
+		}
+	]
+}

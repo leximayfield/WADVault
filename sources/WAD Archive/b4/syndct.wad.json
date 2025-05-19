@@ -1,0 +1,16 @@
+{
+	"uid": "syndct.wad",
+	"name": "Syndicate",
+	"description": "First wad attempt",
+	"date": "2014-12-29 15:31:12",
+	"files": [
+		{
+			"filename": "syndct.wad",
+			"size": 157727,
+			"crc": 2301991560,
+			"md5": "adb49335e9e57c6a396a6ce9d52f71c2",
+			"sha1": "b47d6663019be62ffcdeaf98c8aaf4e1bd982d94",
+			"sha256": "aa219de5dc342173828f11a370a681723225f15d553822d6a5bf90fcf9a908d7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "de_242 (782792).wad",
+	"name": "CROSS.WAD - An example of a new level.",
+	"version": "782792",
+	"date": "2013-11-02 15:12:31",
+	"files": [
+		{
+			"filename": "de_242.wad",
+			"size": 2704,
+			"crc": 2368352206,
+			"md5": "670d12ad18b553defb23071c982aef88",
+			"sha1": "782792c2c2f601ec0c4454ec41e4a73ab7c39b37",
+			"sha256": "788fa480b7539dcd8fe7c91385ebcb9c3659ee0fb4c9b7d1e325cdc2e8dcf96e"
+		}
+	]
+}

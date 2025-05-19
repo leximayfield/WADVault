@@ -1,0 +1,17 @@
+{
+	"uid": "red (94ccf8).wad",
+	"name": "Red Rock",
+	"description": "Far out in the uncharted backwaters of deimos lies",
+	"version": "94ccf8",
+	"date": "2013-11-04 20:07:35",
+	"files": [
+		{
+			"filename": "red.wad",
+			"size": 202899,
+			"crc": 2783623537,
+			"md5": "eb892598a3090fded9ecc017a70d0b92",
+			"sha1": "94ccf86e4486c6dfe83b08078e6554b0dc1d70cf",
+			"sha256": "7218a88b13f4ada798928556f30d41094942b4e0a61201e736ad7ef14db680f3"
+		}
+	]
+}

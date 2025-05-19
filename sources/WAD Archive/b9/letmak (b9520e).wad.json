@@ -1,0 +1,17 @@
+{
+	"uid": "letmak (b9520e).wad",
+	"name": "Let's Make a Death (LetMak.WAD)",
+	"description": "This is my first attempt at making a Doom level. There is nothing fancy since it is my first. It is named for the second room where there are two tripwires and if you cross the wrong one first you are pretty much dog food!! (Hint: Get the Plasma Gun FIRST!).",
+	"version": "b9520e",
+	"date": "2013-11-02 15:43:26",
+	"files": [
+		{
+			"filename": "letmak.wad",
+			"size": 43812,
+			"crc": 432500221,
+			"md5": "2d5d83a684cedc9ce4bdde8bdb6623cf",
+			"sha1": "b9520e14b3d6f274f6e3c9504076c9032362c815",
+			"sha256": "c4bcce96cff0fa85cf23aca3c36f88d90568bcebd023b97cd6d05e1ada862482"
+		}
+	]
+}

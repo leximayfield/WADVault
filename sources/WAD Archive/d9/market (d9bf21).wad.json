@@ -1,0 +1,17 @@
+{
+	"uid": "market (d9bf21).wad",
+	"name": "Supermarket",
+	"description": "There isn't much of a story, but here goes. Your at the UAC supermaket, (Voted best market by 3 out of 4 space marines!) and people start coming in left and right. Then you remember there was a sale today. Once you were shoulder to shoulder with people, you went insane. you took your shopping cart and started killing everyone in sight. Inclosed is a batch file to put in the graphics and run dehacked. Included is Deusf, but not dehacked. (which you need!) Put market.deh into the directory that dehacked looks for patches, then run market.bat. Note that your game will not be harmed, even though I WILL NOT be held responsible for anything this patch does! The graphics will be restored when the game is done!",
+	"version": "d9bf21",
+	"date": "2014-12-14 20:47:18",
+	"files": [
+		{
+			"filename": "market.wad",
+			"size": 79157,
+			"crc": 3048098161,
+			"md5": "0fb7f245b220850b57aa74b9f2cb2bd0",
+			"sha1": "d9bf21f29edd905b45e96156b5f404972d06e2b3",
+			"sha256": "0926f1f116e0f079c4bd78790ee6060f0769144aae76456579f94756a94421ee"
+		}
+	]
+}

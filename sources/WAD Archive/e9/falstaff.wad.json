@@ -1,0 +1,16 @@
+{
+	"uid": "falstaff.wad",
+	"name": "Falstaff",
+	"description": "Geared for the hardcores, there's loads of Spider-demons and Cyberdemons. There's also a BFG in the first room. Finding enough ammo and using it well is the tricky part. Also, there's a ton of secrets.",
+	"date": "2014-12-22 18:54:46",
+	"files": [
+		{
+			"filename": "falstaff.wad",
+			"size": 317324,
+			"crc": 679601003,
+			"md5": "da7454463d7100754d3a663256645095",
+			"sha1": "e9917dd6f0266d381dce49001e910b9c4e7f2e43",
+			"sha256": "cd2f13dc31649392015cf76e4c8e8145bfaaa6b19bb0b247fbaaff338a0990bc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "NoHope (e3a249).wad",
+	"name": "Journey of No Hope",
+	"description": "\"Instead of being victorious over the rampaging armies of Hell, you find yourself once again wandering the wastelands, in search of a way out.\"",
+	"version": "e3a249",
+	"date": "2014-12-14 20:37:58",
+	"files": [
+		{
+			"filename": "NoHope.wad",
+			"size": 156309,
+			"crc": 1065725712,
+			"md5": "fce92d713d1ce1b42aa295e555b45c9e",
+			"sha1": "e3a2490f9b81439b755becd362e4c2db60a8755a",
+			"sha256": "c59763d8c0b0df645034405034248c9c4c46dda933d08b5bbdc18027f79bc228"
+		}
+	]
+}

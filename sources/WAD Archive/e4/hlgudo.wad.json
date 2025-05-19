@@ -1,0 +1,16 @@
+{
+	"uid": "hlgudo.wad",
+	"name": "Half-Life Blood Effects",
+	"description": "Blood effects from Half-Life to be used on both Singleplayer and Multiplayer.",
+	"date": "2015-12-29 11:56:41",
+	"files": [
+		{
+			"filename": "hlgudo.wad",
+			"size": 6386,
+			"crc": 1947790384,
+			"md5": "51de9e8748eb39e2e60b42eb7b1b2cdb",
+			"sha1": "e4dca7870f72b410c45f8dd5502b7838a1b698d1",
+			"sha256": "dadbeba53dc5969279972a2716550cf46849fb76affaa71c5122f9aa4a94c48c"
+		}
+	]
+}

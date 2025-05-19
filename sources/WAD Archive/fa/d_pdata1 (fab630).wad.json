@@ -1,0 +1,17 @@
+{
+	"uid": "d_pdata1 (fab630).wad",
+	"name": "Pro-Data DeathMatch Wad For DOOM ][ #1",
+	"description": "A Big, fast-action DOOM ][ Deathmatch Wad. Good ambush spots, but don't stay in one spot too long. This is a frag-a-second style wad. With 4 players, someone will always be getting fragged.",
+	"version": "fab630",
+	"date": "2013-11-02 15:58:45",
+	"files": [
+		{
+			"filename": "d_pdata1.wad",
+			"size": 281977,
+			"crc": 319074841,
+			"md5": "67bcae58e83b555397909a3534f23361",
+			"sha1": "fab6307f58106f857b9ebc30e9eee0d299a2ae05",
+			"sha256": "ec70b4378ad7a09c4d22737d9b0d575c63c243200d844b11b269beec737a4179"
+		}
+	]
+}

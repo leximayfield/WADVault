@@ -1,0 +1,17 @@
+{
+	"uid": "surround (d00c83).wad",
+	"name": "Surrounded!",
+	"description": "Very tiny. One-on-one with a cyberdemon but you got him surrounded... (!).",
+	"version": "d00c83",
+	"date": "2013-11-02 16:01:12",
+	"files": [
+		{
+			"filename": "surround.wad",
+			"size": 14317,
+			"crc": 2715030085,
+			"md5": "64d9fb145f1f5c5241b990ecb44593c9",
+			"sha1": "d00c8322dd5586831f2fd0bd3ff7e715580f4188",
+			"sha256": "518e8948191e7efa72f002d4dfb05d36593b08b93d692dfb058be1e6189ea0c4"
+		}
+	]
+}

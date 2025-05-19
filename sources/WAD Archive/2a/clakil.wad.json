@@ -1,0 +1,16 @@
+{
+	"uid": "clakil.wad",
+	"name": "Classic Killz",
+	"description": "This is a single map for Doom 2 using ZDoom. This map is intended to played as if it were a classic Doom map. Enjoy!",
+	"date": "2014-12-21 16:32:19",
+	"files": [
+		{
+			"filename": "clakil.wad",
+			"size": 722448,
+			"crc": 1868625288,
+			"md5": "4758dc30875da04f21b2c510eea1fe61",
+			"sha1": "2add1464a28415803f4b01e5abb81a1ad741e58d",
+			"sha256": "c66528e738bc5dfcf881b246e14ee2277ff86c2a0194d14848ccd7e267110346"
+		}
+	]
+}

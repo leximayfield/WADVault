@@ -1,0 +1,17 @@
+{
+	"uid": "jail (703b1f).wad",
+	"name": "Locked in jail!",
+	"description": "This level started off as a jail, but I got a little off track. This wad was designed for single player in mind but it can be used in deathmatches and in coopertive.",
+	"version": "703b1f",
+	"date": "2014-12-27 12:54:56",
+	"files": [
+		{
+			"filename": "jail.wad",
+			"size": 49796,
+			"crc": 383686083,
+			"md5": "088317397d0df2980474b3d16e970004",
+			"sha1": "703b1f409b5ba62d5e510c509fb186c451ffc285",
+			"sha256": "9b1a9968f8070c156068a738cbcf04aace6cb4ca516b13713ecd34cab7745707"
+		}
+	]
+}

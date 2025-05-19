@@ -1,0 +1,17 @@
+{
+	"uid": "shootyer (0b6d55).wad",
+	"name": "SHOOTYER.WAD",
+	"description": "If you like doom, you'll get to shoot yer wad playing this all new pwad!",
+	"version": "0b6d55",
+	"date": "2016-02-07 20:30:02",
+	"files": [
+		{
+			"filename": "shootyer.wad",
+			"size": 204984,
+			"crc": 2894091981,
+			"md5": "536c7b39dffba7bbcd64267382caaaaf",
+			"sha1": "0b6d55e13e05f02b76a254f2707ec0bee905e5d3",
+			"sha256": "1a4d82ec5e02a7bfe1a3dc3bfa6cb789282823a00b4bba05da4bb797b3fdc439"
+		}
+	]
+}

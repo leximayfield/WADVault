@@ -1,0 +1,17 @@
+{
+	"uid": "zd_equinox (fe74e8).wad",
+	"name": "Equinox",
+	"description": "'Equinox' is a 13 level wad. I mainly did it for the new graphics, sound and music. Go nuts.",
+	"version": "fe74e8",
+	"date": "2013-04-20 11:49:12",
+	"files": [
+		{
+			"filename": "zd_equinox.wad",
+			"size": 6824644,
+			"crc": 2383288388,
+			"md5": "8be936d185681f3a3769ccdb715f6e16",
+			"sha1": "fe74e83bc3aa200d94625715f5a16ba4a4f24ab0",
+			"sha256": "6f8186043b58553f6e95882468fd300c9805e8cbd53caef206c5f1f4d3f486af"
+		}
+	]
+}

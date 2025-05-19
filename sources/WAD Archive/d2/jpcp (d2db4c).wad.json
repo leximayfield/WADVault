@@ -1,0 +1,17 @@
+{
+	"uid": "jpcp (d2db4c).wad",
+	"name": "Japanese Community Project",
+	"description": "Japanese Community Project is a 32 level megawad made by Japanese Doomers.",
+	"version": "d2db4c",
+	"date": "2016-07-28 00:13:27",
+	"files": [
+		{
+			"filename": "jpcp.wad",
+			"size": 45520073,
+			"crc": 3290166441,
+			"md5": "b0bfbdff7785da02b0fa6721dbccecd2",
+			"sha1": "d2db4c946bb2a397d42b3d8b99ae22d7d91df04f",
+			"sha256": "b994fbbab8a78f7133fc792679b95571b30ba2491503e35179eb49d77c29c4dd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wh_kmire.wad",
+	"name": "Kheiramire",
+	"description": "A map made for Speed of Doom's second birthday. It replaces map 01 of Speed of Doom, and is supposed to resemble both map 01 and 04 from this megawad.",
+	"date": "2014-12-29 17:23:33",
+	"files": [
+		{
+			"filename": "wh_kmire.wad",
+			"size": 491154,
+			"crc": 2076129996,
+			"md5": "d24b180abd6b2b816bdf33de79537ca0",
+			"sha1": "78ce92e220dc34f6a27632ca6e68d6799c32f1a0",
+			"sha256": "7b553ad495ba303db2b3032c2faa089a9a3efbed9d1cbd0aede147c50fe7560c"
+		}
+	]
+}

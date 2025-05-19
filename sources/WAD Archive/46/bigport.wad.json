@@ -1,0 +1,16 @@
+{
+	"uid": "bigport.wad",
+	"name": "Big Spaceport",
+	"description": "Big Spaceport is a collection of levels designed from scratch that are meant for Doom 2 veterans. They are very large, and far more challenging.",
+	"date": "2014-12-21 15:13:58",
+	"files": [
+		{
+			"filename": "bigport.wad",
+			"size": 4271132,
+			"crc": 3359435545,
+			"md5": "855cce851558cb4287e7feff0c873642",
+			"sha1": "4629c695e3ef1d5b0c04aeb0e51550d3a42bf21b",
+			"sha256": "d7a2e73574fd777ee0a62a79272a3dad8373617caad211474bf95227551a4d90"
+		}
+	]
+}

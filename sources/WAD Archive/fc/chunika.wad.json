@@ -1,0 +1,16 @@
+{
+	"uid": "chunika.wad",
+	"name": "Island of Chunika",
+	"description": "This is a fun level for doom2. You are on a lost island and you must kill Big White Monsters and some Fatsos. At the end there is a Big Pink Monster and maybe something else.",
+	"date": "2014-12-15 22:58:04",
+	"files": [
+		{
+			"filename": "chunika.wad",
+			"size": 81884,
+			"crc": 3893303663,
+			"md5": "22d38623d07bd9ac5b51e53122b03ddb",
+			"sha1": "fcff07023d1937d9f3586cc0403f1f65b8e2735e",
+			"sha256": "f280784ccfa2ed74f786b76ce5ac7d63e84366da942c0b2f9416428a4b7b14dd"
+		}
+	]
+}

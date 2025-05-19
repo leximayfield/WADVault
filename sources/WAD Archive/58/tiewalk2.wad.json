@@ -1,0 +1,16 @@
+{
+	"uid": "tiewalk2.wad",
+	"name": "TIE Walker",
+	"description": "There's a TIE Crawler, so why not a TIE Walker?",
+	"date": "2015-09-15 19:27:58",
+	"files": [
+		{
+			"filename": "tiewalk2.wad",
+			"size": 338504,
+			"crc": 1785548361,
+			"md5": "7d70c44b654f188f5f1490572e7f0114",
+			"sha1": "58f5970eebc65364baa1032c88e46969eefca7fe",
+			"sha256": "fdcec319846499ef013238fa8c219a044c4443c708b2a0c5960a661e8a7f5949"
+		}
+	]
+}

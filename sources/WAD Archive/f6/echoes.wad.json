@@ -1,0 +1,16 @@
+{
+	"uid": "echoes.wad",
+	"name": "Echoes",
+	"description": "This was supposed to be a 30 level megawad, however i just havnt the time to do such a thing any more. There are 8 maps in all. Levels 10, 20, and 30 are boss levels. The other levels are 1-5",
+	"date": "2014-12-12 14:11:07",
+	"files": [
+		{
+			"filename": "echoes.wad",
+			"size": 4362707,
+			"crc": 366388513,
+			"md5": "aad57d209be2d7df45b883e466c6b960",
+			"sha1": "f6ff608d3a5d17716154ee31a235ffd3aba6c2ff",
+			"sha256": "f36535c5e0c6d8d42ae189d9c00b57b7f6afca704f7b324d7c1ead7f0b412bfd"
+		}
+	]
+}

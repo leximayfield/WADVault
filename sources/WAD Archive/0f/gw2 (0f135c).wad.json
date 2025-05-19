@@ -1,0 +1,17 @@
+{
+	"uid": "gw2 (0f135c).wad",
+	"name": "Greenwar II",
+	"description": "Greenwar II is the sequel to the highly-acclaimed deathmatch megawad Greenwar! The project followed the similar method of past 32in24 projects; have one team make bare layouts and then have another team detail those layouts. However in this case, all of the layouts were created by Hellbent, the author of the original Greenwar. Gameplay was preserved as faithfully as possible while also making the maps look damn sexy.",
+	"version": "0f135c",
+	"date": "2013-04-19 04:07:28",
+	"files": [
+		{
+			"filename": "gw2.wad",
+			"size": 28033180,
+			"crc": 831205594,
+			"md5": "43fb819648587d405ea50b44a2794161",
+			"sha1": "0f135cc144a2d2a4d99b63ebf9f7df8ad766731d",
+			"sha256": "dcaf2f751ecfa8c8ecc7bb8a4715f6b4057193b355250edd0ebfbbfe01f1ffc1"
+		}
+	]
+}

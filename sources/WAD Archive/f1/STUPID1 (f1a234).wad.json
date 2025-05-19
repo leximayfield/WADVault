@@ -1,0 +1,17 @@
+{
+	"uid": "STUPID1 (f1a234).wad",
+	"name": "STUPID1",
+	"description": "Enough tricks and traps to satisfy everyone... Quite possibly to first in a series of STUPIDx.WADs depending on feedback.",
+	"version": "f1a234",
+	"date": "2014-01-04 11:55:49",
+	"files": [
+		{
+			"filename": "STUPID1.wad",
+			"size": 153874,
+			"crc": 86218423,
+			"md5": "4f7952f0c43490820e220d339c9a15e5",
+			"sha1": "f1a23446f895c4a2859ba9d1b18efd291c2a3560",
+			"sha256": "228686810a2239430fe6206174a32d0670795937870c6e7b71cfaee8f5ed2e9c"
+		}
+	]
+}

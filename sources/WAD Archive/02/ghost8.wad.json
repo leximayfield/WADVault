@@ -1,0 +1,16 @@
+{
+	"uid": "ghost8.wad",
+	"name": "Ghost sound wad",
+	"description": "A ghost sound I have made that replaces the imp's",
+	"date": "2015-09-15 17:33:26",
+	"files": [
+		{
+			"filename": "ghost8.wad",
+			"size": 203792,
+			"crc": 2270659061,
+			"md5": "3da070bcca64fc835a66fb85c633a9a7",
+			"sha1": "027b6a789317b021c004bb1f9bda5798ff871cc2",
+			"sha256": "3d79b9f1dcac0f0fd011ebcf146f3410c8eefb9db89549d4b8b529beace4d341"
+		}
+	]
+}

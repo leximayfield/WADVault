@@ -1,0 +1,16 @@
+{
+	"uid": "DTWIDREC.wad",
+	"name": "Rec Facility",
+	"description": "This map is actually for DTWID, but I decided to upload a file to the /idgames archive for the first time, and this was the only real complete map I had at the time. For those who don't know what DTWID is, you might want to check out the thread so you can get an idea of what this map's all about, the thread can be found here: http://www.doomworld.com/vb/wads-mods/52046-doom-the-way-id-did-update-romero-makes-a-welcomed-appearance/ Be sure to play some more of these guy's maps as well, they're pretty sweet!",
+	"date": "2014-12-13 17:52:26",
+	"files": [
+		{
+			"filename": "DTWIDREC.wad",
+			"size": 120906,
+			"crc": 1109861951,
+			"md5": "3ee6f1cf7dc904dd87c96e57dcddaffe",
+			"sha1": "b402901a5865b0a2c6654db2a9f047e71393b787",
+			"sha256": "2f43184e4968b67109d0a3695fad27ef2e9a64f524172eb76748b624faa69a2e"
+		}
+	]
+}

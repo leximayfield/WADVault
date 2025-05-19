@@ -1,0 +1,17 @@
+{
+	"uid": "cavlab11 (9cc31d).wad",
+	"name": "CAVLAB11.WAD",
+	"description": "My first WAD. Designed for single player mode with some nice surprises in it. Up until you get the red key it has a strange resemblance to where I work. In fact that Baron seems to be in my bosses office ;)",
+	"version": "9cc31d",
+	"date": "2016-02-07 20:27:00",
+	"files": [
+		{
+			"filename": "cavlab11.wad",
+			"size": 77232,
+			"crc": 116410430,
+			"md5": "2c4bcb1ebd51e084ebc3dfb93162f7c5",
+			"sha1": "9cc31debfdd7a135f5e42da5c4052f242aa44c84",
+			"sha256": "305ad76912c647b0e2be405686f7c54c3108a7e66e5e9be1ca3fa616e3d668cd"
+		}
+	]
+}

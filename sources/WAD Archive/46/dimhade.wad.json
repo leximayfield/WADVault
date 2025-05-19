@@ -1,0 +1,16 @@
+{
+	"uid": "dimhade.wad",
+	"name": "Dimension of Hades",
+	"description": "You and your team were sent to an underground UAC base that has been invaded by demons. As you enter, the cave collapses and you are left alone to fight the invasion!",
+	"date": "2014-12-18 23:18:31",
+	"files": [
+		{
+			"filename": "dimhade.wad",
+			"size": 113894,
+			"crc": 3550459199,
+			"md5": "821d23535120ec8ad0d6831621dbcd40",
+			"sha1": "46802d1332e1d6164f54383fa0f8af7b86534a00",
+			"sha256": "fc2c7b467088ae5510b030be8529d497dbf7f72e430667124a557f48e7102de1"
+		}
+	]
+}

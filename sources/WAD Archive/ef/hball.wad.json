@@ -1,0 +1,16 @@
+{
+	"uid": "hball.wad",
+	"name": "Hell Ball",
+	"description": "This is the third of eight level that I created a really longtime ago and never got around to adding more to (5-6 years ago).",
+	"date": "2014-12-18 23:06:17",
+	"files": [
+		{
+			"filename": "hball.wad",
+			"size": 40349,
+			"crc": 3394463257,
+			"md5": "0b01ce9671493111884f665fd9e068dc",
+			"sha1": "efbf5a3e193c905fb2b709e61b102a5e5757bf3e",
+			"sha256": "02e3b9ae092bbaa76c8e782c4fe1000417a255afb994124b9488f557062bf075"
+		}
+	]
+}

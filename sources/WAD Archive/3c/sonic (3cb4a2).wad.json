@@ -1,0 +1,17 @@
+{
+	"uid": "sonic (3cb4a2).wad",
+	"name": "Super Sonic DooM",
+	"description": "A DooM 2 episode with a Sonic influence throughout, courtesy of a brainwave I had during the map drawing phase of Licence to Spell DooM. It has the Sonic layout (zones, acts, bosses) and also has some Sonic features (monitors, springs, water). It also uses the health system seen in map 09 of Fragport (which was also Sonic-inspired) but will still look and play like a normal DooM 2 megawad.",
+	"version": "3cb4a2",
+	"date": "2015-09-14 21:00:45",
+	"files": [
+		{
+			"filename": "sonic.wad",
+			"size": 52455833,
+			"crc": 115143440,
+			"md5": "1bd1a6d37582b1356b3a021376a3d720",
+			"sha1": "3cb4a28e6b2462d3a4fd1bfcdb16dfa3b7e3a6ac",
+			"sha256": "e2705fe354596b48e3364c1165bf12f5b41ca96d914c167963346d0bcdfd791f"
+		}
+	]
+}

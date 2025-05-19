@@ -1,0 +1,16 @@
+{
+	"uid": "villa.wad",
+	"name": "The Villa of Pain",
+	"description": "A large new level for Doom 2. E-mail me and tell me what you think.",
+	"date": "2015-01-14 22:53:53",
+	"files": [
+		{
+			"filename": "villa.wad",
+			"size": 247589,
+			"crc": 1149461472,
+			"md5": "eb10f0165f64860c188cc4051b91468f",
+			"sha1": "c45a9414ea7b61518f15c875eaa54389b1c831c9",
+			"sha256": "dce38c27537e20132b38c21f3946ffbd1f3d21c778a415c6f97e7112f2b35cfc"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "darktown.wad",
+	"name": "DARKTOWN.WAD",
+	"description": "It's a big Level for DOOM II",
+	"date": "2014-12-18 23:13:46",
+	"files": [
+		{
+			"filename": "darktown.wad",
+			"size": 188619,
+			"crc": 3767028619,
+			"md5": "e85606ab3ce58737a4e32150917f9152",
+			"sha1": "6dcec6c3f1454f94a2d0e42336cd2f64fde36e7e",
+			"sha256": "ad46f57c770036eab0fba5b4492d5d788ee9f896262b1d8ab4096ef9676de0de"
+		}
+	]
+}

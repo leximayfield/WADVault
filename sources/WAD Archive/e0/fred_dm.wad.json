@@ -1,0 +1,16 @@
+{
+	"uid": "fred_dm.wad",
+	"name": "FRED_DM.WAD for MAP01  DOOM2",
+	"description": "DOOM2 DEATHMATCH OR CO-OP WAD",
+	"date": "2013-11-02 15:41:44",
+	"files": [
+		{
+			"filename": "fred_dm.wad",
+			"size": 120770,
+			"crc": 3204197208,
+			"md5": "10ffcc52515e793a0335fedf87d5abcd",
+			"sha1": "e0365c9825bcdbd070f4efc6b14310a5f178103c",
+			"sha256": "6c02d356646ae3076ae7fafd0abecc92882026db3f6e7812fe5cf74d7c40d3b1"
+		}
+	]
+}

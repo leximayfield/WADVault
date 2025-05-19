@@ -1,0 +1,16 @@
+{
+	"uid": "packer01.wad",
+	"name": "PACKER01.WAD (FORMERLY DRAGON.WAD)",
+	"description": "This patch file is for Doom2, 1st level, for only deathmatch play. It works best with 4 players but can be played with 2 or 3 players. Single player has been added but is only for play testing BECAUSE THERE STILL NO MONSTERS",
+	"date": "2014-12-15 22:57:05",
+	"files": [
+		{
+			"filename": "packer01.wad",
+			"size": 89195,
+			"crc": 1493878462,
+			"md5": "5e17c762edb60c231b37f56903854020",
+			"sha1": "555bc3dc2fa41a69beb31ebf3f293541c0b4e8b0",
+			"sha256": "e5e006b0336175556ca47e3ff093b49e250d49f1fe322e9add86acabb1b6bef5"
+		}
+	]
+}

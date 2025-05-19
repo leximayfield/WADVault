@@ -1,0 +1,16 @@
+{
+	"uid": "nukage.pk3",
+	"name": "Nukage Processing",
+	"description": "Single Player level for ZDoom",
+	"date": "2015-09-14 20:03:14",
+	"files": [
+		{
+			"filename": "nukage.pk3",
+			"size": 338558,
+			"crc": 4000421725,
+			"md5": "43db5a5a0e70282f56b2086b0aaa9586",
+			"sha1": "e991e70072edf36c23f56118a568684154a27e73",
+			"sha256": "acb1ecad8c5551521e93ccc1a2737a171c6b4eb181e5a5a5f5bec4c5fae71abe"
+		}
+	]
+}

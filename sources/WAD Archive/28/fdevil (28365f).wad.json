@@ -1,0 +1,17 @@
+{
+	"uid": "fdevil (28365f).wad",
+	"name": "final doom return of the evil god",
+	"description": "A 21st century doom2 wad, HARD!",
+	"version": "28365f",
+	"date": "2018-04-15 00:44:19",
+	"files": [
+		{
+			"filename": "fdevil.wad",
+			"size": 12545750,
+			"crc": 3092696464,
+			"md5": "c13d4954f88000fa71c8e5f8b0ad4e10",
+			"sha1": "28365f36109782b89eb4b457fdebc8bef9fc373d",
+			"sha256": "5d21b495e2fd2ac50a6d7d3d245b6fac37a370941e4903c7a26a75ee85d0cfd2"
+		}
+	]
+}

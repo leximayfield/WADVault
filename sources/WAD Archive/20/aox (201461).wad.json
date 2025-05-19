@@ -1,0 +1,17 @@
+{
+	"uid": "aox (201461).wad",
+	"name": "The Dungeon of Aoxozoxoa",
+	"description": "This WAD is based on an AD&D campaign that serveral of my friends and I played for about three years. Aoxozoxoa was one of two wizards who escaped from a high security wizard's prison in the Crimson Empire. A party of experienced adventurers was hired to track these wizards down and either re-capture them or eliminate their threat before they could align with other dark powers. This WAD is a reconstruction of the original dungeon where our party slayed the Archmage.",
+	"version": "201461",
+	"date": "2015-12-07 09:23:31",
+	"files": [
+		{
+			"filename": "aox.wad",
+			"size": 146627,
+			"crc": 802397636,
+			"md5": "af45d63df79e2088e617a8f565487d70",
+			"sha1": "201461a6c7000370948ad37ac0b7e307d68af322",
+			"sha256": "0cf8ca663115670757350913de40a7fdbc9ae8896bc04bce26e9235101b5b711"
+		}
+	]
+}

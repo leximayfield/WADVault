@@ -1,0 +1,16 @@
+{
+	"uid": "philinv.wad",
+	"name": "Hangar 22 Invasion",
+	"description": "A 6 wave Invasion map and also my 1st attempt at one.",
+	"date": "2014-12-12 14:17:44",
+	"files": [
+		{
+			"filename": "philinv.wad",
+			"size": 148755,
+			"crc": 3083725099,
+			"md5": "5a13d4d5c37eccf590f51296b73de071",
+			"sha1": "912644d9d953771cd4e61c9ad7e89f59be1ba7de",
+			"sha256": "cb62eb09580c396c233ba230230b3463a083fc6c96dd121a171d883300bdb165"
+		}
+	]
+}

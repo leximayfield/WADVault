@@ -1,0 +1,16 @@
+{
+	"uid": "blackroom.wad",
+	"name": "Black Room",
+	"description": "This is a Boom compatible (cl9) level for Doom 2. The setting for this map consist in some UAC bases placed in a mountain area. This map is designed to be challenging on UV.",
+	"date": "2018-07-02 03:19:20",
+	"files": [
+		{
+			"filename": "blackroom.wad",
+			"size": 1329298,
+			"crc": 3206424879,
+			"md5": "f8e22509de71d057fdd206f760a0af57",
+			"sha1": "8dd7f24f6dd133150d42ed11ffee621105ae40be",
+			"sha256": "ccb9f0bbc4ee5a5117c717f3ef52ec008448bce222e4a3282977052f44e36855"
+		}
+	]
+}

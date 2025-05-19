@@ -1,0 +1,16 @@
+{
+	"uid": "casad2.wad",
+	"name": "casa2",
+	"description": "This is the second part of casa ( this level was originally designed for DOOM 1 ), I've added some extra stuff, but the level remains more or less the same.",
+	"date": "2014-12-15 21:35:34",
+	"files": [
+		{
+			"filename": "casad2.wad",
+			"size": 157748,
+			"crc": 4148031385,
+			"md5": "5a7d8b5d907c783fa1b7a693c964138d",
+			"sha1": "041702ee6c29731ea7e64d9822803482b27c54b9",
+			"sha256": "a0bcf0dc56193d0a8f66b2b1fd5779c5425a84a817d3984e0b8b82dc8937e585"
+		}
+	]
+}

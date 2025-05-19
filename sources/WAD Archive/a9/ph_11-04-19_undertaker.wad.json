@@ -1,0 +1,16 @@
+{
+	"uid": "ph_11-04-19_undertaker.wad",
+	"name": "Undertaker",
+	"description": "This map formed around an idea for a trap (at the start)... which then had to be toned down twice before it was possible to survive. The rest of the map was designed to be compact and violent - with the dark areas being the safest. The whole thing had to go through extensive redesigns to fit within vanilla limits, which is why the main arena isn't connected to the rest of the map. The skies have been shuffled so that SKY1 is the red episode 2 sky, now.",
+	"date": "2019-08-06 20:23:22",
+	"files": [
+		{
+			"filename": "ph_11-04-19_undertaker.wad",
+			"size": 194607,
+			"crc": 4111135549,
+			"md5": "c4279d0fe7814464afcaf9c761b8d0b1",
+			"sha1": "a99204df54cac438f6cac86b52353d5cc4270e38",
+			"sha256": "1bd98e0f386b418d27891a10e5f7154eac44d1b686106cab42d328c035e35328"
+		}
+	]
+}

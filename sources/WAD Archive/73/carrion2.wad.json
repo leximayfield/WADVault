@@ -1,0 +1,16 @@
+{
+	"uid": "carrion2.wad",
+	"name": "Carrion II",
+	"description": "The second map in the carrion series. It is like the first in texture scheme and overall look, but is intended to be a completely different playstyle. I made this map targeted for those campers out there, who love hiding behind corners and ambushing other players. I believe this map would be much better with 3 people, but sadly I can only play over modem. But for those who don't like the idea of camping the slightest bit and are unwilling to try it (you'll like it!) this map isn't bad for fast frags, like carrion1 and the rest of the carrion series. Powerful weapons aren't that hard to get, but your opponents will be alerted of your efforts. You've also got to hurry when getting the BFG, because those barriers are 1-way. And also note, the rocket launcher is very dangerous in this map.",
+	"date": "2014-12-15 22:39:25",
+	"files": [
+		{
+			"filename": "carrion2.wad",
+			"size": 37519,
+			"crc": 1248003884,
+			"md5": "c0cfdf985577a0a503d1ff6ec4231aff",
+			"sha1": "73f24aa11601b860f616bb02314cb131d2730ed3",
+			"sha256": "187bc0f6002f57aac42f2dbe72f8ef72b8b4a9fdf9a2a55471c5f2eafc3b480f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "satagate.wad",
+	"name": "Satanic Gateway",
+	"description": "You've been dispatched by the UAC to this location. A portal to hell has been opened and demons are crossing over at an alarming rate. You and your team must make your way to the heart of the temple and seal the portal shut, pushing the hellspawn back into their own realm. Shutting out the nightmare... For now...",
+	"date": "2017-08-27 23:00:36",
+	"files": [
+		{
+			"filename": "satagate.wad",
+			"size": 5135846,
+			"crc": 3489313089,
+			"md5": "5cfd90b00a3b2496242807e6c5b4fbd2",
+			"sha1": "cd9e7c024e5fa1ab456642621e166d96ecbca1ba",
+			"sha256": "12ad76baa6b883bf0e4f5df0f2fb6e17593824a534e54b84a441b98db0c2d38a"
+		}
+	]
+}

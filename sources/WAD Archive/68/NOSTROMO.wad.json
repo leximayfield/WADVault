@@ -1,0 +1,16 @@
+{
+	"uid": "NOSTROMO.wad",
+	"name": "Nostromo's Run for DOOM ][",
+	"description": "Nostromo's Run takes place in an isolated station aboard some alien planet. The base was used for fighter training and mutant entertainment and features a large arena. Humans were being brought to this pleasure ground for the mutants amusement.",
+	"date": "2013-11-10 11:30:06",
+	"files": [
+		{
+			"filename": "NOSTROMO.wad",
+			"size": 320959,
+			"crc": 3937572371,
+			"md5": "93c8ff88902c402336b5e733edc514e8",
+			"sha1": "68f63d3025183bf5bbddc0ae80b360dca847f293",
+			"sha256": "dbad6a7765c65db0d611a47bbcad29dd069f66b5737115d560df90a486300766"
+		}
+	]
+}

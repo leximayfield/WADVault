@@ -1,0 +1,17 @@
+{
+	"uid": "backyard (ca8034).wad",
+	"name": "HELL'S BACKYARD",
+	"description": "DOOM II map 01 replacement, developed specifically for Deathmatch play. (Good luck getting the rocket launcher!!)",
+	"version": "ca8034",
+	"date": "2014-10-14 21:09:34",
+	"files": [
+		{
+			"filename": "backyard.wad",
+			"size": 89594,
+			"crc": 2606952213,
+			"md5": "6995052a2a2a8632a53a8cd8fa92b09a",
+			"sha1": "ca803461db27ee105b16d5eb0a568fb59b23d194",
+			"sha256": "da57d7ce09fa1362648805a30f9ca3d4a90b14de6f90ce761aa4680ab9b63357"
+		}
+	]
+}

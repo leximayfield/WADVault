@@ -1,0 +1,16 @@
+{
+	"uid": "musrej1.wad",
+	"name": "Pcorf's Music Rejects",
+	"description": "A music only wad containing some of the rejects from 2002ado and several other of my past projects. All songs are original and composed by me. Feel free to use any of these songs in your wad, level, etc. Music replaces all 32 levels, plus title, interpic and intermission in Doom 2. Works with vanilla doom2.exe.",
+	"date": "2013-04-19 03:13:24",
+	"files": [
+		{
+			"filename": "musrej1.wad",
+			"size": 465848,
+			"crc": 49255613,
+			"md5": "fbd44e6bd14aaedc2819f17cf554a7d3",
+			"sha1": "7e39770d8e83aedef7bff783c5fe88518a72f95f",
+			"sha256": "c1aa5742bec69e31ec0780fa9bf0fd05c5f56630d6c8f1302df9d9d472999904"
+		}
+	]
+}

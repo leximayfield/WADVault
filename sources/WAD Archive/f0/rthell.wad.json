@@ -1,0 +1,16 @@
+{
+	"uid": "rthell.wad",
+	"name": "Return To Hell",
+	"description": "After a massive invasion from hell on earth, you have been captured, find a way to escape this wretched place and save humanity.",
+	"date": "2014-12-29 09:00:14",
+	"files": [
+		{
+			"filename": "rthell.wad",
+			"size": 7520667,
+			"crc": 2674745025,
+			"md5": "1214310f7bd3bd821a110edc299267db",
+			"sha1": "f0297e13909ff7814099379e62cde2d25cc5ffbb",
+			"sha256": "8ce4033fa9ed27bb164474c583ba7a0cc29dc48ffe6a638c979055560d42269c"
+		}
+	]
+}

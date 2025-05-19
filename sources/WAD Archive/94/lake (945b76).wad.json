@@ -1,0 +1,17 @@
+{
+	"uid": "lake (945b76).wad",
+	"name": "Crater Lake",
+	"description": "A deathmatch WAD for E1M1 The scene is a toxic lake in a crater on Mars. All the boathouses and control centers have been abandoned. Keep on the bridges; if you fall off, try to make it to a boat fast!",
+	"version": "945b76",
+	"date": "2015-12-07 10:12:29",
+	"files": [
+		{
+			"filename": "lake.wad",
+			"size": 71405,
+			"crc": 3271181147,
+			"md5": "992845b3459710039b06cd791b173c9d",
+			"sha1": "945b76155dfe23c8d5342eead771f3839db6f14b",
+			"sha256": "721ecb2b55e46c330392fdf6e163f37773fa18d382d38a770e1b4c51b40f9fab"
+		}
+	]
+}

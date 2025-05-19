@@ -1,0 +1,16 @@
+{
+	"uid": "fhc1.wad",
+	"name": "Final Heretic Chapter One: The Docks",
+	"description": "Inspired by Enjay's Thief mod for Heretic, I decided to realize this wad. This is a remake of the first Heretic level, \"The Docks\", with a realistic set, new monsters, weapons, object for an enhanced Heretic experience.",
+	"date": "2014-12-13 12:40:25",
+	"files": [
+		{
+			"filename": "fhc1.wad",
+			"size": 7923086,
+			"crc": 3359288632,
+			"md5": "e6b2c6a970b73a0a1146311f690f6253",
+			"sha1": "04f5b181e06d102efce2f662dfce37556db57af6",
+			"sha256": "d0bb03fa5b801e951391195fb88a9761239e86519dff9aee78537d0e057694eb"
+		}
+	]
+}

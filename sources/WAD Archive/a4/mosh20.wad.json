@@ -1,0 +1,16 @@
+{
+	"uid": "mosh20.wad",
+	"name": "Mosh Pit v 2.0 (my brother gave it that name, I have no idea what prompted it but it's here for lack of a better name.",
+	"description": "This started out to be a test to see how well I was learning how to use DEU (I originally was going to do the high school first.) Eventually, when I decided I wanted to enter a level in a DOOM level contest and didn't have time to start over, it grew into this. It's made up of an inner section of rooms that make up to arenas part of it. The outer rim is a large hallway with doors to areas where the monsters that fight in the arena are spawned. This level was originally meant just to have a good place to watch the enemies fight, and can still be played that way. But now, with v 2.0, it can be used as a substitute level (there's now an exit switch). The second page of this document contains the story. I don't really care if you read it at all, but if you'd like to know why you're fighting and what your mission is, by all means read it.",
+	"date": "2013-11-03 17:47:05",
+	"files": [
+		{
+			"filename": "mosh20.wad",
+			"size": 147361,
+			"crc": 2905138147,
+			"md5": "445c1fe3eb87c12d9457ddbc86783012",
+			"sha1": "a4a6d1412e46356069c07cb3b0a2cb11ec870dd4",
+			"sha256": "f9640e215cfcbe67bb6634468309a57065d384a89b9621efd73b3253424ce4aa"
+		}
+	]
+}

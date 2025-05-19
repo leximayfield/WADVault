@@ -1,0 +1,17 @@
+{
+	"uid": "office (e6633c).wad",
+	"name": "Rumble in the Office",
+	"description": "My biggest Doom level until now. \"You are the new janitor of an UAC complex. You have been hired to keep it clean, because you are the best at your job. Your first day, and a full demonic invasion just happened. You are being paid to clean, so it's what you are going to do. But first, you must unlock the security doors. Be careful, someone is knocking at your door... It's time to take out the trash!\"",
+	"version": "e6633c",
+	"date": "2016-06-17 00:05:11",
+	"files": [
+		{
+			"filename": "office.wad",
+			"size": 811879,
+			"crc": 4273903814,
+			"md5": "274864bcc25bf4eabdf5c5e68b8b592c",
+			"sha1": "e6633ca1fd569720f0204a77b8714a749c8a500f",
+			"sha256": "fba3588dcb42d703d12535008d606c7f50c89ce412a986d317c2b91f11e89ca1"
+		}
+	]
+}

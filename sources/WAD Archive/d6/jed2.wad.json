@@ -1,0 +1,16 @@
+{
+	"uid": "jed2.wad",
+	"name": "JED2.WAD",
+	"description": "It's mainly a Deathmatch arena.",
+	"date": "2013-11-02 15:39:21",
+	"files": [
+		{
+			"filename": "jed2.wad",
+			"size": 54756,
+			"crc": 3586469377,
+			"md5": "2372ccb2118c4dbd04d636eb44d930c8",
+			"sha1": "d63cf5b798edde3fcb6d63fab46df18de8c78135",
+			"sha256": "a537697ee90d1c977ff295d00cb386950402f523c85bf85ad4bf9cb3258ec973"
+		}
+	]
+}

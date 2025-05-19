@@ -1,0 +1,16 @@
+{
+	"uid": "akimbo.wad",
+	"name": "Guns Akimbo!",
+	"description": "2 guns are better than 1 gun. So I've just made this for Doom. Weapons include alternate attacks for more fun.",
+	"date": "2016-01-28 23:47:22",
+	"files": [
+		{
+			"filename": "akimbo.wad",
+			"size": 854903,
+			"crc": 2924918425,
+			"md5": "ff245d5a7f79d4bca4b37e82ac621df5",
+			"sha1": "e29192166e86eebd953b8b70feb8b8829656148a",
+			"sha256": "ea97637a558bef6935973da1a7760abcb50497d4b1defc2e80f1ba12a2fc7781"
+		}
+	]
+}

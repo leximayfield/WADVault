@@ -1,0 +1,16 @@
+{
+	"uid": "dregmere.wad",
+	"name": "Dregmere Dam",
+	"description": "Long forgotten barrow-dam now infested with swamp creatures. Still seems to have a glimmer of life, as the torches are still lit and the doors and switches still operate. Who knows what lurks within the old dam complex... My first Hexen level: a large map with swamps, waterfalls, dam complexes, mountainous areas and a half sunken city. Some secret and non-essential areas also exist for exploration.",
+	"date": "2015-09-14 21:56:02",
+	"files": [
+		{
+			"filename": "dregmere.wad",
+			"size": 1027848,
+			"crc": 3766193599,
+			"md5": "2f8a25d1929a727064f87a625ab1b354",
+			"sha1": "33595435f03b7451efa5cca96768d45a64eae7d0",
+			"sha256": "b05ab7bfaf2e1da1b1b84cfc00b16980e2a2531d0c6d4da352047bad4931dad9"
+		}
+	]
+}

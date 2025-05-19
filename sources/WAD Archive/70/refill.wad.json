@@ -1,0 +1,16 @@
+{
+	"uid": "refill.wad",
+	"name": "REFILL",
+	"description": "Yet another Doom techbase for you to explore. You want it?",
+	"date": "2015-12-29 13:54:18",
+	"files": [
+		{
+			"filename": "refill.wad",
+			"size": 1059563,
+			"crc": 672929128,
+			"md5": "388215e768e057fadf9011746b805a42",
+			"sha1": "7067797d5b672904fbede8e64777edd915119fa1",
+			"sha256": "6a6188a567a0c58dd0c03110ae75aca192bc782938b6bab1d4edd7ab21dd330d"
+		}
+	]
+}

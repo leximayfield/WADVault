@@ -1,0 +1,16 @@
+{
+	"uid": "sckrpnch.wad",
+	"name": "Sucker Punch",
+	"description": "Sucker Punch features 9 small single-player maps for Doom II, tested in PrBoom+, ZDoom, GZDoom and Doom Retro. The WAD is made up from three mini-episodes of three maps each which escalate from easy (with green details) to harder (yellow) to hardest (red). The maps should take no longer than two or three minutes each to play and are designed for pistol starts. Difficulty settings are implemented. This WAD was originally shared in January 2016 with three maps; this version has minor improvements to those three, six additional maps in two new themes, and some new custom graphics (a TITLEPIC, level names, etc.) PLEASE NOTE: Sucker Punch requires the Community Chest 4 texture set (cc4text.wad) to be loaded alongside the WAD. // Maps and Music // Title music: 'Main Title' from Eternal Champions Intermission music: 'The Selection' from Rolling Thunder 2 MAP01 - \"Maintenance Run\" ('Warhead' from War Gods) MAP02 - \"Attrition\" ('Regeneration' from F-Zero X) MAP03 - \"Those Who Wait\" ('Chinese Revolution' from Chamber of Shaolin) MAP04 - \"Assault and Battery Acid\" ('Jetta' from Eternal Champions) MAP05 - \"House Full of Bullets\" ('Act 1' from Crack Down) MAP06 - \"Rev-olution\" ('Stage 7 Bellon' from Zero Wing) MAP07 - \"Compression\" ('Fire Field' from F-Zero) MAP08 - \"Nothing Dead Will Go\" ('Descent into Cerberon' from Quake II) MAP09 - \"Hardpoint\" ('Gravity Well' from Quake II: The Reckoning)",
+	"date": "2018-10-17 01:21:34",
+	"files": [
+		{
+			"filename": "sckrpnch.wad",
+			"size": 1371802,
+			"crc": 3401950963,
+			"md5": "c0b42bb95f6ddf6244d7ecffc0b6ab7b",
+			"sha1": "fff611ba4d6efee00b3fbfc909ad227fbbb4cbfd",
+			"sha256": "007d73fccd9745abd23a92b7cd451b26d00ebe694c9584a386d57a95eaf4fe8f"
+		}
+	]
+}

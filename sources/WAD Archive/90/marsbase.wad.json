@@ -1,0 +1,16 @@
+{
+	"uid": "marsbase.wad",
+	"name": "Marsbase",
+	"description": "Very large tech base designed for single player or co-op. No real story behind this level. It was just some thing new to co-op in... :)",
+	"date": "2015-09-15 19:19:30",
+	"files": [
+		{
+			"filename": "marsbase.wad",
+			"size": 215248,
+			"crc": 236122050,
+			"md5": "3e4882fcaa2353307e167734376c6809",
+			"sha1": "9062d11954d42aab5f67da992c77fe8b2d938e83",
+			"sha256": "ecd615edc284a7bc97770bab5d6327b39132038f9eef9f31e1f6320245b85a15"
+		}
+	]
+}

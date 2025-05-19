@@ -1,0 +1,16 @@
+{
+	"uid": "baron_ch.wad",
+	"name": "Baron's Chateau",
+	"description": "A Baron of Hell runs this dungeon. Find its lair and kill it.",
+	"date": "2016-04-05 22:43:51",
+	"files": [
+		{
+			"filename": "baron_ch.wad",
+			"size": 893382,
+			"crc": 2016522786,
+			"md5": "6dc4696d0dbe43df62ab8c3b57142734",
+			"sha1": "1d2d9ef385e76c5d0e5edb348e1ba1647932d48d",
+			"sha256": "26ce8166411f4ff14a5642669f0207e958290deb1a150f47de96321633f59b6d"
+		}
+	]
+}

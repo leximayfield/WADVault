@@ -1,0 +1,16 @@
+{
+	"uid": "lafsprte.wad",
+	"name": "LAFDOOM",
+	"description": "Some new sprites for DOOM2 (Will work fine under DOOM as well, probaly)",
+	"date": "2015-09-14 20:36:27",
+	"files": [
+		{
+			"filename": "lafsprte.wad",
+			"size": 347809,
+			"crc": 3266848336,
+			"md5": "db015847ac46369f76bf9e11d7e3013e",
+			"sha1": "50af88a52f8542c36c1347e759495d838ef9b3ee",
+			"sha256": "6a2683c57444138dfd967d2a21476fcc71e7c8df64325c84c4934ac3b96d6991"
+		}
+	]
+}

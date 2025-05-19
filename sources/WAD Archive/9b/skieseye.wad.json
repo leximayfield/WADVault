@@ -1,0 +1,16 @@
+{
+	"uid": "skieseye.wad",
+	"name": "Beautiful Strange Doom Sky Pack",
+	"description": "A set of ten new skies for Doom. All of them 1024 pixels wide, divided in four pieces. The WAD archive contains a small demo map (re- peated ten times, each one with a different sky), so you can view how the skies can be applied in the game. There are also three folders. The named \"truecolor\" includes the original renders (256x192, 24 bpp). In \"8bits-doom\" you'll find the same graphics converted to Doom palette. And \"8bits-128px-doom\" contains the 128 pixel tall skies that I used in the demo WAD. I tried to create certain variety of atmospheres. So there are some earth-like skies, an \"inferno\" sky, a moon-space one, a Mars inspired sky..., among others.",
+	"date": "2015-09-15 18:20:00",
+	"files": [
+		{
+			"filename": "skieseye.wad",
+			"size": 1568707,
+			"crc": 314406933,
+			"md5": "9b5de2ac19c2c87a50d8782ec12878a5",
+			"sha1": "9bca25940d6e1ff53ad2536864c2ba98e0e70ec2",
+			"sha256": "4ec5bae67f188e06a735408dc8127528adc4116925b97b47cf44f05837f9e46e"
+		}
+	]
+}

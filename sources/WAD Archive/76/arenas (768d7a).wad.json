@@ -1,0 +1,17 @@
+{
+	"uid": "arenas (768d7a).wad",
+	"name": "Arenas of Death",
+	"description": "This wad is seperated into multiple arenas all of which have their own aspects. Some arenas actually look down/up at each other!",
+	"version": "768d7a",
+	"date": "2014-08-30 14:34:39",
+	"files": [
+		{
+			"filename": "arenas.wad",
+			"size": 46071,
+			"crc": 2953283935,
+			"md5": "057d9eb09fdc34a9a6ed39679be6e663",
+			"sha1": "768d7acfd40a5c9abd4f2973fc3f82b7cb56e812",
+			"sha256": "3705005ee22e0cc6ce51025ae0279db25e63189673ba52b770090cbcd0ae0078"
+		}
+	]
+}

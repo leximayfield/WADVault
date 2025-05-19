@@ -1,0 +1,16 @@
+{
+	"uid": "bf-dk07.wad",
+	"name": "DoomKiller 07",
+	"description": "This is a sample of what's coming from DoomKiller. The idea of DoomKiller is to simulate Painkiller's gameplay. (lots of monsters, heavy music, mixed themes). After this release, the rest of the levels will be released in packs of 5 (4 total).",
+	"date": "2014-12-12 14:17:51",
+	"files": [
+		{
+			"filename": "bf-dk07.wad",
+			"size": 339148,
+			"crc": 668042672,
+			"md5": "3456ad3b58ca23f53b04aebb530646c4",
+			"sha1": "3786c4b7b48bd375f89c2d727681965622f44a29",
+			"sha256": "26512b2e2c1331655ab078d2079a838937fbdd38f48cad8485f7e029feaef768"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "SUPER22 (0ed6a5).wad",
+	"name": "SUPER22.WAD and SUPER33.WAD",
+	"description": "Two \"SUPER\" Deathmatch levels SUPER22.WAD - Great for 2 players, untested with > 2 You can really rack up the frags and have a good time doing it! When we quit one particular session, I had 80 Frags and my opponent had about 40. Go look at the CYBERDEMON...it can't hurt you until the barrels are blown up. Kill the CYBERDEMON together, or leave it out there to make things interesting. SUPER33.WAD - Probably better with > 2 players although we had a pretty good time with two. Not as heavily playtested as SUPER22.",
+	"version": "0ed6a5",
+	"date": "2013-11-02 16:00:49",
+	"files": [
+		{
+			"filename": "SUPER22.wad",
+			"size": 55340,
+			"crc": 4025377851,
+			"md5": "457ffec9b583186c1cb7ffd930f63e23",
+			"sha1": "0ed6a5207e35b714c45485b2aeb8fe98f0551fce",
+			"sha256": "7992ae06207f7a4376ebccb2c45bec7ba00b8b59ac543c07b22037908428c40f"
+		}
+	]
+}

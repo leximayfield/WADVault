@@ -1,0 +1,16 @@
+{
+	"uid": "mm2mem01.wad",
+	"name": "mm2mem01",
+	"description": "Short map for Memento Mori 2, you will need mm2.wad to play it.",
+	"date": "2015-01-13 21:35:40",
+	"files": [
+		{
+			"filename": "mm2mem01.wad",
+			"size": 260746,
+			"crc": 427127779,
+			"md5": "1184e81f771bf4167a30cd1451961f04",
+			"sha1": "a1c0a734d2a9f5e3c050daeaf70f5e7489d2d09a",
+			"sha256": "d8fab45d07cee91dffb9cadca2eafba5c7ad0d72065e5183ff29aabf71355b4c"
+		}
+	]
+}

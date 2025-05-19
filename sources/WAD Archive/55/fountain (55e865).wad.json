@@ -1,0 +1,17 @@
+{
+	"uid": "fountain (55e865).wad",
+	"name": "FOUNTAIN.WAD",
+	"description": "A fast and fun deathmatch WAD for two. A fun chase WAD. Lots of walk-through walls in the main courtyard, a few teleporters for escapes, (check between the left support and wall of the main stairs...) all the weapons are there, a few of my favorite monsters, and the fountain of death. You'll find many dead bodies there! Part of the DEATH for 2!!",
+	"version": "55e865",
+	"date": "2013-11-03 17:48:45",
+	"files": [
+		{
+			"filename": "fountain.wad",
+			"size": 75931,
+			"crc": 490029279,
+			"md5": "793fff15ef79e188448ced9835a24f93",
+			"sha1": "55e86542bb795d086529839acd116adb4fdcda09",
+			"sha256": "e887639b9c228e6793189630fa6e9e192143beac4f4da251422f258002970b1e"
+		}
+	]
+}

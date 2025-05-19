@@ -1,0 +1,16 @@
+{
+	"uid": "outhw.wad",
+	"name": "Outpost HW",
+	"description": "A Doom 1 map in techbase style. 13 secrets to find and 280 monsters in UV. About 7 minutes if not blind on any%.",
+	"date": "2016-08-12 21:56:40",
+	"files": [
+		{
+			"filename": "outhw.wad",
+			"size": 462862,
+			"crc": 3688329293,
+			"md5": "6f244b0861d29dac0d28b59e0cd53630",
+			"sha1": "0e046d652a8ea65e3647ccef64cb48f1da2c5818",
+			"sha256": "0819654bc83956d445c14cb8011ad0fb620706b9c54b9009b95e9d144bce0b3b"
+		}
+	]
+}

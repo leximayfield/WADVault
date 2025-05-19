@@ -1,0 +1,17 @@
+{
+	"uid": "whitemare2 (dab9ca).wad",
+	"name": "Whitemare 2",
+	"description": "Updated version of White2.wad with some bug fixes such as crashed blue door on map23 in PrBoom+ format. Megawad, based on the results of a four speedmapping contests, held on www.iddqd.ru in 2013, with such themes, as winter, thaw, precipices, and ancient civilizations. Maps were finalized some time later (some - very significantly), and several maps were built from scratch. This megawad tells us the fate of the Marine, who was going to celebrate the New Year. Suddenly, however, the monsters changed seasons' offset, and as a result - they stole the winter. We have to go through the mountains, castles and underground crypts, visit the flooded city, a lonely island and even visit the hell's edge before it will be possible to restore the normal course of the seasons. But monsters were prepared for that as well - and with the return of winter, they prepared some unpleasant surprises...",
+	"version": "dab9ca",
+	"date": "2014-03-14 13:05:44",
+	"files": [
+		{
+			"filename": "whitemare2.wad",
+			"size": 81645310,
+			"crc": 3551062282,
+			"md5": "a3ddee3df00bca7f5232201019305b18",
+			"sha1": "dab9ca4518dbbbd56c0f0348fc90aae10cd401a0",
+			"sha256": "9460a152f6e6d82c6556b127978cc968d54c061c42b2520b0584c5e02cadb3e0"
+		}
+	]
+}

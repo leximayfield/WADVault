@@ -1,0 +1,16 @@
+{
+	"uid": "hourgl1.wad",
+	"name": "The Hourglass of Death!!!!!!!!!!",
+	"description": "This is an interesting \"experimental\" level I : cooked up to try out a few new ideas I felt needed : a little exploration, the most significant of which : invloves a very clever use of teleporters to keep : deathmatch opponents in constant contact with one : another. The big room with the trees and the blackwall : texture contains a ring of teleporters blocked from : direct access by these little partitions. When a : player in another section of the level walks over : a lindef, one of these partitions falls and allows : the oponnent access to the teleporter, which, in turn, : teleports them to the other player's location. : I've tried it out a little in deathmatch play and : it has proved very exciting. Another theme I : tried to explore in this one was the use of linedef : triggered hiding places where players can wait in : ambush. If you have any constructive criticism : concerning this wad, e-mail.",
+	"date": "2013-11-06 22:38:59",
+	"files": [
+		{
+			"filename": "hourgl1.wad",
+			"size": 91551,
+			"crc": 2373174091,
+			"md5": "3c00bebefee7153d8b9c77f308840154",
+			"sha1": "fecaf8be0f9a093e094b775dffc179acc31e4a2c",
+			"sha256": "a715d4e6c259fc517b0570556308400c068fa0ea808b10efb90e4072e18ef414"
+		}
+	]
+}

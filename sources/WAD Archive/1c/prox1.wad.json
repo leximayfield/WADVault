@@ -1,0 +1,16 @@
+{
+	"uid": "prox1.wad",
+	"name": "Proxyon Military Base",
+	"description": "Proxyon Military Base was built on the planet Andromeda in the Alpha Cruxus system, known as Summer Row because of the five Earth-type worlds that orbit this G-type sun at comfortable distances. The whole system is possibly the richest non-mineral system in the galaxy.",
+	"date": "2014-12-13 17:52:47",
+	"files": [
+		{
+			"filename": "prox1.wad",
+			"size": 344156,
+			"crc": 38396147,
+			"md5": "7a2213c14a118ec8b87aaa284bcf2281",
+			"sha1": "1cd27425c86d607c96ca35ae419d7154518d588d",
+			"sha256": "64fcad9b9c61a1ef0ecfb5f20f4bfa6d89df2d2d04c8d637438c449c4f47fe09"
+		}
+	]
+}

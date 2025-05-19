@@ -1,0 +1,16 @@
+{
+	"uid": "complex-doom.v5.3.wad",
+	"name": "Complex DooM",
+	"description": "It started of as a wad (back in late 06 early 07) that was ment to replace every existing thing in Doom but I figured that was dumb so instead I removed all the pointless stuff I put in back in the day, dumbed down some of the monsters so that they're not ridiculously strong, added a few new weapons and enemies and overall cleaned the wad up a bit. It's basically like Hard-Doom (which is funny because the very first version of replacements was out well before H-D, I guess inspiration took over, lol) but theres much more in it.",
+	"date": "2013-05-13 19:39:47",
+	"files": [
+		{
+			"filename": "complex-doom.v5.3.wad",
+			"size": 14409818,
+			"crc": 990205626,
+			"md5": "49c04449ff8db8ef59724d78f713f91d",
+			"sha1": "e55d2f2bda1376cddad2d5161dcc238f3a132e68",
+			"sha256": "a3af286e944b431f08c23013fad5f89b5d0bc9769ccb21d2d882284e6bfc8e92"
+		}
+	]
+}

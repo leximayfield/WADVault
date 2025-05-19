@@ -1,0 +1,16 @@
+{
+	"uid": "humanh.wad",
+	"name": "The Human Hive.",
+	"description": "Another invasion of the hellspawn had some nasty surprises. The demons of Hell brought a flesh-like substance which quickly started corrupting a nearby city. Last week a squad of marines was sent to investigate the area and destroy the source of infection. Unfortunately, the contact went down 5 days later. You are tasked to destroy the source of substance...or at least get out alive to tell everything to the government.",
+	"date": "2018-07-08 03:20:00",
+	"files": [
+		{
+			"filename": "humanh.wad",
+			"size": 407114,
+			"crc": 193153456,
+			"md5": "6e042ddec01f414f4b57b1c2d79b0dd7",
+			"sha1": "797758afd14905e7d400c065da2aaef0563e8591",
+			"sha256": "f0f2e55abc77085fcba1b541b96deb5e5032db572b1d69b73cc9bf6effe5af83"
+		}
+	]
+}

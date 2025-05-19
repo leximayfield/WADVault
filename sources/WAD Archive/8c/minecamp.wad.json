@@ -1,0 +1,16 @@
+{
+	"uid": "minecamp.wad",
+	"name": "Mine Camp",
+	"description": "Single/Co-Op level where players battle through a mine.",
+	"date": "2015-02-21 09:03:34",
+	"files": [
+		{
+			"filename": "minecamp.wad",
+			"size": 368559,
+			"crc": 4099866371,
+			"md5": "b35b2181d85c389d9372197ad10a37f4",
+			"sha1": "8c8341cb187646573c8a35f681644e4c9e875e08",
+			"sha256": "8845bf1fc1272a7ac9f6ca3447520928ffa54f77c36efa12c6c320cccc06c13f"
+		}
+	]
+}

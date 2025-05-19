@@ -1,0 +1,16 @@
+{
+	"uid": "deca_.wad",
+	"name": "Decadence",
+	"description": "UAC tech base on another planet. Map will not be displayed correctly on a port that does not use software render(or is using opengl or direct3d).",
+	"date": "2014-12-24 17:01:03",
+	"files": [
+		{
+			"filename": "deca_.wad",
+			"size": 2979583,
+			"crc": 1373469957,
+			"md5": "62120f9abecfad311cc9c58631bafa18",
+			"sha1": "8d6032f112df71cbbb26216b18713aacf3f5aced",
+			"sha256": "2f94092486ea40477c8a17e5f7b725e2f0010eda8ba7b70565a486c3c77945d0"
+		}
+	]
+}

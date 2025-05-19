@@ -1,0 +1,16 @@
+{
+	"uid": "fbase6.wad",
+	"name": "FBase 6: Remanasu",
+	"description": "2 of FreeDoom's maps, have a look at : http://boris.slipgate.org for a list of them I started this as a test map to learn to use : Doom Builder. I think it turned out to be pretty : cool :) : NOTE: This is version 1.1 of the map. I fixed some bug : where the player was able to get the blue key by : running into the wall below it. Thanks to : SargeBaldy for finding out! : I also added Coop starts (no DM though). Happy : now Carn? :)",
+	"date": "2014-12-24 19:26:10",
+	"files": [
+		{
+			"filename": "fbase6.wad",
+			"size": 404013,
+			"crc": 2466972855,
+			"md5": "4495ce9f9b05007bc5d23b5516285d4b",
+			"sha1": "a8e1b6a93db62783cc54da8531115c753a3d831f",
+			"sha256": "ac2db8c266f7dbfd31c77f22193850246046d8aef63b764e53da734ba11fe2b8"
+		}
+	]
+}

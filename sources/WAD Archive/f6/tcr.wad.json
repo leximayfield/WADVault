@@ -1,0 +1,16 @@
+{
+	"uid": "tcr.wad",
+	"name": "The CodeImp Realm",
+	"description": "Tech/Quake style CTF map for Skull Tag.",
+	"date": "2014-12-12 14:03:58",
+	"files": [
+		{
+			"filename": "tcr.wad",
+			"size": 384185,
+			"crc": 1157311645,
+			"md5": "ace0613efd550282f7d5e71e63c98dbf",
+			"sha1": "f6a2b4ec87d0f2e84815073f1d8ca46c032caf84",
+			"sha256": "997a184ad85fcd12f1f8298afcc47ff5ec19a31062998b13a8c4d82b5fe32039"
+		}
+	]
+}

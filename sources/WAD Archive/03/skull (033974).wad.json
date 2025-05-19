@@ -1,0 +1,17 @@
+{
+	"uid": "skull (033974).wad",
+	"name": "SKULL.WAD",
+	"description": "Arrr matey..... dis level t'was designed fer ya landlubbers dat enjoy a good deathmatch. I look forward to crossin' swords wit da best o' ya.",
+	"version": "033974",
+	"date": "2016-02-07 20:25:47",
+	"files": [
+		{
+			"filename": "skull.wad",
+			"size": 39017,
+			"crc": 360323791,
+			"md5": "b9a0bfc68f08aef831d3c7f3ad307bed",
+			"sha1": "0339740e945f10f5e8756547f6070af3c296fbdb",
+			"sha256": "fdf1c16c078d91a3af7b3d8a2435346403fa43d02cfb7ac8cecd4fc901e229ac"
+		}
+	]
+}

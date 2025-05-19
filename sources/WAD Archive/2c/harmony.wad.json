@@ -1,0 +1,16 @@
+{
+	"uid": "harmony.wad",
+	"name": "HARMONY.WAD",
+	"description": "This Wad is for DOOM ][ only. A deathmatch level. A small predictable wad. There is a central room with a bfg surronded by four other rooms containing the other weapons. All the rooms are connected. If you want to know any more you'll have to play it.",
+	"date": "2013-11-06 22:49:02",
+	"files": [
+		{
+			"filename": "harmony.wad",
+			"size": 11352,
+			"crc": 2249809250,
+			"md5": "44813fd10529fbf30f65503e406b6e66",
+			"sha1": "2ce80572e95836dfa87eeb93e01786f1e8be9edb",
+			"sha256": "41db9a7502e92d18e62f2b35cff0e1e1e84dbfa8f9810c447c5976020852d5f8"
+		}
+	]
+}

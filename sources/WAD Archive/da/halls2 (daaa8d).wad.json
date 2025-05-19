@@ -1,0 +1,17 @@
+{
+	"uid": "halls2 (daaa8d).wad",
+	"name": "Halls of Death 2 (HALLS2.WAD)",
+	"description": "This is much improved version of halls.wad. It's a fairly big level for two player deathmatch, but we still find it extremely fun to play even with only two players. It contains a lot of teleports, and some of them take you to the prison, where you're just a sitting duck for your opponent(s) to take out. The level is chock full of items, especially stim and med packs last forever...and your chances of running out of ammo are almost zero.",
+	"version": "daaa8d",
+	"date": "2013-11-02 15:14:47",
+	"files": [
+		{
+			"filename": "halls2.wad",
+			"size": 198991,
+			"crc": 352765619,
+			"md5": "4a96057fe9fe487744bc42781a91560c",
+			"sha1": "daaa8d86789cbb01a4128d3ee98eb79a1015d959",
+			"sha256": "3f9495630dc0bfe9032dc51dcfd317baeb2a285311e694c753c2844747c1cdbc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "crossfir (e54381).wad",
+	"name": "Cross Fire",
+	"description": "This is a new Doom2 wad built from scratch primarly",
+	"version": "e54381",
+	"date": "2014-01-07 21:52:07",
+	"files": [
+		{
+			"filename": "crossfir.wad",
+			"size": 57147,
+			"crc": 2650660784,
+			"md5": "d6a476f59b5781438ea9fb5ffa7dd028",
+			"sha1": "e54381a30c2d0ddbbac98f5eafda58dcf283cba5",
+			"sha256": "79f8082c924905fcc11db799bc7e4a0608ec12fc45a49e170d316c8bcfdd7879"
+		}
+	]
+}

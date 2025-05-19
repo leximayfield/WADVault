@@ -1,0 +1,16 @@
+{
+	"uid": "nostdmml.wad",
+	"name": "Nostalgy: Trip down my memory lane",
+	"description": "This is a remake of a map that I had originally created sometime in 99-02. Back then this used to be one of my favourite maps, and a while ago I found myself wanting to play it again. However I had lost the map in a HD crash a while ago, so I had to remake it based on what I remembered of the map. The detail level is mostly low since the original map was very low in detail as well and the map themes are all over the place. There are three different \"game modes\": HMP is mostly similar to the original map I had made, UV is a HR version of the original and ITYTD/HNTR item placement is in HR style done by Maes before he was shown the original item placement. So this is essentially a \"three-in-one\" experience.",
+	"date": "2015-09-14 21:54:49",
+	"files": [
+		{
+			"filename": "nostdmml.wad",
+			"size": 178864,
+			"crc": 2560518427,
+			"md5": "4c27b2a0d88d6ae62d8bdd0d8d3812fa",
+			"sha1": "2955071c61e1a66383d74e14f05539f23f38db1d",
+			"sha256": "5b6062d2c293fcca13a182e8944f331346bdf9155df86a745d621bde2723ef21"
+		}
+	]
+}

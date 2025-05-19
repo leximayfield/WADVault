@@ -1,0 +1,16 @@
+{
+	"uid": "imparena.wad",
+	"name": "Imp Arena",
+	"description": "It's a small map where you have to kill an assload of imps with each weapon. The more you kill (and the more you kill at once) the higher your score!",
+	"date": "2014-12-24 19:20:57",
+	"files": [
+		{
+			"filename": "imparena.wad",
+			"size": 506195,
+			"crc": 2883291765,
+			"md5": "1aaf5aaa2241fd2e8aa48c5c14c42715",
+			"sha1": "71a1bf0637afbbbfecb30b756f34e45f0b49b937",
+			"sha256": "91ab6a216ba03764f9aa0d63b92a2ba5af260e55c7c1b0826787806cbccbf3c9"
+		}
+	]
+}

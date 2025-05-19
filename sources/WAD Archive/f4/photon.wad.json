@@ -1,0 +1,16 @@
+{
+	"uid": "photon.wad",
+	"name": "Photon",
+	"description": "Doom II level based on the original Baltimore Photon, which closed down in 1992. Created this level using the actual building blue-prints, scaled to 16 units per foot. Photon is coming back, with 2 locations opening soon in the Baltimore, MD/Washington, D.C. area within the next 6 months! Check http://www.photon-qei.com, the Offical Photon Web site by Vector I, for more information.",
+	"date": "2015-01-14 22:40:31",
+	"files": [
+		{
+			"filename": "photon.wad",
+			"size": 458091,
+			"crc": 443708319,
+			"md5": "08c97c2b2314b8137ac8c4eff9dfcb27",
+			"sha1": "f409f4587ce04df073ef4cfd78bf2102ff4f55d5",
+			"sha256": "edb9ffb1aac09ca47d0dd26785158df473387c07e4703b6e139a5ac209221d2b"
+		}
+	]
+}

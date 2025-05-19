@@ -1,0 +1,17 @@
+{
+	"uid": "wizdoom (664b93).wad",
+	"name": "Wizard's Rage",
+	"description": "This mission takes us to a far outpost, known as the octagama quadrant.",
+	"version": "664b93",
+	"date": "2013-11-02 15:22:03",
+	"files": [
+		{
+			"filename": "wizdoom.wad",
+			"size": 89995,
+			"crc": 3933557036,
+			"md5": "e9de1f42fbea85afe3e6d1cc6f730ccb",
+			"sha1": "664b93541962c01568c88a765fbcb64112b95284",
+			"sha256": "6115e83f1ae2e6b863f6edd49fd0a806ce7e8df772ec3dc0313dd9b9173b17e2"
+		}
+	]
+}

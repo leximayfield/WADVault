@@ -1,0 +1,16 @@
+{
+	"uid": "shinwm_extrawep.wad",
+	"name": "Shinobi.cl's Weapon Mod, EXTRADEH compatible.",
+	"description": "Weapon mod, with the intention of making some weapons a little better. Normal SSG is TOO good in my opinion.",
+	"date": "2013-04-19 00:31:22",
+	"files": [
+		{
+			"filename": "shinwm_extrawep.wad",
+			"size": 519016,
+			"crc": 2512793467,
+			"md5": "f8bc6c1f35f554a30b7edc69ed886067",
+			"sha1": "0a3be136628c0e067ed1911bffd0b4e8e34f11d2",
+			"sha256": "62744974f3c0af66267ce708c6ac9ed1949358e70c3bf049f1f92ef15331f275"
+		}
+	]
+}

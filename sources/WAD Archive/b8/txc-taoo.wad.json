@@ -1,0 +1,16 @@
+{
+	"uid": "txc-taoo.wad",
+	"name": "The Arms Of Oblivion",
+	"description": "This is a complete weapons replacement for EDGE. Nothing too fancy. Enjoy :)",
+	"date": "2014-12-11 22:29:36",
+	"files": [
+		{
+			"filename": "txc-taoo.wad",
+			"size": 3719963,
+			"crc": 1326116135,
+			"md5": "4cd9e87d4fcabf8a82b39f8ce15f75e6",
+			"sha1": "b8f27a591132ab69558fae94a48987042d9b9ca7",
+			"sha256": "8c9037f07c3aedbb8eb1e2ebacba3074dc13327b1d0bccb0cc181d7aaccc05b4"
+		}
+	]
+}

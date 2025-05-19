@@ -1,0 +1,17 @@
+{
+	"uid": "sin (f5fc99).wad",
+	"name": "Sin v1.00",
+	"description": "Taking advantage of being able to now play over the internet and the ability to have more than four people in each game, Sin is a deathmatch level designed for between 4 and 16 people. The level is composed of three distinct bases, with large outdoor areas between them. It also includes special effects now possible with Boom and ZDoom, including an underwater area, a wind tunnel, and colored lighting. With a great deal of thought put into the design, hopefully this is a level people will be playing for quite some time.",
+	"version": "f5fc99",
+	"date": "2014-12-29 15:30:17",
+	"files": [
+		{
+			"filename": "sin.wad",
+			"size": 235807,
+			"crc": 3843099783,
+			"md5": "8f449c3a62488866649b61ef7c7e49a6",
+			"sha1": "f5fc99f890cdaee97ad5e79843a268efad7340dc",
+			"sha256": "0fc1256b48a39739816d216b3c96b0e075f54521ee9a8fa8094ce89647fd27dd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "legend3 (998af6).wad",
+	"name": "legend3.zip",
+	"description": "This is level three in the legend series. Since everyone has commented that levels one and two were too easy, I put special effort into insuring that level three was more difficult.",
+	"version": "998af6",
+	"date": "2015-12-07 10:26:47",
+	"files": [
+		{
+			"filename": "legend3.wad",
+			"size": 133433,
+			"crc": 1656942524,
+			"md5": "d860fed02e42b68c260e220464bbc4d7",
+			"sha1": "998af6fb6e9a76715bf0a8f13d1d53891dd3d3b2",
+			"sha256": "d9a05a4b37edc670ab9111da781579e30b9bde54b0463103d0a84c3e3de4c866"
+		}
+	]
+}

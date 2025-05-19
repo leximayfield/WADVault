@@ -1,0 +1,16 @@
+{
+	"uid": "evilunl.wad",
+	"name": "Evil Unleashed",
+	"description": "Demons have taken over research labs on Mar's moon Phobos. The demons have redecorated the labs to accomadate their needs. The demons have also put their guards in certain areas to insure that no trespassers get through. Only they know which button to press to allow access to other areas.",
+	"date": "2014-12-13 17:39:25",
+	"files": [
+		{
+			"filename": "evilunl.wad",
+			"size": 220324,
+			"crc": 610005008,
+			"md5": "4207337bd13811258dab18dde8f920f5",
+			"sha1": "8db2ea1448b453988d8cb872ac1206a263e569a8",
+			"sha256": "378b9471aa0c12119219bdfba1b360bcadac03c303ee61f5f7faf88d845f5658"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rangex.wad",
+	"name": "Rangex's Pit",
+	"description": "This is my first level created with the help of DoomBuilder. My intention behind building it was to recreate at least some part of the immense fun I had with the Doom series some 15 years ago. Given my meagre experience with the editor, this level might perhaps be considered as a bit crude on detail and decor, but I believe that it contains some fairly ingenious elements notwithstanding - e.g., monsters acting as guard towers, surprising teleport ambushes and fighting fairly large troops of enemies from strategically placed vantage points. Enjoy the experience and let me know your impressions.",
+	"date": "2014-12-29 08:45:05",
+	"files": [
+		{
+			"filename": "rangex.wad",
+			"size": 285446,
+			"crc": 1190590307,
+			"md5": "fac6cd18d2c679af847fe558c10f21fc",
+			"sha1": "f316e67c6b42b985f9d74cd2e2c3444e9a9794ab",
+			"sha256": "8c783f13b4eaaa827316f684fa19bf72570174bd69f3f32f0ed6872e87686d28"
+		}
+	]
+}

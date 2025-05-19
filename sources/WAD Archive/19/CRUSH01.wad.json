@@ -1,0 +1,16 @@
+{
+	"uid": "CRUSH01.wad",
+	"name": "CrusherII for DOOMII",
+	"description": "This is a medium sized level which is very playable with the weapons provided and should be enjoyable for players of all levels. Look for secret areas and watch out for crushers.",
+	"date": "2014-08-30 14:03:48",
+	"files": [
+		{
+			"filename": "CRUSH01.wad",
+			"size": 129580,
+			"crc": 540586136,
+			"md5": "08c055aacead4de52f4fc54f110e794b",
+			"sha1": "1942ccf8c5c855266e35081e13cb62cfb6e75dc2",
+			"sha256": "f0906eaa1ad9729e62708d98d6c0ea562a1b2f3461f950365d846ea9f9c80981"
+		}
+	]
+}

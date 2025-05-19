@@ -1,0 +1,17 @@
+{
+	"uid": "strawbry (3cc92d).wad",
+	"name": "Strawberry Fool",
+	"description": "This is a pure DeathMatch skill WAD. It starts off with Shotguns only. There are no heavy weapons (to start with), just a simple area to blow your friends away! However, as the game develops the playing area grows, and a few guests appear to join in your fun. If you don't find the Strawberry, then you haven't completed the level. BEST PLAYED WITH MONSTERS. There is no exit. (We play to a time limit. 15 mins gets us to the end-game.) This WAD plays well with 2,3 or 4 players. With more players use a high difficulty level.",
+	"version": "3cc92d",
+	"date": "2014-12-15 22:23:32",
+	"files": [
+		{
+			"filename": "strawbry.wad",
+			"size": 21007,
+			"crc": 4048965650,
+			"md5": "7a95fa807058faff8b5790670a6f4369",
+			"sha1": "3cc92dd91d80eda0d9202ea81fa5f01b2f63da63",
+			"sha256": "5e3aada5657b39a17ac05f10725e2e85055eb011fa6c85297a1b7a4080bec4ae"
+		}
+	]
+}

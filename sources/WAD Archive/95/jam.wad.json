@@ -1,0 +1,16 @@
+{
+	"uid": "jam.wad",
+	"name": "Jam level #1",
+	"description": "Just one large deathmatch level, with alot of Grateful Dead pic's.",
+	"date": "2014-12-15 21:44:24",
+	"files": [
+		{
+			"filename": "jam.wad",
+			"size": 601484,
+			"crc": 1153493396,
+			"md5": "20913d5f137b67823c17b3184aa3967d",
+			"sha1": "95a7a33ca1eb00c86bf8d2c65772dc32a02b4616",
+			"sha256": "d0b2d3b055d18fa493bc6df1a71deb359e17fd8c6cc99c6307e059484c3eb9e0"
+		}
+	]
+}

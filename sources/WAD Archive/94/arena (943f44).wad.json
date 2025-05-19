@@ -1,0 +1,17 @@
+{
+	"uid": "arena (943f44).wad",
+	"name": "ARENA 1.0",
+	"description": "An arena gets invaded. You have to get inside and kick some ass before you can get out.",
+	"version": "943f44",
+	"date": "2014-12-15 21:58:35",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 170398,
+			"crc": 4069726377,
+			"md5": "9c18e13e064e255fa30d4982f1bb23ed",
+			"sha1": "943f44cb0b9e47586c24908a7261114d036b15e6",
+			"sha256": "7bfa7d519668b8d59e7b5892cca54afbb7795fc3c5994426e5749899e730bcec"
+		}
+	]
+}

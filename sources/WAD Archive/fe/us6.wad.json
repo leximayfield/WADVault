@@ -1,0 +1,16 @@
+{
+	"uid": "us6.wad",
+	"name": "US6.WAD",
+	"description": "Best for single player, but supports deathmatch and cooperative (multi player games never tested).",
+	"date": "2013-11-03 17:43:35",
+	"files": [
+		{
+			"filename": "us6.wad",
+			"size": 141178,
+			"crc": 995333045,
+			"md5": "edbc77744b84e19d3ad51a8c642ee13a",
+			"sha1": "fe0e3aa0ed7da00171251d0405feab6500ba4383",
+			"sha256": "eab9f286465bf0ae047833cea5f30b2b67881e8192b8d7b249df4ff8204c1ed5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "comp45.wad",
+	"name": "Comp 45",
+	"description": "A small vanilla DM map, first try at this genre. Feedback is greatly appreciated. It plays best with low respawn times like 10 or 15. Designed for up to four players.",
+	"date": "2014-12-15 22:21:34",
+	"files": [
+		{
+			"filename": "comp45.wad",
+			"size": 37114,
+			"crc": 3897245858,
+			"md5": "5a1e15030b3bbe22fbe38064c10361c8",
+			"sha1": "6ebe02a3ed9f92aa8313180bd2f9e7f446963795",
+			"sha256": "efb782315ccb354aa82cef7ab4ac306a141470e36c161798c45548b1e9500359"
+		}
+	]
+}

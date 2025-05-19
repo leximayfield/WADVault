@@ -1,0 +1,17 @@
+{
+	"uid": "brikyard (c277d2).wad",
+	"name": "The Brick Yard",
+	"description": "This is a DOOM II-only deathmatch wad. If you like the arena type deathmatch wad, then you'll like this one. I've spent alot of time making sure the textures line up, that doors aren't chopped in half, and you don't see the tootie-fruity effect all over the place. There nothing more irritating than these people who publish wads with basically good structural ideas, but with crappy looking texture alignments. There are plenty of secret areas and sniper points. However, watch your back! There is almost no place you can go where someone can't sneak up behind you. Have fun. I hope you enjoy it and much as I did making it.",
+	"version": "c277d2",
+	"date": "2016-02-07 20:34:46",
+	"files": [
+		{
+			"filename": "brikyard.wad",
+			"size": 81749,
+			"crc": 2822859049,
+			"md5": "37c30561f7e0291930e2ceefb2987fab",
+			"sha1": "c277d21dc293e8b4d8b50e67c3d4aa568fd698e4",
+			"sha256": "4dc46986c7d19e1539de5aa4163abf1267725273c26ea938b93deb738e2c8615"
+		}
+	]
+}

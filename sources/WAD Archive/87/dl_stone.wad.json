@@ -1,0 +1,16 @@
+{
+	"uid": "dl_stone.wad",
+	"name": "STONE BASE",
+	"description": "Technicly speaking, my first playable Doom level. Not very great but plenty of action and traps.",
+	"date": "2014-12-13 12:50:23",
+	"files": [
+		{
+			"filename": "dl_stone.wad",
+			"size": 103859,
+			"crc": 1223339501,
+			"md5": "4c017bb3a0a34f28b1fe4c14cfacba28",
+			"sha1": "870260dcc913a3a21882ba1e090da410258b18b9",
+			"sha256": "911d599713686c999fa60ce6fbf4866da99d88a7d13e8e2d9ccb512ac0fb234a"
+		}
+	]
+}

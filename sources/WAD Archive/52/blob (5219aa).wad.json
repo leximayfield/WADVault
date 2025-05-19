@@ -1,0 +1,17 @@
+{
+	"uid": "blob (5219aa).wad",
+	"name": "BLOB.WAD",
+	"description": "A DEATHMATCH wad with THREE different play styles, a ranDOOMizer room, with a random (32 point) teleporter, spot sound effects, and more (I won't spoil the suprise) Story? \"We don't need no steenkin story\" - get out there and kill each other!",
+	"version": "5219aa",
+	"date": "2014-12-03 20:22:34",
+	"files": [
+		{
+			"filename": "blob.wad",
+			"size": 807952,
+			"crc": 3353422383,
+			"md5": "b1e4357226d9a74d7afe66955e33cdd0",
+			"sha1": "5219aab90ee072e88bca5c55fd0b7e61017c621a",
+			"sha256": "cd4fd8a8037e69e4272a5b704ed4f5fbf8eba377671145b22908ad1a0c713bd3"
+		}
+	]
+}

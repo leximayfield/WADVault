@@ -1,0 +1,16 @@
+{
+	"uid": "infebase.wad",
+	"name": "Infected Base",
+	"description": "Sealed off for health reasons, a UAC outpost has been mysteriously reactivated. You and your team have been assigned to investigate. Beware, you may not like what you find...",
+	"date": "2015-03-14 08:57:23",
+	"files": [
+		{
+			"filename": "infebase.wad",
+			"size": 349879,
+			"crc": 2244900274,
+			"md5": "662564e317aaaf41fdcfe4c33d94d8f4",
+			"sha1": "a5558b3aac442de133410466635903b33a550f78",
+			"sha256": "ebac3805d12631c46f9cb9cfae968ef2cb152c7fffbabda9256631eb1974e67e"
+		}
+	]
+}

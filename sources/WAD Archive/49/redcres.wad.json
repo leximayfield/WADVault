@@ -1,0 +1,16 @@
+{
+	"uid": "redcres.wad",
+	"name": "Red Crescent Medikits",
+	"description": "Hello, I am great fan of game DOOM by ID SOFTWARE. However, as a devout Muslim I dislike to see Cristian symbols constantly. This file changes medical kit sprites to use Red Crescent symbol as is used in Islamic countries.",
+	"date": "2018-04-15 18:46:46",
+	"files": [
+		{
+			"filename": "redcres.wad",
+			"size": 1891,
+			"crc": 3809136626,
+			"md5": "b0dfc39d6b49a8614188c1cc7dd1b206",
+			"sha1": "493f00b9fe1a8f1e0e73785ffca77ad4430ee183",
+			"sha256": "89afd13d8865e8e1d4e71cbabb99b4c066212052ea91fcd1aea63291abec6ce0"
+		}
+	]
+}

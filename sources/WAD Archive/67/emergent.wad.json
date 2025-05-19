@@ -1,0 +1,16 @@
+{
+	"uid": "emergent.wad",
+	"name": "Emergent",
+	"description": "Emergent is 4 small Boom maps, designed for pistol starts. They're meant to be played without saving, on a difficulty setting that will kill you quite a few times before you get an exit. Enemies are shuffled early in the maps, and will spawn in unpredictably, which (hopefully) will make your repeated attempts fun. If you save, you will get a more predictable experience.",
+	"date": "2017-06-25 20:45:09",
+	"files": [
+		{
+			"filename": "emergent.wad",
+			"size": 2650926,
+			"crc": 3118480680,
+			"md5": "af77e6668546ab4916e30d4a392eb6f8",
+			"sha1": "67ec4a1a29ce6d6db4296d93fd08db5b148d5af8",
+			"sha256": "9fdf121afcbd372d5bfd9876d84d12c6564b1be53685779d62477d1bcc8c1827"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ALONE.wad",
+	"name": "ALONE.WAD",
+	"description": "New level for DOOM based one the house in the game Alone In The Dark. It's designed to be played in Single player mode at difficulty level Hurt me plenty. At easier settings there are fewer monsters, and at harder settings you got more monsters to frag! I haven't forgotten those of you who like to kill your friends (or enemies), of course you can Deathmatch on this level but it's to big to be any fun. Cooperative playing is also implemented. Watch out for QUAKE.WAD on a ftp-site near you soon. This is me and my friends own levels that we use when we get together for deathmatch. It is 6 levels designed to be used as deathmatch with 2-4 players, it's best with 4 players if you like many frags! Also soon QUAKE2.WAD, and HERQUAKE.WAD - this is QUAKE.WAD converted to DOOM 2 and HERETIC. QUAKE2.WAD has an extra level. In the future maybe you will see ALONE2.WAD. This is not Alone In The Dark 2 made as a WAD but ALONE.WAD converted to DOOM2.",
+	"date": "2014-01-07 22:08:34",
+	"files": [
+		{
+			"filename": "ALONE.wad",
+			"size": 196527,
+			"crc": 3604017003,
+			"md5": "967ac789c6e2747af899015c3b1d06d6",
+			"sha1": "367e81abb367ab2767147b42017b95e677fc8e97",
+			"sha256": "30dcca6037a1e91294f4cbab6984b8233582724c7a53599e3efee00c0d80f4a9"
+		}
+	]
+}

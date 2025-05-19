@@ -1,0 +1,16 @@
+{
+	"uid": "resoevil.wad",
+	"name": "Resurrection of evil",
+	"description": "15 years ago you fought against the forces of hell, stopping the problem at the source. Or so you thought...",
+	"date": "2018-06-21 14:30:15",
+	"files": [
+		{
+			"filename": "resoevil.wad",
+			"size": 705319,
+			"crc": 3006697582,
+			"md5": "4df965a3c505becae0e4cb9a081475e3",
+			"sha1": "2b42ef943b5b356ec716ff664b0b1cea38b2d6a6",
+			"sha256": "5d2a34280b472e4abb707d5466c5d8dcc77a3cf3ec30d1ce8faf420f4d80cd62"
+		}
+	]
+}

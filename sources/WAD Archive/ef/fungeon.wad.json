@@ -1,0 +1,16 @@
+{
+	"uid": "fungeon.wad",
+	"name": "Crumbling Mausoleum",
+	"description": "The Story: You - a daring freelance dungeon delver - have been commissioned by the United Archaeological Commission to investigate unusual seismic activity in a newly discovered mausoleum. Your mission is simple - dive in and destroy whatever's causing this! The map: This is a medium/large single map focused on exploration and large fights.",
+	"date": "2018-09-30 20:29:34",
+	"files": [
+		{
+			"filename": "fungeon.wad",
+			"size": 391760,
+			"crc": 2338397753,
+			"md5": "b8f02019005aee0203018cc63fb4400c",
+			"sha1": "ef4fd42e75be9587df93303c449c545243e0081b",
+			"sha256": "305dd7ad2f5675e4c1c622168e6c5ceeee61350cb900b6a77fdbb0474019f693"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "waybac.wad",
+	"name": "WAYBAC.WAD for DOOM ][",
+	"description": "My intention with this level (my first and probably my last) was to construct a level that was reasonably challenging to complete, but without tossing 20 monsters in each room. But, I did assume that you don't cheat! <g> Otherwise, the level will be too easy to complete.",
+	"date": "2015-01-14 23:04:25",
+	"files": [
+		{
+			"filename": "waybac.wad",
+			"size": 153436,
+			"crc": 1817837240,
+			"md5": "69f36a6197bcb0f011cc9b9648ed39d6",
+			"sha1": "cf0defd0cc94e8b77d855ca9b7da165302119412",
+			"sha256": "78a5f4d01bc9e861b7c0366f78fcc57bae915c8175d0ffe0f1f1280f8fc41140"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "beyondit.wad",
+	"name": "Beyond the Canyon",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2014-12-15 22:10:58",
+	"files": [
+		{
+			"filename": "beyondit.wad",
+			"size": 279688,
+			"crc": 973730519,
+			"md5": "10a79d40d830f394d414efc25ca6b39c",
+			"sha1": "774a329f104d2ce1dd11feb924cddccbcf64661e",
+			"sha256": "21bd8a483b232c53d587cc803e466b4e859aff08f38e48f1b0e273428a879e19"
+		}
+	]
+}

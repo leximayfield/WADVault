@@ -1,0 +1,16 @@
+{
+	"uid": "hth2.wad",
+	"name": "Hi-Tech Hell 2 - Alien Tech",
+	"description": "What caused the hellspawn havoc in a remote science base? Could it have been a strange shipment sent from UAC teleport research center, a place called as 'Alien Tech'? It's time to find it out.",
+	"date": "2014-12-24 19:15:59",
+	"files": [
+		{
+			"filename": "hth2.wad",
+			"size": 9391710,
+			"crc": 3283969052,
+			"md5": "f5ef46dd03f5a52823261b32e3b51324",
+			"sha1": "d7147f715d394779034708fd33d8ad8c9fc2cab9",
+			"sha256": "57d3c7069311426cf253baebfc488a19cedb7d779bc77cb54b59cb53dc30d0c1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "horalky.wad",
+	"name": "Horalky",
+	"description": "This is a map I made with all vertices lying on the 64 grid. I was originally making it for the Russian \"Grid 64 Contest\" but I couldn't finish it in time. STORY: Our hero was angry because Horalky were renamed to Goralki (wtf the old name was better) so he went to their office to complain. However, 20 hours into his journey he realized that he forgot to look in Google Maps where to go. And he couldn't load them in his iPad because the damn thing wouldn't connect to the internet. Then he decided to call it day and just go home. Maybe all that stuff about names isn't that important anyway.",
+	"date": "2014-12-24 19:11:18",
+	"files": [
+		{
+			"filename": "horalky.wad",
+			"size": 603756,
+			"crc": 3708121955,
+			"md5": "8f8efcf40d721401777cb4965f5cdea5",
+			"sha1": "11c35463b2eadb8b1aa40094bd652dd864ef4399",
+			"sha256": "df6936d702e47e8ac44d67f615db7cc5d6813150d2b97bff04cd117c31068dc1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "library (6f412b).wad",
+	"name": "The Library Deathmatch",
+	"description": "A small level for Doom 2 that just plain rules in deathmatch",
+	"version": "6f412b",
+	"date": "2014-10-14 21:25:15",
+	"files": [
+		{
+			"filename": "library.wad",
+			"size": 22130,
+			"crc": 2998096947,
+			"md5": "815fafe465a5dd3cbcb54936569a5d1d",
+			"sha1": "6f412bcfc36e70252b9885686aff4026c4f0b3a9",
+			"sha256": "6049fb42239732881738deab98c668ce133100683bb20d56a7d92bae56b29d3e"
+		}
+	]
+}

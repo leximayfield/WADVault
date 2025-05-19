@@ -1,0 +1,16 @@
+{
+	"uid": "h_gr-v2.wad",
+	"name": "Grave Robber",
+	"description": "A CTF map for Heretic.",
+	"date": "2014-12-12 14:14:47",
+	"files": [
+		{
+			"filename": "h_gr-v2.wad",
+			"size": 519857,
+			"crc": 3510975241,
+			"md5": "cbff35e3286c4cdfcf7d36f837a273eb",
+			"sha1": "8f5dfdc0881b0f33bb879ce4159c4ff8319d7f15",
+			"sha256": "23898a8bb92e757a1a1202f4a3627aa8924a0126c434506a42f20f3d98b4ae29"
+		}
+	]
+}

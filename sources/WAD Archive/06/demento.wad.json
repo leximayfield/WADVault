@@ -1,0 +1,16 @@
+{
+	"uid": "demento.wad",
+	"name": "Dr. Demento's DOOM",
+	"description": "sounds from \"Dr. Demento's 20th Anniversery Collection\".",
+	"date": "2015-09-14 19:50:52",
+	"files": [
+		{
+			"filename": "demento.wad",
+			"size": 1675229,
+			"crc": 1532202070,
+			"md5": "d4af06328df1365a17108f7e3209b12d",
+			"sha1": "0603aae70306c84e889a0e1b9649a6b00f4f8726",
+			"sha256": "1f5ada3fc62c04ac437b11ac57aafb02df60933ab582c26aa51c4d0b40a78a64"
+		}
+	]
+}

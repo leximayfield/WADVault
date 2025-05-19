@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM3 (afe0fa).wad",
+	"name": "Doom to Doom3",
+	"version": "afe0fa",
+	"date": "2015-09-15 19:28:10",
+	"files": [
+		{
+			"filename": "DOOM3.wad",
+			"size": 309,
+			"crc": 1162021638,
+			"md5": "94c1f760009e3a62f9836242d073fc36",
+			"sha1": "afe0fa1e267ae5caaa367ff87e1968e96bef8fa3",
+			"sha256": "de932bb39483dd81d4c6e8248d610c77bc7e9399906f7d3db02666bf41905ee7"
+		}
+	]
+}

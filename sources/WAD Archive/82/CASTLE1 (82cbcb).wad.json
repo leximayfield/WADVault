@@ -1,0 +1,17 @@
+{
+	"uid": "CASTLE1 (82cbcb).wad",
+	"name": "CASTLE OF DOOM",
+	"description": "This level was designed for expert players as the puzzles are far from easy !. It will probably take you over one hour to complete first time around. All textures have been aligned and plenty of thought has gone into designing each room. It's excellent in deathmatch mode as there are plenty of hide-outs and sneaky traps to lure your opponents into. Make sure to use the \"Altdeath\" command line parameter for respawning when playing in deathmatch mode as it's badly needed for this level.",
+	"version": "82cbcb",
+	"date": "2014-02-15 17:09:26",
+	"files": [
+		{
+			"filename": "CASTLE1.wad",
+			"size": 309270,
+			"crc": 1934738857,
+			"md5": "eaa111873021c5634e41efb1511ed5b9",
+			"sha1": "82cbcbfac560fda39f0bfdaddd60cc071701faa7",
+			"sha256": "bba2f22b23f92189e521065fd322c86b6b368fedc5c0f7055c4bd6b64c1ab4bb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "eatdusd.wad",
+	"name": "Escape from exaggerated evil patch",
+	"description": "This is a graphics patch file intended to be used together with eatdust.wad, if you want to. Start the game like this:",
+	"date": "2014-12-30 11:23:35",
+	"files": [
+		{
+			"filename": "eatdusd.wad",
+			"size": 52736,
+			"crc": 3825013297,
+			"md5": "177c8d81fae362823daa29bbcc7af70b",
+			"sha1": "b892d1ac02fdcdc9a47473e9c42a0c5ac1e85499",
+			"sha256": "3389a54afa85a0dad68a1f3e0899c8ee6a6b62337851a3299e769bc8bf1df143"
+		}
+	]
+}

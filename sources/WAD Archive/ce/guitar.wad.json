@@ -1,0 +1,16 @@
+{
+	"uid": "guitar.wad",
+	"name": "GUITAR!.WAD",
+	"description": "All DOOM monster sounds duplicated purely with all electric guitar!",
+	"date": "2013-11-02 15:25:44",
+	"files": [
+		{
+			"filename": "guitar.wad",
+			"size": 708297,
+			"crc": 1959150121,
+			"md5": "de933cc0144e3c08a4113d5ae573a878",
+			"sha1": "ce85ecd12c1aecab576c161e412955e8f1270098",
+			"sha256": "fad1ccd56e1431bd1905c93f55772327d05da7b410632ca91a40ebd44bb4230f"
+		}
+	]
+}

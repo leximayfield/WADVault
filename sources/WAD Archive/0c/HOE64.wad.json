@@ -1,0 +1,16 @@
+{
+	"uid": "HOE64.wad",
+	"name": "Hell on Earth: Super Tiny Edition",
+	"description": "A super short megawad where I recreate Hell on Earth into tiny playable 64x64 playable area however there are still monsters outside the playable space to kill ya.",
+	"date": "2018-02-15 20:35:45",
+	"files": [
+		{
+			"filename": "HOE64.wad",
+			"size": 173487,
+			"crc": 2140026203,
+			"md5": "d1886d7017744ff6c6dba9540289165e",
+			"sha1": "0c5483210c855177ad678295c501eb9c70e82925",
+			"sha256": "ca0a946821a1048e517610048ed8ec918d03d2523893871526b051b4a61cf113"
+		}
+	]
+}

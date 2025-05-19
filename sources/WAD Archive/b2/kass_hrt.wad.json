@@ -1,0 +1,16 @@
+{
+	"uid": "kass_hrt.wad",
+	"name": "\"Kick Yo Ass!\"",
+	"description": "Kick Yo Ass! is a HERETIC deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of another arena (12 sided) surrounded by a deep moat (below) & hallways (above). One Teleporter at the bottom of each hallway entrance will transport you to that hallway (you can also jump accross from above and achieve the same thing). There is also one Teleporter in the central arena take you to the Holding Bag. Weapons, Ammo and Goodies are all over the place depending on the Skill level chosen at start (The higher the Skill level, the nastier the Weapons. There are windows accross from the arena which access semi-secret rooms with invisibility spheres and other goodies. These rooms are also accessible through a door in the hallways. They make for good ambush sites. The players start in one of the four connected hallways above the arena or in one of the semi-secret rooms. They will each find plenty of weapons to start them out (Nobody should get the upper hand). This level is great in DEATHMATCH 2.0 as well as regular Deathmatch.",
+	"date": "2013-11-02 16:40:39",
+	"files": [
+		{
+			"filename": "kass_hrt.wad",
+			"size": 70006,
+			"crc": 686283625,
+			"md5": "ca5559983d502555b5e1221314de396c",
+			"sha1": "b2b0dc3589e97fbe149216a66a542c9c36f5a921",
+			"sha256": "3615674e3b50605cb942fe4485a9471095a36680b1a4610ac0e80bd9ef32d374"
+		}
+	]
+}

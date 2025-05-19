@@ -1,0 +1,17 @@
+{
+	"uid": "eisen (c2f805).wad",
+	"name": "Operation: Eisenmann",
+	"description": "8-level WolfenDOOM adventure, featuring new",
+	"version": "c2f805",
+	"date": "2015-09-15 19:34:21",
+	"files": [
+		{
+			"filename": "eisen.wad",
+			"size": 8917224,
+			"crc": 1846679256,
+			"md5": "fe88918f906e696e85e76a4056b17466",
+			"sha1": "c2f8057df7ac456e11c5616eb17e16643b5d83c1",
+			"sha256": "b128c9ea662d3a1a8efc657e044147b67c9424adb8651ed20b68e54a15cebc16"
+		}
+	]
+}

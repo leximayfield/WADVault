@@ -1,0 +1,16 @@
+{
+	"uid": "chaospro.wad",
+	"name": "Chaos Project",
+	"description": "Just a bunch of speedmaps done in 30 minutes or so. Vanilla Doom 2, but doesn't run in vanilla doom or chocolate doom.",
+	"date": "2019-09-04 12:49:45",
+	"files": [
+		{
+			"filename": "chaospro.wad",
+			"size": 479237,
+			"crc": 2452053910,
+			"md5": "cc014f37a3a9a4c08fb6e2ff7b791692",
+			"sha1": "9a037386f3c69e270f8a2faf3d88eaa4f4d32165",
+			"sha256": "fa2343cef1e4542ecf2c76c6f87c81555cffeebf4f85697913d63d6d938569a8"
+		}
+	]
+}

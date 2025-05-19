@@ -1,0 +1,16 @@
+{
+	"uid": "nitdm02.wad",
+	"name": "Nitro's Doom v1.1.0",
+	"description": "This is a slightly inproved version of Nitro's Doom. Here's the new things: -Doors to secrets cannot be opened by monsters anymore. -The problem in MAP10 of being unable to complete the level is now fixed. -A few little tweaks were made too.",
+	"date": "2015-01-13 21:24:05",
+	"files": [
+		{
+			"filename": "nitdm02.wad",
+			"size": 1183837,
+			"crc": 2838257035,
+			"md5": "cbd0bd7ba701c6acbbed32c5b7ffe146",
+			"sha1": "2ad4c7fb5712e2cf851747727b9c0453b41d971a",
+			"sha256": "e8d948c238f2737efce05ea4d91f91d37c314cb9022b32df501aac6e706a3b7a"
+		}
+	]
+}

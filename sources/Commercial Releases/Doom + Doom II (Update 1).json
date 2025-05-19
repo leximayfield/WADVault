@@ -1,0 +1,47 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom + Doom II (Update 1)",
+	"name": "Doom + Doom II",
+	"version": "Update 1",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"date": "2024-10-01",
+			"size": 12996515,
+			"crc": "d5f8c089",
+			"md5": "3b37188f6337f15718b617c16e6e7a9c",
+			"sha1": "87651324502044f9a6eed403e48853aa16c93e49"
+		},
+		{
+			"filename": "DOOM2.WAD",
+			"date": "2024-10-01",
+			"size": 14951361,
+			"crc": "151b8a96",
+			"md5": "64a4c88a871da67492aaa2020a068cd8",
+			"sha1": "2921cf667359fd3a80aba3c0cf62ab39297e7e9e"
+		},
+		{
+			"filename": "PLUTONIA.WAD",
+			"date": "2024-10-03",
+			"size": 17704206,
+			"crc": "e82fbfd2",
+			"md5": "e47cf6d82a0ccedf8c1c16a284bb5937",
+			"sha1": "fbcc140825b507ab88d844c6b1635c60c4b8bcd6"
+		},
+		{
+			"filename": "TNT.WAD",
+			"date": "2024-10-03",
+			"size": 18507237,
+			"crc": "6d7a8eec",
+			"md5": "ad7885c17a6b9b79b09d7a7634dd7e2c",
+			"sha1": "ab4e71e360a1e64e262d77a53e4bb202450d0f6e"
+		},
+		{
+			"filename": "NERVE.WAD",
+			"size": 4039441,
+			"crc": "07d9faab",
+			"md5": "23422eb42833ac7b0dd59c0c7ae18a6f",
+			"sha1": "4522eaec7a13aac24b456e29520e99ac879e6989"
+		}
+	]
+}

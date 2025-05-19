@@ -1,0 +1,17 @@
+{
+	"uid": "hellcast (f2477b).wad",
+	"name": "Castle to Hell",
+	"description": "Looks like a humble castle from the outside, but on the inside...",
+	"version": "f2477b",
+	"date": "2013-11-04 20:11:55",
+	"files": [
+		{
+			"filename": "hellcast.wad",
+			"size": 117011,
+			"crc": 457901769,
+			"md5": "50e712634722154626f07d296c85550c",
+			"sha1": "f2477be752034626526532fa98a01bc16595d60e",
+			"sha256": "56e07ef5572634120b08a338f0fdefadef626c2efbe6d359c7411827118a7e9f"
+		}
+	]
+}

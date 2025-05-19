@@ -1,0 +1,16 @@
+{
+	"uid": "resident.wad",
+	"name": "RESIDENT.WAD",
+	"description": "A doom deathmatch level over the summer and i have just gotten around to uploading it. Its based on the resident evil mansion, and i believe to be a pretty close replica of it. Its a little big for 2 players but more than that is a real blast.",
+	"date": "2014-12-15 22:50:13",
+	"files": [
+		{
+			"filename": "resident.wad",
+			"size": 327388,
+			"crc": 1017708591,
+			"md5": "16f94628bca1c3a10b0fb24f5025ae99",
+			"sha1": "82925196936ae89733ef3a9add6ced27807f8c11",
+			"sha256": "0349391202dbae1feb9b653b478faccc2abf02e1bfebb8df0a5786cd83e3fc48"
+		}
+	]
+}

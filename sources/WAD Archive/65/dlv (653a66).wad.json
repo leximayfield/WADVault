@@ -1,0 +1,17 @@
+{
+	"uid": "dlv (653a66).wad",
+	"name": "Deviled",
+	"description": "This map was created for vinesauce mapping contest, which happened in 2018. It got renamed from \"dual layered violence\" to \"deviled\", because I didn't feel well about this name. I made this in 5 days before submission deadline. This version is more improved and more detailed than my contest version.",
+	"version": "653a66",
+	"date": "2019-03-06 22:05:00",
+	"files": [
+		{
+			"filename": "dlv.wad",
+			"size": 5516412,
+			"crc": 652209617,
+			"md5": "925f6e8229595a0a9f21005c880686f7",
+			"sha1": "653a66e284008bf52eb18eea99be58067e4921ca",
+			"sha256": "e3fc52a3b342c42a8872985fd56a675a911748cff3f9eb5e0202833738d88a45"
+		}
+	]
+}

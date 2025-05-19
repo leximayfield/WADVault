@@ -1,0 +1,17 @@
+{
+	"uid": "sod (fd07f3).wad",
+	"name": "Speed of Doom",
+	"description": "Full boom-compatible ports 33 Maps megawad.",
+	"version": "fd07f3",
+	"date": "2013-04-19 09:41:17",
+	"files": [
+		{
+			"filename": "sod.wad",
+			"size": 28568638,
+			"crc": 356926280,
+			"md5": "dd3b02d2f9829bda5155adb67c89ba3f",
+			"sha1": "fd07f38cf35e24ca91dd760b74b1c63d860a42d9",
+			"sha256": "2d0d3c5f6d10cd5bff76967261038856f52d3d53f56ebbbc0a91e26d513b15b1"
+		}
+	]
+}

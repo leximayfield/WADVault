@@ -1,0 +1,16 @@
+{
+	"uid": "e1mone.wad",
+	"name": "E1Mone",
+	"description": "A begginers level, intended to be one of the first levels, so it isn't difficult or too big.",
+	"date": "2016-01-28 23:23:31",
+	"files": [
+		{
+			"filename": "e1mone.wad",
+			"size": 53259,
+			"crc": 2686302995,
+			"md5": "6b3ebfdd772611affddaff12cab4a6e2",
+			"sha1": "0873a27509de83556028e70bbd7679290875d0ff",
+			"sha256": "4a987802805e47b57eca71d9ed4a85c7a20e4063b16795c5deb244ba9ea61ca1"
+		}
+	]
+}

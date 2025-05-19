@@ -1,0 +1,16 @@
+{
+	"uid": "ithurts.wad",
+	"name": "ITHURTS.WAD",
+	"description": "This is a medium sized level that will challenge even experienced doomers. Watch your ammo or you will be fighting with your fist (which can be fun, but not against a hell knight!)",
+	"date": "2014-12-18 22:35:45",
+	"files": [
+		{
+			"filename": "ithurts.wad",
+			"size": 102027,
+			"crc": 2417917184,
+			"md5": "e0267a835c7cde9afde4f463ae8efef1",
+			"sha1": "110c23d388cb2bcb2a37a54f767239b8d72acccb",
+			"sha256": "e49dbddccc2ee9ceb9b7926db4a21f60651dc57aaaf70eb4161c404d158b85a2"
+		}
+	]
+}

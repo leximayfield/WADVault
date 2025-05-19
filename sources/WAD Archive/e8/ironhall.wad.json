@@ -1,0 +1,16 @@
+{
+	"uid": "ironhall.wad",
+	"name": "\"iron hall\"",
+	"description": "1 level WAD. Excessive attention given to the appearence of the level (texture selection, alignment, lighting).",
+	"date": "2014-12-18 22:17:29",
+	"files": [
+		{
+			"filename": "ironhall.wad",
+			"size": 634926,
+			"crc": 926295437,
+			"md5": "79e0cd56a92ac7be8ce5961dc1460d6a",
+			"sha1": "e8e64b01331437dfcbc8770c2fbb913e3801e34e",
+			"sha256": "36fab0f5ce3a83ead4fe31e1fec1c35eac428d1bc368cb5fbff051b3428627a2"
+		}
+	]
+}

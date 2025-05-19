@@ -1,0 +1,17 @@
+{
+	"uid": "aa-tex (853333).wad",
+	"name": "Ancient Aliens Textures",
+	"description": "Resources from the Ancient Aliens megawad. aa-tex.wad contains textures and flats. aa-mons.wad includes the custom monsters and custom decorations used in Ancient Aliens. playpal-aatex.png is the Ancient Aliens palette. You can use it as a base to create your own palettes with additional ranges: it should be clear which ranges are not native to Doom and can be changed to whatever you want. phu_big.bmp is a bitmap font to be used with Bitmap Font Writer. alnarch1.xcf is a GIMP image file for the arch textures. You can use it to make variants of the arches with alternate background textures (a different set of bricks, for instance). See aa-tex-info.txt for some additional instructions if you're unfamiliar with working with custom palettes. You'll need to follow the included steps to import and reindex some IWAD resources into your project.",
+	"version": "853333",
+	"date": "2016-09-03 19:35:14",
+	"files": [
+		{
+			"filename": "aa-tex.wad",
+			"size": 62679062,
+			"crc": 2451014329,
+			"md5": "d8f5159ad06322063477c009bb644c2a",
+			"sha1": "853333635862efebabd9f5d4dfbb07844bd8a4e3",
+			"sha256": "8a68e8767408c1b875ae12458a9f3cdc956623ad6f10b5afaad535b9649dd108"
+		}
+	]
+}

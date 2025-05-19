@@ -1,0 +1,17 @@
+{
+	"uid": "sawdust (f173f7).wad",
+	"name": "Sawdust",
+	"description": "A collection of seven maps scrapped from Valiant early in it's development that have been collecting dust on my hard drive for close to four years. I've been asked to share them numerous times. Here they are. Don't expect much (I threw them out, after all)! This wad makes extensive use of DeHackEd, so please play this only with ZDoom, Zandronum, Eternity, or Prboom-plus 2.5.1.4 or higher (complevel 11). Gameplay mods probably won't work. See the Valiant text file for full credits.",
+	"version": "f173f7",
+	"date": "2016-06-16 20:50:09",
+	"files": [
+		{
+			"filename": "sawdust.wad",
+			"size": 59467895,
+			"crc": 4128506491,
+			"md5": "f29df1d202585244b5c2bea131847386",
+			"sha1": "f173f7c75b10f2544bbff619ac1a521d4552ad07",
+			"sha256": "a18652eb4cd7afdbab293a1bb7c47650a5cac5352331e7bb2f36dfc591d57939"
+		}
+	]
+}

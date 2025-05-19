@@ -1,0 +1,17 @@
+{
+	"uid": "headlong (2db72a).wad",
+	"name": "Headlong",
+	"description": "This is a deathmatch wad I made and it's not really intended for single player or co-op although you can play it with those methods. For deathmatch it's probably better with no monsters but I included them just the same. There's a few sniper spots on this level as well as plenty of moving lifts. ;) There _is_ a cyberdemon on the level but he's only there on UV. All the weapons are on the level. Hmm, I guess that's all there is to say about it except enjoy and write me your comments!",
+	"version": "2db72a",
+	"date": "2013-11-02 15:55:05",
+	"files": [
+		{
+			"filename": "headlong.wad",
+			"size": 30370,
+			"crc": 2696109646,
+			"md5": "d12974c1e117247e402cc426f9a4d054",
+			"sha1": "2db72acbec5d80fbe0cbf276907e0ac259172b7e",
+			"sha256": "c1195f9e5027521b9cb65369d684dfc90920bc8453f2d12b1f12874796802502"
+		}
+	]
+}

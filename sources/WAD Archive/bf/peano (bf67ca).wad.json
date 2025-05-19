@@ -1,0 +1,17 @@
+{
+	"uid": "peano (bf67ca).wad",
+	"name": "Peano",
+	"description": "A sequence of three areas of increasing difficulty. Some puzzles. Fairly hard in ultraviolent mode. Note: there is no return after teleporting.",
+	"version": "bf67ca",
+	"date": "2013-11-02 15:19:21",
+	"files": [
+		{
+			"filename": "peano.wad",
+			"size": 145711,
+			"crc": 373449431,
+			"md5": "a5e8c36058ca2916a6471e99011af966",
+			"sha1": "bf67caee802f25695084a1f9fdee71956eb34cdc",
+			"sha256": "7ed8c83ebd6ceb5643936800bd00a01ca8de0c06c52723a0d4ea1710b05e8224"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "mazedoom (b28074).wad",
+	"name": "Maze of DooM(!!!!!)",
+	"description": "Labyrinth randomly generated with a neat little program I found. Before it was a Doom 2 level, it looked a bit like something from Larn. :)",
+	"version": "b28074",
+	"date": "2016-02-07 20:30:24",
+	"files": [
+		{
+			"filename": "mazedoom.wad",
+			"size": 65723,
+			"crc": 3750171485,
+			"md5": "993c28e4ae9114f90cf81da4542d3634",
+			"sha1": "b280749bf55b01a59892a858bf28b6cf0829dfa3",
+			"sha256": "67617054ceeaddfe78c9391f3414f69616f6be46dc4ea63fe5f3196ea38973f9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (0a5340).wad",
+	"name": "House for Doom2 v1.9",
+	"description": "You are in your space ship when you get a distress call saying that your buddies turned against you! You must put an end to this, but it won't be easy because they're overpowering you with chainguns, plasma guns, and even BFG's!!",
+	"version": "0a5340",
+	"date": "2014-12-18 22:16:54",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 273532,
+			"crc": 2751498178,
+			"md5": "74a8d01f5ce1b7fdff4a62e561d71b36",
+			"sha1": "0a534000b2efbfdab339abf8dee1e8a7d551095d",
+			"sha256": "a73fc22802de83b723f46760f9f6ade6f60199d7d1b758e4e172b11cd6a552ac"
+		}
+	]
+}

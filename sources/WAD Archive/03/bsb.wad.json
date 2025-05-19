@@ -1,0 +1,16 @@
+{
+	"uid": "bsb.wad",
+	"name": "Blood, Sweat, & more Blood",
+	"description": "Single player WAD, not set for deathmatch. Not great for co-op either. Made as slugfest. Save your ammo. There are some dark areas which house monsters, which may or may not be your cup of tea. Also, when I say slugfest, I don't mean one big square room with 1,000 mosters in it. That means that there are no huge puzzles to figure out, your path is pretty much laid out for you, and your ammo may get low. E1M2 is sort of an exception, it has a small teleporter puzzle, but just run through different teleporters, you get it eventually. It's not too difficult. Another thing, I am not personally big on secrets, and niether are my WADs. They will be fairly obvious to someone that is paying attention. The secrets are not neccessary to finish the level. PS, when you see a save game sign....",
+	"date": "2014-12-13 17:36:24",
+	"files": [
+		{
+			"filename": "bsb.wad",
+			"size": 731576,
+			"crc": 861873980,
+			"md5": "60ccb513ebb06d23fc0974f269316fcf",
+			"sha1": "03304a42a2c38cc52a820194a322f8d08c9b9658",
+			"sha256": "c025cdc827e762fdf9802ce9864f348fec11188f65ca9de4824d8a0eaf889452"
+		}
+	]
+}

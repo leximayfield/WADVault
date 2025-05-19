@@ -1,0 +1,16 @@
+{
+	"uid": "ftswarm1.pk3",
+	"name": "Fight the Swarm 1 (Doom II version)",
+	"description": "This is a Doom 2 version of an old Doom 3 mod called \"Fight the Swarm 1\" by BanalityDUFF. This version is also Cooperative compatible so you'll be able to play with your friends as well. (Zandronum is not supported though) I've also altered the difficulty settings and added an extra one for those that want a real challenge. With that said, have fun playing this short WAD! ORIGINAL GAMEFRONT DESCRIPTION --------------------------------------------- \"We have, for your Doom III gaming enjoyment, the first of seven in the Fight the Swarm series by BanalityDUFF! It is waaay long overdue, but, as the saying goes...better later then never, even if you have played this already, it is worth going through again (and again), quality maps never loose their luster! This is the original Fight the Swarm map, this is the one that started off the series. Its rather small because it was the first map that BanalityDUFF has ever released for Doom III, and he was still getting his doom-legs. The object here is a simple one, if you choose to, you can stand around and lay waste to the hordes of Zombies. The tag line for this map is summed up well by BanalityDUFF, \"Shoot. Shoot some more. Don't die.\" Have fun! [...]\"",
+	"date": "2019-05-28 04:40:48",
+	"files": [
+		{
+			"filename": "ftswarm1.pk3",
+			"size": 5440479,
+			"crc": 53045691,
+			"md5": "8560186d72b5b5ea0ce9b7e76126998a",
+			"sha1": "0302b7dd825b33c8e91efdbe4bdda2468530ec37",
+			"sha256": "a401a872717725f9e81ee6d11a072fc6c9a99e221fb9e560592f2fb30cd1eae0"
+		}
+	]
+}

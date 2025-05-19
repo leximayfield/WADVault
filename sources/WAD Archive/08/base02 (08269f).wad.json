@@ -1,0 +1,17 @@
+{
+	"uid": "base02 (08269f).wad",
+	"name": "The Hangars",
+	"description": "You've just entered the bases hangars. It's going to be long and hard to complete your mission. Finish the brains of the organization. You don't know how long it will take, but you'll sure wreak havoc on your way through.",
+	"version": "08269f",
+	"date": "2013-11-03 17:45:41",
+	"files": [
+		{
+			"filename": "base02.wad",
+			"size": 20839,
+			"crc": 1139534132,
+			"md5": "444816d01b4e7c45fef264aae18eb6ea",
+			"sha1": "08269f7399a7bce9efa624d893802022902bec3a",
+			"sha256": "72c0737c85d04432a90df4ce8767a21802e5ea49551bc8187428b185dfc2e8fb"
+		}
+	]
+}

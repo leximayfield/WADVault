@@ -1,0 +1,17 @@
+{
+	"uid": "dd1 (c885c0).wad",
+	"name": "Castle of Dragon",
+	"description": "Set the mood here.",
+	"version": "c885c0",
+	"date": "2015-12-07 11:42:43",
+	"files": [
+		{
+			"filename": "dd1.wad",
+			"size": 72084,
+			"crc": 2388917285,
+			"md5": "a33c811488e1586e3740c6ca8f62b74c",
+			"sha1": "c885c094389c6a8f92c9b6bdfb525dddc3a466ad",
+			"sha256": "5a8cc29ff4ad4c2b37fd530bd9574adce8062d2444b347a5efd23921e66321c2"
+		}
+	]
+}

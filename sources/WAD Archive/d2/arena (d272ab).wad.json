@@ -1,0 +1,17 @@
+{
+	"uid": "arena (d272ab).wad",
+	"name": "The Arena",
+	"description": "Just a basic level, incorporating most of the standard tricks and traps found in DOOM II. Created interpreting the demonstration level described in the book \"Tricks of the DOOM Programming Gurus\" by SAMS Publishing.",
+	"version": "d272ab",
+	"date": "2014-12-15 21:57:49",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 109343,
+			"crc": 3107476741,
+			"md5": "bbc6a3e2bd74182a336d405d8accf5e3",
+			"sha1": "d272ab37a0ca0ec17b85ed3094378d6a344e8bec",
+			"sha256": "1bc99910f1006779e7966f114c679f84962f81b77941d6895417e428cc781160"
+		}
+	]
+}

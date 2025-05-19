@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (546f21).wad",
+	"name": "FORTRESS.WAD",
+	"description": "An evil haven battle fortress, chock full of things to kill and places to see. Enjoy the atmosphere, I do.",
+	"version": "546f21",
+	"date": "2014-01-11 11:20:08",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 144169,
+			"crc": 2232745110,
+			"md5": "45424e156dc255400f8670c1591a8f26",
+			"sha1": "546f21e71aebd8f662d1f22c88390f8dc924422d",
+			"sha256": "193f1d1b90f3476f28bec13b8ddb6847630c6d24e49e14e7e86fdca81c5a7d90"
+		}
+	]
+}

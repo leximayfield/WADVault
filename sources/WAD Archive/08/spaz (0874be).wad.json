@@ -1,0 +1,17 @@
+{
+	"uid": "spaz (0874be).wad",
+	"name": "Spaz.wad",
+	"description": "Doom 2 Deathmatch wad. The fun part is fragging each other in the dark room with the hanging guys. This wad is mainly for 2 player deathmatch.",
+	"version": "0874be",
+	"date": "2013-11-06 22:42:05",
+	"files": [
+		{
+			"filename": "spaz.wad",
+			"size": 31590,
+			"crc": 329691579,
+			"md5": "d28b86b1016269f65947cf99b6a5dc9a",
+			"sha1": "0874be5b5342ba1cf5c4049c5385ccbed939e45e",
+			"sha256": "00f8450f71a8b305ad4b7f029604bc8e174b9f211cd0f473cfa7337180e3fadd"
+		}
+	]
+}

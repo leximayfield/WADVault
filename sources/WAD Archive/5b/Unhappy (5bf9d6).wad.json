@@ -1,0 +1,17 @@
+{
+	"uid": "Unhappy (5bf9d6).wad",
+	"name": "Unhappy Expedition",
+	"description": "A big map for Doom 2 containing a few fights with hordes of enemies.",
+	"version": "5bf9d6",
+	"date": "2018-02-15 20:36:44",
+	"files": [
+		{
+			"filename": "Unhappy.wad",
+			"size": 9698972,
+			"crc": 94226506,
+			"md5": "102dba150949a540a7d29578c3d97776",
+			"sha1": "5bf9d646524d54ddbe1f683b18fb7640174155c6",
+			"sha256": "da6a8d63201eeb43ee70166ee181be57ab2ed6bf81e0293efb73c90d6314a6e4"
+		}
+	]
+}

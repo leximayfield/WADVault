@@ -1,0 +1,16 @@
+{
+	"uid": "sgehouse.wad",
+	"name": "Urban Siege",
+	"description": "Based on devicer's brilliant Marathon Map, a \"siege house\" is the centerpiece of this extremely small level. The house contains an exposed megasphere (the only health/armor on the level) with a couple of switches to throw in order to access it (simulating the delay of the Marathon health computer). To recreate the feel of the original Marathon map, the only weapons on the level are chainguns and rocket launchers (in generous quantities). Tons of strategy for a tiny level (and tons of frags).",
+	"date": "2013-11-04 19:24:25",
+	"files": [
+		{
+			"filename": "sgehouse.wad",
+			"size": 14223,
+			"crc": 976538868,
+			"md5": "828292c6866ce7447d90799c19f66922",
+			"sha1": "70a441b1fb0cdf43151e20fb861663c14a703c2f",
+			"sha256": "587f4e08e8906bb70ed9ff0dbda1d3843964b3d16261733deddb5d02903009e5"
+		}
+	]
+}

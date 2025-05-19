@@ -1,0 +1,17 @@
+{
+	"uid": "ledgesi (c589e7).wad",
+	"name": "LEDGESI.WAD",
+	"description": "This is the update or improved version of ledges for the new DEATHMATCH 2.0 rules.",
+	"version": "c589e7",
+	"date": "2013-11-02 15:58:12",
+	"files": [
+		{
+			"filename": "ledgesi.wad",
+			"size": 39070,
+			"crc": 185762024,
+			"md5": "21bfa911a1255cd8ad7b88f9f6aa1548",
+			"sha1": "c589e7ae046e3b79d143bfdc764075ac3547f9af",
+			"sha256": "52b86488711d92d05bdedc25026543b2eb9f1206448bbc9dc4ba8fce24bc0141"
+		}
+	]
+}

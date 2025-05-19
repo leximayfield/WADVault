@@ -1,0 +1,17 @@
+{
+	"uid": "lavapit (aa2a95).wad",
+	"name": "Lava Pit",
+	"description": "Single/Multiplayer level for HERETIC",
+	"version": "aa2a95",
+	"date": "2013-11-02 16:38:36",
+	"files": [
+		{
+			"filename": "lavapit.wad",
+			"size": 63205,
+			"crc": 476602448,
+			"md5": "b2fd9d682629432ccc312e92a66b3fef",
+			"sha1": "aa2a9568a308ab7c887dd5b03eedf184dc26d570",
+			"sha256": "9cc590ca50077776edf75d2d9ffd407c1cd126e3c3160835bb7b19051d151ec1"
+		}
+	]
+}

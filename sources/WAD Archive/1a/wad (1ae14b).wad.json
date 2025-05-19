@@ -1,0 +1,16 @@
+{
+	"uid": "wad (1ae14b).wad",
+	"description": "This is my first attempt at WAD creation, but I think it's pretty good. I tried to capture that spooky, nerve- wracking feel; lots of darkness and monsters.",
+	"version": "1ae14b",
+	"date": "2016-02-07 20:27:12",
+	"files": [
+		{
+			"filename": "wad.wad",
+			"size": 76318,
+			"crc": 3043552517,
+			"md5": "0eb1967497bdb48cd1ee460fc50cc502",
+			"sha1": "1ae14b32038e6516f8d459d3ee36268031e2d8d4",
+			"sha256": "a42477293491c152953cd63d945ba4111190cd71a41703fa3a2e720fde220e85"
+		}
+	]
+}

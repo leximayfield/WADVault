@@ -1,0 +1,17 @@
+{
+	"uid": "DUNGEONS (d87ed9).wad",
+	"name": "Dungeons",
+	"description": "1 level WAD. Quite a lot of attention given to the appearence of the levels",
+	"version": "d87ed9",
+	"date": "2014-12-18 22:22:11",
+	"files": [
+		{
+			"filename": "DUNGEONS.wad",
+			"size": 293928,
+			"crc": 2959015799,
+			"md5": "08e12a5053f2fae6650aee26d322461c",
+			"sha1": "d87ed9078ee60275ee0215dff1f357db158d868e",
+			"sha256": "e60782708b0e53cc28f93c909f848981262208842e297d4a5675e4eed3ccb9ae"
+		}
+	]
+}

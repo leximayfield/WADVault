@@ -1,0 +1,17 @@
+{
+	"uid": "amievil (cc36d3).wad",
+	"name": "Am I Evil?",
+	"description": "Cooperative construction with mail help. For the basis of a level there was taken deathmatch level made by Ilya. 4 branches have added to this level. Each of us created till two branches. What is the result? We wait for your comments.",
+	"version": "cc36d3",
+	"date": "2014-12-15 22:16:24",
+	"files": [
+		{
+			"filename": "amievil.wad",
+			"size": 567057,
+			"crc": 4225069305,
+			"md5": "c449e2ab6861603e617161a77cbc7f21",
+			"sha1": "cc36d3c8db5b8b393cb508bf988c00b2b2d9226a",
+			"sha256": "55857cbb19ad3edee6f95c08b9fc7b3bb9c93de950b693770b167a4b8dc02136"
+		}
+	]
+}

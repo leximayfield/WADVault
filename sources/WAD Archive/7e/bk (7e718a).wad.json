@@ -1,0 +1,17 @@
+{
+	"uid": "bk (7e718a).wad",
+	"name": "Be Knight",
+	"description": "pure deathmatch2.0 arena level",
+	"version": "7e718a",
+	"date": "2014-01-07 22:14:12",
+	"files": [
+		{
+			"filename": "bk.wad",
+			"size": 15504,
+			"crc": 2452987166,
+			"md5": "38a5335f6997eadbade7c308ec8ec028",
+			"sha1": "7e718a07d5ec073359c4f12de147e624e4524da9",
+			"sha256": "075b6c653b2b8473b75618a2952802fd6b6435dc2dfc6ba9fd81a9e4773a59e4"
+		}
+	]
+}

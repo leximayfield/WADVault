@@ -1,0 +1,17 @@
+{
+	"uid": "fray (2d5bf2).wad",
+	"name": "Fray",
+	"description": "Nine deathmatch maps, authored individually over a period of 3 years, then collected. Designed with altdeath play in mind.",
+	"version": "2d5bf2",
+	"date": "2014-12-15 21:21:11",
+	"files": [
+		{
+			"filename": "fray.wad",
+			"size": 488156,
+			"crc": 582395078,
+			"md5": "32ec32dff678e765e36af7719b6fa2a0",
+			"sha1": "2d5bf2eee97c7a4672db66e928d1da383b86c2bd",
+			"sha256": "a5675d1cd44776c18aab74668b28c99ec702d729cc4befc829f9cc110dcca14e"
+		}
+	]
+}

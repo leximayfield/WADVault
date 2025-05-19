@@ -1,0 +1,16 @@
+{
+	"uid": "iocomplex.wad",
+	"name": "Io Complex",
+	"description": "Includes 13 single player maps set on Jupiter's moon Io, several new weapons, and some new enemies.",
+	"date": "2019-03-06 21:52:24",
+	"files": [
+		{
+			"filename": "iocomplex.wad",
+			"size": 7146279,
+			"crc": 3550950816,
+			"md5": "b1cdbd26e8b588539ebdbe9f150d13ef",
+			"sha1": "4d40fc316457ac1975e3461666ddf02eede4ed17",
+			"sha256": "cced5e6dfb151a87d7744fa56832ef4975d4819bdf32c3c013d8a048067c18a2"
+		}
+	]
+}

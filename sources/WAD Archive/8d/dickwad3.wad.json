@@ -1,0 +1,16 @@
+{
+	"uid": "dickwad3.wad",
+	"name": "DickWad3.wad",
+	"description": "A DOOM 2 WAD with 7 levels, sounds, etc. Best for Deathmatch on a 486 or better.",
+	"date": "2014-12-15 22:22:06",
+	"files": [
+		{
+			"filename": "dickwad3.wad",
+			"size": 592984,
+			"crc": 3225833297,
+			"md5": "e7989fbd7c8a4f393d2b5ae0c488f6a2",
+			"sha1": "8d9c880dcd28f09c7507d9c97a7490a464a12b0d",
+			"sha256": "436af86aeb7e45ceb6e6380d423292c7048f452c84780bfc89a6915f8d40dfe8"
+		}
+	]
+}

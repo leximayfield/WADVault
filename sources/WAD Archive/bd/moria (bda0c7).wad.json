@@ -1,0 +1,17 @@
+{
+	"uid": "moria (bda0c7).wad",
+	"name": "Moria.wad",
+	"description": "This level is LOOSELY based on Tolkien's Moria. The around durin's bridge after gandalf's fight with the balrog. it was made for deathmatch. only one monster down in the chasm. if you are near the saint at the right time you might get the mace. enjoy!",
+	"version": "bda0c7",
+	"date": "2014-10-20 19:49:30",
+	"files": [
+		{
+			"filename": "moria.wad",
+			"size": 106590,
+			"crc": 1873249233,
+			"md5": "c99270dac81b44979b8f456646fc4f3f",
+			"sha1": "bda0c7846a2a7b83b58add00e3a00c4b545c8e07",
+			"sha256": "b74583ae6435edf22cdd7323b250f7e4232b89d3278af22225bac0e3011248a3"
+		}
+	]
+}

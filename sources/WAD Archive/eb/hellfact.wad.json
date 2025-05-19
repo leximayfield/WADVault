@@ -1,0 +1,16 @@
+{
+	"uid": "hellfact.wad",
+	"name": "The Hell Factory Hub One",
+	"description": "This is my first ZDoom project and this hub haves 4 levels. It haves many ACS scripts too.",
+	"date": "2014-12-24 17:35:14",
+	"files": [
+		{
+			"filename": "hellfact.wad",
+			"size": 2522018,
+			"crc": 920947647,
+			"md5": "ed18a2b5c7d59da3bb74e02c09928ffc",
+			"sha1": "ebf6b5883d32b07aa7130057c396d26bba68972d",
+			"sha256": "e2166501e6169620d31aa458efb80248c23848e79546a61622fc29b449f8a333"
+		}
+	]
+}

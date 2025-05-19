@@ -1,0 +1,17 @@
+{
+	"uid": "halls (7b0830).wad",
+	"name": "Halls of Hell",
+	"description": "You awake to find yourself in a strange building it looks somewhat familiar, but you aren't sure. It looks like some kind of processing plant. Is this the end, or is it just the beginning? You could care less, so you open the door...",
+	"version": "7b0830",
+	"date": "2015-12-07 13:26:33",
+	"files": [
+		{
+			"filename": "halls.wad",
+			"size": 90003,
+			"crc": 3502167399,
+			"md5": "a35dba360033916d5df9c1fa8daad26f",
+			"sha1": "7b0830de963929f680d79c29caf5bd25ff311ab9",
+			"sha256": "49b6ec768cfe93e18d2184527aad6152852e26ca781cff3e9b0cfe340109c784"
+		}
+	]
+}

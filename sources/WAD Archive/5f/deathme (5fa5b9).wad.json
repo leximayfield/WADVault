@@ -1,0 +1,17 @@
+{
+	"uid": "deathme (5fa5b9).wad",
+	"name": "Death-me",
+	"description": "Small high frag DM level with all weapons. There is NO exit",
+	"version": "5fa5b9",
+	"date": "2013-11-02 15:58:33",
+	"files": [
+		{
+			"filename": "deathme.wad",
+			"size": 62589,
+			"crc": 1887515353,
+			"md5": "24fb4312022bab7575c318749a40a8e6",
+			"sha1": "5fa5b945f1e3eadfdc3f9b9276d21dd9156a56ba",
+			"sha256": "d20ad13bf86eb00375ad18b2a79cdeb25519cce08c56569714debd49305b80f8"
+		}
+	]
+}

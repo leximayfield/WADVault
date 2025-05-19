@@ -1,0 +1,17 @@
+{
+	"uid": "DOMAIN (64d4df).wad",
+	"name": "Soliders Domain",
+	"description": "This level is designed for deathmatch. It can be played in single player mode, but it's a bit easy... the exit might be a little hard to find though. I have tested this wad in 1 Player mode, 2 player deathmacth and a 4 man game... although it's average or a little small... it's really fun with 4 people, teams or not.",
+	"version": "64d4df",
+	"date": "2014-01-07 22:05:10",
+	"files": [
+		{
+			"filename": "DOMAIN.wad",
+			"size": 55248,
+			"crc": 1991610669,
+			"md5": "a3631574961d8b7dd9c84c926ab01056",
+			"sha1": "64d4df93dfd28be1c1b8e706d5802e7d48945441",
+			"sha256": "8315c0a63d4b29fafb64a7334583748f143042f4a7152bf0f5cac045557ad89a"
+		}
+	]
+}

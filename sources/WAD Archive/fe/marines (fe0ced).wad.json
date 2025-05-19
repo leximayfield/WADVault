@@ -1,0 +1,17 @@
+{
+	"uid": "marines (fe0ced).wad",
+	"name": "Marines",
+	"description": "Fight the marines. NOTE: This is a re-do of MARINE1.ZIP, which was around 2.6 megs due to un-appended sprites from Doom II. This version has no illegal sprites and is much smaller, but there are NO changes apart from that.",
+	"version": "fe0ced",
+	"date": "2018-04-15 22:58:56",
+	"files": [
+		{
+			"filename": "marines.wad",
+			"size": 397808,
+			"crc": 4003653166,
+			"md5": "d6ccfc4d10f3ae1d42439cd8bba71885",
+			"sha1": "fe0cedd1a05db800eaf4685bcd75d17a969d4b5c",
+			"sha256": "f23af83fe615fe984e148f37e08640b2eb4b6da0fc51207c82260295433f694f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "chaos2 (c86641).wad",
+	"description": "This is my 1st WAD that I have made from scratch, it is map 1. There are a couple of secrets, see if you can find them.<g>",
+	"version": "c86641",
+	"date": "2014-01-07 21:58:15",
+	"files": [
+		{
+			"filename": "chaos2.wad",
+			"size": 180428,
+			"crc": 2709513039,
+			"md5": "22aaac6e3e0fbad4031b07a5c2a5374b",
+			"sha1": "c86641e2db49bd59a8656efed2871157ba303e98",
+			"sha256": "e05a94548558e411dfcb27b42d102316205589b658b694d7b39d88f36f64b635"
+		}
+	]
+}

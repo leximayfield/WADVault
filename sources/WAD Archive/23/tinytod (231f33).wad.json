@@ -1,0 +1,17 @@
+{
+	"uid": "tinytod (231f33).wad",
+	"name": "tinytod",
+	"description": "small map with 25 monsters",
+	"version": "231f33",
+	"date": "2014-12-29 17:43:40",
+	"files": [
+		{
+			"filename": "tinytod.wad",
+			"size": 32927,
+			"crc": 1261462903,
+			"md5": "da4fb2bdae331c7bb05f7f8e97ce6615",
+			"sha1": "231f33f32535f207543ecf627351ddbda49bc25d",
+			"sha256": "75f3567cae1cb00aa7f77fa39483ee94613b1ba6e715f7c6a628210f92e866e8"
+		}
+	]
+}

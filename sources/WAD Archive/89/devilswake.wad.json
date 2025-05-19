@@ -1,0 +1,16 @@
+{
+	"uid": "devilswake.wad",
+	"name": "Devil's Wake",
+	"description": "Since this is my first WAD, I tried to incorporate a few different ideas and locations. This was more of a trial run for me. Your comments and feedback are much appreciated. (Use MAP07).",
+	"date": "2019-06-22 13:39:48",
+	"files": [
+		{
+			"filename": "devilswake.wad",
+			"size": 109460,
+			"crc": 841998561,
+			"md5": "566504e4bef8466efd25435cd0c04cda",
+			"sha1": "89ececfd5660e936a04b49d36c13f35cd63b293b",
+			"sha256": "4e96fe3c4768cfec7042927da7fcea33756bceb0b3d6a1ac71d66df1f1d83053"
+		}
+	]
+}

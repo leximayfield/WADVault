@@ -1,0 +1,16 @@
+{
+	"uid": "promise.wad",
+	"name": "Promise",
+	"description": "My first wad. Its quite dificult and ugly. Try yourself.",
+	"date": "2015-01-14 22:55:12",
+	"files": [
+		{
+			"filename": "promise.wad",
+			"size": 120339,
+			"crc": 1467558382,
+			"md5": "38531d818dfebcb8fe6e459088c352be",
+			"sha1": "8684760b9105b3bdeed4700418c8b392b71cea8f",
+			"sha256": "60a0b7235ea24d7ad68efa7c70b0cd347f220e9c4258dbdf0478dba0d1b46ca5"
+		}
+	]
+}

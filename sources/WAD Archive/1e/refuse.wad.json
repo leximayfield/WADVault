@@ -1,0 +1,16 @@
+{
+	"uid": "refuse.wad",
+	"name": "REFUSE",
+	"description": "Trivial map for DOOM. I like '94-95 abstract, : less detailed maps and has tried to make something : similar.",
+	"date": "2014-12-13 12:52:02",
+	"files": [
+		{
+			"filename": "refuse.wad",
+			"size": 221577,
+			"crc": 3930911737,
+			"md5": "58a9beb5ae37a9b2b0b2486f85f5f675",
+			"sha1": "1ed11307e7b7c20c59bd544531a5c5cca41f13c6",
+			"sha256": "46e3c503144af738f516fbd262bb7d518847032ec042773911788f573bb768fe"
+		}
+	]
+}

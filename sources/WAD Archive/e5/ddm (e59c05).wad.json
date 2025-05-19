@@ -1,0 +1,17 @@
+{
+	"uid": "ddm (e59c05).wad",
+	"name": "Lava Pits",
+	"description": "Skulltag duel level set in a small techbase area surrounded by lava.",
+	"version": "e59c05",
+	"date": "2014-12-12 14:04:19",
+	"files": [
+		{
+			"filename": "ddm.wad",
+			"size": 554382,
+			"crc": 2805458048,
+			"md5": "67188ffa4f6c049ddac21afedada6a1e",
+			"sha1": "e59c053f26417979e14692482cb5176f4c0008f5",
+			"sha256": "ee8861d5977f33a8c57406f4ab20ebf69f685631dc1cf0da88f373fe2296b4c9"
+		}
+	]
+}

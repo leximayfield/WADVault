@@ -1,0 +1,16 @@
+{
+	"uid": "endmus.wad",
+	"name": "Alternate late game music replacement",
+	"description": "I always thought the late game music for both Doom and Doom2 : were off so I replaced MAP21 through MAP29 and E3M1-E3M9 : with more string based MIDI files since I believe they would fit the : hellish atmosphere better than the ones provided with the games.",
+	"date": "2015-09-15 19:28:09",
+	"files": [
+		{
+			"filename": "endmus.wad",
+			"size": 628369,
+			"crc": 2001424635,
+			"md5": "8d4268572f41e7eaf8b99a94b9108d08",
+			"sha1": "1147d755c82acf0fdcdf2b920788a4ea57ef68a9",
+			"sha256": "8433d80225e522dd5ba1d8dda14afb0aba2433693395eddfe9f1683666b17714"
+		}
+	]
+}

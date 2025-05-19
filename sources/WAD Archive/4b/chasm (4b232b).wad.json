@@ -1,0 +1,17 @@
+{
+	"uid": "chasm (4b232b).wad",
+	"name": "The Chasm",
+	"description": "Primarily a DEATHMATCH - you fight off",
+	"version": "4b232b",
+	"date": "2013-11-02 16:06:47",
+	"files": [
+		{
+			"filename": "chasm.wad",
+			"size": 22088,
+			"crc": 2210993704,
+			"md5": "06ee58628d2be89abd629e6f21417dfe",
+			"sha1": "4b232baac75a9cd0ba7d4a3232ed7ba59e1a271f",
+			"sha256": "a6390e1cea0dddcb8138841a3785308cc2afc0684eb3ae24154b84ca2a5806ce"
+		}
+	]
+}

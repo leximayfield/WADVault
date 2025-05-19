@@ -1,0 +1,16 @@
+{
+	"uid": "grid32.wad",
+	"name": "Grid 32",
+	"description": "MegaWad is consisting of 6 levels, which were built in \"grid 32\". This map editor grid was used while making all of these levels. All\ufffdvertexes lay on\ufffdknots\ufffdof a grid 32, and\ufffdthis rule does not extend on things.There is no general style, each map expresses individual style of it`s author. All leves are united by \"grid 32\", hence the corresponding name of this wad. The original idea of the rules for grid with the 32x32 dimensions introduced by Andrey Budko, aka \"entryway\". MegaWad also includes new titlepic, interpic and credit by Shadowman, dehacked patch by DoomExpert, new font and menu graphics by entryway and several replaced sprites.",
+	"date": "2014-12-24 19:12:55",
+	"files": [
+		{
+			"filename": "grid32.wad",
+			"size": 4766236,
+			"crc": 3917183583,
+			"md5": "1ab165d28b48c7cdcef6b745c7262719",
+			"sha1": "b4415cf041abafbe1f2841bce3ff772e34624800",
+			"sha256": "edc8add58a349aa4139c7b82840620564f86a7b7e4018ac32f30e7dcb829a447"
+		}
+	]
+}

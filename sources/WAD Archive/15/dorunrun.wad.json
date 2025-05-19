@@ -1,0 +1,16 @@
+{
+	"uid": "dorunrun.wad",
+	"name": "DoRunRun.Wad",
+	"description": "Designed for Deathmatch, all weapons available (some more difficult to get than others.) Play with the beasties, for optimal fun!",
+	"date": "2013-11-04 19:23:36",
+	"files": [
+		{
+			"filename": "dorunrun.wad",
+			"size": 62522,
+			"crc": 1090177233,
+			"md5": "cab4f0b8b54fb9c1183ea8f53edbb12b",
+			"sha1": "1538ef9d72c24e478f28b0685836e63323c6f059",
+			"sha256": "452ed12c8400452603a8886d9ee98ad68ed69c2a27cb2a6f2401e4be742a9cbb"
+		}
+	]
+}

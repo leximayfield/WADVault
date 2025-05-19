@@ -1,0 +1,17 @@
+{
+	"uid": "dejavu (eeb31a).wad",
+	"name": "dejavu",
+	"description": "Do you like Michael Krause Wads? If yes, you should try this map. Hope you like that.",
+	"version": "eeb31a",
+	"date": "2014-12-30 11:27:36",
+	"files": [
+		{
+			"filename": "dejavu.wad",
+			"size": 298731,
+			"crc": 1261656664,
+			"md5": "c2e4fa5ee397c57bc5af163add804719",
+			"sha1": "eeb31a49343c8b76e2ac6a4c4c509259b6d84440",
+			"sha256": "1973039a7bb7a60cb2544794aacc006c09a0eac72698c9696eaac68f79fd5dce"
+		}
+	]
+}

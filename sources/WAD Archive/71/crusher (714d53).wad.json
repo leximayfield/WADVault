@@ -1,0 +1,17 @@
+{
+	"uid": "crusher (714d53).wad",
+	"name": "CRUSHER.WAD",
+	"description": "This is my first level. It is a combination of all my great ideas I wanted to put into a level. Since this is my first level, it has the mandatory room with lots o' enemies. There is a large maze which can be solved using the \"stay to the left\" method. All secrets are hinted at so you won't have to push every bit of wall to get 100% secrets. Difficulty levels are implemented but it is easy on skills 1-2 and I wouldn't recommend playing it. Skill 4 is tough even for me, but it is the most fun to play. Also, take a look at the overpass.",
+	"version": "714d53",
+	"date": "2014-11-01 14:51:38",
+	"files": [
+		{
+			"filename": "crusher.wad",
+			"size": 199513,
+			"crc": 310732427,
+			"md5": "d01db8021e1dd924338f9694643300a4",
+			"sha1": "714d53c6a0505a4675d184cfa5ea91cf2283671b",
+			"sha256": "9a03c7102cf6e1c0d4c5f61dbf2f3974e26b9a60666c9a6263cb5bfd1933d38b"
+		}
+	]
+}

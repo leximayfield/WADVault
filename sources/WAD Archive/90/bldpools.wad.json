@@ -1,0 +1,16 @@
+{
+	"uid": "bldpools.wad",
+	"name": "Blood Pools",
+	"description": "2-8 player (4 recommended) small deathmatch map.",
+	"date": "2014-12-15 23:10:26",
+	"files": [
+		{
+			"filename": "bldpools.wad",
+			"size": 72888,
+			"crc": 3622676677,
+			"md5": "dc1ff50caf86bd2e28f129fab0b0922c",
+			"sha1": "9044e4bbd963137dbec53755018ef1be3da1242f",
+			"sha256": "01fde80bd3c5e7f1fe03238acbddd1b12a5dd557a7393051f5646298bdbf414d"
+		}
+	]
+}

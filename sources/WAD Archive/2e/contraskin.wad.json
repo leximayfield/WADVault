@@ -1,0 +1,16 @@
+{
+	"uid": "contraskin.wad",
+	"name": "Ray Poward",
+	"description": "It's Ray Poward from Contra: Legacy of War. Bit of a rough translation from the PS1 game into Doom so hopefully it plays well enough to work.",
+	"date": "2017-11-18 20:37:56",
+	"files": [
+		{
+			"filename": "contraskin.wad",
+			"size": 224728,
+			"crc": 3768004751,
+			"md5": "24de96bf6f35ad290b07f29658182fa6",
+			"sha1": "2e041cef323393685ff3d3a0bddf6190cbe7eabd",
+			"sha256": "943dcda6f572a2b279d084de94c61b96c1c217c07873f625fb8e75fa1c9e9d93"
+		}
+	]
+}

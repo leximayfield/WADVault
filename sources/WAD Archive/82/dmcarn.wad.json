@@ -1,0 +1,16 @@
+{
+	"uid": "dmcarn.wad",
+	"name": "Doom Carnage",
+	"description": "This level is a bunch of square rooms with every type of guy and weapon--make for a great deathmatch level, too.",
+	"date": "2014-12-13 17:46:14",
+	"files": [
+		{
+			"filename": "dmcarn.wad",
+			"size": 299697,
+			"crc": 2382157084,
+			"md5": "9996239099d28778927ce9cea9d5121b",
+			"sha1": "823973ec85530969e2e78d927a217aa757bfa983",
+			"sha256": "ef389626d07956d9a8ebc70af441aac581f4fa49584d3df0eb18a855c7e077df"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "trapped!.wad",
+	"name": "TRAPPED!",
+	"description": "A deathmatch only level. It is relatively small, but that makes it better for deathmatch play. It's full of traps to set for your opponent (hence the title), but I'll leave you to find them all. (after all, it's no fun to play if you know that you that you are going to beat your opponent every time, is it) I recommend that you use ALTDEATH, as otherwise the level quickly runs out of ammo, and don't use turbo as it messes up the stepping stones section.",
+	"date": "2014-01-07 22:12:45",
+	"files": [
+		{
+			"filename": "trapped!.wad",
+			"size": 47266,
+			"crc": 589625748,
+			"md5": "6fffd31119af8c1fd75b58e040d9a57a",
+			"sha1": "d3075f5b6ef5b375384bb0385b224266c47d8744",
+			"sha256": "ce65c5486540ef345e425bd5acd13ee7e8cbd8541788255d247112185669ae7d"
+		}
+	]
+}

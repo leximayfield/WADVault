@@ -1,0 +1,16 @@
+{
+	"uid": "firstwad.wad",
+	"name": "My First Wad",
+	"description": "This is (obviously) my first wad, made for the Vinesauce 2016 Doom Mapping contest and submitted to said contest two months ago. I was originally planning on uploading this once my wad was played on stream, but since Joel seems to be inundated with so many wads that it'll likely be months from now before he finally gets to playing mine, I figured I might as well upload it now. Map01 is the very first thing I've ever made in Doom Builder, originally based somewhat around MAP01 of doom 2 but deviating more from that general concept as I worked on it. Map02's basic premise is shamelessly copied from Map08 of doom 2, and is objectively the best map of the 3 uploaded here Map03 was made almost entirely while intoxicated, and plays around with outdoors areas. It also has a lot of graphical issues if not played in GZdoom or Zdoom, and is really terrible in general as a result of the aforementioned intoxication.",
+	"date": "2016-11-12 17:19:59",
+	"files": [
+		{
+			"filename": "firstwad.wad",
+			"size": 181038,
+			"crc": 4222116428,
+			"md5": "2f7239b7262dfda86b06199aac7f5b12",
+			"sha1": "bcbbbe7db2eff18077ce8dbea3c2e6057a10b44f",
+			"sha256": "93901a3ecea72a66816466afdb3fe9519a29045dbb37127f96e9181583286a2c"
+		}
+	]
+}

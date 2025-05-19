@@ -1,0 +1,17 @@
+{
+	"uid": "crush (3bbae9).wad",
+	"name": "2 Player Deathmatch",
+	"description": "A two player deathmatch which has a re-usable crusher. One switch to trap your opponent, another to crush him. There are a few secret passages and a completely black room with a floor which lights up when you approach the weapon, which makes it interesting when you are fighting around this weapon. The armour is fairly difficult to get, although it is very easy to see, so if someone is attempting to get it.....HE PROBABLY WILL. The board is not very big and you will find your opponent fairly easily, based on different sounds (grunts, doors, and floor switches). Weapons are readily available, however, the rocket launcher and the plasma cannon aren't.",
+	"version": "3bbae9",
+	"date": "2014-10-14 21:04:30",
+	"files": [
+		{
+			"filename": "crush.wad",
+			"size": 153469,
+			"crc": 222593314,
+			"md5": "41bc29b4d85ac866ae0f51d6aec8638e",
+			"sha1": "3bbae9b206fdc66c37752476ac6b5ce176ab466f",
+			"sha256": "62e715dfcdff6b9dd3b30377cf502f648e4691bea855f78beb277e4cf4159327"
+		}
+	]
+}

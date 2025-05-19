@@ -1,0 +1,16 @@
+{
+	"uid": "sjs02.wad",
+	"name": "SJS2: Outpost",
+	"description": "A dark tech themed map. Fairly hard unless you know what you're doing too :P Also (like sjs1) includes new music and textures, by me.",
+	"date": "2014-12-29 15:06:35",
+	"files": [
+		{
+			"filename": "sjs02.wad",
+			"size": 1453365,
+			"crc": 168020474,
+			"md5": "963466cd84206bca1fafeb319e1badb8",
+			"sha1": "05b33f666cf8540383fb8465fdf08a5be03c27b3",
+			"sha256": "7054035338b46e62560079d74ea59e047a35f47d35d3106298206bc20f315cbd"
+		}
+	]
+}

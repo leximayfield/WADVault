@@ -1,0 +1,17 @@
+{
+	"uid": "frigfrag (e030b4).wad",
+	"name": "Friggin Frags",
+	"description": "A strictly Deathmatch level with a big turret and an outdoor tech center. The exit is located at the top of an open elevator so anyone can call for it but the other players can shoot him down before he can exit. Also there is no monsters on this level just pure Fraggin fun. In the tech center, looking at the map ( problably in single-player mode otherwise you will NOT have the time :-), anyway in the Map-mode the bottom switch lowers the wall behind you. The left switch closes the windows in the turret. The upper switch opens the windows in the turret. Walking up to the right switch ( you don't actually have to switch it on ) will cause the ceiling in the turret to become a crushing ceiling and walking across the platform above the switches causes the ceiling to stop. I hope you like it. Any feedback is highly appreciated.",
+	"version": "e030b4",
+	"date": "2014-10-14 21:08:21",
+	"files": [
+		{
+			"filename": "frigfrag.wad",
+			"size": 36104,
+			"crc": 75452425,
+			"md5": "ff108be1975fa5dbaac579bb2e58519c",
+			"sha1": "e030b4894858a80546fb6522b0a353f9426bbb20",
+			"sha256": "fe7ce25d99d4b7d786e2be5eb2dc73e5b78ec1a7e935a76b7efde2623abd783d"
+		}
+	]
+}

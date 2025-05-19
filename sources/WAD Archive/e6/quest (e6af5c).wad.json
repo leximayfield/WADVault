@@ -1,0 +1,17 @@
+{
+	"uid": "quest (e6af5c).wad",
+	"name": "The Quest",
+	"description": "Two weeks ago, your best friend (a Mariner, like you) had been sent to investigate a suspicious building. There were rumors... Until now, there are no news about him or about his mission. The worst is feared. So, YOU are to be sent to find him - or, at least, his body - and fulfill his mission: investigate and 'disinfect' all the place.",
+	"version": "e6af5c",
+	"date": "2015-01-14 22:58:06",
+	"files": [
+		{
+			"filename": "quest.wad",
+			"size": 419751,
+			"crc": 1506821481,
+			"md5": "06ccadf17cf2fdf68963f7f531d42eca",
+			"sha1": "e6af5c69150836f669d902c76f504854d7c67a7c",
+			"sha256": "1d49faee1bd9575fb72e09bdc7a1c28cc0038350fa3830e87433a0228f9f6c66"
+		}
+	]
+}

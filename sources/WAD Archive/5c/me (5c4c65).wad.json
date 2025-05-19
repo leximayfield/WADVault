@@ -1,0 +1,17 @@
+{
+	"uid": "me (5c4c65).wad",
+	"name": "(My First Wad.)",
+	"description": "(This is a good level to practice dodging, and a good level to practice survival skills (there are Spawners)",
+	"version": "5c4c65",
+	"date": "2015-01-13 21:38:07",
+	"files": [
+		{
+			"filename": "me.wad",
+			"size": 7635,
+			"crc": 3571374990,
+			"md5": "59b6646839740d5894ce2009b890e843",
+			"sha1": "5c4c65e51fde1326e18ce322019acae66bfe2452",
+			"sha256": "6306213b0c78db95554f34fbdcd49b6db3234e8d9cf13458ddb3c365def996c7"
+		}
+	]
+}

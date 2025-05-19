@@ -1,0 +1,17 @@
+{
+	"uid": "AMBIENT (8a1a2a).wad",
+	"name": "AMBIENT",
+	"description": "First WAD. Started July '94, finished November '94. All weapons but BFG. Spider Demon. Barneys, I mean Barons. This WAD has a distinct anti-Barney theme. For maximum enjoyment please use the Barney or Barney and Clinton patch. These important patches seem to have disappeared off the FTP sites so I include them in the ZIP file of AMBIENT. I have reached the exit in Ultra-Violent without cheating.",
+	"version": "8a1a2a",
+	"date": "2014-01-07 21:51:51",
+	"files": [
+		{
+			"filename": "AMBIENT.wad",
+			"size": 476309,
+			"crc": 704311187,
+			"md5": "efb89f6fc3911805957b0b914bdee1ad",
+			"sha1": "8a1a2a11e90d5fb96e5c97f2e98ccb1882482027",
+			"sha256": "49042c38f16ecea8b5cb81063fe86c7ebea0918b54a5993e17e18b549df123c5"
+		}
+	]
+}

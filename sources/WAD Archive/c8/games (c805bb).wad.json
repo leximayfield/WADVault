@@ -1,0 +1,17 @@
+{
+	"uid": "games (c805bb).wad",
+	"name": "Games",
+	"description": "Games is a collection of 3 WADS. It is called Games because you have some rules and limitations while playing the levels. The rules are there to force the player to do some things (to run, to take care at what he shoots and when, to save ammo etc.). Basically, I tried to keep things dinamic.",
+	"version": "c805bb",
+	"date": "2014-12-18 22:35:41",
+	"files": [
+		{
+			"filename": "games.wad",
+			"size": 226233,
+			"crc": 1892191064,
+			"md5": "3961bc2d5dba4bc490c109dc0b39f221",
+			"sha1": "c805bbf03ac44921c68c578978fdce341ebceb39",
+			"sha256": "d8b6dccf9af84d4a7f18bbc583c3c595de8709d5210772a372a3862e81a7f89f"
+		}
+	]
+}

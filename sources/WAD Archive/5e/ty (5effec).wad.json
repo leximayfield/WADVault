@@ -1,0 +1,17 @@
+{
+	"uid": "ty (5effec).wad",
+	"name": "Ty.wad",
+	"description": "Map01 with some revisions. Not very good but perfect for",
+	"version": "5effec",
+	"date": "2013-11-06 22:35:47",
+	"files": [
+		{
+			"filename": "ty.wad",
+			"size": 47834,
+			"crc": 507337053,
+			"md5": "8a74110c8a90780689eb8aafdf882624",
+			"sha1": "5effec63278f61818319a5e50cddec43e67f48cd",
+			"sha256": "d2246957ee39ba07f0fd66616f578b7bfbf9932a2b1049f3e4b4f446321e98ad"
+		}
+	]
+}

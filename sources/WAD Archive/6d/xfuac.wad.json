@@ -1,0 +1,16 @@
+{
+	"uid": "xfuac.wad",
+	"name": "Escape from UAC",
+	"description": "You must escape from UAC. Simple.",
+	"date": "2014-12-29 16:45:27",
+	"files": [
+		{
+			"filename": "xfuac.wad",
+			"size": 1041807,
+			"crc": 2074838612,
+			"md5": "9d5cf8a1156159c1f6d1c6fbd1a53882",
+			"sha1": "6df727339ddaf0f035e08aeba590073a6fb5996c",
+			"sha256": "5cffeacfb0b08bbe20aa3f567c20cee294c7fbb2ceb8caca675ba085178d73ee"
+		}
+	]
+}

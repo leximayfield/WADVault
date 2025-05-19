@@ -1,0 +1,17 @@
+{
+	"uid": "acastle2 (687966).wad",
+	"name": "ACASTLE2.WAD (replaces A_CASTLE.WAD)",
+	"description": "A_CASTLE.WAD was messed up. Sorry. This one should be OK, if not, send me e-mail and I'll repost.",
+	"version": "687966",
+	"date": "2015-12-07 12:01:08",
+	"files": [
+		{
+			"filename": "acastle2.wad",
+			"size": 141779,
+			"crc": 3138502246,
+			"md5": "6674b0b39f08ea7d2b00c00a1ee2e43f",
+			"sha1": "687966ee88612ce1e37d18699877cdd0e76d3df9",
+			"sha256": "7e73cc536994de97ae9fd716e13de6f2c8588728f7423f905e312cbb43472202"
+		}
+	]
+}

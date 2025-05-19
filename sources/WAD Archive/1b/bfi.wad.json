@@ -1,0 +1,16 @@
+{
+	"uid": "bfi.wad",
+	"name": "Butterfinger Insanity",
+	"description": "Butterfinger Insanity is another candy-themed slaughter level that involves collecting a key from each direction of the room. You must rush your way to get to the megaspheres as you will be taking excess damage. Good luck trying to survive because this one is hard. Demo can be found at: https://www.youtube.com/watch?v=Y1EsfkdIi-w",
+	"date": "2019-11-28 01:43:28",
+	"files": [
+		{
+			"filename": "bfi.wad",
+			"size": 4815312,
+			"crc": 343179647,
+			"md5": "46ae260b19844651c31e025b0cffc1c9",
+			"sha1": "1b831be96935cfcf7b85f027237fc0fc9a46301e",
+			"sha256": "267244559f159a464142eb11c9bb1d67d386d38fb6eca55ec578d7326d668399"
+		}
+	]
+}

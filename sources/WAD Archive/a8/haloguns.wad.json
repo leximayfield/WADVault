@@ -1,0 +1,16 @@
+{
+	"uid": "haloguns.wad",
+	"name": "Haloguns",
+	"description": "No, this isn't the over-hyped Haloguns2. Sorry. Actually, this is the first verison of Haloguns, which used DeHackEd to create the weapons. Here's where it all began. This mod replaces all weapons in Doom/Doom2 With ones from Halo, except the BFG. Lotsa fun, although the game is rather unbalanced at times. Almost all the guns are more powerful than the Doom version they replace. Also replaces some pickups.",
+	"date": "2014-12-11 22:16:51",
+	"files": [
+		{
+			"filename": "haloguns.wad",
+			"size": 955758,
+			"crc": 2806512808,
+			"md5": "a71ad88dbce913be1ace92d06e604402",
+			"sha1": "a849438a2f04a74f51b6e80d4dad9d5ea68b2e55",
+			"sha256": "2c08c5c0788f8b66036643ec725eaf07a5687a8aabf5c32a4b0f346845abd58c"
+		}
+	]
+}

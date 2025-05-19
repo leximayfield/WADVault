@@ -1,0 +1,16 @@
+{
+	"uid": "eondm1.wad",
+	"name": "Eon Deathmatch",
+	"description": "16+2 maps suitable for 1on1, FFA, TDM.",
+	"date": "2014-03-19 11:46:39",
+	"files": [
+		{
+			"filename": "eondm1.wad",
+			"size": 4310845,
+			"crc": 575704101,
+			"md5": "d0c7e3390772c36971c8e2c64fbbee84",
+			"sha1": "f3b7ff38ef651660fcc841248675773f1dbf1ee8",
+			"sha256": "1f75bc5d6e02b4f52ac8fc26c5bea2685ea03582d0d212cd00425ae0e75719bb"
+		}
+	]
+}

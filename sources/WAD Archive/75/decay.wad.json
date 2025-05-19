@@ -1,0 +1,16 @@
+{
+	"uid": "decay.wad",
+	"name": "Relentless Decay",
+	"description": "This is a challenging 2 map that encourages you to use ammo wisely. Story: You awake in a room and as usual, you have no clue where you are. This is starting to get annoying, 19 years after defeating the boss of hell, you are still stuck in an endless cycle of waking up in places unbeknown to you, surrounded by more demons. \"It seems like I've lived hundreds of lives, yet accomplished nothing in any of them\", you think to yourself, \"Well at least at least I still have my shotgun\".",
+	"date": "2014-12-24 17:56:59",
+	"files": [
+		{
+			"filename": "decay.wad",
+			"size": 3175835,
+			"crc": 815008383,
+			"md5": "442168b695f88e36127dafb7226f337f",
+			"sha1": "75eabb07c5929ff5c2af03fb199e504b7e9a1bd9",
+			"sha256": "b386a31366e693667a76d503d8830b2fcf1cf48187569eae41298b85ff615230"
+		}
+	]
+}

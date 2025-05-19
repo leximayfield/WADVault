@@ -1,0 +1,17 @@
+{
+	"uid": "machine (76bcc2).wad",
+	"name": "The Machine",
+	"description": "Just your typical tech level with some gore mixed in.",
+	"version": "76bcc2",
+	"date": "2015-09-15 13:33:53",
+	"files": [
+		{
+			"filename": "machine.wad",
+			"size": 86085,
+			"crc": 422096237,
+			"md5": "2bf38d24f1e88266165fa1885c9548b6",
+			"sha1": "76bcc2834284adbc2cab7a7e0261cfe7ffafa766",
+			"sha256": "3a0dc51569f132735c9fb66deb10fd8ddd9d3d78e0fa780fc141ace5f4a0c5fc"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "trtccdemo.wad",
+	"name": "TRTCCDemo",
+	"description": "The RTC Corporation (TRTCC). This is the intro, map 01, the demo.",
+	"date": "2014-12-29 15:37:22",
+	"files": [
+		{
+			"filename": "trtccdemo.wad",
+			"size": 632444,
+			"crc": 483913144,
+			"md5": "551e4bc613f67bd01eea070e3055de4d",
+			"sha1": "dee0739a35dc73058afe34e5036e1b70e73a4bd7",
+			"sha256": "33e20838c81e117e5550e08ebd080a224f210bf06aa73f8959e76aebf20ae5af"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "teamfrag (06d028).wad",
+	"name": "TEAM FRAG",
+	"description": "A deathmatch level designed for 2 on 2 competition. Four players are required.",
+	"version": "06d028",
+	"date": "2013-11-02 15:46:40",
+	"files": [
+		{
+			"filename": "teamfrag.wad",
+			"size": 33778,
+			"crc": 1370668523,
+			"md5": "9743edf029cf395b6a297be1c9f8108a",
+			"sha1": "06d0282fc722218324df53fa7ae5cbb637348731",
+			"sha256": "df1edb43d69e1c87ec0afdbdbd862ab2e7a40599f67d0c45f52d508dfb3f82ed"
+		}
+	]
+}

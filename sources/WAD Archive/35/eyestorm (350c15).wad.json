@@ -1,0 +1,17 @@
+{
+	"uid": "eyestorm (350c15).wad",
+	"name": "Eye of the Storm.",
+	"description": "My first PWAD. It got out of hand and grew and grew. Lots of secrets. Many ideas, puzzles and aesthetic rooms in there. Much better than the original E1M8! (Though not mean't as a replacement)",
+	"version": "350c15",
+	"date": "2014-12-03 20:11:22",
+	"files": [
+		{
+			"filename": "eyestorm.wad",
+			"size": 385308,
+			"crc": 321322741,
+			"md5": "decf0873af5ee8722b4022c8b8b10c7a",
+			"sha1": "350c15ffc6288716519bbfe2142f5e3cbe6c89a2",
+			"sha256": "6a2ac238e4e41ba30866b75e70e2092428f74aea33efb36c05b088136c2cf280"
+		}
+	]
+}

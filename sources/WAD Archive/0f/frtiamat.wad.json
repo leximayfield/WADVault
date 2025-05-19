@@ -1,0 +1,16 @@
+{
+	"uid": "frtiamat.wad",
+	"name": "Fort Tiamat",
+	"description": "A short techbase map. Difficulty settings had very little thought put into them, to the point where there might as well be none. Honestly not my best work.",
+	"date": "2016-06-17 00:28:49",
+	"files": [
+		{
+			"filename": "frtiamat.wad",
+			"size": 90060,
+			"crc": 1604266269,
+			"md5": "e060a61e2b04b00df9bdd5c1ee4ecd30",
+			"sha1": "0f3358f15b446effcf4a6e95bfbbb843bb69d27a",
+			"sha256": "31e723881306044539c5ac46e0f4f8b708ad5a98049ff670a8490b2582dd022b"
+		}
+	]
+}

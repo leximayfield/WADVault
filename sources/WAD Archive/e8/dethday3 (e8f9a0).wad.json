@@ -1,0 +1,17 @@
+{
+	"uid": "dethday3 (e8f9a0).wad",
+	"name": "Day of Deathmatch 3",
+	"description": "A deathmatch only wad. Based on ideas gathered from other wads.",
+	"version": "e8f9a0",
+	"date": "2014-12-03 20:18:07",
+	"files": [
+		{
+			"filename": "dethday3.wad",
+			"size": 60781,
+			"crc": 2559531064,
+			"md5": "254575e22b44d558dd84694aa5f2fad6",
+			"sha1": "e8f9a0ae00b769864c9705ab54a00066366600a3",
+			"sha256": "34b2a593a8a2a2237ebccf8ccbab982d3d0e96de9628e17347765a65331f18af"
+		}
+	]
+}

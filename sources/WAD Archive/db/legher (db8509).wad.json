@@ -1,0 +1,17 @@
+{
+	"uid": "legher (db8509).wad",
+	"name": "Legacy of Heroes",
+	"description": "Legacy of Heroes is a Boom compatible episode for Doom 2 with 11 levels. The maps use the textures from Eternal Doom and the themes for the most are fantasy oriented. The maps also feature a more adventurous style and the level progression was made to make feel the episode like a continuous journey. Some levels are very long and all of them were desgned with pistol starts in mind. The last level has a custom dehacked boss. This is the first wad I started to work on it, the development started in March 2015 and ended in October 2016 though works weren't continuous.",
+	"version": "db8509",
+	"date": "2018-03-28 00:20:34",
+	"files": [
+		{
+			"filename": "legher.wad",
+			"size": 21478226,
+			"crc": 3693607553,
+			"md5": "03d92ba5030fd2f5d7919b642451c02a",
+			"sha1": "db85094933a49bb269ed61b0fe7548dddc9c3c0b",
+			"sha256": "f913d9122b997051159165966b1124c60c7591df2ba808de3b724934c232c557"
+		}
+	]
+}

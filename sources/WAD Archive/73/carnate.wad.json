@@ -1,0 +1,16 @@
+{
+	"uid": "carnate.wad",
+	"name": "Incarnate",
+	"description": "Short map I made, provides a little bit of challenge to the player.",
+	"date": "2014-12-21 16:52:45",
+	"files": [
+		{
+			"filename": "carnate.wad",
+			"size": 488276,
+			"crc": 1501083915,
+			"md5": "860a6e3f03937996f54241d69dd8afa3",
+			"sha1": "739fe6125e26704c488bd975a667f239106557ed",
+			"sha256": "5232ea1d16b5aaba61a9dbb363f3f624538ea9d283a846d7603cddcde6563b70"
+		}
+	]
+}

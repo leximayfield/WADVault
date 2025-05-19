@@ -1,0 +1,17 @@
+{
+	"uid": "fear (eee6fa).wad",
+	"name": "Fear.wad",
+	"description": "Arriving at an an abandoned military complex, you discover it's not so empty anymore.",
+	"version": "eee6fa",
+	"date": "2013-11-02 15:08:32",
+	"files": [
+		{
+			"filename": "fear.wad",
+			"size": 141175,
+			"crc": 2027518101,
+			"md5": "0d0eefec427ed331be7b88a39f49a0bf",
+			"sha1": "eee6fa3888b6168645cacb2464f75cd1c2ab46ab",
+			"sha256": "598067a055a7cb7a92ce6bba67b4ded896f8fc5186259dd4b49c3dbbde5d6df8"
+		}
+	]
+}

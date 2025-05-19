@@ -1,0 +1,17 @@
+{
+	"uid": "mine (852d81).wad",
+	"name": "The Mine",
+	"description": "A stage based on an abandoned mine of some sort. I guess the old plot of monsters invading the mine would work, but it's a damn fine level. I've moved on to other things, but every now and then I play this level just to remind me how good DOOM can be.",
+	"version": "852d81",
+	"date": "2015-09-15 17:14:47",
+	"files": [
+		{
+			"filename": "mine.wad",
+			"size": 421784,
+			"crc": 2333164916,
+			"md5": "a89382e595a34846a2fc851dc0172c42",
+			"sha1": "852d8121ee2763b8377922dae69387dfe2b66869",
+			"sha256": "37da02f41ba9bc165613e3517442ab08b4c4e86d267ef92de8c25af61f99f956"
+		}
+	]
+}

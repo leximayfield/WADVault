@@ -1,0 +1,16 @@
+{
+	"uid": "hexquake (0db80c).wad",
+	"name": "HexQuake for HEXEN  Final 1.0",
+	"version": "0db80c",
+	"date": "2014-12-31 12:12:04",
+	"files": [
+		{
+			"filename": "hexquake.wad",
+			"size": 524868,
+			"crc": 454598663,
+			"md5": "c51eae90e16b10576044d00e50e0c973",
+			"sha1": "0db80c1b986096a9285db2ac717a20ba5c2febe4",
+			"sha256": "f4280c16dd8fa94376f74b9cf94d93a2379726781f518da985cb0e1fee0c8a99"
+		}
+	]
+}

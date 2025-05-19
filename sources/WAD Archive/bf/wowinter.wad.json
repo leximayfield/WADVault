@@ -1,0 +1,16 @@
+{
+	"uid": "wowinter.wad",
+	"name": "World of Winter",
+	"description": "LOAD WITH CC4 TEXTURES AND PLAY WITH GZDOOM. ALLOW JUMPING AND CROUCHING. \"World of Winter\" is a single-player map originally disguised as a \"wow.wad\" joke. The goal was to trick the player into assuming that this wad/map was a regularly playing map until they fall into a HOM pit with a cyberdemon. Special thanks to: \"Ed the Bat\", \"THE ULTRA ATOMIC!\", \"Enjay\", \"mouldy\", \"Memfis\", \"Obsidian\" and a few others for playing through this wad.",
+	"date": "2014-12-29 17:07:13",
+	"files": [
+		{
+			"filename": "wowinter.wad",
+			"size": 515778,
+			"crc": 2765511611,
+			"md5": "2d54a0917feff823bf90216b47c8d8de",
+			"sha1": "bf2412e572c24bdae298aee60fccdeed35228236",
+			"sha256": "22272a219c1e297a545095cf0b6b25f593e69b725266f07f4244b4f7218d6926"
+		}
+	]
+}

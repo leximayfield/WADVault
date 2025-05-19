@@ -1,0 +1,17 @@
+{
+	"uid": "dethrace (519ce8).wad",
+	"name": "DETHRACE",
+	"description": "This level was designed for multi player Deathmatch! Highest weapon is the rocket launcher. Some doors are not marked to make it more exciting when you have to find them in a hurry.",
+	"version": "519ce8",
+	"date": "2013-11-04 20:16:44",
+	"files": [
+		{
+			"filename": "dethrace.wad",
+			"size": 236164,
+			"crc": 3129613711,
+			"md5": "a62d7936731a4663c87214a2fcc03ac4",
+			"sha1": "519ce8fb61c0a8ab320660ec2b3fd1b8e8119021",
+			"sha256": "8d29b152db980b5e5837ef927732fbf4d9c262595f1f2a22add3a5da1298634b"
+		}
+	]
+}

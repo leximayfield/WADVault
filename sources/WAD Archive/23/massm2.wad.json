@@ -1,0 +1,16 @@
+{
+	"uid": "massm2.wad",
+	"name": "MassMouth 2",
+	"description": "The adventure continues, and stuff. There isn't any backstory you need to know, thanks to cutscenes, but I suppose having played the first one may help out a bit. To play: zdoom.exe -file massm2.wad You can pretty much stop reading now if you want, but be warned the rest of the text file contains possible spoilers (mainly in the form of URLs). For extra stuff though, keep reading. ===============================================================",
+	"date": "2013-12-01 13:09:39",
+	"files": [
+		{
+			"filename": "massm2.wad",
+			"size": 31214867,
+			"crc": 4031900712,
+			"md5": "75c996f161d4464abf09e05e0d1dbae6",
+			"sha1": "23ac92f27839f96ce6b02d7add7e01dc4a9d0a79",
+			"sha256": "0bebb5544b70ea05dc7287c5b487b09fe66938411a162fb08e6ee5316ebf3d2f"
+		}
+	]
+}

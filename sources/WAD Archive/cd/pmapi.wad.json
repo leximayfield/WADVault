@@ -1,0 +1,16 @@
+{
+	"uid": "pmapi.wad",
+	"name": "Pink Munchers And Pesky Imps (And The Occaisional Cacodemon Or Baron)",
+	"description": "This is DOOM! There's monsters. Kill 'em!",
+	"date": "2014-12-14 20:52:42",
+	"files": [
+		{
+			"filename": "pmapi.wad",
+			"size": 452900,
+			"crc": 3305629061,
+			"md5": "a4869eda886b714b07981c4e1d97d87d",
+			"sha1": "cdcbae296558d5b6ac70504004dd4aa34c99fdd5",
+			"sha256": "d25cd7b390d9a3aead5362df6c81ff5180be9677b70c2031bf122fc15e742d67"
+		}
+	]
+}

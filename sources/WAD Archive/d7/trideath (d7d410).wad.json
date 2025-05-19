@@ -1,0 +1,17 @@
+{
+	"uid": "trideath (d7d410).wad",
+	"name": "Triangle Death",
+	"description": "Deathmatch wad that is meant to use the -altdeath parameter. An lmp is included to \"walk\" you through.",
+	"version": "d7d410",
+	"date": "2013-11-02 15:08:10",
+	"files": [
+		{
+			"filename": "trideath.wad",
+			"size": 68377,
+			"crc": 3514023847,
+			"md5": "37fcaf105687a5fd1677742fc44ff2d1",
+			"sha1": "d7d41010b45abad6ce3bded7dd6ecc9cd01e3263",
+			"sha256": "0501606bac070c2ffad67132b85c181b0c019f7c9dba475a240d90fa993d20ee"
+		}
+	]
+}

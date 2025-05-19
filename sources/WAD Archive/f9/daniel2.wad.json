@@ -1,0 +1,16 @@
+{
+	"uid": "daniel2.wad",
+	"name": "Marble Halls",
+	"description": "A pretty small level with mixed styles. You start out in some green marble halls and continue on to dangerous caverns. Be sure to look for the radiation suit before going after the red key.",
+	"date": "2014-12-24 19:13:56",
+	"files": [
+		{
+			"filename": "daniel2.wad",
+			"size": 92783,
+			"crc": 1102910618,
+			"md5": "884d5bdeb8df6f77792a07b5430f8051",
+			"sha1": "f98dac8ea440d2ce08b0020e7dad0564db3ec561",
+			"sha256": "ef31b0e3852c48ba60a22d2a01966d77c3c3c6b20b05689c3b09148b02684284"
+		}
+	]
+}

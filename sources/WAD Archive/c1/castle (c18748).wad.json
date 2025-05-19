@@ -1,0 +1,17 @@
+{
+	"uid": "castle (c18748).wad",
+	"name": "The Castle",
+	"description": "Somehow getting inside an old English castle, you must find you way out to freedom. Can you survive the underground maze? Will you get out alive?",
+	"version": "c18748",
+	"date": "2014-12-15 22:15:09",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 3470020,
+			"crc": 3275455446,
+			"md5": "6c852d76cc156f0468e82e06b264777e",
+			"sha1": "c18748f2ecbdd065743fe94d2d17c6335338ac51",
+			"sha256": "9e87164dee6a598fba78c952023c1c40e02880d3f60d0b6e4fafd987bc81a5e2"
+		}
+	]
+}

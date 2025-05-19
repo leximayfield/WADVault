@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (4ca393).wad",
+	"name": "The Lava River Fortress",
+	"description": "This level belong to my newly-created \"1500-shock\" series. What does this means? These levels are about 1500 vertexes (!), There is generally new graphic in them, and sometimes new sounds and music. Hey, if you aren't good at DOOM, then don't play this. Or you will have to cheat...a VERY BAD thing! It is a PWAD created for 2-player (or more) games. I can play it even alone, but you? A description of this level: You escaped the sewers of the Fortress, only discovering you left them exiting the wrong side! (stupid...) Then you must return down to the sewers by activating an exiting switch within a hidden elevator on the \"wrong\" side (the start side). But that elevator is locked.... The you must return in the Fortress! Doom onto all you, stupid aliens, for I'm \"Back For DOOM\"!!! (Take This! -Copyright 94-95)",
+	"version": "4ca393",
+	"date": "2014-12-18 22:14:25",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 331104,
+			"crc": 639920746,
+			"md5": "6a18cb28fd6d58b2ce682f070cdcbd35",
+			"sha1": "4ca39346243c7a87609383b28d6c0700690d2c78",
+			"sha256": "740ae2c288b2de1eb383a935a4285467137a3090542f615c0196612d64fdcc60"
+		}
+	]
+}

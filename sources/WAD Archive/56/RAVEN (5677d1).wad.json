@@ -1,0 +1,17 @@
+{
+	"uid": "RAVEN (5677d1).wad",
+	"name": "The Raven",
+	"description": "You are an elite special forces unit known simply as the Raven. Your orders were simple. You and a team of other agents were to infiltrate and destroy a suspected drug cartel headquarters. On your way, you and your buddies ran into some difficulties with the Colombian Army. You got past them, but not in one piece. The only survivor is you, and you'll have to take on the base alone or die trying.",
+	"version": "5677d1",
+	"date": "2015-01-14 22:52:35",
+	"files": [
+		{
+			"filename": "RAVEN.wad",
+			"size": 161451,
+			"crc": 727472201,
+			"md5": "cadc821117fcca4655622a1b9b8c4f77",
+			"sha1": "5677d1b1f89e30cd7a102ab8e2aa0249efd4ca27",
+			"sha256": "354ecc76795a2a363656f46e3110c598c5d995e6284e9c4625011148de1b2415"
+		}
+	]
+}

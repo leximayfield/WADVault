@@ -1,0 +1,17 @@
+{
+	"uid": "chains (2abcab).wad",
+	"name": "Chains",
+	"description": "Chainguns, Chainsaws, barrels and a dark room. Deathmatch doesn't get any better than this!",
+	"version": "2abcab",
+	"date": "2013-11-04 19:20:30",
+	"files": [
+		{
+			"filename": "chains.wad",
+			"size": 41245,
+			"crc": 1712868648,
+			"md5": "a45790c4524d18953433271ad1d0e74b",
+			"sha1": "2abcab7c046fa6b531891655e57564097c3352d0",
+			"sha256": "a8ee899b56ab3985284f0e7a032534fc503d39771101c514619df2d5c82c3a3a"
+		}
+	]
+}

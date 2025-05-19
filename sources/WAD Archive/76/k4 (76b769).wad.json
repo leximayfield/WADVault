@@ -1,0 +1,17 @@
+{
+	"uid": "k4 (76b769).wad",
+	"name": "The MazeWorks",
+	"description": "Well, this is the fourth level of mine. I think it is better than the others, mainly in that the construction is more complex sice I switched to DEU... Umm... lessee, It's fun to play alone, but it's even better with one or more \"friends\" for cooperative or :) deathmatch.. It's called the mazeworks because there are three seperate mazes, none too complex, but one with some walls that won't be on the map... have fun with that one. Also included is a PWAD called sounds, which makes some minor sound changes to the \"Demon Soldiers\"... use it if you like, but I didn't want to force it on everyone who played the level...",
+	"version": "76b769",
+	"date": "2013-11-02 15:21:26",
+	"files": [
+		{
+			"filename": "k4.wad",
+			"size": 217740,
+			"crc": 712568277,
+			"md5": "5232aa33e0af794b89db84e1f35bdf28",
+			"sha1": "76b7694db04a0167a92dcec623c3884a15550a45",
+			"sha256": "8e326ab2d6a0fdb10694ee8c92517f06294fd981026538f6355960c1d8e78239"
+		}
+	]
+}

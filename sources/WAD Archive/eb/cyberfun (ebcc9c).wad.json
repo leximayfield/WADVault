@@ -1,0 +1,17 @@
+{
+	"uid": "cyberfun (ebcc9c).wad",
+	"name": "CyberFun",
+	"description": "It's a collection of my four wads. Evryone is very huge and difficult (poor health) - you should save often. There are few secrets but I can't remember if you have to find them to exit the level because I made these levels long time ago :).",
+	"version": "ebcc9c",
+	"date": "2014-12-15 21:42:13",
+	"files": [
+		{
+			"filename": "cyberfun.wad",
+			"size": 1256163,
+			"crc": 229696313,
+			"md5": "44c6d57f1f5290d97ec10ac77e1ee5b6",
+			"sha1": "ebcc9c6fc2f0af193b69d6af08c34302324546de",
+			"sha256": "b8b3632b5af8eb788a27ba5097fb62ec8847c08caa17c353780b5c5ef047cedc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "shadows (0f911c).wad",
+	"name": "Shadows in Bronze",
+	"description": "Single player only.",
+	"version": "0f911c",
+	"date": "2013-04-18 23:46:11",
+	"files": [
+		{
+			"filename": "shadows.wad",
+			"size": 212768,
+			"crc": 1198004163,
+			"md5": "0d21b5aba3ef9b951f5eaaac364e6a7d",
+			"sha1": "0f911c5fd5c230471249db632d49cbf13e032102",
+			"sha256": "ef1a6ffb5cb4aa4dd72b862bbdd5f8d610973c619e30693656a93e631bd4fb55"
+		}
+	]
+}

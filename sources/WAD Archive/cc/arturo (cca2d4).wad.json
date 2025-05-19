@@ -1,0 +1,17 @@
+{
+	"uid": "arturo (cca2d4).wad",
+	"name": "Man the Mandala",
+	"description": "A mandala is an eastern painting or art piece, usually circular in motif with a central point of origin. It is used as a cognitive centering device for meditation. The idea is to immerse yourself in the art work, which in the process would bring you to a space where you can overcome your \"demons,\" so to speak, and come to some resolution. When I first saw Doom, I knew it would be a perfect place to put a Mandala in... demons, resolution to higher levels and immersion.... \"Man the Mandala\" is my first attempt at playing with this concept. I use some eastern symbolism interspersed with some very western ones, which may or may not be obvious. At any rate, it certainly is a lot more fun and immediate than sitting in a lotus position, following your breath to point on a painting on a wall...which can be fulfilling, but is certainly a hell of a lot more work and not necessarily fun!",
+	"version": "cca2d4",
+	"date": "2016-02-07 20:35:55",
+	"files": [
+		{
+			"filename": "arturo.wad",
+			"size": 85705,
+			"crc": 357226973,
+			"md5": "9de0e469360570c2dd209042eb7caebb",
+			"sha1": "cca2d4af676845bc91d73bf4ddaec6a333bf88a2",
+			"sha256": "9f144c4d18e8a4f506177401c7228844c87f7b95be08f5c955751a576f433ba1"
+		}
+	]
+}

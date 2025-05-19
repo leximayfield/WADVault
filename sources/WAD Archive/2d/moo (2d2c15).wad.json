@@ -1,0 +1,17 @@
+{
+	"uid": "moo (2d2c15).wad",
+	"name": "MOO.WAD",
+	"description": "Modified level of Id's level 1 Extremely good for deathmatch!!!!!!!!!!!!!!!!!",
+	"version": "2d2c15",
+	"date": "2014-01-11 11:12:37",
+	"files": [
+		{
+			"filename": "moo.wad",
+			"size": 91178,
+			"crc": 2319326004,
+			"md5": "60ff15562afa66b0d07737b3b0f35e69",
+			"sha1": "2d2c15cf6a5a207b6b4d0787ce3b497b46021873",
+			"sha256": "fb4ec70dc6e5c4aa88b12b9e223463436f692efbd3a9affa89e955ea30c2586a"
+		}
+	]
+}

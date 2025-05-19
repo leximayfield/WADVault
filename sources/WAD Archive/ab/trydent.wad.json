@@ -1,0 +1,16 @@
+{
+	"uid": "trydent.wad",
+	"name": "TRYDENT.WAD aka TRIDENT (I wanted to call it",
+	"description": "You have been captured by an unknown enemy, and now find yourself in a dark, bloody dungeon. The only way to get out seems to be a dimly lit hole in the wall. What dangers lie behind it??",
+	"date": "2015-01-14 14:43:42",
+	"files": [
+		{
+			"filename": "trydent.wad",
+			"size": 118450,
+			"crc": 1960226378,
+			"md5": "38bddba4eeb28a11ef278b141007ee72",
+			"sha1": "abbd69b01895dfe883e72912b36caa1f2acc7f3a",
+			"sha256": "cdc3568a8dd3ea6c9e848c283265f88be1cd0b89d0e98b2433c43af7ee9830de"
+		}
+	]
+}

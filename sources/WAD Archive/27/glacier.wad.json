@@ -1,0 +1,16 @@
+{
+	"uid": "glacier.wad",
+	"name": "Glacier Base",
+	"description": "The setting for this map is a base located inside a glacier, so \"Glacier\" is not just a clever name. :) Anyway, this abandoned base is a pistol-only level (aside from secrets) and is meant to possibly be the first in a set of maps of some sort. Primarily designed for single-player, but I think it would be great for DM as well.",
+	"date": "2014-12-24 19:11:14",
+	"files": [
+		{
+			"filename": "glacier.wad",
+			"size": 328220,
+			"crc": 3907779196,
+			"md5": "3cc0191e3bb3d171fe3f501bab0c99ac",
+			"sha1": "275fb2b3d1be5a12eef85e0fcd6e860ef8f4b150",
+			"sha256": "6f4932661adb5a6f30a532256a26712c126bea2ae11efe0985896210f735debd"
+		}
+	]
+}

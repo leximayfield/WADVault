@@ -1,0 +1,16 @@
+{
+	"uid": "foo.wad",
+	"name": "First One Out",
+	"description": "This PWAD replaces level one of DOOM II. It was designed as a Deathmatch Level with a new twist. The object of the level is to be the first one to hit the exit switch. Sounds easy doesn't it? Well it's harder than you think. Just try it and see. It's a lot of fun.",
+	"date": "2014-12-15 21:20:37",
+	"files": [
+		{
+			"filename": "foo.wad",
+			"size": 151162,
+			"crc": 3096184640,
+			"md5": "aad15c5a44d4cf02027537a438a6f26e",
+			"sha1": "a4a844315e5df5c476c27d9a29f590c7db7373bf",
+			"sha256": "69f4067e95e48270ca8645e0001b82b970eb6f250b925ba7729a64b7300bcb25"
+		}
+	]
+}

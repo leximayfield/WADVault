@@ -1,0 +1,16 @@
+{
+	"uid": "grinava.wad",
+	"name": "The assault on Grinava",
+	"description": "Demons have invaded a remote UAC outpost, and you have been teleported in to stop them.",
+	"date": "2014-12-24 19:11:59",
+	"files": [
+		{
+			"filename": "grinava.wad",
+			"size": 3019953,
+			"crc": 3883672774,
+			"md5": "6c7cfb7b76f743bd795101084fe13a09",
+			"sha1": "4b7cd29d22b3dc2c8b05e250c0737d88f1081cff",
+			"sha256": "555084b8f69307a05de0b1361e1cb81062e8e71d9ff3aeeb659f4386f7c10b91"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bliss (c49bc9).wad",
+	"name": "Bliss",
+	"description": "A massive level based on my house. My house is two stories, so I used teleporters to simulate the two levels. I think that the end result is impressive.",
+	"version": "c49bc9",
+	"date": "2016-02-07 20:34:16",
+	"files": [
+		{
+			"filename": "bliss.wad",
+			"size": 152682,
+			"crc": 1247022405,
+			"md5": "ff35ed654f1d2a4a5dd895635e3c05aa",
+			"sha1": "c49bc9f05490972975d9129dd4f420c775cc72cb",
+			"sha256": "75c09bef58022b9134b8b244fb30b5144bc2479c37e2d3f893e01a562ee29106"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dt-m16.wad",
+	"name": "M-16a1",
+	"description": "Replaces chaingun with ultra cool M-16 assault rifle. Fires a little faster.",
+	"date": "2014-12-10 22:46:03",
+	"files": [
+		{
+			"filename": "dt-m16.wad",
+			"size": 61044,
+			"crc": 1372556493,
+			"md5": "83a34365a9830297ed283d3ce57a3018",
+			"sha1": "fe1a9534cab6445ff6df16bab62a1e4e6fd99c2e",
+			"sha256": "efe7e45e6718f362b0b07dce15a27c18ae7e87d92cb4c5ce868949e3e49f91da"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "IDBEST.wad",
+	"name": "IDBEST.WAD",
+	"description": "This a huge deathmatch level made by cutting and pasting together parts of e1m1, e1m2, e1m3, e1m4, and e1m5. It's intended for regular deathmatch, and there are no energy weapons. I added a lot more to idmix.wad, and I redid the layout a bit. Idmix.wad was hastily thrown together. Now the the ceiling and floor tiles are properly aligned (at least where it counts) and the exit works :).",
+	"date": "2013-11-02 15:13:29",
+	"files": [
+		{
+			"filename": "IDBEST.wad",
+			"size": 230217,
+			"crc": 1641218220,
+			"md5": "b637594a8e00d42f71e022a30fb9d99b",
+			"sha1": "9cb8d43e08fbe0b36bf873379b0b0ff863166643",
+			"sha256": "5ef382eaeed6538b5e917410034232124223405ff2ed770664a5f54e54337d07"
+		}
+	]
+}

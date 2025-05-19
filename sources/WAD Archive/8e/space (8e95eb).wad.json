@@ -1,0 +1,17 @@
+{
+	"uid": "space (8e95eb).wad",
+	"name": "Space Station Takeover!!",
+	"description": "Months after the second invation you think",
+	"version": "8e95eb",
+	"date": "2015-01-14 22:50:53",
+	"files": [
+		{
+			"filename": "space.wad",
+			"size": 23860,
+			"crc": 1026313527,
+			"md5": "28b27158344f1c2de7c193e4f11c9f20",
+			"sha1": "8e95eb80af041c8ea5398b79c1a92bdb0af7d7c1",
+			"sha256": "344a23d06c4a590dc44e3b80ad09048d1d3ed26c25c6d08dc85c06bc614ce447"
+		}
+	]
+}

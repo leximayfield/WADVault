@@ -1,0 +1,17 @@
+{
+	"uid": "1squares (597524).wad",
+	"name": "SQUARES",
+	"description": "This is extremly hard if not impossible to complete on the hard level. the only bug I know of is that you can't save it on the hardest level.",
+	"version": "597524",
+	"date": "2013-11-02 16:06:17",
+	"files": [
+		{
+			"filename": "1squares.wad",
+			"size": 89234,
+			"crc": 968794356,
+			"md5": "74a82fb17f3cf88db05a3aa825cb74c8",
+			"sha1": "59752494bcdb2b370d047bafacb32f0f529bd581",
+			"sha256": "4fdc37b9c96704720afe75b9647f1cfd2bfc5dc62db23c9619138dce338e36c5"
+		}
+	]
+}

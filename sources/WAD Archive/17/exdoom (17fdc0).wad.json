@@ -1,0 +1,17 @@
+{
+	"uid": "exdoom (17fdc0).wad",
+	"name": "EXDOOM.WAD (EXPERIENCED DOOMERS ONLY!)",
+	"description": "E2M1 replacement PWAD. Named for the reason of having to be really good at doom to play this level.",
+	"version": "17fdc0",
+	"date": "2013-11-02 15:59:50",
+	"files": [
+		{
+			"filename": "exdoom.wad",
+			"size": 105279,
+			"crc": 1649491816,
+			"md5": "858e84639a591de41681e9b7bad014ed",
+			"sha1": "17fdc05932c75612bffdbfb6e8f98014220f804f",
+			"sha256": "2bc9615fdfd8c0d2bc3f392a410b75a5eccf372c448fe6b8db44920d8fa409db"
+		}
+	]
+}

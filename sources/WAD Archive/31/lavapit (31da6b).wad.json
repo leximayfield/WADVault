@@ -1,0 +1,17 @@
+{
+	"uid": "lavapit (31da6b).wad",
+	"name": "Lava Pit DeathMatch",
+	"description": "This is also a small map around 'lilipads' and 'flowers' since the rings are the 'lilipads' and the towers are the 'flowers' while the lava is the 'water', so to speak. Safe spots and Rad Suits are provided yet also playing with Dropped Weapons and No Left Weapons can really provide more screw jobs here like my previous DeathMatch wad. ~Enjoy",
+	"version": "31da6b",
+	"date": "2015-12-29 12:16:35",
+	"files": [
+		{
+			"filename": "lavapit.wad",
+			"size": 71530,
+			"crc": 2819034386,
+			"md5": "6d2ed456d5dc4d6257e3e2850644ea36",
+			"sha1": "31da6bf90278aab932cff8f9dc1f567ba0988840",
+			"sha256": "a62b8179ea3ff5a5b8e4169e03b20a3c0b8859452770f28ab147c80acfa1e81a"
+		}
+	]
+}

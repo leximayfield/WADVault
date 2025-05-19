@@ -1,0 +1,16 @@
+{
+	"uid": "lslsp_gd.wad",
+	"name": "LOST SOULSPHERE: Gold Edition",
+	"description": "Well, after the \"success\" of the original Lost Soulsphere, I looked back at it and found a few things I wanted to change. I messed around, and I came up with this. The Gold Edition has alot of new stuff, such as better music, enemy sounds, and a whole lot more. See below for the complete list of changes from the original.",
+	"date": "2015-01-05 16:18:12",
+	"files": [
+		{
+			"filename": "lslsp_gd.wad",
+			"size": 8826901,
+			"crc": 120493876,
+			"md5": "35cbebda3f29732b28fcb50362577c1c",
+			"sha1": "6580f1fff462682a8839618e5450286495d0574e",
+			"sha256": "a74ffa7f1da689334fedf871935bdddd0e5e9bb404d3e247bf4bb92e44d93070"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "FRICASSE.wad",
+	"name": "Fricassee",
+	"description": "These are maps I made for a now abandoned vanilla project. The two maps contain 34 and 69 things, respectively. A DEH patch was made postmortem for the second map. To run in Chocolate Doom, use the -merge command. The second map also uses a vanilla conveyor...",
+	"date": "2019-12-04 02:24:47",
+	"files": [
+		{
+			"filename": "FRICASSE.wad",
+			"size": 823506,
+			"crc": 2297520003,
+			"md5": "635a772c959af73c1c07face49f722dc",
+			"sha1": "ef6ca3d44933b6576ee0b55d16825a31b72bf54d",
+			"sha256": "b94f8c5e94c24dc9651dbeab04686c789e8bc900faab63d36c82a1a43322f0c3"
+		}
+	]
+}

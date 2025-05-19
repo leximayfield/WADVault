@@ -1,0 +1,16 @@
+{
+	"uid": "slantdm2.wad",
+	"name": "Slanted Deathmatch",
+	"description": "A really nice DM map I threw together in about 2 days. This is my first ever map release to the public.. But I've beene editing Doom(2) for about 3 years.",
+	"date": "2014-12-15 22:36:27",
+	"files": [
+		{
+			"filename": "slantdm2.wad",
+			"size": 89624,
+			"crc": 3463664441,
+			"md5": "a05f6afe2c4791608376b5d9fdf43f30",
+			"sha1": "d7bd23495428c06c0d48d143071a8837604fdda2",
+			"sha256": "5b954c175714a55bf9592592c6381760724d08ecb1326eef1447d229bf68135e"
+		}
+	]
+}

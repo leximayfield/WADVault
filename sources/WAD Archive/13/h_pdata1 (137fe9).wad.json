@@ -1,0 +1,17 @@
+{
+	"uid": "h_pdata1 (137fe9).wad",
+	"name": "Pro-Data DeathMatch Wad For Heretic #1",
+	"description": "A Big, fast-action Heretic Deathmatch Wad. Good ambush spots, but don't stay in one spot too long. This is a frag-a-second style wad. With 4 players, someone will always be getting fragged.",
+	"version": "137fe9",
+	"date": "2013-11-02 16:40:37",
+	"files": [
+		{
+			"filename": "h_pdata1.wad",
+			"size": 273283,
+			"crc": 3876789639,
+			"md5": "d4dd2d1bf619519a5c049925add04050",
+			"sha1": "137fe955ac3ca98644bf886bd09576645abf7b5f",
+			"sha256": "67e9f12f8a843f047f25929b255e2a1e65358b57f3fa5cf8ea67519fc29dc05a"
+		}
+	]
+}

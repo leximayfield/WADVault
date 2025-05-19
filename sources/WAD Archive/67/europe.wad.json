@@ -1,0 +1,16 @@
+{
+	"uid": "europe.wad",
+	"name": "Europe",
+	"description": "This is a huge giant map thtat try to emulate ambients of the real life, including Castle, Subway, City, and some more. All of them only using DooM original textures.",
+	"date": "2014-12-18 22:39:28",
+	"files": [
+		{
+			"filename": "europe.wad",
+			"size": 4407882,
+			"crc": 489470318,
+			"md5": "e764fa8149fa7c7372ad6c9ae11d3e5a",
+			"sha1": "67726a138c8de74b630ce5adee641a163e62873a",
+			"sha256": "929cbe26bf8fa6e7b759edb8b5d46596f71eded99f23fd754234bcfe06d12d83"
+		}
+	]
+}

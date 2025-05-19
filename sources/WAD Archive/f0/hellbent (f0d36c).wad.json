@@ -1,0 +1,17 @@
+{
+	"uid": "hellbent (f0d36c).wad",
+	"name": "Hell Bent",
+	"description": "First proper map release from myself. Single level on E2M4, designed for Hellbent on the Doomworld forums who requested a map: \"make me a dungeon level with GSTONE as the dominent theme. It should be dark, dingy and damp. Something with the atmosphere of e3m4, perhaps, but more interesting as the gstone portion of that level is a bit simple. I'd like it to be somewhat puzzle-oriented, in that a dungeon should require a little bit of puzzling out to find the way forward. Secrets, of course, should be part of the deal. Monster count should be on the low side, and the level shouldn't be too hard and should start out rather easy.\" Seems to fit the bill.",
+	"version": "f0d36c",
+	"date": "2014-12-13 17:47:13",
+	"files": [
+		{
+			"filename": "hellbent.wad",
+			"size": 210967,
+			"crc": 1677754628,
+			"md5": "362baa3e9406ae52667ba3f44c0b362e",
+			"sha1": "f0d36ca7dbd8dcc973fd141adb521d383e7741d6",
+			"sha256": "e57742846434efb22b23ba556f9fd8f4f056cbf635f5967af5a0eec36a36bf3e"
+		}
+	]
+}

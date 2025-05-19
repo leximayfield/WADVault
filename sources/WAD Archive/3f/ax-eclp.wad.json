@@ -1,0 +1,16 @@
+{
+	"uid": "ax-eclp.wad",
+	"name": "Eclipse",
+	"description": "Eclipse is a weapons, monsters and engine mod for GZDoom. (My first wad ever :D) It updates the old Doom weapons to make them more modern, adds a custom HUD and a new Armor system. WEAPONS: Handgun Primary fire - Fire bullets Secondary - Load Dum-Dums (If available) Can obtain upgrade via the backpack Tactical 12-Gauge Primary Fire - Standard fire Secondary Fire - Reload Can obtain upgrade via the backpack Sawn-Off Shotgun Primary Fire - Both Barrels Secondary - One barrel Cerberus Primary Fire - Napalm stream Secondary Fire - N/A Ice Cannon Primary Fire - Launch Ice shards Secondary Fire - Freezer Spray Missile Launcher Primary Fire - Normal Missiles Secondary Fire - Homing Missiles Matter Accelerator Cannon Primary Fire - Burst Fire Secondary Fire - Energy Blast BFG 3.1 Primary Fire - Disintegrator Ball Secondary Fire - N/A ARMOR: Booster Armor (Green) - Increases Mobility Mirror Armor (Silver) - Reflect Enemy Missiles Icarus Armor (Blue & Gold) - Flight Nemesis Armor (Red) - 100% Protection, Red Glow The Doom 64 resources are from the Doom 64 TC The custom weapons and armor graphics were made by me.",
+	"date": "2014-12-10 21:59:44",
+	"files": [
+		{
+			"filename": "ax-eclp.wad",
+			"size": 6047701,
+			"crc": 3139939649,
+			"md5": "ee22576a988a7c70c60547aca4d43116",
+			"sha1": "3fefd055df789f6fc68a0a1641b62da4d9bc0ec1",
+			"sha256": "59c52b2bbd42fd373558f924ac23d4285c144a54d066a3f7cc7e6c0c6121aa58"
+		}
+	]
+}

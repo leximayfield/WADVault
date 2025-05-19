@@ -1,0 +1,16 @@
+{
+	"uid": "pwp.wad",
+	"name": "Play When Bored",
+	"description": "I made this while bored. It has no real inspiration, just contructed a starting room and an exit room and created rooms to fit in between. It's nothing I'm very proud of, just something that plays pretty well.",
+	"date": "2014-12-29 09:00:22",
+	"files": [
+		{
+			"filename": "pwp.wad",
+			"size": 81919,
+			"crc": 3109897852,
+			"md5": "75b2275a8cc68db1006afb64e50cee4c",
+			"sha1": "069c03213ac9ba14b71d166392e3e72ba157ef74",
+			"sha256": "cf0160ed43949d8870c10d2de2af4f01a2e5293026dad1e58dc782abe45ade39"
+		}
+	]
+}

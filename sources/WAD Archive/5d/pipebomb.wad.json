@@ -1,0 +1,16 @@
+{
+	"uid": "pipebomb.wad",
+	"name": "Pipebomb v1.0",
+	"description": "This add-on will change your rocket launcher into pipebombs from Duke Nukem 3D",
+	"date": "2014-12-10 22:45:57",
+	"files": [
+		{
+			"filename": "pipebomb.wad",
+			"size": 63732,
+			"crc": 1863717106,
+			"md5": "5ad270d5c4e139524d073f26394495e9",
+			"sha1": "5d08d70847378b1d5710e908761c85cd3eddc611",
+			"sha256": "9f4e97f450afa135de670da8c25d887c9c4f723deec586b9bac7dea1ff6f9a61"
+		}
+	]
+}

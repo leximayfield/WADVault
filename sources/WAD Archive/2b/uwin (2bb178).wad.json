@@ -1,0 +1,17 @@
+{
+	"uid": "uwin (2bb178).wad",
+	"name": "You win!",
+	"description": "Doom2 DEATHMATCH wad with windows and snipers positions. Also a few secret doors with exta weapons. Almost all the enemy's are in one area so you can avoid them if you like... It's not too big so you'll meet your \"friends\" often!",
+	"version": "2bb178",
+	"date": "2014-12-03 20:07:45",
+	"files": [
+		{
+			"filename": "uwin.wad",
+			"size": 53078,
+			"crc": 2112020270,
+			"md5": "1200482b5c6cd758ad023440f36da68c",
+			"sha1": "2bb178bc92ce87ea32f8d8d1cf7dbe4547347a8d",
+			"sha256": "59457f9dffb32c8475264fb9bf028d10d662edf972cfd5b66afaccc74f220b82"
+		}
+	]
+}

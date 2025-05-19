@@ -1,0 +1,16 @@
+{
+	"uid": "harmmod.pk3",
+	"name": "Harmony Mod Base",
+	"description": "Base file for use in creating mods for Harmony 1.1 or later. When Harmony 1.0 was release I had trouble running it on Linux. My solution was to translate the DeHackEd patches into modern lumps, which allowed me to play the game. I submitted the lumps to t.v., but he didn't want them since he hasn't learn to use the new formats yet. In any case I feel that the lump can still be useful for anyone who may want to create a mod for Harmony (particularly more elaborate ones). In addition I didn't my effort to go to waste. There is one difference in my patch that I recall is that the hand grenades do not have autoaim, but this can easily be reverted.",
+	"date": "2015-09-15 16:17:01",
+	"files": [
+		{
+			"filename": "harmmod.pk3",
+			"size": 9947,
+			"crc": 1843555204,
+			"md5": "947baffc2a2c15c4700d330ea93cc544",
+			"sha1": "e32c2a12ca1e273472a223c67e11078bb4613446",
+			"sha256": "ea7d5ea5c791f363b65d94b12bb24e23d409c777e600446d3dc9a695bfe79a48"
+		}
+	]
+}

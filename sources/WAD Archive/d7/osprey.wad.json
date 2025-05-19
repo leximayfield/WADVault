@@ -1,0 +1,16 @@
+{
+	"uid": "osprey.wad",
+	"name": "OSPREY.WAD",
+	"description": "You are free! Take to the skies in this Hexen wad designed for intense aerial combat. The lightning crashes around you, briefly illuminating the surrounding landscape.",
+	"date": "2018-06-15 11:26:47",
+	"files": [
+		{
+			"filename": "osprey.wad",
+			"size": 19185,
+			"crc": 3951768939,
+			"md5": "c1b9d7b523348a4463e6758ea0e9cdb0",
+			"sha1": "d7c7ca8974c6ef94ae33e0126dca99e8cb663383",
+			"sha256": "b4e1c9b22f7d7f206dbd3581439c1172a12323c1b8e9c827941cf3a7ca697bf9"
+		}
+	]
+}

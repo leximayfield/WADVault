@@ -1,0 +1,16 @@
+{
+	"uid": "saxets.wad",
+	"name": "saxet",
+	"description": "This is the first published level done by me. It's for doom 2, if u haven't noticed.",
+	"date": "2014-12-15 22:45:57",
+	"files": [
+		{
+			"filename": "saxets.wad",
+			"size": 90754,
+			"crc": 4084121979,
+			"md5": "8f2407cb5855bea5ddb258ff165f9ef9",
+			"sha1": "f5c549c90e8edacfcc4ad70ebe09da0cb7510ee8",
+			"sha256": "fff35024bf800db18b93b808c6eb32aa76de3ee731405b4016715689266f14cb"
+		}
+	]
+}

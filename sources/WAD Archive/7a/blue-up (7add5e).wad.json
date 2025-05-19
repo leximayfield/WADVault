@@ -1,0 +1,17 @@
+{
+	"uid": "blue-up (7add5e).wad",
+	"name": "BLUE-UP",
+	"description": "I was inspired to make a \"Ledges\" type of deathmatch level with the secret areas in blue.",
+	"version": "7add5e",
+	"date": "2013-11-06 22:42:05",
+	"files": [
+		{
+			"filename": "blue-up.wad",
+			"size": 30738,
+			"crc": 3615474667,
+			"md5": "90caa3c80cc710efecd23d28acba881d",
+			"sha1": "7add5eb95a9cf8f0aeef89f15c790a107b413273",
+			"sha256": "1507f8a10dc2c0d0423cb7adcbfc674a98fddab006e1bd47f7777170c53421bc"
+		}
+	]
+}

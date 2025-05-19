@@ -1,0 +1,17 @@
+{
+	"uid": "great (571a9b).wad",
+	"name": "Great designed level",
+	"description": "Nice level, not too big, not too small Do not choose UV when you're playing alone, or you'll get some problems! Recommended: Play two or three player coop",
+	"version": "571a9b",
+	"date": "2014-12-15 21:40:47",
+	"files": [
+		{
+			"filename": "great.wad",
+			"size": 251521,
+			"crc": 1726072930,
+			"md5": "133c429ebdf422f44dc3ea71a576ce9f",
+			"sha1": "571a9b461c2c6ef3afbc28ae888677b3c83a0b92",
+			"sha256": "ec4cb63717a47401f675b387141ea9542b396151cb7f1a509a113adc6f63017a"
+		}
+	]
+}

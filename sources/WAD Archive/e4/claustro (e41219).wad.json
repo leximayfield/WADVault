@@ -1,0 +1,17 @@
+{
+	"uid": "claustro (e41219).wad",
+	"name": "Claustrophobia",
+	"description": "A single-level Doom2 PWAD.",
+	"version": "e41219",
+	"date": "2014-12-15 22:19:38",
+	"files": [
+		{
+			"filename": "claustro.wad",
+			"size": 378344,
+			"crc": 1876919930,
+			"md5": "bf25f7f936158ccaf49c641e4110588c",
+			"sha1": "e41219e23af912fcc091b9fc4a9f7e90b9d63ed2",
+			"sha256": "967ea30a340dc60dfc437851148dd241eebf97fe4a36f3550303a2a71d2dfcea"
+		}
+	]
+}

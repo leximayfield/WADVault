@@ -1,0 +1,16 @@
+{
+	"uid": "mkonnuri.wad",
+	"name": "Mkonnuri",
+	"description": "A chaingun replacement for Doom or Doom2",
+	"date": "2014-12-11 22:30:58",
+	"files": [
+		{
+			"filename": "mkonnuri.wad",
+			"size": 466900,
+			"crc": 3946499952,
+			"md5": "25326fa6b6ddac7090c66849d8721d74",
+			"sha1": "de26a75c061c2a5238577e7d1f4883c8f4e85503",
+			"sha256": "664e27f69cd438f6a1447b348d93cb20e920cd6756234b6e0c538c566bcb6738"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dethstar (eb97e0).wad",
+	"name": "DETHSTAR Version 1.1",
+	"description": "A great DeathMatch level.",
+	"version": "eb97e0",
+	"date": "2014-01-07 21:54:15",
+	"files": [
+		{
+			"filename": "dethstar.wad",
+			"size": 294803,
+			"crc": 2195633810,
+			"md5": "6a72c8103ea1527094da80aa4b00e49c",
+			"sha1": "eb97e0001053b5eb9c42efb9f58d103ab16958b8",
+			"sha256": "1d90086f4ee94542cdb7a5d7dcc4c33fa6221c714d59f04377e441383b9e9089"
+		}
+	]
+}

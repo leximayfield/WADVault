@@ -1,0 +1,16 @@
+{
+	"uid": "banana.wad",
+	"name": "Banana skin",
+	"description": "You know that banana animation that's been posted at the doomworld forums? Yep, I got bored one night and I decided to convert it into a skin!",
+	"date": "2013-11-23 14:52:16",
+	"files": [
+		{
+			"filename": "banana.wad",
+			"size": 38348,
+			"crc": 429722699,
+			"md5": "0df813eb077a69332ae7ffacf484ea3a",
+			"sha1": "dc9d70225e9c36088a89e73f7fca01645afb6c6f",
+			"sha256": "9216ff4f548ad0a7dd19b8fd1ae1fd8369dfeae1f8d68b566f1ef2761178f677"
+		}
+	]
+}

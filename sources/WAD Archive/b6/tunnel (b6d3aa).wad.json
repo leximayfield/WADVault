@@ -1,0 +1,17 @@
+{
+	"uid": "tunnel (b6d3aa).wad",
+	"name": "Tunnel",
+	"description": "a very tiny wad taking place in a tunnel This WAD is a joke based off a discussion in #legacy Don't worry about loading the .cfg file, the wad will load it through fragglescript",
+	"version": "b6d3aa",
+	"date": "2015-01-14 22:59:32",
+	"files": [
+		{
+			"filename": "tunnel.wad",
+			"size": 124703,
+			"crc": 1606832751,
+			"md5": "2c0bac46a1ca17da3148142362ccdcc8",
+			"sha1": "b6d3aa1e1f7b1ea5d329e88975d2646b2473f75c",
+			"sha256": "68d7f31d7fd817b0a4cd3451354defd8aa41e28ede5b0a986072bdebd6d78d2c"
+		}
+	]
+}

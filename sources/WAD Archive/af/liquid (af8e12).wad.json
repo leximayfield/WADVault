@@ -1,0 +1,17 @@
+{
+	"uid": "liquid (af8e12).wad",
+	"name": "Liquidish",
+	"description": "Sort of a hard level",
+	"version": "af8e12",
+	"date": "2014-10-14 20:58:50",
+	"files": [
+		{
+			"filename": "liquid.wad",
+			"size": 36576,
+			"crc": 578577482,
+			"md5": "ea1418b41e3073ee23f0456b2d522d81",
+			"sha1": "af8e123bf2a515a3f0b68a3e948084fea44c0969",
+			"sha256": "6a176ddfbde70b69ffc66e7edc809e8a37c72267571722fe789d84f663a885da"
+		}
+	]
+}

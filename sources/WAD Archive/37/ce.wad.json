@@ -1,0 +1,16 @@
+{
+	"uid": "ce.wad",
+	"name": "Close Encounters",
+	"description": "A set of 3 story-driven maps for Doom2. My sincere apologies for this set being unfinished, but circumstances have prevented me from having time to finish this in the near future. Map01 is actually a remake of a previous map I made, Little Tiny Map, and the second and third are new. This is actually designed to be a series of linear, but interesting close encounter battles to make the player think on his feet. The story is self contained in intermisson screens, but to set it up, this is kind of a \"prequel\" to the Doom storyline, following the initial accident at UAC. Only tested successfully in ZDoom, but the should run in any port that supports - -Limit removal of visplanes, thing limits, etc. -Textures as flats, and vice versa. -Jumping and crouching is a must. Thanks for playing, and I hope you enjoy.",
+	"date": "2014-12-21 17:00:25",
+	"files": [
+		{
+			"filename": "ce.wad",
+			"size": 349366,
+			"crc": 1693179165,
+			"md5": "f391719eae2b94e876077858f8d21465",
+			"sha1": "37177dac4fb37bc7f3243b46927fef45f83fb1a8",
+			"sha256": "a4433679544f49a588e818dc1970351a3a5583f447b9f18a67620ebdd327207f"
+		}
+	]
+}

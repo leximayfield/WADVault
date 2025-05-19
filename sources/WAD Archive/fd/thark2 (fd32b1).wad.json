@@ -1,0 +1,17 @@
+{
+	"uid": "thark2 (fd32b1).wad",
+	"name": "The Graves of Thark for Heretic",
+	"description": "The Graves of Thark. This world, in the Black Suns Zone, on the fringe of Faberian dominated space, was terraformed during the Second Empire, but with disastrous results. The world, called Necromancer because of the immense alien graveyard that was was discovered there containing some 400 milliom seperate stone coffins, was in fact a 'waiting place'. The world was called haunted because the waiting aliens destroyed every attempt to colonize it. This is what is left of Thark after years of destruction by the colonizers magicians. Can you survive the onslaught? Do you have the wit to solve the many tricks and traps that were left behind for you foolish magicians?",
+	"version": "fd32b1",
+	"date": "2013-11-02 16:39:39",
+	"files": [
+		{
+			"filename": "thark2.wad",
+			"size": 249846,
+			"crc": 2917913732,
+			"md5": "585b4d499de1dc3571263f9c8207d1d0",
+			"sha1": "fd32b14c8bb531600e2f415d6a6923f59ff0fac1",
+			"sha256": "9139e9513333ccaa2a9e1c6b7a7276d160f467dcdbb78d44a52a7036c34982a4"
+		}
+	]
+}

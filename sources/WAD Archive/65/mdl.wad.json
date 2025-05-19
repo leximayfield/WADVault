@@ -1,0 +1,16 @@
+{
+	"uid": "mdl.wad",
+	"name": "MDL.WAD",
+	"description": "VERY old doom1 episode that I made some time in 95 (I think)",
+	"date": "2014-12-14 20:58:41",
+	"files": [
+		{
+			"filename": "mdl.wad",
+			"size": 1531042,
+			"crc": 1509102144,
+			"md5": "f6b950a40efb77d55c6f11e13291ad59",
+			"sha1": "65dcae67f24b80320647bd7487e1d031e986c9f8",
+			"sha256": "632ac7c203a8ca27f7a8041f975c17d2304c07e45a259fc589fb76482375484e"
+		}
+	]
+}

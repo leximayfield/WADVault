@@ -1,0 +1,17 @@
+{
+	"uid": "master (d83211).wad",
+	"name": "MASTER.WAD",
+	"description": "A AWESOME Deathmatch level!!!!!",
+	"version": "d83211",
+	"date": "2013-11-03 17:43:57",
+	"files": [
+		{
+			"filename": "master.wad",
+			"size": 84740,
+			"crc": 828828333,
+			"md5": "8b3c129cbdc31087670ee031310f6279",
+			"sha1": "d83211b5051de0007979b7c50dad19e86190b979",
+			"sha256": "2e251791b717189124e87b4025c67098332b84ebdbd49a2525958f5ae2b7b8dd"
+		}
+	]
+}

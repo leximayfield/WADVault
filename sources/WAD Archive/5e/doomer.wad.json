@@ -1,0 +1,16 @@
+{
+	"uid": "doomer.wad",
+	"name": "Doomer",
+	"description": "The same plot as Doom II but with my ideas.",
+	"date": "2014-01-07 22:06:57",
+	"files": [
+		{
+			"filename": "doomer.wad",
+			"size": 139982,
+			"crc": 2325991162,
+			"md5": "8bdcb021b9f6e26bc5bf024ff73879d1",
+			"sha1": "5e2b34fac7ee46982f748ff938dd5391c5adf936",
+			"sha256": "adffab307f2fd0905aee5a5ca36bf84533ceec22616f0a200e3e329f7607f40e"
+		}
+	]
+}

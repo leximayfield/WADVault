@@ -1,0 +1,17 @@
+{
+	"uid": "warbaby (d869f3).wad",
+	"name": "ASSMUNCH.WAD",
+	"description": "Doom1 .wad",
+	"version": "d869f3",
+	"date": "2018-05-29 20:21:27",
+	"files": [
+		{
+			"filename": "warbaby.wad",
+			"size": 510423,
+			"crc": 703164394,
+			"md5": "6a5778c0da4de466bfe4de92b9b9d915",
+			"sha1": "d869f37500b4dfecbc1c0357ab5fad7fbd89497c",
+			"sha256": "08deb613980edcda4d9f27887292ed7113fd81317b6486276c7c3339c5771362"
+		}
+	]
+}

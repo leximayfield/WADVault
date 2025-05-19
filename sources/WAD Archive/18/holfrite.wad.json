@@ -1,0 +1,16 @@
+{
+	"uid": "holfrite.wad",
+	"name": "silent night, holy fright",
+	"description": "This is a large sized wad which follows a progression such that you pick up weapons in order but only after beating certain enemies. The level has 14 secrets, and includes a baseball field and a maze in a forest. I feel the actual par time is about 40 minutes.",
+	"date": "2014-12-18 22:25:34",
+	"files": [
+		{
+			"filename": "holfrite.wad",
+			"size": 147918,
+			"crc": 3489909801,
+			"md5": "4d5c394c9ff52b657050e3a61d00ee61",
+			"sha1": "18b51157b519f827b5adf0a35cf3f669137e22fa",
+			"sha256": "ae7030e1eaa92cf4ba29038c3acabd5da996a3a82bf8d9cd1b92945d1b99a884"
+		}
+	]
+}

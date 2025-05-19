@@ -1,0 +1,17 @@
+{
+	"uid": "island (0b3df3).wad",
+	"name": "Island.wad",
+	"description": "Simple, your stuck on a Hellish Island, can you get off?",
+	"version": "0b3df3",
+	"date": "2013-11-04 19:25:12",
+	"files": [
+		{
+			"filename": "island.wad",
+			"size": 430670,
+			"crc": 2524986811,
+			"md5": "d7d60bf427d80cff8fccc023791b0549",
+			"sha1": "0b3df32296d467769d0414f1475870bf420ca766",
+			"sha256": "c16b159571816afb81c83ec5aa5d396c14f22db9a13e3102b79a1e52c5da7828"
+		}
+	]
+}

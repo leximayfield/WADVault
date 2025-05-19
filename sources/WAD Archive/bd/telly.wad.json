@@ -1,0 +1,16 @@
+{
+	"uid": "telly.wad",
+	"name": "Tele-Direct Atlantic Doom",
+	"description": "These files will (hopefully) serve as a replacement for the earlier version of Tele-Direct Atlantic Doom I uploaded to this site previously. TELLY.WAD Replaces MAP01 of Doom2 with a layout of my employer's office. I have improved the appearance of the computer workstations (They now look much more realistic) I've also replaced the Imps with a sprite-animation sequence of Telly, our company mascot. TD2.WAD, TD4.WAD, TD6.WAD Used to customize layout so it resembles office.",
+	"date": "2015-01-14 14:31:22",
+	"files": [
+		{
+			"filename": "telly.wad",
+			"size": 286615,
+			"crc": 4136764452,
+			"md5": "b59772a3663175e874e9d4e7d842d862",
+			"sha1": "bd69f287850ec337f42dd50f177ba2674b83f101",
+			"sha256": "0c8b5c3e9cb3e53a3c8229eb5d5eb7643fff66ea7449e0778e5be009aaefad2b"
+		}
+	]
+}

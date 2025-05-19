@@ -1,0 +1,16 @@
+{
+	"uid": "revolver.wad",
+	"name": "Revolver",
+	"description": "Bricks and metal",
+	"date": "2015-01-14 23:03:20",
+	"files": [
+		{
+			"filename": "revolver.wad",
+			"size": 128384,
+			"crc": 3315877997,
+			"md5": "e2f9c0ea451912a53114124e69b39e24",
+			"sha1": "4434be86b66ee11101d00a56b9a2676908ad987c",
+			"sha256": "5f29b6c740e14c88c227268e935a0bf6ff072bc640fc120b88280d74100121b9"
+		}
+	]
+}

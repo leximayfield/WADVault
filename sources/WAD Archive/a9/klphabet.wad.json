@@ -1,0 +1,16 @@
+{
+	"uid": "klphabet.wad",
+	"name": "Sector Alphabet",
+	"description": "Maybe the dumbest thing I've made. It's a template for mappers to copy sector letters from if they want to put some text in their map for some reason. I've recently been putting in little hints in the auto map for secrets in my maps, and I got tired of having to draw the letters, so I made this. I decided to go the full nine yards and include numbers and common symbols as well. Oh you can also run around in it and listen to a tune of old while battling Bill the Cyberdemon, but that's just if you're bored and not entirely the point.",
+	"date": "2015-09-14 22:39:38",
+	"files": [
+		{
+			"filename": "klphabet.wad",
+			"size": 156567,
+			"crc": 200135912,
+			"md5": "3e7fefd818519470414cfe78b5c21737",
+			"sha1": "a9d8a025470c89992af48968ee7ac8478aa894d7",
+			"sha256": "2db31d8b5b79e41a4d01ee5d32262fb23adf116732cff7b5f5b94a2ebc3052a6"
+		}
+	]
+}

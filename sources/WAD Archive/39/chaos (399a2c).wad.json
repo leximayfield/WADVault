@@ -1,0 +1,17 @@
+{
+	"uid": "chaos (399a2c).wad",
+	"name": "Chaos Shine",
+	"description": "Map I did for Torn's Advent Calender project. Inspired theme wise by Vrack and Av Map02.",
+	"version": "399a2c",
+	"date": "2015-09-15 18:12:11",
+	"files": [
+		{
+			"filename": "chaos.wad",
+			"size": 1405682,
+			"crc": 371459292,
+			"md5": "f5f23bbdf7031bc28738691aa8bac8a6",
+			"sha1": "399a2c6318b117f098d21e87b03ccb079486b5c8",
+			"sha256": "530924a29e1658d196015b494383f59af5170c85bc7c3764275b0771bda6afe1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nmdu (bc0309).wad",
+	"name": "The Ultimate NMD",
+	"description": "A deliberately underdetailed replacement of all of DooM, following the themes of each episode. Update adds more ammo in e3, making all levels possible from pistol start.",
+	"version": "bc0309",
+	"date": "2013-04-19 00:03:31",
+	"files": [
+		{
+			"filename": "nmdu.wad",
+			"size": 2733434,
+			"crc": 3710052168,
+			"md5": "5194924b05a075eb1cb721320e02f257",
+			"sha1": "bc03095c025a1e6f7d6da7f858862d9352ec3ae4",
+			"sha256": "c5552f0f9336aa65b887e98204c35120a6a33ad1e1248e1b0afe6b8475565a7f"
+		}
+	]
+}

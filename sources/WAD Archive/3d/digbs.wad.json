@@ -1,0 +1,16 @@
+{
+	"uid": "digbs.wad",
+	"name": "Digon Base - Raw Action",
+	"description": "Sequel to Corebinder. An action-puzzle Doom adventure containing 5 Maps for ZDOOM. Needs Jumping and Crouching enabled.",
+	"date": "2014-12-24 18:49:21",
+	"files": [
+		{
+			"filename": "digbs.wad",
+			"size": 782639,
+			"crc": 4293012587,
+			"md5": "00a8a26342a8487de2a698b8334b13f2",
+			"sha1": "3d8a3175b28e286b8078fc0722de85232ffab425",
+			"sha256": "d69063a52c4d035c25e99c843780beac4f28455f5cf27eb3f30777de4f5c04f4"
+		}
+	]
+}

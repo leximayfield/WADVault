@@ -1,0 +1,16 @@
+{
+	"uid": "titan426.wad",
+	"name": "What lies beneath titan-426",
+	"description": "An updated version of titan426, changed several things to make gamplay run smoother(hopefully) Skill 1/2 easy skill to play on mostly weaker monsters do deal with, 354 monsters on this setting. No cyberdemon in the end battle and no revenants when you have to grab the red key. I think most players can complete the map in this setting without too many problems. Skill 3 moderate skill for the more skilled player, can be pretty tough at some points. You will have to fight 488 monsters on this level, and the cyberdemon will be facing you. Still no revenants for red keycard battle in the courtyard area.",
+	"date": "2014-12-29 17:04:13",
+	"files": [
+		{
+			"filename": "titan426.wad",
+			"size": 6610155,
+			"crc": 2250371262,
+			"md5": "41baf2b59e4276a5ab9ca1c7ba243359",
+			"sha1": "09a1b0046e21f1ba38919feaa9f822506e6ed561",
+			"sha256": "2d4ac6fa2b8c445f54025ba86b8299fa43a24008deb37d7b6a8fac553f04f5fa"
+		}
+	]
+}

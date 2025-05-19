@@ -1,0 +1,17 @@
+{
+	"uid": "outbreak (c7d049).wad",
+	"name": "Outbreak of Evil",
+	"description": "Levels were released back in 2013, but were reworked in 2017-2019",
+	"version": "c7d049",
+	"date": "2019-05-03 21:59:27",
+	"files": [
+		{
+			"filename": "outbreak.wad",
+			"size": 3031155,
+			"crc": 6103628,
+			"md5": "074264a06832cc2d9092baaeadcb8184",
+			"sha1": "c7d04961df3aa6b0bd77085fe0684c9aaec9165f",
+			"sha256": "9ad993b7171e72dc38c9ac054a6261aca754f0df354a719f726109f8fdd652c4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "toxdark2.wad",
+	"name": "Toxic Darkness 2",
+	"description": "A sequel to Toxic Darkness made in same style, but using more advanced architechture & effects. Also features darker atmosphere than the original, thus being more faithful to it's name.",
+	"date": "2014-12-29 15:57:10",
+	"files": [
+		{
+			"filename": "toxdark2.wad",
+			"size": 6374376,
+			"crc": 2866483216,
+			"md5": "3ffa904e57c8d9ba45223e1b2d27f98b",
+			"sha1": "dc80042d2070b20dea55fb3af8449c722bfd00ab",
+			"sha256": "645f258b8a285dd86f7187f5ab0eef09e40236c030e4eb615ed6ce97aa7ab809"
+		}
+	]
+}

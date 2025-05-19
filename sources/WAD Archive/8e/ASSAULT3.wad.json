@@ -1,0 +1,16 @@
+{
+	"uid": "ASSAULT3.wad",
+	"name": "Assault 3",
+	"description": "The third installment of the Assault series takes you down into the tunnels and sewers beneath a city. They've become infested with demom kind, and you job is to clean em' out!!!",
+	"date": "2014-10-14 20:59:13",
+	"files": [
+		{
+			"filename": "ASSAULT3.wad",
+			"size": 364727,
+			"crc": 396987816,
+			"md5": "375e5d9a72ea7a0b60f7fd387a7f05b0",
+			"sha1": "8e20581219004ac5d0d38a44aadf79ac9a199598",
+			"sha256": "dee41358043387e25660fed09c29aa1d37112977bc6a2fa91ef4470f1ec082f8"
+		}
+	]
+}

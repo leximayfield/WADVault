@@ -1,0 +1,16 @@
+{
+	"uid": "hellmap.wad",
+	"name": "Hell for the Doom Hero",
+	"description": "A map I made in response to a hell-themed doom megawad project.",
+	"date": "2014-12-24 19:23:11",
+	"files": [
+		{
+			"filename": "hellmap.wad",
+			"size": 64035,
+			"crc": 896083478,
+			"md5": "0a53cc149fe647613c0f9a3811881e21",
+			"sha1": "a97c5848761368ff8190534fa575ebe103652e39",
+			"sha256": "262e67586b51e4902653ccff06dc2b43b6cba2bb61a408311d9cd0ac74635224"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "barney3 (071a8f).wad",
+	"name": "BARNEY DOOM II, The Wrath of the Purple Lizard",
+	"description": "Barney, PacMan and Energiser Bunny are here for you to blast them.",
+	"version": "071a8f",
+	"date": "2014-01-11 11:29:48",
+	"files": [
+		{
+			"filename": "barney3.wad",
+			"size": 633076,
+			"crc": 1699344980,
+			"md5": "15fdf70d26af9b8ecabae0c4101f7af7",
+			"sha1": "071a8f0029259c3038e1d01177049f1ec901cc83",
+			"sha256": "3e4a0c1f8423213d0ccbd06196e0bd043e23c38407f998a4737f054a1cb76278"
+		}
+	]
+}

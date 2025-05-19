@@ -1,0 +1,17 @@
+{
+	"uid": "down (1f7236).wad",
+	"name": "DOWN TOWN - Down.wad for Doom (1)",
+	"description": "Down town is an average American town inhabited by alien monsters. WARNING: Some of the monsters use bad language. HINT: Demons generally stay off the sidewalk.",
+	"version": "1f7236",
+	"date": "2014-12-14 20:39:08",
+	"files": [
+		{
+			"filename": "down.wad",
+			"size": 449922,
+			"crc": 2407604992,
+			"md5": "2dc6481cbd2457a7b6dd9497d3be89ea",
+			"sha1": "1f7236586010ab972672377fd2189da4fb0032d9",
+			"sha256": "81d5b40cf2f98d2669b210d38a2f752f82ddeb0cd205f95642b6bc1b2ad2ab6e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "freon3 (b5a81e).wad",
+	"name": "Freon 3: Fragus Maximus Ultimatus... heh",
+	"description": "Begins where FREON2 left off, but with better levels, design, multi-mode support. A fun set of 4 deathmatch levels. All are fun, small, and best with 2 to 3 players. See below for individual descriptions...",
+	"version": "b5a81e",
+	"date": "2014-12-03 20:11:45",
+	"files": [
+		{
+			"filename": "freon3.wad",
+			"size": 366892,
+			"crc": 295680990,
+			"md5": "d5ffcda032d594ee78eab607d771151c",
+			"sha1": "b5a81e9d701a5138a63de490923a0c47fbcac191",
+			"sha256": "040b1f2cc6f73a8b199c65a8ca95194dc726211804e6e25195db424a36ced0e6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doom2kl.wad",
+	"name": "Kari's Wad",
+	"description": "11 new Doom II levels",
+	"date": "2013-04-19 00:02:39",
+	"files": [
+		{
+			"filename": "doom2kl.wad",
+			"size": 1414709,
+			"crc": 1098527735,
+			"md5": "d67fd336721516cf2fb28c0d84d2f7d3",
+			"sha1": "2670837c19aad867bf89460f63f1f1590c916e23",
+			"sha256": "5f17af3cc23c877af79837de39be751b4ef4c3ae98355de883a2d7ec7f6c5fc8"
+		}
+	]
+}

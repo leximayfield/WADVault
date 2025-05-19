@@ -1,0 +1,17 @@
+{
+	"uid": "300minvrupdated (5b88ec).wad",
+	"name": "300 minutes of /vr/",
+	"description": "A megawad compilation of maps made by /vr/ users. Participants were asked to make a map in 300 minutes, with an initial two-week deadline period for submission. There was no particular theme beyond vanilla compatibility / no custom textures.",
+	"version": "5b88ec",
+	"date": "2018-05-28 19:47:17",
+	"files": [
+		{
+			"filename": "300minvrupdated.wad",
+			"size": 6495073,
+			"crc": 4005408442,
+			"md5": "1d195d0f19a798a548929b4ea8c2f27e",
+			"sha1": "5b88ec765aecf6e035821156c503c1379b3c5a7d",
+			"sha256": "9bf52a9d0782ab5091597b7398f59c23c8d4beba5e5ca7500e8002efa4ca3ca5"
+		}
+	]
+}

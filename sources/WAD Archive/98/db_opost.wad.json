@@ -1,0 +1,16 @@
+{
+	"uid": "db_opost.wad",
+	"name": "Phobos Outpost",
+	"description": "A good old fashioned E1 type map",
+	"date": "2014-12-13 12:55:36",
+	"files": [
+		{
+			"filename": "db_opost.wad",
+			"size": 190100,
+			"crc": 2864297102,
+			"md5": "ab6a23e2bee15a0063ca9864ee7d41d1",
+			"sha1": "988241b30c8309922a5674bf0db4807972f72a75",
+			"sha256": "67c533f625a99eb7f6c6d4d1bcdad400382715abfbab6d46904a370e4c033e6d"
+		}
+	]
+}

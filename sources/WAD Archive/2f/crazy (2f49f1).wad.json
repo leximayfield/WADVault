@@ -1,0 +1,17 @@
+{
+	"uid": "crazy (2f49f1).wad",
+	"name": "Crazy",
+	"description": "\"Crazy\" is an add-on level for the -registered- version of Heretic by",
+	"version": "2f49f1",
+	"date": "2014-12-14 20:53:37",
+	"files": [
+		{
+			"filename": "crazy.wad",
+			"size": 195363,
+			"crc": 2274618662,
+			"md5": "a76db8c4079f4f21c2677325c2ad5b7b",
+			"sha1": "2f49f16d24d7b5b192c0259099a4b9c2570b406e",
+			"sha256": "cbf2bdede7f15d40bb5c16e1678e6926a77264049c07563cea0e79efb3fc603a"
+		}
+	]
+}

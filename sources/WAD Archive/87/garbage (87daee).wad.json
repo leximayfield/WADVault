@@ -1,0 +1,17 @@
+{
+	"uid": "garbage (87daee).wad",
+	"name": "GARBAGE.WAD",
+	"description": "Designed for deathmatch.",
+	"version": "87daee",
+	"date": "2014-08-30 14:28:16",
+	"files": [
+		{
+			"filename": "garbage.wad",
+			"size": 26305,
+			"crc": 4259525770,
+			"md5": "7f1ecee97f5c377b1a0f6d22d00998fe",
+			"sha1": "87daee3d3ad3b555ab9fa6206618bccfa2f57f20",
+			"sha256": "c135def3807e7f9ef2720485f05398c4d6d7e5d2ef84fd01c211fada1a065bbd"
+		}
+	]
+}

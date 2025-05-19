@@ -1,0 +1,17 @@
+{
+	"uid": "socksoff (08f1b6).wad",
+	"name": "Socksoff.wad (Supposed to knock them off!)",
+	"description": "This one should be OK, if not, send me e-mail and I'll repost.",
+	"version": "08f1b6",
+	"date": "2014-01-07 21:57:38",
+	"files": [
+		{
+			"filename": "socksoff.wad",
+			"size": 89550,
+			"crc": 292227811,
+			"md5": "21fbd0c7451e989b70c6c180b7a6893d",
+			"sha1": "08f1b60fb2eaec7412faa12f654dde58bfc2720a",
+			"sha256": "da40fae06700c5c9da7f6aa01139ee958b5b3ac7a65c843d8657220bfb9404b1"
+		}
+	]
+}

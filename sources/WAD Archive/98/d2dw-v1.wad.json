@@ -1,0 +1,16 @@
+{
+	"uid": "d2dw-v1.wad",
+	"name": "Doom II: Dark World [v1.0]",
+	"description": "Replay the original eleven maps from Doom II in a more hellish, harder state. Made from scratch while referring to the original maps.",
+	"date": "2018-02-10 16:58:53",
+	"files": [
+		{
+			"filename": "d2dw-v1.wad",
+			"size": 3578875,
+			"crc": 1138544885,
+			"md5": "8d1fb08369a328d14e80519b82cd23c7",
+			"sha1": "98d4b2973d4d13ddd4c5f86840c248bed4cebf0b",
+			"sha256": "73478c46411582e0533647a1028139d950cf7a611fda8d6a0f8cfd8fc11c1e01"
+		}
+	]
+}

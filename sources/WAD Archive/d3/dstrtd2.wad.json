@@ -1,0 +1,16 @@
+{
+	"uid": "dstrtd2.wad",
+	"name": "Distorted Memories",
+	"description": "The general idea is to loosely recreate each episode of Doom but summed up with 2 maps per episode. Each map tries to emulate the mapping styles of the original doom. Also features a secret level, which is more of its own thing, as well as a deathmatch map (e2m1). For the best experience I recommend playing with just the keyboard.",
+	"date": "2017-06-27 00:22:21",
+	"files": [
+		{
+			"filename": "dstrtd2.wad",
+			"size": 1054471,
+			"crc": 3089806057,
+			"md5": "474323b893f322f2c14701e9cb92e3e8",
+			"sha1": "d344ff0fe108e6272cd3de6553de654896a781f0",
+			"sha256": "ac3819cdd816262dcc718b15fbb6c733958def9e25066e59bb351923a23655d6"
+		}
+	]
+}

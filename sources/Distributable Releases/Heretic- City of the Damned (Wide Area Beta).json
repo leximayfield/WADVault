@@ -1,0 +1,16 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Heretic: City of the Damned (Wide Area Beta)",
+	"name": "Heretic: City of the Damned",
+	"description": "Beta release, contains three levels",
+	"version": "Wide Area Beta",
+	"files": [
+		{
+			"filename": "HERETIC1.WAD",
+			"size": 4095992,
+			"crc": "864ab894",
+			"md5": "fc7eab659f6ee522bb57acc1a946912f",
+			"sha1": "e3d56700ecc3fefbd19cafba5bac3b115120d465"
+		}
+	]
+}

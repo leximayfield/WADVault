@@ -1,0 +1,16 @@
+{
+	"uid": "gingerhk.wad",
+	"name": "The Gingerbread Knight",
+	"description": "Uh-oh! It looks like Grandma's cookies has gone horribly wrong. This mod basically redecorates the Hellknight with some edits I've done and I might as well since it's the holidays.",
+	"date": "2015-12-29 13:32:40",
+	"files": [
+		{
+			"filename": "gingerhk.wad",
+			"size": 284784,
+			"crc": 701185108,
+			"md5": "25b1fe494692fdbb36a9fab12e66a2e5",
+			"sha1": "cfe06c7826951c6d94cbe255aee9107d9b596951",
+			"sha256": "a541702f191ca1651e696050cdd2013b0a2f04729f97ef3b0809e167f0b4bae0"
+		}
+	]
+}

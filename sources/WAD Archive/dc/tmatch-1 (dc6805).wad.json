@@ -1,0 +1,16 @@
+{
+	"uid": "tmatch-1 (dc6805).wad",
+	"name": "Tom's Deathmatch wad #1",
+	"version": "dc6805",
+	"date": "2014-12-03 20:00:43",
+	"files": [
+		{
+			"filename": "tmatch-1.wad",
+			"size": 42485,
+			"crc": 750870942,
+			"md5": "325304c33ebb8569779dd24454f2359b",
+			"sha1": "dc680562e722cf598b1d51985ff7c9c4f96f8187",
+			"sha256": "41f32746fe71d4922f51ef8c50ff0c1876d2442c73d6ac1c8cd336b9a1fccac7"
+		}
+	]
+}

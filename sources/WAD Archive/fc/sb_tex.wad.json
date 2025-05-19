@@ -1,0 +1,16 @@
+{
+	"uid": "sb_tex.wad",
+	"name": "Doom Advent Calendar 2005 Texture WAD",
+	"description": "The texture WAD required for use with these DAC 2005 maps: themes/DAC/dac2005/dac21.zip themes/DAC/dac2005/dac22.zip themes/DAC/dac2005/dac23.zip",
+	"date": "2015-09-14 23:00:14",
+	"files": [
+		{
+			"filename": "sb_tex.wad",
+			"size": 658262,
+			"crc": 3450980162,
+			"md5": "c23b10a6ac7fccac1da08abf777278ad",
+			"sha1": "fcef2231ec7f423f0ea25df6285e1402b3cd9239",
+			"sha256": "fd70e6838e8b7964efc9d9359a33b828c236c68157e6f550de8f56b259469e11"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmcros (5132bb).wad",
+	"name": "DMCROSS.WAD",
+	"description": "large sized wad that keeps you looking over your shoulder, you have enough ammo - barely This wad it tough on UV but the other levels are easy....",
+	"version": "5132bb",
+	"date": "2013-11-04 20:12:08",
+	"files": [
+		{
+			"filename": "dmcros.wad",
+			"size": 158591,
+			"crc": 75190158,
+			"md5": "761aaaa8681bb23f5d5bfcaef93a93ff",
+			"sha1": "5132bb1239b35b1948561de9c459946dcde190c9",
+			"sha256": "09e8522140ee8b8f7c7ad770aa64cabc398d89f566f7c86a437a6d1fbf85756f"
+		}
+	]
+}

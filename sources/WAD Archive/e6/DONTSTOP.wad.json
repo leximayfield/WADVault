@@ -1,0 +1,16 @@
+{
+	"uid": "DONTSTOP.wad",
+	"name": "DONTSTOP.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. This level is basically one big room with four platforms of different heights. There is an elevator (not a lift) in the centre. You can access all four platforms with this elevator, or you can take the stairs along the outer walls. All weapons, except for the BFG, are available. There is no exit on this level. There are no monsters on this level.",
+	"date": "2014-08-30 14:22:58",
+	"files": [
+		{
+			"filename": "DONTSTOP.wad",
+			"size": 39813,
+			"crc": 2588087852,
+			"md5": "602e03e2fb0930eac73edc9838684c5a",
+			"sha1": "e6927af5743a0b1c7e1fb8b4934c003805344805",
+			"sha256": "52e583036c23e7fe2eea853d3d4e5c6c153e5e77228a270bb898ac9a4362eee8"
+		}
+	]
+}

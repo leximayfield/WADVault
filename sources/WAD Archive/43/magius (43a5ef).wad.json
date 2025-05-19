@@ -1,0 +1,17 @@
+{
+	"uid": "magius (43a5ef).wad",
+	"name": "MAGIUS.WAD",
+	"description": "A very simple level, designed SPECIFICALY for players using TURBO!!!!!!!!!",
+	"version": "43a5ef",
+	"date": "2014-01-07 22:19:07",
+	"files": [
+		{
+			"filename": "magius.wad",
+			"size": 81582,
+			"crc": 3853914959,
+			"md5": "872db7a864fcbe3d0fc3b4e0567d56c1",
+			"sha1": "43a5efd75b54e38dc1f23f1e029123fe243c6689",
+			"sha256": "079bc52665abc88cb2065cc5aa0e49f980f8d83135b47cee2ded8b182a1b4708"
+		}
+	]
+}

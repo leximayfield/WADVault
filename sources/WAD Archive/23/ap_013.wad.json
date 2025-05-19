@@ -1,0 +1,16 @@
+{
+	"uid": "ap_013.wad",
+	"name": "Installation B",
+	"description": "Part Thirteen. Installation B is another tech-base map in the World's End series, it has taken a millenia to finish due to lack of motivation and time. Larger than the previous one and more challenging, I used this level to experiment with some tech-base geometry I had on my mind. Don't expect Installation C any time soon, ap_10.wad is still awaiting my attention!",
+	"date": "2014-12-21 16:37:30",
+	"files": [
+		{
+			"filename": "ap_013.wad",
+			"size": 213916,
+			"crc": 300120135,
+			"md5": "4aa9796a1f1476275a3654254d7d5e65",
+			"sha1": "23b98bd158632b56c9a2332cc24fddb64b8ed443",
+			"sha256": "a1f6d02335be1d2cf8263bc8df15da85c92b67ba6f2e10e72b97edc1ed13f58e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "d2nut.wad",
+	"name": "Nutty Shells",
+	"description": "Doom 2 in a nutshell.",
+	"date": "2014-12-18 23:11:58",
+	"files": [
+		{
+			"filename": "d2nut.wad",
+			"size": 259942,
+			"crc": 1052214360,
+			"md5": "8d6f90b951cfb286e69e9bc1907e95ec",
+			"sha1": "53a2a81153bfe5d6084f585ecbd0ebbab029ba5f",
+			"sha256": "261bb844c05bbb70af04cd4bdff4ff9888b2669ec533efa85ca0240cc94e1493"
+		}
+	]
+}

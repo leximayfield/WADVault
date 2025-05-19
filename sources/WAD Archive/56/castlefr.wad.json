@@ -1,0 +1,16 @@
+{
+	"uid": "castlefr.wad",
+	"name": "Castle of Fear",
+	"description": "This was originally made for Doom the Way id Did as E3M8. I eventually removed this big chunk of the level and kept the part with the Spiderdemon. This is made in a strict Peterson style so expect lots of texture misalignments, unusual wall-floor combos, and all that stuff.",
+	"date": "2014-12-13 17:37:44",
+	"files": [
+		{
+			"filename": "castlefr.wad",
+			"size": 186466,
+			"crc": 949470553,
+			"md5": "7a7e79472e4fb1aaaeb7e1b9e46f96f2",
+			"sha1": "563539034b04f3fc5e76d58fce285c474f4e9ebc",
+			"sha256": "998969f9f899d084200203b6ca9bd3df947f1a37f2584dc5534f30597dda89a2"
+		}
+	]
+}

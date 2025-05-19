@@ -1,0 +1,16 @@
+{
+	"uid": "fallofsociety.wad",
+	"name": "Fall of Society",
+	"description": "4 map mini-episode for ZDoom.",
+	"date": "2018-11-19 17:47:42",
+	"files": [
+		{
+			"filename": "fallofsociety.wad",
+			"size": 29077655,
+			"crc": 1602600003,
+			"md5": "b2ae00ebcb37bc701c09a1adf2eae8b9",
+			"sha1": "e9475f23f322daf75e1b7ff7e472c0266b658414",
+			"sha256": "ef4d8a4ee6480ba157e8d9e3aa25bff2bc57bdfd57f6cf6717a0d56ede11ef55"
+		}
+	]
+}

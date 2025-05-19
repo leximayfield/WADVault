@@ -1,0 +1,16 @@
+{
+	"uid": "redrock.wad",
+	"name": "Blood Rock",
+	"description": "Rivers of blood have began to form in a facility beneath of the Mars surface and from that blood, organic tissue has grown, seemingly in a short period. The grouth now threatens to overtake the facility. All contact with the large maintainance and digging crew has been lost. Camera footage from surveylence shows the caverns are unstable; several cave ins and quakes have happened already, making it unsafe for anyone to get down there and be able to find their way back. ------------------------------------------------------------------------- I feel this map is interesting, because it manipulates itself to form other paths as the \"quakes\" happen. There are a few interesting techniques used here. This supports Single Player, Co-Op, and Death Match, although with Death Match, its best if the players are human, Skull Tag Bots don't cut it very well. Takes me at least 8 minutes to get through and I know where everything is.",
+	"date": "2014-12-29 09:03:51",
+	"files": [
+		{
+			"filename": "redrock.wad",
+			"size": 151853,
+			"crc": 3123448092,
+			"md5": "54e5df45f1d0df004e1bee5ea8cfa67b",
+			"sha1": "628afed70bbd24492f391f0d583d5a22a170112c",
+			"sha256": "909ea732db8bc9fa420b76e39a7ddc9aab8018ef991da9c5606581bac0316be0"
+		}
+	]
+}

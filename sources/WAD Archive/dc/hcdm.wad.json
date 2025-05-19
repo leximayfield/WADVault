@@ -1,0 +1,16 @@
+{
+	"uid": "hcdm.wad",
+	"name": "Hippie Commune Deathmatch",
+	"description": "Ten levels designed primarily around deathmatch, however they do seem to be playable for single person. We haven't tried cooperative yet, but it should be pretty keen, regardless. It's honestly intended to be played at Ultra-Violence, especially in deathmatch. See HCDM.DOC for a more detailed description of the executable patch and a level-by-level description.",
+	"date": "2014-01-07 21:45:03",
+	"files": [
+		{
+			"filename": "hcdm.wad",
+			"size": 494339,
+			"crc": 3716878711,
+			"md5": "45d2e67eb438154e413a71891c226aaf",
+			"sha1": "dca5bc7725ea793c791d2a7ee69287d180467698",
+			"sha256": "3c7c4d6dcd2db56727234f29d8dedbe85e4112cedaf4192e1c468d6219e9ce1a"
+		}
+	]
+}

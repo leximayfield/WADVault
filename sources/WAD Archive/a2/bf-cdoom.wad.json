@@ -1,0 +1,16 @@
+{
+	"uid": "bf-cdoom.wad",
+	"name": "Counter-Doom: EDGE",
+	"description": "A nice big CounterStrike weapon mod featuring 26 weapons and smooth-as-hell frames! :D",
+	"date": "2014-12-11 22:14:32",
+	"files": [
+		{
+			"filename": "bf-cdoom.wad",
+			"size": 31473800,
+			"crc": 1264735393,
+			"md5": "ffbfeb77a88160422959206157802ebb",
+			"sha1": "a26a5a6b978622df7f187940690ee466e650f5c2",
+			"sha256": "4b6bd7541f0e73d1418e2ea875df1a67c8c4cfd6703fe24957b2a05c639365c4"
+		}
+	]
+}

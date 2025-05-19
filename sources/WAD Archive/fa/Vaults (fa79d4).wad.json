@@ -1,0 +1,17 @@
+{
+	"uid": "Vaults (fa79d4).wad",
+	"name": "Vaults ... 6 level adventure for Hexen",
+	"description": "You thought you defeated ol' Korax but it was merely his hologram. He's",
+	"version": "fa79d4",
+	"date": "2014-12-31 12:15:47",
+	"files": [
+		{
+			"filename": "Vaults.wad",
+			"size": 1543991,
+			"crc": 831796738,
+			"md5": "dd37cb2e856095dd14cc5fc08c628186",
+			"sha1": "fa79d4f3c015309a26039504fe4159d11a213219",
+			"sha256": "7fc776dfab137f90d652aa312152a213525e42870dad9a08ee6fe6d914377ca4"
+		}
+	]
+}

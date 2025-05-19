@@ -1,0 +1,15 @@
+{
+	"uid": "yomi.wad",
+	"description": "this is just a simple 10 map episode for zdoom. the levels are inspired by the level design of doom2, so the maps are simple and linear to very linear levels. jumping was disabled, in case you wonder why you cant jump.",
+	"date": "2014-12-29 16:45:57",
+	"files": [
+		{
+			"filename": "yomi.wad",
+			"size": 4982752,
+			"crc": 813903773,
+			"md5": "8425b10629b1369066c7e9b015de69f2",
+			"sha1": "ee9f6d857df69996f1b7b3055b32ed28412b66ca",
+			"sha256": "d15b0296dcfd3289270bef455f77fc6f6834d280bb9faba50b916f01f9b6acee"
+		}
+	]
+}

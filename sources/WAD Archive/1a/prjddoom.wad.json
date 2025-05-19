@@ -1,0 +1,16 @@
+{
+	"uid": "prjddoom.wad",
+	"name": "Project Doomed",
+	"description": "This is a modification of Jay Reichard's \"Project Doom\" but contains alterations to not only \"originalize\" the songs mainly but a decreased tempo. Works nicely for those large or long level sets.",
+	"date": "2015-09-10 12:11:02",
+	"files": [
+		{
+			"filename": "prjddoom.wad",
+			"size": 2213880,
+			"crc": 1547102002,
+			"md5": "f03f70ab504e4dd7844b87a093422ed9",
+			"sha1": "1a724ab2f6d7a7ded5aa2570cd8bc7dfce08bd30",
+			"sha256": "4afeb62d11b4f9f016784a5a7075ef0dafd2a608a3c917f0bceb906fbfa89657"
+		}
+	]
+}

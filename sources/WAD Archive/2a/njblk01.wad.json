@@ -1,0 +1,16 @@
+{
+	"uid": "njblk01.wad",
+	"name": "Enjay Blake Stone Skins",
+	"description": "5 Skins based on enemies from Blake Stone. All modified to work as skins under Zdoom.",
+	"date": "2013-04-19 00:53:50",
+	"files": [
+		{
+			"filename": "njblk01.wad",
+			"size": 426331,
+			"crc": 475334381,
+			"md5": "9e090bfe4e6f9c1cc1fcb2fdcea02b1e",
+			"sha1": "2ab990c977dfc2e6292c250dffec97a6127b4718",
+			"sha256": "3b5f1769c34eea25307f1622a7a198d0ff6f30855be8c7559a3560e85ab57df2"
+		}
+	]
+}

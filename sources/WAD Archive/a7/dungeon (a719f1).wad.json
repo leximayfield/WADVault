@@ -1,0 +1,17 @@
+{
+	"uid": "dungeon (a719f1).wad",
+	"name": "Trapped in the Castle Dungeon",
+	"description": "This is my first WAD for DOOM . I used one of my old Dungeons from my D&D gaming days. There are a lot of secret doors and a few traps. so have fun and KILL lots of monsters..",
+	"version": "a719f1",
+	"date": "2013-11-03 17:46:14",
+	"files": [
+		{
+			"filename": "dungeon.wad",
+			"size": 75089,
+			"crc": 4182306131,
+			"md5": "2fe63480c9778aa67902b63eb0adf95e",
+			"sha1": "a719f1d29910946f15926213232f5b7e7f2275ee",
+			"sha256": "f128865447a44b2164ae20af4daa9545e9b8e16535ca85bbac99e238aaefded4"
+		}
+	]
+}

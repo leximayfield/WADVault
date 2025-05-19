@@ -1,0 +1,16 @@
+{
+	"uid": "darken (37e624).wad",
+	"description": "Actually this is my first deathmatch level ever. I started it as a tech/base style level. Later I decided to experiment a bit and I completely changed the texturing while keeping the lay-out pretty much intact. It is now a hellish/medieval style level. A bit like the original id episode 4 levels. Thanks should go to Matt Dixon for giving me useful tips for item placement. Oh, I made a single player version of this level too that might show up in a future release ...",
+	"version": "37e624",
+	"date": "2013-04-21 19:04:44",
+	"files": [
+		{
+			"filename": "darken.wad",
+			"size": 1754740,
+			"crc": 3691105965,
+			"md5": "4950d0990c576157b585c3e88c2d83c8",
+			"sha1": "37e6244fa1f1b3f6c949c63b34859dd3e3e904fe",
+			"sha256": "7f644b62b6dc9c9305f0b7168cd259392c1394c8169ae63f56389ddf339d65e3"
+		}
+	]
+}

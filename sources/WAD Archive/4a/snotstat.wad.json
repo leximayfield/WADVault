@@ -1,0 +1,16 @@
+{
+	"uid": "snotstat.wad",
+	"name": "Snot Station",
+	"description": "This is a map I scrapped from a 2-episode wad I'm working on for Chex Quest. It is my first attempt working with the set of features ZDoom has to offer. This level simply doesn't fit with what I'm currently doing with the rest of the mapset both plot-wise and gameplay-wise. There's also the fact that due to some screwing around in SLADE 3, this wad is now somehow permanently corrupted when loaded in Doom Builder 2. Don't ask why. Anyway, It was inspired by E3M1 of Chex Quest 3 and is designed to be quite difficult. Watch out for that ending! Criticism and other comments are welcome!",
+	"date": "2017-06-27 00:24:37",
+	"files": [
+		{
+			"filename": "snotstat.wad",
+			"size": 84290,
+			"crc": 1961662648,
+			"md5": "9e4f79b2a90321798d60e6df0a188df6",
+			"sha1": "4adb62e2aebe3a8607e792fcd586f17e1c8fe8ca",
+			"sha256": "030727b6113e0cabecb9b1f1615ee009834bc4c24b11df70abeaf8cae5bd37f9"
+		}
+	]
+}

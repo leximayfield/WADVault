@@ -1,0 +1,17 @@
+{
+	"uid": "incence2 (f72806).wad",
+	"name": "Innocence II",
+	"description": "A 6 level mapset for DooM II. It is a reimagining of the Shores of Hell and Inferno storyline. The maps were made to emulate the feel of E2 and E3 maps from Ultimate DooM, while using DooM II's resources.",
+	"version": "f72806",
+	"date": "2014-12-24 17:14:51",
+	"files": [
+		{
+			"filename": "incence2.wad",
+			"size": 1721877,
+			"crc": 653551528,
+			"md5": "870fcdb1eabb776357ba0b44f036ccfd",
+			"sha1": "f72806266ec31099bf9a910c3ac300395fe7ccbf",
+			"sha256": "9492fa717671056902631e17fce640becd4f015ef5fdd48558b4859e1935c46a"
+		}
+	]
+}

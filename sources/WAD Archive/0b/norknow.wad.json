@@ -1,0 +1,16 @@
+{
+	"uid": "norknow.wad",
+	"name": "NORKNOW",
+	"description": "This is a DEATHMATCH ONLY wad. It must be played under DEATHMATCH 2.0 rules. It is based on a flying arena with a few extra areas and tricks thrown in. If you do not use DEATHMATCH 2.0 rules, you will quickly run out of wings to fly with. There is an exit, but I threw in a Maulotaur to remind you that that should only be entered when everyone is ready.",
+	"date": "2014-01-07 22:13:38",
+	"files": [
+		{
+			"filename": "norknow.wad",
+			"size": 117568,
+			"crc": 4129078190,
+			"md5": "e87efe07d95b8045678235a133114de7",
+			"sha1": "0bb7d858feb2b782c7177cc5eaa4b9c9b1dcd4be",
+			"sha256": "1deb03102ba040c1d4b3d55afa280b93f11d0608c98429b7f778cb4b9e7438cb"
+		}
+	]
+}

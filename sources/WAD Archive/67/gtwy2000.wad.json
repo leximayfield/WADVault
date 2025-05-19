@@ -1,0 +1,16 @@
+{
+	"uid": "gtwy2000.wad",
+	"name": "Gateway 2000",
+	"description": "A 3 level pack containing new sprites, sounds, and music for Doom 2.",
+	"date": "2018-05-29 00:04:06",
+	"files": [
+		{
+			"filename": "gtwy2000.wad",
+			"size": 6258700,
+			"crc": 2954599357,
+			"md5": "8afd111a3f95635ec79c4b4c09cf96b7",
+			"sha1": "676ee8d9be4e08586f722aac6070741a6cc1832c",
+			"sha256": "842d88b76d8d66050d499f07669168a0801d2ca4c9c344ee50b3e39159478b7f"
+		}
+	]
+}

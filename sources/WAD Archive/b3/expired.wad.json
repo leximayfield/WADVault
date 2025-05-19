@@ -1,0 +1,16 @@
+{
+	"uid": "expired.wad",
+	"name": "Expired",
+	"description": "A nice sized pseudo-arena deathmatch WAD for two : players. (I don't have a network, only a modem). : Good for all styles of play (psycho runner, camper : sniper, tourist, etc.)",
+	"date": "2014-12-15 23:06:56",
+	"files": [
+		{
+			"filename": "expired.wad",
+			"size": 56386,
+			"crc": 926267118,
+			"md5": "2f498d85d385fa7775cf3e05b254681e",
+			"sha1": "b34e6cb7637996a48916c53c29082fc827f45414",
+			"sha256": "6d46a1c2720a9f4b09bfffd22ab870121bfbec7b3a2ef0792ad19ae01a7064a8"
+		}
+	]
+}

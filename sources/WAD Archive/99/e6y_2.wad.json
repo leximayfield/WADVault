@@ -1,0 +1,16 @@
+{
+	"uid": "e6y_2.wad",
+	"name": "e6y",
+	"description": "2 levels for any doom ports without vanilla engine limitations. PRBoom 2.2.6 from http://www.geocities.com/e6y/doom.html recommended",
+	"date": "2014-12-24 17:03:11",
+	"files": [
+		{
+			"filename": "e6y_2.wad",
+			"size": 1861911,
+			"crc": 1678067587,
+			"md5": "a5006064d4a5a5dff709ec0067e52326",
+			"sha1": "99044612c0167c23a590bb3bff6b7b0b68a361af",
+			"sha256": "a1dcf10f7b5fd94d7cd1e7ccd79d9fbe9cc57866169e7ab7870f42e03897c765"
+		}
+	]
+}

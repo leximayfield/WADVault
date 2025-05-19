@@ -1,0 +1,17 @@
+{
+	"uid": "terraces (19d81c).wad",
+	"name": "The Terraces",
+	"description": "Visually overhauled in February 2019. A classic Doom 2 city-style map originally made for the cancelled community project \"Plain Ol' Doom 2\". Originally designed as a Map 20 replacement. Level layout is a based on \"Central Yharnam\" level from From Software's Bloodborne, and the visual theme is a homage to Viggles' Brigandine.",
+	"version": "19d81c",
+	"date": "2019-03-23 00:30:06",
+	"files": [
+		{
+			"filename": "terraces.wad",
+			"size": 8530091,
+			"crc": 3906103456,
+			"md5": "3802d8b79ecc8a076d653c4aabac5f15",
+			"sha1": "19d81cac354034535718ff88e624611410fa6649",
+			"sha256": "ca402610764072d51936823365ed2db40d9bf5f199602a213c7cc8aa820d5f53"
+		}
+	]
+}

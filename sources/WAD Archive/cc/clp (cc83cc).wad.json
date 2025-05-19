@@ -1,0 +1,17 @@
+{
+	"uid": "clp (cc83cc).wad",
+	"name": "Cargo Loading Pad (It's just a name for the level,",
+	"description": "Your friends want to play Deathmatch, so you hook your computers up and play this WAD.",
+	"version": "cc83cc",
+	"date": "2014-01-11 11:10:13",
+	"files": [
+		{
+			"filename": "clp.wad",
+			"size": 143144,
+			"crc": 347755490,
+			"md5": "2d065d61c3b6626f148f36ba00a60fd3",
+			"sha1": "cc83ccf9f4ab8a1198078be629eb966b9dea309e",
+			"sha256": "87ed2bc24c7fe1c8af99161c1bf34947e44f207877ea701a4a72b7c13d9f26ac"
+		}
+	]
+}

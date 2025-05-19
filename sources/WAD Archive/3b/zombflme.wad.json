@@ -1,0 +1,16 @@
+{
+	"uid": "zombflme.wad",
+	"name": "Flame Thrower from Zombie Doom",
+	"description": "Due to the recent death of Zombie Doom, I've set out to create a series of weapons patches based on some of the weapons from the Zombie Doom beta. Al was cool enough to let me do this, so enjoy!",
+	"date": "2014-12-10 20:42:58",
+	"files": [
+		{
+			"filename": "zombflme.wad",
+			"size": 28496,
+			"crc": 4272498022,
+			"md5": "ec2fa467d3f6329373e36002d5a0b212",
+			"sha1": "3bb73ab91a9f70df900038f6c4842da113ed8917",
+			"sha256": "098307b58cac9c3a2b100717c72cf563db2877a5a01ed1f944fa8fdf95c65bc9"
+		}
+	]
+}

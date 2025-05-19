@@ -1,0 +1,16 @@
+{
+	"uid": "omniwprb.wad",
+	"name": "Omniverse's Weapon Rebalance",
+	"description": "A WAD for rebalancing the weapons in Doom. Primarily intended for DM, but could be used for single player or co-op as well. The purpose of this rebalance is to shift the focus of the weapon balance away from single player and towards DM, and to reduce the difference in power between several of the weapons. Most importantly, this should reduce the effectiveness of mindlessly spamming the rocket launcher or plasma rifle. Chainsaw: * Doubled the damage output to make it more useful. Should still be very hard to kill someone with, but at least it's more likely.",
+	"date": "2015-09-15 18:09:33",
+	"files": [
+		{
+			"filename": "omniwprb.wad",
+			"size": 1760,
+			"crc": 4111410591,
+			"md5": "3ffd07601deaf2193364ec90daf82049",
+			"sha1": "2c94556dd998a31331f19a3360f0bf1c40919f8d",
+			"sha256": "c7c9dd0543fc4007a4afb159e8e7f80bdb0020c7e0a6c5ec2430f0e2a5b6100c"
+		}
+	]
+}

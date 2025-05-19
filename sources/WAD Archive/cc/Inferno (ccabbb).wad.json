@@ -1,0 +1,17 @@
+{
+	"uid": "Inferno (ccabbb).wad",
+	"name": "Inferno",
+	"description": "A nine-level complete replacement for DOOM I, E3, full of special effects such as: - 3D bridges (over and under): levels 7, 9 - 560\u00f8 spiral staircase: level 7 - Blastable walls: levels 6, 9 - Monsters rising from water: level 9 - Lots o' cool architecture If you play nothing else, warp to level 7 -- it's probaly the best level I have ever made.",
+	"version": "ccabbb",
+	"date": "2014-12-14 21:08:15",
+	"files": [
+		{
+			"filename": "Inferno.wad",
+			"size": 4878063,
+			"crc": 648281412,
+			"md5": "780feb1c5352be6600355ddb1abe971a",
+			"sha1": "ccabbb1f70187a434f829c0de93923372b5806a1",
+			"sha256": "cbd8481fcc8b675e0696a49e72fee01b4fc3d6a5c6f34d01b54ebf5d51be10ba"
+		}
+	]
+}

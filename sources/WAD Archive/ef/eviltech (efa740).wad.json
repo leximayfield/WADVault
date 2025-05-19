@@ -1,0 +1,17 @@
+{
+	"uid": "eviltech (efa740).wad",
+	"name": "Eviltech: Soul Of Megawad (compatibility fixed version) with Map32 modifications",
+	"description": "classic doom megawad with 34 maps. I started this megawad in 2002! then I abandonned the project and reassumed it in 2011. back in 2002 I made the following maps: 01-11, 21, 23, 26, 70% 0f 24 and the drawing for 25. at that time my computer sucked and I used doome42 for editing, doomed42 is by far the crappiest doom editor ever, it's buggy as hell and too way primitive. it seems that my maps 24 and 25 could'nt be built with it because of its limitations, they crashed every time so I left the project due to dissapointment. In 2010 I dove again in the world of doom and got doombuilder 2 so I made the rest of the levels and corrected some texture misalingments of the old levels. you may notice that the 2002 levels are smaller and simpler, more old schoolish than the new ones witch have more detailing and harder gameplay. The levels take the names of the buenos aires subway stations and most of them have a color predominancy of the respective station. there are 3 episodes: line d (map01-11 and 31) line c (map12-20) line e (map21-30, 32 and 33) This was an idea just to give some cohesion to the wad, some kind of pattern. however this wad contains just classic doom levels and not subways or anything like that. This wad is strongly if not plainly themed on tech bases, i'd say that most of the levels have a shores of hell feeling but without the hell part, some others are more like tech doom2 levels (line c) only levels 12 and 20 are more city themed. There are a bunch of hell levels on the net and those plenty of brown bricks and wood straight lined maps which I'll never enjoy so I tried to make a tribute to the classic techbase themed doom. Every level has been tested under 3 basic conditions: 1- pistol start 2- ultra violence 3- finished with 0% of the secrets",
+	"version": "efa740",
+	"date": "2013-04-19 04:34:51",
+	"files": [
+		{
+			"filename": "eviltech.wad",
+			"size": 21937804,
+			"crc": 4172299529,
+			"md5": "f87c1f262595f9d6bb15df1950a544c5",
+			"sha1": "efa74071b5b692e0db4e08c6fa2a1e1bf5be2d18",
+			"sha256": "144704d03b17a452184a3d803cf0598323f60e3960e4b500d95f7d531db556bf"
+		}
+	]
+}

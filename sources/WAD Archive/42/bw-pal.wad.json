@@ -1,0 +1,16 @@
+{
+	"uid": "bw-pal.wad",
+	"name": "Doom Palette in Black & White",
+	"description": "A B/W version of the Doom palette and colormap. Loading this file as a PWAD will cause the game to lose colors. Why the hell would anyone want to do it? Firstly, the colormap was recalculated for the new grayscale palette. Since the palette contains a lot more shades of the same color, quality of lighting/shading effects has increased. It's specially noticeable in darkness - now even sectors with 0 brightness won't give pitch black, but a reasonable dusk instead. That's the biggest advantage. Works for every texture ever made for the Doom palette. No reinclusion of patches/sprites is needed. I admit the palette as itself won't make the gaming experience better in most cases. However I believe some modders might find this useful for their unusual works, that's why I'm releasing it. And perhaps for color-blind players? But this is probably nothing for standard playthroughs or to make a random wad better, I personally prefer to see colorful world too. :) Note: I made the palette by altering the original palette, using RGB-averaging technique - I did it manually for each color index. But I tweaked a couple of values in order to achieve better shade variety in the darkest shades of gray. Textures and sprites already using dark colours will turn even darker as a result. It shouldn't be a big problem, though.",
+	"date": "2015-09-14 21:54:00",
+	"files": [
+		{
+			"filename": "bw-pal.wad",
+			"size": 22203,
+			"crc": 3974726838,
+			"md5": "f9c378700056271d7163c8725125ad90",
+			"sha1": "42156a73498f68b067ff533d3e25e96806e855d5",
+			"sha256": "bd94a0e96165543643bc9a25e5061ee58eeec75a42ff77d51e342817e121327b"
+		}
+	]
+}

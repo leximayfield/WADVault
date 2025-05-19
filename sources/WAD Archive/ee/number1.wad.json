@@ -1,0 +1,16 @@
+{
+	"uid": "number1.wad",
+	"name": "The actual title is 'number1'",
+	"description": "This is a sound/music/item enhancement to SUPER1.WAD (DWANGO1.WAD map1)",
+	"date": "2013-11-02 15:44:39",
+	"files": [
+		{
+			"filename": "number1.wad",
+			"size": 499053,
+			"crc": 4254293579,
+			"md5": "71690279e7c974e283d0ee41055cc269",
+			"sha1": "ee199237ff1c7da075c8068aacea8223ff189f85",
+			"sha256": "f37a9c65d1f44c9b8fa9d90c7e1fc08b8f3b2d7d8c9439bfb4e2c453c32981a8"
+		}
+	]
+}

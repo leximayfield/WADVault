@@ -1,0 +1,16 @@
+{
+	"uid": "sonicdmo.wad",
+	"name": "Super Sonic DooM - Playable Demo",
+	"description": "This is a playable demo of it, with the first 2 zones (4 maps). I decided to release a demo because a lot of the features are experimental in nature, so I decided that getting feedback would be important, as it could help improve the megamod, and iron out any potential problems, particularly in the gameplay.",
+	"date": "2015-09-15 13:44:33",
+	"files": [
+		{
+			"filename": "sonicdmo.wad",
+			"size": 6352448,
+			"crc": 837034484,
+			"md5": "a286bf5e2edb6899d62365b27bce816a",
+			"sha1": "1cada875b185ab664f5481b2c13d1548c54a2bcb",
+			"sha256": "2de7cd696ba2b30b5398e8a336c3889e02d6bfbd03721b1c4c1e3c3771bbd4f9"
+		}
+	]
+}

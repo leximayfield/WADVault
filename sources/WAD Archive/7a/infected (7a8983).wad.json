@@ -1,0 +1,17 @@
+{
+	"uid": "infected (7a8983).wad",
+	"name": "INFECTED",
+	"description": "\"Let's talk about nothing\"",
+	"version": "7a8983",
+	"date": "2014-12-18 22:15:35",
+	"files": [
+		{
+			"filename": "infected.wad",
+			"size": 539147,
+			"crc": 2699510960,
+			"md5": "1238c6aa1bfa045a2ecc67f7eee079b3",
+			"sha1": "7a89836942680a6b1c6766182fd5892e010003aa",
+			"sha256": "c6085ddcb0442302dea8831e3ce43544ef80b276db956d632aca82b7e1a4242d"
+		}
+	]
+}

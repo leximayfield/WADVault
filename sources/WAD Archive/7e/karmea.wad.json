@@ -1,0 +1,16 @@
+{
+	"uid": "karmea.wad",
+	"name": "Entryway",
+	"description": "This is an updated version of the original karmea.wad. This is going to be the first map in my Doom ][ episode, \"One Hell Of A Day\". More info about that at http://www.geocities.com/espibrown/",
+	"date": "2014-12-27 12:50:20",
+	"files": [
+		{
+			"filename": "karmea.wad",
+			"size": 669832,
+			"crc": 1288648795,
+			"md5": "88e78148398553a11b1eb56bcbd5c0f1",
+			"sha1": "7eb05f348569998601e1b59e429ee93ab7eb1d65",
+			"sha256": "8bfe27ab0d2df4787b1ed769639b896618fbf9dc6c093fb24fc02f3e3ffbbd27"
+		}
+	]
+}

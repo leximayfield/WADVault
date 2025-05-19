@@ -1,0 +1,17 @@
+{
+	"uid": "fragasm5 (3157c0).wad",
+	"name": "Fragasm5",
+	"description": "A five-level fast-paced DEATHMATCH 2.0 frag fest.",
+	"version": "3157c0",
+	"date": "2014-01-07 22:02:58",
+	"files": [
+		{
+			"filename": "fragasm5.wad",
+			"size": 437765,
+			"crc": 424001820,
+			"md5": "3e3f156ae157d759eeed769cd764d4fa",
+			"sha1": "3157c08daf78aaf999e7e9041b1b6efd9cef270b",
+			"sha256": "e35454a1b0e81bf773fc3bb394db685adba85c36ff00dd1aa821561b68d15a92"
+		}
+	]
+}

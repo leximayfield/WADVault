@@ -1,0 +1,17 @@
+{
+	"uid": "ZUAKE! (680afa).wad",
+	"name": "QUAKE! for DOOM",
+	"description": "4 excellent deathmatch levels for DOOM. Me and my friends use nothing else when we run a deathmatch-weekend. There were supposed to be one more level but a major bug was discoverd during playtesting. Perhaps I'll include it in the sequel to QUAKE!, if I ever make one.",
+	"version": "680afa",
+	"date": "2014-01-07 22:05:11",
+	"files": [
+		{
+			"filename": "ZUAKE!.wad",
+			"size": 329745,
+			"crc": 2168569038,
+			"md5": "d33386d3a9efff89c875dc8726866fdd",
+			"sha1": "680afaa32720bbefebaf130d984a8b04751ecbc8",
+			"sha256": "73dafbba708c9bfc8e78108fcf66ec05b3b405a129b89047be1a1051c6d5f0aa"
+		}
+	]
+}

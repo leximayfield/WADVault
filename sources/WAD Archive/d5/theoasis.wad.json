@@ -1,0 +1,16 @@
+{
+	"uid": "theoasis.wad",
+	"name": "The Oasis",
+	"description": "The Oasis is a medium sized ZDoom map, featuring an egyptian theme.",
+	"date": "2018-12-01 03:18:43",
+	"files": [
+		{
+			"filename": "theoasis.wad",
+			"size": 13675222,
+			"crc": 755531530,
+			"md5": "3221497fb8c3e5fc85ccf34de5ac27b7",
+			"sha1": "d5148ae67456c49893a56e7576e0a5a01d1669a8",
+			"sha256": "24c43acc64dbd90ff635de068b080ede5e0252092eb8c298b28def3365f0a155"
+		}
+	]
+}

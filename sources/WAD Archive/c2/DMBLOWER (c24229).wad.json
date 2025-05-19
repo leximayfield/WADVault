@@ -1,0 +1,17 @@
+{
+	"uid": "DMBLOWER (c24229).wad",
+	"name": "The Blowernator",
+	"description": "This is an intense Cooperative level, or an awesome DeathMatch FragFest! This level can be played single player, but it is very difficult. This wad was designed with deathmatch play in mind, but it makes for an interesting challenge under any playmode. It is suitable for both old and new deathmatch (1.0 and 2.0). This level features every weapon and power-up in strategic locations. Good luck, and Happy Fragging.",
+	"version": "c24229",
+	"date": "2014-11-01 14:59:01",
+	"files": [
+		{
+			"filename": "DMBLOWER.wad",
+			"size": 113812,
+			"crc": 3676421595,
+			"md5": "c087914ce979326b4fda0657bf39ff2a",
+			"sha1": "c2422935cda08f2b8ea55d17e0a123d035da1d24",
+			"sha256": "1af48efebf831d7bbfe321aed22cb5a5779b407c75866fd0dd69e0ae1739fc8a"
+		}
+	]
+}

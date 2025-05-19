@@ -1,0 +1,16 @@
+{
+	"uid": "cdeath.wad",
+	"name": "Crushing Death",
+	"description": "Quick and easy single player map that has some carnage for the action junkies.",
+	"date": "2014-12-21 16:30:28",
+	"files": [
+		{
+			"filename": "cdeath.wad",
+			"size": 363380,
+			"crc": 3072588530,
+			"md5": "8a22cdb49a8b81f3918b9a7d33bb54c8",
+			"sha1": "df936afd9e7bfd78361cac8f75a83e069bdad77b",
+			"sha256": "55566a53551ee1783e13fb5306691036a36a1a2e70bd9299e1d5972de6058071"
+		}
+	]
+}

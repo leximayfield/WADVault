@@ -1,0 +1,16 @@
+{
+	"uid": "tglassin.wad",
+	"name": "T glass in",
+	"description": "A single map where you have to defeat the creator of the recent semi-funny Gamarra wads.",
+	"date": "2014-12-29 15:10:23",
+	"files": [
+		{
+			"filename": "tglassin.wad",
+			"size": 17448,
+			"crc": 4232016603,
+			"md5": "142885fd995dda99383a250050fd7a86",
+			"sha1": "3688ede2b42931407e45e3f2be91dda4290429ea",
+			"sha256": "6ec8b6e65cdb5aa07710c17b7fa5964b8921170b8f10068b08eee8d8a95241ac"
+		}
+	]
+}

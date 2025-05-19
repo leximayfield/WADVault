@@ -1,0 +1,17 @@
+{
+	"uid": "TOTCDOOM (f03b03).wad",
+	"name": "TOT COMICS DOOM",
+	"description": "TOT COMICS DOOM is a compilation of 6 classic Doom style maps specifically designed to be fun to play. To get that classic feel be sure to play this wad using doom95.exe.",
+	"version": "f03b03",
+	"date": "2015-01-14 23:00:28",
+	"files": [
+		{
+			"filename": "TOTCDOOM.wad",
+			"size": 1124959,
+			"crc": 3883606612,
+			"md5": "302be21616a0e304af782f0d5c7336f6",
+			"sha1": "f03b032552163bd6a22c5dc3ad68b73f702dfd01",
+			"sha256": "2c3bc05b4901ed667ee12104e89b5b3a40bd54bcde793fd98e55a306cc6b615b"
+		}
+	]
+}

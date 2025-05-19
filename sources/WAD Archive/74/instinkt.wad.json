@@ -1,0 +1,16 @@
+{
+	"uid": "instinkt.wad",
+	"name": "INSTINCT v1.0",
+	"description": "This is my 1st attempt at making a Doom 2 level. It's a decent sized play area with a few hairy situations. I built this sucker from scratch.",
+	"date": "2014-12-18 22:37:56",
+	"files": [
+		{
+			"filename": "instinkt.wad",
+			"size": 123720,
+			"crc": 887499850,
+			"md5": "c65adcb541adb8f2ad747dcc2b2c86e9",
+			"sha1": "74443ab92e57a06ee5b7087a99becc9ea4ac6294",
+			"sha256": "85497d2563c6d7e812019ee73596b0f510bdb4638cb8c95b3d4f28e575864037"
+		}
+	]
+}

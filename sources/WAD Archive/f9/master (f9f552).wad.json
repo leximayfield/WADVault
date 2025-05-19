@@ -1,0 +1,17 @@
+{
+	"uid": "master (f9f552).wad",
+	"name": "Master",
+	"description": "great Sigle/cooperative level",
+	"version": "f9f552",
+	"date": "2015-09-15 18:09:31",
+	"files": [
+		{
+			"filename": "master.wad",
+			"size": 141014,
+			"crc": 3891229982,
+			"md5": "090dadf4b5d44ee1c1b739e89a5058db",
+			"sha1": "f9f552ac5695a25b062a74f1f066ec5739824f08",
+			"sha256": "a895a72c8c1ebd12ea75aa2db2b6ed688fca3c8e6851400bf0d69148febefe64"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dmdoors.wad",
+	"name": "Deathmatch: (OutDoors)",
+	"description": "A deathmatch wad that is set in outdoors, there are alotsa place to hide:",
+	"date": "2014-12-15 22:17:49",
+	"files": [
+		{
+			"filename": "dmdoors.wad",
+			"size": 134078,
+			"crc": 3043113785,
+			"md5": "c749e178faa1d4cbad0d391d8b19f4d1",
+			"sha1": "b54cbe03bcc233c486db042158f5f75dfbd508a0",
+			"sha256": "1d58cec191cd949db3abe64a8b23a9f20621d6ef873d6e706568648bf583fb30"
+		}
+	]
+}

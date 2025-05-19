@@ -1,0 +1,16 @@
+{
+	"uid": "gdguns.wad",
+	"name": "Groovy Doom Guns",
+	"description": "Taking a step away from Alandoguns and trying out something new.",
+	"date": "2014-12-11 22:27:30",
+	"files": [
+		{
+			"filename": "gdguns.wad",
+			"size": 3830619,
+			"crc": 3577022571,
+			"md5": "d4420085f6cc9b1994efcf9192b73d25",
+			"sha1": "f88b4de17dd60ecdaf71cbf31048ef5702fba8c6",
+			"sha256": "b2d82b3156a94ecb053a139b698bfd673ba3f7f0da39e0a47c2333e3cd6a7368"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Lunar (ac9686).wad",
+	"name": "LUNAR BASE",
+	"description": "Designed for Deathmatch 2 for DOOM II Weapons: -------- Super Shotgun, Rocket Launcher, BFG, Plasma Gun",
+	"version": "ac9686",
+	"date": "2013-11-02 16:03:49",
+	"files": [
+		{
+			"filename": "Lunar.wad",
+			"size": 743888,
+			"crc": 1305253454,
+			"md5": "e131a55583bdf5f1879454750f4d25d3",
+			"sha1": "ac968614be4e6dfa7d4fcc297bc8e6c4912515d9",
+			"sha256": "83bc84327e4e8df29bfc9af2c2fb176296611aa94f19152f8a6da6b972959d20"
+		}
+	]
+}

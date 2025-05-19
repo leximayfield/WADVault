@@ -1,0 +1,16 @@
+{
+	"uid": "msout.wad",
+	"name": "The Main Server Outpost",
+	"description": "You must hack into the system to see what the monsters have planned, only to find out that the monsters actually plan to nuke your home planet! Now it's up to you to save your planet!",
+	"date": "2015-01-13 21:45:44",
+	"files": [
+		{
+			"filename": "msout.wad",
+			"size": 2379108,
+			"crc": 4113388172,
+			"md5": "f99b7534d76be7dd642a80163678e15c",
+			"sha1": "1efddb6641261fd13378954b9ca3ee2929e7fc38",
+			"sha256": "ab1b498a8dbb79745851ca9965f36c8d33ca8c996f4a63ab9a373fc1c287dd07"
+		}
+	]
+}

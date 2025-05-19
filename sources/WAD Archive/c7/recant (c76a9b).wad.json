@@ -1,0 +1,17 @@
+{
+	"uid": "recant (c76a9b).wad",
+	"name": "RECANT for HERETIC v1.0",
+	"description": "RECANT is a fairly large level and is geared more toward single play, although deathmatch and co-op are of course supported. The water room took me forever to put together, and the tower in the lava pit gave me nightmares with the texture alignment (all done manually, folks<g>). This was supposed to be a much bigger level, actually (and may be someday), but I'm worn thin and threadbare. Still, there are no loose ends here (I hope) -- and big levels, in general, don't impress me. They're a dime a dozen these days.",
+	"version": "c76a9b",
+	"date": "2013-11-02 16:39:34",
+	"files": [
+		{
+			"filename": "recant.wad",
+			"size": 221956,
+			"crc": 1644000469,
+			"md5": "bcee012afa11c5c5730d59a42877c46e",
+			"sha1": "c76a9b809aaadfedca8bc37a4142c1decda7a499",
+			"sha256": "cbd8dba7e2168a01ea671ecd51d6a1849102ec6cebeaa4ce02a53ad5e5e2c71a"
+		}
+	]
+}

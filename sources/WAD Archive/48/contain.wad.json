@@ -1,0 +1,16 @@
+{
+	"uid": "contain.wad",
+	"name": "Containment Area v1.1",
+	"description": "Consider this a tribute to the original Doom's E2M2. I always liked that level for some unexplainable reason, and thus felt it neccessary to emulate the style in this map. Even if you disliked that map I trust you'll have different feelings about this one!",
+	"date": "2014-12-21 16:52:52",
+	"files": [
+		{
+			"filename": "contain.wad",
+			"size": 1183198,
+			"crc": 1003033194,
+			"md5": "8f7715454dbc46b6d5dac55eacfc43cb",
+			"sha1": "4821d48aa70d565408766d0d9f0eef7c4745582f",
+			"sha256": "d2430506bfb573d734fc51de13695c248a258bce29600ad1622e80419275f4d2"
+		}
+	]
+}

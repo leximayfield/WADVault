@@ -1,0 +1,17 @@
+{
+	"uid": "ROOM2 (3d117b).wad",
+	"name": "Room of death",
+	"description": "You materialize on a ledge in the side of a large cavern. Looking around you realize its not a cavern, its an enormous room echoing with the growls of who knows what...",
+	"version": "3d117b",
+	"date": "2013-11-02 15:25:05",
+	"files": [
+		{
+			"filename": "ROOM2.wad",
+			"size": 50286,
+			"crc": 852748917,
+			"md5": "da79fcc583d54eaf1e6cdf7947f67733",
+			"sha1": "3d117b482d6ee1853d314f7ea94a2b17fa9550b9",
+			"sha256": "bf60918f34e9e5a1f14038468b61dc591b4380d4336c4f2a15807de647b0c8c2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "do2.wad",
+	"name": "DO22.WAD",
+	"description": "Actually, this is my first PWAD for DOOM2. It was built probably one year ago. It contains nothing new stuff, such as graphics, music, e.t.c. (I just had no any cool utils, such as WinTex, at the moment of writing).",
+	"date": "2014-12-18 22:34:16",
+	"files": [
+		{
+			"filename": "do2.wad",
+			"size": 379214,
+			"crc": 2282927538,
+			"md5": "43efb6fb79734db0f49d860e6023e09e",
+			"sha1": "8d6d1eacc39932e3198fd94818284e955b95275c",
+			"sha256": "3e78f128493a4935edde11dc6d058ec8d20ef8d2d23ee15cd256a2e4eede6391"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rodale.wad",
+	"name": "Rodale",
+	"description": "This wad was originally intended for Deathmatch, But I have learned since it can be great fun in Co-op play. There is a way to get to the outside courtyard, without clipping. Make sure you press ALL the buttons, and look for secret doors opening.",
+	"date": "2015-01-14 14:50:25",
+	"files": [
+		{
+			"filename": "rodale.wad",
+			"size": 308578,
+			"crc": 3375998928,
+			"md5": "ba33ddd6b2084c99c958fdc151fcd82e",
+			"sha1": "b76c2a2b1dd2ec3d687418b5b7c72d47f3eeac03",
+			"sha256": "1f4794988f92824dfeea2d8c8ad6a216365995f0468448791c9687e5104a3c6f"
+		}
+	]
+}

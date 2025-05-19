@@ -1,0 +1,16 @@
+{
+	"uid": "drac_core.wad",
+	"name": "Computer Core",
+	"description": "I made three deathmatch wads a while ago and finally decided to release them to the idgames ftp. This is one of them. In this map, you're going to be fighting in a computer core station deep underground. Hurry to the storage rooms to grab the heavy weapons, and try get through the security door that teleports to the blue armor. Strike your enemies with weapons 3-5 before you get exterminated!",
+	"date": "2014-12-15 21:40:35",
+	"files": [
+		{
+			"filename": "drac_core.wad",
+			"size": 54632,
+			"crc": 2514461526,
+			"md5": "db3512df4bcbcca16b7ddb06c07f6e71",
+			"sha1": "43f528ee4f0ed7430ce75057f435c12820e6de99",
+			"sha256": "489e26a95896abc86fc8bb4024c8f2042db48ab6a5968602787d5a5ec44b4cc0"
+		}
+	]
+}

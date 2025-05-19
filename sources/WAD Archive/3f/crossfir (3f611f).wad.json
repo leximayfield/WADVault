@@ -1,0 +1,17 @@
+{
+	"uid": "crossfir (3f611f).wad",
+	"name": "Crossfired",
+	"description": "My first map, it has like two secrets, some encounters when you need to act fast, some switches, and absolutely no keycards. Difficulty matters, it changes some monster placement and gives you more stuff at one point. Have fun",
+	"version": "3f611f",
+	"date": "2015-09-14 22:25:37",
+	"files": [
+		{
+			"filename": "crossfir.wad",
+			"size": 291178,
+			"crc": 3943199081,
+			"md5": "603cb6cbd08b695091a71680d42036a2",
+			"sha1": "3f611f8db86ea053d4cc737fd5c5f186680a9e9f",
+			"sha256": "1db2501a64530360746d84c53dedc27e2b3f195fa9011f4f3baf83b26f901250"
+		}
+	]
+}

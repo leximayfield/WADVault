@@ -1,0 +1,17 @@
+{
+	"uid": "GG (3bba28).wad",
+	"name": "GG",
+	"description": "Play it and see... My first level, not too complicated.",
+	"version": "3bba28",
+	"date": "2013-07-09 20:22:55",
+	"files": [
+		{
+			"filename": "GG.wad",
+			"size": 17444,
+			"crc": 3390990877,
+			"md5": "79edcfd356add51024c81c971ba472b2",
+			"sha1": "3bba28dca6a3d81c3b66e5bd63abaf7527847238",
+			"sha256": "4ea4555b49bc295a3cc2c6a3b9adb5127c22fc975c37b132397aec9d60a4d318"
+		}
+	]
+}

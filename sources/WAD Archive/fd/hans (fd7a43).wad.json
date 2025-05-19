@@ -1,0 +1,17 @@
+{
+	"uid": "hans (fd7a43).wad",
+	"name": "Hanslumbik's Fighting Arena!",
+	"description": ": This a demo of hans.wad in action, recorded at the Legendary Arena BBS in Melbourne, Australia (03) 98248199",
+	"version": "fd7a43",
+	"date": "2014-12-15 22:08:07",
+	"files": [
+		{
+			"filename": "hans.wad",
+			"size": 168971,
+			"crc": 3639442491,
+			"md5": "06de32447450df7a83cf9f77716fef36",
+			"sha1": "fd7a43e9733fd1c29f93276fb670782a737b58ff",
+			"sha256": "88b9b6721ff1a8f2886e912d0e43ef4360b1cb622ea44fb27b93c3f0fc00b923"
+		}
+	]
+}

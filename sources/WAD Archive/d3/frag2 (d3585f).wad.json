@@ -1,0 +1,17 @@
+{
+	"uid": "frag2 (d3585f).wad",
+	"name": "Frag2.WAD",
+	"description": "Deathmatch play map 01 should use respawn as it could get one sided if one player is quite good there are only four monsters",
+	"version": "d3585f",
+	"date": "2013-11-02 15:50:43",
+	"files": [
+		{
+			"filename": "frag2.wad",
+			"size": 54057,
+			"crc": 2088941488,
+			"md5": "0e87e6f43bbf5e4814bdbcb8f8b29b7d",
+			"sha1": "d3585f93f1d8e6fe9bc4679fa776f369dae4a5d2",
+			"sha256": "d2423df00dee10a76afc58d81d98e96963b04909ec3bdd9a9775d3b011866f35"
+		}
+	]
+}

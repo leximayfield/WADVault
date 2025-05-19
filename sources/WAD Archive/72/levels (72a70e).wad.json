@@ -1,0 +1,17 @@
+{
+	"uid": "levels (72a70e).wad",
+	"name": "Levels - Final Release",
+	"description": "Designed for deathmatch, in a way multilevelled. Had to change floor height of Deathmatch starts, you could skip into them before, bad idea...",
+	"version": "72a70e",
+	"date": "2014-12-15 22:58:46",
+	"files": [
+		{
+			"filename": "levels.wad",
+			"size": 137242,
+			"crc": 3416799462,
+			"md5": "eefb6cf8a16cb6f828196ee100252f5b",
+			"sha1": "72a70e2ad18c1fab34f6b078ba2f5a4d4c02fd82",
+			"sha256": "52b1d554f04a94acdac2ea5b571276681a7ba9b3ba846e9b7b1f20e95bd50ebe"
+		}
+	]
+}

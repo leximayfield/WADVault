@@ -1,0 +1,16 @@
+{
+	"uid": "mortem.wad",
+	"name": "POST MORTEM",
+	"description": "Stepping into the elevator after a hard days work at the widget factory, you suddenly find yourself magically transported to the magical land of DOOM, where, greeted by the local denizens, you set off on a mystical journey down the yellow brick road........hey, wait a minute.....wrong story line....",
+	"date": "2013-11-02 15:18:41",
+	"files": [
+		{
+			"filename": "mortem.wad",
+			"size": 108909,
+			"crc": 358437681,
+			"md5": "b95adfde659fe2ee49db876bd70a5be2",
+			"sha1": "0c23d5908ce348f6eeced846078dd6d0c7b48db1",
+			"sha256": "359f45bfcdbe62dd520d7574987dad8368c52c23d7fa7ef0e005f3795a55d394"
+		}
+	]
+}

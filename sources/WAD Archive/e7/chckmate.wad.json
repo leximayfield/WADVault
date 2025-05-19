@@ -1,0 +1,16 @@
+{
+	"uid": "chckmate.wad",
+	"name": "Chckmate.wad",
+	"description": "Original doom2 deathmatch wad 2 to 4 players probably better with 4. 8 deathmatch starts so you won't know where the one you just killed will come back to life at.",
+	"date": "2014-01-07 22:02:54",
+	"files": [
+		{
+			"filename": "chckmate.wad",
+			"size": 402491,
+			"crc": 3320795876,
+			"md5": "15c7cc4b75698621a26e7969df355889",
+			"sha1": "e79ed6d82c39c36e12d484d5d40b3458c72ce786",
+			"sha256": "75f5b73ea5d57f13c2bdf7634dba5f4e5c394afa6ae17ba298b7d3d2a8ab6707"
+		}
+	]
+}

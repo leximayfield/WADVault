@@ -1,0 +1,16 @@
+{
+	"uid": "pitlifts.wad",
+	"name": "pitlifts",
+	"description": "For DOOM 2 A dm level with lots of lifts, long dropoffs, and every weapon but the BFG",
+	"date": "2014-12-15 22:05:21",
+	"files": [
+		{
+			"filename": "pitlifts.wad",
+			"size": 38052,
+			"crc": 1964404095,
+			"md5": "79a030b3c30d6a723f6bcab79331023b",
+			"sha1": "e9f2f575dfb086655c0d61ba5e895d09b93e204c",
+			"sha256": "4b74df814a5b3e0035c4fa36c7f49a331bc445e167ecbe296ce09a08b9aebfd0"
+		}
+	]
+}

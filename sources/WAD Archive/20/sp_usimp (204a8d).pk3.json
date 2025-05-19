@@ -1,0 +1,17 @@
+{
+	"uid": "sp_usimp (204a8d).pk3",
+	"name": "Ultimate Simplicity",
+	"description": "Ultimate Simplicity is a megawad comprised of 3 episodes, including 30 maps. It is essentially an overhauled version of the original Simplicity, with vast improvements made overall. See the NOTES section for more detailed information.",
+	"version": "204a8d",
+	"date": "2013-04-19 02:17:29",
+	"files": [
+		{
+			"filename": "sp_usimp.pk3",
+			"size": 16846446,
+			"crc": 1562639722,
+			"md5": "ba4af3c45df73ddd7b8f3dae77cae118",
+			"sha1": "204a8d91c90f2112d814df68bff335e386deb4d6",
+			"sha256": "617dce36a68be7e4fbe7603e00ba562273f6195f1c249ad1f7d9007772426270"
+		}
+	]
+}

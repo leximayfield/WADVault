@@ -1,0 +1,17 @@
+{
+	"uid": "coolwad (7b14f4).wad",
+	"name": "COOL.WAD",
+	"description": "Good level for all forms of DOOM play. : Many secrets, lifts, teleporters, and : wide open areas. It's also loaded with : monsters for maximum carnage. Expert : only.",
+	"version": "7b14f4",
+	"date": "2013-11-02 16:52:32",
+	"files": [
+		{
+			"filename": "coolwad.wad",
+			"size": 81981,
+			"crc": 2644642885,
+			"md5": "64319d8f348c2251e2b8bb34f0e0277c",
+			"sha1": "7b14f4006371282572f1502149aff27b4a8b3aa8",
+			"sha256": "f7e3863871be1a7c5c0e839df43ee0985f28b6b9a168c16169afa9df8273c874"
+		}
+	]
+}

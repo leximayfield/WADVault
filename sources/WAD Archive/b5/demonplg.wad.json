@@ -1,0 +1,16 @@
+{
+	"uid": "demonplg.wad",
+	"name": "Demon Plague for Doom 2",
+	"description": "The only cure for this plague is your trusty shotgun. Your mission is to clean out the demon infestion of a long deserted, slime-encrusted outpost. This level was inspired by the general 'look' of many Quake levels. Great single player, deathmatch and co-op action.",
+	"date": "2013-04-21 00:47:05",
+	"files": [
+		{
+			"filename": "demonplg.wad",
+			"size": 369589,
+			"crc": 769288905,
+			"md5": "472700f1b922e6822cdb0f55b9c0d78b",
+			"sha1": "b50c7d2474d989303581f1089093b475163c785b",
+			"sha256": "097149f01015092f5a68a38eacaf37cffa22dbad1db450537c0878dfa19f1ec8"
+		}
+	]
+}

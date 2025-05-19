@@ -1,0 +1,16 @@
+{
+	"uid": "duplex.wad",
+	"name": "Duplex",
+	"description": "A big split techbase for the Advent 2005 map pack. Please use this version instead of the one under DAC7, as this fixes the Keen bug.",
+	"date": "2015-09-14 20:23:17",
+	"files": [
+		{
+			"filename": "duplex.wad",
+			"size": 2679196,
+			"crc": 2209367118,
+			"md5": "5489812fc5885dac3a5b3264008b9314",
+			"sha1": "331bd903b6d5111bf47b0e2e06e12b6c11dd19fe",
+			"sha256": "0961a3dc02ec6c7efb116de41dcee980f1567e062e7261242caba4fd4edb2ce0"
+		}
+	]
+}

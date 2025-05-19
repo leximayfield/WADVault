@@ -1,0 +1,17 @@
+{
+	"uid": "torture (d5ae30).wad",
+	"name": "TORTURE.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. This level is centered around a beautiful courtyard. All weapons are available. You just have to find them if you can. There are monsters; lots and lots of monsters. There are many secret rooms and teleporters. There are good locations for snipers and lots of dark rooms and walk through walls. You can also trap your enemy in a cage, if you're good enough, and then crush him alive. Be careful not to fall into any of the lava pits! There is an exit on this level.",
+	"version": "d5ae30",
+	"date": "2014-12-15 21:37:57",
+	"files": [
+		{
+			"filename": "torture.wad",
+			"size": 85540,
+			"crc": 710487678,
+			"md5": "a66c50bd378ad144e2c2b1b8054d4def",
+			"sha1": "d5ae3091e7fa0eee0436da2675fdddf8becabdac",
+			"sha256": "73b2d3e309e2c2e07517fb704bb669365c995039fe5773db66b9a3654cdd2855"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "thebrdge.wad",
+	"name": "The Bridge",
+	"description": "A bridge across a deep lava pit. Lots a goodies on it.",
+	"date": "2014-12-15 22:46:02",
+	"files": [
+		{
+			"filename": "thebrdge.wad",
+			"size": 3754,
+			"crc": 2254807508,
+			"md5": "a3f69b6df1921b64b5668c7b70b81722",
+			"sha1": "bd342aa5ddcf32ad6d2e826f932f03f9e588a402",
+			"sha256": "625efc9c2ac72669f9255a6baaeb5e258aec3a95d236cdc1a8798ff857e7778c"
+		}
+	]
+}

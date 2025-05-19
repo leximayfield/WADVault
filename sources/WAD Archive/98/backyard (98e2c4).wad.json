@@ -1,0 +1,17 @@
+{
+	"uid": "backyard (98e2c4).wad",
+	"name": "The Backyard",
+	"description": "A short and pretty easygoing level inspired by Eternal Doom.",
+	"version": "98e2c4",
+	"date": "2015-09-15 17:09:54",
+	"files": [
+		{
+			"filename": "backyard.wad",
+			"size": 1787891,
+			"crc": 703219273,
+			"md5": "bdff40186fae4b5b8952d20fedae2a94",
+			"sha1": "98e2c41d1458c6c7abe2509d48843e6ea6991977",
+			"sha256": "6cd201abe4836afa721aaabfb0cd24e726beeacb4456949b625e7c07f44af001"
+		}
+	]
+}

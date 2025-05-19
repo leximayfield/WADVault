@@ -1,0 +1,17 @@
+{
+	"uid": "fptemple (b8b566).wad",
+	"name": "The Temple of Bal",
+	"description": "Wad file is designed for multi-player deathmatch. Naturally it has no monsters, and plenty of ammo and health. The setting is a (fantastically decorated) temple, where evil priests conduct secret rituals, raising hideous monsters. The teleport at the entrance is the only means of gaining entry to it. There are'nt any tricks etc, but WAD designers may wish to have a look how things were done...:) The exit is found outside on the platform, which is reached by activating the switch in the altar room. This means co-operation is needed to finish the level Ideally for 4 players, but is great for less. This was made for the doomII server on Flashpoint BBS",
+	"version": "b8b566",
+	"date": "2013-11-02 15:52:06",
+	"files": [
+		{
+			"filename": "fptemple.wad",
+			"size": 99392,
+			"crc": 2489583988,
+			"md5": "997eb6af63aa6dc6af46b69a6c4e6d71",
+			"sha1": "b8b56622475b25e1e8e4e45115c567c3630a7330",
+			"sha256": "9925c2b5c11c8065ad8e3bd1e519d699429f54e0bfaaa54f3d71a34750cef2cf"
+		}
+	]
+}

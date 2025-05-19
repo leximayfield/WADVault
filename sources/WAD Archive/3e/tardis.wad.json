@@ -1,0 +1,16 @@
+{
+	"uid": "tardis.wad",
+	"name": "The TARDIS",
+	"description": "Deathmatch WAD set in the TARDIS",
+	"date": "2015-09-14 20:09:06",
+	"files": [
+		{
+			"filename": "tardis.wad",
+			"size": 1077796,
+			"crc": 1298639637,
+			"md5": "24cc12350686afff8d34f59b0ac7e0c1",
+			"sha1": "3e03278514039d54223ba9d6d6d42823960a1449",
+			"sha256": "4359b57d31528fdc75f7ac98baf185d59fe7d67e5696b98e604a0157f65ab9ec"
+		}
+	]
+}

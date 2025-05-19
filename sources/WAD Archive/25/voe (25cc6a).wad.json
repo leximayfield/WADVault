@@ -1,0 +1,17 @@
+{
+	"uid": "voe (25cc6a).wad",
+	"name": "Visions of Eternity",
+	"description": "Visions of Eternity is an episode for Ultimate Doom.",
+	"version": "25cc6a",
+	"date": "2014-12-13 17:33:26",
+	"files": [
+		{
+			"filename": "voe.wad",
+			"size": 2798484,
+			"crc": 2704108925,
+			"md5": "4b980b98b004ef694a729056c7db7124",
+			"sha1": "25cc6adc239fc403c1d74560820093881662f131",
+			"sha256": "4ae82e67b9bdf17b286bbd28d084bfb7f50938d555e4c88cae9c997a1ed9cefc"
+		}
+	]
+}

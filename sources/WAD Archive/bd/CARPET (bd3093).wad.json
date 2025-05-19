@@ -1,0 +1,17 @@
+{
+	"uid": "CARPET (bd3093).wad",
+	"name": "The Red Carpet of Hell",
+	"description": "Merely a development (of a development) of my first simple test WAD, this level is not very ambitious, but this second release is a litte bigger, and ultraviolence is tougher.",
+	"version": "bd3093",
+	"date": "2014-08-30 14:02:27",
+	"files": [
+		{
+			"filename": "CARPET.wad",
+			"size": 68336,
+			"crc": 700836959,
+			"md5": "e730af0dbc307322850ad8871a574e0a",
+			"sha1": "bd309341da4b21adf168e0a8b5eb6632d1541589",
+			"sha256": "cd78d542f8e61590fcdf19f7c5add951c9f9483824ce46753a033e1e7597fa93"
+		}
+	]
+}

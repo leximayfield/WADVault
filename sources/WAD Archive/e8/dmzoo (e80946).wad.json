@@ -1,0 +1,17 @@
+{
+	"uid": "dmzoo (e80946).wad",
+	"name": "DMZOO.WAD",
+	"description": "The DOOM Zoo has gone crazy. All the animals and zookeepers have mutated into, you guessed it, DOOM monsters. Your mission is to terminate ALL life forms at the Zoo.",
+	"version": "e80946",
+	"date": "2013-11-02 16:01:57",
+	"files": [
+		{
+			"filename": "dmzoo.wad",
+			"size": 134859,
+			"crc": 648267564,
+			"md5": "b2bf9ca26ddf89670d74f27e154319e7",
+			"sha1": "e80946cd52feb85afe5cf8f1c035414c79e3ee10",
+			"sha256": "697cbe6a0163f077df462676c87399b98e601d1e43006992f588ceafd4f57d2e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "misery (ef87ce).wad",
+	"name": "Dungeon of Misery",
+	"description": "My first map. An agonizingly difficult hell-revealed style level with some extra twists.",
+	"version": "ef87ce",
+	"date": "2015-09-15 19:24:53",
+	"files": [
+		{
+			"filename": "misery.wad",
+			"size": 242502,
+			"crc": 950146393,
+			"md5": "f3edd27cc2ca3488a4fa51d9cb7c74ac",
+			"sha1": "ef87ce5f610b8b83fd4c3ebc9542ed6fc0ff68b6",
+			"sha256": "fd1911f9f43ebcde57c3fb1b35340d2b9e5ccb606f31df3fef1dfaab3e267db0"
+		}
+	]
+}

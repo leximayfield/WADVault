@@ -1,0 +1,17 @@
+{
+	"uid": "pit (46e0bc).wad",
+	"name": "The Pit!",
+	"description": "This is one of favorite DM levels so I thought I'd show it to a wider audience. In some ways it borrows ideas from the excellent Ledges series, and I've put a lot of thought into the design. The difference is that there is only one way out of the central pit: the lift. This makes for a lot of cat and mouse around the central building.",
+	"version": "46e0bc",
+	"date": "2014-12-15 22:41:50",
+	"files": [
+		{
+			"filename": "pit.wad",
+			"size": 127875,
+			"crc": 8280329,
+			"md5": "377d88802642f8127593910fc71885e7",
+			"sha1": "46e0bcb3402b2b50a6f3c12ec0e28808836f6ba2",
+			"sha256": "5eb552540f99e343d80614e2c03162f976964696cb7120a70052ca0ad56196ff"
+		}
+	]
+}

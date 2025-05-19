@@ -1,0 +1,16 @@
+{
+	"uid": "eulogy9.wad",
+	"name": "Eulogy 9",
+	"description": "This will be the final 'Eulogy' map. It's not a long one(should take 7-8 mins)but the ending is quite hard. Also, I've implimented a few more Boom features then I usually do(deep water w/color- map, currents, shadowcasting). See the tips for some more info.",
+	"date": "2014-12-24 19:17:46",
+	"files": [
+		{
+			"filename": "eulogy9.wad",
+			"size": 257805,
+			"crc": 669775793,
+			"md5": "598fc6b6784cf1e8b211757c64eff60b",
+			"sha1": "0caa94c0df0e68d05f248d3edff75ed01df86cf1",
+			"sha256": "972d4c17290104d6585397664a9f0b40e2d1ae61e423510f7f623304abb5cf18"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tabooturfctf.wad",
+	"name": "Taboo Turf: CTF",
+	"description": "A reworked version of TabooTurf from the Skulltag LMS pack (stlmsv2.wad), but modified for CTF play. I was going to do the modifications myself, but Johnny went ahead and did them for me, much to my angst.",
+	"date": "2013-04-19 00:59:10",
+	"files": [
+		{
+			"filename": "tabooturfctf.wad",
+			"size": 930843,
+			"crc": 4275280431,
+			"md5": "80a5e5c8a7941e09f003e1784324c8e3",
+			"sha1": "5cf18465d4c88bba1208b99f90dc1d040f85e9d7",
+			"sha256": "68a08cef37d9b0d53ddd7a85252179a1b4fcd060c1df42707a44fbce77c12240"
+		}
+	]
+}

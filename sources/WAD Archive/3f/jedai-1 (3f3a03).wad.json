@@ -1,0 +1,17 @@
+{
+	"uid": "jedai-1 (3f3a03).wad",
+	"name": "JEDAI-1.WAD",
+	"description": "Maybe, somewhat, kinda, in a way, like an evacuated Imperial weapons testing facility.",
+	"version": "3f3a03",
+	"date": "2016-02-07 20:35:14",
+	"files": [
+		{
+			"filename": "jedai-1.wad",
+			"size": 67866,
+			"crc": 4036683309,
+			"md5": "f3bfad02c38ecf034ce9fc9ff32cff28",
+			"sha1": "3f3a03adff7cf8f5630623d8a662e671c6f902aa",
+			"sha256": "d27510ca27fb49fb2f8cf81f52ec96b9cd10aa7d12de05c1771741a986c1d560"
+		}
+	]
+}

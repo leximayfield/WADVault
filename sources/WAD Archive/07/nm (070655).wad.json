@@ -1,0 +1,17 @@
+{
+	"uid": "nm (070655).wad",
+	"name": "Nothin Much",
+	"description": "8 levels. 6 of which are just mods of some of dooms first levels. I should also mention that the levels arnt that good, hence the name \"Nothing Much\"",
+	"version": "070655",
+	"date": "2014-12-15 21:20:58",
+	"files": [
+		{
+			"filename": "nm.wad",
+			"size": 492345,
+			"crc": 1946235958,
+			"md5": "c20beeb2c1afa046630040ad377e3402",
+			"sha1": "07065546cd77110b2513ab5da16607f60e57b6cd",
+			"sha256": "0c8c3209955b70e815ba6904fb33a9ecbb3987d1810d87c8164899b3fef7319f"
+		}
+	]
+}

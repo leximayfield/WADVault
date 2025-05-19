@@ -1,0 +1,17 @@
+{
+	"uid": "deadzone (e19eb3).wad",
+	"name": "DEADZONE.WAD",
+	"description": "This level was designed primarily as a three to four player deathmatch, but it can also be played through as a single player game. The level is based round a large central cavernous room containing four gun turrets. As a deathmatch level, the best places to be (in terms of where to find weapons and good ambush/sniper points) are also the most dangerous. These are the deadzones.",
+	"version": "e19eb3",
+	"date": "2013-07-09 20:22:12",
+	"files": [
+		{
+			"filename": "deadzone.wad",
+			"size": 116573,
+			"crc": 233781057,
+			"md5": "0fa554ca379c53b27890cb78a4f84fa5",
+			"sha1": "e19eb34d78b57ee3d8eebbb34bb90b24843cfc8c",
+			"sha256": "f538281756c4cbf1e16f0b5698b8a0b1520b8a0f071250c06e7ee6fc52e93c10"
+		}
+	]
+}

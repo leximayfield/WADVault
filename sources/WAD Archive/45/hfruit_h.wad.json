@@ -1,0 +1,16 @@
+{
+	"uid": "hfruit_h.wad",
+	"name": "The History of Fruit",
+	"description": "This is a 9 level Heretic wad designed for single/cooperative play. Have fun, and be sure to use the proper DMFLAGs listed below if you are playing on cooperative mode. 1-6 players should be the limit. Story: IN AN EPIC TURN OF EVENTS, the Overlords of Fruit have rallied their unequaled forces of ferocity and badness and meanness and have STRUCK BACK. It's up to the heretics to fight them back to the last bastion in THE HISTORY OF FRUIT: A BIT OF HERETIC COOP!",
+	"date": "2014-12-30 11:30:14",
+	"files": [
+		{
+			"filename": "hfruit_h.wad",
+			"size": 7433476,
+			"crc": 1269560493,
+			"md5": "06b3978d13258af9d25efa6b8ed82df4",
+			"sha1": "45d49ce569fd0397fcee446c86856a0a962d22ac",
+			"sha256": "5c3c1fc6c52c7d91f050d92ba2b571a8537ea148c14f1f97462094f3274150ac"
+		}
+	]
+}

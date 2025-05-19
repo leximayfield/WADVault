@@ -1,0 +1,17 @@
+{
+	"uid": "bull2 (4c37c9).wad",
+	"name": "BULL2.WAD",
+	"description": "Pentagon shaped outline, with most of the health in the center room, so you must fight over who gets it for there is a limited ammount of it. The higher the skill level the more abundance of better weapons.",
+	"version": "4c37c9",
+	"date": "2013-11-04 19:24:10",
+	"files": [
+		{
+			"filename": "bull2.wad",
+			"size": 16268,
+			"crc": 1322806290,
+			"md5": "00ddba980e6a91f38afefa35b5bae646",
+			"sha1": "4c37c94adb89c2e6f463220bed85e60581d42a1d",
+			"sha256": "ad2c632826f9ba2ba4ea3503b3d170fa9d0f81235810a52070f55f760f06e76e"
+		}
+	]
+}

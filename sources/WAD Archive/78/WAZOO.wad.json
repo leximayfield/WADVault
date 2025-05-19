@@ -1,0 +1,16 @@
+{
+	"uid": "WAZOO.wad",
+	"name": "Frags out the Wazoo",
+	"description": "Level is designed for two player Deathmatch.",
+	"date": "2013-11-02 23:56:45",
+	"files": [
+		{
+			"filename": "WAZOO.wad",
+			"size": 29720,
+			"crc": 4035484946,
+			"md5": "f22318076f5c1c60bbb0da67775b350a",
+			"sha1": "78cff17ef86f5d686e7b7c1bb8c3d44d8e86a6a6",
+			"sha256": "4e5ff94c11b984e336aa82b98eb7204864599f30b8cb7f308bce3341eef240de"
+		}
+	]
+}

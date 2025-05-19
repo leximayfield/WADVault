@@ -1,0 +1,17 @@
+{
+	"uid": "dmcort (a9e8ac).wad",
+	"name": "The Court Yard",
+	"description": "A tough basement, a fun maze, and a couple of teleports. Nothing too hard.",
+	"version": "a9e8ac",
+	"date": "2013-11-02 15:25:01",
+	"files": [
+		{
+			"filename": "dmcort.wad",
+			"size": 60623,
+			"crc": 3334419299,
+			"md5": "ea8bfd61b919955411f0f173da8e2d38",
+			"sha1": "a9e8ac16b2e87b9c36ee3b00d44408f201f6e107",
+			"sha256": "49544179c7a4ca4337cae60a5c4f378664cc9b5a6f9eeb960ec0756b5b325b57"
+		}
+	]
+}

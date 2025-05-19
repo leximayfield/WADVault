@@ -1,0 +1,17 @@
+{
+	"uid": "t1000 (7e87b3).wad",
+	"name": "T1000 LOOK A LIKES FOR DOOM 3D (PWAD-version)",
+	"description": "The file replaces the pink demons with a T1000 look a like. It's not exactly like the T1000 in the T2 movie, but it's were the original idea came from. The graphics patch has the same upper body of the T1000 (Silver head, chest, arms etc..) His legs have been replaced with red extended arms. He attacks you by making a huge (I mean HUGE!!) spike come out off his stomach and hitting you. I have also put some sounds in too. I didn't change all the old demon sounds because I thought it was best to leave these. If you disagree add your own sounds.",
+	"version": "7e87b3",
+	"date": "2018-04-14 13:30:46",
+	"files": [
+		{
+			"filename": "t1000.wad",
+			"size": 105332,
+			"crc": 1933813007,
+			"md5": "8f45c6d3b07cf6a947903240516a1b6e",
+			"sha1": "7e87b370c18d3a3a1dc0dce3973868a99d820ef2",
+			"sha256": "399d8430b87ac9f88a9c76dd5b6930e988de1dc800bace8de57f7561bf3240d3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bedlam (bc24b0).wad",
+	"name": "Bedlam",
+	"description": "Vanilla E3 replacement for doom.wad on marble/wood/caves/hell themes. No custom textures but custom music on each map. The first half takes place underground, after that you'll finally get to see the sky. The difficulty is maybe a bit higher than in original \"Inferno\". The project was organised by Memfis and he asked a couple of mappers to change some stuff here and there to make the episode more consistent but he tried to not limit the creativity too much so his influence shouldn't be very noticeable.",
+	"version": "bc24b0",
+	"date": "2014-12-13 17:53:10",
+	"files": [
+		{
+			"filename": "bedlam.wad",
+			"size": 1895363,
+			"crc": 2495064308,
+			"md5": "e51e2161914021df7a065854d1e42d69",
+			"sha1": "bc24b08a685d8512432993a2e18e90589125cab6",
+			"sha256": "172137ec7d34db979e7fb18eb4ed9321e3beed43e6baa12e92ab8c9a9b01a570"
+		}
+	]
+}

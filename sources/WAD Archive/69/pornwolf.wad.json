@@ -1,0 +1,16 @@
+{
+	"uid": "pornwolf.wad",
+	"name": "PORNWOLF.WAD",
+	"description": "PORNWOLF.WAD is a patch file for DOOM II. It contains 3 porno pics for 31-th level (and for 32-th level too). To play, unzip the PORNWOLF.ZIP file in your DoomII directory, then at the command-line enter doom2 -warp 31 -file pornwolf.wad",
+	"date": "2018-04-15 18:48:56",
+	"files": [
+		{
+			"filename": "pornwolf.wad",
+			"size": 52692,
+			"crc": 4016318879,
+			"md5": "cbf9f4575008b2fa59474f03e6fe9684",
+			"sha1": "69872e8c43c68966c9225066aee8d4c6bc4d7b8e",
+			"sha256": "fdef86676d37fbf640254e1fcaab108be2198823498709af51f2dd46250a81d5"
+		}
+	]
+}

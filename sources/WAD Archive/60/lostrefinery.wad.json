@@ -1,0 +1,16 @@
+{
+	"uid": "lostrefinery.wad",
+	"name": "Lost Refinery",
+	"description": "This is a lost toxin refinery hidden in one of the many",
+	"date": "2014-12-13 17:25:11",
+	"files": [
+		{
+			"filename": "lostrefinery.wad",
+			"size": 269273,
+			"crc": 4009564104,
+			"md5": "306ad48ef746bbc21df377c70e19a77d",
+			"sha1": "608a44eba092862eb260ab93a55e44b7c9bac287",
+			"sha256": "959464248ef06a72b28a1fbfb9d705d3d802509b492f4e214159b676cf1a3a98"
+		}
+	]
+}

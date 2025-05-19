@@ -1,0 +1,17 @@
+{
+	"uid": "dstraits (455ff8).wad",
+	"name": "DireStraits   Vol #1 of the HoloDeck Series",
+	"description": "Holodeck Adventure Series Volume #1 - DireStraits Enter HoloDeck to escape deadly energy scan on ship. Locate Holodeck exit and return to ship. Secure ship.",
+	"version": "455ff8",
+	"date": "2014-01-07 21:47:54",
+	"files": [
+		{
+			"filename": "dstraits.wad",
+			"size": 980672,
+			"crc": 3523099220,
+			"md5": "1ae5f37300a801ee7fe72655f7542285",
+			"sha1": "455ff877fcd4b2aad733cdb72aea7b21185093c0",
+			"sha256": "efb29c7788df11f16d46871ddca2997826538eb536dc4ec6f9d860949ed0ec72"
+		}
+	]
+}

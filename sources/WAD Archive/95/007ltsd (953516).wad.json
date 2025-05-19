@@ -1,0 +1,17 @@
+{
+	"uid": "007ltsd (953516).wad",
+	"name": "007: Licence to Spell DooM",
+	"description": "An Ultimate ZDoom episode! Yes, I decided to go all modern and build a source port only episode. Having seen the ZDoom features for the first time shortly after the release of Shadowcaster, I decided to build for ZDoom, as it's features are REALLY cool, and I have lots of cool ideas for them!",
+	"version": "953516",
+	"date": "2014-12-14 20:42:45",
+	"files": [
+		{
+			"filename": "007ltsd.wad",
+			"size": 15801272,
+			"crc": 2821688946,
+			"md5": "c069fd64dac6b810945bcdb9f83f4f4e",
+			"sha1": "953516b999af475bfe1b897fa64238fa9705682a",
+			"sha256": "84689e6f825d068ae4bdbcc194fd2d9b2774f19a740836d003ffab19d45d1bcb"
+		}
+	]
+}

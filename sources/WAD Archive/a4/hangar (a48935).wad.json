@@ -1,0 +1,17 @@
+{
+	"uid": "hangar (a48935).wad",
+	"name": "The Cursed Hangar",
+	"description": "This was the first level of the Freedoom project from around 2006 to 2017. It has recently been replaced and so I decided to make some edits and fixes, to create a \"definitive cut\" version and release it stand alone. I chose the name \"The Cursed Hangar\" for this final re-issue.",
+	"version": "a48935",
+	"date": "2017-06-27 00:21:49",
+	"files": [
+		{
+			"filename": "hangar.wad",
+			"size": 668828,
+			"crc": 903769420,
+			"md5": "58c41fb6715b4d017bbaa61c9274f911",
+			"sha1": "a4893553351d361ff081128066bedb4ae2ab64bf",
+			"sha256": "867dd1ca136665b500ee7af2d20e7cedbd04bcce72430e0235a58842a4160579"
+		}
+	]
+}

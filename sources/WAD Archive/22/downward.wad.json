@@ -1,0 +1,16 @@
+{
+	"uid": "downward.wad",
+	"name": "DownWard",
+	"description": "Downward is DM level, heavily inspired by DM maps from other games like Unreal Tournament and Quake. A simple level design yet very versatile and flexible.",
+	"date": "2018-06-15 11:25:55",
+	"files": [
+		{
+			"filename": "downward.wad",
+			"size": 351893,
+			"crc": 2367689223,
+			"md5": "6e8c4653de79bc0f5e5ef3b04f92aa0e",
+			"sha1": "22505601f73904cb823a47f7d4ab9d8525d98b3b",
+			"sha256": "44ee03fada3530270a67ce07f3db3240aaebbc0317724a70662cfadd4e7de2d4"
+		}
+	]
+}

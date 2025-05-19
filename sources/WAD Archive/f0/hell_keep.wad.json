@@ -1,0 +1,16 @@
+{
+	"uid": "hell_keep.wad",
+	"name": "Hell Keep",
+	"description": "Dark brick/wood/metal place using some slopes and scripting for zdoom.",
+	"date": "2014-12-22 18:34:18",
+	"files": [
+		{
+			"filename": "hell_keep.wad",
+			"size": 947552,
+			"crc": 4259560128,
+			"md5": "000dccf077d68cb3b66149aee239094a",
+			"sha1": "f091651f0825f92797f46b538dca98e4ba1974a6",
+			"sha256": "145ee03a2d949d5dee484caa308730a7029797b8ad2828bd9e0a0df7ce054ae8"
+		}
+	]
+}

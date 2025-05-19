@@ -1,0 +1,16 @@
+{
+	"uid": "oct11.wad",
+	"name": "October",
+	"description": "A 6 level Doom 2 mapset comprised of levels made for Doomworlders whose birthdays were in October",
+	"date": "2015-01-13 21:36:51",
+	"files": [
+		{
+			"filename": "oct11.wad",
+			"size": 896833,
+			"crc": 672508517,
+			"md5": "df5bf265c7ff674e04a620566928b72d",
+			"sha1": "19b3f87a438780e0c0e18f1daef2597df0182317",
+			"sha256": "3627c4038fa4fbec3ea05e9b22501eabaaae6428c68359c4db4c70d705f29c1d"
+		}
+	]
+}

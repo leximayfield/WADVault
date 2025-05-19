@@ -1,0 +1,16 @@
+{
+	"uid": "wc_v2.wad",
+	"name": "Woodcraft",
+	"description": "A big exploration in a forest mixed with moutains.",
+	"date": "2018-02-15 20:34:22",
+	"files": [
+		{
+			"filename": "wc_v2.wad",
+			"size": 431324,
+			"crc": 2347904927,
+			"md5": "a6c0b28d7da238d4ba0d9a6e84fd25e5",
+			"sha1": "7f7cc30a8174ff489d7afe7f3095f7841ba624cf",
+			"sha256": "8b05534b6db476834dd7e1057df2a388e060b9119d7f17d0efb0571b2f05036d"
+		}
+	]
+}

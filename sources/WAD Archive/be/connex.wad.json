@@ -1,0 +1,16 @@
+{
+	"uid": "connex.wad",
+	"name": "Connex",
+	"description": "A Doom new level map for E1M2",
+	"date": "2014-12-13 12:42:09",
+	"files": [
+		{
+			"filename": "connex.wad",
+			"size": 33402,
+			"crc": 2313174654,
+			"md5": "5f48853819a17469912a18d95f35ee22",
+			"sha1": "be7b35f2c2e6347df959451ca657d697317a9994",
+			"sha256": "a6c6bfd721b6db91e751232e1d70879697e72bacb5b923a81b76e1aefc86e0f0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bigmac (4345ad).wad",
+	"name": "Big Mac",
+	"description": "You get to work in the morning, come out of the parking garage, and find the office is infested with mutant monsters from Mars. Time to kick some alien butt!",
+	"version": "4345ad",
+	"date": "2013-11-02 15:09:05",
+	"files": [
+		{
+			"filename": "bigmac.wad",
+			"size": 139276,
+			"crc": 1749747448,
+			"md5": "bd838ef87e7aa437cfaa64b37cfe4e70",
+			"sha1": "4345ad2deb1c0fbf32d4267db3e576e692520f1c",
+			"sha256": "07c0bb754a76d26bd5b8122f156423bd37c5ee7c953e9cbdf5e477aa89afd1ea"
+		}
+	]
+}

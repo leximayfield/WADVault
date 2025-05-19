@@ -1,0 +1,16 @@
+{
+	"uid": "grotectfr.wad",
+	"name": "Grotesque CTF - Revisions",
+	"description": "Fifteen CTF levels made for either zdaemon or skulltag, runs fine in both.",
+	"date": "2013-04-19 01:00:07",
+	"files": [
+		{
+			"filename": "grotectfr.wad",
+			"size": 15438105,
+			"crc": 2912267772,
+			"md5": "d28c31cc0b4f8269ea43f2d4e1125b28",
+			"sha1": "459fd6af27d51bc54ef955bf235c7cf6936e173a",
+			"sha256": "4fd28e38f243e8faa454040f1c25700203be9d87952f5947f65cf44cd6cd8789"
+		}
+	]
+}

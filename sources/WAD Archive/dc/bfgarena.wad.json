@@ -1,0 +1,16 @@
+{
+	"uid": "bfgarena.wad",
+	"name": "BFG arena",
+	"description": "this dehacked makes the game BFG-only",
+	"date": "2014-12-15 21:49:33",
+	"files": [
+		{
+			"filename": "bfgarena.wad",
+			"size": 1435,
+			"crc": 2686457427,
+			"md5": "f77d4033ec9a223f3191cc254287de97",
+			"sha1": "dc6827b1730344e01703cbbf38a65f49ee5a359f",
+			"sha256": "9d793e8c9227819d9368c27e0dea586e1d9d1cac604f454a93f193294cca3bd8"
+		}
+	]
+}

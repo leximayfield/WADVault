@@ -1,0 +1,17 @@
+{
+	"uid": "pe1_phob (85d46f).wad",
+	"name": "Simply Phobos",
+	"description": "A superb E1 replacement for the Ultimate Doom replacing all of episode 1, plus a secret E2M9 by Kristian Aro. All levels take place in an era similar to Knee Deep in the Dead.",
+	"version": "85d46f",
+	"date": "2013-04-19 04:46:10",
+	"files": [
+		{
+			"filename": "pe1_phob.wad",
+			"size": 2385937,
+			"crc": 2702225875,
+			"md5": "35f15d0c61cff9761126919c198ed5ec",
+			"sha1": "85d46fa5a6cea24b12a7e383ddcb36c1479151ce",
+			"sha256": "7cd0f472a4e49973e06b07f4875cf69dcbf9d86069fc03a420ba68c9ae6261c7"
+		}
+	]
+}

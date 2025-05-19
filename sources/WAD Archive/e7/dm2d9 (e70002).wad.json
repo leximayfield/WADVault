@@ -1,0 +1,17 @@
+{
+	"uid": "dm2d9 (e70002).wad",
+	"name": "D9-2.WAD for DOOM II!",
+	"description": "D9-2! This is a 7 level mini deathmatch episode for Doom2!! This mini jobbie contains the first three levels from the original D9 plus four more for your killing enjoyment! D9-2 will put the fun back in funeral!",
+	"version": "e70002",
+	"date": "2013-09-14 02:55:09",
+	"files": [
+		{
+			"filename": "dm2d9.wad",
+			"size": 843897,
+			"crc": 512930204,
+			"md5": "32d73085e86de34e691c1d6307fcc435",
+			"sha1": "e700029bcc415be7462e33f0fb1d6a9c176fb29e",
+			"sha256": "fba008a16ad0c7d807daec8bce2593386c187818f2a4ea97db49bb5f171ad255"
+		}
+	]
+}

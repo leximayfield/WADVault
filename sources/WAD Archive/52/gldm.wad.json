@@ -1,0 +1,16 @@
+{
+	"uid": "gldm.wad",
+	"name": "[GL] Deathmatch",
+	"description": "A compilation of Deathmatch maps made by the [GL] Team.",
+	"date": "2013-04-21 13:47:46",
+	"files": [
+		{
+			"filename": "gldm.wad",
+			"size": 10527332,
+			"crc": 1462001337,
+			"md5": "5e87e6e58b4c727a2391d894e563373d",
+			"sha1": "527962dcb875790391383e433fa51772c7998015",
+			"sha256": "7a98039add24f8ec4389be9ee50ca5e5227870f1bb30057e8ea44894b6d86936"
+		}
+	]
+}

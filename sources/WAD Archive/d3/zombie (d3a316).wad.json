@@ -1,0 +1,17 @@
+{
+	"uid": "zombie (d3a316).wad",
+	"name": "ZOMBIES",
+	"description": "The levels follows George A. Romero's great movies \"Dawn of the Dead\" & \"Day of the Dead\", known to as \"ZOMBIE 1 & 2\"",
+	"version": "d3a316",
+	"date": "2013-04-19 17:47:53",
+	"files": [
+		{
+			"filename": "zombie.wad",
+			"size": 6659868,
+			"crc": 2704676572,
+			"md5": "8e6316489db78c6f273b1631a6080ee9",
+			"sha1": "d3a316953a0964399226e0a08f667146ca5e264e",
+			"sha256": "f4856b49aba97602e09084be6c21acc6e5b982b909d52216c8841d1e55f2a5d9"
+		}
+	]
+}

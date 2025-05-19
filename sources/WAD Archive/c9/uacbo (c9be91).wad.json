@@ -1,0 +1,17 @@
+{
+	"uid": "uacbo (c9be91).wad",
+	"name": "UAC: Base Omega PART 1",
+	"description": "The UAC is once again attacked by the enemy. They tried to preempt the new attack, and built devices to counter the demons. They were successful at first, the demons were forced back in a matter of minutes. However, a new enemy has emerged, and has brought the demons with them. You, a lone marine, have been sent to deal with this new threat. Good luck, you'll need it.",
+	"version": "c9be91",
+	"date": "2015-01-14 14:29:56",
+	"files": [
+		{
+			"filename": "uacbo.wad",
+			"size": 2744696,
+			"crc": 3812707054,
+			"md5": "0db998aa81b0e0d08bab3adb63ce11e8",
+			"sha1": "c9be91077ea778fe9b85ce79ad776a0b7dcd91e1",
+			"sha256": "ea4b11782e47a1d3b025d90d3d886d01e36f995efc05cdcd88d89ae938258ddb"
+		}
+	]
+}

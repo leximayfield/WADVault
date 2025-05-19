@@ -1,0 +1,17 @@
+{
+	"uid": "remorse (e5d005).wad",
+	"name": "No Remorse",
+	"description": "A 3 level wad, with a traditional maze-like map, an arena map, and a boss fight. Designed to be played on Ultra Violence.",
+	"version": "e5d005",
+	"date": "2016-03-05 14:41:18",
+	"files": [
+		{
+			"filename": "remorse.wad",
+			"size": 247672,
+			"crc": 1057631218,
+			"md5": "3f05978031cd5659175b6c0bf4ba49c6",
+			"sha1": "e5d005cf3f157907e7df29138a573d50b1646146",
+			"sha256": "e2588702406efceef47f4f1d8cfc679790649cd34a26eba8dd5a683301f0a6ef"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "T-COVE.wad",
+	"name": "Toxic Cove",
+	"description": "A heavily Alien Vendetta Map10 (by Kim Malde, titled \"Toxic Touch\") inspired sewer map, initially created in roughly 110 minutes in early March. The map is mildly challenging, and there is one trap in particular that is quite nasty if you don't know what's coming (it's only so bad on UV). As I was not completely satisfied with the original attempt, detail has been added, textures aligned, and one room got a complete change in structure. The level of detail is still similar to that of Toxic Touch. Keep in mind that slime will not harm you, with the exception of the large pool in one of the final rooms.",
+	"date": "2015-01-14 22:56:35",
+	"files": [
+		{
+			"filename": "T-COVE.wad",
+			"size": 393433,
+			"crc": 3124212701,
+			"md5": "f458f12141a04a8049efe260da41b5fd",
+			"sha1": "baa1ded253478daf311cbbec4eb845fe9fd77c6b",
+			"sha256": "3f997b267fbe99a1d1bbfcd99d54bad546d19146a7bb2b10b35f2440f391afce"
+		}
+	]
+}

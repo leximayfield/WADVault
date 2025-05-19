@@ -1,0 +1,17 @@
+{
+	"uid": "THELAST (b13229).wad",
+	"name": "THELAST.WAD",
+	"description": "A fairly large level. No Spider Demons, Cyber Demons or BFGs, just solid Dooming. Strategy is very important.",
+	"version": "b13229",
+	"date": "2013-11-02 15:54:25",
+	"files": [
+		{
+			"filename": "THELAST.wad",
+			"size": 156584,
+			"crc": 3114529938,
+			"md5": "7a2ad32007365168b82efe44c216001e",
+			"sha1": "b13229df4d8245399cb77aa0a4bffa013b8eee8e",
+			"sha256": "d3c42ecc2d66219ace08323e048d5f3c4d38966b25f438f4c367782ca4b6ed61"
+		}
+	]
+}

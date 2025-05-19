@@ -1,0 +1,16 @@
+{
+	"uid": "pnicroom.wad",
+	"name": "Panic Room",
+	"description": "Panic room: a secret room in a house or other building that is designed to be invulnerable to attack or intrusion.",
+	"date": "2019-01-12 08:18:58",
+	"files": [
+		{
+			"filename": "pnicroom.wad",
+			"size": 2966908,
+			"crc": 367833109,
+			"md5": "e003497d0ae54b1c4489808dc771d5fa",
+			"sha1": "49d7d3c8622d91c8b1517a3953a9cc9fbdad6844",
+			"sha256": "3733b482f250ff2d094a29caf4d358e3af6dd977c9d067dab94f02cc90d277f9"
+		}
+	]
+}

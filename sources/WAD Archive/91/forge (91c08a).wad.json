@@ -1,0 +1,17 @@
+{
+	"uid": "forge (91c08a).wad",
+	"name": "FORGE.WAD",
+	"description": "",
+	"version": "91c08a",
+	"date": "2015-12-07 07:36:51",
+	"files": [
+		{
+			"filename": "forge.wad",
+			"size": 631878,
+			"crc": 908020863,
+			"md5": "9f923cbe06d82f2ce5cf7481604416de",
+			"sha1": "91c08a4e9a933264304f4d5d73130cf61bccf41f",
+			"sha256": "f24363212f75dafd42dc25eccd2a57acfa67bb330d116f9cb3578f5c1e8362b2"
+		}
+	]
+}

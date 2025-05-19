@@ -1,0 +1,16 @@
+{
+	"uid": "spksnd.wad",
+	"name": "SPKSND",
+	"description": "replaces the original sounds for Doom/Doom 2 by the funny old PC-speaker sounds.. Nice if you use it on e.g. a Mac (only nice if you started to play DOOM on PCs without sound cards :-) )",
+	"date": "2015-09-14 23:21:12",
+	"files": [
+		{
+			"filename": "spksnd.wad",
+			"size": 311000,
+			"crc": 2592651983,
+			"md5": "373f5c7145e6d6a27a6c49aab2c3d461",
+			"sha1": "3fe8cece663901ca43ab40101dd5a96b5f38eee6",
+			"sha256": "c3661e6fe40f38d84bc646c2fe1d702d741a9287b49c6a8b9cd1e9194aca6678"
+		}
+	]
+}

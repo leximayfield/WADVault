@@ -1,0 +1,16 @@
+{
+	"uid": "fbase.wad",
+	"name": "Forgotten Base: Flooded Area (v2)",
+	"description": "Brick'n'metal themed forgotten UAC base.",
+	"date": "2014-12-15 22:21:32",
+	"files": [
+		{
+			"filename": "fbase.wad",
+			"size": 144980,
+			"crc": 1034928813,
+			"md5": "a1f9ff4877e5172424c3326e4a05d377",
+			"sha1": "3fcf259af379e8aa600391269b013ec04fd4eabe",
+			"sha256": "46a08eba8a38285cdd3145e29bd2b4373eeb4d03cfb6d91767a9effe24dd98f2"
+		}
+	]
+}

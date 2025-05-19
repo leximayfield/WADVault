@@ -1,0 +1,17 @@
+{
+	"uid": "psych (9af85b).wad",
+	"name": "PSYCH.WAD",
+	"description": "Hey! It's Reed's Psych building!",
+	"version": "9af85b",
+	"date": "2015-12-07 12:48:50",
+	"files": [
+		{
+			"filename": "psych.wad",
+			"size": 49347,
+			"crc": 3404891571,
+			"md5": "362eee97b7dda130e7901133dea7fb3e",
+			"sha1": "9af85bc9f48ad299fd61dba4b84414a93a0642e0",
+			"sha256": "618e6ae3da5330ba0e4401f0443f102d43b862df726424cbde183d9c5c875b21"
+		}
+	]
+}

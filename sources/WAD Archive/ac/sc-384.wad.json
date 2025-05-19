@@ -1,0 +1,16 @@
+{
+	"uid": "sc-384.wad",
+	"name": "SC-384",
+	"description": "A single player 32 map megawad with playable dimensions of 384x384. Similar to the many 1024 wads. Just smaller. Inspired by Cycloids Congestion 384 wad. Level themes are loosly base off Doom 2. So map names fit ok.",
+	"date": "2018-12-22 04:22:25",
+	"files": [
+		{
+			"filename": "sc-384.wad",
+			"size": 1523612,
+			"crc": 4196511680,
+			"md5": "3316d71660fb8dfaf07cb2c6daec3448",
+			"sha1": "ace01cac22c914e4c21abcc4895dbe8ca2a6af78",
+			"sha256": "46e032a26c75eb29b9382877583132e09d514208ff6c66b0acbae02a6a5a21dc"
+		}
+	]
+}

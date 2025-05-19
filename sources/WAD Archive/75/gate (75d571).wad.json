@@ -1,0 +1,17 @@
+{
+	"uid": "gate (75d571).wad",
+	"name": "The Lost Gateway",
+	"description": "Dark brick/wood/metal place using some slopes and scripting for zdoom.",
+	"version": "75d571",
+	"date": "2014-12-22 18:54:38",
+	"files": [
+		{
+			"filename": "gate.wad",
+			"size": 890460,
+			"crc": 774396228,
+			"md5": "dc7d8a8964a46d712095bdca8a0f22ed",
+			"sha1": "75d5714a9d26be42617998899998a05904ad825e",
+			"sha256": "2f632c9504684c4825ebb36ab6e8c2f6bb75b0805decb4105413e3554d74aaab"
+		}
+	]
+}

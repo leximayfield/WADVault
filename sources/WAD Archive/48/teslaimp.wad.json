@@ -1,0 +1,16 @@
+{
+	"uid": "teslaimp.wad",
+	"name": "Tesla-Imp",
+	"description": "A cyber-Imp equiped with a Tesla cannon.",
+	"date": "2015-09-14 23:23:10",
+	"files": [
+		{
+			"filename": "teslaimp.wad",
+			"size": 187157,
+			"crc": 285689758,
+			"md5": "8634fa0c30adb53fc8e03d56529abac6",
+			"sha1": "486166054d9b15324ecaf7c401fb0846154912d4",
+			"sha256": "2075203041ca0742eca0286427fc7ce82617737c99f4368460bfd35adfcb1dc5"
+		}
+	]
+}

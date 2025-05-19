@@ -1,0 +1,16 @@
+{
+	"uid": "SHADOWSDEN.wad",
+	"name": "Shadows Den",
+	"description": "Replaces MAP01 of Doom II. Shadows Den is a map dedicated to my friends cat, who passed away after 10+ years in their family. The map is about preparing for massive monster attacks and then having a brawl while still staying pretty detailed and nice. The map features new music as well, and plenty of added secrets including a memorial.",
+	"date": "2014-12-29 15:28:36",
+	"files": [
+		{
+			"filename": "SHADOWSDEN.wad",
+			"size": 235530,
+			"crc": 3439397937,
+			"md5": "41af929795ed454fbcca630a6bf02de3",
+			"sha1": "10224f2b76f4467b3280d547cd597f23eae33e8c",
+			"sha256": "953924e39f6069993f903a4dd69ed2281352e17f7b313e854cc5d332e00b7ee7"
+		}
+	]
+}

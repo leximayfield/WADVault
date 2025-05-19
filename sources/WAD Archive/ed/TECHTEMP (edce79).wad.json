@@ -1,0 +1,17 @@
+{
+	"uid": "TECHTEMP (edce79).wad",
+	"name": "TechTemple",
+	"description": "You are a special forces commando ordered to UAC's",
+	"version": "edce79",
+	"date": "2014-01-04 11:55:50",
+	"files": [
+		{
+			"filename": "TECHTEMP.wad",
+			"size": 72296,
+			"crc": 2978191230,
+			"md5": "b7bd61e2da48b8593c1402cb8274ee93",
+			"sha1": "edce79915aef179c464c444d52ad35c20f48c92c",
+			"sha256": "2d728804c7a3f9adf47ba2b4c4aeb322a34f91a5e045c6d089a4631d2ca2a21c"
+		}
+	]
+}

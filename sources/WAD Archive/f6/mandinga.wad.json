@@ -1,0 +1,16 @@
+{
+	"uid": "mandinga.wad",
+	"name": "Cosa 'e mandinga",
+	"description": "A compilation of old vanilla maps by myself, most of them unreleased for the archives. I made many changes and fixes, but I tried to keep the classic feeling, although some are heavily modified. All maps are playable from pistol start, but ammo may be tight sometimes. You'll need a limit-removing sopurce-port. Maps were tested with Zdoom and PrBoom. Vavoom ruins especial effects made with game bugs. But you should NOT jump or crouch in this levels.",
+	"date": "2014-07-01 11:36:09",
+	"files": [
+		{
+			"filename": "mandinga.wad",
+			"size": 7437639,
+			"crc": 1903909508,
+			"md5": "81034049cea1f7ddfea13bee2cbb7735",
+			"sha1": "f6d69ae513f2b810e37927f4009cc6bdf3b72ce3",
+			"sha256": "89fca3b177038f90e5e58149241636b75eb1a061401c179c1bf4dd6d59f2e87b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellgate (a24f63).wad",
+	"name": "HELLS GATE",
+	"description": "DOOM 2 ADD-ON WAD HEED ME , YE OF LITTLE FIRE POWER!",
+	"version": "a24f63",
+	"date": "2014-10-14 20:53:34",
+	"files": [
+		{
+			"filename": "hellgate.wad",
+			"size": 199877,
+			"crc": 3089751822,
+			"md5": "f9e468e5449a84cff7704542cdf98f0e",
+			"sha1": "a24f6332afeff2d53101e5c18f5086f5936991a6",
+			"sha256": "ed0056be3ecf6812fddcfd0d00b9a2f22e5e4a1758659c86c72eab61249afa41"
+		}
+	]
+}

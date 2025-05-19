@@ -1,0 +1,17 @@
+{
+	"uid": "VENOM (8ab5b3).wad",
+	"name": "Venom",
+	"description": "The original name of this wad was Illuminator, but due to archive rules I had to rename it to something shorter. So this wad is now Venom. Standard single player map. Enjoy.",
+	"version": "8ab5b3",
+	"date": "2014-12-29 15:30:38",
+	"files": [
+		{
+			"filename": "VENOM.wad",
+			"size": 124698,
+			"crc": 3814896035,
+			"md5": "6c6da5d31be31205494107ca0173d44c",
+			"sha1": "8ab5b37f097fef8d972cdc7c1c553688550b5aa7",
+			"sha256": "779186da05488504b0388de3b1c6b4bee33e8c693bc14e3720884ebf256d953d"
+		}
+	]
+}

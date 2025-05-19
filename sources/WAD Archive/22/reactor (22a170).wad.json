@@ -1,0 +1,17 @@
+{
+	"uid": "reactor (22a170).wad",
+	"name": "The Reactor",
+	"description": "Game play takes place underground in a large, rundown reactor complex. The level contains some secret areas of great use, so be watchful. A lot of the computer panels textures are switches.",
+	"version": "22a170",
+	"date": "2014-12-15 21:36:06",
+	"files": [
+		{
+			"filename": "reactor.wad",
+			"size": 741622,
+			"crc": 222979259,
+			"md5": "b63a9ed99f7ed7cf98ec9fdda9e2c365",
+			"sha1": "22a170b32af4c148b930683fb3009cd6b5a89a5c",
+			"sha256": "b83c04c0109aac010a95c3456a65e9adbe10ced5d6d52694d1b1eb4486482138"
+		}
+	]
+}

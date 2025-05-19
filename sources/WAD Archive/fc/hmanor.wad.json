@@ -1,0 +1,16 @@
+{
+	"uid": "hmanor.wad",
+	"name": "The Haunted Manor",
+	"description": "A haunted mansion for Death Match play.",
+	"date": "2014-12-15 21:42:42",
+	"files": [
+		{
+			"filename": "hmanor.wad",
+			"size": 127386,
+			"crc": 985870282,
+			"md5": "575fa1f98dda63383b737120cd9b31cb",
+			"sha1": "fc03e822117b6808153a5ec07a28e03d49dc678a",
+			"sha256": "9f1e3a23f13460e32036bc8cccb42566397001cbe3646dd23615c5bcdf8a116a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dig.wad",
+	"name": "The DIG",
+	"description": "This is a nice blast-away level with some good design elements and great areas. Be especially careful in the central island, it has some nice almost-270 degrees crossfire. Move around quick and don't stay in one place! A rather simple system of teleporters can get nasty and pretty surprising if you'll let some of those monsters on them.",
+	"date": "2014-12-18 22:14:48",
+	"files": [
+		{
+			"filename": "dig.wad",
+			"size": 129856,
+			"crc": 2052364154,
+			"md5": "dfae409f21428535238efead2529f42c",
+			"sha1": "9d1721dd3c6d9d4aef11d0cfa92c782e93066a04",
+			"sha256": "e21ad6a701f2f6c28adacf467e6becfa3b8a6ab60a7cc7d342b7c59b286e6e52"
+		}
+	]
+}

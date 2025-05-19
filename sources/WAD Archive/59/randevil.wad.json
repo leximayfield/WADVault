@@ -1,0 +1,16 @@
+{
+	"uid": "randevil.wad",
+	"name": "Random Evil",
+	"description": "An older level of mine I decided to finish up and release.",
+	"date": "2014-12-29 09:11:02",
+	"files": [
+		{
+			"filename": "randevil.wad",
+			"size": 378732,
+			"crc": 2140662539,
+			"md5": "2145e7513436d5386810b7121826bd30",
+			"sha1": "592c33dcea0b8f58b877df857ec1dc816d98dde3",
+			"sha256": "d754bfa700766acdefeb238e4acd47e84868321ae7e2a350e2435fc08ab4a583"
+		}
+	]
+}

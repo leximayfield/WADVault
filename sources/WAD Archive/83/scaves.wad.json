@@ -1,0 +1,16 @@
+{
+	"uid": "scaves.wad",
+	"name": "Spooky Caves",
+	"description": "This is a single player map. It takes place at night, and i reccomend playing with opengl. It looks crappy in software mode. I also recommend using the automap. You'll never find your way out without it. I tried to release this on Halloween, but unfortunately, it just wasn't finished. It is now done. ------------------------- --------SO ENJOY--------- -------------------------",
+	"date": "2015-09-14 20:05:27",
+	"files": [
+		{
+			"filename": "scaves.wad",
+			"size": 10373005,
+			"crc": 3361536840,
+			"md5": "f21f07520ec7c2a52d1f09c0cc8b3f73",
+			"sha1": "83f61d534c7b770a20627b3ead025ec0d1de8b61",
+			"sha256": "c9d5ed1bf2577845443e7e118bc0e5d1dbcc5213d9f3860935117926e2982589"
+		}
+	]
+}

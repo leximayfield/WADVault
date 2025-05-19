@@ -1,0 +1,17 @@
+{
+	"uid": "3pitsdm (4ca768).wad",
+	"name": "3-pits Death Match Plus",
+	"description": "Special new-version of 3-Pits wad made especially for Deathmatch, but also good for solo play. Less linear than earlier version to allow more flow. All switches must be found and thrown to exit the level and don't forget the BFG platform.",
+	"version": "4ca768",
+	"date": "2013-11-06 22:28:46",
+	"files": [
+		{
+			"filename": "3pitsdm.wad",
+			"size": 94271,
+			"crc": 2678883265,
+			"md5": "0e3486b8d73e19e8911f18fb1134f6c0",
+			"sha1": "4ca76867e6b9fc5e1cb2fbd094449a7ab2b0381a",
+			"sha256": "2ea5189792c1a30a1dbe91d4a6dbea730eb8297f2ad9833622ca9ab39477b543"
+		}
+	]
+}

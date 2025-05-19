@@ -1,0 +1,16 @@
+{
+	"uid": "squared.wad",
+	"name": "Deadly Squared",
+	"description": "A small medium level for Doom 2.",
+	"date": "2017-08-18 20:54:47",
+	"files": [
+		{
+			"filename": "squared.wad",
+			"size": 269574,
+			"crc": 1741662925,
+			"md5": "6682409f8ba0af15d67f44e247d7e29b",
+			"sha1": "af57475bc4396ffda402555da2801f601c08786a",
+			"sha256": "840e73a7e5490149439ea96204fd48659b58d15ace19112f5380861aa4c1a9c2"
+		}
+	]
+}

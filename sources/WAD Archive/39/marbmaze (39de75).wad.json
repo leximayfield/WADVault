@@ -1,0 +1,17 @@
+{
+	"uid": "marbmaze (39de75).wad",
+	"name": "The Marble Maze (v1.666)",
+	"description": "At its release this WAD is one-of-a- kind. It contains two levels, one for DOOM, one for DOOM II in the same WAD, using only 60% of the space required to keep them separate!",
+	"version": "39de75",
+	"date": "2014-01-07 22:13:37",
+	"files": [
+		{
+			"filename": "marbmaze.wad",
+			"size": 277436,
+			"crc": 4131373931,
+			"md5": "acf6411e438d3c5670cf2e510075beea",
+			"sha1": "39de75fed0ea51594e196eebfdf75a7a0d081e10",
+			"sha256": "313f37dbe199336a193a66a31c6992c1f77095e160c3d6fb9263e5cada148d5f"
+		}
+	]
+}

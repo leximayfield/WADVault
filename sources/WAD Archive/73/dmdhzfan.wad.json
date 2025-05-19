@@ -1,0 +1,16 @@
+{
+	"uid": "dmdhzfan.wad",
+	"name": "Horizontal Spinning Fan in Doom",
+	"description": "An example map which explains how a ceiling fan spinning horizontally is done under doom(2).exe.",
+	"date": "2013-04-24 02:15:22",
+	"files": [
+		{
+			"filename": "dmdhzfan.wad",
+			"size": 51780,
+			"crc": 3747812326,
+			"md5": "ae9246868e61e2a091725db7f5808a90",
+			"sha1": "73124de2e9b27e0a7a1384e9ed324ad7f02127e3",
+			"sha256": "702e80bc8391f88b14e11dcb6e1649b1db05df79fe50f60013da75215b3cb357"
+		}
+	]
+}

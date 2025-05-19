@@ -1,0 +1,16 @@
+{
+	"uid": "3smalld.wad",
+	"name": "Three small deathmatch levels",
+	"description": "This is a collection of three deathmatch WADs. These levels were made specifically for deathmatch, and primarily for two-player deathmatch. They are small and simple so it runs quickly with modem play; none of that damned slowdown that occurs with some of the complex WADs (where the author tries to make it nice and pretty). It is almost all action on two player..so three or four player would be very hectic. E-mail me if u do it with more than two players; I'd like to know how many frags u get. ;) The best level for more than two-players would be level 3. You'll find that a lot of the action revolves around the room with health in it. Happy fragging!",
+	"date": "2013-11-06 22:36:01",
+	"files": [
+		{
+			"filename": "3smalld.wad",
+			"size": 77281,
+			"crc": 3153939959,
+			"md5": "547761b782fe0439e65bc030494a0030",
+			"sha1": "9e4e4c9459012ce1c4b5c486c633981a5f08cc2c",
+			"sha256": "6aee51641448c76fcb87bad306eaa0a1a1a551fe2ceb0a3040cbfc31caa8c496"
+		}
+	]
+}

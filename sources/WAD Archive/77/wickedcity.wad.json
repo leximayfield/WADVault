@@ -1,0 +1,16 @@
+{
+	"uid": "wickedcity.wad",
+	"name": "The Wicked City",
+	"description": "I've had the design for this level sitting in the back of my mind for a while. This isn't my first Doom level although I haven't made doom levels for about 5 years so its my getting back on the horse level. But don't let that worry you. This wad takes you from the carpark of a housing estate ( I think they have them in england) to an abandoned station, sewer, factory and various other areas to rescue your beloved who has been captured by aliens/demons/whatever. Theres some anime elements thrown in and some sprites not suitable for younger players, but its all in the interest of doom/wickedcity fun. (Incase you didn't know Wicked city is an anime that I loosely based this level on. All the graphics in this wad though are my own)",
+	"date": "2014-12-29 17:21:27",
+	"files": [
+		{
+			"filename": "wickedcity.wad",
+			"size": 4172163,
+			"crc": 3670739443,
+			"md5": "14b4433bd607a464eaae466740215f2d",
+			"sha1": "77725bc6a19400f1be64fd887c9479f3482d2efd",
+			"sha256": "0a386242b3368ee28f00ba3670a8820eb2583923de5a291668c9e9430ceb1168"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "think2wc.wad",
+	"name": "Think Twice",
+	"description": "A dark, medium-sized, asymmetrical WAD. Nothing fancy, but has variety and allows strategy, so it's very playable.",
+	"date": "2015-01-14 14:37:33",
+	"files": [
+		{
+			"filename": "think2wc.wad",
+			"size": 186408,
+			"crc": 3334454509,
+			"md5": "77104d0c3912a167191f006ee77ddf6c",
+			"sha1": "52933c92bcdfbdec41d80ca84c3fbf45c46a76af",
+			"sha256": "3b844436d41b2bc2e0735c45bac8004462fad1e3e1189dd90dbe96d45be3bfc3"
+		}
+	]
+}

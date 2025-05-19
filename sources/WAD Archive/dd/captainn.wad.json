@@ -1,0 +1,16 @@
+{
+	"uid": "captainn.wad",
+	"name": "Captain N: The Game Master, Version 2",
+	"description": "Based on the hit TV series of the same name!",
+	"date": "2014-12-11 22:19:38",
+	"files": [
+		{
+			"filename": "captainn.wad",
+			"size": 2739027,
+			"crc": 1225038345,
+			"md5": "54e1d5cc06f3afcb8361c99f1e6c3088",
+			"sha1": "dd3464b9c628ab956a7068db6b48be6832ee8c2b",
+			"sha256": "096919dd776ffb1dfa03379da5594f21eaaa2e2285af2280371c8f535399554c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "WDIBeta4HF1.wad",
+	"name": "Who Dun It? (Beta 4 Hotfix 1)",
+	"description": "Who dun it attempts to emulate the gameplay of clue while mixing in the \"hunt em' down, kill em' quietly\" elements of The Ship. The game is simple; One play spawns as the murderer and hides among the \"innocent\" players and does his best to kill them discreetly.",
+	"date": "2013-04-19 01:13:37",
+	"files": [
+		{
+			"filename": "WDIBeta4HF1.wad",
+			"size": 33564968,
+			"crc": 3168195636,
+			"md5": "c9378b09920bcbe8effa3ae6611c92b0",
+			"sha1": "025bb8c24462ef57d89a21731969a7c5d571a1b6",
+			"sha256": "ebeedb90528a52ac52ff33a6da906fba2146f25722e05ef3d8e6bb99db5ace24"
+		}
+	]
+}

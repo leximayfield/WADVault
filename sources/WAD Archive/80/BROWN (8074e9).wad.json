@@ -1,0 +1,17 @@
+{
+	"uid": "BROWN (8074e9).wad",
+	"name": "Brown",
+	"description": "Short map with heavy use of brown metal textures.",
+	"version": "8074e9",
+	"date": "2017-12-31 15:46:30",
+	"files": [
+		{
+			"filename": "BROWN.wad",
+			"size": 3877787,
+			"crc": 1094463763,
+			"md5": "c5728bf9cbfb1db78987649e08fd6c3f",
+			"sha1": "8074e9a8a395a3a5d4a885c220d90716591eb20f",
+			"sha256": "8a6cb967d5ac81e5df5f066eeaf173f4c46dcfff26dbd3372b5367fb4c818597"
+		}
+	]
+}

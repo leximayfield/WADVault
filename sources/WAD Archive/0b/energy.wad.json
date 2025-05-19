@@ -1,0 +1,16 @@
+{
+	"uid": "energy.wad",
+	"name": "The Secret Energy",
+	"description": "Boom compatible (cl9) single level for Doom 2. A large tech-base settled in big canyon areas. There are some secret areas to discover. This map is designed to be rather difficult on UV (like my previous map Blackroom.wad). For this reason I suggest to start on HMP.",
+	"date": "2019-03-06 22:04:43",
+	"files": [
+		{
+			"filename": "energy.wad",
+			"size": 2055174,
+			"crc": 4090434762,
+			"md5": "a9ab965df670e35b0389926fff4d8cc4",
+			"sha1": "0b7a18f58465d22181c0a47e5dd6a4ccd2be7ab8",
+			"sha256": "792cf6829cf881a7f8e5ea7905a177bfe99565a1ba9c3bebe95d5aeb611fd251"
+		}
+	]
+}

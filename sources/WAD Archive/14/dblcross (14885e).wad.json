@@ -1,0 +1,17 @@
+{
+	"uid": "dblcross (14885e).wad",
+	"name": "Doublecross",
+	"description": "Unlike LURKER this is nothing but all out action from the get go. If you like rolling over your frag count, look no further. This was designed with -altdeath in mind, but should be as fun to play regular. Our first night with the final version of this lasted 5 hrs. (Hint - when you roll the frag count the second time go ahead and sneak a peek at your watch). Here's the deal, eight circular rooms joined by halls that intersect in a central hub. Four of them are higher than the other four. There is a platform in the center that allows players to run across without dropping to the lower level, if they are running top speed. The platform drops if you tap the side from one of the lower halls. On the upper level, however, if as you are sprinting across you tap the space-bar(or whatever opens doors for you) the platform will also drop. This means that whoever is chasing you will suddenly be on the lower level. One other interesting feature: in the center (on the platform) is an arrow it points toward the room with the rocket launcher. Whenever someone goes for it, this arrow will turn black and there will be a black arrow on the ceiling, alerting the other players. There is a co-op exit in the eastern crushing hall. The switch that opens the exit door is behind the rocket launcher in the westen end of the level. There is no plasma rifle or BFG in this WAD. There is only health (in the form of beserkers) in \"I,m too young to die\" other-wise what you start with, is it.",
+	"version": "14885e",
+	"date": "2013-11-02 15:59:30",
+	"files": [
+		{
+			"filename": "dblcross.wad",
+			"size": 32817,
+			"crc": 3820748570,
+			"md5": "2dde204ecc6131658401e80bfd3495c1",
+			"sha1": "14885e2837d22a47968590191a635e940979c497",
+			"sha256": "f1dbdd6e99e7eb0c5358a740ae3e9b7aa4f557053619c4eedeebb595666e3957"
+		}
+	]
+}

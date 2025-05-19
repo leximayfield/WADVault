@@ -1,0 +1,17 @@
+{
+	"uid": "dmbrai (14a323).wad",
+	"name": "The Brain",
+	"description": "A fun deathmatch level replacing E2M2. You are clearing up on Phobos when suddenly you are teleported into a giant squid's brain along with all your buddies. Oh well, since there's no monsters here you might as well slaughter each other. Includes v1.666 linedefs (fast doors).",
+	"version": "14a323",
+	"date": "2013-11-04 20:08:04",
+	"files": [
+		{
+			"filename": "dmbrai.wad",
+			"size": 85123,
+			"crc": 3893249117,
+			"md5": "12f3c9b6a8296ac53da4952421676d2f",
+			"sha1": "14a323cb488c4b2e553fcb473831ca631683fa4a",
+			"sha256": "01b687784548eb4c99801f81e4ba6fb4b93d2fe594604dcc1f38cac17a2193d0"
+		}
+	]
+}

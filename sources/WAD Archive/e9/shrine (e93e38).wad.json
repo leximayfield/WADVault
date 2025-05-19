@@ -1,0 +1,17 @@
+{
+	"uid": "shrine (e93e38).wad",
+	"name": "Shrine of Death",
+	"description": "This is my third ewad. This is a wide open area with a ledge running around the entire outside with a large shrine in the center. There is a lot of water here so you have to be a good aim with the Firemace or it will splash in the water and disappear on inpact. There are several levels, but they are the same so there can be a variety of skies and musics.",
+	"version": "e93e38",
+	"date": "2014-12-30 11:37:15",
+	"files": [
+		{
+			"filename": "shrine.wad",
+			"size": 246615,
+			"crc": 3363261704,
+			"md5": "5a40352642f2ad0ea055c6d50d0f0361",
+			"sha1": "e93e3884943fe20dd153f4dd5ca1332b63dcfb62",
+			"sha256": "f06c299f7480abb3685334a3a9d50479367bd9af8f4b4a698af1eebd58410994"
+		}
+	]
+}

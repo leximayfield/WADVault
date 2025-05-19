@@ -1,0 +1,17 @@
+{
+	"uid": "dandeth2 (5462ec).wad",
+	"name": "Dan Deathmatch Level #2",
+	"description": "A indoor arena style DeathMatch level. Plain and simple fighting in a large, multi-level room.",
+	"version": "5462ec",
+	"date": "2014-12-15 23:01:16",
+	"files": [
+		{
+			"filename": "dandeth2.wad",
+			"size": 55129,
+			"crc": 391919399,
+			"md5": "0646a1532d97c9f9bdc5063d8d4db490",
+			"sha1": "5462ecde8c83fe41b6e749f32297142d0fb59215",
+			"sha256": "ce36dd3620f184367d99135d14591dfc9ff40ed3783c279a85eb0ac7c7120268"
+		}
+	]
+}

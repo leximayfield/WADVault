@@ -1,0 +1,16 @@
+{
+	"uid": "dslvl2.wad",
+	"name": "DSLVL2: Lost Mining Base",
+	"description": "The sequel to the first one (dslvl1.wad) set in a lost Mining base type thing.",
+	"date": "2014-12-24 17:13:47",
+	"files": [
+		{
+			"filename": "dslvl2.wad",
+			"size": 331377,
+			"crc": 443525339,
+			"md5": "e1dd3db1f2c609d053e041bd7967f0be",
+			"sha1": "60cbcf57fca2cb00b9323cb9a9ae191b0a0e7f4a",
+			"sha256": "1e0056390f7f02136d0dea9e9d2d675fd0d2cdb6a9093c66845aa32fea6f41dc"
+		}
+	]
+}

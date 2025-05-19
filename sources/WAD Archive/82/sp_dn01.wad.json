@@ -1,0 +1,16 @@
+{
+	"uid": "sp_dn01.wad",
+	"name": "Come To A Head",
+	"description": "A progressive single player level designed mainly as a learning experience. Because of this, there is practically no detail lighting.",
+	"date": "2014-12-29 16:43:55",
+	"files": [
+		{
+			"filename": "sp_dn01.wad",
+			"size": 236436,
+			"crc": 4089157294,
+			"md5": "9ff2c41ccb98c2c7a3813eca1431ff0d",
+			"sha1": "821613115009ccd216b1dd27c09ed1ca66dba6a8",
+			"sha256": "468b14960178550a216ee3718ca96aeffc7a1a913cf4e9e80b281c560296c0a7"
+		}
+	]
+}

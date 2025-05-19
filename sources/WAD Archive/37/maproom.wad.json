@@ -1,0 +1,16 @@
+{
+	"uid": "maproom.wad",
+	"name": "Maproom.wad  Version 1.0",
+	"description": "This is a level that has a new concept idea. In the center of the level is a \"Maproom\" which indicates where the other opponents are durring deathmatch.",
+	"date": "2014-12-15 23:04:59",
+	"files": [
+		{
+			"filename": "maproom.wad",
+			"size": 458319,
+			"crc": 2946355938,
+			"md5": "15ebb57da26e4f11ac3be3445ab5dbbf",
+			"sha1": "37ca7f7ee65e8d66285e8169c97b52493ed837ce",
+			"sha256": "b4e21b3b72ba1375308ee9c6165ae75c9e8b192db0a1c751fe2ac34c7d76ad9f"
+		}
+	]
+}

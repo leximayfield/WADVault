@@ -1,0 +1,17 @@
+{
+	"uid": "teledoom (9e68d9).wad",
+	"name": "Tele - Doom",
+	"description": "Well, this DEATHMATCH level is made up of six",
+	"version": "9e68d9",
+	"date": "2014-12-03 20:15:48",
+	"files": [
+		{
+			"filename": "teledoom.wad",
+			"size": 64708,
+			"crc": 1663519108,
+			"md5": "15c6eda9f7a829438e12700e0b001c74",
+			"sha1": "9e68d91e99e2c131ce78b99a1a0ae99b29928d42",
+			"sha256": "b1089915a1271a8a76714b790a7858809be18a99702edf13c84ad41765a201b0"
+		}
+	]
+}

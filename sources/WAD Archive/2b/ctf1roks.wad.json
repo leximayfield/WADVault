@@ -1,0 +1,16 @@
+{
+	"uid": "ctf1roks.wad",
+	"name": "Doombot CTF-ROKS 1",
+	"description": "This is my first Doombot CTF map. The bots play fairly well on this level even with the unusual layout. I intentionally made the ceiling high on this because of the ROKS explosion effects. I like it. :) You must use the Doombot CTF mode for this map.",
+	"date": "2014-12-15 22:04:04",
+	"files": [
+		{
+			"filename": "ctf1roks.wad",
+			"size": 199279,
+			"crc": 2073073978,
+			"md5": "35c4d7d80a188726f3d4982ab1fb9cb0",
+			"sha1": "2b87cd29bcc50b1841079ee611ce677928534b11",
+			"sha256": "c30c2315f0c8d5ea5aa334134d6a0fd2a337d4beea59083ef7abdf7ae4fa360a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "panic! (d9cdac).wad",
+	"name": "PANIC!.WAD",
+	"description": "Well, here it is... This is an improved version of a level which I made The first version had some bugs and this is way better! A lot of blood sweat and tears went into this level (especially since I did it during final exams)",
+	"version": "d9cdac",
+	"date": "2014-01-04 11:55:43",
+	"files": [
+		{
+			"filename": "panic!.wad",
+			"size": 98172,
+			"crc": 2696279206,
+			"md5": "55dcfd41a682ac495b6bdcd097b4deba",
+			"sha1": "d9cdac815df56fbd93a0c1fe5a110b949bac261f",
+			"sha256": "623b40e8baf1c7e99aea7151368f3bb62be17f55fd49ee8d1d78e1ba86a4c662"
+		}
+	]
+}

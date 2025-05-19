@@ -1,0 +1,16 @@
+{
+	"uid": "kuchitsu2.wad",
+	"name": "Kuchitsu 2 : Growing Colour",
+	"description": "An officially approved sequel to Kuchitsu. The theme is that each map gets more colour than the previous, and then MAP03 is in the original Kuchitsu spectrum of colours. You might think this is underwhelming sequel in terms of its map number, but MAP03 is in length of the first 4 maps from Kuchitsu (I checked).",
+	"date": "2019-02-16 18:16:37",
+	"files": [
+		{
+			"filename": "kuchitsu2.wad",
+			"size": 2201371,
+			"crc": 2356693023,
+			"md5": "1fd15cca1acc595dfb5c9fec2657dc7d",
+			"sha1": "1bf2d3dfefc08c0eeac8dfed46793f9670cdea25",
+			"sha256": "cdc199f973fbfb54c4a12fca29a05e96144153277f393677646f423adc6ef45a"
+		}
+	]
+}

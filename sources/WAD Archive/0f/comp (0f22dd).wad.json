@@ -1,0 +1,17 @@
+{
+	"uid": "comp (0f22dd).wad",
+	"name": "Compound.",
+	"description": "To be played with: WTP.wad and Inc_V4.wad for best experience. The tunnel at the old incubation labs led to this old UAC compound. The compound has, of course, recently fell into hell's hands. It is clear what you need to do: Find the yellow key hidden within the storage area, then escape into the sewers. How you take on this task is up to you, I have designed it to accommodate multiple strategies and gameplay choices as well as optional areas of the map.",
+	"version": "0f22dd",
+	"date": "2014-12-21 16:21:34",
+	"files": [
+		{
+			"filename": "comp.wad",
+			"size": 284864,
+			"crc": 2894008989,
+			"md5": "01917f184e4e769766d22290f868abbb",
+			"sha1": "0f22dd9246f20d854f4346e6f6064ce659faba82",
+			"sha256": "61cfce7cbd71551b326e8e5240288ef6919f4a1dd6044bf644e220df051a4385"
+		}
+	]
+}

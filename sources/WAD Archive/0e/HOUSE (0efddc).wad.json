@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (0efddc).wad",
+	"name": "My House Doom",
+	"description": "AAHHHHHH!! My house was taken over by aliens!!",
+	"version": "0efddc",
+	"date": "2014-01-07 22:18:07",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 28096,
+			"crc": 3810321819,
+			"md5": "ec76c2aaaf7dc6875bbed2938cd7086c",
+			"sha1": "0efddc6d6b96cca4cbb0917a0512b136d17bc586",
+			"sha256": "7f5f8d1cf63e0e889d26dc032d987f8d43e22cdcef90c7d7d012eb81e2a4b350"
+		}
+	]
+}

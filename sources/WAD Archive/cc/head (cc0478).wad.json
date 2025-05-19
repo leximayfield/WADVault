@@ -1,0 +1,17 @@
+{
+	"uid": "head (cc0478).wad",
+	"name": "Head Survival",
+	"description": "A multiplayer co-op map in which up to four players fight against a horde of heads (the author's head and that of my roommate's.) Gameplay is round based, with life and ammo recovering between rounds. There are 2 alternate modes of play and 4 player classes to choose from. Map is balanced for 3 or 4 players, but will still run fine with 1 or 2.",
+	"version": "cc0478",
+	"date": "2014-12-22 18:37:19",
+	"files": [
+		{
+			"filename": "head.wad",
+			"size": 2015636,
+			"crc": 2106910181,
+			"md5": "1cfdf26de15494bcc7f8d9cc7f6c4211",
+			"sha1": "cc0478906c752c9aa150c1c1371d55a3d3867fc4",
+			"sha256": "2659875824217df802005fcb43e62f5dde069aabe7ba20a8ad51d906c9c81e9a"
+		}
+	]
+}

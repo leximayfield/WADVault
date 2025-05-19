@@ -1,0 +1,17 @@
+{
+	"uid": "twisted (a62e84).wad",
+	"name": "Twisted",
+	"description": "Fun, fast paced Death Match level! It only took a couple of hours, just tried to keep it fun and simple and I think I did just that.",
+	"version": "a62e84",
+	"date": "2014-12-15 23:04:55",
+	"files": [
+		{
+			"filename": "twisted.wad",
+			"size": 49873,
+			"crc": 717815573,
+			"md5": "61ff6ed22bfce90545f6655e540b8734",
+			"sha1": "a62e84e4344d0a91a555b73eb2cd632d34e137ef",
+			"sha256": "258df6ebb6f4dbf5baea693551ce07789c651c25d56738658575aa84e85bffa5"
+		}
+	]
+}

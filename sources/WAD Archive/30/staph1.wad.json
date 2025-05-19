@@ -1,0 +1,16 @@
+{
+	"uid": "staph1.wad",
+	"name": "Staph1",
+	"description": "A set of 6 small, tight deathmatch maps, tested and refined over several hundred games. These maps capture the feel of classic old-school deathmatch. Detailing was done in moderation as not to sacrafice gameplay and level flow. Play with \"vanilla Doom\" settings if possible for the most balanced gameplay.",
+	"date": "2013-04-19 02:12:37",
+	"files": [
+		{
+			"filename": "staph1.wad",
+			"size": 723617,
+			"crc": 1019817676,
+			"md5": "2ba886477ebc396f45468d70d0c503c6",
+			"sha1": "303315c706c25dbb3c1ab3e405e49769b4d317ae",
+			"sha256": "6f0be8e183ec84d8a05426e1bb6667f532f6070d85e217ea20f76544ec101b05"
+		}
+	]
+}

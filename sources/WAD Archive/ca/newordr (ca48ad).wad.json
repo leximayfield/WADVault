@@ -1,0 +1,17 @@
+{
+	"uid": "newordr (ca48ad).wad",
+	"name": "The New Order",
+	"description": "It's clear to me that there are very few strife wads on /idgames, so I decided why not make a strife wad? Enjoy a level of fun strife action!",
+	"version": "ca48ad",
+	"date": "2015-09-15 17:12:49",
+	"files": [
+		{
+			"filename": "newordr.wad",
+			"size": 1974621,
+			"crc": 722195236,
+			"md5": "de04aa1f08e220efa9110a1d2b5d54db",
+			"sha1": "ca48ad56bca0f084c3f6a52f224b1a272b2f2317",
+			"sha256": "3e6265f35152e93e21310c3ce49036866a8549899be8b8b919fbbda606c182bc"
+		}
+	]
+}

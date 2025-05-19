@@ -1,0 +1,17 @@
+{
+	"uid": "fueldevr (13a58e).wad",
+	"name": "Fuel Devourer",
+	"description": "Large fuel base full of monsters - go and kill them! Made for FDC#11.",
+	"version": "13a58e",
+	"date": "2013-12-25 18:40:46",
+	"files": [
+		{
+			"filename": "fueldevr.wad",
+			"size": 7179266,
+			"crc": 2833679040,
+			"md5": "a1d728f31f9d079ab0e451ac5d443b7f",
+			"sha1": "13a58efed6eaa1bc30b541fd995a3a1b6c46132a",
+			"sha256": "7e8b251e6f8245c176de01d53b1082ad6f030280dd1d836ec41f71be5a23db1d"
+		}
+	]
+}

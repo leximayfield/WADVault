@@ -1,0 +1,16 @@
+{
+	"uid": "superm.wad",
+	"name": "Kart Krazy",
+	"description": "This is a recreation (sounds, graphics and actual level) of the Super Mario Kart Battle Mode Courses (mainly for Deathmatch, but can be played solo, and is a hell of a lot of fun in Co-op). It represents all four battle mode zones (Well known to many SNES owners), interlocked by four large doors. While you can open the first door right away, you'll have to find the key in the next level to get the next door open, then again, and again, until there is an open way between all levels (In DM, you start with all keys, so you're free to begin with). There are various triggers put in to make it more like the game (ice, etc.) but also some are put in just to make DM more interesting. It may take a little bit to figure them all out, and some require two peopel to see the direct effects. Happy Deathmatching! (I mean, uh battle moding!)",
+	"date": "2014-12-15 22:28:43",
+	"files": [
+		{
+			"filename": "superm.wad",
+			"size": 546348,
+			"crc": 3677625627,
+			"md5": "9d15cc3cc11b12abffb14cfbc1c26fb4",
+			"sha1": "15adab93c8716be43855f773b8c9315d9ab67b4f",
+			"sha256": "1b74368807838232b61217c309bd4999d88cc248322da88ff1d55ce6bb92afa2"
+		}
+	]
+}

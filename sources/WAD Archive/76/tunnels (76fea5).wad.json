@@ -1,0 +1,17 @@
+{
+	"uid": "tunnels (76fea5).wad",
+	"name": "Tunnel to Hell",
+	"description": "Venturing out into this cavern, the deeper you get the more hellish it becomes. Look for the secret passage near the beginning; without more weapons you're dead.",
+	"version": "76fea5",
+	"date": "2015-01-14 22:50:57",
+	"files": [
+		{
+			"filename": "tunnels.wad",
+			"size": 92362,
+			"crc": 1662037471,
+			"md5": "527382fe78034882f7c211d4c3bb2bf3",
+			"sha1": "76fea5a460d9d963ed86613f8289dc157b2f8cd0",
+			"sha256": "9f5a16ef44b57099cbbd62d0fd94ae6dc5e263de4e5de58f164cb5114aa64a95"
+		}
+	]
+}

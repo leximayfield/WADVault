@@ -1,0 +1,17 @@
+{
+	"uid": "ledges2i (580216).wad",
+	"name": "LEDGES2I.WAD",
+	"description": "This is the update or improved version of ledges2 for the new DEATHMATCH 2.0 rules.",
+	"version": "580216",
+	"date": "2013-11-02 15:56:40",
+	"files": [
+		{
+			"filename": "ledges2i.wad",
+			"size": 33173,
+			"crc": 3530239070,
+			"md5": "06bce9ee44fb3bcf8cd2037c0bb42271",
+			"sha1": "580216f89b9d2f0c71360876b555ba3505e62a07",
+			"sha256": "1f32aebf14062b90d44a5750e7d03099bc1f333ac4e561412c51c502ad62fd63"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "phantom (b2ac1f).wad",
+	"name": "The Phanton of the Opera",
+	"description": "The Paris Opera House where the Phantom of the Opera takes place. Complete with falling chandelier, secret passages to thhe lake under the opera house and the roof.",
+	"version": "b2ac1f",
+	"date": "2014-01-07 22:18:13",
+	"files": [
+		{
+			"filename": "phantom.wad",
+			"size": 278365,
+			"crc": 1020347568,
+			"md5": "cf9269edf6899e12f7126dc7898a2876",
+			"sha1": "b2ac1fe2105907c53c0c73e9cdddc511262d4555",
+			"sha256": "deb091171b5945809eeee0a63aeeb68d427cce6b63fb67e3549975b47ab621cb"
+		}
+	]
+}

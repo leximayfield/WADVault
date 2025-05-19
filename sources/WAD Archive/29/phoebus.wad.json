@@ -1,0 +1,16 @@
+{
+	"uid": "phoebus.wad",
+	"name": "Phoebus.WAD",
+	"description": "This is my second-ever complete map! I built this thing to be not too small but certainly not terribly huge. I hope I succeeded. Also, I had wanted to add one of my own MIDI compositions but I really wanted to get this first public map out there. Hope you like it!",
+	"date": "2014-12-15 21:22:14",
+	"files": [
+		{
+			"filename": "phoebus.wad",
+			"size": 47642,
+			"crc": 654860052,
+			"md5": "a94c0c1aaa292468cf6ef3cec884eb65",
+			"sha1": "29462df5c2ba632d3cf53dc47a4a0c812333522e",
+			"sha256": "bc5ed813a827559b0570568b360af7fee7b7c43623a08072d59ea381d1326561"
+		}
+	]
+}

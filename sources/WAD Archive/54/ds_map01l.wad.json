@@ -1,0 +1,16 @@
+{
+	"uid": "ds_map01l.wad",
+	"name": "Death Summoning (Legacy) - Map01: Complex Entryway",
+	"description": "This is the first map of my current project, Death Summoning. Since I seriously doubt I'll ever actually finish this project, I've decided to release the project map by map, as each map is finished. Map01 is a small tech map. If you notice any problems with this map, feel free to email me at: zimspork@comcast.net . NOTE: This map may be changed by the time the project is completely finished. ZDoom version to come soon...",
+	"date": "2014-12-13 17:26:46",
+	"files": [
+		{
+			"filename": "ds_map01l.wad",
+			"size": 1481428,
+			"crc": 3276954149,
+			"md5": "fba35126d477a7b7504e27f887358d23",
+			"sha1": "54799c35de02d8e278fb454a12574d81fe509d92",
+			"sha256": "d2781cb158f3f471713adcc612531b36e892d7e863dc0e0bb31db72223eeeef5"
+		}
+	]
+}

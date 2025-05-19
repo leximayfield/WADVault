@@ -1,0 +1,17 @@
+{
+	"uid": "Unhinged (cedbd6).wad",
+	"name": "Unhinged",
+	"description": "While driving in the middle of the night, a mysterious figure in the dark wanders into the path of your car, making you turn and crash into a wall, having no way back you begin searching for help, but only for you to find a psychotic infestation...",
+	"version": "cedbd6",
+	"date": "2014-12-29 17:03:23",
+	"files": [
+		{
+			"filename": "Unhinged.wad",
+			"size": 42374862,
+			"crc": 1844330363,
+			"md5": "ae12d87d73fdc69af782926ce246d89d",
+			"sha1": "cedbd6a220b4d3a7c5a131da882311c85ca5ee62",
+			"sha256": "17ca483bb61be8739ee794cf6cbabfd1b21f70e918e5ee85f5e7cf46554105a3"
+		}
+	]
+}

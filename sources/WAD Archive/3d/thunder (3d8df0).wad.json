@@ -1,0 +1,17 @@
+{
+	"uid": "thunder (3d8df0).wad",
+	"name": "ThunderDOOM",
+	"description": "I'am not a great DOOM player, so this level is quite easy. The level is not for those how completes DOOM ][ in Nightmare. This is my first WAD.",
+	"version": "3d8df0",
+	"date": "2015-01-14 14:52:52",
+	"files": [
+		{
+			"filename": "thunder.wad",
+			"size": 127110,
+			"crc": 2562912407,
+			"md5": "e0538785e1f9658d572b5dbe1ce2af89",
+			"sha1": "3d8df09b9240987b0f9cb233b829870ecf230dd8",
+			"sha256": "ef92e082fbd36992bad012985029d4a666c219f7e3ef262b908d9afee944b9e2"
+		}
+	]
+}

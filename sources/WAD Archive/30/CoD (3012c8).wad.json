@@ -1,0 +1,17 @@
+{
+	"uid": "CoD (3012c8).wad",
+	"name": "CASTLES OF DEATH (for DOOM v1.666+)",
+	"description": "Two castles, red and blue; go from one to the other, if you manage it, of course! There is one secret that can help you a lot, find it :-).",
+	"version": "3012c8",
+	"date": "2014-12-15 22:16:19",
+	"files": [
+		{
+			"filename": "CoD.wad",
+			"size": 126297,
+			"crc": 3356733545,
+			"md5": "8e34de4a91e2b71c6c4097815f915247",
+			"sha1": "3012c87118397c040275d34010f205e41f0b1ced",
+			"sha256": "ea97a81c699da0170bb236f64c973f3548339508c0ac245f9bb0bdd9ddb83c76"
+		}
+	]
+}

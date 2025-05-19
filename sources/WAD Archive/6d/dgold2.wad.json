@@ -1,0 +1,16 @@
+{
+	"uid": "dgold2.wad",
+	"name": "Doom Gold II",
+	"description": "Sound, music and (some) graphics replacement PWAD for commercial DOOM.",
+	"date": "2013-11-02 16:53:15",
+	"files": [
+		{
+			"filename": "dgold2.wad",
+			"size": 1054984,
+			"crc": 2018921479,
+			"md5": "1302adcdd459d3ebef2c4cebc0330aa1",
+			"sha1": "6dc42df4d1b5eb42c4b51c7d84a199132f161a43",
+			"sha256": "3c02715764b11935954c7051c1570cb3d396ccd7a44ffa2784bfbe79d616d4e6"
+		}
+	]
+}

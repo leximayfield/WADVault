@@ -1,0 +1,16 @@
+{
+	"uid": "kilo11.wad",
+	"name": "KILO11.WAD",
+	"description": "Designed for deathmatch.",
+	"date": "2014-12-15 21:46:59",
+	"files": [
+		{
+			"filename": "kilo11.wad",
+			"size": 79912,
+			"crc": 4119330348,
+			"md5": "2e45a069dfcb6977af4da9a11ed647a5",
+			"sha1": "6f4a1c609472530436c28b5de302fce63a14cf00",
+			"sha256": "a25550ef59d192b3dd52b36dce8bfa0e0f6e52660071bf295e147919580df067"
+		}
+	]
+}

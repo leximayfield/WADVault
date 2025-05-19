@@ -1,0 +1,16 @@
+{
+	"uid": "stooge12.wad",
+	"name": "3 Stooges for HeXen v1.2 Special Edition!",
+	"description": "A few more different sounds than the last time!",
+	"date": "2015-09-14 20:34:45",
+	"files": [
+		{
+			"filename": "stooge12.wad",
+			"size": 1400688,
+			"crc": 2512400594,
+			"md5": "4b76f8940ebbc0fb26ca1afe715ad23b",
+			"sha1": "9d0d54281763412f6adff2f7ed034fd1a832753e",
+			"sha256": "dd577a4a4460d6f2b23e7a9dfab49f2d7f275a3cb9bf5da30b969ca36002744e"
+		}
+	]
+}

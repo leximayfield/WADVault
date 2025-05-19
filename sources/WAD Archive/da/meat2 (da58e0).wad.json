@@ -1,0 +1,17 @@
+{
+	"uid": "meat2 (da58e0).wad",
+	"name": "\"Area 666\"",
+	"description": "This is my second released WAD, and is my latest attempt at a level. It's a short single player map only, and I have no plans to make it a Death Match map. It's only intended for people who want a quick challenging blast without too many special effects.",
+	"version": "da58e0",
+	"date": "2015-09-15 14:10:00",
+	"files": [
+		{
+			"filename": "meat2.wad",
+			"size": 354430,
+			"crc": 1802037680,
+			"md5": "8f648aa0792dd270a2071e429be54ffb",
+			"sha1": "da58e0200c9d2387bda171c31be8f269f0d4de1e",
+			"sha256": "91ceecf4751daeaeadbfaaf913157f096ea922c54ae76a0cebdf7bc3daeb3d1a"
+		}
+	]
+}

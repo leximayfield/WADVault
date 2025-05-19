@@ -1,0 +1,17 @@
+{
+	"uid": "hospital (078936).wad",
+	"name": "Harmful Hospital",
+	"description": "Attention all patients. Our hospital had been just overrun by forces of hell. Staying here might be bad for your health. We apologize for unconvenience.",
+	"version": "078936",
+	"date": "2014-12-22 18:50:03",
+	"files": [
+		{
+			"filename": "hospital.wad",
+			"size": 128374,
+			"crc": 603150312,
+			"md5": "b7bada10a1da29d0fc807cec48a53879",
+			"sha1": "078936789b0ee1f0a7bb060aa53e72feb992cb98",
+			"sha256": "3cd9de24227d2fc676b716a39ebf9a6eea003599a858695c8c1c48dd268d8393"
+		}
+	]
+}

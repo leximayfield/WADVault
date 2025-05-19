@@ -1,0 +1,16 @@
+{
+	"uid": "altair1.wad",
+	"name": "Planet Altair1 Base",
+	"description": "You are sent to do battle for the humans to the Doom2 (tm) base on the planet Altair1. You will not fail! This is the first level in the Altair series of PWADS. It was designed to be the first level and takes a little longer than ID's first level. It was also designed with fast play action ultra violence in mind, but there are two easier difficulty settings. I don't and have never played deathmatch, so it isn't supported. The level does include player positions but no ammo or weapons for deathmatch. It does include ammo and weapons for single player and cooperative play. You start out in a lower portion of the base. Play proceeds through winding corridors and rooms. Along the way you battle imps, chaingunners, shotgunners and troopers. Sorry NO Cyberdemons! (This is meant to be level one you know.) There are many secret doors which are identified by their different textures. The secret doors do NOT show up as doors on the map. The level has the usual items, and many surprises. (Well... the guys at work liked it! :-) )",
+	"date": "2013-11-06 22:32:22",
+	"files": [
+		{
+			"filename": "altair1.wad",
+			"size": 128922,
+			"crc": 2196012821,
+			"md5": "7cc7c198ca3349527ddf140af59a44c3",
+			"sha1": "3848f9be624bfb49550d5bea9426ae111cb00f58",
+			"sha256": "da51a630f3800ed1d9db8f4933acbc5433437ad9e5549a8e9b87cccb73979295"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sewersdm.wad",
+	"name": "Sewersdm.wad",
+	"description": "This is a small deathmatch level. Starts for 4 player deathmatch.",
+	"date": "2014-01-07 22:08:35",
+	"files": [
+		{
+			"filename": "sewersdm.wad",
+			"size": 52791,
+			"crc": 675409731,
+			"md5": "8862df1ebc3ddb0db036823cef5d7183",
+			"sha1": "0fba9d55203c72a47070024d9641480499d17a69",
+			"sha256": "d5092a2bf5cd66b7ed41040c61eb48b803c8c534b7d8226f062c788319c2ff24"
+		}
+	]
+}

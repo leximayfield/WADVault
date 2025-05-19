@@ -1,0 +1,16 @@
+{
+	"uid": "kspider.wad",
+	"name": "Kill the Spider!",
+	"description": "Infiltrate the base, kill the spider, and escape. Good luck!",
+	"date": "2014-12-13 12:44:34",
+	"files": [
+		{
+			"filename": "kspider.wad",
+			"size": 3606,
+			"crc": 494298045,
+			"md5": "f339574f66390cf7d6981f345fbeee48",
+			"sha1": "a8afdab450ddb8c7ed91cd7ecb6d7a92c5dc4942",
+			"sha256": "eac4d2ac4432e564cc4a3a0cb54bdeeadc4862e86b511490c3f6cf5ec7b63b53"
+		}
+	]
+}

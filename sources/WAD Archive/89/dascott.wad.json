@@ -1,0 +1,16 @@
+{
+	"uid": "dascott.wad",
+	"name": "DaScott map 01",
+	"description": "Fast and furious deathmatch with nowhere to hide. Teleporters and indicator lights make things interesting and telefrags are abundant.",
+	"date": "2014-12-15 21:35:48",
+	"files": [
+		{
+			"filename": "dascott.wad",
+			"size": 408210,
+			"crc": 2353244965,
+			"md5": "d4838c595e0ada30275218d4cb4eda3b",
+			"sha1": "8954a834925b9b9b3d4375418cad8ddc5a1491ad",
+			"sha256": "fbad1503c31a8be0f937e69a489930d5b64477e698ed36280390729d4fe14c9e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "q2doom (18ae60).pk3",
+	"name": "Quake2Doom",
+	"description": "Quake2Doom is a single+coop player map that originally started back in the summer of 2000 as a 9 map quake2ish themed project.Though it failed to really capture the quake2 design. Now after 4 years, the project is now redone and utilizing the advance capabilities of the K8Vavoom and GZDoom source ports. The features include: sloped sectors, quake2 style lighting, 3d room over room, polydoors and a custom tga sky box.",
+	"version": "18ae60",
+	"date": "2019-05-22 04:35:08",
+	"files": [
+		{
+			"filename": "q2doom.pk3",
+			"size": 8527652,
+			"crc": 845252855,
+			"md5": "e8f50aca05c9434a8f2891482c3b0f3d",
+			"sha1": "18ae60ebac104c6a5ef42a035c10c9ce3da1173a",
+			"sha256": "eaf7212cfd3ac0fe47992fb229d862c79cf1b9602cb86e6010eaf21d7b4f6a6e"
+		}
+	]
+}

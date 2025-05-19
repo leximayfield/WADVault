@@ -1,0 +1,17 @@
+{
+	"uid": "prison (b15e26).wad",
+	"name": "PRISON",
+	"description": "Welcome to prison moon base Delta 4. You've been called in because of a rather out-of-control riot is taking place. And boy are the guards happy to see you! Well, maybe not, because they're a little trigger happy now that all carnage has broken loose. At least you know where to find ammo; right next to their dead corpses, where they've stock piled as much as they can to protect themselves.",
+	"version": "b15e26",
+	"date": "2015-01-14 23:02:30",
+	"files": [
+		{
+			"filename": "prison.wad",
+			"size": 176159,
+			"crc": 3583143966,
+			"md5": "2c979df347b0d162a00484313ddb2f60",
+			"sha1": "b15e26d63b6ecd95b40b5b74023c544379d3582b",
+			"sha256": "06ed6eace9038fbe7a6d73f2b7d75667e96042c6a1bd152a14ba057cb88635c5"
+		}
+	]
+}

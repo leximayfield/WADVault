@@ -1,0 +1,17 @@
+{
+	"uid": "extramapv1 (800949).wad",
+	"name": "EXTRAMAP Finished",
+	"description": "This is a slightly modified version of EXTRAMAP.wad from the 3DO Doom source code release which allows for full completion of the map (100% monsters, items, and secrets should be possible). May also work with the original DOOM, but I haven't tried it with that much.",
+	"version": "800949",
+	"date": "2019-07-04 15:41:53",
+	"files": [
+		{
+			"filename": "extramapv1.wad",
+			"size": 76726,
+			"crc": 237849588,
+			"md5": "9999cb23858c989c251b7f4474057bfe",
+			"sha1": "80094909883e97ec706c6643d1e9486510506085",
+			"sha256": "5dbb2e8d64712ad8c0ae3ca4e4a137126269e6041f461f3fa7e1bf7eee3d2b98"
+		}
+	]
+}

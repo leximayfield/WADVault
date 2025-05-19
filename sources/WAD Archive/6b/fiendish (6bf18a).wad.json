@@ -1,0 +1,17 @@
+{
+	"uid": "fiendish (6bf18a).wad",
+	"name": "Bastion of the Fiendish (grin)",
+	"description": "Deathmatch only!!! Castle motif with lots of stairways ambush spots. Enjoy...",
+	"version": "6bf18a",
+	"date": "2014-12-14 20:46:58",
+	"files": [
+		{
+			"filename": "fiendish.wad",
+			"size": 198333,
+			"crc": 1190820418,
+			"md5": "fc4bfd81cf1dfef9dafe2791e40b825d",
+			"sha1": "6bf18a89b7a1b32abb488722b5eef74c61e3ce83",
+			"sha256": "48747edbe2da2dd8c07c7de8955c3df0d1091a7a995a60ee7bc9c1d32a13f382"
+		}
+	]
+}

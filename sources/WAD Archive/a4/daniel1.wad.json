@@ -1,0 +1,16 @@
+{
+	"uid": "daniel1.wad",
+	"name": "Hell Caverns",
+	"description": "This is my first map for Doom2. A brutal single player level with lots of hard fights including a large and dangerous underground lava cavern. The level is supposed to be very challenging but absolutley not impossible so save often and i recommend trying to find all the secrets. Have fun.",
+	"date": "2014-12-18 22:48:47",
+	"files": [
+		{
+			"filename": "daniel1.wad",
+			"size": 91692,
+			"crc": 3691830497,
+			"md5": "a5327f6b5212f87b05e2dce8188a36f6",
+			"sha1": "a4ab1273c6941b7562c16b6ccf483ee826f55564",
+			"sha256": "f144e29964fa0b8ccd46579c641a68a038e9cc97936148a3d9c0c78566da0f4d"
+		}
+	]
+}

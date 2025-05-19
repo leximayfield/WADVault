@@ -1,0 +1,17 @@
+{
+	"uid": "GRAVE (a2a68b).wad",
+	"name": "Open Grave",
+	"description": "Nice little grave and well... Some text messages to set the mood.",
+	"version": "a2a68b",
+	"date": "2014-11-01 14:54:20",
+	"files": [
+		{
+			"filename": "GRAVE.wad",
+			"size": 45739,
+			"crc": 3764262149,
+			"md5": "8714edb98330b1e8a2f887b0229b8134",
+			"sha1": "a2a68b7a7f46494d73716a1acc2f47c79da71843",
+			"sha256": "dab41600454e526acd59ef8db94726e15a4b5d5e044c87115b588b94cc78fb4e"
+		}
+	]
+}

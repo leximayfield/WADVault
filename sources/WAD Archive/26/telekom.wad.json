@@ -1,0 +1,16 @@
+{
+	"uid": "telekom.wad",
+	"name": "Infected Telecom Stations v1.21",
+	"description": "A 16+2 level wad, technical reality + tactical fight",
+	"date": "2015-01-13 10:37:40",
+	"files": [
+		{
+			"filename": "telekom.wad",
+			"size": 10136024,
+			"crc": 2385401452,
+			"md5": "4bd8479d7118f5c848c5f76c4c25d6f1",
+			"sha1": "26d45ca789a8184c32cc3affca2d551a196a15cd",
+			"sha256": "4545ec24dd126798585c56f75868eeafd372cbfa86209bca5b0651a8475024ad"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "realprop.pk3",
+	"name": "Realistic proportions",
+	"description": "In the Doom Bible, Tom Hall implies that Wolfenstein (and, presumably, Doom) have a scale of 16 units to 1 real-world foot. Doomguy is thus three and a half feet tall. This small mod corrects that error, enlarging Doomguy to a more appropriate 96 units, or six feet.",
+	"date": "2016-10-17 16:59:55",
+	"files": [
+		{
+			"filename": "realprop.pk3",
+			"size": 591,
+			"crc": 119137824,
+			"md5": "d94430f2d427575e8f96052182a973a8",
+			"sha1": "7486d94862b9a8c8fc2bca4a81932f1777e92130",
+			"sha256": "054637a109702e58ec0ec72f3910f5dfe3e7af061fe87f1fc427a30baea24052"
+		}
+	]
+}

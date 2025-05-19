@@ -1,0 +1,16 @@
+{
+	"uid": "VAL003.wad",
+	"name": "Pits and Secrets",
+	"description": "Mid-size strategic Deathmatch arena for Doom II.",
+	"date": "2014-10-14 21:15:40",
+	"files": [
+		{
+			"filename": "VAL003.wad",
+			"size": 61655,
+			"crc": 675438311,
+			"md5": "83a1b2e6d64c359a88d788ba6647d9b0",
+			"sha1": "68e021d069c3e1c04db5a8973f8292f23e0bb1e5",
+			"sha256": "63352324bde650e51f1c633330240360da7914e850cfcd4e9331dabcfd890abd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "suitcasev2.wad",
+	"name": "Suitcase of Gor (Formerly D2Redux)",
+	"description": "The first maps I ever made, they suck, look terrible and are cramped as shit. A reimaging/remake/restyling of DOOM II. Inspired by a ton of stuff.",
+	"date": "2013-12-31 18:35:46",
+	"files": [
+		{
+			"filename": "suitcasev2.wad",
+			"size": 31939496,
+			"crc": 280898305,
+			"md5": "2b572073af63cb47b416c29272e04a46",
+			"sha1": "6fad5cf9c91ac40cb2d77039f574344b5d0b5a44",
+			"sha256": "94e81c5af6a970d698a2d9e8e463237297943043d0d82384f93df56b24f6252b"
+		}
+	]
+}

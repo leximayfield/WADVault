@@ -1,0 +1,16 @@
+{
+	"uid": "td5.wad",
+	"name": "Total Darkness 5",
+	"description": "Originally my cc3 contribution, the lack of support of the wad forced me to release this as a standalone level. I thought this was a worhty level for my series. This also explains the lack of skulltag features.",
+	"date": "2014-12-12 14:03:53",
+	"files": [
+		{
+			"filename": "td5.wad",
+			"size": 724298,
+			"crc": 3596154872,
+			"md5": "1592746082794d6ec9eddc380774fef6",
+			"sha1": "12b0120ccb3e76180fd7d528b2d5b35bd9413421",
+			"sha256": "0076aeea3e29860d4c5c42542d3d4b383230b2e936c47281e0f5f9ac6e23dda7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nonstop (0dc93f).wad",
+	"name": "Nonstop.wad",
+	"description": "This is my first level, so please go easy on me.",
+	"version": "0dc93f",
+	"date": "2014-12-03 20:06:23",
+	"files": [
+		{
+			"filename": "nonstop.wad",
+			"size": 74667,
+			"crc": 2247967113,
+			"md5": "047eeae5f9277962e6d48692fafb1dee",
+			"sha1": "0dc93fc85133ba404d3f16b1adfc4eebe02cc969",
+			"sha256": "5c18a8c42907bfc642341be67ebb6b730dfaf52faf44f61af2676606cb7c65c1"
+		}
+	]
+}

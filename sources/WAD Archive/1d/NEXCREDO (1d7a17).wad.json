@@ -1,0 +1,17 @@
+{
+	"uid": "NEXCREDO (1d7a17).wad",
+	"name": "Nex Credo",
+	"description": "Vanilla. Stock textures. SPOOGE, RIGHT?",
+	"version": "1d7a17",
+	"date": "2016-06-16 22:23:32",
+	"files": [
+		{
+			"filename": "NEXCREDO.wad",
+			"size": 1927532,
+			"crc": 368932667,
+			"md5": "b83c7f7778cfd73aa731f3c1d63fffd0",
+			"sha1": "1d7a17a997c832f760e850153da9d0bc208f81b2",
+			"sha256": "2a42c0c4280dcea303b330d60f8a53949a86327c208edd57de5a63fc8c192a11"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "seasons.wad",
+	"name": "4 seasons of DOOM",
+	"description": "4 maps themed after each one of the 4 seasons",
+	"date": "2019-01-18 04:26:18",
+	"files": [
+		{
+			"filename": "seasons.wad",
+			"size": 19376714,
+			"crc": 241907807,
+			"md5": "8949e17ead3cc83387b49bbc3b31af7e",
+			"sha1": "bd52614046565c25c421e786bb86d294b8d7742d",
+			"sha256": "b1c4d71cab9c76e2507ee9db1f20885d750cb717966479b9e8efeb6c2ba30310"
+		}
+	]
+}

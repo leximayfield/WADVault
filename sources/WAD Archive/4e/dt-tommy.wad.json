@@ -1,0 +1,16 @@
+{
+	"uid": "dt-tommy.wad",
+	"name": "Grab yer Thompson, Capone! Time to grease some no-good-dirty-rat-bastards!",
+	"description": "Replaces chaingun with '30's style Thompson machine-gun. Also known as a 'Tommy Gun'. Great fun!",
+	"date": "2014-12-10 22:46:09",
+	"files": [
+		{
+			"filename": "dt-tommy.wad",
+			"size": 52512,
+			"crc": 3166274318,
+			"md5": "bf9d472e50b1189c4c4639d82098ce7f",
+			"sha1": "4eb97872074f83cdd244e2a8783b3f82842a86b2",
+			"sha256": "54c2d4532ebe5d1e33a7b8e64ed7015083bcf93a40e1e0db3761ac43107ec3d8"
+		}
+	]
+}

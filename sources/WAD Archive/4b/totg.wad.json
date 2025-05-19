@@ -1,0 +1,16 @@
+{
+	"uid": "totg.wad",
+	"name": "Toilet of the Gods",
+	"description": "Toilet of the Gods is a set of 4 hard maps for the Doom2 IWAD and Boom-supporting sourceports. Features include platforming, turquoise, purple, and difficulty.",
+	"date": "2016-10-17 17:25:05",
+	"files": [
+		{
+			"filename": "totg.wad",
+			"size": 6814052,
+			"crc": 1118127503,
+			"md5": "f99209d7ba037dcdabe51da861a769f7",
+			"sha1": "4bb6f74c1b822fc5ce2a2228ed43dc36e4b1949d",
+			"sha256": "bad2d521b99f4fa99a8c846adfe05c0f7b4c978425a49bfd99d81dbf4d123497"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "reternal.wad",
+	"name": "Eternal Revelation (DEMO)",
+	"description": "This is a three-levels demo of full version of Eternal Revelation megawad. Who know when it will be finished, but you can play first three levels right now. These levels will force you to feel an atmosphere of Eternal III again.",
+	"date": "2015-01-14 22:45:06",
+	"files": [
+		{
+			"filename": "reternal.wad",
+			"size": 1252588,
+			"crc": 342447703,
+			"md5": "339bb8132e2a68c9450d3dc5086c59a9",
+			"sha1": "aa26c4d1293ce74b746bd25be5a087c7aa4a850b",
+			"sha256": "9f0d3831203375cb2100ec04a0549217b4f586b2a957d9873c2c2e475559507d"
+		}
+	]
+}

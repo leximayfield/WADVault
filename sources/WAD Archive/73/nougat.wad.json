@@ -1,0 +1,16 @@
+{
+	"uid": "nougat.wad",
+	"name": "N.O.U.G.A.T.",
+	"description": "A level from my upcoming project, It Only Gets Worse, released as a teaser for the full wad. Is to IOGW as singles are to full albums.",
+	"date": "2015-01-13 21:32:30",
+	"files": [
+		{
+			"filename": "nougat.wad",
+			"size": 138665,
+			"crc": 4159094460,
+			"md5": "e5085862580ac259f3a1de07ea605c86",
+			"sha1": "7368a72a64df33e8389a73ab78e8a84ef5321673",
+			"sha256": "515a6f8a96a24e823dde14b5f2f97d5c454ebacbe587bf4a48cdc1c23a2a59e6"
+		}
+	]
+}

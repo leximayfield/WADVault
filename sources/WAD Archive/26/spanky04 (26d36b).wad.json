@@ -1,0 +1,17 @@
+{
+	"uid": "spanky04 (26d36b).wad",
+	"name": "SPANKY04",
+	"description": "Made-for-deathmatch level. One blue sphere and one blue armor. No plasma weapons. A couple of secret rooms and LOTS of windows. Fast and deadly with 3 or 4 players.",
+	"version": "26d36b",
+	"date": "2016-02-07 20:26:35",
+	"files": [
+		{
+			"filename": "spanky04.wad",
+			"size": 78260,
+			"crc": 4176444221,
+			"md5": "f0a4d6683f9d0c8fcfa448d59a357c39",
+			"sha1": "26d36bbadf8d90c69b3d2c68aa193a1444df8778",
+			"sha256": "6acaa96893c6ca0f8c473bdd1cd6da61ddd7d42d1f3a3097023797c9238d6d4b"
+		}
+	]
+}

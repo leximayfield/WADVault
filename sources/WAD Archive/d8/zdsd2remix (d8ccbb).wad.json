@@ -1,0 +1,17 @@
+{
+	"uid": "zdsd2remix (d8ccbb).wad",
+	"name": "Doom2 Remix - Final Version",
+	"description": "Wadfile designed for Zdaemon (ZDoom) cooperative play. It contains 15 maps, based on original Doom2 maps.",
+	"version": "d8ccbb",
+	"date": "2013-04-19 03:58:42",
+	"files": [
+		{
+			"filename": "zdsd2remix.wad",
+			"size": 5938320,
+			"crc": 1085559215,
+			"md5": "be7e72bbc75c84d5948d08ba39617ce4",
+			"sha1": "d8ccbb134449248103c789f662e4c7a3d61817fe",
+			"sha256": "c031ee9fd5f91fb53bcd31567ebbac09c6d7124ba49fc0278978893d844b4546"
+		}
+	]
+}

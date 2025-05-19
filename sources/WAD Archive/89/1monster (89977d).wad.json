@@ -1,0 +1,17 @@
+{
+	"uid": "1monster (89977d).wad",
+	"name": "1 Monster Megawad",
+	"description": "In the spirit of 1024 Congestion and 10Sector, 25 new maps from the Doomworld community, each limited to only one monster type.",
+	"version": "89977d",
+	"date": "2013-04-19 00:18:52",
+	"files": [
+		{
+			"filename": "1monster.wad",
+			"size": 23838545,
+			"crc": 2412810267,
+			"md5": "d47734928a446fb77f2a66ba602a29a1",
+			"sha1": "89977dcb276a4664e27242d33b2217b2959f84ea",
+			"sha256": "4cdca4021c43d11963b59cd4cf027be7cec00abe5b3b3a7f6aab412a3fbeb3fa"
+		}
+	]
+}

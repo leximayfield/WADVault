@@ -1,0 +1,17 @@
+{
+	"uid": "butta (48fed9).wad",
+	"name": "BUTT.WAD",
+	"description": "This PWAD is for E1M1. It was designed primarily for deathmatch, which is apparent in the design.",
+	"version": "48fed9",
+	"date": "2014-01-04 11:55:34",
+	"files": [
+		{
+			"filename": "butta.wad",
+			"size": 181929,
+			"crc": 3928943146,
+			"md5": "94cd960ce69efe74feb153a0932c3a21",
+			"sha1": "48fed93af6e33cda7b02720168a20f808b560608",
+			"sha256": "d87ad07797da12279b9164f8c559c90a7f995b6d42cb0026625173956c2d1d85"
+		}
+	]
+}

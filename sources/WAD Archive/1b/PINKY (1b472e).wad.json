@@ -1,0 +1,17 @@
+{
+	"uid": "PINKY (1b472e).wad",
+	"name": "Pinky Demon Explosion",
+	"description": "Just a nice gib animation from the Aplha Versions of DOOM. Also included a test room for this wad.",
+	"version": "1b472e",
+	"date": "2018-04-14 19:24:32",
+	"files": [
+		{
+			"filename": "PINKY.wad",
+			"size": 43239,
+			"crc": 2508358152,
+			"md5": "62764bc542c2e0f3a9993e33ab9a2a89",
+			"sha1": "1b472ee8de7ec7901658f363064720572cc50635",
+			"sha256": "5aa19b0fd878c2c786268ef6e689b982860ac5992827b5b7ecc8869840758f85"
+		}
+	]
+}

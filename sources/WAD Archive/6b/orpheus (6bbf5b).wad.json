@@ -1,0 +1,17 @@
+{
+	"uid": "orpheus (6bbf5b).wad",
+	"name": "Orpheus' descent into hell",
+	"description": "3 levels of descent into hell, It starts off fairly nice, and gets more and more sick (so I am told).",
+	"version": "6bbf5b",
+	"date": "2013-11-02 15:16:53",
+	"files": [
+		{
+			"filename": "orpheus.wad",
+			"size": 160519,
+			"crc": 1027380196,
+			"md5": "735a52b2d9c45f08ea1260777a543d5f",
+			"sha1": "6bbf5b73d26132c8921acecb11cd3377a28b2e1f",
+			"sha256": "3ee9644cdf95a1d1db7ede6286502da2e2d40b9160282a994b85b763ed549ac9"
+		}
+	]
+}

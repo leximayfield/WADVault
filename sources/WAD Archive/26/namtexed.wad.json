@@ -1,0 +1,16 @@
+{
+	"uid": "namtexed.wad",
+	"name": "Nambona890's Texture Edits",
+	"description": "I decided to upload some useful texture edits that I made in Photoshop, that I've used in some of my WADs. They're pretty much mostly just metal and techbase texture edits, though. They're also in a ZDoom format, so you might have to do a bit of cleanup if you're using the textures for a vanilla/Boom-compatible WAD.",
+	"date": "2017-08-18 21:05:07",
+	"files": [
+		{
+			"filename": "namtexed.wad",
+			"size": 237568,
+			"crc": 2543695607,
+			"md5": "79c9dfe4ee54c8ddcde4fe39e5d14253",
+			"sha1": "2629bed359425980f07e2a0a63a5f635c5ca3288",
+			"sha256": "61abe30783b678c6394b9ac5e9cb8d3afaefff1658f32558e2935c12b2dc46f1"
+		}
+	]
+}

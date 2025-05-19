@@ -1,0 +1,16 @@
+{
+	"uid": "doom80.wad",
+	"name": "80's Horror Soundtrack",
+	"description": "Replaces the default music with a variety of .OGG tracks that could have appeared in the original game if it had been released in the 80's. That might sound weird, but fans of the original midis might actually like this.",
+	"date": "2015-09-14 23:23:04",
+	"files": [
+		{
+			"filename": "doom80.wad",
+			"size": 121200022,
+			"crc": 3400767648,
+			"md5": "f5abb413c8d641820a651d46e44cf940",
+			"sha1": "68b5aa8543446a7f5c06536060425f1bbdb689fa",
+			"sha256": "51dd7312f4d676e0a51eee63965b735dba4162f2f97a94f69e5ec0b293e7dff1"
+		}
+	]
+}

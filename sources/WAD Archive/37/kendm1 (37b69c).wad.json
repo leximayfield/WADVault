@@ -1,0 +1,17 @@
+{
+	"uid": "kendm1 (37b69c).wad",
+	"name": "KENDM1.WAD",
+	"description": "PWAD file for E1M1.",
+	"version": "37b69c",
+	"date": "2013-11-02 15:25:48",
+	"files": [
+		{
+			"filename": "kendm1.wad",
+			"size": 55926,
+			"crc": 2953189542,
+			"md5": "cdae71479221e80fbf14554aa1ab16a5",
+			"sha1": "37b69cfa08cb6ddc544f18e15c1ea4af6d1e00fa",
+			"sha256": "c453c66322ce5456bc4c1c8d5231ee50eb18d0cb432c107d5212634acd5fbdd5"
+		}
+	]
+}

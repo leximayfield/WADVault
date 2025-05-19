@@ -1,0 +1,16 @@
+{
+	"uid": "waterwks.wad",
+	"name": "The Waterworks",
+	"description": "You find yourself dropped into the city waterworks where the usual baddies are turning your pristine drinking water into nukeage. Somehow, you've got to stop them. Ok, ok, there's not really that much plot involved, but you get the idea. Kill the bad guys and get out alive. I tried to incorporate some features that I've always wanted to see in a WAD: a waterfall and a catwalk. E-mail me and let me know what you think.",
+	"date": "2015-01-14 22:48:38",
+	"files": [
+		{
+			"filename": "waterwks.wad",
+			"size": 175560,
+			"crc": 884239787,
+			"md5": "7ad44abc5221cd6ed865cfc606bd778a",
+			"sha1": "abba13b1f5bcc3746410a017b9608673a93eaef1",
+			"sha256": "764538defc6f9cd18815dd169a069488a2820594c30062d42aeacb67a15ffdcc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ghostown (ff29e6).wad",
+	"name": "GHOSTOWN",
+	"description": "House to house fighting in a small RnR town, as its being invaded from hell.",
+	"version": "ff29e6",
+	"date": "2014-01-11 11:19:11",
+	"files": [
+		{
+			"filename": "ghostown.wad",
+			"size": 131131,
+			"crc": 476341392,
+			"md5": "b3bec8721caeb31199cb9a962a836de9",
+			"sha1": "ff29e67ace0033043da5275435c70e14c64e2d22",
+			"sha256": "f8852dcd9d7f8d4677795c494684b87fa872e1911e981a0f27e9fb82f11a8ead"
+		}
+	]
+}

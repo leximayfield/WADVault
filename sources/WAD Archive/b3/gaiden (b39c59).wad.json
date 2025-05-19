@@ -1,0 +1,17 @@
+{
+	"uid": "gaiden (b39c59).wad",
+	"name": "Doom Gaiden - Insertion v1.2",
+	"description": "Those dipshits at the UAC have done it again. Only, this time it isn't Deimos that's disappeared - A large chunk of the UAC base has vanished into the aether, and new, untold beasts have begun pouring out of the gates. If that weren't enough, the AA guns surrounding the facility prevent infiltrators from entering... Crap.",
+	"version": "b39c59",
+	"date": "2018-03-27 21:12:51",
+	"files": [
+		{
+			"filename": "gaiden.wad",
+			"size": 14742348,
+			"crc": 1877457352,
+			"md5": "8af31e9d64d197631053a6e0e73c185b",
+			"sha1": "b39c5957d972d6df85954a3b6f9f56c628fd9d6e",
+			"sha256": "d82232fface21881496f960be7d5a40abc70b171f3582fb31226a75d78295543"
+		}
+	]
+}

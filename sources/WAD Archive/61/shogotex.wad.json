@@ -1,0 +1,16 @@
+{
+	"uid": "shogotex.wad",
+	"name": "Shogo Textures",
+	"description": "2848 textures from Shogo. Includes skies.",
+	"date": "2015-09-14 22:08:45",
+	"files": [
+		{
+			"filename": "shogotex.wad",
+			"size": 41903020,
+			"crc": 1054567292,
+			"md5": "6e7e8873b8f88189099654a9a007dbf9",
+			"sha1": "61834873c8a90547c6e6b72d084675fc7e41f5ab",
+			"sha256": "d9e10c222254a31829cc0ae7e88932992b0499d1e44b52595ce117c81363abb3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "RUNAWAY (f13c7b).wad",
+	"name": "RUNAWAY.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. There are no monsters and there is no exit. The level consists of one dark room, with walls to hide behind and lifts leading to higher platforms. The center of the room consists of a spiral staircase leading to the rocket launcher, plasma gun, or BFG9000, depending on the skill level set. The first one to reach this weapon will trigger the trip wire that sets the steps in motion, making it more difficult to reach this weapon.",
+	"version": "f13c7b",
+	"date": "2014-10-14 20:53:58",
+	"files": [
+		{
+			"filename": "RUNAWAY.wad",
+			"size": 14872,
+			"crc": 2102569687,
+			"md5": "48620f25eb822e3b11b4b8faa4420433",
+			"sha1": "f13c7b7886fc683aff3a1843eb9c6b60504dde3f",
+			"sha256": "6da67c836cd77de8626c9bd969ec865b57e901c8c79480a4796521861b4c5f1f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "DK_DM_13.wad",
+	"name": "Doomkid's Deathmatch!",
+	"description": "Here are 15 Vanilla-limit removing DM maps for your enjoyment. Some are known to crash DOS Doom 2 (Damn Visplane overflows!) but every other port including Zdoom, Zdaemon, Zandronum and Doom Legacy all run them just fine. I put a lot of calculation into these layouts, especially regarding the BFG. Good luck finding it and use it wisely, or just grab the SSG and go nuts! Some of these maps were originally for Deathmatch Revival, thanks to the DMR team, W1D3A55, Doomguy93, Joe Pallai and a big shout out to Death Egg and the Switcherdoom! team as well. Cheers!",
+	"date": "2013-10-18 14:06:55",
+	"files": [
+		{
+			"filename": "DK_DM_13.wad",
+			"size": 3101408,
+			"crc": 2574910956,
+			"md5": "577877c757162852fe3136f2271210f5",
+			"sha1": "aacde5965a941ef3816eaa2a32930527a2e4ed25",
+			"sha256": "c9a6af8c9de22a48ee6fe81f8c7f0973c113e0a98dd13458b7400b6e1d7a1e1d"
+		}
+	]
+}

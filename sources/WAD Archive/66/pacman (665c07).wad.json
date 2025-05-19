@@ -1,0 +1,16 @@
+{
+	"uid": "pacman (665c07).wad",
+	"name": "Pacman DooM",
+	"version": "665c07",
+	"date": "2015-09-14 20:04:26",
+	"files": [
+		{
+			"filename": "pacman.wad",
+			"size": 1648322,
+			"crc": 3098720585,
+			"md5": "fab6c65fc64f3d35d10798d12db7eaae",
+			"sha1": "665c07c705594607efa7db6e852304a0855a5431",
+			"sha256": "0c6a0909054d8a38a48d13335aeb0a18db2af8567deef661a9a02041f75b2988"
+		}
+	]
+}

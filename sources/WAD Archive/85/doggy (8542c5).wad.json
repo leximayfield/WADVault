@@ -1,0 +1,17 @@
+{
+	"uid": "doggy (8542c5).wad",
+	"name": "Doggy",
+	"description": "Off-beat hell levels with lots of heavy weapons usage and Spidey vs Cybie showdowns",
+	"version": "8542c5",
+	"date": "2018-04-14 23:12:06",
+	"files": [
+		{
+			"filename": "doggy.wad",
+			"size": 4585994,
+			"crc": 4147769169,
+			"md5": "999b12603b82395cade5310239ce123d",
+			"sha1": "8542c580398ecaba353ba313440d03dbe7e275ac",
+			"sha256": "0611f387bc631a9b1704d1a23e6f01e2e81e7dca9bb23c24cadbda8384733f8a"
+		}
+	]
+}

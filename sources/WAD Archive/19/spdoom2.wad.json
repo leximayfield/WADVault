@@ -1,0 +1,16 @@
+{
+	"uid": "spdoom2.wad",
+	"name": "Goin' Down to South Park",
+	"description": "Changes many of the sprites in to South Park stuff.",
+	"date": "2015-01-14 22:52:56",
+	"files": [
+		{
+			"filename": "spdoom2.wad",
+			"size": 1158864,
+			"crc": 2276979036,
+			"md5": "2c2a118055c25a8cd75469f93638ee9a",
+			"sha1": "19a386471493a5175d7229722e1a9b3d699bf36f",
+			"sha256": "b57545a583385c01069b36c3e9a2ca9b23fa4b33c96edae4d33a22189314efa0"
+		}
+	]
+}

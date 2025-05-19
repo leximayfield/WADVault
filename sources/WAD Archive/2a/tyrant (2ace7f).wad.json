@@ -1,0 +1,17 @@
+{
+	"uid": "tyrant (2ace7f).wad",
+	"name": "Tyrant",
+	"description": "5-map wad, Egyptian-themed. Pistol-starts are recommended, but not necessary.",
+	"version": "2ace7f",
+	"date": "2017-08-18 21:02:10",
+	"files": [
+		{
+			"filename": "tyrant.wad",
+			"size": 5028245,
+			"crc": 1705954456,
+			"md5": "20f0f82495c99ffdf6295026ecd39c68",
+			"sha1": "2ace7f717c615afc916566c2220ed3ff4869a8c8",
+			"sha256": "f1960cb46654e7c5633f83656dbe426bc99a46301b8d5762c8c844da7979e66e"
+		}
+	]
+}

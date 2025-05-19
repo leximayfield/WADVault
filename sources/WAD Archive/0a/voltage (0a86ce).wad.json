@@ -1,0 +1,17 @@
+{
+	"uid": "voltage (0a86ce).wad",
+	"name": "Voltage.wad",
+	"description": "A giant Circular room with walls and pedestals. Made for deathmatch",
+	"version": "0a86ce",
+	"date": "2014-12-15 23:15:52",
+	"files": [
+		{
+			"filename": "voltage.wad",
+			"size": 38253,
+			"crc": 3495815413,
+			"md5": "2c8930f443c4c6e19c135a58b52d7110",
+			"sha1": "0a86ce8e3cf8170622818321bbb54a038c43c640",
+			"sha256": "32af2d3f6174c6ce5405f32b48168c9c4f64ef31f04f0b1a89bd9a61165a111e"
+		}
+	]
+}

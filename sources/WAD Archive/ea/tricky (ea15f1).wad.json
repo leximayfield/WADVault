@@ -1,0 +1,17 @@
+{
+	"uid": "tricky (ea15f1).wad",
+	"name": "TRICKY",
+	"description": "<Insert dramatic lead-in story here> This DOOM II WAD was designed with the idea that Deathmatch play should be fast, fun, and competetive. I got ideas from several places. For single play, try out the included patch file. It modifies the enemies and makes them very similar to playing against a human opponenent. For deathmatch I feel I have balanced the number of bonuses, with the size of the level. I also tried to balance the layout of teleporters, barriers, weapons, and lifts to make play fun and difficult. Additional Credits to : Anyone who wants it",
+	"version": "ea15f1",
+	"date": "2013-11-06 22:42:34",
+	"files": [
+		{
+			"filename": "tricky.wad",
+			"size": 20510,
+			"crc": 2771371284,
+			"md5": "b7fb1f4ac5f8df3520835a04a8c9a768",
+			"sha1": "ea15f1c8d9dc20ecab59556e3662be3152a3e6b0",
+			"sha256": "cd39a18de18a26da59b4a10cc99546d3e33d1ddf7b7d0eccdf97da8774d5b25f"
+		}
+	]
+}

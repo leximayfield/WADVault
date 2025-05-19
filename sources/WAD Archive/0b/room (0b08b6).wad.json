@@ -1,0 +1,17 @@
+{
+	"uid": "room (0b08b6).wad",
+	"name": "Room over the Room",
+	"description": "Hi all! I made a DooM II MAP on BooM configuration. This is an example, that how to place a Room over another Room in DooM format. It's just a Illusion, and here is the example!",
+	"version": "0b08b6",
+	"date": "2015-09-15 19:12:59",
+	"files": [
+		{
+			"filename": "room.wad",
+			"size": 13129,
+			"crc": 1660120854,
+			"md5": "6c675bc2beb62518a64b23c7b7668c26",
+			"sha1": "0b08b6aaad5c0dae33c957dfc46c9dc1d38fde50",
+			"sha256": "b4b2df38e0bc2d197ab0021a6e63c58652f39dd6c9b9d470de7a9e0a3232cee8"
+		}
+	]
+}

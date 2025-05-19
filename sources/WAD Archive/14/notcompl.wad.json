@@ -1,0 +1,16 @@
+{
+	"uid": "notcompl.wad",
+	"name": "Never not completed episode",
+	"description": "These maps date back to years around 1996. I Renewed my oldest maps, which would be an whole episode, but I abandoned it and then I reverted back to it. I converted it to DooM2 and I corrected bugs in texturing and monsters stucked in the walls, inserted some details and joined all 3 maps together.",
+	"date": "2015-09-15 17:24:08",
+	"files": [
+		{
+			"filename": "notcompl.wad",
+			"size": 180520,
+			"crc": 1553838983,
+			"md5": "a6ee1bf4cecd82aca55969341a27dbf4",
+			"sha1": "147fbfe9ce41c11b4261ef8ce3170c239c9caa82",
+			"sha256": "d54421e2b39ca7ffb2abf236b1895a9e1a33fa31f14fb39eba00992bd132a9f2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sewer (9a707f).wad",
+	"name": "MINI SEWER",
+	"description": "This is a DEATHMATCH ONLY WAD!! It is a sewer with many twists and turns. There aint no rocket launcher or BFG cuz they aren't fair weapons in such a small level. (They rock in the big ones!)",
+	"version": "9a707f",
+	"date": "2014-12-15 21:46:46",
+	"files": [
+		{
+			"filename": "sewer.wad",
+			"size": 164918,
+			"crc": 3283012104,
+			"md5": "4432827ab8c5c587c556de8b9639e677",
+			"sha1": "9a707fb8be8cc3eed5fb37eac3c0635a541aa736",
+			"sha256": "f3b0203d8dacd936168f70f39fe84b833e4152a0c0404c6f46b050f8d8228281"
+		}
+	]
+}

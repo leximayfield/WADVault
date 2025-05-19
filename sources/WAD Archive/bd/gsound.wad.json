@@ -1,0 +1,16 @@
+{
+	"uid": "gsound.wad",
+	"name": "Glenda's Sounds (7-28-95)",
+	"description": "The Majority of sounds have been changed. This Wad can be used with DOOM I, II, or Ultimate Doom. Helps novice players to know which monsters spotted them, whether a shot hit a monster, whether a shot killed a monster (at a distance), etc. IOWs, audio cues from sounds helps.",
+	"date": "2015-09-14 19:32:35",
+	"files": [
+		{
+			"filename": "gsound.wad",
+			"size": 1303989,
+			"crc": 3631432522,
+			"md5": "48d67248533936def3ad286cd0d1eca2",
+			"sha1": "bd84aaf99f4418897a9bf337230f2caadb91705d",
+			"sha256": "8e21bb5cd1fa2c8aa8e86d934038541d0ba11cb48b4ab906f8695aad02c71dc1"
+		}
+	]
+}

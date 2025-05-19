@@ -1,0 +1,17 @@
+{
+	"uid": "obtic1 (3c41c3).wad",
+	"name": "Obituary 1.1, updated version",
+	"description": "19 levels, 3 new enemies, weapon patch",
+	"version": "3c41c3",
+	"date": "2013-07-15 18:40:18",
+	"files": [
+		{
+			"filename": "obtic1.wad",
+			"size": 4204061,
+			"crc": 930429835,
+			"md5": "779ab2642f61db55c655a4af2f80bff4",
+			"sha1": "3c41c36cb222a73ee93825ed1880cb8af47ecc9a",
+			"sha256": "c81a8664a7fe59e1ca73700f1d77b3382e7f4d449bdcddf2f2b684203f5ed9b9"
+		}
+	]
+}

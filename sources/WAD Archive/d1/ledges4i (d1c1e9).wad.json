@@ -1,0 +1,17 @@
+{
+	"uid": "ledges4i (d1c1e9).wad",
+	"name": "LEDGES4I.WAD",
+	"description": "This wad is designed for use with the new DEATHMATCH 2.0 rules. This patch file is for E1M1. This is the next DEATHMATCH WAD in the LEDGES series. More hours of ledges family fun....",
+	"version": "d1c1e9",
+	"date": "2016-02-07 20:29:55",
+	"files": [
+		{
+			"filename": "ledges4i.wad",
+			"size": 37233,
+			"crc": 4007782286,
+			"md5": "2b83e46cf496d76f3f37f02df0c144b0",
+			"sha1": "d1c1e91f1c3a79ce487c248b872218d93fd3c2b7",
+			"sha256": "db7eaceead9b3008a67eaac8d08383b95bdfc36c620d65394501e79f24894c65"
+		}
+	]
+}

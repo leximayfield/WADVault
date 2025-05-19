@@ -1,0 +1,16 @@
+{
+	"uid": "bge2.wad",
+	"name": "Base Ganymede: Episode 2",
+	"description": "Another 8 vanilla compatible levels set on the moon Ganymede. For your average skill level Doomer (you all hit UV anyway), but speedrunners have certainly been catered for as well! Note that while I haven't disabled jump or crouch in a mapinfo lump (I prefer to let the player do whatever they choose), it's possible they'll break the maps. I've tried to prevent this where possible, but some areas would require too much work for it. And remember to choose Episode 2, not 1, when playing...",
+	"date": "2013-10-07 22:12:20",
+	"files": [
+		{
+			"filename": "bge2.wad",
+			"size": 2147163,
+			"crc": 2733988002,
+			"md5": "dd85f0da7093c8088751f05823814251",
+			"sha1": "88e1814b9e3d7e45b610ac1abb24fe38614fccb8",
+			"sha256": "f029647493f33e48c42cd9fd657b264204015a1f607217c1b8623b348ed3a3f9"
+		}
+	]
+}

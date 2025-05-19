@@ -1,0 +1,16 @@
+{
+	"uid": "hcount.wad",
+	"name": "Heretic Binary Ripple Counter",
+	"description": "A 4-bit binary ripple counter, loosely based on Fraggle's counter.wad (for Boom), proving that voodoo doll conveyor belt scripting was already possible back in 1994. Also included are a second level that demonstrates a few more engine quirks, and an absurdly unnecessary story that ties the two levels together.",
+	"date": "2014-12-30 11:32:28",
+	"files": [
+		{
+			"filename": "hcount.wad",
+			"size": 177781,
+			"crc": 2799486324,
+			"md5": "e37b5e5a31da4f2222ec17c29a073cd3",
+			"sha1": "b063a374e44dd0986c9fab0081de23d097dffdc7",
+			"sha256": "f6d1aba0281d22d72855898be75824afdf8fd57c4e7be17787911a8ab746593c"
+		}
+	]
+}

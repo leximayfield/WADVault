@@ -1,0 +1,17 @@
+{
+	"uid": "fish (e36c23).wad",
+	"name": "Fish! (release 4)",
+	"description": "My own (probably ill-advised) attempt to counter Justin Fisher's [*] opinion that PWADs based on the concept of rooms that form words are boring and unimaginative. I dare say most of them are but it was a nice little challenge anyway. [* JF of Aliens-TC fame, that is.] This is a relatively small level, but has some neat touches I think. \"Fish\" is the despised pet name by which my little brother was known. Scroll down for tips.",
+	"version": "e36c23",
+	"date": "2014-10-27 22:16:55",
+	"files": [
+		{
+			"filename": "fish.wad",
+			"size": 247332,
+			"crc": 3413678889,
+			"md5": "94c6634a999b2ef443e123447950ddcf",
+			"sha1": "e36c23ce93284bd15f86d9bf689883c08bc3a666",
+			"sha256": "17647085440a1f3aed934ff8e268b51aa37a15375fdbe0a751c6e8c08ef08902"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "skroom.wad",
+	"name": "Skroom",
+	"description": "Skroom: A six level DooM II deathmatch set.",
+	"date": "2014-12-15 22:12:41",
+	"files": [
+		{
+			"filename": "skroom.wad",
+			"size": 417468,
+			"crc": 3741097644,
+			"md5": "1e16dcb2503a3757efed3143ec6fab4f",
+			"sha1": "aa6a610821d820e36254b86e00dee5aeb62342ea",
+			"sha256": "eb8e178a77d37cc0202b9be3baca7605b18e02cd8ccc809f0811404bbce73e2b"
+		}
+	]
+}

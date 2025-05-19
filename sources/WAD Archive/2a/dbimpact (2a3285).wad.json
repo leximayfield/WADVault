@@ -1,0 +1,17 @@
+{
+	"uid": "dbimpact (2a3285).wad",
+	"name": "Double Impact",
+	"description": "A nine map episode 1 replacement.",
+	"version": "2a3285",
+	"date": "2013-04-20 13:19:19",
+	"files": [
+		{
+			"filename": "dbimpact.wad",
+			"size": 4083689,
+			"crc": 71190846,
+			"md5": "a0886a2b07d187f385b3f31c6c09ee28",
+			"sha1": "2a32855cc17d96fc14a7e3c2ba5ba34aa4ae3134",
+			"sha256": "ce134698f61447572be63cd8829d2b84b9175a5d8cf3027f8a164cf13d85c221"
+		}
+	]
+}

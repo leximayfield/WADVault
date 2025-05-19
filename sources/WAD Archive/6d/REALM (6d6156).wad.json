@@ -1,0 +1,17 @@
+{
+	"uid": "REALM (6d6156).wad",
+	"name": "Realm of Evil (subject to change)",
+	"description": "The second release of my first wad, the first level's kinda plain at times but they get better. There are now 6 levels so far, I would say they're a cross between TNT and Thy Flesh Consumed.",
+	"version": "6d6156",
+	"date": "2015-01-14 14:44:36",
+	"files": [
+		{
+			"filename": "REALM.wad",
+			"size": 1796280,
+			"crc": 2521648930,
+			"md5": "c617cc433f9afde6ec6f2bbdd0fdb3f6",
+			"sha1": "6d61561c4b5f7856927e5faf9a69dea8b43d8fe3",
+			"sha256": "5dd24965f9456e604ee03c39468be97183ca1137a1939a5468db260ae3cf1f71"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "amtm.wad",
+	"name": "A Monster Too Many",
+	"description": "A simple map with lots of monsters. Includes a deathmatch section. (This is probably a horrible map but, then again i did not design it with any plans in mind. Just have fun with it ;)",
+	"date": "2014-12-15 21:22:56",
+	"files": [
+		{
+			"filename": "amtm.wad",
+			"size": 117266,
+			"crc": 903219280,
+			"md5": "41bbeaa7dae8e03a64540ccdf2123283",
+			"sha1": "cc87b6d1c350f63e3a6a85e8ed084560daf559ba",
+			"sha256": "4287723185933575ebc2f9618a7dc90e3042a8de622d56ea9efa4d7fd4efe641"
+		}
+	]
+}

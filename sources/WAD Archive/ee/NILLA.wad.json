@@ -1,0 +1,16 @@
+{
+	"uid": "NILLA.wad",
+	"name": "Nilla DooM (Short)",
+	"description": "A set of varied levels focused on fast, fun gameplay. My initial goal was to create maps suitable for the original engine. Most of the levels work without any problems in doom2.exe, while some may have tiny bugs here and there from the limitations. I also made this set for a quick project to whip up and release for the Doom community. Giving myself the limit of doom2.exe helped me stay focused and get these maps done before they got any bigger! Also, I think demo makers will have fun with these maps, and I hope to see some cool demos! The original set was to be 11 maps, but I have other stuff I have to work on and this was supposed to be wrapped up months ago...life sucks ;P The other 4 maps are planned and WILL be made, sort of like a special edition. Just not at the moment. Maybe after CC2...",
+	"date": "2013-09-02 19:50:52",
+	"files": [
+		{
+			"filename": "NILLA.wad",
+			"size": 2106315,
+			"crc": 271514275,
+			"md5": "a4d97665c26ac4b5bdf13611ded4f9e5",
+			"sha1": "eefb9fa10d735572f71e7fa45581c44ca7a2fb4c",
+			"sha256": "a8f31a1fa7b8dc8d3a08f649c4a73eac03c2416c1b28753721addf7aab69e839"
+		}
+	]
+}

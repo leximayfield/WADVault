@@ -1,0 +1,16 @@
+{
+	"uid": "pepper.wad",
+	"name": "Pepper",
+	"description": "3 tiny \"reality\" maps (you have to beat them without taking damage). They gradually escalate in difficulty, but never get too hard. All difficulties are implemented.",
+	"date": "2018-05-29 18:43:07",
+	"files": [
+		{
+			"filename": "pepper.wad",
+			"size": 3143904,
+			"crc": 798167099,
+			"md5": "a7f71cd7298a353c14b89539fb4cea5f",
+			"sha1": "6e8d615b225f34128418f2fd4c41ece8c3ad907d",
+			"sha256": "d7bbe57dbecc5cc085dbc555153063b90c487aaa46f3485b18cad001f96279dd"
+		}
+	]
+}

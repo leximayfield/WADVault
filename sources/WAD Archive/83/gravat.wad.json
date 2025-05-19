@@ -1,0 +1,16 @@
+{
+	"uid": "gravat.wad",
+	"name": "Gravitation",
+	"description": "A Spaceship with non linear gameplay, get any key you want at any time. Can be a bit of a challenge, but who knows.",
+	"date": "2014-12-24 17:39:58",
+	"files": [
+		{
+			"filename": "gravat.wad",
+			"size": 1436760,
+			"crc": 3302052882,
+			"md5": "a5a7da00386c2fc1cc8a842c4bd2c723",
+			"sha1": "8329d900f8ad0fe0d09643a1c88d50913c3e6d92",
+			"sha256": "a2a3442b9e10d5ec9343d20c910b2f1cdb393c5c380c4eb4447339a296a2d4dc"
+		}
+	]
+}

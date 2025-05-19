@@ -1,0 +1,16 @@
+{
+	"uid": "devinc2.wad",
+	"name": "The Devil Incarnate - for DOOM II",
+	"description": "A cool replacement for map 01. I would really appreciate any comments/constructive critisism as I am fairly new to WAD building.",
+	"date": "2014-12-18 23:19:48",
+	"files": [
+		{
+			"filename": "devinc2.wad",
+			"size": 48276,
+			"crc": 1970916980,
+			"md5": "de5d73808c530dc3966e774691d853b7",
+			"sha1": "49a2f2a045858f4144e910b23dec02f00ad6b65a",
+			"sha256": "c8bfe3c136f6d964ece0b12a490b362c6ac58338c5617e3f4bd4efacf732f7c2"
+		}
+	]
+}

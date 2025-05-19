@@ -1,0 +1,16 @@
+{
+	"uid": "plasskins.wad",
+	"name": "Plas Skins",
+	"description": "We made some skins, one of an ape (aap = ape/monkey in dutch) and one of a goat (geit = goat in dutch, they chew everything). Kayer did the most of the job by himself. They look quite the same as the standard marine skin, so its not so disturbing at all, at least we think. Both contain an exploding dead animation a status face and sounds. We made them for plasdm2, but ofcourse you can use them too if you want, but don't change anything and include this text file.",
+	"date": "2013-04-18 23:09:51",
+	"files": [
+		{
+			"filename": "plasskins.wad",
+			"size": 356899,
+			"crc": 3339021473,
+			"md5": "065d1c683e33c5b0bb467f8fe768dcfb",
+			"sha1": "f7dab86b9d41eebc8d0520e85d60337bacf36fb3",
+			"sha256": "9be8d2a8a529a9a55b287d122efc708e0ed4d868af0053d8c6b85d8dee1bf230"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "livebw.wad",
+	"name": "*say* LIVE BACKWARDS",
+	"description": "I ordinary version of the \"courtyard\" type of DM map I made this one a while ago and it is actually my 2nd dm-wad. I released it on doomshack first and forgot about ftp.cdrom.com... Please don't flame me for this one since I won't care",
+	"date": "2014-12-15 22:19:41",
+	"files": [
+		{
+			"filename": "livebw.wad",
+			"size": 145664,
+			"crc": 600758127,
+			"md5": "7ffd25c4f71d53493d25b578922004fe",
+			"sha1": "61cac25db1d204ed3af5eb7dbe36c4f7495f40ad",
+			"sha256": "390b098932d577b5784f6886362af6c6a6fef30c6902d1e9aa8de876e67819d6"
+		}
+	]
+}

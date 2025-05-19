@@ -1,0 +1,17 @@
+{
+	"uid": "illusion (b12861).wad",
+	"name": "Illusion",
+	"description": "A tricky Deathmatch .WAD that adds a lot of strategy into the game. Great for 2-4 players.",
+	"version": "b12861",
+	"date": "2013-11-03 17:48:51",
+	"files": [
+		{
+			"filename": "illusion.wad",
+			"size": 13394,
+			"crc": 2449717228,
+			"md5": "35b63b8926ff1a864b71c3b0ec5944eb",
+			"sha1": "b128618c6db06468131f7b529956f7a08dee3251",
+			"sha256": "c3e7f3a2da4340778013a7d76ee93f1cb791610a9a6b398fb3376e564e7607c3"
+		}
+	]
+}

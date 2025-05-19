@@ -1,0 +1,16 @@
+{
+	"uid": "dmcraft.wad",
+	"name": "DoomCraft (Minecraft Doom)",
+	"description": "You are in minecraft, and need to fight your way back to your house. There are dangerous cave routes in your path.",
+	"date": "2015-09-15 17:16:04",
+	"files": [
+		{
+			"filename": "dmcraft.wad",
+			"size": 14101158,
+			"crc": 1397981117,
+			"md5": "0e8a30ab83f4aac49bb0e1c2b43e0634",
+			"sha1": "57f3affea82ae61396543d1d3d16d98e7132c856",
+			"sha256": "0b7866c785c76c0fa59ae4db57297151a3bb889773ca6dff8ad9bb53f7ace946"
+		}
+	]
+}

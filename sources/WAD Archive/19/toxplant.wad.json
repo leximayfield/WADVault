@@ -1,0 +1,16 @@
+{
+	"uid": "toxplant.wad",
+	"name": "The Toxin Refinery",
+	"description": "This is my first ZDoom map. I tried to use some of the cool ZDoom features in this map. I also tried a different DM method. Let me know if it works or not.",
+	"date": "2014-12-15 21:43:44",
+	"files": [
+		{
+			"filename": "toxplant.wad",
+			"size": 168012,
+			"crc": 3440798199,
+			"md5": "dd86f0ff3eb7fa3223b96e06f05fdf2e",
+			"sha1": "1949270ff3555704ff6c41f2a57fee7b4e1afe9c",
+			"sha256": "72f3570094ff10ec749e905494dd18c11a07ee4f00b6602592e430414d8fc9eb"
+		}
+	]
+}

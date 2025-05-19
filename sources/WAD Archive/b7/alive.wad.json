@@ -1,0 +1,16 @@
+{
+	"uid": "alive.wad",
+	"name": "Alive",
+	"description": "Short map, enter a castle located in a, like, late autumn setting.",
+	"date": "2015-09-15 18:10:54",
+	"files": [
+		{
+			"filename": "alive.wad",
+			"size": 1560450,
+			"crc": 1471656428,
+			"md5": "e77792d94e256646c78b7b528561c9f7",
+			"sha1": "b7aa3eef02d4a35840570a0e0d9ca60cdeb6b539",
+			"sha256": "5ee754a6f0529a07cb6a18d73f657b1d2802f91fc159345838819a1e196d24f0"
+		}
+	]
+}

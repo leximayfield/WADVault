@@ -1,0 +1,16 @@
+{
+	"uid": "nukproc.wad",
+	"name": "Nukage Processing",
+	"description": "A short tech-base map with a nukage theme. Contains many themes in seperate rooms: star base, military, computer and dingy dirt. Mental and cramped - but fun.",
+	"date": "2015-09-14 20:35:39",
+	"files": [
+		{
+			"filename": "nukproc.wad",
+			"size": 134402,
+			"crc": 2665515021,
+			"md5": "5b650533326f66db42248cc592b29465",
+			"sha1": "11184afe8c3846b399e7670f945d7441e067ab42",
+			"sha256": "0698939a00436e8ea03be4f7e2caf46b46d96bf8964569aca620ccfebd4e31ac"
+		}
+	]
+}

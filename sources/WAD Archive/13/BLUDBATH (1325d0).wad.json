@@ -1,0 +1,17 @@
+{
+	"uid": "BLUDBATH (1325d0).wad",
+	"name": "Blood Bath (DOOM2 Map)",
+	"description": "You are put into an arena with a cyberdemon and other bad guys. A good thing included is a well done sniping tower with 2 windows and plenty of ammo.",
+	"version": "1325d0",
+	"date": "2014-12-15 22:17:38",
+	"files": [
+		{
+			"filename": "BLUDBATH.wad",
+			"size": 21538,
+			"crc": 736395107,
+			"md5": "085c2543c21d6818f1f0894292f310f7",
+			"sha1": "1325d00f45ba412d10d5a2ac49d2d9824af9874b",
+			"sha256": "1ac1712e6a6f1bf1964aa8ca0a09a36fc4844b4ef76ef8ea3df6d833ad0f29ed"
+		}
+	]
+}

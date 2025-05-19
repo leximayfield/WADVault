@@ -1,0 +1,17 @@
+{
+	"uid": "phantom2 (d37db0).wad",
+	"name": "The Phantom of the Opera",
+	"description": "This level tries to recreate the good atmosphere of the novel, without adding new textures. I know I should have included an Opera feel instead of a cheap cinema, but I lost the first map and didn't want to rework it.",
+	"version": "d37db0",
+	"date": "2015-01-14 23:10:25",
+	"files": [
+		{
+			"filename": "phantom2.wad",
+			"size": 165947,
+			"crc": 2934056755,
+			"md5": "43e139b43a280e4c6f10ea4bf1257115",
+			"sha1": "d37db0ddc800ccb0902cba0af4bf1a2179bcf142",
+			"sha256": "c8b37986f8c8018e6cff9713c9573c3b72403c14ad9191dbfd51b4c0f3a6c781"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "drug_me (52130b).wad",
+	"name": "Drug Me",
+	"description": "A rather large level. I had it up past 300K, but had to \"trim\" once Doom started crashing. Features many areas designed for multiplayer (deathmatch or co-op), including windows and some sniping spots. Can be played completely with single player, though.",
+	"version": "52130b",
+	"date": "2013-11-02 15:52:48",
+	"files": [
+		{
+			"filename": "drug_me.wad",
+			"size": 246714,
+			"crc": 3561947667,
+			"md5": "99ce1d3f628eac2610b2c257304e7d85",
+			"sha1": "52130b197d9902d6c6e496054a375e4504e5bd4d",
+			"sha256": "23f16ef0d65141b56028de071d60e88cf969dde9ab275d00f35af307f7514384"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "regeneration3.wad",
+	"name": "\"Regeneration v3\"",
+	"description": "Just run this wad along with other wad(s) you're playing to enable regeneration. It works the same way it does in modern shooters: if you take no damage for a short while your health will start to regenerate back up. Taking the damage at this point will cancel out the ongoing regeneration until you take no damage for a short while again.",
+	"date": "2013-08-12 21:02:45",
+	"files": [
+		{
+			"filename": "regeneration3.wad",
+			"size": 3618,
+			"crc": 2211472366,
+			"md5": "77bcacfc662362134f5b2a4fb555f975",
+			"sha1": "dfcc91ff892625904c4c59526247202d84411506",
+			"sha256": "933cf21e542c19c6d01faa9ea3bbb25773a5fd0bb5959026600705c4287d093b"
+		}
+	]
+}

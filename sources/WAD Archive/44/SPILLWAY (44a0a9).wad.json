@@ -1,0 +1,17 @@
+{
+	"uid": "SPILLWAY (44a0a9).wad",
+	"name": "NUCLEAR SPILLWAY",
+	"description": "Large map, plenty of secrets & NUKAGE ! Replaces episode 3 level 1 just because I liked the sky texture in that episode. LMP included (played on skill level 3) To view place SPILLWAY.WAD & SPILLWAY.LMP into your DOOM directory and type: `DOOM -PLAYDEMO SPILLWAY -FILE SPILLWAY.WAD'",
+	"version": "44a0a9",
+	"date": "2014-01-11 11:12:09",
+	"files": [
+		{
+			"filename": "SPILLWAY.wad",
+			"size": 135377,
+			"crc": 3144055437,
+			"md5": "5167539e404bd56eeee6350a555adfda",
+			"sha1": "44a0a95fd373e674319180681bd2364e70e48983",
+			"sha256": "da92d521d4cd0b5144b19f5d163ddf5a288407ce5635489ad29832e66f0e8685"
+		}
+	]
+}

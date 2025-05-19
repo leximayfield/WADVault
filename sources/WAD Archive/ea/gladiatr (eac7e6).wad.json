@@ -1,0 +1,17 @@
+{
+	"uid": "gladiatr (eac7e6).wad",
+	"name": "GLADIATR.WAD",
+	"description": "Try this small WAD as the eigth level on the first episode. It's not large, but fun if you try it starting with a pistol only! NOTE: you must warp to level 8 on episode 1 for this WAD to work, it will not work if you change the WAD to any other level.",
+	"version": "eac7e6",
+	"date": "2013-11-02 15:22:41",
+	"files": [
+		{
+			"filename": "gladiatr.wad",
+			"size": 33872,
+			"crc": 3066906493,
+			"md5": "10d7a2a37563a69a0a446cae849da315",
+			"sha1": "eac7e62c4e0fb52a24981d96ee9398255bfec4ec",
+			"sha256": "819b30f89fed356c78f614bbdf1e33c45bb57844f9abd239017da00e47156505"
+		}
+	]
+}

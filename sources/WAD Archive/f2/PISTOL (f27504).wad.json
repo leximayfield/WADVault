@@ -1,0 +1,17 @@
+{
+	"uid": "PISTOL (f27504).wad",
+	"name": "Run N'Gun",
+	"description": "Try to survive with your basic pistol? This is a VERY BASIC level. This is my first attempt at using a Doom Editor. The purpose was to familiarize myself with the very basic features of the editor. So, don't look for any elevators, lifts, or stairs. However, after a liberal sprinkling of a few \"friends\", who can't or won't provide me with nothing more than bullets, the level was enjoyable while testing the basic features of the editor. All weapons (except for the chainsaw) are here. Sufficient ammunition for all is likewise present. However, not too much in the way of medical assistance. That's why the name \"Run N' Gun\" was chosen. Because this is a complete learning process, I'll appreciate all comments.",
+	"version": "f27504",
+	"date": "2013-11-02 15:12:53",
+	"files": [
+		{
+			"filename": "PISTOL.wad",
+			"size": 31225,
+			"crc": 1485664754,
+			"md5": "0ba793f3e310933755e4739a1064b516",
+			"sha1": "f275049902296a7bf27ec8c99601030e13b51be6",
+			"sha256": "e51a5931228703c296e4cbbc8f7df69a7f436f0f281afd7389c5c1ffdbc1d970"
+		}
+	]
+}

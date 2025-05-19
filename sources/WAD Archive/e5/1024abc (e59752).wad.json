@@ -1,0 +1,17 @@
+{
+	"uid": "1024abc (e59752).wad",
+	"name": "1024:ABC edition",
+	"description": "1024x1024 letters with gameplay on/in/around it that goes in the alphabetical order with some skip maps in the middle for vanilla compability.",
+	"version": "e59752",
+	"date": "2014-12-27 12:48:32",
+	"files": [
+		{
+			"filename": "1024abc.wad",
+			"size": 2253695,
+			"crc": 3317794745,
+			"md5": "94dd193112af005cc1280565cd2f60e2",
+			"sha1": "e59752250d5a6fbc45230d38152bb89fffce9d57",
+			"sha256": "e1b255771a20504f0bcb3bc9ac699f88ae17256d3b18a7882629cd64a793adab"
+		}
+	]
+}

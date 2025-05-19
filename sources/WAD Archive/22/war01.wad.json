@@ -1,0 +1,16 @@
+{
+	"uid": "war01.wad",
+	"name": "Demon War",
+	"description": "Large map for DOOM 2",
+	"date": "2019-11-18 21:23:04",
+	"files": [
+		{
+			"filename": "war01.wad",
+			"size": 2675870,
+			"crc": 4534149,
+			"md5": "fa5c25a45a704b970cc94694539d3ba9",
+			"sha1": "226484f1a78e69b9a9ec1fb422f0a70a6e55bb82",
+			"sha256": "9a6ab0d7a394e3f7875d4a8d1de7f4ab15a9e892e4b8945cb0bc202686e753a4"
+		}
+	]
+}

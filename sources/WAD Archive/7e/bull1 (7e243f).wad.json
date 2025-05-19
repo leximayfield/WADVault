@@ -1,0 +1,17 @@
+{
+	"uid": "bull1 (7e243f).wad",
+	"name": "BULL1.WAD",
+	"description": "High frag deathmatch wad for 4 player DOOM 2, and yes there are ways to get to the outer rim :)",
+	"version": "7e243f",
+	"date": "2013-11-06 22:40:18",
+	"files": [
+		{
+			"filename": "bull1.wad",
+			"size": 16593,
+			"crc": 2513718165,
+			"md5": "9ee814705c3b543cd0a6cabb8147cf90",
+			"sha1": "7e243f5bcee1ea802f6a2c0d4b5f50c2932bb97b",
+			"sha256": "1a5adbce0002c7f36b105da18ec59317f7e82e8fe77bc8e8b28e35aada789c75"
+		}
+	]
+}

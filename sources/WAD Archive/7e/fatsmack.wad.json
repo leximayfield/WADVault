@@ -1,0 +1,16 @@
+{
+	"uid": "fatsmack.wad",
+	"name": "Fatsmack!",
+	"description": "Romero-esque level from nearly five years ago that saw a few test releases, but was never uploaded. There are things I'd do differently today, but it's pretty good for what it is and should be archived. This version is dated about a week later than the last test release, but I don't remember what was changed. Prior versions went a bit overboard on health. The dumb name comes from the sound of Revenants and Mancubi infighting.",
+	"date": "2018-09-30 20:24:12",
+	"files": [
+		{
+			"filename": "fatsmack.wad",
+			"size": 238854,
+			"crc": 1359912947,
+			"md5": "bced293d970f623ea54c1109772bb020",
+			"sha1": "7e2c63236d1171765919d98a9d20c8e6e28319d3",
+			"sha256": "d0440156717a55e23fbacc30b27f8fbe416da5573eed68bcb08c1f2fd29e0268"
+		}
+	]
+}

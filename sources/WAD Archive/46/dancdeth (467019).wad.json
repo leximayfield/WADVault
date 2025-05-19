@@ -1,0 +1,17 @@
+{
+	"uid": "dancdeth (467019).wad",
+	"name": "Dance of death",
+	"description": "Its a huge multiplayer level.",
+	"version": "467019",
+	"date": "2015-12-07 08:46:37",
+	"files": [
+		{
+			"filename": "dancdeth.wad",
+			"size": 127664,
+			"crc": 4127553260,
+			"md5": "bb95c35eb8140d0a782b7239c8b1a358",
+			"sha1": "46701921dedf1356f7bd3a41324539c7d2a4486e",
+			"sha256": "55a4582d1e4aedcf20ccb580fb77a3a9b5073f2781fa59176fc6db6948d1cc5d"
+		}
+	]
+}

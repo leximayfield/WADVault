@@ -1,0 +1,16 @@
+{
+	"uid": "plntwars.wad",
+	"name": "Doom: Planet Wars",
+	"description": "A marine's journey across different worlds to stop the forces of hell from taking over yet one more time.",
+	"date": "2015-01-12 19:31:30",
+	"files": [
+		{
+			"filename": "plntwars.wad",
+			"size": 11483842,
+			"crc": 3295920286,
+			"md5": "a45b32923f201032e014d958aca90b61",
+			"sha1": "4994d059d728e204fad596b61f8e4d61e2638d9e",
+			"sha256": "ab6369181fff9d6c7f40ee43c5f6ee737b3aad6c72ec2b49ee7c76e001e0055b"
+		}
+	]
+}

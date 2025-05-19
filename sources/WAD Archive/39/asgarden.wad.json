@@ -1,0 +1,16 @@
+{
+	"uid": "asgarden.wad",
+	"name": "Ashen Garden",
+	"description": "My first map, which was intended to be included in the Scorching Heat II project, but since it was abandoned, was left unused. It's a linear slaughterfest in a gothic & rock environment.",
+	"date": "2014-12-21 16:43:13",
+	"files": [
+		{
+			"filename": "asgarden.wad",
+			"size": 1370412,
+			"crc": 495744455,
+			"md5": "615348dcb5ea1572a428ba3a115033a8",
+			"sha1": "390037cadf0ed677d52c22c48910c6509cd687c4",
+			"sha256": "876a141a117ad84cb1b29c7a7ecb913ed6f2f7487717d53c7f758b254dd55e4b"
+		}
+	]
+}

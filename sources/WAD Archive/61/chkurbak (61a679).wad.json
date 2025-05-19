@@ -1,0 +1,17 @@
+{
+	"uid": "chkurbak (61a679).wad",
+	"name": "CHeK yoUR BAcK",
+	"description": "This is a complete level for DooM II. I made it with single player in mind, haven't tested in DeathMatch or Cooperative, but it should work ( there are deathmatch weapons and starts ). Watch out with the pools, once inside there is no way out ( at least alive :). This is my first WAD, so it's not very pretty, but it has some creative secrets and traps. Plenty of pain. Enjoy! If you have comments please e-mail me.",
+	"version": "61a679",
+	"date": "2013-11-04 20:06:58",
+	"files": [
+		{
+			"filename": "chkurbak.wad",
+			"size": 62265,
+			"crc": 2090285098,
+			"md5": "5a436d4abe53979b52d069611458958e",
+			"sha1": "61a679f4691f8fd1eff41b652bf7146c5f09d12f",
+			"sha256": "a9a6935e1ccf78f1c08c3509a9a502a4ca194374b134c785a758f0d2641baa67"
+		}
+	]
+}

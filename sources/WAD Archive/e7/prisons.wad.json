@@ -1,0 +1,16 @@
+{
+	"uid": "prisons.wad",
+	"name": "Prison",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2015-01-14 22:51:24",
+	"files": [
+		{
+			"filename": "prisons.wad",
+			"size": 245452,
+			"crc": 1997557826,
+			"md5": "7cc98d6bb0d6a216519c2f82d4b3a702",
+			"sha1": "e78fd7897f21ece1c197312f1d099548cc10df32",
+			"sha256": "9ba0d7bbc2e19d349b8006b1363b3b5f6be92dcc2c3b7cf637046668a7bbfef2"
+		}
+	]
+}

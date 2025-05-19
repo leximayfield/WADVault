@@ -1,0 +1,17 @@
+{
+	"uid": "dmdept (d3bc75).wad",
+	"name": "DEPTHS OF DOOM",
+	"description": "You have landed on the surface of the planet below. Intelligence has told you that below the surface, there are two more levels. On the surface, mostly there are rogue creatures, and the quest is to find the passage to the hell-hole below.",
+	"version": "d3bc75",
+	"date": "2013-11-02 15:25:18",
+	"files": [
+		{
+			"filename": "dmdept.wad",
+			"size": 118631,
+			"crc": 2990535371,
+			"md5": "3492fd3ce049fadfce460112b2bdf2c6",
+			"sha1": "d3bc7531935ecd6ba25c4306377c28c770afe969",
+			"sha256": "801784eb67c3141890492d9de2740015abf908b5955dbe1ae528262cd6125630"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "radrise.wad",
+	"name": "Radial Ascension",
+	"description": "Fairly simple map set in a cave/cavern themed place. Oh, and it's set inside the 1024 radius area. (heh)",
+	"date": "2015-09-14 19:29:48",
+	"files": [
+		{
+			"filename": "radrise.wad",
+			"size": 331668,
+			"crc": 2099690958,
+			"md5": "dba653d5e8fc7ed0b58a71522f5eb861",
+			"sha1": "8e804030380753148a111bf1853b7b71bceda5f4",
+			"sha256": "26aa82f70a9ab8df8740cd23bac7612db9d3c8edd43af45b02b609cbb172360f"
+		}
+	]
+}

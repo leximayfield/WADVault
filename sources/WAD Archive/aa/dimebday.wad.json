@@ -1,0 +1,16 @@
+{
+	"uid": "dimebday.wad",
+	"name": "The Dime Birthday Level Collection",
+	"description": "Twelve levels designed for the 25th birthday of Doom speedrunner Dime! The restrictions given to the designers were: - Boom compatibility (a.k.a. PrBoom+ -complevel 9) - No green or blue armor - Maximum 75 monsters - In the style of scythe map 22-24 gameplay (texture use is up to [one]self) - Must [have] a BFG, but only a maximum of 200 cells in the map INCLUDING BFG pickup. All levels were played by Dime on his Twitch channel. He wrote on Doomworld afterward that \"From Melbourne streets, to green scythe, to near impossible maps it was all a blast.\" Said \"near impossible map\" is included as MAP32 and cannot be reached in normal gameplay; you must warp to that level to play it.",
+	"date": "2015-09-14 19:44:58",
+	"files": [
+		{
+			"filename": "dimebday.wad",
+			"size": 6097927,
+			"crc": 650552286,
+			"md5": "0945e8f2b2b9ed338395c2420e260c30",
+			"sha1": "aa763a762a7faffdbdf264de2774308eab2b35c6",
+			"sha256": "ef42ada402783af7c5ee4f882be902504d87efcec5a9b6dba0703678c35fc42a"
+		}
+	]
+}

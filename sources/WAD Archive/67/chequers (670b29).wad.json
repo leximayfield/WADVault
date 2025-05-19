@@ -1,0 +1,17 @@
+{
+	"uid": "chequers (670b29).wad",
+	"name": "HELL'S CHEQUER BOARD",
+	"description": "This level has a BFG but if you want it : without cheating, you will need to first : find the yellow key, then the secret area : in which you will find the red key to give : you access to the BFG. : In the Chequer board room try and visit : all areas. GOOD LUCK!",
+	"version": "670b29",
+	"date": "2013-11-04 20:13:51",
+	"files": [
+		{
+			"filename": "chequers.wad",
+			"size": 96954,
+			"crc": 1979091617,
+			"md5": "e3b06d08dbd2ee7d4e80175b8ded4232",
+			"sha1": "670b29e0194cd308ff0656ab0f9bdefeca8390e4",
+			"sha256": "93ee219f62da1bd68e3b0460f1be311dab6d551b732adbf80b0d077dc2d251ab"
+		}
+	]
+}

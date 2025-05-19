@@ -1,0 +1,17 @@
+{
+	"uid": "LAKE4 (257fc0).wad",
+	"name": "lake4.WAD",
+	"description": "Small-sized level best characterized as as a turkey shoot. This is a clean-up version of my very first PWad; I had fun making it, I hope you like playing it.",
+	"version": "257fc0",
+	"date": "2013-11-02 15:14:13",
+	"files": [
+		{
+			"filename": "LAKE4.wad",
+			"size": 45614,
+			"crc": 115317318,
+			"md5": "f6e2a8a15da6732f4f530a2ff8ec47b6",
+			"sha1": "257fc047ce20f5fec956831d88e1ab2a936ba7da",
+			"sha256": "bff17a3f535efdf18d7fd23b4824504810a867bc61015c23669e17a9168fd84d"
+		}
+	]
+}

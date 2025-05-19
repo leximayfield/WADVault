@@ -1,0 +1,17 @@
+{
+	"uid": "coldstel (40d785).wad",
+	"name": "Cold Steel",
+	"description": "Episode 2 map in the E2M4 motif. Approximate architecture construction ratio between authors is about 70% Mr. Chris, 29% Mr. Freeze and 1% Hellbent. This version fixes two issues in the : original upload 4 months ago",
+	"version": "40d785",
+	"date": "2014-12-13 12:46:45",
+	"files": [
+		{
+			"filename": "coldstel.wad",
+			"size": 229822,
+			"crc": 2675463305,
+			"md5": "470c4cdb2c39db0544c6a07508b9989e",
+			"sha1": "40d78553485616688be3505d1a9b48592ba11e3d",
+			"sha256": "8f067cb0c6476db5303b94cbd4de3346094294fb71d8eeeab6aeaf9cbe1a6162"
+		}
+	]
+}

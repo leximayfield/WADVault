@@ -1,0 +1,17 @@
+{
+	"uid": "VS-HDUEL (8599c3).wad",
+	"name": "HERETIC DEATHMATCH DUEL",
+	"description": "Deathmatch Wad for Heretic E1M1 Watch out for the traps.",
+	"version": "8599c3",
+	"date": "2013-11-02 16:36:58",
+	"files": [
+		{
+			"filename": "VS-HDUEL.wad",
+			"size": 114423,
+			"crc": 1626727205,
+			"md5": "89abe2d176d88db9d26e365c58a910da",
+			"sha1": "8599c36558cb31df16976c5790f45bd312a098c1",
+			"sha256": "a6e8d7cab105af2b086a1b6ca2b430aecb5709a0885d2e7e93f1f25d49c38550"
+		}
+	]
+}

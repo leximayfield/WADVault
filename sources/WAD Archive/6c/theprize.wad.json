@@ -1,0 +1,16 @@
+{
+	"uid": "theprize.wad",
+	"name": "The Prize WAD for DOOM II",
+	"description": "This WAD was made specifically : as a contest wad. See who can get the : invulnerability sphere and throw the switch : to open the exit. I wanted a wad to use for : spontaneous contests on the server, usually : for a free nights MERCENARY access. : This is my first WAD ever.",
+	"date": "2014-12-15 21:37:28",
+	"files": [
+		{
+			"filename": "theprize.wad",
+			"size": 23986,
+			"crc": 3554167243,
+			"md5": "876f75decc33fe89034576ecfd670a59",
+			"sha1": "6cc2fea44ec6432b57545e3edfe9092b50b7b51b",
+			"sha256": "84c9d5aba3e83d8aedbcf62590ea57a293960184927fd53d2552579f37884a7f"
+		}
+	]
+}

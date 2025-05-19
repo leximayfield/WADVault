@@ -1,0 +1,17 @@
+{
+	"uid": "dumb (26cc29).wad",
+	"name": "DUMB WAD for DOOM2.",
+	"description": "A small one room Deathmatch wad for Doom2, with alot of weapons to use on your enemies. Their is also a couple of Cyberdemons and a Spider Mastermind, so not only are you trying to defeat your enemies, you are trying to defeat the Cyberdemons and the SpiderMastermind too. So watch out!",
+	"version": "26cc29",
+	"date": "2014-12-15 23:10:45",
+	"files": [
+		{
+			"filename": "dumb.wad",
+			"size": 10253,
+			"crc": 2197114422,
+			"md5": "b73350404cfe5559cffb204ddcb57ecb",
+			"sha1": "26cc29f0be82e6a48cb44acc88283f4fba144ee2",
+			"sha256": "ea579addc2125212bb40aa6eb29ddc05959dc2d3f53731a17f77ab5d6e95cbdf"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "maskimxul (10bb4b).wad",
+	"name": "Maskim Xul",
+	"description": "A set of 3 Boom-compatible maps for Doom II (with a decidedly Lovecraftian theme to the second and third), with epilogue maps on MAP04 and MAP30.",
+	"version": "10bb4b",
+	"date": "2019-03-19 22:42:48",
+	"files": [
+		{
+			"filename": "maskimxul.wad",
+			"size": 26002386,
+			"crc": 2481234291,
+			"md5": "6f88fa6daba6cd1ea454fdd348d51b75",
+			"sha1": "10bb4b816e42b2d7a64cc1d455dcf7a341f0d377",
+			"sha256": "4bbfc5bdd73c25c7ef4c35ad54937dd5a73938157684c6416e6ada4766312aa4"
+		}
+	]
+}

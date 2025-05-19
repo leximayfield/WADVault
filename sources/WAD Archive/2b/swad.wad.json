@@ -1,0 +1,16 @@
+{
+	"uid": "swad.wad",
+	"name": "SWAD Pack 1: Stock CounterStrike Weapons",
+	"description": "Part of the SWAD Weapons Group.",
+	"date": "2014-12-11 22:23:20",
+	"files": [
+		{
+			"filename": "swad.wad",
+			"size": 2815132,
+			"crc": 168513711,
+			"md5": "afc40514870f09b1366dec73f44ed424",
+			"sha1": "2bfa5a180a4c26aeab0143e2cfe6914acfc55658",
+			"sha256": "5809490fc19db3fb051fb5ea01f877bad04fea1319c37c1cfa87985e4cc85f58"
+		}
+	]
+}

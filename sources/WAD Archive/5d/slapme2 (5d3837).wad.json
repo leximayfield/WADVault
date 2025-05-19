@@ -1,0 +1,17 @@
+{
+	"uid": "slapme2 (5d3837).wad",
+	"name": "Slapme",
+	"description": "This is an updated version of slapme for Doom II. It's a deathmatch only WAD set around a castle coourtyard type thing. There are lots of good sniper points and look out for the secret passages for the extra bonuses, the slimey walls inside give them away. Give your mates a right good slapping with this wad.",
+	"version": "5d3837",
+	"date": "2013-11-02 15:55:11",
+	"files": [
+		{
+			"filename": "slapme2.wad",
+			"size": 53071,
+			"crc": 2645170929,
+			"md5": "4c35aea5f7b707a2f7160cdc2ad9bc13",
+			"sha1": "5d383749555a9766b0256624e3bea53837f5c262",
+			"sha256": "20a0185c559478cf746d38b5482dd4f03d890eac4d36a008cc336ff95d5dc5f5"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dantes (2fddb0).wad",
+	"name": "DANTE'S GATE",
+	"description": "This is my first level, folks, so be gentle with me. For the most part, the only \"theme\" I had in mind was to make the level as aesthetically pleasing and consistent as possible. In other words, I wanted it to look neat. There are lots of little nooks and crannies scattered about, and (I hope) a few sur- prises. I really hadn't intended the level to be so big (128K) when I first started; but, you know, one thing led to another and I just didn't know when to stop.",
+	"version": "2fddb0",
+	"date": "2013-11-02 15:47:58",
+	"files": [
+		{
+			"filename": "dantes.wad",
+			"size": 127966,
+			"crc": 3812858521,
+			"md5": "02a3546e4a4008279a91243618101599",
+			"sha1": "2fddb068c67635f02eac261381418577c95ab199",
+			"sha256": "f84b2ea7b9c1775ba7678565ff4dcde7bf5e97f6d3b886907824be4b4c1e2cdc"
+		}
+	]
+}

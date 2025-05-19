@@ -1,0 +1,16 @@
+{
+	"uid": "barber.wad",
+	"name": "Barbershop Doom II",
+	"description": "This is basically a weapons replacement for Doom II, replacing the weapons with barbershop items. The graphics are meant to be cartoony, and this WAD is meant to be silly, not serious, so don't download this if you want real weapons replacement.",
+	"date": "2014-12-11 22:26:11",
+	"files": [
+		{
+			"filename": "barber.wad",
+			"size": 1148848,
+			"crc": 2318472667,
+			"md5": "0eb722e5d38cfdaafb412183fb9d9488",
+			"sha1": "93c2e5f97097cf1e68109fa8e6dabbdd8a10a2c4",
+			"sha256": "4c66a0754a912d434a67da63038f3078d868de9fae3535cc6326cd21b56a2bf5"
+		}
+	]
+}

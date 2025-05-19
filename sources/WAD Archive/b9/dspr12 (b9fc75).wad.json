@@ -1,0 +1,17 @@
+{
+	"uid": "dspr12 (b9fc75).wad",
+	"name": "Despair",
+	"description": "After a weekend of R&R, you return to your base to find your unit has not returned from routine maneuvers on Mars. Upon checking in with your CO, you find him a changed person. He only mumbles, \"Despair, Despair, Why did it have to be Despair.\" Your comrades had been sent to pay a routine visit to OCP's genetics and physics lab knicknamed \"Despair\" because of its remote location Grabbing your sidearm, you head for the hanger to begin your search for the fate of your comrades.",
+	"version": "b9fc75",
+	"date": "2013-11-02 17:00:26",
+	"files": [
+		{
+			"filename": "dspr12.wad",
+			"size": 241040,
+			"crc": 620311675,
+			"md5": "9f6616f80ca7ef0e0475f2a1d1c1fd22",
+			"sha1": "b9fc75bee80c7684075f61663d865669853a5a29",
+			"sha256": "507165a2b1f0c60f2c81c893a85f5ab78084ce0460c55fd3fe00090ae8dcd376"
+		}
+	]
+}

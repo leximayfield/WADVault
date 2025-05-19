@@ -1,0 +1,16 @@
+{
+	"uid": "sniper_x.wad",
+	"name": "Sniper of Insanity!",
+	"description": "This is a complete weapon conversion that changes many weapons into sniper-like ones, most specifically the sniper rifle and railgun. The behavior has been altered quite a bit, and most guns are not at all similar to their doom equivalents. For example, the fast shooting chaingun has been replaced with a gun resembling a rapid-fire shotgun, and the plasma rifle now shoots alot slower, but the bullets do much more damage than that of the original (plus new graphics and sound). It may be fun in Single Player, but this weapon set really shines in DM, with the different styles of weapons merging different tactics together. For example, one guy may sit with the sniper rifle, waiting to pick off enemies from afar, while another may enjoy close-combat battles with the Spreadfire cannon. Well, I hope you have fun with this!",
+	"date": "2014-12-15 22:10:35",
+	"files": [
+		{
+			"filename": "sniper_x.wad",
+			"size": 952734,
+			"crc": 57739225,
+			"md5": "53e05681ed9994c8b47c581d9294ce25",
+			"sha1": "a918d802b24b9c9a3903b363f5504d0892282dcf",
+			"sha256": "68746a4f137b115210bce09fb45958e367b74b9e0fed4878688f3b43ae894e77"
+		}
+	]
+}

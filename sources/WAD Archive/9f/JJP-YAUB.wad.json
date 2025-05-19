@@ -1,0 +1,16 @@
+{
+	"uid": "JJP-YAUB.wad",
+	"name": "Yet Another UAC Base",
+	"description": "A small UAC base. Should take around 10 minutes to complete on UV.",
+	"date": "2014-12-27 12:19:58",
+	"files": [
+		{
+			"filename": "JJP-YAUB.wad",
+			"size": 134580,
+			"crc": 927343776,
+			"md5": "612e9673a6bcf0578ec7f2b03fb49c64",
+			"sha1": "9fa58f604b079437913a37da31f25083aea98ea3",
+			"sha256": "e24249969aff83ea32de80c8b4d79a9b2d26e2c981fb916042d7aa878aa38467"
+		}
+	]
+}

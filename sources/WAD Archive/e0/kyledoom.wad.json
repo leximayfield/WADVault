@@ -1,0 +1,16 @@
+{
+	"uid": "kyledoom.wad",
+	"name": "New stuff for Doom 1",
+	"description": "You are stranded on Mars, and everyone is after",
+	"date": "2014-12-11 22:28:53",
+	"files": [
+		{
+			"filename": "kyledoom.wad",
+			"size": 621832,
+			"crc": 1320584979,
+			"md5": "d6735eb2d9d9853f77bff9b064a103b8",
+			"sha1": "e0b9ead70ee1ffeacf5daafc7c87c03f8017dfac",
+			"sha256": "ed99f4804cab6f5746760f35d018fe21c195d6a1a6815bd46b662d941061030f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dantes (cfc448).wad",
+	"name": "DANTE'S GATE",
+	"description": "This is my first level, folks, so be gentle with me. For the most part, the only \"theme\" I had in mind was to make the level as aesthetically pleasing and consistent as possible. In other words, I wanted it to look neat. There are lots of little nooks and crannies scattered about, and (I hope) a few sur- prises. I really hadn't intended the level to be so big (128K) when I first started; but, you know, one thing led to another and I just didn't know when to stop.",
+	"version": "cfc448",
+	"date": "2016-02-07 20:30:51",
+	"files": [
+		{
+			"filename": "dantes.wad",
+			"size": 129788,
+			"crc": 3715740739,
+			"md5": "4724b71159ccabd4d962bdfa7bdf5820",
+			"sha1": "cfc44895c7182de42b376ae529ddffa0105a8c0f",
+			"sha256": "a5bb96eeeec3e9d93ebc64921a4fe94bffa831dafe540cf32c065b98ad8e1af6"
+		}
+	]
+}

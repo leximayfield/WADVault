@@ -1,0 +1,21 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom Classic Unity",
+	"name": "Doom Classic Unity",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"size": 12702921,
+			"crc": "75c3b7bf",
+			"md5": "8517c4e8f0eef90b82852667d345eb86",
+			"sha1": "2a8a1ce0f29497a2781b2902c76115fd60d8bbf8"
+		},
+		{
+			"filename": "DOOM2.WAD",
+			"size": 14802843,
+			"crc": "f1d1ad55",
+			"md5": "8ab6d0527a29efdc1ef200e5687b5cae",
+			"sha1": "9574851209c9dfbede56db0dee0660ecd51e6150"
+		}
+	]
+}

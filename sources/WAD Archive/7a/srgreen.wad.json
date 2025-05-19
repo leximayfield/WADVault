@@ -1,0 +1,16 @@
+{
+	"uid": "srgreen.wad",
+	"name": "The green level",
+	"description": "This is a medium sized map that I made. It has lots of green textures on the walls and on the floors.",
+	"date": "2014-12-29 17:20:30",
+	"files": [
+		{
+			"filename": "srgreen.wad",
+			"size": 755515,
+			"crc": 3480368901,
+			"md5": "0374a0c318791825dfdfd027c718c92a",
+			"sha1": "7ac5b40c01e9f303c83bd34738a31bc217ead701",
+			"sha256": "674b897af87c5619ad4a60dc669bc8891ded38d45cd1889a26de8977a023c0e3"
+		}
+	]
+}

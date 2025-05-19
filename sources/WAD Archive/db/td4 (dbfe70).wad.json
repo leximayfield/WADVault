@@ -1,0 +1,17 @@
+{
+	"uid": "td4 (dbfe70).wad",
+	"name": "Total Darkness 4",
+	"description": "An attempt to make an extremley linear map as interesting as possible by creating atmosphere and attempting to have intense battles.",
+	"version": "dbfe70",
+	"date": "2014-12-12 14:03:28",
+	"files": [
+		{
+			"filename": "td4.wad",
+			"size": 1313935,
+			"crc": 1210307079,
+			"md5": "767408ae0e26c8f352d390ea5e505ce3",
+			"sha1": "dbfe700eff4171e29f567c8007b2746a177a6651",
+			"sha256": "4cd0f1fa2ef19c1eabef9915b4d4b9450be72cc69c50b97413ad0970c8aaa0ec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "pizza (5027e4).wad",
+	"name": "attack on super pizza world hq",
+	"description": "you are cool dude and your misson is to attack super pizza worlds headquaters and kill everyone that works there.",
+	"version": "5027e4",
+	"date": "2014-12-31 11:50:42",
+	"files": [
+		{
+			"filename": "pizza.wad",
+			"size": 18267,
+			"crc": 1265858662,
+			"md5": "4a7808beefd74912d324b68c84e5eaaf",
+			"sha1": "5027e4aa952ebb386bfa6685f758dfd952522eb5",
+			"sha256": "ea87903d0e053913062902c21d7a337c29a7252b1e324bbc69a8a005246403b6"
+		}
+	]
+}

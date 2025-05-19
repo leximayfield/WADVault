@@ -1,0 +1,16 @@
+{
+	"uid": "j_crush.wad",
+	"name": "= Level 1 - Crush =",
+	"description": "Large arena with 5 crushers & sniper room. Includes BFG that can be barred up. Also has a long, dark sniper room.",
+	"date": "2013-11-02 15:38:16",
+	"files": [
+		{
+			"filename": "j_crush.wad",
+			"size": 81957,
+			"crc": 1881906970,
+			"md5": "3d24292b843206a009d4497389d86ead",
+			"sha1": "19277bdbfdcde9f08fee55098251346035d899e9",
+			"sha256": "aae843889915d786ed6f11c84a90360a1ff506218bcece44483d653f29e0c896"
+		}
+	]
+}

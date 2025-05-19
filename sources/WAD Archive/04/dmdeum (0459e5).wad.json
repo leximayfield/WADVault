@@ -1,0 +1,17 @@
+{
+	"uid": "dmdeum (0459e5).wad",
+	"name": "Escape from Planet Deum",
+	"description": "Final Transmission of Agent Brendan Raphael Blaskowiecz: When I arrived on Planet Deum last night I teleported into the offices of the ware- house. Disguised as a Cacodemon I was easily able to maneuver through the mazelike corridors until I found the teleporter that took me to the computer facility. In the computer facility I discovered crushing ceilings and after much carnage was able to locate the teleporter to the penal facility. This led to the surface where, after sneaking by a spider demon I arrived at the door to the exit. I am opening the door right ARGHHH....... END OF TRANSMISSION. You will now be deposited into the warehouse where agent Blaskowiecz was sent. You must retrace his steps and discover his fate.",
+	"version": "0459e5",
+	"date": "2013-11-02 15:12:51",
+	"files": [
+		{
+			"filename": "dmdeum.wad",
+			"size": 90869,
+			"crc": 2636765171,
+			"md5": "aa35a66323102e8def1bbd01cb1cf35d",
+			"sha1": "0459e509b66f60e9d2708c12750a56d7c5ed728b",
+			"sha256": "2f8d8521187cfbcb4f160f3ae651564b286fa54a519513a0b29bcdc9cff3f89a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "aquafina.wad",
+	"name": "Aquafina",
+	"description": "This is a standard doom-style map I guess. Find your way to the exit. Thanks for all of the feedback on my last maps. Enjoy. =)",
+	"date": "2014-12-21 16:56:55",
+	"files": [
+		{
+			"filename": "aquafina.wad",
+			"size": 109708,
+			"crc": 2476113306,
+			"md5": "6594e12f805b9195572183653628eb1f",
+			"sha1": "35df6402536fe9b33721694da0825705e2155602",
+			"sha256": "609b6e2206bc8b5de4eba602cc38400f422fa0f943549ec27da1a0c982a0fab2"
+		}
+	]
+}

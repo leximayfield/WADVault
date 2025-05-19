@@ -1,0 +1,16 @@
+{
+	"uid": "veritie.wad",
+	"name": "Veritech TIE Interceptor",
+	"description": "A cross between a Macross Veritech and a Star Wars TIE Interceptor. Sprites for the Walker, Fighter, and transformation.",
+	"date": "2015-09-14 20:26:12",
+	"files": [
+		{
+			"filename": "veritie.wad",
+			"size": 1167236,
+			"crc": 2362649297,
+			"md5": "6326be16a048df7ebe0b85d923e3b400",
+			"sha1": "a61a82528c3db93b9b135131189d76c436882904",
+			"sha256": "d12f508d0a8e4dec9cbae69c53b4b130bff5beb92501c963e96a6756cc28564f"
+		}
+	]
+}

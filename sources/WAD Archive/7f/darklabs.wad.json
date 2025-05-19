@@ -1,0 +1,16 @@
+{
+	"uid": "darklabs.wad",
+	"name": "Dark Labs",
+	"description": "This is my relatively fast-paced level that I hope will keep you entertained. Give criticism as I hope to improve!",
+	"date": "2015-12-29 13:52:24",
+	"files": [
+		{
+			"filename": "darklabs.wad",
+			"size": 113794,
+			"crc": 2400796599,
+			"md5": "d863d2f67a6d6e699e8c677adce27126",
+			"sha1": "7fe1a0d5e4bb9836871a21eb85cbf55eb633ce6d",
+			"sha256": "611608e364b248d359600ef5d10991374c85790f6dc61668ccf9c640f8e7bd60"
+		}
+	]
+}

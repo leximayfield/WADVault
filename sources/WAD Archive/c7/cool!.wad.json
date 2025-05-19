@@ -1,0 +1,16 @@
+{
+	"uid": "cool!.wad",
+	"name": "CooL! patch for DooM ][",
+	"description": "Just a patch and WAD that replace",
+	"date": "2014-12-11 22:28:50",
+	"files": [
+		{
+			"filename": "cool!.wad",
+			"size": 155484,
+			"crc": 2793190295,
+			"md5": "b54f1f900e037ca8aaa4cb17d46dcdfe",
+			"sha1": "c759a9b031c099df520d1104018c3512f452a5a5",
+			"sha256": "eff4b1844abcd3eace3644fe3be0416329865f1ed128b15863521b6e5924e66b"
+		}
+	]
+}

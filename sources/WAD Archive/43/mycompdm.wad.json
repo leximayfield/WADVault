@@ -1,0 +1,16 @@
+{
+	"uid": "mycompdm.wad",
+	"name": "My Computer DM",
+	"description": "A Deathmatch map on my computer",
+	"date": "2014-12-15 21:26:52",
+	"files": [
+		{
+			"filename": "mycompdm.wad",
+			"size": 388703,
+			"crc": 3575105734,
+			"md5": "9dcb14840e9f0d872f8038ff023af351",
+			"sha1": "433f715a0870a0b703a998366b6c071fff11f14e",
+			"sha256": "7d0c70bbfb30c068be93f18d210beee29895a13fd9c31f8a6c3571e413758bdd"
+		}
+	]
+}

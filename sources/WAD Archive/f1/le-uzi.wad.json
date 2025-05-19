@@ -1,0 +1,16 @@
+{
+	"uid": "le-uzi.wad",
+	"name": "Uzi Submachine Gun",
+	"description": "This is a Doom mod which replaces the Chaingun with the Uzi Submachine Gun from Shadow Warrior",
+	"date": "2014-12-11 22:09:32",
+	"files": [
+		{
+			"filename": "le-uzi.wad",
+			"size": 52472,
+			"crc": 4110117264,
+			"md5": "a74458e8b1ee3053069a1d9a299b4caf",
+			"sha1": "f1c229236413b2dc6ce9af50affb11d74695bd95",
+			"sha256": "faed8dfc14d44dcc5547598d15b1cac08a294f973fd8ccf009cc4f2e910b1d4d"
+		}
+	]
+}

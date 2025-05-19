@@ -1,0 +1,17 @@
+{
+	"uid": "cadet (5eb452).wad",
+	"name": "Cadet.wad",
+	"description": "So you finally get to go to cadet school.",
+	"version": "5eb452",
+	"date": "2013-11-02 15:06:41",
+	"files": [
+		{
+			"filename": "cadet.wad",
+			"size": 132668,
+			"crc": 3738522271,
+			"md5": "f7f8d7dff97bbafdc87461484633ed1c",
+			"sha1": "5eb452f8d86566f1cd9454406934f9e3bacb5aa4",
+			"sha256": "6e196b64bff7ea150628f60305e27e3fc3192c3012bc402b8b42515b24db4437"
+		}
+	]
+}

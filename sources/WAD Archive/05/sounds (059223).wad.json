@@ -1,0 +1,17 @@
+{
+	"uid": "sounds (059223).wad",
+	"name": "SOUNDS.WAD",
+	"description": "Sounds that I've collected from other wads. Pistol, shotgun, bfg, plasma, imps, barrel explosion",
+	"version": "059223",
+	"date": "2013-11-06 22:30:23",
+	"files": [
+		{
+			"filename": "sounds.wad",
+			"size": 381055,
+			"crc": 481930622,
+			"md5": "d9c83a134f134f0f9268c1b92a08deea",
+			"sha1": "05922346a6510a97645d66c5a7bc31a8a4e75496",
+			"sha256": "9947648050c78bcca60254d14d7dfe14ad12219dbc32b4191a75f5b190ef30dd"
+		}
+	]
+}

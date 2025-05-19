@@ -1,0 +1,17 @@
+{
+	"uid": "tibet (049664).wad",
+	"name": "TIBET.WAD",
+	"description": "The troops the UCA sent into the Tibetan base failed to get past the helipad. Therefore it's up to you to crawl in through the caverns upon which the base was built. Within the caverns is a deserted monestary where the scientists, working at the base, have been testing with radioactives. Your job is to find out what happened in the base and TAKE IT BACK !!!!",
+	"version": "049664",
+	"date": "2013-11-02 15:21:50",
+	"files": [
+		{
+			"filename": "tibet.wad",
+			"size": 516655,
+			"crc": 578331945,
+			"md5": "c222d90a07c1b37ae987cc71d19e4374",
+			"sha1": "049664a4ea9726a01eed10cfb155984cbb175e3b",
+			"sha256": "1516c381dc721aa5d5df64a11b1527330cf1ea6ccdb63635c8c90781320b600c"
+		}
+	]
+}

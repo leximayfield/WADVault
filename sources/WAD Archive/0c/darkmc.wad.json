@@ -1,0 +1,16 @@
+{
+	"uid": "darkmc.wad",
+	"name": "Darkmatch Combo",
+	"description": "Darkmatch Combo is a combination of two small and furious DM maps - Darkmatch1: Hardcore & and Darkmatch2: Retribution. This \"combo\" version includes the necessary textures and flats so no additional files are required.",
+	"date": "2014-12-15 22:25:27",
+	"files": [
+		{
+			"filename": "darkmc.wad",
+			"size": 746178,
+			"crc": 3651636612,
+			"md5": "b5ab41d35907e314428cf16287381196",
+			"sha1": "0c1157cf7ce01b4fce7090343307ddd2ac8d13b1",
+			"sha256": "69bf125af9b8a7cd7fbf3b4bfcb95442e0a40e596e61937ebf39cf6cf33ead58"
+		}
+	]
+}

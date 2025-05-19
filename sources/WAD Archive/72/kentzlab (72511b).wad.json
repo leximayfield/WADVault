@@ -1,0 +1,17 @@
+{
+	"uid": "kentzlab (72511b).wad",
+	"name": "KENTZ LABYRINTH 1 - (new episode-1 for DOOM!!!)",
+	"description": "This is a COMPLETE-Episode(1) w/nine levels. : There are 3 new DEMOS, and some added Sound-FX. : I don't recommend cheating, since the maps are made : in a MAZE-like fashion, if you do, you might get : stuck some where, (theres alot of action in the maps : floors/ceilings will block you after passing thru : certain areas). Hopefully, the levels are big enough : for everybody, (it takes along time for one person : to do ALL of the Editing, testing...etc, and I : wanted to finish before DOOM II came out!!). :",
+	"version": "72511b",
+	"date": "2013-11-02 15:40:45",
+	"files": [
+		{
+			"filename": "kentzlab.wad",
+			"size": 896479,
+			"crc": 368695305,
+			"md5": "7591982c6611472929212935766f0e55",
+			"sha1": "72511bf5a70338d65211d2f267c59b1819d6e0e4",
+			"sha256": "277ecd26e2445c63e40836adbffd4e1f799c67f7f68b3081a9ed8b05306b1be2"
+		}
+	]
+}

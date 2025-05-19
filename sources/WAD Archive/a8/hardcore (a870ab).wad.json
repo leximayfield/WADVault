@@ -1,0 +1,17 @@
+{
+	"uid": "hardcore (a870ab).wad",
+	"name": "HARDCORE.WAD for Doom II",
+	"description": "HardCore.wad is a medium size level that is excellent for 2,3, or 4 players. The first wad was totally designed by us. We added some graphics and some sounds that are pretty cool. The other 3 levels are new wads by the ultimate wad designer \"Dweller in the Cellar\". I have not edited the 3 dweller levels in any way, except for the sounds, of course, but this should not effect gameplay. This wad has really cool lighting that we spent alot of time doing. We spent alot of time picking cool textures that are appropriate for the wad.",
+	"version": "a870ab",
+	"date": "2014-12-15 21:53:25",
+	"files": [
+		{
+			"filename": "hardcore.wad",
+			"size": 932200,
+			"crc": 1882651789,
+			"md5": "61fe15464ee8da510de924ecc1763d74",
+			"sha1": "a870ab0bd27e5834d9cea98b6fb20dc8715498d4",
+			"sha256": "ad284f1780896a1423def0e1d1277be0f24ef41e7f3c879002743bd8ceb93a08"
+		}
+	]
+}

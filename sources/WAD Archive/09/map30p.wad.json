@@ -1,0 +1,16 @@
+{
+	"uid": "map30p.wad",
+	"name": "MAP30 Plus",
+	"description": "A drastic improvement to my very own MAP30.WAD, an \"alternative\" Icon of Sin level. Now it can be very hard to beat, especially when you get too aggressive. Give it a shot.",
+	"date": "2015-01-13 21:45:34",
+	"files": [
+		{
+			"filename": "map30p.wad",
+			"size": 58077,
+			"crc": 2737819248,
+			"md5": "841a8a2e409ce1cad59e1cbba16b0659",
+			"sha1": "09997fa96410ff1e444e08a9dda39addfe2c8440",
+			"sha256": "1dccd23b74ec82e6d7c3de6f4ac33044d0f323d4ce7551de73a2f623a8b80f00"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ph_19-01-01_broundry 2.wad",
+	"name": "Broundry 2",
+	"description": "A vanilla-compatible (prboom+ comp-level 2) map that I submitted to Doomworld MegaWAD Project 2018 (DWMP2018 for short), where it featured as MAP03 of DMP2018cl2.wad. Aside from being limited to stock Doom II resources, we also had to record a demo of us beating the level. This is included, showing 100% kills in just under 5 minutes and showing no secrets. The original plan was to string four small maps together, but after finishing the first segment I never resumed the plan, so submitted it in July of that month. I've added an internal DeHacked to include the level name in the automap in most ports, but otherwise this is as the map was submitted. The map itself is a relatively light MAP01-styled affair with 77 enemies, although seeking the secrets is a challenge.",
+	"date": "2019-08-06 20:24:15",
+	"files": [
+		{
+			"filename": "ph_19-01-01_broundry 2.wad",
+			"size": 164115,
+			"crc": 1253950071,
+			"md5": "33a31b7224e7b569749ffd8732031614",
+			"sha1": "1c63e482cb61bbffbb61ce99c0adb70bab9be86f",
+			"sha256": "2b4dbecb8aeb31e37ace9a0a26c7c2f9b5f0da28d86d74ff1f6b4198c46aeb46"
+		}
+	]
+}

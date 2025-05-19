@@ -1,0 +1,17 @@
+{
+	"uid": "batman (07eba2).wad",
+	"name": "BATMAN.WAD",
+	"description": "A Deathmatch level, but fully implemented for the weak or cooperative. It has 2 ways to exit, one of them being cooperative. The other one is blocked off during multi-player games. (Just try and get by those candles!) Good stalking and good sniper points.",
+	"version": "07eba2",
+	"date": "2013-11-02 15:08:15",
+	"files": [
+		{
+			"filename": "batman.wad",
+			"size": 73063,
+			"crc": 989384818,
+			"md5": "153ce77f3f8574ca2e45eef2193964bc",
+			"sha1": "07eba2cef7c8eb08a7a61d7911dbe88f52a5dba6",
+			"sha256": "3d51e7acbf467e90a5ba7eddd8affaf17817ddd1ee326914973929752988044e"
+		}
+	]
+}

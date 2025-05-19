@@ -1,0 +1,16 @@
+{
+	"uid": "infestat.wad",
+	"name": "Infestation",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2014-12-18 22:14:59",
+	"files": [
+		{
+			"filename": "infestat.wad",
+			"size": 438744,
+			"crc": 4111796630,
+			"md5": "cca16583daf5e451458bb1fca93081e5",
+			"sha1": "73a83ecd7cf613e6c8fe7ec5dc799052b8d685d5",
+			"sha256": "ca7ad8ba0782a6e30241adad5636d21a03ccad65ae5254af1da43e67a2726246"
+		}
+	]
+}

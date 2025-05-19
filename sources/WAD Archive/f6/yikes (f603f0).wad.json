@@ -1,0 +1,17 @@
+{
+	"uid": "yikes (f603f0).wad",
+	"name": "yikes.wad",
+	"description": "Deathmatch game. Most the action takes place in one large room. Look for secret doors in the halls with blue armor. If you find yourself in a little room with a window high up in the big room, try clicking on the different wall textures and look out of the window to see what happened.",
+	"version": "f603f0",
+	"date": "2014-12-14 20:47:16",
+	"files": [
+		{
+			"filename": "yikes.wad",
+			"size": 75116,
+			"crc": 2935021469,
+			"md5": "23346af88b4bcfd66e831c398893b2f3",
+			"sha1": "f603f048886d8949ee291ac47835728e2a6f9495",
+			"sha256": "50b2df7fdc3732896a853e4583b989169258d54fc67d5559ef6dbc55731b3128"
+		}
+	]
+}

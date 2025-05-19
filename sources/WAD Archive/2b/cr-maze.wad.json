@@ -1,0 +1,16 @@
+{
+	"uid": "cr-maze.wad",
+	"name": "The Crystal Maze (GZDoom edition)",
+	"description": "A recreation of the classic 90's British TV gameshow \"The Crystal Maze\". I did make a vanilla version of the maze back in 2000 (Fragport map 32) but the live attraction in London, which opened in 2016 (and is totally awesome) has inspired me to remake it with modern GZDoom features.",
+	"date": "2018-04-15 18:58:56",
+	"files": [
+		{
+			"filename": "cr-maze.wad",
+			"size": 8951211,
+			"crc": 1762070871,
+			"md5": "cec1723bd49f95304bc08eca3d2495a5",
+			"sha1": "2bafe6b9f22ac256688861b0c8b60b010f686442",
+			"sha256": "3cf56ac9711c738bc182a7a80f93dd7c2d05d6ad3fecfd2df479dc5239a6c926"
+		}
+	]
+}

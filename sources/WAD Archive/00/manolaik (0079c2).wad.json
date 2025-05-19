@@ -1,0 +1,17 @@
+{
+	"uid": "manolaik (0079c2).wad",
+	"name": "Mano Laikas: A road to Gamzatti",
+	"description": "Well, I'm back. I thought Erkatt\u00e4\u00f1\u00f1e was my last shot but I wanted to make more maps so here we are. Mano Laikas is a full \"classic\" Doom2 megawad. Aesthetics are pretty simple, the themes vary from E1, E2, alpha and what I call \"heteroclites\" and my goal as for Erkatt\u00e4\u00f1\u00f1e was to make mid sized maps with moderate monster count so they can be completed in 10-15 minutes at best. Also I seem to have developed a style that some praise and some others hate (those who rate my episodes with 0/1 stars and give lame excuses for doing so) and I'm fine with that. You'll find some maps linear and some non linear, some maps with big height differences and some very flat (ressembling the early Id maps / 1994 wads).",
+	"version": "0079c2",
+	"date": "2016-03-05 14:15:55",
+	"files": [
+		{
+			"filename": "manolaik.wad",
+			"size": 9411297,
+			"crc": 2543900174,
+			"md5": "b11584e1080fb1e1b82ac6e307e578a2",
+			"sha1": "0079c297d7b8b150486f7812a3eb8ae3623c7216",
+			"sha256": "2f997c2673ce5e82bc1c0835fda95957319401af78f21d6e1c0b685ee1f40979"
+		}
+	]
+}

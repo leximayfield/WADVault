@@ -1,0 +1,17 @@
+{
+	"uid": "nmc (41cb8c).wad",
+	"name": "National Microcomputers Floorplan WAD",
+	"description": "It's a floorplan of my work! Designed for deathmatch. Works best with 3 to 4 players, but it is OK for two players.",
+	"version": "41cb8c",
+	"date": "2014-12-03 20:14:07",
+	"files": [
+		{
+			"filename": "nmc.wad",
+			"size": 120302,
+			"crc": 4126487544,
+			"md5": "b69c8aa4f45d8115cebfdc11bede2534",
+			"sha1": "41cb8cd259c52144489a2d5667c19b105fecbc74",
+			"sha256": "b50e0b57b3045d85bbb4ab4b3608ee32da2c46b9c69a7d4c2ff1c4c33decc654"
+		}
+	]
+}

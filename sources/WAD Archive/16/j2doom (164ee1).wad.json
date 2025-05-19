@@ -1,0 +1,17 @@
+{
+	"uid": "j2doom (164ee1).wad",
+	"name": "Jungle ][",
+	"description": "This DOOM II map is a deathmatch wad with a jungle island theme. The setting and ideas are based on my favorite chat BBS, Jungle II, where it carries Game Connection. This map contains new graphics, new sprites, new weapons, sound effects, and a new junglish soundtrack. This map should be used with deathmatch 2.0 (-altdeath) and respawning monsters (-respawn). Be sure -nomonsters parameter is removed, so that the map has man-eating sharks. And you thought Gilligan's Island was fun to watch! Wait until you laugh hard with this awesome creation. :)",
+	"version": "164ee1",
+	"date": "2014-12-15 22:09:52",
+	"files": [
+		{
+			"filename": "j2doom.wad",
+			"size": 3080373,
+			"crc": 2431680037,
+			"md5": "3ffb2e0a2835e48f09505da999736e0a",
+			"sha1": "164ee10c98baabb7eb71501fee1a2515ffc6e188",
+			"sha256": "66f9614db68dfe5fc0f52b6b0b62a1817a469483a2a1da566210a97659b2808d"
+		}
+	]
+}

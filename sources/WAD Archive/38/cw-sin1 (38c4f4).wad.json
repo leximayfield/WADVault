@@ -1,0 +1,17 @@
+{
+	"uid": "cw-sin1 (38c4f4).wad",
+	"name": "DM Patch #2 (Inspired By SiN)",
+	"description": "A deathmatch gameplay enhancement, based on SiN. Not nearly as complex as my Quake3 based patch...",
+	"version": "38c4f4",
+	"date": "2013-04-21 13:46:30",
+	"files": [
+		{
+			"filename": "cw-sin1.wad",
+			"size": 1100280,
+			"crc": 774980630,
+			"md5": "50f099da96df095e4e3aeaddab5f0b20",
+			"sha1": "38c4f4332d60a5a06bb564696871eae015ad4b52",
+			"sha256": "4243042461e5e6df765bec50b370737022b7cf9a6b44b59e91cb9c6343354025"
+		}
+	]
+}

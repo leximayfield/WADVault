@@ -1,0 +1,17 @@
+{
+	"uid": "PYRAMID (ca2184).wad",
+	"name": "PYRAMID.WAD",
+	"description": "Single, Multi-Player, and Deathmatch. Make it to the Pyramid, get to the top, and see what happens next.",
+	"version": "ca2184",
+	"date": "2013-11-02 15:50:04",
+	"files": [
+		{
+			"filename": "PYRAMID.wad",
+			"size": 98842,
+			"crc": 3331267878,
+			"md5": "ea524eb27b8de7e4611ad63e75661ceb",
+			"sha1": "ca218425bc3e0738149ff86a1d52aef7c1552b65",
+			"sha256": "95c57c5d7bfb932b49e9f17b5d0ba8b70aa6a317edb833981e330b93394b401a"
+		}
+	]
+}

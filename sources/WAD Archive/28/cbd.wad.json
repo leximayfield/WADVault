@@ -1,0 +1,16 @@
+{
+	"uid": "cbd.wad",
+	"name": "Cursed Black Diamond",
+	"description": "This is Black Diamond Ranch's remade twin brother with a new Deathmatch area fit for 2-4 players.",
+	"date": "2014-12-21 15:51:41",
+	"files": [
+		{
+			"filename": "cbd.wad",
+			"size": 386597,
+			"crc": 378964438,
+			"md5": "dceda1608bbef1df144521e049ab0017",
+			"sha1": "28c4b930a42ad9d4c3dd81f43d155492e5803ae8",
+			"sha256": "8c0c0cba500ae3b95c3117f90e5e54ae6b432ed3503f173a97b0fcdae397d965"
+		}
+	]
+}

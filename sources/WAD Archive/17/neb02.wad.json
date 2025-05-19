@@ -1,0 +1,16 @@
+{
+	"uid": "neb02.wad",
+	"name": "Nebula 95: MudMan WonderLand",
+	"description": "Second entry in a series of small vanilla doom maps in a space adventure built off personal nostalgia. Each entry consists of a two short maps: an introductory monsterless map with a single secret to find before tackling the mission, and the main map itself. I release them in the order they are made, but the difficulty depends on the map. This is probably the easiest one in the series so far, so if you are looking for a place to start, this might be a nice bet. It's a coffee colored map that you could probably beat in the duration of a coffee break. It was based on my map 28 from 32in24-12: IRON MAPPER.",
+	"date": "2018-04-14 23:34:08",
+	"files": [
+		{
+			"filename": "neb02.wad",
+			"size": 906445,
+			"crc": 1558011001,
+			"md5": "d93bb4bc00e011065f6682e4256de38c",
+			"sha1": "17ed45f49b06b7a1a91c5d12db434d6cc55ce61f",
+			"sha256": "a5ef1ec35f6fdef083031006ad2211043136fc609792aef8a398674ffa15c3d3"
+		}
+	]
+}

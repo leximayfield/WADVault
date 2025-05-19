@@ -1,0 +1,16 @@
+{
+	"uid": "hexquake (0f6ee7).wad",
+	"name": "HexQuake for Hexen, DeathMatch Only",
+	"version": "0f6ee7",
+	"date": "2013-09-13 21:13:30",
+	"files": [
+		{
+			"filename": "hexquake.wad",
+			"size": 160422,
+			"crc": 1869503900,
+			"md5": "86733b516a9eb326ce8e34ec34aa4a35",
+			"sha1": "0f6ee7ee567111fbf885675516ef8434eb003a71",
+			"sha256": "cafe4fd49c327f476f6b93d7e9d45e06e2cfd6c53e4171aa2742745fd9727561"
+		}
+	]
+}

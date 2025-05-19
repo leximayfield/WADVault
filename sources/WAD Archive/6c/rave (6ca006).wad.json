@@ -1,0 +1,17 @@
+{
+	"uid": "rave (6ca006).wad",
+	"name": "RAVE.WAD",
+	"description": "This a DEATHMATCH level! This means no monsters, death traps, or strange puzzles. The purpose of this level is to have the most fun possible while slaying your friends. A great feature of this wad is one I have not seen in any deathmatch wads to date. There are 4 sets of lightswitches, each set has a on and an off switch. Hear your buddies fighting down below? Hit the lights and leap down to join the fray! Also, if you like leaping down dozens of stories, this is the wad for you. The central chamber has a floor height of -511, and ceiling of 511. Two lifts access the chamber, as well as several corridors. Fun sniping spots. One hard-to-get megasphere.",
+	"version": "6ca006",
+	"date": "2013-11-02 15:59:59",
+	"files": [
+		{
+			"filename": "rave.wad",
+			"size": 71864,
+			"crc": 2650988512,
+			"md5": "8ef9eb2464281cf9d50c8d17ec65ec1c",
+			"sha1": "6ca00638ef3ad0eaa5258f68b211442533d4fd0b",
+			"sha256": "d1f63cc615850753e516fc8efe749aa71f0072490076f024b84a5adecec35a6f"
+		}
+	]
+}

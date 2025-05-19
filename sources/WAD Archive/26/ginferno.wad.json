@@ -1,0 +1,16 @@
+{
+	"uid": "ginferno.wad",
+	"name": "Green Inferno",
+	"description": "Big inspiration from E4M1 \"Hell Beneath\". This map is symmetrical, linear and has copy/paste details, but I guess it's playable at least. I was suppose to release this map into my Ultimate Doom megawad, but I decided to release this individually. Although I'm probably going to add this to my megawad either way, but that megawad is going to take me for about 10-20 years at least to make it.",
+	"date": "2017-06-26 23:53:44",
+	"files": [
+		{
+			"filename": "ginferno.wad",
+			"size": 555277,
+			"crc": 2314570005,
+			"md5": "835fd8f55adf5c8dee4a5c77fd93db44",
+			"sha1": "26e41934600e0b6ab02ba3cb597c7c74ce86ced8",
+			"sha256": "b46cbb920bb56ec7c061c129d8d0c17c9dbf17fb6bedc773bf5a5ef691d73bde"
+		}
+	]
+}

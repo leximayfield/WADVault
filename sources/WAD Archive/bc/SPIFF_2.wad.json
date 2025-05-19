@@ -1,0 +1,16 @@
+{
+	"uid": "SPIFF_2.wad",
+	"name": "SPIFF2",
+	"description": "Designed for Deathmatch 2 for DOOM II",
+	"date": "2013-11-02 15:58:24",
+	"files": [
+		{
+			"filename": "SPIFF_2.wad",
+			"size": 473684,
+			"crc": 619229412,
+			"md5": "0d92915b3d7de01497c1ae856f734011",
+			"sha1": "bcd5507b1b2127c6bae881cbe15b1ce4e116eae6",
+			"sha256": "9b3efb6454776dc9cd8f224c8717b7a8b7e105f4d7964691236e084648674dc3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "revival (d4f69a).wad",
+	"name": "Beyond Revivial",
+	"description": "A 7-level episode for Doom 2 taking place in a South American UAC installation overrun by the legions of hell (obviously). Updated to fix some serious errors. Updated again to fix various texture bugs and whatever came up in Doom Builder. New update to fix teleporter bug in map06.",
+	"version": "d4f69a",
+	"date": "2013-10-18 13:27:12",
+	"files": [
+		{
+			"filename": "revival.wad",
+			"size": 15501667,
+			"crc": 3616307833,
+			"md5": "9cd84fea9efac48d9aef7ad59d0010ec",
+			"sha1": "d4f69aa8ab218986ed253807631933d9973cb892",
+			"sha256": "256ce769a545892dc52aca70f96b4acf142319e9cdf6e174a430e03dadeb8389"
+		}
+	]
+}

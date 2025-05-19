@@ -1,0 +1,16 @@
+{
+	"uid": "THEMOATH.wad",
+	"name": "The Moat",
+	"description": "A great Deathmatch level made for Doom I and converted for Heretic.",
+	"date": "2014-08-30 14:22:30",
+	"files": [
+		{
+			"filename": "THEMOATH.wad",
+			"size": 66178,
+			"crc": 4285354746,
+			"md5": "96d0b7e8a2fd5c4d4f5c481baed21261",
+			"sha1": "201bfb1b450dee3c80d026dc45e7ca6b2c589773",
+			"sha256": "53cea30d50ab744bfbb136d43796972d2d44baf09c24ca8144f59cd35b6f0b7d"
+		}
+	]
+}

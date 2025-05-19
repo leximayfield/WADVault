@@ -1,0 +1,17 @@
+{
+	"uid": "mentzer4 (d36be8).wad",
+	"name": "Mentzer4.WAD  (For Doom 2)",
+	"description": "Also know as Carnage City!",
+	"version": "d36be8",
+	"date": "2013-11-02 15:58:47",
+	"files": [
+		{
+			"filename": "mentzer4.wad",
+			"size": 88514,
+			"crc": 4233313852,
+			"md5": "053810395f67fa9f52307ead91cf3fbb",
+			"sha1": "d36be8e3bc6c4f95ace7ef7156f1b30878201525",
+			"sha256": "d2b512b584c5a3bda2572bfb2c6a3ddea9203aea01f1e15249862cd8222debe9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "exomoon.wad",
+	"name": "Exomoon Megawad",
+	"description": "Exomoon (aka Moonblood X) is a megawad for Doom 2. The levels are a mix of the original Moonblood with early BTSX levels. It has the ruins/temple theme with some exotic natural landscapes. Scythe and Mano Laikas also are a strong influence. It has been tested on ZDoom 2.8 and PrBoom+ 2.5.1.3.",
+	"date": "2018-11-19 02:18:32",
+	"files": [
+		{
+			"filename": "exomoon.wad",
+			"size": 25066976,
+			"crc": 584589124,
+			"md5": "e096e1eddae5426fbd8a1a160e4066c1",
+			"sha1": "83e74a10b8a902659747664ef399323b256b21aa",
+			"sha256": "165ae4454b70d27600d110262310ebde875ef61ab81c6e547fd5af99d9235b2e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "starbase (004054).wad",
+	"name": "Starbase Gehenna",
+	"description": "9 level episode. Fight your way through a starbase. Amount of weapons is designed so that you keep them from level to level, so pistol starts not recommended.",
+	"version": "004054",
+	"date": "2018-04-14 20:24:50",
+	"files": [
+		{
+			"filename": "starbase.wad",
+			"size": 9227067,
+			"crc": 3158555984,
+			"md5": "17a6c980573d5ed57a842132744b9535",
+			"sha1": "0040540402e1d70d487796b58ef5db8932793596",
+			"sha256": "f8008cd1d3476a14a71303ec4826fc655ccd8fefd6ef7d454e94603a6b5a89f2"
+		}
+	]
+}

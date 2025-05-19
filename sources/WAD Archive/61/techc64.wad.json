@@ -1,0 +1,16 @@
+{
+	"uid": "techc64.wad",
+	"name": "Tech Central",
+	"description": "This was originally map05 of the 'Doom64 II The Rising' project, but I disliked the way the project was heading, and eventually it stagnated, so I thought I would release this seperately for people to enjoy instead of going to waste. The map is in Boom format, but due to complications with the new PLAYPAL palette used in the original project, I had to convert all graphics to PNG, so GZDoom OpenGL mode is required. The textures will look terrible in Software mode.",
+	"date": "2014-12-29 17:06:53",
+	"files": [
+		{
+			"filename": "techc64.wad",
+			"size": 6584849,
+			"crc": 3999451645,
+			"md5": "fba3589a8b1ec5328e2d762496a17f77",
+			"sha1": "6181906f42d2a19ef1ccd4347d5ffde9e7bf1f47",
+			"sha256": "5c623e8f95c88d8ce51ac9a10d5c623ec1a3c7b8bba9d4d79f867b902f3d8b27"
+		}
+	]
+}

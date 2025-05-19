@@ -1,0 +1,17 @@
+{
+	"uid": "fertile (b9068a).wad",
+	"name": "FERTILE.WAD",
+	"description": "Yet another hack and slash and bite and kill in any way you possibly can before you run out of ammunition level. Good for single player or cooperative play. Not too good for deathmatch. This is probably the last level I create that isn't specifically for Deathmatch play. (Do I hear cheering?). Enjoy.",
+	"version": "b9068a",
+	"date": "2013-11-02 15:14:08",
+	"files": [
+		{
+			"filename": "fertile.wad",
+			"size": 53154,
+			"crc": 111092318,
+			"md5": "82d7ecb523fa7fb89ef8f86eabdfc613",
+			"sha1": "b9068a82ddfb01b1da1afb76bd3abda337075862",
+			"sha256": "b91a07c2d495f03c64a36aeda286d61e47c9540c3731660d48c13fe88e834f2b"
+		}
+	]
+}

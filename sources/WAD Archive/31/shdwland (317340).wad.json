@@ -1,0 +1,16 @@
+{
+	"uid": "shdwland (317340).wad",
+	"description": "This is a brick and steel arena with special lighting. It's possible to get lost when you have to in the shadows. Lots of atmosphere. I've included all weapons except the BFG, lots of ammo, and enough health to make it worth while to escape a losing firefight.",
+	"version": "317340",
+	"date": "2014-12-03 20:04:21",
+	"files": [
+		{
+			"filename": "shdwland.wad",
+			"size": 93379,
+			"crc": 1024372541,
+			"md5": "2c742693156bcd43d3bab66258431750",
+			"sha1": "317340ca5db62614ad397f9a3cb53c5dfc8a5077",
+			"sha256": "b2623f887a84cad8c180afb7fe1590b79ec36be8da219ca0aa7cfa454ca6faeb"
+		}
+	]
+}

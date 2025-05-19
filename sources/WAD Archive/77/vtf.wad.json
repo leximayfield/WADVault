@@ -1,0 +1,16 @@
+{
+	"uid": "vtf.wad",
+	"name": "Void Terra Firma",
+	"description": "A medium sized tech base zdoom map (in udmf format). It has the most detail of any of my maps (so far). (rustpoint map02 might be close though)",
+	"date": "2014-12-29 17:00:29",
+	"files": [
+		{
+			"filename": "vtf.wad",
+			"size": 12733869,
+			"crc": 1428792344,
+			"md5": "a5fc75d91b7906898524a0a4ef2e9768",
+			"sha1": "77245cbe58b14d5b594d3305a7ffcd6d980b1750",
+			"sha256": "1bd257f0e03b025e8f86d5461df0f0cf742ece8c908f6ba636bb19375eb91b21"
+		}
+	]
+}

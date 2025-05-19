@@ -1,0 +1,16 @@
+{
+	"uid": "daniel5.wad",
+	"name": "The Outpost",
+	"description": "This is a level intended to be included in my mapset but i choose to release it as a standalone level until i have added some more maps to the set. This will be map 04 so u might need to use idclev.",
+	"date": "2014-12-24 19:23:59",
+	"files": [
+		{
+			"filename": "daniel5.wad",
+			"size": 377165,
+			"crc": 3748784568,
+			"md5": "f3d52b2dd17750b15e47faf7656056ed",
+			"sha1": "62fe0fe64a8bca87abb0c481713ad295ce63033c",
+			"sha256": "b421313e1ca3bcca3077fad9c413c49e13bcfe436d3a043c8eb86e0ae64c6cf4"
+		}
+	]
+}

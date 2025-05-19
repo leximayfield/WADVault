@@ -1,0 +1,16 @@
+{
+	"uid": "doom2gba.wad",
+	"name": "Doom II for Game Boy Advance Maps",
+	"description": "Maps extracted from Doom II for Game Boy Advance",
+	"date": "2018-01-13 17:54:44",
+	"files": [
+		{
+			"filename": "doom2gba.wad",
+			"size": 1680060,
+			"crc": 3190900172,
+			"md5": "dcec4a37b2b7179e8d0a0a50dd203de7",
+			"sha1": "6019c749b97f54d5ccae11d6800cf92b2b0a551f",
+			"sha256": "bf6dd43b37e1ddcbbf31455171d2711f9d0dc94c1975383a20652b16d79172ec"
+		}
+	]
+}

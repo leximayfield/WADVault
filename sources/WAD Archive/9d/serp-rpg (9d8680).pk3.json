@@ -1,0 +1,17 @@
+{
+	"uid": "serp-rpg (9d8680).pk3",
+	"name": "Serpent: Resurrection - RPG System",
+	"description": "A standalone version of the RPG system plus weapons, items, armour etc. from Serpent: Resurrection. Compatible with any Hexen wad that has no additional weapons/items etc. (although it wouldn't really work well with less than 3 hubs)",
+	"version": "9d8680",
+	"date": "2019-03-20 01:55:33",
+	"files": [
+		{
+			"filename": "serp-rpg.pk3",
+			"size": 7124000,
+			"crc": 705415734,
+			"md5": "a7a40374d5a557c4d85dce64277b9059",
+			"sha1": "9d868045040408f901f4b9c23165502e1ae58266",
+			"sha256": "038f635e7a6a0e36637be674853eab3d21e62fb9a4243726e681ff10b3af6c17"
+		}
+	]
+}

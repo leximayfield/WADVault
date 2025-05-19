@@ -1,0 +1,17 @@
+{
+	"uid": "wolf (1c63eb).wad",
+	"name": "Schreienwolf Fortress",
+	"description": "A Wolfdoom map with some ZDoom/Boom features like colored lighting, scripted actions, etc.",
+	"version": "1c63eb",
+	"date": "2014-12-29 16:03:02",
+	"files": [
+		{
+			"filename": "wolf.wad",
+			"size": 458540,
+			"crc": 2121226383,
+			"md5": "bc89d0e0602282949248738fd7fb7300",
+			"sha1": "1c63eb0f8a2a268f5bd53cff545d2e082c0ac70a",
+			"sha256": "f497b8abcea6837d9ab83ffd50c607687b0a5c6becf9fa1d4dbfe7aaa669f0ce"
+		}
+	]
+}

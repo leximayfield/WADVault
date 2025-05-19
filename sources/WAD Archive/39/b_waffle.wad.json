@@ -1,0 +1,16 @@
+{
+	"uid": "b_waffle.wad",
+	"name": "Blue Waffle",
+	"description": "Caco sprite replacement. Load up E3M1 and enjoy!",
+	"date": "2015-09-15 16:40:30",
+	"files": [
+		{
+			"filename": "b_waffle.wad",
+			"size": 293241,
+			"crc": 2886574898,
+			"md5": "b4712f1af14b2c5e8e0bc0ac2fd2535b",
+			"sha1": "395cf1fe14264ef725c89d7e6ffd62aa5d9cf56a",
+			"sha256": "36af969a7310b2700832ceee83f2d440c56e2181d1329fde78be0e05ed6fe9a9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "monsdoor.wad",
+	"name": "monsters door.WAD",
+	"description": "Prefab. Kill the monsters to open the door. No matter what order. Using BOOM's scrolling effects and lines allow monster activation.",
+	"date": "2015-09-14 23:20:21",
+	"files": [
+		{
+			"filename": "monsdoor.wad",
+			"size": 11770,
+			"crc": 3368558116,
+			"md5": "fec1fabb41b75ade5ef97d906393813c",
+			"sha1": "f1e7fd1b0716844ecc8db3c82f5e663f73a56bf2",
+			"sha256": "e61e7111e86d2b84c69c3bb3b073168916015e6ba0e787dd7f210a9ec574f93f"
+		}
+	]
+}

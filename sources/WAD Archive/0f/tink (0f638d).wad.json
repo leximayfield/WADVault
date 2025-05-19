@@ -1,0 +1,17 @@
+{
+	"uid": "tink (0f638d).wad",
+	"name": "Tink",
+	"description": "A set of 4 speedmaps created in a span of 2 hours each and then tweaked, with a 5th map to stop the player going into the stock maps.",
+	"version": "0f638d",
+	"date": "2018-02-15 20:46:28",
+	"files": [
+		{
+			"filename": "tink.wad",
+			"size": 1565812,
+			"crc": 3544346675,
+			"md5": "a2ed1bb381fd0b77e09d4605c77fd8e5",
+			"sha1": "0f638db5484c4fe9c60ad4d9dae40312799cf24b",
+			"sha256": "d8616ca09d5f5f8314f478a7f140471bd0b257151e90904ccba742b97d8a7728"
+		}
+	]
+}

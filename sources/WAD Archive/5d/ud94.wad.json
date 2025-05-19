@@ -1,0 +1,16 @@
+{
+	"uid": "ud94.wad",
+	"name": "Undeath '94",
+	"description": "Remake of Doom, based on 1994 deathmatch levels. (see end of this file for story)",
+	"date": "2018-04-14 23:14:05",
+	"files": [
+		{
+			"filename": "ud94.wad",
+			"size": 2412076,
+			"crc": 3937741406,
+			"md5": "01fde9ec0298d1c1237d669cf1e30519",
+			"sha1": "5d05681b4e83c6b18d1c0e8e74a5ee68b56efa07",
+			"sha256": "7d3783526b58c669cb016ef56e863d37f653ec775f96df312913a404c3f60c7d"
+		}
+	]
+}

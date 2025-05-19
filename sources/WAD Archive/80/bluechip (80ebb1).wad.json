@@ -1,0 +1,17 @@
+{
+	"uid": "bluechip (80ebb1).wad",
+	"name": "Bluechip.wad",
+	"description": "Get the bluechip and get the hell outta there!",
+	"version": "80ebb1",
+	"date": "2013-11-06 22:47:38",
+	"files": [
+		{
+			"filename": "bluechip.wad",
+			"size": 92526,
+			"crc": 640616714,
+			"md5": "e25e0ea54a87097bde8e855350fd99c7",
+			"sha1": "80ebb1b3d16869197fbe4769313d170764ff8341",
+			"sha256": "21b8cfed830feee5311b0654ed0953eeebb813eaf78a02dab5bac4d80fa7455f"
+		}
+	]
+}

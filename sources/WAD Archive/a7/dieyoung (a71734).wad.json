@@ -1,0 +1,17 @@
+{
+	"uid": "dieyoung (a71734).wad",
+	"name": "Die Young!",
+	"description": "Primarily single player level. In co-op there are a few more monsters to kill. Traps everywhere. Lots of monsters on UV (you're not going to play this level on lower difficulty setting, are you ?). Reach the under- ground temple, kill them all, and make it back alive.",
+	"version": "a71734",
+	"date": "2014-12-18 22:21:05",
+	"files": [
+		{
+			"filename": "dieyoung.wad",
+			"size": 476428,
+			"crc": 1530571923,
+			"md5": "5312c3ec441b29cf933c947a36ef1dbd",
+			"sha1": "a717344248b0ca0bdf97fd6fcd7dca53e73d08f8",
+			"sha256": "2b39d977cffd0346e4a4d9bd8bad8eede939af770023339895be0ebca21b672f"
+		}
+	]
+}

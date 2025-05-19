@@ -1,0 +1,16 @@
+{
+	"uid": "sstex.wad",
+	"name": "SailorScout's Textures Pack v1.0",
+	"description": "After looking at all the texure packs out there, I realized there wasn't one of just floor and ceiling textures, so I put this together.",
+	"date": "2015-09-15 19:29:38",
+	"files": [
+		{
+			"filename": "sstex.wad",
+			"size": 403020,
+			"crc": 2637426690,
+			"md5": "880453b72fb2b2f44982bafdb7b1dff3",
+			"sha1": "f36b7cffaeba7fe7e8621bfcc47d0906261ec723",
+			"sha256": "53974e02a8e897b522834f666aaa375dc18e0a726bf8dbe9d34922954510c390"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hunter (bb9fe9).wad",
+	"name": "HUNTER.WAD, release 2",
+	"description": "A wham-bam, bippity-boppin' good Time wreakin' havoc among them Satanic civies and mutated meatheads. Watch your step and ALWAYS watch your back. It's not an impossible level and is quite solvable within a couple of tries. Well, maybe. Swap some lead. *** II *** There are no mechanical differences between my first release and this release. In this release I improved Y alignment, changed some textures, and added a few more dead bodies here and there. If you happen to have the first release, you probably got it from one of my friends. This wad is the first of a pseudo episode 4 series. Play difficulty is at least as difficult as the mid-episode 3 levels when set to ultra-violence.",
+	"version": "bb9fe9",
+	"date": "2014-01-07 22:24:43",
+	"files": [
+		{
+			"filename": "hunter.wad",
+			"size": 122743,
+			"crc": 2972561877,
+			"md5": "a66b426b836c84b1798a55ae10569d69",
+			"sha1": "bb9fe98147540fcf9dc8032275b75e47eb460f86",
+			"sha256": "6ee7a63b3eb01aa2cb2f1efe6d548764000d8ecabcd17d4055a6725d77913187"
+		}
+	]
+}

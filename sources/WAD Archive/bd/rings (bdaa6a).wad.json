@@ -1,0 +1,17 @@
+{
+	"uid": "rings (bdaa6a).wad",
+	"name": "Rings",
+	"description": "The beginning is survivable. Really!",
+	"version": "bdaa6a",
+	"date": "2013-11-02 16:03:02",
+	"files": [
+		{
+			"filename": "rings.wad",
+			"size": 68214,
+			"crc": 1497352703,
+			"md5": "777839ff28d6123c92887d77cd9d8e28",
+			"sha1": "bdaa6a7ecf4bd1fdc780ac7c058822116424f0ca",
+			"sha256": "f4ea9663cf08af80a3aec3d977a51485c7f24fe97c77daa498ee72bac66044f8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cs_57dm.wad",
+	"name": "Control Station KGx/57",
+	"description": "Control Station KGx/57 is the sister installation of Attack Station KGx/57.",
+	"date": "2014-12-15 21:28:47",
+	"files": [
+		{
+			"filename": "cs_57dm.wad",
+			"size": 401343,
+			"crc": 1672551820,
+			"md5": "9db225976ddb412890c785ad7ee21da9",
+			"sha1": "cefea4e01cee75038f6e445976d5d275f4483108",
+			"sha256": "8f15c6557fb913e7d9b6f3409b564455628784cee51c6576e5229f03ecfcd1fe"
+		}
+	]
+}

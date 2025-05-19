@@ -1,0 +1,17 @@
+{
+	"uid": "pczf_wad (c85ce0).wad",
+	"name": "DAVES2ND.WAD",
+	"description": "This is my second WAD, hence the catchy title. It's smaller than I would have liked, but most of the construction was done in DEU 5 and I started running out of RAM. It's subsequently been tidied-up in V5.2. I've tried to set it up as an alternative to E1M1 that can be played through, i.e. you won't start E1M2 with any advantages over the original in terms of usable weapons etc.",
+	"version": "c85ce0",
+	"date": "2013-11-02 16:54:24",
+	"files": [
+		{
+			"filename": "pczf_wad.wad",
+			"size": 160573,
+			"crc": 256250102,
+			"md5": "c8f5aa61b16c51a91176cfe832bc7ffe",
+			"sha1": "c85ce0d49930bed914f8de1b1afffdf1720ffd19",
+			"sha256": "ff0d47b0c2d8fb5e568c06883e8d648cbf59ea9c4c5593cffc7df4978e64f227"
+		}
+	]
+}

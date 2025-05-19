@@ -1,0 +1,16 @@
+{
+	"uid": "CMPSTATN.wad",
+	"name": "Computer Station",
+	"description": "This map was cut during a rebuild of this level. It was originally made in 1997, and was the first encounter with the 'teleport booth' used in the megawad, hence the silliness. Mobs of monsters in a mostly flat space.",
+	"date": "2019-03-06 21:38:11",
+	"files": [
+		{
+			"filename": "CMPSTATN.wad",
+			"size": 147469,
+			"crc": 1698823006,
+			"md5": "89d695a5ecff0867ebca063d79408a77",
+			"sha1": "96fbf17cffcec68e83a54de67fc135fe597a289d",
+			"sha256": "992c29a71625fec5852cfc80ba3dde5248dc4f71493981484dbaed7cd6a35f29"
+		}
+	]
+}

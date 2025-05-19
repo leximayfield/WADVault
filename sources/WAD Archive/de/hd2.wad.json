@@ -1,0 +1,16 @@
+{
+	"uid": "hd2.wad",
+	"name": "Heretic for Doom 2",
+	"description": "Heretic to Doom 2 conversion",
+	"date": "2018-03-27 21:12:57",
+	"files": [
+		{
+			"filename": "hd2.wad",
+			"size": 7310188,
+			"crc": 1727631654,
+			"md5": "54a00c1a627b519d2ff7db297a43a1be",
+			"sha1": "dec5b1d024583c4647fc78b7dd1f49a325825f8a",
+			"sha256": "d797ff94e69a56e553f3c1943be93e041a1934dbf0badb6d6a16667d5dbfc5a2"
+		}
+	]
+}

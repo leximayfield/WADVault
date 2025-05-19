@@ -1,0 +1,16 @@
+{
+	"uid": "shotgbf.wad",
+	"name": "Shotgun Blastfest",
+	"description": "A small, fast and furius DM-map, with a lot of Shotguns!",
+	"date": "2014-12-15 21:53:34",
+	"files": [
+		{
+			"filename": "shotgbf.wad",
+			"size": 57411,
+			"crc": 2254359044,
+			"md5": "d1007191bafd1733bc2d620fbdcd7f5d",
+			"sha1": "2f8daa3f4ec7001e93ea932506b0ce56e407b891",
+			"sha256": "541ff2508a8bc6d244b9fc8cf6748136fbaa0d4a42162944ca2238fb245578bb"
+		}
+	]
+}

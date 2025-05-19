@@ -1,0 +1,16 @@
+{
+	"uid": "hal (4b01ef).wad",
+	"name": "Hal skin for Zdoom (and related ports",
+	"version": "4b01ef",
+	"date": "2015-09-14 20:20:21",
+	"files": [
+		{
+			"filename": "hal.wad",
+			"size": 270045,
+			"crc": 2283824247,
+			"md5": "7e19c6e83aa805bb2124083067690d4a",
+			"sha1": "4b01ef04d8446c2b04a5ec99084492ef34ac0877",
+			"sha256": "f0ee130a2c11d603307cb8c10b94e009a51728342c70fd7f3cbe342994ca7dd6"
+		}
+	]
+}

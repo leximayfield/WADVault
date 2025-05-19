@@ -1,0 +1,17 @@
+{
+	"uid": "descent (fd6d26).wad",
+	"name": "The Descent Into Hell's Cauldron",
+	"description": "Another hell-themed wad in which I have paid tribute to the Descent levels (HRMAP31 and HR2MAP31) and Hell's Cauldron (HR2MAP29). New music, new textures, and a new sky is incorporated.",
+	"version": "fd6d26",
+	"date": "2013-04-19 09:54:35",
+	"files": [
+		{
+			"filename": "descent.wad",
+			"size": 5137160,
+			"crc": 2424989911,
+			"md5": "cccfafb8aefa08b2628cdc18897e4697",
+			"sha1": "fd6d265cf3ca0fb7eb1bc7f6c9e1dcdbb7c136e3",
+			"sha256": "f42429d9b8dc3e36cf3eb35799f23b1c01d48131ce7a42e592b7adf0d3bd5b15"
+		}
+	]
+}

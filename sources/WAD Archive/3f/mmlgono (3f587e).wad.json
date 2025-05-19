@@ -1,0 +1,17 @@
+{
+	"uid": "mmlgono (3f587e).wad",
+	"name": "RV-007 Map Sector Experiments",
+	"description": "my_map_laggo_or_nooh.wad This is my first map, but as an experiment rather than a demo. Nevermind the matter of gameplay for it has none (it sucks). Therefore, I could care less about votes or reviews of the file itself. Rather, I care more about feedback in mapping, scripting, and other editing methods related to the ZDoom sourceport. I can't do other ports, I'm settled, sorry about that.",
+	"version": "3f587e",
+	"date": "2019-03-20 02:43:02",
+	"files": [
+		{
+			"filename": "mmlgono.wad",
+			"size": 36001023,
+			"crc": 3693016063,
+			"md5": "1a0d9f152109b0bb2f623d3109142226",
+			"sha1": "3f587e8e739ac49fe95b9614bf0c5313cdf0a674",
+			"sha256": "520e75a8f5fe90f0c6064e84f331936c2a4d991a10aa3c641256f9276df0b946"
+		}
+	]
+}

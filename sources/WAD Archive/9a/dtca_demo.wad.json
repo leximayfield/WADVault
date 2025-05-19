@@ -1,0 +1,16 @@
+{
+	"uid": "dtca_demo.wad",
+	"name": "DOOM - The Cyberdemon Army - Demo",
+	"description": "I have constructed a demo of the 4 current top stages in DTCA. I hope you enjoy it.",
+	"date": "2014-12-24 17:31:34",
+	"files": [
+		{
+			"filename": "dtca_demo.wad",
+			"size": 11038334,
+			"crc": 111793602,
+			"md5": "c5f26f36c09e5e27099d911881a97987",
+			"sha1": "9a591a4bb296b74048c5f7964b42180364ab8b30",
+			"sha256": "11bd5ccaad2dea153ac14a1e9ffc99838669a647a5cdaaf1ccfb5afad1e3559a"
+		}
+	]
+}

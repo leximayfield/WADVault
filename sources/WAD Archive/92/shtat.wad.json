@@ -1,0 +1,16 @@
+{
+	"uid": "shtat.wad",
+	"name": "The Horde of Shtat",
+	"description": "Plasma! DO NOT USE JDRP WITH THIS WAD. It will ruin the modified monsters and plasma gun.",
+	"date": "2014-12-29 18:22:43",
+	"files": [
+		{
+			"filename": "shtat.wad",
+			"size": 108119,
+			"crc": 3273764298,
+			"md5": "9bba25f058337e7c6da26b132c399b34",
+			"sha1": "92af4dedf893cb99ea718f0e255953665c8341ec",
+			"sha256": "dbc629d875afbfce56b6f1714682716e8a067da1bda06add01aef591b6d4a6db"
+		}
+	]
+}

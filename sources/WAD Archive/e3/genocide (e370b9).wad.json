@@ -1,0 +1,17 @@
+{
+	"uid": "genocide (e370b9).wad",
+	"name": "Genocide",
+	"description": "This is a remake of ledgesi.wad by Mark K. Gresbach Jr. The level is mostly the same, just prettier to look at.",
+	"version": "e370b9",
+	"date": "2014-12-15 22:28:03",
+	"files": [
+		{
+			"filename": "genocide.wad",
+			"size": 247927,
+			"crc": 426442227,
+			"md5": "6185f82c811fee91c7dd7f4379bd8d83",
+			"sha1": "e370b93c493e6a7e1b2c9eb019116f9c4803d855",
+			"sha256": "6ca6e9444caae8f0f768622f1d08ac7ce5582dc7797d13a235f1548c824e892f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "display (987d75).wad",
+	"name": "Doom Display Case",
+	"description": "WARNING! This is not a normal DOOM level! It was originally designed as a level to test out graphics and sound wads, so it includes all of the Doom 'things' (items and monsters and decorations). It uses some trickery so that you can get a close up look at the monsters without getting attacked (and without using cheats), but the display does have a security system :-) This level was also meant to be a _small_ first wad to learn Doom level editing on, but it... er... grew. Anyway, I think it has some interesting parts. There is an exit behind you at the start, so you can leave whenever you like, but the real challenge is to find the secret exit.",
+	"version": "987d75",
+	"date": "2013-07-09 20:21:27",
+	"files": [
+		{
+			"filename": "display.wad",
+			"size": 202291,
+			"crc": 3148568668,
+			"md5": "8c7ec52321520aadb709b8ca071690c3",
+			"sha1": "987d756ec0e4f7cac23aac19cbc89fb9e0cd6fbf",
+			"sha256": "8eb409fa857f67f499d443e60fa9264047b5fbcc6569d9c5b605be7a185306d2"
+		}
+	]
+}

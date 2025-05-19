@@ -1,0 +1,17 @@
+{
+	"uid": "damdoom (23fa89).wad",
+	"name": "-=|Damien's DOOM|=- 18/05/95 [The Deathmatch Zone] ~~~~~~~~~~~~~~~~~~~~~",
+	"description": "This level is my first try as a Deathmatch level. Damien wrote a map for me during the Math class, and the following Monday we first tried it in a 4-player network play. Now we are proud to bring you the final version, featuring: South-East * The dark MAZE: dodge spectres, hide in the secret rooms and bring back the Rocket-Launcher. North * A long CORRIDOR that you'll have to slalom in, if you want to reach the PlasmaGun. North-West * The ARENA, with the WHEEL OF DEATH, where you'll have your filthiest frags, trust me! East * The WAREHOUSE, also known as shotgun-land. West * The CONTROL CENTRE: one of the switches raises the arena, bringing you surprised targets. If they take the teleport, use the one-way door.THEY CAN'T ESCAPE! Watch your backs, they can follow you. West * The PIT: Visit the Hell Knight and grab the Chaingun. 'Careful, danger comes from everywhere. South * The COURTYARD: use the 2nd switch near the C.C. to access the BFG9000, then hide behind trees! (Be careful not to Exit the level)",
+	"version": "23fa89",
+	"date": "2014-12-03 20:20:49",
+	"files": [
+		{
+			"filename": "damdoom.wad",
+			"size": 41404,
+			"crc": 741854244,
+			"md5": "8b468267826e94cc1006c25ad0247c58",
+			"sha1": "23fa895db33c8023c98b06ed313d2b686eef0879",
+			"sha256": "841323bb0b9fd03d7997cd1c897d4afe9891304f2c315bdd2d331e38cd641eb1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "demona.wad",
+	"name": "Demon Aquarium V1.2",
+	"description": "Your in a marble tank with lots of demons. This is a re-release origionaly released on DWS, recieved a 9/10 on DWS. Its been modified from the origional version to make A tiny bit easer, and the lava now is deadly.",
+	"date": "2014-12-18 22:45:35",
+	"files": [
+		{
+			"filename": "demona.wad",
+			"size": 97613,
+			"crc": 3473715488,
+			"md5": "5cfb263d3c1156c0180add828a43f8b4",
+			"sha1": "6ec687b60cd76297e5db329db86fc67af2278961",
+			"sha256": "1b5021266a322892f4988fcff65d2f7bc17ddae9dffb9b49946c5d96e466d5cd"
+		}
+	]
+}

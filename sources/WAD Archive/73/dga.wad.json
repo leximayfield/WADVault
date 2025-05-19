@@ -1,0 +1,16 @@
+{
+	"uid": "dga.wad",
+	"name": "Doom Guns Amplified",
+	"description": "Sometimes we just want Doom guns to be more... POWERFUL, dammit! This simple little mod takes all of the standard guns and amplifies their performance to make them much more deadly (this is obviously cheating and intended for fun).",
+	"date": "2014-12-10 22:47:09",
+	"files": [
+		{
+			"filename": "dga.wad",
+			"size": 1037445,
+			"crc": 823852963,
+			"md5": "b53b41d6a30b8755a7dbdc6e36a73547",
+			"sha1": "738a2a5f5b0a9d0e64ada682db2cb176122ad150",
+			"sha256": "07d2384483933ab20c89dfaaf62f5a6ff8f5ef0036365fcb228884e8e1a54716"
+		}
+	]
+}

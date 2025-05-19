@@ -1,0 +1,16 @@
+{
+	"uid": "scasttex.wad",
+	"name": "ShadowCaster Textures",
+	"description": "150 textures from ShadowCaster.",
+	"date": "2015-09-15 17:56:18",
+	"files": [
+		{
+			"filename": "scasttex.wad",
+			"size": 1405357,
+			"crc": 150575894,
+			"md5": "8bd4b2c077d60dbc5e01a67f04a554ce",
+			"sha1": "5f2d1b52654b87d3bdb7b46119f7ed9bd9c664d0",
+			"sha256": "8a5c27c01afcf2c52aa6dc2a3e6037bbdda2eebac03913ea1eeea0e5ea0d36cc"
+		}
+	]
+}

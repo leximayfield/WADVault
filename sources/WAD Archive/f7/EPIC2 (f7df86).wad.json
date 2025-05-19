@@ -1,0 +1,17 @@
+{
+	"uid": "EPIC2 (f7df86).wad",
+	"name": "Epic (for Doom ][ Only!)",
+	"description": "This level was designed with single player in mind, but it has proven to be a decent deathmatch wad as well. It has mucho carnage even at \"Hurt me wimpy.\" All weapons, keys, and enemies are used. This wad is set up to replace map01, but it would actually make a good replacement for \"Tricks and Traps,\" if you know what I mean.",
+	"version": "f7df86",
+	"date": "2013-11-02 15:58:54",
+	"files": [
+		{
+			"filename": "EPIC2.wad",
+			"size": 213008,
+			"crc": 925977008,
+			"md5": "7f2fe3a9dc386758d2c7315fb65314bc",
+			"sha1": "f7df865362aa08b1fea7ff2356587ce0721dd986",
+			"sha256": "e0da49e8378d36b2c82a5c65d3b67de89920b3ed4006f30f6a4abdcd982981a7"
+		}
+	]
+}

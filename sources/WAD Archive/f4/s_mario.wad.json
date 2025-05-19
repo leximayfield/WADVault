@@ -1,0 +1,16 @@
+{
+	"uid": "s_mario.wad",
+	"name": "Super Mario 8-Bit",
+	"description": "Just an 8-bit Mario map done out of boredom.",
+	"date": "2014-12-29 15:07:35",
+	"files": [
+		{
+			"filename": "s_mario.wad",
+			"size": 67013,
+			"crc": 814639291,
+			"md5": "d6650d53253e31cf672e63a590658024",
+			"sha1": "f44724fa83724ce81e453885adada52f629373da",
+			"sha256": "9964309ceb115ce22c8be0b550f976cd44966ffec184b457b627700f8919d4a9"
+		}
+	]
+}

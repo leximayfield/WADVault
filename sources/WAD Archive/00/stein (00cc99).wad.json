@@ -1,0 +1,17 @@
+{
+	"uid": "stein (00cc99).wad",
+	"name": "Assault on Castle Wolfenstein",
+	"description": "For more Doom 2 levels and other horror-themed entertainment products visit http://www.innerdemonentertainment.com/",
+	"version": "00cc99",
+	"date": "2019-03-23 00:30:49",
+	"files": [
+		{
+			"filename": "stein.wad",
+			"size": 1158483,
+			"crc": 412382655,
+			"md5": "29d243dcbbaba9e5f9ec8e05447db155",
+			"sha1": "00cc9909356a9965ea9ee209015d678d48e17521",
+			"sha256": "191f927a3b406ff6dfe5e75593a101a50685785aa0662a4fa80076928e550ebe"
+		}
+	]
+}

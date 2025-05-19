@@ -1,0 +1,16 @@
+{
+	"uid": "homie.wad",
+	"name": "Kill the Homies",
+	"description": "Your mission is to Kill the Homies b4 they kill u.",
+	"date": "2014-12-18 22:57:31",
+	"files": [
+		{
+			"filename": "homie.wad",
+			"size": 115897,
+			"crc": 823041906,
+			"md5": "1047d0e92f03a2626cadd35eb3c82000",
+			"sha1": "06d0bf010063f3ad54900610e234e18438f1d4eb",
+			"sha256": "af377cbccba987ce480fa070f6f6a2bfb69b3ea5592427f1647475d8ff3a4a18"
+		}
+	]
+}

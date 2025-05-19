@@ -1,0 +1,16 @@
+{
+	"uid": "mancer08.wad",
+	"name": "Mancer08",
+	"description": "A level more designed for 3 or 4 players due to the flow of the level.",
+	"date": "2018-06-21 11:29:29",
+	"files": [
+		{
+			"filename": "mancer08.wad",
+			"size": 155307,
+			"crc": 3486234558,
+			"md5": "31141aef8ec1e5e87277eea48bc4c0f5",
+			"sha1": "3e36896eea92b00d95ba370e8e0d3441e214bbfb",
+			"sha256": "5db8b443fcee58cb2cc544992d7255c10f1861ce4ef5cc747d25ea4cadaa26ac"
+		}
+	]
+}

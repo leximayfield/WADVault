@@ -1,0 +1,17 @@
+{
+	"uid": "pet (7b4639).wad",
+	"name": "petkillr.zip",
+	"description": "Difficult pwad. See end of this file.",
+	"version": "7b4639",
+	"date": "2013-11-02 15:08:43",
+	"files": [
+		{
+			"filename": "pet.wad",
+			"size": 147724,
+			"crc": 3464611728,
+			"md5": "cc1cc1aef932f9c0ef6bb8f3519b5041",
+			"sha1": "7b463996114005c1294885afa40d79694e018a83",
+			"sha256": "5c0edde0df0c4ccca445cb80fb100ebabce279103edfc07c7da0b0005ba8febe"
+		}
+	]
+}

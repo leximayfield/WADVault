@@ -1,0 +1,16 @@
+{
+	"uid": "GS-AOF.wad",
+	"name": "Arena of Fun",
+	"description": "This started out an idea I got from the Hexen : Beyond Heretic beta version I was playing and slowly made it 's way to a DOOM 2 deathmatch level. There is a platform in the center of the area with weapons galore. Once there , defend yourself from others who hide in one of the 4 corner areas. The corners are blackened to provide a hiding spot (but transporting from the center, you'll appear behind the other guy. Then you launch off a couple rockets and viola! He's toast! Also, if your careful , you'll notice some \"false\" walls that have been placed where you can DRILL your opponent and laugh 'till tomorrow! :)",
+	"date": "2013-11-04 19:19:12",
+	"files": [
+		{
+			"filename": "GS-AOF.wad",
+			"size": 37612,
+			"crc": 1110242623,
+			"md5": "27b86042dfa0685597debecd08522094",
+			"sha1": "05de06b5300ce83b3a4aff16f0c8b5ceab810dc6",
+			"sha256": "8cb7e71bfdc83f332e032cbd6ad56ad9c6a3da8c69a568a37d22e7bd3693e6cd"
+		}
+	]
+}

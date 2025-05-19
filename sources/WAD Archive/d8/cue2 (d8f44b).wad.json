@@ -1,0 +1,17 @@
+{
+	"uid": "cue2 (d8f44b).wad",
+	"name": "CUE2 MAZE",
+	"description": "My second huge effort. This one has many stairways and lifts for a more 3-D feel. Also, alot of puzzles to figure out. Good for Deathmatch as you can get thru all areas in both directions. Hint- To git the Rocket Launcher you must do a \"U\"-Turn. Dedicated to Computer Users of Erie so don't forget to look at the auto-map before ending the level. This DooM 2 wad was converted from a DooM 1 wad with DooM 2 monsters added for more blasting enjoyment.",
+	"version": "d8f44b",
+	"date": "2013-11-04 19:21:44",
+	"files": [
+		{
+			"filename": "cue2.wad",
+			"size": 147528,
+			"crc": 2692791248,
+			"md5": "c7811d5790c26e956bbba76065c9f890",
+			"sha1": "d8f44b3a4703cce5327ca0ba2ed59101140c15e4",
+			"sha256": "d7e638557284eabd249b4137573cf92b4e775771f69026aa112cb330b4120189"
+		}
+	]
+}

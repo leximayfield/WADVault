@@ -1,0 +1,17 @@
+{
+	"uid": "dethroom (b65aa7).wad",
+	"name": "Deathroom.WAD",
+	"description": "Good for two player DEATHMATCH, and even better for NETDEATH! Lots of sniper kills and possible tele-frags.",
+	"version": "b65aa7",
+	"date": "2013-11-02 15:52:27",
+	"files": [
+		{
+			"filename": "dethroom.wad",
+			"size": 31351,
+			"crc": 891318965,
+			"md5": "5d4429f93f48616425cc1263b32fa5ae",
+			"sha1": "b65aa7ab0e457fbc758f327ee027d8f35b45cdda",
+			"sha256": "6e722823ac43be58c2dd86bfcb5e06d4f9bb3b7ad6760016ee0e37db21d494e8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "barrelb.wad",
+	"name": "Barrel Bash",
+	"description": "You start with a shotgun and some ammo. Dodge the imp's fireballs, plus the spining balls on the floor. Survive as long as possible. You'll gain more ammo for the shotgun as time passes.",
+	"date": "2014-12-21 14:15:30",
+	"files": [
+		{
+			"filename": "barrelb.wad",
+			"size": 65083,
+			"crc": 3605127818,
+			"md5": "7fe5cfa281fd14cca4b156b841de3d0b",
+			"sha1": "47121f73fcfe59a0364a8c9c8dce7c179eaa661f",
+			"sha256": "bd39da1663432507d95c5c1a09282532b43b1e0bf33d9fa31817678a7a341ad0"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "quandary.wad",
+	"name": "The Quandary",
+	"description": "A Doom II map inspired mostly by Sandy Petersen's city maps from the original game.",
+	"date": "2015-09-15 18:20:20",
+	"files": [
+		{
+			"filename": "quandary.wad",
+			"size": 118753,
+			"crc": 1496115809,
+			"md5": "07fa50ed8f8f478c92fc300c79d25b91",
+			"sha1": "93f634904a20090256598e464d3c1954c44c7507",
+			"sha256": "7ed840c5b5dcbe7af677fe3cf3010a77c69c3750f080e70b2280704e9673bc8a"
+		}
+	]
+}

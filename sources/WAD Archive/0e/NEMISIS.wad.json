@@ -1,0 +1,16 @@
+{
+	"uid": "NEMISIS.wad",
+	"name": "Nemisis experiment",
+	"description": "Incomplete version of the origional design of",
+	"date": "2015-09-14 19:33:09",
+	"files": [
+		{
+			"filename": "NEMISIS.wad",
+			"size": 1257008,
+			"crc": 1600624253,
+			"md5": "37bc894062aa6a7b6bfc19872360e67a",
+			"sha1": "0e3de305e5ab99db49d3aeb13fc02f865030af35",
+			"sha256": "4e3eaab31558678036e23b17b5db81a97caf4f9e0e6c34c0ce3de7eb7e1b1435"
+		}
+	]
+}

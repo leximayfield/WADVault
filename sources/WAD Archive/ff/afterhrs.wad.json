@@ -1,0 +1,16 @@
+{
+	"uid": "afterhrs.wad",
+	"name": "Afterhours",
+	"description": "Ever wonder what the doomguy when you turn your computer off at night? This is where he deathmatches when twilight strikes. Here is a set of three moderately high detailed levels for any ZDoom based engine. I would strongly recommend enabling mouselook and jumping if you decide to run these maps on a server since a lot of them have areas otherwise unaccessible. Mouselook just makes all the difference, especially on map03 with all it's rolling hills. The first map takes you on a space station floating out in a void area. The architecture is tight and the power items (BFG, SSG, Blue Armor) are outside on floating podiums past small catwalks. The second map is the feature presentation and is quite dramatic in it's resemblence to real life rooftops (the only exception are the jumppads, which seem a bit Quake III'ish). The final map is a very wide open map with rolling hills and bunkers placed strategically around the level. Take what cover you can because there isn't much to begin with.",
+	"date": "2014-12-13 19:56:21",
+	"files": [
+		{
+			"filename": "afterhrs.wad",
+			"size": 1444869,
+			"crc": 2485460002,
+			"md5": "ccf197f6b8d17570be8996f0d9b29737",
+			"sha1": "ff527f9929d7ac53b4e3bba1f995e5e5ba3f217f",
+			"sha256": "2acd4b9998cb00d802ad11f43448d723816397a32472c3f157167cffa0387493"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fb_e1m8.wad",
+	"name": "Flashback E1M8",
+	"description": "The original E1M8 for Doom: Flashback, the megawad started by Torn and Espi in 2003.",
+	"date": "2015-09-15 16:36:02",
+	"files": [
+		{
+			"filename": "fb_e1m8.wad",
+			"size": 54568,
+			"crc": 3860098582,
+			"md5": "a44e821f5bafe1ba52c7c6de87a5e8a6",
+			"sha1": "5fa67be98ab1531381f99bec9126ede2fe84385d",
+			"sha256": "2fb7e8aa0193a28d4fb6b6657a5aa5fa2c430575308899e6b8b3b62467529665"
+		}
+	]
+}

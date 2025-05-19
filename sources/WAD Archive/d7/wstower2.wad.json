@@ -1,0 +1,16 @@
+{
+	"uid": "wstower2.wad",
+	"name": "TOWER OF DEATH",
+	"description": "This is essentially the same WAD as WSTOWER.WAD except it has been converted to Doom 2 format and I have added all of the additional demons and items (like the supershotgun) which can be found in Doom 2.",
+	"date": "2015-01-14 22:50:17",
+	"files": [
+		{
+			"filename": "wstower2.wad",
+			"size": 501810,
+			"crc": 784049340,
+			"md5": "f653cfb37d9adfbb18eb467dbf0eb88b",
+			"sha1": "d755a9ee09c34bc7f9630fb81e70cf0ca395ef2e",
+			"sha256": "e6668871ec4ac67393173a14ac89996f38a6dd7a7459a7eef53dd2f6e7574f4a"
+		}
+	]
+}

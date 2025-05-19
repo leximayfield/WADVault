@@ -1,0 +1,17 @@
+{
+	"uid": "quad (c27a1e).wad",
+	"name": "QUAD",
+	"description": "Every College campus has a \"Quad\". It's a central place where people go to relax, read, you know... Don't think youre gonna' get much relaxation in THIS quad, though. It IS a central place, but it only leads to HELL...",
+	"version": "c27a1e",
+	"date": "2013-11-02 15:58:42",
+	"files": [
+		{
+			"filename": "quad.wad",
+			"size": 223799,
+			"crc": 1216008239,
+			"md5": "780dfb477484aa5319116ee9739633c5",
+			"sha1": "c27a1eee691447663fa33ff6229c9edf7edaaad1",
+			"sha256": "8ed293c4434869fffebcee387a47037b73a6292534a75c5821e32bc1b85e9dc6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "density (38d2da).wad",
+	"name": "Density.wad",
+	"description": "This is my first and only doom level. It has taken over 4 months to realize, so you can expect it to be worth trying out! Being an art student, aethetics and attention to detail were important. (yes you too can produce refreshingly different levels, with the original DOOM 2 textures!)",
+	"version": "38d2da",
+	"date": "2014-10-14 21:12:25",
+	"files": [
+		{
+			"filename": "density.wad",
+			"size": 326737,
+			"crc": 2811219437,
+			"md5": "46f9791d51987ae42ad50b4bafc2f5f4",
+			"sha1": "38d2da391be196c59d6f261d11480d85ae54ec60",
+			"sha256": "d22143f42b7dd3764def7ee1c220bce78a16cd0ec7aaa4d5ec3da402cd90c610"
+		}
+	]
+}

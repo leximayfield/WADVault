@@ -1,0 +1,17 @@
+{
+	"uid": "SNIPER (899be5).wad",
+	"name": "sniper.zip (sniper.wad and .txt)",
+	"description": "Designed for 2 player deathmatch and single player, a mid-sized level with a few tricks and secret doors. Employed the use of rising staircase and crushing ceiling. Essentially you are confronted with a bunch of mutants shooting at you from above and behind. There are a few intersting surprises that will leave you wondering if the next ambush will come from the next room or one you just left. Strategic use of the shotgun and barrels will aid you. If you discover a secret door (near the start, hint, hint) without disturbing the wrong monsters, you will be treated with the opportunity to blast a bastard out a narrow window, from behind. Very satisfying.",
+	"version": "899be5",
+	"date": "2013-11-02 15:16:41",
+	"files": [
+		{
+			"filename": "SNIPER.wad",
+			"size": 92286,
+			"crc": 695825449,
+			"md5": "e2577e1deacc045484dc10f92150c360",
+			"sha1": "899be557d6425eba62977f9df8fa5dac1e261dd8",
+			"sha256": "02179ce8257db9aa70a61153909f18e59a4aeb74887de9201c995d97e439b222"
+		}
+	]
+}

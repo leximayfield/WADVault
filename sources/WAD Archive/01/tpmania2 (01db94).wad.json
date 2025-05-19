@@ -1,0 +1,17 @@
+{
+	"uid": "tpmania2 (01db94).wad",
+	"name": "Teleport Mania II - [Doom II only]",
+	"description": "A deathmatch only wad with mostly dark rooms and halls. Fairly small with very little ammo and few weapons (highest Rocket Launcher). Once again many teleporters to add some spice. The teleporters have a pattern thats not too complicated. Multiple tp's per tp exit though so don't stand around.",
+	"version": "01db94",
+	"date": "2013-11-02 15:59:10",
+	"files": [
+		{
+			"filename": "tpmania2.wad",
+			"size": 20679,
+			"crc": 98600740,
+			"md5": "184e8dbddf4f8fda93c9970aa465043d",
+			"sha1": "01db94fce9d501380612a7c5ee76af0ceac72d02",
+			"sha256": "0754468bdae194568f3c7f6ffb138c3b3b7c918950316ff3218c9a0bcbce8ae8"
+		}
+	]
+}

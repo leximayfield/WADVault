@@ -1,0 +1,17 @@
+{
+	"uid": "lookout (504034).wad",
+	"name": "Lookout!",
+	"description": "Lookout spots surround an open court to ambush your unsuspecting death- match opponents. Hide behind an open window, but cover your back. Designed with single player and deathmatch modes in mind.",
+	"version": "504034",
+	"date": "2013-11-06 22:18:08",
+	"files": [
+		{
+			"filename": "lookout.wad",
+			"size": 606208,
+			"crc": 3609468606,
+			"md5": "521f5ebe8c79a58ea90dea550c5b8e78",
+			"sha1": "504034c330d839fa8fa5b1091d9d629bd560d9cf",
+			"sha256": "2c9525544015e3ade56e02f1ea725217b642cae653b52afffab9bcd648b85987"
+		}
+	]
+}

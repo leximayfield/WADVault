@@ -1,0 +1,16 @@
+{
+	"uid": "patch (f0338b).wad",
+	"name": "The Patchwork Empire",
+	"version": "f0338b",
+	"date": "2018-04-14 22:38:13",
+	"files": [
+		{
+			"filename": "patch.wad",
+			"size": 1262696,
+			"crc": 434273033,
+			"md5": "d115a1424077a7b3b6f414d5c7193181",
+			"sha1": "f0338b8ab8fff89fb9f5b3a6ae847a13f2728f5a",
+			"sha256": "9930fea331c3d12ed153e22d45690f1cb3bd20be3148b9f00168151beaf265b3"
+		}
+	]
+}

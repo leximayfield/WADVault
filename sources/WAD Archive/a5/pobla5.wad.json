@@ -1,0 +1,16 @@
+{
+	"uid": "pobla5.wad",
+	"name": "Point Blank 5",
+	"description": "Not just another DeathMatch WAD. This one is a bit larger than the other PoBla-Levels, because it was designed with 4 player DM in mind. POBLA5 was originally made for a DeathMatch Tournament in germany - here it is for your enjoyment. The pobla5 ZIP also contains a GIF showing a raw sketch on paper and the final map of this level.",
+	"date": "2014-12-15 22:47:17",
+	"files": [
+		{
+			"filename": "pobla5.wad",
+			"size": 66666,
+			"crc": 345035544,
+			"md5": "d735e306e2e224f5442b518a549a6e20",
+			"sha1": "a574e3888b2298944b549d249e37072fbeb69aed",
+			"sha256": "ff7f1f9909618998d2288bc61fe27b4ebf4cb24b067ce6fea80272c2efc02396"
+		}
+	]
+}

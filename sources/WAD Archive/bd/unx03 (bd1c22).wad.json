@@ -1,0 +1,17 @@
+{
+	"uid": "unx03 (bd1c22).wad",
+	"name": "UNX03: Headquarters",
+	"description": "The third level in the UNX series. This level continues from where \"UNX02: Underground\" ends. Designed for vanilla Doom but should work with any common source port. Story: You finally arrive to a familiar place, only to find the gibs of the secretary you had a crush on. Dark thoughts plague your mind (could it be demonic influence?): \"She always ignored me anyways. Fuck it, she deserved it.\" But you quickly remember you have a task at hand... \"Man, what the hell is wrong with me? No time for bullshit. It's time to kill!\" Additional features: -One part of this map is a little tribute to \"The Gantlet\" (MAP03 of Doom II). -There's a fun \"easter egg\" in the automap. Don't miss it! :)",
+	"version": "bd1c22",
+	"date": "2019-05-10 01:31:34",
+	"files": [
+		{
+			"filename": "unx03.wad",
+			"size": 144041,
+			"crc": 3261200197,
+			"md5": "c14f22fcb2618ded9b437b19afa5b3d6",
+			"sha1": "bd1c22c9840d88a8e6972a5032354ca93a157307",
+			"sha256": "2e59871d73cac21accbab7d7d1be5565c132a973f673d6e93a0f91dadd74d9c5"
+		}
+	]
+}

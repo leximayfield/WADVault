@@ -1,0 +1,17 @@
+{
+	"uid": "carnage (d51d37).wad",
+	"name": "Carnage Galore ver 3.0",
+	"description": "This version is MUCH neater than the previous one. Instead of literally hundreds of pictures that would have to be in the Heretic directory and a DMGraph program which can permanently change your iwad, there is one sprites file with a deusf pro- gram that simply merges the sprites file into the iwad and can easily restore it when you are finished playing with the new pictures. It is a great deal faster as well. I also de- leted carnage.doc, which was basically useless anyway.",
+	"version": "d51d37",
+	"date": "2014-12-30 11:28:43",
+	"files": [
+		{
+			"filename": "carnage.wad",
+			"size": 2130555,
+			"crc": 1789312232,
+			"md5": "bc620f6a998e5ecc2c687995a816af07",
+			"sha1": "d51d376acbefa6b4c456e4a00032157b19ca2d06",
+			"sha256": "c65cfcb543a01dde86ba61dfee3bc03b18d0cf6ebabeb4dab65353dccf710655"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"uid": "mega_man_x.wad",
+	"description": "some graphics for doom replaced by ones taken from Mega Man X. Not to mention all the music replaced by Mega Man X music (eventually I plan to replace all or most of the sprites)",
+	"date": "2014-12-11 22:27:59",
+	"files": [
+		{
+			"filename": "mega_man_x.wad",
+			"size": 1222392,
+			"crc": 1778743724,
+			"md5": "b1e444ff24e66e919a963e707b1abaac",
+			"sha1": "4f308ab5b87975bed08906f7e3fd9fe8c0c4ff63",
+			"sha256": "fc0730a02129cf7a69bd40c0751372e5f6e3db76b8e5d1a5ba38f611d679f0e0"
+		}
+	]
+}

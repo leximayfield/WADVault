@@ -1,0 +1,17 @@
+{
+	"uid": "insane2 (366555).wad",
+	"name": "Insane II",
+	"description": "Well, I could go on for hours, but... Generally the first level is a level pieced together from my first wad... (favorite rooms) The rest is new stuff.",
+	"version": "366555",
+	"date": "2014-12-18 22:40:28",
+	"files": [
+		{
+			"filename": "insane2.wad",
+			"size": 1229517,
+			"crc": 3090786004,
+			"md5": "c1b6d1cee8cac8a48906ae157bf20c3f",
+			"sha1": "36655524c4535eea7015bb78d44a4ea0651bfa56",
+			"sha256": "d7c6206bf294075ca9a53d767e20d7fb0e13ce04554ff6ab88a5ea8b1a0800dd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "FRAG_YOU (c03049).wad",
+	"name": "Frag_You",
+	"description": "I designed this level after being somewhat dissapointed with most of the deathmatch PWADS out there. I've put in most of what I've learned playing netdoom. Which are: 1)Keep it small. 2)Good sniping spots. 3)Opportunities for telefragging. 4)Neato design.",
+	"version": "c03049",
+	"date": "2013-11-02 15:37:30",
+	"files": [
+		{
+			"filename": "FRAG_YOU.wad",
+			"size": 38300,
+			"crc": 479649061,
+			"md5": "7fcaf7f0bb14d9da1811966b7dd93b96",
+			"sha1": "c03049049ab3daf5c0c9ce8ba7acd9b241e11b94",
+			"sha256": "f1073f305ab41f3c629e870d51671cd2992c5f534f1db3f5e7e3eee3d51e972c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "75m1-jer.wad",
+	"name": "Breached Perimeter",
+	"description": "A fairly small and easy E1-style map. I made this map to have exactly 75 monsters, an idea that came about as a result of playing the various 1024 megawads and realizing that despite the small size a lot of them seemed very long and grueling to play through. I wondered what it would be like to make a map with a theme that forced the mapper to make a 'bite-sized' Doom experience, and came up with the idea of making a map with 50 monsters, no more, no less. Once I started making this map I decided 75 might work better.",
+	"date": "2018-05-28 18:32:49",
+	"files": [
+		{
+			"filename": "75m1-jer.wad",
+			"size": 114807,
+			"crc": 2351424706,
+			"md5": "af60b5a0cb6f64a749fe8d1ab374061d",
+			"sha1": "9ac22606dbc23d117c8d48ca5708d28a4af4e2c5",
+			"sha256": "ecbab93e5514f3c583c802d7e9356ed819a422bd00065645ed0015aad9aa1735"
+		}
+	]
+}

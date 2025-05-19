@@ -1,0 +1,17 @@
+{
+	"uid": "XA-GORIL (b519ef).wad",
+	"name": "all aboard the mega magilla gorilla flotilla",
+	"description": "Single map for Doom 2.",
+	"version": "b519ef",
+	"date": "2018-02-15 20:38:47",
+	"files": [
+		{
+			"filename": "XA-GORIL.wad",
+			"size": 341234,
+			"crc": 1040330542,
+			"md5": "32a56fcf2718b9269edb71f458e80783",
+			"sha1": "b519ef4ab714ce8ae3fb5a7d3840cf25c6f1cd69",
+			"sha256": "b8318a9e2da845175ef58057b19af5146833286d002cb6f6ca5f40ffac839168"
+		}
+	]
+}

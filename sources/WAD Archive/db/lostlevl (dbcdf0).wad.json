@@ -1,0 +1,17 @@
+{
+	"uid": "lostlevl (dbcdf0).wad",
+	"name": "DMLOST2.WAD",
+	"description": "This is the Lost Level of DOOM, the one your mother never told you about! A big, complex WAD, almost 200K, this one is not for novices. NOTE: This is an updated version of The Lost Level of DOOM, using DEU 5.21 to align all the textures correctly, and fix a few minor bugs. Current as of June 25, 1994.",
+	"version": "dbcdf0",
+	"date": "2013-11-02 15:48:10",
+	"files": [
+		{
+			"filename": "lostlevl.wad",
+			"size": 194393,
+			"crc": 2774583979,
+			"md5": "93aa3b06cf6f8ebc892531e1286cc7b3",
+			"sha1": "dbcdf03fb59edce81ae1052840a2ce1e76404862",
+			"sha256": "11f738c4ebea545f2884adbef358aa5d0c0f749b2f414c28d632ed6a38d8b1e1"
+		}
+	]
+}

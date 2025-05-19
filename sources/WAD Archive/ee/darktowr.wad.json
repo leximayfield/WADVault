@@ -1,0 +1,16 @@
+{
+	"uid": "darktowr.wad",
+	"name": "The Dark Tower",
+	"description": "Well, um, I think the title sums it up right? ;) Seriously, the level is fairly simple (like most of my levels) consisting of an outside playing field and a central tower with no interior lighting that contains the more powerful weapons. The most power- ful weapon (depending on the skill level) is positioned on one high end of the arena, which is reachable by a risky teleport on the opposite side of the arena.",
+	"date": "2014-12-15 22:32:10",
+	"files": [
+		{
+			"filename": "darktowr.wad",
+			"size": 170159,
+			"crc": 3435587515,
+			"md5": "92f02625505b230c07b127c3526a8eae",
+			"sha1": "ee9a41aaf024f2f7150969bd5fd6247eda7a53dc",
+			"sha256": "89ab4c23487035af4a628d5b7b4380c73b27826ece08fc30c86069f087ed8232"
+		}
+	]
+}

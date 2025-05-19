@@ -1,0 +1,16 @@
+{
+	"uid": "runforit.pk3",
+	"name": "Run For It!",
+	"description": "A gameplay mod, it adds legs and ability to run to a lot of objects that never asked for this.",
+	"date": "2017-05-12 20:44:42",
+	"files": [
+		{
+			"filename": "runforit.pk3",
+			"size": 4419394,
+			"crc": 123153101,
+			"md5": "b1483d7cce7134b58ed7086cef0fd5c3",
+			"sha1": "7d26b39733214a2f545a935844188fb5ddb7faa8",
+			"sha256": "29ad4a6ad7dc1b80de1d09cf042ea2f29aed61dc1bafd6a608e348225eb6fd18"
+		}
+	]
+}

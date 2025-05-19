@@ -1,0 +1,17 @@
+{
+	"uid": "test (c6a095).wad",
+	"name": "Test Level",
+	"description": "a \"refresher\" level to help me get back into the swing of things for doom levels. Figured i'd start small, and work my way up. Enjoy it for the 1 minute you'll be playing it!",
+	"version": "c6a095",
+	"date": "2014-12-14 20:38:16",
+	"files": [
+		{
+			"filename": "test.wad",
+			"size": 967,
+			"crc": 1072392130,
+			"md5": "47f93b361d62377a3ca87f251f8b90cd",
+			"sha1": "c6a095cdef146b9085f0843c93a75a3d36001047",
+			"sha256": "0f547f6908dc7a04d3b28040a1af99b5556789f4fe8e5c950e1380f679854f94"
+		}
+	]
+}

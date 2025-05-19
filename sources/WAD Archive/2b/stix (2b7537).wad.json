@@ -1,0 +1,17 @@
+{
+	"uid": "stix (2b7537).wad",
+	"name": "Stix",
+	"description": "Simple room designs are common in this level, yet it can be a fun and exciting.(oh yea lot's of gore!)",
+	"version": "2b7537",
+	"date": "2013-11-06 22:41:33",
+	"files": [
+		{
+			"filename": "stix.wad",
+			"size": 50344,
+			"crc": 3548966280,
+			"md5": "5a6d4d46fc8f817a09d582d95c369816",
+			"sha1": "2b7537f7d25cba74629aaa47823e0e4afc9a6fbf",
+			"sha256": "5ddbd205682a3135d974005648ffe342e6465c72f1030ca136e07f85e2fa19c1"
+		}
+	]
+}

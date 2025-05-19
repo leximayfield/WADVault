@@ -1,0 +1,16 @@
+{
+	"uid": "theclave (90bad1).wad",
+	"name": "The Clave (for DOOM II)",
+	"version": "90bad1",
+	"date": "2014-12-03 20:04:04",
+	"files": [
+		{
+			"filename": "theclave.wad",
+			"size": 352349,
+			"crc": 3343336584,
+			"md5": "3429d9da54ff0f9f6dd77fc152bf6779",
+			"sha1": "90bad1b32e6ff7691e984a2ba45a6ce4aaf6a0d8",
+			"sha256": "adea2e255a3ae294e2810f1a9d1be93e6956d7ac12d9978b6746c8c53d137d52"
+		}
+	]
+}

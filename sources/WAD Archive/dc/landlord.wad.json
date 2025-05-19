@@ -1,0 +1,16 @@
+{
+	"uid": "landlord.wad",
+	"name": "Land of the lords",
+	"description": "My first wad, but it's NOT just a big pile of shit.",
+	"date": "2014-12-27 12:49:53",
+	"files": [
+		{
+			"filename": "landlord.wad",
+			"size": 3910463,
+			"crc": 352993822,
+			"md5": "40b87966d39379ebdc7bea6ca5f47619",
+			"sha1": "dcaf867d36793903fb2ce0b11acc75b202be3975",
+			"sha256": "76aeb257a260aba56cd00a0cc12767c71524d23a848812643a8850068538115b"
+		}
+	]
+}

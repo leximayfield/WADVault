@@ -1,0 +1,16 @@
+{
+	"uid": "3dplane.wad",
+	"name": "Tutorial: 3D Floor & Planes",
+	"description": "I did this tutorial as an easier version of my 9-Level Spiral map. Like the Music Change, this is just a basic version of one of the many parts of the Doom in Hexen Format. Same as the other 2 - Doom in Hexen Format",
+	"date": "2017-06-27 00:00:09",
+	"files": [
+		{
+			"filename": "3dplane.wad",
+			"size": 7920,
+			"crc": 2276045097,
+			"md5": "e10c7b4be0d8d9b69f2d822bdfbd3a3a",
+			"sha1": "b3aa5f2cb527e1194d082905e37e0ac57ae86ea8",
+			"sha256": "a05d7a270dd5b3a7ebcaf7515ab6cf97434cfdf21d848160be7147cfda11067d"
+		}
+	]
+}

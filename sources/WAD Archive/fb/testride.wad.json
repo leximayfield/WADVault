@@ -1,0 +1,16 @@
+{
+	"uid": "testride.wad",
+	"name": "Testride",
+	"description": "STORY: No story, as story and doom simply do not go well together. DESCRIPTION SHORT: My first three and last three maps. If you dont like the music, turn it off. You know how this works ;). Maps are of moderate difficulty. DESCRIPTION: Well... where do I start. I began mapping for DooM in 2007, after playing it for a decade. My first level (which is level 3 in this wad) ought to be sublime right away, I wanted to make a super large singleplayer map with story, new enemies, and all kind of Zdoom specials. That day the map was called infiltration (the blue keycard room was the first I ever made). Yet, after weeks of learning and horrible slow progress and not really satisfying results, I realized that it would take forever to release something good. Thats when I aborted this project and started the testride maps (level 1&2). I wanted these levels only to be concept maps with no real interest in outstanding architecture whatsoever. Idea behind map 1 is that you see your goal almost right away, but you need to go in opposite directions to retrieve the keys to open the \"castle\", with an alternative route back to the middle. Map 2 is supposed to be a hasty level with focus on evade incoming attacks and hitting the switches before you get overwhelmed rather than killing every monster in sight. But as I made these two levels I felt that even these two took too long, so eventually I lost interest in mapping. But every few months I discovered the wads on my hard drive and worked a bit further... aborted again... found it and worked on it again. Until 2 weeks in the past. I thought, that it would be a shame that after all these endless hours of learning and mapping, no one got to play my map. Seemed like dead and wasted hours to me. With that thought in mind I began not to enhance the levels to the quality I initially wanted, but just to make them playable. I just finished them, without adding something or put extreme effort in something new. I do not say they are extraordinary, they're decent at best. But maybe you have fun while playing them. If you read all this: Thank you for your attention! :) And btw, if you're wondering: The Miditracks are: Tool - Intolerance, Iron Maiden - Aces High and Iron Maiden - To tame a land. The Start-up is a reason3 track I made myself cause I was bored ;) Rock on! \\m/",
+	"date": "2014-12-29 16:19:05",
+	"files": [
+		{
+			"filename": "testride.wad",
+			"size": 3466556,
+			"crc": 609615130,
+			"md5": "99cc05c158ec6f0e246244a9d216f300",
+			"sha1": "fb2d7e269dd84d60c52ed44db74df6ba66bbe751",
+			"sha256": "6d3ecd368c71fa27e8d721419b060c2b93938ff0ad076da6b2016006f110fe48"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "visigoth (2cf29d).wad",
+	"name": "Lair of the Visigoths",
+	"description": "",
+	"version": "2cf29d",
+	"date": "2015-01-14 23:04:37",
+	"files": [
+		{
+			"filename": "visigoth.wad",
+			"size": 216306,
+			"crc": 615916040,
+			"md5": "2baff1214806dcfa07404b21838e4cca",
+			"sha1": "2cf29dcb8005662074ad607a380313ff11dc2637",
+			"sha256": "be816742772b3618cafa96f19646c81bd1fdcb840a8309c5a3c81c794ff98ef8"
+		}
+	]
+}

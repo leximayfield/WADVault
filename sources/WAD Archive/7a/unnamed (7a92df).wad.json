@@ -1,0 +1,17 @@
+{
+	"uid": "unnamed (7a92df).wad",
+	"name": "The unnamed base",
+	"description": "Some generic base themed level that was meant for a project which I assumed never saw the light of day so I am releasing it as a standalone map. File was further tweaked and fixed some texture alignments and a tag error in Doom Builder. Originally for MAP10 but changed it to MAP01.",
+	"version": "7a92df",
+	"date": "2014-12-29 15:24:38",
+	"files": [
+		{
+			"filename": "unnamed.wad",
+			"size": 381216,
+			"crc": 2894578634,
+			"md5": "e85f73bec1aca6d8f1e5fdeedda5d132",
+			"sha1": "7a92dfd2d174e5e73afcce8e1ac16fe919041835",
+			"sha256": "fa1a0d37b2b09ec28bb5bd8c8ae2b61e300f433c83453936a09c5761102b268a"
+		}
+	]
+}

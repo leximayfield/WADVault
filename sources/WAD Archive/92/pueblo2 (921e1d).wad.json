@@ -1,0 +1,17 @@
+{
+	"uid": "pueblo2 (921e1d).wad",
+	"name": "PUEBLO2.WAD",
+	"description": "This is a Doom2 port of Tom Neff's great Doom1 deathmatch level Pueblo. I tried to keep the flavor of the original. All the custom textures used in Pueblo2 were created by Tom for the orginal Pueblo level. The general layout of the level is also Tom's from the original. The changes I made were to increase the flow during gameplay, and to add some sounds. The changes include: - Adding creaking door sound. - Added music (Nine Inch Nails) - Added new weapon sounds for chaingun and rocket launcher. - Added Arnold's T2 commentary during some events. - Widened all areas so that it wasn't so constrictive except the outside area which I cut down by a third. - Added teleporters so that game flow would increase, and to eliminate players from \"Holeing up\" in the back room. - Eliminated one hallway and set of doors, again to increase the speed of the game. - Fixed a minor bug which allowed rockets and plasma to be swallowed up by the outside wall in the courtyard area.",
+	"version": "921e1d",
+	"date": "2014-01-07 22:00:17",
+	"files": [
+		{
+			"filename": "pueblo2.wad",
+			"size": 385883,
+			"crc": 937536637,
+			"md5": "393b806b2bc34abc0c556dc506427342",
+			"sha1": "921e1dd0fac53097aa6177b74c0ff2a79b2ff357",
+			"sha256": "47c0d807bd10296d991af5584f04a27bba25155a7fe4c21bd664759c3f6e521b"
+		}
+	]
+}

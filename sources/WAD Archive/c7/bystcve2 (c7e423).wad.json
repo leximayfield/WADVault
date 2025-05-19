@@ -1,0 +1,17 @@
+{
+	"uid": "bystcve2 (c7e423).wad",
+	"name": "Beast's Cave 2",
+	"description": "Three tunnels connected to each other.",
+	"version": "c7e423",
+	"date": "2014-01-07 22:10:42",
+	"files": [
+		{
+			"filename": "bystcve2.wad",
+			"size": 61244,
+			"crc": 2811857379,
+			"md5": "bb05afe5c9d8b8874564afc88b12bd4a",
+			"sha1": "c7e4234a7a6749cea6e57964ac68c6d603e7e2eb",
+			"sha256": "7c30f9e00651c9f6bee63f89a9c622ea5a4eb1063040ba7d665545d0db2479b6"
+		}
+	]
+}

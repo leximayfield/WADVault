@@ -1,0 +1,17 @@
+{
+	"uid": "halls (246219).wad",
+	"name": "The Halls of Death",
+	"description": "A very straight-forward level - just follow the halls, kill everything and exit. There is a Cyber-Demon guarding the blue key card near the end. There is a very easy way to kill him. To find out look at my .LMP file included with the level. There are quite a few traps around so look out.",
+	"version": "246219",
+	"date": "2014-12-18 22:53:22",
+	"files": [
+		{
+			"filename": "halls.wad",
+			"size": 41848,
+			"crc": 2702658825,
+			"md5": "1b2f22a2319cbd95f6db85c5b4ceeac0",
+			"sha1": "246219ecbb30dfabcf6634ae3474ea8ea3c34455",
+			"sha256": "f5ad6ba2203c6f9b4d6c027d29c713776e38951ea0edf5195e9af94a1c109984"
+		}
+	]
+}

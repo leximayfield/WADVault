@@ -1,0 +1,15 @@
+{
+	"uid": "j_room_0.wad",
+	"description": "This is a large dark room with many weird structures, a raiseable ledge surrounding the room, and an outside part. This was originally created using DEU and was made for DOOM I, but I converted it to DOOM II format and included it in this pack.",
+	"date": "2013-11-02 16:07:34",
+	"files": [
+		{
+			"filename": "j_room_0.wad",
+			"size": 91498,
+			"crc": 1740625598,
+			"md5": "6ed3256561e4f9c8da216dfbef7adcca",
+			"sha1": "47546b035c69b1d46244fb11e13818f78be64bcb",
+			"sha256": "c12a49c27e142b4dc2339eddb66d8694685f15963b466dcd2d7fc5c99499c020"
+		}
+	]
+}

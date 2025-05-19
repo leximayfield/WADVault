@@ -1,0 +1,16 @@
+{
+	"uid": "TELEFRAG (ef95d1).wad",
+	"name": "COLO_DM2.wad, a DeathMatch wad for DOOM2",
+	"version": "ef95d1",
+	"date": "2013-11-06 22:30:30",
+	"files": [
+		{
+			"filename": "TELEFRAG.wad",
+			"size": 54435,
+			"crc": 1084000635,
+			"md5": "7c2d209374af5677cd93419f6670bf71",
+			"sha1": "ef95d1b68f3e792c77ee17f57a3013367de06530",
+			"sha256": "a9e7ee6ddbfcd79acf50d6ff9b12f68dc6b86f04f8866d01d37db1b3246a155a"
+		}
+	]
+}

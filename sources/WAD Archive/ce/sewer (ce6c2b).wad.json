@@ -1,0 +1,17 @@
+{
+	"uid": "sewer (ce6c2b).wad",
+	"name": "Sewer.wad",
+	"description": "The object of this level is to get out of the sewers and",
+	"version": "ce6c2b",
+	"date": "2013-11-03 17:47:27",
+	"files": [
+		{
+			"filename": "sewer.wad",
+			"size": 22101,
+			"crc": 1085842977,
+			"md5": "31b08a7c70c05579097fa84f354e718c",
+			"sha1": "ce6c2b762197cd0392139349fcac94d3a9f9a099",
+			"sha256": "9ae0db4ecab9e7f73776fda697f4561d4a1e966d2187f92d0dc2fcae3f0ab94b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sewer (42a7a2).wad",
+	"name": "Sewer",
+	"description": "A single Doom 2 level, for single player mode.",
+	"version": "42a7a2",
+	"date": "2015-01-14 22:50:38",
+	"files": [
+		{
+			"filename": "sewer.wad",
+			"size": 69378,
+			"crc": 765729893,
+			"md5": "0e619b63582a61db91819d0743f8359e",
+			"sha1": "42a7a2fc5e7367d4fe088b10a0582106e65ef292",
+			"sha256": "5076d704f70785c01895b8848d2e471d39fb849c64364ee29eec4f70a2eb2b82"
+		}
+	]
+}

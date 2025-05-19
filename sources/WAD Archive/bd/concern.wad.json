@@ -1,0 +1,16 @@
+{
+	"uid": "concern.wad",
+	"name": "ConC.E.R.Ned",
+	"description": "3 episode wad for ultimate doom with the usual tech/hell tech/hell setup with a few exceptions from time to time. This is an expansion from my cbspeed.wad I realeased last August, so the first episode is an updated version of cbspeed with hopefully improved gameplay and layout flow. Episodes 2 and 3 were solely built from scratch. The wad is designed to hopefully give a varied and at times challenging gameplay experience.",
+	"date": "2013-07-31 21:24:19",
+	"files": [
+		{
+			"filename": "concern.wad",
+			"size": 11435323,
+			"crc": 1389984606,
+			"md5": "3a85d9fea471adec806b9b3248ddec39",
+			"sha1": "bdc6d9c24e5feb0a2bbf9c4a54393d69c73391df",
+			"sha256": "c33dc97654b8adac1e47f4f4c83fdba75a766617c1d6d9829d1563b77ba8baa5"
+		}
+	]
+}

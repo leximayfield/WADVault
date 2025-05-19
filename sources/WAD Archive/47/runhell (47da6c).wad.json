@@ -1,0 +1,17 @@
+{
+	"uid": "runhell (47da6c).wad",
+	"name": "RUN LIKE HELL",
+	"description": "Arena type wad. Made for four player deathmatch. Hidden spots and sniper holes. Mazes and open areas it has a bit of it all.",
+	"version": "47da6c",
+	"date": "2016-02-07 20:39:15",
+	"files": [
+		{
+			"filename": "runhell.wad",
+			"size": 48273,
+			"crc": 633969340,
+			"md5": "1aab9067acf9736378aa1c27c51e82f3",
+			"sha1": "47da6cedbf60f06f18997e4321f7cbcbbf5ed8af",
+			"sha256": "fbd6c4b1e5393f557402eb72468aa1d6a3051b81fbc0d357aadfaaec91c908cb"
+		}
+	]
+}

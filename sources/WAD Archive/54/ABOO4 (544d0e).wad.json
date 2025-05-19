@@ -1,0 +1,17 @@
+{
+	"uid": "ABOO4 (544d0e).wad",
+	"name": "Aboo4",
+	"description": "Four unrelated maps by Bob Reganess, with some new graphics, sounds and music.",
+	"version": "544d0e",
+	"date": "2014-12-15 21:22:29",
+	"files": [
+		{
+			"filename": "ABOO4.wad",
+			"size": 1211951,
+			"crc": 3942593999,
+			"md5": "eaa53d41f9485fd5d66c71d876790f6e",
+			"sha1": "544d0ea460aa17b1d6ea0449c6b732afdf1d0fc9",
+			"sha256": "09f09e2905b08609b5769ef68f199771b398f6b32531f897a369e13ca31e7be3"
+		}
+	]
+}

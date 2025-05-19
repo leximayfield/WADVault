@@ -1,0 +1,16 @@
+{
+	"uid": "gndzero.wad",
+	"name": "Ground Zero",
+	"description": "Challenging single-player level with several tricks and traps.",
+	"date": "2014-12-18 22:38:22",
+	"files": [
+		{
+			"filename": "gndzero.wad",
+			"size": 87900,
+			"crc": 873882745,
+			"md5": "e966a9ea1e0ecec733e7ec254c1d6d0d",
+			"sha1": "efcb73805fcbb79ef2c29ac693bb46299a5f01b8",
+			"sha256": "7dfe53c1b613f3e91dc3d54254721f058aee4a59a2109bb58f1418d3f0e8b937"
+		}
+	]
+}

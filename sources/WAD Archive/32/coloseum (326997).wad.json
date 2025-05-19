@@ -1,0 +1,17 @@
+{
+	"uid": "coloseum (326997).wad",
+	"name": "COLOSEUM.WAD",
+	"description": "This has been designed with deathmatch in",
+	"version": "326997",
+	"date": "2015-12-07 12:14:48",
+	"files": [
+		{
+			"filename": "coloseum.wad",
+			"size": 49347,
+			"crc": 2751673980,
+			"md5": "96f4ab20ffee5b017c245668148fb4ae",
+			"sha1": "32699755be74e499b3ce8bf10091014cae86c8bb",
+			"sha256": "6ec2bd7cb026606f41a97d540195fa51b3f2e140b65ea732acbfdb0be66f893a"
+		}
+	]
+}

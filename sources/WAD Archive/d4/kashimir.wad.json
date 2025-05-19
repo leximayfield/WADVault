@@ -1,0 +1,16 @@
+{
+	"uid": "kashimir.wad",
+	"name": "Kashimir",
+	"description": "Very short map inspired by NUTS. No, don't worry, there is only 45 monsters.",
+	"date": "2014-12-27 12:16:36",
+	"files": [
+		{
+			"filename": "kashimir.wad",
+			"size": 160867,
+			"crc": 3125586675,
+			"md5": "b15d349d70a549c1b0f80169d111044b",
+			"sha1": "d47c80f71f2682cd2cf21c58f1ba2c9ddeac3a91",
+			"sha256": "b951d41abccc4cf2c3111d079e837593d56ec95f72d725fb315cc325e39751fa"
+		}
+	]
+}

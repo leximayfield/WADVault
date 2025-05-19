@@ -1,0 +1,16 @@
+{
+	"uid": "jaxxpack.wad",
+	"name": "Jaxxoon R's Dark Ambient Pack",
+	"description": "A collection of 17 dark ambient songs I made myself, collected together for authors of horror mods to use as an alternative to the same old rips of Hodges tracks, but can also be used for general play. Uses $musicalias to set the songs to the appropriate Doom 2, and is compatible with the PSX TC as well.",
+	"date": "2015-09-14 21:02:49",
+	"files": [
+		{
+			"filename": "jaxxpack.wad",
+			"size": 18365471,
+			"crc": 2037708243,
+			"md5": "ae55f3b8b094d97216f1bd34aea0ebbc",
+			"sha1": "4d21e4f521aa5679e0ecc802822c0e5c937d2381",
+			"sha256": "44bde41fa8b8f661f4f06237a9cad4a9c7446c9ff6b1985e9172973311b6168e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "mines (101093).wad",
+	"name": "MINES.WAD",
+	"description": "Go down the mine tunnels. Kill the bastards. Destroy the biggest one by shooting its FRAGGING BRAIN INTO FRAGGING PIECES!",
+	"version": "101093",
+	"date": "2015-09-15 19:24:49",
+	"files": [
+		{
+			"filename": "mines.wad",
+			"size": 243589,
+			"crc": 3614854810,
+			"md5": "a9d4df79f27c0a72bc0a9607e7996d7b",
+			"sha1": "10109360ff13da4e51f44f4f41be59bdb9ceb6a0",
+			"sha256": "c1daf1705b7226b71de7ea6d8e93afb687707b496c7f3f43d91c9446e1175263"
+		}
+	]
+}

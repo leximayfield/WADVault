@@ -1,0 +1,17 @@
+{
+	"uid": "kk-stair (7f54f3).wad",
+	"name": "Stairway To Hell",
+	"description": "Well, this WAD is all about bases. There are four segments, each with a different colour. The idea is to 'claim' a staircase of a certain colour and then defend it. At the top of each staircase is a teleport to a segment of the centrepiece, which has the three best weapons on it but no ammo. That's not good enough to kill other people with so you have to take over other people's stairs whilst protecting the ones you own from intruders (So they can't get to your own teleport and hence the weapons ;) and if you end up 'owning' all four stairs you're doing pretty well. Although I can guarantee you won't be able to keep it up for long (Esp. in 4 plyr!!!). Enjoy yourselves and don't forget to come home for tea at 6.",
+	"version": "7f54f3",
+	"date": "2014-10-14 20:54:12",
+	"files": [
+		{
+			"filename": "kk-stair.wad",
+			"size": 144458,
+			"crc": 4058398041,
+			"md5": "b4779b2a880642a98c9d02ac9033a0db",
+			"sha1": "7f54f3dd0584139f751ca3f2d24a88bb9660bc49",
+			"sha256": "11e0f523f45f578c94643c9adb4ad551c7c6c4d5e42a4647e8822ca69de6f902"
+		}
+	]
+}

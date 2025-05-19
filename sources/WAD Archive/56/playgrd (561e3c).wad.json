@@ -1,0 +1,17 @@
+{
+	"uid": "playgrd (561e3c).wad",
+	"name": "Playgrd.zip",
+	"description": "This is the largest, most complicated, and best looking wad I have built. I put a lot of work into it and it shows. It is a giant arena/battle ground devided into five smaller walled in encloseurs. Each area has bunkers, platforms and walls from which you can conduct firefights. There are an abundance of teleporters to enable you to escape quickly. There are many buttons which enable you to modify the combat arena. There is also several secret doors and rooms which may or may not need to be discovered to complete the level. This wad was designed for deathmatch, but might be to large to play deathmatch on some computers. I tried it on my 486dx33 and it rocked! It can be played in co-op and provides quite a challange in single player as well.",
+	"version": "561e3c",
+	"date": "2014-01-07 21:48:48",
+	"files": [
+		{
+			"filename": "playgrd.wad",
+			"size": 74166,
+			"crc": 1574839366,
+			"md5": "c055aa9f7f25b51f683acec043a6767f",
+			"sha1": "561e3c373346b2100656b4d61fba5e17cffb9d1f",
+			"sha256": "346262c56c9dc4db08bbe9365bd73fcfbba06e955d6524cf24e7639c16c31c96"
+		}
+	]
+}

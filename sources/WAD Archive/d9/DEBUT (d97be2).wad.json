@@ -1,0 +1,17 @@
+{
+	"uid": "DEBUT (d97be2).wad",
+	"name": "DEBUT",
+	"description": "This is a full episode replacing \"Knee Deep in the Dead\". Great fun with no need for cheat codes, though not the easiest (no cyberdemons, or spiders) it is nowhere near impossible. Alot of time was spent on lighting, and \"fancy\" architechure, wall and floor texures follow different themes, it's not just random textures thrown everywhere. There's a new sky texture, a new railing texture, and a few wall textures that I brought in from DOOM II. The new sky is a 1024 x 128 wrap around texture that is capable repeating vertically without any unsightly lines. Actually it is only two 256 x 64 patches, which were then flipped and rotated, and pasted into four 256 x 128 patches which were then assembled with Wintex (An incredible tool BTW).",
+	"version": "d97be2",
+	"date": "2014-12-14 20:50:22",
+	"files": [
+		{
+			"filename": "DEBUT.wad",
+			"size": 2027860,
+			"crc": 1724073976,
+			"md5": "2c965f1f8d42bdb67ff5fd19bf3a5962",
+			"sha1": "d97be25b061c6304267b42637632bbbb5fb7ff98",
+			"sha256": "6fdd8536df677997f8d3780279901ef9d23bb6a935f3cd1160be2662c98ba248"
+		}
+	]
+}

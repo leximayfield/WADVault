@@ -1,0 +1,16 @@
+{
+	"uid": "impskin.wad",
+	"name": "Imp Skin",
+	"description": "Ever wanted to play as an imp in multiplayer? Now you can! This wad features an imp holding a sub-machinegun, the imp is also green to be compatible with team games and can also be recoloured to many different colours",
+	"date": "2014-12-11 22:08:25",
+	"files": [
+		{
+			"filename": "impskin.wad",
+			"size": 82453,
+			"crc": 2706208608,
+			"md5": "37060e217ff2b6e6ad5748c30eea1b59",
+			"sha1": "9df33cdc262495db5b5c18419fed63c8feadfeca",
+			"sha256": "703cfd1d6a4b5d264bf0c8f91050ced758d7e1bacf6d5cdb307dbc25dbb6b030"
+		}
+	]
+}

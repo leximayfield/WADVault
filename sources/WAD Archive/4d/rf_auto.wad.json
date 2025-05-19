@@ -1,0 +1,16 @@
+{
+	"uid": "rf_auto.wad",
+	"name": "Automation",
+	"description": "run-of-the-mill weapons mod, making all of the sprites in 3d first.",
+	"date": "2014-12-11 22:15:47",
+	"files": [
+		{
+			"filename": "rf_auto.wad",
+			"size": 2707131,
+			"crc": 1461356474,
+			"md5": "d975d240341943f3cf6cebd6dd28f9df",
+			"sha1": "4d6c7b50a622141d9fe28bb17eaa5c148f84ece7",
+			"sha256": "5bda024a8f4fdde580e57537c76895ab421f83330377ec5b8ff360a2b6aec631"
+		}
+	]
+}

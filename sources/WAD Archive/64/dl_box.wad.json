@@ -1,0 +1,16 @@
+{
+	"uid": "dl_box.wad",
+	"name": "BOX",
+	"description": "A square-shaped surviving level. Looks simple but can you manage to the exit room alive?",
+	"date": "2014-12-14 20:48:48",
+	"files": [
+		{
+			"filename": "dl_box.wad",
+			"size": 45103,
+			"crc": 810855185,
+			"md5": "5e8b6acfa9005315ff91d7c9bba4ce56",
+			"sha1": "644e8a54e2f28589ecf55d764c39a9422307f982",
+			"sha256": "378c57d7029316d7d9fc834d22a2aa25e9774f26d7873c216522af9bb8b7740c"
+		}
+	]
+}

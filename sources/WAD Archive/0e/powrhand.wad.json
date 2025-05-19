@@ -1,0 +1,16 @@
+{
+	"uid": "powrhand.wad",
+	"name": "Power Hand Imps",
+	"description": "This is a wad which changes the imp in doom",
+	"date": "2015-09-15 17:20:25",
+	"files": [
+		{
+			"filename": "powrhand.wad",
+			"size": 87055,
+			"crc": 2447276073,
+			"md5": "f9d67c3fd54ecf1406c34d02e674adcb",
+			"sha1": "0e9011fe9d2679350c05bf951abbe25a6a7b6081",
+			"sha256": "42d16d68117e3c4fc01451eefbc3706e7c3e8ad99f87059fd928ae95973577ac"
+		}
+	]
+}

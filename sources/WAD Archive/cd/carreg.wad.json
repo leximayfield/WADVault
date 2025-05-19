@@ -1,0 +1,16 @@
+{
+	"uid": "carreg.wad",
+	"name": "Carreg Cennan Castle",
+	"description": "This is my very first level and all in all it didn't turn out too bad. The inspiration for this level came from the ruins of Carreg Cennan Castle near Llandeilo in Wales. I've tried to keep to the medieval method of defence, ie. lots of cross firing, narrow windows and plenty of cover for the defenders. I have been told that there isn't enough health and/or ammunition but hey, no-one's perfect. There are secrets to be found, they're not obvious, but the rewards are worth it. Enjoy!",
+	"date": "2013-11-06 22:30:04",
+	"files": [
+		{
+			"filename": "carreg.wad",
+			"size": 169455,
+			"crc": 2593303532,
+			"md5": "0e546d6af41ede7e2abc97c9d0021016",
+			"sha1": "cd74e4a29845e6f86677b804ecd323bec7527a53",
+			"sha256": "9adda3f456952d19214a8cfb031b59eb8639e661d765750d2c4e442172d31649"
+		}
+	]
+}

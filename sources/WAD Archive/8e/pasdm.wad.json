@@ -1,0 +1,16 @@
+{
+	"uid": "pasdm.wad",
+	"name": "Plain and Simple DeathMatch",
+	"description": "A medium sized deathmatch level - nothing tricky, just good, solid DM. Lots of weapons (NO bfg!) with plenty of ammo, armor, and health.",
+	"date": "2014-12-15 22:46:32",
+	"files": [
+		{
+			"filename": "pasdm.wad",
+			"size": 70488,
+			"crc": 163178718,
+			"md5": "fb4a0cdca2de88eebbabae317e7055b0",
+			"sha1": "8edeea6d39b2eaf7919113a35349f66d354551be",
+			"sha256": "705ac487b5cbfb04d01e9eb3bf6542ea32693e4c03802369b2d6c834f1a12ea9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "town (f62dbe).wad",
+	"name": "TOWN1",
+	"description": "My first wad that is based off of a town I went to once. It includes a warehouse and theater. Enjoy!",
+	"version": "f62dbe",
+	"date": "2015-01-14 22:58:44",
+	"files": [
+		{
+			"filename": "town.wad",
+			"size": 54395,
+			"crc": 3682267467,
+			"md5": "83806a08ee776e948a80150f9ce39ee7",
+			"sha1": "f62dbee05de6ba8c6515a9d7473d50b85b26f3ff",
+			"sha256": "f9a22dea6765e749565d63d2d0458040cf1dcf04714bd83e374d38396b46d160"
+		}
+	]
+}

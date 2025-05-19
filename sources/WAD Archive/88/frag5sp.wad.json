@@ -1,0 +1,16 @@
+{
+	"uid": "frag5sp.wad",
+	"name": "FRAG5SP",
+	"description": "One single player level for DOOM 2. A whole level can be created only with 3 textures. It has been a real challenge for me.",
+	"date": "2014-12-18 23:14:46",
+	"files": [
+		{
+			"filename": "frag5sp.wad",
+			"size": 348614,
+			"crc": 1165489337,
+			"md5": "ec4474ee3269c1580e26fee2182e47f7",
+			"sha1": "88e993f00fff9a1a7b51cb8f8ca5e316514bc71c",
+			"sha256": "ee0b257108c0b59ef058e598599d3d504d0251ff0f62817f221e9ae29a714d54"
+		}
+	]
+}

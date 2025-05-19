@@ -1,0 +1,17 @@
+{
+	"uid": "guts01 (84a6a6).wad",
+	"name": "Circle of Guts #1",
+	"description": "This is a winding circular PWAD made just for Deathmatch 2.0 play. Tested with 2 players, there are plenty of dark areas and windows and the black player should have fun with these. :) There is a \"locator\" arrow in the center that drops when the players enter certain areas. Just enough monsters to make nonstop action with -respawn. Try Nightmare level and the imps will surely kick your butt a couple times. There is NO Arch-Vile in here. AVs become annoying when players get toasted every minute. Try to cage your opponents or surprise them on the plasma gun column. Be careful near the respawning well!",
+	"version": "84a6a6",
+	"date": "2016-02-07 20:37:52",
+	"files": [
+		{
+			"filename": "guts01.wad",
+			"size": 165140,
+			"crc": 2592043038,
+			"md5": "b696045b92feabc1329d93c925418c64",
+			"sha1": "84a6a6c8426b06f0cd82fde807d3ab56fe135fb1",
+			"sha256": "046d26b5ba8331a2079d630220d5822f309d5d3e95af26fae0bfdc49a48a59d3"
+		}
+	]
+}

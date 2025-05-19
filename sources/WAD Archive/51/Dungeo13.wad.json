@@ -1,0 +1,16 @@
+{
+	"uid": "Dungeo13.wad",
+	"name": "Dungeon 13",
+	"description": "You are a military personnel sent to investigate a mysterious death of a worker inside a Siberian outpost and then monsters invade.",
+	"date": "2014-12-24 18:46:45",
+	"files": [
+		{
+			"filename": "Dungeo13.wad",
+			"size": 61977126,
+			"crc": 407623358,
+			"md5": "8d44369bde6e406754231c81b6097cf4",
+			"sha1": "51338aa7e5c70bfad377f70c1847e19dd5adbee7",
+			"sha256": "dbd64ac08a90f54db2bdcf0faf07c240b1e80ce56a28f031a957a77e62419b9c"
+		}
+	]
+}

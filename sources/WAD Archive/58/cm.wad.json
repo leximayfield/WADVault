@@ -1,0 +1,16 @@
+{
+	"uid": "cm.wad",
+	"name": "CyberMatch",
+	"description": "DeathMatch level, players appear as Cyberdemons; just start CM.BAT and begin a network/modem/serial game without changing the Map Warp and Misc Settings or adding other WADs. After you finish playing run DELCM.BAT to erase the level.",
+	"date": "2014-12-15 22:59:17",
+	"files": [
+		{
+			"filename": "cm.wad",
+			"size": 229304,
+			"crc": 1703131723,
+			"md5": "1575ba29c125b2ddd8dc32e5e2f9b496",
+			"sha1": "58e95ebc19113ba4cceb7299306c74487eb1579b",
+			"sha256": "0e050b653abecc0f053fa0969773151f04f3153f93ff57cf18b953239c10908c"
+		}
+	]
+}

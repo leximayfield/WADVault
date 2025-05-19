@@ -1,0 +1,17 @@
+{
+	"uid": "nghtmr1 (b68a4e).wad",
+	"name": "DOOMED AND CONFUSED (NGHTMR1.ZIP)",
+	"description": "This is our FIRST level. It should suit even the most DOOMish of players.",
+	"version": "b68a4e",
+	"date": "2013-11-02 15:10:14",
+	"files": [
+		{
+			"filename": "nghtmr1.wad",
+			"size": 104228,
+			"crc": 1935947582,
+			"md5": "19d8b4090da868d89126a5ca80015e0c",
+			"sha1": "b68a4e709a2307c39a474fb2a28d3cee037f6895",
+			"sha256": "4f0b045ffd3d9a95d96972d212ddfdd0dd0cbbdc07e05ba0028a98448c78d862"
+		}
+	]
+}

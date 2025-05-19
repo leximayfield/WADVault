@@ -1,0 +1,16 @@
+{
+	"uid": "timelord.wad",
+	"name": "Time Lord",
+	"description": "A brief journey through time.",
+	"date": "2019-03-06 21:30:16",
+	"files": [
+		{
+			"filename": "timelord.wad",
+			"size": 753647,
+			"crc": 3533588462,
+			"md5": "f1126cacd6b5d9069997a969005ccdb1",
+			"sha1": "1e28deddb2ef45c7a19a1a4ac47e454e70a302f5",
+			"sha256": "e1e743588c53fb9683cee29db2b89a4f778bbc9a5632be63ec1c17fb8d29c1ed"
+		}
+	]
+}

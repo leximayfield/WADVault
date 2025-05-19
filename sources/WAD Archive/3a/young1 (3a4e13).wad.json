@@ -1,0 +1,17 @@
+{
+	"uid": "young1 (3a4e13).wad",
+	"name": "YOUNG1.WAD ver 1.0",
+	"description": "This is my first WAD and I think it captures the spirit of the original DOOM levels - with a few new tricks of my own! Hardened DOOMers shouldn't have many problems getting off the level - but my challenge to you is to collect all of the weapons - they're all available, from the chainsaw to the BFG - but they're not all easy to collect...",
+	"version": "3a4e13",
+	"date": "2013-11-02 15:17:30",
+	"files": [
+		{
+			"filename": "young1.wad",
+			"size": 130953,
+			"crc": 2345500920,
+			"md5": "76a1d545760483e0902c149cddf93b6f",
+			"sha1": "3a4e13b044c3fcb8b39008abcd13a3d7fff83e19",
+			"sha256": "0278f3d52e06231c4f4ee3b068518643cc6e4de401e976bbd0e2f833f8c077f2"
+		}
+	]
+}

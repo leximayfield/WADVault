@@ -1,0 +1,16 @@
+{
+	"uid": "DTOWER1.wad",
+	"name": "DEATH TOWER",
+	"description": "This is my first level larger than three rooms! So please send me a mail describing what should be different or so. Also report all the bugs you find ! I'll create further Death-Tower levels soon.",
+	"date": "2014-10-20 19:57:18",
+	"files": [
+		{
+			"filename": "DTOWER1.wad",
+			"size": 35528,
+			"crc": 3848063628,
+			"md5": "2c41195ca016f8d0237716641f080ed3",
+			"sha1": "543a40fa756f703757b687c9b9321a27dee1d5e9",
+			"sha256": "3fa6af680b2801ed97bc998b9b8da74c389469a20008ceca90a29c2d3a6366a4"
+		}
+	]
+}

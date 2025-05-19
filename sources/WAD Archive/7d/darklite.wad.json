@@ -1,0 +1,16 @@
+{
+	"uid": "darklite.wad",
+	"name": "The Darkness and the Light",
+	"description": "This is one of the first maps I created, but is still one worth playing. There are large outside areas, dark inside torture chambers, and a few nasty traps.",
+	"date": "2014-12-13 12:43:10",
+	"files": [
+		{
+			"filename": "darklite.wad",
+			"size": 114885,
+			"crc": 548295217,
+			"md5": "f944f7ed4384ad89676e62a328174199",
+			"sha1": "7da02b07844000a79b8831f4c0bbf97de0a98ffb",
+			"sha256": "3b333624b7c51e22d746087d8cb830d44b787ab150afa49be5e95ab3b9f5e84d"
+		}
+	]
+}

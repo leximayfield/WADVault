@@ -1,0 +1,16 @@
+{
+	"uid": "capflag.wad",
+	"name": "Capture the Flag",
+	"description": "A level designed specifically for emulating a game of capture the flag.",
+	"date": "2013-11-04 19:23:44",
+	"files": [
+		{
+			"filename": "capflag.wad",
+			"size": 238440,
+			"crc": 2971296197,
+			"md5": "48e63bfcee98059edf1bb2931abae26e",
+			"sha1": "dea15fd4fe4aa91c7ec3b10ccf6684d014197202",
+			"sha256": "39b732f43b3ff5407f285e74428d8b09fa68202ddd4bd1604418f47896370e92"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "space2 (2574ee).wad",
+	"name": "SPACE.WAD",
+	"description": "Kill and have fun! And avoid to be killed. That's no fun. :)",
+	"version": "2574ee",
+	"date": "2013-11-02 15:06:23",
+	"files": [
+		{
+			"filename": "space2.wad",
+			"size": 43283,
+			"crc": 1883414202,
+			"md5": "e9e89a38772a07b83910776254205112",
+			"sha1": "2574ee349f53a504be946ebc3541674f1b995627",
+			"sha256": "83e6a1dba1f48c98db9a12198fab5bf8b799a9ab0b3578d660ad50f0c3280da7"
+		}
+	]
+}

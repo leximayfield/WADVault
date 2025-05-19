@@ -1,0 +1,16 @@
+{
+	"uid": "operober.wad",
+	"name": "Operation Oberon",
+	"description": "You have been sent to a lost enemy base on Uranus' moon Oberon, your goal is to clean it up and get the hell outta there before the Cambodians take over the base.",
+	"date": "2015-09-15 18:08:58",
+	"files": [
+		{
+			"filename": "operober.wad",
+			"size": 163052,
+			"crc": 1380506483,
+			"md5": "1455f8a4ff6a762b79c5f9cde683fc35",
+			"sha1": "0d852e0c099e1f2d0d5ea379bb5fa2268ed2b29c",
+			"sha256": "bdb2fd1f5148d363a26f0d94db791e816de285876b90116f08341bb2b7086729"
+		}
+	]
+}

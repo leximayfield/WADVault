@@ -1,0 +1,16 @@
+{
+	"uid": "tmsf2.wad",
+	"name": "Time Shift 2: Garden of dead-Light",
+	"description": "The second map in the Time Shift DM series. This uses the regiestered HacX TC for Doom 2.",
+	"date": "2014-12-30 11:20:51",
+	"files": [
+		{
+			"filename": "tmsf2.wad",
+			"size": 108441,
+			"crc": 2871351703,
+			"md5": "e85896fc0454b02c84fd53572ce161e1",
+			"sha1": "904d2672383f8ec9b97ddefbfac6607eed19b2d2",
+			"sha256": "8baf3461197c90aa33521c3a8d6a6339be9350266d71935ab3ca4cf97e28200d"
+		}
+	]
+}

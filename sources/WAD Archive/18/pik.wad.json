@@ -1,0 +1,16 @@
+{
+	"uid": "pik.wad",
+	"name": "PIK (Please, it kills!)",
+	"description": "A very weak version of what is yet to come; also its ment for classic gameplay, no ports needed",
+	"date": "2015-01-14 14:46:57",
+	"files": [
+		{
+			"filename": "pik.wad",
+			"size": 337300,
+			"crc": 3548675853,
+			"md5": "84534525c4ef6f09e834ff033addf479",
+			"sha1": "18a64c1d18cda94bdcfa1c4215bc4b5cd58e2fd4",
+			"sha256": "b5b6c51c0dcc3aa063de674d0e1fb90c1b0a994dfed95fb048e9eebb31fbd8bd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nh2.wad",
+	"name": "NH2",
+	"description": "Previously unreleased tiny sequel to NH1.",
+	"date": "2015-12-29 13:28:21",
+	"files": [
+		{
+			"filename": "nh2.wad",
+			"size": 45526,
+			"crc": 2760316673,
+			"md5": "4d60d284ddc9dfe78d20c8e26b3a377a",
+			"sha1": "e56e57a647e4a1ec833f17a0991843d7de76733d",
+			"sha256": "b37c83fbb3f3062e60b3e57bde30a937cf4fab83f29b54b37375fbf22bb2959b"
+		}
+	]
+}

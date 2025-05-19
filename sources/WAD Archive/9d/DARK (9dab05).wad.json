@@ -1,0 +1,17 @@
+{
+	"uid": "DARK (9dab05).wad",
+	"name": "Dark Realm",
+	"description": "You are in a dark creepy old building. You flip a switch and the : walls fall down from around you. With a pistol and your fists you : must fight your way out of this mess.",
+	"version": "9dab05",
+	"date": "2014-12-18 23:08:21",
+	"files": [
+		{
+			"filename": "DARK.wad",
+			"size": 56820,
+			"crc": 665924389,
+			"md5": "73f00ee6dff9e8dd96a9d564a3ac989f",
+			"sha1": "9dab0592a94c1837ed370ce36758f22514360792",
+			"sha256": "19a1b6072be0028d35254d31cbfd3e7d9342f13f12bfa4ffd00a71217dacec4e"
+		}
+	]
+}

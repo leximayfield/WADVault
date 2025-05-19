@@ -1,0 +1,16 @@
+{
+	"uid": "dvilrage.wad",
+	"name": "The Devil's Rage",
+	"description": "My first released map. It's a hell-themed map with a lot of monsters, secrets, basically the classic Doom feel.",
+	"date": "2014-12-24 19:19:54",
+	"files": [
+		{
+			"filename": "dvilrage.wad",
+			"size": 1685033,
+			"crc": 3851307028,
+			"md5": "ae32bf4cbe8fe3dfec3e45eddc1c04bc",
+			"sha1": "ac0fa50615dbf38ec7941009055a3a4067a338bb",
+			"sha256": "5410eaa5f6553f78636c8dd91299814655668d8155eb056fd8d5f079a5104c33"
+		}
+	]
+}

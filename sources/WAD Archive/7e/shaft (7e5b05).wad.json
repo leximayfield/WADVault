@@ -1,0 +1,17 @@
+{
+	"uid": "shaft (7e5b05).wad",
+	"name": "Shaft",
+	"description": "They say this WAD is one bad mother... You go down a deep mine shaft to a network of dark underground tunnels with a bunch of other guys with guns. Get to work. A deathmatch WAD for E2M1, 3 or 4 players suggested",
+	"version": "7e5b05",
+	"date": "2013-11-02 15:19:06",
+	"files": [
+		{
+			"filename": "shaft.wad",
+			"size": 127156,
+			"crc": 3912431964,
+			"md5": "46f661ab79deb4f604e6b52bca4a5e04",
+			"sha1": "7e5b0570ca042fc3ffb8061c5c3a2b70157f4a11",
+			"sha256": "c310462bbe5aad0e5652c048eb8c70b5d308eb231f38f4bf0b2e9c3ef277dadf"
+		}
+	]
+}

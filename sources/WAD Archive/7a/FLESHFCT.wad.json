@@ -1,0 +1,16 @@
+{
+	"uid": "FLESHFCT.wad",
+	"name": "Flesh factory",
+	"description": "A small but quite challenging level with a Doom 2 feel.",
+	"date": "2015-12-29 12:35:36",
+	"files": [
+		{
+			"filename": "FLESHFCT.wad",
+			"size": 256068,
+			"crc": 4099682362,
+			"md5": "da895d46fd90ee18e98b688b3094d812",
+			"sha1": "7ac57be5de8d6dd5265876678f9538cf635f47a1",
+			"sha256": "d9aa63b523a803d9d16e6cae2a752ecde074c2b7e41ee01e396a504b80f5ed9a"
+		}
+	]
+}

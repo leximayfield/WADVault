@@ -1,0 +1,17 @@
+{
+	"uid": "gimp (d300c5).wad",
+	"name": "GIMP.WAD",
+	"description": "????",
+	"version": "d300c5",
+	"date": "2013-11-02 15:44:42",
+	"files": [
+		{
+			"filename": "gimp.wad",
+			"size": 145699,
+			"crc": 1662246479,
+			"md5": "259d47ea8380462ee752a78e034fb712",
+			"sha1": "d300c5e2f4bceb37f9207c680a46150cf5f2119a",
+			"sha256": "18347319ad2509889678ff4514ea15648097d66e07aa5eafbc84c9ecc1578498"
+		}
+	]
+}

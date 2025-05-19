@@ -1,0 +1,16 @@
+{
+	"uid": "d_space.wad",
+	"name": "Doomed in SPACE: 13 Maps for ZDoom-based ports",
+	"description": "Welcome to Doomed in SPACE! The year is 2088. The UAC's current goal is to remove the line that separates men from machines. Certain undesirables are sacrificed, analyzed and experimented on for the sake of progress. The promise to integrate more effective weaponry directly into the human body keeps the research funds flowing in. You are one of the UAC's victims - a genetically modified bounty hunter. You were stolen from your home colony as a child but proved harder to control than most of their young test subjects. Using your increased speed and strength, you managed to kill the men guarding your cell and escape in a stolen shuttlecraft. That was 18 years ago. Crime is the only means of survival you have ever known. Once again, you find yourself locked in a cell, at the mercy of the UAC. An armed medic comes through the door and into your cell. As he checks your vitals, you quickly grab his head and snap his neck. His body lies on the floor and the gun is now in your hand - It's time to escape. Important notes: You MUST play with freelook ON. Jumping and crouching must be turned OFF. You must also turn the 'infinitely tall actors' flag OFF, as there are several 3D bridges used throughout. Difficulty levels have been very thoroughly implemented, so if you're finding the maps too hard or too easy, simply adjust accordingly. Levels designed by: Doomkid, Crunchynut44, Pinchy, Nevander, Bootleg Guy, Angry Saint, Fred512, Empyre, UberGewei and Mosshopper Graphic resources: Obake (Wavegunner), Doom64, Duke Nukem 3D, Strife, Wolf3D, Star Wars: Dark Forces, area51.wad, equinox.wad, anubis.wad, skulltag.wad, Complex Doom, ChaosCore CTF (Map10 sky), Xaser ~ Special Info ~ Since you actually bothered to read the text file, I'll let you in on a couple secrets. In multiplayer, if you select the 'easy' or 'medium' difficulty levels, you will be faced with an entirely different arrangement of monsters, far more imposing! Hopefully this will allow your survival or co-op sessions to be fresh a second time around. There are also two hidden maps in this wad, at slots 31 and 32. They were created by myself and Joe-ilya. They are not a part of the official campaign and can only be accessed in game by cheating, but they seemed too good to simply discard. Just a little bonus for those of you who dig a tiny bit deeper than the others. If you enjoy Doomed in SPACE, please be sure to let us know on the Doom forum of your choice. Everyone who worked to make this project possible would love to hear your thoughts.",
+	"date": "2018-03-19 22:38:30",
+	"files": [
+		{
+			"filename": "d_space.wad",
+			"size": 21970137,
+			"crc": 3472274942,
+			"md5": "0d839a6e82d06888294dd88a6f5633f5",
+			"sha1": "69418e926b5d5909c670b5609e5c1693e1561790",
+			"sha256": "3d392cfc7a0a245e1a12da137aca65c5fe41043824a87dba8117716dd5d97e96"
+		}
+	]
+}

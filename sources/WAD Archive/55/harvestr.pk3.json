@@ -1,0 +1,16 @@
+{
+	"uid": "harvestr.pk3",
+	"name": "Harvester",
+	"description": "Allows any CTF map to be played in the Harvester game mode, based on the respective mode from Quake 3: Team Arena. To play, load the mod and start any CTF map under \"teamgame\".",
+	"date": "2014-12-12 14:07:10",
+	"files": [
+		{
+			"filename": "harvestr.pk3",
+			"size": 4850,
+			"crc": 3352061884,
+			"md5": "2a18b3121f3976555166ad78bf6f6fa5",
+			"sha1": "552f93a4c31cca00a2892c386d14008b01b1cf50",
+			"sha256": "f48892bd4627621406b8d8e23770ee77cf7a676838f5d3cee1b4c80a6a082709"
+		}
+	]
+}

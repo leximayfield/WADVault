@@ -1,0 +1,17 @@
+{
+	"uid": "looe3 (5cf80b).wad",
+	"name": "LOOE's DEATHMATCH showdown!",
+	"description": "Written mainly for DEATHMATCH, but may be played in single/co-operative modes.",
+	"version": "5cf80b",
+	"date": "2013-11-02 15:58:07",
+	"files": [
+		{
+			"filename": "looe3.wad",
+			"size": 127835,
+			"crc": 3388553308,
+			"md5": "d6a1db7d2d051d62c5ff166f3eb5b49a",
+			"sha1": "5cf80bf78bf28e30c1270dd80f8f7e26b557d70d",
+			"sha256": "afdadc3a2d4331407bd1678f63daf98f2c0e406b2c251842b90248280bfb1d87"
+		}
+	]
+}

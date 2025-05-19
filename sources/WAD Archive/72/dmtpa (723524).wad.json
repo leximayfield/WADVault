@@ -1,0 +1,17 @@
+{
+	"uid": "dmtpa (723524).wad",
+	"name": "The Pfander Annihilation Level (v1.0)",
+	"description": "Fun, challenging level that has some tricks and a couple secrets and surprises. Be wery careful, we're hunting some wascally imps!",
+	"version": "723524",
+	"date": "2013-11-02 15:15:00",
+	"files": [
+		{
+			"filename": "dmtpa.wad",
+			"size": 141243,
+			"crc": 1626210976,
+			"md5": "a4a04881aff83d3baeeae169bd47bc91",
+			"sha1": "72352479ed8b3fea02f84ac17ca1e5d9fd839138",
+			"sha256": "783c4642797bf95ba9f6cb3c4c97563146afaca02852c406b609cb9c82d70c39"
+		}
+	]
+}

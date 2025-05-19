@@ -1,0 +1,16 @@
+{
+	"uid": "wescape.wad",
+	"name": "Watery Escape",
+	"description": "My first attempt at making a map, and send it to the archives",
+	"date": "2014-12-15 22:26:34",
+	"files": [
+		{
+			"filename": "wescape.wad",
+			"size": 223411,
+			"crc": 3865698594,
+			"md5": "61a3b6a9d6d62b1f6407661b5991ddbf",
+			"sha1": "2715bc1841ab24ca768e931d63931e5b5b359669",
+			"sha256": "5072349dec785a1b54c4b2ff0bdbcff6a07728996e512b8c548c5c669d8420b4"
+		}
+	]
+}

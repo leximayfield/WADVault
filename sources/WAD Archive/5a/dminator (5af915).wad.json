@@ -1,0 +1,16 @@
+{
+	"uid": "dminator (5af915).wad",
+	"description": "DMINATOR.WAD - A PWAD file containing 9 levels for episode 1.",
+	"version": "5af915",
+	"date": "2013-11-02 16:38:53",
+	"files": [
+		{
+			"filename": "dminator.wad",
+			"size": 888076,
+			"crc": 536350381,
+			"md5": "6c42f02daa1f95fbb45347e91bd1ff8e",
+			"sha1": "5af915e95b3df32edf8f535ec9f86717f5268599",
+			"sha256": "139b49bacdaa905374ec12e1f306e8ae10791d14aa132dd5aa5ca4e4d3134036"
+		}
+	]
+}

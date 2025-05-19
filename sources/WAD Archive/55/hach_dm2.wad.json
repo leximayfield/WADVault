@@ -1,0 +1,16 @@
+{
+	"uid": "hach_dm2.wad",
+	"name": "Hachisch Deathmatch v2",
+	"description": "A deathmatch level built from my previous Doom2 map \"Hachisch\". Now I've decided to take advantage of some new features from Zdoom/Zdaemon; mirrors, translucent textures, slopes... So \"Hachisch deathmatch\" WON'T run in the original Doom. The map can be quite enjoyable played between two and six players. At least it offers a pecu- liar atmosphere, far from the conventional Zdae- mon maps. If you enjoy this map, take a look to the ori- ginal \"Hachisch\", a singleplayer level for the classic Doom2. It can be downloaded from: http://www.doomworld.com/idgames/index.php?id=13713",
+	"date": "2014-12-15 23:08:22",
+	"files": [
+		{
+			"filename": "hach_dm2.wad",
+			"size": 291337,
+			"crc": 2648346239,
+			"md5": "759506bf5a4f02a0900428e3480e4b72",
+			"sha1": "55a6dd290639ad567a8126a342499503dba5a40a",
+			"sha256": "cfdf777edbbceff8ddb6bde3def2d4872cb31796ef610a5f1fad466bb9e8db79"
+		}
+	]
+}

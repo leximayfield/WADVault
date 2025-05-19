@@ -1,0 +1,17 @@
+{
+	"uid": "fragfest (f95790).wad",
+	"name": "FragFest",
+	"description": "A single-level Doom2 PWAD.",
+	"version": "f95790",
+	"date": "2014-12-18 22:23:23",
+	"files": [
+		{
+			"filename": "fragfest.wad",
+			"size": 113832,
+			"crc": 991673295,
+			"md5": "f071f78facdaa7e833f028bf74e57b10",
+			"sha1": "f95790a85fdd594704a28a271fb467d456a48530",
+			"sha256": "d5580f8a59d1fe0c5ac2cf208783fbe58c7e367fac02e662487724ef21892f57"
+		}
+	]
+}

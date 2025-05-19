@@ -1,0 +1,17 @@
+{
+	"uid": "stargate (71b0f8).wad",
+	"name": "Stargate.wad",
+	"description": "The coolest deathmatch levels, with the cool stagate as teleporters! Made from shots of the show!",
+	"version": "71b0f8",
+	"date": "2014-12-15 22:24:21",
+	"files": [
+		{
+			"filename": "stargate.wad",
+			"size": 1378884,
+			"crc": 883061805,
+			"md5": "041628d57eba88b4d88fa6385de58f90",
+			"sha1": "71b0f8c20a34c4046df9e865b83dec6b8ed578df",
+			"sha256": "6d3370a0a3ce39347a3da931fa2f31c548603117e56876250f19db4c40e4a7ae"
+		}
+	]
+}

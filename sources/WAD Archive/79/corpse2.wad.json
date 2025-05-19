@@ -1,0 +1,16 @@
+{
+	"uid": "corpse2.wad",
+	"name": "Corpse2.WAD for Doom II",
+	"description": "Designed for 2 or 3 player Deathmatch. Suitable for original DM and Alt-death.",
+	"date": "2014-12-15 22:13:44",
+	"files": [
+		{
+			"filename": "corpse2.wad",
+			"size": 422992,
+			"crc": 1365528420,
+			"md5": "7057d854f6719d2cdd4c0051bafcfcbb",
+			"sha1": "799dcac82a64835a35703945c96b59cb9ee37386",
+			"sha256": "1d5e24dbcfbc89afa21ffeda56fcffbda35edd7bdd6db06348f04c7e1619772c"
+		}
+	]
+}

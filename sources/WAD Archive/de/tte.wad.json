@@ -1,0 +1,16 @@
+{
+	"uid": "tte.wad",
+	"name": "The toxic exodus",
+	"description": "This is an updated version which should fix the red key bug! A medium to large sized map taking place in a underground facility, use opengl mode! The textures are free to use for your own project, as long as credit is given.",
+	"date": "2014-12-29 16:38:12",
+	"files": [
+		{
+			"filename": "tte.wad",
+			"size": 18545335,
+			"crc": 3660494081,
+			"md5": "19fb1bef511d488feb6fc7d6ca3fd22f",
+			"sha1": "de81676af3e01ed1737ac5e298a3b5bdd5305c80",
+			"sha256": "016231ff0205b787746d99439f6f4fec25cda0c44efc4d85bf713c7008026404"
+		}
+	]
+}

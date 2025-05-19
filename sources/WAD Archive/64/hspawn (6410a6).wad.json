@@ -1,0 +1,17 @@
+{
+	"uid": "hspawn (6410a6).wad",
+	"name": "Hellspawn sprites demonstration",
+	"description": "A demonstration of my various Hellspawn sprites. See below for descriptions.",
+	"version": "6410a6",
+	"date": "2014-12-22 18:34:30",
+	"files": [
+		{
+			"filename": "hspawn.wad",
+			"size": 9485028,
+			"crc": 1115305335,
+			"md5": "797b71ef627dce1cdeee849042f78beb",
+			"sha1": "6410a6e3349bdcfddd58ff25a7170dbfb4ce234b",
+			"sha256": "2f4e2b915fe6f54d8ede041a04be67c21a13029142626d09eab782d04360c90e"
+		}
+	]
+}

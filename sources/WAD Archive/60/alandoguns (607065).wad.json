@@ -1,0 +1,17 @@
+{
+	"uid": "alandoguns (607065).wad",
+	"name": "Alandoguns.WAD",
+	"description": "This is a super cool weapon wad with zdoom put to the extreme.",
+	"version": "607065",
+	"date": "2013-04-19 00:36:16",
+	"files": [
+		{
+			"filename": "alandoguns.wad",
+			"size": 25904203,
+			"crc": 2557787202,
+			"md5": "5663b6bdbc1802543c9280e04b386c32",
+			"sha1": "607065202bf1af05eaf5798555633f0d1df135df",
+			"sha256": "5c0245bfc9263f8096933ee493f3a8ffe53b9863ba9d846290fc1046203228e8"
+		}
+	]
+}

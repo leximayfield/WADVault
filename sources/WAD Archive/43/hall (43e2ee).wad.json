@@ -1,0 +1,17 @@
+{
+	"uid": "hall (43e2ee).wad",
+	"name": "The Hall",
+	"description": "You've teleported into the rear of yet another demonic stonghold. Intelligence reports there is a large hall within where many comrads have vanished. The final phrase of your orders bothered you. It said simply \"Lots-a-luck!\" Yes... this is a large WAD but it saves fine. Just don't add any more \"things\" to it. (or sectors) Well... you can if you want but it won't save then.<g> I really hope you enjoy it! (Comments welcome)",
+	"version": "43e2ee",
+	"date": "2014-01-04 11:55:36",
+	"files": [
+		{
+			"filename": "hall.wad",
+			"size": 413965,
+			"crc": 641473001,
+			"md5": "57561e96f2c3ff95aa4401204f387178",
+			"sha1": "43e2ee1b8f6d3898c8244d67998bb1e6e62f87cc",
+			"sha256": "7971c0f8f60afcbcd7e401435b7ae5021db402ab48dbe883eb154881362c34fd"
+		}
+	]
+}

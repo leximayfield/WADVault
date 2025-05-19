@@ -1,0 +1,16 @@
+{
+	"uid": "dgdm2.wad",
+	"name": "David's DM Level #2",
+	"description": "DM level that uses new textures and is designed specifically with head 2 head modem deathmatching. Complex design doesn't get in the way of gameplay.",
+	"date": "2014-12-15 22:49:09",
+	"files": [
+		{
+			"filename": "dgdm2.wad",
+			"size": 367054,
+			"crc": 1048510229,
+			"md5": "070cfdc4bc24e65e34d7a105c4ca8353",
+			"sha1": "5cea525755d63f2b8c09d1872c0403ab270060f5",
+			"sha256": "0121beeb70ebd7a41fb8def6fd437f459651c013cc8e4798f8088507cc6fd7ee"
+		}
+	]
+}

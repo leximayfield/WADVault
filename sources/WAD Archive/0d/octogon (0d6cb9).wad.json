@@ -1,0 +1,17 @@
+{
+	"uid": "octogon (0d6cb9).wad",
+	"name": "Octogon of Death",
+	"description": "The octogon shaped main room has a themed offshoot on each side. The themes allow you to know where you are in the wad at all times. (It's hard to get turned around.) This wad is EXCELLENT because it combines long-range battles with close encounters.",
+	"version": "0d6cb9",
+	"date": "2014-12-15 21:31:37",
+	"files": [
+		{
+			"filename": "octogon.wad",
+			"size": 71431,
+			"crc": 1053151379,
+			"md5": "b39b17fb3082eed36bcf9b810f6b736a",
+			"sha1": "0d6cb913e5d8ed5730d791c2aabd1d024e543a25",
+			"sha256": "de45beaecdd301726c2575e907af04c96c6ce43ed968e344ac151c88a702b2c0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "spankme2 (2d4c57).wad",
+	"name": "Spank me, Spank me, Spank me!!!",
+	"description": "This is an update of spankme to run with DooM II, I've changed the wall textures and moved some of the weapons about. This level is designed for DEATHMATCH.",
+	"version": "2d4c57",
+	"date": "2013-11-02 15:49:39",
+	"files": [
+		{
+			"filename": "spankme2.wad",
+			"size": 32746,
+			"crc": 951790745,
+			"md5": "25aa0acf57ad7b7d98e47a37c4ddc6b8",
+			"sha1": "2d4c57633fab211dce58f6e80669454bc85a5523",
+			"sha256": "35c691dc306e2b9442fdf94219f37952c4a417dd339842efbd57c7cc42606657"
+		}
+	]
+}

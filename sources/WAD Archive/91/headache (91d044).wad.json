@@ -1,0 +1,17 @@
+{
+	"uid": "headache (91d044).wad",
+	"name": "HEADACHE.WAD",
+	"description": "A great 1 on 1 (or 2 on 2) Deathmatch wad for DOOM2. Takes a couple minutes to get used to, but the depth is there.",
+	"version": "91d044",
+	"date": "2014-12-03 20:20:08",
+	"files": [
+		{
+			"filename": "headache.wad",
+			"size": 48495,
+			"crc": 2603786229,
+			"md5": "bb11149692f53602eacde9a18ef1dfc8",
+			"sha1": "91d0444e40017c2b3286d18b4b6294b1acce8399",
+			"sha256": "0fb2944c49914e7b20020441cf4e930898ca44b3ab6942911e66f8e0a5a1433f"
+		}
+	]
+}

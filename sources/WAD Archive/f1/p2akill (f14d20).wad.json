@@ -1,0 +1,17 @@
+{
+	"uid": "p2akill (f14d20).wad",
+	"name": "Preview To A Kill",
+	"description": "As the title sort of implies, this is a preview to a completely new episode (not level) I'm working hard on. It's *quite* short (less than E1M1), but I find it fairly exciting when playing at higher skill levels.",
+	"version": "f14d20",
+	"date": "2013-11-02 15:09:48",
+	"files": [
+		{
+			"filename": "p2akill.wad",
+			"size": 15522,
+			"crc": 1122090263,
+			"md5": "4b6eefa33268a5d18a52e32cb189b9dd",
+			"sha1": "f14d20382c98c5a2a16c0b001e24d52b2c45b376",
+			"sha256": "e3c3c18accbd9db27335025cdeebf381086e96bd11ea4b7d62464abae177e296"
+		}
+	]
+}

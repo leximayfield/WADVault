@@ -1,0 +1,17 @@
+{
+	"uid": "Lunar (38e2c3).wad",
+	"name": "Lunar Base",
+	"description": "None really",
+	"version": "38e2c3",
+	"date": "2014-12-27 12:17:02",
+	"files": [
+		{
+			"filename": "Lunar.wad",
+			"size": 343687,
+			"crc": 2946305624,
+			"md5": "f63e4ec3af21f66c45824747f6373f74",
+			"sha1": "38e2c3bf959ed1882a23b269df612512c0bbfc91",
+			"sha256": "39d20c50aa5ca834e8b529b6d6e30b3483a75bd35cacae1c07de81a2437969bd"
+		}
+	]
+}

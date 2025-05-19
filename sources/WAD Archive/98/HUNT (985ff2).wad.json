@@ -1,0 +1,17 @@
+{
+	"uid": "HUNT (985ff2).wad",
+	"name": "Treasure Hunt",
+	"description": "10-level WolfenDOOM adventure, featuring new",
+	"version": "985ff2",
+	"date": "2015-09-15 19:30:19",
+	"files": [
+		{
+			"filename": "HUNT.wad",
+			"size": 7010086,
+			"crc": 2792811871,
+			"md5": "b923118fb10999771efbf83aa4c410ea",
+			"sha1": "985ff2da5e235f2d0ce8a7eca822e4d445f954f1",
+			"sha256": "227ff61bc316570778f2b496dca32fdfb833f03d424cade3157a8eb2223d74d1"
+		}
+	]
+}

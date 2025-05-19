@@ -1,0 +1,16 @@
+{
+	"uid": "torx.wad",
+	"name": "ToRx",
+	"description": "Not just another brick-and-metal DM, this level has character!",
+	"date": "2014-12-15 22:09:34",
+	"files": [
+		{
+			"filename": "torx.wad",
+			"size": 1137426,
+			"crc": 4158898043,
+			"md5": "1868bfefd71833ff2e555e4e4fc54802",
+			"sha1": "03ebc603ebcfd358c645a117cbe9cdff7a0449a7",
+			"sha256": "10f8c02f6f369a63fbc851b0479d93c4d3b8d749a098a66cf4ffb0ca398d211c"
+		}
+	]
+}

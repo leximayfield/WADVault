@@ -1,0 +1,16 @@
+{
+	"uid": "risen.wad",
+	"name": "Risen",
+	"description": "A great looking level, really fun to play it with friends. I hope you like & enjoy it!",
+	"date": "2014-12-29 09:00:16",
+	"files": [
+		{
+			"filename": "risen.wad",
+			"size": 185704,
+			"crc": 2738513307,
+			"md5": "5329f2f49c9e8d4d42fa1e25f41160e1",
+			"sha1": "49445fc3cbf8838e1453d23b30da2d8f27ad1fce",
+			"sha256": "c3d97b927ea8da461380e1e54bb6bbbba4cfacee89ea2e72229089a9e711f378"
+		}
+	]
+}

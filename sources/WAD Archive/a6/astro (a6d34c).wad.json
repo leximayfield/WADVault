@@ -1,0 +1,17 @@
+{
+	"uid": "astro (a6d34c).wad",
+	"name": "astro.wad for doom2",
+	"description": "8 levels of pure fun and carnage",
+	"version": "a6d34c",
+	"date": "2014-12-15 21:43:37",
+	"files": [
+		{
+			"filename": "astro.wad",
+			"size": 226962,
+			"crc": 1158879064,
+			"md5": "5355e494194222fc68b0a22786d88de7",
+			"sha1": "a6d34cc221fb02c61a1f12c299becfa68a3d530c",
+			"sha256": "8a365fac1c50dedd88eeba8b9a55f8df42dd2e2d063d59f80dca57bd5fb2b3cc"
+		}
+	]
+}

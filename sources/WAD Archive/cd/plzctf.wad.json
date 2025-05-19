@@ -1,0 +1,16 @@
+{
+	"uid": "plzctf.wad",
+	"name": "Plz CTF",
+	"description": "A medium-sized CTF map for Skulltag.",
+	"date": "2013-04-19 02:26:20",
+	"files": [
+		{
+			"filename": "plzctf.wad",
+			"size": 2054976,
+			"crc": 3998604712,
+			"md5": "e0a0d7a956069ed670647740f8c81736",
+			"sha1": "cd660cb21306cb91207978a9ec827f15163e14a8",
+			"sha256": "5977f24c946bb49395cc5e5136e94f0905b074638149f9c0c675ebd7d578048f"
+		}
+	]
+}

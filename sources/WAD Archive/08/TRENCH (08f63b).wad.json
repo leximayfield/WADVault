@@ -1,0 +1,17 @@
+{
+	"uid": "TRENCH (08f63b).wad",
+	"name": "Trench",
+	"description": "Just another Deathmatch level. But it's not symmetrical in design like most.. It's pretty cool. Just check it out.",
+	"version": "08f63b",
+	"date": "2014-12-15 22:50:05",
+	"files": [
+		{
+			"filename": "TRENCH.wad",
+			"size": 51659,
+			"crc": 1152052985,
+			"md5": "872e7c91fc7e0ffe01414431a46ab085",
+			"sha1": "08f63b802307cb999c2634671a1d61bce3c589be",
+			"sha256": "e8b11a70a46eb621727a37293cf87629695f8ffce89e25524e82d6de6451e223"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "beyond (e6eced).wad",
+	"name": "BEYOND.WAD (Beyond Doom)",
+	"description": "Beyond Doom is a 12-level replacement for the : first 12 levels of Doom ][. They are best : played as single player levels, starting at : the beginning of each level with just a pistol, : and set on the ULTRA-VIOLENCE setting. : (The ONLY way to play single player) : These levels are also extremely fun co-op play : and several of them are good deathmatch levels : as well. New music has been carefully chosen : for each level too. Give these : levels a shot.. we seem to think they are pretty : classic single player challenges. : Send any feedback to the email address above. : : See below for specific level descriptions. :",
+	"version": "e6eced",
+	"date": "2014-12-15 21:31:02",
+	"files": [
+		{
+			"filename": "beyond.wad",
+			"size": 3050142,
+			"crc": 861995968,
+			"md5": "2eb0a81a4abd01dc684d015e6fe6efe2",
+			"sha1": "e6ecedf7a1aed2d02495562f89c848ec27a81ebe",
+			"sha256": "246ad480205f6d1ef8720c2d013911c5b813052f3f8dd889fd08ccac3b2b1dd0"
+		}
+	]
+}

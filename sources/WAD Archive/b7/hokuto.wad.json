@@ -1,0 +1,16 @@
+{
+	"uid": "hokuto.wad",
+	"name": "HOKUTO NO DOOM - Level designer resource kit",
+	"description": "First adaptation ever of the \"Hokuto No Ken\" comic/TV animation in the DOOM engine. New textures, new items, new sprites, new weapons, new sounds, and new music. The project uses the most familiar \"Hokuto No Ken\" characters (also known as \"Fist of the North Star\" and \"Ken il Guerriero\") from TV episodes 1 to 22 (manga 1&2). (See end of file for detailed description).",
+	"date": "2018-04-14 21:36:54",
+	"files": [
+		{
+			"filename": "hokuto.wad",
+			"size": 6463018,
+			"crc": 728359078,
+			"md5": "c2c833cb9119a958edc656f4d0dc8618",
+			"sha1": "b79cc06cdbb9c65a139ad8f317f9b32059e88654",
+			"sha256": "1a645929823b6574959b0aff291fe68cde5009559bac1ef5d66e9d7438ec9ae2"
+		}
+	]
+}

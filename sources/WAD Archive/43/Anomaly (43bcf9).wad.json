@@ -1,0 +1,17 @@
+{
+	"uid": "Anomaly (43bcf9).wad",
+	"name": "Anomaly",
+	"description": "What's buried under the Phobos Base? A replacement for the normal map E1M8.",
+	"version": "43bcf9",
+	"date": "2014-12-14 20:35:45",
+	"files": [
+		{
+			"filename": "Anomaly.wad",
+			"size": 94357,
+			"crc": 997003857,
+			"md5": "acd22d84b31b03f684a16236922bb91e",
+			"sha1": "43bcf9a3dc62f5e346962e94610ab3f72af5aeb7",
+			"sha256": "2e76dd7d7826426b7320fdece85e2e2e120865710d7b65b08128f485bcafcd1a"
+		}
+	]
+}

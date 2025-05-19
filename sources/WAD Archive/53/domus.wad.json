@@ -1,0 +1,16 @@
+{
+	"uid": "domus.wad",
+	"name": "The Domus of Violence",
+	"description": "Deathmatch level -based on- a typical large roman city house design (don't you historians start complaining) and adapted for Doom playing. Designed to test battle tactics in smallish places, some good ambush spots but watch your back: Most places have multiple entrances. No health to speak of and little armour for a fast turnaround.",
+	"date": "2014-12-15 22:26:28",
+	"files": [
+		{
+			"filename": "domus.wad",
+			"size": 70148,
+			"crc": 1019023810,
+			"md5": "1bea113099f052e610f6233af1a0b0a2",
+			"sha1": "53a67e55bed9d92d36bd26d4e3ddddee19a7f34e",
+			"sha256": "37dcfaf8f022ce0c7366a59b373ffea4f74bbc0614f33332cafcb34471a8cbb7"
+		}
+	]
+}

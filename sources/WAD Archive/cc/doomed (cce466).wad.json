@@ -1,0 +1,17 @@
+{
+	"uid": "doomed (cce466).wad",
+	"name": "Doomed",
+	"description": "Original music by Marc A. Pullen (marcpullen@comcast.net) Album Title : Doomed Released : 2016-08-04 (Aug 4) Where can I get the highest quality tracks from? https://www.youtube.com/watch?v=XJjPllsAjrs https://soundcloud.com/marcpullen/sets/marc-a-pullen-doomed The OGG versions in this WAD can be reused/extracted/remixed for whatever you want, free of charge. Just mention my name in your credits, that's all! The OGG versions are slightly lower quality, so please grab the highest quality WAVs from my SoundCloud url above if you want to redistribute these. I don't mind if you want to redistribute the music, just grab the best sounding ones please. You can also direct people to using this WAD for music in your project. The LUMP names for the album are: [LUMP] - [SONG TITLE] ------------------------------------------------------ 0A - Intro (meant for the DOOM title screen music) 0B - Inter (meant for the DOOM inter map music) 01 - Into The Pit 02 - Wading Through 03 - Within Reach 04 - One Way Out 05 - Ambushed 06 - Falling 07 - Last Chance 08 - The Chase 09 - Last Man Standing 10 - Secure The Perimiter 11 - Out Of Time 12 - Too Late 13 - Another Way 14 - They Have Arrived 15 - The Sacrifice If you want highest quality, download the raw WAV files off my SoundCloud page (link above). The mapping below should cover most IWADs: DOOM DOOM 2 and HacX (they use the same LUMP names) HeXen Heretic",
+	"version": "cce466",
+	"date": "2016-08-12 21:52:46",
+	"files": [
+		{
+			"filename": "doomed.wad",
+			"size": 34893579,
+			"crc": 4189822752,
+			"md5": "dc1c601b0c417db7693b1ca83d8bfc8a",
+			"sha1": "cce46649a23f42fe3e85462c4892f9b35eb2823c",
+			"sha256": "20b1f0c48e7d3187b208a0fd58aa823571aa1e03342180e4185710a60d00b241"
+		}
+	]
+}

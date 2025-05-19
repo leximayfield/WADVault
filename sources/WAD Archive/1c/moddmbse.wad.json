@@ -1,0 +1,16 @@
+{
+	"uid": "moddmbse.wad",
+	"name": "MasterOFDeath's Deathmatch Base",
+	"description": "a simple Legacy DM level, has a brownish/greenish theme to it. Not too small, and not too big. Nice look to it.",
+	"date": "2014-12-15 21:42:39",
+	"files": [
+		{
+			"filename": "moddmbse.wad",
+			"size": 42424,
+			"crc": 3671979509,
+			"md5": "5063d403bd3dbf02fee3c1c84000b031",
+			"sha1": "1c80a49fb4095133c14d2d4a61521f2fcb0a13b9",
+			"sha256": "54146a26e6c98f797e4a8af7332a0928ce056d80703d5da3f349d799e4631e4a"
+		}
+	]
+}

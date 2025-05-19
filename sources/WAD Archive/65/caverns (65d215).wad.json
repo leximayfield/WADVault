@@ -1,0 +1,17 @@
+{
+	"uid": "caverns (65d215).wad",
+	"name": "CAVERNS",
+	"description": "Your on Mars ... the enemy's stronghold! You just escaped from inside the prison level of the fortress. Unfortunately you landed right in the caverns underneath the enemy stronghold. Your mission is to recover the new weapon from the enemy boss and somehow escape back to earth. The weapon was stolen from a military research and development facility back on earth right when it was perfected. Retrieve it and escape. All u were told about the new weapon is that it is one BIG F@#$%& GUN! Good Luck!!",
+	"version": "65d215",
+	"date": "2014-01-04 11:55:37",
+	"files": [
+		{
+			"filename": "caverns.wad",
+			"size": 310100,
+			"crc": 1929677288,
+			"md5": "4b911bc1e2cf23167e355c3209f3b3f2",
+			"sha1": "65d21569fa3a4e64ff47be28100b75ea9a5be111",
+			"sha256": "35cddd1b968c9e30f16ec18a911e25fa6e458359c6c84f8084a384c0097c6fef"
+		}
+	]
+}

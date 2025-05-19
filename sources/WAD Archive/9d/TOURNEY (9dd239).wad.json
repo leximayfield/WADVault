@@ -1,0 +1,17 @@
+{
+	"uid": "TOURNEY (9dd239).wad",
+	"name": "TOURNEY 001",
+	"description": "This file was created especially for the VGC's (Virtual Gaming Center) tournament. It has sniper points, open areas and most weapons in interesting places.",
+	"version": "9dd239",
+	"date": "2014-12-03 20:15:31",
+	"files": [
+		{
+			"filename": "TOURNEY.wad",
+			"size": 59299,
+			"crc": 2561407088,
+			"md5": "80435712112bb73db79f5fab7d6b92c9",
+			"sha1": "9dd239d4aeefe625316c84725b88cdb5ecbd35da",
+			"sha256": "24f4a179ad38fb272c873b37fde7e941dce2d59c0160a992411b72f4bf254d33"
+		}
+	]
+}

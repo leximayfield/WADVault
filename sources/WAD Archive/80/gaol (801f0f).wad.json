@@ -1,0 +1,17 @@
+{
+	"uid": "gaol (801f0f).wad",
+	"name": "GAOL.WAD",
+	"description": "A well laid out single / multiplayer level for DOOM][, with loads of passages, dudes, etc. Set in a gaol (Jail in Yank) style building with extra attention paid to textures, alignment and other small details missed out in many other levels. A good time for triple 100% is about 10 minutes.",
+	"version": "801f0f",
+	"date": "2013-11-06 22:45:26",
+	"files": [
+		{
+			"filename": "gaol.wad",
+			"size": 86191,
+			"crc": 3873860442,
+			"md5": "ffd5d0377f06525244950bb4efa3c254",
+			"sha1": "801f0f6cf7ed92e211282eeed145e9af7b2ecd17",
+			"sha256": "a07fcb2f22e56cd65be872ba6cb86a48c72c68c1c60dce59876c70eec3b4b518"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "kami2 (360948).wad",
+	"name": "KAMI2.WAD",
+	"description": "A house in hell?",
+	"version": "360948",
+	"date": "2013-11-02 15:26:13",
+	"files": [
+		{
+			"filename": "kami2.wad",
+			"size": 178917,
+			"crc": 318712478,
+			"md5": "a1000186027313d76c0422ce7d974ccc",
+			"sha1": "36094839af818bc3101b34f74e16803d01fd9b57",
+			"sha256": "a2d3b6f8b3f1b03e356a9baffa0582d8421cdfaa50f10f42989473d32c0dc3a9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "undesird.wad",
+	"name": "Undesired Reality",
+	"description": "Started as a e4m1 remake but I went on with a standalone map that maintains a few known areas (revamped obviously).",
+	"date": "2019-03-19 21:36:45",
+	"files": [
+		{
+			"filename": "undesird.wad",
+			"size": 10086330,
+			"crc": 2780772818,
+			"md5": "6f82e6dafe23c70d976b15b5bf9d296f",
+			"sha1": "c53a7f712ba12539cadb901cdc5b497826f59c1c",
+			"sha256": "5596555248e0415ccd41e8704fd6185c983e0c0a0e0a0862ed604d3ed2d6cf15"
+		}
+	]
+}

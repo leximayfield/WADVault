@@ -1,0 +1,16 @@
+{
+	"uid": "cduel1_.wad",
+	"name": "cDUEL I",
+	"description": "A duel map heavily based on the Quake 4 map by Bartek Garbiak (aka Lukin) called \"Monsoon.\" Given that Doom ports and Quake 4 are quite different (duh), certain modifications were made to get the most out of ZDaemon and Skulltag's movement.",
+	"date": "2013-04-19 00:24:34",
+	"files": [
+		{
+			"filename": "cduel1_.wad",
+			"size": 1482262,
+			"crc": 1646804134,
+			"md5": "40c23a24418f84e7fa4c44a047795f38",
+			"sha1": "a4aa848ac9c726218f2c04f0cd38e6a3fb33f1e1",
+			"sha256": "57e4614644d0ec365df8fe3252be4a0219ca32295798abb30129e4cc4d800c33"
+		}
+	]
+}

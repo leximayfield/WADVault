@@ -1,0 +1,16 @@
+{
+	"uid": "pork2.wad",
+	"name": "PORK2.WAD",
+	"description": "This wad is a modified version of my first wad called squeaky. I fixed A LOT of mistakes that were on the first one. Afterall, it was my first wad, what did you expect. This wad has some of the typical things in a first wad. I think this is one of my best wads.",
+	"date": "2015-01-14 14:49:57",
+	"files": [
+		{
+			"filename": "pork2.wad",
+			"size": 96227,
+			"crc": 3345321733,
+			"md5": "742d02cbc31f287552d8dec110018d15",
+			"sha1": "647612cf83952a03aea10c1d6e7c1a26c2ee5002",
+			"sha256": "3d57d2bb4d00bc4f82b720a87a4c4da4d0e12e3ba4d065a43cacfc965dbe0132"
+		}
+	]
+}

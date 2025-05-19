@@ -1,0 +1,16 @@
+{
+	"uid": "mp3.wad",
+	"name": "MP3 Made Easy!",
+	"description": "MP3 music referece WAD, used for DOOM2 and DOS DOOM only NOTE: there are no MP3's in this package (see below)",
+	"date": "2015-09-14 23:32:21",
+	"files": [
+		{
+			"filename": "mp3.wad",
+			"size": 2496,
+			"crc": 2546387943,
+			"md5": "53bc6578b9ea0a19d5bc56f7de4cab40",
+			"sha1": "651062b996935a2076eda88710e28f36947503e6",
+			"sha256": "32a84179225dcbe96b4394fbf0d605740750940e450d5c60de545cce366157fb"
+		}
+	]
+}

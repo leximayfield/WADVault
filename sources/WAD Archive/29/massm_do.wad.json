@@ -1,0 +1,16 @@
+{
+	"uid": "massm_do.wad",
+	"name": "The Adventures of MassMouth Do Over!",
+	"description": "There's a story which you'll probably need to understand the plot (good lord, there's a plot?!) so read it or I might have to beat you down. It's at the bottom of this file. If you read anything, at least read that. DO: Anything marked with a DO (such as this passage) are notes added by myself for the third (Do Over!) release. DO2: This is the only note for the fourth and (hopefully) final version. This wad now needs ZDoom 2.0 to run (http://zdoom.org) as it was impossible to exit the last map in 2.0 and 1.23 is old anyway. I also fixed your 'ability' to kill the Worm on the last map, sorry! Ah yes, and on the dwarf baron map it used to be possible to trigger the exit if any monster followed you out the door and over the cage. Can't happen now, it needs to be the little guy. That's all. Play Massmouth 2!",
+	"date": "2015-01-13 21:46:35",
+	"files": [
+		{
+			"filename": "massm_do.wad",
+			"size": 8407569,
+			"crc": 3345968254,
+			"md5": "89106afdc253dab1deb21f4a955d03e8",
+			"sha1": "2966f8eabd4703783f62e364a348084788f54b56",
+			"sha256": "b92fbab5e26167e706eb75cbbba958d2b595e105fc920b1dd1a8c5d0c9a45a89"
+		}
+	]
+}

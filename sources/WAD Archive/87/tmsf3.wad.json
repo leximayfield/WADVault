@@ -1,0 +1,16 @@
+{
+	"uid": "tmsf3.wad",
+	"name": "Time Shift 3: Madness",
+	"description": "The third map in the Time Shift DM series. This uses the regiestered HacX TC for Doom 2.",
+	"date": "2014-12-30 11:23:39",
+	"files": [
+		{
+			"filename": "tmsf3.wad",
+			"size": 252851,
+			"crc": 2295984771,
+			"md5": "5023a21dd9234e7b113c01c73cc8e051",
+			"sha1": "8788607d581292d7b5d8819e8eba4968862beba6",
+			"sha256": "cfe5821d398daaf37728d3f7119200eb067e8f2444c0c721dcec2c14cae98a41"
+		}
+	]
+}

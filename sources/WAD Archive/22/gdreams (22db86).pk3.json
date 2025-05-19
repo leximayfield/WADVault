@@ -1,0 +1,17 @@
+{
+	"uid": "gdreams (22db86).pk3",
+	"name": "Gothic Dreams: Definitive Edition",
+	"description": "5 Gothic/tech death matches using the most advance capabilities of the K8Vavoom and GZDoom source ports. The features include: Slopes, dynamic lighting effects, high res texture placements, decorate functions, tga sky boxes, translucent liquids, and many more features!",
+	"version": "22db86",
+	"date": "2019-06-16 13:53:42",
+	"files": [
+		{
+			"filename": "gdreams.pk3",
+			"size": 19527868,
+			"crc": 3067532672,
+			"md5": "e0419a50ee9c8b9b498a3e65dd4c648f",
+			"sha1": "22db86692e4315c1ca0ab0427bbbc79562ce6a87",
+			"sha256": "1cecb4ce5e63f926414616a1d5c2c075a509afdc8147339820c48c332956882b"
+		}
+	]
+}

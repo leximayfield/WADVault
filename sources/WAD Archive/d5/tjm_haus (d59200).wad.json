@@ -1,0 +1,17 @@
+{
+	"uid": "tjm_haus (d59200).wad",
+	"name": "2708 Ellsworth Street, Berkeley CA",
+	"description": "Well, this is the house I've been living in for the past year or so, replete with secret passages and stuff that isn't honestly there (with the notable exception of the dead bodies in the basement, which we have to assume are there since that door is locked from the inside). Each room has many exits, and there is a good mix of small rooms and wide-open spaces. Try it with -warp 01 -respawn for variety; just enough shotgun dudes to keep it interesting.",
+	"version": "d59200",
+	"date": "2016-02-07 20:37:03",
+	"files": [
+		{
+			"filename": "tjm_haus.wad",
+			"size": 125065,
+			"crc": 2673128573,
+			"md5": "9ff84bfbae60935caf134f702a6ce9a5",
+			"sha1": "d592001317d756d178f685811a680471227d61e5",
+			"sha256": "f517934d8e2ceff9ed4103424d6269afd1a2e0b4067b32e8320ac9a9a26d120f"
+		}
+	]
+}

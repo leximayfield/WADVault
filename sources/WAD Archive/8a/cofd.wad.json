@@ -1,0 +1,16 @@
+{
+	"uid": "cofd.wad",
+	"name": "Castle of Doom",
+	"description": "Dark and foreboding. Castle of Doom is reasonably large. It took me 30 minutes to get through it on the \"Hurt Me Plenty\" setting. Beware, there are traps! Be careful of switches and save game often. Doing things in the right order is critical to completing this level. Don't be afraid to leap across voids either. In one part of the level, you must run in order to get across the void and into the next room.",
+	"date": "2014-12-14 21:08:57",
+	"files": [
+		{
+			"filename": "cofd.wad",
+			"size": 585597,
+			"crc": 2906436249,
+			"md5": "9483b1e6151524647972b27c0733c38d",
+			"sha1": "8a9d427781dd0af7a5bec9de8832b7c1bc0b4cdb",
+			"sha256": "9259a7a588a5098d1f6b3685de58b85140a90f2225b6e58e97279453f8fc1974"
+		}
+	]
+}

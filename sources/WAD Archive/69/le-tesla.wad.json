@@ -1,0 +1,16 @@
+{
+	"uid": "le-tesla.wad",
+	"name": "Tesla Cannon",
+	"description": "This is a Doom mod which replaces the Plasma gun with the Tesla Cannon from Blood",
+	"date": "2014-12-11 22:11:11",
+	"files": [
+		{
+			"filename": "le-tesla.wad",
+			"size": 35277,
+			"crc": 386610048,
+			"md5": "3a9479797086cbc9b18f245df8a3eb2a",
+			"sha1": "69a0981c19aad02ba4da2bbd322ef5458cb2788b",
+			"sha256": "e0df2d8d0411498ff27f3e4aa52e3f6e4e27bc2e563cbdb73a4a98e26779bf45"
+		}
+	]
+}

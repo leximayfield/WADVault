@@ -1,0 +1,16 @@
+{
+	"uid": "tremor.wad",
+	"name": "Tremor: Part I - Genesis",
+	"description": "Tremor is a medium-sized techbase map, fairly open-plan but cramped in some areas. This is my first proper released map but I think I've definetly come a long way.",
+	"date": "2014-12-29 16:51:26",
+	"files": [
+		{
+			"filename": "tremor.wad",
+			"size": 4005652,
+			"crc": 3265673513,
+			"md5": "ec5d583803a2690d520252d6f95b42cb",
+			"sha1": "7636aa407ffffbdca6de28e5af187095e71a8445",
+			"sha256": "04fc083bed94d5b698370af28682be0ef4aa80bcb323435fc2f73611f301a3df"
+		}
+	]
+}

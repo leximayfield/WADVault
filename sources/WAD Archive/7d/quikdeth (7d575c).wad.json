@@ -1,0 +1,17 @@
+{
+	"uid": "quikdeth (7d575c).wad",
+	"name": "QUIKDETH.WAD",
+	"description": "This is a DeathMatch frag fest! Lots of weapons, good layout, room to run, and a few teleporters for a quick getaway. Even a few ambush spots for real fun!",
+	"version": "7d575c",
+	"date": "2014-01-07 22:26:36",
+	"files": [
+		{
+			"filename": "quikdeth.wad",
+			"size": 28268,
+			"crc": 2604466668,
+			"md5": "1f535576a5dd2d952040072efd11eb5a",
+			"sha1": "7d575c943352aa44d11013ca951eb146219ea461",
+			"sha256": "bfcee3e30b1ac55e4edb0c4a2bff077e9dbbd8e7c467dc271097f6d9de6621b7"
+		}
+	]
+}

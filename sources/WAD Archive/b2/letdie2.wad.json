@@ -1,0 +1,16 @@
+{
+	"uid": "letdie2.wad",
+	"name": "Let Them Die 2",
+	"description": "A Doom Episode 2 themed map (or at least that was my intent). Replaces E2M5 so it has two different exits, one leads to E2M6 the other to the secret level (E2M9). This map features a skybox, polyobjs, ACS scripting and various ZDoom special effects. A tip: remember that switches in DOOM can also be shot activated. As for the secrets, there are 15 secrets in in this map: some are plainly in sight, you just need to take a few seconds to look around yourself; to find the others try interacting with the computers (or anything that looks like one) and keep a sharp eye for blinking lights and for different textured walls.",
+	"date": "2014-12-14 20:49:25",
+	"files": [
+		{
+			"filename": "letdie2.wad",
+			"size": 2926528,
+			"crc": 2788323564,
+			"md5": "22cae112c15c69c6f9ca1f4f26143c7b",
+			"sha1": "b24e1199ac5a44c795e467dd872722a23e455dd5",
+			"sha256": "25fb2773c5158265adbfb1f1e16c51251f486999625ee16885ca431376dd0d94"
+		}
+	]
+}

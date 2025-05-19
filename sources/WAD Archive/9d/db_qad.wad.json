@@ -1,0 +1,16 @@
+{
+	"uid": "db_qad.wad",
+	"name": "Quick and Deadly",
+	"description": "A short and (on UV) fairly difficult level set in an underground UAC chemical facility",
+	"date": "2014-12-18 23:21:30",
+	"files": [
+		{
+			"filename": "db_qad.wad",
+			"size": 118332,
+			"crc": 459328643,
+			"md5": "b3b707145b8c2fdd893f9d05b96e67f3",
+			"sha1": "9da1a0b21df0dc10c9d988446b447baf23b1a7b5",
+			"sha256": "5e90f8da8cb6c5b6f5d14b87ee57d393065b0408a92df2fd93acfa0432a73d69"
+		}
+	]
+}

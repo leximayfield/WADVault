@@ -1,0 +1,17 @@
+{
+	"uid": "marx2_1 (a321bb).wad",
+	"name": "MARX2_1.WAD",
+	"description": "Pretty simple, no real puzzles, just action.",
+	"version": "a321bb",
+	"date": "2014-01-11 11:08:33",
+	"files": [
+		{
+			"filename": "marx2_1.wad",
+			"size": 104525,
+			"crc": 4064634220,
+			"md5": "8340837d0ab62088966d495a5e17b4bf",
+			"sha1": "a321bbaed05f1d54c64a8075da43040d85204035",
+			"sha256": "b5ed8ef5da5db594e4fca6e05b108f3d54dfc5227e692fff32fe5cdfc0021c48"
+		}
+	]
+}

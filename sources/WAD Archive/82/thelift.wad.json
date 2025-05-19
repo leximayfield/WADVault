@@ -1,0 +1,16 @@
+{
+	"uid": "thelift.wad",
+	"name": "THELIFT.WAD",
+	"description": "A large Heretic map surrounding a central lift shaft whose floor can be raised and lowered. Beware of traps.",
+	"date": "2018-06-15 11:24:41",
+	"files": [
+		{
+			"filename": "thelift.wad",
+			"size": 180516,
+			"crc": 2145842668,
+			"md5": "27962346bdf637eeeaf7aa9d7cac9c10",
+			"sha1": "82a8c50ab145d537d3146911608dcb1d9f57638c",
+			"sha256": "330f9be5a24cc1a7806ee4f88f26104d4946ba8d662fa3fb26eac673cc011a9e"
+		}
+	]
+}

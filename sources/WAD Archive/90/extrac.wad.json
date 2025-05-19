@@ -1,0 +1,16 @@
+{
+	"uid": "extrac.wad",
+	"name": "Extraction",
+	"description": "Some Sewage Base I worked on ages ago but never got around to completely till the Comm project in 2 weeks started. This is the official version before Vegeta stripped it of it's \"atmosphere\".",
+	"date": "2014-12-24 17:56:19",
+	"files": [
+		{
+			"filename": "extrac.wad",
+			"size": 1306485,
+			"crc": 2218680730,
+			"md5": "59219ff939700c605c0ae5f5fc1b12d6",
+			"sha1": "90a0f501c89fd1dcc9c52458846405c053693fa4",
+			"sha256": "7b56649fc085b5a8d0714f5de65b3c0ef8e39a59092b3a6459d755e12a3be182"
+		}
+	]
+}

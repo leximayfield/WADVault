@@ -1,0 +1,16 @@
+{
+	"uid": "plutwad.wad",
+	"name": "plutonia wad",
+	"description": "2 single player maps for plutonia I found",
+	"date": "2014-12-15 21:39:06",
+	"files": [
+		{
+			"filename": "plutwad.wad",
+			"size": 512099,
+			"crc": 4237345021,
+			"md5": "6683f4ed27441a58ba4d3bd310f1d158",
+			"sha1": "67fe806ae111973a4bfe1c69bb5197ca6a9a518f",
+			"sha256": "fbf073692c8d6d810345cb551d63b606a1c8bb8897b17f6fa595353ccf3a17d0"
+		}
+	]
+}

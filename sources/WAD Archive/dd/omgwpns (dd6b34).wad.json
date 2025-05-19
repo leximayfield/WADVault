@@ -1,0 +1,17 @@
+{
+	"uid": "omgwpns (dd6b34).wad",
+	"name": "OMG Weapons! (and Monsters)",
+	"description": "The best weapons mod you'll ever see. Scroll down for more details.",
+	"version": "dd6b34",
+	"date": "2013-04-18 23:40:26",
+	"files": [
+		{
+			"filename": "omgwpns.wad",
+			"size": 806297,
+			"crc": 1400623575,
+			"md5": "226c13fac696d70f1dca3db70b58367a",
+			"sha1": "dd6b34aef2e348488f64b8e6d0a63435773b42a0",
+			"sha256": "eb464b564b7ad1c33dc63a89fdbdf3ae40b1ba85538f7c4f89048250e72a9dda"
+		}
+	]
+}

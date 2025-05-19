@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Heretic: City of the Damned (v1.0)",
+	"name": "Heretic: City of the Damned",
+	"description": "Shareware release, contains episode 1",
+	"version": "v1.0",
+	"files": [
+		{
+			"filename": "HERETIC1.WAD",
+			"date": "1994-12-24",
+			"size": 5120300,
+			"crc": "884a3e45",
+			"md5": "023b52175d2f260c3bdc5528df5d0a8c",
+			"sha1": "5ef073366e5ca523b26a529e843f05c4907c23a4"
+		}
+	]
+}

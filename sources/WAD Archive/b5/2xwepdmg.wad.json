@@ -1,0 +1,16 @@
+{
+	"uid": "2xwepdmg.wad",
+	"name": "2x Weapon Damage MOD",
+	"description": "This MOD will alter the amount of damage for ALL weapons in Doom 2, by 2x. Use this to make your weapons two times more powerfull.",
+	"date": "2015-09-14 20:22:01",
+	"files": [
+		{
+			"filename": "2xwepdmg.wad",
+			"size": 785,
+			"crc": 1313005436,
+			"md5": "c6a00b63ee24445a074201f9cb4d0633",
+			"sha1": "b5e172854d7710b0b1ec83f5bae405852b2c2e76",
+			"sha256": "0fa8de1b17e963e0260cc83894aae8320d685a9965861c597901dd30283e3096"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sp_fail.pk3",
+	"name": "Some Maps From Some Episode of Some Megawad",
+	"description": "4 maps from the third episode of Ultimate Simplicity that got finished before I quit working on it. Don't expect anything special.",
+	"date": "2014-12-29 15:14:18",
+	"files": [
+		{
+			"filename": "sp_fail.pk3",
+			"size": 5443706,
+			"crc": 3278977718,
+			"md5": "a2994befb21f90bf0709668a3f4aa499",
+			"sha1": "6d53b25d4c6f9d3f4cab380c0f0116e1dbd923fb",
+			"sha256": "bcafd6ae8ebffe426a4062a271e7f3bda631f99c7996385f9340a31a023046e8"
+		}
+	]
+}

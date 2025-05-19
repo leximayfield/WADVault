@@ -1,0 +1,17 @@
+{
+	"uid": "hexdm (2c054e).wad",
+	"name": "Hexen DeathMatch",
+	"description": "Small deathmatch level based on Hexen`s first level, good with 2 players,",
+	"version": "2c054e",
+	"date": "2014-12-15 22:32:41",
+	"files": [
+		{
+			"filename": "hexdm.wad",
+			"size": 79350,
+			"crc": 1244745807,
+			"md5": "a113aceb929d7afc235a9aa6b00978e2",
+			"sha1": "2c054e1a32a192a132c428e9098548e56e5ec1e5",
+			"sha256": "b89f9e59c4a9b0aabbfce76efa887fd20a30cdf110ee1f20deaa9b662c03f3e3"
+		}
+	]
+}

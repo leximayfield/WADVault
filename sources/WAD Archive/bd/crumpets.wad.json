@@ -1,0 +1,16 @@
+{
+	"uid": "crumpets.wad",
+	"name": "Crumpets",
+	"description": "Crumpets is a set of 9 bite-size boom-compatible maps, designed to be played from pistol start. The levels are small, typically 50-100 monsters a piece, and loosely follow a plutonia / marble-ruins aesthetic. UV is designed for experts, so I encourage most players to start off on HMP.",
+	"date": "2015-08-17 21:54:11",
+	"files": [
+		{
+			"filename": "crumpets.wad",
+			"size": 4183865,
+			"crc": 3578591442,
+			"md5": "fb1d91e7d327f4de9e04b6f5f2d9bd97",
+			"sha1": "bd56a6fbde5a6fae6f7713bd469d4f5e9e2fb005",
+			"sha256": "5c69aa9a91aa63e951063fa11f7cfe97bdc4384e3e8ac2148bb36e551b63e0e1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "golachab.wad",
+	"name": "Golachab",
+	"description": "Golachab is a challenging single-player Doom 2 level (with difficulty levels supported for those who want a casual playthrough), intended for Boom compatible ports (tested in PrBoom+ complevel 9). The main inspiration was the fight up the hillside after the blue-key door in \"Hillside Siege\" from Alien Vendetta, and the start was inspired by some of the fast starts in Surge and some of Joshy's maps from Speed of Doom's second episode. Even though I've been screwing around with level editors for various FPS games for a decade now (mostly Unreal and Doom), this is the first time I've ever made something I felt was good enough to actually finish and publicly release; hopefully it's more enjoyable than most first maps!",
+	"date": "2014-12-24 17:43:04",
+	"files": [
+		{
+			"filename": "golachab.wad",
+			"size": 741326,
+			"crc": 1436955583,
+			"md5": "f3799b08743e5bc9227a5f79dfbff710",
+			"sha1": "b7126506d13b1723c134d08067cebe6e7a49fd9d",
+			"sha256": "bece65f6cfbfa74d5b8dddc846e7ec85992ce2bbf3cb5c8fcff07b39d137c0ab"
+		}
+	]
+}

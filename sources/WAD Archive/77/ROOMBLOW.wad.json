@@ -1,0 +1,16 @@
+{
+	"uid": "ROOMBLOW.wad",
+	"name": "The Room Below",
+	"description": "A TimeOfDeath map that should be compatible with the original vanilla Doom.",
+	"date": "2014-12-13 12:40:45",
+	"files": [
+		{
+			"filename": "ROOMBLOW.wad",
+			"size": 1804465,
+			"crc": 4284190849,
+			"md5": "d1f316bb8e431f22eb8d64792abbf5e6",
+			"sha1": "772efffc5f267fc355a8b7392b8757b46b3d9185",
+			"sha256": "7d7a73f9aaf1fe1c322bac3404dbf829bd5b7d94f4e3d93dc299a9cd9515b4cd"
+		}
+	]
+}

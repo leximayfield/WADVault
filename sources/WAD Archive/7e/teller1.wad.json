@@ -1,0 +1,16 @@
+{
+	"uid": "teller1.wad",
+	"name": "Lost in Tellerstein's Planet",
+	"description": "You're lost in an unknown and unnameable planet, ruled by a being known as Tellerstein. You must find your way through cosmic horrors and escape this ghastly nightmare.",
+	"date": "2014-12-29 15:55:53",
+	"files": [
+		{
+			"filename": "teller1.wad",
+			"size": 196038,
+			"crc": 3480641704,
+			"md5": "d77ed7a20e6b8d35e9179746fb666373",
+			"sha1": "7e9dd9d6e1e8046df424f3f7ccb98fadf5eea832",
+			"sha256": "97f02c2ee1eb4e7a900d5de22f0644017e0e912e7f62a99cc0e9c8c63df0978e"
+		}
+	]
+}

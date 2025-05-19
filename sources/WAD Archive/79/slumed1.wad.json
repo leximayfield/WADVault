@@ -1,0 +1,16 @@
+{
+	"uid": "slumed1.wad",
+	"name": "SLUMED1.WAD - SLU Med Dead version 1",
+	"description": "This is my first attempt at a pwad. SLUDEAD is a pwad (very loosely) based on the design of the SLU medical school. No new graphics or sounds yet, but are planned in future versions. Just a word of advice; CONSERVE your ammo because there isn't much excess. Look for hidden rooms by checking the map. All the weapons are there except the BFG.",
+	"date": "2013-11-03 17:46:11",
+	"files": [
+		{
+			"filename": "slumed1.wad",
+			"size": 335091,
+			"crc": 2745953896,
+			"md5": "0263ef04bdb9bdaeb09ddb04c09f41f6",
+			"sha1": "7975b319bc9a6455e7e620d5085e6776a69965e8",
+			"sha256": "37404893e7bb25fedeb0f99be35e1c58934ca23f6e1b84fcf27bd5d2abce06a4"
+		}
+	]
+}

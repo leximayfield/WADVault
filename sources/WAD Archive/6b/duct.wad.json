@@ -1,0 +1,16 @@
+{
+	"uid": "duct.wad",
+	"name": "Ducts",
+	"description": "You fell in a sewer - get out. If you get stuck, watch the demo.",
+	"date": "2015-02-21 09:02:31",
+	"files": [
+		{
+			"filename": "duct.wad",
+			"size": 26930,
+			"crc": 347234441,
+			"md5": "441f6b29dfb626408eb764f71efc37f4",
+			"sha1": "6be13f23a942c4cb2813fc2ff7f3c2d98c74cbb5",
+			"sha256": "a2bfd6634dc73b46ae667ebb773298c0bbd33a8dcd42fbcc2869bce671943165"
+		}
+	]
+}

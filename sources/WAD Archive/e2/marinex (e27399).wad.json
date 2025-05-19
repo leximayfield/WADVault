@@ -1,0 +1,17 @@
+{
+	"uid": "marinex (e27399).wad",
+	"name": "Marine Express",
+	"description": "Summonable Cooperative Marines that act realistic to the player.",
+	"version": "e27399",
+	"date": "2014-12-11 22:33:14",
+	"files": [
+		{
+			"filename": "marinex.wad",
+			"size": 1091365,
+			"crc": 3562890912,
+			"md5": "f32f757ea94c3865f2db3a193f1a9cb6",
+			"sha1": "e27399cb45c5d1b055edb73bf7a52bd63cf7d275",
+			"sha256": "f6ace4469426422f4fa364bd5a3d685f7afcca87fe153de25b0aa0fa97983ea6"
+		}
+	]
+}

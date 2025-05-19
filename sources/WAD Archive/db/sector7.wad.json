@@ -1,0 +1,16 @@
+{
+	"uid": "sector7.wad",
+	"name": "Sector Seven",
+	"description": "2-4 player DMatch level",
+	"date": "2014-12-15 22:51:00",
+	"files": [
+		{
+			"filename": "sector7.wad",
+			"size": 326303,
+			"crc": 1956842729,
+			"md5": "fb3592548f2eab17dcdebfff1f0dfdcc",
+			"sha1": "db0328cce5bd071db4df2826fd03f27e6f2e1b89",
+			"sha256": "8c303075e076c2103ed981b73d326cb99aa0dd8a4e88e6ec9a834165cd03d99f"
+		}
+	]
+}

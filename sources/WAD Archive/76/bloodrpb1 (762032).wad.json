@@ -1,0 +1,17 @@
+{
+	"uid": "bloodrpb1 (762032).wad",
+	"name": "Blood Resource Pack Build 1",
+	"description": "Resource WAD as base for level builders",
+	"version": "762032",
+	"date": "2014-12-11 22:25:09",
+	"files": [
+		{
+			"filename": "bloodrpb1.wad",
+			"size": 6971730,
+			"crc": 962046341,
+			"md5": "ef24e634c311b558d1551ca549ae610d",
+			"sha1": "7620320b87208fe324a14670d8f95330701f401b",
+			"sha256": "68be88d85ac5eacee2872090e7e08824d5558295dd4311c65dde5add04e209ee"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "killer21 (83f5c3).wad",
+	"name": "KILLER Level",
+	"description": "After playing many wads in deathmatch mode, I decided it was time to try to create one of my own. This level has many sniping places. There is a central teleportation room that takes you to the other areas. Each area will almost always have a way to shoot at someone in another area. There are switches that allow you to open an area previously unaccessable. Sometimes they open shortcuts to another area as well. As I said, this was originally designed to be a deathmatch level. However, as I got further and further into making it, it got kinda big. It's still a good deathmatch level for 3 or more players, with 2 players being a little bit harder to find the other person at times. There are quite a few smaller monsters, and several of the big guys as well (Most of whom you can avoid without having to fight them). What can I say, the guys I play with like to have something to distract other players so they can sneak up on them even better! It might make a good single player level, but it would be pretty tough!",
+	"version": "83f5c3",
+	"date": "2013-11-02 15:54:39",
+	"files": [
+		{
+			"filename": "killer21.wad",
+			"size": 112067,
+			"crc": 4012778971,
+			"md5": "8f1c1851986ad43c23e4dce1df1f1ef8",
+			"sha1": "83f5c3a9f3799e11d05ef023835089c39412b7a2",
+			"sha256": "07f5ec745c7f89152db736635a68d65591eeb26798d1ce9d5ee2579dcc97f4b8"
+		}
+	]
+}

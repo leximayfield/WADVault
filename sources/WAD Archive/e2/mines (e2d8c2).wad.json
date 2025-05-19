@@ -1,0 +1,17 @@
+{
+	"uid": "mines (e2d8c2).wad",
+	"name": "Mean Mines",
+	"description": "A short and relatively easy map, located in mines.",
+	"version": "e2d8c2",
+	"date": "2015-09-15 17:59:00",
+	"files": [
+		{
+			"filename": "mines.wad",
+			"size": 58844,
+			"crc": 2651395227,
+			"md5": "5103646aa939a914c19a35bc4f44be9f",
+			"sha1": "e2d8c2ef66c7a06c1ca08c024daf6cd526b695b9",
+			"sha256": "d2795a0fd0d61719d2a60a40e2fe83439c3cf972b4687c18bf830a3a7f74808d"
+		}
+	]
+}

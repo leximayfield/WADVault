@@ -1,0 +1,16 @@
+{
+	"uid": "section9.wad",
+	"name": "Section 9",
+	"description": "Section 9 has stopped communicating with mother base. Ready your gun soldier and find out what happened.",
+	"date": "2015-12-29 14:04:17",
+	"files": [
+		{
+			"filename": "section9.wad",
+			"size": 96530,
+			"crc": 3271346520,
+			"md5": "d282f0020029ee4b5c1f9f50727ac615",
+			"sha1": "beb073c4e9cec6ebe8c54d1e90176ed5be1866d5",
+			"sha256": "313c4feb9e5d30fbb2bdb99a17a56e111be760d3105c71d1bb933ba096742335"
+		}
+	]
+}

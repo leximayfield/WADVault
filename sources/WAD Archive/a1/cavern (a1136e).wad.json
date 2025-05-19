@@ -1,0 +1,17 @@
+{
+	"uid": "cavern (a1136e).wad",
+	"name": "Cavern",
+	"description": "REQUIRES ZDOOM OR A ZDOOM BASED PORT!",
+	"version": "a1136e",
+	"date": "2014-12-21 16:52:36",
+	"files": [
+		{
+			"filename": "cavern.wad",
+			"size": 165472,
+			"crc": 1714467150,
+			"md5": "15e5e9739a17bd8196d9b3e63eea9fbb",
+			"sha1": "a1136e860fe86e92d3db5bd3615f07076026ac1a",
+			"sha256": "5650ac63f67ad6fa81dff5fe2cdcb90139d5739932759a87edeaca44518da04c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pc_brut.wad",
+	"name": "Brutana",
+	"description": "A very hard and linear map with nasty ambushes galore. UV is for experts. Features every monster type from Doom 2 and finding the secret areas are vital!",
+	"date": "2019-07-10 16:20:14",
+	"files": [
+		{
+			"filename": "pc_brut.wad",
+			"size": 660207,
+			"crc": 190912902,
+			"md5": "b3e67160cc19d817ed8c936e36ea3d4b",
+			"sha1": "cb72e3042f2483cbc5fda73e656a9880f837e130",
+			"sha256": "144419cf834f50420bfd384107fccf6f2589e1aa87c76cca6650b49e99ca04ee"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "outbreak (eef5d4).wad",
+	"name": "Outbreak",
+	"description": "A doom2 map, wich is divided in two parts, the first one, is like futurstic with metallic textures, and the last one is like urban style. The map is quite difficult, although it wouldn't seem at the beggining.",
+	"version": "eef5d4",
+	"date": "2015-09-15 17:15:12",
+	"files": [
+		{
+			"filename": "outbreak.wad",
+			"size": 135586,
+			"crc": 2114702067,
+			"md5": "0250d5f0ae5efc66f9360beb774f7dd2",
+			"sha1": "eef5d4fc40e256811154fb158ba1df12cdff7736",
+			"sha256": "4757697865fab3cfc4f1bc5831e4ecc443ebd7d4885b3fbede793500cf92de88"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cooltowr.wad",
+	"name": "The Cooling Tower",
+	"description": "Ok, it's pretty lame in it's not-very-tall- ness, but I can't go higher because of the way the \"floating\" bridge works. Another in the Nuclear Power Plant DM series.",
+	"date": "2014-12-15 21:50:17",
+	"files": [
+		{
+			"filename": "cooltowr.wad",
+			"size": 91848,
+			"crc": 788429125,
+			"md5": "ebd35dd1f221a4edb823d0388224bbfc",
+			"sha1": "320f4ed4b1a8e1da5844248dbe836a5b3300bf96",
+			"sha256": "fee8c38f04da76b0289cf326962c2c4d5619d5ac6ef60a7af0b87f903794f2ae"
+		}
+	]
+}

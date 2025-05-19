@@ -1,0 +1,16 @@
+{
+	"uid": "space22.wad",
+	"name": "Space22.WAD",
+	"description": "This is level 1 of a 4 level episode. It's supposed to take place in a Space Station. I have spent plenty of time aligning and drawing new textures to get some good effects. Hope, you enjoy it ! It was designed for DooM 1, I have painfully converted it to work with DooMII. Any comments and suggestions welcome.",
+	"date": "2014-01-07 22:23:49",
+	"files": [
+		{
+			"filename": "space22.wad",
+			"size": 767674,
+			"crc": 714958133,
+			"md5": "bea9e5ac9b7ca29be98a18c2f93a3409",
+			"sha1": "38778df76a2c37478dd95b527985e8f229ea471e",
+			"sha256": "3f028ce5fc4fdaf6cc5b83358ed3d5fc325f17dae0e00f73c7b4b3f7b51a1536"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ahell (2f8c8a).wad",
+	"name": "Simple Hellgate",
+	"description": "A small but challenging map for Gzdoom using Dynamic lights. Make sure your dynamic lights type is set to legacy type to play this map.",
+	"version": "2f8c8a",
+	"date": "2014-12-21 16:53:25",
+	"files": [
+		{
+			"filename": "ahell.wad",
+			"size": 400497,
+			"crc": 520447609,
+			"md5": "c9154f41f53426a8989052f68cff912f",
+			"sha1": "2f8c8af9cca3c7ca671acf2de45501fd59b9b484",
+			"sha256": "b7514073b631e2349fb549443c8c89c0df2507f5c098e914906b439d58a2ec50"
+		}
+	]
+}

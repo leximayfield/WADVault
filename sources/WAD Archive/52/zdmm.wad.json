@@ -1,0 +1,16 @@
+{
+	"uid": "zdmm.wad",
+	"name": "Zdoom as Markmenu Shell",
+	"description": "A program which uses Zdoom as a shell for",
+	"date": "2015-09-14 20:50:34",
+	"files": [
+		{
+			"filename": "zdmm.wad",
+			"size": 206878,
+			"crc": 3327204827,
+			"md5": "a7eb897b6dde793c84572c0a2f34c30e",
+			"sha1": "5273b9045635934cb46d370bbdbf9a18858bebdf",
+			"sha256": "6a6b637fb25b6947d74eee74ee3cd84b391ce1d4d5922cedb7bddac58271c7f4"
+		}
+	]
+}

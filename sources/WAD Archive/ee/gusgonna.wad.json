@@ -1,0 +1,16 @@
+{
+	"uid": "gusgonna.wad",
+	"name": "DMXGUS Gonna Give it to Ya",
+	"description": "This WAD contains a replacement DMXGUS lump which you should probably load if you're building a retro PC with a Gravis Ultrasound card (or if you're emulating one).",
+	"date": "2018-05-07 23:48:12",
+	"files": [
+		{
+			"filename": "gusgonna.wad",
+			"size": 11012,
+			"crc": 1348952284,
+			"md5": "88c11356f98e23fadfe8beb385fb7c7a",
+			"sha1": "ee5b2f302a1c7faac4174d7802fc070ba73ba1f3",
+			"sha256": "47f5e8ee187b4e29e5beab8c529f5802d6f477947e659a525a4bb064587cb493"
+		}
+	]
+}

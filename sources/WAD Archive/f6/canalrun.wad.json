@@ -1,0 +1,16 @@
+{
+	"uid": "canalrun.wad",
+	"name": "Canal Run v1.0",
+	"description": "Dropped into a series of canals with swiftly flowing water, the only way for you to escape is by defeating the Barons of Hell which guard the teleporter out. Unfortunately for you, there are also some Cyberdemons firing into the canals from above, as well as hazards like barrels floating around too..",
+	"date": "2014-12-13 17:39:55",
+	"files": [
+		{
+			"filename": "canalrun.wad",
+			"size": 141445,
+			"crc": 634290781,
+			"md5": "e30f846711d060665f428f57afd1dc6f",
+			"sha1": "f69ddc468ca3835b8ddae5aed50d696aa66e52dc",
+			"sha256": "f5c3d2ec0f9f0fb112d9159180a3e3574742669d214542faa6c92d427ef0c899"
+		}
+	]
+}

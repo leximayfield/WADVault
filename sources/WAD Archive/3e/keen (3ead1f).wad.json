@@ -1,0 +1,17 @@
+{
+	"uid": "keen (3ead1f).wad",
+	"name": "Keen: The wad.",
+	"description": "Hmm, i guess it is okay for Deathmatch... There are no bad guys in it, so DM would make sense. =) It is actually the floor plan of my house. For some reason the outside wouldn't go in, so it is inside only, missing a few closets.",
+	"version": "3ead1f",
+	"date": "2014-12-15 22:43:34",
+	"files": [
+		{
+			"filename": "keen.wad",
+			"size": 26434,
+			"crc": 2176505597,
+			"md5": "a833642eabbe42be93216d1b9e33e7c2",
+			"sha1": "3ead1f6e37047a7759f3be2f7e8dc0abbaa3bfa4",
+			"sha256": "3dd0b641913487eee6a4133132717e932ad9bce52ae5f0411bbdbd77ec74267e"
+		}
+	]
+}

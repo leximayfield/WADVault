@@ -1,0 +1,17 @@
+{
+	"uid": "storage (2f897d).wad",
+	"name": "Storage",
+	"description": "A HUGE level. Includes an inside area resembling a storage warehouse and an outside area which is fun in Deathmatch (sniper towers, etc.). My first WAD.",
+	"version": "2f897d",
+	"date": "2015-01-14 22:41:18",
+	"files": [
+		{
+			"filename": "storage.wad",
+			"size": 154292,
+			"crc": 3367835835,
+			"md5": "fefcc1ad5cdefeded939bdb7cb56040b",
+			"sha1": "2f897d16e0c46f8995cb86bf8b9efd6c2a18365d",
+			"sha256": "df79133050052ed2d18b5f08399c655171987dbdebb028100cedb5fd66c53ff0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DTH4PCOM (69ab55).wad",
+	"name": "Death Match Map for 4 players (5 5+)",
+	"description": "This map was created using the top 31 ranked Deathmatch PWADS for 4 players. They rank from 9 to 5 in play and design was not taken into consideration at all.",
+	"version": "69ab55",
+	"date": "2014-01-07 22:03:03",
+	"files": [
+		{
+			"filename": "DTH4PCOM.wad",
+			"size": 3620632,
+			"crc": 2685855730,
+			"md5": "de23035242cd502c4708b3f6d1bb7b51",
+			"sha1": "69ab55a10ba17a9653afd0b06b698f60bc5a35c3",
+			"sha256": "852187de85ccec097613de254045669427532ef38390d70508128b36ac0d80b5"
+		}
+	]
+}

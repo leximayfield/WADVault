@@ -1,0 +1,17 @@
+{
+	"uid": "houses13 (a3bf3e).wad",
+	"name": "Houses 1.3",
+	"description": "15 deathmatch levels. The first 9 are house the last two are ones I wrote. Lots of rearranging and fixing since last version. This whole thing is 2.5 megabytes big when unzipped. This kicks all DOOM II deathmatch levels combined. Except maybe anything The Innocent Crew might have made.",
+	"version": "a3bf3e",
+	"date": "2018-04-14 09:40:03",
+	"files": [
+		{
+			"filename": "houses13.wad",
+			"size": 2606700,
+			"crc": 2624040064,
+			"md5": "ce0a92e9bf0eb3d48e5ecd3e41b1f72d",
+			"sha1": "a3bf3eec744dad81ab2b73e945df194690d6694b",
+			"sha256": "0310de8fbf3d742b38e242a3246d3fe8da0b202e4bc924da0f199be445d65228"
+		}
+	]
+}

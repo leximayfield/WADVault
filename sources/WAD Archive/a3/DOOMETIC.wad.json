@@ -1,0 +1,16 @@
+{
+	"uid": "DOOMETIC.wad",
+	"name": "DOOMETIC for Heretic",
+	"description": "Tribute to DOOM 1. The beginning of a great Game Series. The Episode is filled with 6 original DOOM 1 Levels converted for Heretic ! Why DOOMETIC ? Find out and write a mail to phantasia land :) This version is bug fixed, because texture problem in e1m6. Also new cool muzak included.",
+	"date": "2014-10-20 19:59:08",
+	"files": [
+		{
+			"filename": "DOOMETIC.wad",
+			"size": 608164,
+			"crc": 3348071035,
+			"md5": "7b7828e33d04387994a2015f727792f4",
+			"sha1": "a361cc80d97b7ee931a69a6ce01f712e4922ec86",
+			"sha256": "7f8f17fcd862d7cd21c58cc075754df7ac04f2f486f5d8b43028d37d1d3333ba"
+		}
+	]
+}

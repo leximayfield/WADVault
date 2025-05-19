@@ -1,0 +1,16 @@
+{
+	"uid": "trapspac.wad",
+	"name": "Trapped in space",
+	"description": "You've been stranded in the UAC military space outpost for weeks, unable to contact the headquarters for assistance. You're stuck to fight off the demons yourself. You don't know if you're the only one alive, but you're certainly not gonna let yourself die here alone",
+	"date": "2018-06-15 14:57:54",
+	"files": [
+		{
+			"filename": "trapspac.wad",
+			"size": 2064829,
+			"crc": 3560625793,
+			"md5": "a40f71b12971221bb4f650e04b1e22ce",
+			"sha1": "e144a278d889cf20d9f7ce89ce03c2b0605edb22",
+			"sha256": "aa04b09d41afa602dfb6fd9189d8726ad449df2a4a2dd193a331cc23b3727291"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "maze7 (cbd138).wad",
+	"name": "MAZE.WAD",
+	"description": "It's simple, no lifts, or rising stairs or anything. It's a maze, after all. A few secrets in there.",
+	"version": "cbd138",
+	"date": "2016-02-06 13:54:31",
+	"files": [
+		{
+			"filename": "maze7.wad",
+			"size": 85603,
+			"crc": 586429465,
+			"md5": "24adbba0aceb88b0226167dd05bca997",
+			"sha1": "cbd138bc660af4037987738e3b85a4d279ca682f",
+			"sha256": "e3eac0e22e510658525671ffb064f501d86bc49d3d666b64103bc3139595dd3a"
+		}
+	]
+}

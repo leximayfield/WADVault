@@ -1,0 +1,17 @@
+{
+	"uid": "hellblk2 (519d21).wad",
+	"name": "HellBlok 2",
+	"description": "This WAD file is the sequel to my first WAD file, HellBlok.wad. There are a few new texture mapped walls in this episode - nothing too fancy. If you enjoy HellBlok 2, check-out the first HellBlok.",
+	"version": "519d21",
+	"date": "2013-11-02 16:02:02",
+	"files": [
+		{
+			"filename": "hellblk2.wad",
+			"size": 198446,
+			"crc": 3486996325,
+			"md5": "58d6b383726179a4dfb6d46be3b31e5e",
+			"sha1": "519d2128e62737977160990ae1ed314a92d269c7",
+			"sha256": "fdb6291f246e1ffba79e5c361b57ad7b3ef5bbe721987fd4ef4fb1ec2bd141f2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sndckpsx (818f46).pk3",
+	"name": "Sound Caulking PSX",
+	"description": "So, have you ever been annoyed how so many monsters reuse sound effects, and how a few of them have no sounds to call their own? Tired of Revenants making the same old \"DEEU-EEUH\" sounds when shot instead of a suitably skeletony shriek? How about that naughty Archvile, and his distinct lack of sounds in the PSX version's style? Well now you're in luck! With the magic of a little SNDINFO, Audacity, and some sounds I had lying around, anything is possible! (For PSX fans at least!)",
+	"version": "818f46",
+	"date": "2015-09-15 19:34:32",
+	"files": [
+		{
+			"filename": "sndckpsx.pk3",
+			"size": 2057216,
+			"crc": 1473400857,
+			"md5": "9d0a74d86a6be9156cc7a3566daa6b3e",
+			"sha1": "818f46bcd836253edb8d9532c639a0f310a7b19c",
+			"sha256": "73b674a79131734a48f80cb7a9b0f17b57cf120760e2346cfa76f46ed5d0a214"
+		}
+	]
+}

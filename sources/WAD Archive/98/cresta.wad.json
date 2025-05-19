@@ -1,0 +1,16 @@
+{
+	"uid": "cresta.wad",
+	"name": "Assault on Moonbase Cresta",
+	"description": "A large base-style level with a lot of extra patches, textures, and sprites. Also something of an Episode One recreation.",
+	"date": "2014-12-21 16:30:21",
+	"files": [
+		{
+			"filename": "cresta.wad",
+			"size": 724256,
+			"crc": 3286304143,
+			"md5": "3cf412766137a6a9c966e7fffa05dd6f",
+			"sha1": "98b610df6c6c2dc79ad005fbd6d1b8e3e98a2184",
+			"sha256": "889d57a63bd285dd803daf063be2a87e060310016a2f306619a2fa7e3e44f68d"
+		}
+	]
+}

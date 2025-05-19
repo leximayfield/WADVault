@@ -1,0 +1,17 @@
+{
+	"uid": "abyss (76e557).wad",
+	"name": "Abyss",
+	"description": "Kickass Doom2 Map!",
+	"version": "76e557",
+	"date": "2014-12-21 17:10:27",
+	"files": [
+		{
+			"filename": "abyss.wad",
+			"size": 122162,
+			"crc": 2121725845,
+			"md5": "e0e04960d64bc233919b02344f74e830",
+			"sha1": "76e55795341b48ffb798e825feb42a7f69f971e3",
+			"sha256": "d96755e91d00e0891a8d60b2a2fd3cc6af4cca6ec30f5e2dc5ea53b5eb836782"
+		}
+	]
+}

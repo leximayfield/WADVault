@@ -1,0 +1,16 @@
+{
+	"uid": "hconvdem.wad",
+	"name": "Heretic Conveyorbelt Script Demonstration",
+	"description": "An example of how to get conveyorbelt scripts running in vanilla Heretic as well as in Zdoom, Vavoom and Legacy. (Legacy in particular) The map is using the ALLTRIGGER linedef flag to get Legacy to run it's own conveyorbelt script. This obviously should work just as well with Boom based wads for Doom2.",
+	"date": "2015-09-15 13:40:56",
+	"files": [
+		{
+			"filename": "hconvdem.wad",
+			"size": 27831,
+			"crc": 3122734037,
+			"md5": "35da00550eb571fde9843dcaa7ee4ca3",
+			"sha1": "5f820d63d5bea31a894ec1b93b552e5674a2f70d",
+			"sha256": "2f4e855f2c69015e581dec801ccd85ba783295ff51aa88f3a731ab4865c1aed9"
+		}
+	]
+}

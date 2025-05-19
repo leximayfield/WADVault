@@ -1,0 +1,16 @@
+{
+	"uid": "cod-zd.pk3",
+	"name": "Caverns of Darkness patch for ZDoom",
+	"description": "A small patch for ZDoom to play : Caverns of Darkness by the Chaos Crew. : This mod requires a customized EXE which : unfortunately is a DOS version that causes : massive problems with newer Windows XP systems : This patch allows to play this WAD with a modern : source port : : This is hopefully the final version of this patch : It is the first one only using officially documented : ZDoom features to achieve its goal.",
+	"date": "2014-12-21 15:15:25",
+	"files": [
+		{
+			"filename": "cod-zd.pk3",
+			"size": 4563,
+			"crc": 2552038121,
+			"md5": "2f3878cae75d53703b38f2ab1fe39f13",
+			"sha1": "3e5c6db44c656e69b5d814f42b81baf4e60525f9",
+			"sha256": "ec0378ff20a6381b809da6ded85d6c8019747353e25bb73cf0525be1f1c9340e"
+		}
+	]
+}

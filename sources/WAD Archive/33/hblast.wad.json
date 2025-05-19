@@ -1,0 +1,16 @@
+{
+	"uid": "hblast.wad",
+	"name": "HELLBLAST",
+	"description": "This is a challenging DOOM2 WAD, large level, single player primarily, lots of great secret areas and some really tough game play.",
+	"date": "2014-12-18 22:27:59",
+	"files": [
+		{
+			"filename": "hblast.wad",
+			"size": 116752,
+			"crc": 377760212,
+			"md5": "f8df80f1de7b64991da22758774e72da",
+			"sha1": "339c2f0769cf42726f73f6dd09e7ad307e489ebd",
+			"sha256": "36a9de1310778d6d492c6e6ce264044881efc275804acca954cabd00044feed1"
+		}
+	]
+}

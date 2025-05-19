@@ -1,0 +1,16 @@
+{
+	"uid": "tele13.wad",
+	"name": "Teleportation Test Lab #13",
+	"description": "You receive a frantic message from High Command, informing you that one of the UAC labs which has been experimenting with teleportation technology has been overrun with hellspawn. Intelligence indicates that the location's warpgate has a direct link to a small staging area of Hell, which holds powerful demonic forces capable of wreaking havoc on Earth. You accept the assignment to enter Lab 13 and purge it of all hostiles. Additionally, you are tasked with finding a way to stop more demons from entering through the facility's warpgate, even if that means destroying the staging area by going into Hell itself!",
+	"date": "2014-12-13 17:54:43",
+	"files": [
+		{
+			"filename": "tele13.wad",
+			"size": 651244,
+			"crc": 751777535,
+			"md5": "0e4454cd3e42e5947424d7f6885e4956",
+			"sha1": "c1cdfee30b7d0c953d3bee7515f1eeea22d018e7",
+			"sha256": "afa1f75257b7bd960198cca0287aac1166d9edc9ad6a260c7c6dd75f82b0d2f2"
+		}
+	]
+}

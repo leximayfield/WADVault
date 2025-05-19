@@ -1,0 +1,17 @@
+{
+	"uid": "jawapak (b8264d).wad",
+	"name": "jawapak.zip",
+	"description": "A new, short, 4 level DOOM episode... Jawahencov's Revenge. Pretty difficult, and has some neat sections in it.",
+	"version": "b8264d",
+	"date": "2013-11-02 15:14:33",
+	"files": [
+		{
+			"filename": "jawapak.wad",
+			"size": 91344,
+			"crc": 2676177526,
+			"md5": "e2891ca92fdef89096cf11259f36f745",
+			"sha1": "b8264d0af09b2843e9919e64270beacd4d6cad92",
+			"sha256": "ba3c4bde1c43bb0325ed5509941575eb56d8aa43c08ae83203962d9663a3ff84"
+		}
+	]
+}

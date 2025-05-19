@@ -1,0 +1,16 @@
+{
+	"uid": "D2SPFX19_FULL.wad",
+	"name": "Doom 2 Minor Sprite Fixing Project v1.9 (Full Modder's Resource WAD)",
+	"description": "This is the Full Modder's Resource WAD of the Doom 2 Minor Sprite Fixing Project v1.9. This resource is meant for mappers or sprite artists who wish to utilize the sprite fixes in their own projects. Included in the WAD file are the untrimmed graphics contents, hence they can be batched processed for new palette conversions or selectively extracted and merged for individual monster sprite edits.",
+	"date": "2018-12-24 08:10:47",
+	"files": [
+		{
+			"filename": "D2SPFX19_FULL.wad",
+			"size": 4625166,
+			"crc": 4212078990,
+			"md5": "b2cd3bee4b198f47468836ec736f2b24",
+			"sha1": "6a0c0e0d418f6f2f877be6fbf674c17cec2dff4f",
+			"sha256": "89dece173c24fbd7335bd3cd37c10ad210e6fac4ca220a28a76bade73fedf472"
+		}
+	]
+}

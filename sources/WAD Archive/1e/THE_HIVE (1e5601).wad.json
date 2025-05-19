@@ -1,0 +1,17 @@
+{
+	"uid": "THE_HIVE (1e5601).wad",
+	"name": "The Hive",
+	"description": "This was an outtake from the Master Levels.",
+	"version": "1e5601",
+	"date": "2014-10-20 19:51:04",
+	"files": [
+		{
+			"filename": "THE_HIVE.wad",
+			"size": 146260,
+			"crc": 1631016346,
+			"md5": "4cb405b9ae5bb04fd80dfc81ecb9960a",
+			"sha1": "1e560154b3b91d42cd7b1df4ff6d80884bf84bbb",
+			"sha256": "754479211ffcbf240c08c6cdc6c1912f1c2eee3626682d04fe286a8fb55d1d70"
+		}
+	]
+}

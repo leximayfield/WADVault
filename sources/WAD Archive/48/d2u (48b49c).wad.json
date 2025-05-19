@@ -1,0 +1,17 @@
+{
+	"uid": "d2u (48b49c).wad",
+	"name": "Death 2 You Wad",
+	"description": "Designed for Doom II. The firs level I tried to make.",
+	"version": "48b49c",
+	"date": "2014-01-07 22:09:14",
+	"files": [
+		{
+			"filename": "d2u.wad",
+			"size": 38645,
+			"crc": 3216053177,
+			"md5": "bc03b9e2d3357783b00aa6e082fd6b2f",
+			"sha1": "48b49c9ae12342fe420293fd05309d171bb45d12",
+			"sha256": "3f210771fa21fb9995aedb09092caea3bd1c28a8e9858045a8fc050d7d231a14"
+		}
+	]
+}

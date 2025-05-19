@@ -1,0 +1,16 @@
+{
+	"uid": "RUSTBUCK.wad",
+	"name": "Rust Bucket",
+	"description": "A rusty metal techbase built mostly for the dumping of toxins. Bits of it are kinda sorta not really based on the level Inmost Dens.",
+	"date": "2015-01-14 22:50:33",
+	"files": [
+		{
+			"filename": "RUSTBUCK.wad",
+			"size": 191467,
+			"crc": 1398295010,
+			"md5": "87e6693271595f45472f73783b7b8c22",
+			"sha1": "d9003e57894c68b030151519d575cdaff5d1a358",
+			"sha256": "9b68d0ed9200b5b15b551e02ef8c4962c57ec14a4a91afb248501096f41c44aa"
+		}
+	]
+}

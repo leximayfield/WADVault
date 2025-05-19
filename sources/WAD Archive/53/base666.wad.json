@@ -1,0 +1,16 @@
+{
+	"uid": "base666.wad",
+	"name": "Monster Base",
+	"description": "This is a medium size level (took me 25:28 to record in UV) that offers a variety of architecture and good gameplay. Plenty of shells so blast away! All skill levels have been set and tested for health, ammo and playability. UV is best played by experienced Doomers but HMP is just as much fun. If anyone can beat this level please send your lmp (UV or HMP) as I'm sure I'd enjoy watching the action. Getting weapons in the opening may seem a little tricky but it just takes a few attempts to find and retrieve them.",
+	"date": "2014-12-15 22:23:00",
+	"files": [
+		{
+			"filename": "base666.wad",
+			"size": 762575,
+			"crc": 4424194,
+			"md5": "3deb0c6414aff0c5bedd3ca0debda1b9",
+			"sha1": "535a9ad51be10825a1cbcd4927831453f8c92a3b",
+			"sha256": "03d87f319cc1e14c8c93f545ec80228385ec11c394f9436a66579ef6b4de11c5"
+		}
+	]
+}

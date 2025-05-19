@@ -1,0 +1,17 @@
+{
+	"uid": "ambush (a92dae).wad",
+	"name": "Ambush",
+	"description": "One of the Artifact levels",
+	"version": "a92dae",
+	"date": "2015-09-15 18:15:05",
+	"files": [
+		{
+			"filename": "ambush.wad",
+			"size": 1621900,
+			"crc": 2928072246,
+			"md5": "2f53312a6810aee4d58cfe0e2dafa0e7",
+			"sha1": "a92daeb1206771c9313e14d261e716d48f2a6fe0",
+			"sha256": "45f7a69426437507f542e31378af31382014dc204d1b09e92c82486ad0fd190f"
+		}
+	]
+}

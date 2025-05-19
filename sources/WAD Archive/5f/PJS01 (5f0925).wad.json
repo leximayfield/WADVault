@@ -1,0 +1,17 @@
+{
+	"uid": "PJS01 (5f0925).wad",
+	"name": "pjs01.WAD",
+	"description": "This level was used for testing my DOOM editor, DOOM Construction Set (DCS) 1.0. It's a little small, but I didn't want to spend all my time on the level and not the editor!",
+	"version": "5f0925",
+	"date": "2013-11-02 15:43:01",
+	"files": [
+		{
+			"filename": "PJS01.wad",
+			"size": 57813,
+			"crc": 2192163881,
+			"md5": "fd9d881189bb3ceebeafeeafd7a04fa4",
+			"sha1": "5f09251fffd20b7eb382f2f5b7a18b27db8eaa40",
+			"sha256": "db49c2bfbea185de0244689544f99132ae7431ed7287d4e425e0b27d1a943c64"
+		}
+	]
+}

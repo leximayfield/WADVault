@@ -1,0 +1,17 @@
+{
+	"uid": "skycity (927d84).wad",
+	"name": "SKYCITY.WAD",
+	"description": "Well, this is my second attempt at a pwad. I think this one is a little better than my first attempt (which wasn't that bad - toot toot!! :) SKYCITY is just that - A semi-city stuck 1 mile high in the sky. I created new textures to simulate the effect. It has all new wall textures in it as well as a new sky/floor ...blah blah..... But, PLEASE, run the SKYCITY.BAT file so that you can temporarily put the floor textures into your DOOM.WAD file (yeah, sorry - Can't put new floors into pwads). But, the batch file takes care of it and will restore the original floors when you're done. Back it up if you don't trust me :) I included a .lmp just in case you get a little PO'd trying to find the secrets (They aren't that hard, anyway...)",
+	"version": "927d84",
+	"date": "2013-11-02 16:58:39",
+	"files": [
+		{
+			"filename": "skycity.wad",
+			"size": 429020,
+			"crc": 2283215489,
+			"md5": "dd98ef0ca93e79aa854054eaa6cd792c",
+			"sha1": "927d84e5480423102d0238c0a90ef301a7c10772",
+			"sha256": "c710826681dc3496fbe608a8935dd195f8a23c6dda73cea4008158c65d3e288b"
+		}
+	]
+}

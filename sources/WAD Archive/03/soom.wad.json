@@ -1,0 +1,16 @@
+{
+	"uid": "soom.wad",
+	"name": "SOOM",
+	"description": "inspired by this: https://www.youtube.com/watch?v=dQFUA2cr1fw This mod takes the entire soundtrack of the first doom and replaces most instruments with the \"some\" from All Star, while adding a few surprises.",
+	"date": "2017-03-25 20:41:46",
+	"files": [
+		{
+			"filename": "soom.wad",
+			"size": 29972221,
+			"crc": 3877361276,
+			"md5": "619ee1890b6afc32b3a433b5e406e46b",
+			"sha1": "031566d7d425de1f6ca3c542e2fe8feb6ad5ed65",
+			"sha256": "74f6e258c7e58a8abef838a5e2f907286980f2fff68c3c0faa9907f627e9be9d"
+		}
+	]
+}

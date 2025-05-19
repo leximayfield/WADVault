@@ -1,0 +1,16 @@
+{
+	"uid": "rogues2.wad",
+	"name": "ROGUES2, version 1.131",
+	"description": "ROGUES2 is similar to ROGUES I made in September 1994. It's a level for games who prefere the shotgun. Of course you can find the other weapons too, but it should be possible to finish this level just with the shotgun. This level mainly consists of very detailed rooms, with a lot of windows, doors and other possibilities to hide behind and shoot each other. Although I I couldn't test this level for multiplayer game it should work very well in that mode. In some places in this level are small difficulties, so don't forget: Think first, then move !",
+	"date": "2013-11-06 22:50:33",
+	"files": [
+		{
+			"filename": "rogues2.wad",
+			"size": 171878,
+			"crc": 2122978132,
+			"md5": "1244256ec847dfec83f650bcc2c0b9a3",
+			"sha1": "d35d18d0847126f0ab6bdded32160da8978b124c",
+			"sha256": "ef028e392617af4577b3d1b769ec0291eb6375a1c0a42d0c46c494d2b9a0f8ca"
+		}
+	]
+}

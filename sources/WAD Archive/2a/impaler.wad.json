@@ -1,0 +1,16 @@
+{
+	"uid": "impaler.wad",
+	"name": "The Impaler's Labyrinth",
+	"description": "Your worst nightmare has found you! You're trapped in a labyrinth ruled by a terrible impaler. Will you dare cross it? Will you survive his cruelty? Welcome to the impaler's labyrinth.",
+	"date": "2014-12-24 17:39:34",
+	"files": [
+		{
+			"filename": "impaler.wad",
+			"size": 597269,
+			"crc": 1154605816,
+			"md5": "bf9ad9ffbd3385eeb96ac418a92eb68d",
+			"sha1": "2a9d0b269f29790d5780738ee15fbf350ea8ec30",
+			"sha256": "890715366b17eea210a30c7d89704ec84b0f5d49ba6b850bfbc5c61a630326b9"
+		}
+	]
+}

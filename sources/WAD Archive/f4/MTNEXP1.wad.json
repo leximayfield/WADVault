@@ -1,0 +1,16 @@
+{
+	"uid": "MTNEXP1.wad",
+	"name": "Mountain Explosion Ver.1",
+	"description": "Mountain Explosion: UAC experiments on a Quantum Gate Nullifer have backfired. A resulting overload and explosion has decimated Fort Epsilon, an underground UAC installation, and opened a gateway to Hell. A special response team has been dispatched and you are part of that team. You as the team's most decorated member have been assigned to enter the Fort through its surface water treatment plant. You are to proceed down through the east wing of the Fort and attempt to reach the Quantum Gate Nullifer in order to shut it down. The main force has already managed to infiltrate the Forts security wing and has deactivated the locking mechanisms on the Water Treatment Plant's main door. Note: This is the first 3 maps. 6 more maps are planned. All maps are tech-base though some will feature a mix between Hell and tech.",
+	"date": "2015-01-13 21:50:33",
+	"files": [
+		{
+			"filename": "MTNEXP1.wad",
+			"size": 3016010,
+			"crc": 4194231562,
+			"md5": "5b01c556bd14af8d30c2036c087cfe1e",
+			"sha1": "f491fc84e237334c1fc55e6c55d5100fe14bb612",
+			"sha256": "b985f016d398efc11d70c720dc1b6ce59000adf7f60a21b3df88deb7851f8bc6"
+		}
+	]
+}

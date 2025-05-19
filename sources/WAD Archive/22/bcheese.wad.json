@@ -1,0 +1,16 @@
+{
+	"uid": "bcheese.wad",
+	"name": "Bloody Cheese",
+	"description": "A singular map designed solely for Coop mode. Infinite ammo should be turned on, and no difficulty levels whatsoever are present. Just blast your way through. Not very long either, maybe something to try and finish without dying.",
+	"date": "2014-12-21 16:46:20",
+	"files": [
+		{
+			"filename": "bcheese.wad",
+			"size": 286662,
+			"crc": 3904677898,
+			"md5": "f8b25abb3430722a706e862047b4a227",
+			"sha1": "22255a6ca31633cd86d4281d90cf629dac783ce8",
+			"sha256": "483917cbd3a5141c24bf83d0ba5b04cd1dd04dfc90d7653582706aa5190162cd"
+		}
+	]
+}

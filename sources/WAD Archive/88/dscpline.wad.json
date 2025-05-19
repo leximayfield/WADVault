@@ -1,0 +1,16 @@
+{
+	"uid": "dscpline.wad",
+	"name": "DISCIPLINE",
+	"description": "Small level designed to be a one-on-one deathmatch. Accurate ambientation and hard fraggin'! If you run this map under any of the new Doom ports in which you can jump, please keep in mind that reaching the Plasma Gun with a jump should be considered as CHEATING, so this time keep your feet on the ground, okey?",
+	"date": "2014-12-15 21:26:45",
+	"files": [
+		{
+			"filename": "dscpline.wad",
+			"size": 290916,
+			"crc": 254004606,
+			"md5": "72ca4dc14dd5d8e8df1b81621b9b4af7",
+			"sha1": "884f28fcd7e5d9a8c988c655da1a1df87e72a21b",
+			"sha256": "9ead85b4120bbd2ff87084687f0ce14ff75a2c89e5937c378681fc717343f075"
+		}
+	]
+}

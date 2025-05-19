@@ -1,0 +1,17 @@
+{
+	"uid": "lawnboy (5fbc3e).wad",
+	"name": "\"Lawnboy\" DOOM ][ WAD  (version 1.really-last --is it finally over?)",
+	"description": "Very large in terms of area, lawnboy is based on",
+	"version": "5fbc3e",
+	"date": "2014-12-27 12:16:11",
+	"files": [
+		{
+			"filename": "lawnboy.wad",
+			"size": 127167,
+			"crc": 3149705422,
+			"md5": "979e1b269be1edc20cbc3e4253ed5729",
+			"sha1": "5fbc3edae4d625ef2ff1840449692ce45611bd73",
+			"sha256": "1d17308c45242f5a096bab7a5359048c64c8fdb0c1693a694282ba5069dc09e9"
+		}
+	]
+}

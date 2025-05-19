@@ -1,0 +1,16 @@
+{
+	"uid": "rudeawak.wad",
+	"name": "Rude Awakening",
+	"description": "My first Wad. It kind of just happened, no real planning involved. You do have to back track a lot so it plays somewhat bigger than it looks in Single player mode.",
+	"date": "2015-01-14 14:42:26",
+	"files": [
+		{
+			"filename": "rudeawak.wad",
+			"size": 111276,
+			"crc": 4213462193,
+			"md5": "e7c39c14f81bfbb0f5a6b3ef11e2030c",
+			"sha1": "dc0d7b2c5da8ceb94d70341ecbfd3780b425b743",
+			"sha256": "d4f691fef84e52e2e157be0c0dcef149adf88e937c0b87932c3b45b4393e6fd8"
+		}
+	]
+}

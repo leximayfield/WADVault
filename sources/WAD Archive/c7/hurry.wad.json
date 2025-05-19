@@ -1,0 +1,16 @@
+{
+	"uid": "hurry.wad",
+	"name": "Hurry!",
+	"description": "It's the Doom racing game! Lava floors force you to race to each \"checkpoint\", where some health will keep you going a bit longer. It's hard to clear this map if you take longer than two minutes, but it can be cleared much faster--how fast can you make it through?",
+	"date": "2014-12-18 23:05:16",
+	"files": [
+		{
+			"filename": "hurry.wad",
+			"size": 48729,
+			"crc": 2548296134,
+			"md5": "9bdb360470453ee640949f76c7364f25",
+			"sha1": "c753ea559a392915c482bb3447261e1f30e5d58d",
+			"sha256": "4f1ebb3caa9089056ce4710c9ad062da8975c156ae4cd2c74bc35f432a24f2bb"
+		}
+	]
+}

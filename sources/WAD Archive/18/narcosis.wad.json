@@ -1,0 +1,16 @@
+{
+	"uid": "narcosis.wad",
+	"name": "Narcosis (new version)",
+	"description": "Made this for a little deathmatch fun with a friend. It looks very different now (no original doom2 textures are used), and some items were changed.",
+	"date": "2014-12-15 22:51:24",
+	"files": [
+		{
+			"filename": "narcosis.wad",
+			"size": 1399683,
+			"crc": 2925247085,
+			"md5": "0faf0550957c1e76ae8f3f3316019e8f",
+			"sha1": "18ed4a381bcd22353adf541248e8c1ab2e17f446",
+			"sha256": "78879b05ae531f875efdb13365eb88556932cd0f0eb0f19b3b395f74d540e22c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "Fallen (7b1463).wad",
+	"name": "Fallen",
+	"description": "Doom/Doom2 replacement for Hexen's Death Wyvern.",
+	"version": "7b1463",
+	"date": "2015-09-14 23:08:24",
+	"files": [
+		{
+			"filename": "Fallen.wad",
+			"size": 487170,
+			"crc": 2896861135,
+			"md5": "8e659c865aacded9d0f99a87a6c2d084",
+			"sha1": "7b1463f9697c7b38fc45f365f043586cbff626a5",
+			"sha256": "f25ef228ee7ee202734985f7a7be2403a107bae0bb139e7df811e0f858b22eae"
+		}
+	]
+}

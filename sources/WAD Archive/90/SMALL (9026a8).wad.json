@@ -1,0 +1,17 @@
+{
+	"uid": "SMALL (9026a8).wad",
+	"name": "Very Small Level.",
+	"description": "This is a very little level. This is one of my first levels and you'll probably be able to tell.",
+	"version": "9026a8",
+	"date": "2013-11-06 22:43:59",
+	"files": [
+		{
+			"filename": "SMALL.wad",
+			"size": 69050,
+			"crc": 2275664964,
+			"md5": "be3c29d2d09eb10f04ab2b0b41ab0e4a",
+			"sha1": "9026a8faf3ccc2cf7c816a521729caea97921e0a",
+			"sha256": "e17be7818687a20c56b9a45f0a058c90f6f38f1c21a3b185103b97b9ccceec4a"
+		}
+	]
+}

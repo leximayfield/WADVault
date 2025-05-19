@@ -1,0 +1,17 @@
+{
+	"uid": "dm2rean (965d83).wad",
+	"name": "The Reanimator",
+	"description": "Just when you thought they were _all_ dead...",
+	"version": "965d83",
+	"date": "2014-12-03 20:17:22",
+	"files": [
+		{
+			"filename": "dm2rean.wad",
+			"size": 124513,
+			"crc": 933977009,
+			"md5": "55c45ed0e4c465b967bce4bf3443996b",
+			"sha1": "965d836b63a5b7b89e5aad7f8b761a3fa1ee3033",
+			"sha256": "5367a25247862e18f70105950f8eaa11a00c8f299f758ad410dc84c4a08af103"
+		}
+	]
+}

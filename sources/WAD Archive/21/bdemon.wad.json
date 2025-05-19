@@ -1,0 +1,16 @@
+{
+	"uid": "bdemon.wad",
+	"name": "Bone Demon",
+	"description": "Doom/Doom2 replacement for Hexen's Centaur.",
+	"date": "2015-09-14 20:36:29",
+	"files": [
+		{
+			"filename": "bdemon.wad",
+			"size": 347432,
+			"crc": 908767464,
+			"md5": "cba8780231aa659c7dbb5ac88e1a80f5",
+			"sha1": "21ce4820ad974e6124a3f6cedbe7b57a3d04013e",
+			"sha256": "11b6c5d220a6d4f3de5f25e825d913f26b98b5a56d481854f2209fb072fdd1d1"
+		}
+	]
+}

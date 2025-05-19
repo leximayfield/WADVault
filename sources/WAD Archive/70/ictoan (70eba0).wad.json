@@ -1,0 +1,17 @@
+{
+	"uid": "ictoan (70eba0).wad",
+	"name": "I.C.T.O.A.N.",
+	"description": "Well, everyone always seems to associate me with my SHiTWADS series now and some people think that I'm just not capable of creating real maps. So I set out to prove them wrong, heh. Anyway, this is the end result, and I like it. There's no backstory you need to know here, thanks to the wonders of ACS and cameras and such. Anyway, it's a single level thing set in a demon-infested airship type thingy. If you're claustrophobic, don't try this level, as it's really cramped. I made darn sure that the gameplay is still good, though (including a crazy team of betatesters and such). Anyway, I hope this just goes to show you that I CAN make good maps. :P I also went ahead and replaced a few weapons, just because I can. :P",
+	"version": "70eba0",
+	"date": "2014-12-24 17:42:51",
+	"files": [
+		{
+			"filename": "ictoan.wad",
+			"size": 2270192,
+			"crc": 2403634001,
+			"md5": "a046dc20bd4a8729b69a0326ed4c6b32",
+			"sha1": "70eba0a10061e40b227d9521954c81ace8f9c291",
+			"sha256": "97d5ed8f19e66d973bcf485d8216fa190a7d67323f747d973cb87ab77eb89efc"
+		}
+	]
+}

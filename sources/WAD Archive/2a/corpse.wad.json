@@ -1,0 +1,16 @@
+{
+	"uid": "corpse.wad",
+	"name": "Corpsehaven",
+	"description": "Graveyard-Crypt level, complete with a chapel, a gift shop, and more.",
+	"date": "2014-12-15 21:54:00",
+	"files": [
+		{
+			"filename": "corpse.wad",
+			"size": 362176,
+			"crc": 1636223752,
+			"md5": "01a97c7494f7670f6dd017f4f3b8653e",
+			"sha1": "2ab7dbdb63fe7d7d1be9c87778993393e3226f1a",
+			"sha256": "4405e13857a86a868bdaf735b9f982d0c5dfd9a2a5eb69f9fae3c4ba9a9754d5"
+		}
+	]
+}

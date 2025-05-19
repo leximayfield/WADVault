@@ -1,0 +1,17 @@
+{
+	"uid": "CMORTIS (1ade17).wad",
+	"name": "DOOM I v1.9",
+	"description": "Deathmatch is the central design theme in this PWAD. Detail was paid to the layout and different playing styles encountered during deathmatch play. The winner will be the best player - not the luckiest or the one who can guard key positions. There are no invulnerable places to sit and wait. There are a few tricks, puzzles, and hidden stuff. Above all, this PWAD was designed to have fun fragging friends. (say that ten times fast).",
+	"version": "1ade17",
+	"date": "2013-11-06 22:34:55",
+	"files": [
+		{
+			"filename": "CMORTIS.wad",
+			"size": 109385,
+			"crc": 4060078201,
+			"md5": "8f41d5f624db647ceb6a5c4a234d158b",
+			"sha1": "1ade17df41c41a43a72069eda07488dcfea4333e",
+			"sha256": "35d0211cec1e2ad46e9d26cdb864054091a404834504178afc9ce087a45fc123"
+		}
+	]
+}

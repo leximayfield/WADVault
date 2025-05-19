@@ -1,0 +1,16 @@
+{
+	"uid": "infact.wad",
+	"name": "Infested Factory",
+	"description": "I swore a solemn oath that I would not include a single maze in this WAD. I have seen quite enough of dark, winding, scary mazes to last a lifetime when playtesting Dreamland and The Catacombs. Oh, the storyline? Sorry... A secret research facility beneath the surface of Phobos has been frantically beaming out distress signals for the past three hours, but obviously nobody noticed until tea break was over. Now it's probably too late. Nobody is known to have survived, but it's a valuable place and you and a friend have been sent in to clean up. The entrance lobby doesn't look too dangerous. 'This is easy,' snorts your friend, reaching out to open the door, just as it bursts into flames... Easy it ain't.",
+	"date": "2014-03-07 10:52:10",
+	"files": [
+		{
+			"filename": "infact.wad",
+			"size": 220332,
+			"crc": 50282464,
+			"md5": "07a984d9cd28a8123a5495a6cc4618aa",
+			"sha1": "36f04bd10f972e29dcb709b2c2eb1babbaa3cdf9",
+			"sha256": "a6d2cd00cfcbfc8d379598740a706874ed4c30fc06575c15e224d032e568ed35"
+		}
+	]
+}

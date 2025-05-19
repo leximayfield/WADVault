@@ -1,0 +1,16 @@
+{
+	"uid": "pole.wad",
+	"name": "pole.wad",
+	"description": "Fairly small game. No monsters. Climb a moving pyramid. Long shots.",
+	"date": "2014-12-13 12:54:49",
+	"files": [
+		{
+			"filename": "pole.wad",
+			"size": 22858,
+			"crc": 2171238518,
+			"md5": "aeae26c9bb983873de505aaeb5b5df43",
+			"sha1": "1bb1c622d9a22e97537119314d61c725d7acf58e",
+			"sha256": "f73ab08d8368c75446e5ceb4896fa3c7849f39295835958194a5706028b7c2da"
+		}
+	]
+}

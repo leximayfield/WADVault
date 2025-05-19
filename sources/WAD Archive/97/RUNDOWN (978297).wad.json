@@ -1,0 +1,17 @@
+{
+	"uid": "RUNDOWN (978297).wad",
+	"name": "RUN666.ZIP (run666.wad + run666.txt)",
+	"description": "A hunting deathmatch / single player wad, designed (deathmatch) to encourage chasing your opponent, while posing the risk that he/she may turn the tables on you if you aren't careful. Single player requires a little thought, hopefully not to little thougth, and there are no nasty tricks or unsolvable traps. This wad designed for use under version 1.666. Has fair ammount of ammo, so you may or may not want to use -altdeath for respawning. Difficulty levels fully implemented.",
+	"version": "978297",
+	"date": "2013-11-02 15:11:17",
+	"files": [
+		{
+			"filename": "RUNDOWN.wad",
+			"size": 192396,
+			"crc": 392834008,
+			"md5": "3e613a25abf69ce143180b12fa7d9d77",
+			"sha1": "9782973aadb490f10a81869a4e424945dc43f736",
+			"sha256": "e801c5189bb3ec7a89c07fdeab972c12155d90b193ee613721426d5040e70745"
+		}
+	]
+}

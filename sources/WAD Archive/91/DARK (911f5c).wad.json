@@ -1,0 +1,17 @@
+{
+	"uid": "DARK (911f5c).wad",
+	"name": "Nightmare!",
+	"description": "A Huge map for Doom2 using the scythe2 textures. Totally fun to play. This is a new release with a couple of bugfixes.",
+	"version": "911f5c",
+	"date": "2014-12-24 18:53:09",
+	"files": [
+		{
+			"filename": "DARK.wad",
+			"size": 1790608,
+			"crc": 378057888,
+			"md5": "5a613e12ea3a67259c196acb9711ea6b",
+			"sha1": "911f5ce9b2a767ea83c7ef2a42cddb7864b7a8ad",
+			"sha256": "c4c802fdd26485b3916642e810bf170057d33063524912f6639d7af9e57e2f40"
+		}
+	]
+}

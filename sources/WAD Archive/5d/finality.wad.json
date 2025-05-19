@@ -1,0 +1,16 @@
+{
+	"uid": "finality.wad",
+	"name": "Finality",
+	"description": "Kick some Cyberdemon ass!",
+	"date": "2014-12-18 22:18:30",
+	"files": [
+		{
+			"filename": "finality.wad",
+			"size": 81088,
+			"crc": 1721879928,
+			"md5": "0c3f0a1e042d9be91918a46e55c6231f",
+			"sha1": "5ded120ca2c20c9b011eba635a2eb6acffa61008",
+			"sha256": "ff54f80b2f2a1d8c4b84e96bcfff92444c10468430aba75b55449a264a634558"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "TMP (619641).wad",
+	"name": "TMP.WAD",
+	"description": "TMP.WAD was the winner of a PC Zone Doom level creation competition in 1994.",
+	"version": "619641",
+	"date": "2013-11-04 20:14:41",
+	"files": [
+		{
+			"filename": "TMP.wad",
+			"size": 171478,
+			"crc": 3673352076,
+			"md5": "7365362a5a54043568e2d67d429c5acc",
+			"sha1": "619641f1259ce70bef0e405e1ae15b6b2a03d885",
+			"sha256": "5e87207da376f741b2cc59f2ce6aed8e9a06898f1ea03c15cdc6eba65a2c4eec"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nitro1 (03019e).wad",
+	"name": "NITRO1.WAD",
+	"description": "My first WAD. Designed for single player, multiple player or Deathmatch modes (has 5 start points). All creatures appear in all dificulty levels.",
+	"version": "03019e",
+	"date": "2014-01-07 22:20:57",
+	"files": [
+		{
+			"filename": "nitro1.wad",
+			"size": 14352,
+			"crc": 2738532411,
+			"md5": "146b40f115c0943aef42a3f676767fe6",
+			"sha1": "03019e5772f9ae163f70935c18aeb099016fdb1e",
+			"sha256": "407e2d03494a7cf3af6dc678fd934e372a7f86a82b5252f09d510ab6612d5b0c"
+		}
+	]
+}

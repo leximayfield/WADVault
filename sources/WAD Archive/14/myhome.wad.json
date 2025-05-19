@@ -1,0 +1,16 @@
+{
+	"uid": "myhome.wad",
+	"name": "My Own DOOM Home",
+	"description": "I always thought it would be fun to roam the",
+	"date": "2014-12-15 21:37:08",
+	"files": [
+		{
+			"filename": "myhome.wad",
+			"size": 285332,
+			"crc": 3040483605,
+			"md5": "58ef545bfb16deb24e4a33c0f52c67a1",
+			"sha1": "1487051d8baa36d4a993d8569bf3dffd8cf69c0d",
+			"sha256": "efb2cecf21982ab4068d61d3e0b29e76a26fec095f29ea3d540d46ac462cb5b4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "church (b3d13c).wad",
+	"name": "CHURCH",
+	"description": "Textures, 2 keys, secret doors, few monsters, lmp included",
+	"version": "b3d13c",
+	"date": "2013-11-06 22:38:48",
+	"files": [
+		{
+			"filename": "church.wad",
+			"size": 74137,
+			"crc": 533930204,
+			"md5": "01d179bf829bcc9a27ceabe1b1d0f36e",
+			"sha1": "b3d13cfb0d27dcfbfe5bf3c24bb9035f5575fd28",
+			"sha256": "bbaf78992bfbbd4b507987bb457cf57a440fceee2fb40aff77f06192d4e84f09"
+		}
+	]
+}

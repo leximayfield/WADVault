@@ -1,0 +1,16 @@
+{
+	"uid": "grcih1.wad",
+	"name": "GRCI for HERETIC version 1 (GRCIH1.WAD)",
+	"description": "Single level replacement for map E1M1 in HERETIC. : Approximation of parking garage and courtyard of : the GRCI building in Vienna Virginia, USA. Plays : best as Deathmatch WAD, especially with 4 players. : Small, but with spots to hide, for a little while. : Consistent use of texture and lighting. Monster : placement a bit arbitrary, just mop them up and : start looking for the Most Dangerous Game.",
+	"date": "2014-12-30 11:30:20",
+	"files": [
+		{
+			"filename": "grcih1.wad",
+			"size": 103097,
+			"crc": 3287683629,
+			"md5": "ab67979909477d924e6d26af2f3ea16e",
+			"sha1": "63c30181795bef1505789e0c704306255b6a1c73",
+			"sha256": "e034bf0f05501ec52f5e7f013239a43a3a4eb6f48c845effc8df7e5e35770a3a"
+		}
+	]
+}

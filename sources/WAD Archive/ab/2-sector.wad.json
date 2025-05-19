@@ -1,0 +1,16 @@
+{
+	"uid": "2-sector.wad",
+	"name": "Moderator's Nightmare: Two-Sectored Trash",
+	"description": "It's a jokewad. Each level of the megawad consists of two square sectors.",
+	"date": "2015-01-06 21:22:44",
+	"files": [
+		{
+			"filename": "2-sector.wad",
+			"size": 5117019,
+			"crc": 3180318851,
+			"md5": "eb50231ed449ebc6f288b312c7c3494f",
+			"sha1": "abbd4ea282d17ce40fd3292414b2412f8b356452",
+			"sha256": "ca1cef3705abe91484658e14557b1f532ae251b2c0d59c6b676bc01f76eb9c8f"
+		}
+	]
+}

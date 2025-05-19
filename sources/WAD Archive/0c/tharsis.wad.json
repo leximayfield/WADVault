@@ -1,0 +1,16 @@
+{
+	"uid": "tharsis.wad",
+	"name": "Target: Tharsis",
+	"description": "2 single-player maps for Doom 2. See below for \"story\"...",
+	"date": "2015-01-14 22:57:16",
+	"files": [
+		{
+			"filename": "tharsis.wad",
+			"size": 864508,
+			"crc": 2676649603,
+			"md5": "eba87fef383c4bab63201448e0f5ed1c",
+			"sha1": "0c4b5011a0c3c354d946e0be75396a086c3cd630",
+			"sha256": "409c55668ba04de16d018487c5a8a7bd72519d313d9c534f8e842d3ed3efd108"
+		}
+	]
+}

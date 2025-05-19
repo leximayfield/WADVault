@@ -1,0 +1,17 @@
+{
+	"uid": "hellgate (5afc95).wad",
+	"name": "Hell gate.",
+	"description": "A very good, small map with many Demons out for your blood.",
+	"version": "5afc95",
+	"date": "2014-12-18 22:28:29",
+	"files": [
+		{
+			"filename": "hellgate.wad",
+			"size": 90614,
+			"crc": 1592556734,
+			"md5": "69d0266e4ae5da40d875dae27066eada",
+			"sha1": "5afc9508b11a8686ccc9708e3a869fc634ff8d4c",
+			"sha256": "d455938df25545e31757a37d445f623792a9d718331549dd865dd5509ef8c80d"
+		}
+	]
+}

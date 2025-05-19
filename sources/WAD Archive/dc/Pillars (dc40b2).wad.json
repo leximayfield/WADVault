@@ -1,0 +1,17 @@
+{
+	"uid": "Pillars (dc40b2).wad",
+	"name": "Arena Of Pillars (Deathmatch WAD)",
+	"description": "The main arena is a large round room with several large pillars. Light streams in from an opening at one end, and the whistling of wind can be heard coming through the bars over the opening. At the other end, there is a large puddle, and the constant sound of dripping echos round the room.",
+	"version": "dc40b2",
+	"date": "2014-12-15 21:44:20",
+	"files": [
+		{
+			"filename": "Pillars.wad",
+			"size": 237208,
+			"crc": 2218274739,
+			"md5": "15d23c4f5a7012898d4a46df33c6a9d3",
+			"sha1": "dc40b2ef19fa2010522997928e141586b195c177",
+			"sha256": "3902dace5b67488aa163b8b601f9249fb628b204279c7656be4bbac8038c875d"
+		}
+	]
+}

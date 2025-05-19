@@ -1,0 +1,16 @@
+{
+	"uid": "zort01.wad",
+	"name": "Zort 1",
+	"description": "Spankity, spank, spank. This is a little ZDoom map of mine. It's pretty small, but that's okay. It's made in the style of episode 4(or 3 depending on how you look at it). You will need to use jump to finish this map.",
+	"date": "2014-12-29 16:39:38",
+	"files": [
+		{
+			"filename": "zort01.wad",
+			"size": 192682,
+			"crc": 2274428483,
+			"md5": "b529e22e9e207086fa85eb2845cc8962",
+			"sha1": "6c5220bbb9f3664052142f68930bfb3ca6f26952",
+			"sha256": "2b6ab6fc61ca5dfe684fd0285fad137b3ca115b088a8a1563a665cebd2a60e4e"
+		}
+	]
+}

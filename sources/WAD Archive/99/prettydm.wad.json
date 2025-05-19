@@ -1,0 +1,16 @@
+{
+	"uid": "prettydm.wad",
+	"name": "Pretty Deathmatch",
+	"description": "Yay it's pretty, not like my other levels.",
+	"date": "2014-12-15 22:14:39",
+	"files": [
+		{
+			"filename": "prettydm.wad",
+			"size": 108002,
+			"crc": 2504611718,
+			"md5": "01e3104410e9716137a32f7b4f7e3f1e",
+			"sha1": "9980c7fb3b618f6479814e53da1d6b510243bb06",
+			"sha256": "de799ba7e0d7efc9384e77a174dc9341fdfa0227c4586198a87ad049e1aa7280"
+		}
+	]
+}

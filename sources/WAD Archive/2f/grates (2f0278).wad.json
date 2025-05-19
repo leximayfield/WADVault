@@ -1,0 +1,17 @@
+{
+	"uid": "grates (2f0278).wad",
+	"name": "GRATES.WAD (MAP02 PWAD For DOOM II)",
+	"description": "Great deathmatch level on higher skill settings, I tried to line the grates (manholes) up, so if you get lost, look at your map.Some weapons are easy to get to, others will take some time.So if you let bad dudes out before you get them, you'll be in for some nasty shoot and run tactics... Unless your the, come and get it sort. In that case you'll get fried and your buddys will frag you to death. Anyway hope you enjoy the level... If you like these maps, keep your eyes open MAP03 is coming soon.",
+	"version": "2f0278",
+	"date": "2013-11-06 22:33:19",
+	"files": [
+		{
+			"filename": "grates.wad",
+			"size": 176536,
+			"crc": 2138744604,
+			"md5": "cc02660d8fa899e90e3b5a9b6713227d",
+			"sha1": "2f0278bc00c9bf50ffb7078db5bb1d9072ad6fcd",
+			"sha256": "aa5b96e751a23af4eae783303670ef722d173b6daac346b260cbf5e66228e72c"
+		}
+	]
+}

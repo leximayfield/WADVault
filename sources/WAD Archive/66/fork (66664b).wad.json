@@ -1,0 +1,17 @@
+{
+	"uid": "fork (66664b).wad",
+	"name": "Tech Fork",
+	"description": "Simple tech base. Two keys needed, and a nice fight near the end.",
+	"version": "66664b",
+	"date": "2014-12-14 20:40:46",
+	"files": [
+		{
+			"filename": "fork.wad",
+			"size": 152298,
+			"crc": 2568196273,
+			"md5": "13376101f6d74d2f41e6c032732c71cf",
+			"sha1": "66664b5b4b3821689862db5ef072f47d7eadd8e4",
+			"sha256": "d8af2a6d69d476fa4eb39d3dde5a6938b465e8bf9f293509067e500c48716ddf"
+		}
+	]
+}

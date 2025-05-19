@@ -1,0 +1,16 @@
+{
+	"uid": "dtca_mlifta.wad",
+	"name": "DTCA - Map 19 - Master Lift Access",
+	"description": "This map has taken me an extremly long time to make. It is basically a tech based map with many strange new uses for scripting. It is my first fully deathmatch compatable map, if you don't mind large maps.",
+	"date": "2014-12-24 19:27:20",
+	"files": [
+		{
+			"filename": "dtca_mlifta.wad",
+			"size": 3320981,
+			"crc": 605699399,
+			"md5": "584efde2492ab3a66b16210896ff862a",
+			"sha1": "5f17caa57b0ee8c5a8a0eb1e41744ab647527df1",
+			"sha256": "29993c99e0f5c168f830c685ceea1d30385dc92125e2dbcbbe0bfeff4d756860"
+		}
+	]
+}

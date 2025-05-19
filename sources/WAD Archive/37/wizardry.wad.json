@@ -1,0 +1,16 @@
+{
+	"uid": "wizardry.wad",
+	"name": "\"Wizardry\"",
+	"description": "My fourth weapon decorate mod. Made under the impression of well-known Harry Potter story - I decided, it'd be cool to see all this magic stuff in Doom. Actually... it's also easy - one weapon, few sprites to make ^_^",
+	"date": "2018-03-27 21:12:59",
+	"files": [
+		{
+			"filename": "wizardry.wad",
+			"size": 1310056,
+			"crc": 1634952481,
+			"md5": "cc6b92fc98874564cddd361b4b2ed5d8",
+			"sha1": "37815ba5428e5ee0424097dd7fe4b65ebfaf8637",
+			"sha256": "0e240b1d6acbe28e4033a6fed6b9a45652e40eeb90c836e67bc12347df3f3856"
+		}
+	]
+}

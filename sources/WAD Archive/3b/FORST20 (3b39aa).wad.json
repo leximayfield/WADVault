@@ -1,0 +1,17 @@
+{
+	"uid": "FORST20 (3b39aa).wad",
+	"name": "FOREST.WAD ver 2.0",
+	"description": "Forest is a four mission PWAD with new graphics. Look at the sky and watch for 'graphiti' on some walls.",
+	"version": "3b39aa",
+	"date": "2013-11-02 16:44:41",
+	"files": [
+		{
+			"filename": "FORST20.wad",
+			"size": 643059,
+			"crc": 294275047,
+			"md5": "c9dd16b31e8f0806bfa1ba2298efc0c3",
+			"sha1": "3b39aa5abd7a5e0cc12e61377398b4dae099b26d",
+			"sha256": "0d9e93bdfcabbca99baa21d709d783a754ac419b94025c4cbc0c7ff496f61f46"
+		}
+	]
+}

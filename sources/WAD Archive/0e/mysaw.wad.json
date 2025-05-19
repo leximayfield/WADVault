@@ -1,0 +1,16 @@
+{
+	"uid": "mysaw.wad",
+	"name": "Mysaw",
+	"description": "Graphics patch that uses DeuSF to replace that ugly chain saw with a suped-up Husqvarna 272xp!",
+	"date": "2015-09-15 17:28:17",
+	"files": [
+		{
+			"filename": "mysaw.wad",
+			"size": 97448,
+			"crc": 2148266229,
+			"md5": "450894f9181d81722612c1c531bb38fc",
+			"sha1": "0e717456f660fd5f9a1190c634a02587abe24b22",
+			"sha256": "74a2612e9a4d5777bea0af93690f3ad985499bd81384847fce27bda9b5331e7a"
+		}
+	]
+}

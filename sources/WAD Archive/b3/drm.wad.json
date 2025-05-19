@@ -1,0 +1,16 @@
+{
+	"uid": "drm.wad",
+	"name": "DBM Random Map",
+	"description": "Another single map, but for Doom II. (Short - 10 minutes)",
+	"date": "2014-12-18 23:10:19",
+	"files": [
+		{
+			"filename": "drm.wad",
+			"size": 508420,
+			"crc": 2275678309,
+			"md5": "5c915ab9e669bebcd1078fede9cf2bac",
+			"sha1": "b3049db8e763e970793b8e14c0e05543237f1899",
+			"sha256": "6839c49a5a6166c7bae0304cc381ac7aac215dcfe4aa40978bfb1c6d800c1703"
+		}
+	]
+}

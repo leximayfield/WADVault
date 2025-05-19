@@ -1,0 +1,17 @@
+{
+	"uid": "testmap (7cb4dc).wad",
+	"name": "testmap.wad",
+	"description": "This is just a simple test map to use for ICD-Lizard. All you do is get the keys and find the exit. And kill some baddies and collect some of the new weapons that are in the Mod too.",
+	"version": "7cb4dc",
+	"date": "2014-12-11 22:14:46",
+	"files": [
+		{
+			"filename": "testmap.wad",
+			"size": 63249,
+			"crc": 3120261701,
+			"md5": "8d88546357fa085f679c84ff4d29d76d",
+			"sha1": "7cb4dc721d605492652992f43448a1378b0554a2",
+			"sha256": "8f23d53a2bb6c8240056313d80c850a9b9f0935b50a06de04ab78ebbc7fcd5a9"
+		}
+	]
+}

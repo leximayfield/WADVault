@@ -1,0 +1,17 @@
+{
+	"uid": "captive (59acec).wad",
+	"name": "CAPTIVE, another Doom ][ Deathmatch",
+	"description": "Most deathmatch starts are in a single room filled with columns. This is a Deathmatch level. No monsters or anything else that would steal a frag from another player. Has one exit (not hidden) so that you can see the frag stats. Oh yeah, you might want to slow down when you try to get the BFG. If you don't, you'll find out why it's called captive.wad.",
+	"version": "59acec",
+	"date": "2014-01-07 22:17:04",
+	"files": [
+		{
+			"filename": "captive.wad",
+			"size": 234760,
+			"crc": 2120936257,
+			"md5": "b6b3c86c429e814f03711f77bae8a124",
+			"sha1": "59acec968d2b8a0c50cdc87a2112746ebc7e7155",
+			"sha256": "8b2f59df9f57bc06d9c08bd3a2be6e2af17496a26409d007731da581615d31db"
+		}
+	]
+}

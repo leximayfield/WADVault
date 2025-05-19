@@ -1,0 +1,17 @@
+{
+	"uid": "ATLANTIS (e33e7a).wad",
+	"name": "Atlantis",
+	"description": "A little test run of zdoom scripts for colored sectors and wadauthor actually it is the first deathmatch level I made that. I'm satisified enough to release in quite a while. Its a pond with some marble ruins at the surface. Includes some fog and swimmable water via zdoom. Please note this is level is primarily a small dm level focusing mainly on aquatic battle. Its kinda cool with long fights because you get bodies floating everywhere in the water it gets hard to see through them all.",
+	"version": "e33e7a",
+	"date": "2014-12-15 22:45:32",
+	"files": [
+		{
+			"filename": "ATLANTIS.wad",
+			"size": 32806,
+			"crc": 4224880767,
+			"md5": "ec5524c053476ac6537d9e7e3a8bf286",
+			"sha1": "e33e7a664cfc842b774020ffb105dd4b274cddd7",
+			"sha256": "5daf68a1d9063efb42591cfb6e437b12e61ad0903f60c63ac8536c0c6acc7187"
+		}
+	]
+}

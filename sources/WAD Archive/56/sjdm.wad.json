@@ -1,0 +1,16 @@
+{
+	"uid": "sjdm.wad",
+	"name": "SJDM.WAD",
+	"description": "2 PLAYER DEATHMATCH - VERY FAST ACTION! HUNTERS NEED NOT APPLY! These are not just \"throw a gun in a small room\" wads, they are carefully laid out. Even though these levels are tiny, there are traps, hiding places, and snipe spots. Get moving as soon as you appear, for you are an open target right from the get-go. There is always a gun right in front of where you appear. I'm not one for asthetics, just playability. I only use one main texture per wad, so it's not breathtaking to look at, but at least they don't look like crap.",
+	"date": "2014-12-15 22:45:29",
+	"files": [
+		{
+			"filename": "sjdm.wad",
+			"size": 214292,
+			"crc": 3692217988,
+			"md5": "dc4b9e03d7f7478dd64d3d312a9ebff0",
+			"sha1": "56b234403e4fb16eb21988de5aea74751e736d47",
+			"sha256": "ff5548ed6038b61ac45f3b6026512c58f56fb278b267ffbcae706759e59313bf"
+		}
+	]
+}

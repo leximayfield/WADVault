@@ -1,0 +1,16 @@
+{
+	"uid": "mdoomfix.wad",
+	"name": "Marine",
+	"description": "This is a tweaked version of the old Marine Doom mod, originally developed by Sergeant Daniel G. Snyder, as an apparent predecesser to later uses of video games for military training. The primary fix here is using the provided M249 sprites for the chaingun instead of the shotgun, though the map has also been tweaked to remove some \"hnng I'm too fat for this doorway\" problems. Some additional changes to enemies and items have been made, mainly to implement different enemy layouts depending on difficulty.",
+	"date": "2015-09-14 22:10:18",
+	"files": [
+		{
+			"filename": "mdoomfix.wad",
+			"size": 4938428,
+			"crc": 3723004035,
+			"md5": "a304d3ea70e973d73154d282905462f0",
+			"sha1": "4ec29080860462a03205bdcf72f165c392d20795",
+			"sha256": "1caf9b1c85dcdd18abacf07614edd2f8e3bf2d42b3e8ea42a8070ba26d810bf1"
+		}
+	]
+}

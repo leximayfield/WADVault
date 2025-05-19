@@ -1,0 +1,17 @@
+{
+	"uid": "ayrton (b5ce42).wad",
+	"name": "AYRTON.WAD",
+	"description": "This is a DEATHMATCH 2.0 pwad. Please play this wad with -altdeath only. There are all weapons and an exit. Monsters: one Trooper :) (try to keep the Trooper alive while playing deathmatch)",
+	"version": "b5ce42",
+	"date": "2015-12-07 09:27:31",
+	"files": [
+		{
+			"filename": "ayrton.wad",
+			"size": 92214,
+			"crc": 3086041138,
+			"md5": "5e76a85851157b02452e11e882ef7710",
+			"sha1": "b5ce42592d21d4983fa9c59de772bfc6c2475680",
+			"sha256": "59e3b449f1e0bebae0be7c0d396416e5cdccae649d97f2ddf6bb6acffd1270d3"
+		}
+	]
+}

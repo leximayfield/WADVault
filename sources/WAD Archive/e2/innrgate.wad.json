@@ -1,0 +1,16 @@
+{
+	"uid": "innrgate.wad",
+	"name": "The Inner Gateway (V1.2, 24-2-98)",
+	"description": "A medium sized level built in the Ultimate Doom style. I have placed architectural and \"thrown\" light details into the level to make it visually appealing, not to mention the impeccable texture alignment. Its best in UV mode (just wait till you get the super shotgun!) Depending on how you go thru the level, the monster swarms can be different depending on how you play. I added these things in to give the level more \"replayability\" :) There can also be a *lot* of \"wandering\" monster activity, so watch your back! Its designed for single player at the moment, but if you want a proper DM version, mail me and I'll get around to it.",
+	"date": "2014-12-18 22:30:35",
+	"files": [
+		{
+			"filename": "innrgate.wad",
+			"size": 303081,
+			"crc": 4256373598,
+			"md5": "0f55ac10584204e1819b9ba8a714c2bb",
+			"sha1": "e2b212bc937e084c5f63ea9279c6630dab38c69b",
+			"sha256": "69bbd5653a6b922a755f5d0be82541c11ec3bf526f23818e4a16a98714ee2854"
+		}
+	]
+}

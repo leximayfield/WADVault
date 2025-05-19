@@ -1,0 +1,17 @@
+{
+	"uid": "library (012cde).wad",
+	"name": "LIBRARY",
+	"description": "Single player level (167 K). A replica of the lower floor of Jamtland County Library, Ostersund, Sweden, by coincidence my working place.",
+	"version": "012cde",
+	"date": "2014-12-27 12:57:08",
+	"files": [
+		{
+			"filename": "library.wad",
+			"size": 170847,
+			"crc": 763487707,
+			"md5": "8e8d909b8208230664f98437c0af1a32",
+			"sha1": "012cdec33bd4546e386224eb43e18c824a1d620d",
+			"sha256": "55d46e035182f288f0a33127e014c419faaa4fc4ad9d6e960a94f9dad3267456"
+		}
+	]
+}

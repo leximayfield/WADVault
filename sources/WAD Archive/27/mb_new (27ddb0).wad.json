@@ -1,0 +1,17 @@
+{
+	"uid": "mb_new (27ddb0).wad",
+	"name": "MOONBASE.WAD",
+	"description": "A drop in for one of the tougher",
+	"version": "27ddb0",
+	"date": "2013-11-02 15:41:27",
+	"files": [
+		{
+			"filename": "mb_new.wad",
+			"size": 49410,
+			"crc": 7720287,
+			"md5": "a3ac07d1d840764904dbe7f87886b673",
+			"sha1": "27ddb0b2f7ae7c95b0a32d4c3babda3f74c89427",
+			"sha256": "f6c7bf6f644a185b87f61ff1974b377bbcfc78023993594a307e2ab4b20cc974"
+		}
+	]
+}

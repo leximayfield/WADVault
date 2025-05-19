@@ -1,0 +1,16 @@
+{
+	"uid": "le-haslt.wad",
+	"name": "Assault rifle from Halo: Combat Evolved (Doom version)",
+	"description": "Another single-weapon replacement. as the name says, replaces the chaingun with the assault rifle.",
+	"date": "2014-12-11 22:28:00",
+	"files": [
+		{
+			"filename": "le-haslt.wad",
+			"size": 217182,
+			"crc": 1441583670,
+			"md5": "8936f639867e81c02954da6ac4a98bde",
+			"sha1": "44820d04e9a0a92135865b8ad39107a7ecf42af1",
+			"sha256": "aaef621f50bbd6059d8f1c193cb4992ac4f44329e4471a8779a521483f8cce32"
+		}
+	]
+}

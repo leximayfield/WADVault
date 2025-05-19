@@ -1,0 +1,16 @@
+{
+	"uid": "deathstruction.wad",
+	"name": "Deathstruction",
+	"description": "This is my third map release. Deathstruction was created to be a 'boss battle' or 'ending' map. Surviving is the task at hand. Take note that this map was tested with Doom Legacy, ZDoom, ZDaemon, Skulltag, and JDoom. All were successful with one bug in JDoom.",
+	"date": "2014-12-24 19:01:45",
+	"files": [
+		{
+			"filename": "deathstruction.wad",
+			"size": 175887,
+			"crc": 1021138838,
+			"md5": "948312a2501353249e057bceb3639290",
+			"sha1": "f156fecbdfa6d07e0ff9004d3f413860155437d9",
+			"sha256": "eb2e707dd09d3b9bd7dcddd8312a71e11b5f09874542ae096c51fbfe2489f892"
+		}
+	]
+}

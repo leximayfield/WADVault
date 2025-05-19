@@ -1,0 +1,16 @@
+{
+	"uid": "CTRLCOMP.wad",
+	"name": "Central Computer",
+	"description": "Doom 2 PWAD",
+	"date": "2014-10-14 20:59:18",
+	"files": [
+		{
+			"filename": "CTRLCOMP.wad",
+			"size": 44021,
+			"crc": 3837146232,
+			"md5": "2cd213aa0978d9e91f892e49baadb3bd",
+			"sha1": "38a7b7b0e1bcea49ea05eb44b257061e29b9382c",
+			"sha256": "d7c8b124c89159bbe07287c5ffaed6640fe882fdbf03d8b5f9cd22ee42c8fdeb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "DEFEND.wad",
+	"name": "DEFEND.WAD",
+	"description": "Whipped this one up in 5 minutes. Can you tell? This level was designed to be used as a Deathmatch level for Doom2. The level basically consists of a fort surrounded by a moat. The four corners of the fort are lifts that are used to enter the fort. Your job is to take over the fort and defend it. There is no BFG or Plasma Gun. There is no exit on this level. There are no monsters on this level.",
+	"date": "2014-08-30 14:23:26",
+	"files": [
+		{
+			"filename": "DEFEND.wad",
+			"size": 32245,
+			"crc": 4113584905,
+			"md5": "3c867e2a2b904da42baf64e78fb07b13",
+			"sha1": "2fc4d9a4934d61ba85bf6b61ee8ba4db407eeb18",
+			"sha256": "963a3b22b73b4a5c14aca52e12cf6486c21fbde296f3d125b6e3b8045b05cedc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "library (59aeb7).wad",
+	"name": "The Library (for DOOM 2)",
+	"description": "This level is designed especially for DeathMatch 2.0, but it is great solo as well. Secret doors play an important role ( you cant complete the level without finding one of them!) but they all can be found fairly easily. The secret doors connect all of the areas of the map together making it possible to get around quickly, for great Deathmatch play.",
+	"version": "59aeb7",
+	"date": "2013-11-04 19:23:59",
+	"files": [
+		{
+			"filename": "library.wad",
+			"size": 142061,
+			"crc": 816384323,
+			"md5": "99439e99939bffa57bb2a370b1b6aff0",
+			"sha1": "59aeb767c17397c73a0ee19f381a2759e5a5d82c",
+			"sha256": "e15ca10d03bc0fb0bbb5ec670487a74455959c628a9e048beb53b030cf7e25b8"
+		}
+	]
+}

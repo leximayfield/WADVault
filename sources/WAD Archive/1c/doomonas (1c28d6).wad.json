@@ -1,0 +1,17 @@
+{
+	"uid": "doomonas (1c28d6).wad",
+	"name": "DOOMONAS.WAD",
+	"description": "DOOM ON A STICK",
+	"version": "1c28d6",
+	"date": "2013-11-02 15:18:37",
+	"files": [
+		{
+			"filename": "doomonas.wad",
+			"size": 28608,
+			"crc": 1481910264,
+			"md5": "bc2d75835d2da38f050af8e3a821395c",
+			"sha1": "1c28d60f270f3feaec64323ab580eda7d23da908",
+			"sha256": "42a0547507f8ded8e7bece5d37bcf5d55ab093aff9cf2d08b7cc08fbc8afeeac"
+		}
+	]
+}

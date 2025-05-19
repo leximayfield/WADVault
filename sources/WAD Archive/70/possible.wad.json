@@ -1,0 +1,16 @@
+{
+	"uid": "possible.wad",
+	"name": "POSSIBLE.WAD",
+	"description": "This is an experimental deathmatch WAD that has some unusual tricks in level architecture. For example, there's \"multiple floors\" and a \"bullet-proof\" window. However, this is not _absolutely_ best DEATHMATCH LEVEL I have made... The level works a bit slowly on slower machines (like 486dx2/50 or worse) because of its complexity.",
+	"date": "2014-12-15 22:02:00",
+	"files": [
+		{
+			"filename": "possible.wad",
+			"size": 96153,
+			"crc": 110156235,
+			"md5": "0b0adedc0e48fcf9bbee1808c9708126",
+			"sha1": "70def34e4c5c4e709f815ed0832c8fec753ea0fc",
+			"sha256": "fba8dffdb7ed457281c32c07293fa9f95af0a7d5438c603f9d8dcf57d656c17d"
+		}
+	]
+}

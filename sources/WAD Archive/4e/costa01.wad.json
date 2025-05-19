@@ -1,0 +1,16 @@
+{
+	"uid": "costa01.wad",
+	"name": "Costa",
+	"description": "Doom II Deathmatch wad with some secrets. An hexagonal arena with many mazelike pillars, monsters and adjoining hallways.",
+	"date": "2013-11-06 22:37:26",
+	"files": [
+		{
+			"filename": "costa01.wad",
+			"size": 48995,
+			"crc": 2421341283,
+			"md5": "35a56e9857423e80f7b074ccae23ef88",
+			"sha1": "4e5bb7b0f8c70f464857a471e8b18d633a25b628",
+			"sha256": "ca5a4dedc5fcefeabece52817a2d5ff9115d619f0be7756cac147ef7f1856659"
+		}
+	]
+}

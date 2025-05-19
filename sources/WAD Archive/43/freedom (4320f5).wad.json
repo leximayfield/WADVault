@@ -1,0 +1,17 @@
+{
+	"uid": "freedom (4320f5).wad",
+	"name": "Freedom",
+	"description": "This level pushes DOOM to the limits of complexity. Half of the areas had to be toned down in detail and sophistication so the \"side-def\" limitation would not be violated. It was designed first and foremost as a 1 player level, although multiplayer should prove enjoyable as well. As far as deathmatch, I believe its too big and complex to be good for that. The starts and weapons are there though, so give it a try if you like. Check out the imp pez dispenser 8^)",
+	"version": "4320f5",
+	"date": "2014-11-01 15:01:18",
+	"files": [
+		{
+			"filename": "freedom.wad",
+			"size": 181379,
+			"crc": 1605555590,
+			"md5": "ff18c63920847f5de1fe74071109f8b0",
+			"sha1": "4320f5f60f863e12b8db40729da94859fed1c88f",
+			"sha256": "eefde0635627273174f2228ac55f7bc91495ccca914a456e4f901955e4cbc583"
+		}
+	]
+}

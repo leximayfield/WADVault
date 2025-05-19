@@ -1,0 +1,17 @@
+{
+	"uid": "castle3 (b8903f).wad",
+	"name": "Medieval Castle (release 4)",
+	"description": "Yet another medieval/castle type level. Quite a small level, which started as an experiment to show off my new flaming torch graphics. You must infiltrate the castle (which is obviously infested with monsters), and escape using the boat in the boathouse at the rear. Note that due to restrictions in Doom (rather than my imagination!), not all the castle may be explored. In other words, not all doors may be opened. As usual with my WADs, Ultra-violence is pretty tough going, and only recommended for veterans. Deathmatch was tested with 2 players (lots of sniping). Cooperative play is untested. This file was originally distributed (via my web site) as CASTLE.WAD but later renamed to avoid conflicting with another file in the idgames archive. It is NOT related to the deathmatch map named CASTLE3.WAD. The main changes since the early versions are smaller step risers, better texture alignment, and the fact that the castle is no longer landlocked.",
+	"version": "b8903f",
+	"date": "2014-03-07 10:52:09",
+	"files": [
+		{
+			"filename": "castle3.wad",
+			"size": 284845,
+			"crc": 3107666274,
+			"md5": "8ce28dc7aae282fb95ec98c94137c6fe",
+			"sha1": "b8903f5d7cf8295c62d7f22aa95e208abed335d5",
+			"sha256": "c46eb5e3f2e2699d7cb855e1750fb5d78e10226b867b81af4b50e37d7de29386"
+		}
+	]
+}

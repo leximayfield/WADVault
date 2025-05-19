@@ -1,0 +1,16 @@
+{
+	"uid": "morgue.wad",
+	"name": "MORGUE.WAD",
+	"description": "THIS IS STRICTLY A 1PLAYER WAD.",
+	"date": "2019-03-06 21:50:54",
+	"files": [
+		{
+			"filename": "morgue.wad",
+			"size": 29342,
+			"crc": 1105356520,
+			"md5": "bc08181ef29eadb3c5b13746777075a9",
+			"sha1": "d8a9b267d1a93263b09bf88b3f3b7a352f50ac9c",
+			"sha256": "736b0b9c323fc9feb2cf1a7ad248d1e17af3d13f8eb0eb6d4af41d04e43908f2"
+		}
+	]
+}

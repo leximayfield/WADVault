@@ -1,0 +1,16 @@
+{
+	"uid": "demonuac.wad",
+	"name": "The Demon Infested UAC Base",
+	"description": "Yet another UAC base was infested with demons after yet another freak accident, you have dealt with this many times, so it's time to kick some ass.",
+	"date": "2015-09-15 19:29:36",
+	"files": [
+		{
+			"filename": "demonuac.wad",
+			"size": 1889929,
+			"crc": 1278110017,
+			"md5": "998a4b9719f7ae1e8ef83a2079c0c7b1",
+			"sha1": "3015831121b6b061f922cc19ca36603b5df3502d",
+			"sha256": "58e390591a90568101b6a816ab198b0d2de892dbb9680ccc4bb65e7164486a41"
+		}
+	]
+}

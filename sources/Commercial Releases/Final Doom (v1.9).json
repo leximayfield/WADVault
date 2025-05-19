@@ -1,0 +1,25 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Final Doom (v1.9)",
+	"name": "Final Doom",
+	"description": "Commercial release",
+	"version": "v1.9",
+	"files": [
+		{
+			"filename": "PLUTONIA.WAD",
+			"date": "1996-06-10",
+			"size": 17420824,
+			"crc": "48d1453c",
+			"md5": "75c8cf89566741fa9d22447604053bd7",
+			"sha1": "90361e2a538d2388506657252ae41aceeb1ba360"
+		},
+		{
+			"filename": "TNT.WAD",
+			"date": "1996-06-10",
+			"size": 18195736,
+			"crc": "903dcc27",
+			"md5": "4e158d9953c79ccf97bd0663244cc6b6",
+			"sha1": "9fbc66aedef7fe3bae0986cdb9323d2b8db4c9d3"
+		}
+	]
+}

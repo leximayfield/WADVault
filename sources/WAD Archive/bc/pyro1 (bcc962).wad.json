@@ -1,0 +1,17 @@
+{
+	"uid": "pyro1 (bcc962).wad",
+	"name": "Pyro's Revenge (For Doom II only!)",
+	"description": "This is a interesting level where I was testing out several concepts. Good luck on the last room! :)",
+	"version": "bcc962",
+	"date": "2013-11-04 20:18:07",
+	"files": [
+		{
+			"filename": "pyro1.wad",
+			"size": 79299,
+			"crc": 1729011847,
+			"md5": "2ef8941dd5628290950c4926059a4127",
+			"sha1": "bcc9626cbb91d0d2aa625bb172a617adad4f2faf",
+			"sha256": "53f617e4300a418601905e008e5795080ad1296da67c66c0124d56ebd8c3b786"
+		}
+	]
+}

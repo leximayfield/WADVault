@@ -1,0 +1,16 @@
+{
+	"uid": "doom (774208).wad",
+	"name": "Doom v1.9",
+	"version": "774208",
+	"date": "2013-11-03 17:46:45",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 11159840,
+			"crc": 1916690681,
+			"md5": "1cd63c5ddff1bf8ce844237f580e9cf3",
+			"sha1": "7742089b4468a736cadb659a7deca3320fe6dcbd",
+			"sha256": "ff2c301b8719465a6e386a512bfa319931b7f64ea517d337c5a47afe03951902"
+		}
+	]
+}

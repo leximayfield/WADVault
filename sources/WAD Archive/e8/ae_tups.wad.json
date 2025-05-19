@@ -1,0 +1,16 @@
+{
+	"uid": "ae_tups.wad",
+	"name": "The Ultimate Power Struggle",
+	"description": "32 levels of DEATHMATCH frenzy, all levels have been tested in 2,3 and 4 player games. Levels 1-14,25 don't have the BFG2000 in them and the rest do. Levels 23-30 are best suited for large 4 player games. We also tested all the levels in both deathmatch modes (v1.0 and v2.0) and all were fine, but levels 25-30 are best suited for Deathmatch v2.0.",
+	"date": "2013-07-26 17:39:47",
+	"files": [
+		{
+			"filename": "ae_tups.wad",
+			"size": 1792970,
+			"crc": 2239207342,
+			"md5": "a4de5f6b6c274def39962a754feaaa9d",
+			"sha1": "e8c467a796cf17ff4b2ec2b165db5628f9db8bcd",
+			"sha256": "20bea83a9bd953e2a604f9b74c5c283d39cd1dd0aff275090a600d904439f5ec"
+		}
+	]
+}

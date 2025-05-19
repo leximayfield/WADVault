@@ -1,0 +1,16 @@
+{
+	"uid": "HARTFORD.wad",
+	"name": "HARTFORD",
+	"description": "small DOOM II PWAD, but with a few surprises, good for a quickie lunchtime Deathmatch",
+	"date": "2014-12-18 22:16:15",
+	"files": [
+		{
+			"filename": "HARTFORD.wad",
+			"size": 13891,
+			"crc": 799370875,
+			"md5": "353dd9dc158a48806eca26668fe71dec",
+			"sha1": "42a554f1a58008ed81e80908e562fa90b258d45a",
+			"sha256": "4e1b25263aa2093a4ebbd60a8e6155c8ef4133f4cb9f738bc7777f72eed5f2ff"
+		}
+	]
+}

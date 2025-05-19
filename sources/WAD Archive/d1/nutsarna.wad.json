@@ -1,0 +1,16 @@
+{
+	"uid": "nutsarna.wad",
+	"name": "NuTs III ARENA",
+	"description": "This wad was whipped up after learning about IF / ELSE statements unlike most NuTs installments this one wont kill your computer... AND THERE IS A SLOW CPU OPTION!!! (it took me a while to write it :p )",
+	"date": "2015-01-13 21:35:34",
+	"files": [
+		{
+			"filename": "nutsarna.wad",
+			"size": 212072,
+			"crc": 3051118022,
+			"md5": "61f397da7fd8535c8a997dbe96cf84d6",
+			"sha1": "d1a693e63347d82292c585e4971bc12ccd893e40",
+			"sha256": "f7c4fc025ff53fb30a98d595acbf80e6a0d6bbbee03eed8772e873b4f222b429"
+		}
+	]
+}

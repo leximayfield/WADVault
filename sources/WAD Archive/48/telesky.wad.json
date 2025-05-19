@@ -1,0 +1,16 @@
+{
+	"uid": "telesky.wad",
+	"name": "Telesky",
+	"description": "Demo level of some nice ACS effect. It demonstartes <-- IMPORTANT! READ IT! : \"portal\" teleporters, similar to Q3A's or Unreal's : teleporters. It uses ZDoom's sky box specials, so you : need some of the ZDoom 1.23 beta versions or highter. : The effect has some limitations though. Since the sky- : box seems to be rendered always from the same angle : you can't place the portal teleporters where you want : them. They have to be in a 90\u00b0 angle to each other : Just look at the wad how to place them. I hope you : like this effect. If you do, feel free to drop me a : line :)",
+	"date": "2014-12-29 17:20:02",
+	"files": [
+		{
+			"filename": "telesky.wad",
+			"size": 3649,
+			"crc": 3387380557,
+			"md5": "e5f814141812d369e7630eb825b011cd",
+			"sha1": "48e7ee42ad43183d1853fd927f9c4aa6868e3c08",
+			"sha256": "a04bbba05de2b8a74cf7513f55371b4936ab10291c340c01fc4a654627d32480"
+		}
+	]
+}

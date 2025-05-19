@@ -1,0 +1,17 @@
+{
+	"uid": "camoskin (16c982).wad",
+	"name": "Camo Skin for ZDOOM and Skulltag",
+	"description": "Basically what I think the 'ground force' marines : would have looked like at the time of Doom.",
+	"version": "16c982",
+	"date": "2015-09-14 20:48:13",
+	"files": [
+		{
+			"filename": "camoskin.wad",
+			"size": 75092,
+			"crc": 1469212973,
+			"md5": "5e00c7ab26831d25155389dbf1999658",
+			"sha1": "16c9828765c37d391b6152b5624c9a44d4986ecf",
+			"sha256": "c7746dfe10a1848732f68968587f946f5acde8c6af98cbc10c2a93a22c829374"
+		}
+	]
+}

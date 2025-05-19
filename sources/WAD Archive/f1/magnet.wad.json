@@ -1,0 +1,16 @@
+{
+	"uid": "magnet.wad",
+	"name": "Magnet",
+	"description": "---> RUNS WITH CC4 TEXTURES (id=16911) A quick Boom compatible duel map. It's another little techbase built into a cavern.",
+	"date": "2014-12-15 22:46:34",
+	"files": [
+		{
+			"filename": "magnet.wad",
+			"size": 152292,
+			"crc": 2145530628,
+			"md5": "4239345d00f06f163d46c5bccb06535b",
+			"sha1": "f14797f031096e4338e76191ea7fe01f02526fd8",
+			"sha256": "3b3c2b97affff7dfcaddd789fbad7c94d621d9c78abe7cbd35763adadcf2930d"
+		}
+	]
+}

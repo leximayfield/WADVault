@@ -1,0 +1,17 @@
+{
+	"uid": "xfire (f81fd9).wad",
+	"name": "XFIRE.WAD",
+	"description": "A weird mix of half-baked ideas. (YOU try to come up with something original to compete with all those other new .WADs).",
+	"version": "f81fd9",
+	"date": "2016-02-07 20:32:25",
+	"files": [
+		{
+			"filename": "xfire.wad",
+			"size": 61621,
+			"crc": 1307037364,
+			"md5": "a993ad6044f9016f87a1f3b1a3faa739",
+			"sha1": "f81fd989f60cd475b3e60f929e9d99684e17fd36",
+			"sha256": "8fb1c5c23f23bb98c86d92054969e931b3df82155e3faf9d637112ccb7296808"
+		}
+	]
+}

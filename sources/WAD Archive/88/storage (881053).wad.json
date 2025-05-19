@@ -1,0 +1,17 @@
+{
+	"uid": "storage (881053).wad",
+	"name": "STORAGE.WAD",
+	"description": "Somewhat moody; subdued lighting. A storeroom full of scattered boxes and monsters for a shootup, plus additional areas to explore, with a couple of puzzles thrown in.",
+	"version": "881053",
+	"date": "2014-01-11 11:18:26",
+	"files": [
+		{
+			"filename": "storage.wad",
+			"size": 164055,
+			"crc": 2831430670,
+			"md5": "3b39d883388201261dfc6401ac86f9cd",
+			"sha1": "881053b4a41bbf172e52165e475c6a9ec6e1f30f",
+			"sha256": "aafe42751214ca33abe3bd91f47c4823d9561820dfaf3378ed5993335e1735bb"
+		}
+	]
+}

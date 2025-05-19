@@ -1,0 +1,17 @@
+{
+	"uid": "777wad (6f2c77).wad",
+	"name": "777.WAD",
+	"description": "More hell.",
+	"version": "6f2c77",
+	"date": "2013-11-02 16:51:41",
+	"files": [
+		{
+			"filename": "777wad.wad",
+			"size": 145165,
+			"crc": 3086219207,
+			"md5": "5ab94c57b3e28d75ad91db10c8e3ee80",
+			"sha1": "6f2c77f3ebd9ab09d70ba0bf3e1ab3aaa2e7841e",
+			"sha256": "bbe06e3c734d1110e034fce75c964fdc5c0af5f1d814b1de3fd6aebf343356a5"
+		}
+	]
+}

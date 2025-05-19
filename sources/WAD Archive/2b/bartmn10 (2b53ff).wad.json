@@ -1,0 +1,17 @@
+{
+	"uid": "bartmn10 (2b53ff).wad",
+	"name": "BARTMN10.WAD",
+	"description": "Original Heretic Deathmatch Wad. Good four player wad for Heretic. I spent alot of time on getting the textures right. Enjoy!",
+	"version": "2b53ff",
+	"date": "2014-01-07 21:55:37",
+	"files": [
+		{
+			"filename": "bartmn10.wad",
+			"size": 62831,
+			"crc": 1906573866,
+			"md5": "0df2080c6ee8e23b39b50ce8f5fbb6eb",
+			"sha1": "2b53ffdb174d366985c51cc13f67beda58b48001",
+			"sha256": "cd996c28861acf486d49626be67417d72dd984ac61fd3b714039c837262f7e57"
+		}
+	]
+}

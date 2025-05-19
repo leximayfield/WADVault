@@ -1,0 +1,16 @@
+{
+	"uid": "waypain.wad",
+	"name": "The way to pain",
+	"description": "A large temple style level using a load of brick textures with a lot of dark area and large outdoor areas.",
+	"date": "2014-12-29 15:44:30",
+	"files": [
+		{
+			"filename": "waypain.wad",
+			"size": 971929,
+			"crc": 3966337754,
+			"md5": "25c04809d4095698899eec6747106c90",
+			"sha1": "8b55a88d9b888e2b0623c3adcb705c7a8fe72188",
+			"sha256": "c5195da2dcdb6839d829f7a2ec815916e38c61dc7485d97c00c81a91070f1841"
+		}
+	]
+}

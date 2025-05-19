@@ -1,0 +1,17 @@
+{
+	"uid": "sniper (c5d4f0).wad",
+	"name": "SNiPeR",
+	"description": "Deathmatch WAD where you are the sniper and have to kill the enemy!",
+	"version": "c5d4f0",
+	"date": "2014-10-14 21:19:10",
+	"files": [
+		{
+			"filename": "sniper.wad",
+			"size": 34606,
+			"crc": 2230875890,
+			"md5": "3a130e787ff5b2df6e1f614d4611bb63",
+			"sha1": "c5d4f02704875aed51896c90d8e994c35b9ef0fd",
+			"sha256": "a6413d71ff0bf39540e26f05fcaa27ddf30498251dbeed4c3812832fea7f91f4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gup.wad",
+	"name": "Grace Under Pressure for Doom II",
+	"description": "Medium-sized level, built with single- player and co-op in mind. This level features a 95% linear design, challanging gameplay, and good texture alignment. I've tried to make it live up to the high standards set by the kings of wad design - the Memento Mori crew, and the authors of the Master Levels. This is a quality level. Average completion time: @16 minutes",
+	"date": "2014-12-18 22:43:29",
+	"files": [
+		{
+			"filename": "gup.wad",
+			"size": 263540,
+			"crc": 2749768037,
+			"md5": "8fb9bcb18b75986447e82b60258c8d81",
+			"sha1": "8ec43a47cda8d44fb38d9038d81d6e74a509c3ad",
+			"sha256": "57229c490895abde17c4d499f0d9a8e2641f94db865b5695ea546156dd6cbb34"
+		}
+	]
+}

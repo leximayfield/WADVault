@@ -1,0 +1,16 @@
+{
+	"uid": "supawar.wad",
+	"name": "Super War",
+	"description": "This is my second level for Doom2. In this map you must try to win World War 2 all by yourself.",
+	"date": "2015-01-14 22:48:39",
+	"files": [
+		{
+			"filename": "supawar.wad",
+			"size": 166570,
+			"crc": 1321337264,
+			"md5": "72cbbac71b8f0a99968059a809975dc3",
+			"sha1": "a8c0d1ff40cd76a58ce67151349938e5e7f7df06",
+			"sha256": "09edcb7cf77569fdcea24e9a91d0d13fb77216e79e2cc08d19962b9a4361c30f"
+		}
+	]
+}

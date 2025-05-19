@@ -1,0 +1,16 @@
+{
+	"uid": "raisdm.wad",
+	"name": "Villa de Rais (Deathmatch Version)",
+	"description": "This is the Deathmatch versions of \"Villa de Rais.\" Runs on ZDoom 2.0.60 and up. This wad contains 15 converted levels from the original pack, set on a continuous loop. i.e. The game reverts back to Map01 when Map15 ends.",
+	"date": "2014-12-29 08:52:19",
+	"files": [
+		{
+			"filename": "raisdm.wad",
+			"size": 2946651,
+			"crc": 761005234,
+			"md5": "03e2dddcf080d56c530b23cd186f00e4",
+			"sha1": "da431adbd1fabe4781e6c8f45de7dbb25e16e5e6",
+			"sha256": "645fccb950d5ee4dfae1b66e28b45b20c4435c106f9deb9e6d6854aa5b32a66b"
+		}
+	]
+}

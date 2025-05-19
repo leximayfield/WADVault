@@ -1,0 +1,16 @@
+{
+	"uid": "baloo02.wad",
+	"name": "Baloo's second",
+	"description": "Yet another deathmatch PWAD for doom2.",
+	"date": "2014-12-15 22:59:24",
+	"files": [
+		{
+			"filename": "baloo02.wad",
+			"size": 27325,
+			"crc": 1470411127,
+			"md5": "50a67b171d511133b4800d586243874c",
+			"sha1": "2464136c4ea7f4975b51588fa254700cc34e4add",
+			"sha256": "87c5ce39b10d4d551f5ccd28962e7c6dee6496040142d5b257fd54fe55bdffc0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ea-poe (e4cc0f).wad",
+	"name": "Pit and the pendulum",
+	"description": "OK, so it's a vertical pendulum! But the pit is unmistakeable.",
+	"version": "e4cc0f",
+	"date": "2014-01-11 11:13:27",
+	"files": [
+		{
+			"filename": "ea-poe.wad",
+			"size": 70826,
+			"crc": 3636447615,
+			"md5": "aa41e02dfd2443de6d06c971d0b1475e",
+			"sha1": "e4cc0f93f233f82ad3ec8a7353a816a7eda4df73",
+			"sha256": "bae8ef779843eeedaa38f38ef792de6f14d6433423648c620d5f209f6a2e5da1"
+		}
+	]
+}

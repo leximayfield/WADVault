@@ -1,0 +1,16 @@
+{
+	"uid": "forknife.wad",
+	"name": "Fork And Knife In the Road",
+	"description": "Fork And Knife In the Road is a single level for Doom 2. It's my first released level, and I really hope you enjoy it. I've only tested it in GZDoom, but I haven't used any fancy stuff so it should work fine in other engines. There MAY be vizplane overflows in vanilla, so let me know if that's an issue.",
+	"date": "2018-05-28 23:44:40",
+	"files": [
+		{
+			"filename": "forknife.wad",
+			"size": 328710,
+			"crc": 1818287260,
+			"md5": "2599bef31de909492e65408c63b5ebad",
+			"sha1": "5dfa680571497b88e65ef6baeb7c27b4fefc7ebd",
+			"sha256": "a34ad1b6fcbec49b1aa51d9aefd8e9f5671f9370106e4b5916d9322a83a7dd5a"
+		}
+	]
+}

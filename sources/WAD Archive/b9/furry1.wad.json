@@ -1,0 +1,16 @@
+{
+	"uid": "furry1.wad",
+	"name": "A Furry Tale",
+	"description": "Explore and have fun. ZDoom users run FURRY1.BAT to play.",
+	"date": "2014-12-22 18:56:41",
+	"files": [
+		{
+			"filename": "furry1.wad",
+			"size": 3676216,
+			"crc": 3222248640,
+			"md5": "751b1bdfd27110b1e2f268f5c94c1aeb",
+			"sha1": "b906231ed319bbf73a5c44f4bf49bc1f690bbb52",
+			"sha256": "0685740ff3737a2085268affcf7b26a02f3eb1de63ed4d8fdf08f05ada8b5817"
+		}
+	]
+}

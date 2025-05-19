@@ -1,0 +1,16 @@
+{
+	"uid": "strifeaa.wad",
+	"name": "Strife: Absolute Anarchy Deathmatch",
+	"description": "This is a slightly modified beta 1 release from 19/05/14. Current beta contains 13 dm maps and 2 ctf maps.",
+	"date": "2015-09-15 18:18:04",
+	"files": [
+		{
+			"filename": "strifeaa.wad",
+			"size": 4373665,
+			"crc": 585990807,
+			"md5": "372d3aa95d56f8a68be75d65c2d9a750",
+			"sha1": "9f418130d8edc796504e7636f67a67fc99ba6813",
+			"sha256": "7a8239553a9eaa06635a572df852a98153e50f66e82753a48c183774bc4bc176"
+		}
+	]
+}

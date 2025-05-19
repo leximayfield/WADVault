@@ -1,0 +1,16 @@
+{
+	"uid": "caves.wad",
+	"name": "CAVES.WAD (deathmatch for DOOM2)",
+	"description": "A large dark chasm in the middle, with caves dotting the sides at different locations and heights. Each cave leads into the same complex of passages. Its not too mazy so with some play you will get used to it.",
+	"date": "2013-11-02 16:40:37",
+	"files": [
+		{
+			"filename": "caves.wad",
+			"size": 54745,
+			"crc": 1528726164,
+			"md5": "753213f69f97a592da7d9d52360f1344",
+			"sha1": "d293ace4430ccf3f8a2d093fb2e59d470f57b5b9",
+			"sha256": "fd46feeba193d47b03d05389c60e4f4565386ef9cf779333eaaa12f63925ccf6"
+		}
+	]
+}

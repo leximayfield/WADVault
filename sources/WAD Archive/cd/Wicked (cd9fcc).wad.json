@@ -1,0 +1,17 @@
+{
+	"uid": "Wicked (cd9fcc).wad",
+	"name": "WICKED.WAD",
+	"description": "A medium sized level with lots of sargents, imps, a few demons, and a cacodemon or 2. All 3 keys will be needed. Plenty of ammo can be found, some in secret areas. A few trap doors, and automatic opening rooms. Not an easy level.",
+	"version": "cd9fcc",
+	"date": "2013-11-02 16:04:50",
+	"files": [
+		{
+			"filename": "Wicked.wad",
+			"size": 141676,
+			"crc": 443602676,
+			"md5": "e7c148d63ded1be629693ac5d82f2863",
+			"sha1": "cd9fccc01bbc343d5bd95b77681bb65ecdbd66b4",
+			"sha256": "e2ae0f60dc0aad4cb49448c271c34810c3471c275f9b74ceddc3acabad65e8cf"
+		}
+	]
+}

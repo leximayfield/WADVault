@@ -1,0 +1,16 @@
+{
+	"uid": "LEDGE__I.wad",
+	"name": "LEDGE FOR DOOM I",
+	"description": "DeathMatch level for DOOM I, designed for DEATHMATCH 2.0 rules.",
+	"date": "2014-08-30 13:59:25",
+	"files": [
+		{
+			"filename": "LEDGE__I.wad",
+			"size": 40391,
+			"crc": 3207853756,
+			"md5": "bdcfa1c860bc6919245a642c644e3896",
+			"sha1": "610df8e35711430614b329fbd51d2d0fb95f3a9c",
+			"sha256": "84ce06f9572632c9bd8184a0e7fb9f9b1e2be8df7bf6aa8b129aef55a3ffc9f8"
+		}
+	]
+}

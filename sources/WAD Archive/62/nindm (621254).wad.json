@@ -1,0 +1,17 @@
+{
+	"uid": "nindm (621254).wad",
+	"name": "Nine Inch Nails",
+	"description": "This is my first stab at a serious doom",
+	"version": "621254",
+	"date": "2014-12-13 17:36:26",
+	"files": [
+		{
+			"filename": "nindm.wad",
+			"size": 919810,
+			"crc": 3067458884,
+			"md5": "f5a042569c7f2529c077101a91ac241b",
+			"sha1": "621254e718f45fc29f5efcd79be121aa8165753e",
+			"sha256": "038ce76e8b258a671dba51736c1a0e178cba2202e7211818623f19e84477ad8a"
+		}
+	]
+}

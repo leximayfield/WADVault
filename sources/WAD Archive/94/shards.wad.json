@@ -1,0 +1,16 @@
+{
+	"uid": "shards.wad",
+	"name": "Shards of Glass",
+	"description": "A dark, gloomy castle type map with fitting music to enhance the mood. You will need the GothicDM texture set in order to play this map, which can be found at http://www.realm667.com in the Texture Stock section.",
+	"date": "2015-01-14 23:00:05",
+	"files": [
+		{
+			"filename": "shards.wad",
+			"size": 284257,
+			"crc": 656204486,
+			"md5": "823ad1455ba2e7d27511b0aeba90cc15",
+			"sha1": "949195e08f65007bd099379be215af8ced78f6c2",
+			"sha256": "d9fc63f6c1220dc502eea28972323c541a53f54c0700f8851a0869c11ac92af6"
+		}
+	]
+}

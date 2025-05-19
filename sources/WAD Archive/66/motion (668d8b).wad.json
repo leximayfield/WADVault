@@ -1,0 +1,17 @@
+{
+	"uid": "motion (668d8b).wad",
+	"name": "MOTION.WAD",
+	"description": "A large level with graphics added, pause to look at the scenery or stare at the clouds. No hurry, you have a long way to go. Developed for Single play. Difficulty settings control enemy encounters. At all skill levels the same puzzles exist.",
+	"version": "668d8b",
+	"date": "2013-11-03 17:44:13",
+	"files": [
+		{
+			"filename": "motion.wad",
+			"size": 154895,
+			"crc": 923410069,
+			"md5": "a1df77ee102ebdb9d1320fb811baa2c0",
+			"sha1": "668d8bbae31ec89369136b9be439d68f613a768a",
+			"sha256": "4c0a92a2c19d7e8fdfb1aacaa3f8aebb03f2ee2f08a67760c1ddf02e3b23af51"
+		}
+	]
+}

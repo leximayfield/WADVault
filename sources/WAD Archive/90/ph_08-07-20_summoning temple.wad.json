@@ -1,0 +1,16 @@
+{
+	"uid": "ph_08-07-20_summoning temple.wad",
+	"name": "Summoning Temple",
+	"description": "Jumping and crouching REQUIRED. A jungle-temple map built in two tiers. The inner section is playable in both single and multiplayer and leads the player, with only a shotgun, through an entrenched position to eventually bomb a summoning circle of eight Arch-Viles and then exit the map. The outer, upper area is only accessible in multiplayer and gives players a chaingun instead. In multiplayer, both tiers affect the other, meaning teamwork is required both in combat and unlocking further sections, with two additional secrets only available on multiplayer and switches scripted to work depending on whether single or co-op is selected. This map featured in TEN Community Project as MAP16, which was the first of the co-op episode.",
+	"date": "2019-08-06 20:24:31",
+	"files": [
+		{
+			"filename": "ph_08-07-20_summoning temple.wad",
+			"size": 332215,
+			"crc": 634627056,
+			"md5": "1d2862e9a7d525ef9e24978eb3cfe6e0",
+			"sha1": "9028c2d0dde249cb15c0469b133bdebfcac4d4b6",
+			"sha256": "f23c33abe1ffd7b26802ecd74e0f74939cb66a2e5a3c87f1cb910316063c4afe"
+		}
+	]
+}

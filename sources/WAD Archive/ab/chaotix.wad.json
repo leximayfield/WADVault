@@ -1,0 +1,16 @@
+{
+	"uid": "chaotix.wad",
+	"name": "chaotiX DM",
+	"description": "Well, first off, it's a deathmatch. But if you need a description...",
+	"date": "2014-12-15 22:25:10",
+	"files": [
+		{
+			"filename": "chaotix.wad",
+			"size": 122491,
+			"crc": 916522812,
+			"md5": "a3494a01ee0d4da7f786b1bd9167e76e",
+			"sha1": "aba7344e2eeb354602cc24d04fd6f94ae6c47a09",
+			"sha256": "4351e16dc6d5863977105e2c6bfa225de01dcbe1f1cc8b1385f3c744ce8c92b8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ph_18-08-29_lab rat.wad",
+	"name": "Lab Rat",
+	"description": "A speed map which appeared as MAP07 of the 38th Abyssal Speed-Mapping Session. Using the theme of \"Revolving around a powerup\", this small tech base requires the use of the Computer Area Map powerup in order for the player to find their way to the exit. I took the liberty of fixing a door track texture for this version, as it bothered me when I noticed it in ASS38.",
+	"date": "2019-08-06 20:21:57",
+	"files": [
+		{
+			"filename": "ph_18-08-29_lab rat.wad",
+			"size": 119283,
+			"crc": 1578303375,
+			"md5": "1dd7228523e812f3df07efa381b09554",
+			"sha1": "a6a3aeefbfa4949a76374999d86fd7eb167db1a0",
+			"sha256": "17d94ad3dd12a0defc44a1537b720e17047dfd540d23c9543f06e89b41d1e22f"
+		}
+	]
+}

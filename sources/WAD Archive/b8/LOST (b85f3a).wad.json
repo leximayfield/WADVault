@@ -1,0 +1,17 @@
+{
+	"uid": "LOST (b85f3a).wad",
+	"name": "The Lost City (lostcit.zip)",
+	"description": "This release is like a mini game with its own storyline. A journal is included that should be read before playing. It explains your mission's goals (which isn't to just exit!) and history.",
+	"version": "b85f3a",
+	"date": "2014-12-27 12:18:20",
+	"files": [
+		{
+			"filename": "LOST.wad",
+			"size": 1414004,
+			"crc": 303022957,
+			"md5": "7180d1d455b6019485d212c29ce16c42",
+			"sha1": "b85f3a4919e53a6ac1046ffb0d1781edfcaa9bd5",
+			"sha256": "4aa2f91e4c43de773344bed9fe0c5b922b321c3b43bdd604df05d7391458d5ab"
+		}
+	]
+}

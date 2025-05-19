@@ -1,0 +1,17 @@
+{
+	"uid": "cavern (b283ab).wad",
+	"name": "of level Caverns of Duh",
+	"description": "One of the best Deathmatch boards we've ever played... the level was designed assuming there would be 3 other players besides you running around. This shows in that you cannot directly get the plasma gun or the soul sphere... someone else has to hit a switch, and there are several switches for both items.",
+	"version": "b283ab",
+	"date": "2014-12-15 22:45:01",
+	"files": [
+		{
+			"filename": "cavern.wad",
+			"size": 293658,
+			"crc": 2793007878,
+			"md5": "374074f70b1cfb2d5b8b345c0ed21d50",
+			"sha1": "b283abca612be32f89b992bf5677adcee11f7f5c",
+			"sha256": "a1444fb4fe6d715e1c136b29c075bae9672dcca1b5713354936b70e751fdf467"
+		}
+	]
+}

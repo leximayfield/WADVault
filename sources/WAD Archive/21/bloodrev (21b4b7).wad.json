@@ -1,0 +1,17 @@
+{
+	"uid": "bloodrev (21b4b7).wad",
+	"name": "Blood's Revenge",
+	"description": "A normal wad with 2 levels, with no dumb plot.",
+	"version": "21b4b7",
+	"date": "2015-12-07 09:34:11",
+	"files": [
+		{
+			"filename": "bloodrev.wad",
+			"size": 106783,
+			"crc": 3550106449,
+			"md5": "ae07d3538eb6536abd019f3b0c1043ab",
+			"sha1": "21b4b784357077088c93173f310c35f681bdc07d",
+			"sha256": "9c106fcce8f2f6e57bc44419058aa15f7a0e6bc97b080a41534d2c762e2214ff"
+		}
+	]
+}

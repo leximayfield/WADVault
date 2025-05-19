@@ -1,0 +1,17 @@
+{
+	"uid": "again (dad5bf).wad",
+	"name": "Heretic Again Wad",
+	"description": "My Second attempt at a wad, hope it doesn't suck too mightily, if you don't like it so what.",
+	"version": "dad5bf",
+	"date": "2018-06-20 03:19:39",
+	"files": [
+		{
+			"filename": "again.wad",
+			"size": 144427,
+			"crc": 2478252180,
+			"md5": "6b5c6904d839546334e3a07dce248266",
+			"sha1": "dad5bf744a3fc1c002893426a9accf2d26b66cfd",
+			"sha256": "bb4bb40428629f6fa996fbf286030d23a2b64fb515aec2e5f34bb76a8ec73da0"
+		}
+	]
+}

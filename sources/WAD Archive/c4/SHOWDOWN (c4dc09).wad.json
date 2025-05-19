@@ -1,0 +1,17 @@
+{
+	"uid": "SHOWDOWN (c4dc09).wad",
+	"name": "Showdown.wad",
+	"description": "A great setting for an action packed deathmatch.. not too big, not too small...Stairs, doors teleporters and lifts...Playable 1 player..needs texture alignment!",
+	"version": "c4dc09",
+	"date": "2013-11-02 15:11:30",
+	"files": [
+		{
+			"filename": "SHOWDOWN.wad",
+			"size": 56215,
+			"crc": 3056078734,
+			"md5": "85bf492d23c5098e93118ac77cb983a9",
+			"sha1": "c4dc0942d06807f741f36bc2de0f4ae19ecacd91",
+			"sha256": "bc3456727399061307125201742513f7cd8143ba37ccdddee6ba0069f5407cb3"
+		}
+	]
+}

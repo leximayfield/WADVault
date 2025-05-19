@@ -1,0 +1,16 @@
+{
+	"uid": "paul_dm.wad",
+	"name": "Paul's Deathmatch",
+	"description": "32 Deathmatch levels of different themes for Boom Compatible ports with original music. Each level features 8 DM starts (except for MAP07), all weapons, backpacks and invisibility. Some maps are rather symmetrical. This is my first and probably only DM megawad.",
+	"date": "2014-04-20 12:57:56",
+	"files": [
+		{
+			"filename": "paul_dm.wad",
+			"size": 5001259,
+			"crc": 2406990092,
+			"md5": "f300390c4a1c052b1d9fe009d6decace",
+			"sha1": "9d126a5d3e1143b8294a1a062b5e068dd1937c3f",
+			"sha256": "bce3dd4e39ab9e8dcef8adc812fdb634cba810e672f3ef694a4c57e627d12231"
+		}
+	]
+}

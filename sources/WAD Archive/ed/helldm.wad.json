@@ -1,0 +1,16 @@
+{
+	"uid": "helldm.wad",
+	"name": "Hell Deathmatch",
+	"description": "8 levels of deathmatch experiment but some are fun",
+	"date": "2014-12-15 21:40:45",
+	"files": [
+		{
+			"filename": "helldm.wad",
+			"size": 133565,
+			"crc": 53711905,
+			"md5": "17a3879dbad362b416696bed2baa5b60",
+			"sha1": "ed3959aa9387cca22802ade2c057ac727d646d01",
+			"sha256": "71385498cfb128ea302fff4729f8206424f4b87933234f5b7fa60bcad4ff1b43"
+		}
+	]
+}

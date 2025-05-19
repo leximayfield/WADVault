@@ -1,0 +1,17 @@
+{
+	"uid": "spchaunt (8ea393).wad",
+	"name": "Haunted Space Ship",
+	"description": "You have just found a derelict space ship orbiting a planet. The crew is missing or has been transformed; there are just zombies roaming all parts of the ship--the bridge, the holosuite, the transporter room, the engine rooms, and the empty shuttle bay. There are also various floating creatures haunting the ship and outside in space. A small shuttlecraft, also abandoned, is near the ship. On the planet, you find only unearthly creatures stalking through abandoned ruins. Thus you get to battle in the vast reaches of outer space and the sometimes cramped areas the ship. There are plenty of windows to shoot in and out of (you can shoot through any of the windows but you can't shoot through the transparent doors unless they are open. An adequate supply of ammunition is scattered about the ship and all of the weapons are available, though you are going to have to *want* the rocket launcher or the BFG9000.",
+	"version": "8ea393",
+	"date": "2014-12-03 20:09:49",
+	"files": [
+		{
+			"filename": "spchaunt.wad",
+			"size": 244189,
+			"crc": 2265421742,
+			"md5": "38547aa590c16e0a1e964aaf2d1557e7",
+			"sha1": "8ea393c7504e15a55f74fba52112774cb4cd3114",
+			"sha256": "0d5a25bfa1531c1002759b3dea35d5e3985f8560dde8e85742f4ad0fd635e22e"
+		}
+	]
+}

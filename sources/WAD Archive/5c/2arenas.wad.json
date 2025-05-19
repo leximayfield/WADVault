@@ -1,0 +1,16 @@
+{
+	"uid": "2arenas.wad",
+	"name": "2ARENAS.WAD",
+	"description": "One smaller Deathmatch arena and one larger one... Interesting use of wall textures, etc... Cooperative exits on both levels... secrets can be found...",
+	"date": "2014-12-15 22:58:39",
+	"files": [
+		{
+			"filename": "2arenas.wad",
+			"size": 128902,
+			"crc": 1136452471,
+			"md5": "3fc3609c8db07c18453c487380ad963f",
+			"sha1": "5c54f9a4b5787ce6ce276e08af28baa205ae9e32",
+			"sha256": "5cb8a09a09ee8601280d4dfb52d85ba9efb21ba6f0705491ae0bc6060b9a6093"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "jagl2.wad",
+	"name": "JAGL2(Just Another Generic Level 2)",
+	"description": "My first complete map for Doom 2. Its fully compatible with original Doom 2 so you can play it in any port.",
+	"date": "2017-06-26 23:56:19",
+	"files": [
+		{
+			"filename": "jagl2.wad",
+			"size": 275321,
+			"crc": 7691206,
+			"md5": "160b5dc76533b5536a18dbd3ea7af519",
+			"sha1": "8bc8101498b7002d2d9894615ac24eeeed3b0499",
+			"sha256": "850b29dd5bac4d93c4873cd049e29f05470235398375fdc5897fb6f1a983b4e6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "q1tex (c7675b).wad",
+	"name": "Quake Textures for Doom II",
+	"description": "275 textures & 165 flats converted to Doom II",
+	"version": "c7675b",
+	"date": "2015-09-14 23:21:25",
+	"files": [
+		{
+			"filename": "q1tex.wad",
+			"size": 2748656,
+			"crc": 4008005779,
+			"md5": "76f232c0c6ba55269847a0bb18411ed9",
+			"sha1": "c7675b42de0d1073239cec7e2e59c807ac7c4c4b",
+			"sha256": "87b870df73c688ba04826a94d19fc56b4e27ecd1366a71095f9471d2ed48f6f1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "GLOOMY (b6b559).wad",
+	"name": "Gloomy dungeon",
+	"description": "Dark, dank passageways ... The best bit is the Great Hall, where an animated firefight should develop.",
+	"version": "b6b559",
+	"date": "2013-11-02 15:14:18",
+	"files": [
+		{
+			"filename": "GLOOMY.wad",
+			"size": 66721,
+			"crc": 2975387880,
+			"md5": "3afd5b311c773e33f04bf426958384e1",
+			"sha1": "b6b559267ec6eb4a3331cb1734f733d8b07a349f",
+			"sha256": "e9012cb22c32ddb38460fe1201bb36e2953c54bf368f80bdbe084a95b7933032"
+		}
+	]
+}

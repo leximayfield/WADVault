@@ -1,0 +1,17 @@
+{
+	"uid": "amnesia (a09403).wad",
+	"name": "Amnesia",
+	"description": "A map with monsters.",
+	"version": "a09403",
+	"date": "2014-12-21 15:09:34",
+	"files": [
+		{
+			"filename": "amnesia.wad",
+			"size": 658045,
+			"crc": 2092828153,
+			"md5": "715065ef15e74daaacaea98ff246ad49",
+			"sha1": "a09403bc56bb6dcaa5994c4b02a8504934e4bc0d",
+			"sha256": "faa2b7d83a02716ec38c8b008f8284d0c7bddbed6c8bded4647a879e0a061ffc"
+		}
+	]
+}

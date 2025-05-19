@@ -1,0 +1,16 @@
+{
+	"uid": "dmanfact.wad",
+	"name": "Abandoned Factory",
+	"description": "An abandoned factory complex. This started off as a purely-deathmatch WAD but I found it could become an excellent single player/co-op WAD with very little modification.",
+	"date": "2014-12-18 22:31:14",
+	"files": [
+		{
+			"filename": "dmanfact.wad",
+			"size": 111942,
+			"crc": 827896233,
+			"md5": "4afd6ec950abcc9270abb41f143e6023",
+			"sha1": "994cd27da9ee4eec5a75c49bb6b432cf58f72803",
+			"sha256": "e8e021d675359c907a89d4fa64a83fd63de69eac6fecfb3994bdee8c5a6022f3"
+		}
+	]
+}

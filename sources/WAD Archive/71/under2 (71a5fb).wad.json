@@ -1,0 +1,17 @@
+{
+	"uid": "under2 (71a5fb).wad",
+	"name": "Underground 2 (Lava domain)",
+	"description": "Simple. The demons where going to flood the earth with lava and end all there probems. But something went wrong. So they sent you to see what happened and what is going on.",
+	"version": "71a5fb",
+	"date": "2014-12-29 17:28:07",
+	"files": [
+		{
+			"filename": "under2.wad",
+			"size": 2533056,
+			"crc": 1982942808,
+			"md5": "eaa6aaa0e773db13e07b88f8fdce67d1",
+			"sha1": "71a5fb1f1c9a1542927a9dfaf9d4b70e6ad30e97",
+			"sha256": "03af74d069613988cd85bc40738ffbbb5f8f24e475c236f63bdd1a849cd19e37"
+		}
+	]
+}

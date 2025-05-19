@@ -1,0 +1,16 @@
+{
+	"uid": "symocean.wad",
+	"name": "SYMOPLAN.WAD",
+	"description": "This is the first in the SYMO series, set in a nice seascape setting. Nice until Hell stepped in that is. You'd better do something about it then.",
+	"date": "2015-01-14 14:31:12",
+	"files": [
+		{
+			"filename": "symocean.wad",
+			"size": 231628,
+			"crc": 4003099197,
+			"md5": "d9cc30ff45026350736681af9d14ea2a",
+			"sha1": "0a9b889e886e9b70f7ebc695f25372b522ff744e",
+			"sha256": "f5552c3847b0b381f79274c3c4206adc2ece9189954247febe9c56530682da58"
+		}
+	]
+}

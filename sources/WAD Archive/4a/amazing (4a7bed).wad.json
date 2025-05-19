@@ -1,0 +1,17 @@
+{
+	"uid": "amazing (4a7bed).wad",
+	"name": "Amazing",
+	"description": "Your death sentence could win you freedom if you can make it out of the maximum security holding facility. It's many labyrinthine passageways will keep you checking your map often. Ammo stores abound, you just need find them.",
+	"version": "4a7bed",
+	"date": "2014-12-15 23:11:26",
+	"files": [
+		{
+			"filename": "amazing.wad",
+			"size": 115736,
+			"crc": 2756245161,
+			"md5": "3dc4829a63851b8ad2b9c5dc0fe4437c",
+			"sha1": "4a7bedcc5cb34b8f8104e231bd4ce207f92c79c6",
+			"sha256": "859aeac19a2bc189322b06648da7c1347e51eabac23efec75d53cf821349bf15"
+		}
+	]
+}

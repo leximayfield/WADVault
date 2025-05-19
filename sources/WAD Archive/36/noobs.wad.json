@@ -1,0 +1,16 @@
+{
+	"uid": "noobs.wad",
+	"name": "noobs",
+	"description": "I wanted to make a simple WAD with only one monster, the newbie dudes (noobs) It takes some time till you grab your first weapon, so it's all about pistol action and hopefully some challenging or fun gameplay. Yep, the soldier humans are the only monsters you will encounter here and it gets a bit harder than you think without armour at all. Later in the game you can grab some armour, few health and weapons. Just be patient and upon the noobs carefully.",
+	"date": "2015-01-13 21:23:33",
+	"files": [
+		{
+			"filename": "noobs.wad",
+			"size": 563990,
+			"crc": 3505053457,
+			"md5": "7a9a564da1abc8bb1d8e7f46d02b0508",
+			"sha1": "362f51e1dfb58c7fe2ea8a9379667405acf65a40",
+			"sha256": "739744934469edcdff9453be46b1f9d408f43e4b270a3b1b6ab0e929a3c23422"
+		}
+	]
+}

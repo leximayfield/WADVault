@@ -1,0 +1,16 @@
+{
+	"uid": "50mon_e1.wad",
+	"name": "50 Monsters Episode 1",
+	"description": "A mapset made up entirely of maps with 50 monsters each.",
+	"date": "2018-05-28 20:41:58",
+	"files": [
+		{
+			"filename": "50mon_e1.wad",
+			"size": 9294273,
+			"crc": 2633204956,
+			"md5": "731c7085090bb4f0babc094b374279ca",
+			"sha1": "af2dc2aef0e16054b9018b1afa5f850b9bafba93",
+			"sha256": "a21d3153eaa3950a78d3cf9b468f51ff660634109fa77dd301f81f627bcb5b8e"
+		}
+	]
+}

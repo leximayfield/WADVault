@@ -1,0 +1,16 @@
+{
+	"uid": "vile_pwrout.wad",
+	"name": "Power Station",
+	"description": "Reactivate a power station that was overthrown by demons.",
+	"date": "2014-12-29 18:18:51",
+	"files": [
+		{
+			"filename": "vile_pwrout.wad",
+			"size": 7957747,
+			"crc": 2854860435,
+			"md5": "c0c515958282a2fbb10a34356ed9314b",
+			"sha1": "f7957540ba8a88fe89a07834dcb2e0e9fa569049",
+			"sha256": "b9fba24524fb14bd4fbf929de3fe093386d3292a7f688295232294235b87256a"
+		}
+	]
+}

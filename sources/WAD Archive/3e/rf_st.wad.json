@@ -1,0 +1,16 @@
+{
+	"uid": "rf_st.wad",
+	"name": "Rf Arena 1",
+	"description": "My first skulltag map. I think it came out pretty well. Supports 8 players",
+	"date": "2014-12-12 14:07:59",
+	"files": [
+		{
+			"filename": "rf_st.wad",
+			"size": 286822,
+			"crc": 813656189,
+			"md5": "30e0976f48e9dadfb9f27704a05efaa1",
+			"sha1": "3e733dd7391518a122a01924d7f96c0d33b6eba2",
+			"sha256": "43c1063e493ce357ddf45463e62d87bfe273b31c5c0c9e886645a7eb119a0060"
+		}
+	]
+}

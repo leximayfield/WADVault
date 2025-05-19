@@ -1,0 +1,17 @@
+{
+	"uid": "Food (d4145f).wad",
+	"name": "Food Processing",
+	"description": "Originally intended as an Episode I D:E map. The second serious map I made coming out of retirement (after WTC911) and the last map I made completely in DoomCAD.",
+	"version": "d4145f",
+	"date": "2014-12-14 20:55:50",
+	"files": [
+		{
+			"filename": "Food.wad",
+			"size": 318286,
+			"crc": 119848860,
+			"md5": "23bf5d664a1db8d899b42520cc67c5ba",
+			"sha1": "d4145f975e52967711d9f13946d9308830b2719f",
+			"sha256": "5407e2ca9b356dec64fc6639d4c2316698b1f13dc2b4472bc8d1bb5d29f88efa"
+		}
+	]
+}

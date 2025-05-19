@@ -1,0 +1,17 @@
+{
+	"uid": "bespin (bc060c).wad",
+	"name": "DeathMatch in Cloud City",
+	"description": "Stuck in Cloud City. Explore, kill monsters, and make your way to the Carbonite chamber.",
+	"version": "bc060c",
+	"date": "2013-11-06 22:29:53",
+	"files": [
+		{
+			"filename": "bespin.wad",
+			"size": 108926,
+			"crc": 221422054,
+			"md5": "935fdb93a7275ca5e14fee2e395fb530",
+			"sha1": "bc060c04f654a68165367335bef60f0d70166ebe",
+			"sha256": "de2224f7e46f5f9704386eb0590e59aebb4a0e23638258c02c4c959eeb443e02"
+		}
+	]
+}

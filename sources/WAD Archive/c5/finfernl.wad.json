@@ -1,0 +1,16 @@
+{
+	"uid": "finfernl.wad",
+	"name": "Infernal Fortress",
+	"description": "My first big map for Doom, made back then on the year 2010 for zdoom and released only on the hispanic forum Dise\ufffdo Doom, this version was modified to work with PR/GLBoom, other than removed slopes and decorate monsters, this map remains unmodified.",
+	"date": "2015-09-15 18:46:04",
+	"files": [
+		{
+			"filename": "finfernl.wad",
+			"size": 3427092,
+			"crc": 1712046542,
+			"md5": "4d85052d589630e1dedff12f1acd900c",
+			"sha1": "c5a3de845fdb2032a42cab8af00f3ea84d168b1e",
+			"sha256": "ad5cb1e62a0a00c5fb98ce2999487460a68e60c331b1b3ef7f0f9850796a5bb1"
+		}
+	]
+}

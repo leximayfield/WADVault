@@ -1,0 +1,16 @@
+{
+	"uid": "ravencrypt.wad",
+	"name": "Raven Crypt",
+	"description": "Hexen style crypt with Doom and Realm667 monsters to kill and secrets to discover.",
+	"date": "2014-12-29 08:43:31",
+	"files": [
+		{
+			"filename": "ravencrypt.wad",
+			"size": 6862636,
+			"crc": 634546709,
+			"md5": "4ca26c3ec6cc8b015536e437c91cb7c8",
+			"sha1": "0a1d8e29add88138a242df1f93c7ea9ae9e9f08b",
+			"sha256": "c8749ecfde72f27f76b0d09e46e58abe5a450a3ac80814c3b05fad9d01c3f47c"
+		}
+	]
+}

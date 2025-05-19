@@ -1,0 +1,16 @@
+{
+	"uid": "uf2.wad",
+	"name": "Unstoppable Fun Deathmatch",
+	"description": "A compilation of 33 hardcore DeathMatch maps for playing on ZDoom-based ports Ideal for FFA. NS settings on 8-16 players recommended. Tested on ZDaemon 1.08.01, Skulltag 0.97d, ZDoom 2.1.8, GZDoom 1.0.29",
+	"date": "2013-04-19 04:35:20",
+	"files": [
+		{
+			"filename": "uf2.wad",
+			"size": 3528762,
+			"crc": 1856769195,
+			"md5": "915bd7aec7368e34a27f9450ff85b1c5",
+			"sha1": "a00fc0c52c5e02fbf513c4613ffd0fb0a3fc2e12",
+			"sha256": "846b663956c5f0fbd15aa320b6877ea542dcb2568f966390786cfc0f044bcad8"
+		}
+	]
+}

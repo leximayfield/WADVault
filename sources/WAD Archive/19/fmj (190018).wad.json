@@ -1,0 +1,17 @@
+{
+	"uid": "fmj (190018).wad",
+	"name": "FMJ.WAD",
+	"description": "FMJ.WAD is a Doom2 sound wad that adds verbal expressions of you, the marine during combat. The language is quite vulgar and threatening. This wad may be offensive. The `action' words are you `speaking' to the bad guys during Doom2 play.",
+	"version": "190018",
+	"date": "2015-09-15 17:25:32",
+	"files": [
+		{
+			"filename": "fmj.wad",
+			"size": 1143540,
+			"crc": 2674081996,
+			"md5": "7a2d520846e734d32d3abc218d57e1c1",
+			"sha1": "190018654b24a9eba31360e7c75d30f86da35165",
+			"sha256": "1fec8d4fd72e7af04ee8057c2e31056a04337565446caf1091262a7dbe92b3f6"
+		}
+	]
+}

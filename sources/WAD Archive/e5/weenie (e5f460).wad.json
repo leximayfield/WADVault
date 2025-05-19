@@ -1,0 +1,17 @@
+{
+	"uid": "weenie (e5f460).wad",
+	"name": "Weenie",
+	"description": "Small wad, new sounds",
+	"version": "e5f460",
+	"date": "2013-11-06 22:37:50",
+	"files": [
+		{
+			"filename": "weenie.wad",
+			"size": 125438,
+			"crc": 3445290047,
+			"md5": "0b19d6e00c59a7434e5bedb0b4e2ee0e",
+			"sha1": "e5f4607d01e21913f7c4abd22556345b485e76ec",
+			"sha256": "e2fc49f203afe1e3407ec207d592ca6f1a0950675d709698a477c6f5c5ccfab0"
+		}
+	]
+}

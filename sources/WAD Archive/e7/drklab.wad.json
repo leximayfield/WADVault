@@ -1,0 +1,16 @@
+{
+	"uid": "drklab.wad",
+	"name": "Dark Labs",
+	"description": "IT's a level made with textures converted from Doom 3 by \"hidfan\". They can be found here: https://www.doomworld.com/forum/topic/92309-doom-3-textures-for-doom/ I wanted to learn using custom textures with Doom for the first time.",
+	"date": "2018-09-30 20:20:41",
+	"files": [
+		{
+			"filename": "drklab.wad",
+			"size": 2693574,
+			"crc": 2729185195,
+			"md5": "084b42f394bf7c19cead15e1a7d03a6f",
+			"sha1": "e79c1863593108c979e14fe878b823e3b79e9535",
+			"sha256": "1cf04fc339c56f1edca265a1bd2b5cfa49121530899572c5ce06f45861695e4d"
+		}
+	]
+}

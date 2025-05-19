@@ -1,0 +1,16 @@
+{
+	"uid": "rba.wad",
+	"name": "Root Beer Apocalypse",
+	"description": "Since 4th of July is around the corner, I made a sequel to \"Pepsi Apocalypse.\" It is titled \"Root Beer Apocalypse.\" It has mainly broen as the dominant color (because root beer is brown). GZDoom is not recommended for this level due to frame rate issues. Music comes from level 20 from Alien Vendetta. If any issues arise, please do inform me so that I can remedy them.",
+	"date": "2019-07-04 15:39:42",
+	"files": [
+		{
+			"filename": "rba.wad",
+			"size": 11518714,
+			"crc": 3798122931,
+			"md5": "a9c02fbb702db9dde9fb403870042d17",
+			"sha1": "6dcada69de33860726436e3ee73839423cbe8eeb",
+			"sha256": "ccd423d6c16cc19f1b7c297f952ffdbb6638a67881a476c4ceec3d8a578ca308"
+		}
+	]
+}

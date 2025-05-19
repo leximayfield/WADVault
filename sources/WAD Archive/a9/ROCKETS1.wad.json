@@ -1,0 +1,16 @@
+{
+	"uid": "ROCKETS1.wad",
+	"name": "ROCKETS1.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. There are only 2 monsters. Sorry, but there is no BFG! Be careful not to get hit by rockets!",
+	"date": "2014-10-14 21:15:00",
+	"files": [
+		{
+			"filename": "ROCKETS1.wad",
+			"size": 22333,
+			"crc": 1993482353,
+			"md5": "d32eb47e87012694181d7ccba9110cdf",
+			"sha1": "a9670ba10d7758bf48fb0f64433da230138e9190",
+			"sha256": "8535154b2fb7db5249bd38d5a38947f6974129951f067b69edefdf4477440333"
+		}
+	]
+}

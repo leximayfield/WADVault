@@ -1,0 +1,16 @@
+{
+	"uid": "hugin.wad",
+	"name": "Hugin",
+	"description": "One Boom-compatible map made on the 28th of October in the space of 24 hours.",
+	"date": "2014-12-24 18:54:45",
+	"files": [
+		{
+			"filename": "hugin.wad",
+			"size": 854895,
+			"crc": 1859268056,
+			"md5": "45e3abf2e30b8b9d43e2bbe542019ffd",
+			"sha1": "3f89abde0db5b496efaee4793887481b5d9e7346",
+			"sha256": "8594d36de4764f85ac701f068b3672a1181093e10d5d7e12cd26f26f4734b340"
+		}
+	]
+}

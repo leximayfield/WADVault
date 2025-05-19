@@ -1,0 +1,17 @@
+{
+	"uid": "genocide (669452).wad",
+	"name": "Deathmatch: Genocide, for Doom II",
+	"description": "I edited map 1 from Doom II to make it even better suited for deathmatch play (specifically, dm 2.0). View the included GENOCIDE.LMP file, then try it out in single player.",
+	"version": "669452",
+	"date": "2014-12-03 19:59:30",
+	"files": [
+		{
+			"filename": "genocide.wad",
+			"size": 93830,
+			"crc": 1136586226,
+			"md5": "0ccfa03c2ebc76878ab09fe31a85b8c3",
+			"sha1": "6694523b24a7c88b097e51aa5a3421bf1f328839",
+			"sha256": "798b4ff34866e9c796623464ec013138e7ad0f603bdaceb5b1792e23d75ca6ff"
+		}
+	]
+}

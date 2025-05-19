@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom: Knee-Deep in the Dead (v1.1 Bad)",
+	"name": "Doom: Knee-Deep in the Dead",
+	"description": "Broken, superseded by final 1.1 release",
+	"version": "v1.1 Bad",
+	"files": [
+		{
+			"filename": "DOOM1.WAD",
+			"date": "1993-12-15",
+			"size": 4274218,
+			"crc": "289f4d3f",
+			"md5": "cea4989df52b65f4d481b706234a3dca",
+			"sha1": "9a24a7093ea0e78fd85f9923e55c55e79491b6a1"
+		}
+	]
+}

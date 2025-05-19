@@ -1,0 +1,16 @@
+{
+	"uid": "uacdoom.wad",
+	"name": "UAC Doom",
+	"description": "Pretty much my first doom2 map.",
+	"date": "2014-12-29 17:43:39",
+	"files": [
+		{
+			"filename": "uacdoom.wad",
+			"size": 104102,
+			"crc": 2091030571,
+			"md5": "ceeb21d532bc8b457b1891b2898baea9",
+			"sha1": "330b4392a83d7111218639d13499b71e46ae505f",
+			"sha256": "b38d918df69a03b64352ef3ed6e972fa4855cb2c9621c178963d7e13f02aa3b2"
+		}
+	]
+}

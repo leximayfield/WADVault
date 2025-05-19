@@ -1,0 +1,16 @@
+{
+	"uid": "tyrell.wad",
+	"name": "The Tyrell Corporation",
+	"description": "This wad was made for Alex Adolphson, because me and him love to coop on doomserv. Coop was the main focus,but it is possible to beat in single player, and is sure to piss you off. The map size is quite large and detailed and there are 400+ enemies to blow away. Have fun!",
+	"date": "2014-12-29 16:48:13",
+	"files": [
+		{
+			"filename": "tyrell.wad",
+			"size": 939904,
+			"crc": 320855718,
+			"md5": "e9bc4a3b63937dd2000e07d12520c656",
+			"sha1": "b81985e861e2e2b39b8ffe36112f29fafdbf526b",
+			"sha256": "72df9439c5b6da17d19247e058ee03c53ae84bd3b56f6b61a3c8e5eb3d957ee8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "devtraum.wad",
+	"name": "Devil Trauma",
+	"description": "This is my first serious attempt at producing a PWAD. Ash / green stone aesthetics and meaningless occult symbolism abound.",
+	"date": "2018-04-14 23:24:19",
+	"files": [
+		{
+			"filename": "devtraum.wad",
+			"size": 86189,
+			"crc": 298275054,
+			"md5": "dc3de67dda5d366fb3dd46e83fc820eb",
+			"sha1": "2c67fdd21bca71a8e6b1b4595af3aaa3dd2d3c46",
+			"sha256": "040b5298b99308404a6b3e9d3e21c5d2037d794077fbb5fb5ac8b4d42266e5b5"
+		}
+	]
+}

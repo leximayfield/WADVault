@@ -1,0 +1,16 @@
+{
+	"uid": "meta.wad",
+	"name": "Metamorphism",
+	"description": "We worked on this wad together for several months, each person had a week and then passed the wad on. It turned out quite successful and the process was steady. We chose upon a tech-ish theme since we already familiar with that style, and Doom was made for that ;)",
+	"date": "2015-09-14 23:08:42",
+	"files": [
+		{
+			"filename": "meta.wad",
+			"size": 806841,
+			"crc": 1541254134,
+			"md5": "3a5e8801e629cf3890224220b3dbda46",
+			"sha1": "68205c15859eac4f91385bc9e5c56a74bb8992d5",
+			"sha256": "fdf34635118f06b5c0f7936d0df63e4977b3372fc9e41d410b3734ac47a25d53"
+		}
+	]
+}

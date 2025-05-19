@@ -1,0 +1,17 @@
+{
+	"uid": "starlite (89f4ba).wad",
+	"name": "Starlite! for DOOMII",
+	"description": "This is a medium sized level which is very playable with the weapons provided and should be enjoyable for players of all levels. Look for secret areas and watch your back.",
+	"version": "89f4ba",
+	"date": "2014-10-14 21:24:08",
+	"files": [
+		{
+			"filename": "starlite.wad",
+			"size": 87236,
+			"crc": 1831196671,
+			"md5": "41dd411f9f4aa3ffebab57a37d8cc7b0",
+			"sha1": "89f4ba652c373717cb8c6dff5a771dbebcfd58f0",
+			"sha256": "0ba85eaf691124bb6fc3321e044e463125f6780bbf7d3d51e5282f13cb44a743"
+		}
+	]
+}

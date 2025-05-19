@@ -1,0 +1,16 @@
+{
+	"uid": "karmatix.wad",
+	"name": "Entryway",
+	"description": "You have to kill the remaining monsters in one of the bases which still work after doom 2 disaster. Then escape, and face the last enemy.",
+	"date": "2014-12-27 12:49:22",
+	"files": [
+		{
+			"filename": "karmatix.wad",
+			"size": 388060,
+			"crc": 2932349318,
+			"md5": "003c5a3415c8b6c15661a71a83e36427",
+			"sha1": "c6fdc9444ea0d8f5ebb2b1dd422a826edff7ab4d",
+			"sha256": "2f463438879830a04bf0cb249707ca628a1d4d346b3cbba1d87547f46b1959de"
+		}
+	]
+}

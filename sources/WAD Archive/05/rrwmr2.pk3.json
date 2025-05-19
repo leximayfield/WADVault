@@ -1,0 +1,16 @@
+{
+	"uid": "rrwmr2.pk3",
+	"name": "Real Reload Weapon Mod r2",
+	"description": "This mod replaces all weapons with modified ones, and tries to retain the same balance and feelings of the old Doom. See RRWMr2_Info.txt for details. We use Subversion to track all changes of this mod. See RRWMr2_SVNInfo.txt for details.",
+	"date": "2014-12-11 22:09:47",
+	"files": [
+		{
+			"filename": "rrwmr2.pk3",
+			"size": 6071089,
+			"crc": 2896659403,
+			"md5": "d6c4f1c90c82fb2557c29fd8f146f50c",
+			"sha1": "05a65b68d2d8ec766363490d956f6e774f9a6681",
+			"sha256": "ead3300fa3e8d5eaed74a51ee196f3fbf1e1305003890347d1a33a62291d2823"
+		}
+	]
+}

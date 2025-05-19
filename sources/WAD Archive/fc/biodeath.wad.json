@@ -1,0 +1,16 @@
+{
+	"uid": "biodeath.wad",
+	"name": "BioDeath",
+	"description": "BioDeath! For your DeathMatch Pleasure! A wide open space with trenchs, pits, hills, and such so you can hide, jump, and kill your opponents!",
+	"date": "2014-12-15 21:49:45",
+	"files": [
+		{
+			"filename": "biodeath.wad",
+			"size": 162388,
+			"crc": 1756575549,
+			"md5": "9a2e7451b10aa829a05f51e0511ac1a6",
+			"sha1": "fc29a33bb7c2b1685f355b0308c76534abe61765",
+			"sha256": "02e758e33909943c41bbd4a4dddd80b2884b5359cac4d01a7b4a976a8e9db771"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "spacelab (22a9a1).wad",
+	"name": "SPACLAB2.WAD  (SPACELAB.WAD update for Doom 1.666)",
+	"description": "This is a DEATHMATCH 2.0 pwad. Please play this wad with -altdeath only. You will lack the necessary ammo with origional deathmatch rules. All weapons are accessable and a COOPERATIVE exit is included. Monsters: CYBE! Just to keep you on the move. Plus, a couple of barons for you to wave at as you go by! For BEST results, Play ultra-violence with respawn switched ON!",
+	"version": "22a9a1",
+	"date": "2014-01-07 21:48:08",
+	"files": [
+		{
+			"filename": "spacelab.wad",
+			"size": 240951,
+			"crc": 298368764,
+			"md5": "46a0f83b328b1fbd310a6dec59baefcd",
+			"sha1": "22a9a1dafb9884a0c77a33c4ed4818b4f2aabed7",
+			"sha256": "8107d25d3646214495cc3796271eee8da9914e919ffa35c69c4a6a2a904224ef"
+		}
+	]
+}

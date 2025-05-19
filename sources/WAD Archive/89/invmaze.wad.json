@@ -1,0 +1,16 @@
+{
+	"uid": "invmaze.wad",
+	"name": "Invisibile Maze",
+	"description": "You are trapped in the invisibile maze! if you make a wrong turn remember where it was and try something different next time. You might get frustrated but don't give up! There's a reward if you can make it to the end!!",
+	"date": "2014-12-18 23:04:33",
+	"files": [
+		{
+			"filename": "invmaze.wad",
+			"size": 12657,
+			"crc": 793354259,
+			"md5": "c305ea3ee86d7f27d5b09d6120c1b1c4",
+			"sha1": "893b8dba78b126b39d150079c8e5ae4ed8a0b2ba",
+			"sha256": "f1db08445631faa804434568a57571dc8e6ff83f80452858d7155c36020e3a16"
+		}
+	]
+}

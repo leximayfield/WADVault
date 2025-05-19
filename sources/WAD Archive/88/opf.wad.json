@@ -1,0 +1,16 @@
+{
+	"uid": "opf.wad",
+	"name": "Ogro Power Facility",
+	"description": "A power facility built into the side of a mountain. I included the (heavily modified) texture wad (ogrodtx2.wad) in case anyone wants to use it for their levels. Just please credit me in addition to the credited people below.",
+	"date": "2015-01-13 21:36:28",
+	"files": [
+		{
+			"filename": "opf.wad",
+			"size": 1636515,
+			"crc": 1765970066,
+			"md5": "7f366c23a229aa7d0fbd32ba173dfe2f",
+			"sha1": "8881f1014ffd38254262836aa5e96f984c754ca2",
+			"sha256": "cd9632daefc6f5762f0a3279a3e499a7d9194776845224386025f7b1776e3683"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "gotcha2 (6275eb).wad",
+	"name": "Gotcha             2-8-95",
+	"description": "Very fluid multi-level Deathmatch Wad.",
+	"version": "6275eb",
+	"date": "2013-11-02 15:39:14",
+	"files": [
+		{
+			"filename": "gotcha2.wad",
+			"size": 86625,
+			"crc": 2159108347,
+			"md5": "7c7340df9ef9a516c0aa15fef7934db2",
+			"sha1": "6275eb230f577ce602d95a4054bde42259e82037",
+			"sha256": "cad1f91c023e59992de6683b532abace1e4dd410d5953810201d3362caa65e72"
+		}
+	]
+}

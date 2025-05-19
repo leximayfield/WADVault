@@ -1,0 +1,16 @@
+{
+	"uid": "longdays.wad",
+	"name": "Long Days",
+	"description": "One level for 'advanced' Boom compatible ports.",
+	"date": "2013-12-25 18:39:23",
+	"files": [
+		{
+			"filename": "longdays.wad",
+			"size": 3866816,
+			"crc": 89504033,
+			"md5": "609127729e3747719dbd41b7d338d542",
+			"sha1": "ffc4436fd68bbcc2a0708ea914e3e8705ff76577",
+			"sha256": "443d6b40e2d26d2b16e187b9b6a9f8931704738bca0c684c2b0524c3e9b906f0"
+		}
+	]
+}

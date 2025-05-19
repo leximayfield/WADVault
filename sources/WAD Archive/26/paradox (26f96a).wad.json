@@ -1,0 +1,17 @@
+{
+	"uid": "paradox (26f96a).wad",
+	"name": "Paradox",
+	"description": "Extreme planning went into the play flow on this level. The archeticture is designed around a large castle with guard towers that hold each access key. The level is extremtly non-linear to allow for the player to choose a varied path each time. Ammo and Health is placed in key positions, not enough to be wasteful, but more than enough to finish the level from a pistol start.",
+	"version": "26f96a",
+	"date": "2013-04-19 00:45:46",
+	"files": [
+		{
+			"filename": "paradox.wad",
+			"size": 223555,
+			"crc": 1902137591,
+			"md5": "d560abb6d5719d46ebb47b27d7813a4b",
+			"sha1": "26f96ac183be4383ad7f3daed2c16548fa69dd42",
+			"sha256": "4e9f37b8209dc7006637050876d917e9a68b053ef24e17725432781b00969bdf"
+		}
+	]
+}

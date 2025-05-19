@@ -1,0 +1,16 @@
+{
+	"uid": "ANCIENT4.wad",
+	"name": "Ancient Battlegrounds (currently version 0.4)",
+	"description": "Take on your opponents in arenas of the ancient world. Battle in Egpytian pyramids, Greek temples, Aztec labyrinths, Chinese palaces, volcanic ruins, and much much more.",
+	"date": "2013-04-19 00:46:17",
+	"files": [
+		{
+			"filename": "ANCIENT4.wad",
+			"size": 2571028,
+			"crc": 2660502730,
+			"md5": "38730a029f585cca548d1f854940a374",
+			"sha1": "81234bb1e93b4baccf070ad2abeff83ce118ee06",
+			"sha256": "0b334a4f8e95fe590c185d81191d3313e11ca2f3eb9e076af07fc49e6ff1f3d8"
+		}
+	]
+}

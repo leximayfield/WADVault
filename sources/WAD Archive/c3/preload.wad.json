@@ -1,0 +1,16 @@
+{
+	"uid": "preload.wad",
+	"name": "\"Loaden\" Preview level 1",
+	"description": "An display of 'what to expect' from my upcoming project \"Loaden\". Mind that it is far from finished, I just wanted to get a first response on the work so far. Some textures might be either mis-aligned or not changed from default at all.",
+	"date": "2014-12-29 09:12:35",
+	"files": [
+		{
+			"filename": "preload.wad",
+			"size": 277320,
+			"crc": 3898938204,
+			"md5": "d88267c9103fa879d102a2d7706a8ce0",
+			"sha1": "c33a7aac511e632439e7eb744628f0e16b2110c7",
+			"sha256": "bea2329156f059fa272c22355dce5bce203caf5f89f575cdf66b9aed9c3b2945"
+		}
+	]
+}

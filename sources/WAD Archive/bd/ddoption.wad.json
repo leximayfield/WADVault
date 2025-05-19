@@ -1,0 +1,16 @@
+{
+	"uid": "ddoption.wad",
+	"name": "Full Options",
+	"description": "Two simple doom maps which were somewhat experimental at the time I created them imo the layout of both maps turned out very nice and have an good amount of interesting detail but its not overdone. Gameplay should be relatively easy for the most part but some traps might catch you off guard, ammo/health balance turned out better than I expected especially map01, and for the people who were hoping for an map03 I will have to dissapoint them it never gotten that far at first they weren't ment to be released I was just trying some new ideas I had in my head.",
+	"date": "2014-12-18 22:44:44",
+	"files": [
+		{
+			"filename": "ddoption.wad",
+			"size": 1681322,
+			"crc": 3883302317,
+			"md5": "ad75f14e5e0d2ad456ea10bc506c94fa",
+			"sha1": "bd5abf53fad8ff4826419bd58e008d2181be4d5a",
+			"sha256": "67b25218754f8599414cddb39feeb18a75d4690ade2390eef60fdcdbd2a59ad6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "blazin (4fee37).wad",
+	"name": "Blazin",
+	"description": "Bored of that Doom 2 wad? Too hard? Too easy (yeah, right!)? Then, try this one- not too hard, not too easy, its BLAZIN!",
+	"version": "4fee37",
+	"date": "2016-02-07 20:33:49",
+	"files": [
+		{
+			"filename": "blazin.wad",
+			"size": 797360,
+			"crc": 3843234365,
+			"md5": "724ea9cfb7fdf966511bc33868ee15bc",
+			"sha1": "4fee371bc90d1d663028cb51e88bb597ee95a420",
+			"sha256": "5a94d0cc7a65ce390af5e7038bc4559786d984c3b217c0de55e120067523994f"
+		}
+	]
+}

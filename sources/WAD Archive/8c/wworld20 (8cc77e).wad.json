@@ -1,0 +1,17 @@
+{
+	"uid": "wworld20 (8cc77e).wad",
+	"name": "WWORLD.WAD",
+	"description": "Waynes World SoundFxs",
+	"version": "8cc77e",
+	"date": "2013-11-02 15:15:39",
+	"files": [
+		{
+			"filename": "wworld20.wad",
+			"size": 1046253,
+			"crc": 1003324256,
+			"md5": "445d8a215e559783796f2001d11815d9",
+			"sha1": "8cc77ec3aa4fc3f0c4c0e56305a44263aef18d0b",
+			"sha256": "ef387916b76bdaaac4386ff9288caea7f437dd7ddd026e9daab952debc1180b5"
+		}
+	]
+}

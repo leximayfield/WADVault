@@ -1,0 +1,17 @@
+{
+	"uid": "midian2 (c06d29).wad",
+	"name": "Midian2  Same as Midian1 but with new stuff",
+	"description": "This is a very good deathmatch level that's made for deathmatch 2.0. It works well with 2 players and it should be awesome with 4, but I haven't tested it. It is a large size level that goes pretty fast. There is a no exit. All weapons are available. Made Bfg harder to get in ver.2 This level is a must for everybody that plays deathmatch. I tried to base the level around the movie nightbreed..the place they hung out was called \"Midian\"..which is also my bbs's name.=) The level is pure havoc.",
+	"version": "c06d29",
+	"date": "2013-11-04 19:23:42",
+	"files": [
+		{
+			"filename": "midian2.wad",
+			"size": 252417,
+			"crc": 1342734278,
+			"md5": "287435c5f7c394725fdf124e5740a90d",
+			"sha1": "c06d2906fab6d7ce83fd5871b3b187c41bc28fb3",
+			"sha256": "14ac2fdcd40649be298edc2a81500ceaef8c871ea26e04291cf84aba686563fd"
+		}
+	]
+}

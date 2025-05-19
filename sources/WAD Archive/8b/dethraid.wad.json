@@ -1,0 +1,16 @@
+{
+	"uid": "dethraid.wad",
+	"name": "DEATH RAID",
+	"description": "You are in a deserted war base, your job is to raid anything you find, and knock it out of existance, the only remains of the ancients are there poison, death traps for those foolish enough to enter.",
+	"date": "2014-12-18 22:30:31",
+	"files": [
+		{
+			"filename": "dethraid.wad",
+			"size": 246555,
+			"crc": 2677499631,
+			"md5": "e19956525cccf3c820bf17614b739706",
+			"sha1": "8be8de97d5db4ccbc2952a9942b0ed46ec39e3de",
+			"sha256": "b00573db596f1f40105b6a1a711060d6232783c6b7bdd39dcd17b7242794f232"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nexxus.wad",
+	"name": "Nexxus",
+	"description": "Hot foot from the start. Don't stand in one place for long out in the open! Rockets rain down from above at the Nexxus.",
+	"date": "2015-02-21 09:00:00",
+	"files": [
+		{
+			"filename": "nexxus.wad",
+			"size": 139900,
+			"crc": 1971411214,
+			"md5": "f46de99f716bd86597475849ea9d86dc",
+			"sha1": "f61619d938dfcc675703789edf742f0e1bfee0a1",
+			"sha256": "9ba28d95057f517deb106ee898c2a5aca65c71b129ec3b58e61ff2d6be264ccd"
+		}
+	]
+}

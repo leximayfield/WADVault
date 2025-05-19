@@ -1,0 +1,16 @@
+{
+	"uid": "jalla10.wad",
+	"name": "Jalla10",
+	"description": "This is a 10 sector DM wad, my little contribution to the doom3.co.uk editing contest.",
+	"date": "2014-12-15 21:20:15",
+	"files": [
+		{
+			"filename": "jalla10.wad",
+			"size": 34989,
+			"crc": 642880603,
+			"md5": "3e8baf541756c119222c9bbda109513c",
+			"sha1": "6284aacd43f506fc0fbd5ef10094ec4d376fd25d",
+			"sha256": "47fa4041bde4e3b7887e247f93c9a3cffbb8606a833547e2e88f73caca9ab021"
+		}
+	]
+}

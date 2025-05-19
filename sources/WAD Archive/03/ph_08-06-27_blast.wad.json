@@ -1,0 +1,16 @@
+{
+	"uid": "ph_08-06-27_blast.wad",
+	"name": "Blast",
+	"description": "The third map I made for ZPack, which ended up as E1M2. At the time it felt very modern, but an update to ZDoom broke the plasma bolt effect at the start of the map (which I've now fixed) and the overall aesthetic has become another example of the \"T667 detail guide\" in action, which at least means high fidelity. The map itself is relatively easy going, with only the rocket hazard being particularly lethal.",
+	"date": "2019-08-06 20:21:33",
+	"files": [
+		{
+			"filename": "ph_08-06-27_blast.wad",
+			"size": 1696919,
+			"crc": 2435066661,
+			"md5": "2835ffbd77d1ab8b7966aba70e94ca2e",
+			"sha1": "035d2d5bffa0ce3ba92756c47cdc927b897548dd",
+			"sha256": "550192b34a1bead8b7fc30c803924d07ecc3790ec1a3b7bcf2443d3dbe649095"
+		}
+	]
+}

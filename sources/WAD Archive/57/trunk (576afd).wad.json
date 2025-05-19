@@ -1,0 +1,17 @@
+{
+	"uid": "trunk (576afd).wad",
+	"name": "TRUNK.WAD",
+	"description": "DEATHMATCH-wad, with still lots of attention for the scenery though. Haunt, kill, slaughter your friends in this PWAD. Cause total mayhem and destruction!!!!! Show no mercy!! Let your opponents suffer enormously!",
+	"version": "576afd",
+	"date": "2014-12-03 20:20:36",
+	"files": [
+		{
+			"filename": "trunk.wad",
+			"size": 89533,
+			"crc": 1652685391,
+			"md5": "2d5d448763e7b8ef4b5d922aff8a7751",
+			"sha1": "576afd9b72d06355914c31314d2778df9e9a6ec2",
+			"sha256": "34974d9742ed192665e9465aa446ac0fe3a602b7985b32de6d33e742cc2462e6"
+		}
+	]
+}

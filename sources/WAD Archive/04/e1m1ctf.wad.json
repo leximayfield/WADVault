@@ -1,0 +1,16 @@
+{
+	"uid": "e1m1ctf.wad",
+	"name": "E1M1 CTF",
+	"description": "This is a CTF version of E1M1.",
+	"date": "2014-12-15 22:52:15",
+	"files": [
+		{
+			"filename": "e1m1ctf.wad",
+			"size": 54663,
+			"crc": 2269406451,
+			"md5": "ffe21d8284e9fd09c302b98d71ee84eb",
+			"sha1": "042a6e4335de7e39560cbc368b232e9795f20dd6",
+			"sha256": "521debc8046ee7c563d00c24b369cd60036cf2ce50d3c9a4ce4fbafc4ce84c23"
+		}
+	]
+}

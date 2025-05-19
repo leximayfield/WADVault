@@ -1,0 +1,16 @@
+{
+	"uid": "vilchal.wad",
+	"name": "Vile Challenge",
+	"description": "This is a fun level for doom2 with only Archviles and a twin shotgun for you to shoot them with. You start off in abase and then go outside to forest were you must face 3 Archviles at once.",
+	"date": "2015-01-14 14:43:44",
+	"files": [
+		{
+			"filename": "vilchal.wad",
+			"size": 100024,
+			"crc": 3238900500,
+			"md5": "a5fb9976b8455ce29632e1a99fdd780b",
+			"sha1": "139d90e95b7f176e6d35e9f291d743c97d9b8bd0",
+			"sha256": "05070859c0f2b6c3ce14d6c477a276da07f344d9301e33f76b31b69de296e682"
+		}
+	]
+}

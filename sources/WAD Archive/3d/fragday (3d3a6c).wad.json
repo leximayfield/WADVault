@@ -1,0 +1,17 @@
+{
+	"uid": "fragday (3d3a6c).wad",
+	"name": "Frag Day (FRAGDAY.WAD)",
+	"description": "Made for DEATHMATCH only.",
+	"version": "3d3a6c",
+	"date": "2014-01-04 11:55:42",
+	"files": [
+		{
+			"filename": "fragday.wad",
+			"size": 38888,
+			"crc": 131719072,
+			"md5": "ce75bb551fc286876044d621e835f297",
+			"sha1": "3d3a6c0f9d5bded7431716d63b39f26e970c2e2d",
+			"sha256": "78c9b51ee2cf07ca3fa0a41eb84d3b82780e8865cc473d691a13c6a8195a217e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "kandy4.wad",
+	"name": "Kandy4",
+	"description": "3 Deathmatch levels for DM 1.0, skill5. Unlike any you've ever played! Includes Kandyguy.wad to change the player's graphics to the sargeant's (gray until he dies, turns player's color then). Run Kandyguy.bat to append the rest of the sprites (3.3 meg) deusf.exe by Olivier Montanuy is included.",
+	"date": "2014-12-15 21:23:46",
+	"files": [
+		{
+			"filename": "kandy4.wad",
+			"size": 325679,
+			"crc": 2530693278,
+			"md5": "89d58ce7daba8c93659c35b992d828a1",
+			"sha1": "acf84f905c5b51f292e4c2f73c245d6501ed4e2f",
+			"sha256": "e140e37cd9ded3466210d09b51bc5b6376c09fcd01106f446111935337ed39f4"
+		}
+	]
+}

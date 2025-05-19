@@ -1,0 +1,16 @@
+{
+	"uid": "spawn10.wad",
+	"name": "Spawn V1.0",
+	"description": "REQUIRES GZDOOM!",
+	"date": "2014-12-29 15:07:11",
+	"files": [
+		{
+			"filename": "spawn10.wad",
+			"size": 29255216,
+			"crc": 893681386,
+			"md5": "043c4f668e4c58df68aeebe8c407a1e5",
+			"sha1": "3f93fe4ee30498da2f549fe7d720d54ecd7ea8ea",
+			"sha256": "303e855e14dafb04283e9d539bd0d6149f0d438106a0845be09f867565f6f5b3"
+		}
+	]
+}

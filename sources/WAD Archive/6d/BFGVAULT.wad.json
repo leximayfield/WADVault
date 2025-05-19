@@ -1,0 +1,16 @@
+{
+	"uid": "BFGVAULT.wad",
+	"name": "BFG Vault",
+	"description": "Doom 2 PWAD",
+	"date": "2014-10-14 20:57:43",
+	"files": [
+		{
+			"filename": "BFGVAULT.wad",
+			"size": 54720,
+			"crc": 3453558512,
+			"md5": "79795e6924a7c5962ae20cf26c77f4c1",
+			"sha1": "6dce9a17c3249904d1658a51db2eef5f8dbe91c7",
+			"sha256": "d933a3c7b2034c7cc1bb73220d3adfe67aadaf118b0f2c44c58136b48e85a137"
+		}
+	]
+}

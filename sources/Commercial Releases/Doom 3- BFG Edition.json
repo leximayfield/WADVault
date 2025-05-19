@@ -1,0 +1,21 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom 3: BFG Edition",
+	"name": "Doom 3: BFG Edition",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"size": 12487824,
+			"crc": "5efa677e",
+			"md5": "fb35c4a5a9fd49ec29ab6e900572c524",
+			"sha1": "e5ec79505530e151ff0e6f517f3ce1fd65969c46"
+		},
+		{
+			"filename": "DOOM2.WAD",
+			"size": 14691821,
+			"crc": "927a778a",
+			"md5": "c3bea40570c23e511a7ed3ebcd9865f7",
+			"sha1": "a59548125f59f6aa1a41c22f615557d3dd2e85a9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tlt.wad",
+	"name": "The Lost Temple",
+	"description": "You are on a mission to stop a hellspawn in the lost temples of egypt, good luck, it will be a insane challenge!",
+	"date": "2014-12-29 15:50:33",
+	"files": [
+		{
+			"filename": "tlt.wad",
+			"size": 35984609,
+			"crc": 1936899433,
+			"md5": "00b05785857afda4bd4f2f40505ec33f",
+			"sha1": "a92b649c700462757914799a5ae6072efc2c0c4e",
+			"sha256": "6d9b8912b75a4bdabdd09658d5224dbfd41c745ab133da563060669c1729ab9b"
+		}
+	]
+}

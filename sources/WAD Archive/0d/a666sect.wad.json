@@ -1,0 +1,16 @@
+{
+	"uid": "a666sect.wad",
+	"name": "Area of 666 Sectors",
+	"description": "My first level, I added some new sectors. It is good for practicing how to make circles in the arenas. This level has 666 sectors, the name comes from it.",
+	"date": "2014-12-13 12:54:01",
+	"files": [
+		{
+			"filename": "a666sect.wad",
+			"size": 726824,
+			"crc": 1234064832,
+			"md5": "5f10588b51b2a8853586478dd0a097ad",
+			"sha1": "0d745c590f606553d5a0224cf8ce8e17f3a84f23",
+			"sha256": "39addbe53c4dc8188d8de051c04bd434f3fc1071385d917e6e5f97b756e93f6c"
+		}
+	]
+}

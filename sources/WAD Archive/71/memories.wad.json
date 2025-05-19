@@ -1,0 +1,16 @@
+{
+	"uid": "memories.wad",
+	"name": "Memories",
+	"description": "Pretty simple map today, just blast some monsters and that's it.",
+	"date": "2015-09-14 22:02:38",
+	"files": [
+		{
+			"filename": "memories.wad",
+			"size": 2383892,
+			"crc": 3696961387,
+			"md5": "24f244eed045a997ea09492d2f226593",
+			"sha1": "71a2bfddbad0c37123eb88d6859db79e4c6c5eea",
+			"sha256": "f2d8aa479ee79eb0d25c9a462db8d270db1d23e5a851bfa9ff0341ef20aae219"
+		}
+	]
+}

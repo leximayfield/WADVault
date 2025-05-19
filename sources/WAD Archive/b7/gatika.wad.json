@@ -1,0 +1,16 @@
+{
+	"uid": "gatika.wad",
+	"name": "Gatika",
+	"description": "I got tired of playing with the Cajun bots on co-op because they acted like complete morons. So I made an arena-type level and they seem to actually run around it well. I don't suggest playing this on single player.",
+	"date": "2014-12-18 22:57:33",
+	"files": [
+		{
+			"filename": "gatika.wad",
+			"size": 47669,
+			"crc": 304761905,
+			"md5": "c3752941b7683738c097f23efb837952",
+			"sha1": "b720069358b7b8f40cb1543e42ec47373bfc7504",
+			"sha256": "d4eb8d5112d080efe73369ddc94c69d837ed453a105a063a7495e374294dc89b"
+		}
+	]
+}

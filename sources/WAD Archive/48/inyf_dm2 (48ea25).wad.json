@@ -1,0 +1,17 @@
+{
+	"uid": "inyf_dm2 (48ea25).wad",
+	"name": "\"IN YO FACE\"",
+	"description": "IN YO FACE for DOOM II is a deathmatch only level. It's stricktly move fast and kick ass from begining to end. The level consists of a darkened arena in the center with an upper level all around the rectangular perimeter. The players start in one of four rooms at each corner of the upper level. They will each find Weapons, Armor or Health according to the Skill level they choose (the higher the Skill level, the nastier the weapons). An attempt has been made to be fair to all parties. There are Teleporters in each of bottom corners so that you can travel between levels. Each side of a Teleporter will transport you to the upper level directly facing you. You can also jump accross the Teleporter from the upper level in order to get to the upper level directly accross from you. This level is great in DEATHMATCH 2.0 as well as regular Deathmatch. Although there are no hidden rooms there is plenty of opportunity for ambush.",
+	"version": "48ea25",
+	"date": "2013-11-06 22:30:49",
+	"files": [
+		{
+			"filename": "inyf_dm2.wad",
+			"size": 30985,
+			"crc": 3372004371,
+			"md5": "2c5d13a15992ae47dee603a8e8db2d05",
+			"sha1": "48ea254fec62b4c3ed69c200e3d8202d798a548b",
+			"sha256": "c7c7134a5e230cd46cd6409611db4ac9fb4f25c30428cd3c8c584ffffa798267"
+		}
+	]
+}

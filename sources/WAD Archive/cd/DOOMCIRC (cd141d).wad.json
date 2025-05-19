@@ -1,0 +1,16 @@
+{
+	"uid": "DOOMCIRC (cd141d).wad",
+	"description": "Never to far away from your opponents, Switches make the level harder by raising barons etc. Use Sky1.gif to set the mood (DMGRAPH NEEDED, use same insertion points as normal sky1) Based on a circle to allow easy reach of any part of the complex, and the dark mines section to hide out in.",
+	"version": "cd141d",
+	"date": "2013-11-02 15:20:18",
+	"files": [
+		{
+			"filename": "DOOMCIRC.wad",
+			"size": 191499,
+			"crc": 3855583493,
+			"md5": "99811c1afd1e3c6a90d33abf9aff55ea",
+			"sha1": "cd141de73ff58f33fdfee4825d49823e86c94deb",
+			"sha256": "1e1faae88b1be3940e0cbbc36f95b76087584fbf056f81d39c2d906c68ecd309"
+		}
+	]
+}

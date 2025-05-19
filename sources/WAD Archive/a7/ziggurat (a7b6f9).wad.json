@@ -1,0 +1,17 @@
+{
+	"uid": "ziggurat (a7b6f9).wad",
+	"name": "ZIGGURAT.WAD",
+	"description": "Single, Multi-Player, and Deathmatch.",
+	"version": "a7b6f9",
+	"date": "2013-11-02 15:22:05",
+	"files": [
+		{
+			"filename": "ziggurat.wad",
+			"size": 140095,
+			"crc": 2257249154,
+			"md5": "09a49305dbd74d3f16f52efd89587ac3",
+			"sha1": "a7b6f9643f5de182c27f5762c51c412daa64c263",
+			"sha256": "12e4a50b12f8b086e6d263d3799d476bc96955685b037f8586c56ea1396fb235"
+		}
+	]
+}

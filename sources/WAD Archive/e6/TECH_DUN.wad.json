@@ -1,0 +1,16 @@
+{
+	"uid": "TECH_DUN.wad",
+	"name": "Technology Dungeon",
+	"description": "You have been captured by the Hell-Spawned Demons and have been locked in a modern dungeon. Now you must escape!",
+	"date": "2013-11-06 22:40:56",
+	"files": [
+		{
+			"filename": "TECH_DUN.wad",
+			"size": 12568,
+			"crc": 820227371,
+			"md5": "a0f2769d338d3a76e65e6721e9832f1c",
+			"sha1": "e6b863e36ee2f5a7a3828dcaa9f130d7a3643a11",
+			"sha256": "c819993a7d3e0a8bf40b0894376d6cc3e1f33664cb5aeb93daf4fbe50692f0bc"
+		}
+	]
+}

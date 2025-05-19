@@ -1,0 +1,16 @@
+{
+	"uid": "roc.wad",
+	"name": "Ressurection of Chaos",
+	"description": "Ressurection of Chaos is the sequel to Hordes of Chaos.",
+	"date": "2013-05-25 19:42:43",
+	"files": [
+		{
+			"filename": "roc.wad",
+			"size": 7908614,
+			"crc": 4087210813,
+			"md5": "445fed9f5a794fccd02b9fc5df6c469e",
+			"sha1": "2f7fd3c9e12507d313b84f06fddbe0e0e050fa5a",
+			"sha256": "1af54f80c22938ce4c815a12cc5a0294590a9823db13e6aea5a9a8139958782f"
+		}
+	]
+}

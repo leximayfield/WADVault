@@ -1,0 +1,17 @@
+{
+	"uid": "church (a8c4f5).wad",
+	"name": "Cathedral of Doom  B1.0",
+	"description": "Something odd has happened at the old abandoned church at the top of the hill. It's close to midnight and you mount the hill to investigate the strage lights that have appeared around the abandoned bell-towers. You step into the graveyard, and you've just noticed the new gallows, when at the stroke of midnight an iron gate slams (almost) into place behind you. You have no choice now, you have to rid the cathedral of its demonic infestation, or die trying.",
+	"version": "a8c4f5",
+	"date": "2014-12-14 20:45:03",
+	"files": [
+		{
+			"filename": "church.wad",
+			"size": 416536,
+			"crc": 4222264018,
+			"md5": "45240b459f3cc0f43a54bbb970eb4441",
+			"sha1": "a8c4f5522b2023b933e2c59c869dec8d1e050280",
+			"sha256": "4a43ae9886bf90eb971d46b7a19caa1b6fb9c8afe97eb02a8f0b5f4f06037940"
+		}
+	]
+}

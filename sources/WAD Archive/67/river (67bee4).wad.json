@@ -1,0 +1,17 @@
+{
+	"uid": "river (67bee4).wad",
+	"name": "The River",
+	"description": "You have just arrived within a monster infested complex and after fighting your way through...the river awaits.",
+	"version": "67bee4",
+	"date": "2014-10-28 21:53:46",
+	"files": [
+		{
+			"filename": "river.wad",
+			"size": 157046,
+			"crc": 3859133610,
+			"md5": "acd64d8474afcdf82b2da056650a34ad",
+			"sha1": "67bee4c94be8333da57e5b3ca2ec4fd09781102c",
+			"sha256": "73562f621ea1b88a43456f9de546d2a10e42c2ee36db8259ad563e6300938668"
+		}
+	]
+}

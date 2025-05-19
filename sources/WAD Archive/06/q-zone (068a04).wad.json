@@ -1,0 +1,17 @@
+{
+	"uid": "q-zone (068a04).wad",
+	"name": "Q-ZONE TeamDM Arena",
+	"description": "4 player team deathmatch level with a lasertag concept (Q-zar, UltraZone). See *Rules* below.",
+	"version": "068a04",
+	"date": "2014-12-15 21:31:09",
+	"files": [
+		{
+			"filename": "q-zone.wad",
+			"size": 759952,
+			"crc": 2017997737,
+			"md5": "0ce3e86accf3853c5cf5b9ee58a60db1",
+			"sha1": "068a04ab089bd913d663ae13bb085a36e7d040c5",
+			"sha256": "c2ef3f1b11fb9cddab22450abea7140ed9b03da604820ef655813956d6005e85"
+		}
+	]
+}

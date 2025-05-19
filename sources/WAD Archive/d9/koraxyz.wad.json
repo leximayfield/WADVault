@@ -1,0 +1,16 @@
+{
+	"uid": "koraxyz.wad",
+	"name": "Stratospheric Domain",
+	"description": "This is my first (and possibly only) map for Hexen: Beyond Heretic. Involves running on precarious \"glitter bridges\" while in the line of fire of several death wyverns, as well as being swarmed by numerous foes continually spawning in randomly. Has a few easter eggs thrown in! NEEDS GZDOOM'S HARDWARE RENDERER! JUMPING IS DISABLED!",
+	"date": "2018-09-30 20:23:57",
+	"files": [
+		{
+			"filename": "koraxyz.wad",
+			"size": 821255,
+			"crc": 1130754035,
+			"md5": "ac898972c99bcb140a31b876f39a6a46",
+			"sha1": "d9e2281fec56e4442f662985d530fc5b6cf3a282",
+			"sha256": "d03db30286533405e861b2743564958718bb913dcaacb1d10406b2b1ccc01d1b"
+		}
+	]
+}

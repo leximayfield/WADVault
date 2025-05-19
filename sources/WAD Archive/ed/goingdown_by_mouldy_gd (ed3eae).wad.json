@@ -1,0 +1,17 @@
+{
+	"uid": "goingdown_by_mouldy_gd (ed3eae).wad",
+	"name": "Going Down",
+	"description": "Something sinister is lurking in UAC headquarters. Grab your gun, head to the roof and shoot your way down through the building to get to the bottom of the mystery. This is a 32 map Doom 2 megawad - boom format, complevel 9. Each map is a floor, each floor has a lift, each lift needs a key. You'll work it out I'm sure, just keep going down. These are small, fairly hard maps with high body-counts, and gameplay I would describe as 'chaotic-evil'. The music tracks are my own compositions which you may use with appropriate credits, here is a track list: map 01, 29 - 'Somebody set up us the bomb' map 02, 30, 31 - 'Zombie goes shopping' map 03 - 'The haunted supermarket' map 04, 15 - 'Running from the jazz robots' map 05, 13, 23 - 'The haunted aquarium' map 06, 22 - 'Lost in zombie cyberspace' map 07, 20 - 'Mega robo-clown boss battle' map 08, 14 - 'The haunted waiting room' map 09, 17 - 'The haunted skeleton factory' map 10, 27, 32 - 'Robo-zombie mecha-brain boss battle' map 11, 21 - 'Zombie maggots in the flesh cathedral' map 12, 24 - 'Chased by dancing skeletons' map 16, 28 - 'Wedding march for the princess of death' map 18, 25 - 'Hiding from the robo-zombies' map 19, 26 - 'Attack of the spider-clowns' title screen - 'Going Down' lift muzak - 'Descent of Death'",
+	"version": "ed3eae",
+	"date": "2015-09-15 14:17:55",
+	"files": [
+		{
+			"filename": "goingdown_by_mouldy_gd.wad",
+			"size": 25359070,
+			"crc": 194334596,
+			"md5": "2407179860e05ac5c6f2d75f02aec231",
+			"sha1": "ed3eaed3cfd9e73b43e6f4f305059671dae34abf",
+			"sha256": "b352de5b133156a4af0a3f55e2647fa85c69795e94eb2e28adc2f1c58576b9b6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "edgy.wad",
+	"name": "Edgy",
+	"description": "Mid-episode style map for Doom 2 which will require some strategy during certain fights.",
+	"date": "2014-12-22 18:34:12",
+	"files": [
+		{
+			"filename": "edgy.wad",
+			"size": 687336,
+			"crc": 1212128304,
+			"md5": "60255f10ff7794d5cb55d7861dd02654",
+			"sha1": "549c4497d6295fd921e035a25c1579d621f6e0fb",
+			"sha256": "f9389238289f2423fcc6209246b786ef1a72aca8fb9c633e996126f768cc6bf1"
+		}
+	]
+}

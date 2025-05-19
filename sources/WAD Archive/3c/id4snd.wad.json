@@ -1,0 +1,16 @@
+{
+	"uid": "id4snd.wad",
+	"name": "ATTACK.WAD",
+	"description": "An ID4 sound WAD",
+	"date": "2015-09-14 20:03:36",
+	"files": [
+		{
+			"filename": "id4snd.wad",
+			"size": 2536341,
+			"crc": 1994831853,
+			"md5": "f1e3e2fe8d1d6547f7dbcaf79bd04ebb",
+			"sha1": "3c06dd3cc3466de509fe54cd7eeb05bc408e3df1",
+			"sha256": "933a2ab35d88e44d60158a760e236a63adb5851f709523fbf7d2b1ebfad7690d"
+		}
+	]
+}

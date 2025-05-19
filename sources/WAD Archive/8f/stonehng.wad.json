@@ -1,0 +1,16 @@
+{
+	"uid": "stonehng.wad",
+	"name": "STONEHNG.WAD",
+	"description": "A deathmatch wad designed around the mystical Stone Henge rock formation. Also second in the NOCHEAP! series. It continues the \"bacta tank\" theme. More on this below...",
+	"date": "2014-12-15 21:23:34",
+	"files": [
+		{
+			"filename": "stonehng.wad",
+			"size": 342110,
+			"crc": 3398102449,
+			"md5": "cf927f5f0b1c77e37ac0170ccc137d90",
+			"sha1": "8f2e4043b09683ee48451ef9b577b48a3d3c8f4a",
+			"sha256": "df4579ea450b144ab6f25ed04a246cd1afa26c9d40add724c545d745948d964a"
+		}
+	]
+}

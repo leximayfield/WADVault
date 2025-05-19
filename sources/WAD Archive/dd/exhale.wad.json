@@ -1,0 +1,16 @@
+{
+	"uid": "exhale.wad",
+	"name": "Exhale (You're The Victim)",
+	"description": "2 player DEATHMATCH DOOM II level",
+	"date": "2014-12-15 21:37:12",
+	"files": [
+		{
+			"filename": "exhale.wad",
+			"size": 660731,
+			"crc": 2984210373,
+			"md5": "3225e44aef59abec87dbefe3ba188c96",
+			"sha1": "ddcfc63c3582fe3ad40c780b089aac39806b0f60",
+			"sha256": "2d298d0e8244da79d95b408b3dbc04bf0f1ec53f48b23eb5ff9e3e0e8f821192"
+		}
+	]
+}

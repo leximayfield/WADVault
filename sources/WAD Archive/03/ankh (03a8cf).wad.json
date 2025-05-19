@@ -1,0 +1,17 @@
+{
+	"uid": "ankh (03a8cf).wad",
+	"name": "Ankh",
+	"description": "Kinda hard Doom2 Deathmatch Wad. It's not that big of a wad so, one on one should pretty fun also.",
+	"version": "03a8cf",
+	"date": "2013-11-06 22:37:58",
+	"files": [
+		{
+			"filename": "ankh.wad",
+			"size": 230101,
+			"crc": 3571897931,
+			"md5": "75520eb154c01b3428d03b0dfc8ba907",
+			"sha1": "03a8cf4d038cb746beca88b9480da8f0cea7cad4",
+			"sha256": "baf9fa5fb11f57c8edddcd2f0e3a3df45bea93f8a7f6f2bcc369d6300e71cb78"
+		}
+	]
+}

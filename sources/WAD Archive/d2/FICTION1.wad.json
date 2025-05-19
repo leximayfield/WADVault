@@ -1,0 +1,16 @@
+{
+	"uid": "FICTION1.wad",
+	"name": "Fiction1.WAD  (For Doom 2) Deathmatch",
+	"description": "A.K.A. Blood, Sweat, and Fear.",
+	"date": "2014-08-30 14:25:09",
+	"files": [
+		{
+			"filename": "FICTION1.wad",
+			"size": 101655,
+			"crc": 991439028,
+			"md5": "6babf359c10f8cc4c53719a714f5197d",
+			"sha1": "d22c8320fb7c2987e9b10d098d4a26235dcbd7ba",
+			"sha256": "897f951d962f385d1e76d96b66e9498680575f51aa6e1cae0441b91f2da4a3e7"
+		}
+	]
+}

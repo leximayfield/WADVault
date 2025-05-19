@@ -1,0 +1,17 @@
+{
+	"uid": "fragsrus (2f5260).wad",
+	"name": "Frags-R-us",
+	"description": "This level has the 'feel' of Doom 2, level 1, has all the weapons including one Bezerk pack and a teleport which can be used for telefragging. It's a fast- paced, small level with enough places to hide from the BFG. Other players can be easily found because this is such a compact level. It's the right time for an X-elent DeathMatch level. Since this is only Warlock's 50th completed WAD, please feel free to e-mail us some feedback about this level. Or if you've recorded a demo and think it has the most frags possible in a demo where -maxdemo 1024 was used, mail it to us and we might put it on our page.",
+	"version": "2f5260",
+	"date": "2014-12-15 22:49:17",
+	"files": [
+		{
+			"filename": "fragsrus.wad",
+			"size": 155765,
+			"crc": 3246292692,
+			"md5": "b535fb784865dc7d2545cb5750a91f12",
+			"sha1": "2f526080142f4c335d67a3b76e401da09c0f81bf",
+			"sha256": "e04e6a270fc6b4cfd7d19474b695d932799574aeff313ee1c4e7bf87e35d76f9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "RELIVE.wad",
+	"name": "Phobos - Relive The Nightmare",
+	"description": "This is a nine-level WAD file with new graphics, music, and sound FX. The levels are very detailed, and are designed to mimic the \"style\" of the original shareware Doom. I have always thought that the best official Doom levels were the shareware levels. Even though they were too easy, and didn't have the same weapons/monsters variety that Doom 2 does, they LOOKED better than any of the other levels. I think this is because Doom is much better at simulating man-made structures than it is at simulating the \"hell\" type levels.",
+	"date": "2015-01-14 14:50:49",
+	"files": [
+		{
+			"filename": "RELIVE.wad",
+			"size": 1194921,
+			"crc": 2991099082,
+			"md5": "b0f49b51d7b28e21fccc5c237cd20dfa",
+			"sha1": "85ac909d7507dae1214e3b96a5046e0d49cef928",
+			"sha256": "22ceb927819f68e11818691a25043dd7e412c8d1b8500873049fd4fbee33588b"
+		}
+	]
+}

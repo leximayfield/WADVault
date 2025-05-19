@@ -1,0 +1,17 @@
+{
+	"uid": "inncence (00378c).wad",
+	"name": "Innocence",
+	"description": "A 5 level mapset for DooM II. It is a reimagining of the Knee Deep in the Dead storyline. The maps were made to emulate the feel of E1 maps from Ultimate DooM, while using DooM II's resources.",
+	"version": "00378c",
+	"date": "2014-06-21 11:13:33",
+	"files": [
+		{
+			"filename": "inncence.wad",
+			"size": 732633,
+			"crc": 1808130411,
+			"md5": "cb6ea7e4f14b5c1ae9673a31a2bbd070",
+			"sha1": "00378c7256ca9d719b3c68d964636fce8e349273",
+			"sha256": "902cc037ecaaabf86394b8abd51ba6156724b5b143d9fb485b999907c7a64c58"
+		}
+	]
+}

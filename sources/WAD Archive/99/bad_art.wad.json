@@ -1,0 +1,16 @@
+{
+	"uid": "bad_art.wad",
+	"name": "BAD_ART.WAD",
+	"description": "Something unique... be sure to check the map...",
+	"date": "2014-12-15 21:24:54",
+	"files": [
+		{
+			"filename": "bad_art.wad",
+			"size": 250836,
+			"crc": 1598486402,
+			"md5": "8a6f528393a1182b54bc5d16909620ee",
+			"sha1": "9931ce2b9e298072ff0ce84408651d4e7c145524",
+			"sha256": "61702f7a184f8edf57766c40f081f6f5d88c2742952b87f8fe576f613639e523"
+		}
+	]
+}

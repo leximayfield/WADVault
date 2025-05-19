@@ -1,0 +1,16 @@
+{
+	"uid": "bfane.wad",
+	"name": "Burning Fane",
+	"description": "Small map firstly made as 1024 map, but after ending of contests I have broken the 1024 concept with some promotories and tried some (for me) new features ;)",
+	"date": "2014-12-21 16:44:08",
+	"files": [
+		{
+			"filename": "bfane.wad",
+			"size": 373078,
+			"crc": 442998718,
+			"md5": "fcdde109fc2635e247dc2ac6e26ab4e0",
+			"sha1": "3f58788453836de3b4fde8a5f7339066d196403e",
+			"sha256": "e2fc6d25e7cd575cde5ff95e8634b74155d31e074c85cc3b73335ec3e57e35fc"
+		}
+	]
+}

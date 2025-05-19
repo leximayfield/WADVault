@@ -1,0 +1,16 @@
+{
+	"uid": "zdmegactf-1f.wad",
+	"name": "ZDaemon Mega CTF: The New Standard",
+	"description": "A compilation wad containing 50 CTF maps of the highest quality made for the online multiplayer DOOM source port, ZDaemon.",
+	"date": "2013-04-22 00:13:01",
+	"files": [
+		{
+			"filename": "zdmegactf-1f.wad",
+			"size": 28912640,
+			"crc": 162367141,
+			"md5": "f611db33c96ea3b3b09765d173a017f1",
+			"sha1": "0d1c873e37dc971ae0f6a7d02589280349dc807c",
+			"sha256": "d58fc902f63422f64878d76c3d688a6b4f0b4c71d86269b5daa69e1fabf010ad"
+		}
+	]
+}

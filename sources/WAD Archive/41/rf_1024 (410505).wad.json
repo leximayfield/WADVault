@@ -1,0 +1,17 @@
+{
+	"uid": "rf_1024 (410505).wad",
+	"name": "Rf 1024",
+	"description": "Made for Lutrov71's 1024 contest. The ENTIRE map fits within a 1024x1024u space.",
+	"version": "410505",
+	"date": "2014-12-29 08:59:21",
+	"files": [
+		{
+			"filename": "rf_1024.wad",
+			"size": 143903,
+			"crc": 1021144301,
+			"md5": "74903413f89d7b6da43b7fe990d98ef7",
+			"sha1": "41050518a0c4becc0cf7730b3716560f5d8644ca",
+			"sha256": "292d5271f96ea04047f728beafbcaf4d5ddfd2250d79e41ebc275b79e03cfbcb"
+		}
+	]
+}

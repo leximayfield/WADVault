@@ -1,0 +1,16 @@
+{
+	"uid": "spoiled.wad",
+	"name": "Spoiled Waters",
+	"description": "My first release, though not my first map. (Only the first one I deemed good enough.) I tried to get a good mixture of dark narrow spaces and bright open areas. You start in an underground, cave-like area, go through some darker base rooms and end up on the shores of a huge nukage lake. Nukage is a reoccurring theme throughout the whole level. I've tested mostly on Ultra Violence. It is beatable on that difficulty without using any secrets (they will help a lot though).",
+	"date": "2017-10-19 19:27:32",
+	"files": [
+		{
+			"filename": "spoiled.wad",
+			"size": 727080,
+			"crc": 1187719287,
+			"md5": "7e58eb1e5b15afcd1c89639cb5846e2e",
+			"sha1": "0f222c0536d8e4e9b6e48838ffe2a85884be6379",
+			"sha256": "cf501483fcd0612893715e241716e4dd362f19628b84492b160a92392e2ca81f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "illness.wad",
+	"name": "THE ILLNESS",
+	"description": "1 new level for DOOM2. There are so many traps that you might get some splitting headaches. This level has been developed for the original engine v1.9.",
+	"date": "2014-12-18 23:07:13",
+	"files": [
+		{
+			"filename": "illness.wad",
+			"size": 556328,
+			"crc": 973297346,
+			"md5": "f0f9b3b381c7788bb8e7430da7d0dc9f",
+			"sha1": "7b4b832eb24e29af0acddd6e74a3ddffa16744b9",
+			"sha256": "ccf4c3623bb580eab6e0b16c03883cd0ee94436006db5153788cf088b12e76f5"
+		}
+	]
+}

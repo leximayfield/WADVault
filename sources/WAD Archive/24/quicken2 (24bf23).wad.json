@@ -1,0 +1,17 @@
+{
+	"uid": "quicken2 (24bf23).wad",
+	"name": "Quicken2.wad",
+	"description": "This is a comeplete remake of my original \"quicken\" wad that adds 2 new levels, along with three of the originals that have been redone to make this one of the funniest deathmatch wads around. If you never played the original quicken, then you're in for a treat, because not only was quicken considered by some to be one of the best wads on the Dwango Houston server, but this is the remake of it which means it is thousands of times better. Lev.1 - Blackfrag This is a complete remake of my first blackfrag level. It is like a figure-eight level with a hallway circling the whole thing. Windows allow easy finding of enemies and weapons 5-7 take a little time to get. It has been touched up, made more semetrical, and I took out that huge space scene because all it really did was slow down computers. This level has got to be one of the greatest testers of real deathmatchers and has been play tested by some of the best around.",
+	"version": "24bf23",
+	"date": "2016-02-07 20:30:49",
+	"files": [
+		{
+			"filename": "quicken2.wad",
+			"size": 127804,
+			"crc": 2058609968,
+			"md5": "256f4dc58fd4758cb869715181600635",
+			"sha1": "24bf23bce1e8adcfe217b1b1173d76ff9df4f4a7",
+			"sha256": "406fb1486fa6610e9920df45d55e5f970f0554414a48e2349efc1800d1790041"
+		}
+	]
+}

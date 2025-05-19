@@ -1,0 +1,17 @@
+{
+	"uid": "57east (825f7c).wad",
+	"name": "57th Street East",
+	"description": "A level for Doom 2. The 1st pwad I have made for Doom2.",
+	"version": "825f7c",
+	"date": "2013-11-02 15:45:55",
+	"files": [
+		{
+			"filename": "57east.wad",
+			"size": 58295,
+			"crc": 1039309081,
+			"md5": "f479a53743d27f9217a3ba78cc7c4fde",
+			"sha1": "825f7c242bc0a74cf77bfa2c0fde71157c9556dd",
+			"sha256": "a2584a0f5a83e53a28c65283ce8f9128ca74fa702ace16a85792d50dda67a82b"
+		}
+	]
+}

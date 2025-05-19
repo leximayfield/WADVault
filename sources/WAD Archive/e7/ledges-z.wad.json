@@ -1,0 +1,16 @@
+{
+	"uid": "ledges-z.wad",
+	"name": "Ledges of Doom II",
+	"description": "This level is a conversion of LEDGES-X : for Doom II. It adds some teleporters, : rooms, more weapons, etc...",
+	"date": "2014-12-15 21:33:39",
+	"files": [
+		{
+			"filename": "ledges-z.wad",
+			"size": 75635,
+			"crc": 3471548488,
+			"md5": "afb73ee3ffe036e677a5f50007f78862",
+			"sha1": "e7c8dee9b5e97be77fd1f54b1f1c0fed0954dbe1",
+			"sha256": "597eb78db572ce0c87c0ba7da1362ce5d9d68cca27de6543e6c681b358251c81"
+		}
+	]
+}

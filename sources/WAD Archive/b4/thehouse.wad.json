@@ -1,0 +1,16 @@
+{
+	"uid": "thehouse.wad",
+	"name": "The House of Cyberdemon",
+	"description": "level for DooM ][ based on Quake map E1M7: The House of Chthon",
+	"date": "2015-01-14 14:34:42",
+	"files": [
+		{
+			"filename": "thehouse.wad",
+			"size": 171440,
+			"crc": 4108042901,
+			"md5": "119f7930abe0e09ca25c716ff821750a",
+			"sha1": "b4fa8eb627250f73d78321902d39c6052a887493",
+			"sha256": "7bab57d146641195c780b0a23da9ee60192e05f7452b47e41d6299e837da18ba"
+		}
+	]
+}

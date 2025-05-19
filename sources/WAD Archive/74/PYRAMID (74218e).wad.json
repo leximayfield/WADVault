@@ -1,0 +1,17 @@
+{
+	"uid": "PYRAMID (74218e).wad",
+	"name": "Pyramid of the Damned",
+	"description": "The great pyramid of Egypt has been taken over by hell. You must eradicate the enemy.",
+	"version": "74218e",
+	"date": "2015-01-14 22:44:19",
+	"files": [
+		{
+			"filename": "PYRAMID.wad",
+			"size": 59006,
+			"crc": 3563685887,
+			"md5": "be137adaf0f4ebc51bc90b0625948388",
+			"sha1": "74218e0fc1e1ee7d51c4f4907d3655dc9c6251de",
+			"sha256": "ac0637b87092e0605907e2b68a5b4556b614cf8311fa4edb7862fa3fbd1d6e9c"
+		}
+	]
+}

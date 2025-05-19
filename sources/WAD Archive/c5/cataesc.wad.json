@@ -1,0 +1,16 @@
+{
+	"uid": "cataesc.wad",
+	"name": "Escape from the Catacombs",
+	"description": "Here it is: my debut in the art of creating levels for FPS video games. Or rather, my first real attempt at doing so, where I genuinely try to make a playable level rather than to mess around with the editor. So, this is the time where I have to provide a story for the WAD or something, right? Well, if that's so... You used to be a cunning mercenary who never resisted the urge to protect his homeworld from demons or whatever sorcery. However, citizens if the land thought you were a dangerous criminal, and so they decided to incarcerate you in a dark dungeon. They decided to lock you up in a chamber in an underground catacomb, beneath an old military base. You had spent a few months in solitary confinement, being fed a meal made of a chicken three times a day by the guard. But one day, the guard didn't open the cell door to deliver your lunch for whatever reason. This felt rather strange, so you wondered what's happening. Suddenly, a ghastly figure entered your room with murderous intent. You dodged his attacks and karate chopped his head off. Then you had realised that the compound has been overrun by evil, and it's your duty to escape and save the day once again. You picked the sorcerer's staff and decided to set out. ....That works. While it's true that it's my first map, I did my best to make it appear decent and iron out any flaws. I had to use some magic tricks to do what I want, which might make you see a void sometimes, but there's not much I can do when mapping in the vanilla map format. Besides, there aren't many Heretic maps being made these days, so I don't have a lot of competition. Nonetheless, I hope you will have fun! I look forward to hearing your thoughts. Who knows, maybe I will create more maps for other games in the future.",
+	"date": "2019-03-20 01:49:37",
+	"files": [
+		{
+			"filename": "cataesc.wad",
+			"size": 417648,
+			"crc": 2770630919,
+			"md5": "e84aab8cf136e52a81073602069b46fd",
+			"sha1": "c5d39e9d58a28c17e0f6ded390d69e09b922bf6e",
+			"sha256": "383e4486d61175ac06e8551a2a5c68f8cf10fa18c97117a42d11c1b157558f51"
+		}
+	]
+}

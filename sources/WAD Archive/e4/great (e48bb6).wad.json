@@ -1,0 +1,17 @@
+{
+	"uid": "great (e48bb6).wad",
+	"name": "A Great Day in Hell",
+	"description": "You'll have a great day when playing this map!",
+	"version": "e48bb6",
+	"date": "2014-12-18 23:09:50",
+	"files": [
+		{
+			"filename": "great.wad",
+			"size": 1850,
+			"crc": 2676574321,
+			"md5": "00fa29d44dadfac8420b626f111720d2",
+			"sha1": "e48bb6950f669ff61fff373775bf0d12ab8d854a",
+			"sha256": "8fd472ee80ef1c72abe557db92de602c065288a23848a02344ffafb3783bbe3b"
+		}
+	]
+}

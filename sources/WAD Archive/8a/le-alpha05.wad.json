@@ -1,0 +1,16 @@
+{
+	"uid": "le-alpha05.wad",
+	"name": "Alpha Guns 05",
+	"description": "This is a Doom mod which replaces the original guns with the weapons from the alpha versions of Doom",
+	"date": "2014-12-11 22:14:15",
+	"files": [
+		{
+			"filename": "le-alpha05.wad",
+			"size": 315162,
+			"crc": 1300349515,
+			"md5": "01339c5598e9535eb6989e456f16a396",
+			"sha1": "8aecddc7cf97941dea23236950d5af2624779f5b",
+			"sha256": "5df27c83ae02f0ff56163745fcf70ce24daa7bcd2ec49210eae3f98d375ad15e"
+		}
+	]
+}

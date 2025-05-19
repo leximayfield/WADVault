@@ -1,0 +1,16 @@
+{
+	"uid": "nautalis.wad",
+	"name": "Nautalis",
+	"description": "The shape of the level is like a nautalis shell as it name hints. The end of nautalis is a plain wall, but it is a switch exit.",
+	"date": "2015-09-15 13:19:29",
+	"files": [
+		{
+			"filename": "nautalis.wad",
+			"size": 30921,
+			"crc": 184098509,
+			"md5": "bc622cf4a4ee1ea0da7d52ec3424659a",
+			"sha1": "5cb31280d8a0b18c7f59a4b966ef71ccf3420a8b",
+			"sha256": "598792b7777e8e137c7af2b8f962d32698ece605060a1b0125a320ef69e617af"
+		}
+	]
+}

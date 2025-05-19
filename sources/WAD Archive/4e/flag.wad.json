@@ -1,0 +1,16 @@
+{
+	"uid": "flag.wad",
+	"name": "Capture the flag, doom style",
+	"description": "A Deathmatch(kind of) only wad for Doom2, 4 players only. Don't use the deathmatch switch when you start this one, just ipxsetup. This is to keep your starts in the same place.",
+	"date": "2014-01-07 21:56:06",
+	"files": [
+		{
+			"filename": "flag.wad",
+			"size": 468678,
+			"crc": 2611052617,
+			"md5": "ff6504b435f959b7b90c29cba10acada",
+			"sha1": "4ed2ccab182cccae91494c53fe05810f6ddc493d",
+			"sha256": "c53e9c6479d30461edcedb2b8a41ac53448e69335a8433447f35dc18fd17c31f"
+		}
+	]
+}

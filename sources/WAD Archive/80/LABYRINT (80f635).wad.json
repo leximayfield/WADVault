@@ -1,0 +1,17 @@
+{
+	"uid": "LABYRINT (80f635).wad",
+	"name": "LABYRINTH - 1",
+	"description": "The idea of the game was to make a labyrinth. I think it is pretty good, but I had to decide not to go on adding things and sectors to it, because it would never be perfect. I will later try to make a better labyrinth...",
+	"version": "80f635",
+	"date": "2014-01-11 11:26:37",
+	"files": [
+		{
+			"filename": "LABYRINT.wad",
+			"size": 119652,
+			"crc": 1477992740,
+			"md5": "6b3227f583d2f16c1783688be1185020",
+			"sha1": "80f63586573c92e28ae7384cbfdaae6a13f0675d",
+			"sha256": "cb1439a1109a2478c80a4ebb95fec85e55afc94b5bfb4f75e62c33b33d96121a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "7sins.wad",
+	"name": "7 Sins",
+	"description": "You have just teleported into hell. This level of hell is dedicated to the seven deadly sins of man.",
+	"date": "2016-07-20 19:52:30",
+	"files": [
+		{
+			"filename": "7sins.wad",
+			"size": 1744778,
+			"crc": 1888918580,
+			"md5": "e939cf52cb718ade5ca8a4a8af861d5c",
+			"sha1": "bf21502f34b4861ae1bf39c2962a7eea0c763955",
+			"sha256": "67e89794dbaf207f3903feebaea4c8978aaba6f1d62d534115565a39259e3ac4"
+		}
+	]
+}

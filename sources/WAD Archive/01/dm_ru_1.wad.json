@@ -1,0 +1,16 @@
+{
+	"uid": "dm_ru_1.wad",
+	"name": "Rub\u00e9n's Deathmatch 1",
+	"description": "My first DM map and also my first ZDoom map.",
+	"date": "2014-12-15 22:26:41",
+	"files": [
+		{
+			"filename": "dm_ru_1.wad",
+			"size": 93446,
+			"crc": 372249177,
+			"md5": "886009b8dfdc287f0f18efaeddf18b0e",
+			"sha1": "01b2c2946f7655ffabcdeb15937bcdf06a97d107",
+			"sha256": "b780b66d41ccc43fb17825a6bd101689cc1415e0f5c8cd6d77c8168aba37c61f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cga_sp.wad",
+	"name": "Chaingun Arena Single Player",
+	"description": "A very violent single-player version of Chaingun Arena. Not for the faint-hearted. Mainly designed with UV Speed in mind. I haven't tested whether UV Max is possible, but I'm pretty sure there is enough ammo, given the enormous scope for infighting. Differences from the DM version: monsters, weapons, ammo and power-ups added. Red key now needed to exit; some barrels added; one sector given strobe lighting and a damaging floor; some lines changed to \"monsters can't cross\"; one sector made into a secret (though it's not very well hidden); some rock pillars enlarged so that monsters can be put on them.",
+	"date": "2018-05-28 22:34:42",
+	"files": [
+		{
+			"filename": "cga_sp.wad",
+			"size": 128923,
+			"crc": 3308743855,
+			"md5": "98f07b67ce8dd5275005b6fb1c2381b2",
+			"sha1": "66a6814cce5540746d4ffa3d79c5874bcb3017a4",
+			"sha256": "d71ae2ce23178df198fd0b460e4c161748c2f9bbdf18dad97cb8a95dbaa2d1ee"
+		}
+	]
+}

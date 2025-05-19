@@ -1,0 +1,17 @@
+{
+	"uid": "base1 (55b845).wad",
+	"name": "Quake2: Base1",
+	"description": "(OLD DESCRIPTION) I love to play converted levels to Doom2, and I used to challenge a lot of other people to put Quake maps into Doom. some of the results of this include DM3.wad (by mystican) and dm4.wad (not yet released by Brv-Zokum). Since no one created a base1 conver sion from quake2, myst challenged me to create it. So, i decided to take a crack at it. After being introduced to the great EdMap level editor, I started building furiously at this map for 2 months straight Near the end i started to slack off because Deathmatch on this map was tooooo fun. Thanks Dvs and knort. ;) If anyone is interested in creating base2.wad or base3.wad (off of quake2), please mail me. (RERELEASE DESCRIPTION) Ahh, this wad and I meet again. With Zdaemon rising in popularity and lots of folks deathmatching once again, I thought I should update this wad with some tweaks for its inclusion in Knortic Deathmatches. However, this is a separate release for those who just want to play it on its own. Please note that this is NOT compatible with the base1q.zip found on the main doom ftp's and mirrors. It's not the most beautiful wad ever but I know it plays well, having deathmatched on it many times.",
+	"version": "55b845",
+	"date": "2013-04-22 00:33:55",
+	"files": [
+		{
+			"filename": "base1.wad",
+			"size": 275927,
+			"crc": 1358357768,
+			"md5": "453c4c9d8565587c5e81dddf34a54e8a",
+			"sha1": "55b845cc98d78430d2b83e2efdc033a13c2c2e9f",
+			"sha256": "7e8fea3cb988716b1ee056b4945d15111a8e8b3f470a44993bb197e01aa24a50"
+		}
+	]
+}

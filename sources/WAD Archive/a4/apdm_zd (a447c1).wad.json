@@ -1,0 +1,17 @@
+{
+	"uid": "apdm_zd (a447c1).wad",
+	"name": "Awesome Panda DM",
+	"description": "A set of 13 maps created by myself because I felt like creating some maps. The music is sequenced by myself, apart from map 11.",
+	"version": "a447c1",
+	"date": "2013-11-21 21:37:54",
+	"files": [
+		{
+			"filename": "apdm_zd.wad",
+			"size": 2387254,
+			"crc": 117625844,
+			"md5": "f858caf168a2af2f3fb9c2000a873742",
+			"sha1": "a447c19409f635ae5021d3187fafd233295d9442",
+			"sha256": "8cb6963504f64ffb563fc0d5958e0a577566d9e2c5667016780778ffccd554aa"
+		}
+	]
+}

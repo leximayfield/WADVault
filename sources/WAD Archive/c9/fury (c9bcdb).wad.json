@@ -1,0 +1,17 @@
+{
+	"uid": "fury (c9bcdb).wad",
+	"name": "FURY",
+	"description": "\"We're on an express elevator to hell, goin' down!\" You have lost contact with the mining colony codenamed FURY. It is your job to find out what has happened to the colonists. Sound familiar? probably. This WAD is still fun to play though.",
+	"version": "c9bcdb",
+	"date": "2013-11-02 15:25:25",
+	"files": [
+		{
+			"filename": "fury.wad",
+			"size": 132725,
+			"crc": 2299426935,
+			"md5": "6b2fbfef395eb24f53ee59bcfcbe2fa9",
+			"sha1": "c9bcdbb519bc0683f7a35ad55851ec8b0046f0a0",
+			"sha256": "75bb691d3aaa7e06d6bafcab148a2d79e836eeb1a194dcfbd2df93ff2b2d088b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "manin.wad",
+	"name": "Manin",
+	"description": "One Boom-compatible map made on the 26th of October in the space of 24 hours.",
+	"date": "2015-01-13 21:44:53",
+	"files": [
+		{
+			"filename": "manin.wad",
+			"size": 312722,
+			"crc": 2412811764,
+			"md5": "8b5a1363b7949d53c1befe505a39cf09",
+			"sha1": "e0d477e51e77d61bc7585fa9bf4c616d158f6989",
+			"sha256": "61cd251547160461dd1b355f156dd5ed3a48647d8ac85b101f67cfb1a50180af"
+		}
+	]
+}

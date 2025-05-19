@@ -1,0 +1,17 @@
+{
+	"uid": "frogger3 (3d3397).wad",
+	"name": "frogger3.WAD",
+	"description": "This is a funny single-player or COOP PWAD. It features added graphics and music. Enjoy...",
+	"version": "3d3397",
+	"date": "2013-11-02 15:23:13",
+	"files": [
+		{
+			"filename": "frogger3.wad",
+			"size": 219329,
+			"crc": 2377245881,
+			"md5": "063bc7b0d66c76803678ce891e459fc0",
+			"sha1": "3d33976c9d6d1da4d8b19949a1bc2b30575b24f1",
+			"sha256": "82883ba365ab2b55093ecd4b3e9b8b56411519d4c2ac03d73ad746fe3043f44b"
+		}
+	]
+}

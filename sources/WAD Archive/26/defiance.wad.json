@@ -1,0 +1,16 @@
+{
+	"uid": "defiance.wad",
+	"name": "Mad Deathmatch",
+	"description": "This wad is specifically for deathmatch although it turned out to be an excellent and rather challenging single play level. It also supports co-op play. A large center pavillion is surrounded by a large outdoor area with a few small buildings on the perimeter. Many secret places! See if you can find them all.",
+	"date": "2014-01-07 21:45:08",
+	"files": [
+		{
+			"filename": "defiance.wad",
+			"size": 196198,
+			"crc": 3331618091,
+			"md5": "915187bd9f26fa0e8830a60d8174f73a",
+			"sha1": "2695e1d7bad0a7acc23b04570cb82bfcc9423ce0",
+			"sha256": "be06294c563f0efc36cc01edc80a1fece9f2c94c6047b47a712c6ab25853a588"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "parareb.wad",
+	"name": "Paranoia Rebirth (Re-Release)",
+	"description": "This level was inspired by Paranoia Rebirth, a cool techno track by Naoki, from Dance Dance Revolution 3rd mix.",
+	"date": "2014-12-29 08:45:45",
+	"files": [
+		{
+			"filename": "parareb.wad",
+			"size": 649968,
+			"crc": 4226882390,
+			"md5": "e8519d7c0b7ac4c5a7922aafc64a85da",
+			"sha1": "ab82adbcbb44952b4ea408cdbe73150c16beca89",
+			"sha256": "93116dae065688fd8e325f5978190d5a34eb5381aeebd06de274a7f6c1f28b08"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "adcoop.wad",
+	"name": "AD Coop",
+	"description": "A coop wad made by clan AD",
+	"date": "2014-12-15 22:25:31",
+	"files": [
+		{
+			"filename": "adcoop.wad",
+			"size": 359625,
+			"crc": 2880649301,
+			"md5": "8f7bae0903a52180e666df0254d8eee1",
+			"sha1": "9f4d9acc937f76df509e65c9efac9c0512d6deb2",
+			"sha256": "d5b3cff311ffba3da47aa8896ea8c3a15cfb82c67800703c433afec2aa1045e7"
+		}
+	]
+}

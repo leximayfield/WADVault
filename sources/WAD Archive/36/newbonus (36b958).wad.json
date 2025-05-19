@@ -1,0 +1,17 @@
+{
+	"uid": "newbonus (36b958).wad",
+	"name": "NEWBONUS.WAD",
+	"description": "This WAD replaces the existing E1 secret level with a more bonus type level.",
+	"version": "36b958",
+	"date": "2014-01-07 22:02:23",
+	"files": [
+		{
+			"filename": "newbonus.wad",
+			"size": 3859,
+			"crc": 3487968442,
+			"md5": "aa73b90aa3a6294f5ce96542e1e6f197",
+			"sha1": "36b958a45111c6b78268944f1e81c436827281fa",
+			"sha256": "4cd919d5de63cf9a54c79751366367f597b79ae13e9d5149cf04edb5cb75717e"
+		}
+	]
+}

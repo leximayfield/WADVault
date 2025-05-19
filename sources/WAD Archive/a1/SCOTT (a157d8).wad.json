@@ -1,0 +1,17 @@
+{
+	"uid": "SCOTT (a157d8).wad",
+	"name": "HEX.WAD",
+	"description": "More messy fun",
+	"version": "a157d8",
+	"date": "2016-02-06 13:58:38",
+	"files": [
+		{
+			"filename": "SCOTT.wad",
+			"size": 115712,
+			"crc": 1622753486,
+			"md5": "261eff55240c306b96ed7bc40ca7e6d6",
+			"sha1": "a157d87ac68a42ce8f0196d0b4221b79195f5589",
+			"sha256": "db4bec07deecb32506cb12353fc96b887fac8f115bbc4ede2f9df2c0e91c1a35"
+		}
+	]
+}

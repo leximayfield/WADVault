@@ -1,0 +1,16 @@
+{
+	"uid": "dm_dn01.wad",
+	"name": "Omni-Directional Clusterfuck (dm_dn01.wad)",
+	"description": "This is a small but fast paced deathmatch level designed to hit the fraglimit in the smallest amount of time possible. There are no health or armor powerups. There is no BFG. There are no secrets. There are no unfair advantages. There are plenty of places to run and hide behind quickly so the battles all boil down to the skill of the players.",
+	"date": "2014-12-15 21:28:29",
+	"files": [
+		{
+			"filename": "dm_dn01.wad",
+			"size": 67780,
+			"crc": 1658950965,
+			"md5": "d6382ebbfb9c9ea47024598f0927cd5e",
+			"sha1": "0806dca26c5bbf3d5dcc6e6aaeaf636c47f6f00d",
+			"sha256": "bde5657eddb755b6702d4eda4f959edafa60cdf090b6b9366c95f8fa4485bb81"
+		}
+	]
+}

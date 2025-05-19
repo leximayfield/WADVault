@@ -1,0 +1,16 @@
+{
+	"uid": "ch_shoot.wad",
+	"name": "Shoot!",
+	"description": "The aim was to create a level with a classic approach to custom pwad making. In other words, I just wanted to make an old school Doom 2 map with lots of fun action, a hard pumped midi track, no custom textures besides the sky and a short no-bullshit title!",
+	"date": "2014-12-21 14:18:02",
+	"files": [
+		{
+			"filename": "ch_shoot.wad",
+			"size": 678145,
+			"crc": 4234752846,
+			"md5": "6ded4f07fa47a96ef6eeb0e605274ff4",
+			"sha1": "5ecdedd2f7ed76ace53cfc92aa4c4406abe4b2d4",
+			"sha256": "d94459a285a91841e3216b17a7ed55f548aeedf38b96e117efe235055599303c"
+		}
+	]
+}

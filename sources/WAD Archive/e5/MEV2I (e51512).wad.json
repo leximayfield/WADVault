@@ -1,0 +1,17 @@
+{
+	"uid": "MEV2I (e51512).wad",
+	"name": "MEV2_i.WAD   (DOOM I  --  E1M2)",
+	"description": "This wad is designed for the BEST use with DEATHMATCH 2.0 (it's great, but not required...)",
+	"version": "e51512",
+	"date": "2013-11-04 19:22:19",
+	"files": [
+		{
+			"filename": "MEV2I.wad",
+			"size": 146810,
+			"crc": 116292281,
+			"md5": "7b3f380c2fa2d32037c9d95e869fa365",
+			"sha1": "e51512f78f9e578576076e24a4262040ba9ec273",
+			"sha256": "df3a85c6ab6ffd96e3be72dd31e293c27a18018e2529863910d8a4e3193533dd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hl_op.wad",
+	"name": "Half-life",
+	"description": "This was for Metabolist's Wad contest. This was rejected. :) Personally, I think it is a fun map that very weakly imitates a half-life episode. (the theme of that week's contest was to create a map that had an infestation of a base level)",
+	"date": "2014-12-18 22:52:11",
+	"files": [
+		{
+			"filename": "hl_op.wad",
+			"size": 64632,
+			"crc": 3003401412,
+			"md5": "7b55cd5d5e6958f4d1e977d43d18e9fc",
+			"sha1": "e18899746e2c0124162efb3fe9a95c4ae7753e3a",
+			"sha256": "3f3186df9e5985d71c112747dc7e8524e83b5012657847e0474600a4f7c85bc5"
+		}
+	]
+}

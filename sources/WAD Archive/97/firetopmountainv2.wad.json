@@ -1,0 +1,16 @@
+{
+	"uid": "firetopmountainv2.wad",
+	"name": "Firetop Mountain version 2",
+	"description": "The idea for the map is based off of those old Fighting Fantasy books where you used dice and a pencil. It gets its name from the first book, The Warlock of Firetop Mountain. Back in the mid to late 90s I sketched out the map as described in the book and decided to make a Doom level based on it. The floor plan I sketched is long lost, so apart from the beginning of inside the mountain, the rest has been newly created from scratch.",
+	"date": "2014-12-24 17:03:49",
+	"files": [
+		{
+			"filename": "firetopmountainv2.wad",
+			"size": 33336542,
+			"crc": 4242125497,
+			"md5": "72a5004798a359c4b5dbd6bfd67ae172",
+			"sha1": "97118b8f97d74d60cb282d9b9432e6794b4065e2",
+			"sha256": "7ec373ebb38b49c2ffbc27e530a10f80a1f7f6fa03205f9ad70d821e23c491d2"
+		}
+	]
+}

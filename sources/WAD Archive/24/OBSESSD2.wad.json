@@ -1,0 +1,16 @@
+{
+	"uid": "OBSESSD2.wad",
+	"name": "OBSESSED for DOOM II",
+	"description": "DOOM II conversion of the original OBSESSED for DOOM I. Two levels designed for single player and Deathmatch. As you will soon find out, I love levels that are difficult with lots of the tough guys. In fact, you could say I'm obsessed with the idea. The levels have been made small and compact for non-stop heart-pounding action during deathmatch play (use -nomonsters).",
+	"date": "2014-08-30 13:51:45",
+	"files": [
+		{
+			"filename": "OBSESSD2.wad",
+			"size": 111389,
+			"crc": 2340870996,
+			"md5": "0de938609507ed800458dbee70038f5d",
+			"sha1": "247f205f0df2210755680c1cc0da2e5be70d5645",
+			"sha256": "3babf525316a44e74bc72ad45ae57ccca94df0f755d07205840e470854750a36"
+		}
+	]
+}

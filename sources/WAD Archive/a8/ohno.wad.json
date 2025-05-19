@@ -1,0 +1,16 @@
+{
+	"uid": "ohno.wad",
+	"name": "Ohno Ver 1.1",
+	"description": "For those Doomers who dislike puzzles, but do like the blood and guts, this is the Wad for you. Actually a good training mission for multi-player gamers. The setup is fifty plus rooms of bad guys. The doors are narrow so players will have to take turns being point. I don't believe the level is completable in single player mode without a major Dehacked job.",
+	"date": "2013-11-04 20:13:17",
+	"files": [
+		{
+			"filename": "ohno.wad",
+			"size": 120056,
+			"crc": 2598704066,
+			"md5": "33033cd2292b4b3bef87aad3fc57059c",
+			"sha1": "a89e1f9e80baa9bd9521dd8bc46d3b53810bef2f",
+			"sha256": "f813bce3a55fb5e5a0cca765d4cc591c985261e32af423ce6630040132015ec2"
+		}
+	]
+}

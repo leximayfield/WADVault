@@ -1,0 +1,16 @@
+{
+	"uid": "waylay.wad",
+	"name": "Waylay.wad",
+	"description": "This is an incredible deathmatch level. You will not be disappointed!",
+	"date": "2014-12-15 22:31:05",
+	"files": [
+		{
+			"filename": "waylay.wad",
+			"size": 68493,
+			"crc": 1536602309,
+			"md5": "2c51b4f4ddb25fe56f58d612eec107eb",
+			"sha1": "3805fadec83ff79df71b7b2addb6fbb25eb897c4",
+			"sha256": "60043c31a459da7cb572b9c7ee34e1cf5741734408cac7e9a7500fcc7a703011"
+		}
+	]
+}

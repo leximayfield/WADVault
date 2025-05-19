@@ -1,0 +1,17 @@
+{
+	"uid": "LOST (f3c3ec).wad",
+	"name": "LOST.WAD",
+	"description": "My first DoomII Wad - Tell me what you think. Just to be *really* nasty I've turned the automap off.",
+	"version": "f3c3ec",
+	"date": "2014-12-27 12:18:50",
+	"files": [
+		{
+			"filename": "LOST.wad",
+			"size": 109991,
+			"crc": 2378630996,
+			"md5": "8afbe33136ae938ac3df5090c1cbc0af",
+			"sha1": "f3c3ec7868b98e97c70a8cd112bdce1ef28f54b1",
+			"sha256": "d1c6981a238651a77148693764c36c277ebc3d3c6bfd2a196a2079284b4fd2ec"
+		}
+	]
+}

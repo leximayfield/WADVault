@@ -1,0 +1,16 @@
+{
+	"uid": "acity101.wad",
+	"name": "A City",
+	"description": "The 101st beta version of the first level from my project \"The Cities\". A few buildings, no objects except player starts and a few shotguns in hidden areas where you cant get to ;). There are no keys so the locked doors are unlocked on the moment :).",
+	"date": "2014-12-15 21:52:55",
+	"files": [
+		{
+			"filename": "acity101.wad",
+			"size": 182704,
+			"crc": 3284907332,
+			"md5": "cbd6e461c1db1bcdf938c44812839e41",
+			"sha1": "da9ec3d619d14c3bed5d0a09b7100c0835c408e6",
+			"sha256": "574f816aa202e2ab0551d0419eaaf75b6ec0d8444d613f9264a096e244289c03"
+		}
+	]
+}

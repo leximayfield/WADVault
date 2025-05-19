@@ -1,0 +1,17 @@
+{
+	"uid": "little (505f90).wad",
+	"name": "My Little Wad",
+	"description": "4 pistol start level attention openGL only. Not USE Zdoom . Use jump and crouch",
+	"version": "505f90",
+	"date": "2015-09-14 20:32:28",
+	"files": [
+		{
+			"filename": "little.wad",
+			"size": 11316595,
+			"crc": 3253506274,
+			"md5": "b46c22735a3b1faccf9ef3b89c6a67c2",
+			"sha1": "505f90109e2fa08fb5a8f31a722aa5b8c19eff4d",
+			"sha256": "f90ebca1752a15266c8ef910f13ca403e5db1fc4881c9344ae47e5e74c65c108"
+		}
+	]
+}

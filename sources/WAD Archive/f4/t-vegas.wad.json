@@ -1,0 +1,16 @@
+{
+	"uid": "t-vegas.wad",
+	"name": "Not Quite Vegas",
+	"description": "A short map making use of Nick Baker and Sam Woodman's Morister Resources texture pack. MAP01 is based off an older speedmap of mine done in late 2006, included as MAP02 of this pack. What is here MAP01 was started sometime near summer 2007 and was, if I recall correctly, originally intended for \"Tango and DomRem go to Vegas,\" a speedmegawad by DomRem and myself. That idea died out and DomRem disappeared from the internet, but since then I've been opening up the map in Doom Builder to make changes from time to time. Unlike some of my previous speedmapping revamps, I've made some extremely noticeable changes in the map's overall structure, and have, of course, added a nice amount of detail that makes me look like an Erik Alm wannabe.",
+	"date": "2014-12-29 17:01:09",
+	"files": [
+		{
+			"filename": "t-vegas.wad",
+			"size": 4860548,
+			"crc": 2493612746,
+			"md5": "48aeebb7c415562a5976ba170a24df54",
+			"sha1": "f4ba0a918e9cd6f91cb5f5cd24041ebbe7455999",
+			"sha256": "3b48f6b055e09a3368fc65c7ecc23777874547ebee492f8c8bd9314987b1d2b4"
+		}
+	]
+}

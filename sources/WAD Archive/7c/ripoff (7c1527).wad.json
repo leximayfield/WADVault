@@ -1,0 +1,17 @@
+{
+	"uid": "ripoff (7c1527).wad",
+	"name": "RIP-OFF .99(although the level is called Dimension 42)",
+	"description": "Well, it's a little bit of everything (as you can/ will see). As far as I know it's the biggest pwad I've ever seen (if you find something bigger please tell me, and I'll add something to mine to keep it number one :). I've been running it on my 486DX33 and UV has a pretty good speed, but ID (hehehe -see for yourself) slows down if you leave any monsters behind (486DX50 recommended for ID). Reject screws it up a little... its kinda like every monster has the \"deaf/ambush\" bit set, but you get more speed. With this PWAD you can exterminate the Energizer Bunny, blast Beavis, blow up Butt-Head, bezerker punch Barney, cook the charging Cacodemon, and phscorch the Phsykick (KICK IT! KICK IT! KICK IT!) Phskull! That's right, it has sprites (and sounds, and grafx, and a cool level). You can also kill a Spider Demon with a chainsaw -no worries. And because the BFG 9000 is so hard to get, I recommend you use the dehacked patch to make ID quasi-fair (or those Cyber Demons might getcha). Whatever else would you expect from Dimension 42, the answer to the universe? In the final confrontation you must enter the Barney (read barney.txt) House and kill Barney and all his clones. -Good Luck- That's the only theme in this PWAD, all else is just chaos. I hope you like it. I might expand later to make a whole episode, tell me how you like this level.",
+	"version": "7c1527",
+	"date": "2013-11-02 15:11:24",
+	"files": [
+		{
+			"filename": "ripoff.wad",
+			"size": 4562289,
+			"crc": 435473077,
+			"md5": "c046ac780e09cd41ab371f3936f8bf6e",
+			"sha1": "7c1527517506f35246192ea1a47f222157da0175",
+			"sha256": "2a9ec5725e3fba8a22a3ef09e084df2eafe6858d3b9967fe04b4b3fd983ac62f"
+		}
+	]
+}

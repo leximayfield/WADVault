@@ -1,0 +1,17 @@
+{
+	"uid": "hellgate (4984b8).wad",
+	"name": "HELLGATE.WAD",
+	"description": "A fast paced wad with no place to hide. A guaranteed FragFest! Definitely not for campers. Great wad to try out new BFG tricks.",
+	"version": "4984b8",
+	"date": "2014-12-15 22:41:57",
+	"files": [
+		{
+			"filename": "hellgate.wad",
+			"size": 359194,
+			"crc": 1323016440,
+			"md5": "8baffa42f338d9cfd8fe2a9a1d722c78",
+			"sha1": "4984b8d44257b13a97347d009e692773f490089c",
+			"sha256": "c5d3271413b6ffb76b3c2ec6769cc17682c38a0e21c8af7eb7007e0d987b71af"
+		}
+	]
+}

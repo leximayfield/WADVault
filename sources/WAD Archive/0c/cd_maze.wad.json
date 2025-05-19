@@ -1,0 +1,16 @@
+{
+	"uid": "cd_maze.wad",
+	"name": "The CD's Maze.",
+	"description": "A little symmetrical maze, just to loose your head. This is an easy single player level. It's more interesting to play in deathmatch mode.",
+	"date": "2014-12-15 22:07:49",
+	"files": [
+		{
+			"filename": "cd_maze.wad",
+			"size": 131760,
+			"crc": 2001008639,
+			"md5": "d3b81d56f52bf7cef1ee5d7aa045ba59",
+			"sha1": "0c3db90bb4586b04ada652f348dd81da308c6c90",
+			"sha256": "0654ffd4dc5c4752fd02a6c1a0bed221627020bf2875b8c0bb8c9424b8285239"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "foe.wad",
+	"name": "Fortress of Evil",
+	"description": "My first level, a fairly short map inspired by The Plutonia Experiment and its sequel (particularly level 1, Comeback).",
+	"date": "2014-12-18 22:41:22",
+	"files": [
+		{
+			"filename": "foe.wad",
+			"size": 688781,
+			"crc": 484452606,
+			"md5": "88b1d2c87821755543fcae1a384bb28c",
+			"sha1": "363e481f7bbbf5ee3e4bb0a44704f825e474b17b",
+			"sha256": "470bad64c151959982f756b21baa8b5af98fbcec7bf0bbc38995d9ff3a64ef2c"
+		}
+	]
+}

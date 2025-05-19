@@ -1,0 +1,17 @@
+{
+	"uid": "STRTRK (0a4540).wad",
+	"name": "STRTRK Created 7/6/95",
+	"description": "This is a WAD of the starship NCC-1701D, otherwise known as the ENTERPRISE on STAR TREK: The Next Generation. It can be played as a normal wad, but is mostly meant as a 'tour' of the EnterPrise. It is not totally finished, and will never be unless someone else finishes it for me. I just added some monsters, and 'cleaned' some things up so it could be released. It presently contains the Brigde, the Battle Bridge, Engineering, 10-Forward, Sick Bay, a Transporter Room, a Crew Quarter, and a Cargo Bay as well as some hallways. It is approximately 1/6 the size of Deck 8 of the Enterprise, the center and largest deck of the Enterprise. Any comments/suggestions/praise on an awesome WAD..:), email me.",
+	"version": "0a4540",
+	"date": "2018-04-15 00:05:25",
+	"files": [
+		{
+			"filename": "STRTRK.wad",
+			"size": 778654,
+			"crc": 1500371717,
+			"md5": "9d1c346a167fd493573e6f49eb6cb7aa",
+			"sha1": "0a454081a9b2284c58c7dbbd14d60501e505dd02",
+			"sha256": "d006063a6bec380269e61d28244866313926b73a9092280eb97781fe72560eb5"
+		}
+	]
+}

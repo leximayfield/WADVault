@@ -1,0 +1,16 @@
+{
+	"uid": "hexbrawl.wad",
+	"name": "HEXEN BRAWL",
+	"description": "A awesome 1 level deathmatch wad for the newest cool game, HEXEN. Haven't figured out how to do switches and doors yet, but its still cool.",
+	"date": "2014-01-07 22:21:37",
+	"files": [
+		{
+			"filename": "hexbrawl.wad",
+			"size": 34038,
+			"crc": 4152974176,
+			"md5": "3939db45a762d042957a8546ca9ac6ad",
+			"sha1": "8aa9e6d3ca7184cedebfa146301a1ef168ec75b9",
+			"sha256": "b6addf6a01e641daddf3c408d46741d32585097c5f1b5e5a4469a89a1fdb1c23"
+		}
+	]
+}

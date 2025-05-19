@@ -1,0 +1,16 @@
+{
+	"uid": "cuchillo (c875f5).wad",
+	"description": "Wad for DOOM2 built for being played #single#, #cooperative# and #deathmatch#. No levels.",
+	"version": "c875f5",
+	"date": "2016-02-07 20:32:04",
+	"files": [
+		{
+			"filename": "cuchillo.wad",
+			"size": 30147,
+			"crc": 1699351511,
+			"md5": "82f13c6e3f416487e3918aba6177f054",
+			"sha1": "c875f5be1dffe0c25b5121455509875a56970fc0",
+			"sha256": "712db5ce456757f8976e78178735216a6c15ebfdc7c5b2b5ff16b07a833519ab"
+		}
+	]
+}

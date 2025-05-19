@@ -1,0 +1,16 @@
+{
+	"uid": "drdtempl.wad",
+	"name": "Temple of Dr. Death",
+	"description": "Small level designed for constant player contact. Abundant weapons are strategically placed.. Lots of strategy in this one, so look and adapt! I'm semi-retired from .WAD making, so I took no steps to align any textures. If this just totally spoils the level for you, so be it, but I don't have the time anymore to devote to making these things. Unless of course, you want to pay me... ;)",
+	"date": "2013-11-04 19:21:13",
+	"files": [
+		{
+			"filename": "drdtempl.wad",
+			"size": 263609,
+			"crc": 1355549751,
+			"md5": "67533724e393e57aecdc8ccd43727a35",
+			"sha1": "2d51f331a37ca4590fa2f298d5889a379583c405",
+			"sha256": "491aabf9e2ba543395985d33ee573cd4aff666feed37115816f580ca8423609c"
+		}
+	]
+}

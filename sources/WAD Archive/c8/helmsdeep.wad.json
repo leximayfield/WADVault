@@ -1,0 +1,16 @@
+{
+	"uid": "helmsdeep.wad",
+	"name": "Helm's Deep",
+	"description": "This is a map I made after playing a Helm's Deep map for Counter-Strike. As far as looks go, I based on pretty much entirely on the CS map (which was pretty accurate as far as I know). In terms of gameplay, don't expect the marines to kill everything for you, you still have a lot of killing to do yourself. Also, the level will slow down at a few points, so be warned. If you have a lower end machine it may beg for mercy if you try and play this.",
+	"date": "2014-12-22 19:02:46",
+	"files": [
+		{
+			"filename": "helmsdeep.wad",
+			"size": 368845,
+			"crc": 1095551666,
+			"md5": "5ce8df0fc5b6f8591c3aa6b4062c5bfb",
+			"sha1": "c89654d899ba871b4748bb6a5673acd04fdf258b",
+			"sha256": "18ca6d6fd40e8e8c26a288f831f6b74c0108c908c77bc05a952f17dc3d6cae42"
+		}
+	]
+}

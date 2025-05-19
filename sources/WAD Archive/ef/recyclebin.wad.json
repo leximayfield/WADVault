@@ -1,0 +1,16 @@
+{
+	"uid": "recyclebin.wad",
+	"name": "The Recycling Bin",
+	"description": "This is a small compilation of old maps that I have recently touched up into a playable state, so that they can see the light of day for once. Maps 1 and 2 were originally meant to be contributions to a failed plain old doom 2 community project. (Complevel 2)",
+	"date": "2019-03-20 01:39:12",
+	"files": [
+		{
+			"filename": "recyclebin.wad",
+			"size": 648502,
+			"crc": 2346453890,
+			"md5": "5f29a073ee7aa80664c3aa9f22dafaf7",
+			"sha1": "eff6c8104023a8c2defcd245dc3a15840659cb0b",
+			"sha256": "748a2efc2e68800f235c448b4b89750487cfca224e0be9557dff3e4a0a2e1220"
+		}
+	]
+}

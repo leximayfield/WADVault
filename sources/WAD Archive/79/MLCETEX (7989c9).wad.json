@@ -1,0 +1,17 @@
+{
+	"uid": "MLCETEX (7989c9).wad",
+	"name": "Malice Texture Pack for Doom 2",
+	"description": "Most of the textures from the excellent commerical Quake 1 TC, Malice.",
+	"version": "7989c9",
+	"date": "2015-09-15 16:38:02",
+	"files": [
+		{
+			"filename": "MLCETEX.wad",
+			"size": 2324752,
+			"crc": 231670978,
+			"md5": "97088f69b8a7af3f8ff5679631a3bd34",
+			"sha1": "7989c92a232334a29675d8ae49fa878be539b2be",
+			"sha256": "7ed81e8a21b91c471f41b3deadf9468cea326b82aabc351c0d07f8ad19e58a44"
+		}
+	]
+}

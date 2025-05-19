@@ -1,0 +1,16 @@
+{
+	"uid": "hit&run.wad",
+	"name": "Hit and run",
+	"description": "Find the switch to the hidden door, and grab the the plasma rifle. Beware of rockets coming from the the other side of the hall....",
+	"date": "2013-07-09 20:23:04",
+	"files": [
+		{
+			"filename": "hit&run.wad",
+			"size": 40525,
+			"crc": 4009969182,
+			"md5": "6e5b1ece244c0e72a7d0711a8ebf1746",
+			"sha1": "66ad9a07c972d0ff27ea5db5d73b40225de40f90",
+			"sha256": "6850ee1a21751a5041fbb56e2180f510ec02d3f409ade2fec8bf95bacd57d2e0"
+		}
+	]
+}

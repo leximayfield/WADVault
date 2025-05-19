@@ -1,0 +1,16 @@
+{
+	"uid": "40map1.wad",
+	"name": "40oz showdown.",
+	"description": "CTF map made for 40oz as a wedding present. Quite a weak map in my opinion (I haven't tried it myself) but it seems a little flat and perhaps a little claustrophobic just by looking at it in the editor. Just don't expect Status: Idle, RMIF or some other IDL quality map.",
+	"date": "2014-12-15 22:04:14",
+	"files": [
+		{
+			"filename": "40map1.wad",
+			"size": 2696721,
+			"crc": 588896547,
+			"md5": "19cc0a089e945104333b5dc4ba4b9b6e",
+			"sha1": "9015340172706755c39888ae2baf15c670e8329c",
+			"sha256": "fc870e5b28e58d8f4bd01a6f4b6ef7764443e4a4572f352dfb0255682159d2ae"
+		}
+	]
+}

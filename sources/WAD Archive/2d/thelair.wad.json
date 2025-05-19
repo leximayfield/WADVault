@@ -1,0 +1,16 @@
+{
+	"uid": "thelair.wad",
+	"name": "The Lair",
+	"description": "Built for Doom2 v1.9",
+	"date": "2015-01-14 22:49:59",
+	"files": [
+		{
+			"filename": "thelair.wad",
+			"size": 621356,
+			"crc": 2373861630,
+			"md5": "7b85bee2ec54eb5340623eb53e942f72",
+			"sha1": "2d340e317fb28eb96699c68581cbeab368a4f2d0",
+			"sha256": "d6ccc49c8e65cce3662942d2e5f1a199fc72a42cb6e3bab8500c3ca1c7f001a8"
+		}
+	]
+}

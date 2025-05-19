@@ -1,0 +1,17 @@
+{
+	"uid": "deadshr2 (c0cb35).wad",
+	"name": "\"And The Dead Shall Rise\"",
+	"description": "This level I modeled after episode 4 (Thy Flesh Consumed) of the Ultimate Doom",
+	"version": "c0cb35",
+	"date": "2014-12-18 22:42:45",
+	"files": [
+		{
+			"filename": "deadshr2.wad",
+			"size": 256768,
+			"crc": 409771998,
+			"md5": "b4a3ffc805a6179f877704c4bf4987c9",
+			"sha1": "c0cb35c503d940ca4ec451b84505d05a645ddece",
+			"sha256": "c66d6031d7924bc52956337950f0ec01d7c09740407cae8f7a31390457190746"
+		}
+	]
+}

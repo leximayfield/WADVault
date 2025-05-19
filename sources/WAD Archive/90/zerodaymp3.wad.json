@@ -1,0 +1,16 @@
+{
+	"uid": "zerodaymp3.wad",
+	"name": "Zero Day (MP3 edition)",
+	"description": "*This version of Zero Day includes an optimised, MP3 soundtrack with custom instruments. If you'd like the vanilla MUS-file edition, its in zeroday.zip, which you should find in the same location.",
+	"date": "2014-12-29 18:24:34",
+	"files": [
+		{
+			"filename": "zerodaymp3.wad",
+			"size": 46829271,
+			"crc": 2908399169,
+			"md5": "ca5c847ce22d7b10fbeff90c6f7d7b5e",
+			"sha1": "901ccc0ca714cb6016e67de37af8040d41963445",
+			"sha256": "d43e9911637fdd547dde7fd24e517cc42c40e94cb41ce8b353bc514cf0bc5fca"
+		}
+	]
+}

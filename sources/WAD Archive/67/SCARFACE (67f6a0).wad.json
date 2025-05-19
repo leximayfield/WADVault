@@ -1,0 +1,17 @@
+{
+	"uid": "SCARFACE (67f6a0).wad",
+	"name": "SCARFACE",
+	"description": "REPLACES MOST SOUNDS IN DOOM, OR DOOM2 WITH AUDIO CLIPS FROM THE 1983 FILM, \"SCARFACE\". \"WARNING\" : EXTREMELY FOUL LANGUAGE. NOT FOR CHILDREN.",
+	"version": "67f6a0",
+	"date": "2015-09-14 22:41:02",
+	"files": [
+		{
+			"filename": "SCARFACE.wad",
+			"size": 936118,
+			"crc": 422764713,
+			"md5": "566ce7381b85ba2e7d06a968a499b831",
+			"sha1": "67f6a03369a48b738ced62d591e0e5920478ccc2",
+			"sha256": "0c6873103bbf4957715b621e43665398fab0f0d23149c720c734641e8f1c1b1e"
+		}
+	]
+}

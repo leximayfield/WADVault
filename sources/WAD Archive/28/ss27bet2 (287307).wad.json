@@ -1,0 +1,17 @@
+{
+	"uid": "ss27bet2 (287307).wad",
+	"name": "SS27BET2.WAD",
+	"description": "This replaces SS27BETA.WAD which had a few crucial stuffups preventing 100% kills etc. sorry :(",
+	"version": "287307",
+	"date": "2013-11-02 15:47:35",
+	"files": [
+		{
+			"filename": "ss27bet2.wad",
+			"size": 374234,
+			"crc": 1160415889,
+			"md5": "694ff9ed2940bba779cd7e1b41944c6f",
+			"sha1": "287307b6c72adfc46f48bb196bf76b32a7454385",
+			"sha256": "7e327b64d6ef34f3a3d8ad2dd32a7e272fa254270a6f801718b77f0747c61954"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "deadcage.wad",
+	"name": "DEADCAGE.WAD (for DOOM2)",
+	"description": "A Medium sized wad in which you can comfortably kill your friends whilst surrounded by nice scenery and listening to great music. Intended for deathmatch. Please E-mail your reviews of this WAD. I'd like to know how I did!",
+	"date": "2014-12-15 22:29:40",
+	"files": [
+		{
+			"filename": "deadcage.wad",
+			"size": 115293,
+			"crc": 3615297165,
+			"md5": "d367accebf48a26233f95ad71d3da303",
+			"sha1": "654cf56326c2ce1d21c6d3ac9911ab15f3e29139",
+			"sha256": "0755cface3ff6476948d11af8acb489ef530132e75985fae4842ef91d4bb9710"
+		}
+	]
+}

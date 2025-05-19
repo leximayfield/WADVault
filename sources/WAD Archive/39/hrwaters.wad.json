@@ -1,0 +1,16 @@
+{
+	"uid": "hrwaters.wad",
+	"name": "Raging Waters",
+	"description": "This level is for Registered Heretic v1.2. Take a trip down the raging waters to the many caverns below. This level was intended for single play, but works well in deathmatch. We had a lot fun in deathmatch. There are several places for sneaking up on your buddy.",
+	"date": "2018-06-15 11:28:24",
+	"files": [
+		{
+			"filename": "hrwaters.wad",
+			"size": 98368,
+			"crc": 618899178,
+			"md5": "167f9095d94b4486ec6ee3b9b78c3f6f",
+			"sha1": "39f345df5bae49d875e5d66edef57107fa8be652",
+			"sha256": "c6097b35c27ec8d66ba963421bc3886af193e62070ece0aab7eb7043cf5c90be"
+		}
+	]
+}

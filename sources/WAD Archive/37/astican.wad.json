@@ -1,0 +1,16 @@
+{
+	"uid": "astican.wad",
+	"name": "Astican",
+	"description": "1. There are no secrets 2. This is a linear level 3. Yes, I am comfortable with this.",
+	"date": "2014-12-21 15:09:11",
+	"files": [
+		{
+			"filename": "astican.wad",
+			"size": 291200,
+			"crc": 1186591641,
+			"md5": "6b98fb6e218d6183412a2d3cd1dc0280",
+			"sha1": "37853856e5bfd6e8075eda8cb836bf4e565f4da2",
+			"sha256": "2785a713beb2a576784bcc802f0fac1aee5b0c2b3f21f377b4d2276c3d78980c"
+		}
+	]
+}

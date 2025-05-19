@@ -1,0 +1,17 @@
+{
+	"uid": "DM2BIG (6b38f5).wad",
+	"name": "Big MAZE",
+	"description": "Its a huge maze with monsters all around",
+	"version": "6b38f5",
+	"date": "2013-11-02 15:47:03",
+	"files": [
+		{
+			"filename": "DM2BIG.wad",
+			"size": 65989,
+			"crc": 2214428336,
+			"md5": "57ffcd8115da19be1a1e314fe38fc9d1",
+			"sha1": "6b38f504e77e605de9ff5e9e5161890db0f0897f",
+			"sha256": "ce017f27f9d7cf27c2bbb93ecfba522b9f39387290efc3104b59b9985b3cd6bb"
+		}
+	]
+}

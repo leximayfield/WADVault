@@ -1,0 +1,16 @@
+{
+	"uid": "bmystery_surv1.wad",
+	"name": "The Great Bicycle Mystery SURVIVAL EDITION - FOR ZDAEMON USE",
+	"description": "The Great Bicycle Mystery is a 15 level megawad for cooperative Doom II play for 2-4 people. This wad is a revised version of bmystery.wad. Balance issues have been fixed and bugs eliminated. This version includes a survival mode with the maps. bmystery_surv1.wad fixes the crashing that happened in bmystery_surv.wad.",
+	"date": "2013-04-19 02:40:45",
+	"files": [
+		{
+			"filename": "bmystery_surv1.wad",
+			"size": 9925290,
+			"crc": 639779588,
+			"md5": "e8451d8fddc8e22f76da6db9ac9b43c2",
+			"sha1": "806c1abf7e7529cd8967cf1d14a661df4ad5f979",
+			"sha256": "22873610ad02f966a2beedcda845c22bfcbf5bbd8b679ee353a3cbab84314bf4"
+		}
+	]
+}

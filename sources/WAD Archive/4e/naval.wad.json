@@ -1,0 +1,16 @@
+{
+	"uid": "naval.wad",
+	"name": "Naval Battle",
+	"description": "Wandering on the sea, you notice a big ship. It's HMS 'Doom'. You remember that it was carrying monsters dragged from the interdimensional gates. Now that all hell broke loose, everyone on the ships are probably either zombified or dead. You decide to clean out the ship.",
+	"date": "2015-01-13 21:47:10",
+	"files": [
+		{
+			"filename": "naval.wad",
+			"size": 91563,
+			"crc": 738212840,
+			"md5": "6f5d776a388169de620d5d83e215e796",
+			"sha1": "4e317eb4607928bb23ae5b3387c5dd5f22b96b63",
+			"sha256": "d990c38cdca46a210825123702d974dacc75381b568c1728f10430822cefde55"
+		}
+	]
+}

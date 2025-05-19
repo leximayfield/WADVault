@@ -1,0 +1,17 @@
+{
+	"uid": "TRINITY (701085).wad",
+	"name": "\"TRINITY\"",
+	"description": "1 level WAD, inustrial/hitech style. modeled on a uac base on mars. a good challenge!.",
+	"version": "701085",
+	"date": "2014-12-29 17:23:05",
+	"files": [
+		{
+			"filename": "TRINITY.wad",
+			"size": 677441,
+			"crc": 2466358663,
+			"md5": "e2dff99e78f04a266e3b8307eab79a60",
+			"sha1": "701085a56f890f9b2885d2234292cdec2fd51931",
+			"sha256": "76cd5515f3cf2d2421b44bbe4f5910cf745f2853683290e67cbb1df0adb7142b"
+		}
+	]
+}

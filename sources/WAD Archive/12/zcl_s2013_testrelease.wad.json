@@ -1,0 +1,16 @@
+{
+	"uid": "zcl_s2013_testrelease.wad",
+	"name": "ZDaemon CTF League Season 1: Summer 2013",
+	"description": "Six CTF maps from three wads for ZCL Season 1",
+	"date": "2013-05-28 20:05:54",
+	"files": [
+		{
+			"filename": "zcl_s2013_testrelease.wad",
+			"size": 13549552,
+			"crc": 1721348119,
+			"md5": "ad901c60bb33348b196ba2281d507222",
+			"sha1": "121b861359f4f455a2981d64fb6f7037cd4c6422",
+			"sha256": "b029efd981b3513aa4cbba36e6aa67bb069c459cf4d2bba153785cb3ecddc7a4"
+		}
+	]
+}

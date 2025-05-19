@@ -1,0 +1,16 @@
+{
+	"uid": "wolfspt.wad",
+	"name": "Wolfenstein Sprites",
+	"description": "Changes game characters to Wolfenstein characters ---------------------------------------------------------- Former Human(Trooper) = Soldier Cacodemon = Soldier (fast) Lost Soul = Soldier (semi-deaf) ---------------------------------------------------------- Imp = Officer (shoots rockets) Pain Elemental = Officer (fast -shoots rockets) ---------------------------------------------------------- Sergents = Zombie ---------------------------------------------------------- Demon = Dog Spectre = Dog (fast) ----------------------------------------------------------",
+	"date": "2018-04-14 19:52:12",
+	"files": [
+		{
+			"filename": "wolfspt.wad",
+			"size": 321956,
+			"crc": 612881185,
+			"md5": "ca46713388dbb11403a593f118deaad0",
+			"sha1": "213772ff76e413d31f53a8aef4a2b16664b9ef04",
+			"sha256": "c265214d0dc9f69ac08dc4434f211d71011fc77915fbc3f26fe6affdd4438ab4"
+		}
+	]
+}

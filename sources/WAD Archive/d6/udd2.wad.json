@@ -1,0 +1,16 @@
+{
+	"uid": "udd2.wad",
+	"name": "Ultimate Doom2",
+	"description": "Ultimate Doom to Doom 2 conversion",
+	"date": "2018-03-27 21:11:51",
+	"files": [
+		{
+			"filename": "udd2.wad",
+			"size": 4259366,
+			"crc": 3116165115,
+			"md5": "8909dfd03b805c4af55afe0e8662c8f6",
+			"sha1": "d6dd1aa7742883b4bdaf27014705f4e878ab4919",
+			"sha256": "58c86fc7c2f26d5e7c430024dbba1fe1c95c64a569289f7b49077d510f0b9159"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellgate (8553b4).wad",
+	"name": "Hell's Gate",
+	"description": "It's the Hell's Gate from Quake3/Live.. with Doom textures, etc. It's not an exact replica, jump pads and slopes replaced with stairs. Item placement is something similar to the Quake Live version.",
+	"version": "8553b4",
+	"date": "2014-12-14 23:09:48",
+	"files": [
+		{
+			"filename": "hellgate.wad",
+			"size": 354543,
+			"crc": 1880696364,
+			"md5": "c3754d7d80dd9ac2da19586405a6d21f",
+			"sha1": "8553b4a28d27edbb12ae3c04b47e201609e89e35",
+			"sha256": "b022d9a569b87c6dccfadf866b77b8fb037cee24ccba3889ad0f562598a38423"
+		}
+	]
+}

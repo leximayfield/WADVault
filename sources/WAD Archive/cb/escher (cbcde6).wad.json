@@ -1,0 +1,17 @@
+{
+	"uid": "escher (cbcde6).wad",
+	"name": "escher.wad    ( DOOM ][ )",
+	"description": "A big fan of M.C. Escher, what a genius. I have tried my best to make a quality wad, with enough escher and escherish stuff in it. I tried not to put to much stuff in it so it wouldn't be too large or too slow. What good is a wad if you can't deathmatch 4-way on it - quick! Design is kept fairly simple to insure a good playing speed and plenty of frags.",
+	"version": "cbcde6",
+	"date": "2014-01-07 22:02:21",
+	"files": [
+		{
+			"filename": "escher.wad",
+			"size": 462915,
+			"crc": 2217148754,
+			"md5": "17e4c75bb7ad5a96f13e2962fa20351d",
+			"sha1": "cbcde6e875146e5438b21b4d692fc568b2d4526a",
+			"sha256": "ed437e1c39605b180631e472713b8d6262faf4cd95fa360309c8084a57ef0449"
+		}
+	]
+}

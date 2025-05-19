@@ -1,0 +1,17 @@
+{
+	"uid": "nova03 (50ae79).wad",
+	"name": "Nova's Wad v3.0",
+	"description": "DeathMatch PWAD I made while I was BETA testing EdMap 1.24. ALL the Weapons in Doom 2 are in this PWAD, just look for 'em! I used most every feature in EdMap in the the process of making this PWAD. If your playing this with anything other than DeathMatch then you must have no life, and like to play with yourself. Enjoy it damnit!",
+	"version": "50ae79",
+	"date": "2016-02-07 20:30:26",
+	"files": [
+		{
+			"filename": "nova03.wad",
+			"size": 91754,
+			"crc": 343957554,
+			"md5": "c1873f9e212f2349e293aeaf691e6433",
+			"sha1": "50ae791ed23f1e97ffdd19fe83f01c62e0e327fc",
+			"sha256": "9a6063eed061a9bcdfd207963178fbc1d789b25a56ee4ea3b21b8c608021b3b0"
+		}
+	]
+}

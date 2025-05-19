@@ -1,0 +1,16 @@
+{
+	"uid": "jdtags.wad",
+	"name": "JagDogger's Very First Level [Mock-up]",
+	"description": "This is a mock-up of my VERY FIRST level I ever made. I named it JDTags because tags helped with making the mock-up.",
+	"date": "2018-09-30 20:23:25",
+	"files": [
+		{
+			"filename": "jdtags.wad",
+			"size": 3106,
+			"crc": 568705963,
+			"md5": "f9f2e3aa5d7adb375d7ebf42bb77ede1",
+			"sha1": "174007466603519ebe077913bdc33c0f040f650c",
+			"sha256": "79ec2c9f0c08a5dca70c06af12892c5e04388cbe57f6f734d922d2235d909685"
+		}
+	]
+}

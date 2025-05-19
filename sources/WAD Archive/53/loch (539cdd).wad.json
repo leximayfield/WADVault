@@ -1,0 +1,17 @@
+{
+	"uid": "loch (539cdd).wad",
+	"name": "THE Loch",
+	"description": "You, must battle your way throught the hordes of beasties surrounding the loch and in the buildings that make its sides (i.e. YOU KILL THEM! (simple game when you think about it!) )",
+	"version": "539cdd",
+	"date": "2015-12-07 13:06:32",
+	"files": [
+		{
+			"filename": "loch.wad",
+			"size": 181981,
+			"crc": 2494894189,
+			"md5": "d805e0f43cc36e1ec8a3c1d9e4d6c6ff",
+			"sha1": "539cdd9a5012330fb1ec10d9f6f0e95e29d394eb",
+			"sha256": "5c77df09cec11ba2742f1d85391b68864feaaff1736531a9792ce0f26e54c567"
+		}
+	]
+}

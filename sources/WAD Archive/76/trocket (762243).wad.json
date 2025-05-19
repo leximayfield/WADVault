@@ -1,0 +1,17 @@
+{
+	"uid": "trocket (762243).wad",
+	"name": "Team Rocket: Blasting Off at the Speed of Mapping (v1.1)",
+	"description": "TEAM ROCKET comprises AD_79, Dragonfly, Jimmy and MTrop, four experienced Doom mappers who together endured a 20-hour speedmapping livestream. Their efforts were supported by kind donators and guest mappers who tagged in to let the fatigued rocketeers recuperate. We bring you 34 maps, all made within less than a day, shaped by you, our viewers.",
+	"version": "762243",
+	"date": "2019-03-19 23:57:39",
+	"files": [
+		{
+			"filename": "trocket.wad",
+			"size": 21813381,
+			"crc": 3272296141,
+			"md5": "2f14811dab98654ca56cfe3376354471",
+			"sha1": "7622436ef617339124a3af48b230c3716f405589",
+			"sha256": "801b9a8c3ff432bb70c8af3b3f88cb376ebeef2066d0bab0c3148951b75f954c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "UDMR.wad",
+	"name": "Unused Doom Music Replacement",
+	"description": "This WAD replaces all music found in Ultimate Doom. From the title screen to the bunny screen. The music isn't necessarily better but was an interesting experiment I conducted.",
+	"date": "2015-09-14 22:28:31",
+	"files": [
+		{
+			"filename": "UDMR.wad",
+			"size": 548715,
+			"crc": 91278617,
+			"md5": "4c9ba2ff409d5a691d72c15164191654",
+			"sha1": "d8d0c93945788d82b3158f229ffe442d3da066c4",
+			"sha256": "874519816f437e85b799883675ef545f7fa2b2943cf9c74ae8043294e0291ac9"
+		}
+	]
+}

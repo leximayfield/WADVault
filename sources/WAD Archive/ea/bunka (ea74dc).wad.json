@@ -1,0 +1,17 @@
+{
+	"uid": "bunka (ea74dc).wad",
+	"name": "Bunker Storm",
+	"description": "This level is best for a three or four player deathmatch game. One player defends the bunker, the other players have to cooperate in attacking the bunker. All players start in the same room, but the first player into the teleport ends up inside the bunker ready to defend against the others.",
+	"version": "ea74dc",
+	"date": "2016-02-07 20:25:20",
+	"files": [
+		{
+			"filename": "bunka.wad",
+			"size": 135357,
+			"crc": 3987217209,
+			"md5": "1fde0eaf4e84f1beaa2c4ec3b5d2273d",
+			"sha1": "ea74dcc176f210c26f262ce02aa273966981bd07",
+			"sha256": "aa03bcd322e6190dcbaa1043b0eb50dbcd096f1027cc376b6a317f5f182c4b66"
+		}
+	]
+}

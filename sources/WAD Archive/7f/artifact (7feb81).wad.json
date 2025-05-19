@@ -1,0 +1,17 @@
+{
+	"uid": "artifact (7feb81).wad",
+	"name": "Artifact",
+	"description": "My first wad. Uses ZDOOM, but created on Boom. Artifact is able to destroy all the demons, but that it needs to be found. But first must undergo training and then begin the search for weapons of mass destruction.",
+	"version": "7feb81",
+	"date": "2014-12-21 16:37:20",
+	"files": [
+		{
+			"filename": "artifact.wad",
+			"size": 1784839,
+			"crc": 2121628566,
+			"md5": "4da1b7036fcc1111fb22cdba8530ff8e",
+			"sha1": "7feb818fdd055aa6b5fc65efb2b77f1b0451fd45",
+			"sha256": "10b1ee4c028c96b59af4235e40b9bad94f60cfafe458341c3fac9ee2d04d8aee"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "BONAR5 (b166c2).wad",
+	"name": "BONAR5.WAD",
+	"description": "Best for single player, but supports deathmatch and cooperative (multi player games never tested). It has a neat mansion motif.",
+	"version": "b166c2",
+	"date": "2014-11-01 14:50:24",
+	"files": [
+		{
+			"filename": "BONAR5.wad",
+			"size": 204032,
+			"crc": 4157171315,
+			"md5": "9b72fd415e3c84b3cb1d705c6e4616de",
+			"sha1": "b166c2a937f20f0dc39ce37650452f9da233610f",
+			"sha256": "b61f47c77e34610031dfaeebd769ebdf9364d63e292fc1b771f542eba0c134c4"
+		}
+	]
+}

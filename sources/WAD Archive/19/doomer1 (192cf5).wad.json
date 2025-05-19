@@ -1,0 +1,17 @@
+{
+	"uid": "doomer1 (192cf5).wad",
+	"name": "Doomer's Domain",
+	"description": "This was one of my oldest if the oldest maps I have released publicly. It is a bit tight in space but a fair amount of action in a Tech/urban textured level. What is different with the tidied up release is fixing a few texture issues, 2 closed sectors and adding additional ammo and monsters to further balance out the map.",
+	"version": "192cf5",
+	"date": "2014-12-18 22:56:44",
+	"files": [
+		{
+			"filename": "doomer1.wad",
+			"size": 518217,
+			"crc": 3764182661,
+			"md5": "d7fb7e67d21cc3e3435e9cd96ccb4c6d",
+			"sha1": "192cf52c213a2b328d7091a134b311d3d0839fa2",
+			"sha256": "2d82bf92eb40f0edf9069ae1610c5ea6f86f64dac4f21c8af9debe7819847bfb"
+		}
+	]
+}

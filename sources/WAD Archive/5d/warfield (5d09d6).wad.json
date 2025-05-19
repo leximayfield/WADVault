@@ -1,0 +1,17 @@
+{
+	"uid": "warfield (5d09d6).wad",
+	"name": "The War Field",
+	"description": "This is a medium sized level that is very good for 2 players. It isn't a big level even though the wad size is big. It is sort of fast-paced for a good amount of frags. There is no BFG. I don't think it's fun in deathmatch. This should be a fun level for anyone.",
+	"version": "5d09d6",
+	"date": "2014-12-03 20:00:42",
+	"files": [
+		{
+			"filename": "warfield.wad",
+			"size": 163098,
+			"crc": 3200136927,
+			"md5": "d7a4baa7e04bd4210c211d843127acfa",
+			"sha1": "5d09d62706c67d1c7d1b230316003417a0d8752c",
+			"sha256": "cfc97b4b08121699b220a8c409ce6f1d2471a3ae07ee0a34a4da5de19b611189"
+		}
+	]
+}

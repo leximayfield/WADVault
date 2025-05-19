@@ -1,0 +1,16 @@
+{
+	"uid": "dmafter.wad",
+	"name": "DeathMatch Afternoon v1.0",
+	"description": "This level was built for my afternoon DeathMatches, hence the title. It consists of a central raised area around which there are several walkways and weapons. There are also several \"hiding-holes\", perfect for an ambush.",
+	"date": "2014-12-13 12:44:27",
+	"files": [
+		{
+			"filename": "dmafter.wad",
+			"size": 33996,
+			"crc": 1511621901,
+			"md5": "6f5bf7e943f20308c2898d88d4f4ee2a",
+			"sha1": "fd82d5ccc6a6f3468fbbbb8b9a48cb66a8eb8f4a",
+			"sha256": "11da0c785f6cc13d2d7c2b0e839b346c5dc73e5e89f05ecb71224f11bc27d2ef"
+		}
+	]
+}

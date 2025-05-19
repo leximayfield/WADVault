@@ -1,0 +1,17 @@
+{
+	"uid": "ENEMY (34eb66).wad",
+	"name": "The Enemy Inside",
+	"description": "My final project for TCS 198 at UC Davis, a class revolving around modding Doom. You start in a strange catacomb, filled with zombies and ghouls. Eventually, you experience some strange sensation, and begin to change... Make sure to play with jumping enabled in GZ Doom.",
+	"version": "34eb66",
+	"date": "2017-12-31 15:44:54",
+	"files": [
+		{
+			"filename": "ENEMY.wad",
+			"size": 12209383,
+			"crc": 1114159908,
+			"md5": "1e70386741fa8dcfbf2ae5651264edc6",
+			"sha1": "34eb664d90e40ba2f3108ab34dd7571a74d18793",
+			"sha256": "a4f8032b0559b275e105ccf78ef409d9e30330c178110dd21a98125f572fcc64"
+		}
+	]
+}

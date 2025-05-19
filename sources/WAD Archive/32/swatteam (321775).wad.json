@@ -1,0 +1,17 @@
+{
+	"uid": "swatteam (321775).wad",
+	"name": "Swat Team Hunt",
+	"description": "I got the idea for this while playing 3 player deathmatch, and secretly ganging up one player. Here you can play 2, 3, 4 player deathmatch. The level is of moderate size, consisting of a wide open area with a sniper tower, adjoining sewers, and an Armory building. Even though it's wide open in areas, there are many two-way exits from would-be corners, and there are a few places where you take a gamble going in, but the reward is large.",
+	"version": "321775",
+	"date": "2014-12-03 20:07:37",
+	"files": [
+		{
+			"filename": "swatteam.wad",
+			"size": 120685,
+			"crc": 1071719622,
+			"md5": "d2ac2978d976dc53a8cb50be71c50aba",
+			"sha1": "32177555895df09a4077fde6cf49297be23fedb0",
+			"sha256": "7002263ab843cc6fef228aa82d114ebac93fc8493a5845e69082073895e84a1e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "razzor (484015).wad",
+	"name": "RAZZOR",
+	"description": "Razzor is a pure deathmatch level .The level is of a medium size and is very centralized so that theres a few different places to go but everyones going to end up back at the arena area.There are a few",
+	"version": "484015",
+	"date": "2013-11-02 15:44:20",
+	"files": [
+		{
+			"filename": "razzor.wad",
+			"size": 107876,
+			"crc": 2429371560,
+			"md5": "a89ea816bebe4328d9aab473128df3a4",
+			"sha1": "48401589b0dd47fabfaa2f6a551fc7fcbe4ef97a",
+			"sha256": "84153c129433aed0fca5edd2cbfb805b314b1553447cb6806abbabc2ec9989a2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ccore.wad",
+	"name": "Computer Core",
+	"description": "Two short singleplayer maps about a demon infested computer installation.",
+	"date": "2014-12-14 21:04:07",
+	"files": [
+		{
+			"filename": "ccore.wad",
+			"size": 181950,
+			"crc": 616379883,
+			"md5": "1686c6187db42fd0b3b293b67745f962",
+			"sha1": "c888107e8a83e44bd597562d389463d044f41cda",
+			"sha256": "ab76cf699b0daa5128f9df1ee20ee265d33af0e2c6ee4d5a9488c10c0bc64eba"
+		}
+	]
+}

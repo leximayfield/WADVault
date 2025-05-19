@@ -1,0 +1,16 @@
+{
+	"uid": "anbadmap.wad",
+	"name": "Another Bad Map",
+	"description": "My first map :) , i hope you enjoy . Please Leave feedback . PS: Its desgined mostly with Project Brutality in mind.",
+	"date": "2016-07-20 20:04:00",
+	"files": [
+		{
+			"filename": "anbadmap.wad",
+			"size": 145870,
+			"crc": 3889702924,
+			"md5": "c511da6da577c2c3bd5a368b954657d1",
+			"sha1": "38fd4a36bcd36e1f0716fbeefd2bb0be9d16b9d0",
+			"sha256": "2faf52cef2dda0d256c93f110828a97e11de94ca5dd109ffbb78f65743b893d0"
+		}
+	]
+}

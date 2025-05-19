@@ -1,0 +1,16 @@
+{
+	"uid": "thingy.wad",
+	"name": "The thingy of Death...",
+	"description": "Just some map my cousin drawed on some paper and then I just made this after it...with some modifications...",
+	"date": "2014-12-30 11:26:47",
+	"files": [
+		{
+			"filename": "thingy.wad",
+			"size": 37988,
+			"crc": 3299308551,
+			"md5": "2d5c1493d5d223c97af6d80882c6372e",
+			"sha1": "875014630d0c2d0b81e903bd60bcab82284cf5e9",
+			"sha256": "59e97ea6d4080c28b10c3eb41b04237af64bd9aba1fca7c1f100baedeaddcd4a"
+		}
+	]
+}

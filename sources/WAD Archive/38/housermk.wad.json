@@ -1,0 +1,16 @@
+{
+	"uid": "housermk.wad",
+	"name": "House Remake",
+	"description": "You've woken up in your home... Your family has been slaughtered and you must make it out in time, or else you'll die, lock and load. It's gonna be a long hard road out of hell! Move out and kick some demon ass!",
+	"date": "2017-08-27 23:00:37",
+	"files": [
+		{
+			"filename": "housermk.wad",
+			"size": 10704858,
+			"crc": 564208290,
+			"md5": "337b903ecdb41e5198f49944b3452e6f",
+			"sha1": "38307d1b5b35cd192017a2c78c70f789c9d5450b",
+			"sha256": "dc0b4105ac0e0858ee0ec1285929c5c5552e8d9538044898c2e9756a36cd1865"
+		}
+	]
+}

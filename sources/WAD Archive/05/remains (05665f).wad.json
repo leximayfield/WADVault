@@ -1,0 +1,17 @@
+{
+	"uid": "remains (05665f).wad",
+	"name": "The Remains of Hell",
+	"description": "Before the first DOOM missions, you were one of the ones \"voluntarily\" sent through the portal that caused so many problems in the first place. You were immediately captured and tortured repeatedly. (long expanse of time skipped) After the end of DOOM 2, with many of the structures destroyed, you were transferred to some underground caverns. During the confusion, you managed to slip a pistol in your pocket. Now, all you have to do is escape, and hopefully find your way back home. See the extra info on the bottom for more ramblings.",
+	"version": "05665f",
+	"date": "2014-12-03 20:03:40",
+	"files": [
+		{
+			"filename": "remains.wad",
+			"size": 651820,
+			"crc": 30403037,
+			"md5": "9401ad8f9ad6020d96507d08fc7eb232",
+			"sha1": "05665fc48d6de93e99362e019cf6c1914e6b874e",
+			"sha256": "e30278298bd562530b7c70eb250f16258050058a11598b0c9398ba623fc05f9f"
+		}
+	]
+}

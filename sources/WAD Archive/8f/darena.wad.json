@@ -1,0 +1,16 @@
+{
+	"uid": "darena.wad",
+	"name": "Death Arena",
+	"description": "Optimal Level for Deathmatch",
+	"date": "2014-12-14 20:59:20",
+	"files": [
+		{
+			"filename": "darena.wad",
+			"size": 34641,
+			"crc": 3080597361,
+			"md5": "599fb542f1e20ac65a38daa9834e00c7",
+			"sha1": "8f81bd0ca543b152b6e96762eeae63b010a908b7",
+			"sha256": "4e523d8415bb38a6c7200fb967ba04988ead78bf8781e53e97e043722a008348"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pwb2.wad",
+	"name": "Play When Bored 2",
+	"description": "I made this as a demonstration to a friend on my mapmaking process. Included are the screenshots I took of the map in doombuilder as I was developing it. The map actually came out much better than I expected.",
+	"date": "2014-12-29 08:58:58",
+	"files": [
+		{
+			"filename": "pwb2.wad",
+			"size": 89803,
+			"crc": 1774049192,
+			"md5": "72e5f0fbc77e15f17f5b624c93b0d0f1",
+			"sha1": "675e95f5d670d7dd2bd532f233c8451c2b57b036",
+			"sha256": "f63e834aa14c3eb77ee9cde0992d35532be770b36a61d0417e2991ef1f368f98"
+		}
+	]
+}

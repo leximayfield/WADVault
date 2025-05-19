@@ -1,0 +1,17 @@
+{
+	"uid": "zillars (bcde70).wad",
+	"name": "PILLARS.WAD",
+	"description": "This patch file is for E1M1. To designed for deathmatch play. The main section of this wad file is the series of pillars in the center of the map. To get up to the rooms upstairs you must 'run' starting from the lowest platform and run up the ascending pillars without falling off. It's hard to explain, but you'll see what I mean when you try it. I hope you like it, and if you don't you are free to change it.",
+	"version": "bcde70",
+	"date": "2014-01-07 22:04:33",
+	"files": [
+		{
+			"filename": "zillars.wad",
+			"size": 33192,
+			"crc": 3560227527,
+			"md5": "1fcdd3ff8a9a198fadc7c584addc16dc",
+			"sha1": "bcde70693228b3ca71b82e4d366d639bba412d6f",
+			"sha256": "0355e9c8b662015cdbdcb67904f7b5e868a65a8e9e27629ef612ec1d16b2d966"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "34 (cde47c).wad",
+	"name": "34.WAD",
+	"description": "Ashwall-themed level, containing an arena inside!",
+	"version": "cde47c",
+	"date": "2014-12-15 19:12:29",
+	"files": [
+		{
+			"filename": "34.wad",
+			"size": 29644,
+			"crc": 297512690,
+			"md5": "7f620b3afffd6c09d7d52b2f7f18ac3a",
+			"sha1": "cde47c5637b5303a38ef57eb8ad0380401a1b41d",
+			"sha256": "fbb963fcfc3a6aad0656c030277f81ee0b20e51742f6fc4600780c32eb1d591c"
+		}
+	]
+}

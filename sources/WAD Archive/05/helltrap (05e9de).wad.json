@@ -1,0 +1,17 @@
+{
+	"uid": "helltrap (05e9de).wad",
+	"name": "HellTrap.wad",
+	"description": "Lots of traps, stairs, detail, monsters and fun. I put some Ginger-Bread in, too (No, not the food). Some good sniper points for Deathmatch.",
+	"version": "05e9de",
+	"date": "2013-11-06 22:23:37",
+	"files": [
+		{
+			"filename": "helltrap.wad",
+			"size": 138655,
+			"crc": 1199057357,
+			"md5": "18f7543d72cd97e986aaa4d5271e4cb0",
+			"sha1": "05e9de5a03710ec0731f9472e79df2d8739bbf59",
+			"sha256": "a8d5cdc713a0795b72240e516cc29cfa0917b72e3757c53f219ef3762468bada"
+		}
+	]
+}

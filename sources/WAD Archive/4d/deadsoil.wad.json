@@ -1,0 +1,16 @@
+{
+	"uid": "deadsoil.wad",
+	"name": "The Dead Soil",
+	"description": "a small single player level for Doom2. You start in a castle surrounded by several armies of evil. With a shock you realize that there's no gate you could close to keep the hellish troops outside. Fortunately, your enemies are not very disciplined... >>> I modified this level for deathmatch play (DDSOIL- DM.WAD): there are no monsters, no health except for two soul spheres that are difficult to receive and more weapons than in the original level. However, you may deathmatch in DEADSOIL.WAD too; the starts are there.",
+	"date": "2014-12-18 22:14:00",
+	"files": [
+		{
+			"filename": "deadsoil.wad",
+			"size": 76449,
+			"crc": 2156811560,
+			"md5": "9fa23025131fffd5c43ddd043dbe960f",
+			"sha1": "4d6e320172a432ce29dc88089bc12b9768aee1fb",
+			"sha256": "35aaa5004ff206c7dd2e936553b5f4a18d56155f236a960a22e677f2e5348eca"
+		}
+	]
+}

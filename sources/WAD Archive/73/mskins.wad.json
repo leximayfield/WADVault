@@ -1,0 +1,16 @@
+{
+	"uid": "mskins.wad",
+	"name": "Monster Skins",
+	"description": "This WAD contains monsters skins from Doom, Doom 64 and SkullTag except for the monster skins that are already in SkullTag.",
+	"date": "2013-04-19 01:28:03",
+	"files": [
+		{
+			"filename": "mskins.wad",
+			"size": 9106308,
+			"crc": 4007725883,
+			"md5": "78ca4f99e0787a98d69652e3e4746a4b",
+			"sha1": "733ac9fa7a25183e2c29ccc677d6a6fb56a37692",
+			"sha256": "ae32147f052c068727d223bdc01af00060b066b1746b50f68468d94f8ad44e44"
+		}
+	]
+}

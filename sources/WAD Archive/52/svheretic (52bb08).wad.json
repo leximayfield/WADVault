@@ -1,0 +1,17 @@
+{
+	"uid": "svheretic (52bb08).wad",
+	"name": "Server Heretic",
+	"description": "This allows any specific supported engine to continuously run all maps from E1 to E5. This file ignores (End Episode), and well reroute to the next episode when the current is finished. Perfect for multiplayer proposes! Version 1.00: 25 April. 2008 Original Release Version 1.01: 20 November. 2008 Fixed a possible HOM issue that sometimes occur in SkullTag. Version 2.00: 30 November. 2012 * Expunged CISVH.txt; superfluous ASCII file... * Added a new lump 'ZMAPINFO' for engines that support it * Applied level number capability; useful for ACS scripts. * Enforced 'No Jumping' and 'No Crouching'; changable * Enforce 'Smooth Lighting' variable to true. * Enforce 'Normal Infighting' * Ports that use MAPINFO should render intermission screens almost adjacent to those that use ZMAPINFO. * Added support for the sixth episodes.",
+	"version": "52bb08",
+	"date": "2016-08-11 22:58:02",
+	"files": [
+		{
+			"filename": "svheretic.wad",
+			"size": 23969,
+			"crc": 1421140811,
+			"md5": "f944863f26725bff704da91da88a14bc",
+			"sha1": "52bb08c42b2d40a19211f178ebee8877fe63e6a0",
+			"sha256": "8278eecabec6b00e3c31d46881ca537a8ec5e0e48f5d2d114a7d544ab6ed3c5d"
+		}
+	]
+}

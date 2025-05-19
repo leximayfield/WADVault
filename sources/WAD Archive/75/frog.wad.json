@@ -1,0 +1,16 @@
+{
+	"uid": "frog.wad",
+	"name": "Frog",
+	"description": "10 virtually unplayable slaughtermap vignettes made over the course of 10 days (a map a day). If you're on the fence about esoteric doom gameplay don't even bother downloading this.",
+	"date": "2018-05-29 20:50:29",
+	"files": [
+		{
+			"filename": "frog.wad",
+			"size": 2688582,
+			"crc": 133126170,
+			"md5": "5f7651ebaf9420e80ad757c4b3b9c43e",
+			"sha1": "75f68cea485605625f792b8c8978bce9ca3978a4",
+			"sha256": "4d92a45a935589b3cbba219702cd43f5dde914f72272abb8e6f83f432c425995"
+		}
+	]
+}

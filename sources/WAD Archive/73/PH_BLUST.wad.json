@@ -1,0 +1,16 @@
+{
+	"uid": "PH_BLUST.wad",
+	"name": "Bloodlust",
+	"description": "This 1024 map for Plutonia was built for 40oz' Plutinya Experiment in 2014. I did my best to capture the Plutonia vibe as well as possible, which had the game play in this map go through a few iterations. It's short, but sharp. The TEXTURE1 lump is included to set SKY1 to use the meaty texture normally used in SKY3 and the map also uses \"Bye, Bye American Pie\" from Doom II to keep the same music, as it featured as MAP23 in the final WAD.",
+	"date": "2019-08-06 20:32:15",
+	"files": [
+		{
+			"filename": "PH_BLUST.wad",
+			"size": 112411,
+			"crc": 2817709817,
+			"md5": "f9a25d36263e3aeedceafb8aa518f256",
+			"sha1": "73b8b27bdd812a90125893249723458b7bd0d3f1",
+			"sha256": "67db899c3e6283a17494b1a7b57e19f19ff4db8bcc40416f7af0dc3442e9a50f"
+		}
+	]
+}

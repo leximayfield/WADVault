@@ -1,0 +1,16 @@
+{
+	"uid": "mountbas.wad",
+	"name": "mountain base",
+	"description": "A UAC base set in some mountains.",
+	"date": "2015-09-14 23:08:49",
+	"files": [
+		{
+			"filename": "mountbas.wad",
+			"size": 484583,
+			"crc": 2386508813,
+			"md5": "3c5f2a4f83d31262fcebc7342d9f9083",
+			"sha1": "d14eea6693d738546c87fd5069f5f42bd2676944",
+			"sha256": "0f99a747d2fc7619db966952d63e877f46aa81dc751ffba8e306296ff841eabb"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "diehard (71b44c).wad",
+	"name": "Diehard ver 1.0  for DOOM 2",
+	"description": "Diehard is a level designed with the advanced player in mind. It contains many traps and is meant for single person play only.",
+	"version": "71b44c",
+	"date": "2013-11-06 22:31:50",
+	"files": [
+		{
+			"filename": "diehard.wad",
+			"size": 217564,
+			"crc": 4090957358,
+			"md5": "8af7d913eda866aa8485b713c6dc0c96",
+			"sha1": "71b44c93b741b1c3f8f4cb1771ed974697c201d7",
+			"sha256": "26c259523eb9f43f8b0c9e53344e93be3eb1a8f80746e228be130766fb5dbb09"
+		}
+	]
+}

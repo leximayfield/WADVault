@@ -1,0 +1,16 @@
+{
+	"uid": "kobal2.wad",
+	"name": "Kobal 2",
+	"description": "This mapset is provided only for single play. I planned to create a megawad like my early wad \"Kobal\". But I have made only two maps in that style. \"Kobal 2\" is challenging enought, but isn't so difficult as first \"Kobal\". Have fun!",
+	"date": "2015-01-05 16:37:20",
+	"files": [
+		{
+			"filename": "kobal2.wad",
+			"size": 2883242,
+			"crc": 1174195619,
+			"md5": "61af82aa9057e31dd42d419b4af7c28a",
+			"sha1": "2031d6e29564c00c07281463567ad24dd253b630",
+			"sha256": "f457f34b0333322478165767bc3fc967289b8670505a101b04d64d0a93ca1e9f"
+		}
+	]
+}

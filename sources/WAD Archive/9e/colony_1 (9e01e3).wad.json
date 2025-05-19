@@ -1,0 +1,17 @@
+{
+	"uid": "colony_1 (9e01e3).wad",
+	"name": "COLONY_1.WAD",
+	"description": "This is a DEATHMATCH 2.0 pwad. Please play this wad with -altdeath only. You will lack the necessary ammo with origional deathmatch rules. All weapons are accessable and a marked exit is included. Monsters: CYBE! Just to keep you on the move. For BEST results, Play a four player net, ultra-violence, with respawn switched ON! Complete with its own SkyLight Dome Ceilings!",
+	"version": "9e01e3",
+	"date": "2013-11-02 16:55:15",
+	"files": [
+		{
+			"filename": "colony_1.wad",
+			"size": 369368,
+			"crc": 730154503,
+			"md5": "903b68eb9250f0307d1fa93710c20524",
+			"sha1": "9e01e3a6a9fbdd264b7f7aeb84506a0b9f78c186",
+			"sha256": "45ad26cffc01c4ce4b26ed36c0a3bf59571a5e89b8eb071f3db01acac2153348"
+		}
+	]
+}

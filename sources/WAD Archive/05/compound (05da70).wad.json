@@ -1,0 +1,17 @@
+{
+	"uid": "compound (05da70).wad",
+	"name": "compound.wad for Doom II",
+	"description": "a pleasant little romp thru hell",
+	"version": "05da70",
+	"date": "2014-12-15 22:45:05",
+	"files": [
+		{
+			"filename": "compound.wad",
+			"size": 304580,
+			"crc": 901631419,
+			"md5": "ee4595f8937e3f02c37442903a7d599b",
+			"sha1": "05da705ef5212d869f4be007046a6f67104c8f21",
+			"sha256": "6cfe00798e2ddd70209513246cdbadf846c215b9ae765b7d011464deaa2db219"
+		}
+	]
+}

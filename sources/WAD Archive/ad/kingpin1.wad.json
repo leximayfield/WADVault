@@ -1,0 +1,16 @@
+{
+	"uid": "kingpin1.wad",
+	"name": "Kingpin's Lair",
+	"description": "Medium-sized level for Doom ][, designed for single player. This is the final release that fixes a few texture alignments and adds some lighting enhancements. Your mission is to penetrate the residence of a Drug Lord,eliminate all resistance,and escape without falling prey to the temptations within.As you approach the entrance, you're shot with some kind of a dart. You pull it from your arm,and all too suddenly,things start getting strange. Panic grips you,and all you can do now is let instinct hurl you through this hallucinogenic craze!",
+	"date": "2014-12-27 12:57:13",
+	"files": [
+		{
+			"filename": "kingpin1.wad",
+			"size": 226363,
+			"crc": 824118465,
+			"md5": "b1470bd193df4ec1bd00683059dc8905",
+			"sha1": "adca8215622a8f24df1b8b5ceae03a601b38bd77",
+			"sha256": "c30afb37735353f5dc015694f24973c782a0a35d7331e0e52ce3a484b5376143"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dm2tiger (d189b2).wad",
+	"name": "The Tiger Den",
+	"description": "You are trapped in enemy land, a den of tigers. The only way to escape is to combat the enemies and steal their keys. Good Luck!",
+	"version": "d189b2",
+	"date": "2013-11-02 16:06:09",
+	"files": [
+		{
+			"filename": "dm2tiger.wad",
+			"size": 128403,
+			"crc": 2842633539,
+			"md5": "cd1ba9a8a26cb383b6c344cdc44015f9",
+			"sha1": "d189b2b3730d41cfe5fa6fb04b4a176db5258fec",
+			"sha256": "41ab28c3167c4ef6118aaa28c0bfa5c50fd490ddfd3a02d03fd612adb12c136d"
+		}
+	]
+}

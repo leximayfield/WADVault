@@ -1,0 +1,16 @@
+{
+	"uid": "sd.wad",
+	"name": "Sonic Doom",
+	"description": "You stand in a quaint little village. And it's very quiet. (Yes, too quiet.) Roam a bit, nothing seems to be amiss. But if you scratch the surface of this peaceful abode you will find the gutters crawling with all kinds of mutant life forms. Frankly, you don't care what they do as long as they stay below where they belong...but they just can't resist the instinct to come to the surface.",
+	"date": "2014-01-07 22:17:08",
+	"files": [
+		{
+			"filename": "sd.wad",
+			"size": 153270,
+			"crc": 1670036043,
+			"md5": "543241c66709a4712ddb8ac444e0664e",
+			"sha1": "2d6be8e2360fc31e3a3ea25c14406add008d5a29",
+			"sha256": "0e15e6764a708cb851551c3258ad149aae2027eea60d63edf672c163eb34aa52"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hsg_0116.wad",
+	"name": "hsg_0116.WAD",
+	"description": "A city style .wad for Doom2 @ Map16 for its sky. Every Doom or Doom2 player should build one Map level from scratch at least once in their lives and this is my first effort at doing this. I sought to create a challenging single / (perhaps multi) player level without using any Cybers in it. If you like timing traps, hidden switches, secret passages, occasional surprises, and the trappings of cities, like: offices, warehouses, libraries, and ball parks, then try this one. There really is an exit to the next level in there too, but you have to decipher it first. (I also put in starts and ammo for 4 DM players, but having only this one computer to work with, I cannot be sure if they are for co-op, DM proper, or both). But be prepared to run for the door at start up in single play, there is NO safe area at the beginning. Average play time for this .wad is about one hour.",
+	"date": "2014-12-18 22:53:47",
+	"files": [
+		{
+			"filename": "hsg_0116.wad",
+			"size": 451685,
+			"crc": 289665017,
+			"md5": "e7d8ab581afb93c7decd66f615e33708",
+			"sha1": "df76b108c6a349432d9da519a63acfef22b3d1ec",
+			"sha256": "76075e17376da1a0fa1882989406ea26add4f10d7703727ff23f7d0514baca79"
+		}
+	]
+}

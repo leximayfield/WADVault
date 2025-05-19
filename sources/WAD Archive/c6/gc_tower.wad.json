@@ -1,0 +1,16 @@
+{
+	"uid": "gc_tower.wad",
+	"name": "GC_Tower.WAD (WAD 2 of the GermCity series)",
+	"description": "Single Player DOOM II PWAD. Developed on a Macintosh. Tested on a Mac and a PC. High quality. Large, complex, and difficult.",
+	"date": "2014-12-18 22:27:30",
+	"files": [
+		{
+			"filename": "gc_tower.wad",
+			"size": 558851,
+			"crc": 1410848128,
+			"md5": "1503ce4dfe7a35560416d67795c56cf2",
+			"sha1": "c6819bdfba5627e7e5ee68b6020d8700b89678b3",
+			"sha256": "32d81c892473a4eb98bb2419b6e5bcd1be9719ad9d410a2ef06f61ef9808b86c"
+		}
+	]
+}

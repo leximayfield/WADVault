@@ -1,0 +1,17 @@
+{
+	"uid": "SS (14b852).wad",
+	"name": "Sacrificial Suicide",
+	"description": "A medium-to-large map30 replacement. Note that all weapons are available and that some walls need to be shot at.",
+	"version": "14b852",
+	"date": "2015-01-14 14:34:28",
+	"files": [
+		{
+			"filename": "SS.wad",
+			"size": 195195,
+			"crc": 275808296,
+			"md5": "1627aadca54fb002924aaa46d0aa0362",
+			"sha1": "14b852a557d7e7e21313415f1dc40a18da8ae26a",
+			"sha256": "0ddca26b716fee66a6008d9dc5643c52de86d4ceb6bc59a0e0e23ad22b7dd927"
+		}
+	]
+}

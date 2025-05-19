@@ -1,0 +1,16 @@
+{
+	"uid": "shtg42rv.wad",
+	"name": "Shotgun for Two REVOLUTIONS",
+	"description": "You might want to check SHTGUN42.WAD and SHTG42RL.WAD for some background info around this wad. This REVOLUTIONS release is a major improvement from the previous versions. It leverages all the power of Skulltag and adds several cool features and concepts around what we believe it's the right way to play this awesome game. So let's see: * Two players only: It makes absolutely no sense to allow more than two sides on a battle. Mostly, what happens is that coward expectators benefit from the situation. Besides, this wad is not sized or planned for team playing, so no more than two players please. * Startup shelter & basic ammo: One needs to be born in shelter. And one needs a shotgun with shells. Not only that: one also needs to choose *where* is the best place to get born. Yes, if you're not happy with the place where you showed up, you have a teleporter behind you that will take you to a more convenient starting point. * Health recovery rooms: Justice is of essence. Nobody likes to be chased by fresh players after spending 90% of the energy killing the bastard. So one frag at a time, both players 100% healthy. You have to run, though. Health rooms' doors close rather quickly. * No plasma, BFG, invulnerability, invisibility, etc., of any kind: No need to explain here. We are old school. * Smart and balanced distribution of guns, armor and ammo: In other words, no comfort zones. You'll have make your way around the wad in order to get what you need. No hiding rats allowed. * Cool stuff: We definitely needed to add one of those cool bridges. So we added not one but two bridges and stairs. In the center of the map, you get three different height levels to walk over. Regarding weapons, added a Railgun and a grenade launcher, which are 100% compatible with an old-school wad. * Impeccable texture selection and alignment: We are proud of this wad. If you find a glitch, please let us know and it will be fixed. * Ultra-fast gameplay: The effect of adding automatic doors and bridges was amazing. It added ultra-speed to the game. No time to rest! Finally, we believe the spirit of our original idea on deathmatch is still intact, and we hope you enjoy this new version as much as we do, every single day.",
+	"date": "2014-12-12 14:04:16",
+	"files": [
+		{
+			"filename": "shtg42rv.wad",
+			"size": 260816,
+			"crc": 348888366,
+			"md5": "d4ef96ef850a0ebbc27944b793de7425",
+			"sha1": "dbd3fb08a8826973cca2618982c6005a69e6f3d1",
+			"sha256": "30f51a06c8f9c11e76901c2e26345c9599bba3ba0c71db598061647905493281"
+		}
+	]
+}

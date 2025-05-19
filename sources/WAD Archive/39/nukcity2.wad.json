@@ -1,0 +1,16 @@
+{
+	"uid": "nukcity2.wad",
+	"name": "Nukecity for Doom II",
+	"description": "Enhanced and revised version of my original Nukecity.wad",
+	"date": "2014-12-15 21:34:11",
+	"files": [
+		{
+			"filename": "nukcity2.wad",
+			"size": 647908,
+			"crc": 2484832909,
+			"md5": "803f695fc276b593f7837ed5072a284a",
+			"sha1": "39b4f9bf97069bff4472cc5b8c44ac707f79a87b",
+			"sha256": "a5efe94df0ce6427facbf8f27485cb048cf6cc2306548e9740cb34ed8b53c613"
+		}
+	]
+}

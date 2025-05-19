@@ -1,0 +1,16 @@
+{
+	"uid": "ropy.wad",
+	"name": "Ropy",
+	"description": "A singelplayer map.",
+	"date": "2015-01-14 14:41:57",
+	"files": [
+		{
+			"filename": "ropy.wad",
+			"size": 345624,
+			"crc": 2512945351,
+			"md5": "37acf812f2ea745d6cfbc74967c20aa3",
+			"sha1": "a2c568927cbe2fb1120c5724b69cc7bd89f19b69",
+			"sha256": "0ab6d7b9eb32d4599a9b39f25ecf116a9ad6b83faf79ae0acd15dd70cc9cef52"
+		}
+	]
+}

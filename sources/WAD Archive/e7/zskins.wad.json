@@ -1,0 +1,16 @@
+{
+	"uid": "zskins.wad",
+	"name": "ZSKINS.WAD",
+	"description": "A skin pack for the release of ZDaemon 0.95, nothing original, we just needed to release a skin pack so people could try out ZDaemons skins support. Better skins (not because these are bad, though they are not entirely adequate) will be released soon, and you are encouraged to make more skins too.",
+	"date": "2018-04-14 21:34:11",
+	"files": [
+		{
+			"filename": "zskins.wad",
+			"size": 4028208,
+			"crc": 4204742302,
+			"md5": "1571cbbfabf210c91838c07c8bbf2404",
+			"sha1": "e7e18ca29fe338d152dae7a19af644c11886687a",
+			"sha256": "7629151a8298f7ba1b84dc3a53afd03210f15f5d82b30b7bb55fe5ef36f9acab"
+		}
+	]
+}

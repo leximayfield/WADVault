@@ -1,0 +1,16 @@
+{
+	"uid": "PROJ-X.wad",
+	"name": "Project X",
+	"description": "32 new levels for Doom][(see P-XMAN.TXT for more). Not just shoot 'em up, not just puzzle solving. Two levels even make you search for something before you can exit.",
+	"date": "2014-06-21 11:22:47",
+	"files": [
+		{
+			"filename": "PROJ-X.wad",
+			"size": 3728912,
+			"crc": 1227638964,
+			"md5": "16d41535176bed30c78d477bc266d1d3",
+			"sha1": "24ea2d841b9930859a1ff74f76b396428a1e9eb9",
+			"sha256": "09f31b686d06ffac6c9a1b2bb1a559cf29d1c3100da508ce8b864dfde9a46d51"
+		}
+	]
+}

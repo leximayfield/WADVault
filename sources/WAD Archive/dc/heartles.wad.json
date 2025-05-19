@@ -1,0 +1,16 @@
+{
+	"uid": "heartles.wad",
+	"name": "Heartless",
+	"description": "A map reminiscent of the original E2M4 of Doom, but from scratch and with a different name.",
+	"date": "2014-12-13 17:43:44",
+	"files": [
+		{
+			"filename": "heartles.wad",
+			"size": 597596,
+			"crc": 3237809901,
+			"md5": "04b6bceebf5a8503c2d07019fe1a0360",
+			"sha1": "dc6b1918d55af9ad9e442a27da5a66f466929337",
+			"sha256": "35fb2b0df192ec62604453b77ad0bc18f3eea9dddc29f93fa31471fb3990b735"
+		}
+	]
+}

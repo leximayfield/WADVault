@@ -1,0 +1,16 @@
+{
+	"uid": "requimem.wad",
+	"name": "Requimem",
+	"description": "Remakes of the first two maps of Requiem, you need the Requiem wads to play them.",
+	"date": "2014-12-29 09:09:15",
+	"files": [
+		{
+			"filename": "requimem.wad",
+			"size": 343388,
+			"crc": 2475838313,
+			"md5": "ba55550668d75c9893ce5fba8f09b48c",
+			"sha1": "3a31ade21d70133d951e36a20640f7831e687192",
+			"sha256": "8613257b5840b275cf9598b54ae89c1af2bccaaa0cfcace7ff949a4ab950d718"
+		}
+	]
+}

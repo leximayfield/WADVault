@@ -1,0 +1,16 @@
+{
+	"uid": "HEXNDUEL.wad",
+	"name": "Hexen Duel",
+	"description": "Deathmatch duel. Run, hide, jump and kill!! This wad includes walk through walls like that found in countless heretic wads (I just couldn't resist an old favorite). So check your map as you go. Yes, ALL weapons are here.",
+	"date": "2014-11-01 14:47:07",
+	"files": [
+		{
+			"filename": "HEXNDUEL.wad",
+			"size": 59921,
+			"crc": 3230422888,
+			"md5": "2be78a0fc1b192211c494026f9ff7eaf",
+			"sha1": "ee3cfc8d72bf9ed821abe52e67a80a50d161770e",
+			"sha256": "395e3c45b84ae73cee2ab51ef5b16191ab36caa54917f32776260f39c08dead0"
+		}
+	]
+}

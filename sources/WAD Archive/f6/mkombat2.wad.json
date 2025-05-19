@@ -1,0 +1,16 @@
+{
+	"uid": "mkombat2.wad",
+	"name": "Mortal Kombat Doom \"as is\"",
+	"description": "It's Mortal Kombat Doom. This patch is old and obsolete. I haven't done any real work on it in almost two years (Today being 2/2/99). I didn't even bother to give Akuma some real walking or death frames or add more blood like I was going to. This patch just isn't worth finishing. I made the level back when I couldn't even align textures. Well give this patch a try if you want. I'll probably use the few good ideas for other patches.",
+	"date": "2015-09-14 20:50:18",
+	"files": [
+		{
+			"filename": "mkombat2.wad",
+			"size": 2627106,
+			"crc": 381050688,
+			"md5": "0195d1bdc4002b1e391efc7de8a786a9",
+			"sha1": "f6db16e225636f72eb67b2d3e0d2ce8bdd9ea4e4",
+			"sha256": "0f019b9bb3df1f6c538c81f75fee34482a5839ed548eacb0a586182dd1287594"
+		}
+	]
+}

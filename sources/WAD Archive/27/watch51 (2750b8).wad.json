@@ -1,0 +1,17 @@
+{
+	"uid": "watch51 (2750b8).wad",
+	"name": "WATCH OUT",
+	"description": "This is my first DOOM level (but don't let you put that off) This level started off as a small level but continued to grow as I got new ideas for rooms.",
+	"version": "2750b8",
+	"date": "2014-01-04 11:56:02",
+	"files": [
+		{
+			"filename": "watch51.wad",
+			"size": 192961,
+			"crc": 1594120440,
+			"md5": "4e96e73b8d961212d88014a3f2246b70",
+			"sha1": "2750b82e077949bd67399da671503143f60f5147",
+			"sha256": "f538bfd598a888e55b4a9c387374c91239c5d554e51e29ad267c01c537275314"
+		}
+	]
+}

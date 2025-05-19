@@ -1,0 +1,16 @@
+{
+	"uid": "urbanFR.wad",
+	"name": "Urban Fire",
+	"description": "A short, difficult, urban stye map for Boom-compatible source ports. It's based my 32in24-11 map (New York '77), which I converted to single player for CC4. It didn't make it onto the final map list (which I expected), but the deadline motivated me to work quickly on it. I added difficulty settings, so if it's too hard you know what to do...",
+	"date": "2014-12-29 15:28:11",
+	"files": [
+		{
+			"filename": "urbanFR.wad",
+			"size": 13744264,
+			"crc": 4007311401,
+			"md5": "640e328b6f26132cc2480f62a9a40df5",
+			"sha1": "5717e7b9887bd01f3ca9fa0caa8647821c47fd39",
+			"sha256": "9e8718f8d636b999aa7cae2cb3df60a0250bff633bcfcb1185dfa4867b26a69b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "bigroom.wad",
+	"name": "Bigroom.wad",
+	"description": "A big room with all weapons. Two side rooms with bonuses. Exit must be cooperative. Great for Deathmatch!!!!",
+	"date": "2016-02-06 13:57:39",
+	"files": [
+		{
+			"filename": "bigroom.wad",
+			"size": 13311,
+			"crc": 538217048,
+			"md5": "6666d59da0f0caa3d82e8ac35a311177",
+			"sha1": "32ed0dd7908c58a7cc15e4fa873c648a94c786ad",
+			"sha256": "337ff74e9bc69ef1558472b25159867c39a2b0d673608d366671b86dbf5dd308"
+		}
+	]
+}

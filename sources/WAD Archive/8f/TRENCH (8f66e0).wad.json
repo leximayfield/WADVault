@@ -1,0 +1,16 @@
+{
+	"uid": "TRENCH (8f66e0).wad",
+	"description": "Two levels that have a slight theme. Moderately gimmicky parts, and a fair Cyberdemon fight on level 2. Level 1 is one big multi-sectioned room. Sounds unoriginal, but it is done effectively enough.",
+	"version": "8f66e0",
+	"date": "2015-01-14 23:02:26",
+	"files": [
+		{
+			"filename": "TRENCH.wad",
+			"size": 104354,
+			"crc": 4107094952,
+			"md5": "c31d6c3e7f77d5c1a7978a2d874d0ffc",
+			"sha1": "8f66e01e83e3aae906fc20922cdba28b85a4d7c0",
+			"sha256": "c5286d6a00a06709d5d7f08c7f7dc5b09606664874637b0ee66e58c06403821e"
+		}
+	]
+}

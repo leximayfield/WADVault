@@ -1,0 +1,16 @@
+{
+	"uid": "nmd.wad",
+	"name": "Needs More Detail",
+	"description": "A deliberately underdetailed E1-styled episode made for playing. Updated to fix some general gameplay issues - HOM, damage effects, and weird enemy placement issues.",
+	"date": "2014-12-14 20:43:35",
+	"files": [
+		{
+			"filename": "nmd.wad",
+			"size": 826513,
+			"crc": 296642692,
+			"md5": "95e0bae0abbcde2e64730e7face73eb4",
+			"sha1": "ac37d869bbc138101dc109453edb1e7f3e77e2df",
+			"sha256": "926a597f8b4b1f8189eccaa9080fedbd345fcfc64d8f0e6cdf81549cf368ac30"
+		}
+	]
+}

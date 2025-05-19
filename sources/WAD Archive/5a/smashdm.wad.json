@@ -1,0 +1,16 @@
+{
+	"uid": "smashdm.wad",
+	"name": "The Smashing Deathmatch Wad",
+	"description": "3 small DM levels for Doom",
+	"date": "2014-12-15 22:19:24",
+	"files": [
+		{
+			"filename": "smashdm.wad",
+			"size": 664444,
+			"crc": 3345436484,
+			"md5": "96a3f4f8bb39588a1fb096fe1bfb3d87",
+			"sha1": "5aebf9ed196934edce12fd0bb1f28412436a5a47",
+			"sha256": "df235c5a1c967a1f7535bae6e7dd61ce6f4de3b558c256f6fab3328119bf6948"
+		}
+	]
+}

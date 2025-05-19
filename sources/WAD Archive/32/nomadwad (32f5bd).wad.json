@@ -1,0 +1,17 @@
+{
+	"uid": "nomadwad (32f5bd).wad",
+	"name": "Nomad Wad",
+	"description": "An exhilarating 3 level pwad filled with new sounds, graphics, & rooms. This pwad was designed as a deathmatch level but can be single player. The song you hear in between levels \"Laaahh La la la la laaah\" is Crocodile Rock by Elton John..",
+	"version": "32f5bd",
+	"date": "2013-11-06 22:41:26",
+	"files": [
+		{
+			"filename": "nomadwad.wad",
+			"size": 1251225,
+			"crc": 3967211187,
+			"md5": "6b221bd63802d30b279361ac9ee10742",
+			"sha1": "32f5bd8957372cad27b71e76904c4f0e7f4e1b68",
+			"sha256": "e2d62fb5316f1067bf1598cd8a68c764cd903becdd8c33d92fad93de422797c5"
+		}
+	]
+}

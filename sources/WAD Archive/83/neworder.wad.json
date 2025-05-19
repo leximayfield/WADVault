@@ -1,0 +1,16 @@
+{
+	"uid": "neworder.wad",
+	"name": "New Order V1.1",
+	"description": "Just another Doom level to pass your precious time. It might be hard for those who don't look for the secrets so try to conserve ammo as much as you can",
+	"date": "2015-01-13 21:19:23",
+	"files": [
+		{
+			"filename": "neworder.wad",
+			"size": 1201670,
+			"crc": 1195253863,
+			"md5": "c061bcd6f2f6089ea7e46d6ec3f5300a",
+			"sha1": "833b56172276ec0b39157712b5e1453c392baa20",
+			"sha256": "a0d22db4bbded1cdc125f61b137c634da1c9e1334f35b8162a532c42c7058b46"
+		}
+	]
+}

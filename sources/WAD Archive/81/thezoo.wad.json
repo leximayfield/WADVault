@@ -1,0 +1,16 @@
+{
+	"uid": "thezoo.wad",
+	"name": "The Zoo",
+	"description": "This aint like the zoo moma took you to when you where little, keep your arms out of the cages if you want to keep them!.",
+	"date": "2015-01-14 14:56:26",
+	"files": [
+		{
+			"filename": "thezoo.wad",
+			"size": 75165,
+			"crc": 3801514032,
+			"md5": "c009a4fad9e04f3a1aac490a7651ea49",
+			"sha1": "8117edfdd61147c2e8cd22403571680d26fc7a9c",
+			"sha256": "69a25bf54a78285318794978eee6aedb095fe6dcf33fcb23605f1b7c84db1de6"
+		}
+	]
+}

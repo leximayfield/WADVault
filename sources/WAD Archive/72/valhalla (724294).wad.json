@@ -1,0 +1,17 @@
+{
+	"uid": "valhalla (724294).wad",
+	"name": "Valhalla",
+	"description": "An absolute pain in the ( enter word of your : choice here ) to finish due to the savegame memory : limit in the doom2.exe file. I did this on a p120 : with 32 meg and just got it within the limit but : 50% of the time it still hangs the command.com when : you exit the game so you will probably have to : reboot. : When playing the level, there are some parts that : may seem hard to get to. They CAN be done. It is not : a result of duff level design.",
+	"version": "724294",
+	"date": "2015-01-14 22:51:51",
+	"files": [
+		{
+			"filename": "valhalla.wad",
+			"size": 901900,
+			"crc": 1874998223,
+			"md5": "f4c8ce596e3043e565f0946eb07f9567",
+			"sha1": "724294af5af5567a6526a6beac2318d35a47a786",
+			"sha256": "bf74dda7863251578c19f6c588ef31489b90e4f4a9c227552b0cf4d9db4f9658"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "soulz (1aa305).wad",
+	"name": "HLZGATE.WAD (Hell's Gate)",
+	"description": "Once again using my patented secret doom-building recipez from hEll...",
+	"version": "1aa305",
+	"date": "2013-11-02 15:12:51",
+	"files": [
+		{
+			"filename": "soulz.wad",
+			"size": 485406,
+			"crc": 1390478853,
+			"md5": "c4db12fec4ed1f6d66a845a397de0a1d",
+			"sha1": "1aa30561c34f6dbf7b0174a26beb26cf660fa5f5",
+			"sha256": "0eb3ba42230b98a00a382b04a9c4244f763975d86ee3c712f4dc4df1a15bd984"
+		}
+	]
+}

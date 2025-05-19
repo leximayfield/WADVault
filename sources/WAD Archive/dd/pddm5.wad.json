@@ -1,0 +1,16 @@
+{
+	"uid": "pddm5.wad",
+	"name": "Brick DM",
+	"description": "an unreleased DM level. Fixed some stuff. A brick & metal themed level.",
+	"date": "2014-12-15 21:36:00",
+	"files": [
+		{
+			"filename": "pddm5.wad",
+			"size": 121632,
+			"crc": 3697464584,
+			"md5": "ec8070a5b6ca5f86d1c50bbbcc2cf1b0",
+			"sha1": "dd6bbcb098d779345db77b63d41d9b5d9b3cb019",
+			"sha256": "de93d4b4592a0a028d86226e133083b7005338dd2164d2115ca5922ec664e466"
+		}
+	]
+}

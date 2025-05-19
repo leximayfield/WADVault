@@ -1,0 +1,17 @@
+{
+	"uid": "radplant (ead50a).wad",
+	"name": "Radiation Processing Plant",
+	"description": "Large radioactive substance processing plant that's been overrun by hell-spawn. Large, open- plan warehouse section. Ideal for the Doomer looking for a bit of a blast. Also suits co-op netplay (like anyone plays it), but probably a no-no for deathmatch (I woulda made a dm wad, but... long story). It's a bit linear, but hey, it's only my first wad, so go easy! You'll have to look real hard to find the super-shotgun without cheating.",
+	"version": "ead50a",
+	"date": "2013-11-04 20:14:59",
+	"files": [
+		{
+			"filename": "radplant.wad",
+			"size": 114401,
+			"crc": 2241768947,
+			"md5": "397cd14ec659af073a868e0df4cf6125",
+			"sha1": "ead50ae6b09faa1142756b3c36aaddc25b75b7a4",
+			"sha256": "8d2950103818e752c703806bdfef8b24c098913556b36f5e542d5d2e20b12405"
+		}
+	]
+}

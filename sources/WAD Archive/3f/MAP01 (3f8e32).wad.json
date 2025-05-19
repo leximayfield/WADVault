@@ -1,0 +1,17 @@
+{
+	"uid": "MAP01 (3f8e32).wad",
+	"name": "Map 01",
+	"description": "A small, kick-ass frag-fest of a level. Beware though, it's tough in single player.",
+	"version": "3f8e32",
+	"date": "2014-12-15 22:24:30",
+	"files": [
+		{
+			"filename": "MAP01.wad",
+			"size": 144367,
+			"crc": 400924719,
+			"md5": "ee79a38dcc367c2b802497f85aebf660",
+			"sha1": "3f8e32817e056c7cebe462b02c34fa1b5e07210d",
+			"sha256": "1594cc0b9304a02be9ab99c72e43a3a6dca642d57a65cfdaa9521f18de32fe58"
+		}
+	]
+}

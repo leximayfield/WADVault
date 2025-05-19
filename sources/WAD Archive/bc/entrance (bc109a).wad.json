@@ -1,0 +1,17 @@
+{
+	"uid": "entrance (bc109a).wad",
+	"name": "Entrance",
+	"description": "This wad contains the first (short) level of an 8 level iwad I'm working on. There is a hidden super shotgun and rocket launcher.",
+	"version": "bc109a",
+	"date": "2014-12-24 18:52:35",
+	"files": [
+		{
+			"filename": "entrance.wad",
+			"size": 78629,
+			"crc": 906281113,
+			"md5": "54c8a872015d90b20bfa29594d89a330",
+			"sha1": "bc109a76093295471ea75b189791aa3a3a55d79a",
+			"sha256": "f7bcb8bc74eea22e97d85fffc244f2716bbc45f9a3b0a0e17ad2ffca46373a5b"
+		}
+	]
+}

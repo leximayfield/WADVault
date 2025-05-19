@@ -1,0 +1,17 @@
+{
+	"uid": "castle2 (0a2ddb).wad",
+	"name": "Castle of Combat for HERETIC, REG ONLY",
+	"description": "This is level 2 of a ? level adventure originally designed as an AD&D game. Look for the other levels coming soon.",
+	"version": "0a2ddb",
+	"date": "2014-12-13 17:36:42",
+	"files": [
+		{
+			"filename": "castle2.wad",
+			"size": 157489,
+			"crc": 3957988958,
+			"md5": "b308fe2e8136c0485534c6046271b2de",
+			"sha1": "0a2ddbbabad4bd2f959812f131ff819a18c723df",
+			"sha256": "ca4368539a4cee1ed1cacc824e433229f976a745ed917c51b6b3923b4fb51477"
+		}
+	]
+}

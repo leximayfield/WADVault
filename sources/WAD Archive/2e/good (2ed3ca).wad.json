@@ -1,0 +1,17 @@
+{
+	"uid": "good (2ed3ca).wad",
+	"name": "Goodest wad",
+	"description": "Small Doom ][ DM level, vines and a kewl fire room.",
+	"version": "2ed3ca",
+	"date": "2014-12-15 22:10:45",
+	"files": [
+		{
+			"filename": "good.wad",
+			"size": 53714,
+			"crc": 1202306132,
+			"md5": "6bfcfc3c7d91a831826a51ccdb879777",
+			"sha1": "2ed3ca2c14f173bccae2816422858d0515f65534",
+			"sha256": "672ffc750e149e13f9fcd9014d841733e3ad0c059bbc4b3260f6e9fd84977c08"
+		}
+	]
+}

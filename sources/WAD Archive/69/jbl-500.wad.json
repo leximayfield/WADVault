@@ -1,0 +1,16 @@
+{
+	"uid": "jbl-500.wad",
+	"name": "Wierd World Cave JBL-500",
+	"description": "JBL-500, the war has begun!",
+	"date": "2015-01-05 16:25:45",
+	"files": [
+		{
+			"filename": "jbl-500.wad",
+			"size": 30624,
+			"crc": 3646183958,
+			"md5": "2e8e98f77637638eaeaf63be77754d51",
+			"sha1": "69177fb736b68f5075c09db5e721dc834c66a2e2",
+			"sha256": "3e4d0ef806cca79283c86f476e7657be5cdbaec3427bff5ad0722ae85370a2a7"
+		}
+	]
+}

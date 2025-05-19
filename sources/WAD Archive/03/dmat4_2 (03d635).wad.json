@@ -1,0 +1,17 @@
+{
+	"uid": "dmat4_2 (03d635).wad",
+	"name": "DMAT4",
+	"description": "The classic Doom Deathmatch wad remade for Doom2. No monsters..just ultimate frag action !",
+	"version": "03d635",
+	"date": "2016-02-07 20:39:21",
+	"files": [
+		{
+			"filename": "dmat4_2.wad",
+			"size": 45587,
+			"crc": 2053832528,
+			"md5": "aee54ac1348d0a0043672b756d529818",
+			"sha1": "03d635689c2b014398034e5dfc560c9928cdd512",
+			"sha256": "8c168f5be1b221b6a127232989f51fda4448e50c4b67f2a0fab9f8cf431225df"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "stctfmp.wad",
+	"name": "Skulltag CTF",
+	"description": "ZDCTFMP modified for use with Skulltag.",
+	"date": "2013-04-20 13:25:39",
+	"files": [
+		{
+			"filename": "stctfmp.wad",
+			"size": 3096426,
+			"crc": 1001175162,
+			"md5": "c6bc2b2fe25ec3d489d4e9d7b1ff723c",
+			"sha1": "a09850ec0697f5dc8ba3bfb3c78ed0d0f30fcf4d",
+			"sha256": "4962a597a3b7cb9767ad4927baed19ecdbf411303ea9443cda5eb0be9acb628d"
+		}
+	]
+}

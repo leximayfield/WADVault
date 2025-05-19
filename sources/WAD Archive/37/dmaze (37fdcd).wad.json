@@ -1,0 +1,17 @@
+{
+	"uid": "dmaze (37fdcd).wad",
+	"name": "Death Maze",
+	"description": "This was specialy made for deathmatch. No monsters at all, strictly you and your prey.",
+	"version": "37fdcd",
+	"date": "2016-02-07 20:37:28",
+	"files": [
+		{
+			"filename": "dmaze.wad",
+			"size": 39229,
+			"crc": 499928042,
+			"md5": "e07988550c287dbfa106ef279aac8644",
+			"sha1": "37fdcd295da8969a2183e76a4909fece7942a0a1",
+			"sha256": "4d3f386c3d51b92300341ace83264b70e2ba8fcc9594d8e8edca8a1ad28c00ca"
+		}
+	]
+}

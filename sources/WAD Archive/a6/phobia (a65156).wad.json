@@ -1,0 +1,16 @@
+{
+	"uid": "phobia (a65156).wad",
+	"name": "Phobia (Upgraded version for 1.32Beta3 of Doom Legacy)",
+	"version": "a65156",
+	"date": "2013-04-22 00:35:50",
+	"files": [
+		{
+			"filename": "phobia.wad",
+			"size": 3191142,
+			"crc": 2240665583,
+			"md5": "f6374fa41004b8deecdc6c4002c15012",
+			"sha1": "a65156f93d9beb0c5c0c16392b7b9c2e6cd3582d",
+			"sha256": "0e5c512eeecfc6fbb571cf1913c5d02f5951fdac2c15e5deb8caf6fd851cc654"
+		}
+	]
+}

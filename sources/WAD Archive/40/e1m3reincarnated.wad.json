@@ -1,0 +1,16 @@
+{
+	"uid": "e1m3reincarnated.wad",
+	"name": "E1M3: Reincarnated",
+	"description": "E1M3: Reincarnated is a recreation of Level 3 of the first Doom. I looked to keep the gameplay of the original Doom, and spice it up with detail, and features zdoom has. I *might* consider recreating the entire first episode if this map goes well.",
+	"date": "2014-12-13 17:41:17",
+	"files": [
+		{
+			"filename": "e1m3reincarnated.wad",
+			"size": 852909,
+			"crc": 3856016748,
+			"md5": "f221aa5622b3090426992011488ff2bd",
+			"sha1": "40be56ffc5bb31d1c65d1b4d08398caa7ccbee54",
+			"sha256": "6f087cee0b84a5ae206498d59056373124bca3b982ace1ca158c54daffd8cd58"
+		}
+	]
+}

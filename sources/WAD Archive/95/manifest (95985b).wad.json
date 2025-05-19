@@ -1,0 +1,17 @@
+{
+	"uid": "manifest (95985b).wad",
+	"name": "MANiFEST A DooM ][ Level made from scratch",
+	"description": "After you defeat all the badass bosses in doom Its time to move on now is the time to enter the MANiFEST.",
+	"version": "95985b",
+	"date": "2016-02-07 20:36:28",
+	"files": [
+		{
+			"filename": "manifest.wad",
+			"size": 24936,
+			"crc": 1355283211,
+			"md5": "8976345989df06cbc2a910f977cdb8e0",
+			"sha1": "95985b82ed72b3ddfa03096e415a68d8d343bc20",
+			"sha256": "cfc394d384803ac44514ac2b4f894aff457b7197627ff4c57ff3ecdccab06e55"
+		}
+	]
+}

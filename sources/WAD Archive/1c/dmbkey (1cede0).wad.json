@@ -1,0 +1,17 @@
+{
+	"uid": "dmbkey (1cede0).wad",
+	"name": "Bloodkey",
+	"description": "New design, great space, full of ammo and many monsters. Yes it's difficult but not impossible. Feedback would be appreciated.",
+	"version": "1cede0",
+	"date": "2013-11-02 15:06:26",
+	"files": [
+		{
+			"filename": "dmbkey.wad",
+			"size": 32601,
+			"crc": 3656245016,
+			"md5": "76b58601ca4b94fa6ef4fcc46167e255",
+			"sha1": "1cede0b4bfe4b6d98add4daed8f74163808ecaa9",
+			"sha256": "aa91559779b073cdb929536ae977e34c10f4b39e2213e27c90c4dec3d862cfea"
+		}
+	]
+}

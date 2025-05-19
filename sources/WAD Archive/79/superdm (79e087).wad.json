@@ -1,0 +1,17 @@
+{
+	"uid": "superdm (79e087).wad",
+	"name": "Super Deathmatch",
+	"description": "A new level for Doom ][ made explicitly for Deathmatch. Very fast and very fun, a must have for any serious D-matcher.",
+	"version": "79e087",
+	"date": "2014-12-15 21:59:49",
+	"files": [
+		{
+			"filename": "superdm.wad",
+			"size": 207378,
+			"crc": 1939955870,
+			"md5": "94ba3e8150f452bb9ed8f7670c64014e",
+			"sha1": "79e0873696bdfcac3b3fed3db88c84b6d6e43e41",
+			"sha256": "4ca4e253fa8fb40c9c597d95e35295b611c204e7667376eccd49d6970544d56e"
+		}
+	]
+}

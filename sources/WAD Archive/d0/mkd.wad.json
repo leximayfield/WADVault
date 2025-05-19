@@ -1,0 +1,16 @@
+{
+	"uid": "mkd.wad",
+	"name": "Mortal Kombat-D",
+	"description": "fight map based on Mortal Kombat with 2 places to fight. and don't to don't use a PISTOL!!",
+	"date": "2014-12-15 22:32:46",
+	"files": [
+		{
+			"filename": "mkd.wad",
+			"size": 824615,
+			"crc": 752307922,
+			"md5": "51721b74915bc76a04e49093a790013f",
+			"sha1": "d00bb267ac8bf102c3669aa993247990b7bc33e1",
+			"sha256": "25886c686cfbb974d0aafaccaa5b69d3e7e55d94641a42942a78bbfc60aae7aa"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "d2pod1 (d482bd).wad",
+	"name": "Plains of Death 1",
+	"description": "DOOM II Wad featuring fast paced action spanning a large plain with several terrain features. Tough, especially at difficulty settings 3-5.",
+	"version": "d482bd",
+	"date": "2013-11-02 15:48:14",
+	"files": [
+		{
+			"filename": "d2pod1.wad",
+			"size": 68210,
+			"crc": 2236062782,
+			"md5": "cc6cf11f1f796fa643fa964391a83da2",
+			"sha1": "d482bd4aa9337823ad21f4b18394bfa6b6c1e5e1",
+			"sha256": "bb4fe1d14140ec553bd3f8221db018fc123089ed80b6cd9e6f65449d7110907d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ironcrss.wad",
+	"name": "Iron Cross for DOOM2 Deathmatch",
+	"description": "Deathmatch. No doors, no lifts, no traps, no slime, no secrets... 'nuff said! Just go kill. This is a map based on totally symmetrical, simple geometric shapes. I'm not too familiar with Deathmatch WADs, so I couldn't tell you if this is too big or small for good play, but it is the 3rd version of this map that I worked and reworked until it was fun enough for me. I've spent well over 24 hrs. on it (but not all at one time).",
+	"date": "2014-12-15 22:38:43",
+	"files": [
+		{
+			"filename": "ironcrss.wad",
+			"size": 94624,
+			"crc": 55347204,
+			"md5": "d4cdd1915adce896ef16983ff706e428",
+			"sha1": "c2960fae22e0fbc3632d8225db688e9e0e0e5870",
+			"sha256": "0522beb368a6782eb0bdb9dfab8b0d615b32b5e0e2ad1325d189969c9ddbb06f"
+		}
+	]
+}

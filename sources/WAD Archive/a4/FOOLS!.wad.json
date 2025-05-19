@@ -1,0 +1,16 @@
+{
+	"uid": "FOOLS!.wad",
+	"name": "FOOLS!.WAD (for DOOM2)",
+	"description": "A small map suitable for fragging. My second serious attempt at creating a WAD file. There is an exit. There are SS's, rockets, plasma and BFG weapons available. Good-sized open area for blowing each other up with rockets, plus some windows and a secret room for snipering. There are two secret rooms, one of which takes you to the BFG, the other makes things interesting if you leave MONSTERS on. Intended for deathmatch. Please E-mail your reviews of this WAD. I'd like to know how I did!",
+	"date": "2014-10-14 21:01:29",
+	"files": [
+		{
+			"filename": "FOOLS!.wad",
+			"size": 49206,
+			"crc": 3669215071,
+			"md5": "83f5e718004ef3a9e1f466b675756c14",
+			"sha1": "a4cb7e11dda93e558e843d95906f7a2af0622130",
+			"sha256": "9faf83b703bdadf7be5c247a0b4973316e4fc73b332427f7c39ca0c339e82091"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "capdbase (5cd8d0).wad",
+	"name": "Captured Base v1.0",
+	"description": "This is my first released Deathmatch wad! It is a small, fast-action wad, with a lot of rockets but no energy weapons. Watch my demo to see how the wad works. (Although I forget to get the rocket launcher) But to see the whole demo, you must watch it from command line level, i.e. doom2 -file capdbase.wad -playdemo demo1 I included the very same demo in the wad file, but in the embedded demo1 I get killed by a revenant fireball every time! Weird. Anyway, if you watch the demo with the \"-playdemo\" parameter, you can see me complete the level (with 100% kills) at \"Hurt me plenty\", after a few unsuccessful attempts... with 5% health for quite a long time of it :->",
+	"version": "5cd8d0",
+	"date": "2014-12-15 22:43:14",
+	"files": [
+		{
+			"filename": "capdbase.wad",
+			"size": 212576,
+			"crc": 3346481862,
+			"md5": "2b1fdfa09d4042549727c1ae92c58254",
+			"sha1": "5cd8d041bd2def95c84b7478cfa3444b70b8a8b5",
+			"sha256": "ace5ea7efee66c376c0f345f5f30f952e333525f100a876b224db8ff5d7f0e62"
+		}
+	]
+}

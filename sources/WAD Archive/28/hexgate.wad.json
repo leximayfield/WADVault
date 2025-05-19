@@ -1,0 +1,16 @@
+{
+	"uid": "hexgate.wad",
+	"name": "GATEWAY TO HELL",
+	"description": "I really don't what to call this thing except that it is a little bigger than most of the HEXEN wads I've seen so far, and it is got a lot of action for sure. I don't know how it works in deathmatch, but it LOOKS like a good deathmatch PWAD. Single player is pretty awesome and you pretty much have to fight for your life from the beginning. I couldn't make any teleports work, so they are there but nonfunctional, and also there is no way out of the level. If anybody figures out how to make those damn door things work, let me know. I tried and tried and it kept crashing. Oh yeah, this thing kind of is somewhat of a puzzle as far as aquiring weapons, so it should be pretty frantic finding all the pieces to becoming an all powerful godlike beast.",
+	"date": "2014-01-07 22:25:14",
+	"files": [
+		{
+			"filename": "hexgate.wad",
+			"size": 114686,
+			"crc": 4021481274,
+			"md5": "9d5c50766d948103032c12dc25f7dc65",
+			"sha1": "2871ac59543038e7f15ff3598e04a91c867cdbb2",
+			"sha256": "006769d7ada131a46b6d257ece60aafc526a338275455b026d757f22b984df9d"
+		}
+	]
+}

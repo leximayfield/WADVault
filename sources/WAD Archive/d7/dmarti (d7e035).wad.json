@@ -1,0 +1,17 @@
+{
+	"uid": "dmarti (d7e035).wad",
+	"name": "\"The Artifact\" ARTIFACT.WAD Version 2.0",
+	"description": "You've been to hell and back, now it's MILLER time! Unfortunately the officer you pounded earlier is now your new CO. Guess who gets the next S**T detail? While boarding the drop ship, you find out some strange goings-on are happening at a UAC facility in the Andes mountains. It appears that what recently happened on Mars is happening here. People rising from the dead, demons and monsters gnawing the living. Not good! You are to meet some undercover operatives at the facility who will lead you to a secret base nearby (Something about having to climb a waterfall and navigate some sewers). You here a rumor about the discovery of an alien artifact that supposedly started this whole mess. You also hear a story about a UAC backed raid by a company of storm troopers that failed miserably. The one lone survivor kept babbling about \"blowing up a mountain\", though not the way they intended.",
+	"version": "d7e035",
+	"date": "2013-11-04 20:10:25",
+	"files": [
+		{
+			"filename": "dmarti.wad",
+			"size": 1128526,
+			"crc": 1381049355,
+			"md5": "bcc96c694e7f2b43924a6cb45ccfcf17",
+			"sha1": "d7e0354a135a8a27cdac476f285df0ba743d534b",
+			"sha256": "07a733491abe0dfb711313b9a6806ea8a937addc2893b8f9e04975fc80e017e3"
+		}
+	]
+}

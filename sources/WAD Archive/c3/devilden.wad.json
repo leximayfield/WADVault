@@ -1,0 +1,16 @@
+{
+	"uid": "devilden.wad",
+	"name": "The Devil's Den",
+	"description": "A medium-sized level with a few different themes and a lot of baddies. You are not allowed to jump.",
+	"date": "2014-12-18 22:47:15",
+	"files": [
+		{
+			"filename": "devilden.wad",
+			"size": 902636,
+			"crc": 1836054506,
+			"md5": "38e5555168cf7dd9fbd9cdc5a912ea30",
+			"sha1": "c329294d369af641d86e85d1fef621257d776c63",
+			"sha256": "cfa2beadea127fe1e783924167e9459a4557daa2950057e833a1f7704cc4fd0a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "LOST (fc02e1).wad",
+	"name": "Lost",
+	"description": "Possibly the strangest level you've ever seen. Lack of texture detail almost completely loses your depth perception and you have to rely on seeing items, monsters, colors and your memory to navigate successfully. As you might guess, this is a kind of a puzzle level. Don't bother using the map to navigate, all walls are invisible.",
+	"version": "fc02e1",
+	"date": "2014-12-27 12:55:16",
+	"files": [
+		{
+			"filename": "LOST.wad",
+			"size": 75512,
+			"crc": 558085436,
+			"md5": "3e935756dabde661c568f7caedfde7ac",
+			"sha1": "fc02e15d26c1de515cff13d62d5c0e1ce2279b40",
+			"sha256": "2718d068afe7390663ddde3f8251b5485e0237578cd8cdf436699c122d1796cd"
+		}
+	]
+}

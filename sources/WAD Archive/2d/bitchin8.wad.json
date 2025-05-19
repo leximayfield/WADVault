@@ -1,0 +1,16 @@
+{
+	"uid": "bitchin8.wad",
+	"name": "Bitchin8 - La Villa Strangiato",
+	"description": "Single or Cooperative. (Has deathmatch starts but I haven't tried it). A very large level (a la Bitchin7) with my ususal co-op friendly touches (centralized design, key doors stay open, weapons cache that shows up half way through, etc.) Thanks to the kind doomers who sent fan mail on my first seven levels. You gave me the incentive to continue the series. Who knows, if I get some good feedback on this one, maybe there'll be a Bitchin9 <g>. I also included difficulty settings in this one for the faint of heart. I suggest a 486 DXII-66 or better in multi-player mode because things can get pretty intense. I left out my standard sound patch to save on space. Those of you who already have Bitchin (levels 1-6) and/or Bitchin7 can load them up with this one to get better sound. Or better still, play them in sequence for a totally Bitchin evening!!",
+	"date": "2013-11-06 22:29:28",
+	"files": [
+		{
+			"filename": "bitchin8.wad",
+			"size": 257876,
+			"crc": 3820495144,
+			"md5": "b108fde04a0e2df13b22954bc16340ef",
+			"sha1": "2dfb9cff5e085ff11f9994ec7dd444d9c8f98d6c",
+			"sha256": "aca8b6cdc0cd8f5480b65952ab972b830d7d73a8b2e173c45d2427656a5cefac"
+		}
+	]
+}

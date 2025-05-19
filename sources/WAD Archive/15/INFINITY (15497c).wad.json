@@ -1,0 +1,17 @@
+{
+	"uid": "INFINITY (15497c).wad",
+	"name": "Infinity",
+	"description": "This is a 13-WAD Doom 2 Map that I released back in November of 2018. Nothing too much.",
+	"version": "15497c",
+	"date": "2019-03-06 21:45:20",
+	"files": [
+		{
+			"filename": "INFINITY.wad",
+			"size": 44069108,
+			"crc": 4012989751,
+			"md5": "f4cda4f3ad0361e27efc982202219a03",
+			"sha1": "15497c7a7388c37fce34ab68e8ad18838a11dff7",
+			"sha256": "28c35d3a51aee5289416bb111ea7374a97b8cfdbd4baad62e9fcec6f0507ed76"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sin_city.wad",
+	"name": "SIN CITY",
+	"description": "A New Pwad for DOOM II.A fairly basic level with a fortress type layout.This is the first of the Sin City series.Hopefully there will eventually be 30 lavels and maybe a couple of secret levels.Hope you enjoy.",
+	"date": "2013-11-02 16:05:48",
+	"files": [
+		{
+			"filename": "sin_city.wad",
+			"size": 101131,
+			"crc": 3710561356,
+			"md5": "16cd48cd45bb58f23ee3c962fde05c54",
+			"sha1": "52b97f975410cec11eae0e922b710172a4192601",
+			"sha256": "048623f303a78b696d811c67eaa8c66e26a78c51d4f99283fcc072a763cd47d6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Heretic (v1.0)",
+	"name": "Heretic",
+	"description": "Registered release, contains episodes 1-3",
+	"version": "v1.0",
+	"files": [
+		{
+			"filename": "HERETIC.WAD",
+			"date": "1994-12-27",
+			"size": 11096488,
+			"crc": "77482d1e",
+			"md5": "3117e399cdb4298eaa3941625f4b2923",
+			"sha1": "b5a6cc79cde48d97905b44282e82c4c966a23a87"
+		}
+	]
+}

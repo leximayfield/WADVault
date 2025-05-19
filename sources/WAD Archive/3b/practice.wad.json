@@ -1,0 +1,16 @@
+{
+	"uid": "practice.wad",
+	"name": "Practice",
+	"description": "Practice your Cyberdemon skillz! if you can beat this on UV please send me a .lmp!",
+	"date": "2015-01-14 22:45:09",
+	"files": [
+		{
+			"filename": "practice.wad",
+			"size": 91639,
+			"crc": 1559198686,
+			"md5": "61a78569bcfa2b391c6243bc2a25c50e",
+			"sha1": "3b3d6e828dd20e19cd73933869b2c56be89c36f7",
+			"sha256": "1d0e9fb949159f341c0bf58aa7df263bcd0fc43ebf6e66d7ee264b1cde40fdfc"
+		}
+	]
+}

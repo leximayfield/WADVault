@@ -1,0 +1,17 @@
+{
+	"uid": "diablo (2dad0e).wad",
+	"name": "El Diablo",
+	"description": "Play it and see!",
+	"version": "2dad0e",
+	"date": "2014-12-18 22:21:41",
+	"files": [
+		{
+			"filename": "diablo.wad",
+			"size": 63620,
+			"crc": 1049735047,
+			"md5": "f3fbcd621d01540b6317a7fee8495ce3",
+			"sha1": "2dad0e1f6dd5c1eb7e7d3acb5b91e65e16f7d849",
+			"sha256": "d3c87496366e334cf8dc2b8daa91c2159330e95db6a8554430dad54a2ce54ff8"
+		}
+	]
+}

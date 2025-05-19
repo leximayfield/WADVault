@@ -1,0 +1,16 @@
+{
+	"uid": "spitedm.wad",
+	"name": "Spite DM (ver. 1.0)",
+	"description": "Very, very small. As this is just a first version, I may add other rooms if there are enough requests.",
+	"date": "2014-12-15 23:14:18",
+	"files": [
+		{
+			"filename": "spitedm.wad",
+			"size": 93349,
+			"crc": 3450063950,
+			"md5": "db13cf4ebb717159ff72eca335339a24",
+			"sha1": "d53de42885137c3c2ae5842b8e04d44dde18bfea",
+			"sha256": "a32ea4da9f59fb1230fb8446d9a9b484eefb6a991bcd1f7700efeb86ad78876e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zedges (0ff712).wad",
+	"name": "LEDGES.WAD",
+	"description": "This patch file is for E1M1. To designed for only deathmatch play. It works best with 4 players but can be played with 2 or 3 players. All weapons are evenly spaced to insure a good deathmatch.",
+	"version": "0ff712",
+	"date": "2016-02-07 20:29:16",
+	"files": [
+		{
+			"filename": "zedges.wad",
+			"size": 39414,
+			"crc": 4012900400,
+			"md5": "bafed32db3867ff39ab75546f98d6d64",
+			"sha1": "0ff712f4a05dd7fbb96c8af962b74ae08d5c4433",
+			"sha256": "fea6a0a091204fb99a032c1a13a09f5d12bfcc87bcbeeb0e195c24b9fcabbe1e"
+		}
+	]
+}

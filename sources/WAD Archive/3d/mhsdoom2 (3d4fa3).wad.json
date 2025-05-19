@@ -1,0 +1,17 @@
+{
+	"uid": "mhsdoom2 (3d4fa3).wad",
+	"name": "MHS Doom II",
+	"description": "After saving Phobos, destroying Hell,",
+	"version": "3d4fa3",
+	"date": "2015-12-29 14:52:40",
+	"files": [
+		{
+			"filename": "mhsdoom2.wad",
+			"size": 381960,
+			"crc": 2198850928,
+			"md5": "1af4c0535ce7c75ea7332c05a56c7703",
+			"sha1": "3d4fa3061cc32703ddeec77d8503f35d6b5ec6ba",
+			"sha256": "874e84d09415ca1384cba631117a097ddf6b588544c3c13cecea823f765aafd0"
+		}
+	]
+}

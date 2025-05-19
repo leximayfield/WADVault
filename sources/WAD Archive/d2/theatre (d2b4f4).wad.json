@@ -1,0 +1,17 @@
+{
+	"uid": "theatre (d2b4f4).wad",
+	"name": "THE DEMON OF THE OPERA",
+	"description": "This level is base around a theatre. It includes satge, backstage, orchestra pit, trap doors, box office, circle, gods, boxes, stalls and toilets. It is very difficult.",
+	"version": "d2b4f4",
+	"date": "2014-12-14 20:58:08",
+	"files": [
+		{
+			"filename": "theatre.wad",
+			"size": 191943,
+			"crc": 2406487865,
+			"md5": "3a8079c14bf3c310b5442cc4ee613d46",
+			"sha1": "d2b4f4b2db13d4f76adae2d10b115b1f624eee64",
+			"sha256": "cf01b7e654ed9ae391331c3d84da451fe2f2742b267ffe316ac947af0bf7287d"
+		}
+	]
+}

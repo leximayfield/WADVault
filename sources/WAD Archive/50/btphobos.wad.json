@@ -1,0 +1,16 @@
+{
+	"uid": "btphobos.wad",
+	"name": "Back to Phobos",
+	"description": "You find a time machine and throw the switch. The apparatus shreds through the fabric of time and space hurling you back to the good ol' days, back to Phobos moon.",
+	"date": "2017-06-27 00:15:05",
+	"files": [
+		{
+			"filename": "btphobos.wad",
+			"size": 146482,
+			"crc": 811404853,
+			"md5": "be08dc1b69313e4c530f88f0c0bf98d4",
+			"sha1": "504b7397d3118ffe84d3c2b0081307631b9a8705",
+			"sha256": "ae839f33c0bccac361ab22816d831d01ba610686f0be46a7d8bc04796fe6b84b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "prison (fc5016).wad",
+	"name": "The Prison",
+	"description": "Prison/Control Center and labs.",
+	"version": "fc5016",
+	"date": "2014-12-29 09:00:19",
+	"files": [
+		{
+			"filename": "prison.wad",
+			"size": 888558,
+			"crc": 3207132798,
+			"md5": "ffc261d7d2c795bf9d2db7a5e20b39e5",
+			"sha1": "fc5016ca11e1878bac413a2bad799a28eebe889a",
+			"sha256": "93b54b4a39cb66f3279918726223b047b9bcc7628247413e3c40eb1d0f8854d9"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "PALACE (c6edff).wad",
+	"name": "Palace of the Beast",
+	"description": "It's been two long months since you sent the evil",
+	"version": "c6edff",
+	"date": "2014-02-15 17:09:28",
+	"files": [
+		{
+			"filename": "PALACE.wad",
+			"size": 319630,
+			"crc": 1087084602,
+			"md5": "7beb14a864a68188315ee96defd5e955",
+			"sha1": "c6edff07527902d9dc1e73280107e48328a72d83",
+			"sha256": "3a537b34b2eb647d9df11ae36089076e5324e6efddbd738207d5ead89ff4637d"
+		}
+	]
+}

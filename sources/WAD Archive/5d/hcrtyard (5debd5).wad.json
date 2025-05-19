@@ -1,0 +1,17 @@
+{
+	"uid": "hcrtyard (5debd5).wad",
+	"name": "The Sinister Courtyard (Beta Verson)",
+	"description": "This is a courtyard in a castle. It's not one you would want to visit. :-)",
+	"version": "5debd5",
+	"date": "2013-11-02 16:40:11",
+	"files": [
+		{
+			"filename": "hcrtyard.wad",
+			"size": 70300,
+			"crc": 1305298389,
+			"md5": "c9099d608e700a0f9a4fc8491fcc8f88",
+			"sha1": "5debd56850e7d3fd06c64b569c2d00b325f612c5",
+			"sha256": "d82bd1d91ce68285bc3b926c477be621961a3c105e26c8eef80b6aa30abd3f8b"
+		}
+	]
+}

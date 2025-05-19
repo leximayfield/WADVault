@@ -1,0 +1,17 @@
+{
+	"uid": "wheel (b56eef).wad",
+	"name": "The Wheel",
+	"description": "Around and around....",
+	"version": "b56eef",
+	"date": "2013-11-02 15:50:56",
+	"files": [
+		{
+			"filename": "wheel.wad",
+			"size": 52110,
+			"crc": 2237972287,
+			"md5": "9b8a118efcb117a703b7e39686fb9015",
+			"sha1": "b56eefe71152df38f8b6a55414832f1faea45cca",
+			"sha256": "e5c173340e0065ed2cbe525ad0407bf48173c8f9b27308f4e69c318b74419b1c"
+		}
+	]
+}

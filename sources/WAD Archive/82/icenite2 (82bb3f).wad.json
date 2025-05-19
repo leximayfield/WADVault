@@ -1,0 +1,17 @@
+{
+	"uid": "icenite2 (82bb3f).wad",
+	"name": "Ice Nightmare 2",
+	"description": "Tough intricate level with a unique ending.",
+	"version": "82bb3f",
+	"date": "2013-11-02 15:36:50",
+	"files": [
+		{
+			"filename": "icenite2.wad",
+			"size": 172366,
+			"crc": 2617171843,
+			"md5": "a07ae66b21dc7ae94383c9a7a6a652b4",
+			"sha1": "82bb3fd149a40195e44a6103f461386bf02f6ecf",
+			"sha256": "3c51dc776e8d869bb8a1022776d4efb73947d7e9be5398005f1803fb677813e6"
+		}
+	]
+}

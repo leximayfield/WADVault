@@ -1,0 +1,17 @@
+{
+	"uid": "grendel2 (4f550b).wad",
+	"name": "Breathing Space",
+	"description": "You managed to fight your way through the main level of the base, making your escape down the primary air return shaft. Now you're crawling through the base's air plant, hoping to make it through the air ducts and the condenser, and get out into the storage sublevels. If you can get to the reactor room, you should be able to set the reactor to blow, which will sterilize the whole base for you and neutralize the threat. You THINK you should be able to escape through the emergency cooling wastewater duct.....",
+	"version": "4f550b",
+	"date": "2015-12-07 10:38:56",
+	"files": [
+		{
+			"filename": "grendel2.wad",
+			"size": 160162,
+			"crc": 328707638,
+			"md5": "e33bd1e6585a7b533e07e0d1a508c38c",
+			"sha1": "4f550b26643926a93b2943115ffe44e5720d1813",
+			"sha256": "60591a850e03187212770012c9250fd30c628340d8c33ed59da3a039cba9e297"
+		}
+	]
+}

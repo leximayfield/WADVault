@@ -1,0 +1,16 @@
+{
+	"uid": "pddm2.wad",
+	"name": "Blue Death",
+	"description": "My second DM wad, with a special touch. I never played this map w/ other players, so I don't know if it's good or bad. Only 7 textures from Doom2. I made this wad last year.",
+	"date": "2014-12-15 22:15:42",
+	"files": [
+		{
+			"filename": "pddm2.wad",
+			"size": 111585,
+			"crc": 2559875421,
+			"md5": "65c68481cac2ecec11c6c103c6e60ee5",
+			"sha1": "6cf49f92d5ee9c9283b6a559716835250bf04605",
+			"sha256": "a0a2d3936737037d1ac2a93b2ecb2b63084adb73773f9d7a8e543efa7c3e4b9b"
+		}
+	]
+}

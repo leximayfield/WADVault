@@ -1,0 +1,17 @@
+{
+	"uid": "par-002c (593bd4).wad",
+	"name": "Tombstone Deathmatch",
+	"description": "Most deathmatch PWADs I've seen are pretty pathetic. They usually consist of a lame arena type of set up with weapons/ammo wall-to-wall.",
+	"version": "593bd4",
+	"date": "2013-11-02 15:18:40",
+	"files": [
+		{
+			"filename": "par-002c.wad",
+			"size": 70781,
+			"crc": 1755371556,
+			"md5": "474714102c2cf8a0c3525c9343cbab99",
+			"sha1": "593bd4d09b247cf706069f7cde787957beca28f3",
+			"sha256": "6471d21ca72a61d16dc52ee95a57062221a281d02783a0af3ca351f6d82c523a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "FARSIDE.wad",
+	"name": "The Farside of Titan",
+	"description": "Given your success with the UAC mining base and the Anomaly investigation, it was inevitable that you get picked for this foray into the Titan Farside Research Base. Oh well. Rumours have it that some prototypes of alien technology are being tested here. Please investigate and report.",
+	"date": "2014-12-18 22:24:22",
+	"files": [
+		{
+			"filename": "FARSIDE.wad",
+			"size": 377820,
+			"crc": 1125153306,
+			"md5": "857933d2018470d49a15381f34c124b6",
+			"sha1": "a1d5490e22ee59edba55d521be1ee18108fc7534",
+			"sha256": "55e40715b49c201ea035eef00b5ece40243ca217a56b20c1fb7625c7103ac277"
+		}
+	]
+}

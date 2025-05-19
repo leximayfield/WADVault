@@ -1,0 +1,16 @@
+{
+	"uid": "MTDOOM (7fe6b1).wad",
+	"name": "Mt Doom Wad",
+	"version": "7fe6b1",
+	"date": "2013-11-02 15:25:32",
+	"files": [
+		{
+			"filename": "MTDOOM.wad",
+			"size": 178587,
+			"crc": 1973636046,
+			"md5": "6f7acca5df934e6a1d36d0eddfa40849",
+			"sha1": "7fe6b12689a655a8c599a1ce0730127f05b7234e",
+			"sha256": "09171f3a1df1e823f2625d5395c73b8895951847e6a9f93b77c1405791cc423c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ABADDON (50a6f1).wad",
+	"name": "The Abaddon",
+	"description": "This is one of the first few maps I made for Doom 2 back in late 2010. It's a medium sized, hellish themed map which shouldn't be too difficult to beat. This was originally supposed to be part of a PWAD that I am currently working on but it isn't on par with my other maps anymore so I decided to scrap it and replace it with something else. I'm uploading it on here as a single level WAD and hopefully you guys can find some enjoyment out of it.",
+	"version": "50a6f1",
+	"date": "2014-12-21 14:18:15",
+	"files": [
+		{
+			"filename": "ABADDON.wad",
+			"size": 459777,
+			"crc": 37463562,
+			"md5": "442560fc9277e9d261e71b4765091034",
+			"sha1": "50a6f14be593208775672b19d9c006dc0a7d9691",
+			"sha256": "875228be9f08567994e9e4781613d784c8309a725938320f5c7d17b97b40429a"
+		}
+	]
+}

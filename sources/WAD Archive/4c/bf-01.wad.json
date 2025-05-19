@@ -1,0 +1,16 @@
+{
+	"uid": "bf-01.wad",
+	"name": "My First UAC Base",
+	"description": "This map is based off of some random ideas in my head. I made up the map along the way.",
+	"date": "2014-12-21 16:56:57",
+	"files": [
+		{
+			"filename": "bf-01.wad",
+			"size": 250354,
+			"crc": 88539511,
+			"md5": "a7d50aa3d2d5140ade66764733a0d100",
+			"sha1": "4c7178fca412d90228bedfbaae44f141da3e7f60",
+			"sha256": "0397cd24fbdf578cd8d9e1af6e63498e1f72836cf41725c508403a025b8536f2"
+		}
+	]
+}

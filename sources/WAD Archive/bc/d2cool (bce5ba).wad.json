@@ -1,0 +1,17 @@
+{
+	"uid": "d2cool (bce5ba).wad",
+	"name": "D2COOL",
+	"description": "An excellent deathmatch level for Doom II. We think it offers the best gameplay around - try it and see !",
+	"version": "bce5ba",
+	"date": "2016-02-07 20:26:25",
+	"files": [
+		{
+			"filename": "d2cool.wad",
+			"size": 147939,
+			"crc": 3672363426,
+			"md5": "5af5b3e7bc2eccad884fd3d2ca4cb1a8",
+			"sha1": "bce5ba9a04ab66b5428451fb86eca0e29ec81524",
+			"sha256": "8ace093a8a1f65389f7d38f024e78b98161fd9fad6583b260bd529afe4953fb4"
+		}
+	]
+}

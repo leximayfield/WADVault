@@ -1,0 +1,17 @@
+{
+	"uid": "dps (8df21f).wad",
+	"name": "Data Processing Station",
+	"description": "Simple wad for doom.exe (Should work with all and every one of the ports)",
+	"version": "8df21f",
+	"date": "2018-04-18 21:34:39",
+	"files": [
+		{
+			"filename": "dps.wad",
+			"size": 115811,
+			"crc": 3534267292,
+			"md5": "d6a9dd751b48d9069bf7e6ad8f54391d",
+			"sha1": "8df21fa0a3ed2dde14b338eceea259ec7a65f54b",
+			"sha256": "1c9fd5ece3f4e47c74ea2ffd1093dec8f8a74d6e27850395ba611d1893709ec8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "zbludv41 (384150).wad",
+	"name": "ZBlooD",
+	"description": "After two HD failures (one was defective the other I bought had CRC errors) We finally a new version.",
+	"version": "384150",
+	"date": "2013-04-20 11:49:02",
+	"files": [
+		{
+			"filename": "zbludv41.wad",
+			"size": 29253272,
+			"crc": 632523686,
+			"md5": "c07709ecec5a038ae22abc0f25be43fc",
+			"sha1": "384150d1fcc9149a47b14fcfb967026fe16e690f",
+			"sha256": "d10b47a5d1e460e06080e39fa5213c1d71ec8ff7ff0569cb83e5857e1f0f6e3d"
+		}
+	]
+}

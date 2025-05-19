@@ -1,0 +1,17 @@
+{
+	"uid": "SWTCHRM (5e9a8b).wad",
+	"name": "Switcheroom",
+	"description": "The idea was to remake a map from one episode, but as if it had appeared in another episode.",
+	"version": "5e9a8b",
+	"date": "2018-03-28 00:15:16",
+	"files": [
+		{
+			"filename": "SWTCHRM.wad",
+			"size": 5374973,
+			"crc": 2223925883,
+			"md5": "3fd250d10b6641a428d03e3d37ec9f79",
+			"sha1": "5e9a8bc9ade4248a1079a45c70e26e5e1a7f171f",
+			"sha256": "8ca231c35899bff1e477bc673c26b18f82ce355bf23f7e17c453ea1ae3aa6749"
+		}
+	]
+}

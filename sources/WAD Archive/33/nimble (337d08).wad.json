@@ -1,0 +1,17 @@
+{
+	"uid": "nimble (337d08).wad",
+	"name": "NIMBLE.WAD",
+	"description": "Not my first level, but the first one that I consider playable enough to release. It's a smallish outdoor level with lots of catwalks.",
+	"version": "337d08",
+	"date": "2013-11-02 15:45:33",
+	"files": [
+		{
+			"filename": "nimble.wad",
+			"size": 90356,
+			"crc": 215755059,
+			"md5": "d9d9debaa0825f295ab4ee6206290dad",
+			"sha1": "337d08c6256c100b8fc5963f9eec6957499b6ca7",
+			"sha256": "e83dbc274cbf0ca3c6cb88dab3a51de23767ce5a576f6b14e51fff9195459335"
+		}
+	]
+}

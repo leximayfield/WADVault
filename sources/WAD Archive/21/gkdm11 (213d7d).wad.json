@@ -1,0 +1,16 @@
+{
+	"uid": "gkdm11 (213d7d).wad",
+	"description": "Doom I AND Doom ][ DeathMatch only level. Because it's compatible with both games it doesn't matter which game everyone uses. (fe: you could deathmatch with someone using doom 1 while you use doom 2)",
+	"version": "213d7d",
+	"date": "2014-01-07 21:50:32",
+	"files": [
+		{
+			"filename": "gkdm11.wad",
+			"size": 284656,
+			"crc": 1425704443,
+			"md5": "9b584f40e53fb14cb47cb87cace7d115",
+			"sha1": "213d7d5a17b4b0c888584cb6d6dbdf526ca3e473",
+			"sha256": "09496acf0ac6b7adcbd178e2014823ad8d6b6b9bcf9b2b141c612de315c1cc86"
+		}
+	]
+}

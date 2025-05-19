@@ -1,0 +1,16 @@
+{
+	"uid": "icar2015.wad",
+	"name": "ICAR2015",
+	"description": "All levels are designed for vanilla Doom2 + Icarus.wad Recommended engines: prBoom-plus with \"-complevel 2\" prboom-plus -complevel 2 -file ICARUS.WAD ICAR2015.WAD",
+	"date": "2015-10-02 08:55:08",
+	"files": [
+		{
+			"filename": "icar2015.wad",
+			"size": 2928326,
+			"crc": 2733651857,
+			"md5": "224e16f49e4184ba883ae60693258b51",
+			"sha1": "f6dda209d3fa90761a5ea58e810e92e483ae37bb",
+			"sha256": "9db3e0c000d6dcd6c17fa26d69de1520b5a0ee3928045cb53824c501a36f3fd7"
+		}
+	]
+}

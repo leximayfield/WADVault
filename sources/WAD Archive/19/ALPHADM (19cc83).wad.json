@@ -1,0 +1,17 @@
+{
+	"uid": "ALPHADM (19cc83).wad",
+	"name": "Alphadm.wad V1.0",
+	"description": "Levels from the Doom Alpha with some stuff thrown in to make them deathmatch playable.",
+	"version": "19cc83",
+	"date": "2015-12-09 23:40:42",
+	"files": [
+		{
+			"filename": "ALPHADM.wad",
+			"size": 1814440,
+			"crc": 4133987787,
+			"md5": "f403501fe79ccc6be07b6a02afc830c0",
+			"sha1": "19cc83dfe6ade70c61aec7456947c5571e22b811",
+			"sha256": "0c974e0f7856098f1de7ee355d09a11a6c7370ecba79c542987afc0cc33f9d96"
+		}
+	]
+}

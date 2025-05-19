@@ -1,0 +1,16 @@
+{
+	"uid": "dg93_ss.wad",
+	"name": "SPACE STATION!",
+	"description": "Hello doomers, this is Space Station, a deathmatch level designed for no more than 4 players. The action is all indoors and the map size is relatively small.",
+	"date": "2014-12-15 21:53:02",
+	"files": [
+		{
+			"filename": "dg93_ss.wad",
+			"size": 615415,
+			"crc": 218034593,
+			"md5": "7f885026c97c2cf5f7ba935ade483b48",
+			"sha1": "1abbefd59875c2d620035ec30e9626eaa9e6db40",
+			"sha256": "23720f1a9764b26fbc959c1ab54f7f0923cbd74da493057661cfade122b3a575"
+		}
+	]
+}

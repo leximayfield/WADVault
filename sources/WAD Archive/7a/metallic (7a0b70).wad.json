@@ -1,0 +1,17 @@
+{
+	"uid": "metallic (7a0b70).wad",
+	"name": "Metallic",
+	"description": "Just a bunch of stuff I thought of. Name comes from the primary wall texture.",
+	"version": "7a0b70",
+	"date": "2015-12-29 13:32:01",
+	"files": [
+		{
+			"filename": "metallic.wad",
+			"size": 173764,
+			"crc": 3614759575,
+			"md5": "8bfbf50b5ee46f3e3ea1cf1b17f042fc",
+			"sha1": "7a0b7087e9444926368a99e274aa4255c6f408d0",
+			"sha256": "e2ab5240e14b9f42f3a74a50b26bf2e265178c660d686330aa10d94359399397"
+		}
+	]
+}

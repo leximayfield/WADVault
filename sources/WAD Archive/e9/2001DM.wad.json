@@ -1,0 +1,16 @@
+{
+	"uid": "2001DM.wad",
+	"name": "2001 A DEATHMATCH ODYSSEY",
+	"description": "The precursor to 2001 A Doom Odyssey. 2001 A Deathmatch odyssey consists of 8 deathmatch levels that replace Episode 1. Music included is a random selection of songs which will be used in the full 2001 A Doom Odyssey megawad. These levels are designed for -altdeath play, without it weapons won't respawn and Ammo will run out. Style of the levels differ alot from dark, dirty to clean and hi-tech. E1M8 was only my third paper planned level. Works with Doom 1 version 1.666 or over. V1.9 or sourceport recomended.",
+	"date": "2013-04-18 23:47:50",
+	"files": [
+		{
+			"filename": "2001DM.wad",
+			"size": 725372,
+			"crc": 850727325,
+			"md5": "87efb7a0c864b5f29d41fad137795bd0",
+			"sha1": "e975aa2f6e91e70e71b9be0af9165610e94c7c51",
+			"sha256": "05b411c93724df37e98b498737f4f3a4703642f5a4124107e0afad61f7a56562"
+		}
+	]
+}

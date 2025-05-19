@@ -1,0 +1,17 @@
+{
+	"uid": "illumi (1db57a).wad",
+	"name": "Illuminatus v1.0.0",
+	"description": "This is my first megawad Illuminatus. It took me a while to get the full version out due to problems with the beta testing as well as some personal things, but now I finally got the full official version out. I did release a beta of the Doom WAD, but it wasn't finished as it also had many problems. In the future, I might update this WAD with bug fixes when it comes to playing this WAD with DOSBox and classic source ports. I do hope you all enjoy this megawad.",
+	"version": "1db57a",
+	"date": "2017-08-09 22:57:04",
+	"files": [
+		{
+			"filename": "illumi.wad",
+			"size": 13061662,
+			"crc": 1493642380,
+			"md5": "4013b37cc5239c13bc18b05e575ef2cf",
+			"sha1": "1db57a2aff1d482de3349eacb361b5f7249b2faf",
+			"sha256": "efa6278c6310c55e16f399bb002933ef77a5654010d6072ec6b9af66574bea89"
+		}
+	]
+}

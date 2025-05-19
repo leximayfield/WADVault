@@ -1,0 +1,16 @@
+{
+	"uid": "TMPLOSIN.wad",
+	"name": "Temple of Sin",
+	"description": "A Hell level cut from my megawad. I made this map in 1997, and it had a few updates as the resources changed. This was the first level of Hell, so it's pretty tough, but can make a go of it with pistol start.",
+	"date": "2019-03-06 21:42:19",
+	"files": [
+		{
+			"filename": "TMPLOSIN.wad",
+			"size": 187367,
+			"crc": 915838109,
+			"md5": "726d44346cd98734e3d009ee4f14fcef",
+			"sha1": "a3613e3de1a6ab515b082024d8ab94109da4f182",
+			"sha256": "1dc9d291c834d880504abb8f1a101123896f4656d860ede6714682e77db99724"
+		}
+	]
+}

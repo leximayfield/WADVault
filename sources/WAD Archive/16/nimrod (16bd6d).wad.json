@@ -1,0 +1,17 @@
+{
+	"uid": "nimrod (16bd6d).wad",
+	"name": "Ni'mRoD - IXNAY on the HOMBRE",
+	"description": "This PC was from the beginning meant to be mainly DM maps for up to 32 players DeathMatch, as it progressed though it became mainly focused on SP and COOP. Some DM features are included but some maps are very poorly supported for this. Map01-04 should be the best though. There's some new monsters aswell as 7 all new weapons.",
+	"version": "16bd6d",
+	"date": "2014-10-21 19:13:37",
+	"files": [
+		{
+			"filename": "nimrod.wad",
+			"size": 21125388,
+			"crc": 3093126277,
+			"md5": "6ba1ab453782d905f860cd646694807b",
+			"sha1": "16bd6d0d380986016d7f0913bfcee329da19ff21",
+			"sha256": "4228681594d987ac057b45ed752ebd03720b06338fb069134bf97484452095bd"
+		}
+	]
+}

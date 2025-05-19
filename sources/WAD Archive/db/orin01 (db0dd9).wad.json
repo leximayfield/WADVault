@@ -1,0 +1,17 @@
+{
+	"uid": "orin01 (db0dd9).wad",
+	"name": "Orin's 1st DOOM ][ Level",
+	"description": "It may be my first DOOM][ wad, but don't let fool you, it's good, trust me on this one. It's not my first wad that I've ever made and it's much better that most I've seen on the internet (especially the aol libraries.)",
+	"version": "db0dd9",
+	"date": "2013-11-06 22:30:41",
+	"files": [
+		{
+			"filename": "orin01.wad",
+			"size": 85903,
+			"crc": 154444166,
+			"md5": "ab7d7943a90098e0f104d5c4a506e694",
+			"sha1": "db0dd92a104339be15414fc41ed273b50eb8e922",
+			"sha256": "163abcfd76cbc0994f034b364558209b6fd49d7723f004fac8bca26bc4828be1"
+		}
+	]
+}

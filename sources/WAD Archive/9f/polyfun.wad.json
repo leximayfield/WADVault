@@ -1,0 +1,16 @@
+{
+	"uid": "polyfun.wad",
+	"name": "Polyobject Fun",
+	"description": "Very small map with mad polyobjects. You have to avoid them or you'll get crushed. If you're smart, you'll understand quickly how to reach the exit.",
+	"date": "2014-12-29 09:00:57",
+	"files": [
+		{
+			"filename": "polyfun.wad",
+			"size": 42103,
+			"crc": 3605299477,
+			"md5": "e23eb4e34a165df9e552d36cd76725b8",
+			"sha1": "9f9feb6c3fb766bca2ef6469fdc06831ab290987",
+			"sha256": "70570d510cb8f2ad4ddaa459245578765f2907ed798a278dfaa9a73858c50e3f"
+		}
+	]
+}

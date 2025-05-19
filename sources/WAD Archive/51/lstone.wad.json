@@ -1,0 +1,16 @@
+{
+	"uid": "lstone.wad",
+	"name": "The Lost One",
+	"description": "The two maps included in this wad file show off what is possible with the Edge engine.",
+	"date": "2015-01-05 16:39:38",
+	"files": [
+		{
+			"filename": "lstone.wad",
+			"size": 3702464,
+			"crc": 3044353351,
+			"md5": "59b019900fffe29d95811e6d3d1e46f9",
+			"sha1": "51443e5b686fb703959d3891b3ee0b38785e22c9",
+			"sha256": "15a31eea21eb85a4a78014f2f388e2535d97945cebe79ff6f0470572f228bd2c"
+		}
+	]
+}

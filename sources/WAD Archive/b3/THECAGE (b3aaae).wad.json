@@ -1,0 +1,17 @@
+{
+	"uid": "THECAGE (b3aaae).wad",
+	"name": "The Cage",
+	"description": "A conglomeration of things learnt using DEU and DCK.",
+	"version": "b3aaae",
+	"date": "2013-11-04 20:14:26",
+	"files": [
+		{
+			"filename": "THECAGE.wad",
+			"size": 67476,
+			"crc": 1538102784,
+			"md5": "13948cd436d8cddbe342f14065b38279",
+			"sha1": "b3aaae9dd1b000fcf1eb4ac0ad890ae5e3a23ed8",
+			"sha256": "e9e30dd2c91665b4eb3d52fa052f8d9d97782f6285459505b63a504b72a3c93f"
+		}
+	]
+}

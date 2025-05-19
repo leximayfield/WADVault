@@ -1,0 +1,17 @@
+{
+	"uid": "jerky2 (a05971).wad",
+	"name": "Jerky Boys (1&2) Sounds",
+	"description": "Sounds from both Jerky Boys CD's.",
+	"version": "a05971",
+	"date": "2014-01-11 11:19:58",
+	"files": [
+		{
+			"filename": "jerky2.wad",
+			"size": 2075586,
+			"crc": 208248088,
+			"md5": "7a77eae101553049ca73f886a45379a9",
+			"sha1": "a05971d90ede5d6f8686b09b9a89356b1a79593a",
+			"sha256": "ba2b42e8b72aead96c1e584b0878ba6eb41fa1e32d0c5e1c323157143aae32a6"
+		}
+	]
+}

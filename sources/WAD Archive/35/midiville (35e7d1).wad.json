@@ -1,0 +1,17 @@
+{
+	"uid": "midiville (35e7d1).wad",
+	"name": "Midiville",
+	"description": "A fairly straightforward and non-linear Boom format map, set in the central business district of the heavily overrun city of Midiville. The name comes from a stewboy MIDI, which you'll hear during gameplay. :) My submission to the Vinesauce Mapping Contest 2018. It was speedmapped in about 5 hours starting 12AM AWST on March 1st, with mere hours to go before the contest deadline. The map is pretty short as a result of the time pressure, with only two keys to grab and just under a hundred monsters. This version of the WAD is the official release, as the version submitted to the contest was GZDoom- exclusive, due to the manc/arach/cyberdemon sector triggers being set up in GZDoom's ZMAPINFO lump. It's also had some slight rebalancing to address some potential gameplay issues. Tested in PrBoom+, Eternity Engine, and GZDoom. For best experience run with GZDoom.",
+	"version": "35e7d1",
+	"date": "2019-03-06 21:29:41",
+	"files": [
+		{
+			"filename": "midiville.wad",
+			"size": 888856,
+			"crc": 925071543,
+			"md5": "1e737e03ec1f6d4aee1272d7c5c7d4a9",
+			"sha1": "35e7d1291756a787009aa7e09dc2abb8fd039080",
+			"sha256": "f18a97e9ece0896017b5364a12e5c87ae90450e8dacdc628fed44c2b94a82a3b"
+		}
+	]
+}

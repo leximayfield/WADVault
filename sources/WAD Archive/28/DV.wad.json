@@ -1,0 +1,16 @@
+{
+	"uid": "DV.wad",
+	"name": "Deus Vult",
+	"description": "My first map. A large, two-themed level created for Co-op, inspired by Hell Revealed and Alien Vendetta. Emphasizes large, well-choreographed fights. Exceptionally calibrated for Single Player.",
+	"date": "2013-04-19 02:25:29",
+	"files": [
+		{
+			"filename": "DV.wad",
+			"size": 15579841,
+			"crc": 1219993242,
+			"md5": "2f685aec0dc2bda0a504dc5738517ff4",
+			"sha1": "2888dffd0b2272e9648e18c62495c9fcaf850987",
+			"sha256": "7590204a40e84051e351700b41b87e01a9ddfadd5541498a0114173b74b97deb"
+		}
+	]
+}

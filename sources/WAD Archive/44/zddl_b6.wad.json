@@ -1,0 +1,16 @@
+{
+	"uid": "zddl_b6.wad",
+	"name": "ZDaemon Duel League Beta 6 (2009)",
+	"description": "This is the sixth beta of the ZDaemon Duel League wad for the 2009 season. It currently contains 16 maps, but that number will change pending the final verdict on the map list. All servers should set the first level of the maplist to map00. This map is the map selection level, it allows players to view a screen shot of each map and informs them what map number each one is. The map selection level also informs new players on how to select a map via the callvote command. Please note, just because a level is included with this wad does not mean that it will be in the final version. Maplist: Map00 (Selection map) Map01 (Dwango5.wad map 01) Map02 (Dwango5.wad map 02) Map03 (Promap doom2.wad map 01) Map04 (Lazurus1j.wad map 04) Map05 (SSL2.wad map 01) Map06 (Promap dwango6.wad map 01) Map07 (Promap dwango5.wad map 07) Map08 (Pobla8.wad map 01) Map09 (King1.wad map 01) Map10 (Boo.wad map 01) Map11 (Dweller2.wad map 11) Map12 (Moo2d.wad map 01) Map13 (Dweller2.wad map 01) Map17 (Promap Doom2.wad map 07) Map23 (Judas23_.wad map 23) Note: Some of the maps have been modified from their original form to accommodate the tournament. (i.e. camping areas changed / removed) Map00 and the changes to Map07 and Map17 were made by Madgunner. The changes to Map03 were made by Doomination, Rottking, and Madgunner.",
+	"date": "2013-04-19 01:31:01",
+	"files": [
+		{
+			"filename": "zddl_b6.wad",
+			"size": 10662243,
+			"crc": 1296187513,
+			"md5": "4f5f28967faf3a97799388f234dcb816",
+			"sha1": "448c476c610843df886dd0b175bd2977b64b5b15",
+			"sha256": "2ff2eddb9ab017f8701375fee2580cca37ba186a23750da152b5715e298226d3"
+		}
+	]
+}

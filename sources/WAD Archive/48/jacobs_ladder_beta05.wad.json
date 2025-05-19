@@ -1,0 +1,16 @@
+{
+	"uid": "jacobs_ladder_beta05.wad",
+	"name": "Jacob's Ladder",
+	"description": "Jacob's Ladder map select screen (map00 of this compilation), made with Doom Builder 2, Slade 3, & Paint.NET Jacob's Ladder is a duel compilation consisting of 64 maps created by various authors.",
+	"date": "2013-04-21 20:48:15",
+	"files": [
+		{
+			"filename": "jacobs_ladder_beta05.wad",
+			"size": 35410501,
+			"crc": 147250920,
+			"md5": "d61a258b72c09234355ea629a2e4de00",
+			"sha1": "482194a4bcf72c161bc042074db7570c2dcd6e37",
+			"sha256": "bdc16641543ef60c7d747714d7a61b075a66f7134ec32d9d8bb07e5114406546"
+		}
+	]
+}

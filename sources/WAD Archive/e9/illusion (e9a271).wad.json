@@ -1,0 +1,17 @@
+{
+	"uid": "illusion (e9a271).wad",
+	"name": "Realm of Illsuion",
+	"description": "Deep in the heart of the Phobos Moon Base, you find a strange teleport pad. With demons and spectres hot on your tail, your only hope is this strange device. Stepping onto it, you find yourself in a strange new place. Things are not as they seem here - an innocent wall may hide hell-spawn, or a new weapon. Always watch your back....",
+	"version": "e9a271",
+	"date": "2013-11-04 19:20:27",
+	"files": [
+		{
+			"filename": "illusion.wad",
+			"size": 105094,
+			"crc": 1132223463,
+			"md5": "5a872150320a6e095c08e2bfb4535246",
+			"sha1": "e9a2715e1c9771159622d9e59ba762c732e33689",
+			"sha256": "26d8308f194600cfdbef247c5af27b1bb6f1aac3a9e1a6b858fe89e6f4f3a7f3"
+		}
+	]
+}

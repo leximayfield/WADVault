@@ -1,0 +1,17 @@
+{
+	"uid": "castle5 (4e1980).wad",
+	"name": "Castle from Hell ! (CASTLE5.WAD from CASTLE5.ZIP)",
+	"description": "This level should challenge you to no end. Many tricks and traps, and a particularly annoying puzzle to finish the game. Many hours were spent removing visplane problems, but in the ensuing hours I've played, it has never crashed. Best played as a single player level, but DM does work, trust me. Have fun !!!!!!!!!!! Hint : Remember the word \"backtrack\"...It might just come in handy.",
+	"version": "4e1980",
+	"date": "2014-12-13 17:51:39",
+	"files": [
+		{
+			"filename": "castle5.wad",
+			"size": 215634,
+			"crc": 691032116,
+			"md5": "0c15d9745cdf1c0c0c30cc3a5a56e21f",
+			"sha1": "4e19800e3554c1a1271519807298346533a17cc9",
+			"sha256": "afac9b839c208520a3abdee729fa5dcd330104b696be6b227a58626cc7d6e19a"
+		}
+	]
+}

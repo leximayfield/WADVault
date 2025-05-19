@@ -1,0 +1,17 @@
+{
+	"uid": "mentzer1 (72aa7c).wad",
+	"name": "Mentzer1.WAD (For Doom 2)",
+	"description": "Lots of time and effort was put into the construction of this wad (and the entire series). This is NOT some slapped together mess - Have fun :-) This is a Deathmatch Wad created for Doom 2. All Weapons are available and no monsters are present. Ammo, health, armor, and weapons are spread out to provide for constant action. This is the first in a series of deathmatch wads for Doom 2.",
+	"version": "72aa7c",
+	"date": "2016-02-07 20:26:38",
+	"files": [
+		{
+			"filename": "mentzer1.wad",
+			"size": 73644,
+			"crc": 3773228792,
+			"md5": "b5b0fedd8ab7f8e4856f1fa5738d4beb",
+			"sha1": "72aa7c78bd5ec4b2e3644f3f5dacfd4a47506718",
+			"sha256": "4d08afc3916316908ba71136641d84eaa18b93f2e5dab342ac648aee7b1a3ce7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hives.wad",
+	"name": "The Hives",
+	"description": "<--- I hate this trying to fill this line, but many people like a bit of story, so I better think of one >:-<",
+	"date": "2013-07-09 20:22:52",
+	"files": [
+		{
+			"filename": "hives.wad",
+			"size": 119351,
+			"crc": 3944168941,
+			"md5": "5e1021525bdd6d38253d7ed17d647adf",
+			"sha1": "07ccaa876ed24673e4a3a9db330d9c6a338da418",
+			"sha256": "3c8876ef114c2b30334d4d82900e373ac83d9de6eef5cbab68b5ee92978f7943"
+		}
+	]
+}

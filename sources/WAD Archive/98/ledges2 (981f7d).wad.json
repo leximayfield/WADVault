@@ -1,0 +1,17 @@
+{
+	"uid": "ledges2 (981f7d).wad",
+	"name": "LEDGES2.WAD",
+	"description": "This patch file is for E1M1. This is the sequal to LEDGES.WAD. It is basically the same as LEDGES.WAD, but it has a different layout, and some new tricks to get the weapons. Again, the level is designed for deathmatch play, and doesnt function well under normal or co-operative mode. The plasma rifle is nicely placed and should cause havoc in your first few matches.",
+	"version": "981f7d",
+	"date": "2013-11-02 15:21:39",
+	"files": [
+		{
+			"filename": "ledges2.wad",
+			"size": 34714,
+			"crc": 3506491307,
+			"md5": "0cee2902e176194f02f2eacb319e00f8",
+			"sha1": "981f7d25b645ff8090979c4a50ccbfea494221fc",
+			"sha256": "babed86977ef629a78347564d50f40fad479bdfdd7d770d40fead69f3c1d600a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "selfish4.wad",
+	"name": "SELFISH4",
+	"description": "Part 4 of the Selfish series for Doom II, this level runs on any port. This level was originally intedned for Plutonia 2 but that project has been dead for 2 years, I'm not going to waste levels for dead projects. It is the smallest map in the Selfish series but certinally the most challenging. The theme is not constant, mainly brown but with a bit of techbase.",
+	"date": "2015-01-14 22:45:21",
+	"files": [
+		{
+			"filename": "selfish4.wad",
+			"size": 190139,
+			"crc": 3816156664,
+			"md5": "186bb10924d65143c2685b2007faba8f",
+			"sha1": "4e3f5943621a8f229cea7c0233bac4cd06c35d0c",
+			"sha256": "0ead10a3204d089e48dc79ad9c4a6b0b93fc8c8cabeeb1ee4aa58f0d48444bbb"
+		}
+	]
+}

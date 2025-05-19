@@ -1,0 +1,17 @@
+{
+	"uid": "princtn1 (954cde).wad",
+	"name": "PRINCTN1.WAD",
+	"description": "This level was built using the actual floorplans of part of Wilson College, a dorm complex at Princeton University. The design features two large courtyards along with many of the dark hallways found in the buildings here. The dining hall is a particularly unpleasant area (both in this wad file and in reality.) For those familiar with Princeton, the buildings included are Clapp Hall, 1938 Hall, and Wilcox Hall.",
+	"version": "954cde",
+	"date": "2013-11-02 15:08:04",
+	"files": [
+		{
+			"filename": "princtn1.wad",
+			"size": 94122,
+			"crc": 1578259482,
+			"md5": "dd80837777e65ca9940367aee3930004",
+			"sha1": "954cde748d157a6dee726f55cb89bb54528125c8",
+			"sha256": "84c1be3dd1e61ff631641efa1abca42072d5bad0c2cd74714c8557e3f079bfef"
+		}
+	]
+}

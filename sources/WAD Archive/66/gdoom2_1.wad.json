@@ -1,0 +1,16 @@
+{
+	"uid": "gdoom2_1.wad",
+	"name": "Gatchaman Doom:Version 2.1 - a TC for ULTIMATE DOOM",
+	"description": "This is (hopefully) the final revision of",
+	"date": "2014-12-14 20:46:04",
+	"files": [
+		{
+			"filename": "gdoom2_1.wad",
+			"size": 2583828,
+			"crc": 3476145782,
+			"md5": "059d5d361e15561f28d548c2b7abe4b1",
+			"sha1": "66689e7173d618938991f07d6926fa707c518e01",
+			"sha256": "ac84941c374393208bdae37c548cf12196d770b38ee8458d954d14a4566d00b2"
+		}
+	]
+}

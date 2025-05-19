@@ -1,0 +1,16 @@
+{
+	"uid": "db_pps.wad",
+	"name": "Phobos Power Station",
+	"description": "Another good old fashioned E1 type map",
+	"date": "2014-12-13 12:44:47",
+	"files": [
+		{
+			"filename": "db_pps.wad",
+			"size": 184281,
+			"crc": 3506359184,
+			"md5": "ce2d15d6cb402451a28e23fa40b17ec6",
+			"sha1": "32abf724ca729f92c48d3e602256097538a1fd7b",
+			"sha256": "eaaa617d388517c7fe63dd0639b33037a8b36679b5a70e2bc912ab96f1e48586"
+		}
+	]
+}

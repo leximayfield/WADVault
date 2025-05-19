@@ -1,0 +1,17 @@
+{
+	"uid": "dmcastle (df215d).wad",
+	"name": "CASTLE.WAD",
+	"description": "Outside level with a small castle.. fun for deathmatchs and a sercet sniper stuff and a secret room FULL of stuff",
+	"version": "df215d",
+	"date": "2013-11-02 16:49:55",
+	"files": [
+		{
+			"filename": "dmcastle.wad",
+			"size": 137314,
+			"crc": 2538057189,
+			"md5": "0b07b448e708024f1ca3c9aabbc3ee00",
+			"sha1": "df215dbcb8fdf271d5fb3dd24c2a791b05f8b21d",
+			"sha256": "58a370aa33eb703dc5673e96b1f1838b65e849ec7e5366d338b0a7fe2d8ce7a7"
+		}
+	]
+}

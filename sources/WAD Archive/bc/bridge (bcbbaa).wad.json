@@ -1,0 +1,17 @@
+{
+	"uid": "bridge (bcbbaa).wad",
+	"name": "Days of Xornox The Bridge",
+	"description": "This is a wad that has 8 levels. This is the bridge to Xornox's world. It consists of mostly bosses. They are regular doom2 enemies made into hard bosses. I say that from level 4 and up the bosses become harder. The 4th boss is the hardest boss to beat I think. Lv's 1-7 are the bosses Lv 8 is the enterance to the Fire Palace.",
+	"version": "bcbbaa",
+	"date": "2014-12-15 23:05:58",
+	"files": [
+		{
+			"filename": "bridge.wad",
+			"size": 706026,
+			"crc": 865623821,
+			"md5": "41b1a472d190beafecfd43fe957e4c7f",
+			"sha1": "bcbbaae44f25ad510c7e9e2f3b6d531fbbdddc6d",
+			"sha256": "88c2c93217ad167a1e8f4650b3aa5ed44cff9bcc5d4a34ac31157fa64be6c41f"
+		}
+	]
+}

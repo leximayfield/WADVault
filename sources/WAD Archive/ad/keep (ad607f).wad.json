@@ -1,0 +1,17 @@
+{
+	"uid": "keep (ad607f).wad",
+	"name": "The Keep",
+	"description": "I tried to create a level that might have appeared in the Doom 2 game. I paid very close attention to textures to try to attain a very authentic atmosphere. This level is not impossible and is fun to play. Since there are red, yellow, and blue doors, it is not a very good deathmatch level; so I didn't even include deathmatch starts.",
+	"version": "ad607f",
+	"date": "2014-01-07 22:05:52",
+	"files": [
+		{
+			"filename": "keep.wad",
+			"size": 100970,
+			"crc": 1831087791,
+			"md5": "5d2f3dec1de2623192dfc6a824b5e035",
+			"sha1": "ad607f377a2b955954d518475c843d305b866742",
+			"sha256": "4cad9a588d4b2fed90737e5f62d2aa2310fa09c0f4cadb10a90020479a16ee48"
+		}
+	]
+}

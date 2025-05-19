@@ -1,0 +1,17 @@
+{
+	"uid": "labyrnth (3b7f01).wad",
+	"name": "Labyrnth",
+	"description": "Kill everyone in this great Deathmatch WAD.",
+	"version": "3b7f01",
+	"date": "2015-12-07 09:11:00",
+	"files": [
+		{
+			"filename": "labyrnth.wad",
+			"size": 56020,
+			"crc": 697762568,
+			"md5": "92184235e0ec2ab5cc39899928a9a0f5",
+			"sha1": "3b7f017ac435db90796a40c4c679583c8d3e60bb",
+			"sha256": "ebc010cbf64de7d0e615d48c58674b36287971e9d2470c4bbe0d990a364f1a6b"
+		}
+	]
+}

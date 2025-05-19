@@ -1,0 +1,17 @@
+{
+	"uid": "tgrcp1de (8be317).wad",
+	"name": "TGRCP1DE",
+	"description": "TGRCP1 hat 5 Maps, mit neuen Features, und leichteres Setup f\u00fcr offline oder online Spiele!",
+	"version": "8be317",
+	"date": "2014-12-29 17:06:44",
+	"files": [
+		{
+			"filename": "tgrcp1de.wad",
+			"size": 5099637,
+			"crc": 627738265,
+			"md5": "988e9d0e9e92419d156f4b3295d46b16",
+			"sha1": "8be31703a0a04b6664d27a165a9c8f27bd5f4ed1",
+			"sha256": "4f8c9c2d1c5c4ba13dfa096fc870f6586ebdece7e9da633cbb85c221a0798677"
+		}
+	]
+}

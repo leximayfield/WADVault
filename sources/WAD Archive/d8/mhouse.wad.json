@@ -1,0 +1,16 @@
+{
+	"uid": "mhouse.wad",
+	"name": "Monster House",
+	"description": "A family has been forced out of their house by evil monsters. Your job is to go in there and clear the area.",
+	"date": "2015-01-13 21:39:13",
+	"files": [
+		{
+			"filename": "mhouse.wad",
+			"size": 4995360,
+			"crc": 3526194055,
+			"md5": "62c4d4b0b2cd4af402c1ac245edcc85a",
+			"sha1": "d8675e22e1505a6f46c23d36203bcd7fd4808bd6",
+			"sha256": "2ffae0e9c55052d0f1f990807230f2071524d3565ad6383831bd6040dffaa332"
+		}
+	]
+}

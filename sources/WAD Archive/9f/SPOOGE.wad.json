@@ -1,0 +1,16 @@
+{
+	"uid": "SPOOGE.wad",
+	"name": "Spooge",
+	"description": "A large, detailed, single / cooperative player level.",
+	"date": "2015-01-14 23:03:46",
+	"files": [
+		{
+			"filename": "SPOOGE.wad",
+			"size": 143716,
+			"crc": 1464450215,
+			"md5": "7a49e4441a02832570b425a368c52d38",
+			"sha1": "9f59f56e1f2aec8165f57d78cdcea771d8f4aa1b",
+			"sha256": "2ed8f38730a8484df131782c852d685302e485d61eff504ba94df4e0bce68c1a"
+		}
+	]
+}

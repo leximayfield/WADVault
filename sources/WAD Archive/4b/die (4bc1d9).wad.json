@@ -1,0 +1,17 @@
+{
+	"uid": "die (4bc1d9).wad",
+	"name": "Death in Excess",
+	"description": "18 slaughter maps of (mostly) progressive difficulty, not for the faint of heart",
+	"version": "4bc1d9",
+	"date": "2019-11-28 01:56:21",
+	"files": [
+		{
+			"filename": "die.wad",
+			"size": 76969588,
+			"crc": 1439061074,
+			"md5": "65851eb53a2e2c4ce525137bf21b218d",
+			"sha1": "4bc1d9c4b466d0a23d1c086948add68789ae1b32",
+			"sha256": "ad1e06189f41914e76409476d7d8bd0c02d08a09deb92720a2eb3a9c74207dc6"
+		}
+	]
+}

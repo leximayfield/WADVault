@@ -1,0 +1,17 @@
+{
+	"uid": "fullon (59d06a).wad",
+	"name": "FULLON.WAD",
+	"description": "\"FULL ON\" is an exciting addition to DOOM.",
+	"version": "59d06a",
+	"date": "2015-12-07 08:05:40",
+	"files": [
+		{
+			"filename": "fullon.wad",
+			"size": 638455,
+			"crc": 3557198181,
+			"md5": "7a0178d887ca07772c4939f135d4ceb2",
+			"sha1": "59d06a0f3632f2de1f6c4ba6e4b3f1943ce42507",
+			"sha256": "9f4648277fb7fdb3e3c6bf170aa99a00f2615916c659b3ee9f65ec5d219ffd9a"
+		}
+	]
+}

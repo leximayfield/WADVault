@@ -1,0 +1,16 @@
+{
+	"uid": "tstorage.wad",
+	"name": "T_E2M1.WAD",
+	"description": "A good sized level in a type of waste plant. Uses mainly the STARG-texture set. Contains some good architecture and lots of enemies. Note: This level has nothing to do with the original E2M1, I'm just not very creative in naming my levels...",
+	"date": "2014-12-13 17:50:48",
+	"files": [
+		{
+			"filename": "tstorage.wad",
+			"size": 105030,
+			"crc": 2565389271,
+			"md5": "97280d76ac9b56c6787e843db3bef6a6",
+			"sha1": "4a63b1b3d5ad537921487f5c153d9a646335a7ae",
+			"sha256": "3af12bc63f2e5d8304d7ab5b47ac1015778785cd6efc6dd8afb5c723b1f4b7c3"
+		}
+	]
+}

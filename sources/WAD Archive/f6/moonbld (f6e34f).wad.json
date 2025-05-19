@@ -1,0 +1,17 @@
+{
+	"uid": "moonbld (f6e34f).wad",
+	"name": "Moonblood",
+	"description": "Moonblood is a megawad (32 levels) for Doom 2. The Project has started with remastering the levels from my first wad, Eclipse, but the changes became quite big and I decided to turn it into Moonblood (it was initially called Revclipse, then after Reclipse). The levels were most inspired by early Scythe 1 levels, Jenesis, Mano Laikas and DTWID series.",
+	"version": "f6e34f",
+	"date": "2017-12-31 12:44:04",
+	"files": [
+		{
+			"filename": "moonbld.wad",
+			"size": 10946945,
+			"crc": 1701362257,
+			"md5": "e7ce5bc6e368bc0de9e2c943d448111f",
+			"sha1": "f6e34fada09f077fd2b31457006e7a43288c5d1d",
+			"sha256": "3031dda662434099f98778a8f6a31ac2d0c6e40bed844f3d4843501e102e261c"
+		}
+	]
+}

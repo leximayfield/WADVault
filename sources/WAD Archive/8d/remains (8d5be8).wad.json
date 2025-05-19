@@ -1,0 +1,17 @@
+{
+	"uid": "remains (8d5be8).wad",
+	"name": "The Remains of Hell",
+	"description": "Before the first DOOM missions, you were one of the ones \"voluntarily\" sent through the portal that caused so many problems in the first place. You were immediately captured and tortured repeatedly. (long expanse of time skipped) After the end of DOOM 2, with many of the structures destroyed, you were transferred to some underground caverns. During the confusion, you managed to slip a pistol in your pocket. Now, all you have to do is escape, and hopefully find your way back home. (Note: This is a different person than the marine in DOOM, but my drawing skills are inadequate to change the look of him. If anyone can send me new graphics that I like I'll put them in.) This is a completely new DOOM 2 level, it was not a DOOM 1 level that was converted. See the extra info on the bottom for more ramblings.",
+	"version": "8d5be8",
+	"date": "2013-11-02 15:55:44",
+	"files": [
+		{
+			"filename": "remains.wad",
+			"size": 158968,
+			"crc": 1286815005,
+			"md5": "7f8b2558df977b3e578027e7540b4dc2",
+			"sha1": "8d5be8f359bbb8436e56e3905b2c6aaa08dc561d",
+			"sha256": "25d4170f813de907c7249b582d8e385d308865cb35b58ab618fd2afce8b51e95"
+		}
+	]
+}

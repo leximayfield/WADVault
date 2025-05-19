@@ -1,0 +1,17 @@
+{
+	"uid": "yadmpwad (7a8af9).wad",
+	"name": "Yet Another Death Match PWAD (YADMPWAD.ZIP)",
+	"description": "A collection of 7 Deathmatch PWADS for DOOM ][. All of these levels are intended to be played WITHOUT the -nomonsters parm. If you like playing with monsters, you may find these monsters well-placed for death- match play. If you don't like monsters in deathmatch, give it a try for these levels, and you might find yourself thanking that cyberdemon for wasting your opponent just before he could get the BFG...",
+	"version": "7a8af9",
+	"date": "2014-12-15 22:54:32",
+	"files": [
+		{
+			"filename": "yadmpwad.wad",
+			"size": 658569,
+			"crc": 779518524,
+			"md5": "960007ece7060d433d5b1411e9c2adc5",
+			"sha1": "7a8af91ed1e17bafb95a9fd72812b9eeab27a344",
+			"sha256": "5eb5f7f7abea273ed4c2d62c6048608a8969ecb77df8f0dbc0d9379c546d81f1"
+		}
+	]
+}

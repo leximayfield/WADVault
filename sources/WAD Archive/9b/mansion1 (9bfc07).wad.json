@@ -1,0 +1,17 @@
+{
+	"uid": "mansion1 (9bfc07).wad",
+	"name": "Mansion1",
+	"description": "You're in a mansion.",
+	"version": "9bfc07",
+	"date": "2014-01-07 21:49:40",
+	"files": [
+		{
+			"filename": "mansion1.wad",
+			"size": 277728,
+			"crc": 3844635873,
+			"md5": "385fe41ae5ca9f696b5c6b2254235d28",
+			"sha1": "9bfc074cbda5b8cf913dde87f2048b082b46de40",
+			"sha256": "42dc9c5fbde63a0a2fc0e68afb51b39541af0c91679887842cdf453362aff531"
+		}
+	]
+}

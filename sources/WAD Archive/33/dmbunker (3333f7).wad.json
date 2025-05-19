@@ -1,0 +1,17 @@
+{
+	"uid": "dmbunker (3333f7).wad",
+	"name": "Undergound Military Bunker",
+	"description": "Trapped in the enemy bunker, your only goal is to get out alive. Such a simple plan, such an impossible feat.",
+	"version": "3333f7",
+	"date": "2013-11-02 15:24:33",
+	"files": [
+		{
+			"filename": "dmbunker.wad",
+			"size": 156998,
+			"crc": 107309718,
+			"md5": "153b2cffedfe4801851887c0a41ea848",
+			"sha1": "3333f795130e26bb61d80cefc31ce0885b6e2594",
+			"sha256": "f6735d90f471265228dfa83b5d9f631e5690d1fe00a2a094716feb4b8923ecef"
+		}
+	]
+}

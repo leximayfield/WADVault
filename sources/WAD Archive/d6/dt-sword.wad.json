@@ -1,0 +1,16 @@
+{
+	"uid": "dt-sword.wad",
+	"name": "Samurai Sword",
+	"description": "Replaces the chainsaw with a cool bloody samurai sword. Remember the scene in Pulp Fiction where Bruce Willis and his friend are being held prisoner in the pawn shop? Bruce passes up a shotgun, a chainsaw, then picks up a sword and proceeds to slash up the hillbillies who are taking turns anal-raping the black guy? Anyway, with this patch you can slash up some undead. Enjoy! Oh, and this sword does a lot more damage than the chainsaw used to.",
+	"date": "2014-12-10 22:46:01",
+	"files": [
+		{
+			"filename": "dt-sword.wad",
+			"size": 81776,
+			"crc": 3173701291,
+			"md5": "37ecd4c07d60be1ef8fe1876636937a3",
+			"sha1": "d6cf8696abab8d678bb75a87452d12f1bc1bf3b8",
+			"sha256": "a58286434318cb73db3b2e21da9918580999c283f5543c027faa7fc36d8ad8e8"
+		}
+	]
+}

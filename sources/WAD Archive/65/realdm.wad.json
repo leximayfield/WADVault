@@ -1,0 +1,16 @@
+{
+	"uid": "realdm.wad",
+	"name": "Real DM",
+	"description": "REAL DM pwad contains many innovations not found in other wads that add to the play of DOOM II. The most important of these innovations being the LTS or Light Tracking System. With the LTS you can locate an opponents simply by checking the the blocks that surround the raised circle in the building at the center of the level. When a block is lit it means that someone is in that block's room. Each block is representional of an outside room. On each block there is an arrow. This arrow serves the purpose as the block but it lights up when someone is in the tunnel or underground portion of that room. To make LTS even easier you can just look at the door leading to a room. If that door's light is on then someone is in that room. When someone leaves a room the block's and door's light will be shut off which means that no one is in the room. One of REAL DM's other exciting features is how it simulates 3D. You will notice that as you fall into the lava you will be teleported to an underground sector. These underground sectors have been constructed with the best accuracy possible. Accuracy that includes duplications of sounds and scale. When someone above ground hits an elevator you will hear this below ground. This is done so when you run up those stairs you won't be surprised by your opponent. REAL DM also utilizes a mutual exit system. This is done so that both opponents must agree to exit the level in order to quit. The exit is located in the east room with the hi-tech motif and can be found on the upper platform. One person must stand in the corner while the other runs back and forth over the arrows located in the dark hallway just to the left of the elevator. As you run back and forth the arrow will point you in the right direction. After a while the elevator will reach the top and the other player exits the elevator and proceeds up some stairs. There you will find the exit arches.",
+	"date": "2014-12-15 23:15:51",
+	"files": [
+		{
+			"filename": "realdm.wad",
+			"size": 537932,
+			"crc": 4144053205,
+			"md5": "df8082d24ec6f697cb24514b0b9f6a80",
+			"sha1": "65f6952ea4a0ead421a4804d84646a963f07dc0d",
+			"sha256": "da3e4e0dd442cb9862607e0c273038116ee84a058ecf6328780e664f201bf633"
+		}
+	]
+}

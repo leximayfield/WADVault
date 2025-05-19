@@ -1,0 +1,16 @@
+{
+	"uid": "hend.wad",
+	"name": "Hell's End",
+	"description": "Hell has decided that youve just bit the last straw and has sent you to an arena.",
+	"date": "2014-12-22 19:03:24",
+	"files": [
+		{
+			"filename": "hend.wad",
+			"size": 19083,
+			"crc": 1517283155,
+			"md5": "ea8b4a1ab08875f249f351a9f14d2abe",
+			"sha1": "dd38232f24e0f2358eb6dba99d15e81d67d7a336",
+			"sha256": "8b1d1bef3892cf0ddde1f383ee8c14601f9f59e9fde43aaab9a093f21ba2a316"
+		}
+	]
+}

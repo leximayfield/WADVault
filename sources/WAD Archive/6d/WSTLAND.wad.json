@@ -1,0 +1,16 @@
+{
+	"uid": "WSTLAND.wad",
+	"name": "The Wasteland Series",
+	"description": "This file contains all the three Wasteland maps plus a few resources such as a new TITLEPIC and level names for the intermission screen which I received from the original author. Original txt files for each of the single maps are included in the readme.txt file.",
+	"date": "2014-12-14 20:43:49",
+	"files": [
+		{
+			"filename": "WSTLAND.wad",
+			"size": 926084,
+			"crc": 1129709761,
+			"md5": "8a40db72ec93a679990518ec5eb3feee",
+			"sha1": "6d38b13ad78715c6e4365598c5c33c56d0a641c3",
+			"sha256": "c7fd7f96187aa65cea9dbbde9a7901f94b203aa7cf18feea9e4439c95ddaad90"
+		}
+	]
+}

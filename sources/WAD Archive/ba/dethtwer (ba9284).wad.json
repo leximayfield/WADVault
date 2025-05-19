@@ -1,0 +1,17 @@
+{
+	"uid": "dethtwer (ba9284).wad",
+	"name": "DethTower",
+	"description": "Fast paced, furious Dethmatch action in the streamlined halls and ledges of the tower.",
+	"version": "ba9284",
+	"date": "2013-11-06 22:39:26",
+	"files": [
+		{
+			"filename": "dethtwer.wad",
+			"size": 1404898,
+			"crc": 2953592119,
+			"md5": "971ec2bf388248c6c5a3ebd76e95199e",
+			"sha1": "ba9284ed634daf414126fb7e326e16a8ff283191",
+			"sha256": "0ee0df64b32d5f913ccf64837a337516438afe1c244913f2fbabdf739e267ba7"
+		}
+	]
+}

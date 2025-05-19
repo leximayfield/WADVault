@@ -1,0 +1,17 @@
+{
+	"uid": "quagmire (495f87).wad",
+	"name": "Quagmire (A difficult or irksome situation)",
+	"description": "Just a level that got me into wad building and to learn DEU 5.21. I just kept adding things I liked and seeing if my play testers could get through them. There's plenty of ammo and a few tricks to figure out.",
+	"version": "495f87",
+	"date": "2013-11-03 17:46:21",
+	"files": [
+		{
+			"filename": "quagmire.wad",
+			"size": 193610,
+			"crc": 4076285125,
+			"md5": "a1f2c36a8367da54562950834e4fc526",
+			"sha1": "495f87267908b3fb7cb573be68ee3f8abb32d98f",
+			"sha256": "ef2bd2a2e8bd96fe86adb530d5d18d916d4fb8c2ba257de9a2134b20d2d16b85"
+		}
+	]
+}

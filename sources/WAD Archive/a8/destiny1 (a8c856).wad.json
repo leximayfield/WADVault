@@ -1,0 +1,17 @@
+{
+	"uid": "destiny1 (a8c856).wad",
+	"name": "Destiny1.WAD",
+	"description": "This is my first attempt at trying to do something really cool with DEU 5.0, 5.1, 5.2, and 5.21. Yes, I really used them all on this level. It's been little pieces at a time.",
+	"version": "a8c856",
+	"date": "2014-01-04 11:55:43",
+	"files": [
+		{
+			"filename": "destiny1.wad",
+			"size": 100176,
+			"crc": 3178298316,
+			"md5": "644bf9e40a9336bda9785747f1403025",
+			"sha1": "a8c8565885efad128b02f2adc96c2d0dee48e674",
+			"sha256": "b7a31136cc094e5769c26ec44b530f4451c4f16b4a2d1aa0bf6536d60ad28e68"
+		}
+	]
+}

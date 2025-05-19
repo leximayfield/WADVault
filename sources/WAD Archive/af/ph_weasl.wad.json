@@ -1,0 +1,16 @@
+{
+	"uid": "ph_weasl.wad",
+	"name": "Urban Escape",
+	"description": "A 3.5-hour speed map for WildWeasel's birthday which takes you out a \"fire escape\", let's you leap off of a roof, fight it out in a street segment and then back indoors to an exit. Pretty linear and easy, but that's speed mapping for you!",
+	"date": "2015-01-14 22:45:11",
+	"files": [
+		{
+			"filename": "ph_weasl.wad",
+			"size": 226273,
+			"crc": 1952308111,
+			"md5": "7fc93faa31a41156b381bc4d12e583a9",
+			"sha1": "afdbc0a3cd75638840fe6c1be05f0bb99b68ff9f",
+			"sha256": "7a99e7d5b5ff0e5eb32ef3693d4678c2e687315b66003fed8901ff75e6bd0c81"
+		}
+	]
+}

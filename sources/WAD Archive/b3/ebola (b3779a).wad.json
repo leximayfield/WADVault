@@ -1,0 +1,17 @@
+{
+	"uid": "ebola (b3779a).wad",
+	"name": "Ebola.wad",
+	"description": "This is a small level. Made for 1 player in mind but works great with 2 player deathmatch.",
+	"version": "b3779a",
+	"date": "2013-11-03 17:44:12",
+	"files": [
+		{
+			"filename": "ebola.wad",
+			"size": 60278,
+			"crc": 3469643909,
+			"md5": "63340a18c6a22289443e77b03c2a8595",
+			"sha1": "b3779ae4479e9bb5d31dcd3f79a1c9c7f6ab9def",
+			"sha256": "52bc0a857b0f11395159349b35b6a9e77b51958533d6ea495fa22768afbfd6cf"
+		}
+	]
+}

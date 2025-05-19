@@ -1,0 +1,17 @@
+{
+	"uid": "silent (2c44ae).pk3",
+	"name": "Silent Steel: Remastered Edition",
+	"description": "5 Dark rusted quake2 style bases using the advance capabilities of the K8Vavoom engine.",
+	"version": "2c44ae",
+	"date": "2019-05-06 23:58:53",
+	"files": [
+		{
+			"filename": "silent.pk3",
+			"size": 59319886,
+			"crc": 3619293678,
+			"md5": "ed1285ee963eaf3f37b3b6b64598af4c",
+			"sha1": "2c44aebe17027a1597d578edf9a1388ccffd2109",
+			"sha256": "40ada09ec50013c3fed9c9e32f2232d3e5f931bf7223612ec11f1775fe73695a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fireworx.wad",
+	"name": "The Fireworks Factory",
+	"description": "It was just like last year's Fourth of July celebration. You were tagging along with your friends and fellow Americans, watching the fireworks go off in the distance, and downing enough bottles of beer to drown out your own blood. Suddenly, however, the sparks started to look... different. They glowed a dark red, and began falling to the Earth instead of dissipating. People began to panic as the sparks landed upon them and set them fully ablaze in an instant. You, however, stayed resolute. You knew who was responsible for this: The Legions of Hell! With your trusty pistol at your side, you make your way to the nearest fireworks factory -- where your keen senses tell you the demons reside. You will not let a bunch of hellspawn ruin the Fourth of July. * * * * * * This is a level I designed in less than 24 hours on the Fourth of July, 2009. After playing Qingshuo Wang's Rocketeer (ROKETEER.WAD), I was inspired to make a rockets-only level, and felt that it would be appropriate to do so on this particular day. The level uses mainly red, white, and blue textures, and I even turned the yellow keys into white keys! I implemented skill levels on this map, so if you find Ultra-Violence too hard -- and you just might -- try Hurt Me Plenty or lower. Your patriotic carnage is set to the tune of \"The Star-Spangled Banner,\" and when you win the level, you are treated to Emanuel Leutze's famous painting, \"Washington Crossing the Delaware.\" You can even find it in the level itself if you're eagle-eyed enough. All in all, I hope you have fun on this level, and if you're from the United States, have a happy Fourth of July! Oh, yeah, and the level does not realistically or accurately represent an actual fireworks factory. The title is just something I felt was appropriate given the idea behind this level.",
+	"date": "2014-12-22 19:03:48",
+	"files": [
+		{
+			"filename": "fireworx.wad",
+			"size": 611846,
+			"crc": 1352219614,
+			"md5": "98424d8b383783f470f030b87f1d5e67",
+			"sha1": "8778c8742c328da2b4b5419f92052c116b8386b7",
+			"sha256": "593a8004c73d64302e914c2d96f8e1f824809408c9b6971ba0dc26ad4715ff16"
+		}
+	]
+}

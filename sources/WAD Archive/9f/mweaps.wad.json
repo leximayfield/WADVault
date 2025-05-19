@@ -1,0 +1,16 @@
+{
+	"uid": "mweaps.wad",
+	"name": "MWeaps",
+	"description": "My first attempt to make a weapons .wad, Mweaps didn\u00b4t go as bad as I thought. This mod replaces all original Doom 2 weapons (With exception of fists and chainsaw) with new weapons of my own imagination. The weapons are:",
+	"date": "2014-12-11 22:16:36",
+	"files": [
+		{
+			"filename": "mweaps.wad",
+			"size": 575840,
+			"crc": 3275978618,
+			"md5": "262b001192fde94ad296b21f158df793",
+			"sha1": "9f8c098450714686b8e7165eb49bcedfa6781619",
+			"sha256": "01554a2262b61b467eaf140a5610c721927002ce94213d5ceab5a3c524d0b121"
+		}
+	]
+}

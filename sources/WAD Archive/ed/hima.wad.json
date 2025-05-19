@@ -1,0 +1,16 @@
+{
+	"uid": "hima.wad",
+	"name": "HIMA.WAD",
+	"description": "House that I live in. 2 floors, small yard and basement. Quite tight and tough. Uses teleports for changing floors so it's best when sound and flash is removed from teleport. The first deathmatch with 3 people we had almost 300 frags so it's good for DM.",
+	"date": "2014-12-13 17:35:45",
+	"files": [
+		{
+			"filename": "hima.wad",
+			"size": 133608,
+			"crc": 2318754765,
+			"md5": "35fe2fd1a72875e19ae769bd6da06032",
+			"sha1": "edc8424476c57330760e5ea459cc557352c1a74e",
+			"sha256": "6d38c29accdf30e9a7eda0c0e4ec818384045d32d5f6cccd3f9de9c49ffd3daf"
+		}
+	]
+}

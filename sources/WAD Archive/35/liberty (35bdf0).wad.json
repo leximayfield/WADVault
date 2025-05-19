@@ -1,0 +1,17 @@
+{
+	"uid": "liberty (35bdf0).wad",
+	"name": "Liberty",
+	"description": "Liberty its a 3 Levels only where the main goal its to escape the Building you got into. You will discover why you are here and whats going on here.",
+	"version": "35bdf0",
+	"date": "2017-06-27 00:24:21",
+	"files": [
+		{
+			"filename": "liberty.wad",
+			"size": 1821895,
+			"crc": 472036292,
+			"md5": "d0c2950819d8f839f9f60d271fd96e64",
+			"sha1": "35bdf08737a241fd635895a64ccc01057b713d6f",
+			"sha256": "77aea7900d9b707270a3fc4907f0399156ee9ba7db76b16397fdc21374740332"
+		}
+	]
+}

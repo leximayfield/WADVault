@@ -1,0 +1,16 @@
+{
+	"uid": "INDUCTN.wad",
+	"name": "Induction",
+	"description": "An introductory level. Was going to be the first level when The Return was planned to release with levels",
+	"date": "2015-09-14 22:25:44",
+	"files": [
+		{
+			"filename": "INDUCTN.wad",
+			"size": 549132,
+			"crc": 4205764717,
+			"md5": "347a8c054ea744b81c6c272a8b38e189",
+			"sha1": "45441594c93f61198d742d3da83959744c1c522d",
+			"sha256": "a01196a607ccb68b6a87193ade93985e0500ced007bb7a21a8dc05f0b0461c7f"
+		}
+	]
+}

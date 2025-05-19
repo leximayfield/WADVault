@@ -1,0 +1,17 @@
+{
+	"uid": "crusher (d5ad39).wad",
+	"name": "The Real Crusher",
+	"description": "This is what I always imagined the level Crusher (level 6) to be like. No, there is actually no ceilings crushes what-so-ever, but hey- it looks purty.",
+	"version": "d5ad39",
+	"date": "2014-12-15 22:03:30",
+	"files": [
+		{
+			"filename": "crusher.wad",
+			"size": 152020,
+			"crc": 3560228154,
+			"md5": "439a33da3a907a9301131e318668450e",
+			"sha1": "d5ad39eb31a92b772a74432a68d20a716378afe8",
+			"sha256": "088facf9de324b00217155a34376351e58bc8a09951f19a4559513399afd5917"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "gun (559376).wad",
+	"name": "Gunhouse",
+	"description": "You are the pest control man - get rid of them nasties!",
+	"version": "559376",
+	"date": "2015-02-21 09:01:27",
+	"files": [
+		{
+			"filename": "gun.wad",
+			"size": 58855,
+			"crc": 2753952478,
+			"md5": "bed444234cafacd62f9ad6e0a6b29a31",
+			"sha1": "559376901a253c42e7d8320eccf72b7a19830039",
+			"sha256": "1423024ab87a269e0ab085b3e68899ba3f8a0645f22fe0595ac398e8989002b9"
+		}
+	]
+}

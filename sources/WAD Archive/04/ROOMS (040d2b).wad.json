@@ -1,0 +1,17 @@
+{
+	"uid": "ROOMS (040d2b).wad",
+	"name": "Rooms Wad",
+	"description": "A level for Doom 2. The 2nd pwad I have made for Doom2.",
+	"version": "040d2b",
+	"date": "2015-02-21 09:00:58",
+	"files": [
+		{
+			"filename": "ROOMS.wad",
+			"size": 84680,
+			"crc": 492647380,
+			"md5": "eac75b05a3eaaf8558126f928cb424d0",
+			"sha1": "040d2b2fc795bc4cf26552ffca5b28aa9d7f4768",
+			"sha256": "ee4f1657b16d4f7d3b383733bcc83c842d01f857cd4bb551029bb45edaa3bdec"
+		}
+	]
+}

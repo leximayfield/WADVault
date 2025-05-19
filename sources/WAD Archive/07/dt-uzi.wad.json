@@ -1,0 +1,16 @@
+{
+	"uid": "dt-uzi.wad",
+	"name": "Uzis from dtcog13",
+	"description": "These are the re-done, improved uzis that I will be using later on. They're the same ones as in dtcog12, but are sharper, more colorful, and I adjusted the offsets a little. Also, if you tried to look at dtcog's .deh file, it was a mess. This one is much easier to understand. Also, I got rid of the shell bounce in the gun noise, and made the single uzi much less accurate. Ammo per clip is doubled as well. Oh, right... replaces pistol and chaingun.",
+	"date": "2014-12-10 22:46:20",
+	"files": [
+		{
+			"filename": "dt-uzi.wad",
+			"size": 66224,
+			"crc": 1920465560,
+			"md5": "8d5a42206561523ead2b436611d7d684",
+			"sha1": "07d12d72a98443f55e249426e54cb83dea3a0096",
+			"sha256": "1cbf172934630ac7539360a9987737290ff31364f6a9df9c8ea8638d83604cc8"
+		}
+	]
+}

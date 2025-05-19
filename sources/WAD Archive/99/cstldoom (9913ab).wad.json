@@ -1,0 +1,17 @@
+{
+	"uid": "cstldoom (9913ab).wad",
+	"name": "Castle Doom",
+	"description": "Somehow you got transported back in time(with your enemies) to the midevil time. So go kill!",
+	"version": "9913ab",
+	"date": "2014-10-14 21:11:22",
+	"files": [
+		{
+			"filename": "cstldoom.wad",
+			"size": 72461,
+			"crc": 1232647691,
+			"md5": "62a159a26e46b54af2c928520549cee5",
+			"sha1": "9913abef3c20a46ea95089c0b9e62de407360940",
+			"sha256": "a97bc29b23c5dd6114b6bd47b75153e33c0a0479f2e39d42a5babb22e6253538"
+		}
+	]
+}

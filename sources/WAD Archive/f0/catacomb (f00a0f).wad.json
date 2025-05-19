@@ -1,0 +1,17 @@
+{
+	"uid": "catacomb (f00a0f).wad",
+	"name": "CATACOMBS",
+	"description": "It is an evil level.",
+	"version": "f00a0f",
+	"date": "2014-01-04 11:55:39",
+	"files": [
+		{
+			"filename": "catacomb.wad",
+			"size": 150735,
+			"crc": 4254200615,
+			"md5": "3c47d4e8f0fa30f89376ac04eef2f0d3",
+			"sha1": "f00a0f4ef11814695e8280053f5a988f22c77d21",
+			"sha256": "e76694e076279d4c36ead20488817a933f84be5207e34775608b4e208b03a77a"
+		}
+	]
+}

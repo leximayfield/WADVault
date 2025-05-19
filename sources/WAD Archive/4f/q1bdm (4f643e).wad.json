@@ -1,0 +1,17 @@
+{
+	"uid": "q1bdm (4f643e).wad",
+	"name": "Quake1 Base Deathmatch",
+	"description": "A dark brown metal deathmatch base that takes place in an artic mountain scenario.",
+	"version": "4f643e",
+	"date": "2014-12-15 21:48:35",
+	"files": [
+		{
+			"filename": "q1bdm.wad",
+			"size": 3498844,
+			"crc": 806397569,
+			"md5": "d46c194c1103703d1a517ba664895812",
+			"sha1": "4f643e5b80390ab68ea159782b4e6adc3461bd63",
+			"sha256": "1ba4be6b56c34e91867306300ba3f8e31ef0ea795f74e5cfdb72d2f7b9b9dd35"
+		}
+	]
+}

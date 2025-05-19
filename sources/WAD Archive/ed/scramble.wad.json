@@ -1,0 +1,16 @@
+{
+	"uid": "scramble.wad",
+	"name": "SCRAMBLE",
+	"description": "A great deathmatch wad for up to 4 players. Lots of combat! I wanted a wad that had many opportunities to meet your opponant, plus sound clues to help locate him.... I was also tired of battles that went on forever due to all the health lying around in some wads. So health is minimal, but available. All weapons are available, but can sometimes be hard to get to. The egg is great, but tricky to get without getting shot!",
+	"date": "2013-11-02 16:39:23",
+	"files": [
+		{
+			"filename": "scramble.wad",
+			"size": 41315,
+			"crc": 2513973103,
+			"md5": "7bb46b06f4cdb15bf6e73f975c4c152a",
+			"sha1": "ed8dacb045a2208a4b2a288355da474c045c0722",
+			"sha256": "452ebd75459ffaf5909fbb9a50d66774822595ee8209aaf2d09739f7b7f61735"
+		}
+	]
+}

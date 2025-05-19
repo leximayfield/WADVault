@@ -1,0 +1,16 @@
+{
+	"uid": "merchant.wad",
+	"name": "Merchant Map for Wrath of Cronos",
+	"description": "A Small map that contains a streetmerchant shop so you can gear up for the next map",
+	"date": "2017-06-06 23:27:28",
+	"files": [
+		{
+			"filename": "merchant.wad",
+			"size": 6542,
+			"crc": 1338839348,
+			"md5": "23f33a56fc093542477abd41990d6be4",
+			"sha1": "240e3dcbe9f1b92035f7a36910475d16e628b5fc",
+			"sha256": "cc49b987b91367439e994060adc4221287f95acea8819f3d15d4c5def8dcb447"
+		}
+	]
+}

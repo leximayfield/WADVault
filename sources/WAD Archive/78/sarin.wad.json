@@ -1,0 +1,16 @@
+{
+	"uid": "sarin.wad",
+	"name": "Sarin (sarin.wad)",
+	"description": "My first released wad. A smallish, marble themed map.",
+	"date": "2014-12-29 15:50:35",
+	"files": [
+		{
+			"filename": "sarin.wad",
+			"size": 212775,
+			"crc": 2987467362,
+			"md5": "c9b466690de4e34a50fdf892b02cd7d0",
+			"sha1": "7879f3b56ac17115acb589877abb7893787a2e3e",
+			"sha256": "e7264900d77697fb181ab0de48b1c27d2d39d9d8daa65f83834271ea501d091e"
+		}
+	]
+}

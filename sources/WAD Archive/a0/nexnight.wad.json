@@ -1,0 +1,16 @@
+{
+	"uid": "nexnight.wad",
+	"name": "Next Nightmare",
+	"description": "The sequel to New Nightmare. It's a dark level set in a bunch of different types of areas.",
+	"date": "2015-01-13 21:44:49",
+	"files": [
+		{
+			"filename": "nexnight.wad",
+			"size": 1348953,
+			"crc": 2275292892,
+			"md5": "c78442641a59e8e6d93b230d86a11e2e",
+			"sha1": "a0685f72db208298f210b298eb6347fcc3bf50f7",
+			"sha256": "d89158afd34ab75f8c05377fba6a3a28a57859c58e8c8434c478103b3defb86c"
+		}
+	]
+}

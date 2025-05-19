@@ -1,0 +1,16 @@
+{
+	"uid": "cp1.wad",
+	"name": "Centreport One",
+	"description": "Loosely based on my workplace, known as : Centreport One, Fort Worth, TX",
+	"date": "2013-11-03 17:46:35",
+	"files": [
+		{
+			"filename": "cp1.wad",
+			"size": 159156,
+			"crc": 3903055708,
+			"md5": "79e18ed098576e76d3271aae6558d2ac",
+			"sha1": "e59afde8ac08996ffd145122f5871fcc9b406c9c",
+			"sha256": "b74fb3a68d5505754a4d51cf7a7add7e7c8b292f9e8ace29f9468b3f0de826b8"
+		}
+	]
+}

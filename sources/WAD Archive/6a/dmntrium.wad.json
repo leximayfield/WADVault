@@ -1,0 +1,16 @@
+{
+	"uid": "dmntrium.wad",
+	"name": "Dementarium",
+	"description": "There aren't many maps that focus on the chaingun, so I made this. A small-ish key hunt in Hell, with scarce supplies and no shotguns or plasma weaponry. You don't need to grab them in any order. The final challenge is right in front of you when you start; don't waste your ammo, or be prepared to make a break for it. A note: this isn't Pacifist compatible.",
+	"date": "2014-12-24 18:52:29",
+	"files": [
+		{
+			"filename": "dmntrium.wad",
+			"size": 383881,
+			"crc": 1192736552,
+			"md5": "ff77fdff2c71033b79d7660baecfa5c1",
+			"sha1": "6adbb8963b19685d1bf8f6b7d5f480147e63a95a",
+			"sha256": "46c03f5654a0c4982ea0b08e0aef77c48a147e53c9e5e8faad16899f35969432"
+		}
+	]
+}

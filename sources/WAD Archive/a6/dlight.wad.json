@@ -1,0 +1,16 @@
+{
+	"uid": "dlight.wad",
+	"name": "Daylight",
+	"description": "A map I made months ago. It's pretty easy on UV and totally doable without secrets or hidden berserk.",
+	"date": "2014-12-22 18:48:03",
+	"files": [
+		{
+			"filename": "dlight.wad",
+			"size": 503718,
+			"crc": 2991177826,
+			"md5": "f9169a84aa30ba77d816c799a93961c5",
+			"sha1": "a614ce6f37ac4643089a307d0c0529742e7b425d",
+			"sha256": "102c8672caf372f0bea95b4b2944bf583b56a22695f249291895df5c941ab8df"
+		}
+	]
+}

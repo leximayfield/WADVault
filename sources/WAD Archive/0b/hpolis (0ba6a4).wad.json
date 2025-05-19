@@ -1,0 +1,17 @@
+{
+	"uid": "hpolis (0ba6a4).wad",
+	"name": "Hellopolis re-release",
+	"description": "A very complex map with a bunch of tricks and traps. Be very careful in this one!",
+	"version": "0ba6a4",
+	"date": "2014-12-22 18:34:52",
+	"files": [
+		{
+			"filename": "hpolis.wad",
+			"size": 4331807,
+			"crc": 2711351457,
+			"md5": "4fe4b3dcb746211afd6d08501418f845",
+			"sha1": "0ba6a4b967a0ea5791fd02da12911afd3fc932e4",
+			"sha256": "0b1766328f0a6986ffeb99f0edf439a7716b8091cce3bcf59c926224ad79c583"
+		}
+	]
+}

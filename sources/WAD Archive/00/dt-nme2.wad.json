@@ -1,0 +1,16 @@
+{
+	"uid": "dt-nme2.wad",
+	"name": "Don's Enemy Pack Updated Edition",
+	"description": "**Now works with ZDOOM** Fixed some reported bugs!! -Revenant respawn bug fixed- -Revenants are grey now, much better looking- -Minor adjustment of some hit points- -Guardian Demon fireballs have rocket death- -SS Guys have shotgun attack-",
+	"date": "2014-12-10 22:47:00",
+	"files": [
+		{
+			"filename": "dt-nme2.wad",
+			"size": 2128784,
+			"crc": 1818098672,
+			"md5": "91d7c782ab69210fd3eb64086368b4ad",
+			"sha1": "0038f21b4c058bd4fa0c4260ab8b53ef0285acde",
+			"sha256": "a3753b14fce1429672b2e261af09363821654a5dae7f4fa4125405d4ec492166"
+		}
+	]
+}

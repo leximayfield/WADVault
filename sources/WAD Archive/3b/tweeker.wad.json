@@ -1,0 +1,16 @@
+{
+	"uid": "tweeker.wad",
+	"name": "THE TWEEKER",
+	"description": "Designed for DEATMATCH. This level is alot of fun for 2, 3 or 4",
+	"date": "2014-12-15 22:45:48",
+	"files": [
+		{
+			"filename": "tweeker.wad",
+			"size": 1215649,
+			"crc": 3182455028,
+			"md5": "0519c6c5c018939aeb9c70d519ef92ee",
+			"sha1": "3bd42307268e092951ad008a40a584c939ff99ba",
+			"sha256": "e22fbfe4cd5460b097afb77d2403891b46bb4273e7c2d34d23da846940bd0fe7"
+		}
+	]
+}

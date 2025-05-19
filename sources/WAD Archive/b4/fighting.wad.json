@@ -1,0 +1,16 @@
+{
+	"uid": "fighting.wad",
+	"name": "Fighting",
+	"description": "Fight the power! Inspired by Squadron 417.",
+	"date": "2014-12-24 18:53:48",
+	"files": [
+		{
+			"filename": "fighting.wad",
+			"size": 738286,
+			"crc": 1705066437,
+			"md5": "f11b80dcaa609b7b60adfa32e65369bb",
+			"sha1": "b45b2580c42713aa538627df0207dc5173fedad6",
+			"sha256": "10cbf7a3edaff1b42a1be193ef9285d7a8f995537e2e3013f1c1f9121a9e813e"
+		}
+	]
+}

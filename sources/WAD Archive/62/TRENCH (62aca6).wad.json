@@ -1,0 +1,17 @@
+{
+	"uid": "TRENCH (62aca6).wad",
+	"name": "TRENCH.WAD",
+	"description": "Fabian Tillier Fabian_Tillier@Brown.EDU \"Got a problem? Drown it out.\" TRENCH WARFARE! An incredible DEATHMATCH : adventure. Hunt down your buddies in an : intricate maze of trenches, while seargants : and imps shoot at you from above. Watch out : for baddies in the trenches too. No, we didn't : overload the level with bad guys, they are just : strategicaly placed. Remember, this is a WAR, : not masacre. FOR MAXIMUM ENJOYMENT, TURN RESPAWN : ON! The level will run out very quickly if you : don't. Trust us. We have play tested this for : hours, and hours, and hours, and hours. : : There is a cooperative exit for multi-player, : and a simple one for single player. Oh, and : have a good time, all the time. : : Did we mention that you should turn RESPAWN on? : doom -file trench.wad -respawn",
+	"version": "62aca6",
+	"date": "2016-02-07 20:35:20",
+	"files": [
+		{
+			"filename": "TRENCH.wad",
+			"size": 68889,
+			"crc": 1948451957,
+			"md5": "fbc7a7fb51b318b36db41b99a3f63c3c",
+			"sha1": "62aca6a4ed5d64b1fd8ac69e7921648ad51c6d00",
+			"sha256": "ddeff141e28bfe987985b2e1eb60bd75fc9ea05220dc6a9e9c9dd570c399607c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "freak5.wad",
+	"name": "Tuning Contest#5 (aka Freakmapping)",
+	"description": "The archive contains the maps, sent on competition which was held in iddqd.ru on July, 7-24th, 2010. The idea of competition was that the map, created by the random map generator, is being improved and modified by each participant of competition under the port chosen by participant himself. Surprises and unusual decisions were welcomed as well. Thus the participant can map game zones only within a rectangle outlined around of an initial map. Behind its limits, it was allowed to do decorative landscapes and technical sectors. Also all initial map's vertexes should have been invariable.",
+	"date": "2014-12-24 19:27:01",
+	"files": [
+		{
+			"filename": "freak5.wad",
+			"size": 178887,
+			"crc": 2522296578,
+			"md5": "086200b16f7ead27362d4435ca6b270d",
+			"sha1": "dc0b27aafa5f02e15120316220a0c315a6d26352",
+			"sha256": "bce7dd408aaab89e60758d033e519dbdc4e22aa6c7151af62b0a1cca8f809a2d"
+		}
+	]
+}

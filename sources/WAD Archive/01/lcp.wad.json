@@ -1,0 +1,16 @@
+{
+	"uid": "lcp.wad",
+	"name": "Legana Caravan Park",
+	"description": "The map is based on the caravan park in Legana,Tasmania,Australia where I used to live. The house is reasonably authentic, apart from the obvious: the textures and inhabitants.",
+	"date": "2014-12-27 12:08:45",
+	"files": [
+		{
+			"filename": "lcp.wad",
+			"size": 63605,
+			"crc": 2886800354,
+			"md5": "c457cdcd3c1b25c32e5c8222635d4853",
+			"sha1": "011f30073e40fadfbd5a63849a1cefd31b49293c",
+			"sha256": "824817cae6cd6f8fc2d61bbac9e69bc2644c169a4b17823037aec7826b238251"
+		}
+	]
+}

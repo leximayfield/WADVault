@@ -1,0 +1,17 @@
+{
+	"uid": "rot (7785b6).wad",
+	"name": "ROT.WAD",
+	"description": "No stupid story line. Just a good deathmatch level for four player net play.",
+	"version": "7785b6",
+	"date": "2014-12-03 20:12:05",
+	"files": [
+		{
+			"filename": "rot.wad",
+			"size": 61947,
+			"crc": 617840439,
+			"md5": "9f08628d899ca484d76e5ec76183c043",
+			"sha1": "7785b65c37a4852cf774c3c78a9cf9aeb3d4e13a",
+			"sha256": "9a8797f20efd6ca7b3aec3043fce5e4a918c1141c471ad7a73477c02193bb65b"
+		}
+	]
+}

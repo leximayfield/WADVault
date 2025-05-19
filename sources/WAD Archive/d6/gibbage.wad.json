@@ -1,0 +1,16 @@
+{
+	"uid": "gibbage.wad",
+	"name": "Gibbage",
+	"description": "Gibbage requires ZDoom version 2.4.1 or higher, which is the latest version of ZDoom and GZDoom at the time of creation, although Skulltag does not yet support this wad. If you're reading this in THE FUTURE, you will need to check for Skulltag support.",
+	"date": "2014-12-11 22:10:38",
+	"files": [
+		{
+			"filename": "gibbage.wad",
+			"size": 7706,
+			"crc": 2350060725,
+			"md5": "c1bc328d24255e7f6f5fb6baee1723e3",
+			"sha1": "d691846e54ae65720b5e13e5217eed195361e5d0",
+			"sha256": "d44926a42dc98cce4bb7c7a34ad5e7fce9cb09c39081607ce400c59090f67335"
+		}
+	]
+}

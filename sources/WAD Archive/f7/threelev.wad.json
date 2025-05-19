@@ -1,0 +1,16 @@
+{
+	"uid": "threelev.wad",
+	"name": "Three Level WAD",
+	"description": "Three levels for Ultimate Doom, nothing fancy",
+	"date": "2014-12-13 17:47:20",
+	"files": [
+		{
+			"filename": "threelev.wad",
+			"size": 579578,
+			"crc": 34418713,
+			"md5": "9e99057a989f746242e57c44db9aa901",
+			"sha1": "f7954f1e9da6d067fb159beed4947c6b15579f89",
+			"sha256": "c16c5f79e106dc37786559c564faf9339769bf9dc228d71479ddf49d8ff6e8a2"
+		}
+	]
+}

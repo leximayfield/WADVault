@@ -1,0 +1,17 @@
+{
+	"uid": "BLUES (ea0c10).wad",
+	"name": "Blues.Wad",
+	"description": "A brand new sound wad for doom & doom2 Based on the greatest movie of all time \"The Blues Brothers\" & some samples from some of their CD's.",
+	"version": "ea0c10",
+	"date": "2015-09-14 19:35:38",
+	"files": [
+		{
+			"filename": "BLUES.wad",
+			"size": 1692433,
+			"crc": 2966244107,
+			"md5": "bebedcaec09ddc845f84cc11bc57b717",
+			"sha1": "ea0c10537d09c344c33450bf9b4fc61cf70fc1b6",
+			"sha256": "6073b133a8278e386b33b5dd47fdc683be20c5af0667e4d9276ad1c660f5f02c"
+		}
+	]
+}

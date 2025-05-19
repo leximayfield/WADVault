@@ -1,0 +1,17 @@
+{
+	"uid": "t-maya (4a66fa).wad",
+	"name": "Mayan Mishap",
+	"description": "Five maps, loosely Mayan in setting, with an assortment of DeHacked changes to alter monster behavior and a few other things. Notably, some monsters and projectiles are faster than their vanilla counterparts. If you typically play maps on UV, I would definitely recommend HMP for your first playthrough to avoid any potential frustration. Similarly, if you usually play on HMP by default, dropping the difficulty down to HNTR would probably be a good idea. UV is certainly doable on a first playthrough though, if you fancy yourself a challenge.",
+	"version": "4a66fa",
+	"date": "2015-06-18 22:58:56",
+	"files": [
+		{
+			"filename": "t-maya.wad",
+			"size": 16506626,
+			"crc": 452416156,
+			"md5": "099d56ac25c353aaec42ec9b72d284c5",
+			"sha1": "4a66faa28d677e8b81bec18b9ed623d347270ec1",
+			"sha256": "f54156163ff10c9a5479febe50e1b10f2789b6df0fcec30e95089243bb4f0509"
+		}
+	]
+}

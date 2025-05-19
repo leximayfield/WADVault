@@ -1,0 +1,16 @@
+{
+	"uid": "caveod.wad",
+	"name": "caveod.wad",
+	"description": "Nice deathmatch level, lots of deathmatch starts, 2 teleporters, sorta tunnel-like thing, some switches, and the usual stuff. Nice and cool.",
+	"date": "2014-12-15 22:39:05",
+	"files": [
+		{
+			"filename": "caveod.wad",
+			"size": 43733,
+			"crc": 3558060465,
+			"md5": "12506818c22380398875386f9040ec9e",
+			"sha1": "371150801eb9458d1b87ff7be96867da6ce492fa",
+			"sha256": "448c2f0102cb367413a68bd17ad1280e41719a652633ea88b27b4640d7e28555"
+		}
+	]
+}

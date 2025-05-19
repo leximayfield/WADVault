@@ -1,0 +1,17 @@
+{
+	"uid": "BOXING (2cb0c8).wad",
+	"name": "Deathmatch Boxing",
+	"description": "Boxing. You fight someone else with your fists. There are no weapons on this level. The rules are simple: 1) I was too lazy to do something like write a dehacked patch that would disable the pistol, so you're going to have to trust each other to not use the pistol. 2) I put in two exits, so you can get the frags properly tabulated, and for the single player practice mode. Don't use the exit until all are ready to leave.",
+	"version": "2cb0c8",
+	"date": "2014-02-15 16:51:59",
+	"files": [
+		{
+			"filename": "BOXING.wad",
+			"size": 29487,
+			"crc": 2346057831,
+			"md5": "29213e652f31d43a0d1e955ccaef078e",
+			"sha1": "2cb0c8297256842bdd85944bb687282a8a2b19da",
+			"sha256": "225978f3cd41a1363f2da1767b04ccc56cab6f1e4dee11256a13f5c34b6f81de"
+		}
+	]
+}

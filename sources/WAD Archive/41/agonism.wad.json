@@ -1,0 +1,16 @@
+{
+	"uid": "agonism.wad",
+	"name": "AGONISM.WAD",
+	"description": "Very small deathmatch only wad. Only 7 sectors!",
+	"date": "2013-11-04 19:20:08",
+	"files": [
+		{
+			"filename": "agonism.wad",
+			"size": 16405,
+			"crc": 3734142824,
+			"md5": "f66cf5b359f241e1d13b5332cb177dab",
+			"sha1": "418c643f1400510c88527abe08ae0df0f0e1c14f",
+			"sha256": "8d03835b528b0cf67b9b2b80bab566c187389b8061fa27835db3225bfdb35d16"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "breathless.wad",
+	"name": "Breathless",
+	"description": "Breathless is a large, Boom compatible slaughter map for Doom 2. The theme is deep blues punctuated with cyan and is heavily inspired by Swim with the Whales, both in aesthetics and difficulty. The wad is inspired by a lot of things visually though, from Metroid Prime's Phazon Mines to Sunder. I wanted to make each individual area fairly unique, so despite it being one large map and all within the same colour palette, the areas hopefully still feel varied. The map has a slaughter 'design philosophy' and is based around a lot of large set-piece fights, with some smaller encounters here and there. It is designed to be hard on Ultra Violence -consider it close to SWTW map 3 for reference- and is balanced mainly for this mode. HMP and HNTR are both implemented with the former tested a decent amount (not as rigorously as UV) and the latter given some quick runs. Hurt Me Plenty is fun to play and I can Max it fairly consistently without too much trouble; I would suggest playing on this difficulty first, as UV is punishing. Don't say you weren't warned :D The wad has a lot of secrets, so look around if you want to max it!",
+	"date": "2018-02-15 20:50:17",
+	"files": [
+		{
+			"filename": "breathless.wad",
+			"size": 18867808,
+			"crc": 1281368490,
+			"md5": "e24b7552518fe8bca3cb15697602ca1e",
+			"sha1": "0c28425ab9ae4834a9b8b4e683237a5495c6f26a",
+			"sha256": "4f8e653984bd2ac8e3bbc7d7f69f344e155d22e1988b360929afe1be64f81141"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "blitz_dm.wad",
+	"name": "Blitz DM",
+	"description": "This is a DM .WAD designed for FFA game mode, inspired by my \"Blitz\" series: in fact, it has got the same tech-base style. It is a medium-big map with a large central outdoor arena, a long corridor around it and 4 small rooms, each one provided with one weapon among Shotgun, Chaingun, Rocket Launcher and Plasma Gun and a secret containing a Green or Blue Armour or a special teleport to the BFG, that is on the top of the nukage fountain, in the centre of the arena. In these rooms there are also Medikits, whereas Stimpaks are located in the corners of the arena, and ammo for the weapon in it. More ammo is scattered here and there. I hope you enjoy it and have fun with your friends... and enemies! ;) WARNING: The new background music is a .MIDI file, so you'll listen to it only if you use a port that can play it, such as ZDoom-based ports (ZDoom, GZDoom, ZDaemon...).",
+	"date": "2014-12-15 22:16:17",
+	"files": [
+		{
+			"filename": "blitz_dm.wad",
+			"size": 672124,
+			"crc": 4197176467,
+			"md5": "a9ecfdd0c2f8a71fcc74cd22e5919c0e",
+			"sha1": "4d62c91a80972ae6024a48553200944f7c5c182a",
+			"sha256": "33a0c0a6fb45a9bfbcb6e14a93ae70c93e7058da5e49aa4c45da875d75db956c"
+		}
+	]
+}

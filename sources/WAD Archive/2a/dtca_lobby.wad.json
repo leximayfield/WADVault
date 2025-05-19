@@ -1,0 +1,16 @@
+{
+	"uid": "dtca_lobby.wad",
+	"name": "DTCA - Map 01 - Lobby",
+	"description": "If anyone has ever played my original map01 for DTCA you'll know just how crappy it was. If anyone hasn't I recommend playing it first to see just how much of an improovment I made on this level.",
+	"date": "2014-12-22 18:54:31",
+	"files": [
+		{
+			"filename": "dtca_lobby.wad",
+			"size": 555820,
+			"crc": 1929435761,
+			"md5": "8f5a662de524bafa9eb3a8cae3923ea5",
+			"sha1": "2aa3005135c9ebbf564be1a6e6d90d73b2a70ad5",
+			"sha256": "a8ef48c47296fccff2f424b1e0fd9b61c16ca479801d567efda99905ca2d5614"
+		}
+	]
+}

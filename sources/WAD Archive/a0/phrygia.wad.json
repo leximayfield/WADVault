@@ -1,0 +1,16 @@
+{
+	"uid": "phrygia.wad",
+	"name": "Phrygia",
+	"description": "Tiny Boom (-complevel 9) speedmap that I made while helping a friend get into mapping after the last Joy of Mapping (3) session. We mapped for 3 hours, then spent another on bug fixes, touch- ups, and cackling like hens about our nails and the feathering of our hair. I got some feedback and made a couple quick, minor changes... all- in-all about 4.5 hours of work. The map takes 5 minutes or less to beat and features rocket- centric, light-slaughter gameplay. Difficulty settings are implemented, though admittedly HNTR is a joke setting. Still, HMP is a much easier, more casual experience. Uses textures from Jimmy and a sky from Mech. Midi \"Phrygia\" comes from Battle of Olympus NES game.",
+	"date": "2017-06-27 00:15:52",
+	"files": [
+		{
+			"filename": "phrygia.wad",
+			"size": 608977,
+			"crc": 1464295950,
+			"md5": "dfc3a81bbb0f75f2213e4ab75940fc5a",
+			"sha1": "a0f087c05a413483a06207d6ea976c068c17adc2",
+			"sha256": "071d602af6804cbfd3c5908f2261552fc276bfe8cb810a5d7ef19558ce969f0b"
+		}
+	]
+}

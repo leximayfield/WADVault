@@ -1,0 +1,16 @@
+{
+	"uid": "delire1.wad",
+	"name": "Delire I",
+	"description": "This is a DOOM II DEATHMATCH pwad.",
+	"date": "2014-12-15 22:57:56",
+	"files": [
+		{
+			"filename": "delire1.wad",
+			"size": 61324,
+			"crc": 610625302,
+			"md5": "90a1a62c9a7e3191b9d893ba2f93b969",
+			"sha1": "a2ae69813b58dc9884e90322687f68b842e0976d",
+			"sha256": "df016599878934e224da91b8331f6b5a0818825ac6bfd89ca6df903a507ac4fe"
+		}
+	]
+}

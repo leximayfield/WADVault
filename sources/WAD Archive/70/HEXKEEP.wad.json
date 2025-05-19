@@ -1,0 +1,16 @@
+{
+	"uid": "HEXKEEP.wad",
+	"name": "Hexen Keep",
+	"description": "A small castle, all powerups/weapons available, plenty of mana, just the right amount of monsters(2 lame centaurs, 2 firebolt centaurs)",
+	"date": "2014-11-01 14:54:03",
+	"files": [
+		{
+			"filename": "HEXKEEP.wad",
+			"size": 51908,
+			"crc": 208445905,
+			"md5": "75906d6b98f51e6c7dd6ab75074c4c11",
+			"sha1": "70209b1bb91b63e572dcd979168e38b258e58b49",
+			"sha256": "94a19c4f4dfea19bb7a3517f3619282f1ffad2b9a9ba7f9c7eb06d83275cb21e"
+		}
+	]
+}

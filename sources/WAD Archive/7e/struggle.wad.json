@@ -1,0 +1,16 @@
+{
+	"uid": "struggle.wad",
+	"name": "Castle Struggle",
+	"description": "A middle-sized map with some gothic themes.",
+	"date": "2018-02-15 20:34:35",
+	"files": [
+		{
+			"filename": "struggle.wad",
+			"size": 3570564,
+			"crc": 2440673442,
+			"md5": "f7b2f2991b825999ac5af7f773c634db",
+			"sha1": "7e7fcd5d824c46ef979f089645c25f76fddd3cf2",
+			"sha256": "9fb331d22d13ca25ca5d6643529916c444dc66048f172cf3643f30ab9c680a5c"
+		}
+	]
+}

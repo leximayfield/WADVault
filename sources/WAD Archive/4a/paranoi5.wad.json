@@ -1,0 +1,16 @@
+{
+	"uid": "paranoi5.wad",
+	"name": "Domination",
+	"description": "a 'kick-ass' brick and metal deathmatch level. I recommend to play this level with ZDoom.",
+	"date": "2014-12-15 22:24:09",
+	"files": [
+		{
+			"filename": "paranoi5.wad",
+			"size": 361654,
+			"crc": 2914644350,
+			"md5": "ad5d4873c9ae7302d2e4b0b16b4ea60d",
+			"sha1": "4ae6b38a909df2322c8fc846f9bbf99ec2467a87",
+			"sha256": "08bd28d0f7402af53172670efeb617638d7b1002ba2e4a2ba49e660803c48ce2"
+		}
+	]
+}

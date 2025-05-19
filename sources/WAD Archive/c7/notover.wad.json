@@ -1,0 +1,16 @@
+{
+	"uid": "notover.wad",
+	"name": "Not Over",
+	"description": "Levels for Doom2, tested with Doomsday and gzDoom. Six levels so far. The idea is to go from a spaceport on invaded Earth straight into Hell. Better if played with Brutal Doom 0.18 (then again, what isn't?).",
+	"date": "2015-01-13 21:19:12",
+	"files": [
+		{
+			"filename": "notover.wad",
+			"size": 1784782,
+			"crc": 3699310822,
+			"md5": "0fb15146a9dcf201a0545c53650122fd",
+			"sha1": "c7922eacaed1c6085693278bc2c3c6c49246efae",
+			"sha256": "905d0df79bb804d81d70926a629e04128dd0384f93fc3b7bf86242fa27d38c1e"
+		}
+	]
+}

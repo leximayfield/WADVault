@@ -1,0 +1,16 @@
+{
+	"uid": "yuggot.wad",
+	"name": "Yuggot",
+	"description": "A techno-style WAD - UAC base on a far planet Yuggot. This WAD was made for First-Demo Contest \u00b9 5 which was going on August, 9th, 2008, on iddqd.ru. An essence of that contest was that the unfamiliar map is given to participants and by the command of the organizer they simultaneously begin recording first demos. The winner is that participant who will complete the level first, taking into account all respawns (record interruption wasn`t allowed). So, this WAD was made mostly for recording first-try demos.",
+	"date": "2014-12-29 16:06:15",
+	"files": [
+		{
+			"filename": "yuggot.wad",
+			"size": 2611304,
+			"crc": 1442921646,
+			"md5": "aed4001a780e15417664007f17bbd1dd",
+			"sha1": "6418de266e85e71061540adbfebd526434729fbd",
+			"sha256": "922116911678e72fa257e213aa3bd6cc6a9d2d6af84b1f34c12ecae9b2a1a642"
+		}
+	]
+}

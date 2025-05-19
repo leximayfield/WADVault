@@ -1,0 +1,16 @@
+{
+	"uid": "nucleus.wad",
+	"name": "The Nucleus",
+	"description": "Another month, another release: this time, a very sketchy (and I admit, ugly) original idea left to lie on my hard drive for 13 years (now 14, happy new year!) has gotten a new lease on life as a bloody, brutal self-contained level. Geared for less switch hunt (I read the criticism), more slaughter. All roads lead back to the core, the main arena, hence the title of the piece. There aren't any difficulty settings implemented: only the speed of your foes and the pain you're dealt need increase. Ammo and health are tight, of course. But no getting stuck in nukage pits this time around, I promise! As usual, freelook and jumping need to be activated for full enjoyment. Cheers!",
+	"date": "2015-01-13 21:36:54",
+	"files": [
+		{
+			"filename": "nucleus.wad",
+			"size": 336049,
+			"crc": 181669353,
+			"md5": "91738167bf5dc604a8efb6fb1099cac5",
+			"sha1": "2eceb95722f44c84437bd02b4cee30ed52d38ae9",
+			"sha256": "906ec6a062332fc69ceff75d7618765da106f2a2371f5232843f0c18938c8cb5"
+		}
+	]
+}

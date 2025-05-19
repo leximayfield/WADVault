@@ -1,0 +1,16 @@
+{
+	"uid": "genesis1.wad",
+	"name": "Genesis",
+	"description": "A small sized and fast paced duel map. It was made in under an hour.",
+	"date": "2013-04-19 01:55:59",
+	"files": [
+		{
+			"filename": "genesis1.wad",
+			"size": 149252,
+			"crc": 1568270170,
+			"md5": "9fa1399a30b185293809d319b5abbaf9",
+			"sha1": "9026bd79c291537eac926da34326630628221159",
+			"sha256": "96ced9b1ca89937ed8555a4048b2581dbcf5a40bbe9d5cc32d30dcfcb9acb8d9"
+		}
+	]
+}

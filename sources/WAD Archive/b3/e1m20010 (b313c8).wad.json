@@ -1,0 +1,17 @@
+{
+	"uid": "e1m20010 (b313c8).wad",
+	"name": "E1M20010.WAD",
+	"description": "This level is a nice one for multi- player cooperative monster bashing. It is not suited for deathmatch players. They will be dead allmost immediately.",
+	"version": "b313c8",
+	"date": "2014-01-11 11:18:18",
+	"files": [
+		{
+			"filename": "e1m20010.wad",
+			"size": 17165,
+			"crc": 2720527778,
+			"md5": "43cc6409821afdd89863598e4a853129",
+			"sha1": "b313c844efda48b5893d43ca79d3011a3f24912b",
+			"sha256": "869c980642e866ccd944dceca2074dace0ecfec844173086f64bae2bb6e75731"
+		}
+	]
+}

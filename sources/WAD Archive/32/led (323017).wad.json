@@ -1,0 +1,17 @@
+{
+	"uid": "led (323017).wad",
+	"name": "LED78.WAD",
+	"description": "Deathmatch WAD. A production plant inhabited by monsters. Plenty of weapons, ambush points, and everything that makes a good deahtmatch WAD good.",
+	"version": "323017",
+	"date": "2014-01-04 11:55:39",
+	"files": [
+		{
+			"filename": "led.wad",
+			"size": 77971,
+			"crc": 3697977824,
+			"md5": "6cd1e7a329ce8b627e173f4416076e3f",
+			"sha1": "3230171d96e99f9136bdb9dcbed3458fd7610d93",
+			"sha256": "e0955f695fcff7442c1a6fdd1320984150138153c7f47c1681e5e1e852ea744b"
+		}
+	]
+}

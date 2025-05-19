@@ -1,0 +1,17 @@
+{
+	"uid": "unlag2 (814e1a).wad",
+	"name": "Unleashed Aggression 2",
+	"description": "1 deathmatchlevel",
+	"version": "814e1a",
+	"date": "2014-12-03 20:11:03",
+	"files": [
+		{
+			"filename": "unlag2.wad",
+			"size": 46509,
+			"crc": 4260618420,
+			"md5": "bc982576aeed7b1584ebda38df1ce0a6",
+			"sha1": "814e1afb518a39c3d446ad1286c82dd89a18f443",
+			"sha256": "ec05325328b1faf5b0fa335b0f0257255e39e9130a8e3252d6956cb9b69067b7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "stationx (44a7ff).wad",
+	"name": "STATIONX.WAD   Ver 2.0",
+	"description": "The genetic experiments at the Universal Acme Corp. have gotten out of hand. You must clean up the mess, find the computer control central, shut it down and destroy it. This wad shows off many of the neat things DOOM can do. This is a polished wad with NO HOM and full alignments. Plenty of ammo and weapons if you use the right strategy. This level is designed for strategy and playability. Watch out for traps! You WILL be killed the first time through! Full support for single, multi-player and deathmatch.",
+	"version": "44a7ff",
+	"date": "2013-11-04 20:12:37",
+	"files": [
+		{
+			"filename": "stationx.wad",
+			"size": 125189,
+			"crc": 3761173086,
+			"md5": "9bf03147e884209c05684c4f318b3d76",
+			"sha1": "44a7ff8c7a60df51f828388bcc47f38a22c2308d",
+			"sha256": "0c051dbc984f4dd5bce39af2e6810018ad49e3d41f7ed64e911e45c88c648813"
+		}
+	]
+}

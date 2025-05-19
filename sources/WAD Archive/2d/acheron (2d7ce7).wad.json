@@ -1,0 +1,17 @@
+{
+	"uid": "acheron (2d7ce7).wad",
+	"name": "CROSSING ACHERON",
+	"description": "As in my first level -- DANTE'S GATE -- I have tried in CROSSING ACHERON to achieve a gaming atmosphere that is not only fast-paced (once the fur starts to fly), but just plain creepy. Once again, I went for the aesthetics (you know: The Look); but this time, I also tried to keep the game from being too easy. I think once you get inside, you'll find that CROSSING ACHERON has been fully optimized for DEATHMATCH. But it's just as enjoyable (if I do say so myself) in Single-player and Co?perative modes.",
+	"version": "2d7ce7",
+	"date": "2014-01-04 11:55:48",
+	"files": [
+		{
+			"filename": "acheron.wad",
+			"size": 111969,
+			"crc": 2381869681,
+			"md5": "db3479d7f48657935c5ae8695f010ff7",
+			"sha1": "2d7ce76523dc4c27aa20067615addc89e71c180d",
+			"sha256": "89441d98593449e4357f14e914106c766014f1678015c095ac5c4773fb92b273"
+		}
+	]
+}

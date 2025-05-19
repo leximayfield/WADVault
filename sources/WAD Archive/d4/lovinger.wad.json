@@ -1,0 +1,16 @@
+{
+	"uid": "lovinger.wad",
+	"name": "LOVINGER.WAD",
+	"description": "The Lovinger Outpost is a series of adventures on an alien world. These levels range from green marble fortresses, bleached sandstone aquaducts, the hollowed-out innards of a volcano, a fiendishly designed fortress near the end, and what's left of a once-peaceful UAC retreat in the woods. Each level is mid-sized, and some of them should be especially challenging in deathmatch.",
+	"date": "2014-12-27 12:43:19",
+	"files": [
+		{
+			"filename": "lovinger.wad",
+			"size": 2190847,
+			"crc": 3027643247,
+			"md5": "d29409c146ba4d170299d91a04331667",
+			"sha1": "d46b3297ee30cd8c5014407e932ab8ba6c4ae5cb",
+			"sha256": "14c0f0481f2d6e695a00cd774290dd7e3cee0bad660bde81eb2758c3250b0b4d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "HTLZRSTM (d6fc93).wad",
+	"name": "HERETIC LAZERSTORM",
+	"description": "Deathmatch Wad for multiplayer Doom II Similar to Doom II Lazerstorm. Extra rooms you can only get to by flying. I also added an exit to the WAD.",
+	"version": "d6fc93",
+	"date": "2013-11-02 16:39:25",
+	"files": [
+		{
+			"filename": "HTLZRSTM.wad",
+			"size": 30389,
+			"crc": 1461869667,
+			"md5": "6d871f5e33a6624b686eaaf829688ac6",
+			"sha1": "d6fc934b2be9183f39e0587a9b2a781480c60708",
+			"sha256": "cc6bcd91731ea9ae7bcf5649c3a74eec221a8f53bbc4a87c9cd457dddd9e10db"
+		}
+	]
+}

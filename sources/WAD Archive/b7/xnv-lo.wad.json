@@ -1,0 +1,16 @@
+{
+	"uid": "xnv-lo.wad",
+	"name": "Level One",
+	"description": "REQUIRES CC4-TEX. Short (15 minutes) map in classic tech-base style. Not tested with ZDoom.",
+	"date": "2014-12-29 15:24:26",
+	"files": [
+		{
+			"filename": "xnv-lo.wad",
+			"size": 1561810,
+			"crc": 2892546404,
+			"md5": "3f09a0a30a8155f885de96a71308e692",
+			"sha1": "b72a33c9632c654cfd636e2636d4b2ee03491818",
+			"sha256": "1f36eb836dedf4d28c405349081e5a59783c6fc81ca4db457d18cb5ee6331f1d"
+		}
+	]
+}

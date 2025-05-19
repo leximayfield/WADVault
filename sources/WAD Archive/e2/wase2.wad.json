@@ -1,0 +1,16 @@
+{
+	"uid": "wase2.wad",
+	"name": "Petersen Station",
+	"description": "Another rejected map from the \"Doom: the way ID did\" project, this level replace e2m9...",
+	"date": "2014-12-13 17:44:46",
+	"files": [
+		{
+			"filename": "wase2.wad",
+			"size": 158515,
+			"crc": 3998116453,
+			"md5": "7270b0bf5fa3295b7d9e7d0adfd3d934",
+			"sha1": "e295da8c8ce3840e14d0c56b2dfce6872fef0cbb",
+			"sha256": "a885db786d460bbf48c32f5c21c8e70bb2d15e706c44c14da14c992712031e9e"
+		}
+	]
+}

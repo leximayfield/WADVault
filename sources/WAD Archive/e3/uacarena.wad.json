@@ -1,0 +1,16 @@
+{
+	"uid": "uacarena.wad",
+	"name": "UAC Main Arena",
+	"description": "Some guy in ZDaemon encouraged me to release MAP01 from shinffa as a standalone map. So, here it is :) Pleae, read carefully the info on the skill levels!",
+	"date": "2014-12-15 22:12:20",
+	"files": [
+		{
+			"filename": "uacarena.wad",
+			"size": 552297,
+			"crc": 822656879,
+			"md5": "6c1f11fae8a614bc468c059a2bcba426",
+			"sha1": "e3af87eb4eb0153efd0a996ea11899ef8677f085",
+			"sha256": "ecb576f374549718789c1f4f8d60067b20e9baf2280423237c7b193f8a9a66b0"
+		}
+	]
+}

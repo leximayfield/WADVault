@@ -1,0 +1,17 @@
+{
+	"uid": "gsxr_01 (b05f3d).wad",
+	"name": "GSXR - 1",
+	"description": "Deathmatch wad for Doom II. This level is fairly straight forward, there are no secrets or monsters. There is no armor or health (I despise both). This level is probably best played NOT using altdeath. It's about the same size as id's level 2.",
+	"version": "b05f3d",
+	"date": "2016-02-07 20:26:39",
+	"files": [
+		{
+			"filename": "gsxr_01.wad",
+			"size": 45130,
+			"crc": 283632843,
+			"md5": "a0eaa6cff151bef943681105d6caf939",
+			"sha1": "b05f3d423fb74f50f6908d1be5ec9adf297ae3a6",
+			"sha256": "8b716e993340e138b8085bb4cb70227b71b15e01698f31730cc972e5dacfa91b"
+		}
+	]
+}

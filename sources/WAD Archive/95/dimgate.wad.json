@@ -1,0 +1,16 @@
+{
+	"uid": "dimgate.wad",
+	"name": "Dimension Gate",
+	"description": "The adventure begins in a Doom'd version of my office (not very detailed). From there, things get more and more bizarre. The level has several \"stages\", each separated by a transporter. There are a couple secret transporters and some neat affects where I try to get as close to true-3D (you can go under where you can go over). Some of these areas are a little confusing, but you can't get \"trapped\" anywhere.",
+	"date": "2014-12-14 21:04:20",
+	"files": [
+		{
+			"filename": "dimgate.wad",
+			"size": 360444,
+			"crc": 1533138637,
+			"md5": "db110773ca66ffa4a32bae76daa341a4",
+			"sha1": "955b992c4083b52a89979af6c7bdf6191b47c350",
+			"sha256": "d4d5914e723a41e5f7979a0501fef55dffb35f248aa69a3f4d84417132d93468"
+		}
+	]
+}

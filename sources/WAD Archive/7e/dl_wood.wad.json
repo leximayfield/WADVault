@@ -1,0 +1,16 @@
+{
+	"uid": "dl_wood.wad",
+	"name": "WOOD BASE",
+	"description": "Yet one of my early base-levels. Again lots of traps and action!",
+	"date": "2014-12-13 12:52:37",
+	"files": [
+		{
+			"filename": "dl_wood.wad",
+			"size": 74588,
+			"crc": 1387424171,
+			"md5": "b6350ea02681f6fdc00db999a5d2f2b4",
+			"sha1": "7e19c275c52132073167bf6bca1b7179d41ebb56",
+			"sha256": "9335152fb206b0352d2b1501c07ed5c97ccd7c07e829ee3c23a197e45efc8d76"
+		}
+	]
+}

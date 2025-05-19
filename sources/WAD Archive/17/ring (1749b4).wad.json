@@ -1,0 +1,17 @@
+{
+	"uid": "ring (1749b4).wad",
+	"name": "The Ring",
+	"description": "A deathmatch level that has been tested in 2 player and works great! It should be pretty good for 3 or 4 player as well, but if someone gets 3 or 4 player going send me a demo. Thanks. In the middle of the ring, there's a special effect that I don't think has ever been used before: a reflective marble floor! Check it out. Not much emphasis on the BFG here - as I'm not very big on that weapon.",
+	"version": "1749b4",
+	"date": "2014-12-15 22:58:15",
+	"files": [
+		{
+			"filename": "ring.wad",
+			"size": 105532,
+			"crc": 4047573462,
+			"md5": "afc042d171b9ba461c29c25eb9c0548d",
+			"sha1": "1749b4c3d0c80b0802cd16bd227981cd4a95eb43",
+			"sha256": "dc20bc0283cb6127c4f713027774d2d52430b3b558c1c3a8010e19b6a44072d4"
+		}
+	]
+}

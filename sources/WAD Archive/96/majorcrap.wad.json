@@ -1,0 +1,16 @@
+{
+	"uid": "majorcrap.wad",
+	"name": "MajorCrap.WAD: an extremely crappy level",
+	"description": "This is a contest entry for the ZDoom forums Crappy Wad Competition. It is a joke wad, and does not accurately portray my mapping ability. It is currently my only released DooM level, as I am working on a team project and 6 of my own projects as of now.",
+	"date": "2015-12-29 13:32:59",
+	"files": [
+		{
+			"filename": "majorcrap.wad",
+			"size": 24434,
+			"crc": 2133725446,
+			"md5": "b593a04930e89f281f0e8c6bae0d3aa1",
+			"sha1": "966f79c7e4b057ccf05c1d5cefe995fd497d928c",
+			"sha256": "577aab35987d977b7d612b113920eaa8ba501d932abd544606013045adc5ccb3"
+		}
+	]
+}

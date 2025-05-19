@@ -1,0 +1,17 @@
+{
+	"uid": "bigopen (690b55).wad",
+	"name": "The Big Open",
+	"description": "Thought I'd stretch the DOOM engine a bit. This level is wide open, with six main areas. Its the biggest PWAD I've made or ever seen. That is, big in area, not sectors and such. It did hang the game for unknown reasons, so maybe there is a size limit. Its too big for a good deathmatch unfortunatly, though the starts are there. I like the sense of moving to a distinct -new- area. DOOM has little continuity...one area, hit a switch, poof, new area. I would prefer a future with a wide open map...quake? You only get a sense of that here.",
+	"version": "690b55",
+	"date": "2013-11-02 16:06:39",
+	"files": [
+		{
+			"filename": "bigopen.wad",
+			"size": 221966,
+			"crc": 4164326419,
+			"md5": "ac7173419923e6e8c9318ac79fe0dd5f",
+			"sha1": "690b5524174f44d37e1c6bdd13d1edd0aa5be1d2",
+			"sha256": "770f33cdc61fdea0fd22f33e8483219bfb00025f5a59d6c43af38f36dcd91886"
+		}
+	]
+}

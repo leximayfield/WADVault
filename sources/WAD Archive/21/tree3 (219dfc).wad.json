@@ -1,0 +1,17 @@
+{
+	"uid": "tree3 (219dfc).wad",
+	"name": "Tree3.WAD",
+	"description": "Night falls as you prepare to enter another base on Phobos. This base was built right into the hills, and uses a lot of natural caverns in it's design. Three levels of great fun and interesting designs. These levels are best for non-deathmatch play, although deathmatch starts are there. They should also have very little slowdown, since I designed them with a 386/40. Level 1: This level is pretty difficult, with little ammo or health, and monsters from all sorts of triggered doors. Also, heavy on the triggers and switches. (My specialty! :') Cool places include an expansive cavern and a couple \"pseudo-mazes\". Level 2: This level is an exhibition of really cool designs, including a number of places with manual light-sourcing, and every other neat thing I could think of. Visually entertaining, fun to play. Level 3: Well, this one is just cool. Hard, fun, some caverns, a bunch outdoors. If you can't find all the secrets... have you gone through every teleporter? A nice stressful conclusion to the trilogy.",
+	"version": "219dfc",
+	"date": "2014-01-07 22:01:16",
+	"files": [
+		{
+			"filename": "tree3.wad",
+			"size": 1186836,
+			"crc": 4287325673,
+			"md5": "3aeacfd3c39a3f89b60a08e55bf391a1",
+			"sha1": "219dfc27bc305bd7496800e23a60644dca563dd7",
+			"sha256": "e22056116556bb1ef548410d4f23d6a118eccc66a860b14e44bca45137ac41af"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "d2 (5c6e33).wad",
+	"name": "D2.WAD",
+	"description": "This is the second level that I have released, (*Note: Not my _very_ second level, I have made hundreds, which are all sitting on my hard drive, but the second level which I think is good enough to upload.) It is also the first Deathmatch Level I have released. As above, I have made hundreds more, none of which I feel are good enough to be released.",
+	"version": "5c6e33",
+	"date": "2014-12-15 22:08:01",
+	"files": [
+		{
+			"filename": "d2.wad",
+			"size": 140068,
+			"crc": 1521517746,
+			"md5": "e8b7cd6858c224f8b73269236a32f282",
+			"sha1": "5c6e33c395c1fb86968400c66f44bb684f6d1a48",
+			"sha256": "7a49e9180b84ca597dfb0983a1a228d0d686dc4ead0aa3899f925f4f8d382d33"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "baseballdm.wad",
+	"name": "Baseball DM",
+	"description": "A Deathmatch level for the SkullTag source port",
+	"date": "2013-04-19 03:03:39",
+	"files": [
+		{
+			"filename": "baseballdm.wad",
+			"size": 218484,
+			"crc": 3226856397,
+			"md5": "78171c08e70c732c8a42055cbda3b8a8",
+			"sha1": "3f67ca0e8d428429995d0d3f0b4ff59d3eae729b",
+			"sha256": "6e2a1b19724db7c8c8cfe099cd8e7d42e8bf74f6cd3f3fc466d09a82a390d9e6"
+		}
+	]
+}

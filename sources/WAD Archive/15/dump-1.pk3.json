@@ -1,0 +1,16 @@
+{
+	"uid": "dump-1.pk3",
+	"name": "DUMP Episode 1: Fuck Time Limits",
+	"description": "Mapping is hard. A lot of us have been wanting to map for a while, but can't really get over that initial hump. There's only one way to improve, but oh man is it painful to just grind, grind, grind until you get a clue and figure out what to do. We get awesome ideas! Oh, man, this would be so cool! Then we jump in and...stare at the grid for hours. For 2016, I really want to better my mapping abilities and put out some good stuff. Two friends, Mystical and Gardevoir, said that a good experiment might be to try speedmapping. Just get the shit out of the mind and into the editor, stream-of-consciousness work. 4-6 hours, Zandro compatibility, vanilla monsters/weapons. Then a friend decided to jump on board. Then another friend. Then another friend. Then we had a whole bunch of people making maps, vet and newbie alike, all pushing against a 4-6 hour deadline to make some ZDoom maps to jump up and down on. Then we compiled them into a single pack and gave 'em one more run through for polish and decoration. Obviously, we finished. We now present to you, a small hub leading to a handful of different maps. Beat each map to unlock the exit, and exit to win. Gameplay mods should be supported. Pistol start is enforced, though, so something like DoomRLA or Hideous Destructor will likely piss you off. Monsters are vanilla, except for the secret/final map, which comes to a grand total of two new enemies. The primary purpose of this project is to have a way for all of the newbies to try and push over that initial hump together, to MAKE something. It's a way for the vets to lead on some new mappers, welcome them into something they wouldn't normally try. Please enjoy, a lot of people really fought tooth and nail in order to hurdle over the hump and make it in. Also please feel free to point out any issues, troubles, errors, imbalances, and etc about the maps. Don't feel the need to sugarcoat, give it to us straight--none of us are pro-tier mappers. We can't improve if we don't know what's wrong.",
+	"date": "2016-02-26 21:34:13",
+	"files": [
+		{
+			"filename": "dump-1.pk3",
+			"size": 14956129,
+			"crc": 1134355701,
+			"md5": "c145bf6b50943362f88fe88fad60eaa0",
+			"sha1": "155cf3f507ac3fc1f07d8221d7119da77e9218c5",
+			"sha256": "07fcad910e030bbc43fb3943ff53bd798532119d8f8fec8e54ee78c0ee232e45"
+		}
+	]
+}

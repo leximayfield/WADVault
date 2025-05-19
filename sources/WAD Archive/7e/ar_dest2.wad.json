@@ -1,0 +1,16 @@
+{
+	"uid": "ar_dest2.wad",
+	"name": "Arena Of Destruction 2",
+	"description": "My friend Schorsch complained that my first level, AR_DEST1.WAD hadn't enough Arch-Viles (only 3!) So I got the idea to make a level where you won't run out of Arch-Viles and other Critters... In Arena Of Destruction 2, YOU can decide how many Arch-Viles, Cyber Demons and others appear... Just press the right button! A lot of other Deathmatch-levels are boring, because they are too big, and once you have played them, you get bored (I made one like this, too! But it was my first one) The storage can also be emptied at once, but I don't recommend it... How? Find it out! There is a second set of switches awaiting to be discovered...",
+	"date": "2013-11-06 22:42:27",
+	"files": [
+		{
+			"filename": "ar_dest2.wad",
+			"size": 221343,
+			"crc": 3626099698,
+			"md5": "2f03082a8bcefce63f868cec551df856",
+			"sha1": "7e0093589c75a9cc7ae25a7262ee5647b91ef111",
+			"sha256": "723cc70f4fcbf1d49440de67d464c4005f79158886f763bd0081ad9352ee2e5f"
+		}
+	]
+}

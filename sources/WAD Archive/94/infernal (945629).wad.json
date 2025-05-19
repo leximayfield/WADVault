@@ -1,0 +1,17 @@
+{
+	"uid": "infernal (945629).wad",
+	"name": "INFERNAL",
+	"description": "Replacement for MAP28 and MAP29 of DOOM II. I've always wanted to see a heavily hell-based map, so I tried and created my own. It was originally meant to be just one map, but it ended up being too large, so I split it in two separate maps. It's rather difficult, you won't find any more \"zombie humans\" (except just to get the shotgun and chaingun), and you'll be wearing radiation suits constantly in the map. I hope you'll enjoy it!",
+	"version": "945629",
+	"date": "2014-12-24 17:48:52",
+	"files": [
+		{
+			"filename": "infernal.wad",
+			"size": 649660,
+			"crc": 579135867,
+			"md5": "c4840c15a60d8f6b2930a9324c0d7d07",
+			"sha1": "9456298b4d3c912b5670e62c9bf9540250dfbe59",
+			"sha256": "70a2a2724a6e8a9a73ea568e9d498cfd8d879da3f94140a9854d45dcd6d10269"
+		}
+	]
+}

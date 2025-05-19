@@ -1,0 +1,17 @@
+{
+	"uid": "kendm1 (ff2a82).wad",
+	"name": "KENDM1.WAD",
+	"description": "PWAD file for E1M1.",
+	"version": "ff2a82",
+	"date": "2016-02-07 20:30:42",
+	"files": [
+		{
+			"filename": "kendm1.wad",
+			"size": 55926,
+			"crc": 1336947455,
+			"md5": "95e8dde1cd8d91d2ee32a4ba6478a5e1",
+			"sha1": "ff2a825d4c15dad54bb481fdf236fbe9c178a90e",
+			"sha256": "a745a71a46ec0784c760e582979e0c2984d3cb2d37bca3e0d01163161485da70"
+		}
+	]
+}

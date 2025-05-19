@@ -1,0 +1,17 @@
+{
+	"uid": "ssarena (d3be9e).wad",
+	"name": "SSARENA.WAD",
+	"description": "This level was designed to be used in deathmatch mode..... You can play with it by yourself, but chances are you could go blind!",
+	"version": "d3be9e",
+	"date": "2016-02-07 20:27:36",
+	"files": [
+		{
+			"filename": "ssarena.wad",
+			"size": 47061,
+			"crc": 4010004800,
+			"md5": "8024538f04b6bd56ed068d1e46e48736",
+			"sha1": "d3be9e6f44be9b253a12c50eee99ee7e5bf2b1cf",
+			"sha256": "69840974915a5350fc509fcb41d2fbba0a5481292cc391f35b061c7f0429a2ff"
+		}
+	]
+}

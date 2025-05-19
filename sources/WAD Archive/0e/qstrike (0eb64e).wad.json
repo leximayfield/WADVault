@@ -1,0 +1,17 @@
+{
+	"uid": "qstrike (0eb64e).wad",
+	"name": "Quantum Strike",
+	"description": "\"Quantum Strike\" is a set of 3 colourful Boom-format maps designed to be played from a Pistol Start. Gameplay is purely action-based with very high monster density. UV is meant to challenge \"good at Doom\" individuals and masochists that don't mind dying repeatedly. HMP should be slightly more reasonable and HNTR more laid back.",
+	"version": "0eb64e",
+	"date": "2018-05-29 19:40:23",
+	"files": [
+		{
+			"filename": "qstrike.wad",
+			"size": 6895874,
+			"crc": 3596130357,
+			"md5": "a31d847d698e3b5d2c6a5888ca1526d6",
+			"sha1": "0eb64e63a6c61faa15643b4f6753c6d6a4a8eb30",
+			"sha256": "dcc8608c65da8158eeb86735d369cf425012c68a5c94cfbe67c246ddef0144b2"
+		}
+	]
+}

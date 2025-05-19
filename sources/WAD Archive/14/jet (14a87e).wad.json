@@ -1,0 +1,17 @@
+{
+	"uid": "jet (14a87e).wad",
+	"name": "JET.WAD",
+	"description": "Deathmatch playhouse. Lots of \"detail.\" Many sniper/hiding areas. Also many interesting, pointless \"trivial\" features. NO MONSTERS except one DEMON in a cage. 5 MAIN areas: Catacomb area, military \"snipers\" area, Museum \"BFG\" room, Bridges, Shrine of the All Seeing Eye.",
+	"version": "14a87e",
+	"date": "2014-12-03 20:17:30",
+	"files": [
+		{
+			"filename": "jet.wad",
+			"size": 70953,
+			"crc": 3747671862,
+			"md5": "0c34205398ab6efcaaa9a00b7b3cfbd4",
+			"sha1": "14a87eed0217827b7ea9a10766e59b136ac76dcf",
+			"sha256": "d35d4fdf404c40ba1b173cf6f9f68885e74fd7d71aad1d1e51d798c97ed1616c"
+		}
+	]
+}

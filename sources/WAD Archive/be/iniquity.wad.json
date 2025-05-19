@@ -1,0 +1,16 @@
+{
+	"uid": "iniquity.wad",
+	"name": "Iniquity",
+	"description": "My first wad, of many to come. Tough and will take some work to get through and uses all but the infamous BFG, but it is possible to complete without it. Will you see my nickname??",
+	"date": "2013-07-09 20:23:06",
+	"files": [
+		{
+			"filename": "iniquity.wad",
+			"size": 104293,
+			"crc": 4134779272,
+			"md5": "ea59811b3d5d13e7cb6724ac57f516f8",
+			"sha1": "bee7cfcc7c90d801c2e8e1d556d028697caea991",
+			"sha256": "1162dc0a766d5605ffc99f05cc98e24138b126a2c5bc5d509a61f7dd371e97ff"
+		}
+	]
+}

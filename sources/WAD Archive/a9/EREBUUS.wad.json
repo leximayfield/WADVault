@@ -1,0 +1,16 @@
+{
+	"uid": "EREBUUS.wad",
+	"name": "Journey to Erebus",
+	"description": "3 levels for Doom 2. Based on my old \"bhouse\" level, but heavily, heavily modified and split into 3 maps. Motivation: a facility hidden in a cavern has been conducting experiments in hell, and have found a legendary volcano called Erebus. Journey through hell and destroy all that dwell in it.",
+	"date": "2014-12-24 18:47:20",
+	"files": [
+		{
+			"filename": "EREBUUS.wad",
+			"size": 1636951,
+			"crc": 1113224611,
+			"md5": "502b5f7ec61f99501de1f42fdcc75527",
+			"sha1": "a915ba7e3cbd3356d37afb04a0c90c264308c545",
+			"sha256": "37c5c3a7f846369ba31193ad1066d7be25e2e9b371b0f189b83a89f459960c1a"
+		}
+	]
+}

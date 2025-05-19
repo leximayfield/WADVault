@@ -1,0 +1,17 @@
+{
+	"uid": "ADV1 (f6ac99).wad",
+	"name": "My First Adventure",
+	"description": "My first DOOM adventure and excursion into using the DEU. This is an out and out shoot 'em up and is designed for single player mode, but it is set so that up to 4 can go at it. What makes this adventure interesting is the number of creatures involved and the interesting strategy that must be used to defeat them.",
+	"version": "f6ac99",
+	"date": "2013-11-04 20:07:58",
+	"files": [
+		{
+			"filename": "ADV1.wad",
+			"size": 55809,
+			"crc": 2724140035,
+			"md5": "80faa0c6a1a9f578ef430edf4d2ba31f",
+			"sha1": "f6ac994fdc138954bfd7bb87d33354eb9010207d",
+			"sha256": "989eb5b337bddc92b9c609f3789c9f3fb590d76061bd1ee4e8ec2676a89e0c98"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "virtus.wad",
+	"name": "Testae Virtus",
+	"description": "Original idea was to create a 4-level megawad containing levels of absolutely different styles (medieval, hi-tech, hell, etc.). For numerous reasons I failed to create it. Testae Virtus (The Castle of Skull) is one level in medieval style. Mostly it was impressed by Shadowman's great Cheogsh and Hexen. It is a big castle, mostly skull-themed (which is original, as usually we see various hell castles), filled with mostly new monsters (and some old ones too). I didn't change weapons, though, to preserve original gameplay. You are invulnerable during the cuscenes while the camera is changed, so don't worry. Also, most of them usually can't be triggered while you're fighting someone.",
+	"date": "2014-12-29 18:17:56",
+	"files": [
+		{
+			"filename": "virtus.wad",
+			"size": 10709390,
+			"crc": 3946001232,
+			"md5": "2bb299422d45437589d935ab0e4f1a15",
+			"sha1": "1b4f6ec9f3ab29561cfdd0a460f19c072a47a0ca",
+			"sha256": "42cef79038cba509455aefdc3a46c7fc79b0290bb052bf83c2e6c127daadf38b"
+		}
+	]
+}

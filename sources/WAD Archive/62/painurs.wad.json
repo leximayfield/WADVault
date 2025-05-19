@@ -1,0 +1,16 @@
+{
+	"uid": "painurs.wad",
+	"name": "Painfully Yours",
+	"description": "This is a Deathmatch level. It has 10 starts, so playing with 10 players with good computers should be possible. Use any engine you want to use to play this except doom2.exe.",
+	"date": "2014-12-15 22:49:19",
+	"files": [
+		{
+			"filename": "painurs.wad",
+			"size": 265785,
+			"crc": 2926609465,
+			"md5": "8271076fddb413459eca54e7d6448be8",
+			"sha1": "62db950d0f2134b4669d6786d8a708b23d8e4714",
+			"sha256": "ae2fed03492c5742faddac746b4310db3ff93f49a932c85d33565b518ca6407d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dmwad.wad",
+	"name": "The ULTIMATE DM-WAD",
+	"description": "Deep shadows and traps.",
+	"date": "2014-12-15 22:16:36",
+	"files": [
+		{
+			"filename": "dmwad.wad",
+			"size": 407341,
+			"crc": 3289521278,
+			"md5": "afbff52b1a92e413a58aa8c4a6ed3c8b",
+			"sha1": "d2a3815f6287c7aab69365b8756858ab339f4f99",
+			"sha256": "28bb54d8d177b1ae264901b1f39c0c639dea3eeb6b98cc53c95953d268ff2f16"
+		}
+	]
+}

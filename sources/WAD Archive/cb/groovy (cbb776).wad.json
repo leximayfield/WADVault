@@ -1,0 +1,17 @@
+{
+	"uid": "groovy (cbb776).wad",
+	"name": "Groovy for Doom2",
+	"description": "Deathmatch for Doom2; no BFG or single shotgun. : My step-mom protects the exit. : Enough backpacks to travel abroad...",
+	"version": "cbb776",
+	"date": "2016-02-07 20:33:05",
+	"files": [
+		{
+			"filename": "groovy.wad",
+			"size": 22612,
+			"crc": 4002489449,
+			"md5": "5226b3046b159f3777ff3c9587fd1241",
+			"sha1": "cbb776d8da793d8475dce7caf3280b62bd520123",
+			"sha256": "d4ce130f9e30bb4d221c429db5c7cb1a988726af20f6169790dcd73924a538c1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "bomb_x.wad",
+	"name": "[B][O][M][B]",
+	"description": "After I finished Pyr0maniac, I said that I wasn't ever going to make another weapons mod using Dehacked again. I lied. :P",
+	"date": "2013-04-18 23:19:49",
+	"files": [
+		{
+			"filename": "bomb_x.wad",
+			"size": 993378,
+			"crc": 204726090,
+			"md5": "520b7fafec82f20109632a59197a7902",
+			"sha1": "18949315ff8e7db5c8c4ced03235bf538555fa4d",
+			"sha256": "d90c6debbc1aac6d4280d61fb32255e663ef59a514885013816fd1dbe59d5887"
+		}
+	]
+}

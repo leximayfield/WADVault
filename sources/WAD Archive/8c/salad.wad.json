@@ -1,0 +1,16 @@
+{
+	"uid": "salad.wad",
+	"name": "SALAD DODGER",
+	"description": "Deathmatch wad. Its quite small with limited weapons so play it on alt death .",
+	"date": "2014-12-15 22:46:40",
+	"files": [
+		{
+			"filename": "salad.wad",
+			"size": 33890,
+			"crc": 607684788,
+			"md5": "9c7d55ea1054acb39658dea226532ee5",
+			"sha1": "8c26525920cbad6af1979948d0e9dfa18806c2f8",
+			"sha256": "8a0c8508ec5630c7b7f79e566b88f912646761d9cd1f88c2baa797eb238a0963"
+		}
+	]
+}

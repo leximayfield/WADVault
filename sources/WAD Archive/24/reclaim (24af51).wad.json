@@ -1,0 +1,17 @@
+{
+	"uid": "reclaim (24af51).wad",
+	"name": "Reclamation",
+	"description": "Reclamation - : An ancient sanctuary has been corrupted : by the minions of evil; reclaim the : church and make the bastards pay.",
+	"version": "24af51",
+	"date": "2014-12-30 11:25:08",
+	"files": [
+		{
+			"filename": "reclaim.wad",
+			"size": 442935,
+			"crc": 304583534,
+			"md5": "07b8fc9f35237c5c2596b15d49be7932",
+			"sha1": "24af51b15f5275c76792a41f14fd77c99c39252c",
+			"sha256": "941c40bb796807c951af9a88f5618989d2a870ef6449f8a2a2335d0382583708"
+		}
+	]
+}

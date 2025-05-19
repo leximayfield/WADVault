@@ -1,0 +1,16 @@
+{
+	"uid": "fragging.wad",
+	"name": "Fragging",
+	"description": "A level for fragging your friends, (or enemies) plus a couple pieces of architecture from Doom 2 that I liked. Also the more powerful weapons are harder to reach...",
+	"date": "2013-11-03 17:47:10",
+	"files": [
+		{
+			"filename": "fragging.wad",
+			"size": 34425,
+			"crc": 1604484461,
+			"md5": "8c1756d9d7ec0e5b8371be8d9cee8366",
+			"sha1": "0758b57b36a960bb368a69092944752ace566bca",
+			"sha256": "de67c3fe3a220bf3971f96aefa8ec61528ae62b53fe85adcaac5c4488f49031b"
+		}
+	]
+}

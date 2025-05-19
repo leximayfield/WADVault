@@ -1,0 +1,17 @@
+{
+	"uid": "temple (ec427f).wad",
+	"name": "Temple.wad",
+	"description": "This wad is an original wad created using DOOMCAD 6.1 It took me about two months to complete in my spare time. When creating it I started with a single room and just kept adding stuff until I was satisfied (check out the throne room!). I designed it to be played as both a single player and multi/death-match player wad (difficulty levels 1-2 for death-match). There are several hidden doors, secret rooms, suprises, and many monsters on higher difficulty settings. I put a lot of attention to detail and haven't found any bugs. The single player mode was tested extensively but I didn't have anyone to test multi or deathmatch modes with. There are a couple of spots where, in death-match you can ambush your buddy (a crushing ceiling in the red room, and a hole in the spine hall where you can pop up out of the floor when he steps across a line). This is my first attempt at creating a WAD so please be kind. Enjoy!!! (please tell my what you think!!!) glover@starwell.com",
+	"version": "ec427f",
+	"date": "2014-12-14 20:47:51",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 115005,
+			"crc": 2938538813,
+			"md5": "41751e38699221371b60c0b87919e807",
+			"sha1": "ec427f4aee97d95eb9b178b2a16b89671ab5f6d3",
+			"sha256": "22f7f2bedb37ed7e348cb9341ea36f3e1246e519b157129350a4e6a5006010bc"
+		}
+	]
+}

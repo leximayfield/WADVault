@@ -1,0 +1,17 @@
+{
+	"uid": "tomb (e9a16d).wad",
+	"name": "THE TOMB OF ALTHEUS",
+	"description": "DOOM II single player level designed like an ancient mastaba tomb. Inspired by the tomb of Egyptian Pharaoh Sethos I (c. 1290 BC) 125 K.",
+	"version": "e9a16d",
+	"date": "2015-01-14 23:03:03",
+	"files": [
+		{
+			"filename": "tomb.wad",
+			"size": 125070,
+			"crc": 4013440545,
+			"md5": "f83dfe87bb2fdc4ac34395785bb9deba",
+			"sha1": "e9a16d864cbd5193f9d4f5b7091042bc38504795",
+			"sha256": "07a78b9b30be4ec839ee47a355b309c3f1d133550945b88c3546e86d4c4ffe56"
+		}
+	]
+}

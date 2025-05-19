@@ -1,0 +1,16 @@
+{
+	"uid": "furious (2fc3f4).wad",
+	"name": "FURIOUS (DOOM II Deathmatch PWAD)",
+	"version": "2fc3f4",
+	"date": "2013-11-02 15:59:16",
+	"files": [
+		{
+			"filename": "furious.wad",
+			"size": 221637,
+			"crc": 4236040510,
+			"md5": "5beb1ce4642ea9f9f8f2dded70aa91ac",
+			"sha1": "2fc3f44a2d3a1770a79f1cf43eb612e130c17347",
+			"sha256": "55e5ce8c6e4c769cfc71a886c94e78c135bbc160464a2d5f17cedc6820bcb490"
+		}
+	]
+}

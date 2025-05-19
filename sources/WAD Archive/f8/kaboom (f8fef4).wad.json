@@ -1,0 +1,17 @@
+{
+	"uid": "kaboom (f8fef4).wad",
+	"name": "KABOOM   for BOOM v2.01",
+	"description": "See story below.",
+	"version": "f8fef4",
+	"date": "2015-01-05 16:27:58",
+	"files": [
+		{
+			"filename": "kaboom.wad",
+			"size": 2260108,
+			"crc": 2221960332,
+			"md5": "37e0355556dcd19855a6f2f6f37d43a5",
+			"sha1": "f8fef428ca3000c1ef3d50a4793ecb1964413648",
+			"sha256": "f7b0b7335c6c9845c79ab7d3c3672d3d4d167021b8307804023adbf2515c1903"
+		}
+	]
+}

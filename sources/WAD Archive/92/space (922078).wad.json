@@ -1,0 +1,17 @@
+{
+	"uid": "space (922078).wad",
+	"name": "SPACE.WAD",
+	"description": "DeathMatch on a mini Space Station!",
+	"version": "922078",
+	"date": "2015-12-07 12:28:04",
+	"files": [
+		{
+			"filename": "space.wad",
+			"size": 153192,
+			"crc": 839664220,
+			"md5": "8d79a1f2174c336b509b7740877a161d",
+			"sha1": "92207847884052cc5b52ca94d966b2c39622660d",
+			"sha256": "14ebc9b638e168670d4856a062c378487a5802f81dd3803c6d3830eda5f38bec"
+		}
+	]
+}

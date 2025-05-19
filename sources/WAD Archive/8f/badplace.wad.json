@@ -1,0 +1,16 @@
+{
+	"uid": "badplace.wad",
+	"name": "badplace",
+	"description": "This wad is fairly large, but not overly complex. Should provide a good balance of monsters/ammo, but not tested/built for anything other than Ultra-violence. I think this is my 2nd ever released wad.",
+	"date": "2014-12-21 16:37:52",
+	"files": [
+		{
+			"filename": "badplace.wad",
+			"size": 581553,
+			"crc": 927238863,
+			"md5": "e5303e856cd50e245b3182f734c36af3",
+			"sha1": "8ff44bb8a6ddb95be1ab57d3284bd4f26c6ead52",
+			"sha256": "792ec386a48221aa751320375d2ad0119e10a4294465156ba3beb13b9ac84b56"
+		}
+	]
+}

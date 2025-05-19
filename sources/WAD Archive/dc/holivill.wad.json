@@ -1,0 +1,16 @@
+{
+	"uid": "holivill.wad",
+	"name": "Holiday in the village",
+	"description": "A map placed in a city like E1 style. Combat is hard but not impossible. The map is quite ugly, so don't you hope an awesome architecture.",
+	"date": "2014-12-30 11:26:20",
+	"files": [
+		{
+			"filename": "holivill.wad",
+			"size": 232906,
+			"crc": 968781814,
+			"md5": "685fce3f203cde9b189e47551bfbbac4",
+			"sha1": "dcbcb12b5092e0ecc27181b14951eb0b300a869e",
+			"sha256": "a4996b0ce0d88961f3f32e08941e0331c7b0880966b61637428902a751fd69e3"
+		}
+	]
+}

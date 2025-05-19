@@ -1,0 +1,17 @@
+{
+	"uid": "SnakeImp (950bf6).wad",
+	"name": "Snake Imp",
+	"description": "This wad contains replacement sprites for the Imp, it's a combination of that snake thing from Heretic and the Doom imp. I got the original idea from The Doom Beastiary (http://haunt.8m.com/beastiary/), more specific the Imp Serpent (on the imps page) created by Enjay. I didn't follow his design exactly, but the idea is similar, so I can't take credit for the design of this monster.",
+	"version": "950bf6",
+	"date": "2015-09-14 21:56:12",
+	"files": [
+		{
+			"filename": "SnakeImp.wad",
+			"size": 116057,
+			"crc": 4178381072,
+			"md5": "90df2db2c078e99641090c64aed74537",
+			"sha1": "950bf6134d11e40a00110d206c2fa812bfd50dc4",
+			"sha256": "e7242cefdaffad9c117f562bfcd2fd705a883296c1c2c7102ca6002143b38ea2"
+		}
+	]
+}

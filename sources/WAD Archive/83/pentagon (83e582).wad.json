@@ -1,0 +1,17 @@
+{
+	"uid": "pentagon (83e582).wad",
+	"name": "Pent-A-Gon",
+	"description": "This is a huge level with hundreds of monsters. There are 7 Cyberdemons and 3 Spiderboss. I tried to avoid confusion and make some kind of a path for finishing the level (with keys) but I didn't succeed.",
+	"version": "83e582",
+	"date": "2015-01-14 22:41:57",
+	"files": [
+		{
+			"filename": "pentagon.wad",
+			"size": 176993,
+			"crc": 1363675274,
+			"md5": "2f73fab4cf59706aef7e41b5e90c6000",
+			"sha1": "83e582cb5aeb818fbe04b4a8aa5dd728d2c12791",
+			"sha256": "f29d20e9e25284e3b57ac19470618fefc2430d43775a3d10cf0a64d98e0dc2dd"
+		}
+	]
+}

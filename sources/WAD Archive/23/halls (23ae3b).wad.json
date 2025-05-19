@@ -1,0 +1,17 @@
+{
+	"uid": "halls (23ae3b).wad",
+	"name": "Halls of Death (HALLS.WAD)",
+	"description": "Experience the new era of Deathmatch: Halls of Death! This is the ultimate level of Deathmatch available today. \"If you haven't tried it, you haven't tried REAL deathmatch.\" - Jay Wilbur.",
+	"version": "23ae3b",
+	"date": "2013-11-02 15:37:38",
+	"files": [
+		{
+			"filename": "halls.wad",
+			"size": 34962,
+			"crc": 2377835678,
+			"md5": "3dcff32c09eaabcfead4d6928d9b5603",
+			"sha1": "23ae3b125f21887b93a7463c74935369a16b159d",
+			"sha256": "f70fd0d7dc4bd0dd5fa9115b0f24c1e8507bfe588073b757a7dd1ecd6efc7219"
+		}
+	]
+}

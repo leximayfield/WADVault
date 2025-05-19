@@ -1,0 +1,17 @@
+{
+	"uid": "escape (299560).wad",
+	"name": "ESCAPE.ZIP",
+	"description": "See SCENARIO.TXT",
+	"version": "299560",
+	"date": "2014-01-11 11:19:24",
+	"files": [
+		{
+			"filename": "escape.wad",
+			"size": 151501,
+			"crc": 3196901578,
+			"md5": "e43d2ddc1be506fe059e6c35d319d9c4",
+			"sha1": "2995604ab89ad03a778f6cbf51a48a20030fd2a2",
+			"sha256": "f3fe42bc670ef070362480732e6f9365027f6585bf15cd4125cc1acf249b78a3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gray.wad",
+	"name": "Inside Of The Gray Building",
+	"description": "My first wad ever! Is small and I tried to make it hard. Note that there is not a single texture that is not aligned. It has details",
+	"date": "2018-03-27 21:12:50",
+	"files": [
+		{
+			"filename": "gray.wad",
+			"size": 101010,
+			"crc": 3696218045,
+			"md5": "40c1bdd3b26f844aa1e4fbaf62af39b5",
+			"sha1": "8ff9247857c29af6f4cf3fd03db92f6bbdb585cb",
+			"sha256": "fd5f77843f4a4579d1cd339c7e029777154edaf2d7b653ed04d56c41bf9b18e5"
+		}
+	]
+}

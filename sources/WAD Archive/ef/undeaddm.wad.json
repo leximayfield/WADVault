@@ -1,0 +1,16 @@
+{
+	"uid": "undeaddm.wad",
+	"name": "Dawn of the Undead",
+	"description": "doundead.wad contains 7 deathmatch maps plus 6 player skins. It's a ZDoom wad for ZDaemon. However, the wad won't load with ZDoom, because it doesn't seem to be able to handle maps and skins put together in one wad.",
+	"date": "2013-04-19 03:08:23",
+	"files": [
+		{
+			"filename": "undeaddm.wad",
+			"size": 9132913,
+			"crc": 4249058179,
+			"md5": "14215b86e0b5c59734bc910f2d5fe07e",
+			"sha1": "efbcdc3c74a13eee40c20876273e9a3d249e8d3b",
+			"sha256": "400e5e100f6d205a5eb635206843c757d2ac6d0ffd7c23d1ecc4c44cfe6e0c4f"
+		}
+	]
+}

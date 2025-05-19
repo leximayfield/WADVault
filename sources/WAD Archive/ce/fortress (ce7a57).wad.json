@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (ce7a57).wad",
+	"name": "FORTRESS.WAD",
+	"description": "An evil haven battle fortress, chock",
+	"version": "ce7a57",
+	"date": "2013-11-02 16:01:32",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 144169,
+			"crc": 2726878236,
+			"md5": "1266b4cc8fde02b89b86796d69eadbc5",
+			"sha1": "ce7a570059b396b25bd032750b9a385a97ab1de7",
+			"sha256": "91d2e6de5fc65c04dd72241d990d923c3727e8327908f423efefe9568b1c550a"
+		}
+	]
+}

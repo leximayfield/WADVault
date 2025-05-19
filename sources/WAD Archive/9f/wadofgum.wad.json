@@ -1,0 +1,16 @@
+{
+	"uid": "wadofgum.wad",
+	"name": "wadofgum.wad",
+	"description": "Like most wads you'll see, this is my first attempt at building a wad. I tried to keep it small but difficult without simply throwing monsters at the player (with one exception, but we'll get to that later). There are two puzzle rooms, a couple of rooms that I used to learn about how Doom does stuff, and my journeyman project: a diabolical courtroom. My advice to someone playing the game: there is a room where you can get irrevocably stuck, so save your game often.",
+	"date": "2014-01-07 22:18:42",
+	"files": [
+		{
+			"filename": "wadofgum.wad",
+			"size": 120853,
+			"crc": 2948498692,
+			"md5": "c412eb0b6b28c67f3cb61aeff94932c8",
+			"sha1": "9fd9eb3efe0b97c2df1d3a08275dca8c20d5db03",
+			"sha256": "0f9fed85170e95875d7fccd4637b8a027606554b6aa48763f514720e512402b8"
+		}
+	]
+}

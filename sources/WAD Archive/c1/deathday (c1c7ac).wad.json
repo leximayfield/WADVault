@@ -1,0 +1,17 @@
+{
+	"uid": "deathday (c1c7ac).wad",
+	"name": "deathday.wad",
+	"description": "My first serious attempt at a wad, also my first uploaded wad. This level is mainly made for deathmatch, however, single play is possible. I'm not sure about co-op, as I never bother to play it. The main premise behind the level is windows and more windows to shoot/see through. I haven't added the plasma gun, BFG or rocket launcher as I prefer the shotgun and chaingun in deathmatches. Also, there are no difficulty levels implemented. Either kill everything or be killed...oh, don't forget to wash your subconscience before and after playing doom.",
+	"version": "c1c7ac",
+	"date": "2014-12-03 20:06:03",
+	"files": [
+		{
+			"filename": "deathday.wad",
+			"size": 136498,
+			"crc": 1188008333,
+			"md5": "8a9a73f29dcd2044e09aef6e5772c4b9",
+			"sha1": "c1c7aca53b90452b216196a9a6c346a6d7d37e95",
+			"sha256": "1f46c72f02d9a0225cfbac09249c97eaef43eec4133410638f7908fe718bd036"
+		}
+	]
+}

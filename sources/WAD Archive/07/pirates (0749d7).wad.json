@@ -1,0 +1,17 @@
+{
+	"uid": "pirates (0749d7).wad",
+	"name": "Pirate Doom!",
+	"description": "Pirate Doom! A GZDoom TC with: - 18 maps of good old runnin' and gunnin' action; - eye patches, bandannas, beards and mustaches for all Doom monsters; - cutlass, flintlock, cannons and other rusty weapons; - cool caribbean music; - compatible with any mapset; - cooperative and deathmatch modes fully implemented; - Ships, islands, treasures and rum.",
+	"version": "0749d7",
+	"date": "2014-12-29 09:06:08",
+	"files": [
+		{
+			"filename": "pirates.wad",
+			"size": 42383233,
+			"crc": 116255580,
+			"md5": "8aeb380cb962c280a6dbc515e9131e68",
+			"sha1": "0749d7243b39a8c8dccf50528110d9316ce4fde9",
+			"sha256": "65ee9403ac5c0d01125eb94ca97eef45fc0c1c6793eda8f99f4208ddc8468c4d"
+		}
+	]
+}

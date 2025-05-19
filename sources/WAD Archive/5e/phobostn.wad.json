@@ -1,0 +1,16 @@
+{
+	"uid": "phobostn.wad",
+	"name": "Phobos Tunnel",
+	"description": "The underground passage that links the Phobos toxin refinery with the military compound has been invaded by demons! If the attack isn't stopped, chances are that Phobos may suffer the same fate as Deimos. By disappearing, it would expose the main Mars bases to subsequent demonic onslaught. It is your duty to enter the maintenance rooms of this passage and clear any alien infestation, to delay their offensive before UAC military reinforcements arrive. If you discover any demonic portals or gateways, you are ordered to follow them through. Research by Dr Betruger has shown that these gates lead into habitable - if hostile - new worlds, and from your experience you should be able to survive them.",
+	"date": "2015-09-14 22:22:19",
+	"files": [
+		{
+			"filename": "phobostn.wad",
+			"size": 136660,
+			"crc": 3382119320,
+			"md5": "36c084d356c838ff3abfced3ae8b074c",
+			"sha1": "5ed8ec54723a56d7c956ed0108e6293c6ad48265",
+			"sha256": "4d3a6b032f5828c303a1ea65fbaf08e88525a32874ad700e72580406bbdb6522"
+		}
+	]
+}

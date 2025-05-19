@@ -1,0 +1,17 @@
+{
+	"uid": "madmax (913d2b).wad",
+	"name": "MADMAX",
+	"description": "This level was designed solely for deathmatch play. It is based around the MadMax style chainsaw battle, with couple of other weapons thrown in. Lots of warps for \"The Fly\" effect, together with fast-paced play makes this one a must for all deathmatch fans!",
+	"version": "913d2b",
+	"date": "2014-01-11 11:16:47",
+	"files": [
+		{
+			"filename": "madmax.wad",
+			"size": 12055,
+			"crc": 4240824369,
+			"md5": "40391548abd4067223e91e82c77ace46",
+			"sha1": "913d2bffab2d1441bdca7d2b0f37d5ee367288bc",
+			"sha256": "488f96d2c457295c39563d71ea98aa62478854c91aa25c6ed8a34f1047608e29"
+		}
+	]
+}

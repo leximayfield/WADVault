@@ -1,0 +1,17 @@
+{
+	"uid": "dm6 (0cb44f).wad",
+	"name": "DM6: The Darkish zone",
+	"description": "I don't think anyone has done a dm6 conversion yet, so here's my attempt. I had to modify the level slightly because of the limits of Doom, but it includes quake textures and sounds. Users of legacy will also have a replacement 'jump' sound, and a new teleport sprite!",
+	"version": "0cb44f",
+	"date": "2013-04-22 00:51:02",
+	"files": [
+		{
+			"filename": "dm6.wad",
+			"size": 437072,
+			"crc": 3688619176,
+			"md5": "5c44daa11c15581b693b371e7e40daef",
+			"sha1": "0cb44f7930a89806427252d46843bbf111f723ca",
+			"sha256": "bf68e8c7c3245c99c9b4dac8bcffde6050d844fc3840c0ec5674ae2d4f91a3bc"
+		}
+	]
+}

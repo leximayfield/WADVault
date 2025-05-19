@@ -1,0 +1,17 @@
+{
+	"uid": "doomsday (e39656).wad",
+	"name": "Doomsday Machine",
+	"description": "A spy recently sneaked into an earth UAC base and planted what can only be described as a Doomsday Machine, which has been making demons appear left and right. Your mission is to find and destroy the Doomsday Machine before it summons enough Demons to take over the entire solar system. This is basically a massive warzone, with all-new gory death sprites, incredible detailing, new sounds, and CD quality music, among other things.",
+	"version": "e39656",
+	"date": "2014-12-24 17:08:08",
+	"files": [
+		{
+			"filename": "doomsday.wad",
+			"size": 6875682,
+			"crc": 1085786350,
+			"md5": "706a74a60d32d369d1b2eca4d57a2f55",
+			"sha1": "e3965601717c317bc6699ff73e05ff7f109211fe",
+			"sha256": "e18d240c37133467e318b1cabe6e00d5631082c8c0e8b512348c113fdce70512"
+		}
+	]
+}

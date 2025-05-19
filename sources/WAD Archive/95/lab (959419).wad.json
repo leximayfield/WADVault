@@ -1,0 +1,17 @@
+{
+	"uid": "lab (959419).wad",
+	"name": "The Laboratory",
+	"description": "New level for DOOM2. Ran fine on Version 1.666 It's a big and detailed level. It is a very challenging level. Although it is meant for single player play, it also supports DM and Cooperative play. Lab.wad also supports all of the difficulty settings.",
+	"version": "959419",
+	"date": "2018-05-29 00:31:16",
+	"files": [
+		{
+			"filename": "lab.wad",
+			"size": 241130,
+			"crc": 1383756430,
+			"md5": "4c0e11a0862c1266bae58d82f76e94b4",
+			"sha1": "959419666ca3ca7bf7fef0ddb3aeceaa53026983",
+			"sha256": "37de81c615aa2155834ce0e293bae30a3a088795f24498acea2bc9b7c1d32454"
+		}
+	]
+}

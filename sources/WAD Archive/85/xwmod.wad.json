@@ -1,0 +1,16 @@
+{
+	"uid": "xwmod.wad",
+	"name": "X Weapons Mod",
+	"description": "A weapons mod for ZDaemon and Skulltag, also is compatible with G/ZDoom.",
+	"date": "2013-04-19 03:54:33",
+	"files": [
+		{
+			"filename": "xwmod.wad",
+			"size": 534169,
+			"crc": 431535184,
+			"md5": "03c7f3b3b8151d80e768f397e3fb8417",
+			"sha1": "85ff217dbf6802c993872a0de86f24296362e0c8",
+			"sha256": "d3515df9d59747a1f498a3f170a05209bd5993be82908cb610f13007011018d3"
+		}
+	]
+}

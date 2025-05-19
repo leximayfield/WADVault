@@ -1,0 +1,16 @@
+{
+	"uid": "robd2m1.wad",
+	"name": "ROBD2M1.WAD",
+	"description": "This was a first attempt at creating a wad : It was primarily made for deathmatch no monsters : but, to keep in line with those people without : a modem. I've added a little surprise. There are : a few secret area (look for them). The exit is : hidden.",
+	"date": "2013-11-04 19:22:50",
+	"files": [
+		{
+			"filename": "robd2m1.wad",
+			"size": 35739,
+			"crc": 2369688893,
+			"md5": "de40551165b8394f10537680656fd74d",
+			"sha1": "f64e22c8af31b89b2e04822d8eb31f7e5e45e3b0",
+			"sha256": "2001c6051f1473696e646664f8e3ac27786cec4c3604169e24c60f6f2e6839c6"
+		}
+	]
+}

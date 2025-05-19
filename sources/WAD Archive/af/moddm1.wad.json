@@ -1,0 +1,16 @@
+{
+	"uid": "moddm1.wad",
+	"name": "MODDM1",
+	"description": "Collection of 7 deathmatch levels of mine, all of them made for this collection. Here is a list of levels: Level 1: MODdm1-Welcome Just a little intro level. Has a silver/ metal theme to it. Level 2: Chemical Storage Facility Good sized, very playable arena with a chemical plant style setting. Level 3: Power Grid A futuristic power station. Looks sweet and has plenty of room to move around and hide. Level 4: The Void Deathmatch in space, and I mean IN SPACE, not a spaceship. Basically a large arena with all sky textures, just play it. Level 5: Mountain Base A small research base built inside of a mountain. If you have trouble in the dark cave with the BFG, look for the light amp goggles in the water. Level 6: Its a House This one should be self explanitory ;) Level 7: Sky Base The very top of a tower, high up in the heavens. Basically 2 arenas, A large one and a smaller one off to the side. I may make another dm collection like this if this one is popular enough, or if I just feel like it :P.",
+	"date": "2014-12-15 22:23:40",
+	"files": [
+		{
+			"filename": "moddm1.wad",
+			"size": 704364,
+			"crc": 2641777729,
+			"md5": "3d1252781bf4c4b4cabc3dd0b0d0f617",
+			"sha1": "aff6a52acba593dc8a81b7cfb7a99e47fcd64e3c",
+			"sha256": "bcd8ca58329f5744463ade2a7d174dbabfc6b643ec5fdc755a8d853a2c4789e5"
+		}
+	]
+}

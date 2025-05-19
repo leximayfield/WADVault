@@ -1,0 +1,16 @@
+{
+	"uid": "KILLA.wad",
+	"name": "Killa.WAD",
+	"description": "New wall textures and some rooms have been altered. More enemies to kill and more items to find.",
+	"date": "2014-02-15 16:50:01",
+	"files": [
+		{
+			"filename": "KILLA.wad",
+			"size": 26915,
+			"crc": 1517082129,
+			"md5": "503794413bef008b24fed6ca1221e256",
+			"sha1": "919c36ddb29e9b570febed19ecd17dc0ead14e0e",
+			"sha256": "7071251f17b428dc1b6323851c26132242c2a69b169847e2ee4e43c4c5ce7438"
+		}
+	]
+}

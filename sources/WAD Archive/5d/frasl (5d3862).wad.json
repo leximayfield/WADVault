@@ -1,0 +1,17 @@
+{
+	"uid": "frasl (5d3862).wad",
+	"name": "FrasL v16.0",
+	"description": "Collection of well-made levels by two people from 6/1998 on. Levels continue to be added. See end of text file.",
+	"version": "5d3862",
+	"date": "2014-12-15 21:26:29",
+	"files": [
+		{
+			"filename": "frasl.wad",
+			"size": 4520465,
+			"crc": 2044664373,
+			"md5": "d7bac66871404429e1834f48787f8504",
+			"sha1": "5d386280403fa00366d54dfc5744f2be3cfe88ab",
+			"sha256": "e20d4261c07bef2362dac4ccb2c25c6f51a61ccb0bd083bf005d670d217989cc"
+		}
+	]
+}

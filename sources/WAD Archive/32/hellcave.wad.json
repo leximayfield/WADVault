@@ -1,0 +1,16 @@
+{
+	"uid": "hellcave.wad",
+	"name": "Hell Cave",
+	"description": "This is where it all started. Before the events chronicled in DOOM, a mining project on Earth was abandoned after a series of \"accidents\". Miners uncovered what appeared to be an ancient ruin, and archaeologists were called in. When two archaeological teams went missing, and strange reports were received by the UAC military, their top troubleshooter was sent along to evaluate the situation...this means you!",
+	"date": "2014-12-18 23:05:21",
+	"files": [
+		{
+			"filename": "hellcave.wad",
+			"size": 167426,
+			"crc": 2456639446,
+			"md5": "baa05073f53bb976bb9daf744ce72553",
+			"sha1": "327a11d0b526b13a037dce7fcd26ba749fb9378d",
+			"sha256": "38d26b08ed0f27425993f1f0432b8f3ed66fb07c2f107215706ea658c29ebe3a"
+		}
+	]
+}

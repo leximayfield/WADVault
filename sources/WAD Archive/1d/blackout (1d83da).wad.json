@@ -1,0 +1,17 @@
+{
+	"uid": "blackout (1d83da).wad",
+	"name": "Blackout",
+	"description": "A forgotten tech-style wad that should've been released long ago.",
+	"version": "1d83da",
+	"date": "2014-12-15 23:04:16",
+	"files": [
+		{
+			"filename": "blackout.wad",
+			"size": 922698,
+			"crc": 1804875024,
+			"md5": "34d253da77be85d9de1a685bff909c21",
+			"sha1": "1d83da0faf7b68cfe791720341e7a93eb9b9c96b",
+			"sha256": "5a869fc73bd3e8426bdde3e23d8d1521e493a604a09d072081aee32000c81d28"
+		}
+	]
+}

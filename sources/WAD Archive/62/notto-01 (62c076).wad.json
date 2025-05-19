@@ -1,0 +1,17 @@
+{
+	"uid": "notto-01 (62c076).wad",
+	"name": "Notto's Level for DOOM ][ MAP 01",
+	"description": "Deathmatch WAD with some twists. Lots of places to Score a TELE-FRAG. There are a couple of places where there are small \"Fence posts\" right by a tele-pad. If you are standing by one and it drops, it means someone has just crossed the entry to the BFG room. If you jump on the tele-pad right away, you can score a TELE-FRAG. This level is INTENSE with four players.",
+	"version": "62c076",
+	"date": "2013-11-06 22:44:12",
+	"files": [
+		{
+			"filename": "notto-01.wad",
+			"size": 80454,
+			"crc": 3940992355,
+			"md5": "4e620ab242e27aeacabdad68ce5a6da8",
+			"sha1": "62c076424eaff4a1a915b3ba9afcdd17ce9df45a",
+			"sha256": "e7741319aa48bc7efc40e05fce39fdfce06031476b658a65df050542b3b0d702"
+		}
+	]
+}

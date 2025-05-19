@@ -1,0 +1,17 @@
+{
+	"uid": "trimatch (cf55a8).wad",
+	"name": "TRIMATCH.WAD",
+	"description": "DEATHMATCH ONLY!!! 4 guns, 3 rooms, 2 great places to hide. Some fast action, some sniper spots, some hiding places, nuff said. Includes an exit.",
+	"version": "cf55a8",
+	"date": "2013-11-02 15:40:17",
+	"files": [
+		{
+			"filename": "trimatch.wad",
+			"size": 40495,
+			"crc": 2599884364,
+			"md5": "1c7fc1e16ce2855efc10ab9b86fde0fc",
+			"sha1": "cf55a8d0ba75da9b1a2b698a17f117e52180813b",
+			"sha256": "cbe9881840ca6dc26ce0d7dd12283c4f918f9b4992716983323517959fa04b86"
+		}
+	]
+}

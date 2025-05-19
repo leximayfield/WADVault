@@ -1,0 +1,16 @@
+{
+	"uid": "lev_lost.wad",
+	"name": "4 Levels that got Lost",
+	"description": "Completed levels from my Abandonned Community Project. All levels should be compatible with any Port.",
+	"date": "2015-01-05 16:26:21",
+	"files": [
+		{
+			"filename": "lev_lost.wad",
+			"size": 2141520,
+			"crc": 1660837597,
+			"md5": "a51c124edda18a547c0391df8dd6a167",
+			"sha1": "d106eeefb40e35389a817bb8298b6ddf47c4936a",
+			"sha256": "db86f3d58dd9263e2d23ff5317fff402c2f241219838a45ba75e7600aea73704"
+		}
+	]
+}

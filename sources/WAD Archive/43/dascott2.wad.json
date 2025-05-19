@@ -1,0 +1,16 @@
+{
+	"uid": "dascott2.wad",
+	"name": "DaScott 2",
+	"description": "A medium sized simplified DM level designed for three to four players (or teams) using altdeath rules. Makes for great relief after hours of die-a-lot wads, but there is NO lack of action here. The actual layout is simple but attractive, and there are enough secrets to keep things interesting. Every area has a secret backdoor, so don't get too comfortable sitting on that megasphere...",
+	"date": "2014-12-15 22:44:46",
+	"files": [
+		{
+			"filename": "dascott2.wad",
+			"size": 374241,
+			"crc": 1697983920,
+			"md5": "cac7edcd1fd3a3e7b7943c1bf852d405",
+			"sha1": "4347ac080e4866b2aa472b99d01dd1b52dd5e8c5",
+			"sha256": "ff137417e7cd04e77dac53d92b6e346ddd141a6daf1c60d88840c5e0d9d9eb44"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sinenhan.wad",
+	"name": "The Icon Of Sin's Lair",
+	"description": "This is basically a enhanced remake of the successful Icon Of Sin's Hideout. It may have been successful, but it still had some problems. mainly the exit door. One of the pegs was not sticking out. I tried to make this ZDoom compatible, but for some odd reason when I got to the map, it crashes. I don't know why. Bugger. Same story and plot from previous. I also included my (Real) first wad I made. I know there was a wad that said my first wad. It's not. I forgot to edit that part on the readme :P Fair warning, first wad maybe a recipe for disaster. Most first timer wads are like that. Also, look for a hidden easter egg I couldn't resist putting in...",
+	"date": "2014-12-29 18:16:25",
+	"files": [
+		{
+			"filename": "sinenhan.wad",
+			"size": 38026509,
+			"crc": 298019085,
+			"md5": "9d201615c89dcb86e1475a15867731f5",
+			"sha1": "d76d1fcc2fea2eb81ec01242765e6eb743eddf3e",
+			"sha256": "109e3beae7118c32c81a287c5177c323fe259464e76965a6ebdbbcd5e00894db"
+		}
+	]
+}

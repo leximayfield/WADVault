@@ -1,0 +1,17 @@
+{
+	"uid": "ae_fz02 (ff107b).wad",
+	"name": "Frag Zone 2",
+	"description": "4 connected rooms, with hidding places",
+	"version": "ff107b",
+	"date": "2014-12-03 20:09:19",
+	"files": [
+		{
+			"filename": "ae_fz02.wad",
+			"size": 62997,
+			"crc": 1486491158,
+			"md5": "2d5db5e92208d4f2b2fdb272be4bd09a",
+			"sha1": "ff107b619b29f87281dd9a796d4e35aa76239d11",
+			"sha256": "eb35ea8d0bc39c3541c026d62d63d559cc951ffc5b69e1b60c2af4eec777e676"
+		}
+	]
+}

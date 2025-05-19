@@ -1,0 +1,16 @@
+{
+	"uid": "hal9k-q.wad",
+	"name": "HAL9000-Q",
+	"description": "pack de mapas dm para zdaemon",
+	"date": "2013-04-19 03:29:00",
+	"files": [
+		{
+			"filename": "hal9k-q.wad",
+			"size": 2066340,
+			"crc": 187813121,
+			"md5": "9e6408b9640d07fa373ed0ee33126bdf",
+			"sha1": "4d18f41f8688dd76d9462cdeb001879a518e2ead",
+			"sha256": "e6169418305d741a83f7cd00b6c205d116844d47f58d7075773836fa700939ee"
+		}
+	]
+}

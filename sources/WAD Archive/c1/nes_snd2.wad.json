@@ -1,0 +1,16 @@
+{
+	"uid": "nes_snd2.wad",
+	"name": "NES Sounds  (version 2)",
+	"description": "Yet another \"funny\" sound-only wad for Doom or Doom II featuring 74 sounds from various NES video games.",
+	"date": "2015-09-15 17:49:26",
+	"files": [
+		{
+			"filename": "nes_snd2.wad",
+			"size": 1091531,
+			"crc": 3328223454,
+			"md5": "10588dbb7dc117ad490081c422e249b4",
+			"sha1": "c117d3e83da5ce3dbe2b154ebed99a5914332663",
+			"sha256": "9d0071a34751d9e9a86b15e96e9ba677f68fae225e83fd06047b4a0068f9330f"
+		}
+	]
+}

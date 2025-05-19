@@ -1,0 +1,17 @@
+{
+	"uid": "dante12 (70662e).wad",
+	"name": "DANTE'S GATE version 1.2",
+	"description": "This is a revision of my first level. For the most part, the only \"theme\" I had in mind was to make the level as aesthetically pleasing and consistent as possible. In other words, I wanted it to look neat. There are lots of little nooks and crannies scattered about, and (I hope) a few surprises.",
+	"version": "70662e",
+	"date": "2013-11-02 15:46:46",
+	"files": [
+		{
+			"filename": "dante12.wad",
+			"size": 139823,
+			"crc": 1030784481,
+			"md5": "ff25794137eae25686206c61892ecf6c",
+			"sha1": "70662e71528e74067b246c9fa3f882a5c3272e4c",
+			"sha256": "2a227432f5cfc6545deaf95226724c7bd76a65bc878878dd4d0d6bc5f60cd45f"
+		}
+	]
+}

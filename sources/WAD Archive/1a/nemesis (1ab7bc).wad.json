@@ -1,0 +1,17 @@
+{
+	"uid": "nemesis (1ab7bc).wad",
+	"name": "Die Nemesis, Die!",
+	"description": "Nemesis, that SOB from Resident Evil 3: Nemesis cannot be killed, right? Wrong. In this WAD, you get the opportunity to make Nemesis pay! This patch replaces the Baphomet with Nemesis. To fight Nemesis, you should warp to Level 30: Icon of Sin.",
+	"version": "1ab7bc",
+	"date": "2015-01-13 21:32:37",
+	"files": [
+		{
+			"filename": "nemesis.wad",
+			"size": 514076,
+			"crc": 1635601417,
+			"md5": "89b75664ee2d4be63ad2b3f080933a48",
+			"sha1": "1ab7bccb3494286b0f44907ceb9fb01e293d6a32",
+			"sha256": "65c7af92250f5d51865c8ae9a41ce1f671c87381918fb4436a53d195cbb2f86c"
+		}
+	]
+}

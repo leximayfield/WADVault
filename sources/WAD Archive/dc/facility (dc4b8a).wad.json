@@ -1,0 +1,16 @@
+{
+	"uid": "facility (dc4b8a).wad",
+	"name": "The Deathmatch Training Facility",
+	"version": "dc4b8a",
+	"date": "2014-12-12 14:15:48",
+	"files": [
+		{
+			"filename": "facility.wad",
+			"size": 153029,
+			"crc": 2317036667,
+			"md5": "cb5a098a848c83e1ee25cb70f18f7bd5",
+			"sha1": "dc4b8a99478e070b0a66560109ac513b507426ad",
+			"sha256": "73e5e4403e0e709afd0d48f1c996caeb3f36d0c99e28c0ac4486f454b1896dd7"
+		}
+	]
+}

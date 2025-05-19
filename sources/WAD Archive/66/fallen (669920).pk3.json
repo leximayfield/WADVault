@@ -1,0 +1,17 @@
+{
+	"uid": "fallen (669920).pk3",
+	"name": "The Fallen: Dark Ascension",
+	"description": "A Dark Hellish/Gothic theme re-imagining of Ultimate Doom's Episode 3 and 4 this time using the capabilities of the Gzdoom engine. Some of the features that brings new life into this hellish theme includes: slopes, new decorate monster types, dynamic lights, and various scripted events.",
+	"version": "669920",
+	"date": "2019-03-19 22:25:10",
+	"files": [
+		{
+			"filename": "fallen.pk3",
+			"size": 33814870,
+			"crc": 1832971836,
+			"md5": "1f7dd03710c464d818e510040854024f",
+			"sha1": "669920d8f5d2c9db0568c7ae5eeaf483388974e1",
+			"sha256": "7f061796de65c53312e4f3de16691233f65f1c1ca8bf21272011af60542accdf"
+		}
+	]
+}

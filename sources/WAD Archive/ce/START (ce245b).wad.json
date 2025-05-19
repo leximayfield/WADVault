@@ -1,0 +1,17 @@
+{
+	"uid": "START (ce245b).wad",
+	"name": "Start",
+	"description": "A fun map for DOOM2.wad",
+	"version": "ce245b",
+	"date": "2017-09-17 18:52:47",
+	"files": [
+		{
+			"filename": "START.wad",
+			"size": 88541,
+			"crc": 347905914,
+			"md5": "1d96571c7533467d36ed3059ba5005c5",
+			"sha1": "ce245b9808cfaa3944f76d6dbd18cd95d7fbefe1",
+			"sha256": "e7d642d0dbc4506cc921284ecd82420acd786e57b8f6e6d09b300f98a406393e"
+		}
+	]
+}

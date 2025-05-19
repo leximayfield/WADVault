@@ -1,0 +1,16 @@
+{
+	"uid": "negarmor.wad",
+	"name": "Wear negative armor!",
+	"description": "To run this, obtain Doom v1.1 and type in command prompt: doom.exe -devparm -file negarmor.wad -wart 1 9 Registered Doom v1.1 was my first game in Doom universe and I have messed a lot with it before I've got my first Internet connection.",
+	"date": "2016-03-05 15:01:45",
+	"files": [
+		{
+			"filename": "negarmor.wad",
+			"size": 1349,
+			"crc": 1577769738,
+			"md5": "bfa2bc69c1631567b27937311aefe2e8",
+			"sha1": "c4c1bb296645c8296d0ce816e97e70150c8a6e0b",
+			"sha256": "0832c815eaf02b9b98ae859b3e683b3eed5a72a1727b2d2a253947668e4aa58e"
+		}
+	]
+}

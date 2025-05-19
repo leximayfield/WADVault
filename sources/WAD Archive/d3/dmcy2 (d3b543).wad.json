@@ -1,0 +1,17 @@
+{
+	"uid": "dmcy2 (d3b543).wad",
+	"name": "Deathmatch Court Yard",
+	"description": "A small court yard deathmatch for Doom II.",
+	"version": "d3b543",
+	"date": "2016-02-07 20:28:33",
+	"files": [
+		{
+			"filename": "dmcy2.wad",
+			"size": 21187,
+			"crc": 3466654585,
+			"md5": "de5a0579efe14d2caf45d245b6841078",
+			"sha1": "d3b5434d7c61de2b82abac5e2867a391f0964dd2",
+			"sha256": "dd078b2216e8af94096dcfe70a8acebac7cd7db27ecd2ea4d2c9c6e12fda82b2"
+		}
+	]
+}

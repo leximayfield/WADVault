@@ -1,0 +1,17 @@
+{
+	"uid": "goo (48649f).wad",
+	"name": "\"GOO\" - a DOOM II pwad",
+	"description": "Fairly big maze, Lots of traps.",
+	"version": "48649f",
+	"date": "2014-12-18 22:36:28",
+	"files": [
+		{
+			"filename": "goo.wad",
+			"size": 180612,
+			"crc": 3960898233,
+			"md5": "6eec40338a884a94beee0dc431c08227",
+			"sha1": "48649f2f7770cf87001d850f45ff91d6702d63c7",
+			"sha256": "690a528d40b064d960ff743f6d6eafa4516b3563fb4b01669c0b7299ffd36f80"
+		}
+	]
+}

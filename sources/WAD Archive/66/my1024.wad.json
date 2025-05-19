@@ -1,0 +1,16 @@
+{
+	"uid": "my1024.wad",
+	"name": "1024 seized megawad",
+	"description": "This time, our friendly Daimon will delight the community with this new megawad, all sized in the fashionable 1024x1024 limit.",
+	"date": "2015-01-13 21:19:41",
+	"files": [
+		{
+			"filename": "my1024.wad",
+			"size": 4751881,
+			"crc": 3242024647,
+			"md5": "6281a382823c6994e9dcc598d35cfd43",
+			"sha1": "6676ee166afc027e40b2c3504eb4097cb6d934e0",
+			"sha256": "600f689617d36e92f07727887720d17a43470d8374f2db43ba8c7669b666166f"
+		}
+	]
+}

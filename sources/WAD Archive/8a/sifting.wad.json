@@ -1,0 +1,16 @@
+{
+	"uid": "sifting.wad",
+	"name": "Sifting Through the Ashes",
+	"description": "A .WAD for DOOM with the intent of showing off my take on DOOM's level design capabilities. The intent is to create a full DOOM experience, containing a full episode's worth of content over the original first episode, while adding in some new assets from various contributors to Realm667, a prominent DOOM modding resource. So far I have a few levels done, and I will update as the episode fills out more.",
+	"date": "2018-02-15 20:42:15",
+	"files": [
+		{
+			"filename": "sifting.wad",
+			"size": 15698483,
+			"crc": 2673670382,
+			"md5": "67580a3389b9c011be3d3e9c183d39a4",
+			"sha1": "8a42b7c5a7f942a655341b5d9f2c2269ab72672e",
+			"sha256": "2d189dbb3402c1a283629645ab26f2e02c7c913216f36d61f9a98afa2f28ef6d"
+		}
+	]
+}

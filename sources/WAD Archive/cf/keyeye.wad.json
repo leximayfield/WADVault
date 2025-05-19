@@ -1,0 +1,16 @@
+{
+	"uid": "keyeye.wad",
+	"name": "Key-Eye",
+	"description": "My first level from scratch (that makes sense.)",
+	"date": "2013-11-03 17:45:07",
+	"files": [
+		{
+			"filename": "keyeye.wad",
+			"size": 38173,
+			"crc": 2840259453,
+			"md5": "5640d89d89b4bda5d218b96c0e9bd10e",
+			"sha1": "cf5adc0638b6a6e09250d6235cab402561090637",
+			"sha256": "da973401663734fa7328b52227706970c11ec7b531d64e4fd790bdca22992430"
+		}
+	]
+}

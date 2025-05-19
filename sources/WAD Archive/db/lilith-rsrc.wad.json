@@ -1,0 +1,16 @@
+{
+	"uid": "lilith-rsrc.wad",
+	"name": "lilith.pk3 resource wad",
+	"description": "glitchy textures from lilith.pk3 and solid.pke including a bunch of new unused ones! includes PLAYPAL, ENDOOM, ANIMATED, ANIMDEFS, and DECALDEF. The UI and sprites from lilith are also included. As well as the plasma sound.",
+	"date": "2019-03-19 20:21:08",
+	"files": [
+		{
+			"filename": "lilith-rsrc.wad",
+			"size": 33160660,
+			"crc": 1787873861,
+			"md5": "fd93d0fdd91495cc827710cb71710dca",
+			"sha1": "dbf9f0ace0a72bfe1db50c9a3640c3707ebd282e",
+			"sha256": "7ccf5f333dcbba0fd736a2e4096f0ac9d0e5e02390de2e61dc26476b3459fe9a"
+		}
+	]
+}

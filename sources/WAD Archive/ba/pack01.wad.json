@@ -1,0 +1,16 @@
+{
+	"uid": "pack01.wad",
+	"name": "Pack 01 (all my 7 wads, first ones)",
+	"description": "My first 7 levels, from the crappy one to the",
+	"date": "2015-02-21 09:03:05",
+	"files": [
+		{
+			"filename": "pack01.wad",
+			"size": 944720,
+			"crc": 1854518807,
+			"md5": "2a9f27d54ffdb416016b36df24b4884d",
+			"sha1": "bae43ca2579d19cc2f84fc853c17a3f25f0706bd",
+			"sha256": "c073ea83614dd29d787ab17ce01298ff38f4182c88e0275c3aa3a8388853350c"
+		}
+	]
+}

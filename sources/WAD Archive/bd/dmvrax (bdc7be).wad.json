@@ -1,0 +1,17 @@
+{
+	"uid": "dmvrax (bdc7be).wad",
+	"name": "avrax.wad",
+	"description": "Deathmatch. Need I say more? Mail me your favorite slaying spot!",
+	"version": "bdc7be",
+	"date": "2013-11-02 15:17:12",
+	"files": [
+		{
+			"filename": "dmvrax.wad",
+			"size": 68921,
+			"crc": 2599359567,
+			"md5": "5eb756d7ab1ef2b124bd1e7a85dbd0e2",
+			"sha1": "bdc7bec1c3e3e79ef8a77913af54c38bad2f9048",
+			"sha256": "2134872dfd522290c601b96a6e87e1edcdb752fd832c81525af5c9c6e7c399c1"
+		}
+	]
+}

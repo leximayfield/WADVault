@@ -1,0 +1,16 @@
+{
+	"uid": "bdsdoom2.wad",
+	"name": "BDSDOOM",
+	"description": "I wanted to provide several hours of GOOD level design for total immersion - and have it fit on one diskette. BDSDOOM is the result...",
+	"date": "2014-12-15 21:53:17",
+	"files": [
+		{
+			"filename": "bdsdoom2.wad",
+			"size": 565236,
+			"crc": 1096319335,
+			"md5": "bef25c34214ad1b9db0d863a5943d2a3",
+			"sha1": "6e6b77c56d5b4c619c14edc60fddb728284555b8",
+			"sha256": "5031b3a13d3bd98b4d2c6e47241228a8362d2ec603c8c9d231527bdde440f2a9"
+		}
+	]
+}

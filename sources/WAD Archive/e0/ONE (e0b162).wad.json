@@ -1,0 +1,17 @@
+{
+	"uid": "ONE (e0b162).wad",
+	"name": "ONE",
+	"description": "A long wad with a cool ending! All automatic doors!",
+	"version": "e0b162",
+	"date": "2014-08-30 14:24:23",
+	"files": [
+		{
+			"filename": "ONE.wad",
+			"size": 159213,
+			"crc": 4117647290,
+			"md5": "983e0896987b0707404e23cdba2247cd",
+			"sha1": "e0b162a63f79ac9b15c1158bf2bd07099b53a909",
+			"sha256": "6e7dd07fb4cd2b7b1e49d8db950562afe8b16e9c9762653c720133820c8bb7fc"
+		}
+	]
+}

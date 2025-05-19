@@ -1,0 +1,16 @@
+{
+	"uid": "idk.wad",
+	"name": "IDK",
+	"description": "A simple map for doom i made because I was bored,it's kinda good so i uploaded it fairly simple details and very short.",
+	"date": "2014-12-24 17:48:47",
+	"files": [
+		{
+			"filename": "idk.wad",
+			"size": 157580,
+			"crc": 2054151818,
+			"md5": "b1f1786fd4bf31d812807b3725f9bbc5",
+			"sha1": "114ac30f528c30dabdec8faa78327f346fd3b77a",
+			"sha256": "799a83c57dc7e87e254693c028fc4014a5854c0649164a0b49e1e52dadf86884"
+		}
+	]
+}

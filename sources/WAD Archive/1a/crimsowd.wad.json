@@ -1,0 +1,16 @@
+{
+	"uid": "crimsowd.wad",
+	"name": "Crimson Wood",
+	"description": "Medium/large non-linear map, quite hard (not too much for veterans), designed in 2 months + various days/weeks of post release tweaking",
+	"date": "2018-06-15 11:26:08",
+	"files": [
+		{
+			"filename": "crimsowd.wad",
+			"size": 3791305,
+			"crc": 550535359,
+			"md5": "d89c2767a0c90d4bb8697bcb02c044db",
+			"sha1": "1a9ec564f7bd076bd0851113088571baf3ccd5ee",
+			"sha256": "1f8196ffa112eef484c3eadba84cd73ccc1da3cb47ff89cef6924446f270c46c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "junko (699b42).wad",
+	"name": "Janitor Adventure 3D (a.k.a. \"Junko\") (RC16)",
+	"description": "It was just another day of cleaning toilets and splicing fried cables aboard UAC's shiny new space ship (with warp drive!), when a bunch of space pirates climbed out of the air vents and started slashing everyone up! Upon realizing that it might be in their interest to keep a technician around, they stop beating you and throw you in the jail. You are not stuck in the jail for long before the ship shudders and the door opens. This is your chance to escape. But where will you go?",
+	"version": "699b42",
+	"date": "2015-01-05 16:42:07",
+	"files": [
+		{
+			"filename": "junko.wad",
+			"size": 26462088,
+			"crc": 4140255589,
+			"md5": "601b99b27b8f5e79cd28adff88898c2e",
+			"sha1": "699b4214fbe1a840ab67afa3bd98473b2edfa2c8",
+			"sha256": "8b0126924c7b6bed5e258234fbd8a0ddda6c41c274d476efbd4a71b2f9cb6299"
+		}
+	]
+}

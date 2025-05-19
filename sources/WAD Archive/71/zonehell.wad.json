@@ -1,0 +1,16 @@
+{
+	"uid": "zonehell.wad",
+	"name": "The Zone of Hell",
+	"description": "A really cool Death Match level.",
+	"date": "2014-12-15 21:26:57",
+	"files": [
+		{
+			"filename": "zonehell.wad",
+			"size": 235392,
+			"crc": 3888066640,
+			"md5": "6f37ec68bdebff9995b79a3dcbc4d01b",
+			"sha1": "71ddd83e072c453057a99b79d16a2b5d39742211",
+			"sha256": "60db35f979f4a0c82cecce0442bce545da2153c16b8fe3203c1d8799a1a2d80d"
+		}
+	]
+}

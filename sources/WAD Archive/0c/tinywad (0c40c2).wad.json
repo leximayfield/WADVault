@@ -1,0 +1,17 @@
+{
+	"uid": "tinywad (0c40c2).wad",
+	"name": "TinyWad.WAD",
+	"description": "Tiny level with a tough to find secret. Check out the map once you found it all.",
+	"version": "0c40c2",
+	"date": "2013-11-02 15:06:07",
+	"files": [
+		{
+			"filename": "tinywad.wad",
+			"size": 11735,
+			"crc": 1052994257,
+			"md5": "99dda80958c32f116ed4352214debcd6",
+			"sha1": "0c40c21e46f78e2d8a2d3d58e2002409eb420cc6",
+			"sha256": "acc4de4c9087f723dfceec5f74f2f19cfd524da8e2666b1083ba0a5393a1d452"
+		}
+	]
+}

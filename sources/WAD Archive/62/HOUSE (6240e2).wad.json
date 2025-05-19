@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (6240e2).wad",
+	"name": "House",
+	"description": "This wad replaces map01 of Doom2. You wake up in your house to find that it has been taken over by demons.",
+	"version": "6240e2",
+	"date": "2017-01-17 00:25:42",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 10310092,
+			"crc": 1526948787,
+			"md5": "a93efcf44787c5f6260bf4a86e52357b",
+			"sha1": "6240e2c092dc2467ecdd9257c6f14e211c40db8b",
+			"sha256": "524a879dc86545a8d888a5440eb66e5fcad19c40a41508e2561d2b7c5f5db802"
+		}
+	]
+}

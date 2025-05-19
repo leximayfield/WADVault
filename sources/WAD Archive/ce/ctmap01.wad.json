@@ -1,0 +1,16 @@
+{
+	"uid": "ctmap01.wad",
+	"name": "Granite Base",
+	"description": "An attempt to see if I could make a decent vanilla map, I'm quite pleased with the result, it was tested with Doom95 so it should work with every port.",
+	"date": "2014-12-15 21:56:13",
+	"files": [
+		{
+			"filename": "ctmap01.wad",
+			"size": 295863,
+			"crc": 3632226858,
+			"md5": "f499e664b7f27b14e9189f40ade768ec",
+			"sha1": "cec7c9a0440ffb75448cef9532bafa4721c18078",
+			"sha256": "de87eb662924d04e8b374cfc2886cf2bd0d928655f8d05f6367f44ac459303d1"
+		}
+	]
+}

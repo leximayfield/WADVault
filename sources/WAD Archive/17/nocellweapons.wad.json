@@ -1,0 +1,16 @@
+{
+	"uid": "nocellweapons.wad",
+	"name": "No Cell Weapons",
+	"description": "Removes Plasma and BFG weapons from any map. This wad is meant to be used in Death Matches and similar modes. The BFG was removed because its overpowered and boring. The Plasma was removed because its uninteresting.",
+	"date": "2013-04-19 04:19:56",
+	"files": [
+		{
+			"filename": "nocellweapons.wad",
+			"size": 545,
+			"crc": 1211848402,
+			"md5": "9ec7fbb61d1593d34d78515b090ca005",
+			"sha1": "17d52a03b61bf0501fe9fad667c62a5ec1b04a40",
+			"sha256": "b4182c31ef367b8606bbeefcdf25d10439e53d90822a0f293cad2cedfe4c173c"
+		}
+	]
+}

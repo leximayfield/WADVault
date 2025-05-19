@@ -1,0 +1,17 @@
+{
+	"uid": "mrx (abdd2d).wad",
+	"name": "Yet Another Doom2 Wad...",
+	"description": "This was my first wad file that I've sent out. Although It's simple, it's fun... You Will NOT be able to get the BFG... It's just an illusion... (set back from a warp line, so there is no way to get it) ;)",
+	"version": "abdd2d",
+	"date": "2014-12-15 21:44:04",
+	"files": [
+		{
+			"filename": "mrx.wad",
+			"size": 110454,
+			"crc": 3062346196,
+			"md5": "acc89eeadac64eeb844434cfdabc93ec",
+			"sha1": "abdd2d39aa8b28b2471ac445466d53c2ca682013",
+			"sha256": "5eb9ab9235fe5febd152c63981164bad3c7c0db75d494319494b7a32f1cc089c"
+		}
+	]
+}

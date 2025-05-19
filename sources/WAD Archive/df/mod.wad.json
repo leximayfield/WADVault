@@ -1,0 +1,16 @@
+{
+	"uid": "mod.wad",
+	"name": "Maw of Doom!",
+	"description": "A fun little map with some scripting, no real story, but it's lotsa fun! WARNING: I recommend using mouselook to avoid traps. Have fun!",
+	"date": "2015-01-13 21:47:09",
+	"files": [
+		{
+			"filename": "mod.wad",
+			"size": 10249637,
+			"crc": 2456403726,
+			"md5": "87268faccef72d97cca33eb744f3a48b",
+			"sha1": "dff1f3ebabd92dcd93234e60b17864fdb36254dd",
+			"sha256": "d90fd475e110c57f11a241d9c1c8abd419bdcb9d66e23da0867cd104433aaf5c"
+		}
+	]
+}

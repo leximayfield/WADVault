@@ -1,0 +1,16 @@
+{
+	"uid": "rockyrd.wad",
+	"name": "Rocky Road",
+	"description": "You're a marine trying to find a way out of the dreaded Mars mines.",
+	"date": "2014-12-29 08:59:15",
+	"files": [
+		{
+			"filename": "rockyrd.wad",
+			"size": 86874,
+			"crc": 2129943844,
+			"md5": "cf64faef3e462b63282a1531d8ccf4c9",
+			"sha1": "d432af983b20f641fefa3990f601787dd0adbacc",
+			"sha256": "215e7b53a5bf14b696da2034871ae5dd266d7688ad6abe964c13377f60b176d4"
+		}
+	]
+}

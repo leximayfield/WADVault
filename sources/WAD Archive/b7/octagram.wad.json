@@ -1,0 +1,16 @@
+{
+	"uid": "octagram.wad",
+	"name": "Octagram",
+	"description": "You have been dragged kicking and screaming into the Octagram, the local fighting arena in this patch of Hell. It's one of the ones that lets you have a weapon, at least. And you spotted the door into the offices on your way in...",
+	"date": "2015-01-13 21:45:18",
+	"files": [
+		{
+			"filename": "octagram.wad",
+			"size": 237700,
+			"crc": 1372536940,
+			"md5": "b7abb9203c6eec0ead618c7f5d4a9086",
+			"sha1": "b77c555aae9024263ab7ddd300a5d5b2d8e197dd",
+			"sha256": "2c4aae826f7a69084a757f91871f22f70ec4cc66b89b2c46174db4e8ea3b42da"
+		}
+	]
+}

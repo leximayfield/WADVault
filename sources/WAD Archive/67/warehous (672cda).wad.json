@@ -1,0 +1,17 @@
+{
+	"uid": "warehous (672cda).wad",
+	"name": "WAREHOUSE DEATHMATCH for DOOM II",
+	"description": "A bare-bones deathmatch level (my first DM wad) based at a warehouse. Designed for \"alt death\". Let me know what you think.",
+	"version": "672cda",
+	"date": "2014-12-15 22:13:26",
+	"files": [
+		{
+			"filename": "warehous.wad",
+			"size": 103761,
+			"crc": 3574810582,
+			"md5": "e9c3b17e8bbf6c4265386f9812ba1531",
+			"sha1": "672cda1cbcde77fd69d4e45bf846b878292f7c3a",
+			"sha256": "f8cf6e5655e5723d3feb75ecf3b7d1aa7c1cfb3ace6cee1919cd74b93a06cf9d"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "m2all (977042).wad",
+	"name": "m2all",
+	"description": "Just that \"old feel\" DOOM levels.",
+	"version": "977042",
+	"date": "2014-12-13 17:32:54",
+	"files": [
+		{
+			"filename": "m2all.wad",
+			"size": 646955,
+			"crc": 1941525900,
+			"md5": "cc9c1672c64e9d9eff90da3614d42e4a",
+			"sha1": "977042c56566dca5e0faadbd644ccad8797a3cd4",
+			"sha256": "030669aaf89a4ffd11711b8150de2baecf37195240a48181c7dcd305c227eaa3"
+		}
+	]
+}

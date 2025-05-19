@@ -1,0 +1,17 @@
+{
+	"uid": "stadiums (acf8a9).wad",
+	"name": "THE STADIUMS DEATHMATCH KIT FOR DOOM ][",
+	"description": "7 deathmatch stadiums in one file where anti bfg players and bfg users can play against each others.",
+	"version": "acf8a9",
+	"date": "2014-01-07 22:15:29",
+	"files": [
+		{
+			"filename": "stadiums.wad",
+			"size": 493502,
+			"crc": 1782658900,
+			"md5": "9912362883b3554c060902452054cfd9",
+			"sha1": "acf8a9adb526323ee085002cff941c43b93e0408",
+			"sha256": "10e140703823936a7b0689bfd9ea457a7cae08d5c6cc4924b1a68f50a155f737"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "smokn2.wad",
+	"name": "Smoke on the Water",
+	"description": "A large new level for Doom 2. I've tried to create something really unique with this level. E-mail me and tell me what you think.",
+	"date": "2018-05-28 20:42:28",
+	"files": [
+		{
+			"filename": "smokn2.wad",
+			"size": 440117,
+			"crc": 4291169801,
+			"md5": "a86c1fcb8de39421aca50220d7130420",
+			"sha1": "45b14bc80e422cf380a9aca8bd7a78f1cbf7325f",
+			"sha256": "e14df6a7ea8579e88d33d30145272e0e7a80672805785daa8dd2c1b4710e0023"
+		}
+	]
+}

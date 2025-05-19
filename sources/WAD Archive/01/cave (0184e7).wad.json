@@ -1,0 +1,17 @@
+{
+	"uid": "cave (0184e7).wad",
+	"name": "The Cave Anomaly",
+	"description": "I have converted all of my doom level for doom2 and will release them soon, this is the first level I've made for Doom2.",
+	"version": "0184e7",
+	"date": "2013-11-02 15:57:24",
+	"files": [
+		{
+			"filename": "cave.wad",
+			"size": 198725,
+			"crc": 182810691,
+			"md5": "c870d91e861425a59d1cdafcdb7723a4",
+			"sha1": "0184e7c7945db4196366efe182fc884dc85c5107",
+			"sha256": "cb290e5ff4c7a66c362ddffdaadcc39bc8d09f8889d02b9be3f1146422e02b83"
+		}
+	]
+}

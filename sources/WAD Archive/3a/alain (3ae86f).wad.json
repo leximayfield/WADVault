@@ -1,0 +1,17 @@
+{
+	"uid": "alain (3ae86f).wad",
+	"name": "ALAIN.WAD",
+	"description": "New design, great space, full ammos and lot of monsters. Not so difficult to end but be carefull. Feedback should be appreciated.",
+	"version": "3ae86f",
+	"date": "2014-01-04 11:55:38",
+	"files": [
+		{
+			"filename": "alain.wad",
+			"size": 104891,
+			"crc": 1191144485,
+			"md5": "ae2d80c6512165ac1e9199ec89f18aa7",
+			"sha1": "3ae86f2ca3a91d41f6c768cbd80614910f9d2f49",
+			"sha256": "b5ba6c8fcd1d11aeb48fd19c2b2609231a2b574eadd2f38b7ceef4d1be489ede"
+		}
+	]
+}

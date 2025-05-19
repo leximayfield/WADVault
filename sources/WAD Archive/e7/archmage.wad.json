@@ -1,0 +1,16 @@
+{
+	"uid": "archmage.wad",
+	"name": "ARCHMAGE",
+	"description": "Big map. Four keeps/dungeons to explore. Lots of colorful action. Puzzles too. Non-linear \"plot\". Based on my \"Wizard Wars\" HERETIC wad. (This HEXEN level is not, however, set up for deathmatch play. For that, you'll have to check out the original. I'll do a deathmatch version for HEXEN soon, I promise...)",
+	"date": "2014-12-31 12:13:21",
+	"files": [
+		{
+			"filename": "archmage.wad",
+			"size": 187717,
+			"crc": 315792491,
+			"md5": "d1a05c6cb8332faecce9b4ca1d56caff",
+			"sha1": "e7c3a8587e05b8cbf13f6a648cc65b53aac42b56",
+			"sha256": "362a68a13e4023715ac8057016ecea5a230df6bd1bebe135a0b4cbb9320852c6"
+		}
+	]
+}

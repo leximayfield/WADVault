@@ -1,0 +1,17 @@
+{
+	"uid": "bunker (702b37).wad",
+	"name": "Bunker",
+	"description": "A quick MAP01-style level.",
+	"version": "702b37",
+	"date": "2016-07-20 20:09:48",
+	"files": [
+		{
+			"filename": "bunker.wad",
+			"size": 1568590,
+			"crc": 2713395261,
+			"md5": "e4ec58a0ddbe4d9083b605afe14d8a63",
+			"sha1": "702b37ec922ce8aa45d8ac5b31ff193bb530d492",
+			"sha256": "a91f4e70da7b9e8b384db3a7fcbc476cb6a774a436e6bc9b6a967094bffd6333"
+		}
+	]
+}

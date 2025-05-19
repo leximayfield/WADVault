@@ -1,0 +1,16 @@
+{
+	"uid": "EMPYRE.wad",
+	"name": "Empyre of Doom",
+	"description": "You find yourself in a spaceport that has been taken over by hellspawn. From there, your adventures take you to the basement, a Nazi fortress, a lava cave, a castle, and the dungeon of the castle. More details in spcprt.txt and cstlgstn.txt.",
+	"date": "2014-12-18 23:06:12",
+	"files": [
+		{
+			"filename": "EMPYRE.wad",
+			"size": 1616584,
+			"crc": 1750560106,
+			"md5": "aa5ac18ccac0c9afa0aa7f837b2cebbe",
+			"sha1": "6aa61d6ee67c4ce05ab04637fa0d9fde8623a189",
+			"sha256": "380795e8aa7962ede42f47dc3f34efbe663e3cbc4b9ee8a2d5c7c20968ccf3b8"
+		}
+	]
+}

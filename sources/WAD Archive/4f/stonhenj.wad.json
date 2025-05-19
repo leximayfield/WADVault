@@ -1,0 +1,16 @@
+{
+	"uid": "stonhenj.wad",
+	"name": "StoneHenj",
+	"description": "4 Deathmatch Levels for Heretic-version 1.3",
+	"date": "2014-12-30 11:18:31",
+	"files": [
+		{
+			"filename": "stonhenj.wad",
+			"size": 80527,
+			"crc": 3370201923,
+			"md5": "2ccce5e9626ef65315e0d1697619996a",
+			"sha1": "4f13dfbba6dbf98383721527a8a9b5a04f8fc699",
+			"sha256": "886801d0910c643a6526047088bf1213b831ad8dc543baf575144d6484b60430"
+		}
+	]
+}

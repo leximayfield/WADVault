@@ -1,0 +1,17 @@
+{
+	"uid": "map3 (567d6b).wad",
+	"name": "MAP3.WAD",
+	"description": "This level is rather small, but nevertheless fun. The first room is inspired by Doom II map 01. To get the red key, you must do some running. BTW: I'm not very creative in naming my levels... :-)",
+	"version": "567d6b",
+	"date": "2014-12-14 20:36:28",
+	"files": [
+		{
+			"filename": "map3.wad",
+			"size": 38419,
+			"crc": 2871713178,
+			"md5": "6653dcb997e711c09c07fa34ee8e36f4",
+			"sha1": "567d6be4cd65d9159fe5ca32ac2f5347ab2a41cf",
+			"sha256": "0eecc689702c4f4c1f2544fcbbe7aa5e9444eb5acf987abd89aee44db1dd0711"
+		}
+	]
+}

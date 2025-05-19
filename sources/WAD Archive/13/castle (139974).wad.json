@@ -1,0 +1,17 @@
+{
+	"uid": "castle (139974).wad",
+	"name": "The Demon Castle",
+	"description": "Player escapes from The Demon Castle",
+	"version": "139974",
+	"date": "2014-12-15 21:44:38",
+	"files": [
+		{
+			"filename": "castle.wad",
+			"size": 475301,
+			"crc": 3366886142,
+			"md5": "da935e52fef6d697702e039ab2aa7b37",
+			"sha1": "139974b0fb12b1d51afc5a90501575b88e404b0f",
+			"sha256": "ec918602c3da3eb448ed9f3ed4602ce8731576992cf2d352c3de2e01c57a9e78"
+		}
+	]
+}

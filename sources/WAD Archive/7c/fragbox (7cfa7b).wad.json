@@ -1,0 +1,17 @@
+{
+	"uid": "fragbox (7cfa7b).wad",
+	"name": "THE FRAGBOX",
+	"description": "Well you have to play it to describe it.",
+	"version": "7cfa7b",
+	"date": "2014-12-15 22:16:44",
+	"files": [
+		{
+			"filename": "fragbox.wad",
+			"size": 106668,
+			"crc": 2797502331,
+			"md5": "65a05f2bb1cf7afff601c6399367d97f",
+			"sha1": "7cfa7bd833dfa947d4de8bf739948ce948640b84",
+			"sha256": "f9093da432bc3a19a75c4637893a86ea3b3a27946f7bb36a204663277e03e49e"
+		}
+	]
+}

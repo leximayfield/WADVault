@@ -1,0 +1,17 @@
+{
+	"uid": "playgnd (c7371c).wad",
+	"name": "The Playground",
+	"description": "Good for Multiplayer DOOM with lots of spots to start. Some are good, some are bad, and some neither.",
+	"version": "c7371c",
+	"date": "2013-11-02 16:59:38",
+	"files": [
+		{
+			"filename": "playgnd.wad",
+			"size": 120219,
+			"crc": 1136633743,
+			"md5": "f3f87fad241655bd51021aae3d79617a",
+			"sha1": "c7371c1ea5681c598e0fd1cb4e8bd73596b076e5",
+			"sha256": "fa5494b6a5e72c168e3616fa2c8654643aafca3afe2033c4fbf6a8b083c59285"
+		}
+	]
+}

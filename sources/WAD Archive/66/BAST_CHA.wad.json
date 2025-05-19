@@ -1,0 +1,16 @@
+{
+	"uid": "BAST_CHA.wad",
+	"name": "Bastion of Chaos",
+	"description": "My first HeXen level. This level's concept will probably be incorperated into one of the levels in my other current DOOM ][ project (as yet unnamed). This is the first time I've designed a level with both Single Player and Co-op / Deathmatch in mind, and I think that it will be pretty good for all types of play. There are alot of bad guys tho' so it would be a good idea to use -nomonsters on Deathmatch. I haven't polished it as much as I'd like to. If I get some feedback (hint), then I'll probably align those textures and fix the glitter bridge. I might also add difficulty settings if asked nicely. I might re-release this wad with a nice demo in it as well *:)",
+	"date": "2014-10-14 21:15:07",
+	"files": [
+		{
+			"filename": "BAST_CHA.wad",
+			"size": 113107,
+			"crc": 3304869374,
+			"md5": "8cfc2a0f4692b59bc80b644c50dc85b5",
+			"sha1": "6603ebe1c484d9bd1009809a56325eb6f317741c",
+			"sha256": "b3c58c430bf9b67354033134f2084d79ce98fc29c82ebf3da03d8270dc1b649c"
+		}
+	]
+}

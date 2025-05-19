@@ -1,0 +1,16 @@
+{
+	"uid": "WILDPACK.wad",
+	"name": "Wildman DM Pack",
+	"description": "This is a compilation of previously maps. This pack is compatible with regular Doom2 weapons, ROKS, Breed DM and the Doombot.",
+	"date": "2014-12-15 23:12:07",
+	"files": [
+		{
+			"filename": "WILDPACK.wad",
+			"size": 1005560,
+			"crc": 3836506964,
+			"md5": "46e3478d46c3822cf7014efba8dabc0d",
+			"sha1": "bf84d81fb950e2730e4eaa5036e1936407fbe86e",
+			"sha256": "4dd6195b2384dd82051ba315cd2ed5749760917c3f55f19a077a3f4eb3d70d22"
+		}
+	]
+}

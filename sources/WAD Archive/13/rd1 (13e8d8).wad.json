@@ -1,0 +1,17 @@
+{
+	"uid": "rd1 (13e8d8).wad",
+	"name": "Red Dust 1",
+	"description": "Red Dust 1 takes place in the red dust zone in space. This can be a tribute to Zachary Stephen's Stardate WADs, since this one and the ones mentioned both take place in space. Some levels are relatively short and others can be extremely grindy. Just to warn players that in ZDoom-based engines, monster spawnfrags are possible, so stay out of the teleporting spots.",
+	"version": "13e8d8",
+	"date": "2019-03-20 00:03:30",
+	"files": [
+		{
+			"filename": "rd1.wad",
+			"size": 9387779,
+			"crc": 4001378211,
+			"md5": "12aa6868def152cfb5e969a21ed3a4d7",
+			"sha1": "13e8d85e99c5160e146c30edfd1e25fa4f46fb4b",
+			"sha256": "2faaa4f487dfadf0c766c5e68ecbfc5a6e4ff3645bf42e39fb8ad5bd2e763342"
+		}
+	]
+}

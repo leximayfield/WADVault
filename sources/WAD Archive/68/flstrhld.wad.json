@@ -1,0 +1,16 @@
+{
+	"uid": "flstrhld.wad",
+	"name": "Stronghold of Flesh",
+	"description": "This map offers nonlinear gameplay. Also it's pretty big and contains many secret areas. WAD includes custom ambient music which was composed by me, i can provide FL Studio project if needed.",
+	"date": "2019-05-03 22:07:20",
+	"files": [
+		{
+			"filename": "flstrhld.wad",
+			"size": 19440237,
+			"crc": 3062818614,
+			"md5": "fef7cc70805a5e32622c70f7da1fbf2c",
+			"sha1": "68765ace7939a2b6f0612ad3ae095f19e7f5dbef",
+			"sha256": "8e82c2b0e1703a6481d31139c061120dbfadbb6b072e60b896a7177589c3a9da"
+		}
+	]
+}

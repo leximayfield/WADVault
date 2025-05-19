@@ -1,0 +1,16 @@
+{
+	"uid": "D2BATTLE.wad",
+	"name": "D2BATTLE.WAD",
+	"description": "This wad was designed as a battleship mainly for Deathmatch 2.0. There are many \"secret\" switches, that lead to traps, bonuses, and all kinds of good stuff. There are quite a few monsters lumbering around for carnage purposes.",
+	"date": "2013-11-02 16:01:13",
+	"files": [
+		{
+			"filename": "D2BATTLE.wad",
+			"size": 78013,
+			"crc": 3009120931,
+			"md5": "b3629f76c0dfaaad80a2029b6cb6db8e",
+			"sha1": "83cf4b8858b0dfd635570d90e5e4060d5083bb43",
+			"sha256": "65a34c1b8c26bdc3ba768dd7bbfaefa96e66bb09ff5d3375fc38b4fb56a684e6"
+		}
+	]
+}

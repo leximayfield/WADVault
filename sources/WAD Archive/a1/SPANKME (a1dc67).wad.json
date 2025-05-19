@@ -1,0 +1,17 @@
+{
+	"uid": "SPANKME (a1dc67).wad",
+	"name": "SPANKME.WAD",
+	"description": "This patch file is for E1M1. This level is designed for DEATHMATCH. There are some monsters if you want them. There is nothing very fancy about this level, its just good clean fraggin' fun.",
+	"version": "a1dc67",
+	"date": "2013-11-02 15:20:56",
+	"files": [
+		{
+			"filename": "SPANKME.wad",
+			"size": 33932,
+			"crc": 704755563,
+			"md5": "2886ab2dad2955976a8d9ff806acb531",
+			"sha1": "a1dc678c997446f93e1921db9960e563b2ede9b7",
+			"sha256": "12289a767b62b55b5dffbf7613870ac5c48940f6e5be71749e2e3f01525adef0"
+		}
+	]
+}

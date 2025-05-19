@@ -1,0 +1,17 @@
+{
+	"uid": "evlctf (c04d9e).wad",
+	"name": "Evil Capture the Flag",
+	"description": "Yet another CTF level that I made. This one is was inspired by the Quake 1 CTF level 2evilCTF that was converted over to Quake2. The only reason I made this one is because of the kick ass AVI Fanatic put made of QDoom. Nodes for Doombot 4.0 are included too.",
+	"version": "c04d9e",
+	"date": "2014-12-15 21:40:29",
+	"files": [
+		{
+			"filename": "evlctf.wad",
+			"size": 115136,
+			"crc": 1325158561,
+			"md5": "fcc8dc90cdb807ac066e375fd5d55c33",
+			"sha1": "c04d9e9f8d5440f8c2cfc1e7103060d241cb0038",
+			"sha256": "083572b0952395f5dbf4486eb35c2b297742bcb6f035fe98bdea5ce18a8e6a58"
+		}
+	]
+}

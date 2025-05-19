@@ -1,0 +1,16 @@
+{
+	"uid": "UC.wad",
+	"name": "Doom2 Ultimate Challenge  Beta Version (0.5)",
+	"description": "The Ultimate Challenge is full of Nasty Monsters. And for the solo player may prove to much. You can always cheat. There is plenty of weapons and ammo and even a few secret areas. It is possible to win. At the directory in which you have doom2 located type doom2 -file UC.wad. This should replace the regular map1 with the challenge of a doomer's lifetime. Good Luck",
+	"date": "2013-11-02 15:59:14",
+	"files": [
+		{
+			"filename": "UC.wad",
+			"size": 83124,
+			"crc": 399654159,
+			"md5": "b488d1725bf9f0049c1372e5106bbdd0",
+			"sha1": "a0b0961fe71f6a4d6378a3206b71a091ade20f8f",
+			"sha256": "2d761d930593f771a2ba7d28f7e95b808301e782c5f1fda31fc75a3868194a4f"
+		}
+	]
+}

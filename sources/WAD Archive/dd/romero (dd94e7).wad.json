@@ -1,0 +1,17 @@
+{
+	"uid": "romero (dd94e7).wad",
+	"name": "\"CHAPEL OF ROMERO\" - a DOOM II pwad",
+	"description": "Huge level!",
+	"version": "dd94e7",
+	"date": "2015-01-14 22:44:53",
+	"files": [
+		{
+			"filename": "romero.wad",
+			"size": 457924,
+			"crc": 1733061111,
+			"md5": "f516e6a7abefc2eeaa3969ff5582e064",
+			"sha1": "dd94e72caf927ce5893bc1d414f75f35f22f7901",
+			"sha256": "fb43d9aa1e93ad4c4c7414677facc9746b6f32c1e051d519a57dfe8ead05553a"
+		}
+	]
+}

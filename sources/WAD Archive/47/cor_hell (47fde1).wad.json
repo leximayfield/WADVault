@@ -1,0 +1,17 @@
+{
+	"uid": "cor_hell (47fde1).wad",
+	"name": "Corridors of Hell",
+	"description": "Designed for Doom II. Fighting monsters in small corridors. A real challenge.",
+	"version": "47fde1",
+	"date": "2016-02-07 20:35:49",
+	"files": [
+		{
+			"filename": "cor_hell.wad",
+			"size": 92171,
+			"crc": 1471231501,
+			"md5": "b8afd5b85a8e6121b2922a7cc04905ef",
+			"sha1": "47fde1bdf8f8b64eebd585daf565ae3ec5ef26dd",
+			"sha256": "08a32a4c1f564370dfa1e6da2d9c463c2c54646b39f706d0c4eec1fae2acfc38"
+		}
+	]
+}

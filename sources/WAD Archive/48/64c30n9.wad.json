@@ -1,0 +1,16 @@
+{
+	"uid": "64c30n9.wad",
+	"name": "64 Test Map",
+	"description": "This is a map that is exclusive to Doom 64 EX (it can be only played with 64 EX). Made by the Doom Builder 64 (2 originally). It is a test map, but I figured about publishing it. READ THIS TO RUN THE MAP: 1- Put it in your Doom 64EX folder. 2- Open the launcher and type at the bottom: -file 64ways.wad",
+	"date": "2014-12-20 18:38:38",
+	"files": [
+		{
+			"filename": "64c30n9.wad",
+			"size": 87495,
+			"crc": 1145521873,
+			"md5": "58f4cf199c15787a03ef069bad5cb6d6",
+			"sha1": "48e433fd744b27ec1bc2bf29e1b03462f1f1f49b",
+			"sha256": "b6768d4328338c9ede1ea56c45c22731a5e88984bfab95f27acaf58cf7b9c11c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "mancer11.wad",
+	"name": "Mancer11.wad",
+	"description": "The 11th level in the Mancer series! This level works great! It DOES have a BFG9000, but... you'll have to lose 40% - 60% health to get it :)",
+	"date": "2018-06-21 11:29:29",
+	"files": [
+		{
+			"filename": "mancer11.wad",
+			"size": 111124,
+			"crc": 2444337924,
+			"md5": "6cbb0ce421e651953efe416ceb7f2f63",
+			"sha1": "d6e008af925d3f39c1c4438131588d74c83c3352",
+			"sha256": "97dbcac723a5935b41004b3cd69b84dd0aba4feb7b3d1f6009e3de7ada64c9b3"
+		}
+	]
+}

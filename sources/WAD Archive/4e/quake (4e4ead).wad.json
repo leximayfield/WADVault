@@ -1,0 +1,16 @@
+{
+	"uid": "quake (4e4ead).wad",
+	"name": "Slipgate Complex",
+	"version": "4e4ead",
+	"date": "2014-12-15 22:19:48",
+	"files": [
+		{
+			"filename": "quake.wad",
+			"size": 89222,
+			"crc": 3279416404,
+			"md5": "57358c0dc16b124a3961279fb80449cf",
+			"sha1": "4e4ead42e80c116b8b9bf3243bb92ac539797521",
+			"sha256": "3a9852250105ad48fd84db968615538cd574b2c5cbb41fed1212f3391bdae5b1"
+		}
+	]
+}

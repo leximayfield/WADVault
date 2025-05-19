@@ -1,0 +1,16 @@
+{
+	"uid": "mike_kil.wad",
+	"name": "MIKE&KIL.WAD",
+	"description": "Small, extended fortress with a lot of open running space and all of the powerups... We also put a lot of chaos devices to reduce risk of cleric's 4th gun.",
+	"date": "2019-03-06 21:31:28",
+	"files": [
+		{
+			"filename": "mike_kil.wad",
+			"size": 49893,
+			"crc": 1560564023,
+			"md5": "76cdd01cfb4a988d130fb581f11fa69a",
+			"sha1": "12495a9c70a480e08b70a2986e9c2cd275ffef37",
+			"sha256": "0125c3b5ab53cc45f22b702c830f79f8af0bfb29e7b6792c8d388c4c6f1318f3"
+		}
+	]
+}

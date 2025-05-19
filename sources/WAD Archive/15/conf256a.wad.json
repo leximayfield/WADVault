@@ -1,0 +1,16 @@
+{
+	"uid": "conf256a.wad",
+	"name": "Confinement 256?",
+	"description": "First wad I have ever made. Inspired by Congestion 1024 and 64. Made to be some sort of bridge between the two numbers. Review it however you like! Send me feedback! QUESTION: Should I continue to make a full megawad of this?",
+	"date": "2018-05-28 19:33:04",
+	"files": [
+		{
+			"filename": "conf256a.wad",
+			"size": 18557,
+			"crc": 1604257936,
+			"md5": "0be675a60272291bb4e7274da4601dac",
+			"sha1": "15afbea6914e8d8e093cfd374fff4fb94e2263bd",
+			"sha256": "8109c36daf20abd43fc3c79ebd1ce374bf14ab534ddda336f165e16a0f787a3e"
+		}
+	]
+}

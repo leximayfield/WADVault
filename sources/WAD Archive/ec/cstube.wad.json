@@ -1,0 +1,16 @@
+{
+	"uid": "cstube.wad",
+	"name": "Chainsaw's Tubes",
+	"description": "You are 3 tubes going in circles, with dark tunnels crossing through the center of it. Great for Deathmatch.",
+	"date": "2013-11-06 22:29:50",
+	"files": [
+		{
+			"filename": "cstube.wad",
+			"size": 100114,
+			"crc": 2382727467,
+			"md5": "f11001829ab9ecc3a599478b8c2da034",
+			"sha1": "ec77bdb407811b4e62213e2c16b93c542ff9368c",
+			"sha256": "c4c50d0ef59e189fa9b9bbe7ee725d4109f7304a5b765bb339d82c914acf1e75"
+		}
+	]
+}

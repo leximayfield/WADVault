@@ -1,0 +1,16 @@
+{
+	"uid": "exitway.wad",
+	"name": "Exitway v1.3",
+	"description": "A vanilla map to further practice at my mapping style. Gameplay was the priority, but expect a few... surprises. ;)",
+	"date": "2014-12-18 22:55:34",
+	"files": [
+		{
+			"filename": "exitway.wad",
+			"size": 143024,
+			"crc": 2091764131,
+			"md5": "7722d7f1858cf6f58ad8815b6d632c74",
+			"sha1": "26c4fe597ce22972374bfdab3d836b3f1a709595",
+			"sha256": "f507155c575feef2dad72ac0d92998f84ee618cdbd5dec787af39dd9db5854e0"
+		}
+	]
+}

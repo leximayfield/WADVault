@@ -1,0 +1,17 @@
+{
+	"uid": "justin (814576).wad",
+	"name": "Justin (DOOM II Levels)",
+	"description": "These levels are for DOOM II! They are deathmatch levels modeled after the openness of map 07.",
+	"version": "814576",
+	"date": "2014-12-15 22:05:53",
+	"files": [
+		{
+			"filename": "justin.wad",
+			"size": 165425,
+			"crc": 4037965529,
+			"md5": "32a07e3deb932b3a96a394f809bed3a0",
+			"sha1": "81457637cd96eb42040308e0dcf8c9b11021600e",
+			"sha256": "9d5826b6c27663d50815369777e7b7c3b0de9148e9e4a80fbefffeac15b8cb8f"
+		}
+	]
+}

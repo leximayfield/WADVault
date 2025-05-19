@@ -1,0 +1,16 @@
+{
+	"uid": "kass_dm2.wad",
+	"name": "\"Kick Yo Ass!\"",
+	"description": "Kick Yo Ass! is a DOOM II deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of another arena (12 sided) surrounded by a deep moat (below) & hallways (above). One Teleporter at the bottom of each hallway entrance will transport you to that hallway (you can also jump accross from above and achieve the same thing). There is also one Teleporter in the central arena take you to the Holding Bag. Weapons, Ammo and Goodies are all over the place depending on the Skill level chosen at start (The higher the Skill level, the nastier the Weapons. There are windows accross from the arena which access semi-secret rooms with invisibility spheres and other goodies. These rooms are also accessible through a door in the hallways. They make for good ambush sites. The players start in one of the four connected hallways above the arena or in one of the semi-secret rooms. They will each find plenty of weapons to start them out (Nobody should get the upper hand). This level is great in DEATHMATCH 2.0 as well as regular Deathmatch.",
+	"date": "2013-11-06 22:28:33",
+	"files": [
+		{
+			"filename": "kass_dm2.wad",
+			"size": 69986,
+			"crc": 1534065342,
+			"md5": "e324890aa1d42881d5a22541b41f3ae4",
+			"sha1": "bc2be60aac2044515dbb2e8c7ee3d750fe33ee75",
+			"sha256": "0f4f919f2533a3db093cd7392f15220573a94705638a9feee200ad3cd5d080bb"
+		}
+	]
+}

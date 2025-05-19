@@ -1,0 +1,16 @@
+{
+	"uid": "dmbridge.wad",
+	"name": "DM BRIDGE",
+	"description": "Experimental DM Level for Zdoom, which contains two 3D bridges passing over each other. All weapons are present and 8 DM starts are included. Other Zdoom effects include the ocean effect, and 3D pass over walls, etc. Main Courtyard is 1024x1024.",
+	"date": "2014-12-15 22:39:51",
+	"files": [
+		{
+			"filename": "dmbridge.wad",
+			"size": 60076,
+			"crc": 3734333297,
+			"md5": "137c59995c0e19d6d74431648a09cd21",
+			"sha1": "909f558b59ccb329e0d91bee5e1f2adbf7bc60b0",
+			"sha256": "a6ec562ac2bedd3f029e24a5747437ea9e9c060b9ec044bea692d2508d353dd9"
+		}
+	]
+}

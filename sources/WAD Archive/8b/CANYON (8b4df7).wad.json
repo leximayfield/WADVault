@@ -1,0 +1,17 @@
+{
+	"uid": "CANYON (8b4df7).wad",
+	"name": "CANYON.WAD",
+	"description": "This level may be played all by itself as the first level of the second game, but is intended immediately before playing \"HQ.WAD\"",
+	"version": "8b4df7",
+	"date": "2014-01-04 11:55:37",
+	"files": [
+		{
+			"filename": "CANYON.wad",
+			"size": 313586,
+			"crc": 2330528420,
+			"md5": "787b49980dd7a3b45cf3c7ff0e449848",
+			"sha1": "8b4df754ae41550a08cffe1d4b64b9508ab8a658",
+			"sha256": "a30f14dc72847ef66b9967caef522ab45df9ded556290768c310858656d89ec8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "zdmegactf-1h_rc3.wad",
+	"name": "ZDaemon Mega CTF (ver. \"1h\" Release Candidate 3)",
+	"description": "A compilation wad containing 52 CTF maps of the highest quality made for the online multiplayer DOOM source port, ZDaemon.",
+	"date": "2013-10-03 11:33:54",
+	"files": [
+		{
+			"filename": "zdmegactf-1h_rc3.wad",
+			"size": 31856365,
+			"crc": 2065874320,
+			"md5": "52fef9b89117f2f768e530c416ac99ee",
+			"sha1": "c289037ec1cb561996ccdc8e71bf8e59c72fd483",
+			"sha256": "150ac0c6304b1d33d1b773fe1838b5c11fce6b54a102372c8dc65d47bbb0e5d0"
+		}
+	]
+}

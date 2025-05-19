@@ -1,0 +1,17 @@
+{
+	"uid": "nukeproc (cf69de).wad",
+	"name": "Nukage Processing Plant",
+	"description": "Communication with the UAC's toxin plant has been lost, and the same fate has been brought upon all of their teams they've sent in so far. Now they are sending you, their best of the best, to figure out what's really going on. The ending will leave you stunned...",
+	"version": "cf69de",
+	"date": "2015-09-15 14:10:05",
+	"files": [
+		{
+			"filename": "nukeproc.wad",
+			"size": 73739,
+			"crc": 2024848829,
+			"md5": "0b9554de9bc493153610e3cd02521035",
+			"sha1": "cf69ded56971bd0c2515ae79f95e91c3cf93cb91",
+			"sha256": "0285d86a92acf1e4f71b1d6f97e388b45fd7a729db3d1fe7565a983a29e0316e"
+		}
+	]
+}

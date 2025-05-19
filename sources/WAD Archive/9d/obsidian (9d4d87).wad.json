@@ -1,0 +1,17 @@
+{
+	"uid": "obsidian (9d4d87).wad",
+	"name": "OBSIDIAN FORTRESS",
+	"description": "You must find a way to get into the obsidian fort and destroy the vile things within. This is my first attempt at a WAD file.",
+	"version": "9d4d87",
+	"date": "2013-11-06 22:22:04",
+	"files": [
+		{
+			"filename": "obsidian.wad",
+			"size": 142032,
+			"crc": 4055265307,
+			"md5": "4490e1aa9e57f3ebb79d8a8a7b15936b",
+			"sha1": "9d4d87631b606fd130129c4f8ac9b62128cd9dc7",
+			"sha256": "23ac8b228268388b4b701e5e6db3a4b38c6aeb3d3a48e4a21a6d095b9feb9c3b"
+		}
+	]
+}

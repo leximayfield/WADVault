@@ -1,0 +1,17 @@
+{
+	"uid": "arena (9f0f54).wad",
+	"name": "Arena",
+	"description": "Deathmatch heaven. Basically it's a large central arena with various sub areas scattered arround the edge for good measure. There are a few monsters in there to provide a source of ammo and to create some traps *grin*. I The level _designed_ to be played with respawn, it will be lame without it.",
+	"version": "9f0f54",
+	"date": "2015-12-07 13:52:35",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 38329,
+			"crc": 254531616,
+			"md5": "47f0d310481f4c4a9027ba18883d5165",
+			"sha1": "9f0f54a8aeceeba632babbde4d418eec231d80c0",
+			"sha256": "33a9a4630c30da4c669de2f8f54046a26802176affe39ed49d7ceedf312a3a5b"
+		}
+	]
+}

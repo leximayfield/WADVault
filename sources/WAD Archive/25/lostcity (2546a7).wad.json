@@ -1,0 +1,17 @@
+{
+	"uid": "lostcity (2546a7).wad",
+	"name": "Lostcity.wad",
+	"description": "This is a wad for everyone. It has several",
+	"version": "2546a7",
+	"date": "2014-10-14 20:55:14",
+	"files": [
+		{
+			"filename": "lostcity.wad",
+			"size": 134517,
+			"crc": 3855273375,
+			"md5": "e74daef6dc825976555f90d87ec79d32",
+			"sha1": "2546a7ca580a64489aa5f5e84b8d4450e4ec915a",
+			"sha256": "1f62c582d6d55a32793267ceb5e72a47d428eba7c059fba3b3f0229921a63e85"
+		}
+	]
+}

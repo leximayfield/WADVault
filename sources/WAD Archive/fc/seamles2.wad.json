@@ -1,0 +1,16 @@
+{
+	"uid": "seamles2.wad",
+	"name": "Seamless 2: A Fake Circle",
+	"description": "Seamless 2 is a Vanilla Ultimate Doom map taking slot of E1M2 that makes no use of \"use\" lines. The theme is \"base\", there are about 120 monsters and the map takes less than 10 minutes to beat. The keys are MacGuffins. The difficulty is easy, to the point where the difference between HMP and UV is marginal and relies mostly on more health & ammo pickups on HMP. Unfortunately, despite taking slot of E1M2, it cannot be played seamlessly in ZDoom ports with the first Seamless because I have foolishly inserted a MAPINFO there that prohibits it.",
+	"date": "2017-06-26 23:57:52",
+	"files": [
+		{
+			"filename": "seamles2.wad",
+			"size": 168783,
+			"crc": 1175723254,
+			"md5": "25f5d33ebfc1e7603cc1dc19ac3ab8bc",
+			"sha1": "fc41be6ec254f476bba8aa36cc47f21d0851e84e",
+			"sha256": "dad5f9b1054c14bac6a00d61b4bf2d6b1ed0bec3d39c65a9e6b7887d5c6d76d2"
+		}
+	]
+}

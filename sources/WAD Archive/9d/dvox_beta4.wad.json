@@ -1,0 +1,16 @@
+{
+	"uid": "dvox_beta4.wad",
+	"name": "D-VOX (beta 4)",
+	"description": "This is a VOX (audio) WAD containing MP3 sound clips recorded by Jac0b and AF-Domains.net which replace the standard announcements heard while playing ZDaemon (a ZDoom port). Duel, FFA, DDOM, and CTF modes are supported. This is a beta3 version for testing. Send feedback to indigo223@gmail.com.",
+	"date": "2013-05-07 16:28:15",
+	"files": [
+		{
+			"filename": "dvox_beta4.wad",
+			"size": 2792907,
+			"crc": 1933133953,
+			"md5": "f803339216a0679a283ad24bf993511e",
+			"sha1": "9d39e328c8735c5cdc632fd99148ac8ba6050dae",
+			"sha256": "85aea2f0e9f57313a0fa7d42a0742dfda7063b2042e4019db0fc02f8251db7ea"
+		}
+	]
+}

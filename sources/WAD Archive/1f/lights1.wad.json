@@ -1,0 +1,15 @@
+{
+	"uid": "lights1.wad",
+	"description": "This has various floor and ceiling lights. The floor lights illuminate the floor only and the ceiling lights illuminate the ceiling only. These prefabs have small sectors that don't have upper or lower textures. This is by design so that the light texture will shine at the proper brightness without casting light on the dark floor or ceiling. Do not ass the upper or lower textures or the effect wil be ruined.",
+	"date": "2015-09-14 23:27:17",
+	"files": [
+		{
+			"filename": "lights1.wad",
+			"size": 7535,
+			"crc": 4191053762,
+			"md5": "1213be42043aef896373ad41df083761",
+			"sha1": "1ff7a422c279089335d16fc17c9c8d5453c34829",
+			"sha256": "981a37607dd9175056f50befb2076903589cafbb9f1dc70cc8611d218085867c"
+		}
+	]
+}

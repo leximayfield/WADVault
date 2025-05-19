@@ -1,0 +1,16 @@
+{
+	"uid": "gurgly.wad",
+	"name": "gurgly deathmatch (the name has nothing to do",
+	"description": "For DOOM 2, A dm WAD about 3 ways in and out of every place",
+	"date": "2014-12-15 22:20:58",
+	"files": [
+		{
+			"filename": "gurgly.wad",
+			"size": 27242,
+			"crc": 2137125078,
+			"md5": "0b0dab4546fa65c8c7c44350c597e7ca",
+			"sha1": "3909807388a1c55f8d49db7e2d4a49cee2457954",
+			"sha256": "9e0ea8d3340785be8a4ff1eb915f6d5120bfb9fe6b07401afdfd588638b8193e"
+		}
+	]
+}

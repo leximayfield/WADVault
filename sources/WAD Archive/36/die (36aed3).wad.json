@@ -1,0 +1,17 @@
+{
+	"uid": "die (36aed3).wad",
+	"name": "Die",
+	"description": "This is the best wad I've ever made.",
+	"version": "36aed3",
+	"date": "2014-12-18 22:22:45",
+	"files": [
+		{
+			"filename": "die.wad",
+			"size": 2658,
+			"crc": 929762670,
+			"md5": "6e90e01df9a13ff165b81f6219c28896",
+			"sha1": "36aed3a01bca5d8cf965c115e953f0b278e59744",
+			"sha256": "860b15a28faf812be4c56a51fd96b65672356fe0f0b353f8b16bc99d5d26a316"
+		}
+	]
+}

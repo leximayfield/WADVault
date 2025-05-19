@@ -1,0 +1,17 @@
+{
+	"uid": "die (0fffc5).wad",
+	"name": "Die, F??hrer, Die",
+	"description": "Recreation of the Wolfenstein 3D scenario",
+	"version": "0fffc5",
+	"date": "2015-09-15 13:33:34",
+	"files": [
+		{
+			"filename": "die.wad",
+			"size": 4380724,
+			"crc": 975119507,
+			"md5": "e72f0b13577452e97158582d23829ae6",
+			"sha1": "0fffc58c64eba100b2d62df36f196b7fee920602",
+			"sha256": "a08df9301de9cd6c5fef6a760a07bd2a5c6a5b2a9bfb38bf16414ac96dace24d"
+		}
+	]
+}

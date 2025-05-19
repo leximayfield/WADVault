@@ -1,0 +1,16 @@
+{
+	"uid": "schlagx.wad",
+	"name": "Schlagwerk X",
+	"description": "This level was inspired by Schlagwerk, a cool Drum&Bass track by TaQ, from beatmania IIDX 3rd style.",
+	"date": "2014-12-29 16:16:31",
+	"files": [
+		{
+			"filename": "schlagx.wad",
+			"size": 288343,
+			"crc": 3410004439,
+			"md5": "6faf73d1432a0982bf4070d824efb261",
+			"sha1": "580f2e0c25ae9f96f7154cdb8e43fd4a47bcc0c8",
+			"sha256": "bfc74ff5f38471e3408a75b45292d13d8e9948b30c8bc42d5047c409b10e7548"
+		}
+	]
+}

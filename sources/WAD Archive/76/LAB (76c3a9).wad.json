@@ -1,0 +1,17 @@
+{
+	"uid": "LAB (76c3a9).wad",
+	"name": "Laboratory Escape",
+	"description": "You start out in a nice clean laboratory with clean walls and computers but have to get out by going through the classic DOOM rooms (ie. skin walls and skulls).",
+	"version": "76c3a9",
+	"date": "2013-11-02 15:11:10",
+	"files": [
+		{
+			"filename": "LAB.wad",
+			"size": 57961,
+			"crc": 28874457,
+			"md5": "2926c7df5a28da7379dc67140820a24e",
+			"sha1": "76c3a9fe0f686b5e4365db68cada76db5e9a3a4c",
+			"sha256": "88e09feef58a5b7cbb91cf76b4611bff553a8492fb7891ab3a107a85e1f1a0b9"
+		}
+	]
+}

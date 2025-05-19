@@ -1,0 +1,17 @@
+{
+	"uid": "SKYMAYBE (f79435).wad",
+	"name": "The Sky May Be",
+	"description": "Requires Doom 1.6 or above.",
+	"version": "f79435",
+	"date": "2018-03-27 21:11:52",
+	"files": [
+		{
+			"filename": "SKYMAYBE.wad",
+			"size": 6092772,
+			"crc": 653880803,
+			"md5": "ad089fbfb87effd49bb35593caed4cea",
+			"sha1": "f79435570e05b3a85d39c6e010c085023f352026",
+			"sha256": "0f86842c81a8deb49578ef52079746785330d7d91c1ba5798677f8713b137817"
+		}
+	]
+}

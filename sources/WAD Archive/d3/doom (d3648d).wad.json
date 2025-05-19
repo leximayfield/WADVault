@@ -1,0 +1,16 @@
+{
+	"uid": "doom (d3648d).wad",
+	"name": "Doom v0.5a",
+	"version": "d3648d",
+	"date": "2014-02-23 17:53:54",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 3522207,
+			"crc": 2414031941,
+			"md5": "9c877480b8ef33b7074f1f0c07ed6487",
+			"sha1": "d3648d720b5324ce3c7bf58cf019e395911d677e",
+			"sha256": "f2827b06c54cda75d92b1395acfa19a996a7d3fac61458e98ed44d5030cf1088"
+		}
+	]
+}

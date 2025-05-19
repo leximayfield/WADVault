@@ -1,0 +1,17 @@
+{
+	"uid": "bridge (8245c9).wad",
+	"name": "Bridge over Bloody waters",
+	"description": "Shoot everything that moves.",
+	"version": "8245c9",
+	"date": "2014-12-15 23:08:32",
+	"files": [
+		{
+			"filename": "bridge.wad",
+			"size": 71278,
+			"crc": 2360843320,
+			"md5": "f34b5ecf9485dd496814a44ac0342f31",
+			"sha1": "8245c9430ba3173da86053017f04af2927d278ff",
+			"sha256": "48c4de4aa2aba3997e018638a83abf0a057a8b2c8177dcecff1f923478a22c3f"
+		}
+	]
+}

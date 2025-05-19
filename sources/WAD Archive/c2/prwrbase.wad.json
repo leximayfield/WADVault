@@ -1,0 +1,16 @@
+{
+	"uid": "prwrbase.wad",
+	"name": "Prower's Military Base",
+	"description": "Your mission is simple: kill all remaining demons in this abandoned Milita Base.",
+	"date": "2014-12-13 12:41:23",
+	"files": [
+		{
+			"filename": "prwrbase.wad",
+			"size": 194856,
+			"crc": 1760942591,
+			"md5": "a3fea17a8c0daae568af3aef2c2d8fc9",
+			"sha1": "c2ecd6dc7b5c781956d61d7eb397fb0ce35a5bf0",
+			"sha256": "13a1cba7fd5f26a897eba20c57bfb969c0ef77a35c0c948eaeed74a7612b10ac"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "badarena (4d0731).wad",
+	"name": "BADARENA.WAD (for DOOM II)",
+	"description": "The Deathmatch Arena! Purely designed for the ultimate deathmatch battle! There are winding hallways, secret alcoves, traps, and of course, the Arena itself. Every weapon is avail- able on the level so if you can't find one keep looking. The level is really designed to be played Deathmatch with RESPAWN turned on so you never run out of ammo. Things move and change as you move through the level so keep your eyes peeled! And, yes, there is an exit. It's kinda hard to get at but definately possible. Have fun! And score a frag for me, will ya.",
+	"version": "4d0731",
+	"date": "2014-12-03 20:03:47",
+	"files": [
+		{
+			"filename": "badarena.wad",
+			"size": 803203,
+			"crc": 1196581538,
+			"md5": "49e896c3ba6f5337085dc064bf573a67",
+			"sha1": "4d07317bac78c20d0fc3a5e0a1e6863395f48adf",
+			"sha256": "65bb1735fd37e88e24decfb9fab7c8c95a0227ed75c042a5da70e556a1d4f73d"
+		}
+	]
+}

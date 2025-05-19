@@ -1,0 +1,16 @@
+{
+	"uid": "xorg04.wad",
+	"name": "Xorg 4: The Fear Factory",
+	"description": "Techno-themed, suitable both for SP and deathmatch. If the MOD music gets annoying or slows you PC down, you can turn it off of course. Remember, you'll need to use jumping in some places.",
+	"date": "2014-12-29 15:42:12",
+	"files": [
+		{
+			"filename": "xorg04.wad",
+			"size": 844572,
+			"crc": 4129379740,
+			"md5": "108a4593fec4eb1e0c39b9d68b787916",
+			"sha1": "27b8e1918328bcd48867cedbd8ff0db47cdcb890",
+			"sha256": "32f4e1e777e0708c6c603c594f92d474e43bdf546096cfe99ed9ed81245cc5c3"
+		}
+	]
+}

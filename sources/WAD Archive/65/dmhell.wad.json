@@ -1,0 +1,16 @@
+{
+	"uid": "dmhell.wad",
+	"name": "Deathmatch hell",
+	"description": "A simple small deathmatch map with a few secrets for about 2-4 players",
+	"date": "2014-12-15 22:59:34",
+	"files": [
+		{
+			"filename": "dmhell.wad",
+			"size": 46647,
+			"crc": 3548585170,
+			"md5": "966093110b8237e3e02ae6d621fc5b75",
+			"sha1": "65d4519d6c5553f7349e13f82c01ed4e5eb822dc",
+			"sha256": "59c9e8eaaf0755baa683902b3ece450331a2686ff5666f454e048ad13f6263dc"
+		}
+	]
+}

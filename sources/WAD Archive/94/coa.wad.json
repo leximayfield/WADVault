@@ -1,0 +1,16 @@
+{
+	"uid": "coa.wad",
+	"name": "Corridoors of Atrocity",
+	"description": "This map was originally my interperetation of MAP28 of Doom II for a project on Doomworld, but it wasn't quite up to par. I've developed my skills a bit since I made this, but I still think it's an alright map. Enjoy! =D",
+	"date": "2014-12-15 21:26:05",
+	"files": [
+		{
+			"filename": "coa.wad",
+			"size": 266188,
+			"crc": 715368111,
+			"md5": "a95586e1a55a5c990e3341a9a80e905b",
+			"sha1": "943967560ad2721a365fbc9e8366649f943d9790",
+			"sha256": "41ad6d72f73f6056daf15fdfb8dbd8c968dc9bd4d0b3acef8e2bee3ed825c1f1"
+		}
+	]
+}

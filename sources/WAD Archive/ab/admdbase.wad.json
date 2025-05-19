@@ -1,0 +1,16 @@
+{
+	"uid": "admdbase.wad",
+	"name": "A Doomed Base",
+	"description": "Infested techbase level created for megawad project.",
+	"date": "2014-12-21 17:12:54",
+	"files": [
+		{
+			"filename": "admdbase.wad",
+			"size": 468236,
+			"crc": 849229522,
+			"md5": "48ca5e6a661f3601d69a0213906bebb3",
+			"sha1": "ababbb4937283c79e1462a0a86742f9c9cbb649f",
+			"sha256": "44c50edc5c846068abc4547cef52fdb293cb5e2e405b356d75710b32171b50ec"
+		}
+	]
+}

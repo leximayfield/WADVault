@@ -1,0 +1,17 @@
+{
+	"uid": "boris (32bf5d).wad",
+	"name": "BORIS's Death Chasm for DOOM II!",
+	"description": "This is my first all out wad. I only put one level in it because this is all I have completed as yet. Basicly it's a big tube with adjoining rooms. You have to find all the keys to get into the Art Museum which contains many of Boris Valleho's works of art. Then you can exit. P.S. Sorry I used so many of the Hitchhikers emblems. I think it's cool :>",
+	"version": "32bf5d",
+	"date": "2014-01-07 22:24:37",
+	"files": [
+		{
+			"filename": "boris.wad",
+			"size": 1120325,
+			"crc": 1786033125,
+			"md5": "ac6f0ad92069f96b5a17ca406850b666",
+			"sha1": "32bf5ddec8c15fb2bc8210b5356c464c50de2a40",
+			"sha256": "22c5f2f2f49a4df2b167248f4ef0a6cb5ca999a0966b85d162cec27a309a494f"
+		}
+	]
+}

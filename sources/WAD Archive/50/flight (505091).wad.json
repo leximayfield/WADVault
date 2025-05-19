@@ -1,0 +1,17 @@
+{
+	"uid": "flight (505091).wad",
+	"name": "Take flight!",
+	"description": "My first PWAD - A VERY large level for Heretic - I got a little carried away, I guess! I plan on releasing a second level very soon, a bit smaller and better for deathmatch!",
+	"version": "505091",
+	"date": "2013-11-02 16:37:47",
+	"files": [
+		{
+			"filename": "flight.wad",
+			"size": 620117,
+			"crc": 1414436027,
+			"md5": "5af29eaf5afa501c61ac7023de3e4a20",
+			"sha1": "505091550232f1691ba5196875803d596f2b132a",
+			"sha256": "fd37bff208f50c8b821c45d0c6c710ef76bc8132d6cec41bf962ab4c40913cbe"
+		}
+	]
+}

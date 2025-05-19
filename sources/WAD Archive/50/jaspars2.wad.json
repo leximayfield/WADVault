@@ -1,0 +1,16 @@
+{
+	"uid": "jaspars2.wad",
+	"name": "jaspars2",
+	"description": "another small intense deathmatch level. Best suited for altdeath, It contains all of the weapons,very little health and armor.",
+	"date": "2014-12-15 21:29:27",
+	"files": [
+		{
+			"filename": "jaspars2.wad",
+			"size": 46129,
+			"crc": 4140284805,
+			"md5": "44551b94830800681d568e3d53ae4989",
+			"sha1": "50e346ed477fa6c2a2fd5e29fdde3c81fb6dbbe9",
+			"sha256": "ef2f55644ac0ed3e5468a5652aa0189f1fa56e15ae239fae99bbfe7e77555529"
+		}
+	]
+}

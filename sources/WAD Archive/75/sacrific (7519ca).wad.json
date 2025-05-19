@@ -1,0 +1,17 @@
+{
+	"uid": "sacrific (7519ca).wad",
+	"name": "Magic Sacrifice",
+	"description": "1 fairly large level. Contains many ZDoom",
+	"version": "7519ca",
+	"date": "2014-12-29 15:32:41",
+	"files": [
+		{
+			"filename": "sacrific.wad",
+			"size": 2958032,
+			"crc": 3912881379,
+			"md5": "23f2b2cfc56f9c0226bb383e38c4e920",
+			"sha1": "7519ca140f82e0475b7c568c76407e62e5f83548",
+			"sha256": "34bb3e3a807e6bb6635b7801e33af4218c9aab26a6a3100b690637e0ae57aa47"
+		}
+	]
+}

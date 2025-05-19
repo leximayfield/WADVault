@@ -1,0 +1,16 @@
+{
+	"uid": "tstation.wad",
+	"name": "Teleporter Station",
+	"description": "An old teleport test station is still active despite its lack of UAC personel. Explore its compound to see if anything survived.",
+	"date": "2014-12-29 16:43:40",
+	"files": [
+		{
+			"filename": "tstation.wad",
+			"size": 601811,
+			"crc": 3150773447,
+			"md5": "9c7ea01a9d572fba382178a1d60821d0",
+			"sha1": "9c342fae7022095bde1b99239cdc714a40a5317c",
+			"sha256": "9444c28969e64949a76e6a5256365f8645afbc2c0c0bf14b27b35d2781993743"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "titan2.wad",
+	"name": "Titan 2",
+	"description": "After defeating Hell's massive army at the Nexus and losing consciousness, you awake to find yourself trapped in the far reaches of Hell. The Nexus rejected your Earthly presence, but now it's time to show the demons that Hell is the last place they want you.",
+	"date": "2013-04-18 22:11:34",
+	"files": [
+		{
+			"filename": "titan2.wad",
+			"size": 19366395,
+			"crc": 3603901473,
+			"md5": "b4a1d9fe62c2a63d797c84679f3ceb97",
+			"sha1": "ec44c4b181b6286bc6f1726cef6de594272395a9",
+			"sha256": "ac8a095505d7edaacb81f3a54fa7d49a2b1395f3f262e6a3a34eebbbd8302b99"
+		}
+	]
+}

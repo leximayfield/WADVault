@@ -1,0 +1,17 @@
+{
+	"uid": "xtwo (e631ac).wad",
+	"name": "X Two",
+	"description": "A Single DM level. Designed for duels or FFA.",
+	"version": "e631ac",
+	"date": "2014-12-15 22:18:09",
+	"files": [
+		{
+			"filename": "xtwo.wad",
+			"size": 2517696,
+			"crc": 2969941462,
+			"md5": "f884dffa763075f9222d7948a32f9f59",
+			"sha1": "e631acc035c138007dba64bca51d31ea39168426",
+			"sha256": "c299a30396eeb6d0fbad7e62d732a6b9aee93467b4f8fd7eeb343398182ccd94"
+		}
+	]
+}

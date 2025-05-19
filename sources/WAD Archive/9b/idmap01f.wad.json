@@ -1,0 +1,16 @@
+{
+	"uid": "idmap01f.wad",
+	"name": "id Map01f",
+	"description": "clean deathmatch level *changes from idmap01.wad* item placement changed from idmap01.wad more deathmatch starts",
+	"date": "2014-01-11 11:18:12",
+	"files": [
+		{
+			"filename": "idmap01f.wad",
+			"size": 63906,
+			"crc": 506975732,
+			"md5": "07821812ae5f15632dcec042e4c2f093",
+			"sha1": "9be16b9d0d6a567956aaed5828315105195b824c",
+			"sha256": "046960228c619d7146e2ffc6dcd3f0af72d2ae2ece5da48d4eb12dcdb9a84da9"
+		}
+	]
+}

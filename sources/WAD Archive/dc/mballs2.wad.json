@@ -1,0 +1,16 @@
+{
+	"uid": "mballs2.wad",
+	"name": "Meatballs 2: Night Mission",
+	"description": "The second set of maps from the Meatballs \"series\"",
+	"date": "2015-09-15 16:41:01",
+	"files": [
+		{
+			"filename": "mballs2.wad",
+			"size": 1043870,
+			"crc": 75449155,
+			"md5": "f5855f6c8a92ed36caa8a8bfe0fc728b",
+			"sha1": "dc639ff971f01a833647deadd63986c3bfc0929f",
+			"sha256": "31d926d03ea6d143b9dd0c22072ff1f2dac6932dfe1873ed549a761ed40d4d30"
+		}
+	]
+}

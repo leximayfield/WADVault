@@ -1,0 +1,16 @@
+{
+	"uid": "bigbnu.wad",
+	"name": "The big, bad 'n ugly one",
+	"description": "Guess what; a big, bad and ugly map. The only catch is that it took me under 16 hours to make, which is a record time for me at least. Minimum amount of players to have some fun would be around 5 or 6. 10 would be recommended, but to be honest I wouldn't know if it'd work since I've only tested it with crappy bots.",
+	"date": "2014-12-15 23:13:35",
+	"files": [
+		{
+			"filename": "bigbnu.wad",
+			"size": 181865,
+			"crc": 2106917174,
+			"md5": "31d75e6f5a2d524c67b8840b45a8b668",
+			"sha1": "7f71c1f405545e89619d434aa87f2e86e4d8565c",
+			"sha256": "6270a0f1ad6062b30bf73a90a42af366eb26bcf4c06055adceb8cc8a74e69b30"
+		}
+	]
+}

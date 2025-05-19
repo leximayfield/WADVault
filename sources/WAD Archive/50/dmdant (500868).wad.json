@@ -1,0 +1,17 @@
+{
+	"uid": "dmdant (500868).wad",
+	"name": "DANTE'S GATE version 1.666",
+	"description": "This is the third revision of DANTE'S GATE, and it accommodates a peculiar bug in the Doom 1.666 engine which does not allow multiple sector tagging for raised floors. I just barely caught this and had to redo a couple of sectors which raised fine in 1.2 through 1.5b, but not in 1.666. I've also taken advantage of some of the new LineDef and Sector tags for Fast Doors and Lifts. This version is fully compatible with Doom 1.666.",
+	"version": "500868",
+	"date": "2013-11-02 15:23:28",
+	"files": [
+		{
+			"filename": "dmdant.wad",
+			"size": 145387,
+			"crc": 1407998556,
+			"md5": "6e009647cfacff660fcdcabfe9432f7f",
+			"sha1": "50086857fae6742b0979e85f7f41992d3e9360e3",
+			"sha256": "4c4d1433b51b3c1b741b6a6dce506ced116a32a8cf6e826a52d5314f4a087f80"
+		}
+	]
+}

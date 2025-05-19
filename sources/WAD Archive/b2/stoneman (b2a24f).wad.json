@@ -1,0 +1,17 @@
+{
+	"uid": "stoneman (b2a24f).wad",
+	"name": "Stoneman's Joint",
+	"description": "DEATHMATCH !!!! This is designed for deathmatch only . There are monsters in the wad but they are also placed with deathmatch in mind . It can be played single player but there would be no purpose other than for firing practice. I tried to make an evil cross between levels one and seven",
+	"version": "b2a24f",
+	"date": "2013-11-06 22:38:42",
+	"files": [
+		{
+			"filename": "stoneman.wad",
+			"size": 132035,
+			"crc": 794791348,
+			"md5": "c15581737ea5ea48836d767072448a3e",
+			"sha1": "b2a24f8784d6ee4d718b06287b94bf8995fad434",
+			"sha256": "7c416647319d642ba1c4f13c0e90d04f025b57400b2cb4dff7934355f55d3eff"
+		}
+	]
+}

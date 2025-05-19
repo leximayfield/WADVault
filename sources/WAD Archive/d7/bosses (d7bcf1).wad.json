@@ -1,0 +1,16 @@
+{
+	"uid": "bosses (d7bcf1).wad",
+	"name": "The Boss Monster Resource Wad",
+	"version": "d7bcf1",
+	"date": "2013-12-25 18:35:21",
+	"files": [
+		{
+			"filename": "bosses.wad",
+			"size": 13642564,
+			"crc": 3061408753,
+			"md5": "038e575a9a5e31b89f0f92153dd30421",
+			"sha1": "d7bcf167f11cacb194b20094e9520f9a9b6588f4",
+			"sha256": "25ce2877af6e881f68e1c028ceadb6aab1e04bd1adb7ebc3c65b3f67f9662a24"
+		}
+	]
+}

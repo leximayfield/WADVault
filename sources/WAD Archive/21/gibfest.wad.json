@@ -1,0 +1,16 @@
+{
+	"uid": "gibfest.wad",
+	"name": "GIB FEST",
+	"description": "GIBS=the little pieces of flesh and bone that you see when you nail a guy with a BFG, or ROCKET.",
+	"date": "2013-11-06 22:29:03",
+	"files": [
+		{
+			"filename": "gibfest.wad",
+			"size": 17202,
+			"crc": 483064892,
+			"md5": "9598984ad6c757369ab23c6ec0321254",
+			"sha1": "2181047e196264c500b03d1f4e29a00f07efb6f0",
+			"sha256": "9cc8eaa2f003e5300d92c865274d6f526cb3a2ed66e428db03a69973dcc70eab"
+		}
+	]
+}

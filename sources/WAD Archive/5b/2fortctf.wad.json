@@ -1,0 +1,16 @@
+{
+	"uid": "2fortctf.wad",
+	"name": "Two Fort Capture the Flag",
+	"description": "I was bored one day and decided to make a TF level for Doom. Even though TF isn't really out there, I did it anyway. Then when Doombot 4.0 had CTF working I converted it over. The bots run quite well with the nodes, so a match should be quite good. If anybody makes a demo please send it to me. I'd like to see other people play CTF against Boombots. These guys are frig'n good.",
+	"date": "2014-12-15 21:28:01",
+	"files": [
+		{
+			"filename": "2fortctf.wad",
+			"size": 98757,
+			"crc": 2980964380,
+			"md5": "c1d5cce4e42de6c35b1085b6df0425b1",
+			"sha1": "5bf79cac5b3cbd7a797d0a7a81bd83ae981376b4",
+			"sha256": "aab11dd95ca453c8422b843d0f9157ee67359258846eec81d2ceaf54c16332e2"
+		}
+	]
+}

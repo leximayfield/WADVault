@@ -1,0 +1,16 @@
+{
+	"uid": "fbattle.wad",
+	"name": "Final Battle",
+	"description": "A simple level replacing the level on Episode 3, Level 8. Hint: to kill the Spiderdemon, don't waste your ammo on the other monsters.",
+	"date": "2013-11-03 17:43:40",
+	"files": [
+		{
+			"filename": "fbattle.wad",
+			"size": 6679,
+			"crc": 1992428868,
+			"md5": "32d8a3996b69d5796378934bdbe79c91",
+			"sha1": "275aaa4dcb7fbe34f6599973c07cb904d91fc076",
+			"sha256": "432eb4e7c525a3c734bb7e48c79a5872000a0728893b9bc276c7eed83a5f97c3"
+		}
+	]
+}

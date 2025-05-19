@@ -1,0 +1,17 @@
+{
+	"uid": "destruct (ba652a).wad",
+	"name": "Destruction",
+	"description": "There are plenty of bad guys, ammo, and weapons. This is fun when played over modem, serial link, and network. You will enjoy it.",
+	"version": "ba652a",
+	"date": "2014-12-18 23:04:59",
+	"files": [
+		{
+			"filename": "destruct.wad",
+			"size": 1751656,
+			"crc": 1438853570,
+			"md5": "c241a3991f7ba620f84fbd26d5ae945f",
+			"sha1": "ba652a99e81db3987e911ab415170ece4239cce2",
+			"sha256": "170b239407ceb7750456335f323369f365ca55227c805270286068eceac6b4db"
+		}
+	]
+}

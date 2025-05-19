@@ -1,0 +1,16 @@
+{
+	"uid": "ewdoom0.wad",
+	"name": "EW DOOM 0",
+	"description": "A personal expansion for Doom II. All music by Ericson Willians (Poisone Wein).",
+	"date": "2014-12-24 17:15:32",
+	"files": [
+		{
+			"filename": "ewdoom0.wad",
+			"size": 17939332,
+			"crc": 563490096,
+			"md5": "32a73613648944557a76028aa83f7c61",
+			"sha1": "14fd6cb5babd379d6f0232b89eb3d79642d0046b",
+			"sha256": "b176fc763c667b9112d416e8c221e136f1416d823077dd204da276b464e6d9ff"
+		}
+	]
+}

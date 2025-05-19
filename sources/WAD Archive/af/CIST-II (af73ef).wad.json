@@ -1,0 +1,17 @@
+{
+	"uid": "CIST-II (af73ef).wad",
+	"name": "CISTERN-II",
+	"description": "Wet Deathmatch Wad for Heretic E1M1",
+	"version": "af73ef",
+	"date": "2013-11-06 22:49:51",
+	"files": [
+		{
+			"filename": "CIST-II.wad",
+			"size": 33560,
+			"crc": 3161559246,
+			"md5": "d35b2e450894325083359ef441cb1d8a",
+			"sha1": "af73efbed773ca42e0b311d7d319fe404e2ac28e",
+			"sha256": "7eb0995c5c569b06bf766ad320b06266bd12468ab33d952465c5f334b6277ef7"
+		}
+	]
+}

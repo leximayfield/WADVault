@@ -1,0 +1,17 @@
+{
+	"uid": "joymaps2 (4177c9).pk3",
+	"name": "The Joy of Mapping #2",
+	"description": "This was a livestreamed communal mapping session that took place on August 27th, 2016, with participants mapping under the strict guidance of Jimmy and a few session tutors via Discord and TwitchTV. The mappers were talked through the basics of mapping, such as creating connected areas, interesting layouts, and using thing placement sensibly. In hopefully the first of many similar live tutorial sessions! The participants mapped in a variety of formats, mostly Boom and ZDoom (UDMF). Map Listing: MAP01: Hodge-Podge Hoedown - Baratus MAP02: Meme Factory - DoomTheRobot MAP03: Reversi - Niwatorry MAP04: Comm Center - SMG_Marine_ MAP05: Hall of Silence - 7Soul MAP06: Welcoming Committee - Royal_Sir MAP07: Minicore - Pinchy MAP08: Procrastination Station - Breezeep MAP09: Lights Out - ZZYZX MAP10: Descent into Madness - Rossyrg MAP11: Crap II: Montezuma's Revenge - Vbob MAP12: Jolly Green Giant - NuclearPotato MAP13: Nice 'n' Warm - MarketAnarchy MAP14: Reckless - Fonze MAP15: Green With Envy - temin_dump MAP16: An Assort on the Senses - an_mutt MAP17: John Suitepee Deleted All the Revenants - rdwpa MAP18: A Face Made Out of the Jungle - TMD MAP19: Mechanism Eight - Jimmy",
+	"version": "4177c9",
+	"date": "2016-10-17 17:01:30",
+	"files": [
+		{
+			"filename": "joymaps2.pk3",
+			"size": 1811223,
+			"crc": 2648460599,
+			"md5": "3943b1996f2bdd0eda054c22f6eb862c",
+			"sha1": "4177c96aff8c355b768b4cf5ffbedf41b515ec06",
+			"sha256": "7b04b35bed9d5d10eff483fd6952168402c3e68f5588d31662684ba1f702e070"
+		}
+	]
+}

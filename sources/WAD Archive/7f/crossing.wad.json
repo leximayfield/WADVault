@@ -1,0 +1,16 @@
+{
+	"uid": "crossing.wad",
+	"name": "The Crush",
+	"description": "A fast-paced deathmatch level for Doom ][. Just when you think it's safe to cross the intersection .... WHAM! You get nailed with a double action crusher.",
+	"date": "2014-12-15 22:01:33",
+	"files": [
+		{
+			"filename": "crossing.wad",
+			"size": 26084,
+			"crc": 2578531126,
+			"md5": "fa02570e0ad41c3bc4d5bccbf80f1f77",
+			"sha1": "7ff92451dd6776d76943b234b4e09d6745e0d9db",
+			"sha256": "067cc651ccca6a64284481900a1323c3d16f942f88271f051c56c1008a2ad700"
+		}
+	]
+}

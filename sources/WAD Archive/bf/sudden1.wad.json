@@ -1,0 +1,16 @@
+{
+	"uid": "sudden1.wad",
+	"name": "Sudden Death 1 - of a series",
+	"description": "A small arena style deathmatch level. With a building in the middle, made out of mostly bars. Surrounded by a pit, and a ledge. It's great E1M7 stlye DM!!",
+	"date": "2014-12-15 22:26:31",
+	"files": [
+		{
+			"filename": "sudden1.wad",
+			"size": 132824,
+			"crc": 3208554095,
+			"md5": "f5c4cd021822984680d0b6784a329113",
+			"sha1": "bfbf086e790e8a8cc79bfe26570ea2636ac43a9c",
+			"sha256": "69a9aaa3edae842c0d180d31ce0b7ae421274aedc3b797dacf766368f30f1a4f"
+		}
+	]
+}

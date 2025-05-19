@@ -1,0 +1,16 @@
+{
+	"uid": "le-gnsse.wad",
+	"name": "DuduCrazy's Guns SE",
+	"description": "A sequel to the original DuduCrazy's Guns. After reading WildWeasel's review in the Doom Armory, i've decided to create a sequel to the original mod which purpose is to be better than the first version, taking advantage of the Decorate system.",
+	"date": "2014-12-11 22:30:50",
+	"files": [
+		{
+			"filename": "le-gnsse.wad",
+			"size": 2336249,
+			"crc": 307371095,
+			"md5": "d2f47c834931c00c2477d62971cec02c",
+			"sha1": "0c3f9b4ad443b687f3ec68ea775778b0c08fe51f",
+			"sha256": "6488279540b3d334b4982cd3528814f84ca119e7fe3f4d8baa0398b2203ecb97"
+		}
+	]
+}

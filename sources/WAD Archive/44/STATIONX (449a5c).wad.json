@@ -1,0 +1,17 @@
+{
+	"uid": "STATIONX (449a5c).wad",
+	"name": "STATIONX.WAD",
+	"description": "The genetic experiments at the Universal Acme Corp. have gotten out of hand. You must clean up the mess, find the computer control central, shut it down and destroy it. This wad shows off many of the neat things DOOM can do. Plenty of ammo and weapons if you use the right strategy. Watch out for traps! You WILL be killed the first time through!",
+	"version": "449a5c",
+	"date": "2013-11-02 15:13:06",
+	"files": [
+		{
+			"filename": "STATIONX.wad",
+			"size": 110438,
+			"crc": 639178087,
+			"md5": "f10f0f04e65b6bf31c001a17c189e333",
+			"sha1": "449a5c102385bcd7f0d177613c6432f5eef088ff",
+			"sha256": "72c311ec5ec6d68f0dbce101806cf32bc16f419899502ed96a29bd424b221055"
+		}
+	]
+}

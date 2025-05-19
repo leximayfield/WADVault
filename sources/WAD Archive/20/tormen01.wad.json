@@ -1,0 +1,16 @@
+{
+	"uid": "tormen01.wad",
+	"name": "Tormentum",
+	"description": "Secret level made for the episode 2 replacement I am creating. Quick paced and fairly tight battles similar to the original E2M9.",
+	"date": "2014-12-13 17:52:31",
+	"files": [
+		{
+			"filename": "tormen01.wad",
+			"size": 59903,
+			"crc": 3571192145,
+			"md5": "6ef10dd9048a59642082fd18da77653c",
+			"sha1": "201f204d43f0e64d3719b51b1bfb175d5c14de64",
+			"sha256": "51db5ecd8ed3c57a4eae64125ad8da6632299d9cb57abcbd65e8e15dca5e1e95"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "iced.wad",
+	"name": "ICED Rev 1.1",
+	"description": "This is a Deathmatch level. Pure and simple. Revenge is a dish best served cold, and it is very cold in iced.wad. <g> All #4 weapons are here.",
+	"date": "2019-03-20 01:53:54",
+	"files": [
+		{
+			"filename": "iced.wad",
+			"size": 119225,
+			"crc": 1726992674,
+			"md5": "af541004901989c84128343b42da78a2",
+			"sha1": "843595f91ededa347c6b32990ba76d5ef43b5004",
+			"sha256": "f6ff5cf4890a92c5de65ff0de23d4cfa43e4f1eb864cd8f8bcbb7c1b631a9c00"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cacoland.wad",
+	"name": "cacoland",
+	"description": "You just arrived at the planet of the cacodemons. Your city is under attack by Cacos. Meanwhile you bump onto a mysterious cave that leads into some ancient alien ruins with dangerous alien graves and ancient technology. Your mission is to gather as much stuff as possible and find your way to the city and kill those Cacos.",
+	"date": "2014-12-21 17:00:41",
+	"files": [
+		{
+			"filename": "cacoland.wad",
+			"size": 805687,
+			"crc": 3349357147,
+			"md5": "1601caee03501bb718e7323b9203b33d",
+			"sha1": "28bd0496d2e560486cd3434bff831c44cf3ea142",
+			"sha256": "ed8116dc9da29854e58c7cdbdd6839dd89bf13cf1f08ef86ce67a6740656c8a2"
+		}
+	]
+}

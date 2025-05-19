@@ -1,0 +1,17 @@
+{
+	"uid": "DSQNEW (0d33bc).wad",
+	"name": "DS_NEW.WAD",
+	"description": "This is an update of dethstar (I know that dethstar is a stupid name but what would you call it?). There are a very few minor bug fixes and new music has been added.",
+	"version": "0d33bc",
+	"date": "2013-11-02 15:11:41",
+	"files": [
+		{
+			"filename": "DSQNEW.wad",
+			"size": 50353,
+			"crc": 1399674468,
+			"md5": "dc7ee7bf2d225f55155f565d5fa700b5",
+			"sha1": "0d33bcaf3197cfefb68dd4d99ccf37c2f89b452b",
+			"sha256": "eb5ae991a402ebf11592a8dee68016c7d573c3c9670883146529d85e55339015"
+		}
+	]
+}

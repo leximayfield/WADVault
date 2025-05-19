@@ -1,0 +1,16 @@
+{
+	"uid": "dl.wad",
+	"name": "Denis Leary Doom, V 1.0",
+	"description": "I was listening to the CD \"No Cure For Cancer\" when talking to someone about DOOM, and the idea of making a .WAD came to me. I had played Ash/AoD and the James Brown .WAD's, and found them very funny. But the first time I played Denis Leary DOOM, I almost died laughing (and I died several times while playing, too...). It may not be the best-ever .WAD, but it is likely the funniest.",
+	"date": "2015-09-14 19:34:54",
+	"files": [
+		{
+			"filename": "dl.wad",
+			"size": 1025740,
+			"crc": 71670537,
+			"md5": "e7373bcfe9777cbb2fad9f55026b901e",
+			"sha1": "34184d2bac236fb7968f1c7831d72a2c15dfe967",
+			"sha256": "d6a521681d02b8cc202035a513e896650ba12377275fdb13b420863681fcb3d4"
+		}
+	]
+}

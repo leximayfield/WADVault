@@ -1,0 +1,17 @@
+{
+	"uid": "wadfthr (17945f).wad",
+	"name": "WadFather, Part 1",
+	"description": "Wadfthr.WAD is a collection of deathmatch levels for Doom 2. It was optimized for the alternate deathmatch rules. There are no \"network-play only\" items, so what you see is what you get.",
+	"version": "17945f",
+	"date": "2014-01-07 22:11:55",
+	"files": [
+		{
+			"filename": "wadfthr.wad",
+			"size": 2008840,
+			"crc": 3487882314,
+			"md5": "d18f581dd74f5244e374f716c166b61c",
+			"sha1": "17945fd483a7610d9fbe89bdfa2b57341c3f9893",
+			"sha256": "392381611a4c83fe23e70812099522ca80235a630e38f432c5c06a395047e575"
+		}
+	]
+}

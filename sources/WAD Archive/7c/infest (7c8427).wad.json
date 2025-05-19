@@ -1,0 +1,17 @@
+{
+	"uid": "infest (7c8427).wad",
+	"name": "\"Infestation\" - INFEST.WAD - DMIFST.ZIP",
+	"description": "You've gone into the pest control business by yourself, and the critters at this place are coming out of the walls! The owners don't seem too pleased about your activities - who called you in anyway?",
+	"version": "7c8427",
+	"date": "2013-11-02 16:03:32",
+	"files": [
+		{
+			"filename": "infest.wad",
+			"size": 159809,
+			"crc": 417849060,
+			"md5": "53c13fc11d85024345bdb6701fb1022b",
+			"sha1": "7c8427b09c754133c3c123238ed093fd5031b2b0",
+			"sha256": "0262a41c345e43701ceb7bf17075e9f71f99eec890a90fc2d2747f56fe10d7c4"
+		}
+	]
+}

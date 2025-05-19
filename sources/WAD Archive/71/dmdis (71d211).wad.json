@@ -1,0 +1,17 @@
+{
+	"uid": "dmdis (71d211).wad",
+	"name": "Disdain.WAD",
+	"description": "There's not much of a story to this .WAD, I built it mostly for challenging architecture and just plain blood and carnage. ;) It (I think) would be fun for Deathmatch play, so let me know what you think.",
+	"version": "71d211",
+	"date": "2013-11-02 15:15:28",
+	"files": [
+		{
+			"filename": "dmdis.wad",
+			"size": 150312,
+			"crc": 745007846,
+			"md5": "4ca083a3c041932fabedec079adb4d01",
+			"sha1": "71d2115a1779570084025f30142766b76be111ea",
+			"sha256": "6c3ae516feb0e9d3adff4334922259befed56d8ea7d4fbc1085306ae5f108f3c"
+		}
+	]
+}

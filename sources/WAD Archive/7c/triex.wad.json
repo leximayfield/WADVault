@@ -1,0 +1,16 @@
+{
+	"uid": "triex.wad",
+	"name": "TRIAD EXPERIMENTAL CORPORATION - The first advent-",
+	"description": "Replacement for map01.",
+	"date": "2015-01-14 23:06:15",
+	"files": [
+		{
+			"filename": "triex.wad",
+			"size": 177631,
+			"crc": 1020806267,
+			"md5": "e530270cf0b64792e81a9af64a05c55e",
+			"sha1": "7c30a8e03ca79d35a96130f77c1ec7f2e28ad176",
+			"sha256": "051bde1c451a2dec0cf68b977d7d73aaf8d65c95b1ae65d8f0c3a2d47e5a4c6f"
+		}
+	]
+}

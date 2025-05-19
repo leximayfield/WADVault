@@ -1,0 +1,16 @@
+{
+	"uid": "d2redux.wad",
+	"name": "Doom 2 Redux",
+	"description": "Doom 2 Redux is a community project aimed at re-creating, modernizing, and re-imagining the vanilla Doom 2 levels. With each level having a continuous flow, and a new but old look.",
+	"date": "2017-08-18 20:56:51",
+	"files": [
+		{
+			"filename": "d2redux.wad",
+			"size": 19930175,
+			"crc": 2008611219,
+			"md5": "c436807b4704dcb6a8884a7099f69238",
+			"sha1": "53f57c003110b07c156bc16481acc8fd8666aa0e",
+			"sha256": "d4febff3df7415d9f1a32a4b672c2919648c8c7266c7cfe5f9f8acf264409724"
+		}
+	]
+}

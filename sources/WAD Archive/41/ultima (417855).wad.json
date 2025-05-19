@@ -1,0 +1,17 @@
+{
+	"uid": "ultima (417855).wad",
+	"name": "ULTIMA.WAD",
+	"description": "This level started out as an attempt to recreate some of the terrain in the Ultima Underworld series, but due to the limit inherent to doom on calculating only up to 16 transparent sidedefs in a row, I was forced to lessen it to a simple little Deathmatch level. There are two lifts in the level (somewhere), one which leads to a teleporter back to the center island and one which leads to the end level switch.",
+	"version": "417855",
+	"date": "2014-01-11 11:07:03",
+	"files": [
+		{
+			"filename": "ultima.wad",
+			"size": 129097,
+			"crc": 3843862231,
+			"md5": "222dd0b610de7ee78cceb9b6cb208caf",
+			"sha1": "4178554a7a34d6b8700d2d3dc630534550ee4c95",
+			"sha256": "8aed2a5f172a45c35788074af854c36f3db742aa7f25d87dc3791498ad449ef4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "mut (18629d).wad",
+	"name": "MUT.WAD",
+	"description": "My first attempt at creating a level. I said level E1M2 could be a realy good deathmatch level if you changed it around a bit. So that is exactly what I did. Some good ideas and seems like a good level for deathmatch. We'll see. I might decide to make more levels suitable for deatchmatch in the future, but none are in the process of being made to this date.",
+	"version": "18629d",
+	"date": "2016-02-07 20:29:30",
+	"files": [
+		{
+			"filename": "mut.wad",
+			"size": 60784,
+			"crc": 911342985,
+			"md5": "4201ba9963a5ce420235935924feac83",
+			"sha1": "18629d7b1b1c9bddc704492d8f05440a78d32f8f",
+			"sha256": "6c0a4f2bfa14854f96ec2db734377d82838eb1e1eb0d855a2890f0c96a040fcf"
+		}
+	]
+}

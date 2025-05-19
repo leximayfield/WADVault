@@ -1,0 +1,16 @@
+{
+	"uid": "hrwide10.wad",
+	"name": "Heretic Widescreen-Friendly Graphics v1.0",
+	"description": "Widescreen-friendly graphics for Heretic. This is compatible with any custom Heretic add-on as long as you load HRWIDE10.WAD with the lowest priority.",
+	"date": "2013-10-12 13:30:25",
+	"files": [
+		{
+			"filename": "hrwide10.wad",
+			"size": 59824,
+			"crc": 740945715,
+			"md5": "dfb54621443e215a106a2d85e8db6e6c",
+			"sha1": "3f93a80b84dc0661d97fbf76f81c55419debc9d5",
+			"sha256": "c281a85042aec942755bf31299fb07d2732adef4b4734786b994780699bbfbb7"
+		}
+	]
+}

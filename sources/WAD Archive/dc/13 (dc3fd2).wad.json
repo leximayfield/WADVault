@@ -1,0 +1,17 @@
+{
+	"uid": "13 (dc3fd2).wad",
+	"name": "13.wad",
+	"description": "13.wad has many differnet textures... kinda clashes but looks cool.",
+	"version": "dc3fd2",
+	"date": "2014-12-15 22:23:11",
+	"files": [
+		{
+			"filename": "13.wad",
+			"size": 116464,
+			"crc": 1241500331,
+			"md5": "713133e58c5e0f8062a8bfb6b6630aaf",
+			"sha1": "dc3fd29548dfbaf48c60d114e0901e2a254ee1ba",
+			"sha256": "3a1829619abf0500be1afa1e2d9f8c8bbd93cae61885a8dc2d62d8bfb9eeb609"
+		}
+	]
+}

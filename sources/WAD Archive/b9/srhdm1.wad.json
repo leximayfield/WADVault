@@ -1,0 +1,16 @@
+{
+	"uid": "srhdm1.wad",
+	"name": "Heretic DM #1",
+	"description": "Small deathmatch WAD with different skill levels for different items. This may not look so detailed first, but in fact it's so detailed that I had to remove some stuff from it, to keep Heretic from crashing with Visplane Overflow error :)",
+	"date": "2014-12-30 11:33:32",
+	"files": [
+		{
+			"filename": "srhdm1.wad",
+			"size": 57744,
+			"crc": 660967455,
+			"md5": "a23c74578e5fbd7149c18586230a1cef",
+			"sha1": "b92a6b99bcc0342248d1147bd26d13cdde3f1a43",
+			"sha256": "128a20f61525dc6b05652862fbfcb08f38fb911ff52d8643daf861d789ef4f27"
+		}
+	]
+}

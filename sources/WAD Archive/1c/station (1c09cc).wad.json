@@ -1,0 +1,17 @@
+{
+	"uid": "station (1c09cc).wad",
+	"name": "Creepy Station (v.1)",
+	"description": "A seemingly quiet station that has a few hidden surprises. Find the red key, through the red door, get yellow key and get out - simple! If you have any trouble look at the .LMP file that comes with the level.",
+	"version": "1c09cc",
+	"date": "2015-01-14 23:04:12",
+	"files": [
+		{
+			"filename": "station.wad",
+			"size": 63305,
+			"crc": 3360839544,
+			"md5": "fa106fd0e53a3dc59cfb7aa8d1d74223",
+			"sha1": "1c09ccb0d21c94a4cb574bed1db2fc890335af14",
+			"sha256": "caafb2e2563cc60a4fc1847d0727caf1479acbb06ad11155bd12cd2a4f357121"
+		}
+	]
+}

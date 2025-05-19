@@ -1,0 +1,16 @@
+{
+	"uid": "tief.wad",
+	"name": "TIE Fighter",
+	"description": "TIE Fighter graphics for Hexen's Death Wyvern to use in a Doom/Doom2 game.",
+	"date": "2015-09-15 18:15:27",
+	"files": [
+		{
+			"filename": "tief.wad",
+			"size": 595175,
+			"crc": 2665911457,
+			"md5": "5d1b162af1c661c19733c74c5a363754",
+			"sha1": "2b7ff176e279735cc13aa836aad3d1d46ee24f39",
+			"sha256": "9737eadfa8dad25cc019f09dd312261d92004ab113b3973b7bcc280ee1331d0b"
+		}
+	]
+}

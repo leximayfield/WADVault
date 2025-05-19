@@ -1,0 +1,16 @@
+{
+	"uid": "dbeckons.wad",
+	"name": "Death Beckons.",
+	"description": "This is a map with Quake metal textures. At first it was designed for Zdoom, but as I experimented with coloured lighting and 3d floors in GZDoom, I didn't go back.",
+	"date": "2014-12-24 19:27:39",
+	"files": [
+		{
+			"filename": "dbeckons.wad",
+			"size": 4944507,
+			"crc": 714443873,
+			"md5": "70bbe94f13b3c51f54dcf54d9c76a536",
+			"sha1": "adb33e92e1eb89b532475ae55f62b5a8714da322",
+			"sha256": "3e660263b2a38f3e42c77a49dc7695e915dae1fb4882a7e3e4ce1921de52ad9a"
+		}
+	]
+}

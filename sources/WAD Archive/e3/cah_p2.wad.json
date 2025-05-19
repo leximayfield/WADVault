@@ -1,0 +1,16 @@
+{
+	"uid": "cah_p2.wad",
+	"name": "Cold As Hell (patch 2)",
+	"description": "If you've got a slow machine, this will get rid of all trees in the game,",
+	"date": "2014-12-21 15:52:04",
+	"files": [
+		{
+			"filename": "cah_p2.wad",
+			"size": 28209,
+			"crc": 1016791853,
+			"md5": "b56d054f598330ceab06f7ccd6c05ca8",
+			"sha1": "e303f418ef8dd95864fa0c235d0f8bd9a9ab28c5",
+			"sha256": "55d6b2cdb4b8024dadf27c87baaeb8b7b3b1af216f4a693e2ec6ea00990e7636"
+		}
+	]
+}

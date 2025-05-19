@@ -1,0 +1,16 @@
+{
+	"uid": "ww-di.wad",
+	"name": "Doom Illustrated",
+	"description": "Doom, Comic Book Style. This is merely a weapons mod, but the weapons are comic style, and I made sure to pick as \"cartoony\" graphics as possible (but not absurdly cartoony, ie. MS Paint).",
+	"date": "2014-12-11 22:15:51",
+	"files": [
+		{
+			"filename": "ww-di.wad",
+			"size": 4933631,
+			"crc": 3957369802,
+			"md5": "7b975599b186ae7191b9bbb07529b9f5",
+			"sha1": "65ad00df1178bcbabea3fdc1309126ce0b1fa9dd",
+			"sha256": "939ed84a2a5b34346f34a527770851ce5a06348b1eac3cb77dce51dac3294888"
+		}
+	]
+}

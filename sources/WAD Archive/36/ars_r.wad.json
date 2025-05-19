@@ -1,0 +1,16 @@
+{
+	"uid": "ars_r.wad",
+	"name": "Ars Doom (repackaged edition)",
+	"description": "Welcome to ARSDOOM! An attempt for an artists project using the wellknown doom engine and wellhacked internal formats. No blood-feast! About 20 artists have been invited to exhibit in the virtual museum located in the Brucknerhaus in Linz, where every year an exhibition for the worlds greatest computer art contest, the prix ars electronica is celebrated. So people around the world who cannot come to Linz this time participate at the exhibition in the virtual Brucknerhaus. All the artists are there virtually (at least there heads and projects). Some personally, some computer generated. Max. 4 of them on the net, the other 20 as monsters. And have fun interacting with the different projects, be an artist like Arnulf Rainer, Hermann Nitsch, Baselitz or Nam June Paik.",
+	"date": "2015-12-29 15:08:46",
+	"files": [
+		{
+			"filename": "ars_r.wad",
+			"size": 4716321,
+			"crc": 1549891002,
+			"md5": "fe3b289599512889cd90d1df6ebf7bfb",
+			"sha1": "36d1dc4bd623ecbf0f7816bea8afa6de34eab6c5",
+			"sha256": "53fc26164b227aae75f29a61a7e73d1b89e5e66f11e3842af1970be2560ab381"
+		}
+	]
+}

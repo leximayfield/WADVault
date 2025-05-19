@@ -1,0 +1,17 @@
+{
+	"uid": "d2remix01-03-2013 (5bf6e1).wad",
+	"name": "Doom2 Remix - BETA version 01-03-2013",
+	"description": "Wadfile designed for Zdaemon / Zandronum cooperative play. It contains 16 maps, based on original Doom2 maps.",
+	"version": "5bf6e1",
+	"date": "2013-04-21 16:21:28",
+	"files": [
+		{
+			"filename": "d2remix01-03-2013.wad",
+			"size": 5605510,
+			"crc": 3713675091,
+			"md5": "83debb122c8fa26758d9ad3376583adc",
+			"sha1": "5bf6e1f4100e11a7e4599ae5f0037590df65a61a",
+			"sha256": "0487361b47da116a482d963f973e23260a81f53200be0b02f676c46498633d24"
+		}
+	]
+}

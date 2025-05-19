@@ -1,0 +1,17 @@
+{
+	"uid": "quickie (cf36c8).wad",
+	"name": "A Quickie",
+	"description": "HERETIC DM all the way!!!! A series of obstacle-littered rooms. Wings of wrath in strategic places are required to get anywhere. Hop from one pillar to the next, hunting your opponent. Weapons are easy to get BUT are placed so as to make them dangerous...gotta use those wings. DM 2.0 rules required for extended play.",
+	"version": "cf36c8",
+	"date": "2013-11-02 16:36:48",
+	"files": [
+		{
+			"filename": "quickie.wad",
+			"size": 24309,
+			"crc": 960265099,
+			"md5": "2f00867675ce137a308740d56427f899",
+			"sha1": "cf36c851ce2509b7dda006447691b758cfd65219",
+			"sha256": "2991e0e8545e16960a4a3ef54697c92018331e215d33108e63808ef98cc0d9e6"
+		}
+	]
+}

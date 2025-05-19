@@ -1,0 +1,17 @@
+{
+	"uid": "emperor1 (fc8d1c).wad",
+	"name": "Emperor1.wad: The Augustus",
+	"description": "My first completed, glitch-free wad. Yee-Ha. Made for Doom 2, solo play",
+	"version": "fc8d1c",
+	"date": "2016-02-07 20:32:52",
+	"files": [
+		{
+			"filename": "emperor1.wad",
+			"size": 176700,
+			"crc": 240794935,
+			"md5": "dcb02e62ce49c67a474a9b5604e55e6b",
+			"sha1": "fc8d1ce4302816d6fefa71fbcf28f2e2c98679f2",
+			"sha256": "7efa4498ea72d73d42af9d20f30943c35f7170830c4533323269555b6c6d87e8"
+		}
+	]
+}

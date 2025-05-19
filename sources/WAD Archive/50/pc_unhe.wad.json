@@ -1,0 +1,16 @@
+{
+	"uid": "pc_unhe.wad",
+	"name": "Unhealthy",
+	"description": "A challenging map for Doom 2 that contains no health where you must play with 1% health. It can be beaten though, just save often.",
+	"date": "2019-07-10 16:28:54",
+	"files": [
+		{
+			"filename": "pc_unhe.wad",
+			"size": 346032,
+			"crc": 3126620246,
+			"md5": "59cee619ac2b74a62b9f8b207553b78d",
+			"sha1": "50e1e61ca49f4dc2172caf06e7a2a02903b7e69a",
+			"sha256": "61b8aa3a36eeae43787988d8e31dc4ec029afade22637d42fde3aaae6d771706"
+		}
+	]
+}

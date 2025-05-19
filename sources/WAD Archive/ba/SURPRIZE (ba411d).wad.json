@@ -1,0 +1,17 @@
+{
+	"uid": "SURPRIZE (ba411d).wad",
+	"name": "Surprize.WAD",
+	"description": "Highly edited version of Episode 1, Level 1 with quite a few surprizes added. Can be beat without cheats, but you have to be good. Also plays great as a solo Nightmare Level by adding the -respawn parameter to the command line when starting the game.",
+	"version": "ba411d",
+	"date": "2013-11-02 16:51:40",
+	"files": [
+		{
+			"filename": "SURPRIZE.wad",
+			"size": 84253,
+			"crc": 2650281897,
+			"md5": "753edbd084be6da34f269114a6cb5f14",
+			"sha1": "ba411dc5f359644ecb9bdce46e039daca4f6d47c",
+			"sha256": "d9cda7efcd22f98dc05a0625cd35d4c0cb7f6788125260cd6e9ddcda73859b26"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "scl_tops.wad",
+	"name": "Threshold of Pain SE",
+	"description": "Threshold of Pain is a ZDoom episode which attempts to recreate the look and feel of Midway's famous PSX conversion of Doom whilst maintaining the core elements of the PC versions and a level of difficulty PC players would expect.",
+	"date": "2014-12-29 17:43:27",
+	"files": [
+		{
+			"filename": "scl_tops.wad",
+			"size": 56805307,
+			"crc": 595553026,
+			"md5": "750a2676390168ac25f6b7874ce4efb8",
+			"sha1": "c14590efcbf1749e00df215af48e75a124ecfc3d",
+			"sha256": "0f311a79ed0ef04d4edafe56f37780260c8d6a7d093bce86f33a5cfd1d5b07d2"
+		}
+	]
+}

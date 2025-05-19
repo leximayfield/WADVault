@@ -1,0 +1,17 @@
+{
+	"uid": "Medusa (b3d22a).wad",
+	"name": "Medusa",
+	"description": "This is mainly for deathmatch. I have the weapons available immediately upon startup. No pistols aginst plasma guns here... Everybody is on an even keel. Come to life get the weapons & KILL or be KILLED!!!!! If you want fewer monsters in the way, use -skill 1 on the command line. If you want more, use medium or hard. It can be played single & there are PLENTY of baddies w/skill level 3+. The weps will be scattered around in different places on single play.There are different ways to play this level to produce enjoyable results...Enjoy...:-*)# (My preferred method is w/4 people netDOOM...)",
+	"version": "b3d22a",
+	"date": "2014-12-15 22:15:16",
+	"files": [
+		{
+			"filename": "Medusa.wad",
+			"size": 218295,
+			"crc": 271533762,
+			"md5": "1804dff3d14c05d4a2aca4ffd8a7865b",
+			"sha1": "b3d22a55c8412b6f488c7b6cea54dc4635e8580b",
+			"sha256": "0ac61791c8eb700ed08d994ca70aa5c82cc0ebbe668f7fa01a626c20b9448704"
+		}
+	]
+}

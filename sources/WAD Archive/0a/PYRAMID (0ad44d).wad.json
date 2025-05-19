@@ -1,0 +1,17 @@
+{
+	"uid": "PYRAMID (0ad44d).wad",
+	"name": "Pyramid Of Crates.",
+	"description": "You fall underground in a hole find some weopons and find some monsters. What could be on top of that pyramid?",
+	"version": "0ad44d",
+	"date": "2015-02-21 08:59:30",
+	"files": [
+		{
+			"filename": "PYRAMID.wad",
+			"size": 124545,
+			"crc": 2296227528,
+			"md5": "afc8fcc05e24df63e90ae2d5dac9c172",
+			"sha1": "0ad44dab577e9511bdb13162403558a2f25b19fe",
+			"sha256": "bc5995fe5db23c118bd0e97281d47ab6b86a21bd78eda843b59456bdb704502a"
+		}
+	]
+}

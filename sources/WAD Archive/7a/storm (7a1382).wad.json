@@ -1,0 +1,17 @@
+{
+	"uid": "storm (7a1382).wad",
+	"name": "Storm",
+	"description": "My first try at deathmatch, took a day or so to build. After you know your way around the level the frags will start to go very quickly. Hope you enjoy.",
+	"version": "7a1382",
+	"date": "2016-02-06 14:06:20",
+	"files": [
+		{
+			"filename": "storm.wad",
+			"size": 37566,
+			"crc": 1130418046,
+			"md5": "79559e0230c6c67c6c800a13bc45448b",
+			"sha1": "7a13820f1f9ea346c30d320a5c4909bec6326af4",
+			"sha256": "c4d11ca9cdd70d970e4df8463f7750cd8332a05ab25ce65bce7ce882761e8a3c"
+		}
+	]
+}

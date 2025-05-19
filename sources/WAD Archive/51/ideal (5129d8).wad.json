@@ -1,0 +1,17 @@
+{
+	"uid": "ideal (5129d8).wad",
+	"name": "IDEAL WAD for DOOM II",
+	"description": "I have taken the time to make this [what I feel] to be the most deathmatch- suitable wad. It has open space for great battles, and a lot of thought has gone into the relationship between rooms, platforms, etc. Please email me if you do or do not like this wad! NOTE: This level does not contain the BFG9000. If you want it, you can add it yourself. This is my first wad -- I plan on making more in the future, depending on the success of this one.",
+	"version": "5129d8",
+	"date": "2016-02-07 20:25:14",
+	"files": [
+		{
+			"filename": "ideal.wad",
+			"size": 79652,
+			"crc": 194322977,
+			"md5": "e3f1e1d26765b5d1a2e170d805794e21",
+			"sha1": "5129d8ee5047ca0ff06876244a3e303e68e5f252",
+			"sha256": "8b74b6e2deff44bc3228234970de3a2cd824703d9ee9728fa1c56a73b2e4d68b"
+		}
+	]
+}

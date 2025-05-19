@@ -1,0 +1,17 @@
+{
+	"uid": "zone13 (8e0407).wad",
+	"name": "Zone 13",
+	"description": "Zone13 was designed mainly for net doom play, though it is large enough to be a good single play level (I included a hidden exit.) The level has all the weapons in multi-player mode and a good variety of items, in single player form there's plenty o' monster-wasting to be had.",
+	"version": "8e0407",
+	"date": "2013-11-02 15:09:51",
+	"files": [
+		{
+			"filename": "zone13.wad",
+			"size": 76942,
+			"crc": 2014163526,
+			"md5": "d0cd30e99db9d3241ff95590772adfe2",
+			"sha1": "8e040743ee81b1ca32cddbb98b1d7a6e6563a226",
+			"sha256": "6f1b199bd59be6e464ea11282fc46f62037c2eeaceaeb21832bd6e95db21c2a4"
+		}
+	]
+}

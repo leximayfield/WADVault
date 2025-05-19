@@ -1,0 +1,17 @@
+{
+	"uid": "HELLPORT (9f24b8).wad",
+	"name": "HELLPORT.WAD",
+	"description": "Fairly big level with a lot of rooms, very different atmospheres and some nice tricks. Watch out for the 'zoo' and the 'sewer'.",
+	"version": "9f24b8",
+	"date": "2013-11-02 23:56:45",
+	"files": [
+		{
+			"filename": "HELLPORT.wad",
+			"size": 100653,
+			"crc": 4044775067,
+			"md5": "17e73aa325959b857c9f929816cf0120",
+			"sha1": "9f24b8da328ed287f27ad5719c155070de445473",
+			"sha256": "c2750a62e216b2e583faa33e138d3c2647f544f1d99712d4de6804132d711ed0"
+		}
+	]
+}

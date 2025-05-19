@@ -1,0 +1,16 @@
+{
+	"uid": "stable.wad",
+	"name": "STABLE.WAD",
+	"description": "It takes a while, but once you get into the stable you may either join the beasts in their solid seclusion, or you may find your way out ... Watch out for the secret swimming pool though. It is not as friendly as it may seem at first.",
+	"date": "2015-01-14 22:49:50",
+	"files": [
+		{
+			"filename": "stable.wad",
+			"size": 132515,
+			"crc": 3366293839,
+			"md5": "d83a315ead211c56594421968e7bb06b",
+			"sha1": "3cf67dc0b6ddcafd9df343bec5b2cf27c36ba72e",
+			"sha256": "08c3a9f0f1edf693655206661c3e3d6c70802bab7dbfd64ee1cccc0f69381a52"
+		}
+	]
+}

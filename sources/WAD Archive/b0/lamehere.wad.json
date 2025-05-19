@@ -1,0 +1,16 @@
+{
+	"uid": "lamehere.wad",
+	"name": "Lame Heretic Beta V2",
+	"description": "It's A wad for heretic!",
+	"date": "2014-12-30 11:37:38",
+	"files": [
+		{
+			"filename": "lamehere.wad",
+			"size": 605344,
+			"crc": 2017665719,
+			"md5": "8db27a2b6a7ecb792eb7c4da422163bf",
+			"sha1": "b03967be822ad159b574e2d24bb1e2dd8438b8a8",
+			"sha256": "9a9fe727261cca6643655864b2a93becb73ca04533c4348ad5a22aae56f8eedf"
+		}
+	]
+}

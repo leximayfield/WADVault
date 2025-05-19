@@ -1,0 +1,17 @@
+{
+	"uid": "no2ndch (c5a883).wad",
+	"name": "'No Second Chances' (for Doom2)",
+	"description": "Altdeath level for Doom 2. This is quite a simple level. It has 2 reasonably large open areas, several teleports (Mic's influence), *lots* of stairs (Kim's influence), blue & green armour, both types of shotgun, chaingun & rocket launcher. (Yes, the energy cell is in there on purpose...) Getting each item in this level entails some degree of risk (the actual level of risk is dependant upon the intelligence of each player) but they are all easy enough to get as long as you don't get *too* greedy. N.B. Kim has more *excellent* levels in the pipeline, so watch out for them!",
+	"version": "c5a883",
+	"date": "2014-12-15 21:54:59",
+	"files": [
+		{
+			"filename": "no2ndch.wad",
+			"size": 41265,
+			"crc": 4258430887,
+			"md5": "635c57b2e686e197ebddcd772a276991",
+			"sha1": "c5a8835b15bb774d70a7716d513f4f0c39d86814",
+			"sha256": "780a290173a4e40122755e8d070401d5c3e5d2bb06e47ca83ad0396c9846b648"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "helipad (31fe5d).wad",
+	"name": "HELIPAD.WAD",
+	"description": "This level doesn't work as well as anything but the first level in an",
+	"version": "31fe5d",
+	"date": "2014-01-11 11:09:33",
+	"files": [
+		{
+			"filename": "helipad.wad",
+			"size": 90719,
+			"crc": 2581617815,
+			"md5": "ad2b384516cbdd330ed7b4aabf746122",
+			"sha1": "31fe5db9be2d732f3ec32099950964300677dc2e",
+			"sha256": "f939179031a9088c6a486dbb7f2fad8e5faba07d5d044c140a55e6c0dfbc60f0"
+		}
+	]
+}

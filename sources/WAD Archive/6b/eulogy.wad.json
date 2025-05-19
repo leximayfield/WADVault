@@ -1,0 +1,16 @@
+{
+	"uid": "eulogy.wad",
+	"name": "Eulogy v1.2",
+	"description": "No real story, I just wanted to make a nice tough PWAD that Doomers could have some fun with. Note that it is pretty tough(especially skill 4) This is also a bug fix for the original eulogy.wad You see, Waded has a crappy internal nodes builder which has a tendancy to leave holes in the walls. After getting someone to record a demo for me, I decided to fix it(it was quite annoying). This PWAD is bug free.",
+	"date": "2014-12-18 22:41:35",
+	"files": [
+		{
+			"filename": "eulogy.wad",
+			"size": 160897,
+			"crc": 3466870870,
+			"md5": "e105c37cf5de1de1041855732a18fa3c",
+			"sha1": "6b6e04078dab8aecb56a079d6092aaa40453beb5",
+			"sha256": "27edb5ffab7b1eff14107d83797d95422fd796df12bde2e8610b0c0b88103269"
+		}
+	]
+}

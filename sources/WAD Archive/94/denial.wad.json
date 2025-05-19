@@ -1,0 +1,16 @@
+{
+	"uid": "denial.wad",
+	"name": "denial.wad",
+	"description": "A large, single level adventure for experienced DOOMers. A lot of thought went into the details on this one. There are a number of nasty tricks in this one, including items that aren't accessible via the obvious path (thus the wad's name), blindside attacks, and other unpleasantries.",
+	"date": "2014-12-18 23:14:37",
+	"files": [
+		{
+			"filename": "denial.wad",
+			"size": 297685,
+			"crc": 1487243339,
+			"md5": "668c3492d7d306b6eae7cb00db5a48dd",
+			"sha1": "94bb183ac4ef1dbf51e4c014209fc452b956f7cb",
+			"sha256": "08989e6842f92fc7e1890502064fd71bc455134867823e477172507eba3df419"
+		}
+	]
+}

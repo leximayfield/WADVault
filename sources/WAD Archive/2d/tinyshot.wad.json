@@ -1,0 +1,16 @@
+{
+	"uid": "tinyshot.wad",
+	"name": "TINYSHOT",
+	"description": "Tired of getting blinded by your own plasma? Do you ever wonder how your marine can carry even one of those ICBM-sized rockets around? If you answered \"YES\" to at least one of the questions above, then this wad is for you!",
+	"date": "2015-09-15 17:30:57",
+	"files": [
+		{
+			"filename": "tinyshot.wad",
+			"size": 8109,
+			"crc": 1107856474,
+			"md5": "813597cad6c88344bf7eb07213cf5c02",
+			"sha1": "2dca39a24ad947655b7c1245922712f111fe198a",
+			"sha256": "52cc3b466b6f799a1844e33f44dac16031b8dee7f108dd97494c51f0f1ac74f4"
+		}
+	]
+}

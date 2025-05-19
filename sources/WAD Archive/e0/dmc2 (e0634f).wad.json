@@ -1,0 +1,17 @@
+{
+	"uid": "dmc2 (e0634f).wad",
+	"name": "\"Immortal Thoughts\"",
+	"description": "Small (2 player) deathmatch wads that play best in old-dm mode skill 5. Map01 The Credits.............by Styx Map02 Mortal..................by Cono Map03 The Stone Keep..........by Roman Map04 The Dark Zone...........by Styx Map05 Pure Madness............by Cono Map06 Shotguns o' Fun.........by Roman Map07 Sanctuary...............by Styx Map08 Tribal Death............by Cono Map09 Wooden Two..............by Roman Map10 Fest of the Dead........by Styx",
+	"version": "e0634f",
+	"date": "2013-04-19 00:08:21",
+	"files": [
+		{
+			"filename": "dmc2.wad",
+			"size": 1642984,
+			"crc": 1119995939,
+			"md5": "1bed3f26d25e14b8bad75af2e1a6bf8c",
+			"sha1": "e0634fe6179f4b49bec435250c44f698099ff0cd",
+			"sha256": "cc34e13ef0229a543f86c5bdbcd10bc16e3d3d66e5831eb72ea5a27c75b5add3"
+		}
+	]
+}

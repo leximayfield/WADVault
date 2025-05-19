@@ -1,0 +1,17 @@
+{
+	"uid": "REALM (e3cdee).wad",
+	"name": "Realm of the Damned and Deranged",
+	"description": "\"All would be heavenly All would be well If the damned would only stay damned.\"",
+	"version": "e3cdee",
+	"date": "2014-01-07 21:46:21",
+	"files": [
+		{
+			"filename": "REALM.wad",
+			"size": 56310,
+			"crc": 3139439155,
+			"md5": "490ceb988436ad1142777c05c3d11daa",
+			"sha1": "e3cdee57da3b6117815fb7d592b7dce256af7a42",
+			"sha256": "443b48c345d004379b4d0f1c2375e067394a74ef8756a0c2ba16b3d3682201d7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "extreme.wad",
+	"name": "EXTREME",
+	"description": "A big level that recreates a mansion, with plenty of rooms to explore.",
+	"date": "2014-12-18 22:47:21",
+	"files": [
+		{
+			"filename": "extreme.wad",
+			"size": 779705,
+			"crc": 708651466,
+			"md5": "9b719ae9e62e4f66e0738066ed38bc10",
+			"sha1": "4b57cbe64a7b4be42019af502d031c64bc9524fb",
+			"sha256": "d232805f0c07273738bd423ec6e4cba78a563eeb99d191f5058af2705823f612"
+		}
+	]
+}

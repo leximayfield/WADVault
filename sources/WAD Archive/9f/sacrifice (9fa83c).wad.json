@@ -1,0 +1,17 @@
+{
+	"uid": "sacrifice (9fa83c).wad",
+	"name": "Sacrifice",
+	"description": "Sacrifice is a level that involves making a choice: either lose the last secret and take the normal exit and miss some enemies or take the last secret and lose a life. The choice is yours, bud.",
+	"version": "9fa83c",
+	"date": "2019-03-06 21:50:01",
+	"files": [
+		{
+			"filename": "sacrifice.wad",
+			"size": 1295568,
+			"crc": 768789055,
+			"md5": "4eca30649eb31fec7d1ff1a488623890",
+			"sha1": "9fa83c0d152d0a7e597f4f7b4282bfa93dfd78bc",
+			"sha256": "829b960da3e628d9e41a9d8093ed6474343afe662da0a53fab97243e4ff52475"
+		}
+	]
+}

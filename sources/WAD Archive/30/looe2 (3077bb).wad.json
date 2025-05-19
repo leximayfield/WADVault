@@ -1,0 +1,17 @@
+{
+	"uid": "looe2 (3077bb).wad",
+	"name": "LOOE's Second Level",
+	"description": "This is my second attempt at a level. Greetings to all my m8s. Created with DoomEd The Real Thing - hurry up and send me that registered version man...",
+	"version": "3077bb",
+	"date": "2013-11-04 19:24:33",
+	"files": [
+		{
+			"filename": "looe2.wad",
+			"size": 66706,
+			"crc": 675184373,
+			"md5": "a56f8dd783941417b64b5d0e09631306",
+			"sha1": "3077bbbe5cb1b7fe9fe756151b1419f28e9e4e19",
+			"sha256": "1e8f0e2b69fc2b5b68efd2f4b91024e4cfcc38286eaea4effcfebc8a343526f4"
+		}
+	]
+}

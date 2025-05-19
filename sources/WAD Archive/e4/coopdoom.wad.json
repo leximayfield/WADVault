@@ -1,0 +1,16 @@
+{
+	"uid": "coopdoom.wad",
+	"name": "Satan's Backyard",
+	"description": "This is a fun little multiplayer map I threw together in a few days. It's not long, nor is it good.",
+	"date": "2014-12-15 22:22:17",
+	"files": [
+		{
+			"filename": "coopdoom.wad",
+			"size": 130229,
+			"crc": 2245752917,
+			"md5": "add1a4e1234022e68a48ca340aae9b84",
+			"sha1": "e4759d757bf3674b2c5f8b69e7eb400c33ebf180",
+			"sha256": "e8217ecef3ab40ca6c05939b2716c0e8b5090081da0d9aaae89e8f03f0cbb04a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "cqad.wad",
+	"name": "Chex Quest Advanced",
+	"description": "Chex Quest Advanced is a project to improve the original Chex Quest series, but keep the old classic feel. This has been tested to work with the original CHEX.EXE so any Doom port will work.",
+	"date": "2014-12-14 21:02:45",
+	"files": [
+		{
+			"filename": "cqad.wad",
+			"size": 10973511,
+			"crc": 1947628709,
+			"md5": "8d8b12c4d793f0b4ed483dd6ae156ada",
+			"sha1": "a6bada8fdb96715a42d5c921df4df063324d408c",
+			"sha256": "fd58477de82c84b137d3a6bdbbc86d4668db8c37736b240ee53fa9fafa92719b"
+		}
+	]
+}

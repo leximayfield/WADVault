@@ -1,0 +1,16 @@
+{
+	"uid": "doomregi.wad",
+	"name": "DOOM Regi-Like",
+	"description": "(REQUIRES ZDOOM OR A ZDOOM BASED PORT!)",
+	"date": "2018-04-16 08:26:02",
+	"files": [
+		{
+			"filename": "doomregi.wad",
+			"size": 136701,
+			"crc": 604747583,
+			"md5": "20e8fd7caa16faedecea31e9df7cff60",
+			"sha1": "4da5a8da1b21294743baea772fbfd1072551c694",
+			"sha256": "a3f016ed347e26208be904f0043b0424e9684b9b82a11085d5444eea7c6381af"
+		}
+	]
+}

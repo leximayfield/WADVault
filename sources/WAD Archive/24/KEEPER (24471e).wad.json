@@ -1,0 +1,17 @@
+{
+	"uid": "KEEPER (24471e).wad",
+	"name": "KEEPER.WAD.WAD",
+	"description": "After taking just a few steps you suddenly see the fate of your fellow comrads. Impailed and left to die as a reminder to all that try to escape.",
+	"version": "24471e",
+	"date": "2018-11-29 21:12:42",
+	"files": [
+		{
+			"filename": "KEEPER.wad",
+			"size": 108154,
+			"crc": 2255185118,
+			"md5": "758395e4564551b4635c43d7f46111e4",
+			"sha1": "24471ef449e810beacb7ef253a9d51c930af7a5a",
+			"sha256": "c17d086c116c3b487f922fe12f541fcb8dcc92fa3aa9e7fbfe2d67ea3d4b5006"
+		}
+	]
+}

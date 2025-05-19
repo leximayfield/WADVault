@@ -1,0 +1,17 @@
+{
+	"uid": "jungle (d5b821).wad",
+	"name": "Jungle.wad",
+	"description": "The object of this level is to get out of the sewers and",
+	"version": "d5b821",
+	"date": "2013-11-03 17:44:49",
+	"files": [
+		{
+			"filename": "jungle.wad",
+			"size": 15976,
+			"crc": 2420097531,
+			"md5": "e3769c49d6b5cbc0f070d64b92357112",
+			"sha1": "d5b821cbd3ca51ae5f3b5a011ee783c2a22b5075",
+			"sha256": "e9f659dcf70d101cfcf889f52e489090fc666d7645b51b889704b29998048d35"
+		}
+	]
+}

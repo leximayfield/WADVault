@@ -1,0 +1,17 @@
+{
+	"uid": "Pillars (dc13dd).wad",
+	"name": "The Pillars",
+	"description": "Doom ][ arena style fighting. FAST HEART STOPPING ACTION. Can get intense in the hallways if you're not careful!!! *** PLAY AS MAP01 ***",
+	"version": "dc13dd",
+	"date": "2014-12-15 22:14:48",
+	"files": [
+		{
+			"filename": "Pillars.wad",
+			"size": 204160,
+			"crc": 3681470301,
+			"md5": "ea1c7c933b2b6704271ed400ade8b8cb",
+			"sha1": "dc13dd777f875e55fdc92c9f71035fbf4a75bc2e",
+			"sha256": "53186eb50a12dc947f45141a984cc88c04b4cf4c40c3b36268f5a36b0c904941"
+		}
+	]
+}

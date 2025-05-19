@@ -1,0 +1,16 @@
+{
+	"uid": "DURKCRDM.wad",
+	"name": "Durk's Corridors",
+	"description": "A medium deathmatch level with five corridors. The weapons are accessed by a switch that is the same color as the room with the weapon in it. The outside corridors have teleports into the inner part of the level. Durkcrd.wad has nomonsters. Durkcrdm.wad has monsters.",
+	"date": "2014-10-28 21:55:20",
+	"files": [
+		{
+			"filename": "DURKCRDM.wad",
+			"size": 93975,
+			"crc": 2538355686,
+			"md5": "1cdb2f216b2d8d42fb82aea4a1424519",
+			"sha1": "3ceda3055b9ac133331f324edfc8f0fe35497a52",
+			"sha256": "a1c932eeaa993587a696ae75cff171dd2c048b367300aeff5980bb948821620e"
+		}
+	]
+}

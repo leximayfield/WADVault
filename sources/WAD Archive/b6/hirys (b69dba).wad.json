@@ -1,0 +1,17 @@
+{
+	"uid": "hirys (b69dba).wad",
+	"name": "Hirys",
+	"description": "After Deepsea I started to use Doom Builder and size of the levels now could do more.",
+	"version": "b69dba",
+	"date": "2014-12-22 18:33:23",
+	"files": [
+		{
+			"filename": "hirys.wad",
+			"size": 277245,
+			"crc": 1277937406,
+			"md5": "51ac226a468ed7a528b0954c47538e97",
+			"sha1": "b69dbaddfc49efcf36a6e2064c87509f7a3381f2",
+			"sha256": "87a3fb23ba3e3ac9b0dad05d75b3e3689df6808b7fd98264d6c257fa0cc9ec34"
+		}
+	]
+}

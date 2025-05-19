@@ -1,0 +1,16 @@
+{
+	"uid": "nevasca.wad",
+	"name": "Nevasca",
+	"description": "Nevasca is an episode-format wad for zdoom source port, focusing on snow themes among with some ruins, hellish or techbase variants.",
+	"date": "2016-02-13 19:57:23",
+	"files": [
+		{
+			"filename": "nevasca.wad",
+			"size": 32040665,
+			"crc": 1372164975,
+			"md5": "43bb1f209f8a11da077b53c703fcdf61",
+			"sha1": "8cc5657f3aba8b65e18658ad678c296168800a88",
+			"sha256": "0e4e83ffdaaf1b0fa6448c0bfa51fc0bd5672b1cdcaaddb9f671bd495f4c37f6"
+		}
+	]
+}

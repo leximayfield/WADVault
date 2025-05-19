@@ -1,0 +1,17 @@
+{
+	"uid": "Pillars (e6b2d5).wad",
+	"name": "PILLARS.WAD",
+	"description": "This patch file is for E1M1. To designed for deathmatch play. The main section of this wad file is the series of pillars in the center of the map. To get up to the rooms upstairs you must 'run' starting from the lowest platform and run up the ascending pillars without falling off. It's hard to explain, but you'll see what I mean when you try it. I hope you like it, and if you don't you are free to change it.",
+	"version": "e6b2d5",
+	"date": "2015-12-07 10:20:04",
+	"files": [
+		{
+			"filename": "Pillars.wad",
+			"size": 33192,
+			"crc": 1672440504,
+			"md5": "3e376290f007c2476dabe9c8ad788d4f",
+			"sha1": "e6b2d54a8abada88e6982926823f24fd9d1bdf7e",
+			"sha256": "0ef88bef1bf8ef828d3b634cd16bf58386110d603cc365229719226c43c29438"
+		}
+	]
+}

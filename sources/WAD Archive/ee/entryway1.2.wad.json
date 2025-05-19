@@ -1,0 +1,16 @@
+{
+	"uid": "entryway1.2.wad",
+	"name": "Entryway (version 1.2)",
+	"description": "This will be the beginning of the PUREDOOM series, when I eventually finish it.",
+	"date": "2014-12-18 22:29:58",
+	"files": [
+		{
+			"filename": "entryway1.2.wad",
+			"size": 140903,
+			"crc": 1208602132,
+			"md5": "5fa0f691db3c225c9db966cbc04f7a1c",
+			"sha1": "eee66f39cb3c39e56a5ce8ffe23a01530761fcab",
+			"sha256": "c2eae99b5b512c78a67f7f0bcc94fce2cb244f6148decfcf8658d0406874f719"
+		}
+	]
+}

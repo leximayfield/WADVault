@@ -1,0 +1,16 @@
+{
+	"uid": "pkbo_hrt.wad",
+	"name": "\"Peek-A-Boo\"",
+	"description": "PEEK-A-BOO is a HERETIC deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of a few rooms connected to each other so the action will always be constant. There are a few false walls that make for good ambush sites. The players start in one of four hallways adjacent to a couple of rooms. They will each find the same weapons depending on the Skill level chosen (The higher the Skill level, the nastier the weapons and greater the Health bonuses. There's also Invisibility Spheres and ammo for the weapons scattered throughout. There are TWO Teleporters in the big room (East) that will transport you to the North or South corners of the hidden hallway above the big room. The northern Teleport takes you to the northern corner facing South and the southern Teleport takes you to the southern corner facing North. This level is great in DEATHMATCH 2.0 as well as regular Deathmatch. There is plenty of opportunity for ambush.",
+	"date": "2013-11-02 16:40:18",
+	"files": [
+		{
+			"filename": "pkbo_hrt.wad",
+			"size": 19017,
+			"crc": 3996598044,
+			"md5": "4a5e3252ac45e151f8f45a5b7e1a9fa7",
+			"sha1": "af12d0e9a9fbf4f85c6ff7caf4d577733fa9d85a",
+			"sha256": "220ea05f4d92275c8fbb2ef6788e273141f20b9a50cbadff0e683a7dd9360a02"
+		}
+	]
+}

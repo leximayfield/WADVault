@@ -1,0 +1,16 @@
+{
+	"uid": "rof.wad",
+	"name": "Ring of fire",
+	"description": "12 singleplayer/coop maps My first attempt of a wad. Finished in 2006 but never put it on /idgames.",
+	"date": "2016-07-21 19:30:20",
+	"files": [
+		{
+			"filename": "rof.wad",
+			"size": 18434433,
+			"crc": 2410140186,
+			"md5": "413ac965394b6e0e1e836a784c095c73",
+			"sha1": "115d377f32ab1e89c4b8f2f69011c0d9ff5bbc15",
+			"sha256": "12b0e0fb6303b420b804bc0687a2d40d95ef7aa28792408b0c35008de07cd3fd"
+		}
+	]
+}

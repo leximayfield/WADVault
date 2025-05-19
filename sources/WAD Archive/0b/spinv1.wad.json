@@ -1,0 +1,16 @@
+{
+	"uid": "spinv1.wad",
+	"name": "Space Invaders Demo",
+	"description": "This is just a small level in which I tested some new ideas for ZDoom engine. It is not a complete level and you may call it a demo, but in Zddom 2.0 beta v47 it has a problem, when we call HudMessage in quick succesions, some of later calls would be ignored, so I decided to release it as is to help fix the problem. For instance when you win you will see the message You Won! but if you lose, no message is shown on screen although there is no difference between the codes that show the messages, also the ending menu will become corrupted. Requires SPZDOOM2.WAD to run, found in COMBOS section of these idgames ftps.",
+	"date": "2014-12-29 16:51:00",
+	"files": [
+		{
+			"filename": "spinv1.wad",
+			"size": 97197,
+			"crc": 3522708051,
+			"md5": "bfd0cb3a4428e507d50203cb17c63032",
+			"sha1": "0b5c08749837182cc569826cbf2fd38f6b269080",
+			"sha256": "7d217e6153165522656db3f34c60d85952f6a45835b1523af4bcef912af2939e"
+		}
+	]
+}

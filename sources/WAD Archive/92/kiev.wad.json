@@ -1,0 +1,16 @@
+{
+	"uid": "kiev.wad",
+	"name": "Kiev Series",
+	"description": "Medium-sized DOOM II Altdeath levels for 3-4 players. BTW, my first real levels ever made. And don't say I didn't warn you; try out these levels before you play them. The exits are easily reachable because I think that you should not play with wimps who push the exit button when they're about to be shot. And yes, I do know of cooperative exits; but I have to admit I was a little bit too lazy.",
+	"date": "2014-12-15 22:42:41",
+	"files": [
+		{
+			"filename": "kiev.wad",
+			"size": 591515,
+			"crc": 1684705008,
+			"md5": "dc32e1c39c2efd1f32b8e83bc4d7b091",
+			"sha1": "926bd56f0608987236341fef48cbfa1e5bff0aa8",
+			"sha256": "c2bfcdd4bbd847763536f924b2c7999f5d559f7c7d95b6cfc9c9eb43011e2295"
+		}
+	]
+}

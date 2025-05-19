@@ -1,0 +1,17 @@
+{
+	"uid": "nldm20b (77e01e).wad",
+	"name": "NLDM20B.WAD",
+	"description": "Excellent deathmatch wad. Its best for 2 or 3 players but can be used for 4. It was designed for Deathmatch2.0 (altdeath). There is a cool elevator with up and down switches. The better weapons are harder to get and all weapons are included.",
+	"version": "77e01e",
+	"date": "2013-11-02 15:49:02",
+	"files": [
+		{
+			"filename": "nldm20b.wad",
+			"size": 65133,
+			"crc": 3450333548,
+			"md5": "5c96d647c71e17d74abb540961c6fe6f",
+			"sha1": "77e01ee2ed8d8b0ea1b22c86e43f9c1ccc7f2e87",
+			"sha256": "6a5710519f447f56213710d368f2471ff2c6de56c77184d57525c9ec6da67e9f"
+		}
+	]
+}

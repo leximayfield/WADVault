@@ -1,0 +1,17 @@
+{
+	"uid": "poison (949c8a).wad",
+	"name": "POISON.WAD",
+	"description": "An environmentalist's nightmare. Mostly toxic waste with some other areas to explore. (Hint: try to save the radiation suits) This is my first (successful) PWAD. Being able to navigate through the ooze quickly is a valuable asset in this level. I have been able to get through the level with the radiation suits provided, but don't get dis- couraged if it takes you several tries.",
+	"version": "949c8a",
+	"date": "2013-11-02 16:01:28",
+	"files": [
+		{
+			"filename": "poison.wad",
+			"size": 57512,
+			"crc": 291718465,
+			"md5": "460d4d1c9d99121b1193a9db1159fb5c",
+			"sha1": "949c8ad7fe6d06c5a1c93e7b8ff44a4db7cf493a",
+			"sha256": "7c7e4540d0274cc90f3971f07976c022f3c70505eaf45e4a453d931643cdac7c"
+		}
+	]
+}

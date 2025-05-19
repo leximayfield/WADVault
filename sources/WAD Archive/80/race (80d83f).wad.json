@@ -1,0 +1,17 @@
+{
+	"uid": "race (80d83f).wad",
+	"name": "Race.WAD",
+	"description": "Small level which when in multiplayer mode is a race to the finish to avoid being crushed!. The whole level turns to a crusher when you pass the finish.",
+	"version": "80d83f",
+	"date": "2014-12-14 20:49:28",
+	"files": [
+		{
+			"filename": "race.wad",
+			"size": 11376,
+			"crc": 3901823556,
+			"md5": "8c4589dc2db6b3d8ca873984959c53f9",
+			"sha1": "80d83f459cbf19cdbb196d93c9ed721745b13be9",
+			"sha256": "6a1393499f4cf01e3e4db67dfa715f6583f566e8a21501fae7e62ef924857946"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ph_19-07-29_persephone.wad",
+	"name": "Persephone volumes 1 to 3",
+	"description": "This version of Persephone is a compilation of Volumes 1, 2 and 3. Volume 1 is an episode of 8 main maps, plus a secret level and a scripted \"Cast and Crew\" map, whilst Volume 2 is an episode of 10 playable maps and Volume 3 is 14 playable maps. Where necessary for compilation purposes, maps and resources have been tweaked or altered. MAP14 has had a game play overhaul from how it appeared in the Ten Community Project so that the co-op only part of it is also included in the single-player experience. Some minor fixes have been applied to the individual volumes in this compilation process. Unlike previous releases, SECRET1 and CREDMAP1 are now MAP09 and MAP10. MAP23 leads into MAP23A, B, C and D with no intermission to give the mini-episode more of a cohesive feel and make the mapset feel like 30 maps.",
+	"date": "2019-08-06 20:30:10",
+	"files": [
+		{
+			"filename": "ph_19-07-29_persephone.wad",
+			"size": 30205356,
+			"crc": 1613060236,
+			"md5": "7d4de8ae57441a3e7e759026a980b60c",
+			"sha1": "aba6bfbb1cea3501713e4d1ae4ffd18960fd007a",
+			"sha256": "d881eb7d72244bdc4a92edd1ffd7d7612224a4379a4543361033fd06560a8456"
+		}
+	]
+}

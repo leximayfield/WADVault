@@ -1,0 +1,16 @@
+{
+	"uid": "htchest.wad",
+	"name": "Heretic Treasure Chest",
+	"description": "The HTC was a community project aiming to make a 3 episode Heretic Megawad that would run on limit removing ports that support Heretic (i.e. Doomsday, ZDoom etc). Below details who did what in alphabetical order:",
+	"date": "2013-04-18 21:26:00",
+	"files": [
+		{
+			"filename": "htchest.wad",
+			"size": 25321625,
+			"crc": 2151998379,
+			"md5": "eef04c02355fc92c0684f12d930f1fbf",
+			"sha1": "b1367a4e8af058ce3701d182db8c8b02f6039acb",
+			"sha256": "fd564cd25fb99f6b1aaa9a1e8ada8117c71860fbf5297df67cac3ba99a4481c7"
+		}
+	]
+}

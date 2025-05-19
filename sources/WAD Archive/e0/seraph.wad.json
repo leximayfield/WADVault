@@ -1,0 +1,16 @@
+{
+	"uid": "seraph.wad",
+	"name": "The Lost Seraphim",
+	"description": "A 4-level addon for ZDOOM v1.22. You can most likely use zdoom V1.23 and higher, but I never tested it with those versions. The architecture isn't as good as I wanted it to be in map03, but thats because I had to limit it due to the map's sheer size. A dehacked patch is included inside the wad file along with a new storyline. The plasma gun and the BFG are replaced with Seraphin's Light and Seraphin's Spirit. The fist is UNUSABLE and if you try to use it, you will be rendered HELPLESS. I have included a chainsaw at the start of every level to make up for this. Here are the specs on the new weapons:",
+	"date": "2014-12-29 15:59:30",
+	"files": [
+		{
+			"filename": "seraph.wad",
+			"size": 5129467,
+			"crc": 218420829,
+			"md5": "920ba5b3ff32a9c3b318d74dc60dfa72",
+			"sha1": "e01cdeaecb69534155c124431f0a291281ce291f",
+			"sha256": "4fe146eee73629aeb61453b28ebe51f4a2b3a340673323e5985eb73903befc76"
+		}
+	]
+}

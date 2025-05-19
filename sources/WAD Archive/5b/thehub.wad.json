@@ -1,0 +1,16 @@
+{
+	"uid": "thehub.wad",
+	"name": "Bloodworks",
+	"description": "This wad, called \"The Hub\" is the also the third level of the \"Descent Into Hell\" megawad project I'm working on. The merged wad (level 3) will have slightly different mixture of of weapons, etc... because the player has weapons and ammo and health already. I decided, however, to release it as a wad on its own as well.",
+	"date": "2014-12-29 15:07:34",
+	"files": [
+		{
+			"filename": "thehub.wad",
+			"size": 1985144,
+			"crc": 3339875462,
+			"md5": "bc541ac07f47b90d83bebb9dac1208f1",
+			"sha1": "5baf97dd7f9953bcdc36d55daa6dcd13a83ab692",
+			"sha256": "43e566e38a2d2971d09b159a7b80d00703a27de3af87c3169f3c01e76bf53564"
+		}
+	]
+}

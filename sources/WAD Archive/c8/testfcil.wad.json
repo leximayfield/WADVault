@@ -1,0 +1,16 @@
+{
+	"uid": "testfcil.wad",
+	"name": "Esselmap I: Testing Facility",
+	"description": "Doom2 map with a lot of episode 1 influence. It's been tested in prBoom and Doomsday Engine, but it should run in any limit-removing port.",
+	"date": "2014-12-29 16:54:31",
+	"files": [
+		{
+			"filename": "testfcil.wad",
+			"size": 1598912,
+			"crc": 1788582349,
+			"md5": "986ba8476a3c942b8f2b6cf664f7bec3",
+			"sha1": "c8c958860444105d47894ad8a8926e9d7b4fb174",
+			"sha256": "3582a751ee145bcae2931da31ad4eef507da2bb1212abc29f1e6d3cbfafcb335"
+		}
+	]
+}

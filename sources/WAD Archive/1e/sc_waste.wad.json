@@ -1,0 +1,16 @@
+{
+	"uid": "sc_waste.wad",
+	"name": "SC_WASTE.WAD",
+	"description": "A waste filtration facility based out on Mars. I've tried my best to focus on balance between ammunition, health and baddies. I've paid specific attention to texture allignment and theme. This is played best on Ultra-Violence, do _not_ give up! If you're stuck at one part go back and look for some secrets, I've added a lot of secret areas and hard to reach places for your benefit. I've play tested and beaten this .wad without the use of any secret areas. Good luck!",
+	"date": "2015-01-14 14:39:09",
+	"files": [
+		{
+			"filename": "sc_waste.wad",
+			"size": 336690,
+			"crc": 2724302976,
+			"md5": "2420d10d1e3d9b7bb1a01894b94f42d8",
+			"sha1": "1e171d7fda9628ee7bedb9e6cb3a76c3bc203982",
+			"sha256": "0a7e863fde3d754617ab3ab76d920c9c84b36d881ee051b676569196366b3c97"
+		}
+	]
+}

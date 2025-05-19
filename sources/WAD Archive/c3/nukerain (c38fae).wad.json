@@ -1,0 +1,17 @@
+{
+	"uid": "nukerain (c38fae).wad",
+	"name": "Nukerain.WAD",
+	"description": "After 40 days and 40 nights of nukeage rain, the sun has finally appeared. Your mission: What do you think? Kick some Demon butt!!",
+	"version": "c38fae",
+	"date": "2015-12-07 14:01:34",
+	"files": [
+		{
+			"filename": "nukerain.wad",
+			"size": 200465,
+			"crc": 193593001,
+			"md5": "49056dde1e84a6392b176d4d0a9aa969",
+			"sha1": "c38fae8929a46ffb09d3f2f39b8521364abfb50d",
+			"sha256": "35f0936e9c1086d95d0f7ddccdb90a33e937a20001dbef5d1b3e82f3a1f91e31"
+		}
+	]
+}

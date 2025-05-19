@@ -1,0 +1,16 @@
+{
+	"uid": "sinlev1.wad",
+	"name": "The Levels of Sin - Number One  <For DOOM II>",
+	"description": "A very good Single and Co-op play wad for DOOM II. Look out for \"safe sectors\". There are two small squares in the level that are noticeably darker than the surrounding sectors. If you get yourself into one of these and stay there, monsters can't see you, so won't attack. There are also a few secrets which help you along the way. The idea is to get 100% kills and to do this you'll need to find one of the secrets. They are marked by pieces of scenery which are subtley out of place. I've also incuded a demo of me completing the level in UV. I didn't use the secrets so only got 97% kills. I want you to find the secrets yourself. I did pretty crap at one point but it shows you what you wanna know.",
+	"date": "2015-01-14 14:36:31",
+	"files": [
+		{
+			"filename": "sinlev1.wad",
+			"size": 568727,
+			"crc": 781498022,
+			"md5": "8b22993241b1667e324405bbbb2faf6f",
+			"sha1": "049f767bee0c80edf49b71131575142879192e0e",
+			"sha256": "0570b0439bb135f6104d3af2f8115f6c700951002e67cc787a24d02ab566d418"
+		}
+	]
+}

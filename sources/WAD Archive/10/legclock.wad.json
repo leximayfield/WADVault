@@ -1,0 +1,16 @@
+{
+	"uid": "legclock.wad",
+	"name": "Legacy Clock",
+	"description": "A demonstration on how to make an in-game clock in Doom Legacy.",
+	"date": "2015-09-14 22:55:03",
+	"files": [
+		{
+			"filename": "legclock.wad",
+			"size": 2536,
+			"crc": 1231045872,
+			"md5": "05e709d14954c18f8ad038ebee169533",
+			"sha1": "102fe02ddbc308189657a0a61584379210c429fa",
+			"sha256": "0e4111fabf2fde6374f2741672396d7e9965e14e8984abebf0a911b05aee3d18"
+		}
+	]
+}

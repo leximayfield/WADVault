@@ -1,0 +1,16 @@
+{
+	"uid": "d2qdm2.wad",
+	"name": "\"DM2\"",
+	"description": "The Quake dm2 deathmatch level. Designed as a DooM2 level, it should look familiar if you are a Quake skull cracker. Please E-mail your comments!!",
+	"date": "2014-12-15 22:18:39",
+	"files": [
+		{
+			"filename": "d2qdm2.wad",
+			"size": 245698,
+			"crc": 2815266137,
+			"md5": "6452f853c55e750a662736384b951618",
+			"sha1": "7900b2adca82dd748abc9dde1c7ffc688daaf6da",
+			"sha256": "73cecbf47d53aeaa12e4385bdf17adbe3d578658e3f4cc4b72c15a40ee91f530"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "jusshoot (fce4d0).wad",
+	"name": "Simple But Hard",
+	"description": "Simple layout with some tough enemies",
+	"version": "fce4d0",
+	"date": "2016-02-07 20:34:03",
+	"files": [
+		{
+			"filename": "jusshoot.wad",
+			"size": 12052,
+			"crc": 763702914,
+			"md5": "8d65f50385677933284f112d7bfce00f",
+			"sha1": "fce4d0a35f15f92c12482712d5675cada91af8a6",
+			"sha256": "ce71681eb26ea9eaf49b717120cee7dbf7cbde60f863e89e3069f69926da844f"
+		}
+	]
+}

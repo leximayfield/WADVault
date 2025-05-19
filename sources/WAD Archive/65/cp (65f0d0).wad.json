@@ -1,0 +1,17 @@
+{
+	"uid": "cp (65f0d0).wad",
+	"name": "Chemical Plant",
+	"description": "Simple wad for doom2.exe (Should work with all and every one of the ports)",
+	"version": "65f0d0",
+	"date": "2018-04-18 21:35:07",
+	"files": [
+		{
+			"filename": "cp.wad",
+			"size": 122764,
+			"crc": 1862073209,
+			"md5": "02601b3b822410b4bd2a4b6f1a59668a",
+			"sha1": "65f0d0712759b4ff2e07fb49f3515a08f29badf6",
+			"sha256": "acaafaaac486e68824c2ff0c6ea7c28fb5c6b1a550cf36da8c8e297c28e5c65a"
+		}
+	]
+}

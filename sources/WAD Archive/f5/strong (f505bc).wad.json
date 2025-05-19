@@ -1,0 +1,17 @@
+{
+	"uid": "strong (f505bc).wad",
+	"name": "Stronghold",
+	"description": "Now you will fight in a decadent fortress, I recomend you to play on lower skills, because",
+	"version": "f505bc",
+	"date": "2014-12-30 11:27:18",
+	"files": [
+		{
+			"filename": "strong.wad",
+			"size": 300271,
+			"crc": 3750435998,
+			"md5": "d41378776c01b0e9c7925c50fb897b69",
+			"sha1": "f505bc8264ffd33d7cb76a5887e6b5b812da1b43",
+			"sha256": "a0ad41668ae6cf67f411ae70012fde538687d2c3a273fcdab4e9d8de7517ffff"
+		}
+	]
+}

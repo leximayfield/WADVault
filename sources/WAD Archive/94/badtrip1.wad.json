@@ -1,0 +1,16 @@
+{
+	"uid": "badtrip1.wad",
+	"name": "BADTRIP (for DOOM II)",
+	"description": "You are assigned to infiltrate a goverment facility that has been suspected of attempting to harness the forces of evil to create new weapons for warfare. The project has gone awry, unleashing demons and other creatures into the building. You must explore the building and escape alive.",
+	"date": "2013-11-03 17:45:32",
+	"files": [
+		{
+			"filename": "badtrip1.wad",
+			"size": 792897,
+			"crc": 2852706117,
+			"md5": "36f1a6ab07a033f8a2b368e1c789771b",
+			"sha1": "9439612f866b98f26fa77a917355f3cc278622dc",
+			"sha256": "aacd327dffa67daaa1fd6351c520bd98adde0b9f881a966dd48ea40e53426ccd"
+		}
+	]
+}

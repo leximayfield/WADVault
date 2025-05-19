@@ -1,0 +1,17 @@
+{
+	"uid": "XFIRE (b2949f).wad",
+	"name": "crossfir.zip",
+	"description": "A good action packed level with lots of fighting and open to various strategies to outsmart the bad guys.",
+	"version": "b2949f",
+	"date": "2013-11-06 22:20:57",
+	"files": [
+		{
+			"filename": "XFIRE.wad",
+			"size": 92416,
+			"crc": 3111188663,
+			"md5": "cbafe95c3ebc83156abe74d79c48c801",
+			"sha1": "b2949f98c7496e0d24e8a4b7a23b13c8429b3388",
+			"sha256": "e3bbd5401dff264c1a4a6d0b3e04beada72f61415e5d708a8a9024b1fd5724ea"
+		}
+	]
+}

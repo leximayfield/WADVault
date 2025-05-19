@@ -1,0 +1,16 @@
+{
+	"uid": "clrfochc.wad",
+	"name": "Clear Focus (Hardcore Edition)",
+	"description": "Modified version of Clear Focus (id=16538) that defeats the critique : of being too easy, so this should fare better for those folks.",
+	"date": "2014-12-13 17:29:16",
+	"files": [
+		{
+			"filename": "clrfochc.wad",
+			"size": 38965,
+			"crc": 1504250992,
+			"md5": "1402a59c086c6baae697cdb4955af693",
+			"sha1": "30c84bce281bc72657f7886e06cd68820a2b9d2f",
+			"sha256": "e109f77dd13f2531658c30b4477c50ef53c659ee12fe8946ac67649584ab4d9a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nixel (c3ec09).wad",
+	"name": "Nixel",
+	"description": "You are in UAC factory with a small yard, and you have many weapons to deathmatchin' each other",
+	"version": "c3ec09",
+	"date": "2014-12-15 23:11:30",
+	"files": [
+		{
+			"filename": "nixel.wad",
+			"size": 367385,
+			"crc": 3629840802,
+			"md5": "0edd268fcb2cc8fafda8b75e89db48b5",
+			"sha1": "c3ec09fe9ab6c1d920df5205a917fa6cd3dcbcb3",
+			"sha256": "590fcec88d7540179d82a1be801a2df924012ab235d6b6e4149f48862220fdfa"
+		}
+	]
+}

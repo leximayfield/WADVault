@@ -1,0 +1,16 @@
+{
+	"uid": "1vs1.wad",
+	"name": "1vs1",
+	"description": "This Is My First Map. It's Designed For DEATHMATCH I Hope You Like It!",
+	"date": "2018-07-07 03:19:55",
+	"files": [
+		{
+			"filename": "1vs1.wad",
+			"size": 75662,
+			"crc": 1499251117,
+			"md5": "3b92c80f933c9e070c175b4ef8c0fce0",
+			"sha1": "c7ddb97c6cc7324b28d72ca524c787d0e9aa9b81",
+			"sha256": "486f5047d5ad9aded7dec3c323829d9b099b38b4e75d29f3c852a7b5ce48e8c2"
+		}
+	]
+}

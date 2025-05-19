@@ -1,0 +1,16 @@
+{
+	"uid": "urotsuki.wad",
+	"name": "Urotsuki: Inferno Road",
+	"description": "1 pretty short map in style inspired by anime Urotsukidoji and Giger pictures.",
+	"date": "2015-09-15 16:46:17",
+	"files": [
+		{
+			"filename": "urotsuki.wad",
+			"size": 9733358,
+			"crc": 3428079811,
+			"md5": "d2dc98a437b6f08395a3d67dfb51777a",
+			"sha1": "03228f8edb1b35767c21b7470985182e35e25466",
+			"sha256": "b2eb3776ff3a53ea5a766e81a78dbfc4affbc49ef56c6ace2822fcc71c1529d1"
+		}
+	]
+}

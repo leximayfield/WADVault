@@ -1,0 +1,17 @@
+{
+	"uid": "inca (c0d511).wad",
+	"name": "The Ican Anomaly",
+	"description": "After killing yet another Spider Demon, you",
+	"version": "c0d511",
+	"date": "2014-01-07 22:02:36",
+	"files": [
+		{
+			"filename": "inca.wad",
+			"size": 94941,
+			"crc": 2194522462,
+			"md5": "83cd56edcb71634e6fac30c86dc69127",
+			"sha1": "c0d5112630c8e1a08a94b99dc41dddc7ac3e6ac1",
+			"sha256": "a6422eebec588553a2e88c7bd302ca0994085e3b54f172133f8cf1039399c422"
+		}
+	]
+}

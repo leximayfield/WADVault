@@ -1,0 +1,16 @@
+{
+	"uid": "h2hmud01 (c25522).wad",
+	"description": "This is an Offical wad for the H2HMud International Doomers Competition.",
+	"version": "c25522",
+	"date": "2014-12-03 20:12:02",
+	"files": [
+		{
+			"filename": "h2hmud01.wad",
+			"size": 225388,
+			"crc": 700657558,
+			"md5": "ddd05ce72c16fd6e83d6effc2a94e860",
+			"sha1": "c255221ac0b70ff2d659c6ac2576ecdf048f0dc0",
+			"sha256": "5d3d13d08285e1d0d27d304424b70cfdedda8db52f2ce84dc0a74f597678cbf1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "oxygen.wad",
+	"name": "Oxygen v0.9b",
+	"description": "Being the contest-hungry soul that I am, I polished up this beta for a contest going on over at doomcenter.com for the best level that's done in the E1 style. I still have to do a little more testing with enemies and objects and all, but it should give you a couple minutes of fun if nothing else.",
+	"date": "2014-12-13 17:37:02",
+	"files": [
+		{
+			"filename": "oxygen.wad",
+			"size": 54860,
+			"crc": 195919018,
+			"md5": "b22c7e7b0dbca78ead182b01fcffa2ee",
+			"sha1": "e24c90670205750d67f37619cd8b5652a372d59e",
+			"sha256": "5cb98bf647a68c841e3181832f5461894ffcc5ac92e6771b8754dc3a7b81befe"
+		}
+	]
+}

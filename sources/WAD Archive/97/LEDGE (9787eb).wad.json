@@ -1,0 +1,17 @@
+{
+	"uid": "LEDGE (9787eb).wad",
+	"name": "Ledge.wad",
+	"description": "This is the Doom ][ wad file for all types of play. There are no creatures to kill in level 1 or 2.",
+	"version": "9787eb",
+	"date": "2014-02-15 16:42:05",
+	"files": [
+		{
+			"filename": "LEDGE.wad",
+			"size": 73637,
+			"crc": 1271718788,
+			"md5": "c51f6dec8702925262185a1a91aa12ff",
+			"sha1": "9787eb25cca6411c3ffe33796baffa9938f28908",
+			"sha256": "332df28fd8ab793a477c902485597c0c18d04ba37ceac4f9641cae25f7c91503"
+		}
+	]
+}

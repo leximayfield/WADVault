@@ -1,0 +1,16 @@
+{
+	"uid": "oxbow.wad",
+	"name": "Oxbow",
+	"description": "Short level, no particular idea, but has that recurring curve theme.",
+	"date": "2015-09-14 23:23:18",
+	"files": [
+		{
+			"filename": "oxbow.wad",
+			"size": 122568,
+			"crc": 876720716,
+			"md5": "c40aa35f25114c324659fbe053b259d1",
+			"sha1": "7c9d4a8f89cc0ebd5a4c68f864e9410e19f194dd",
+			"sha256": "b8d803ad23892dcdaf24d8cf86ffd42a93259ac6915a54b66dda77104deeefcd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "eagles01 (a44c6c).wad",
+	"name": "Eagle Speedmapping Session 1 - Rough Beginning",
+	"description": "The first Eagle Speedmapping Session's goal was to make maps within a 2 (in practice 3) hour limit. Six maps were made, and the themes were: - Map must contain a lot of lava and a scene of an erupt volcano - Map must contain a switch which opens the only gate leading to a jungle - Map must be laid out in two floors - the surface and a tunnel leading to the Earth core",
+	"version": "a44c6c",
+	"date": "2017-06-27 00:01:54",
+	"files": [
+		{
+			"filename": "eagles01.wad",
+			"size": 1692138,
+			"crc": 2557456463,
+			"md5": "455f8ca06877a34fa55b8c07a3ca90a8",
+			"sha1": "a44c6c2a35ced0c0af13397f607fbd5c0f9925f0",
+			"sha256": "381587bc6a3660e806c76b5cff560ec553093ef4072ecd504f148aa89af431ab"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "duke (fdfbc5).wad",
+	"name": "Duke Nukem",
+	"version": "fdfbc5",
+	"date": "2015-09-15 13:19:23",
+	"files": [
+		{
+			"filename": "duke.wad",
+			"size": 137036,
+			"crc": 340573069,
+			"md5": "828359fdba9086f4a7686c38dc32a929",
+			"sha1": "fdfbc599fdc00aac7fe258bf82e369ce0251986b",
+			"sha256": "e8547b677c1856c78d360521754ff240ea61c508e390cee73f98cb21bc5cfb25"
+		}
+	]
+}

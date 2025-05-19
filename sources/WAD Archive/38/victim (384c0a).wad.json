@@ -1,0 +1,17 @@
+{
+	"uid": "victim (384c0a).wad",
+	"name": "Victim Deathmatch",
+	"description": "I pack of 4 of my favorite levels that I have created. I have play tested them over and over and I think they are damn good! (Tell me what you think!)",
+	"version": "384c0a",
+	"date": "2014-12-15 23:15:36",
+	"files": [
+		{
+			"filename": "victim.wad",
+			"size": 987284,
+			"crc": 4210442130,
+			"md5": "cc36f5b9af378dd4b719b7f90d4ed4d4",
+			"sha1": "384c0a22bbb8f434dc6c2fa44455694a98ad8a3f",
+			"sha256": "2ef222ef39cb470f1a8842ddf29483855547de8627e147cd3b1b7841ffca4957"
+		}
+	]
+}

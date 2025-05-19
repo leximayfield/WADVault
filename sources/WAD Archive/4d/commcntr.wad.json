@@ -1,0 +1,16 @@
+{
+	"uid": "commcntr.wad",
+	"name": "Communications Center",
+	"description": "2nd map slot replacement for Doom2",
+	"date": "2014-12-21 16:40:49",
+	"files": [
+		{
+			"filename": "commcntr.wad",
+			"size": 201676,
+			"crc": 2046929579,
+			"md5": "8db3dbe079f836ec46a04a9e949cec3c",
+			"sha1": "4d6db5a367642e21eed2da3579bd1ae8ad8184fa",
+			"sha256": "8c8a00992cb21711b3229f7b3b4f5d29dd8a5c9556f83dd64ac81c7de2c2139a"
+		}
+	]
+}

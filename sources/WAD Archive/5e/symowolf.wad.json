@@ -1,0 +1,16 @@
+{
+	"uid": "symowolf.wad",
+	"name": "SYMOWOLF.WAD",
+	"description": "Hell has taken over a WW-II British Army base with Hitler's help, of course. Your mission is to 'clean the place up a bit', if you know what I mean. It is rumoured that the Cyberdemon enjoys rocket-tennis here somewhere and that a huge demon in the form of Adolf himself resides deep underground. New graphics created on an Acorn RISC PC and converted to BMP's using !ChangeFSI and !ToBMP software. Any other Acorn DOOMers out there? How about a RISC OS map editor? I haven't got time to write one!",
+	"date": "2015-01-14 14:51:09",
+	"files": [
+		{
+			"filename": "symowolf.wad",
+			"size": 284400,
+			"crc": 2477294832,
+			"md5": "daad53d0b5eb32875e861df55ce0f418",
+			"sha1": "5ed2a3e1658a551820c6561c65912b293397f167",
+			"sha256": "f69ccf005b0ad2f06773a51b915b972258ed98e42e42159e948bd3bd2040163a"
+		}
+	]
+}

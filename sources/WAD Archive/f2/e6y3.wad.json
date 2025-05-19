@@ -1,0 +1,16 @@
+{
+	"uid": "e6y3.wad",
+	"name": "e6y",
+	"description": "1 level for any doom ports without vanilla limitations and with ability to play MOD music. PrBoom-Plus or GZDoom is recommended. It also will run with Doom-Plus.",
+	"date": "2014-12-24 17:13:43",
+	"files": [
+		{
+			"filename": "e6y3.wad",
+			"size": 1425692,
+			"crc": 3827268317,
+			"md5": "57a984ccdd09ecfe1e6934bc997ab290",
+			"sha1": "f24cfa903c9f147d92152a321b3e1138c5db35a1",
+			"sha256": "bed2b80f1d5a5a66f62d5210f40b1d81d58764e005ad9387f296c996f3c23400"
+		}
+	]
+}

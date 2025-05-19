@@ -1,0 +1,17 @@
+{
+	"uid": "KILL (533faf).wad",
+	"name": "JUST KILL ME NOW",
+	"description": "Level 1 : The Stone Quarry A pretty good level. Challenging. Small level; not a lot of room for running away. Good for deathmatches... I will replace this level...eventually.",
+	"version": "533faf",
+	"date": "2014-12-13 12:46:12",
+	"files": [
+		{
+			"filename": "KILL.wad",
+			"size": 889467,
+			"crc": 354265093,
+			"md5": "526ccdb474d1267710551da8734ec119",
+			"sha1": "533faf1382e5b60818c52e5d09adcb68252f39a4",
+			"sha256": "807ead8e275ad492c84bc0b1e3645e58abf425aa315019f8726495a7533e7e2d"
+		}
+	]
+}

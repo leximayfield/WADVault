@@ -1,0 +1,16 @@
+{
+	"uid": "solstock.wad",
+	"name": "Soldier's Stockpile (previously Marines of UAC) v1.1",
+	"description": "This is an update/remake of MoUAC v.1.0, renamed because my upcoming SP project has taken that name. This mod is meant for use in custom maps and map-pack wads, to \"spice things up\" a lot. The story elements have been removed from this release. They just cluttered things up and were damn cheesy anyway.",
+	"date": "2013-04-19 03:58:14",
+	"files": [
+		{
+			"filename": "solstock.wad",
+			"size": 13591929,
+			"crc": 2764212286,
+			"md5": "49d12a6198e5e529b346390b56a953f4",
+			"sha1": "71b024dee937acb015eae21331feb85d0c641814",
+			"sha256": "f2df7048a4fcdb6be641c028d331244ff15c80a98305dfc2de1c01819b5f13dc"
+		}
+	]
+}

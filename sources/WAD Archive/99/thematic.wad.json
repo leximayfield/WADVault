@@ -1,0 +1,16 @@
+{
+	"uid": "thematic.wad",
+	"name": "Thematic Elements",
+	"description": "You're in a room with 3 teleporters That bring you to places with different themes. This wad is quite hard but most Doomers should be able to complete it.",
+	"date": "2014-12-29 15:52:47",
+	"files": [
+		{
+			"filename": "thematic.wad",
+			"size": 988428,
+			"crc": 837078594,
+			"md5": "4a0ce242d33a9af2086e097f15296593",
+			"sha1": "99586ffb5419b345203cf2ac19323379e6c9de2a",
+			"sha256": "471e38257ecb24bb402c633fdda46b65d3e3eb592c26686bf99b3609b3d4fb8c"
+		}
+	]
+}

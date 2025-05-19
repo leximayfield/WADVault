@@ -1,0 +1,16 @@
+{
+	"uid": "windoom.wad",
+	"name": "Windows Doom",
+	"description": "Give Doom the look and sound of Windows 95. Includes that inane Canyon midi, startup and shutdown screens and sounds, and several parody images - press F1 for Help, and Pause for a special error message ;)",
+	"date": "2015-09-15 13:15:11",
+	"files": [
+		{
+			"filename": "windoom.wad",
+			"size": 864026,
+			"crc": 1922564470,
+			"md5": "c2a08d9f9f086d099bd9376ff5ff7fa2",
+			"sha1": "fe45bc4896e008e2586ea6ea0972b01cafbcc64d",
+			"sha256": "3e7d2806a40bd9494c37794a8b4f884849be665687230093070e96e8be30b83b"
+		}
+	]
+}

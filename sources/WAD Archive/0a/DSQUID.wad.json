@@ -1,0 +1,16 @@
+{
+	"uid": "DSQUID.wad",
+	"name": "Datasquid",
+	"description": "A deathmatch only wad. High frag per second ratio! Originally part of the 'TNT' project, but I fell victim to the time constraints of moving to a new state.",
+	"date": "2014-08-30 13:53:36",
+	"files": [
+		{
+			"filename": "DSQUID.wad",
+			"size": 78483,
+			"crc": 485071743,
+			"md5": "c6fbd66f368a4d235ded019ee66ee5f4",
+			"sha1": "0a7c7e3140f3068dd227f495a642987a2e4b420c",
+			"sha256": "38b775fcaad0f5a8766048c5203599ab60dba3b0d6760b2a3f6505ccc14f68b7"
+		}
+	]
+}

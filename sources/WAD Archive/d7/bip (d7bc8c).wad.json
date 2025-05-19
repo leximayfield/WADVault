@@ -1,0 +1,17 @@
+{
+	"uid": "bip (d7bc8c).wad",
+	"name": "Baron in a Pit (Sequel to Baron on a Pedestal)",
+	"description": "Brown and Gray, lots of monsters. My fourth wad, and the first one where I paid very close attention to textures and texture alignment. COOL level. Very hard, but is just fun to run through. Spends a lot of time outside, and has a stairway to the basement of DOOM. Has a demo, so just sit and watch if you get stuck.",
+	"version": "d7bc8c",
+	"date": "2014-01-07 22:20:16",
+	"files": [
+		{
+			"filename": "bip.wad",
+			"size": 120126,
+			"crc": 2319026252,
+			"md5": "97247913ed4fd76d9a174ade67a7aab3",
+			"sha1": "d7bc8c9e634f5083fd5e7eba65a328613d5870d3",
+			"sha256": "052cca4bbd082c3dfea57261714ea0ad028b278998a5fd14d807f2b086c0dd37"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "apparitn.wad",
+	"name": "Dark Apparition.",
+	"description": "A map with a distinct John Romero Doom2 style feel. at least, that's what I was aiming for. It will be difficult for some, but so long as you are vigilant, it shouldn't be too difficult.",
+	"date": "2014-12-15 22:03:37",
+	"files": [
+		{
+			"filename": "apparitn.wad",
+			"size": 420732,
+			"crc": 3152386971,
+			"md5": "da3b2bb1d5a380afeab85d01a97c87c8",
+			"sha1": "7f94a01bbe19e7a5600b5f8fe177372c06092f0e",
+			"sha256": "51839b3d5d61dd8474dae811b178034296a6dd642f23279227dfbcf6bbf92bf2"
+		}
+	]
+}

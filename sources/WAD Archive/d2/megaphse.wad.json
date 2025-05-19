@@ -1,0 +1,16 @@
+{
+	"uid": "megaphse.wad",
+	"name": "Mega Phase",
+	"description": "Designed for Single Player/Co-Op and DM. (not just one or the other.)",
+	"date": "2015-09-14 23:10:22",
+	"files": [
+		{
+			"filename": "megaphse.wad",
+			"size": 478574,
+			"crc": 1693268856,
+			"md5": "6ccaaf0daf9fa39ebc46f081a2ef7b88",
+			"sha1": "d2dba37f45fed9d8e4f83fb51ecfcfd61e95ebab",
+			"sha256": "9e0433121b5386ebf416eaa8f80d4784fb2e4b2f0db72428e77621039c99d263"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hgarden.pk3",
+	"name": "Hanging Gardens",
+	"description": "An unreleased GZDoom map I made about a year ago. It's set in a lush, walled garden in the middle of a desert. It was supposed to be part of an episode but I don't plan to work on it any more.",
+	"date": "2014-12-24 17:55:44",
+	"files": [
+		{
+			"filename": "hgarden.pk3",
+			"size": 2543057,
+			"crc": 3903651702,
+			"md5": "fb7f0f81f8affa62ef178f1ee65c9e89",
+			"sha1": "44fa16742178f4d0e5a04ebcbc2057318f494257",
+			"sha256": "72a5909c6516f66defa59069cfdc42e90f6cf087beace5c0c49cd29f15d34f5f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bsswm (aeb0bf).wad",
+	"name": "Serious Sam meets Doom in the form of weapons",
+	"description": "Serious Sam meets Doom, in the form of weapons. A weapons mod that replaces all the weapons of Doom by those of Serious Sam the fisrt encounter and second encounter (except sniper rifle). Also replaces messages, sounds and items. Serious Sam kicks serious asses!",
+	"version": "aeb0bf",
+	"date": "2013-04-18 23:34:11",
+	"files": [
+		{
+			"filename": "bsswm.wad",
+			"size": 1507858,
+			"crc": 1338890660,
+			"md5": "78b677a6a2f530b4302a887d94da3048",
+			"sha1": "aeb0bfd762f386778ab31d8f13c0ac66a0c10e19",
+			"sha256": "c13797f8588f7be3031fcd374741418b8cdd5bacb2194d7102a6368b6dfe4474"
+		}
+	]
+}

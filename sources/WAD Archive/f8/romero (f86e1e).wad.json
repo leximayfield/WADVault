@@ -1,0 +1,17 @@
+{
+	"uid": "romero (f86e1e).wad",
+	"name": "Romero",
+	"description": "Single, Co-op, and Deathmatch level",
+	"version": "f86e1e",
+	"date": "2015-01-14 22:49:21",
+	"files": [
+		{
+			"filename": "romero.wad",
+			"size": 89319,
+			"crc": 4045412143,
+			"md5": "0a07aadde09bc780ee173c27b6615c82",
+			"sha1": "f86e1e4af06ad50a62f93f656e60d14fc231264d",
+			"sha256": "c01ea3544a6c80ca6ad58938c6476f0f00fa14c8ddfcfdb3df2db4bf7909fb87"
+		}
+	]
+}

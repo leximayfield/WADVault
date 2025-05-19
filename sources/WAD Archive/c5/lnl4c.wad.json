@@ -1,0 +1,16 @@
+{
+	"uid": "lnl4c.wad",
+	"name": "Lock and Load v.4C.",
+	"description": "Weapons changeout. Fewer guns than the original 4th release. Consider it kind of a greatest hits collection. Also changed out some graphics, modified some attacks and threw in alternate deaths for the Shotgunner, Imp, Demon, Zombie and SS. And yes, they frickin' work. I've tested that up and down.",
+	"date": "2014-12-11 22:14:10",
+	"files": [
+		{
+			"filename": "lnl4c.wad",
+			"size": 2767504,
+			"crc": 1248760341,
+			"md5": "6cb9c5cddd99d93f3e6d10e716ac07fd",
+			"sha1": "c53338873fedd9ad003d1d85559d5d8efee6fde0",
+			"sha256": "c9116629bbc3ed24dc458412a39a63e686bf3597f132aaa51123065d7cdc5b81"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "FAIR (7be753).wad",
+	"name": "Halls of Fairness",
+	"description": "These are eight brand-new levels for the hell on earth! Refer to the descriptions below.",
+	"version": "7be753",
+	"date": "2014-12-18 22:28:46",
+	"files": [
+		{
+			"filename": "FAIR.wad",
+			"size": 1096438,
+			"crc": 1679195594,
+			"md5": "fd8a27d31077a887b2c2d7391bc8b5ff",
+			"sha1": "7be7533d35ed115a6fa96563df24bfc0bae01911",
+			"sha256": "2193216eee9a273f94d4b21b7c80b847d7e0fc24163770029c2019adecb1ec93"
+		}
+	]
+}

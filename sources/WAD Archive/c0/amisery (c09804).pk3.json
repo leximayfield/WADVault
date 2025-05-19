@@ -1,0 +1,17 @@
+{
+	"uid": "amisery (c09804).pk3",
+	"name": "Abandoned Misery",
+	"description": "This map was included in my huge project 'TGRDM3'(Morgenstern) that originally started back in 2007, but I finally decided to kill the project on the 26 October 2014. The development time was going to take several more years to complete, and making maps that uses 3D Objects - heavily - on a 2.5 game engine is overly complicated along with its limitations. Abandoned Misery was originally half-way designed back in 2010, but later completely redesigned in 2013 (which is the version released). I honestly believe that this is the first - real successful Deathmatch map I have ever created in my entire history of Doom modding. Call me bias, but I have rejected approximately 37 maps that I have created for the TGRDM3 project, but this map is one of the survivors in the new stock set. I hope others enjoy this map and possibly use it for other projects.",
+	"version": "c09804",
+	"date": "2014-12-15 21:20:06",
+	"files": [
+		{
+			"filename": "amisery.pk3",
+			"size": 1432971,
+			"crc": 88934872,
+			"md5": "87b1bd37aab5b5731526921ccafbf8c2",
+			"sha1": "c0980469fd1b43e2c1c961a1e273c68fae362eae",
+			"sha256": "c675107adf55afde0c089b93fe57fd08e9a6ed6e509b7f1f9e887629c6462b9d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "TOMBASE.wad",
+	"name": "TOMBASE",
+	"description": "Quick map thrown up to emulate Tom Hall's techbase (or SHAWNbase) style with my own twist, and elements of Romero's design rules. TOMBASE also is designed to be a tad more challenging (mostly due to less resources) but masochists can always play on UV and Nightmare!",
+	"date": "2019-03-06 21:37:33",
+	"files": [
+		{
+			"filename": "TOMBASE.wad",
+			"size": 135635,
+			"crc": 3448304095,
+			"md5": "c6c71097e99f692765c05fcdae59e27d",
+			"sha1": "c6a41db9cc3f6adaaf82fe9c24cdb30dd0c287f0",
+			"sha256": "774d1564c3fee398875946047593b4a6347c8b2d017efd34259946ab8caf6286"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "ane1m3level.wad",
+	"name": "An E1M3 Level",
+	"description": "A Level that was originally made for a megawad (but got too complicated so I decided to release this level alone. (since it was the only decent level, in my opinion). This is my second released wad.",
+	"date": "2014-12-14 21:08:32",
+	"files": [
+		{
+			"filename": "ane1m3level.wad",
+			"size": 552221,
+			"crc": 1709229026,
+			"md5": "23789934a06a388394a0360b98c06f21",
+			"sha1": "cfe063a83b665a91749ed534bb059d3a71baa7ef",
+			"sha256": "1f2238977399b350cbbc33ce9c17546d59dbdc822a588fbcb187c66290e3279e"
+		}
+	]
+}

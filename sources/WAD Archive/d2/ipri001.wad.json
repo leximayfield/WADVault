@@ -1,0 +1,16 @@
+{
+	"uid": "ipri001.wad",
+	"name": "Ice Prison (v1.0)",
+	"description": "I created this level for the Zauberer project. Ice Prison is a small Hexen level set in a prison placed in a icy region. I would be the ideal beginning for an Hexen hub, if one day I will make one. The intention was to have it Vanilla Hexen compatible. I tested it using the Chocolate Hexen Source Port.",
+	"date": "2016-08-12 20:57:02",
+	"files": [
+		{
+			"filename": "ipri001.wad",
+			"size": 242041,
+			"crc": 1479127717,
+			"md5": "5a21d5698bc42fe863d7a55f899ef7bd",
+			"sha1": "d2ae3e5922458625f03d5eb35792fba583d8cf8f",
+			"sha256": "11f146cdc93c1cdc50f6a65d0023c65bdbfef4ace8925e49c72ddb566c14faf5"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "nukemine (0acfad).wad",
+	"name": "NUKELEAR MINES",
+	"description": "The demons from hell have started to mine the nukelear waste dumps from the 20th century for food! Stop them and their food supply.",
+	"version": "0acfad",
+	"date": "2015-09-14 23:32:10",
+	"files": [
+		{
+			"filename": "nukemine.wad",
+			"size": 176712,
+			"crc": 1263139134,
+			"md5": "1e17f617342cc7c72409d13527990424",
+			"sha1": "0acfadd8379c6ad23461a6bd1b6304567e4edc4a",
+			"sha256": "b8c1412b0447c35068f12bab89ab2ad75019ed43ca22f6d9d1f1ef9e834ee078"
+		}
+	]
+}

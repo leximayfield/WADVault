@@ -1,0 +1,17 @@
+{
+	"uid": "KAOS (bdce07).wad",
+	"name": "Intense KAOS",
+	"description": "6 QUALITY levels, new grafix, new sounds",
+	"version": "bdce07",
+	"date": "2014-08-31 14:14:04",
+	"files": [
+		{
+			"filename": "KAOS.wad",
+			"size": 468707,
+			"crc": 330681711,
+			"md5": "5877e6c94dd791ae39f2175093f7fe88",
+			"sha1": "bdce074ec40802ef313d1236a0a079e9c1e08585",
+			"sha256": "d39962142cd1c033169c19138cd046f52365e115731a9e556e6122171ee9aadd"
+		}
+	]
+}

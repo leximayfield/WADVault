@@ -1,0 +1,16 @@
+{
+	"uid": "ERTHASLT.wad",
+	"name": "Earth Assault",
+	"description": "3 level singleplayer wad. Also designed for deathmatch. The levels were made individually over the course of about a year and a half, and eventually compiled into one single wad. MAP03 wad built first, and intended for use in TNT: Revilution (as MAP07 I believe), but I took to long to finish and it is used here now instead. MAP01 was made next after I thought of a neat idea for level repopulation without the use of ACS. MAP02 was made last, about 1-2 months ago. There were more maps for this wad, but some of them just never got finished, while others were put into my community mapping project currently known as \"Plain Old Doom 2\" (the name will change before release).",
+	"date": "2017-06-27 00:10:58",
+	"files": [
+		{
+			"filename": "ERTHASLT.wad",
+			"size": 997021,
+			"crc": 1529715683,
+			"md5": "26ae5963275375bba6125d16f806f4b4",
+			"sha1": "673fe211e189ffa3b7fb1df7c72ac800716cb2dc",
+			"sha256": "08e15d5b9bc06244ed0f0609d3794d87839b8dbcb0a4590cb7d6ede190d65b09"
+		}
+	]
+}

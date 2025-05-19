@@ -1,0 +1,16 @@
+{
+	"uid": "ethrwrld.wad",
+	"name": "The Etherworld",
+	"description": "My last Doom level - onward Quake! More emphasis on overall structure than most of my levels. You can thank Jorge for the pentagram in the sky!",
+	"date": "2014-12-18 22:42:23",
+	"files": [
+		{
+			"filename": "ethrwrld.wad",
+			"size": 200430,
+			"crc": 2589202742,
+			"md5": "a815953e269975a5d8e5d7c91994951f",
+			"sha1": "ad77cab7377d5a9bce5707e59a523fed8beaac63",
+			"sha256": "c8dd84ea0f3c395b98e191c888a624a869c9a97132d367d64658eb15318e9c12"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "infwater.wad",
+	"name": "Infested Water",
+	"description": "A short map of a refinery infested with demons. Used it to test some ideas and learn the basics of stuff like 3D Floors. I had lost interest in it and rested in my HDD until now.",
+	"date": "2017-06-27 00:25:19",
+	"files": [
+		{
+			"filename": "infwater.wad",
+			"size": 1931439,
+			"crc": 57831833,
+			"md5": "a6c825d183a6539cee033c0584464ccc",
+			"sha1": "dc64c39a8e07b1300e9bd3fb19e1be860f750d8a",
+			"sha256": "25f56e74a271ebe3df2311bdfaf9c3dcee2b3f1f4ea0b0a790ed4c5d36df9b35"
+		}
+	]
+}

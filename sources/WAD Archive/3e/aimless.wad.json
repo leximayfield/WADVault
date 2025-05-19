@@ -1,0 +1,16 @@
+{
+	"uid": "aimless.wad",
+	"name": "Aimless.wad",
+	"description": "Original doom2 deathmatch wad 2 to 4 players probably better with 4. 8 deathmatch starts so you won't know where the one you just killed will come back to life at.",
+	"date": "2014-12-15 21:42:45",
+	"files": [
+		{
+			"filename": "aimless.wad",
+			"size": 368226,
+			"crc": 266779072,
+			"md5": "fa8d3f1854ccc44226ca3cb111b65e37",
+			"sha1": "3e80967b31830225ebee6d4d487a7f5e06947501",
+			"sha256": "55fe827a554ab0d08161ccbb13edf3c7c04112872da035adc2a33763dc43ae89"
+		}
+	]
+}

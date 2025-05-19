@@ -1,0 +1,17 @@
+{
+	"uid": "gangup (2e7107).wad",
+	"name": "Gang Up or Shut Up (It's all I could think of)",
+	"description": "A Deathmatch only wad for Doom2. Not very big, and It's easy to find the other people. It has four cubie holes for each player to start in. Each person gets a shotgun and a chaingun. If your lucky or unlucky you could start in a sealed off room, that teleports you to the fort in the middle. (You can get in from the outside, theres a hint there.) In the fort you can get lots of ammo, butt only two health Bottles. So the poeple outside can gang up on the person inside, or you can just fight it out all the time. Up to you. There is no Exit. Sorry. Couldn't find a fair place to put one.",
+	"version": "2e7107",
+	"date": "2016-02-07 20:35:13",
+	"files": [
+		{
+			"filename": "gangup.wad",
+			"size": 36525,
+			"crc": 1978770611,
+			"md5": "0015f26cb12fa02c8c8f5de865101b83",
+			"sha1": "2e71074f2436757fcf626c88f9383ebfdeb561ce",
+			"sha256": "bc7450391d6160af61ddd986457017b213261eefa6d1a7e99cdcfc6869925507"
+		}
+	]
+}

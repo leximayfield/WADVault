@@ -1,0 +1,16 @@
+{
+	"uid": "spfront.wad",
+	"name": "Space Front (reuploaded)",
+	"description": "You are a Marine stuck in a Military Zone in space and you have to escape it. There are various monsters to kill and obstacles to complete.",
+	"date": "2015-09-15 18:15:38",
+	"files": [
+		{
+			"filename": "spfront.wad",
+			"size": 3864348,
+			"crc": 1889156799,
+			"md5": "6d80b47ae2b28005aaf5e1ffbc4bd20e",
+			"sha1": "e7275c2585f32adb6c5ad63fa908cb3aab9b4aa1",
+			"sha256": "393caf6d4c3f46e5246425795e24c4da4a6820fa9a0f16b8bbae95f88790fde5"
+		}
+	]
+}

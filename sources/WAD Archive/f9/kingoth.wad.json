@@ -1,0 +1,16 @@
+{
+	"uid": "kingoth.wad",
+	"name": "King of the Hill",
+	"description": "King of the hill is a 10 map wad using a custom made game mode made by ACS (for skulltag) The objective is to gain the hill and hold it for as long as you can.",
+	"date": "2013-12-07 12:58:51",
+	"files": [
+		{
+			"filename": "kingoth.wad",
+			"size": 9564785,
+			"crc": 3881930388,
+			"md5": "41884b073e26de7ecf5a75b0f5f010fe",
+			"sha1": "f95c460dcd022bebd681e696f8ff19fcf4589c7f",
+			"sha256": "53ed8b902a4983c9e258ce96861cdad00fc61999a0520ad85c50f46f13e20661"
+		}
+	]
+}

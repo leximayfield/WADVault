@@ -1,0 +1,17 @@
+{
+	"uid": "NOVA (c8ba65).wad",
+	"name": "nova.WAD",
+	"description": "massage your triggerfinger you are in for a treat. Blisters on your finger!",
+	"version": "c8ba65",
+	"date": "2015-01-13 21:45:54",
+	"files": [
+		{
+			"filename": "NOVA.wad",
+			"size": 164109,
+			"crc": 1207020025,
+			"md5": "1cec7fd08717b95ec965f7cbd910fcd4",
+			"sha1": "c8ba65a9391764b85a52f1ab6c841ec4f9e243cc",
+			"sha256": "d276ad536905e2560bde9c3ff5e7d2ed26b3c87c13163be77d93da8bb71954d5"
+		}
+	]
+}

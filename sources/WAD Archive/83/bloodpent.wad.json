@@ -1,0 +1,16 @@
+{
+	"uid": "bloodpent.wad",
+	"name": "Blood Pentagram",
+	"description": "The first level in a planned series of Legacy maps, which is beginninmg to look like a new megawad idea..... I decided to make a small map with a pentagram design that I dreamt up while editing other wads and this is the result. The map contains some basic Fraggle Scripting and a couple monster variarions. There is no story crap at the moment. :p",
+	"date": "2014-12-21 16:44:13",
+	"files": [
+		{
+			"filename": "bloodpent.wad",
+			"size": 536197,
+			"crc": 1432727381,
+			"md5": "c3bc534fbae404bc6415e56e51ba0636",
+			"sha1": "83572d92f6b168a78d60a114175c3c58e484135f",
+			"sha256": "a71d67117628edba7368ee30b425c2c2aa5d184a0d788d7d1434050366ff14df"
+		}
+	]
+}

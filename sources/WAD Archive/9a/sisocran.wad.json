@@ -1,0 +1,16 @@
+{
+	"uid": "sisocran.wad",
+	"name": "Kill the Cybie",
+	"description": "This is a quick single player version of narcosis.wad since it was requested by a few people.",
+	"date": "2014-12-29 17:22:56",
+	"files": [
+		{
+			"filename": "sisocran.wad",
+			"size": 1449114,
+			"crc": 2991865239,
+			"md5": "f8412514ffe33d87ef0efb9dbf774965",
+			"sha1": "9a1992073184144793210115e48d017629caf45f",
+			"sha256": "434e94c9346b6590fb9d0443e1580e080faea2742db03286238e0f6d9ff38f70"
+		}
+	]
+}

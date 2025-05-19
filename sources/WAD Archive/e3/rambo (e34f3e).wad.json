@@ -1,0 +1,17 @@
+{
+	"uid": "rambo (e34f3e).wad",
+	"name": "FIRST BLOOD PART IV",
+	"description": "Well here's the story. (Who cares anyway ?!) Once upon a time four UAC-Marines tried to save the human race by fighting the evil forces of hell. Unfortunately they killed themselves in an ultimate deathmatch, so Earth is doomed. But there is still a chance to survive the attack of Evil. John Rambo himself and his three brothers have agreed to save the day. This Sprite-Patch replaces the four Marines with Rambo-look-alikes, wearing a headband (Player-Color) and sunglasses.",
+	"version": "e34f3e",
+	"date": "2015-09-15 17:58:32",
+	"files": [
+		{
+			"filename": "rambo.wad",
+			"size": 72804,
+			"crc": 3250901450,
+			"md5": "7f90f0f0ae5a908e4d6161b08009bd6a",
+			"sha1": "e34f3e6e3b23a9867ecf71449d853d1db173af7f",
+			"sha256": "2a8c09a1251457c7b9e2d14cc8e742b5fcb0518cc802bb26cf3d5bd1548f6c1d"
+		}
+	]
+}

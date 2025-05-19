@@ -1,0 +1,17 @@
+{
+	"uid": "STARTREK (b77133).wad",
+	"name": "STARTREK.WAD",
+	"description": "This Wad is for DOOM ][ only. Based on the Startrek TNG TV series, it includes all new grafix and sounds and is designed loosely around the configuration of the NCC-1701D Enterprise. We'd like to think that it's almost like being there. I started it because I wanted to have some kind of focus for my next wad, so being a Startrek fan I thought that would be a good idea. It was NEVER originally supposed to be as huge a progect as it turned out to be, but every time I worked on it I thought of another cool idea for it (grin).",
+	"version": "b77133",
+	"date": "2018-04-15 18:22:49",
+	"files": [
+		{
+			"filename": "STARTREK.wad",
+			"size": 1506044,
+			"crc": 2986660167,
+			"md5": "143fcc8a3cd7f2aa4c541b2b56e25b5b",
+			"sha1": "b77133812652f10c9cc2bd6842a2a711a9b76e24",
+			"sha256": "86a8f803d7f885ab9e1367f6e839d22be85ced2f81c19cfd6120baba96509245"
+		}
+	]
+}

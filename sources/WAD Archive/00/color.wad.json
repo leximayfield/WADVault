@@ -1,0 +1,16 @@
+{
+	"uid": "color.wad",
+	"name": "Color changing wad!   It's about time!",
+	"description": "This wad finally changes all the player colors darker. No more complaning about being neon green!",
+	"date": "2015-09-15 13:32:51",
+	"files": [
+		{
+			"filename": "color.wad",
+			"size": 95665,
+			"crc": 3818003170,
+			"md5": "2f8e98157c7e5be76599f03bf3646ac9",
+			"sha1": "00f272a0f751ebf03ae1a16058f98401871fcdd2",
+			"sha256": "47416abe05634b0b497818d76e319ac4fa4691979c36b10c34bd05d8e23192a1"
+		}
+	]
+}

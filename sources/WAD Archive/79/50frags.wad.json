@@ -1,0 +1,16 @@
+{
+	"uid": "50frags.wad",
+	"name": "50 frags",
+	"description": "Small deathmatch wad for lots of frags with a small group.",
+	"date": "2014-12-15 21:33:14",
+	"files": [
+		{
+			"filename": "50frags.wad",
+			"size": 330296,
+			"crc": 2725981169,
+			"md5": "03c034587c5f22274fe8ea2c9d858a9f",
+			"sha1": "79fa4198e0b248dbcea5db095609cc601860661b",
+			"sha256": "880513d4e8d8a33600d581afb7d230a051221d6202c99c3bc5f3337cc9accdf5"
+		}
+	]
+}

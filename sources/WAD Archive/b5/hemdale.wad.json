@@ -1,0 +1,16 @@
+{
+	"uid": "hemdale.wad",
+	"name": "Hemdale",
+	"description": "Decent size Deathmatch level with lots of detail. Should be fun for any amount of players!",
+	"date": "2014-12-15 22:18:32",
+	"files": [
+		{
+			"filename": "hemdale.wad",
+			"size": 78760,
+			"crc": 537316253,
+			"md5": "81b1de04e72c19bd9b2b11824b2dfe28",
+			"sha1": "b5197c84c7d279085f47534e8afd45441fd671d5",
+			"sha256": "a8b30c558d3651d4d2251f7b87e116950f76332addc33291789088c41f35f959"
+		}
+	]
+}

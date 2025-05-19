@@ -1,0 +1,17 @@
+{
+	"uid": "gluckauf (1fab09).wad",
+	"name": "Gluckauf",
+	"description": "Started out with no real plan since this is my first level, ended up quite cohesive though. BTW I like secrets <BG>.",
+	"version": "1fab09",
+	"date": "2015-12-07 07:39:08",
+	"files": [
+		{
+			"filename": "gluckauf.wad",
+			"size": 251784,
+			"crc": 882402179,
+			"md5": "47dc33738ed46b8d727215be45e7f193",
+			"sha1": "1fab09f8b080b39314eb91823a09299670c49913",
+			"sha256": "3b896e8b9fcb02fd96b7ef46ed0ad5798872402bd062873c85c959e33db1a780"
+		}
+	]
+}

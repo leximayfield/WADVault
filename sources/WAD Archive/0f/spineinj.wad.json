@@ -1,0 +1,16 @@
+{
+	"uid": "spineinj.wad",
+	"name": "Spinal Injury",
+	"description": "A little vanilla Doom map, with a gothic theme to it (like I usually seem to do). Should provide about 10 minutes of gameplay, fun or not.",
+	"date": "2014-12-29 17:01:48",
+	"files": [
+		{
+			"filename": "spineinj.wad",
+			"size": 223141,
+			"crc": 225183035,
+			"md5": "059852a18087c02dc941b56b325e311d",
+			"sha1": "0fc8650d2a0b9552e398eac92c8737895718fa64",
+			"sha256": "58a0d86ced3a377b41035d9c698de09c897618da4b371ad0717ea7748e70250c"
+		}
+	]
+}

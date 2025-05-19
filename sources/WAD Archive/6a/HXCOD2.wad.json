@@ -1,0 +1,16 @@
+{
+	"uid": "HXCOD2.wad",
+	"name": "Castle Of Defeat",
+	"description": "A single player and multiplayer .wad for Hexen. You must go in and retake the castle. Be warned, however, this task will not be easy. The castle is well stocked with troops, and there is a Wyvern keeping guard over it. You must find the switches to reveal the exit. You must pay attention at all times. Your life depends on it.",
+	"date": "2014-10-14 21:03:15",
+	"files": [
+		{
+			"filename": "HXCOD2.wad",
+			"size": 238749,
+			"crc": 1115880148,
+			"md5": "a41d2c7dddfcde3c082ad17af32177ac",
+			"sha1": "6a35db803b542b102d1df79a118ee2951cc15fc7",
+			"sha256": "2aa7be06e52b7c906436c461f5e31265d879941cc056f1f2e384a2214d4ab51a"
+		}
+	]
+}

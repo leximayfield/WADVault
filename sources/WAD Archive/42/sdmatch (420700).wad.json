@@ -1,0 +1,17 @@
+{
+	"uid": "sdmatch (420700).wad",
+	"name": "Super DeathMatch (SDMATCH.WAD)",
+	"description": "Wicked DeathMatch level with tons-o-guns-ammo EMAIL me for two ULTRA tips!!! They will benifit you greatly :-).",
+	"version": "420700",
+	"date": "2013-11-02 15:22:26",
+	"files": [
+		{
+			"filename": "sdmatch.wad",
+			"size": 10136,
+			"crc": 1207012430,
+			"md5": "c074938b85a34e37c295c2267dae287a",
+			"sha1": "4207001cb58df0263274a56e254cb52a53135a74",
+			"sha256": "37a091d194f4146d2ad8b59d90f41604094acdb4cb6d7ddc47ba5f85bc1fdd6d"
+		}
+	]
+}

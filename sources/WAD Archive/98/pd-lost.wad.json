@@ -1,0 +1,16 @@
+{
+	"uid": "pd-lost.wad",
+	"name": "The lost wad",
+	"description": "Sixth part of \"The gates\" series (I made a diferent style for this one.)",
+	"date": "2014-12-13 17:24:27",
+	"files": [
+		{
+			"filename": "pd-lost.wad",
+			"size": 330532,
+			"crc": 970988916,
+			"md5": "c84fda40cb7a56a0cfa347c677dee854",
+			"sha1": "98e3f6d2f34882c7cdffd371613005bb6e5da155",
+			"sha256": "52bec0d6b9c3e2f55d67a47fd23226606b8475f55b56a0eebc13cc386ed52a2e"
+		}
+	]
+}

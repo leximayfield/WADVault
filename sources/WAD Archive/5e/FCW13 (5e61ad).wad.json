@@ -1,0 +1,17 @@
+{
+	"uid": "FCW13 (5e61ad).wad",
+	"name": "FOUR CORNERS WAD version 1.3",
+	"description": "One of my first levels (more specifically, it's my third). It's OK, I guess. Good for DeathMatch. And good for 4 players since many things in this level are in fours. This level has a lot of rooms with something special about each corner of the room.",
+	"version": "5e61ad",
+	"date": "2013-11-06 22:33:30",
+	"files": [
+		{
+			"filename": "FCW13.wad",
+			"size": 290262,
+			"crc": 2698755816,
+			"md5": "e0b69fcf26c14735ba9fd854cd9ba137",
+			"sha1": "5e61ad912db2ad06b9f78b02163dd44ad5434a1f",
+			"sha256": "7f2e9958326480f458a3e66d0cd50238019d12b8d039217ee853e80f1799b6b6"
+		}
+	]
+}

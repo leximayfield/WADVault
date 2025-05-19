@@ -1,0 +1,17 @@
+{
+	"uid": "pandora (c5d3b8).wad",
+	"name": "Pandora's Pox",
+	"description": "I've had it sitting around since October, I figure I'm not doing anything more to it, I may as well post it to the public, or at least make beta testing available here on the New Doom forums. It is for the original Doom, multiple difficulties, death matches and co-ops. Death matches should actually be pretty fun for it, there's a frag fest in the center with a cat and mouse hunt around the arena :-) PANDORA'S BOX Synapse: A facility built to hold the Demon inside of the Box. There is an arena built to hold the demon inside of the box. Everything is perfectly alright until creatures arrive to unlease the demon within the box. There are power failures which must be dealt with before the player can reach the arena where the box is held. Naturally the player accidentally releases the demon from its container. With the box open, the player can either try to face what he has released, or run through a subterranian escape route to escape what was inside of the box. ------------------------------------------------------------------------- Its a complex around an arena, with Pandora's box in the center. There are power outtages and the player must open doors via control panels (panels not switches). The player unleashes what's in Pandora's box, and to top it off, the player must contend with those guarding Pandora and the two installations. Finally, with Pandora open, the player must find the way out of the arena back into the complex and escape. There are many tricks, traps, interesting things. Takes me at least 13 minutes to get through and I know where everything is.",
+	"version": "c5d3b8",
+	"date": "2014-12-13 17:24:18",
+	"files": [
+		{
+			"filename": "pandora.wad",
+			"size": 245470,
+			"crc": 138646673,
+			"md5": "e6945bad1ea22651d03eaf8b8afe816c",
+			"sha1": "c5d3b83cbbc0e0a11ef1cc69be496106b046a152",
+			"sha256": "f60a4cc9e71b6e4de67e563ca36826fb4103972e8275105594c6e9227543278e"
+		}
+	]
+}

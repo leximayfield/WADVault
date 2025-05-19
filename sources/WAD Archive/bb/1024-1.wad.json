@@ -1,0 +1,16 @@
+{
+	"uid": "1024-1.wad",
+	"name": "1024",
+	"description": "This was my first real attempt to make 1024 map :) i think map was good for a first 1024 so enjoy it :D now fixed compatilibity issues",
+	"date": "2014-12-20 18:35:14",
+	"files": [
+		{
+			"filename": "1024-1.wad",
+			"size": 180993,
+			"crc": 1521333159,
+			"md5": "1fa2a541ecd8d2b90b7c09ee167356f8",
+			"sha1": "bbf67d3a967571c5549fb92fd70dedf1ccde09db",
+			"sha256": "5732983cce6d81c3555c53296948c4d651cf65adcae2df9a491be47bc0862881"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bfgspaz (261a6a).wad",
+	"name": "BFG SPAZ (DOOM II Deathmatch PWAD)",
+	"description": "I hate the BFG. No skill involved with it. Some players like the mass destruction it causes, so I created this level with those players in mind, and it's actually quite fun. This level was designed to be small, fast and furious. Non-stop fraggin action, even with 2 players.",
+	"version": "261a6a",
+	"date": "2014-12-03 20:11:48",
+	"files": [
+		{
+			"filename": "bfgspaz.wad",
+			"size": 42686,
+			"crc": 74599519,
+			"md5": "e1496fdb401771fbce41fe8661f8536f",
+			"sha1": "261a6ac673cd10a9dd469cc28c36fb32ce64e524",
+			"sha256": "fd266f7dee2751744d9e5969524d7ef734ed0dcf7a2c6e7568b6dc29ab96ffc8"
+		}
+	]
+}

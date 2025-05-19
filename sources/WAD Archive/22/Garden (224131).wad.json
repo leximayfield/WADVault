@@ -1,0 +1,17 @@
+{
+	"uid": "Garden (224131).wad",
+	"name": "The Garden",
+	"description": "Big garden in the middle of castle. Find opponents and quash them.",
+	"version": "224131",
+	"date": "2013-11-02 16:02:13",
+	"files": [
+		{
+			"filename": "Garden.wad",
+			"size": 52211,
+			"crc": 664814122,
+			"md5": "4662166b8d360cd57c726b4c0369f7b6",
+			"sha1": "224131fa5a131a8873e42613e19830755989fa59",
+			"sha256": "969ec8e1c86dee8c97c70398b0f913222b3c093a96ee1f819ae5cdb9c334b8aa"
+		}
+	]
+}

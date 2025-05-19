@@ -1,0 +1,16 @@
+{
+	"uid": "dukefrze.wad",
+	"name": "Duke Nukem's freezer gun for Doom",
+	"description": "This changes the plasma gun into the freezer gun from Duke Nukem 3D. It dosn't freeze people, but it makes a cool plasma gun. There is a .deh patch that comes with this that you have to use, or it will be all screwed up. Also, if you're using Smack My Marine Up, you have to turn transparency off.",
+	"date": "2014-12-10 22:46:29",
+	"files": [
+		{
+			"filename": "dukefrze.wad",
+			"size": 70800,
+			"crc": 2410491257,
+			"md5": "f50237c8513f6e5009c35ec058da2295",
+			"sha1": "7709b1c585e5032a5545e28b1e8180e2f49a259a",
+			"sha256": "aae0803f6d01cda9087537c6f1a1e9d87d7316f640e08b5b1c1e8c54169ce99b"
+		}
+	]
+}

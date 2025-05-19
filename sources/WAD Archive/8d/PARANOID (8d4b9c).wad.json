@@ -1,0 +1,17 @@
+{
+	"uid": "PARANOID (8d4b9c).wad",
+	"name": "Paranoid.WAD",
+	"description": "This Wad was made to challange the average and above average Doom player. Lots of enemies to face, with a couple of surprises along the away.",
+	"version": "8d4b9c",
+	"date": "2013-11-04 20:09:46",
+	"files": [
+		{
+			"filename": "PARANOID.wad",
+			"size": 168539,
+			"crc": 2832647690,
+			"md5": "8964db5e4bb4b0583382d761e07428f3",
+			"sha1": "8d4b9ca5c44f1cf6f249af1ab26e5affaf4058f1",
+			"sha256": "142202e67031e9a526e58e4422968fe0890a58513852ee0c35c71e5f34661663"
+		}
+	]
+}

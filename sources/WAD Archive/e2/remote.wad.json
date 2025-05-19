@@ -1,0 +1,16 @@
+{
+	"uid": "remote.wad",
+	"name": "FreeHeretic E2M1: The Remote Outpost",
+	"description": "My first released Heretic map, to be used as E2M1 of the FreeHeretic project. The overall theme is therefore vaguely similar.",
+	"date": "2014-12-30 11:20:49",
+	"files": [
+		{
+			"filename": "remote.wad",
+			"size": 198706,
+			"crc": 2479091876,
+			"md5": "ed5621471c8bb05b44880992725f46fe",
+			"sha1": "e20b7a906fcafa53bedb42601bfd5c95b13187e3",
+			"sha256": "ee6eeffe21e9741c5cb3198c4c1d6b4895352401c34f0bc558c41e3a28b1ba4c"
+		}
+	]
+}

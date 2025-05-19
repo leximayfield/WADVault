@@ -1,0 +1,16 @@
+{
+	"uid": "basedm1.wad",
+	"name": "Base DM #1",
+	"description": "Base style deathmatch level. Very small and tight... inspired by MAP07 of DooM 2, but better and more detailed. DON'T fall in slime!",
+	"date": "2013-07-26 17:47:53",
+	"files": [
+		{
+			"filename": "basedm1.wad",
+			"size": 1138744,
+			"crc": 3692357247,
+			"md5": "5e14adaf12c22a6adaca95aba7d7beee",
+			"sha1": "5ce8fa78abdcf36dbc2074f46a43efa07f2a0502",
+			"sha256": "5eb1e690d482823d5a45a5b7d33cb1c3f839bc8d1f01591365cac84f932bc33b"
+		}
+	]
+}

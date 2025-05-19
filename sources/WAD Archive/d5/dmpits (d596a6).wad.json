@@ -1,0 +1,17 @@
+{
+	"uid": "dmpits (d596a6).wad",
+	"name": "\"DOOM PITS.\" DMPITS.ZIP",
+	"description": "This is a very early PWAD creation done before DEU allowed for relocating nodes. All that has been done is to change linedef types, textures, sector heights, and monster/thing location. For some reason I get a lot of positive mail of this one.",
+	"version": "d596a6",
+	"date": "2013-11-02 15:13:30",
+	"files": [
+		{
+			"filename": "dmpits.wad",
+			"size": 131373,
+			"crc": 2455743304,
+			"md5": "5acbe387b702ce8ec0f9c627fda54a43",
+			"sha1": "d596a665a9255d00a690152db6747731f51184ab",
+			"sha256": "f789fdb66c5da5b7e8ad31d71fc321e7f72ad359221c5511305bd58dcdac5eaf"
+		}
+	]
+}

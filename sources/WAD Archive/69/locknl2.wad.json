@@ -1,0 +1,16 @@
+{
+	"uid": "locknl2.wad",
+	"name": "Lock N' Load 2",
+	"description": "This is a sequel to my first WAD, Lock N' Load. Sorry old school fans, this WAD requires jumping and crouching.",
+	"date": "2015-01-05 16:39:48",
+	"files": [
+		{
+			"filename": "locknl2.wad",
+			"size": 2462558,
+			"crc": 3271294057,
+			"md5": "763b307f871ec9a1a80870680e509eec",
+			"sha1": "690f0fe92158fe6d3ebeff12944c170980e92fcc",
+			"sha256": "cf2a48a70793490315e12b16cba0909aa58af87da9036adba9aac57e37d7459d"
+		}
+	]
+}

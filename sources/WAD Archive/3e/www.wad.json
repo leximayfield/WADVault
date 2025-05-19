@@ -1,0 +1,16 @@
+{
+	"uid": "www.wad",
+	"name": "WWW.WAD",
+	"description": "This is a little map pack I created.",
+	"date": "2015-09-14 20:40:01",
+	"files": [
+		{
+			"filename": "www.wad",
+			"size": 258379,
+			"crc": 87756134,
+			"md5": "3f52a30736af359a9e1c2195ab4bdc5a",
+			"sha1": "3ebf24a5fb6a8e205ec399231647b0f09671d8fe",
+			"sha256": "4c15a604f41d27eb69c058248760c9274aeb8c07911685e6a8c390aa612feb5d"
+		}
+	]
+}

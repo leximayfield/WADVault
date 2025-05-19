@@ -1,0 +1,16 @@
+{
+	"uid": "blue01.wad",
+	"name": "The Running Man",
+	"description": "This is another small intense deathmatch level. Best suited for altdeath, It contains all of the weapons, a little of health, and no armor. This level features a couple of neat weapon placements (including my own personal favorite, the disarming BFG). Its winding double-back corridors and snipers nest suggest a campers paradise, but instead this level produces intense non-stop frag-fests (just like it's supposed to).",
+	"date": "2014-12-15 22:23:58",
+	"files": [
+		{
+			"filename": "blue01.wad",
+			"size": 21431,
+			"crc": 194407689,
+			"md5": "de0e004503f545d4c355aa1774fcac8b",
+			"sha1": "05af28617c9e933b091de5507764c5e4a18f04bf",
+			"sha256": "36b55a59a7f2454d613beca8f7664334d39b2783481bd71277e1f038968fbc91"
+		}
+	]
+}

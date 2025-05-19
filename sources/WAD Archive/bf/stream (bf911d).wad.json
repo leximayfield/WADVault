@@ -1,0 +1,17 @@
+{
+	"uid": "stream (bf911d).wad",
+	"name": "STREAM.WAD",
+	"description": "Designed to be a deathmatch only level. There no monsters in here (add some if you want) so single player might get dull real quick :-) This is not a very big level, well actually it's quite small but should be fun and fast paced. Just run around and kill your friends !",
+	"version": "bf911d",
+	"date": "2013-11-02 15:47:53",
+	"files": [
+		{
+			"filename": "stream.wad",
+			"size": 29075,
+			"crc": 2159819326,
+			"md5": "1a06edaa06bff38f9d7c893ed6656fbc",
+			"sha1": "bf911d8e486441a07462a79748344b934866cbbf",
+			"sha256": "e75cb6ffc1916d220c47aca882d246787a2af823abd920eea6226b544f2e8090"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vicious.wad",
+	"name": "VICIOUS CIRCLES DEATHMATCH v1.0",
+	"description": "11 new deathmatch levels for DOOM ][. These levels were developed for the original engine v1.9. Some corrections for jumping players and a special 'mlook' sky will hopefully let it work with all existing and upcoming ports. If you notice problems or have any suggestions mail us. VICIOUS will surely soon be updated (Echo is working on a new level).",
+	"date": "2013-04-19 03:03:54",
+	"files": [
+		{
+			"filename": "vicious.wad",
+			"size": 1859900,
+			"crc": 951340608,
+			"md5": "8a65261af689f02b42e68c679d5c992c",
+			"sha1": "9cc2fcec47c0caf65f26ae5feb9a7a1aea5e9f0b",
+			"sha256": "c2e0eea1d6b9d714e5e23eface578a7292e223df9955082c74702aeaab8c9986"
+		}
+	]
+}

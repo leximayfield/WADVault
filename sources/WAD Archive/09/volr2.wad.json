@@ -1,0 +1,16 @@
+{
+	"uid": "volr2.wad",
+	"name": "V.O.L. R2",
+	"description": "This is a remake of V.O.L. (1000 Demons).",
+	"date": "2014-12-29 17:23:42",
+	"files": [
+		{
+			"filename": "volr2.wad",
+			"size": 568479,
+			"crc": 1538274705,
+			"md5": "c234133bae0532e49a9dae8547904cb2",
+			"sha1": "09ead8246d72c6da458a3bf56c2dcf45805b1b5f",
+			"sha256": "0987cf2ba28f22e8d832b44a9d1d7a263b24c9e843adca609d35a058d3529f62"
+		}
+	]
+}

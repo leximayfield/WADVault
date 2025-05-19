@@ -1,0 +1,16 @@
+{
+	"uid": "gilmore.wad",
+	"name": "Happy Gilmore Sound Wad",
+	"description": "New Sounds for doom2 from the movie Happy Gilmore, with some other assorted sounds also.",
+	"date": "2015-09-15 19:24:25",
+	"files": [
+		{
+			"filename": "gilmore.wad",
+			"size": 779297,
+			"crc": 763367066,
+			"md5": "e08c8b8867b8335e7d0c139dc531fcc5",
+			"sha1": "9ee6d43523a3210701f77581504ef57200dc7507",
+			"sha256": "9f23fa09f1dcf7407a984c6876d1ea0aed56b27958a2bfc54429ad9bc711b4e5"
+		}
+	]
+}

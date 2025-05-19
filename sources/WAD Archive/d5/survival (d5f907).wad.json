@@ -1,0 +1,17 @@
+{
+	"uid": "survival (d5f907).wad",
+	"name": "Survival",
+	"description": "This is a Tekken style game for Doom. Written entirely in ACS, this game pits you one on one against an array of Doom monsters.",
+	"version": "d5f907",
+	"date": "2014-12-29 16:27:57",
+	"files": [
+		{
+			"filename": "survival.wad",
+			"size": 68680,
+			"crc": 2211044831,
+			"md5": "48988abf052a36715f3ecd0b1622ecc4",
+			"sha1": "d5f90747837e40be9d2b76be14f7a012b9c9e9ec",
+			"sha256": "49d44394d3f1e1d173b686ee57b51951ce81dda8d1f87886be9c714438f68890"
+		}
+	]
+}

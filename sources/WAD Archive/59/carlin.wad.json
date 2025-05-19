@@ -1,0 +1,16 @@
+{
+	"uid": "carlin.wad",
+	"name": "Carlin.wad",
+	"description": "After a lot of Doom playing I decided it was time to make my own sound wad, so I chose one of my favorite comedians, possibly one of the loudest as well, George Carlin. These sounds change deathmatching into a completely different experience.",
+	"date": "2015-09-15 13:16:17",
+	"files": [
+		{
+			"filename": "carlin.wad",
+			"size": 822672,
+			"crc": 1997646776,
+			"md5": "f1de7523a6b05dc846c5d2817318a7a4",
+			"sha1": "59858224ce615a04db3b6f035a90ef9ff747e2f9",
+			"sha256": "17d37ef038fb00a6c46563dd0e629566a626b5d175e864a77cad6c6557530a3c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "noct.wad",
+	"name": "The Nocturnal Missions",
+	"description": "Faithful recreation of Episodes 4, 5, and 6 of",
+	"date": "2013-09-11 20:04:33",
+	"files": [
+		{
+			"filename": "noct.wad",
+			"size": 7708585,
+			"crc": 3412612297,
+			"md5": "c7d52c2750362d5eec48743c56084cf2",
+			"sha1": "e934e73d6f0c61c86d1d09439b5babc959b449b0",
+			"sha256": "602ece13288809a0ef1e886706cb8ca9de3b8265394618b9e30486f382d928db"
+		}
+	]
+}

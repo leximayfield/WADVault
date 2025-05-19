@@ -1,0 +1,16 @@
+{
+	"uid": "mkmusic.wad",
+	"name": "(title of your masterpiece)",
+	"description": "Mortal Kombat music for DooM II",
+	"date": "2015-09-14 20:04:34",
+	"files": [
+		{
+			"filename": "mkmusic.wad",
+			"size": 657028,
+			"crc": 467537715,
+			"md5": "b54c1c37d4f32b7cccf47c627b0fbe17",
+			"sha1": "c295f033368c78d278ec243c330e3b36c4aa3b70",
+			"sha256": "042e280f59bc7da461762e4056d99426d1bfd7919b47f74b85b55e41ae2a3cfb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hkeep.wad",
+	"name": "Hell Awaits",
+	"description": "\"After leaving Deimos, you found yourself in a strange place: Hell itself. However, it seems that both dimensions are becoming interwoven. It's your last chance to do something. Grab your gun, and pull the triger!\" //******************// My E3M1 replacement. With 3d floors and some special effects.",
+	"date": "2019-05-09 22:00:39",
+	"files": [
+		{
+			"filename": "hkeep.wad",
+			"size": 1042847,
+			"crc": 667098033,
+			"md5": "e3d99d63a5e15cc09ca2b98f9f86e406",
+			"sha1": "c5c093e63e8935f6fa6ac53871fb36a145ae9867",
+			"sha256": "ad2d4b4b0e744554500d16fb5fbc049f729b19b7230478d14dfa05862a50bc94"
+		}
+	]
+}

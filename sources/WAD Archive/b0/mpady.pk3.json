@@ -1,0 +1,16 @@
+{
+	"uid": "mpady.pk3",
+	"name": "Map a Day",
+	"description": "A project that ran trough most of October 2016, an attempt to create one map per day, to create a megawad. Well, I got to map 24, removed one completely for not working, other one is tedious, and thus a secrect. 23 normal maps.",
+	"date": "2018-04-14 20:03:36",
+	"files": [
+		{
+			"filename": "mpady.pk3",
+			"size": 416450,
+			"crc": 1117509799,
+			"md5": "f60864a242f31f3a226e62c1c50ab54c",
+			"sha1": "b09ebe39505f805234766acc4c6b87ee7599e9de",
+			"sha256": "6ede7f776e82eb03fe5f1633c7215d4e41d9e1dc782d21d62a2b07123a4b30af"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "facility (6daea0).wad",
+	"name": "The Facility.",
+	"description": "Requires Doom2",
+	"version": "6daea0",
+	"date": "2014-12-24 17:42:59",
+	"files": [
+		{
+			"filename": "facility.wad",
+			"size": 1168229,
+			"crc": 3139452667,
+			"md5": "83e83ed3b9aecb6219f1c010da4958be",
+			"sha1": "6daea031e0c174bbeeb380e8df89dcf5a80d6893",
+			"sha256": "13876544b9e91e75a1b6c112871df1b202ba5605384c1599f4c83271c0e928c7"
+		}
+	]
+}

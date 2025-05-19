@@ -1,0 +1,16 @@
+{
+	"uid": "hunters.wad",
+	"name": "Hunters test",
+	"description": "An ancient temple holds surprises.",
+	"date": "2014-12-24 18:54:47",
+	"files": [
+		{
+			"filename": "hunters.wad",
+			"size": 479744,
+			"crc": 3104963633,
+			"md5": "981b5b9fc8bc07f5375a2cbd75e31ffb",
+			"sha1": "d6781ebc882379923877d3734c45b2493e8e8596",
+			"sha256": "b535023c78896ff6e31ac377f0d23c112f8081436f110b1f6593c8ceff99f262"
+		}
+	]
+}

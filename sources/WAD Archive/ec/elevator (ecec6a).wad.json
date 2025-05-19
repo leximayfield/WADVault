@@ -1,0 +1,17 @@
+{
+	"uid": "elevator (ecec6a).wad",
+	"name": "Elevator.wad (for Doom 2)",
+	"description": "This level is meant for deathmatch, although it's fun to play by yourself. It features an enormously tall elevator which takes you through the level, made up entirely of terraces and ledges. It has a simplistic design, and although its not one of my best WADs, it's been given high praise by those who've tried it. It's perhaps the only level which covers more vertical ground than horizonatal, giving it some distinction.",
+	"version": "ecec6a",
+	"date": "2014-10-14 21:08:50",
+	"files": [
+		{
+			"filename": "elevator.wad",
+			"size": 32952,
+			"crc": 1185369771,
+			"md5": "e9ca7efbf260707956b99ac50e9cb527",
+			"sha1": "ecec6af838fe96101af66b3f1de36e613c42ad49",
+			"sha256": "7aaf3373f17ed68130e58dd5cccdf826cca47c4c41bdf4d61a3cc05255ff0dad"
+		}
+	]
+}

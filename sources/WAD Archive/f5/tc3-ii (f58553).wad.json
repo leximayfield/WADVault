@@ -1,0 +1,17 @@
+{
+	"uid": "tc3-ii (f58553).wad",
+	"name": "TC3-II,  DeathMatch WAD for DOOM ][",
+	"description": "A four room DeathMatch WAD for Doom ][, there are four upper rooms with 'shoots' to pop into the main rooms. High frags, fast action especially with 4 players! This WAD is small and does not have an exit switch.",
+	"version": "f58553",
+	"date": "2013-11-02 15:49:43",
+	"files": [
+		{
+			"filename": "tc3-ii.wad",
+			"size": 7610,
+			"crc": 507821685,
+			"md5": "add394b33e64fc21b4dc02b9997d2df3",
+			"sha1": "f58553a0f52a555b5db729b4403140def38df02a",
+			"sha256": "3f6ce1ca0a82390a94f1b49a921bf6167836e4a9be27f8cda355d6fc5717dfba"
+		}
+	]
+}

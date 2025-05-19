@@ -1,0 +1,17 @@
+{
+	"uid": "chill (514cc0).wad",
+	"name": "Chill",
+	"description": "CHILL contains four unique and original maps that aim to deliver classic 1-on-1 gameplay with emphasis on item and weapon control and brisk, intricate flow.",
+	"version": "514cc0",
+	"date": "2013-04-20 13:12:55",
+	"files": [
+		{
+			"filename": "chill.wad",
+			"size": 564792,
+			"crc": 2985934347,
+			"md5": "fa2a9b9c0c3f5b6182f689e7e07987e9",
+			"sha1": "514cc044d32e6b2d23537acc96364d57567357bd",
+			"sha256": "6025ece4b236222a1f81abb2073362a959b6ffe5b625cd12084be389dd79d534"
+		}
+	]
+}

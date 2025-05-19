@@ -1,0 +1,16 @@
+{
+	"uid": "fordham.wad",
+	"name": "Fordham Doom",
+	"description": "The layout of this WAD for the Ultimate Doom",
+	"date": "2013-07-09 20:21:13",
+	"files": [
+		{
+			"filename": "fordham.wad",
+			"size": 192485,
+			"crc": 1868609381,
+			"md5": "25ea30f287e2f2d8bd1b57db031616a3",
+			"sha1": "08405143ac46d64abe49d432c6c1f95aeef11331",
+			"sha256": "7cb2ccc1eb293376f510884d93b4548bdefb189826f526f540379e4743c79f2a"
+		}
+	]
+}

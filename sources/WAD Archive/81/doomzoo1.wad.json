@@ -1,0 +1,16 @@
+{
+	"uid": "doomzoo1.wad",
+	"name": "Doom Zoo (part 1)",
+	"description": "One day, one of the UAC marines got board and decided to run-a-muck at the \"DoomZoo\", the more common name of the UAC's compound used to study the monsters from hell. The reserchers won't be happy when they find out!",
+	"date": "2014-12-24 18:54:07",
+	"files": [
+		{
+			"filename": "doomzoo1.wad",
+			"size": 79505,
+			"crc": 4231998078,
+			"md5": "01bbdae9ef35296cc872c91c532c0374",
+			"sha1": "81153abfba38f2595665a1162e8830d6b492e93c",
+			"sha256": "d3e75279defaefe793c5047737fe0ef9287ce39e293f4ed42de39cede7af8bc5"
+		}
+	]
+}

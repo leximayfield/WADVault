@@ -1,0 +1,16 @@
+{
+	"uid": "dmdsacdm.wad",
+	"name": "SacrificeDM",
+	"description": "6 Doom II deathmatch levels for limit-removing source mods.",
+	"date": "2014-12-15 22:20:47",
+	"files": [
+		{
+			"filename": "dmdsacdm.wad",
+			"size": 3380936,
+			"crc": 3827812778,
+			"md5": "4b854d9ad96e6e356bb1a80d722e16e3",
+			"sha1": "0cb4d56ec3d1ae85dff76298fa43470e7d837de6",
+			"sha256": "92bf21d900eacb52150bac28b31ec0832c4938f4751347fb8d4e726f49b16c1b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "MASSEXE.wad",
+	"name": "Mass Extinction",
+	"description": "Full 32-map megawad done in the styles I like the most, E1, E2, Alpha and Doom2 Techbase. the mapset is divided into 4 episodes and it covers 4 geological periods of time, from devonian to triassic, and each map represents an age.",
+	"date": "2019-10-01 23:06:01",
+	"files": [
+		{
+			"filename": "MASSEXE.wad",
+			"size": 12249768,
+			"crc": 3703352618,
+			"md5": "c3bf319fc899774bf698191aa87293f6",
+			"sha1": "799e04a351b81538a0d6a0dfc9c01684139f9727",
+			"sha256": "e8ee2b131e49c964b4738f17e0a82bf47cbb1aba183815fa7a0881e6a80ef3a9"
+		}
+	]
+}

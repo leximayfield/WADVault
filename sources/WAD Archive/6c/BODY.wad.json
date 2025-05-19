@@ -1,0 +1,16 @@
+{
+	"uid": "BODY.wad",
+	"name": "Let The Bodies Fall",
+	"description": "You like episode 1, level 5? I sure do, it is THE best Deathmatch level I have ever found. Even supposed \"made for DM\" levels by others can't stack up. It had problems, though. I fixed those, plus spiced up the graphics by adding many new textures from the registered IWAD. It is okay 1-player, too. A little easy, but how else are you going to practice? It is pretty fun on Nightmare, though. This PWAD will replace the first 4 levels of episode 1 with Let The Bodies Fall. So if the level is running low on health, or you want a true frag count, just end the level. The next level will be Let The Bodies Fall again, just refreshed! Check out BODY.GIF for a complete map of the level, with some labels so you can communicate with other Let The Bodies Fall players easily. There are few differences between E1M5 and this level, but the differences are important(some can only be reached in Deathmatch, or by using the cheat keys).",
+	"date": "2013-11-02 15:20:26",
+	"files": [
+		{
+			"filename": "BODY.wad",
+			"size": 354228,
+			"crc": 1342370695,
+			"md5": "cf260146b603743e89d068fc7bee343b",
+			"sha1": "6c149f9491e6c24219444e0a774af9207c993c38",
+			"sha256": "b9d4c227767b3eddb97d51a6bfc1a98d275764cb167ffacbf136039633f4a131"
+		}
+	]
+}

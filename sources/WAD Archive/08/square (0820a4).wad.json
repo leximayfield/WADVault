@@ -1,0 +1,17 @@
+{
+	"uid": "square (0820a4).wad",
+	"name": "Square of Death!",
+	"description": "This level is so damn good. Very simple : level in the shape of a square. Loads of : to play",
+	"version": "0820a4",
+	"date": "2014-12-15 22:59:37",
+	"files": [
+		{
+			"filename": "square.wad",
+			"size": 14362,
+			"crc": 3580341764,
+			"md5": "8aa7ccb267cdf6b768dc5b7bddc5b7e0",
+			"sha1": "0820a4fed15da0a019ee887baf7bd2da404ac1be",
+			"sha256": "4efe7b5b0b8439ae1772e167bfab71a4bc65bf253937411d52534d77e2018974"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tltemple.wad",
+	"name": "The lost temple",
+	"description": "You have to find the lost temple on the mountain. the map is divided in two parts, the mountain, and the temple.",
+	"date": "2014-12-30 11:17:09",
+	"files": [
+		{
+			"filename": "tltemple.wad",
+			"size": 1005367,
+			"crc": 244259729,
+			"md5": "afedc0b315568df9cf101ec370c2989f",
+			"sha1": "fb7996412c8b9c1c2c3aeebe00ea72808f57410b",
+			"sha256": "605d73f57356939144733272d714ac0306aa64af49452ad2b0133079270fbebf"
+		}
+	]
+}

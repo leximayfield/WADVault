@@ -1,0 +1,17 @@
+{
+	"uid": "ry11ecr (69c32e).wad",
+	"name": "RY11ECR.ZIP (ry11ecr.wad + ry11ecr.txt)",
+	"description": "A deathmatch level, designed originally for 2 player modem, but suitable for 3-4 player network and single player. This started as my first wad, but went through many hours of reworking to look good. Anyway, the central area of this level is a reasonable representation of where I and my regular deathmatch oponnent work in real life, with a DOOM twist, of course. Outside areas and such were added just for fun. We find this a constant favorite for long deathmatch duels, but that may be due to our familiarity with the layout. Hope you find it as much fun. Little attention payed to monsters / difficulty levels, best played with -nomonsters. Please don't flame me about the bigdoor2 textures on most doors, I used the texture because I hate the other available door textures for less that 128 widths. This wad designed for use under version 1.666. Has lots of ammo, so you may or may not want to use -altdeath for respawning. Then again, if you like rocket duels, you might.",
+	"version": "69c32e",
+	"date": "2013-11-02 15:07:21",
+	"files": [
+		{
+			"filename": "ry11ecr.wad",
+			"size": 188787,
+			"crc": 1025654765,
+			"md5": "ed4491db4cad66e395aaa016b21c432e",
+			"sha1": "69c32efa6c23160b58f9bb2faf5b44cf65de7de7",
+			"sha256": "1e1cdf666bc91f558a6010c363b7d3997606e334b775f7f4b25ffa483c9906cd"
+		}
+	]
+}

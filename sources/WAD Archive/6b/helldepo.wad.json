@@ -1,0 +1,16 @@
+{
+	"uid": "helldepo.wad",
+	"name": "Hell Depository",
+	"description": "A hell-themed map made in a few months. It has skulltag textures in the WAD and also a few others. I put quite a lot of detail into this, so I hope you like it!",
+	"date": "2015-09-14 22:25:28",
+	"files": [
+		{
+			"filename": "helldepo.wad",
+			"size": 2824772,
+			"crc": 4142863359,
+			"md5": "b32518ac8c516b1a86a5098d1e6d1aec",
+			"sha1": "6b59672aadc05ae54bd36dc82971f4549402f5f4",
+			"sha256": "aa13340d38d3e172670845be369df3d32ee2240caee0de628449a9b26ecca573"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bung (308bd8).wad",
+	"name": "Bung for Doom2",
+	"description": "Deathmatch for Doom2; no chainsaw. : Nine symetcrical rooms equally stocked with : a backpack and shotgun, surrounded by long : hallway. The exit is along the outside wall : in a secret room.",
+	"version": "308bd8",
+	"date": "2016-02-07 20:37:21",
+	"files": [
+		{
+			"filename": "bung.wad",
+			"size": 24046,
+			"crc": 2737528391,
+			"md5": "b894b92aed668bcd9e3bca59568b976b",
+			"sha1": "308bd83005231a219584fd8f2ef95ecd5ecf321d",
+			"sha256": "3eae349714b434d5d5a5a5b92e22b01cb988937cb7c3870a11a4f9d70c2e7516"
+		}
+	]
+}

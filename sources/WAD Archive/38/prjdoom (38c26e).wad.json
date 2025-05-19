@@ -1,0 +1,17 @@
+{
+	"uid": "prjdoom (38c26e).wad",
+	"name": "Project: Doom (Final)",
+	"description": "This is a remix project I finished recently. Fifty-seven MIDI tracks of remixed/enhanced Doom music, for use in-game.",
+	"version": "38c26e",
+	"date": "2014-03-01 11:57:34",
+	"files": [
+		{
+			"filename": "prjdoom.wad",
+			"size": 2270169,
+			"crc": 528271191,
+			"md5": "c36faae03d5c5d859b173e674de3d906",
+			"sha1": "38c26e970c3ecff223e59160fb2311274c479f2f",
+			"sha256": "6da107bac7361aba5a87dd56e1abf8786428d771c1d5286e4779e8af2e3b2bab"
+		}
+	]
+}

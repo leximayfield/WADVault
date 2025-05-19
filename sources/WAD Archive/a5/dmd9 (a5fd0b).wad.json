@@ -1,0 +1,17 @@
+{
+	"uid": "dmd9 (a5fd0b).wad",
+	"name": "D9.WAD",
+	"description": "D9 is the utimate in Deathmatch level design! Made especialy for the hard core player. Consider it your owne personal dungeon of death! There are two weapons of each type in all levels, no slime pits for those pussy suicide attempts and no monsters. All exits are co-op, so no scaredy cat escapes! This 3 level mini episode is the start of an entire 9 level DM episode! I am curently working on these 6 other levels and will release them upon compleation so enjoy these for now! Also D9 has its reject data rebuilt at a setting of 32 witch should vastly improve the performance on lower end computers.",
+	"version": "a5fd0b",
+	"date": "2013-11-02 15:07:43",
+	"files": [
+		{
+			"filename": "dmd9.wad",
+			"size": 363154,
+			"crc": 3715064475,
+			"md5": "8e0bacf54c16c4ca467349be05a9d3c6",
+			"sha1": "a5fd0bf8cd814c069fcff5ac238b4757920766ff",
+			"sha256": "01450d0658087901f0533ce175b22be578327959891842f4b7a3eecd4cd4a6ec"
+		}
+	]
+}

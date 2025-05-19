@@ -1,0 +1,17 @@
+{
+	"uid": "city1 (b70ca9).wad",
+	"name": "Death City",
+	"description": "This is my second wad it's mainly for deathmatch.",
+	"version": "b70ca9",
+	"date": "2014-12-15 23:07:43",
+	"files": [
+		{
+			"filename": "city1.wad",
+			"size": 187944,
+			"crc": 167888586,
+			"md5": "f186f0e29212821783e87ece4700171f",
+			"sha1": "b70ca91ffa148ae8f6d3c9f89d0bf69a890fa8fc",
+			"sha256": "b39f3226f8b2edbd5c206f951c0dfea79b644dc705612bd407624da1888af45b"
+		}
+	]
+}

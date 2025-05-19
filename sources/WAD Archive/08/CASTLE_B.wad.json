@@ -1,0 +1,16 @@
+{
+	"uid": "CASTLE_B.wad",
+	"name": "Castle Of The Berserkers",
+	"description": "A fortress full of enemies with a wide open area just in front of it. I wouldn't run it on a machine with a CPU slower than a P166; the level is quite huge and a test on a 486/66 showed the limits of that CPU... Use an advanced engine (like ZDoom, Legacy or BOOM) to enjoy the level at best, but please remember to disable the jump feature...",
+	"date": "2014-12-15 22:58:35",
+	"files": [
+		{
+			"filename": "CASTLE_B.wad",
+			"size": 500711,
+			"crc": 3655802225,
+			"md5": "6cda5a6ddb993a35fe7db76cc8674ee6",
+			"sha1": "08709c83de02c02333d5e0b263dd920959926957",
+			"sha256": "64abfaf119ff7585d2f93ead6bd5de10491feca79c450a9f14adaa526a3b679b"
+		}
+	]
+}

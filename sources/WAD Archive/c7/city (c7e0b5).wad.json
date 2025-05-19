@@ -1,0 +1,17 @@
+{
+	"uid": "city (c7e0b5).wad",
+	"name": "The City of Despair",
+	"description": "check this city out",
+	"version": "c7e0b5",
+	"date": "2014-12-15 21:59:41",
+	"files": [
+		{
+			"filename": "city.wad",
+			"size": 300709,
+			"crc": 3579630263,
+			"md5": "d6153dda5ed4aa809d5139dca33fa883",
+			"sha1": "c7e0b555d9338d2d671bc0dc5607c83663b2ee19",
+			"sha256": "f11bc9a5c4bb013336de06e357a554360ae1aab3f1ce125b0a132f5d46311730"
+		}
+	]
+}

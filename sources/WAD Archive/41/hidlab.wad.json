@@ -1,0 +1,16 @@
+{
+	"uid": "hidlab.wad",
+	"name": "Hidden Lab",
+	"description": "My first public wad. Its a lab inside a cave.",
+	"date": "2014-12-18 22:51:11",
+	"files": [
+		{
+			"filename": "hidlab.wad",
+			"size": 47276,
+			"crc": 444486663,
+			"md5": "b8e467e49c58efb7503556d700ab7297",
+			"sha1": "416a7522a55782f0fc5eca2fcdc3f4912276bc05",
+			"sha256": "4100622383fd5f3c7da5fc788f80fe3083d58f4eb6e5432316ef3a686745ebb3"
+		}
+	]
+}

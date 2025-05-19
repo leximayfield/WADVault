@@ -1,0 +1,16 @@
+{
+	"uid": "helix11.wad",
+	"name": "The Grand Arising 1.1",
+	"description": "A multi-themed single player map. The most complex map I built. (666 sectors)",
+	"date": "2015-12-29 12:36:56",
+	"files": [
+		{
+			"filename": "helix11.wad",
+			"size": 666563,
+			"crc": 1054243574,
+			"md5": "68cc640f22aca75a84cadc87fcbb4099",
+			"sha1": "fd6e86bd0489ec5ad5451a16808fc7e32543e2fd",
+			"sha256": "b143ece8f53b68aac73fb2a4e3b74b065d043c3fe6e22e97632eef0e16da0a17"
+		}
+	]
+}

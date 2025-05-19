@@ -1,0 +1,16 @@
+{
+	"uid": "ffactory_.wad",
+	"name": "Frag Factory",
+	"description": "The first-ever ZDaemon 1-on-1 map designed for newschool play. It's a factory with crates, pipes and a raised office. I've gone for all-new graphics and sounds as well as the layout to create something that looks, feels and plays different to normal 1-on-1. Freelook, jumping and PWO/neverswitch are strongly recommended here, play without them and you'll have a disadvantage.",
+	"date": "2013-04-19 01:33:53",
+	"files": [
+		{
+			"filename": "ffactory_.wad",
+			"size": 689426,
+			"crc": 1690187843,
+			"md5": "315cc3173257d8e7b3f712679cb31e21",
+			"sha1": "459feef5de0e7edcf77f0d2b4466ac29c36b9e91",
+			"sha256": "bb746bbfbac830db6a8ded62cbba04416e1b114b6cccf49ee89894e41cda0f74"
+		}
+	]
+}

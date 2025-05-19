@@ -1,0 +1,16 @@
+{
+	"uid": "nprject5.pk3",
+	"name": "Noob Project Part 5- Digital Highway",
+	"description": "The quest for the BFG continues.... into a bright and colorful virtual world, where even ordinary laws of physics may be bent a little at times. Several textures were used from hacx, but due to the limited amount of virtual reality textures Hacx had to offer, I ended up making many of my own (either by creating color variations of textures in hacx, or simply making new textures from scratch.) The story is in game, in the form of skippable cutscenes (except the last one on level three, which is the player's choice to simply quit the game or not by then, since the stats are already shown beforehand.) Therefore, I am not going to monologue in this text file :P. The plot is semi-humorous, since I don't think I could make a completely serious plot. The wad is technically three maps, but it plays as one. Oh yes, I almost forgot to mention this wad can be very difficult.",
+	"date": "2015-01-13 21:35:07",
+	"files": [
+		{
+			"filename": "nprject5.pk3",
+			"size": 19140114,
+			"crc": 4100303440,
+			"md5": "2866736d9f3b8d444c7c39a594b35166",
+			"sha1": "ea343cead73d413eb221676e47aaf0c6667ff24f",
+			"sha256": "23bfb1590dc90245d5e70521d15b4e387ddd04508ecf6285530839c4dba384c2"
+		}
+	]
+}

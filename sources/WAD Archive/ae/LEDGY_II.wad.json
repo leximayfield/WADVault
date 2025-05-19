@@ -1,0 +1,16 @@
+{
+	"uid": "LEDGY_II.wad",
+	"name": "LEDGY FOR DOOM II",
+	"description": "DeathMatch level for DOOM II, designed for DEATHMATCH 2.0 rules. Conversion from original DOOM I level - LEDGY__I.WAD",
+	"date": "2014-10-14 20:58:03",
+	"files": [
+		{
+			"filename": "LEDGY_II.wad",
+			"size": 176147,
+			"crc": 940795018,
+			"md5": "c264dcb1a20fdbb9f6977da752d65387",
+			"sha1": "ae12048caf5995b8f535aee8797f3f7fe0f17c0d",
+			"sha256": "24da98f44d3e25f51a211b1f87f6cd1379ee06e98ec0145da542c491f6751303"
+		}
+	]
+}

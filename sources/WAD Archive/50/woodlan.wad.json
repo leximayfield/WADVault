@@ -1,0 +1,16 @@
+{
+	"uid": "woodlan.wad",
+	"name": "Woodlan School",
+	"description": "Woodlan Junior-Senior High School is a public high school located in Woodburn, Indiana.",
+	"date": "2016-08-12 20:59:01",
+	"files": [
+		{
+			"filename": "woodlan.wad",
+			"size": 407414,
+			"crc": 2775716934,
+			"md5": "21843526d6c59dfb89dbbc43164166db",
+			"sha1": "50ef0040a0d440d30144bf35201ca1ae361a6c90",
+			"sha256": "483274d243f805020e690492695dbb7adc574022e3b8302d22c1a9fdc0d8f624"
+		}
+	]
+}

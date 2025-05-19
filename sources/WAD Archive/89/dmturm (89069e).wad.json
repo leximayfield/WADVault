@@ -1,0 +1,17 @@
+{
+	"uid": "dmturm (89069e).wad",
+	"name": "\"Der Turm\" - DMTURM.WAD - DMTURM.ZIP",
+	"description": "This level is a downsized version of an extremely large level I created which would not save due to \"savegame buffer overrun.\" This level has been tested on 3 different systems and exhibits no such problem.",
+	"version": "89069e",
+	"date": "2013-07-09 20:22:33",
+	"files": [
+		{
+			"filename": "dmturm.wad",
+			"size": 256360,
+			"crc": 1303625039,
+			"md5": "2cc3189615e0525dac8f850762b90f01",
+			"sha1": "89069e9ced2bb947f1bd2aaa79af8e25fb62556a",
+			"sha256": "6338a1058702867fb5e8fa43d4b9fc1a9ca60f9efed03d4064962399adf08ef6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "notso.wad",
+	"name": "Not So Simple",
+	"description": "A much larger, spacious arena for the Dead Simple slot for Doom 2.",
+	"date": "2015-09-14 21:08:41",
+	"files": [
+		{
+			"filename": "notso.wad",
+			"size": 32366,
+			"crc": 2790694907,
+			"md5": "7c89eab94eacb61e0a37595b096c6a6c",
+			"sha1": "ac82f7ae6469d105b256db8b4bae65d2af130d58",
+			"sha256": "f7fe5c3cea078c4472d6b5795a69348c12f862e978dc10633e00fe21e6729e63"
+		}
+	]
+}

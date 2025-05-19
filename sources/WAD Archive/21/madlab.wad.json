@@ -1,0 +1,16 @@
+{
+	"uid": "madlab.wad",
+	"name": "Madlab",
+	"description": "A moderately-sized techbase heavily inspired by Ultimate Doom episode 2 (especially Deimos Lab). The difficulty is easy/medium, and is a 5-10 minute play. This is designed for single player, but functions well in cooperative too. As this is my first release, the map is a bit underdetailed, and was originally completed in May 2005. I made a few changes to it before uploading, but these were mostly cosmetic (light values, textures) so as to keep the 'first map' feel.",
+	"date": "2014-12-14 21:08:38",
+	"files": [
+		{
+			"filename": "madlab.wad",
+			"size": 261725,
+			"crc": 4050635558,
+			"md5": "a0fca80a50d65b19d84615449c4d4cfc",
+			"sha1": "21042325d5af9dc7fae389fc277ce8b8b7abe1c6",
+			"sha256": "bd6c45d022c6431eee4d42e75c6006363d7c7e5cf0eba7d226516b43b7763be5"
+		}
+	]
+}

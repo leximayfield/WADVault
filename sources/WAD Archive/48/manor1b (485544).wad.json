@@ -1,0 +1,17 @@
+{
+	"uid": "manor1b (485544).wad",
+	"name": "The Manor",
+	"description": "This is a revised version of the Manor WAD. I fixed a few bugs and added some textures to the bar room. This is a medium size level. It has plentiful monsters and plenty of ammo and health if you're careful.You must find keys or switches to get to the next area, but very few are hidden.",
+	"version": "485544",
+	"date": "2014-01-07 22:08:36",
+	"files": [
+		{
+			"filename": "manor1b.wad",
+			"size": 329177,
+			"crc": 2503997582,
+			"md5": "e6cc783f27f5cb2fab7a7fe3d5bd8587",
+			"sha1": "485544263b684622806244a6f4d393ee443a6baf",
+			"sha256": "2350366e2da736e822da2e36adc58192133c8333ccc1a35fad0bc4b9eef879ba"
+		}
+	]
+}

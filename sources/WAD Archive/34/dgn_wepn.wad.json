@@ -1,0 +1,16 @@
+{
+	"uid": "dgn_wepn.wad",
+	"name": "D-Gun Weapon Set 1.5",
+	"description": "Anyway, a while back, I downloaded the original D-Gun Weapon set, and I thought it was pretty cool. However, There were a few problems here and there, so I went and fixed some stuff and added some more stuff. Well, here it is. The biggest change from the original is the addition of a new weapon: The Glass Shard Launcher. Also included is a new colormap+playpal to change all the blues to cyan and to make all the greens a bit brighter. ALso, you can think of this as sort of a sneak peek of HELLDOOM, because the Glass Shard Launcher will be present there and the new colormap was copied directly over from HELLDOOM. Also included is a Wad that you'll also want to run if you play this with Zdoom. It makes it look and work better under Zdoom.",
+	"date": "2014-12-10 22:46:38",
+	"files": [
+		{
+			"filename": "dgn_wepn.wad",
+			"size": 439145,
+			"crc": 3047494043,
+			"md5": "9060a96ba0ab3c460b04bbc29920c033",
+			"sha1": "3434d8e442b74833400c79fa7b71c762cee601b4",
+			"sha256": "b0e5df456c3680c6b5f4941200dd1f7e79b8f4a99254349432392c4563dc5ea0"
+		}
+	]
+}

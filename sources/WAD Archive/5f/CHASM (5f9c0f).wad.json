@@ -1,0 +1,17 @@
+{
+	"uid": "CHASM (5f9c0f).wad",
+	"name": "Chasm.wad",
+	"description": "This is the Doom ][ wad file for all types of play. There are no creatures to kill in level 1 or 2.",
+	"version": "5f9c0f",
+	"date": "2014-02-15 16:44:17",
+	"files": [
+		{
+			"filename": "CHASM.wad",
+			"size": 45457,
+			"crc": 2284328917,
+			"md5": "d964a5ea46fff6240d5a75c7f322d4ee",
+			"sha1": "5f9c0f9a0d39c906c1e9f6cbaa591e20d0bdfa48",
+			"sha256": "77f5ebc7d396bbdb52961f25f1ae1c3f807c15f7dd5e929d81421457b76d8bfd"
+		}
+	]
+}

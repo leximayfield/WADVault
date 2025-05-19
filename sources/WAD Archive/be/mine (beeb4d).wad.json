@@ -1,0 +1,17 @@
+{
+	"uid": "mine (beeb4d).wad",
+	"name": "Mineral Mine v.2.0",
+	"description": "A Level Based In A Mine In Peru. Contact Has Been Lost With The Mine. Your Job? Search The Mine And Find Out What's Gone Down, Look For Survivors If A Major Disaster Happened. But Be Careful....",
+	"version": "beeb4d",
+	"date": "2015-09-14 20:24:58",
+	"files": [
+		{
+			"filename": "mine.wad",
+			"size": 117253,
+			"crc": 3939751483,
+			"md5": "eea6b2797e1213df39ba8bc218ddede5",
+			"sha1": "beeb4ded51d6e5a780c4da6284989ef55d3d5435",
+			"sha256": "10fbfe019efffc68eb1cf70f5041fa0cd498b2e3c15e56b427936a2fdbc8dfcc"
+		}
+	]
+}

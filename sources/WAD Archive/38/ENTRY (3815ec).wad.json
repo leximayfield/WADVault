@@ -1,0 +1,17 @@
+{
+	"uid": "ENTRY (3815ec).wad",
+	"name": "entry",
+	"description": "Upon request, a level concentrating on light and shadow, with swinging doors, secret passages, double back ambush sites, and lots of play. Typical of my wads, uses most of available side defs. large level, outside surrounds entire level.",
+	"version": "3815ec",
+	"date": "2014-12-18 22:27:04",
+	"files": [
+		{
+			"filename": "ENTRY.wad",
+			"size": 215442,
+			"crc": 3043556491,
+			"md5": "7d61a45b7dc9afebe32d5565eac86ed5",
+			"sha1": "3815ec91446589ef031dc7e5395ff70f9c97c406",
+			"sha256": "6c6564002d71500fd2107b6a148ba7725ae11a439137f94dd25f07e9f2a1764c"
+		}
+	]
+}

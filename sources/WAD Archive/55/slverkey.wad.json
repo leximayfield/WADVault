@@ -1,0 +1,16 @@
+{
+	"uid": "slverkey.wad",
+	"name": "Red To Silver",
+	"description": "This mod replaces the Red Card with the Silver Card. No DECORATE was used. It is still a Red Card, only recolored. So is the lock via LOCKDEF.",
+	"date": "2014-12-11 22:14:50",
+	"files": [
+		{
+			"filename": "slverkey.wad",
+			"size": 2037,
+			"crc": 4107408776,
+			"md5": "cf967b0ae873802cca1c98af17d008fa",
+			"sha1": "556f99822789cfb7ebb93cce715ea21315769886",
+			"sha256": "f14122eb3bf2966f4242ad86ab94ac57bba1d075f8ccfc6bb62dbe2dfe449a14"
+		}
+	]
+}

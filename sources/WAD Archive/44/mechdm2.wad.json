@@ -1,0 +1,16 @@
+{
+	"uid": "mechdm2.wad",
+	"name": "MechDM2.wad (Metal Death Match II:",
+	"description": "This is a level that can handle more than 2 players, but should not be so big that a two player match gets boring. I should warn you that I use a lot of sectors and line defs to get the lighting how I wanted it to look, so have a fast modem and good Pentium processor if you are going to play over the internet.",
+	"date": "2014-12-15 21:30:15",
+	"files": [
+		{
+			"filename": "mechdm2.wad",
+			"size": 118668,
+			"crc": 2518504045,
+			"md5": "65257f5eb4868a88a76759a7579c03e3",
+			"sha1": "44f18e37da7b170048de5c6d9ad20ff4e4af81fb",
+			"sha256": "fe6a1a4b3634290e2d12d242454513c4ec56985179dcae0e63301d278a2996eb"
+		}
+	]
+}

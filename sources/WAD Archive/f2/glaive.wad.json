@@ -1,0 +1,16 @@
+{
+	"uid": "glaive.wad",
+	"name": "Glaive",
+	"description": "This is my attempt at making 9 maps inspired by one of my favorite megawads, Scythe! Each map is fairly small and should only take a few minutes to beat, but also should be fairly challenging on UV and be fun to blast through. Difficulty settings are supported. Gameplay is classic styled and is designed to be played without jumping.",
+	"date": "2018-06-15 11:31:29",
+	"files": [
+		{
+			"filename": "glaive.wad",
+			"size": 1592490,
+			"crc": 299465713,
+			"md5": "203d83100605000812e5c283a8c2f7b9",
+			"sha1": "f2051755d340fd53047d1ceb42de8a6a0f8d4229",
+			"sha256": "d810b81ceb262d696b498d6e9bffe78cc5ba3c1469872b83e920e3786447e8df"
+		}
+	]
+}

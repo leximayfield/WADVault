@@ -1,0 +1,17 @@
+{
+	"uid": "xenusrev (e25b56).wad",
+	"name": "Xenus revisited",
+	"description": "This is it, you waited for it long time, it's a remake of xenus.wad which sucked balls",
+	"version": "e25b56",
+	"date": "2018-05-28 20:38:48",
+	"files": [
+		{
+			"filename": "xenusrev.wad",
+			"size": 6789902,
+			"crc": 816529355,
+			"md5": "d3e06485a8b7214340e0ed5829b3792b",
+			"sha1": "e25b5641daad8fdd0fc12056a0df2d22801e4197",
+			"sha256": "07c11354446af567d9204f7326cef6bbb3b7a046d907b40dd202c12c84507c18"
+		}
+	]
+}

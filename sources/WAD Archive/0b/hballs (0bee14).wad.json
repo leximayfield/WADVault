@@ -1,0 +1,17 @@
+{
+	"uid": "hballs (0bee14).wad",
+	"name": "Balls of Mystery",
+	"description": "Just a fun one room deathmatch level that demonstrates what can be done with transporters and \"big balls.\"",
+	"version": "0bee14",
+	"date": "2013-11-02 16:40:21",
+	"files": [
+		{
+			"filename": "hballs.wad",
+			"size": 9439,
+			"crc": 1678466124,
+			"md5": "20009c024a08dd4c658c2d479ee76721",
+			"sha1": "0bee14127819baba1eb07a0acec69f48d8a71412",
+			"sha256": "5e122a5a9d6e733bd9ffb3adbcbc06b9ff0a3296b73b8c3d5f913c5485406952"
+		}
+	]
+}

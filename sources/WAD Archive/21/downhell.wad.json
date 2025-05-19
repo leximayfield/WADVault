@@ -1,0 +1,16 @@
+{
+	"uid": "downhell.wad",
+	"name": "Downhell",
+	"description": "Map 28 has been replaced by one challenging map. Also, I have placed an uv-max demo, made by Heretic, in the archive. Do you have any time when Hell goes down? Could you fight against Hellspawn?",
+	"date": "2014-12-24 19:10:35",
+	"files": [
+		{
+			"filename": "downhell.wad",
+			"size": 490165,
+			"crc": 564061189,
+			"md5": "a27c0b83d6dbe2a17feb940e300ed610",
+			"sha1": "211218d35a64078d2efeb0e3bbbfd0e8d9b02ddf",
+			"sha256": "37d6829928ca37ee1837a10e12219d28f97f2d02d9d582fbfc976e0c4eb6280e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "pcbunker.wad",
+	"name": "Processing Bunker",
+	"description": "This is a relatively large level aimed at challenging gameplay but don't expect anything insane like Hell Revealed. Its dark, its tense but its beatable. Use your berserk whenever you can to save ammo and secrets should help you vastly. Watch your back because hit scan enemies are abundant in base levels and this is no exception. This map has been designed to overlap, with very little symmetry. Most of the layout was planned on paper... something I rarely do. So lock and load and clear out the haunted Processing Bunker before it clears you to a graveyard.",
+	"date": "2014-12-29 08:49:34",
+	"files": [
+		{
+			"filename": "pcbunker.wad",
+			"size": 1161003,
+			"crc": 446031416,
+			"md5": "1c65d4631df2a385897b3513d8b1adef",
+			"sha1": "8f57987969bfd14dad21602363a9547ede678c3a",
+			"sha256": "4977f1a25c1c205e191a58b89b4b388a5656a16032b6bca201c585dead02608b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dm-deck1.wad",
+	"name": "DM-Deck1",
+	"description": "\"The team of engineers and construction personnel behind the deathmatch facility Deck16 were but a wet spot in their parents' bed when the sounds of plasma cannons and rocket launchers were echoing the dark corridors of Deck1!\"",
+	"date": "2014-12-13 17:44:56",
+	"files": [
+		{
+			"filename": "dm-deck1.wad",
+			"size": 108329,
+			"crc": 684687939,
+			"md5": "d0711a9e31c1cf8b604e2b8ff5e3051a",
+			"sha1": "0ab772cbc2246c7e2d5c86c6e77481d6d87ff154",
+			"sha256": "a8821ed19e9974df31c5c535368d35b935818245cd2c1ff742cf566d99876a2f"
+		}
+	]
+}

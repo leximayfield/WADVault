@@ -1,0 +1,17 @@
+{
+	"uid": "quirul (bc6fe3).wad",
+	"name": "QUIRUL.WAD",
+	"description": "QUIRUL.WAD is a DEATHMATCH pwad for you low weapon lovers...",
+	"version": "bc6fe3",
+	"date": "2013-11-02 15:38:28",
+	"files": [
+		{
+			"filename": "quirul.wad",
+			"size": 22910,
+			"crc": 3427859343,
+			"md5": "5d0966180204b1c329b433bdd45da614",
+			"sha1": "bc6fe366e8c79248aa248025d49e71e1dbe1d834",
+			"sha256": "79166f3103e3646ac49eb24047416471ec591440dbce5378029bfa3aa98b4c65"
+		}
+	]
+}

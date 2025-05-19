@@ -1,0 +1,16 @@
+{
+	"uid": "pointofnoreturn.wad",
+	"name": "Point of No Return",
+	"description": "This is a one level add-on for Doom2 using the sourceport ZDoom. The atmosphere is intended to be foreboding and very akin to PSX Doom and Final Doom, so don't be surprised to see a lot of darkness in this level. Some ZDoom features included is some sprite things, transparencies, fog and colored lighting. Hopefully you'll feel the tension and atmosphere immerse you. At first this level was meant to be a map04 tribute, and you'll probably see that. But at a certain point it deviates from that into a diffrent style, perhaps more reminiscent of Doom64. The level itself is a security outpost which demons have overrun and later you notice more and more evidence of this...",
+	"date": "2014-12-29 09:10:47",
+	"files": [
+		{
+			"filename": "pointofnoreturn.wad",
+			"size": 4081839,
+			"crc": 3739710447,
+			"md5": "1720eb2ce704cbf11d3aefca36b8dc20",
+			"sha1": "66fc85cf6df5e3e915425d775305f03b9426ddd3",
+			"sha256": "e6c627333bf84be9b59970553d01bbdb7cfe7d8e9c265c45c4ea18634303ee6d"
+		}
+	]
+}

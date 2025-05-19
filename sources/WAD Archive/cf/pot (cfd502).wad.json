@@ -1,0 +1,17 @@
+{
+	"uid": "pot (cfd502).wad",
+	"name": "The Pot-O-Boilin' Frags",
+	"description": "Large room in the middle, where all the : action is. Several raised ledges around : the perimeter of this room, where the start : points, and the weapons are. Also some : connecting passages around the outside. : We have literally hundreds of hours on this : level. It's fast. IT ROCKS. Nuff said.",
+	"version": "cfd502",
+	"date": "2013-11-02 15:20:33",
+	"files": [
+		{
+			"filename": "pot.wad",
+			"size": 57487,
+			"crc": 3452179349,
+			"md5": "3af5462d158725cd07453a5529af79b2",
+			"sha1": "cfd5021bc0ed421ec8c97e0c37d13927c32517af",
+			"sha256": "b0193440e2f398a14c9830c1250d34b595e19962dfbc495f32bc6558d9cc5375"
+		}
+	]
+}

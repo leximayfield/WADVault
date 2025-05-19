@@ -1,0 +1,17 @@
+{
+	"uid": "ambush (c0189a).wad",
+	"name": "Ambush",
+	"description": "Deathmatch level with some cool visual effects.",
+	"version": "c0189a",
+	"date": "2013-11-02 17:10:43",
+	"files": [
+		{
+			"filename": "ambush.wad",
+			"size": 388642,
+			"crc": 4288026287,
+			"md5": "8f5760d3fca534a6e57c647da0769b16",
+			"sha1": "c0189acb348a119b31565d51917f29c18ab7c6b2",
+			"sha256": "dfbf209f5b8b3db5b0cc3132681e468dd4e4e1660908941e59cac2f14d7b5a8f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gs_e4m1r.wad",
+	"name": "E4M1 - Reincarnated",
+	"description": "This is a remake of E4M1 level of The Ultimate Doom. I rethought the structure of the level, added some more atmosphere, monsters, and details.",
+	"date": "2015-09-14 20:34:32",
+	"files": [
+		{
+			"filename": "gs_e4m1r.wad",
+			"size": 496509,
+			"crc": 296176541,
+			"md5": "90d92724bbcf2e2e674f6db3312f0736",
+			"sha1": "c155387b9738400b5cc76e70c70f54f66790be13",
+			"sha256": "b6098cc900916378444afb4c15cc7032d5ee7c56e3f23868ff84a7bb54930793"
+		}
+	]
+}

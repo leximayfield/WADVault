@@ -1,0 +1,16 @@
+{
+	"uid": "coast.wad",
+	"name": "Coastal Fortress",
+	"description": "Title explains it all, a level set in a fortress by the coast. It takes around 6 minutes to complete, and is designed to be played on ultra-violence. I'm not good at descriptions.",
+	"date": "2016-04-05 22:43:15",
+	"files": [
+		{
+			"filename": "coast.wad",
+			"size": 451525,
+			"crc": 2283760373,
+			"md5": "ec752ba51e30078f7fcbf36f753ad666",
+			"sha1": "c16b0421a117682b988164c32fe83e3fd49925ed",
+			"sha256": "481969ca0bd2edc786c0d78f17f433fa78a531337ae78372079b7508e6250e07"
+		}
+	]
+}

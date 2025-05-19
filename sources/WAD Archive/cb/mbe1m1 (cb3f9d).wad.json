@@ -1,0 +1,17 @@
+{
+	"uid": "mbe1m1 (cb3f9d).wad",
+	"name": "E1M1",
+	"description": "My first wad. It's a remake of the original E1M1 with alot more enemies, weapons, and secret areas.",
+	"version": "cb3f9d",
+	"date": "2013-11-04 20:06:36",
+	"files": [
+		{
+			"filename": "mbe1m1.wad",
+			"size": 74694,
+			"crc": 2359535754,
+			"md5": "5501a72735bd224e2638afdcc9a5db19",
+			"sha1": "cb3f9ddd57e3e16311f5ea4ab9099a2476784ea8",
+			"sha256": "81912707d158dffa1aa46820d64232eff3146d3cd4c37a0787d0bf3f29b27fac"
+		}
+	]
+}

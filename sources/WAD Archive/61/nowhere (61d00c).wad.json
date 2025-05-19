@@ -1,0 +1,17 @@
+{
+	"uid": "nowhere (61d00c).wad",
+	"name": "VILLA",
+	"description": "A set of 9 deathmatch maps for Doom/ Ultimate Doom. Replaces Episode 3. This is my first set of maps, finished back in 1994. I never uploaded it because it was far from perfect. However, lately I have been getting requests for it.",
+	"version": "61d00c",
+	"date": "2014-12-13 12:51:16",
+	"files": [
+		{
+			"filename": "nowhere.wad",
+			"size": 628239,
+			"crc": 1633545777,
+			"md5": "57f1fdea08fa88f204e3711ea3f082b8",
+			"sha1": "61d00c71bb8ef74281e932ea060b0f436c69bfc5",
+			"sha256": "afcf59d3ecbb7137aeba436e8cf56f150d9955b0a0c148c1c7664f80acec551b"
+		}
+	]
+}

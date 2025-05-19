@@ -1,0 +1,16 @@
+{
+	"uid": "frags.wad",
+	"name": "The Frag Rooms",
+	"description": "Different versions of map 08 from J_room4",
+	"date": "2013-11-02 15:37:56",
+	"files": [
+		{
+			"filename": "frags.wad",
+			"size": 56588,
+			"crc": 2504948265,
+			"md5": "843f8b901b8ee90f8478d703a36ffd44",
+			"sha1": "e56ba38ab674608f655992d342fffc245e792613",
+			"sha256": "d200cdf14713907dc32728e51654eb0199c7f7f07885ee4242061f0691f0b666"
+		}
+	]
+}

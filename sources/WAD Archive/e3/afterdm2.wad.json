@@ -1,0 +1,16 @@
+{
+	"uid": "afterdm2.wad",
+	"name": "After Doom ][",
+	"description": "This is the first .WAD I've decided to try and distribute properly, although I have done others in the past and some are almost as good. (So read on knowing that this is not one of those ones with a severe case of Tutti-Fruity (There is a tiny amount or a case full of cybers) This is meant for Deathmatch V2.0, although single player is possible ... if you really want.",
+	"date": "2014-12-15 21:48:57",
+	"files": [
+		{
+			"filename": "afterdm2.wad",
+			"size": 91724,
+			"crc": 2821182764,
+			"md5": "f321392b108ecc4ff017a8e3b46b4c94",
+			"sha1": "e3df82cc6d55cdd8bd2e37589a1bac2ccfc4761b",
+			"sha256": "00a0b4a88a84767f3990fb1f13b911c7a980c9746fe263fa63efb87cbb4ffef3"
+		}
+	]
+}

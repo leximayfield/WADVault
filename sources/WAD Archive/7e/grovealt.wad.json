@@ -1,0 +1,16 @@
+{
+	"uid": "grovealt.wad",
+	"name": "GROVE - ALTERNATE",
+	"description": "This is an more user-friendly version of Grove I did. The reason its called Grove-Alternate is that its an alternate version, not a generally optimised one - in that, sure the frame rate is better, but I had to sacrifice some graphical goodness. You can't see other light sources and other things through the trees anymore, which is a big shame since I loved that, it made it more mysteriously magical (for me, anyway). Okay- there are at least two instances were you still CAN still see some stuff through trees, but thats it. Also in the last 'room', you can't see the bridge of 'Grove Central'. Basically, nothing is really connected in that way- you can't see other places through the trees. And that sux. When you have the vision visors on, the trees look horrible- you can see the tree walls that I had to put up in a lot of places to hide the close sky. Its like Diet Grove, it is easier on your stomach, but it just doesn't taste as good.",
+	"date": "2014-12-22 18:53:22",
+	"files": [
+		{
+			"filename": "grovealt.wad",
+			"size": 1963192,
+			"crc": 3093946867,
+			"md5": "e37a861d88927dac6566f60b90933215",
+			"sha1": "7e3f6b087e24495e83112ba439fd3110665dee04",
+			"sha256": "b21759ad7188497e9d00a746015cd8a3d56627dd260909f318feb92069cf7fc6"
+		}
+	]
+}

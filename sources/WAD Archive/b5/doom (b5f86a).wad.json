@@ -1,0 +1,16 @@
+{
+	"uid": "doom (b5f86a).wad",
+	"name": "Doom v1.2",
+	"version": "b5f86a",
+	"date": "2013-11-02 15:18:54",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 10399316,
+			"crc": 2782562608,
+			"md5": "792fd1fea023d61210857089a7c1e351",
+			"sha1": "b5f86a559642a2b3bdfb8a75e91c8da97f057fe6",
+			"sha256": "819e699a79bd06cb15ddf30dfd69d2043fe6217e04f98ba6385a86e5ea6f81e7"
+		}
+	]
+}

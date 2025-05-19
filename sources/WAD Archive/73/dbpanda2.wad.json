@@ -1,0 +1,16 @@
+{
+	"uid": "dbpanda2.wad",
+	"name": "Dragonsbrethren's Pandemonium",
+	"description": "This was my submission to an E3 project Hellbent started where we'd try to duplicate the look and play style of E3M3: Pandemonium without paying homage to the original. The project never received many submissions and I decided to release this as stand alone after nearly a year of inactivity. This map, like the original, was initially designed as a Tom Hall style techbase. The original E3M3 looks like it was literally in the middle of being retextured when Doom was released, so I tried to keep that same feel in this map. I think mine's a bit more hellish looking than the original.",
+	"date": "2014-12-13 12:40:13",
+	"files": [
+		{
+			"filename": "dbpanda2.wad",
+			"size": 110169,
+			"crc": 95934879,
+			"md5": "cbeacaa3b8d1706d9bd760d2cdf94286",
+			"sha1": "73cf3b2a2dbaf5f78da0dfe36a980d4038e3b103",
+			"sha256": "5260e29219cd5d1d5401dfbc833ac7693ac6123aa357ded02e99ed233c6fa45b"
+		}
+	]
+}

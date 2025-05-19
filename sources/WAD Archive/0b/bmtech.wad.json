@@ -1,0 +1,16 @@
+{
+	"uid": "bmtech.wad",
+	"name": "Brick Metal Techbase",
+	"description": "Exactly what it says on the tin. A serious wad inspired by a playthrough of some levels I reviewed for /newstuff.",
+	"date": "2014-12-21 17:00:33",
+	"files": [
+		{
+			"filename": "bmtech.wad",
+			"size": 234704,
+			"crc": 634718138,
+			"md5": "2a0160dbd7831143a6e3b35f8e2661ce",
+			"sha1": "0b74cde6978a384e3eea18893db4adb26399fd52",
+			"sha256": "5696e784e7675f58219367b766ec47fa99f0283cfeedb46f0100ab746e5ffb59"
+		}
+	]
+}

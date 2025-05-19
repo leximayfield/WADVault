@@ -1,0 +1,17 @@
+{
+	"uid": "Overrun (f86851).wad",
+	"name": "Overrun",
+	"description": "A classic-Doom-style map. It's my first attempt at creating a reasonably-detailed and completely playable map. I've played around in editors before, but never made anything worth mentioning and never released anything I made. So this is my first release.",
+	"version": "f86851",
+	"date": "2015-09-15 19:25:50",
+	"files": [
+		{
+			"filename": "Overrun.wad",
+			"size": 282089,
+			"crc": 3675721343,
+			"md5": "afb1ccf2f6b816e6a69399eca148cb7d",
+			"sha1": "f86851d2236be65ab75d04b1ef6c30b3896fb551",
+			"sha256": "92329993359231bb2fff32f6e5188446cdf81528a9cb58d90ffbfd1c18f2e02a"
+		}
+	]
+}

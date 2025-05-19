@@ -1,0 +1,17 @@
+{
+	"uid": "demiless (0570be).wad",
+	"name": "DEMILESS.WAD",
+	"description": "This level is a recreation of an old west town. There are a ton of new graphics and a new sound. Check out the windows! (hint: try shooting them) All weapons are present (except the BFG) in large numbers with tons-o-ammo. There is a small maze (in the corral). There is a prize in the livery (attached to the corral) but to get in you must negotiate the maze where you will be vulnerable.",
+	"version": "0570be",
+	"date": "2014-01-07 21:52:03",
+	"files": [
+		{
+			"filename": "demiless.wad",
+			"size": 433480,
+			"crc": 138026356,
+			"md5": "5f5a65a50578ec0ccf1c267a7d9afe5b",
+			"sha1": "0570be46e198e275a2915f63e84ae575f2dd4096",
+			"sha256": "10f366323f7eb2b7f3912d95c4db024ba524921fd1df4d8f348f30084e6ba3a8"
+		}
+	]
+}

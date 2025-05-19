@@ -1,0 +1,16 @@
+{
+	"uid": "grnrock.wad",
+	"name": "GREENROCK",
+	"description": "Single player level set in a rock-made environment. There is also some open spaces.",
+	"date": "2014-12-18 23:08:03",
+	"files": [
+		{
+			"filename": "grnrock.wad",
+			"size": 139812,
+			"crc": 2880073289,
+			"md5": "15b6ee2ffdaf9910e9e3bc67b216be95",
+			"sha1": "473d16d8fb7fe21aa8c9b5346d81f38eebcde105",
+			"sha256": "12de9fc77661d1017b86e88b02dc1c5dce32d09454b0d10fed309738381b21b3"
+		}
+	]
+}

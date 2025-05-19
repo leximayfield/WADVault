@@ -1,0 +1,16 @@
+{
+	"uid": "groan.wad",
+	"name": "Groan...",
+	"description": "A normal or co-operative wad with some good rooms and new sound FX.",
+	"date": "2014-12-18 22:49:00",
+	"files": [
+		{
+			"filename": "groan.wad",
+			"size": 262343,
+			"crc": 2560806571,
+			"md5": "92366f5be6a5af3af9f18fcdd9c39b7c",
+			"sha1": "dc21122e6598f4530e474bbe183ba709d3ea00f8",
+			"sha256": "c2697259551ba0bacf0e12b67428405e7e8f98b425e5a14a3ce24e3ab5cf210d"
+		}
+	]
+}

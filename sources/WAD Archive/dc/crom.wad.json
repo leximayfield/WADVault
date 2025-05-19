@@ -1,0 +1,16 @@
+{
+	"uid": "crom.wad",
+	"name": "Crypt of Madness",
+	"description": "Crypt of Madness is a medium-hard hell-style map with plenty of action and is one of my first wads. Unfortunately, it's not really made for coop play, and it uses some Skulltag/Zandronum resources, so you'll need that.",
+	"date": "2014-12-21 16:50:55",
+	"files": [
+		{
+			"filename": "crom.wad",
+			"size": 15052122,
+			"crc": 1014498603,
+			"md5": "3ee1a08c2b26e70eb686528623b83e84",
+			"sha1": "dc0e56488381c08c966ff3ef19d024d15b6ad40f",
+			"sha256": "fab317d4b672c1241b2da472ea151449bb32c195643c00a86f93439d0e99c636"
+		}
+	]
+}

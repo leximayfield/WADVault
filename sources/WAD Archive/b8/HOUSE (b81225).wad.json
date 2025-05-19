@@ -1,0 +1,17 @@
+{
+	"uid": "HOUSE (b81225).wad",
+	"name": "HOUSE.WAD (Actually a small village)",
+	"description": "Cool Deathmatch PWAD for Registered Heretic This PWAD has an open area with several houses and other buildings, complete with furniture (even toilets - nothing's better than having a friend's guts explode all over the toilet!). There are all kinds of windows that make it easy to snipe your friends and hide before they see you. The exit is hidden out of the way so nobody accidentally leaves before the other players are ready. There are a few monsters that tend to sneak up on you while you're shooting at your friends (just to make it interesting). If you don't like them, turn them off.",
+	"version": "b81225",
+	"date": "2014-10-28 21:51:51",
+	"files": [
+		{
+			"filename": "HOUSE.wad",
+			"size": 135867,
+			"crc": 2450526704,
+			"md5": "fb5b7ec590db3e026320d0ec9c5f55bd",
+			"sha1": "b812250c5a8c8d3fdc9f3670f9e75bd2243514a6",
+			"sha256": "e5db939ed68d6bcaa481beceba2bc89cf646e639ee84aace198d8e77b688b7bb"
+		}
+	]
+}

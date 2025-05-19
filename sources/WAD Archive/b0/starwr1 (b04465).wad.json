@@ -1,0 +1,17 @@
+{
+	"uid": "starwr1 (b04465).wad",
+	"name": "STARWAR1.WAD",
+	"description": "The DEATH STAR!!! Based on blueprints of a set built for the movie and as well as information contained in the SW RPG. This level includes the chasm Luke and Leia swang across, the elevators Luke, Han, and Chewie entered on their way to the detention level (sorry, these don't work, I ran out of sectors), and the large corridor with the blast doors. The blueprints covered 1/6 of the level, so I had to make up the rest. This is probably the first of many Star Wars levels I will do, and I will eventually replace this level's textures with my own.",
+	"version": "b04465",
+	"date": "2013-11-02 15:17:37",
+	"files": [
+		{
+			"filename": "starwr1.wad",
+			"size": 288572,
+			"crc": 1005808037,
+			"md5": "c8f78b05961eb5d129f879682164a554",
+			"sha1": "b044652c0b15c3114f13d01d5669e7574db5ffc4",
+			"sha256": "7e37ad72e5653c8d04f73fc1d451be61f9a8ec0cd00e8794395a4e69c2263487"
+		}
+	]
+}

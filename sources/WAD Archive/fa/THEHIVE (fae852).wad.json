@@ -1,0 +1,17 @@
+{
+	"uid": "THEHIVE (fae852).wad",
+	"name": "The Demons' Hive",
+	"description": "They're back. This time it's not the moons they are after, but Mars itself. There is a hive/colony on the surface, and you (lucky you!) have been chosen to lead the attack. But your company never made it down, and you are the only one left. You have some explaining to do.",
+	"version": "fae852",
+	"date": "2013-11-02 15:23:32",
+	"files": [
+		{
+			"filename": "THEHIVE.wad",
+			"size": 379685,
+			"crc": 240730722,
+			"md5": "ae28252311f1204dabe70b88a5c1542d",
+			"sha1": "fae85208e8de15d3bc040a27c926abd1eae0e33c",
+			"sha256": "c4a33adfcef9622e7ccfceaa4328a62aa1c9daac4fb952061e49ca74add9b10a"
+		}
+	]
+}

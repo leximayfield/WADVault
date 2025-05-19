@@ -1,0 +1,16 @@
+{
+	"uid": "c_down.wad",
+	"name": "Crackdown",
+	"description": "It's a duel map frag the other player.",
+	"date": "2014-12-15 21:44:29",
+	"files": [
+		{
+			"filename": "c_down.wad",
+			"size": 6616685,
+			"crc": 524468664,
+			"md5": "65d12f270545abc07a68f72b0e4c5131",
+			"sha1": "b9b9e0a5f05e996fd7f2eae50daf165daad2fa3d",
+			"sha256": "b86f2c04f2e82c1f9ff28bd2558b9c374ff36f55a5a09b83ca677e59ed63352a"
+		}
+	]
+}

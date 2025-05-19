@@ -1,0 +1,17 @@
+{
+	"uid": "peace (70f234).wad",
+	"name": "PEACE.WAD",
+	"description": "A DEATHMATCH ONLY level for professional deathmatch players ! It's small and very fast. There are all weapons and an exit. The level is based on shadows2, but there is almost everything changed. We began to modify shadows2.wad for our own purpose only, but the result was to good to keep it unpublished (and we spent to much time now to rebuild the level from scratch).",
+	"version": "70f234",
+	"date": "2013-11-02 15:38:21",
+	"files": [
+		{
+			"filename": "peace.wad",
+			"size": 47233,
+			"crc": 3832555831,
+			"md5": "3ab086d72e5de93814addb7a6a1ff6e4",
+			"sha1": "70f234e230c1ef6a6543ae839dcf3b2dd4b39666",
+			"sha256": "73b7571d465ee3ad1df27c800e8a313ac70575e9a0c87fa395fa3ada95e6919b"
+		}
+	]
+}

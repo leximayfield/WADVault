@@ -1,0 +1,17 @@
+{
+	"uid": "jptr_fix (3f249f).wad",
+	"name": "The Unofficial DOOM: THE LOST EPISODES fix (version 2, corrected by N_A)",
+	"description": "JPTR_FIX.WAD This will replace all intermission level name graphics with DOOM: THE LOST EPISODES level names found in THE LOST EPISODES OF DOOM book. And for THE ULTIMATE DOOM the episode title \"Thy Flesh Consumed\" is adjusted and adds a new menu bar. JPTR_FIX.BEX This changes map names in automap and replaces text at the end of each episode with adjusted quotes from THE LOST EPISODES OF DOOM book (pages p.107, 154, and 200). Version 2 fixes end-episode text replacements in the BEX file not being recognized in Boom and its derivatives - Never_Again",
+	"version": "3f249f",
+	"date": "2018-04-02 17:51:10",
+	"files": [
+		{
+			"filename": "jptr_fix.wad",
+			"size": 203168,
+			"crc": 3855747102,
+			"md5": "cca8a0b36bae1aa5b6339a300eab0b8d",
+			"sha1": "3f249fee53855e9ae1cb7c919db1e5d0ec6b15f4",
+			"sha256": "79011d23f7d44e4674352c9d4c8d66e09726c814a4c69def2c2e88b90536f7a6"
+		}
+	]
+}

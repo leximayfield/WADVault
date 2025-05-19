@@ -1,0 +1,16 @@
+{
+	"uid": "mechdm.wad",
+	"name": "MechDM.wad (Metal Death Match:",
+	"description": "This is a small level made only for two players. Metal-related textures abound this simple map. The lighting mostly dim or dark, but there are lamps and openings to let in sun light where needed.",
+	"date": "2014-12-15 21:21:19",
+	"files": [
+		{
+			"filename": "mechdm.wad",
+			"size": 196292,
+			"crc": 3357138378,
+			"md5": "54f7db8e0c8c2b22d917177914c55aaa",
+			"sha1": "1ad662e3797afaa8ba299e3e4516be5bc7867f5c",
+			"sha256": "b717ce2a2e9eeb1a7e3a532a7fd57cbb9c4c27dc93022784699c83186d9fc9f8"
+		}
+	]
+}

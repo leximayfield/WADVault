@@ -1,0 +1,17 @@
+{
+	"uid": "ENTRY (9e426f).wad",
+	"name": "Entry",
+	"description": "A tribute to Entryway, the first level of Doom II: Hell on Earth.",
+	"version": "9e426f",
+	"date": "2014-12-18 22:59:41",
+	"files": [
+		{
+			"filename": "ENTRY.wad",
+			"size": 133250,
+			"crc": 3155861570,
+			"md5": "c6cfb557fb5abef6b25a362103ccf617",
+			"sha1": "9e426fd3be34450087aecb32e6a809568e3a32ff",
+			"sha256": "6897f9089e449f922a6723f8180a03e3df1ef9df3e896fdd9dacdab024d29d53"
+		}
+	]
+}

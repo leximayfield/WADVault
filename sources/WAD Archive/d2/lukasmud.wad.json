@@ -1,0 +1,16 @@
+{
+	"uid": "lukasmud.wad",
+	"name": "LUKASMUD.WAD",
+	"description": "LUKASMUD.WAD is a patch file for DOOM II. It contains 3 porno pics for 31-th and 32-th levels and replaces Cybermonster. To play, unzip the LUKASMUD.ZIP file in your DoomII directory, then at the command-line enter INSTALL.BAT After installing, run LUKASMUD.BAT and enjoy",
+	"date": "2015-09-15 13:18:15",
+	"files": [
+		{
+			"filename": "lukasmud.wad",
+			"size": 437636,
+			"crc": 1821477832,
+			"md5": "8b521dffbeba6f570ffd0061440f0f49",
+			"sha1": "d287f47c552f626e42f5c5e968c8b8cd6e6b4348",
+			"sha256": "38001b2623cdca464ad9ff5373e26cae3cebe016d60f592cdc7873bb806d475c"
+		}
+	]
+}

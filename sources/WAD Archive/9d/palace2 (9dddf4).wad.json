@@ -1,0 +1,17 @@
+{
+	"uid": "palace2 (9dddf4).wad",
+	"name": "King's Palace (release 2)",
+	"description": "You are in for a nasty surprise!",
+	"version": "9dddf4",
+	"date": "2014-04-30 21:17:23",
+	"files": [
+		{
+			"filename": "palace2.wad",
+			"size": 37257,
+			"crc": 657869892,
+			"md5": "2a7300ec42a262c783027871c26d0865",
+			"sha1": "9dddf4c513c757f2869abbe6a9e3e3b2d4818097",
+			"sha256": "cf306b0968917dbdaf55d561e714db6704e2154d430774af2bcc76ac122457c5"
+		}
+	]
+}

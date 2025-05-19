@@ -1,0 +1,16 @@
+{
+	"uid": "thetalabs.wad",
+	"name": "Theta Labs",
+	"description": "A 3 level map with a techno/hellish theme for the first level, hellish with a small bit of techno on the second, and the third level is reserved for a new boss. Contains some new sounds.",
+	"date": "2014-12-29 17:05:26",
+	"files": [
+		{
+			"filename": "thetalabs.wad",
+			"size": 16253493,
+			"crc": 33103133,
+			"md5": "633630757f75106618163990ca81751f",
+			"sha1": "337cd9eaea5149961628caaa6cb24c8a54d785f9",
+			"sha256": "bf3193e73da7a4cd648b8eaad6e9472b2a8c5349bd6545ad95320ad6cd9e56ec"
+		}
+	]
+}

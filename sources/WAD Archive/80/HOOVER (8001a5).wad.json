@@ -1,0 +1,17 @@
+{
+	"uid": "HOOVER (8001a5).wad",
+	"name": "Hoover Dam",
+	"description": "A large new level for Doom 2. I've tried to create something really unique with this level. E-mail me and tell me what you think.",
+	"version": "8001a5",
+	"date": "2013-11-03 17:43:26",
+	"files": [
+		{
+			"filename": "HOOVER.wad",
+			"size": 259213,
+			"crc": 2550944854,
+			"md5": "41370f3d727bda633da7d1181efb5049",
+			"sha1": "8001a580c652fdae1d05f8cc59e5a44f83aa8dab",
+			"sha256": "051e302ae0a5a2f0f1d5f89cdbf19118cfd152664d5b8470a7c34a6519a49182"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "buzz01 (a2c6e4).wad",
+	"name": "Buzzard's Delight level 1 ~~~~~~~~~~~~~~~~~",
+	"description": "Replacement level for MAP01 for Doom II There is no particular theme or story for this wad it's just designed to give the average (skilled) Doom player a hour or two of extreme killing pleasure.",
+	"version": "a2c6e4",
+	"date": "2016-02-07 20:35:09",
+	"files": [
+		{
+			"filename": "buzz01.wad",
+			"size": 225845,
+			"crc": 1708928978,
+			"md5": "d20a76026c423fc3bf311e446092640b",
+			"sha1": "a2c6e42b0db5e02943ed50099ce74ebcb79d574a",
+			"sha256": "d18eb01a07671ffa2f0a18154c5510ba6f6376e9d21e4d7b45b0426ca45d3550"
+		}
+	]
+}

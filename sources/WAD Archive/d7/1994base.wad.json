@@ -1,0 +1,16 @@
+{
+	"uid": "1994base.wad",
+	"name": "Nostalgia series: 1994 base",
+	"description": "This is the first map of a serious series. I want to make some tributes to all styles of mapping. I made this level according to 1994 canons such as low detail and only a weapon available (shotgun). In a secret cave I wrote the name of the best (in my humble opinion) wads made in 1994 that changed my lifestyle. The numbers in brackets are the \"id\" at /idgames.",
+	"date": "2014-12-13 17:25:46",
+	"files": [
+		{
+			"filename": "1994base.wad",
+			"size": 249519,
+			"crc": 1430926771,
+			"md5": "fa7dce592e126c2ddcbe87fabc9ffe26",
+			"sha1": "d7a848fd06f4767e4f39a7602432ea2ee068a235",
+			"sha256": "882286ad6297f378a00884b90d8dfe63681beaea8f6d57923f86d0291dd3ac59"
+		}
+	]
+}

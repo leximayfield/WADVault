@@ -1,0 +1,17 @@
+{
+	"uid": "JOBE (ccc846).wad",
+	"name": "Jobe",
+	"description": "Since this was my first level, it contains a bit of everything. Traps, a few constructions, I came up with and experiments with light levels and effects. Thus, it is quite linear and therefore probably not very suited for deathmatch. But I haven't tried so far... Well, I don't like the level anymore, after playing it over and over again, so it is time to release it. Hope you enjoy it!",
+	"version": "ccc846",
+	"date": "2013-11-04 20:11:24",
+	"files": [
+		{
+			"filename": "JOBE.wad",
+			"size": 284087,
+			"crc": 1451047809,
+			"md5": "bdf79242561741cd0939e667270a6154",
+			"sha1": "ccc846b0bc29b591f971c1cc8e4cdb9cc9f660ba",
+			"sha256": "3209f433fbdb286f503cfe35dbcb01aaa8417000f4ab34a0b9d5916256c21f25"
+		}
+	]
+}

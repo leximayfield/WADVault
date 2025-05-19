@@ -1,0 +1,16 @@
+{
+	"uid": "year_22.wad",
+	"name": "Year 22 -A Rock and a Hard Place-",
+	"description": "No wonder that warp facility was abandoned; it was overrun by the dead and the damned! With your fists, armor and helmet covered in demonic blood, you spy the structure in the center of the base. The description of the base by your superiors included many details, more than you ever needed to know; a white pad with four pentagrams on it was not one of them. Sighing, you approach the pad, and give it a gentle tap with your foot. After all, if nothing seems to be powering it, nothing's going to happen, right? Wrong. In the blink of an eye, you find yourself in what can charitably be called a canyon. In front of you, you see a rusted, metal tower, carrying a keycard which glistens in the light, nearby of which are the remains of an unlucky soldier. Behind you, you hear the sound of rushing water. You quickly notice two things that are a bit off. One, the rocks supporting the teleport pad are identical to the ones in that base. The other is that while you've only aged a few seconds, it feels like a whole year has passed. With a tight grip on your guns, you step down, and then up to find that the pad no longer works. With a sigh, you decide to head past the tower to investigate. If you ever find a way back home, you're gonna have a /lot/ of explaining to do. * * * This is the sequel to 2008's Year 21 -The Vanishing Point-. The WAD is built such that if you load it after YEAR_21.WAD on the command line, you can play this and the previous level in order. Thus, it's on MAP02. There's even a level name graphic for the previous level in case you do this. Anyway, this rocky region is /much/ more difficult than the previous level, with fiendish mobs that battle you in tight quarters. Skill levels are implemented, so if you're having trouble taking the hellspawn down, just play the level on Hurt Me Plenty or lower. Nevertheless, it can be completed whether or not you start from scratch, or get here from Year 21. A little hint: It's best to leave the first group of monsters alone till you get a better weapon. In case you're wondering, this was meant to be a 24-hour speedmap on my 22nd birthday, similar to the previous level, but numerous interruptions (apart from my family's celebration) conspired to make the attempt a failure. Namely, the tendency for the original Doom Builder to crash when entering 3D Mode. A lot. In spite of all this, I promised myself to finish it before the end of the year. Then, on July 27, the original version was obliterated by an unexpected wipe of the hard drive it was stored on. Soon, I set about recreating this level from memory, this time using Doom Builder 2, and in less than 24 hours, I finished doing so. And then, in September, the computer itself got messed up, but fortunately, I was able to save that version of the level. In late December, I finally finished it. So there you have it. Anyway, enjoy the level!",
+	"date": "2014-12-29 15:30:53",
+	"files": [
+		{
+			"filename": "year_22.wad",
+			"size": 778070,
+			"crc": 3925445860,
+			"md5": "380655f1693ca010e075bc3a24146354",
+			"sha1": "b06889316d630fd26e5c3a448627bccbb375ad0f",
+			"sha256": "f817b24c6a8740b019f230151664c2860932ad5ea5b6548e8d2a7e1fb4c172c0"
+		}
+	]
+}

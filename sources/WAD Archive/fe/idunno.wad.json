@@ -1,0 +1,16 @@
+{
+	"uid": "idunno.wad",
+	"name": "I Dunno",
+	"description": "This is my Freedoom map. I never had anything reviewed in the newstuff chronicles thingy on Doomworld, and I figure it'll be a while before Freedoom is released. This is the standalone version so you don't need the Freedoom wad to play it, tho it couldn't hoit.",
+	"date": "2014-12-24 19:25:45",
+	"files": [
+		{
+			"filename": "idunno.wad",
+			"size": 1017420,
+			"crc": 81209274,
+			"md5": "6b217f09a037acbd7d0d227f0354326d",
+			"sha1": "fe261a379f91bfb99b30d59503ec8dcd0cb02735",
+			"sha256": "f76485494c223d598199ffa28f8903a9c3dfec222d0b7c94aa770c3f39b1d57d"
+		}
+	]
+}

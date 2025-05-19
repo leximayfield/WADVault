@@ -1,0 +1,16 @@
+{
+	"uid": "dreams.wad",
+	"name": "Dreams",
+	"description": "Another standard 3-key, single or cooperative, shoot-em-up, keep you running, multi level, ass kick blazer!",
+	"date": "2014-12-18 22:42:29",
+	"files": [
+		{
+			"filename": "dreams.wad",
+			"size": 172479,
+			"crc": 3594697635,
+			"md5": "ce544c88e0c9b439199ebf7284a7b6c9",
+			"sha1": "46da72cdf78e24c4b358dd1758259d21d54179a1",
+			"sha256": "2e6baf0e462d3af49c109bbfc3b685d411d5f3ad7bd17d768500f1dbe3dbdd16"
+		}
+	]
+}

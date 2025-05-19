@@ -1,0 +1,16 @@
+{
+	"uid": "ndm2.wad",
+	"name": "Night DeathMatch 2",
+	"description": "This is a DeathMatch only level. You need ZdooM to play it. Hehe, hit the button that says \"Launch\" to fry everybody in the weapons pit.",
+	"date": "2014-12-15 22:06:14",
+	"files": [
+		{
+			"filename": "ndm2.wad",
+			"size": 172284,
+			"crc": 3353457719,
+			"md5": "3446d3ee2362e608e085662a558c7037",
+			"sha1": "204adcad04616f73da20ff36ae012e6a87383a53",
+			"sha256": "f1be82f176f896f285f1e0d2978611fd08c80f3cd0c745a20a030d05296549fd"
+		}
+	]
+}

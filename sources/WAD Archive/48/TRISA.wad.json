@@ -1,0 +1,16 @@
+{
+	"uid": "TRISA.wad",
+	"name": "TRISA.WAD for MAP01  DOOM2",
+	"description": "DOOM2 DEATHMATCH OR CO-OP WAD",
+	"date": "2013-11-02 15:56:27",
+	"files": [
+		{
+			"filename": "TRISA.wad",
+			"size": 173104,
+			"crc": 202042623,
+			"md5": "273ed3bcec74bee69cdf23b5a4a2c496",
+			"sha1": "4857a75b5bce4200ce8d5a9a0bc0546b9ff36ee1",
+			"sha256": "0b4562991e9b8ecfc2351dc0f35339d4ecd36c64d0069aa32198d604351712b7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "aquaadv (d95403).wad",
+	"name": "An Aquarius199 Adventure",
+	"description": "Upon a weapons outpost in a remote region, you encounter Aqua himself. What comes after is anyone's guess.",
+	"version": "d95403",
+	"date": "2014-12-21 16:25:08",
+	"files": [
+		{
+			"filename": "aquaadv.wad",
+			"size": 8341325,
+			"crc": 3341281848,
+			"md5": "c4c8e84c7ff37722ebdd9945a4bdb947",
+			"sha1": "d95403645c243a6e714335d45e11fcc599bbfdb6",
+			"sha256": "507341b40b2056c603a6e0f3abd5e1bcbc62dfda7f4fa87f5c8273b47c2b6d57"
+		}
+	]
+}

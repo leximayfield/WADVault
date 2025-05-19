@@ -1,0 +1,16 @@
+{
+	"uid": "ic2003.wad",
+	"name": "IC DooM 2003 : 'Yet More DooMing' *Bug Fix*",
+	"description": "This is a single level, Single Player/Co-Op wad. Turned out to be pretty damn big and probably quite tough, though I have made a bit of an effort to make it easier on 'I don't want to Die' and 'Hurt me Plenty'. Personally I think the level plays better on these settings.",
+	"date": "2014-12-18 22:44:49",
+	"files": [
+		{
+			"filename": "ic2003.wad",
+			"size": 479250,
+			"crc": 509963162,
+			"md5": "385927b261ff334987988bba1823200f",
+			"sha1": "8ea0e1d5dab4a3ab9c21f8ce8c80c7899674aa08",
+			"sha256": "c511e5c6a9078b950388301f275ef5bdc57e73e48c0fd128cf66fc93810e1089"
+		}
+	]
+}

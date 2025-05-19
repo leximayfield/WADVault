@@ -1,0 +1,16 @@
+{
+	"uid": "uworld.wad",
+	"name": "UWORLD.WAD",
+	"description": "This is my first level. I wish I would have started on this a bit later, then this would be a Doom II WAD. Anyway, the Underworld has a few rooms that are packed with baddies, so be careful where you step; and if you do, be ready (patient) for what comes around the corner! There are a few unmarked secrets, but you can find those when you get the computer map. Try to make it easier on yourself by activating the crushing ceiling BEFORE you enter the crossfire room! (Please drop me some mail and tell me what you think! Any comments or suggestions are welcome!)",
+	"date": "2013-11-02 15:26:22",
+	"files": [
+		{
+			"filename": "uworld.wad",
+			"size": 393920,
+			"crc": 978302693,
+			"md5": "5d94f968f7be71561e73c64cee076ff1",
+			"sha1": "ebaabd00f75b9d3dd14a599a94dcd239d3246c90",
+			"sha256": "5dd9d53b8f35a0b220d6e564be9a6899eeba04c43d19bb6c81927484277e92ef"
+		}
+	]
+}

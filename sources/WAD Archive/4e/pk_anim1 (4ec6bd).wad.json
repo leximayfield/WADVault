@@ -1,0 +1,17 @@
+{
+	"uid": "pk_anim1 (4ec6bd).wad",
+	"name": "PerK's Smoother Weapon Animations Enhanced (Standard Edition)",
+	"description": "If you know the mod by Per Kristian for the Doom weapons to improve their animations, then you can imagine what this is about: It's almost the same, but the following improvements have been implemented compared to the original PerK mod: - Fists: now also with gloves - Pistol: light from the left (like original), visible arm - Chainsaw: has more idle frames - Shotgun: improved muzzleflash, reload frames optimized - Super Shotgun: missing hand for one frame added, minor tweaks for two frames - Chaingun: rotation/firing behavior fixed - Plasmagun: two additional frames while firing - BFG 9000: now also has smooth animations",
+	"version": "4ec6bd",
+	"date": "2013-09-11 20:21:11",
+	"files": [
+		{
+			"filename": "pk_anim1.wad",
+			"size": 591876,
+			"crc": 2935684612,
+			"md5": "418bbe0e41c2615d236d017b54f760ab",
+			"sha1": "4ec6bd7f6ad2606797dd3bddae148a09209fd04e",
+			"sha256": "ea7ee054feed0b6ca480aac7c6a15204749faaf9eff2e0ad84a0a6db89ee5f1a"
+		}
+	]
+}

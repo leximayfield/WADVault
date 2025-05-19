@@ -1,0 +1,17 @@
+{
+	"uid": "crater (c61fe6).wad",
+	"name": "Docking Crater Alpha",
+	"description": "Huge. Structured. Kinda cool. My best yet?",
+	"version": "c61fe6",
+	"date": "2015-12-07 13:24:46",
+	"files": [
+		{
+			"filename": "crater.wad",
+			"size": 303429,
+			"crc": 2210629835,
+			"md5": "26a3861588fdb97ccf2535d700ad302f",
+			"sha1": "c61fe61d3f8e07bbd285ccce6a29b01dd6ec768b",
+			"sha256": "4da9de5a310213e8fc5ec046ae5b0c1e88c18ebc963d549786212ebe18c9693a"
+		}
+	]
+}

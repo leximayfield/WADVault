@@ -1,0 +1,16 @@
+{
+	"uid": "cinema.wad",
+	"name": "\"The Cinema of Death\" v2.0",
+	"description": "This massive project is a result of two years worth of work and was my first computer game project. It serves no purpose, except to show myself what I could do if I tried. If you need help beating the level, check out Cinema Doom's homepage here: http://www.beldar.com/~jld/cinema/index.html",
+	"date": "2018-04-15 18:30:40",
+	"files": [
+		{
+			"filename": "cinema.wad",
+			"size": 556125,
+			"crc": 2508730733,
+			"md5": "4c5c1e148a5927269e1f54cf50dfad65",
+			"sha1": "5d8c4bb947ffe68434c3c9197168fce64eca89cf",
+			"sha256": "92767d1dbf619759e280b55579655cdaf360b91f1bfcae8d744ce00f648af2c5"
+		}
+	]
+}

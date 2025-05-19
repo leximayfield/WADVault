@@ -1,0 +1,17 @@
+{
+	"uid": "F (08695c).wad",
+	"name": "f.wad",
+	"description": "This level was primarily designed with death-match in mind, but makes a fast-paced one player level as well. Personally, I think the death-match levels that are out there don't have enough monsters to kill. There'll be plenty of time to frag each other when you meet up, after clearing a couple rooms yourself. NOT recommended for the beginning doomer!",
+	"version": "08695c",
+	"date": "2014-08-30 14:29:54",
+	"files": [
+		{
+			"filename": "F.wad",
+			"size": 267356,
+			"crc": 2754042670,
+			"md5": "82c44b2d81ad2cdb04b029a19e9f1642",
+			"sha1": "08695cbc61af903b6dafa98e44b811883aa2bc94",
+			"sha256": "9c34c05652b7e4184511bf5e212b21ae9ada8239834fa7aa6920e665bb55a972"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "clinto07.wad",
+	"name": "Warwick",
+	"description": "This level was originally called castle.wad. I took it, modified it, retextured it, and rereleased it as Warwick.wad",
+	"date": "2013-11-04 19:24:40",
+	"files": [
+		{
+			"filename": "clinto07.wad",
+			"size": 186926,
+			"crc": 3263105693,
+			"md5": "bdaa68c1831f07d07fb9bdc7328a4d0e",
+			"sha1": "eb58b84ec8fb5a7f50cada7904eef385bcfd3c76",
+			"sha256": "2c6a1d0edcdd70da75a3375e1243e1dc97066f7075bdda3dddfcc9c672570dda"
+		}
+	]
+}

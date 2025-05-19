@@ -1,0 +1,17 @@
+{
+	"uid": "valley (6eac59).wad",
+	"name": "Valley",
+	"description": "The valley outpost has been infested with evil. Gather the keys and watch your back. This one is pretty tough but there is plenty of ammo and health to see you through. You don't have to kill everything to get out, but it's alot more satisfying.",
+	"version": "6eac59",
+	"date": "2015-01-14 22:58:59",
+	"files": [
+		{
+			"filename": "valley.wad",
+			"size": 256194,
+			"crc": 3229003302,
+			"md5": "a952f06b2bf82c4747411230e94bc151",
+			"sha1": "6eac59ece9b0b53131b78bef54cc7cfffa47ce56",
+			"sha256": "6a5af43bea47e897a3c680ce3ed469e88f2d8b2330d4f7b216c88dc7a8ed17d3"
+		}
+	]
+}

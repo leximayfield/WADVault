@@ -1,0 +1,17 @@
+{
+	"uid": "ABATTRD2 (64076e).wad",
+	"name": "ABATTOIR",
+	"description": "DEATHMATCH ONLY!!! Abattoir was originally designed for DOOM1, it was based on a version of CROSS.WAD I always enjoyed \"The Cross\" as a good warm up level, so I cleaned up the textures and added a bit on to it. If you've never played \"The Cross\" or \"Abattoir\" before, its a high frag count level for deathmatching. There are two tunnels off the main center room at different heights from each other. This allows you to jump across walls before jumping down into the main frag pit. At the bottom of the pit there are two cages filled with Barons, they can't get out, you can't get in, so try it w/o the -nomonsters. There are two other rooms at the bottom, one contains a blue flamer and the other is a proper exit room which \"CROSS.WAD\" didn't have. I didn't really enlarge the level, its roughly the same size as \"CROSS.WAD\", I just added rooms in between the existing areas.",
+	"version": "64076e",
+	"date": "2013-11-03 17:46:12",
+	"files": [
+		{
+			"filename": "ABATTRD2.wad",
+			"size": 13213,
+			"crc": 2737247570,
+			"md5": "b906939b19aa339ad4551f6e8ef15b43",
+			"sha1": "64076eaafdc91410049b9c43f1e9afbdc04b6a71",
+			"sha256": "942d86e951c92fe594c0ee72e318ff85fb9043062d810d82400e70c720ff7748"
+		}
+	]
+}

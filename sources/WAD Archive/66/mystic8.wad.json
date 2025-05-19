@@ -1,0 +1,16 @@
+{
+	"uid": "mystic8.wad",
+	"name": "M Y S T I C 8",
+	"description": "Small to medium sized for Single Player, but can be fun in deathmatch. Trippy sci-fi looking level with 3D floors and some zero gravity areas. (use the jump key)",
+	"date": "2015-01-13 21:32:32",
+	"files": [
+		{
+			"filename": "mystic8.wad",
+			"size": 725415,
+			"crc": 1067367636,
+			"md5": "533ba6d228c20e09ade00f8c16378a65",
+			"sha1": "66701ed35331ddea496107504e5e13f4e3f07dce",
+			"sha256": "da58efc65608ea1b8bf21e123ef59ca4490dac903376cf44d00bf7b536a6e399"
+		}
+	]
+}

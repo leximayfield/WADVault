@@ -1,0 +1,17 @@
+{
+	"uid": "autosave (200a84).wad",
+	"name": "Autosave Utility Wad",
+	"description": "Just a little utility wad that autosaves after any interval you want.",
+	"version": "200a84",
+	"date": "2015-09-14 20:04:28",
+	"files": [
+		{
+			"filename": "autosave.wad",
+			"size": 1070,
+			"crc": 1713748071,
+			"md5": "d1cbd34d51de68a7005bcd798b2c731e",
+			"sha1": "200a8485243cb14e0ac6ea22c77191262184f5ec",
+			"sha256": "4cb711f919413897e2a42ccae7c5b12f4703d679e26bd236bc4025ce182ec9d8"
+		}
+	]
+}

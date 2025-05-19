@@ -1,0 +1,16 @@
+{
+	"uid": "fldog.wad",
+	"name": "Fields of Glory",
+	"description": "8-level mappack, created to look as natural as possible within traditional doom level pool. Features a short journey from zombie-filled trade outpost down to the realm of another invasion-loving demon.",
+	"date": "2014-12-22 18:48:20",
+	"files": [
+		{
+			"filename": "fldog.wad",
+			"size": 1818287,
+			"crc": 3706795203,
+			"md5": "4afd6440db64209069c8f95a10c8f121",
+			"sha1": "d9f841368220c445874037512206c3c4da0514d3",
+			"sha256": "d1cf1ea02adc10f73ae6ef7754c24aa41fe4189967bb7718a573287ec748bbd4"
+		}
+	]
+}

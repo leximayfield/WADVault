@@ -1,0 +1,16 @@
+{
+	"uid": "necrotex.wad",
+	"name": "Necrodome Textures",
+	"description": "78 textures from Necrodome. Includes many skies.",
+	"date": "2015-09-15 13:15:17",
+	"files": [
+		{
+			"filename": "necrotex.wad",
+			"size": 2386304,
+			"crc": 1430800402,
+			"md5": "f873e0a61494c1b347531a9c7af81e02",
+			"sha1": "e494d4963d95b7f2f8961bd05bd10d40f1145ae8",
+			"sha256": "69f6b4a7e9cb358cdf228b1186c270232e7451b8def00c7240b6bfc7c33c15a7"
+		}
+	]
+}

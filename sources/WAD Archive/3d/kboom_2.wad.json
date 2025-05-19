@@ -1,0 +1,16 @@
+{
+	"uid": "kboom_2.wad",
+	"name": "kboom series",
+	"description": "This is the same WAD as kmetl_13, but reworked for BOOM. This WAD lots of little details that would be vis-plane errors in the old DOOM2. Be prepaired for silent enemy teleports, too. There are NO large rooms, which makes this one run smooth.",
+	"date": "2015-01-05 16:31:41",
+	"files": [
+		{
+			"filename": "kboom_2.wad",
+			"size": 279962,
+			"crc": 2835529735,
+			"md5": "cf050374160c1afa57b0d57818cafd53",
+			"sha1": "3d0f3899d64446d0d255923740635301bae89f91",
+			"sha256": "214bbebd687c63ff98233a845dabbb05684e72f0c45cb57d4332484f7f1c9de2"
+		}
+	]
+}

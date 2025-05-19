@@ -1,0 +1,16 @@
+{
+	"uid": "VILLAMEX.wad",
+	"name": "villaMex",
+	"description": "This is a big wad and has many monsters but it also has enough health and ammo to beat it. The fights are fair and you have plenty of room to move around.",
+	"date": "2015-01-14 22:54:03",
+	"files": [
+		{
+			"filename": "VILLAMEX.wad",
+			"size": 497523,
+			"crc": 739727668,
+			"md5": "8aed13fccf6e04f9b3c8ad22cb43309f",
+			"sha1": "2fb713fcb5f95e5f77f340f869224850372c435d",
+			"sha256": "d85a64a7d668c908e1ecf6aa33edb013f9438445c3919ecc7e6fa2a73ee09421"
+		}
+	]
+}

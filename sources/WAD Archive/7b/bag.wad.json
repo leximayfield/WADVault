@@ -1,0 +1,16 @@
+{
+	"uid": "bag.wad",
+	"name": "BaG",
+	"description": "A small level for Doom 2 and the first map i ever put some time into",
+	"date": "2018-04-14 19:57:30",
+	"files": [
+		{
+			"filename": "bag.wad",
+			"size": 1221177,
+			"crc": 2851380765,
+			"md5": "75c7cf0fd0064e956ed9ef277c76a1aa",
+			"sha1": "7bc498c77300e65dce1d23d63a2185c5bf90de67",
+			"sha256": "1aa1a4cc0de1329c98920293ddbe0480a205dcd4f60a243fa6620355e694ab5b"
+		}
+	]
+}

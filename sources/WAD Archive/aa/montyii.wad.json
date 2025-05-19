@@ -1,0 +1,15 @@
+{
+	"uid": "montyii.wad",
+	"description": "Doom II Deathmatch wad for 2-4 players. Plays ok as a single. It's my first effort and I would appreciate any feedback. (I built it about a year and a half ago for Doom I but never released it)",
+	"date": "2014-12-15 21:53:51",
+	"files": [
+		{
+			"filename": "montyii.wad",
+			"size": 89647,
+			"crc": 4231614876,
+			"md5": "5fe1f3db071c2506d4bb1cf2de2330de",
+			"sha1": "aa77ab19210aa05e33103ff2a54e0029b908cd8d",
+			"sha256": "bc9b6f4f4926fbdab8e959b323ef35dda61730310feb3f873a1082e03a7b8a0b"
+		}
+	]
+}

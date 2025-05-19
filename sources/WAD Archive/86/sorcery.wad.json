@@ -1,0 +1,16 @@
+{
+	"uid": "sorcery.wad",
+	"name": "SORCERY (pwad-version)",
+	"description": "The weapons have unlimited ammo (They're magic!) and the rocket launcher, the plasma rifle, and the BFG9000 have become \"spells\" that you have to find in books hidden throughout the various levels of DOOM (...).",
+	"date": "2018-04-16 08:05:39",
+	"files": [
+		{
+			"filename": "sorcery.wad",
+			"size": 77580,
+			"crc": 2046138451,
+			"md5": "1b28cb4c0577676d1afe3ad8627bbd60",
+			"sha1": "864fb6f6cbcbeaa154a6057703480c1767d5df61",
+			"sha256": "2f87cd710755deb4d9a9a70c1db80acffad13c7a0ef47be7e4c410055a590bb0"
+		}
+	]
+}

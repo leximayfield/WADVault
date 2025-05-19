@@ -1,0 +1,16 @@
+{
+	"uid": "tofpain.wad",
+	"name": "Tower Of Pain",
+	"description": "The Tower Of Pain holds a sacred artifact that you must recover. All who have tried before you have met an untimely end. Will you succeed where they have failed?",
+	"date": "2014-12-30 11:28:32",
+	"files": [
+		{
+			"filename": "tofpain.wad",
+			"size": 690903,
+			"crc": 2657510787,
+			"md5": "c6843451f5d9d002f633baaea74cfa81",
+			"sha1": "7c41db7d46d83b697660ac45aef0fe052718c1be",
+			"sha256": "bdbe05e54a9cde598f642e83ba69f3d85beffc28304c942f6be2983573d5db32"
+		}
+	]
+}

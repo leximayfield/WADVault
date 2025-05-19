@@ -1,0 +1,16 @@
+{
+	"uid": "ww-cash.wad",
+	"name": "Cold Hard Cash",
+	"description": "The sound of jangling change being deposited into a machine. The dull rumble of your prize dispensing itself into the retrieval chute.",
+	"date": "2014-12-11 22:16:09",
+	"files": [
+		{
+			"filename": "ww-cash.wad",
+			"size": 7831826,
+			"crc": 341667381,
+			"md5": "c2bed66f20029542ce12ea8bdbc9d5b7",
+			"sha1": "16adf7cbadee39c34d3598955d88c4c12463e4e7",
+			"sha256": "05baf104ed0847b00cb5baf4244912c4fb444ffc7140e684663ef5e9fabb4bc4"
+		}
+	]
+}

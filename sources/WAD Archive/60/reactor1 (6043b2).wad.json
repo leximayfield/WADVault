@@ -1,0 +1,17 @@
+{
+	"uid": "reactor1 (6043b2).wad",
+	"name": "REACTOR1.WAD",
+	"description": "Your team has been called in to clean out one of UAC's power plants, but in the first hallway, the ceiling behind you collapses, burying almost all of your soldiers. Looks like the only way out now is to use the facility's transporter pad on the other side of the building.",
+	"version": "6043b2",
+	"date": "2013-11-02 15:36:09",
+	"files": [
+		{
+			"filename": "reactor1.wad",
+			"size": 145957,
+			"crc": 246972646,
+			"md5": "b2df267e417c0d922adcb99779daa227",
+			"sha1": "6043b2d9a2c79d11dad91cfd43ec2a8b95c047f8",
+			"sha256": "ba6a550baf078f0db76c96db715c953c71ec47c019d0fe5af8a6c3d5b15efd09"
+		}
+	]
+}

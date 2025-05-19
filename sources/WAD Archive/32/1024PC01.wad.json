@@ -1,0 +1,16 @@
+{
+	"uid": "1024PC01.wad",
+	"name": "SPACESHIP 1024 - VERSION 2",
+	"description": "A 1024x1024 map on a Spaceship.",
+	"date": "2014-12-15 19:12:25",
+	"files": [
+		{
+			"filename": "1024PC01.wad",
+			"size": 181575,
+			"crc": 193011901,
+			"md5": "486d823b56eac426405f0ad56df2b7cd",
+			"sha1": "322b03c39e6ed6f263fd93cb7b3e05d08f9ae30d",
+			"sha256": "290939876301441149fd18c689ddc2fd5c45b4b77cdd8f4819b89b605b348e17"
+		}
+	]
+}

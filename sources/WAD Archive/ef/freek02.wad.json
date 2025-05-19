@@ -1,0 +1,16 @@
+{
+	"uid": "freek02.wad",
+	"name": "FREEK02.WAD",
+	"description": "A fun little Deathmatch or Single player level for 1, 2 or 3 players. Plays great in single player, with all three keys necessary, but also kicks ass in dm.",
+	"date": "2014-12-18 22:22:54",
+	"files": [
+		{
+			"filename": "freek02.wad",
+			"size": 135897,
+			"crc": 1969120756,
+			"md5": "583c032a27938739d0734abc10bda70a",
+			"sha1": "ef44db2c8648b54974a26f25852bf79ff60ff1d5",
+			"sha256": "581ca3f9878886ea9424d3d7cf7811543f8e84437a89056c18b1601518b086a4"
+		}
+	]
+}

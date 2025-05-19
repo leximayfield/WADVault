@@ -1,0 +1,16 @@
+{
+	"uid": "fantasnd.wad",
+	"name": "Fantastic Sounds!",
+	"description": "Got bored with DOOM's original sounds and most of the lame sound pwads available so I compiled my own. Hope you like 'em.",
+	"date": "2015-09-14 19:35:33",
+	"files": [
+		{
+			"filename": "fantasnd.wad",
+			"size": 1720621,
+			"crc": 1861910254,
+			"md5": "0841cea5b96e1195b35680a1969c1040",
+			"sha1": "e4bd3089347e6b660b5a6724c86a2a42844d6b32",
+			"sha256": "608b39405559f2c4e1b80c5a3d5c6b478cddf0a2a4e9755e3ec2e909a5db6545"
+		}
+	]
+}

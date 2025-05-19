@@ -1,0 +1,16 @@
+{
+	"uid": "dmmusic.wad",
+	"name": "DooM Music",
+	"description": "Ever wish that you could have different music to play Doom by. Here ya go!",
+	"date": "2015-09-14 23:20:29",
+	"files": [
+		{
+			"filename": "dmmusic.wad",
+			"size": 665869,
+			"crc": 2788371641,
+			"md5": "a4cd8f6e3890793e7c9569747912cbbf",
+			"sha1": "d091ad51c4daf7b0679bbabd1ae3db75a3081ff8",
+			"sha256": "bca3ac9984fce2cc2a5836aecee77e7918ff8ae5ddc5046325f2bf8aca4af804"
+		}
+	]
+}

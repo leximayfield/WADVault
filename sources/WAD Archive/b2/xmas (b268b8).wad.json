@@ -1,0 +1,17 @@
+{
+	"uid": "xmas (b268b8).wad",
+	"name": "Christmas Doom",
+	"description": "Well, Christmas is coming up so I thought what the hell, I'll make a Christmas music .WAD. :) I found a zip with a bunch of Christmas MIDs so I changed the instruments (mostly to distorted guitar and rock organs :) hehe) It can be quite funny fighting the Cyberdemon to the tune of `Santa Claus is Coming To Town' :). Anyway, this sounds OK on my GUS so give it a try and lemme know what you think.",
+	"version": "b268b8",
+	"date": "2015-12-07 07:21:42",
+	"files": [
+		{
+			"filename": "xmas.wad",
+			"size": 174058,
+			"crc": 488716994,
+			"md5": "ea5474ad20e589820dcc0bf00d67c66d",
+			"sha1": "b268b850ece4ee3617fbcfa481ce4afbec27f95a",
+			"sha256": "7b81a6f90aea66f13b61630abc41890a5d2d06bc881b1eaaa3950aa02a2911e8"
+		}
+	]
+}

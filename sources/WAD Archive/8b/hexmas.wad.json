@@ -1,0 +1,16 @@
+{
+	"uid": "hexmas.wad",
+	"name": "Hexmas",
+	"description": "Hexen celebrates Christmas.",
+	"date": "2014-12-31 12:07:52",
+	"files": [
+		{
+			"filename": "hexmas.wad",
+			"size": 91876,
+			"crc": 1085588607,
+			"md5": "3942e65f13a6e28feffa16eac544f832",
+			"sha1": "8ba9ba4aae031c197bfd19c183cfed0daf68203d",
+			"sha256": "1f274b9149bf49d22437f32b2a8169d34f7969b78e162fb82900e0111c61266d"
+		}
+	]
+}

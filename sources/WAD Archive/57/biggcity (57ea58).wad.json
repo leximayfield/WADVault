@@ -1,0 +1,17 @@
+{
+	"uid": "biggcity (57ea58).wad",
+	"name": "Big City",
+	"description": "Yet another deathmatch PWAD for doom2. Complete with a baseball park (but the players are on strike).",
+	"version": "57ea58",
+	"date": "2015-12-07 13:30:11",
+	"files": [
+		{
+			"filename": "biggcity.wad",
+			"size": 163973,
+			"crc": 1512597349,
+			"md5": "5967a97987751b9a2ecf762aba0f495f",
+			"sha1": "57ea586ad2ead8e4c49df7b6ec8d273c85b37dff",
+			"sha256": "17028ceb3302cc9355fb6c70e8acecb6b3ff9ea5861233881660b29b9d482d70"
+		}
+	]
+}

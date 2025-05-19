@@ -1,0 +1,17 @@
+{
+	"uid": "invade2 (f5dd25).wad",
+	"name": "INVADE2.WAD (INVASION...",
+	"description": "This is level 1 of a 4 level storyline episode.",
+	"version": "f5dd25",
+	"date": "2013-11-06 21:51:08",
+	"files": [
+		{
+			"filename": "invade2.wad",
+			"size": 2552382,
+			"crc": 2519254135,
+			"md5": "900c2aed6bb2da4f1addfa631b38df92",
+			"sha1": "f5dd2560b87214402c26e0acc711c838c745ef60",
+			"sha256": "55c21738c20693507ce48ac7f75f4f64206fbd6226bbec70f541e69e30d9326b"
+		}
+	]
+}

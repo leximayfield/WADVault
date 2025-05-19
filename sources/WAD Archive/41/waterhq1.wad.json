@@ -1,0 +1,16 @@
+{
+	"uid": "waterhq1.wad",
+	"name": "Water HQ",
+	"description": "This is just another classic Doom 2 map. I got inspired by the original MAP02 and some other WADs but all I made is from scratch.",
+	"date": "2015-01-14 22:46:29",
+	"files": [
+		{
+			"filename": "waterhq1.wad",
+			"size": 136933,
+			"crc": 3450509175,
+			"md5": "5c413e6e9ff5f6f7369061f637e1fcf5",
+			"sha1": "41f54f075a7ecaeb1593105bb7a5e7b49ee94ee4",
+			"sha256": "8b05585765e099066f8c3fdfd27c5d4d188ce77666ce7e3476c778fa0541ccdc"
+		}
+	]
+}

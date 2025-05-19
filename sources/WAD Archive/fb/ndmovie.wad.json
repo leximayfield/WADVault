@@ -1,0 +1,16 @@
+{
+	"uid": "ndmovie.wad",
+	"name": "Phoebus Strikes!",
+	"description": "You all know who \"Phoebus\" is. This short movie is about him.",
+	"date": "2013-04-22 00:33:50",
+	"files": [
+		{
+			"filename": "ndmovie.wad",
+			"size": 28139,
+			"crc": 1783857100,
+			"md5": "58724a5790a31e71c6137f31c3d90820",
+			"sha1": "fbd757c82a0cc59e37c132f16c56523990103714",
+			"sha256": "a31bd7285c929366e59e69e5634a286b45d23b72a0026bdad4c5de4be9de6c45"
+		}
+	]
+}

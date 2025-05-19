@@ -1,0 +1,16 @@
+{
+	"uid": "d64rec.wad",
+	"name": "Doom 64: The Reckoning",
+	"description": "A 9-map mission pack for the Doom64tc",
+	"date": "2014-12-22 18:37:47",
+	"files": [
+		{
+			"filename": "d64rec.wad",
+			"size": 3211356,
+			"crc": 4119944750,
+			"md5": "c7750fe1cfbef53eceb8eee76f5df55c",
+			"sha1": "57e38ae80e439cd84bab5287b618ab13ecb8f7b4",
+			"sha256": "1b156295bb4f24068f8d6e992808a40a6e4233e4854e486ded592d41480e2dbc"
+		}
+	]
+}

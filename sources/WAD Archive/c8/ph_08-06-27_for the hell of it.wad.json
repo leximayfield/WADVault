@@ -1,0 +1,16 @@
+{
+	"uid": "ph_08-06-27_for the hell of it.wad",
+	"name": "For The Hell of It",
+	"description": "A large, varied map with a section inspired by StarWing (Star Fox, in a lot of the world), a Berserk-punching adventure, a base defence section and a scripted, wave-based boss fight. This is the infamous \"For The Hell of It\" that served as E2M0 (the secret level) in ZPack. It turns out that a ZDoom update had altered the way Radius_Quake worked, so I've fixed that as of 08/07/18.",
+	"date": "2019-08-06 20:27:01",
+	"files": [
+		{
+			"filename": "ph_08-06-27_for the hell of it.wad",
+			"size": 4020639,
+			"crc": 1046694972,
+			"md5": "979f8a330e8a713d8cd760e0d83f9f78",
+			"sha1": "c80a714f51562008bc78a5490467f2d6ecc85311",
+			"sha256": "9783f88b934d099680b40554492dedceedad92f853846446a22aa1ec5e610aca"
+		}
+	]
+}

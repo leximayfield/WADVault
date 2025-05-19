@@ -1,0 +1,16 @@
+{
+	"uid": "dtc.wad",
+	"name": "Door to Chthon",
+	"description": "The 6th level of the first episode of Quake.",
+	"date": "2014-12-24 17:40:14",
+	"files": [
+		{
+			"filename": "dtc.wad",
+			"size": 124770,
+			"crc": 4126006274,
+			"md5": "c99d153ed25938a5b38d3e72bf6f6a4d",
+			"sha1": "cdd8dc11894578d494470bfda26fc59cae1cd796",
+			"sha256": "9376293b2844d4bfd415826afcfb3e3215082248951a8e99e495cf7f0679e270"
+		}
+	]
+}

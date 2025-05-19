@@ -1,0 +1,17 @@
+{
+	"uid": "mike1 (27e556).wad",
+	"name": "Mike's 1st",
+	"description": "This is my first wad built with DEU and BSP It's not a huge wad but it has it's moments. When the IMPS start appearing start blasting.",
+	"version": "27e556",
+	"date": "2013-11-02 15:23:57",
+	"files": [
+		{
+			"filename": "mike1.wad",
+			"size": 63374,
+			"crc": 2137954049,
+			"md5": "14420001bc057332cfb68c53f7e4eb3f",
+			"sha1": "27e5569d40e1ef71bd1bb1c66ec5a67b9c03c2a9",
+			"sha256": "9c5f2144fd11a894f07a7d182e3c98e7867f09baadd8ddb1db3115c3bea450c5"
+		}
+	]
+}

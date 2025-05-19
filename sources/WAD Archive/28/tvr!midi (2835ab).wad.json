@@ -1,0 +1,17 @@
+{
+	"uid": "tvr!midi (2835ab).wad",
+	"name": "\"Tzimidzi Greets You!\" by CWolf & Jimmy INTER: \"Imp's Tradition\" by DoomLover234 & Jimmy README: \"Why Settle For Colonel?\" by yakfak MAP01: \"Freighthoppers\" by Jimmy MAP02: \"Trash\" by Alfonzo MAP03: \"Bystreet\" by Akse & Jimmy MAP04: \"Westopolis\" by Viscra",
+	"description": "Here's another MIDI Pack project! Because I haven't done one in ages. This time around we're composing a megawad's worth of original music for Revolution!, aka TVR!. If you are not familiar with the megawad, I highly recommend it. It features highly creative map design from the brilliant Thomas van der Velden, whom you might be familiar with if you enjoyed Plutonia 2 or Harmony. This project was fortunate enough to have the blessing of Thomas, who went to the trouble of creating graphical artwork for us and an ENTIRE NEW MAP for the MAP33 slot! Whoa!",
+	"version": "2835ab",
+	"date": "2016-12-08 22:52:13",
+	"files": [
+		{
+			"filename": "tvr!midi.wad",
+			"size": 1473994,
+			"crc": 1085729214,
+			"md5": "0130d9795bc3c27d7262c683bc9250f4",
+			"sha1": "2835ab8a1b76b37477c1b0555acfaa69d87507e6",
+			"sha256": "0cab691e260b30c522ed67969174eb6daebfa1a9a3f1dee1d2f5eb260f5fe40e"
+		}
+	]
+}

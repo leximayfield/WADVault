@@ -1,0 +1,17 @@
+{
+	"uid": "hall (cd5470).wad",
+	"name": "The Hall",
+	"description": "2nd map made by me...",
+	"version": "cd5470",
+	"date": "2014-12-24 19:19:19",
+	"files": [
+		{
+			"filename": "hall.wad",
+			"size": 90572,
+			"crc": 691811925,
+			"md5": "dec96fbac344591f285aece48b4eb657",
+			"sha1": "cd547057d171a0fe170cbad03eb4a855e00679e9",
+			"sha256": "1e10a52890120400a4473a127d9c826b06ce3d0c8ca72d293a5ee06ed1875a63"
+		}
+	]
+}

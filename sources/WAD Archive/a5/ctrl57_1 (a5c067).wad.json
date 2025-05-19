@@ -1,0 +1,17 @@
+{
+	"uid": "ctrl57_1 (a5c067).wad",
+	"name": "Control Station KGx/57 for DOOM",
+	"description": "Control Station KGx/57 is the sister installation of Attack Station KGx/57.",
+	"version": "a5c067",
+	"date": "2014-01-07 22:17:15",
+	"files": [
+		{
+			"filename": "ctrl57_1.wad",
+			"size": 309834,
+			"crc": 3013870813,
+			"md5": "02302dc77b8c9093c7db9ffcdd322551",
+			"sha1": "a5c06737af3683efb664ff2b6a19eb9e70de7348",
+			"sha256": "f9e308a49b9280691a0e8778129cbd08543d64db9b090580f852360d3c0c2241"
+		}
+	]
+}

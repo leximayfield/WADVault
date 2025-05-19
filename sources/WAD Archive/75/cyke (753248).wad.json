@@ -1,0 +1,17 @@
+{
+	"uid": "cyke (753248).wad",
+	"name": "CYKE.WAD",
+	"description": "This wad takes you through all aspects of DOOM. It contains most of the weapons, and almost all of the monsters. It is has a lot of different types of rooms, textures, and settings. For my first wad, I combined a lot of the ideas that I had. Please e-mail me and tell me what you think.",
+	"version": "753248",
+	"date": "2013-11-04 20:14:52",
+	"files": [
+		{
+			"filename": "cyke.wad",
+			"size": 93008,
+			"crc": 1935894893,
+			"md5": "959c2dc0102cdf73968fe28fa83bbeef",
+			"sha1": "7532484bdbd203e5b9ce9492eeda63b9215e4fa4",
+			"sha256": "630b32bef03f5aaf857c12b41fefb804b943d512cbbd724d36c42bbb548f5f35"
+		}
+	]
+}

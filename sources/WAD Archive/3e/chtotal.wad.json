@@ -1,0 +1,16 @@
+{
+	"uid": "chtotal.wad",
+	"name": "chaos total",
+	"description": "contains several rooms, a small maze, one unfair room, some teleports and some secrets But I think that for the profs even Nightmare will be too easy.",
+	"date": "2014-12-15 22:02:52",
+	"files": [
+		{
+			"filename": "chtotal.wad",
+			"size": 202962,
+			"crc": 148165552,
+			"md5": "d00c971f28d66cc52c27528ff547b115",
+			"sha1": "3e7ea6ba42770de9cb73655c4907232d1dd304cf",
+			"sha256": "e463918376ae2c860bd2790af9b14eecc8693898f2f48e1c24b0eae00d900187"
+		}
+	]
+}

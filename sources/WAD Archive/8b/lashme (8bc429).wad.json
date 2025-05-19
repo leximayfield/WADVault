@@ -1,0 +1,16 @@
+{
+	"uid": "lashme (8bc429).wad",
+	"description": "This is my first heretic deathmatch. I have designed it specifically to take advantage of the features in heretic, rather than convert one of my doom deathmatches.",
+	"version": "8bc429",
+	"date": "2013-11-06 22:35:21",
+	"files": [
+		{
+			"filename": "lashme.wad",
+			"size": 27550,
+			"crc": 234899648,
+			"md5": "84557dcc4030b97249ed8b17b3076d91",
+			"sha1": "8bc429b477a84a26f56ddd05ae508f37f987614f",
+			"sha256": "54ac655c626250b552042cd638dc18c41d034534e7e0ff312e7f94197218facf"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "try_it (ab44f7).wad",
+	"name": "My Second Level, What Fun.",
+	"version": "ab44f7",
+	"date": "2015-12-07 08:19:29",
+	"files": [
+		{
+			"filename": "try_it.wad",
+			"size": 110436,
+			"crc": 1337148971,
+			"md5": "cac0c87b342ba32aa392ce7c4bb34104",
+			"sha1": "ab44f7844ff37ba2885d042addf6246b3cc5eb3c",
+			"sha256": "d0f695c8cd582dbbda3de33ed39a8ed4125d6d91426d7f3c29f0879a667d7d4b"
+		}
+	]
+}

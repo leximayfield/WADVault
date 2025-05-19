@@ -1,0 +1,17 @@
+{
+	"uid": "dprison2 (8aad39).wad",
+	"name": "Deathmatch Prison II (DPRISON2.WAD)",
+	"description": "As I only have five living brain cells left, anything I type here as a description will make absolutly no sense. See, I told you.",
+	"version": "8aad39",
+	"date": "2013-11-02 15:55:13",
+	"files": [
+		{
+			"filename": "dprison2.wad",
+			"size": 117066,
+			"crc": 3453513974,
+			"md5": "14d285c5ee3ec88f1cf51bc8d31fc682",
+			"sha1": "8aad39b82a1d4a7cdc25c304e05ca10f888c9852",
+			"sha256": "718b72c7422c19422a816e8d2362a593016a120b90119f9812c8c190adb389cc"
+		}
+	]
+}

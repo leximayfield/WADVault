@@ -1,0 +1,16 @@
+{
+	"uid": "zod2emus.wad",
+	"name": "The Zodiac Deathmach, Music wad",
+	"description": "This wad contains the music for my Deathmatch wad \"The Zodiac Deathmatch\" (zodiac2e.wad). By loading it along with zodiac2e.wad, the MIDI-music will be replaced by arranged versions.",
+	"date": "2013-04-19 00:40:17",
+	"files": [
+		{
+			"filename": "zod2emus.wad",
+			"size": 18762575,
+			"crc": 765093954,
+			"md5": "f90c910676d2223b894340613dad8212",
+			"sha1": "31f5089ae9ebfbfb173674c4ef136cbcc6acadbc",
+			"sha256": "3c7f118e6d35117758c9554a17422788e9ade9a4729686fcf1fcc938f6bc1885"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "combase.wad",
+	"name": "NAZI COMPUTER AND COMUNICATIONS BASE",
+	"description": "Your mission is to penatrate the Nazi computer and communications base and press a switch deep inside the base that will give you access to a secret self destruct computer.",
+	"date": "2014-12-15 21:36:38",
+	"files": [
+		{
+			"filename": "combase.wad",
+			"size": 224092,
+			"crc": 3872081500,
+			"md5": "eb51cd413469a4a3a20c6b1ddee0aac4",
+			"sha1": "2e2cb03fa71346c7bc29bde7ad93e60cf9f3fa83",
+			"sha256": "e3587a16f995c07974ffbe8f339557974c726c13b71e937f9ecb46643a7aa508"
+		}
+	]
+}

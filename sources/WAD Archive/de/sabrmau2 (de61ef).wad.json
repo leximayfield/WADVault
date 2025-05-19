@@ -1,0 +1,17 @@
+{
+	"uid": "sabrmau2 (de61ef).wad",
+	"name": "Sabre Mau ][",
+	"description": "From first look, it looks like SABREMAU.WAD, but in a few seconds, you notice the mass amount of goodies in the middle! You race for it to grab all you can before your opponent(s), and......",
+	"version": "de61ef",
+	"date": "2013-11-02 16:00:45",
+	"files": [
+		{
+			"filename": "sabrmau2.wad",
+			"size": 27991,
+			"crc": 267692849,
+			"md5": "48d57287eebc3fb55aa70fe7a083294a",
+			"sha1": "de61ef90c1977b6cd67e11c3ed1477b41535012a",
+			"sha256": "e577df706aac44a41aa20214852cb3c34832fae546348424248c4ef36e3a98bd"
+		}
+	]
+}

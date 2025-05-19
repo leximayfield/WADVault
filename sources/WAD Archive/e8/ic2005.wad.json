@@ -1,0 +1,16 @@
+{
+	"uid": "ic2005.wad",
+	"name": "ic2005",
+	"description": "The likely final map in the ic200x series. A huge sprawling techbase with textures from a variety of sources.",
+	"date": "2014-12-24 19:10:57",
+	"files": [
+		{
+			"filename": "ic2005.wad",
+			"size": 5036199,
+			"crc": 2312996449,
+			"md5": "36b78102c5fc3c30c3021016fd4040ff",
+			"sha1": "e8c8b57648c7b3e5c684e3dd51bdf71282c5dfe4",
+			"sha256": "03fdc0ae57c236ece6de62ef8ea18affbba3b7aa9381558c0caec42fbe703fc5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "transtat.wad",
+	"name": "Train Station",
+	"description": "Battle it out against some of the toughest hellspawn on a train station, complete with Voice Enunciator.",
+	"date": "2014-12-29 15:04:32",
+	"files": [
+		{
+			"filename": "transtat.wad",
+			"size": 771944,
+			"crc": 3795012112,
+			"md5": "47e2bc3a9be2128b88315f4479722c8f",
+			"sha1": "5055e8ee1931224e54491cb939baddfbce601f48",
+			"sha256": "c057399a8fc3052dbdd1a4e80d63faa4c19bee34b177c089bb151e4db2830152"
+		}
+	]
+}

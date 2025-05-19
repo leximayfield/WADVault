@@ -1,0 +1,16 @@
+{
+	"uid": "gemetzel.wad",
+	"name": "Gemetzel",
+	"description": "This PWAD is a combination of 3 totally different levels. The first is only an introduction. The second is a maze-like level (very complex). But the main level is the third one. I used the plans of the F\ufffdhrerbunker.",
+	"date": "2014-12-18 22:34:54",
+	"files": [
+		{
+			"filename": "gemetzel.wad",
+			"size": 209288,
+			"crc": 847706464,
+			"md5": "6e0293e4215bfc92464efab1debf6410",
+			"sha1": "9f7da73664b2dbdb9d200176cdf005d60a80a27b",
+			"sha256": "04673044d47d9e8ccdf204dbd199c574bbd70e9517fa4caed77bd009b78140a1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmxopl (9d38df).wad",
+	"name": "DMXOPL v1.7",
+	"description": "This is a GENMIDI patch for DMX for OPL2-OPL3 FM synthesis. This patch aims to remedy the \"weak\" default instruments to better match the Roland Sound Canvas, most notably the SC-55 and SC-88. Recommended minimum setup for no note-cuts is ZDoom 2.8.1 with MAME OPL2 emulator core, with 6 chips emulated.",
+	"version": "9d38df",
+	"date": "2017-06-26 23:58:00",
+	"files": [
+		{
+			"filename": "dmxopl.wad",
+			"size": 11936,
+			"crc": 2889868546,
+			"md5": "e0ac544e74903513b9fa8cfacce8c0c3",
+			"sha1": "9d38df4a1b57781d3ff4557bcb162fcd26ffbf9a",
+			"sha256": "9e472ae61226f5aa9ff5c7afba816ac84eeebdc97165728df8badf9c7bc4e2be"
+		}
+	]
+}

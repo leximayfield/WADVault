@@ -1,0 +1,17 @@
+{
+	"uid": "sp1 (d527ec).wad",
+	"name": "Speedmap 1",
+	"description": "Playing dwspd024.wad inspired me to try making a speedmap.",
+	"version": "d527ec",
+	"date": "2015-01-14 22:58:20",
+	"files": [
+		{
+			"filename": "sp1.wad",
+			"size": 38526,
+			"crc": 2517942646,
+			"md5": "5cee23960437ecaacce9e2a94ec2b4b2",
+			"sha1": "d527eccf9ad0e51ba5e9ec053e3f40f9b9798ee4",
+			"sha256": "c054131447bab8f7ae46a100a414168961c3d73b257e0e31fa84c8eaaabbd9a6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dbcen.wad",
+	"name": "Debrecen",
+	"description": "A city themed map, inspired my hometown",
+	"date": "2016-02-13 19:40:55",
+	"files": [
+		{
+			"filename": "dbcen.wad",
+			"size": 5921219,
+			"crc": 1406123304,
+			"md5": "fd689b667ec539d872777ea23896bf7d",
+			"sha1": "82b7cbac69864dcd58738948fbc859948379e38d",
+			"sha256": "ad02f9434d62136eb8cda2ef8341427a36a571b3b1353475a06bc53228c85373"
+		}
+	]
+}

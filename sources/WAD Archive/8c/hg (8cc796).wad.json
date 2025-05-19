@@ -1,0 +1,17 @@
+{
+	"uid": "hg (8cc796).wad",
+	"name": "Hell Ground",
+	"description": "7 levels for 'advanced' Boom compatible ports.",
+	"version": "8cc796",
+	"date": "2013-04-21 20:52:12",
+	"files": [
+		{
+			"filename": "hg.wad",
+			"size": 63696583,
+			"crc": 3494926084,
+			"md5": "1b24a08f7c52e89938bc87f4e1d42585",
+			"sha1": "8cc7967465151f86c1f4180a59b5cd5e0e310eca",
+			"sha256": "e70d3dcfc4c0a8f3c727485b20cceb6f5db3a11ad9fc6990858846ef292cb7d8"
+		}
+	]
+}

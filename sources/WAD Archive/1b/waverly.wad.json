@@ -1,0 +1,16 @@
+{
+	"uid": "waverly.wad",
+	"name": "Waverly (DOOM 2)",
+	"description": "A medium sized wad designed for deathmatching. : Includes lots of cool stuff like automatic doors, : working light switchs,etc",
+	"date": "2015-01-14 22:53:13",
+	"files": [
+		{
+			"filename": "waverly.wad",
+			"size": 443101,
+			"crc": 2894469022,
+			"md5": "bc87e0b7dbd98bdee37be700bc8636d1",
+			"sha1": "1b164ed9fe352430528494ac223f62ffed5a3aa2",
+			"sha256": "f3424b0030a2d988b6a91dc04cb87215289c3760d9d4bfe48f3783b394abb270"
+		}
+	]
+}

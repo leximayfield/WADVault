@@ -1,0 +1,16 @@
+{
+	"uid": "mrpd3d.wad",
+	"name": "((PLEXYDOME)) a 3d DeathMatch level",
+	"description": "1-5 player a single \"3D FLOORS\" map for DM or co-op play \"preferably DM\", USING THE LATEST VERSION OF DOOM2.WAD and DOOMLEGACY with SOFTWARE ,3DFX or GL modes..",
+	"date": "2013-04-19 01:44:52",
+	"files": [
+		{
+			"filename": "mrpd3d.wad",
+			"size": 709949,
+			"crc": 1051165881,
+			"md5": "14d41156e27de38293a9fbc51e137024",
+			"sha1": "b0a46dfdddb49d55b240e50013ee48e2c6589e72",
+			"sha256": "88df183fbdcbece759b5f3b56c880333ab99b8f7c7a2a83e1ce9df76a5b1dc56"
+		}
+	]
+}

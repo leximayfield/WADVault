@@ -1,0 +1,16 @@
+{
+	"uid": "uglee.wad",
+	"name": "A Generic UAC Base",
+	"description": "It's a generic UAC base. It has some small office rooms, a dining hall, some bathrooms, a kitchen, a storage room, and a parking garage. This map shouldn't be too hard for a seasoned Doomer. Take it slow and let the monsters kill each other (this mostly applies to the Dining Hall area.) This is the first map I've made in over 2 years. My DM map was the last map I made.",
+	"date": "2014-12-29 15:31:54",
+	"files": [
+		{
+			"filename": "uglee.wad",
+			"size": 301635,
+			"crc": 3358177477,
+			"md5": "4d9d01e55d7a5ee7c4545b952e58929e",
+			"sha1": "5b2416b10663795155ce3b407e95bf2d8647e6f3",
+			"sha256": "fd6c03cbde48608d1274331470ec55f683f30c28bdb85fb442a60b3358c548a1"
+		}
+	]
+}

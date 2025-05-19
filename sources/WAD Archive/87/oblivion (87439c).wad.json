@@ -1,0 +1,17 @@
+{
+	"uid": "oblivion (87439c).wad",
+	"name": "Oblivion",
+	"description": "Non linear level with medieval/hellish theme with some decadent touches. A bit similar to tekloniton and the black lands.",
+	"version": "87439c",
+	"date": "2015-09-14 22:28:26",
+	"files": [
+		{
+			"filename": "oblivion.wad",
+			"size": 1715417,
+			"crc": 391279558,
+			"md5": "16862f97ca79713d54eb9ab7e8f4c9f2",
+			"sha1": "87439c52879333599da7019aed3d63d577b58767",
+			"sha256": "ea6714edb7f32fd8da9f338e7e27aaaab5aa8663a5be5d829434ec1c6f19d94e"
+		}
+	]
+}

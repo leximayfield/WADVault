@@ -1,0 +1,17 @@
+{
+	"uid": "arena (cc9f11).wad",
+	"name": "The Arena",
+	"description": "Designed specifically for deathmatches, with lots of hiding places and sniper positions",
+	"version": "cc9f11",
+	"date": "2014-01-04 11:55:37",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 53770,
+			"crc": 2263083176,
+			"md5": "b1b063899149748a1acde9ec02b10f58",
+			"sha1": "cc9f11a5b8563f0e3b103c3e9452afb308d01818",
+			"sha256": "8db2046bc2b910e04c741efa8ccd90d9f7632143634e16e5a808cb99ea60c304"
+		}
+	]
+}

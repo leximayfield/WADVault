@@ -1,0 +1,17 @@
+{
+	"uid": "mycastle (10ac65).wad",
+	"name": "MyCastle",
+	"description": "Free my castle of the demons infestation",
+	"version": "10ac65",
+	"date": "2015-01-13 21:51:06",
+	"files": [
+		{
+			"filename": "mycastle.wad",
+			"size": 796336,
+			"crc": 944261086,
+			"md5": "fa4cb32353ef2a60e09bed75c32476e6",
+			"sha1": "10ac6568b00607fc0a2bb6be496162cc5a9c07a4",
+			"sha256": "5ef426e10f8fc3105d24fb8752100f1063c24815964c9e68ba87ea98e982262a"
+		}
+	]
+}

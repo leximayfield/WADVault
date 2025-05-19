@@ -1,0 +1,16 @@
+{
+	"uid": "urotsuk2.wad",
+	"name": "Urotsuki: Dead End",
+	"description": "Second chapter of trilogy \"Urotsuki\". 1 pretty short map in style inspired by anime Urotsukidoji and Giger pictures. If you are playing in software mode, then you should turn on 16-bit mode, otherwise the sky will be a mess.",
+	"date": "2015-09-15 17:54:51",
+	"files": [
+		{
+			"filename": "urotsuk2.wad",
+			"size": 7100547,
+			"crc": 4121069775,
+			"md5": "b4c3b5eeced22a9f3bd7dea598aa17f0",
+			"sha1": "88f605b1cfe7d26ce8885c72eb891f57452ded87",
+			"sha256": "cb7bb65b3edb2d8c90f5ce7db908217abf5711ecee41d03092acfd94a40b9a1e"
+		}
+	]
+}

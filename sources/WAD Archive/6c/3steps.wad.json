@@ -1,0 +1,16 @@
+{
+	"uid": "3steps.wad",
+	"name": "3 Steps of Hell",
+	"description": "Roam newly discovered areas of Hell, three of which are connected to a core room. Discover what is in each to advance.",
+	"date": "2014-12-15 19:11:54",
+	"files": [
+		{
+			"filename": "3steps.wad",
+			"size": 969837,
+			"crc": 3070570888,
+			"md5": "ac4a8b55742f7eb872f203de69d9ae53",
+			"sha1": "6cce75e508f72202315a546cf3421ab355961b67",
+			"sha256": "c49af9740a976870ac150ada8630d8d040b9b84ab9266e7cb53cd42012533e67"
+		}
+	]
+}

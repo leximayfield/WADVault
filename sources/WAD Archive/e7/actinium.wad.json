@@ -1,0 +1,16 @@
+{
+	"uid": "actinium.wad",
+	"name": "Actinium",
+	"description": "Two short maps with emphasis on intense action from the very beginning. Rather hard on UV - if they are too tough for you, try playing on HMP. The maps are designed to be played in sequence but the second map is playable from pistol start as well (it will be more difficult though). Designed for playing with jumping DISABLED.",
+	"date": "2014-12-21 17:13:35",
+	"files": [
+		{
+			"filename": "actinium.wad",
+			"size": 124327,
+			"crc": 2484753136,
+			"md5": "9c183ade93dbf3e10373b00e9e71f9ff",
+			"sha1": "e71fb2cbf0bd5ce3b50b25dbe59c8e64d28066fb",
+			"sha256": "7d7050c1e861c3d66dba6a71ed5b820da4e6d057e95a4511e672d6a5c167afe7"
+		}
+	]
+}

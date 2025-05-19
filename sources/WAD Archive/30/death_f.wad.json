@@ -1,0 +1,16 @@
+{
+	"uid": "death_f.wad",
+	"name": "DEATH_F",
+	"description": "Outdoor Deathmatch with plenty of sniper holes, birdseye views and space to hide for the coward. Chainguns only and plenty of ammo.",
+	"date": "2013-11-03 17:47:53",
+	"files": [
+		{
+			"filename": "death_f.wad",
+			"size": 141506,
+			"crc": 4089785944,
+			"md5": "d4da648186c45b6e70c1c2ee61c3cb7c",
+			"sha1": "309ad2b94b96a9d938bcfe64b2f65c11cf7b98ed",
+			"sha256": "f1c8c2b7bd13503f0236183ae858bf40886e0d09383ffbe3e9c328cb74e241f2"
+		}
+	]
+}

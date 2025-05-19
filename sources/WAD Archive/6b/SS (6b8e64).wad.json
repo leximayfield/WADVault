@@ -1,0 +1,17 @@
+{
+	"uid": "SS (6b8e64).wad",
+	"name": "SS",
+	"description": "Small Wolfenstein(DOOM)Level(Actually made for a friend) No weapons but a shotgun, double barrel shotgun.",
+	"version": "6b8e64",
+	"date": "2015-09-14 21:07:19",
+	"files": [
+		{
+			"filename": "SS.wad",
+			"size": 25201,
+			"crc": 1890538349,
+			"md5": "f98000c935a130115436f76e440b3102",
+			"sha1": "6b8e64b0b108be8f0a5972e236475a90fe075d5b",
+			"sha256": "f2af882a61ea48af3830cac83107f8af7ac046d3343aea83da4981ade9a0d956"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "bungalow (271c5b).wad",
+	"name": "Bungalow",
+	"description": "This Deathmatch WAD has seen many variations of weapon placement. The heavy weapons and ammo are inside the bungalow to encourage you to enter. If you rebuild this level you may need to up the split level to 12 to cope with the WC! (In my experience using Windeu)",
+	"version": "271c5b",
+	"date": "2014-12-13 17:24:54",
+	"files": [
+		{
+			"filename": "bungalow.wad",
+			"size": 53225,
+			"crc": 2309956343,
+			"md5": "5c58559d6e0ddda8e45d9aec80e49ec6",
+			"sha1": "271c5bb40de99f0ee812dd1475ce5b39eb638782",
+			"sha256": "6adacbd8bd07706effd432478e903feb451c735d30d7a89a09ade341e9496611"
+		}
+	]
+}

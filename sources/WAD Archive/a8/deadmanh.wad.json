@@ -1,0 +1,16 @@
+{
+	"uid": "deadmanh.wad",
+	"name": "Deadman Walking for Hexen",
+	"description": "This wad was developed with the Doom 1 engine then converted to Doom II and finally Hexen. Next up will probably a conversion to Heretic.",
+	"date": "2014-12-31 12:13:02",
+	"files": [
+		{
+			"filename": "deadmanh.wad",
+			"size": 414960,
+			"crc": 3229602460,
+			"md5": "4bde3ac1925e00f48fbd7a0e546c11fa",
+			"sha1": "a8da0afddb3d7386c1152c25f61356e6da1c5c87",
+			"sha256": "6c55e81b31251c3ede03bb986a5b4d46cecc0a0f94656981b06d3eaa92d3f788"
+		}
+	]
+}

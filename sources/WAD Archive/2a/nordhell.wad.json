@@ -1,0 +1,16 @@
+{
+	"uid": "nordhell.wad",
+	"name": "NORDHELL",
+	"description": "One level for GZDoom (standart light recommended)",
+	"date": "2015-01-13 21:42:53",
+	"files": [
+		{
+			"filename": "nordhell.wad",
+			"size": 2386252,
+			"crc": 514916454,
+			"md5": "86d3d92ea2d8cbb6fa9b98c43cde9949",
+			"sha1": "2a3b54cdcf677d85f8b3377575b7730899b7da24",
+			"sha256": "a1524e725134f05d3cc4fd507ff4e90b31893e249302362aa031f6b03b077a2c"
+		}
+	]
+}

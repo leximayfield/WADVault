@@ -1,0 +1,16 @@
+{
+	"uid": "GRAVECVE.wad",
+	"name": "Graves & Caves",
+	"description": "This is a straightforward single- player level for Heretic, with some nice special effects: A graveyard with coffins glowing through the earth, open cemetary gates, flooded caves, holes blown through walls, waterfalls, volcanoes, pieces of the ceiling falling into the path of water so it has to flow around it, tables and chairs, etc. There are a few secrets.",
+	"date": "2014-10-28 21:54:51",
+	"files": [
+		{
+			"filename": "GRAVECVE.wad",
+			"size": 271547,
+			"crc": 3710863631,
+			"md5": "9586c2e08d10d1efb0fb6b8c8f929db7",
+			"sha1": "982f0684fe4b699ac22ca3ffa97d091d4cf101e7",
+			"sha256": "77712e6d6fd3f51ae535d114154a27d63816d346a8a9bc0bd055c2b4fe3a2f50"
+		}
+	]
+}

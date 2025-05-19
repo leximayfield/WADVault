@@ -1,0 +1,16 @@
+{
+	"uid": "FESTATE.wad",
+	"name": "Forgotten Estate",
+	"description": "This mansion-style map uses tag 666 so it occupies MAP07 slot. Many wood/panel textures is used. You are started in a small shed surrounded by zombiemen. Clean out the place and go forward to exit.",
+	"date": "2014-12-18 23:16:51",
+	"files": [
+		{
+			"filename": "FESTATE.wad",
+			"size": 463723,
+			"crc": 3345005318,
+			"md5": "4ae080dd68fd5ca2e45e5c2b60c8e2a1",
+			"sha1": "ff3cd46011e1715ff065201063b38d34db33757e",
+			"sha256": "72d2630aef8ab80a2e7588e2d77bd8f88b29206523690af8038340d2104e717c"
+		}
+	]
+}

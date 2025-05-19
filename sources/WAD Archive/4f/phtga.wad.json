@@ -1,0 +1,16 @@
+{
+	"uid": "phtga.wad",
+	"name": "Phouse: \"The great arena\"",
+	"description": "Phouse: \"The great arena\" is a rather special wad created especially for an lmp competition (on my site). It exists out of 32 levels (30 single player, 2 deathmatch). Each level exists out of the same enviroment (The great arena) but keeps getting harder untill it's almost impossible to play (for me that is). The difference between the difficulty settings mostly lies in the amount of health you get. On uv and multiplayer tough, there are some extra monsters. You can read the rules of the competition on my site. BTW, if anyone knows some cool monster combinations for the arena, mail me.",
+	"date": "2015-01-12 19:29:46",
+	"files": [
+		{
+			"filename": "phtga.wad",
+			"size": 1870954,
+			"crc": 3602248762,
+			"md5": "82e7d9e32e0fefb670373ac90173a30d",
+			"sha1": "4fbc3ce78d097d0c7aa1e30d3c8beb6901e0eb8c",
+			"sha256": "dfb6e264c03bc56b2d4ad6f3464b85427f25c2fb1a1358ade35459267fb22038"
+		}
+	]
+}

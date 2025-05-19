@@ -1,0 +1,16 @@
+{
+	"uid": "idoom.wad",
+	"name": "Independence Doom",
+	"description": "Ever wanted to blow EVERYTHING in Doom up? You can! (NOTE: Decorations don't blow up, because of some levels using them for stairs and bridges)",
+	"date": "2014-12-24 18:47:05",
+	"files": [
+		{
+			"filename": "idoom.wad",
+			"size": 9813,
+			"crc": 1931395101,
+			"md5": "7fc29af379ee4b5c9dedf0555400d8ca",
+			"sha1": "84d09770647e2edae7e3b85dd10387cd6e8631b7",
+			"sha256": "6c7f9244587ccc054af160e867aa05db3d62f28720bc9bc028b197be9d64dfe0"
+		}
+	]
+}

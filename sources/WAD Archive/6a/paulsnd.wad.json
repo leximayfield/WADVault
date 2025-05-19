@@ -1,0 +1,16 @@
+{
+	"uid": "paulsnd.wad",
+	"name": "Noiz",
+	"description": "Everything has pretty much been lifted from everybody elses hard work. Replaces amost all of the sounds in DoomII.",
+	"date": "2014-12-11 22:29:33",
+	"files": [
+		{
+			"filename": "paulsnd.wad",
+			"size": 2539821,
+			"crc": 2400873499,
+			"md5": "89c9d31f2b2578fbdde106bff0ed8095",
+			"sha1": "6a6b2076fb9eb325b0b3cae0ae18eb28f7f5119a",
+			"sha256": "bfcd594ea183d65509bba66058177b075f9937fff5b63447412b22e1befbd72f"
+		}
+	]
+}

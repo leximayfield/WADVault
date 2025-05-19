@@ -1,0 +1,16 @@
+{
+	"uid": "wareevil.wad",
+	"name": "Warehouse of Evil!",
+	"description": "Originally intended as an Episode II D:E map. One of the last maps I began in DoomCAD, reworked in DeepSEA, and finished in what was then the newly released Doom Builder.",
+	"date": "2014-12-29 15:43:50",
+	"files": [
+		{
+			"filename": "wareevil.wad",
+			"size": 283408,
+			"crc": 5350165,
+			"md5": "5471765acd862e649f4279d43fe773f8",
+			"sha1": "96db5acafe31db6f8eeaa4251cb81dc04a2d900d",
+			"sha256": "00d47b46996aabc5296864ba3ca703ae6af3025a21f3810e35216dcc31a224b8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "SoL (8b3da5).wad",
+	"name": "Some Old Level",
+	"description": "This is one of those unreleased levels, dating back to 1996 (I was twelve by then).",
+	"version": "8b3da5",
+	"date": "2014-12-13 12:43:03",
+	"files": [
+		{
+			"filename": "SoL.wad",
+			"size": 59251,
+			"crc": 2082989123,
+			"md5": "9f19de53a87f153935d6cae6c0d779d4",
+			"sha1": "8b3da538b23830da6b499aaa796c23148018679f",
+			"sha256": "b07e774f2330b419b7aefedd05b483601ba925c5ffddd2d012a474b5029540b1"
+		}
+	]
+}

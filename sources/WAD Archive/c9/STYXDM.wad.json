@@ -1,0 +1,16 @@
+{
+	"uid": "STYXDM.wad",
+	"name": "Stxy Deathmatch Compilation",
+	"description": "This a compilation of Richard Jaspars 'Styx' excellent Styx Deathmatch Series. I've changed nothing in the levels themselves (except rename them sequentialy). I added a mapinfo.lmp to the combined wad to keep the music and skies as Richard originally released them. I also renamed the music lmps for the same purpose. The reason for compiling these levels was to make it easier to use them in client-server based multiplayer games such as Skulltag and ZDaemon.",
+	"date": "2013-04-22 00:10:59",
+	"files": [
+		{
+			"filename": "STYXDM.wad",
+			"size": 590816,
+			"crc": 3505615549,
+			"md5": "938759ac0fb543bea56d0efb965debe2",
+			"sha1": "c97bcbe8c1a92fb74dc8e48a9a5825d1ba808702",
+			"sha256": "28e8aae86ce5982e081ae73009bf429703dbd081ab52e28cd149314892037a32"
+		}
+	]
+}

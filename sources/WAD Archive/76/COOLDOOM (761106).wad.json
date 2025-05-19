@@ -1,0 +1,17 @@
+{
+	"uid": "COOLDOOM (761106).wad",
+	"name": "Cool Doom Level",
+	"description": "You are stuck in the basement from hell and you",
+	"version": "761106",
+	"date": "2013-11-04 20:08:20",
+	"files": [
+		{
+			"filename": "COOLDOOM.wad",
+			"size": 26415,
+			"crc": 2674084645,
+			"md5": "786f52be69ef9d9c8b76a4085c3d7c22",
+			"sha1": "761106c9ca89b2e1f6b23b87dd4d0ad77b7877c5",
+			"sha256": "058c7ce5f4e6bb4e8ea2ced8cff2b9c76acf8605361fae598d64cd2964d86a67"
+		}
+	]
+}

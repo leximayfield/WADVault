@@ -1,0 +1,16 @@
+{
+	"uid": "guilty.wad",
+	"name": "GUILTY.WAD",
+	"description": "Who is responsible for the destruction that left your 2 friends dead? You must battle your way through rooms of demons to find out the true answer!!!",
+	"date": "2013-11-02 16:48:59",
+	"files": [
+		{
+			"filename": "guilty.wad",
+			"size": 154727,
+			"crc": 2553122051,
+			"md5": "0ee9428b5160e72addd36b074006ecc8",
+			"sha1": "e94341c6cedd208d8524f0a1caadfed1e38a820d",
+			"sha256": "e927f706b69202db8f56687988252a18738f36185c78ee5686a1a52256c8aa8c"
+		}
+	]
+}

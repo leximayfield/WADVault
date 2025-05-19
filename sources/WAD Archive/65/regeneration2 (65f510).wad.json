@@ -1,0 +1,17 @@
+{
+	"uid": "regeneration2 (65f510).wad",
+	"name": "\"Regeneration v2.0\"",
+	"description": "Just run this wad along with other wad(s) you're playing to enable regeneration. It works the same way it does in modern shooters: take no damage for several seconds after being injured and you'll regen your health back quickly. If damage was taken again while regenerating or waiting for regen to start, it counts as injury and you must wait several seconds again. Compatible with picking up any healing items.",
+	"version": "65f510",
+	"date": "2013-04-21 14:22:44",
+	"files": [
+		{
+			"filename": "regeneration2.wad",
+			"size": 2709,
+			"crc": 600139790,
+			"md5": "caf78fd333adab2dc6f876bfc8b1907e",
+			"sha1": "65f5103d149388ca0ff25eb27c2005e821ea2f22",
+			"sha256": "132d435f7a4843bda3108258fb04f18f099235df58ba6df5600b6b67473c12ca"
+		}
+	]
+}

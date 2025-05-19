@@ -1,0 +1,16 @@
+{
+	"uid": "rocktobr.wad",
+	"name": "Rocktober",
+	"description": "Birthday map for purist and Katamori",
+	"date": "2015-01-14 23:06:01",
+	"files": [
+		{
+			"filename": "rocktobr.wad",
+			"size": 176744,
+			"crc": 117462451,
+			"md5": "775775c8b4a31e87c1c9edfe39ae399a",
+			"sha1": "d6580b11be7a0496a9bec5b3a904946f986e96a6",
+			"sha256": "ea71c28b3ef6d5d08b9cc8322114bb38d4a4df66438924fb7ae30318fe0f3b84"
+		}
+	]
+}

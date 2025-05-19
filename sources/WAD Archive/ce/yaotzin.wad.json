@@ -1,0 +1,16 @@
+{
+	"uid": "yaotzin.wad",
+	"name": "Yaotzin.WAD",
+	"description": "This is a gigantic level... it really took some effort.",
+	"date": "2015-01-14 14:48:37",
+	"files": [
+		{
+			"filename": "yaotzin.wad",
+			"size": 603962,
+			"crc": 3375080455,
+			"md5": "6a2bf7067e38ec792f205a0c5b1148c5",
+			"sha1": "ceec5ab79d45c4363b53cdfba7739c656596a2cd",
+			"sha256": "057d61060a7f4e3784b11678e304281cebbeccab45bf3f282e1491458dadce79"
+		}
+	]
+}

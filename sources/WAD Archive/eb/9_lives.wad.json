@@ -1,0 +1,16 @@
+{
+	"uid": "9_lives.wad",
+	"name": "9 lives",
+	"description": "A death defying level for Doom 1",
+	"date": "2014-12-14 21:07:09",
+	"files": [
+		{
+			"filename": "9_lives.wad",
+			"size": 98094,
+			"crc": 3053495744,
+			"md5": "08e4670f581f358bed7c2687ff51aaa2",
+			"sha1": "eb2d674fb2e1fe900b3f511fc581b7b8e58adbe6",
+			"sha256": "d11e6189079f6028bd9ff0438f01410969ea297cd16c64685fa35d1f208fc2e1"
+		}
+	]
+}

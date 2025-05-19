@@ -1,0 +1,16 @@
+{
+	"uid": "azumanga.wad",
+	"name": "Azumanga Daioh Doom",
+	"description": "Just a short little Azumanga Daioh themed joke WAD. WARNING: Does contain some loud noises.",
+	"date": "2015-12-29 13:23:26",
+	"files": [
+		{
+			"filename": "azumanga.wad",
+			"size": 4200183,
+			"crc": 1657846177,
+			"md5": "f6796bed2c71943ad6c037e14c1c45cb",
+			"sha1": "f8413c2bd5f24f627c8304148156a000ad0f0381",
+			"sha256": "6ca0f0cdff64695462ba11d22c3053ee856e8cbcee6c04712faad3e2e7da0427"
+		}
+	]
+}

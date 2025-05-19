@@ -1,0 +1,16 @@
+{
+	"uid": "pyrrhic_c.wad",
+	"name": "Pyrrhic Deathmatch Beta",
+	"description": "Beta release. 13 maps designed for 1 on 1 and small FFA. Hard difficulty includes BFG while all others do not. Requires limit removing port.",
+	"date": "2017-11-09 19:23:38",
+	"files": [
+		{
+			"filename": "pyrrhic_c.wad",
+			"size": 3006852,
+			"crc": 232167070,
+			"md5": "f2ede9e9f0f21117af201100282baec3",
+			"sha1": "cea53cf0e6349dd630a8db5103f56c42a890067d",
+			"sha256": "9dee4cf5656f01497e4c86bf1f17c93005232c73dad8e993a8276ed93f47c4f0"
+		}
+	]
+}

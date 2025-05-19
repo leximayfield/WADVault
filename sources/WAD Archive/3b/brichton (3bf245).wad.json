@@ -1,0 +1,17 @@
+{
+	"uid": "brichton (3bf245).wad",
+	"name": "BRICHTON.WAD",
+	"description": "Small level, the main structure being a relatively small wooden fortress, complete with battlements and a deep moat (so is the water), and surrounded by a high wall of metal and stone.",
+	"version": "3bf245",
+	"date": "2014-01-07 22:04:38",
+	"files": [
+		{
+			"filename": "brichton.wad",
+			"size": 74298,
+			"crc": 3324175980,
+			"md5": "efc431193d3cfec1dbf169a4bac09d48",
+			"sha1": "3bf24522175e4f3b6180d5165cf9cb1b31592a09",
+			"sha256": "1e4b9d2a6366da778ff1f36d23fdb21b247522df633a5530f325d17c93175c17"
+		}
+	]
+}

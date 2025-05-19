@@ -1,0 +1,17 @@
+{
+	"uid": "flip (532e5b).wad",
+	"name": "FLIP",
+	"description": "This my first wad,it's dumb,best to get out of my system.",
+	"version": "532e5b",
+	"date": "2013-07-09 20:21:39",
+	"files": [
+		{
+			"filename": "flip.wad",
+			"size": 40801,
+			"crc": 4288783892,
+			"md5": "8393f1c3876cc0fd291a9063d47ebee0",
+			"sha1": "532e5bf40b199bf9f17fecfc0f46bb2f6524a11b",
+			"sha256": "df97143f34fdb1c815ba19fefa50a3648f8006413d6ca489b455ec21e75af81e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "INSRT_01 (81048a).wad",
+	"name": "\"Insertion\" Map 01",
+	"description": "This is Map 01 of a 10 Map \"Episode\" for Doom 2 entitled _INSERTION_. The episode is \"in construction,\" so your comments are welcomed.",
+	"version": "81048a",
+	"date": "2014-01-07 22:18:02",
+	"files": [
+		{
+			"filename": "INSRT_01.wad",
+			"size": 78950,
+			"crc": 2063396687,
+			"md5": "91cb3418dd39cd8dd54c6d876a82f298",
+			"sha1": "81048a3ecc86ff73fafb9bd00c6a633aba1abeee",
+			"sha256": "af618278ca72f1636fee8c02946fe23cd85559c409a4224a4c31d8e3f870b437"
+		}
+	]
+}

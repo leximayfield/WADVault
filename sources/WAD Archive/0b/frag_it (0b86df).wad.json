@@ -1,0 +1,17 @@
+{
+	"uid": "frag_it (0b86df).wad",
+	"name": "Hit it! Shoot it! Saw it! FRAG IT!",
+	"description": "Deathmatch level designed for 3-4 players, but some testplayers thought it was also playable with only 2 players. Is it good? Well, we sure had fun testing it! The first test game lasted quite a while (2 of the 4 players over 100 frags). Textures etc. are aligned (this level is not one of those that consists of 4 rooms glued together with random textures on the walls). Furthermore: You won't find a plasma or BFG in here, my friends and I prefer conventional weapons. :) The rest of the weapons are available as well as a soul sphere, an armor and some extra ammo and goodies. My recommendation is that this level be played at alt-death (respawning weapons) because the amount and placement of weapons comes out best in that mode. If you have any comment or find any bugs please send mail to the e-mail adress above. If you like it tell me! if you don't, also tell me, but be sure to mention what you don't like and why, so I can use the feedback in my later trials at wad-editing. Have a blast!",
+	"version": "0b86df",
+	"date": "2014-12-03 20:08:33",
+	"files": [
+		{
+			"filename": "frag_it.wad",
+			"size": 153168,
+			"crc": 541887956,
+			"md5": "5128e4763401f046821bbc669c8d7b57",
+			"sha1": "0b86dfbaaa90c5346fd2c97b59efbfda82fbb4cb",
+			"sha256": "67783c6f4c0bfa09810806ba96705b7fe8ec6db284f0398029850ac237d96de1"
+		}
+	]
+}

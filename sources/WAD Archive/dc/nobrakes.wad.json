@@ -1,0 +1,16 @@
+{
+	"uid": "nobrakes.wad",
+	"name": "No Brakes",
+	"description": "A large and difficult map influenced by Plutonia.",
+	"date": "2015-01-13 21:36:37",
+	"files": [
+		{
+			"filename": "nobrakes.wad",
+			"size": 1025783,
+			"crc": 836207352,
+			"md5": "e002352252837d99f47654876c48df07",
+			"sha1": "dc7e51bd6ed7d01f1a36cef1b6f97893bcbf32cf",
+			"sha256": "1fbd7b2eb16a7bc4d2b45c53465a0282fb33e79252a6a84df3a8917de643c541"
+		}
+	]
+}

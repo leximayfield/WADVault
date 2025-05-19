@@ -1,0 +1,17 @@
+{
+	"uid": "thekeep2 (4e222f).wad",
+	"name": "THEKEEP2.WAD",
+	"description": "TheKeep2 is the final update of The-Keep.Wad. The medieval castle has few secrets to give away but playing a deathmatch can be fun. The chaingun appears to be the weapon of choice in this wad. There are two places now to pick it up.",
+	"version": "4e222f",
+	"date": "2013-11-02 15:20:17",
+	"files": [
+		{
+			"filename": "thekeep2.wad",
+			"size": 99024,
+			"crc": 2836754885,
+			"md5": "c21b40b02d15ac4f1c1594ee45fffd46",
+			"sha1": "4e222f05e92c3af360cd98474ce891eaafa7b0be",
+			"sha256": "8f07f66a6bc756c7aacc249ca55a36bd63889a2dd5674c53204cf45c575e7c14"
+		}
+	]
+}

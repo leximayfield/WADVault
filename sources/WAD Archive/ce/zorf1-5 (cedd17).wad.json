@@ -1,0 +1,17 @@
+{
+	"uid": "zorf1-5 (cedd17).wad",
+	"name": "Zorf",
+	"description": "Constant action DEATHMATCH 2.0 levels.",
+	"version": "cedd17",
+	"date": "2013-11-02 15:26:03",
+	"files": [
+		{
+			"filename": "zorf1-5.wad",
+			"size": 329602,
+			"crc": 2028739415,
+			"md5": "ec3fb64064484f32a467dd71d3ce22b9",
+			"sha1": "cedd17126f5e460623de687980a59916cfa64d7c",
+			"sha256": "b218a3d24535306f45bca5c65ab6a9203519cc1de9b95c098e62e74fb5707161"
+		}
+	]
+}

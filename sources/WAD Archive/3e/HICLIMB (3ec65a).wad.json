@@ -1,0 +1,17 @@
+{
+	"uid": "HICLIMB (3ec65a).wad",
+	"name": "High Climb",
+	"description": "The base of this game is build around stairs (as you know from the title). I have included many secrets into the game so you have something to search for (besides ammo, life, etc.<g> ). See if you can find them all. Hope you enjoy it!",
+	"version": "3ec65a",
+	"date": "2013-11-02 15:42:07",
+	"files": [
+		{
+			"filename": "HICLIMB.wad",
+			"size": 139842,
+			"crc": 2147323053,
+			"md5": "49ecc318737c349c853d00153a1e8d78",
+			"sha1": "3ec65acd62423b6421bbd5c8322ac2c203c96a72",
+			"sha256": "0a2756b54a0d6de460d800d8b6f371e3d9cc248514dd8dfcf5b7d67a7f2ef36d"
+		}
+	]
+}

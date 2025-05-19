@@ -1,0 +1,16 @@
+{
+	"uid": "DEVICE_1.wad",
+	"name": "Device One",
+	"description": "This was an outtake from the Master Levels.",
+	"date": "2014-10-20 19:51:50",
+	"files": [
+		{
+			"filename": "DEVICE_1.wad",
+			"size": 133385,
+			"crc": 408385692,
+			"md5": "7a377bf109886caaea83c5786ae1f711",
+			"sha1": "fe58bbea5e24a3549ffe1b72cd28fa0d387c13c8",
+			"sha256": "f1493e01d7f3fdcda098ebf4c48560fe098b9c56610650b44bd535e0255d7d54"
+		}
+	]
+}

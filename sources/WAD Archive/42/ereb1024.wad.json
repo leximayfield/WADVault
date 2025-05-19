@@ -1,0 +1,16 @@
+{
+	"uid": "ereb1024.wad",
+	"name": "Mt. Erebus 1024",
+	"description": "A E3M6 themed ZDoom compatible level for Doom 2. The playing area is limited to a square of 1024x1024 units. This is my first completed level for ZDoom, although not the first Doom level I have made.",
+	"date": "2016-03-05 15:00:05",
+	"files": [
+		{
+			"filename": "ereb1024.wad",
+			"size": 56095,
+			"crc": 1496530264,
+			"md5": "2251c4a8d3005a7f1c039b81f0f63465",
+			"sha1": "428f08c3c0e3560b5444f794733d47bcf12651a8",
+			"sha256": "68dfd2eff9c0b591806858f461200046228ba623781d090221ec6ba56534a1cf"
+		}
+	]
+}

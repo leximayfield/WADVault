@@ -1,0 +1,16 @@
+{
+	"uid": "terahell.wad",
+	"name": "Terra Hell",
+	"description": "just another crap map with a very linear and randomized layout which is not as meaningful pertaining to the saga of the game, but does have a lot of obstacles, traps and puzzles. music made from scratch. saving only works in GZDoom and other more advanced ports.",
+	"date": "2015-12-29 14:49:50",
+	"files": [
+		{
+			"filename": "terahell.wad",
+			"size": 10074814,
+			"crc": 713108339,
+			"md5": "95d13cbf30d9934a9cb7381f7d405e2d",
+			"sha1": "2bd49244deb07d788b20482c0fc2af11f193d6c0",
+			"sha256": "d3b43a8d7e4a7ea4f2def44e72b765126e6baeea1b12e648b7fa482a5c33ca2b"
+		}
+	]
+}

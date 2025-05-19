@@ -1,0 +1,16 @@
+{
+	"uid": "badidea.wad",
+	"name": "Bad Idea",
+	"description": "UPDATED: Fixed an erroneous player 1 start, 3d start things, and bad multiplayer item flags. I started these maps a couple years ago and decided this summer to finish them. They take place on maps 14 through 19 for two reasons: Music, and secret levels :D Have fun!",
+	"date": "2014-12-15 22:00:03",
+	"files": [
+		{
+			"filename": "badidea.wad",
+			"size": 900460,
+			"crc": 1871596905,
+			"md5": "b22fc66cbf3f96cd2e372f258c7364e3",
+			"sha1": "4c729e5495f54f133fe0901c916eeeb27241a6ac",
+			"sha256": "876811b7b651580a5b28395e478d6d740bd532ab35b3fd4c697262127cf29e01"
+		}
+	]
+}

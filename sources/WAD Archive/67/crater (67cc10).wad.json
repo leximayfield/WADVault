@@ -1,0 +1,17 @@
+{
+	"uid": "crater (67cc10).wad",
+	"name": "Docking Crater Alpha",
+	"description": "Huge. Structured. Kinda cool. My best yet?",
+	"version": "67cc10",
+	"date": "2014-01-11 11:09:57",
+	"files": [
+		{
+			"filename": "crater.wad",
+			"size": 303429,
+			"crc": 332637242,
+			"md5": "d9b89836cef204a9e32f62afdacd60a0",
+			"sha1": "67cc10100c3958474e3ee4ebf7436208adfe04d8",
+			"sha256": "62f993c32e426fb758b827c7bbcfe1323e3adfc035c172377121cf073dfa127e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "mydoom.wad",
+	"name": "MyDoom",
+	"description": "Commander Flopbrain has informed you that trouble is a-brewing in the Mess Hall. Looks like Doomguy has to sort out the horrendous visages of evil once again.",
+	"date": "2013-04-19 01:28:54",
+	"files": [
+		{
+			"filename": "mydoom.wad",
+			"size": 78051,
+			"crc": 2536923884,
+			"md5": "9f14428a7df8941a2cfbaa097f1a7998",
+			"sha1": "25cfea30e68c6d188ec47ef07089e62ee2ec8f9d",
+			"sha256": "2da9ea71d082bcab0ef546545157692be9faebfa39c4a5cea620fb96400f890f"
+		}
+	]
+}

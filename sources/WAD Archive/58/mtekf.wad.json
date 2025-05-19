@@ -1,0 +1,16 @@
+{
+	"uid": "mtekf.wad",
+	"name": "Midnight Tek Frenzy",
+	"description": "Fast-paced, challenging map in a nighttime tek setting. All 6 keys are present and can be aquired in any order. It's a bit rushed, so there's some sloppy visuals, but nothing too serious. Originally intended to be released with Community Chest 4.",
+	"date": "2015-01-13 21:45:30",
+	"files": [
+		{
+			"filename": "mtekf.wad",
+			"size": 12444047,
+			"crc": 3443568070,
+			"md5": "eabf62989ad7329a273c8305a1035045",
+			"sha1": "58d58aced2a0b1de1139ba2e31282606df80d8ee",
+			"sha256": "e44f2e2752538c0a0a501c243bf8731c5a56c03ee82c8ddba5152104607cdb96"
+		}
+	]
+}

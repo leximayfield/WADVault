@@ -1,0 +1,17 @@
+{
+	"uid": "YOURFUKD (961f45).wad",
+	"name": "Your Fucked!!!",
+	"description": "A \"in-your-face\" DEATHMATCH ONLY level. I've payed close attention to texture choice and alignment, weapon and ammo placment, & health placement. Also have placed various \"hidden\" teleporters so you can navigate the level quickly. Also have them placed so you can step off to the side of a hallway while being chased and appear behind your chaser. Most importantly this level is \"fun-to-play\" tested. So far four well seasoned network testers have all enjoed playing it. All weapons are included. I suggest -TURBO 200 as thats what its been play tested at.",
+	"version": "961f45",
+	"date": "2013-11-04 20:08:15",
+	"files": [
+		{
+			"filename": "YOURFUKD.wad",
+			"size": 84432,
+			"crc": 3550866016,
+			"md5": "b340b26403ea9a4bbe0dff486165eb77",
+			"sha1": "961f45ad43b4cc7ba703aed4fbbaaf28939a6c64",
+			"sha256": "0a773b15de7a104d7965917cc9d16c585a8f50a9f4e8b10e2e631287818c3999"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "qudoom.wad",
+	"name": "Quake dOOm v1.0",
+	"description": "This is mainly a Deathmatch WAD, but some single-player support has been added, too. COMPLETELY NEW! Not at all like my pervious WADs, which were modifacations on id's levels. This is COMPLETELY NEW! I reccomend that you use this for Deathmatch, but you can test it out on single. This is an attempted port of id's Quake level, E1M1. Just the layout was copied, however. And even not that completely. New lifts, and extra areas abound. Not ported using any external programs.",
+	"date": "2014-12-13 17:29:22",
+	"files": [
+		{
+			"filename": "qudoom.wad",
+			"size": 25898,
+			"crc": 1629459787,
+			"md5": "f2887128c59f640099703f77422618cd",
+			"sha1": "0ee7597e8f02465f10aeefd4072a5a7132a23349",
+			"sha256": "dfe29f520dce3d6c55b532f15c410cfea7454b0cf9a08800156dca2eefe3318e"
+		}
+	]
+}

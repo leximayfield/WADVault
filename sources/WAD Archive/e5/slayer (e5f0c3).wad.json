@@ -1,0 +1,17 @@
+{
+	"uid": "slayer (e5f0c3).wad",
+	"name": "Slayer",
+	"description": "This is my first \"official\" wad. The idea behind it is a themeless, but varied scenery type adventure. I tried to make it scary and fun. Also, the area in which the level ends is the ground floor of my cabin near Mount Lassen.",
+	"version": "e5f0c3",
+	"date": "2014-01-07 21:49:30",
+	"files": [
+		{
+			"filename": "slayer.wad",
+			"size": 97221,
+			"crc": 1586005322,
+			"md5": "5bb7b1ae08f68e05955ea68291f07895",
+			"sha1": "e5f0c33832bfd6349b2adbf57f7dbd656aac4cad",
+			"sha256": "391fcd6268debbcee173a63fa9fa2275e41570b96e29aa5b4d6a79bfdc8f8b98"
+		}
+	]
+}

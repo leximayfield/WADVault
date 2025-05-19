@@ -1,0 +1,16 @@
+{
+	"uid": "rc-dc.wad",
+	"name": "Reconstruction/Decomposition",
+	"description": "A silver spaceship with custom textures. Loosely based on Termination by mrthejoshmon. The second map in the wad is just a small \"outro\" level.",
+	"date": "2015-09-15 17:08:20",
+	"files": [
+		{
+			"filename": "rc-dc.wad",
+			"size": 9115746,
+			"crc": 3446091589,
+			"md5": "50c3db7622db9cedb054862c434bce71",
+			"sha1": "8d55b0f74188715298c5817438a8bca6b040742a",
+			"sha256": "d8eabe4fc739e6b1aebbace8e9037f1b31c7fc5b12efb70a7f87f921ab3e58c7"
+		}
+	]
+}

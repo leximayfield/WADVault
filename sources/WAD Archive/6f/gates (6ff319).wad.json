@@ -1,0 +1,17 @@
+{
+	"uid": "gates (6ff319).wad",
+	"name": "UAC Gates Central",
+	"description": "Flush it out.",
+	"version": "6ff319",
+	"date": "2014-12-24 17:19:47",
+	"files": [
+		{
+			"filename": "gates.wad",
+			"size": 1392923,
+			"crc": 3441503608,
+			"md5": "6e9a8ba2bee56cd4d57ae02270102448",
+			"sha1": "6ff319144c37d1b0496b68b40b8805a9b54c6275",
+			"sha256": "e8e124a5530e55bc30595de530a88f47c315d8293bfc75902c47eb52e918e173"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doomduke.wad",
+	"name": "Map 1 of Duke3D",
+	"description": "A reproduction of Map 1 from Duke Nukem 3D. As close as possible anyways.",
+	"date": "2014-12-15 21:58:25",
+	"files": [
+		{
+			"filename": "doomduke.wad",
+			"size": 72737,
+			"crc": 1045851783,
+			"md5": "ffe571ccd767e3580c4ff66fcc679912",
+			"sha1": "c22cfa678ddafe4d5b3ec2ba28056c3c974676cb",
+			"sha256": "19751dbbbcf89c153aca1186049ac515126c90d55cf91028dc1b7695807b741a"
+		}
+	]
+}

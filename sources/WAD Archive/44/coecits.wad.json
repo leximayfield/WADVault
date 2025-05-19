@@ -1,0 +1,16 @@
+{
+	"uid": "coecits.wad",
+	"name": "Castle Of Eternal Carrot In The Sky",
+	"description": "The background to this level is weird... just like the level itself. I had a dream about a very weird Doom level, and when I woke up I remembered the level almost exactly. I couldn't resist building the thing, and here it is... :) As I said, this is almost exactly like in the dream, but I had to make some changes because of engine limits (no RoR etc), design improvements and input from the testers.",
+	"date": "2014-12-21 15:09:28",
+	"files": [
+		{
+			"filename": "coecits.wad",
+			"size": 1496024,
+			"crc": 1246626840,
+			"md5": "b1e118e65f9863bc5df676ebdb81a284",
+			"sha1": "44cfc3b30307638df96aa521c3731040ca725c15",
+			"sha256": "eb47e3220a17ef32ea4da02f9c077c643a21612129ad53955613b1a81ae938c0"
+		}
+	]
+}

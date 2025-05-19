@@ -1,0 +1,16 @@
+{
+	"uid": "satan7.wad",
+	"name": "The seven tongues of Satan",
+	"description": "Map with hellish/medieval style that consists of 3 large areas connected by teleporters. **There is a way to skip the second area so keep your eyes open! - but you will miss a lot of cool stuff then** This map was NOT built with jumping in mind - so you have been warned if you get stuck somewhere. (There is no way to get stuck without jumping) If you find yourself lost keep an eye open for changes in the architecture! Features ALL available weapons from Doom 2 (lots of ammo included). **I designed this map for playing with jdoom but it runs with zdoom as well (and probably with other source ports)** Will NOT run with vanilla Doom 2",
+	"date": "2014-12-29 15:55:34",
+	"files": [
+		{
+			"filename": "satan7.wad",
+			"size": 544525,
+			"crc": 3250935124,
+			"md5": "a938d99329ec785812593c11cc831106",
+			"sha1": "bf6b7ae8fedac50ed5f4a2a51f0a210649cc1f4b",
+			"sha256": "59b7e12f055bf4b33e3d616bc51c9d58a2bd3022f3c5b4a43d2b0ca7b3dfc150"
+		}
+	]
+}

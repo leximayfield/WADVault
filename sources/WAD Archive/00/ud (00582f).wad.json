@@ -1,0 +1,17 @@
+{
+	"uid": "ud (00582f).wad",
+	"name": "Ungrateful Dead",
+	"description": "See the original ud.txt",
+	"version": "00582f",
+	"date": "2015-01-14 22:53:20",
+	"files": [
+		{
+			"filename": "ud.wad",
+			"size": 174217,
+			"crc": 3223881485,
+			"md5": "d903e6f8aabc96c2ac5380c7c918536d",
+			"sha1": "00582f0aa932c4e268c3d8e46d366cd11a7f89a0",
+			"sha256": "5e7cf3519e33121a1d6ed061dfe02f230d211282669c316814324fd1d372c818"
+		}
+	]
+}

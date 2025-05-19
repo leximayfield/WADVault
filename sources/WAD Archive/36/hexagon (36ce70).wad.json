@@ -1,0 +1,17 @@
+{
+	"uid": "hexagon (36ce70).wad",
+	"name": "Hexagon of Death",
+	"description": "This is an intimate wad with an interior room (strangely shaped like a hexagon) and an exterior ring around it. Inside the room are 1-way walls so you can see into the BFG area, but they can't see out. I hope you like my use of the default graphics.",
+	"version": "36ce70",
+	"date": "2014-08-30 14:25:04",
+	"files": [
+		{
+			"filename": "hexagon.wad",
+			"size": 28037,
+			"crc": 426001524,
+			"md5": "237d59e8abbf7a25abfabafeee3679c7",
+			"sha1": "36ce70f2ea5ccf1575817c6294eb541e38d78c96",
+			"sha256": "295a530b9dc62c9912f22ca47e16e9db513d3ae67bc95b815dbb7b5040b7f314"
+		}
+	]
+}

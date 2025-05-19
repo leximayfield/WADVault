@@ -1,0 +1,16 @@
+{
+	"uid": "e_bskull.wad",
+	"name": "The beta lost soul",
+	"description": "The beta lost souls from Press Release Doom & MBF, made available for editing use. You know 'em right? If you want to see the monster in action right away, type 'summon betalostsoul' at the console. For Dehacked user modifications, know that... - thing number = 23006 (lost soul ID#+20000) - frame numbers = 10585 to 10603",
+	"date": "2014-12-11 22:26:28",
+	"files": [
+		{
+			"filename": "e_bskull.wad",
+			"size": 44238,
+			"crc": 3627081711,
+			"md5": "f46aaeb8115d415066916f2d1886fcb8",
+			"sha1": "f2af36137d2436ebf06535afb657dc8d794dd5f0",
+			"sha256": "288e281ea0338b294f47728cc6d7f7f22de449952f676bb66e7f07424c264040"
+		}
+	]
+}

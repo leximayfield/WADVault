@@ -1,0 +1,17 @@
+{
+	"uid": "gmp (39ba35).wad",
+	"name": "Good Morining Phobos",
+	"description": "Good Morning Phobos is a brand new megawad that captures some of the old school and new school levels,created mostly by me,hope you enjoy this exciting experience",
+	"version": "39ba35",
+	"date": "2017-06-27 00:14:02",
+	"files": [
+		{
+			"filename": "gmp.wad",
+			"size": 34346506,
+			"crc": 4250275533,
+			"md5": "f98f40ae1711d62704936eea9df17656",
+			"sha1": "39ba3538d0ecdcfbc548792714837fa295d40e1c",
+			"sha256": "5faba41bac233f613bea11247f66f4e74a4adfca8e8c030984dfd03e136e9509"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "unknown1 (01013b).wad",
+	"name": "Unknown1",
+	"description": "How did I end up here? My mind can't remember anything. I have to find my way out of here!",
+	"version": "01013b",
+	"date": "2018-09-30 20:23:12",
+	"files": [
+		{
+			"filename": "unknown1.wad",
+			"size": 15238418,
+			"crc": 1231768548,
+			"md5": "8988b12698cc7c8bd7bd1cca7ed909ea",
+			"sha1": "01013b1fc49afca7566e8a160edd6e8f3b5828cf",
+			"sha256": "246f5d776ef0948cbcfdfd61741314aaa37695fb024f9a6aa397d29c58f875b5"
+		}
+	]
+}

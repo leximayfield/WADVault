@@ -1,0 +1,16 @@
+{
+	"uid": "dusk.wad",
+	"name": "The DUSK ( v 1.21 )",
+	"description": "Six levels designed for great Deathmatch, Single Player and Cooperative game.",
+	"date": "2014-12-18 22:31:27",
+	"files": [
+		{
+			"filename": "dusk.wad",
+			"size": 367002,
+			"crc": 2006603308,
+			"md5": "747d8a77579297ec6c72a3e789e83fd4",
+			"sha1": "90ff7404a84860aa97f979ec238c615129c6e18c",
+			"sha256": "fa302a60f53125200d5608b44ba7d943cf653f39062a21408c822254b49aaa18"
+		}
+	]
+}

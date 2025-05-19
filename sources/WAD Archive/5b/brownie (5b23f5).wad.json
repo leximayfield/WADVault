@@ -1,0 +1,17 @@
+{
+	"uid": "brownie (5b23f5).wad",
+	"name": "Brownie",
+	"description": "BOEMBOEM great deathmatch-fun",
+	"version": "5b23f5",
+	"date": "2014-01-07 22:22:12",
+	"files": [
+		{
+			"filename": "brownie.wad",
+			"size": 29103,
+			"crc": 2008987097,
+			"md5": "68e1146892232da66d376d5a4727a821",
+			"sha1": "5b23f57580b900f23ae593add284eda7a7ffc1e3",
+			"sha256": "582c5044ee4f6b8637c00ed155304bb56b460cefe57373c9285065d02ed07c5b"
+		}
+	]
+}

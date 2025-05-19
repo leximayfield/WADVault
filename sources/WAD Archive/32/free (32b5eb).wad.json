@@ -1,0 +1,17 @@
+{
+	"uid": "free (32b5eb).wad",
+	"name": "Acid Walk (you'll know why when you see it)",
+	"description": "This is just a little beta I'm tired of adding stuff to. It's fairly challenging - check out my .lmp for some secrets or you won't get far without cheating. (See also Descr.txt for my exam details)",
+	"version": "32b5eb",
+	"date": "2015-09-15 17:25:30",
+	"files": [
+		{
+			"filename": "free.wad",
+			"size": 169390,
+			"crc": 1090305096,
+			"md5": "c624542653f98d4532d6510ef2e0786c",
+			"sha1": "32b5ebd8ca32d74f7a3dfbd1d9ec127138ee44b8",
+			"sha256": "c866819e75e7980f6a40b29b1ec7d585a56c648d338b41c2be3433b1cf85dde7"
+		}
+	]
+}

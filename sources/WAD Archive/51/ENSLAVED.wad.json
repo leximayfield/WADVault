@@ -1,0 +1,16 @@
+{
+	"uid": "ENSLAVED.wad",
+	"name": "Enslaved.wad",
+	"description": "A redo of Wish.wad (also found here), without monsters...much better for DM...",
+	"date": "2014-08-30 14:35:20",
+	"files": [
+		{
+			"filename": "ENSLAVED.wad",
+			"size": 21733,
+			"crc": 1152092151,
+			"md5": "6070487dbf03ccfa6dfd6d2771fb2e78",
+			"sha1": "51112a3e347b20d10a35d1a6e24ab5149044db99",
+			"sha256": "3b8fcb2e8c379a3a17f6774b3023a7e29b30942e8bb9594103c28fdc27896ff2"
+		}
+	]
+}

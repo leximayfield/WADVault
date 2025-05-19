@@ -1,0 +1,17 @@
+{
+	"uid": "mick (c4d167).wad",
+	"name": "MICK.WAD",
+	"description": "Set the mood here.",
+	"version": "c4d167",
+	"date": "2013-11-02 16:07:05",
+	"files": [
+		{
+			"filename": "mick.wad",
+			"size": 112654,
+			"crc": 2432346411,
+			"md5": "29fb0a101a908563da80eefc64c56465",
+			"sha1": "c4d1670e940cf5f31141ec035f516ed0eb931293",
+			"sha256": "f2c3a7a0a9e09f3627740c11155b0ced2dc95857254b02958e44623219926904"
+		}
+	]
+}

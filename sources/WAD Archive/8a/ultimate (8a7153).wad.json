@@ -1,0 +1,17 @@
+{
+	"uid": "ultimate (8a7153).wad",
+	"name": "Ultimate",
+	"description": "This is a group of nine made from scratch levels for Doom. Most every level has about 200 sectors and an average of 25 sector tags. I tried to line up the graphics as well as possible so everything looks like IDs. Everything is unpegged or offset so it looks good.",
+	"version": "8a7153",
+	"date": "2013-11-06 21:50:46",
+	"files": [
+		{
+			"filename": "ultimate.wad",
+			"size": 1033903,
+			"crc": 876845583,
+			"md5": "61ee387ade8be4dac84e4097bce3bb40",
+			"sha1": "8a71537fb96ffb3b906a81036231b50a62aef74d",
+			"sha256": "0e20a76968a431d29ea8c0af1eb7d6075bcd270232f07591118e7f3837bff3e8"
+		}
+	]
+}

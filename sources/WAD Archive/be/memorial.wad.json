@@ -1,0 +1,16 @@
+{
+	"uid": "memorial.wad",
+	"name": "Memorial",
+	"description": "One levels for Boom compatible ports with support of MUSINFO lump.",
+	"date": "2013-04-18 21:56:54",
+	"files": [
+		{
+			"filename": "memorial.wad",
+			"size": 6978960,
+			"crc": 2177824901,
+			"md5": "66c865280ef4c604252d8e11fe674aa9",
+			"sha1": "bee225dbca98c125cc01f193c00318c4b88cb514",
+			"sha256": "4942cb15b754f13f1978e9c37d9f4bb0a9c26b0a88674fec588d7bbb40eefe7e"
+		}
+	]
+}

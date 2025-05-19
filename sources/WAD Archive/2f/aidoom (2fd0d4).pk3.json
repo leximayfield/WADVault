@@ -1,0 +1,17 @@
+{
+	"uid": "aidoom (2fd0d4).pk3",
+	"name": "AI Enhancements: A Decorate Experiment",
+	"description": "Alters the behavior of every monster in the game, along with various other rebalances. Rudimentary line-of-fire checks, marching fire, enemies firing in volleys, along with numerous overall difficulty-increasing tweaks. See below for full details.",
+	"version": "2fd0d4",
+	"date": "2016-06-16 22:07:14",
+	"files": [
+		{
+			"filename": "aidoom.pk3",
+			"size": 7172,
+			"crc": 375862410,
+			"md5": "12802cb3869e3ca0abf20279e74f7311",
+			"sha1": "2fd0d408a024e5d7b5ce535b126d115853f64001",
+			"sha256": "020be2b7bf3e55e3be53e01577f47615539681a993ad75f7825b3a184e929d46"
+		}
+	]
+}

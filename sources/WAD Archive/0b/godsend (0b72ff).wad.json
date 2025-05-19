@@ -1,0 +1,17 @@
+{
+	"uid": "godsend (0b72ff).wad",
+	"name": "GODSEND",
+	"description": "A full episode (9 missions) for DOOM (Registered) v1.666 or higher. For experienced DOOMers! A 486\\66 is highly recommended. Play at \"I'm Too Young To Die!\" level only. Trust me, it's hard enough.",
+	"version": "0b72ff",
+	"date": "2014-12-13 12:41:32",
+	"files": [
+		{
+			"filename": "godsend.wad",
+			"size": 698210,
+			"crc": 1752170107,
+			"md5": "37d7552a2557744e30acf7e9a378ac6c",
+			"sha1": "0b72ff66372512868212e05671874164a7594d8e",
+			"sha256": "a57844d6283be3b04a132b4de9a31d86eac43abb99c0656893741ac0447f8573"
+		}
+	]
+}

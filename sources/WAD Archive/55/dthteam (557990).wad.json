@@ -1,0 +1,17 @@
+{
+	"uid": "dthteam (557990).wad",
+	"name": "Death Team",
+	"description": "This is a deathtag deathmatch game. You have two teams - Blue and Red. The GREEN and GREY (indigo) players form the blue team, the BROWN and RED players form the red team.",
+	"version": "557990",
+	"date": "2013-11-02 17:10:45",
+	"files": [
+		{
+			"filename": "dthteam.wad",
+			"size": 461340,
+			"crc": 58934182,
+			"md5": "ea4b1fb26dc3065704d162b233000f8a",
+			"sha1": "5579906d8a66f462d6edbfa8ea6d01ce5210bfbb",
+			"sha256": "bcddb58ab805c150d6355950e8276cc34aae3919e8f9021f06ae70ba04ed9087"
+		}
+	]
+}

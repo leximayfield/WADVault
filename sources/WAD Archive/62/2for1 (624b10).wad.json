@@ -1,0 +1,17 @@
+{
+	"uid": "2for1 (624b10).wad",
+	"name": "\"Watch Yer Back\" and \"Bloodfalls\"",
+	"description": "This WAD is a combination of two levels I designed. Map01 is my very first WAD, but it doesn't suck TOO bad, and it is excellent for deathmatch. Map02 is good for solo play, and there are enough goodies scattered around to keep deathmatches going pretty well. (I hate it when you get killed and then you can't get any good stuff before the other guy hoses you again.)",
+	"version": "624b10",
+	"date": "2014-12-15 19:12:20",
+	"files": [
+		{
+			"filename": "2for1.wad",
+			"size": 160276,
+			"crc": 388327621,
+			"md5": "2df346ee3da98ea1182b714aed4c07ad",
+			"sha1": "624b10da6b3dc66fd5f01d35015ac7aa9347778d",
+			"sha256": "ffa011177c4e2480ae38d4796f0a18d6adafacb76d996e7dc36017fa9bb72cf6"
+		}
+	]
+}

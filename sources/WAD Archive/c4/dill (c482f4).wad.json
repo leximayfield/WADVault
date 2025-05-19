@@ -1,0 +1,17 @@
+{
+	"uid": "dill (c482f4).wad",
+	"name": "The DILLY wad",
+	"description": "Fire... death... lots of Sergeants and Imps. You may need to use IDKFA the first time through",
+	"version": "c482f4",
+	"date": "2013-11-02 15:36:13",
+	"files": [
+		{
+			"filename": "dill.wad",
+			"size": 237501,
+			"crc": 1517585932,
+			"md5": "15723285ccb6ab4dfaa08fb7c940d688",
+			"sha1": "c482f494444c1b70c12074e60e180b4873d4f367",
+			"sha256": "a822e4ae2b75877f124108cf4be20aa8424efed4c9bb37d378995f0142f86317"
+		}
+	]
+}

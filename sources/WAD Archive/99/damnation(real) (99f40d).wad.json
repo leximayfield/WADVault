@@ -1,0 +1,17 @@
+{
+	"uid": "damnation(real) (99f40d).wad",
+	"name": "Damnation",
+	"description": "My 32-level Megawad for Doom II/Final Doom, it has an MP3 Track for each level and text screen, uses ambient sounds from Doom 3, Quake 2 and others. Also uses textures from cc4-tex.wad and q2tex.wad. Requires Zandronum, skulltag_data.pk3, skulltag_actors.pk3, and cc4-tex.wad and q2tex.wad, all of them (except Zandronum of course) are included in the zip file, and though the Wad is meant to be played with Brutaldoom, it's not required. Overall the difficulty of the Wad is hard, so if you're a casual player, do it on easy, if you're a pro, do it on normal/hard, etc. Most of the levels are very large and may cause low frame rates. Uses enemies and weapons and items from Skulltag (though weapons may not work depending on the Zandronum version used). Read the Doom - Damnation.rtf file if you want more details and are interested in the story. Follows the story of a space marine present on the planet of Kronos when a demonic invasion hits.",
+	"version": "99f40d",
+	"date": "2014-10-23 19:59:28",
+	"files": [
+		{
+			"filename": "damnation(real).wad",
+			"size": 256445935,
+			"crc": 328539582,
+			"md5": "06840bed7d885751e32a609805a90068",
+			"sha1": "99f40d65d2e7226ba2420c8801998dd571810aaa",
+			"sha256": "a82cd07cfaa6426cbe8eacf528b6b7b90c2a30de65a36b7c6a79a01f43103432"
+		}
+	]
+}

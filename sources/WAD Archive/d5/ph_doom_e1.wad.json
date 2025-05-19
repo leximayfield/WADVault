@@ -1,0 +1,16 @@
+{
+	"uid": "ph_doom_e1.wad",
+	"name": "Phobus Doom Episode 1: Base Invaders 4-map Demo",
+	"description": "Back in the shoes of an Extreme Marine, you're battling a huge invasion force that has taken further steps to destroy humanity. Your first mission sends you to an overrun multi-purpose UAC facility. This facility is split into a variety of small techbase maps, some of which are 1 monster or 1024 maps. \"Nightmare!\" difficuly has been swapped for a \"UV Pistol Starts.\" option that uses LOADACS to make every map a pistol start (100 health and everything), whilst the other 4 difficulties remain as they were. This episode features some of my custom monsters (Fish, Jelly, Starfish, Munchkin, Zombie Scientists and the Ignis Locus). This Episode doesn't allow jumping (except in the secret level), but does allow crouching and gives the player an air supply of 15 seconds - meaning if you stay underwater for longer than that, you will start to take drowning damage (Radsuits can be used to extend this time to a minute). Each map has its own snippet of information at the end of this textfile, just before the copyrights section.",
+	"date": "2014-12-29 08:52:23",
+	"files": [
+		{
+			"filename": "ph_doom_e1.wad",
+			"size": 2071035,
+			"crc": 582114286,
+			"md5": "ddf3b47f5968cd23044a862a059c5f1e",
+			"sha1": "d587f979239f340b135d567b528488af18031076",
+			"sha256": "bd02ba525c71ab51bf783364671428a52ea58796661e1b5819ee40058a0388b0"
+		}
+	]
+}

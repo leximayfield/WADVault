@@ -1,0 +1,17 @@
+{
+	"uid": "timewarp (845354).wad",
+	"name": "\"TimeWarp\"",
+	"description": "This is a deathmatch only level for DOOM I designed with the altdeath mode in mind. It is a smallish level without the chainsaw, plasma rifle, or BFG. What it does feature is good solid deathmatch action (what else?). It has been extensively playtested with 2-4 players and has gone through a few revisions to arrive at its current state.",
+	"version": "845354",
+	"date": "2016-02-07 20:29:18",
+	"files": [
+		{
+			"filename": "timewarp.wad",
+			"size": 45145,
+			"crc": 4284634621,
+			"md5": "36aa62c2f62f6aed8ecf04960f934a92",
+			"sha1": "84535489b440db7620232e8727ed947c04f928f8",
+			"sha256": "1c96d5f8dcb3c3c908c5b86023bff3b24b143203b9c59864e88ff3333a4852de"
+		}
+	]
+}

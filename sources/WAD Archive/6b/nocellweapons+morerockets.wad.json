@@ -1,0 +1,16 @@
+{
+	"uid": "nocellweapons+morerockets.wad",
+	"name": "No Cell Weapons + More Rockets",
+	"description": "Removes Plasma and BFG weapons from any map. Also, the Rocket Launcher now starts with 30 ammo in Death Matches. This wad is meant to be used in Death Matches and similar modes. The BFG was removed because its overpowered and boring. The Plasma was removed because its uninteresting.",
+	"date": "2013-04-21 00:50:12",
+	"files": [
+		{
+			"filename": "nocellweapons+morerockets.wad",
+			"size": 1819,
+			"crc": 1794063184,
+			"md5": "a5c909cdaac67fee0f9aec9d0e79f2bf",
+			"sha1": "6b159f09be449f478bacdff206475296caaed090",
+			"sha256": "f3abd6c665522958a583cfb3edce2914f85b7ce75642143f318ba3d4ed5124d3"
+		}
+	]
+}

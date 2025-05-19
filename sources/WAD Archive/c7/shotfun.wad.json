@@ -1,0 +1,16 @@
+{
+	"uid": "shotfun.wad",
+	"name": "shotfun",
+	"description": "Initially started as a pure shotgun gameplay map. Only providing the shotgun weapon (although I also added the chaingun now because the enemies are too much) and hordes of monsters that take one shot to get down. Then I also tried my level design ideas (city lights at the beginning, stary sky at the end). And trying to finish this fast and release it, it became a hell of monster cramped map that take a long time to finish with those weapons especially in hard levels. But if you like such maps and pure shotgun action then this is for you.",
+	"date": "2014-12-13 12:40:05",
+	"files": [
+		{
+			"filename": "shotfun.wad",
+			"size": 1173646,
+			"crc": 229267783,
+			"md5": "f9343826672d5cca1e3f46d0e91f90ed",
+			"sha1": "c72937cd3531183f93c508a85dc21121832b93e7",
+			"sha256": "3375823ea8395fae67a6c79b68db5c9eb75330e93f81dcec915c9f8e9bdcac28"
+		}
+	]
+}

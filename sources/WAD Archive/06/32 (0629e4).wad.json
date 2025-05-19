@@ -1,0 +1,17 @@
+{
+	"uid": "32 (0629e4).wad",
+	"name": "Object \"32\"",
+	"description": "This wad (or, to be more precise,level) has been made originally for the project named Grid32.wad, but, because of circumstances, has not taken part in it. However, later I have decided to complete this level and to release it separately, as well as it was with 32 inch nails.wad, created by Eternal. Later, this level will enter into mine megawad. The level does not have any serious storyline - but the sense here is not the story. Everything that you need to know is: contact with Object \"32\" has been lost. You have been sent to find out why. Having arrived into place, you find out that there are demons which partially had altered that base. This level is difficult enough (or it may be so), so I advise to think over what difficulty you will choose before starting game.",
+	"version": "0629e4",
+	"date": "2014-12-20 18:37:52",
+	"files": [
+		{
+			"filename": "32.wad",
+			"size": 2612526,
+			"crc": 440870997,
+			"md5": "f2db17622504ec54f9d5f5d3bceff024",
+			"sha1": "0629e4456bc7e86829b7d9ed9d416379b5329886",
+			"sha256": "d3ffe769a6d63f07dbd0f955311f2f0db52ceab264ed81e9c03854e8c26c0a33"
+		}
+	]
+}

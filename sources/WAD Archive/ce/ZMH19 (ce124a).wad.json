@@ -1,0 +1,17 @@
+{
+	"uid": "ZMH19 (ce124a).wad",
+	"name": "rmh19.wad (revised demos for Doom 1.9)",
+	"description": "These wads are designed to be primarily for Deathmatch play, but the author intended for them to be still useful and enjoyable for play by individuals (or even cooperative mode). The designs are most conducive towards exciting Deathmatches, and all levels are relatively compact, but they are set up in such a way so that the other modes of play are still fun and fast-moving.",
+	"version": "ce124a",
+	"date": "2014-01-07 22:09:44",
+	"files": [
+		{
+			"filename": "ZMH19.wad",
+			"size": 519311,
+			"crc": 179971146,
+			"md5": "68cd46f822f9f6899939a3d64503b69b",
+			"sha1": "ce124aea16843f2fee5ffa5e6bedf49d3e26c1c1",
+			"sha256": "88a939fff985c9ecfb78881cc8251732bfe36de48a34b6eb4b6b0e60bb9816e2"
+		}
+	]
+}

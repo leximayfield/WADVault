@@ -1,0 +1,17 @@
+{
+	"uid": "cyclops (3ee6e3).wad",
+	"name": "CYCLOPS",
+	"description": "Arena type of Deathmatch WAD. Its not very complicated and there is plenty of ammo and weapons. Try difficulty settngs for some hidden monsters. 1 & 2 have no monsters. There are three almost hidden transporters to get to the BFG and megashpere.",
+	"version": "3ee6e3",
+	"date": "2014-12-03 20:16:36",
+	"files": [
+		{
+			"filename": "cyclops.wad",
+			"size": 29354,
+			"crc": 985197019,
+			"md5": "814eff877decce9e502e968603831207",
+			"sha1": "3ee6e391981ffaf7e1941e0b889a32673bc64ccd",
+			"sha256": "b2b0ccf1607cf7995fecd70d3bf36fe14b59f55a3633df083f61e369a07d664d"
+		}
+	]
+}

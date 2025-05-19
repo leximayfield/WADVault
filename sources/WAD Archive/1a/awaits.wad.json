@@ -1,0 +1,16 @@
+{
+	"uid": "awaits.wad",
+	"name": "Death Awaits",
+	"description": "A good size deathmatch level for Hexen. There are five rooms, four on the outside and a wide open room in the middle. Each room has special effects and phased lighting that makes it more fun and dangerous. Also, I put in a few monsters to make things more fun, but not so many that they get in the way.",
+	"date": "2014-12-31 12:17:51",
+	"files": [
+		{
+			"filename": "awaits.wad",
+			"size": 263592,
+			"crc": 1461928052,
+			"md5": "25e99ed5e19682d86bd920bab4cd609c",
+			"sha1": "1a2ca079c627295df79b74adb3abced32a5576e6",
+			"sha256": "cbdce69d18150ad680f5ab117cc95d0f7e638042213a22899cf1c2666c0fc75c"
+		}
+	]
+}

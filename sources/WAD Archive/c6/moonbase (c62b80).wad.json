@@ -1,0 +1,17 @@
+{
+	"uid": "moonbase (c62b80).wad",
+	"name": "MOONBASE.WAD",
+	"description": "A drop in for one of the tougher episode one levels.",
+	"version": "c62b80",
+	"date": "2013-11-02 15:59:28",
+	"files": [
+		{
+			"filename": "moonbase.wad",
+			"size": 48918,
+			"crc": 444650785,
+			"md5": "47679643c511d431acc6122174b8049a",
+			"sha1": "c62b8055dcdb4942a737f4479c5c0670745cfc0d",
+			"sha256": "8909d66b2cea35e57d8fb04d44369533da628e261f147206f9ffbb35f98e95ae"
+		}
+	]
+}

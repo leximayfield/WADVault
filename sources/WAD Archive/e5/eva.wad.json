@@ -1,0 +1,16 @@
+{
+	"uid": "eva.wad",
+	"name": "EVAN DOOM (AYANAMI DOOM) for DOOM II",
+	"description": "Single/Co-op/DM wad for DOOM II Another brand new Level for Doom II",
+	"date": "2014-12-18 23:14:47",
+	"files": [
+		{
+			"filename": "eva.wad",
+			"size": 487406,
+			"crc": 611178616,
+			"md5": "0661125994d7736fccca357e3b654111",
+			"sha1": "e5a3645a9f657ce0a902922188c2291f66fe693c",
+			"sha256": "080097ec1c72393b36d892ecad18522cd27ea2a91b62a9bb905f65611a6b31d1"
+		}
+	]
+}

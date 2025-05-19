@@ -1,0 +1,17 @@
+{
+	"uid": "tomb (bf9ca0).wad",
+	"name": "Tomb deathmatch",
+	"description": "Tomb Deathmatch....wow, I finally finished it! Can you guess where it's set in? A tomb and a church, and the connecting hallways and staircases. It has lots of special effects (torches lighting, phased lighting, some polyobjects), and is a great DM. The church is old and ruined, with broken stained-glass, out-of-place pews, and old chandeliers...the tomb is even older; rotting corpses, rotating walls, spiderwebs, and lots of dark phased lighting. Have fun with it! Please write me with any comments or bugs.",
+	"version": "bf9ca0",
+	"date": "2014-12-31 12:13:14",
+	"files": [
+		{
+			"filename": "tomb.wad",
+			"size": 92189,
+			"crc": 3066894568,
+			"md5": "8f18823c5642f3b26e48e108ccfa688d",
+			"sha1": "bf9ca0c3bd590090107c369570254801ec45c0a7",
+			"sha256": "232e797c914bc1c26ab11b81e8f63ece17887aa5d7b3d5aa3ddae0790fddef4b"
+		}
+	]
+}

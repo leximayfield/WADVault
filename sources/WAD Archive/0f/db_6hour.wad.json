@@ -1,0 +1,16 @@
+{
+	"uid": "db_6hour.wad",
+	"name": "The Sixth Hour",
+	"description": "Inspired by zodiac's Imperfect Hatred thread on Doomworld, this is an E4-style map created from scratch in six hours. For added difficulty and to keep the project authentic, I didn't use Doom Builder's 3D editing mode.",
+	"date": "2014-12-13 17:49:11",
+	"files": [
+		{
+			"filename": "db_6hour.wad",
+			"size": 67632,
+			"crc": 632497861,
+			"md5": "10c88fe5e30474f6de2000c0f4a55eda",
+			"sha1": "0fd3af1aad377eba6499bc3f0deb277a0ada9e2f",
+			"sha256": "d8c1879dae0b5e1a4c2e58f04ea5892e6896a71337fe7690f938e9cc48e6395c"
+		}
+	]
+}

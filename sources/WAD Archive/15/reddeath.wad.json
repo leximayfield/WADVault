@@ -1,0 +1,16 @@
+{
+	"uid": "reddeath.wad",
+	"name": "MONSTER (monster.wad)",
+	"description": "A huge, fairly straight foreward level that is is my first attempt at designing a new wad. I do not have any real story behind designing this wad. However, you should be able to complete this wad without the use of any \"special commands\". The reason I started building this is because I have played most of the other wads out there, and I thought I go do a better job. Boy was I wrong. Building a good wad, takes time and patience. Neither of which I possess alot of. Happy Hunting.",
+	"date": "2016-02-06 14:12:27",
+	"files": [
+		{
+			"filename": "reddeath.wad",
+			"size": 88758,
+			"crc": 3551954535,
+			"md5": "0c1f0c0bd5434283d6dd112c3845eab0",
+			"sha1": "150383a2353a56c84f921972166c0f0b496efedf",
+			"sha256": "cfd0cc0194723d312671954efe5ed8c69605c48a0708c24bf8a07f29e84a317a"
+		}
+	]
+}

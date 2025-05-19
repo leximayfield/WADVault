@@ -1,0 +1,16 @@
+{
+	"uid": "DANNE1.wad",
+	"name": "Danne's E1",
+	"description": "Episode 1 replacement for Doom1. Nothing fancy, just shoot stuff and make sure you record a demo when you're doing it. I started working on this in 2009 but lost interest in these kind of maps when I played SoD and Sunder. I really don't like Doom1 and the pwads for it, so please don't compare this to doom the way id did because it's nothing like it (the only thing they have in common is that they're both boring shitfests). I only made the maps as learning progress and in the end, I just mapped to get the wad done so I could release it.",
+	"date": "2014-04-02 12:45:22",
+	"files": [
+		{
+			"filename": "DANNE1.wad",
+			"size": 1877208,
+			"crc": 3278855509,
+			"md5": "eb1286520287798928b4ac4694e5136c",
+			"sha1": "be4fe66bd7f301721107a537d40972d996d4e79d",
+			"sha256": "cdd68de20db6a53c8187e2d518ca43df4eb1f557f7817b4f35315fb8433d2a1e"
+		}
+	]
+}

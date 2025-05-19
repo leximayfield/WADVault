@@ -1,0 +1,17 @@
+{
+	"uid": "court (b8ec70).wad",
+	"name": "court.zip",
+	"description": "A tennis match from hell, watch out for the net. Singles or doubles.",
+	"version": "b8ec70",
+	"date": "2013-11-02 16:05:33",
+	"files": [
+		{
+			"filename": "court.wad",
+			"size": 7252,
+			"crc": 3575790494,
+			"md5": "c89614848af6f512fd028fd2932fa47a",
+			"sha1": "b8ec70c8162b7dd725f18f3e09ba2e407b8080ee",
+			"sha256": "95ecd71084bae45a745c44b44b7da42ceaeb539fea9cd118170d4b446a36aa10"
+		}
+	]
+}

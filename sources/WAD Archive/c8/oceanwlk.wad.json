@@ -1,0 +1,16 @@
+{
+	"uid": "oceanwlk.wad",
+	"name": "Oceanwalk",
+	"description": "Deathmatch in the underground caverns of Oceanwalk!",
+	"date": "2018-06-15 11:33:20",
+	"files": [
+		{
+			"filename": "oceanwlk.wad",
+			"size": 39851,
+			"crc": 2460352764,
+			"md5": "acfa3d1ea8e8d6dce6411f0acbaff97e",
+			"sha1": "c8bca4b65f52670afbb5e1770b72aa2904ea01d9",
+			"sha256": "abf7fb762d49764ffeab874622659f45c93e090fbc19594bf3e09a5aaf71c126"
+		}
+	]
+}

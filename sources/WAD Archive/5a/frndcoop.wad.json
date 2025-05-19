@@ -1,0 +1,16 @@
+{
+	"uid": "frndcoop.wad",
+	"name": "Friendly Cooperatives",
+	"description": "Marines that you can spawn to assist you when you are in a jam.",
+	"date": "2014-12-11 22:28:41",
+	"files": [
+		{
+			"filename": "frndcoop.wad",
+			"size": 3230473,
+			"crc": 332417315,
+			"md5": "bb3e9ea6e446a7578165cdc5ad218637",
+			"sha1": "5a697c3a0fc9f5e5ed16ad48b8bc0924028cb974",
+			"sha256": "20030c995e6ee4bbb7edd6fbc69f51930505b7201a73ad935e8388a994be2f54"
+		}
+	]
+}

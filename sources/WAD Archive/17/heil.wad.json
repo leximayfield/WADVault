@@ -1,0 +1,16 @@
+{
+	"uid": "heil.wad",
+	"name": "Heil !",
+	"description": "Its a Doom2 wad. Get in the mood to kill things, solve puzzles and have a great time. This one has a Nazi type them to it, but not too overbearing.",
+	"date": "2014-12-18 22:35:01",
+	"files": [
+		{
+			"filename": "heil.wad",
+			"size": 281254,
+			"crc": 2111552692,
+			"md5": "0756f3e154f49c8fcd44ef37012b78a5",
+			"sha1": "17ff17b96ccc48d1b2c9ba5617b72f71eb67e1d1",
+			"sha256": "aa88a2e36b3e9232d0ab120d9823d0443d57fba4f64a0131e3559d049f16c2fa"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vile.wad",
+	"name": "Vile Flesh",
+	"description": "Vile Flesh is a full 32 level replacement for Doom2. You'll find the fist few levels are perhaps more reminicent of the original Doom, and as you progress, the levels become larger, more complex and far more challenging (think Eternal Doom). I've done my best to implement difficulty settings, but they don't make a big difference on later levels anyway. I hope you enjoy playing Vile Flesh! ==============================================",
+	"date": "2013-04-19 04:46:07",
+	"files": [
+		{
+			"filename": "vile.wad",
+			"size": 18342748,
+			"crc": 2565077913,
+			"md5": "a7aff9076267f7c9ed7b39e50d8d20a1",
+			"sha1": "e8680c49fbae1f9247be26b3739dcbf1f5c0dbe3",
+			"sha256": "d1815642f23ef59f8b7675b2ef109def14ce075ab562ae287c480d968a412c09"
+		}
+	]
+}

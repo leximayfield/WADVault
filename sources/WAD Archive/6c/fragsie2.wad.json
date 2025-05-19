@@ -1,0 +1,16 @@
+{
+	"uid": "fragsie2.wad",
+	"name": "Fragsie",
+	"description": "A nice little deathmatch map with a many monsters.",
+	"date": "2014-12-13 12:49:59",
+	"files": [
+		{
+			"filename": "fragsie2.wad",
+			"size": 69436,
+			"crc": 1270555585,
+			"md5": "f2d881a520b15d11c4c3dd5d6f7f471c",
+			"sha1": "6cb0559b673daa3f5a5da4d0aef6811b98237928",
+			"sha256": "de3bb2abeb7068a2403b8a04e9657107775064ac003ebe258f3606498fc36a39"
+		}
+	]
+}

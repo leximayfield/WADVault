@@ -1,0 +1,16 @@
+{
+	"uid": "fth666.wad",
+	"name": "DOOM 2 - Flashback to Hell",
+	"description": "A 15-level mapset for DOOM 2 that is compatible with the \"-complevel 9\" setting. Features new music by PRIMEVAL and James Paddock, as well as high-quality redone sound effects by Per Kristian Risvik. If the new music tracks are buggy in ZDOOM while using FMOD, updating to the latest non-official revision might fix the problem. I recommend using Fluidsynth, though.",
+	"date": "2014-03-30 12:46:27",
+	"files": [
+		{
+			"filename": "fth666.wad",
+			"size": 15120669,
+			"crc": 2652007319,
+			"md5": "f5b807d4e01047b06de772b0ba09509d",
+			"sha1": "e320782096915a4170b3a6f01084547ec70d4b9e",
+			"sha256": "a25a1518cd7e800d94fbf4584cc88cb2840f77c9c8d42d2f059199742797da03"
+		}
+	]
+}

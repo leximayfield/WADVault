@@ -1,0 +1,16 @@
+{
+	"uid": "adoomv11.wad",
+	"name": "ADooMv1.1",
+	"description": "A full episode replacement for Doom Episode 3",
+	"date": "2019-03-06 21:39:34",
+	"files": [
+		{
+			"filename": "adoomv11.wad",
+			"size": 1150304,
+			"crc": 1739768826,
+			"md5": "71a9d1ec255fe24e74d1cd89222a58f5",
+			"sha1": "3d98dbdf345f28f059371f02b5bdc73c9a624200",
+			"sha256": "2a10a6576c531959b93e3564c6ffe4b9e4fc143c0384c33e7a0aaa2d92b4b6a7"
+		}
+	]
+}

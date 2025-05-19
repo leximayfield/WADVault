@@ -1,0 +1,17 @@
+{
+	"uid": "runlkhel (221606).wad",
+	"name": "RUNLKHEL.WAD",
+	"description": "My first WAD. Designed for single player, multiple player or Deathmatch modes, easy, medium or hard. Looks much like a Castle, complete with moats, dungeons, secret passages, temples, and even an open pit mine where they obviously got all of that green marble (and there is a lot of green marble).",
+	"version": "221606",
+	"date": "2013-11-02 16:42:23",
+	"files": [
+		{
+			"filename": "runlkhel.wad",
+			"size": 180247,
+			"crc": 1138457319,
+			"md5": "a156369587e3ba69bee2f996449a0019",
+			"sha1": "22160614723228832a1889c9d7000b3ee5df0686",
+			"sha256": "33cf37fdfafb7876432b22ce15631551c9b4c68c8c6831c153f9fbafe98d0ef3"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "pit2 (cb1c37).wad",
+	"name": "PIT2.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. This level is based on PIT1.WAD, designed by yours truly. A secret area has been added, along with a few monsters, lifts, switches and teleports. Sorry, but there is still no BFG! Real warriors don't need one!",
+	"version": "cb1c37",
+	"date": "2013-11-04 19:23:18",
+	"files": [
+		{
+			"filename": "pit2.wad",
+			"size": 30332,
+			"crc": 3963458683,
+			"md5": "94ec9d74de96f2e7f93fe364b119f0aa",
+			"sha1": "cb1c37214e9a295987a9843a5c8699cf20e8b63b",
+			"sha256": "d5661f1f71c88b9b69c5d5d82377ff8ccc4a0115299bc2898b05c111737a87b3"
+		}
+	]
+}

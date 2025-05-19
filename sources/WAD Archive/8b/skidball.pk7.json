@@ -1,0 +1,16 @@
+{
+	"uid": "skidball.pk7",
+	"name": "Skidball",
+	"description": "A game of soccer, played with a neon zombieman. It's meant for two. I couldn't be assed to make a proper team-selection system so just pick a color, have a coke and a smile, and shut the fuck up.",
+	"date": "2018-04-14 13:35:26",
+	"files": [
+		{
+			"filename": "skidball.pk7",
+			"size": 485125,
+			"crc": 4051224555,
+			"md5": "c42fe63f40c9abb4be883eb351e61868",
+			"sha1": "8bb7d113cacc87149f1a3101f9886ac9025a033e",
+			"sha256": "99d65831e7cde907926748016ef7ea872e32ff3f68e68a5e4a0c5d55f16ba820"
+		}
+	]
+}

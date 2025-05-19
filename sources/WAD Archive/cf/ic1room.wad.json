@@ -1,0 +1,16 @@
+{
+	"uid": "ic1room.wad",
+	"name": "IC1Room (AKA Go!)",
+	"description": "A one room map I made for Job's Second One Room Contest. The theme was something along the lines of 'make a unique looking map using a variety of different themes'. I hope I've achieved something like that. I kind of went for a hell/tech hybrid, but didn't have enough space to put in quite everything I wanted.",
+	"date": "2014-12-22 18:37:54",
+	"files": [
+		{
+			"filename": "ic1room.wad",
+			"size": 254460,
+			"crc": 1737789577,
+			"md5": "37aeca62b14f20bf73008f9f9c6fff23",
+			"sha1": "cf6215540bf1901db57dce5a01c367b43d7ec062",
+			"sha256": "0e868e42aeca9ed8d685c093ea127adce557a5c2881190c00d2d5bdabfa84182"
+		}
+	]
+}

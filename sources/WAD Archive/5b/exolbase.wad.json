@@ -1,0 +1,16 @@
+{
+	"uid": "exolbase.wad",
+	"name": "Exol Base.",
+	"description": "My first map <3 I know it's quite far-fetched for a first map, but once I found out about Hexen scripting I couldn't resist! So be nice and pardon the dodgy scenery and wierd gameplay; I'm sure I'll get better. I have actually made some other maps but they were ages ago, made with Waded, and they sucked. So I would regard this as my first map.",
+	"date": "2014-12-24 17:10:44",
+	"files": [
+		{
+			"filename": "exolbase.wad",
+			"size": 2761285,
+			"crc": 2773712209,
+			"md5": "f467cfcea410d77545ecac0b6756fd48",
+			"sha1": "5bae8eb3dda8cfc17c43c9dd01a06bc1a1927038",
+			"sha256": "aed97b85651cc003fd34da04609e21f2d903ae63c6be9f2e0b03203ed05cfd4e"
+		}
+	]
+}

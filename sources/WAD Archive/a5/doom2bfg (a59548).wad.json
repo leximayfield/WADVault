@@ -1,0 +1,16 @@
+{
+	"uid": "doom2bfg (a59548).wad",
+	"name": "Doom 2 BFG Edition",
+	"version": "a59548",
+	"date": "2015-12-01 20:48:48",
+	"files": [
+		{
+			"filename": "doom2bfg.wad",
+			"size": 14691821,
+			"crc": 2457499530,
+			"md5": "c3bea40570c23e511a7ed3ebcd9865f7",
+			"sha1": "a59548125f59f6aa1a41c22f615557d3dd2e85a9",
+			"sha256": "cbb87f5285cf04293927489d8f0d41dfda809b28196652a3c73c2fdece9a5e4a"
+		}
+	]
+}

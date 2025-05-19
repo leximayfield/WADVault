@@ -1,0 +1,16 @@
+{
+	"uid": "skypack2.wad",
+	"name": "Skypack 2",
+	"description": "This is a WAD with 8 sky-textures for you to use. They are mostly mountains, and they're all 256 x 240. NOTE: to view the skies in Doom, you'll need ZDoom.",
+	"date": "2015-09-15 13:15:33",
+	"files": [
+		{
+			"filename": "skypack2.wad",
+			"size": 541384,
+			"crc": 4161095931,
+			"md5": "1671500da17479ff2cae4a0f1b1374e8",
+			"sha1": "de41feabfcacb2e5c6bf5d8e5b95f9f10346af8f",
+			"sha256": "f5c29287e200baa77c2a901ba95ce5f1838a74b5512a4b19d68fd6e00c77e06f"
+		}
+	]
+}

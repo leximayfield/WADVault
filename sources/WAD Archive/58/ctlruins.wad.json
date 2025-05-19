@@ -1,0 +1,16 @@
+{
+	"uid": "ctlruins.wad",
+	"name": "CASTLE RUINS",
+	"description": "This level was made for 2 to 4 player deathmatch. Three to four players are ideal whereas two players may find it difficult for frequently running into each other. I originally designed this level to allow as much freedom of movement for all players as possible. Through playing many wad files, I noticed that there are five important criteria for a good death match level, namely:",
+	"date": "2014-12-15 23:08:29",
+	"files": [
+		{
+			"filename": "ctlruins.wad",
+			"size": 243846,
+			"crc": 2088930504,
+			"md5": "8775252d5c8097fe06fb0a1c6450273e",
+			"sha1": "5887bacba5d62705387a29a4d39cdb997bb24492",
+			"sha256": "37d28ea4891346591aa4cce9bc42c9ceda33a9867c138d413f7ae373e4bbc7ae"
+		}
+	]
+}

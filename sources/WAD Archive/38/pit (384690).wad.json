@@ -1,0 +1,17 @@
+{
+	"uid": "pit (384690).wad",
+	"name": "Face the Pit.",
+	"description": "Two fairly large levels (2 and 3), with some interesting areas and a few tricky parts. Level 1 was originally seperate and doesn't fit with the other two, but I included it anyway just to get rid of it. It's not really that good, so you can skip it if you like, but it's pretty easy and starting with weapons makes the others easier.",
+	"version": "384690",
+	"date": "2015-01-14 14:34:49",
+	"files": [
+		{
+			"filename": "pit.wad",
+			"size": 270320,
+			"crc": 1504123862,
+			"md5": "3b252903569fad580cabbd5f13c95b31",
+			"sha1": "384690d9e9fa375579516a6953910706582cc9b7",
+			"sha256": "c5bc0a510e27655144c3886bd52b3a4786930a04ad773c43b2f8eb8377dc35fc"
+		}
+	]
+}

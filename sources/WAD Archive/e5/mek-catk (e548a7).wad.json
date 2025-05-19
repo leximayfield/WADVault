@@ -1,0 +1,17 @@
+{
+	"uid": "mek-catk (e548a7).wad",
+	"name": "Counterattack",
+	"description": "Counterattack is a 7-map mini episode for Doom II. Each map was designed to be played from pistol-start; continuous play is fine but will make the play through much easier. This map set originally started out as a single map contribution to the Vinesauce map contest held in 2016 by Joel \"Vargskelethor\". The map in question (MAP02) was started on in early September, and finished on September 9th. Afterwards, I officially started the project on October 10th (shortly after finishing MAP04).",
+	"version": "e548a7",
+	"date": "2018-04-14 19:51:22",
+	"files": [
+		{
+			"filename": "mek-catk.wad",
+			"size": 35487264,
+			"crc": 1799354536,
+			"md5": "b70af5501068d2497613247e68c3e556",
+			"sha1": "e548a77a68c5d212ab95743d7d3d1c5af257ba77",
+			"sha256": "67cbc6862cf01550ad8c6c4317dcfb5c17eb061302c945e2b417456bc67f826a"
+		}
+	]
+}

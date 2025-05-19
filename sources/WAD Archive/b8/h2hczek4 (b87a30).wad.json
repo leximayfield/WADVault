@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczek4 (b87a30).wad",
+	"name": "H2H CZECH SERIES 4 (H2HCZEK4.WAD)",
+	"description": "This one has an interesting history. At the beginning I just tried what I can build in 1 hour. So I didn't think about the layout at all. I just placed vertexes all around like mad. And as I found the wad not so bad, I spent another hour with aligning textures, making special deathmatch starts on pedestals. But I still took the result as a fast patchwork and laid it off until we tried deathmatch several weeks later. And oala, we liked it. So I spent another 3 hours with monsters, new graphics, making additional changes for solo game. And this is the result. Enjoy the wad!",
+	"version": "b87a30",
+	"date": "2014-12-15 22:07:39",
+	"files": [
+		{
+			"filename": "h2hczek4.wad",
+			"size": 81960,
+			"crc": 605642418,
+			"md5": "40a9a572a7fcfa9b77547743808bcd08",
+			"sha1": "b87a300125049a7c55ddda6fb6181956ad8e0a51",
+			"sha256": "a2f3a341bffaa986bd51bd6c92a10c6d33b005fbf4871cf8d3f0fb40ffe6b19f"
+		}
+	]
+}

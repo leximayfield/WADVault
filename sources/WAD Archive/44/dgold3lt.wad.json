@@ -1,0 +1,16 @@
+{
+	"uid": "dgold3lt.wad",
+	"name": "Doom Gold III Lite",
+	"description": "Sound and (some) graphics replacement PWAD for commercial DOOM.",
+	"date": "2013-11-02 16:53:20",
+	"files": [
+		{
+			"filename": "dgold3lt.wad",
+			"size": 478490,
+			"crc": 1212654227,
+			"md5": "8a6474340568fadbe01fb21e3e0e8855",
+			"sha1": "44fd884768524da84c1d69363d69d6d7bcf96fd2",
+			"sha256": "38a1d47591038f75312bd4cb1003f132783a73966bfe0b9dfa6440809ee69ef5"
+		}
+	]
+}

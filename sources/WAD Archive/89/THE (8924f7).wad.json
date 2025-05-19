@@ -1,0 +1,17 @@
+{
+	"uid": "THE (8924f7).wad",
+	"name": "The",
+	"description": "This is a Wad designed for COOPERTIVE!! You will die if you try to play single( you'll die anyways), but go ahead if you want.",
+	"version": "8924f7",
+	"date": "2014-01-07 22:20:19",
+	"files": [
+		{
+			"filename": "THE.wad",
+			"size": 153428,
+			"crc": 2156755699,
+			"md5": "608a75863a29a2c4cc6e72ce04ffd189",
+			"sha1": "8924f745a4c5d1c8ed5076e0e51ba0b5d25ee36d",
+			"sha256": "7491062ec366f485550eb3bbd005dd8d480308df0dc9480a959c4609ea48c890"
+		}
+	]
+}

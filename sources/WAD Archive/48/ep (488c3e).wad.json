@@ -1,0 +1,17 @@
+{
+	"uid": "ep (488c3e).wad",
+	"name": "EP",
+	"description": "DEATHMATCH EPISODE Made for when Stefan and I only had 386's, so as a result most levels are very small. We have since upgraded, but still play them as they are real good for massive amounts of combat. There is also an excessive amount of monsters, on some levels, the idea there was to off set any advantage with weapons across each level. With a choice of exit, the left is always the secret.",
+	"version": "488c3e",
+	"date": "2016-02-07 20:30:18",
+	"files": [
+		{
+			"filename": "ep.wad",
+			"size": 254322,
+			"crc": 3742868391,
+			"md5": "b1f7f6537c1b4efefaa82e5267572c3c",
+			"sha1": "488c3e40ef8067f28a27a4507a07492222095599",
+			"sha256": "260d84970665dd954a4fcfa8c0a8af772f9a958044ec12c8f9b08b6fb1751e24"
+		}
+	]
+}

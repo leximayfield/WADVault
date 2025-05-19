@@ -1,0 +1,17 @@
+{
+	"uid": "homer (5045fd).wad",
+	"name": "HOMER",
+	"description": "A replacement level for E1M1 designed to be played either by itself or else in conjunction with other Simpsons PWADS (such as the Fuoco/Blauwkamp WAD).",
+	"version": "5045fd",
+	"date": "2015-09-14 21:54:21",
+	"files": [
+		{
+			"filename": "homer.wad",
+			"size": 122968,
+			"crc": 2279960898,
+			"md5": "5f92e86cffe7bb605036d26076ce209b",
+			"sha1": "5045fd3def3779c5420df4677395865b69f6fb92",
+			"sha256": "105a0f8f1ad029270cdd3e53c45707c97c185e1af539281d58125d28190ae2d5"
+		}
+	]
+}

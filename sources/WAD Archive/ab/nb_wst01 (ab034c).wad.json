@@ -1,0 +1,17 @@
+{
+	"uid": "nb_wst01 (ab034c).wad",
+	"name": "Wasted 1: Industrial Zone",
+	"description": "The first in an occassional series of small but tough-ish levels.",
+	"version": "ab034c",
+	"date": "2015-01-13 21:21:59",
+	"files": [
+		{
+			"filename": "nb_wst01.wad",
+			"size": 349255,
+			"crc": 3500128416,
+			"md5": "7ec1d5a9b99fd2d030a0f2efca7b228e",
+			"sha1": "ab034c164d304de8ed2d047cf9dca5381eaa9aaf",
+			"sha256": "ecca232cc3cffaf17eb038e58266103439ea1bedeb2080027add5f6c1065eacf"
+		}
+	]
+}

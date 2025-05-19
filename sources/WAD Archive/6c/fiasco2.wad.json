@@ -1,0 +1,16 @@
+{
+	"uid": "fiasco2.wad",
+	"name": "Fiasco2",
+	"description": "This level is made with rookies and serious Doomers in mind, with areas that change after you pass through, floors that drop out from under you and and viewpoints from which to snipe friends and enemies alike. Conserve ammo, take advantage of cover and concealment and run like hell. This is a revision of Fiasco.wad to correct some glitches and to enable Co-op and DM play.",
+	"date": "2014-12-18 22:20:02",
+	"files": [
+		{
+			"filename": "fiasco2.wad",
+			"size": 267219,
+			"crc": 3707616422,
+			"md5": "1f56ecb8b068d9cea669c0fd09047af6",
+			"sha1": "6c3ca6e8a8d4cf19d253a751c439d501866294d3",
+			"sha256": "813f3c924caebc7bedbaef5eec8361df72bc076c60a2a93c75e7b9aa8911f695"
+		}
+	]
+}

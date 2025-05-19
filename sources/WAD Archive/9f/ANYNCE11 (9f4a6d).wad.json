@@ -1,0 +1,17 @@
+{
+	"uid": "ANYNCE11 (9f4a6d).wad",
+	"name": "ANYNCE11.WAD",
+	"description": "A huge wad (200K) with new E1M1 music (a distorted version of the original) and lots of weird stuff. A few secrets, some of which are very helpful, and well, you'll find out for yourself.",
+	"version": "9f4a6d",
+	"date": "2013-11-02 15:22:53",
+	"files": [
+		{
+			"filename": "ANYNCE11.wad",
+			"size": 202997,
+			"crc": 4243107686,
+			"md5": "e4a71138744ad0e5b5ee8600b566f604",
+			"sha1": "9f4a6db26e246bdc921388d8d0b4e4d247e232d4",
+			"sha256": "763472ff6eea444a8b77c2f6d6263ef93eb94901aca381b8ff2c080085708c24"
+		}
+	]
+}

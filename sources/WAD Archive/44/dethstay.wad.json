@@ -1,0 +1,16 @@
+{
+	"uid": "dethstay.wad",
+	"name": "Deathstay",
+	"description": "A single-level Doom2 PWAD.",
+	"date": "2014-12-18 22:40:39",
+	"files": [
+		{
+			"filename": "dethstay.wad",
+			"size": 116204,
+			"crc": 2939381529,
+			"md5": "54e85e1526b5fdc1fe5605bf18b46b06",
+			"sha1": "442b9ee2377f1c3527897fa15526e5c6b500f16c",
+			"sha256": "5b0d224ba98d8d884f6f2249609cd3069353e483cf45e77fa0f705b1f66468b1"
+		}
+	]
+}

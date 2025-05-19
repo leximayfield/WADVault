@@ -1,0 +1,16 @@
+{
+	"uid": "KANSAM4.wad",
+	"name": "Kansam's Trial",
+	"description": "Same as usual, only more so. This time round, a marble status-bar makes an appearance - if you like it, don't credit me, I borrowed it from Dave Davis of AMOK10T.WAD, and got rid of the grey bits. If you don't like it, it's not my fault. E2M4 is my favourite of the levels so far, and is the first level where I have totally banished the default floor/ceiling textures. However, other people have claimed that it sucks and is too hard. Well, on this count I can just say that you should go every- where and do everything, and maybe you'll leave the level alive. By the way, you'll need DOOM 1.666+ to play these levels properly. If you try it with less than 1.666, you will get HOM on E2M2, the demo will stop the game, and E2M4 simply won't work. If you've got DOOM 1.2, seek out DM1666RP.ZIP... If you don't know where to go on the first level, just watch the demo, OK?",
+	"date": "2014-10-14 20:58:52",
+	"files": [
+		{
+			"filename": "KANSAM4.wad",
+			"size": 1836610,
+			"crc": 3213705188,
+			"md5": "1b442125ae110e95aa7fdde5ca8ecd25",
+			"sha1": "49bbc7526b9acb73c4799d0b82e3c19b93e5e766",
+			"sha256": "4d88dd2815f58cdf66a3b9d7b818ef31b3d078e732c5d8e0c3d3de387d8302fa"
+		}
+	]
+}

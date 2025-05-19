@@ -1,0 +1,17 @@
+{
+	"uid": "demonaly (c1494d).wad",
+	"name": "Demon's Alley",
+	"description": "Demons and more demons everywhere you turn. Can you escape their turf alive?",
+	"version": "c1494d",
+	"date": "2016-02-07 20:29:53",
+	"files": [
+		{
+			"filename": "demonaly.wad",
+			"size": 1116714,
+			"crc": 932104824,
+			"md5": "669e1ea9378621317fd96ccc6a26394a",
+			"sha1": "c1494d0f6e0a5b9c5b32ecf503c95cd765dc8070",
+			"sha256": "c8d3cbe88ce614520b9e0e7bd4f698965ab7024c7cdcd638a5878b5478096771"
+		}
+	]
+}

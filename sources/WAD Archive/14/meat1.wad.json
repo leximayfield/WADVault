@@ -1,0 +1,16 @@
+{
+	"uid": "meat1.wad",
+	"name": "\"Meat Fortress\"",
+	"description": "My first finished WAD! It's an updated DOOM I level I made back in 1997. I've now made it work for DOOM II. I recentley got back into level design, and thought I may as well release it. I like it anyway :-)",
+	"date": "2015-09-15 18:08:05",
+	"files": [
+		{
+			"filename": "meat1.wad",
+			"size": 85948,
+			"crc": 3615653405,
+			"md5": "75795bc77b309f8a411f67d05c024301",
+			"sha1": "14d9fa728936d77d7f8867d12d98e280c9fad3b6",
+			"sha256": "41a14c0deae3b5735128d6c458666d905cf6066216fb780448532bec30270d59"
+		}
+	]
+}

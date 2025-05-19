@@ -1,0 +1,16 @@
+{
+	"uid": "sigma.wad",
+	"name": "Sigma",
+	"description": "a little adventure",
+	"date": "2014-12-29 15:08:34",
+	"files": [
+		{
+			"filename": "sigma.wad",
+			"size": 2674510,
+			"crc": 39986786,
+			"md5": "33f9e29993bcd02921659152fef8270b",
+			"sha1": "c881c62249ef25803b5882bb8aae58403d4f2f34",
+			"sha256": "fac17bd608d48e8cfaa3afa4ee8b0751afc23fc9997f2c4744a553354ac0bbc1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "glrubber.wad",
+	"name": "Glass Rubberband",
+	"description": "Info: This is my first doom level, so feel free to criticize and trash it constructively. Otherwise I won't learn anything from this. Additional Info: Make sure to play this in OpenGL. Otherwise outdoor parts will look very buggy and the frame rate will be much less than desirable.",
+	"date": "2016-10-17 17:31:16",
+	"files": [
+		{
+			"filename": "glrubber.wad",
+			"size": 1325026,
+			"crc": 4259393960,
+			"md5": "052f70675ec6df2f92af7c53c4196797",
+			"sha1": "5ba012520bea45e626cebe599cd4bcfd4f85c8b0",
+			"sha256": "b2bfc29c5502a30e167d10526d5140d5fe688ffdee1d614e279307b4dbb22a67"
+		}
+	]
+}

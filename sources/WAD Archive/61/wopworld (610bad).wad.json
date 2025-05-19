@@ -1,0 +1,17 @@
+{
+	"uid": "wopworld (610bad).wad",
+	"name": "WOPWORLD.WAD : A brand new episode for",
+	"description": "See below.",
+	"version": "610bad",
+	"date": "2014-01-07 21:59:10",
+	"files": [
+		{
+			"filename": "wopworld.wad",
+			"size": 547313,
+			"crc": 4289613287,
+			"md5": "dd82b12286a03dade1e573b4dc822502",
+			"sha1": "610bad0c00a3c01118121f80343aebb674b9de5c",
+			"sha256": "0cfa3f24746b01d0a28160dbe2ce629b9c6500e93249401cda64a1123ff3bc6f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "coreless (1242b5).wad",
+	"name": "CoreLess",
+	"description": "-DeathMatch: This level consists of three main areas linked with a pair of tunnels between each. All of the areas are easily accesible from all other areas via theese refueling tunnels and an intricate teleporter system (I know teleporters suck, but read on!). The two outermost areas are complete with a bailout chute at the bottom in the middle leading to the \"multifaceted\" tele-porters (and goodies). Before you get there you either fall or walk through a texture so the other (chasing) player will have a small chance of seeing which one you took. Even if he does each line on the multifacected teleport sector takes you to a different location so he will most likely wind up somewhere else. Good flowthrough. Run! and DIE! In this level there are extra items for multi play. There is also a death macth only teleporter in the single player start room. If you love to Deathmatch but you're sick of those tiny little levels with nowhere to hide, then this one is for you (and you and you and you!).",
+	"version": "1242b5",
+	"date": "2014-01-07 22:24:34",
+	"files": [
+		{
+			"filename": "coreless.wad",
+			"size": 375141,
+			"crc": 1055120156,
+			"md5": "12a0f203927646380fe82afb458e357a",
+			"sha1": "1242b5a9f88e6dae7c0ef05b5f92dc2e57403621",
+			"sha256": "d0b38828c3b1b37c04b40a602d6fc276bbcc9c42d837ab6689cdd6470c39c7bc"
+		}
+	]
+}

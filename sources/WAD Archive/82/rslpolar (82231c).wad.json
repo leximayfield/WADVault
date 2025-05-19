@@ -1,0 +1,17 @@
+{
+	"uid": "rslpolar (82231c).wad",
+	"name": "Polaris - The Gift",
+	"description": "Polaris Corporation is the latest and most promising in the series of subsidiaries stemming from UAC. Specialized in the research on advanced cryogenics technology, the company has developed a significant array of strategical weapons, based for the most part on its groundbreaking, revolutionary nitrogen-based fuel - the 'Coolant Gel'. Official plans announced that the corporation was starting to build a specially-trained army of its own, that of the 'Rangers'. Unfortunately, this last effort is currently facing serious issues in the \"collateral effects\" deriving from flawed thermal isolation of the 'Coolant Gel' pods - and despite the deadly effectiveness of Polaris' weapon offerings, more and more Ranger-wannabes are experiencing fatal frostbite phenomena.",
+	"version": "82231c",
+	"date": "2014-12-11 22:08:46",
+	"files": [
+		{
+			"filename": "rslpolar.wad",
+			"size": 14507797,
+			"crc": 830957176,
+			"md5": "5cb3830839e0031c7aae4934ca6397a8",
+			"sha1": "82231c375791ab6873cc21f68dc14382e1378a7c",
+			"sha256": "dab52b6c814dd4220e807102119e8f1cc2fca103056e37c27a1eff534b0daeca"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "newday (f2fc36).wad",
+	"name": "New Day",
+	"description": "This is far from my first wad and my testers have told me that this is my best. It's pretty big with both big open areas and a few cramped rooms. It was designed with DEATHMATCH in mind from the beginning and features light switches in some rooms making your presence there obvious. The barrels are in places which may be nasty in deathmatch, and there are lots of interesting angles for attacks.",
+	"version": "f2fc36",
+	"date": "2013-11-02 15:11:07",
+	"files": [
+		{
+			"filename": "newday.wad",
+			"size": 139522,
+			"crc": 4237325460,
+			"md5": "167ce4a66f8dfd05c8a4d65ef967925b",
+			"sha1": "f2fc360611fe0f74698bfd9052ea1f3200452c61",
+			"sha256": "3bcaa6143f01fd9e774afb1eafe63cadd0c19313731edbc759ad805e1af601ab"
+		}
+	]
+}

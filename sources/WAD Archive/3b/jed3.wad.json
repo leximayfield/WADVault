@@ -1,0 +1,16 @@
+{
+	"uid": "jed3.wad",
+	"name": "JED3.WAD",
+	"description": "It's mainly a Deathmatch arena. Built for high game speed.",
+	"date": "2013-11-02 15:46:38",
+	"files": [
+		{
+			"filename": "jed3.wad",
+			"size": 24880,
+			"crc": 1182084778,
+			"md5": "a8f6f65428229f870d3b70b99c74c4ab",
+			"sha1": "3b7cee5e59602454544b088de699a6ccef24a053",
+			"sha256": "0eaae8676154eb0f86b4ba96e4abf7773d7ed1391274b1f401b8517c140fef3d"
+		}
+	]
+}

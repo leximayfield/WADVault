@@ -1,0 +1,16 @@
+{
+	"uid": "brikwatr.wad",
+	"name": "Brickwater",
+	"description": "The small town of Brickwater has been transported to Inferno. It seems the town is held in Inferno by some powerful demons and their vile spells. You must find these demons and kill them to return Brickwater back to Earth. The demons are located somewhere in the underground parts of Brickwater.",
+	"date": "2014-12-14 23:10:04",
+	"files": [
+		{
+			"filename": "brikwatr.wad",
+			"size": 104381,
+			"crc": 1568544902,
+			"md5": "ed0564097fe5b654757992bf3e42280c",
+			"sha1": "4936182684b8f2f851ba055a7117c9bf22ceb4a6",
+			"sha256": "c81b6492ca1147c829d72a34383b15a9402d5648f1820acbba4e2ec70947f43f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "wadodeth (3fae34).wad",
+	"name": "WADODETH.WAD   **Deathmatch**",
+	"description": "DEATHMATCH! DEATHMATCH! DEATHMATCH! This will challenge even the most experienced Death Match players. Play revolves around a courtyard with a Pyramid of Death. (called this because if you want the rocket launcher, you must ascend to the top. Not easy when someone is shooting at you!) Also included are two 'prison cells' to which you shall be teleported if you cross the wrong portion of a tele- porter line. Once inside.. you are fair game to all.. In order to give the teleporters a fell of randomness, I split the line def into smaller segments so that crossing at one point might send you to the top of the pyramid.. but it might send you to the prision or to the trench at the base of the pyramid (which also has a teleporter line to the prision) **************************************************** ***I strongly urge you to play with Respawn..There are a few sergeants who can help you if both players wind up in jail..***",
+	"version": "3fae34",
+	"date": "2013-11-02 15:25:45",
+	"files": [
+		{
+			"filename": "wadodeth.wad",
+			"size": 126150,
+			"crc": 3294524788,
+			"md5": "55038671155ddb0f4eeab081d4bafaaa",
+			"sha1": "3fae3404dd0671235b9b764c32734f83748157d3",
+			"sha256": "f746adef648c29c27f6b2c0bad87eef8ead429a18d4a485fce5f86591161b36f"
+		}
+	]
+}

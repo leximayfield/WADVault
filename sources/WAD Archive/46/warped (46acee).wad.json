@@ -1,0 +1,17 @@
+{
+	"uid": "warped (46acee).wad",
+	"name": "Warped",
+	"description": "This is the eighth of eight levels that I made a long time ago.",
+	"version": "46acee",
+	"date": "2015-01-14 22:42:04",
+	"files": [
+		{
+			"filename": "warped.wad",
+			"size": 22911,
+			"crc": 1451727507,
+			"md5": "a93577ec4021197d33cccdf22849def5",
+			"sha1": "46acee09e49b611c2eeb90baeb7eb85b39b95022",
+			"sha256": "7e54d366c1249ea41df2749faf3a1262fc704043059a188fa3bd825794d39eda"
+		}
+	]
+}

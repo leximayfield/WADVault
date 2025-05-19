@@ -1,0 +1,17 @@
+{
+	"uid": "doompit (f8c495).wad",
+	"name": "DOOMPIT Ver 1.7",
+	"description": "Another level in my multi-player training series. A good deathmatch level. Very difficult to play. I put the Exit Switch in the entry room for the faint of heart. Have fun.",
+	"version": "f8c495",
+	"date": "2013-11-04 20:18:13",
+	"files": [
+		{
+			"filename": "doompit.wad",
+			"size": 108198,
+			"crc": 42776459,
+			"md5": "11ebd105789f22be9da4ac5d39945d3b",
+			"sha1": "f8c495eaa0899483d27aff4019ef882e99697459",
+			"sha256": "3b4314fbc9faca849d39801aaab6f90530792066b14503907d3414b120698623"
+		}
+	]
+}

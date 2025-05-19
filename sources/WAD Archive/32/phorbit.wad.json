@@ -1,0 +1,16 @@
+{
+	"uid": "phorbit.wad",
+	"name": "Phobos Orbital",
+	"description": "A small, dark level set in a space station in orbit above Phobos.",
+	"date": "2014-12-29 08:52:34",
+	"files": [
+		{
+			"filename": "phorbit.wad",
+			"size": 244858,
+			"crc": 1488486222,
+			"md5": "0bcb2b2f0d3b930e559623998c208ef8",
+			"sha1": "321cabeb4defab3b40ec5ca7872a514a979bd377",
+			"sha256": "08745944a8fc94a75b9bf9821211023bfbc78192a26bdc2dbcacca93bf999794"
+		}
+	]
+}

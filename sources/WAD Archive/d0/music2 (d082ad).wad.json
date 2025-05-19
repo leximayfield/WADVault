@@ -1,0 +1,17 @@
+{
+	"uid": "music2 (d082ad).wad",
+	"name": "New music for episode 1 of Doom",
+	"description": "MUSIC.WAD a collection of truly great music to replace the stuff in Doom. (See More Info for a complete list of the songs in this WAD.) If you have some MIDI files you like, send them to me. I'll include",
+	"version": "d082ad",
+	"date": "2014-01-11 11:18:03",
+	"files": [
+		{
+			"filename": "music2.wad",
+			"size": 244912,
+			"crc": 2599923909,
+			"md5": "108f4a11834dd511b63f0d5e37609d2a",
+			"sha1": "d082adbf54d11bda5b8f7bbff7fdf5f51d3cf408",
+			"sha256": "36ded676d120828c00217c2589cee704b7f4791ebee831358e5e67145ca956ab"
+		}
+	]
+}

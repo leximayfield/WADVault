@@ -1,0 +1,17 @@
+{
+	"uid": "DE-EP1 (bc2f1f).wad",
+	"name": "Demon Eclipse: Episode 1 - Doorway to Abbadon",
+	"description": "This is the first epsisode of a 18 (maybe 32) level Megawad I will be working on. Each map has it's own Deathmatch Map including within the main map itself to allow easy deathmatching and fun =).",
+	"version": "bc2f1f",
+	"date": "2014-12-24 19:07:15",
+	"files": [
+		{
+			"filename": "DE-EP1.wad",
+			"size": 5563240,
+			"crc": 738264428,
+			"md5": "4fad772179dd9f8c66c3b56dc096343b",
+			"sha1": "bc2f1f7bc67bb3882cb4f8ab4cab04abd73bdaf7",
+			"sha256": "657c84fe61e3bac1a01172983c6b401e08ae7774fcc27fa73a5cde8b8481444e"
+		}
+	]
+}

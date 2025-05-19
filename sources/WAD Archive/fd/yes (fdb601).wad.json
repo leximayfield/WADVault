@@ -1,0 +1,17 @@
+{
+	"uid": "yes (fdb601).wad",
+	"name": "Yes!.zip",
+	"description": "T3.wad spinoff, sort of. Great Deathmatch!!!!!!",
+	"version": "fdb601",
+	"date": "2013-11-02 15:12:15",
+	"files": [
+		{
+			"filename": "yes.wad",
+			"size": 2040,
+			"crc": 333415331,
+			"md5": "0c74c050131c989f03ef205f0981f8b7",
+			"sha1": "fdb601aef3065a06348b7ecb12a8b83e845aed21",
+			"sha256": "238700cc89d6aeb48e07d87b60523bb209c73d9162578ab98a48386dd2025109"
+		}
+	]
+}

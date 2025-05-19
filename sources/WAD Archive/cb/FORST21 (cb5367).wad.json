@@ -1,0 +1,17 @@
+{
+	"uid": "FORST21 (cb5367).wad",
+	"name": "FOREST.WAD ver 2.1",
+	"description": "Forest is a four mission PWAD with new graphics. Look at the sky and watch for 'graphiti' on some walls.",
+	"version": "cb5367",
+	"date": "2013-11-02 15:08:14",
+	"files": [
+		{
+			"filename": "FORST21.wad",
+			"size": 657876,
+			"crc": 2172440277,
+			"md5": "e186b3fee45f920d47d3bb5c57ba7e59",
+			"sha1": "cb5367b682c21d582c6f5585a13c69e4fbf8a5ea",
+			"sha256": "919b5e243e5324353dda4f325bd602a35883534d93f7a7b1e5fa108055301d37"
+		}
+	]
+}

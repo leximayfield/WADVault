@@ -1,0 +1,16 @@
+{
+	"uid": "pugilist.wad",
+	"name": "Quo Vadis",
+	"description": "First level is a fairly small entry-level type wad, but quite detailed. Recommended for experienced players (although full skill-level support has been provided). Second level is a command-center type level, with a lot of themes (sentry posts, dungeon, mechanical room, supply and storage room, waste storage area, barracks, officer's dining room, toilets, and of course computer centers). Third level is a mostly outdoor level, with arena-type areas and interesting architectural elements. You get to meet the big boys in this level; use them to your advantage. Quite challenging on Ultra Violent skill level (but fun, I hope). Read the accompanying story (story.txt) for more details. This file has all three parts of a 3-level series that fits the story line. Several puzzles, but none too fiendish.",
+	"date": "2014-12-29 08:59:14",
+	"files": [
+		{
+			"filename": "pugilist.wad",
+			"size": 808168,
+			"crc": 2437524443,
+			"md5": "1b0615aa8e5759b4b58ee1ec6dc1637a",
+			"sha1": "813ae1f93056e009e1a83e2970358d0c6074a59a",
+			"sha256": "42f1da71e6e372b7121a53f2c5c39aeb28dfa91402eb0a909306e4ac8f023373"
+		}
+	]
+}

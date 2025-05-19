@@ -1,0 +1,16 @@
+{
+	"uid": "srforgot.wad",
+	"name": "Switcheroom: The Forgotten Maps",
+	"description": "During the development of Switcheroom there were 18 additional maps made for the project that were rejected for various reasons. Such as not resembling the original map, making the incorrect map, or being replaced with a better submission.",
+	"date": "2017-06-27 00:23:23",
+	"files": [
+		{
+			"filename": "srforgot.wad",
+			"size": 2114136,
+			"crc": 3788338099,
+			"md5": "5b63375456c13816b0534d58067b418a",
+			"sha1": "b565293e8fddb7f4fdf061fcf874d45897f0edfa",
+			"sha256": "b79ec572c9be612897502e53dd36171022ff947bc8907305a40e10058edbfedb"
+		}
+	]
+}

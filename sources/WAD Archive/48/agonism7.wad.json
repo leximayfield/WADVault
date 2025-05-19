@@ -1,0 +1,16 @@
+{
+	"uid": "agonism7.wad",
+	"name": "AGONISM7.WAD",
+	"description": "Very small deathmatch wad, great for high frag count games. All Weapons available.",
+	"date": "2014-12-15 22:23:47",
+	"files": [
+		{
+			"filename": "agonism7.wad",
+			"size": 31588,
+			"crc": 11436560,
+			"md5": "2caf6ca750802dbec9d4be113fc7ec31",
+			"sha1": "48c6ff092eb7b924e7d0afd76066b7a0b27159e8",
+			"sha256": "3f3cc08f5e830a4031e9375504ed08e2471c89b6abad364456257e2649675a69"
+		}
+	]
+}

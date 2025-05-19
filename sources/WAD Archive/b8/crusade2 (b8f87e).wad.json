@@ -1,0 +1,17 @@
+{
+	"uid": "crusade2 (b8f87e).wad",
+	"name": "CRUSADE2.WAD..\" The Crusader Vaults---Pt.2 \"",
+	"description": "Not as many teleporters as pt.1;however monsters do appear from nowhere in the early stages-so don't turn your back.It's a good idea to seek out the rocket launcher,you'll need it later on--but take it easy,First Aid Stations are few and far between. The second in the \"Crusader Trilogy\" (the last part is still in the draft stage,but coming soon). The inspiration came from the many Crusader castles I've visited in Israel..Bel Voir in the Jordan Valley,Kaalat Nimrod in the Golan Heights,but mostly the underground Crusader city in Akko. These guys were amazing,they knew how to make wads--real ,lifesize wads--they were the original Doomers and all of 900 years ago.",
+	"version": "b8f87e",
+	"date": "2014-12-15 21:50:02",
+	"files": [
+		{
+			"filename": "crusade2.wad",
+			"size": 156157,
+			"crc": 244201924,
+			"md5": "2794b34b54f3848de6de030bae1508a2",
+			"sha1": "b8f87ee5cf6b0b006511b96a3a983105f43511aa",
+			"sha256": "e135fefc191b3dcd715bca7d508db1b813430f87875356e28eb0674e0143f5c8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "paul (9cae9f).wad",
+	"name": "Paul's levels (see below)",
+	"description": "A whole doom replacement, current approx. release verison is 4.0 see story section for stories on the levels.",
+	"version": "9cae9f",
+	"date": "2013-11-06 22:29:24",
+	"files": [
+		{
+			"filename": "paul.wad",
+			"size": 1819176,
+			"crc": 670207910,
+			"md5": "4a55158913b5484dc48600caa5e10336",
+			"sha1": "9cae9fdb2ba0d7afdb43ab7392e75ad4c681ad0b",
+			"sha256": "c094f3764bd10848b3608e30da9d040cc2f470b87df830ec97b9682c63ef4535"
+		}
+	]
+}

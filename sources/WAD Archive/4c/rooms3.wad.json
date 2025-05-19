@@ -1,0 +1,16 @@
+{
+	"uid": "rooms3.wad",
+	"name": "Rooms",
+	"description": "You have defeated enemies that you never thought existed. Now you end up in a room in the center of a complex. The outer rooms are filled with new and stronger enemies. There are plenty of weapons and the equipment seems plentiful. The mission is to defeat the monsters and find the BLUE key!",
+	"date": "2013-11-02 16:36:41",
+	"files": [
+		{
+			"filename": "rooms3.wad",
+			"size": 45980,
+			"crc": 3311806981,
+			"md5": "e514a54050feb94b512f0d2863ec5231",
+			"sha1": "4c5997fb0443fd1cd27e2a3887197c97eb71ce83",
+			"sha256": "3f405442a4f34dd971fe266ff539e5fd65b232313316eab069729edbf0e8a919"
+		}
+	]
+}

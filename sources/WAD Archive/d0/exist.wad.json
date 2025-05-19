@@ -1,0 +1,16 @@
+{
+	"uid": "exist.wad",
+	"name": "Exist",
+	"description": "Quake style map",
+	"date": "2014-12-24 19:11:12",
+	"files": [
+		{
+			"filename": "exist.wad",
+			"size": 3577559,
+			"crc": 1366458162,
+			"md5": "397d1fdefd2305bdc957d30147663ad3",
+			"sha1": "d02c45ba516a7c618e40d8c97498ef4fdf767439",
+			"sha256": "4bc83249c4e5506e3885852ab174ea878b86e3278f949d9e4fdf9da907842ed3"
+		}
+	]
+}

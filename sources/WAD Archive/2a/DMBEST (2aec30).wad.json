@@ -1,0 +1,17 @@
+{
+	"uid": "DMBEST (2aec30).wad",
+	"name": "DMBEST",
+	"description": "The best Deathmatch wads I've found yet.",
+	"version": "2aec30",
+	"date": "2013-11-02 15:11:18",
+	"files": [
+		{
+			"filename": "DMBEST.wad",
+			"size": 535632,
+			"crc": 1976188637,
+			"md5": "34b974e602ae97677b3af6ae71e16cde",
+			"sha1": "2aec30d1c2e26c3082af41fa7eadf250996f746b",
+			"sha256": "ea66bf0097b15c2cd89d1f9550958a523d4ef85f8707782b543f42fe4619bb15"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "undrdark.wad",
+	"name": "The UnderDark",
+	"description": "Massive underground adventure",
+	"date": "2015-01-14 14:51:33",
+	"files": [
+		{
+			"filename": "undrdark.wad",
+			"size": 245624,
+			"crc": 2453223692,
+			"md5": "6aaefd1d879d6082e2122c9a8fd4deda",
+			"sha1": "73501157bf58c2142f9cd5217b557cc51aac0503",
+			"sha256": "32a7eb8a944b729a9ce2c4e98646185d0bff49dc62bbdf572703e3faead04851"
+		}
+	]
+}

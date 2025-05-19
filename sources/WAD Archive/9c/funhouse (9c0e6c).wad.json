@@ -1,0 +1,17 @@
+{
+	"uid": "funhouse (9c0e6c).wad",
+	"name": "FUNHOUSE.WAD",
+	"description": "This level was designed to be used as a Deathmatch level for Doom2. It consists of eight rooms, all connected by long, dark corridors. Seven of the rooms contain a weapon of some sort. The eighth room is a secret room, which contains a few goodies. All weapons are used. There is an exit on this level. There are no monsters on this level.",
+	"version": "9c0e6c",
+	"date": "2014-08-30 13:52:28",
+	"files": [
+		{
+			"filename": "funhouse.wad",
+			"size": 111219,
+			"crc": 3716455263,
+			"md5": "142a41c214ec665f9396227773c373fc",
+			"sha1": "9c0e6c55b7022072ba343581255788295237fcb5",
+			"sha256": "9b59308511d1daf3443e70e0d02dbe1235beca74b8cd88709455ad3c08cbc7ab"
+		}
+	]
+}

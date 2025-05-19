@@ -1,0 +1,17 @@
+{
+	"uid": "sod (209d55).wad",
+	"name": "Stormtroopers of Death V1.1",
+	"description": "When in doubt, head for the tree. If you have any comments, please fire an E-mail off to me.",
+	"version": "209d55",
+	"date": "2015-01-14 22:46:33",
+	"files": [
+		{
+			"filename": "sod.wad",
+			"size": 210918,
+			"crc": 3420394630,
+			"md5": "ba5fe91b62985a365d8bf2a4daaa2d56",
+			"sha1": "209d556e2fd9cfb109a38d6c28111a533da4d36a",
+			"sha256": "2487bde3645b5237fb9a7736dfc0faf622f6e19437ebff4cb47ab72b7542ebad"
+		}
+	]
+}

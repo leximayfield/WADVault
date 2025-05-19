@@ -1,0 +1,17 @@
+{
+	"uid": "FPIT (116ccd).wad",
+	"name": "Fpit.wad",
+	"description": "My first (successful) attempt at a decent wad. Not the best But i love kicking my stepbrothers butt in deathmatch play. A hidden wall, two crushing ceilings and an armory that spoils the fun unless your opponent doesnt know about it.",
+	"version": "116ccd",
+	"date": "2013-11-02 15:54:50",
+	"files": [
+		{
+			"filename": "FPIT.wad",
+			"size": 59725,
+			"crc": 497373864,
+			"md5": "8a6a6258825cf202f2cdcc1d7f025cbf",
+			"sha1": "116ccd949973d4616b032abdc6954efcb119d79a",
+			"sha256": "3eb2b8e5de156b682a4ab05dec28f1f4275cf6d4141abc4570956184377b7251"
+		}
+	]
+}

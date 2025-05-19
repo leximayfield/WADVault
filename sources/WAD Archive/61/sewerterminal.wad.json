@@ -1,0 +1,16 @@
+{
+	"uid": "sewerterminal.wad",
+	"name": "Sewer Terminal",
+	"description": "Sewer Terminal is a small, fun deathmatch map set in a waste treatment type of facility. Fun for the whole family, I suppose!",
+	"date": "2014-12-15 22:05:30",
+	"files": [
+		{
+			"filename": "sewerterminal.wad",
+			"size": 220420,
+			"crc": 2259750704,
+			"md5": "511daa71f0830bd810640d3efe3c188d",
+			"sha1": "614c7714d47982c0463bac1b95d682e78e7effcd",
+			"sha256": "cc4569341f6a07c426bf0e4448f65b0756b664cae639e12150ee8051349c97e1"
+		}
+	]
+}

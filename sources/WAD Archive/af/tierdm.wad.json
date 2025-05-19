@@ -1,0 +1,16 @@
+{
+	"uid": "tierdm.wad",
+	"name": "TierDM",
+	"description": "An FFA map that was originally intended for 1vs1 (it's still 1vs1 compatible). Jumping and freelook are to be disabled, with weapons remaining on pickup and items respawning.",
+	"date": "2013-04-19 00:01:34",
+	"files": [
+		{
+			"filename": "tierdm.wad",
+			"size": 165772,
+			"crc": 1945307219,
+			"md5": "2e9273ed6b6df17cac5b33c2c96f928f",
+			"sha1": "af586a1f2d7f6bf0881cef329fdd053d19156173",
+			"sha256": "c262a543f44642e26e6e94d99e6aeaf0277580eafd7e650b6ee5fad5210cb82b"
+		}
+	]
+}

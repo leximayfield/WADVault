@@ -1,0 +1,16 @@
+{
+	"uid": "overcome.wad",
+	"name": "The Overcoming",
+	"description": "This level can be somewhat tough, considering that if you don't find the (very well-hidden) single-barrel shotgun, you'll have to get around with just the pistol.",
+	"date": "2015-01-13 21:41:44",
+	"files": [
+		{
+			"filename": "overcome.wad",
+			"size": 130900,
+			"crc": 3791055818,
+			"md5": "cafea17ecc73b776539eefc324c564bd",
+			"sha1": "8e6672362c62c224ef1a1271a12295b62ed40be2",
+			"sha256": "fb580c98adb084fd105b2c0aebc3e4cb9cb7c07cfa5f43c67c203b54cf8b34aa"
+		}
+	]
+}

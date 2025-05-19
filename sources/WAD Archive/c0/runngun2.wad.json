@@ -1,0 +1,16 @@
+{
+	"uid": "runngun2.wad",
+	"name": "\"Run-n-Gun 2\"",
+	"description": "Modified version of my previous Run-n-Gun mod, complete weapon replacement and monsters modification, funny dynamic action",
+	"date": "2014-12-11 22:08:24",
+	"files": [
+		{
+			"filename": "runngun2.wad",
+			"size": 6065524,
+			"crc": 4042292305,
+			"md5": "bb532a227062bf6a23c5f82318c3353e",
+			"sha1": "c0ef333b36185481e7e7f2b5f3f61c6e14b8f232",
+			"sha256": "521c00f87873a8793c491b55f78bdf0cec57f0dd59948b99649bb9f81fd7986e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "halls (b3b683).wad",
+	"name": "Halls of Death (HALLS.WAD)",
+	"description": "You awake to find yourself in a strange building it looks somewhat familiar, but you aren't sure. It looks like some kind of processing plant. Is this the end, or is it just the beginning? You could care less, so you open the door...",
+	"version": "b3b683",
+	"date": "2013-11-02 16:38:23",
+	"files": [
+		{
+			"filename": "halls.wad",
+			"size": 34962,
+			"crc": 3135737300,
+			"md5": "e131d4600b4b1e37bb4baf9f57cee123",
+			"sha1": "b3b683c55b81fa427ab4cb30afb8ee282e3992f0",
+			"sha256": "f4c4e117671905d984c4b2b2317b4d6f85dfb4bbcc116548970bd69db96be11d"
+		}
+	]
+}

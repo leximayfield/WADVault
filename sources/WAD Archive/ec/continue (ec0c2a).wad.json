@@ -1,0 +1,17 @@
+{
+	"uid": "continue (ec0c2a).wad",
+	"name": "Continue",
+	"description": "Hi Doomworld, I made a new limit removing map, what do you think about it?",
+	"version": "ec0c2a",
+	"date": "2014-12-21 15:14:07",
+	"files": [
+		{
+			"filename": "continue.wad",
+			"size": 206498,
+			"crc": 1889226500,
+			"md5": "2259e750fd290c7379f88d400bd6ccf1",
+			"sha1": "ec0c2a3d98f2b734e251d0821b1631eae10015c1",
+			"sha256": "302de0012dcee40dfa342439444c6040a9d2f5690a576e4002acf3bc8ca8d3f2"
+		}
+	]
+}

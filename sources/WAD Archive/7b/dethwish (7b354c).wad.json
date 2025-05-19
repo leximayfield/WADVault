@@ -1,0 +1,17 @@
+{
+	"uid": "dethwish (7b354c).wad",
+	"name": "Death Wish",
+	"description": "Challenging indoor/outdoor level designed for single or co-op play. I hope you will try and beat the time in my lmp ---- but be sure to send me your lmp even if you don't!! ;-)",
+	"version": "7b354c",
+	"date": "2014-12-18 23:16:59",
+	"files": [
+		{
+			"filename": "dethwish.wad",
+			"size": 651798,
+			"crc": 201389598,
+			"md5": "fec35237ec965ad8f15476d9e73ef4d8",
+			"sha1": "7b354c9a27d0560361c2d80d891d33ba1b66c626",
+			"sha256": "0a34079ea69dfe330adf57dc59129cd6fe5381015f8f04d440c524df22a65355"
+		}
+	]
+}

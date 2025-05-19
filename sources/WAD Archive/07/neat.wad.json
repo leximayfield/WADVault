@@ -1,0 +1,16 @@
+{
+	"uid": "neat.wad",
+	"name": "Multiple linedefs in vanilla Doom",
+	"description": "A demonstration wad showing how to make multiple-line switches in vanilla Doom. This can be used to make very powerful effects without the need for port features, although it does feature the minor side effect of dealing one point of damage (which can be countered by an inclusion of a health potion in the dummy sector but if this is done the side effect is more noticeable). The effect works by crushing a barrel when a trigger is switched (this could be done with either a switch or a walkover plate). The explosion knocks a voodoo doll into some walkover plates, thus causing multiple effects. This can also be used to do many things never before seen in vanilla, including: --by cloning the barrel and making it mobile using dehacked, and then activating it, then you can keep it safe and trapped as long as you wish until you want to release it, thus for example allowing you to make a switch that must be 'powered up' first --by this same technique, an exit that requires three switches --also by this technique, shootable exits, lifts, and even teleporters --again by that technique, you can make switches with a delay (by making the teleporter in the monster sector lower from whatever height you wish) --by replacing the voodoo doll with a monster, it could be used as an ultra fast monster beam-in without any need for it to be activated beforehand (although this is only usable with monsters that take splash damage) --by making the voodoo doll teleport onto another voodoo doll, you can make an instant-death switch (looks like I one-upped you, Nick Baker =P).",
+	"date": "2015-09-14 20:20:26",
+	"files": [
+		{
+			"filename": "neat.wad",
+			"size": 6964,
+			"crc": 276769771,
+			"md5": "f588ad27d84616da367826d876563416",
+			"sha1": "07cf083f84d1ae611a01aecb34bc201f3c85d4c8",
+			"sha256": "781433b496e33250a761ff1ab3c483ca40c55432de2a479d67e9567411d6d603"
+		}
+	]
+}

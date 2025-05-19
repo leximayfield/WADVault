@@ -1,0 +1,17 @@
+{
+	"uid": "rslvenge (0a000e).wad",
+	"name": "Revenge: a classic DOOM experience",
+	"description": "Since the first encounter with Hell dimension took place, space marines began to engage in a long and hazardous series of missions against hellspawn. Let's see how the standard UAC arsenal has changed during all this time...",
+	"version": "0a000e",
+	"date": "2015-09-14 19:41:06",
+	"files": [
+		{
+			"filename": "rslvenge.wad",
+			"size": 8614773,
+			"crc": 3641997244,
+			"md5": "eb9edfbec5c615a06b630310c8816719",
+			"sha1": "0a000ee9231b05f08e01dc18db5291001e8fe2cb",
+			"sha256": "244b2a33fc75d9e443f007ca51f8c2354609ea9289b077a23485141926ee2a14"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "jeemi.wad",
+	"name": "Jeem I",
+	"description": "3 level map pack meant for gzDoom. May work with zDoom, have not tried it. Jumping is enabled though jumping is not meant to be used, everything can be 100%ed without jumping. Difficulty levels are not implemented either. It is kind of slaughtermap-ish, but it shouldn't be too difficult. Don't fall into acid. This is my first real \"map pack\", though I have fiddled around with smaller stuff before.",
+	"date": "2017-08-18 20:55:08",
+	"files": [
+		{
+			"filename": "jeemi.wad",
+			"size": 7582705,
+			"crc": 117955005,
+			"md5": "55cf75c65e3a1b3561ecbb2c496bc92a",
+			"sha1": "dbc49ae2d1f81315e5940a687a5de196deaa603f",
+			"sha256": "4cfe77d9f4ec4be7fa5a028c74b36a8cc0ccfb9a16e613e41f0ebc4ed89129b8"
+		}
+	]
+}

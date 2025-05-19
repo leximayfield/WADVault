@@ -1,0 +1,16 @@
+{
+	"uid": "nukedx1.wad",
+	"name": "Nukedoom2x v1.4",
+	"description": "This is a collection of .wads that are intended as an update to the previous version I made, nukedx v1.2. Most of modifications are for level three though. I made these mostly with detail in mind (the first level is not quite as detailed as the second and third). This is also my third attempt at making and *COMPLETING* my DOOM2 levels. They are not exactly finished yet, but I hope you enjoy them anyway. They took me quite a while to make. These levels are intended for all modes of play. The first level is based more for Coop (it is by far not the best one of the collection). The second level is designed for Solo (it is pretty good, but has a lousy ending because my editor made so many damn bugs, I had to just finish the level right there or else it would have been too screwed up to distribute), and the third is for DeathMatch and Solo (my favorite).",
+	"date": "2018-04-16 07:50:27",
+	"files": [
+		{
+			"filename": "nukedx1.wad",
+			"size": 158194,
+			"crc": 395081108,
+			"md5": "79221fd98d731209af4d4222ca1b3e34",
+			"sha1": "4314eac59fefed7705a6c6c32e47422732fed123",
+			"sha256": "3314662e846618f83edbdfea9e891c7d8c6c7988059a715625cf31abdace7137"
+		}
+	]
+}

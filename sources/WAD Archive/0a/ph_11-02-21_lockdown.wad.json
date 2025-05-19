@@ -1,0 +1,16 @@
+{
+	"uid": "ph_11-02-21_lockdown.wad",
+	"name": "Lockdown",
+	"description": "This map was originally made for Doom II Unleashed and featured as MAP10, hence \"The Demon's Dead\" is the included MIDI. The player must battle around the ramparts of a large brick structure to unlock a means of access to a central island.",
+	"date": "2019-08-06 20:22:12",
+	"files": [
+		{
+			"filename": "ph_11-02-21_lockdown.wad",
+			"size": 460541,
+			"crc": 1609445900,
+			"md5": "3b831831ae593e9b39caf208b9cba7e0",
+			"sha1": "0a7bb5b8bb643d835a4c043c8e199039917a4216",
+			"sha256": "53f8cb67e6a0754780cdbfa1bcbfbd1c9fe3666c63ceee352d86bc1e11364db4"
+		}
+	]
+}

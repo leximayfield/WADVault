@@ -1,0 +1,16 @@
+{
+	"uid": "pc_infes.wad",
+	"name": "The Infested Hideout",
+	"description": "A medium difficulty 1990's style map set in a base. The design is linear and inspired by id software's maps with some new elements. The goal is simple. Fight your way out of this base! ... There are also 8 secrets to be found and a bonus map named the War Room which contains a battle with Arachnotrons and a Cyberdemon.",
+	"date": "2015-01-14 22:42:38",
+	"files": [
+		{
+			"filename": "pc_infes.wad",
+			"size": 343448,
+			"crc": 1464164955,
+			"md5": "11a7d60ac38ecd650d998544ff93e1e9",
+			"sha1": "86a7210982f37e29fdd38c5f7ed55497f6ee0dbb",
+			"sha256": "d1b6d051f64024e6c0218dfe20304414a244d9fd495f456e1f5240c71d0f0f93"
+		}
+	]
+}

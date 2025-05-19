@@ -1,0 +1,17 @@
+{
+	"uid": "DMCWRD (987084).wad",
+	"name": "'Not For Cowards'",
+	"description": "You have been abandoned at the entrance of what seems to be a quiet deserted base. Quickly, you discover an odd-shaped, four cornered room with four separate teleporters. You must now decide which one to take, and only ONE way leads out!",
+	"version": "987084",
+	"date": "2013-11-02 15:15:05",
+	"files": [
+		{
+			"filename": "DMCWRD.wad",
+			"size": 127469,
+			"crc": 147764318,
+			"md5": "05954eb49ead4a67d2c0e1725c67102a",
+			"sha1": "9870849873db5b5eeb4a36bc2313315d5982b747",
+			"sha256": "60c3f70ac3aeeab33c51c78038802bb41de4e4e348f809198706c2b7896d0c42"
+		}
+	]
+}

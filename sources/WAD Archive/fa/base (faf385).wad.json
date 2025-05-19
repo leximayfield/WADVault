@@ -1,0 +1,17 @@
+{
+	"uid": "base (faf385).wad",
+	"name": "Base Wad",
+	"description": "This is a wad file you can build on. It's fairly small, so add what you want.",
+	"version": "faf385",
+	"date": "2014-10-15 20:34:42",
+	"files": [
+		{
+			"filename": "base.wad",
+			"size": 33037,
+			"crc": 325573381,
+			"md5": "d5a6c069236a6da4784f5951cae76c51",
+			"sha1": "faf3851528057645fd031146d6794adc19a266c6",
+			"sha256": "2d02492acfeba51881afb765c6290ea95d86ed3c0cd8a5905268f1f4c2de2fa5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wolfendoom.wad",
+	"name": "WolfenDOOM",
+	"description": "This wad replaces map01 of Doom2. A Wolfenstein 3D crossover with DOOM, Also new weapons",
+	"date": "2017-01-17 00:25:47",
+	"files": [
+		{
+			"filename": "wolfendoom.wad",
+			"size": 4428794,
+			"crc": 1872996170,
+			"md5": "0f0c1c502edb475249e810d395f7e8ad",
+			"sha1": "83748ecc52543d441e316f6fc98d292337a1ba3b",
+			"sha256": "12999251b9490c4260304f144e579708fefdd272d0fe4aab4f79f43f65add50a"
+		}
+	]
+}

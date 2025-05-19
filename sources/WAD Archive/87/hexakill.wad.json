@@ -1,0 +1,16 @@
+{
+	"uid": "hexakill.wad",
+	"name": "HEXAKILL.WAD",
+	"description": "A detailed deathmatch wad",
+	"date": "2014-12-15 23:11:38",
+	"files": [
+		{
+			"filename": "hexakill.wad",
+			"size": 368598,
+			"crc": 2976824918,
+			"md5": "980a5fc6360d0a81de8d5e79cb9c1f4f",
+			"sha1": "877470a6020d5382e32f7b0866a934d1f6b428a2",
+			"sha256": "3b92ebf5f5ac01555166c2eb1bfb56624a056d3fcadbafe29445855717086d39"
+		}
+	]
+}

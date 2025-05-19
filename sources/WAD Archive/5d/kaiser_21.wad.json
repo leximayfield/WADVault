@@ -1,0 +1,16 @@
+{
+	"uid": "kaiser_21.wad",
+	"name": "Town Of Witchcraft",
+	"description": "Random map based on the Heretic Treasure Chest megawad (E1M5) http://www.doomworld.com/vb/showthread.php?s=&threadid=37792 The map is based on a small desolate town hidden deeply within the mountains. Like Plutonia II, I saw no progression into the project so instead of letting the map go to waste, I decided to release it as a standalone map. I was told that there may be issues on source ports other than Zdoom (no surprise there) when trying to open the blue key door. I only tested this on Zdoom (unfortuently) so I really can't guarantee that this wad will be stable. Cooperative play is highly recommended.",
+	"date": "2014-12-30 11:35:46",
+	"files": [
+		{
+			"filename": "kaiser_21.wad",
+			"size": 1284406,
+			"crc": 1784731493,
+			"md5": "48b53dca9b39d7fb9fb12ce2ae4f7d8f",
+			"sha1": "5de808ec3465ea8ae9e432cd368dae18ad5ed7c9",
+			"sha256": "d3c16e00fd071b16bb2389dba57ee7ecd9c260a243d71b0f286f403fdda36dde"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tdevilz2.wad",
+	"name": "The Devilz Work",
+	"description": "Hello fellow Doomers! Here are 7 SP/coop maps designed for DOS Doom2. I put a lot of calculation into these regarding ammo and health balance. Difficulty levels are present, but only in terms of power-ups rather than monster count. They go in order from easiest to hardest, with map01 having about 50 monsters, and map07 having over 400. Every map has secrets to hunt for, and I've attempted to make them look \"detailed\" within DOS mapping limitations. I found no visplane overflows when playing threough these, so if you do, please notify me! :) Naturally, jumping and crouching should be disabled when playing these, since they're intended for vanilla play. Deathmatch is also possible in these maps.",
+	"date": "2014-02-08 23:41:59",
+	"files": [
+		{
+			"filename": "tdevilz2.wad",
+			"size": 1578073,
+			"crc": 2529058201,
+			"md5": "c89ce01616de72f9735e947178af7229",
+			"sha1": "bcd73e9a31074c6fe6f73028e9cae9544e96e84a",
+			"sha256": "824b1e0fddbf74e801459b97beb4c2978d4eb55a2234ded294fb3c2778be4445"
+		}
+	]
+}

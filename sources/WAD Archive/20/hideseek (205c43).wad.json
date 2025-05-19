@@ -1,0 +1,17 @@
+{
+	"uid": "hideseek (205c43).wad",
+	"name": "hideseek.wad",
+	"description": "2-4 player deathmatch wad with shotguns and chainguns. Lots of hallways and hideyholes.Really, it's a must see.",
+	"version": "205c43",
+	"date": "2016-02-07 20:30:50",
+	"files": [
+		{
+			"filename": "hideseek.wad",
+			"size": 70269,
+			"crc": 3600354580,
+			"md5": "5ce4d53967fc6b573e42800845bd3b9d",
+			"sha1": "205c439c7cc8fb2a22b0d81b197fab1ddc23a3a6",
+			"sha256": "0414a6f86f5e0ec9c54297839dc62a7c9efbd404d6c37b1bb8d2f2f9736ab62a"
+		}
+	]
+}

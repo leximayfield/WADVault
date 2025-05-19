@@ -1,0 +1,16 @@
+{
+	"uid": "thyinf.wad",
+	"name": "Thy Infernal",
+	"description": "Large map with classic/demonic style that is NOT as linear as it may look like at first... but see for yourself :-)) The \"history\" of this map: - started building in january 2001 with DoomED 4.20 - built about 40 percent of map with this editor - learned to hate DoomEd 4.20 - forgot about this map for about 4 years - discovered Doom Builder - finished map with it Hope you like lots of inverted crosses and pentagrams ;-) Play at least on \"hurt me plenty\" as for easier difficulty settings are hardly a challenge... Features ALL available weapons from DOOM as well as a secret exit to E3M9. Map was tested with zdoom and jdoom but may run with other source ports as well. Will NOT run with vanilla DOOM (don\u00b4t know why, if you have any idea please drop me a mail!)",
+	"date": "2014-12-14 21:09:46",
+	"files": [
+		{
+			"filename": "thyinf.wad",
+			"size": 373793,
+			"crc": 3476221837,
+			"md5": "b40a692e1201d88d27b5131b19463e04",
+			"sha1": "c7a610e64708e7ee21d0c9791f17581caff1e713",
+			"sha256": "39fdf6122a731c56e3d49da9ae293577d9208b47637a76b117884b76af9198ab"
+		}
+	]
+}

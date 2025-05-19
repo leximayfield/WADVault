@@ -1,0 +1,16 @@
+{
+	"uid": "hawkeye.wad",
+	"name": "The eye off a hawk",
+	"description": "Try to play and complete this map. It's not easy to get to the EXIT.",
+	"date": "2014-12-18 22:34:04",
+	"files": [
+		{
+			"filename": "hawkeye.wad",
+			"size": 104947,
+			"crc": 2183136338,
+			"md5": "0009a14d711a527a987021fb36e4c560",
+			"sha1": "392c48f9571cc18fffc84e95bb6e721378e4f1bd",
+			"sha256": "b890fa89e25b6a79e032caafc662699445888f1783cdb4cdf7e35f77973b7a50"
+		}
+	]
+}

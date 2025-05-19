@@ -1,0 +1,16 @@
+{
+	"uid": "procyon.wad",
+	"name": "Fury of Procyon",
+	"description": "Sister to freon.wad and was meant to be in The same style. Medium sized DM, good with 3 players, but 2 is sort of a hunt.",
+	"date": "2014-12-15 22:10:18",
+	"files": [
+		{
+			"filename": "procyon.wad",
+			"size": 1084240,
+			"crc": 3385977360,
+			"md5": "d9913f2e7f06d15069469fef0fcb6bb2",
+			"sha1": "d63d98aa7180d8f0c9890e705076479d39ffffb6",
+			"sha256": "a286b2e993e78bee20da262ec589c9dadac61163387af2ccd90f6a96b0b92880"
+		}
+	]
+}

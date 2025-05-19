@@ -1,0 +1,16 @@
+{
+	"uid": "aliens-x.wad",
+	"name": "Aliens X",
+	"description": "This PWAD contains 27 new levels, graphics, sounds, sprites etc....based on the Aliens movies",
+	"date": "2015-09-14 20:08:50",
+	"files": [
+		{
+			"filename": "aliens-x.wad",
+			"size": 5176520,
+			"crc": 1829859546,
+			"md5": "5679b3e3687b14bebde69aa10967a921",
+			"sha1": "6f9a8cb1c104bf1db801980f00ecbb9f9f5eba4f",
+			"sha256": "b753095aa02f007b29880efb7cdf7bbdbbbff254da7dc43ee31cde1e7bac3b11"
+		}
+	]
+}

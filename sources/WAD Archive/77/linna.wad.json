@@ -1,0 +1,16 @@
+{
+	"uid": "linna.wad",
+	"name": "Linna",
+	"description": "It's a castle themed map, with a large lava area.",
+	"date": "2015-01-05 16:18:28",
+	"files": [
+		{
+			"filename": "linna.wad",
+			"size": 658290,
+			"crc": 3515340186,
+			"md5": "6d70d01662ee7ec1fac0b3ea60c0c59b",
+			"sha1": "77866b8018e05e0b6e241e69dd11aaec809ee372",
+			"sha256": "eb549f933d85177de60988b1f13de3de96685b1326916967b6e82d5c4bdc728e"
+		}
+	]
+}

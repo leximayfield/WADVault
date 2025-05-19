@@ -1,0 +1,17 @@
+{
+	"uid": "houses (44be75).wad",
+	"name": "The Houses",
+	"description": "Doom 2 does not tell the whole story. As well as the glorious tasks Doom2 makes you undertake there are billions of individual buildings that need to be cleansed of all the monsters that live there. Based on two houses I know well, The Houses is an attempt to show some of the smaller but not easier tasks a marine must undertake.",
+	"version": "44be75",
+	"date": "2014-01-07 22:01:02",
+	"files": [
+		{
+			"filename": "houses.wad",
+			"size": 124636,
+			"crc": 75941719,
+			"md5": "28038b80bd2da1af7f7e386075336ebc",
+			"sha1": "44be751f57f66f52f6770f6b16790e78895944cd",
+			"sha256": "78be95c05a8b70eced1f6cf28cfc48b81be1a48448d76b05c11cd861e9ce2d12"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "DETHWRLD.wad",
+	"name": "dethwrld.wad",
+	"description": "Highly addictive Doom II deathmatch level:",
+	"date": "2014-10-14 20:58:15",
+	"files": [
+		{
+			"filename": "DETHWRLD.wad",
+			"size": 54593,
+			"crc": 2013446765,
+			"md5": "b926c21c197be56bb5bd567c1d0d9c00",
+			"sha1": "3fccfae5402a2bf965db0b620b923dd67c434cd7",
+			"sha256": "d45c2ed0b2cf32a3901d5f31f5f1ab35451ca457063580fffe8db392864b8ecf"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doomers.wad",
+	"name": "Doomers.wad",
+	"description": "This is a level for Doom II based on MyHouse2.wad by Noah Haskell, Email Address : noah@seas.ucla.edu This is a blueprint accurate WAD of Noah's house. I have made a few changes to the floor plan and many changes to the textures and other interior appearances. THE TEXTURE ALIGNMENTS ARE FLAWLESS!! There are hidden teleporters, detailed furniture, and a couple great hiding places. Be sure to check out the fireplaces! Enjoy!!! (please tell my what you think!!!) The easiest way to run it is to put all the included files in your Doom II directory and run DOOMERS.BAT : OR If you NEED to use CHEAT (debug) mode, run EZ.BAT This will be skill level 1 and most of the bad guys will be Wolf 3D Characters.",
+	"date": "2014-12-15 22:12:38",
+	"files": [
+		{
+			"filename": "doomers.wad",
+			"size": 149962,
+			"crc": 3955429738,
+			"md5": "920ac4e00860016171d7da616d7e6c7f",
+			"sha1": "f93e11aa8eec00484c4a5b8d8ac34bc73b667845",
+			"sha256": "da58edb01c51f088b30f492ab27a7b62774beb80a6aca1d8015caf21983566a4"
+		}
+	]
+}

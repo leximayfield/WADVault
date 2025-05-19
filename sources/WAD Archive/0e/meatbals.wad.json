@@ -1,0 +1,16 @@
+{
+	"uid": "meatbals.wad",
+	"name": "Meatballs",
+	"description": "What do you expect from this map? It's typical plutonia map with crude name, mixed layout, chaingunner/revenant spam, walls in thickets, instant traps, e.t.c ...",
+	"date": "2015-09-14 23:07:49",
+	"files": [
+		{
+			"filename": "meatbals.wad",
+			"size": 376753,
+			"crc": 3756740707,
+			"md5": "65c3ce9dafd425f096c3f9360874daf0",
+			"sha1": "0ed357cd5e2b54a0a7bb37d318620c4c3228116a",
+			"sha256": "c9399dd04aa401587b904bfbeb80d295fa930969417c40999d10af7ef1a0c01b"
+		}
+	]
+}

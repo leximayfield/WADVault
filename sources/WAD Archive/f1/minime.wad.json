@@ -1,0 +1,16 @@
+{
+	"uid": "minime.wad",
+	"name": "Minime",
+	"description": "Yet another ZDoom map. This one is just for fun mostly though. Hell, I'm not ever sure if it's beatable. Very short and one-roomed, I think you'll enjoy it though.",
+	"date": "2018-05-28 18:47:51",
+	"files": [
+		{
+			"filename": "minime.wad",
+			"size": 120351,
+			"crc": 1448337586,
+			"md5": "3d26c14aede90975d5bced8c2e8f6daf",
+			"sha1": "f1318c61a9c65f158fd74d76ec763ef014855b3d",
+			"sha256": "57635dbeda58c52d8f8390153e71465ded379a59e5fa6e224aaad2f9cbb1e1d8"
+		}
+	]
+}

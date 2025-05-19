@@ -1,0 +1,16 @@
+{
+	"uid": "1pm1.wad",
+	"name": "First Phase",
+	"description": "This is my first Doom (2) map. I thought it would be fun to remake my first Doom (2016) map. This is why there are so many unusual features, like double hallways, as it's based on the Snap Map prefab modules. I had to change a few things, to account for Doom's limitations, and also just to experiment with some different ideas.",
+	"date": "2017-10-19 19:29:41",
+	"files": [
+		{
+			"filename": "1pm1.wad",
+			"size": 192080,
+			"crc": 3324142486,
+			"md5": "010f69e72fdb15dae2eaacf5f28b20dc",
+			"sha1": "e41424fc6cffe6e2e2bcc80db06968fd1f2862e9",
+			"sha256": "fcaab6ddcca32cd45c7b0d6390ef3e24deb0bddd61205372a0f3b338652560a9"
+		}
+	]
+}

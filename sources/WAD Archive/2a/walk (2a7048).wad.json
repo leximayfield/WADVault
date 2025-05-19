@@ -1,0 +1,17 @@
+{
+	"uid": "walk (2a7048).wad",
+	"name": "Walk Of Fath",
+	"description": "Just a WAD for HEXEN. But MAP01 is the ariginal leval but it got mest up so dot play that one.",
+	"version": "2a7048",
+	"date": "2014-12-31 12:09:05",
+	"files": [
+		{
+			"filename": "walk.wad",
+			"size": 60899,
+			"crc": 1691136732,
+			"md5": "9c5e1ffd345d9bff6cf9db9816e036d7",
+			"sha1": "2a70482565985ef525a1a6088c9424611e608c6c",
+			"sha256": "fd4b054a0dbf459b78eb751cb2897fe4424c3ab52c63476b165265d23cc3077e"
+		}
+	]
+}

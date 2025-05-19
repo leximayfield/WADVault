@@ -1,0 +1,16 @@
+{
+	"uid": "bushface.wad",
+	"name": "Bushface",
+	"description": "Bushface (or \"Face of Bush\", as I originally called it) is a silly HUD face replacement. I originally released it in 2004 to Doom Connector community, and now it's 2015 and I decided to upload it to the idgames/ archives so it can be preserved for all of eternity. This upload is in its unchanged form, as I've also found a modified version of Bushface on the Internet. I even preserved the old text file that can be found in this .zip archive.",
+	"date": "2015-09-15 13:44:38",
+	"files": [
+		{
+			"filename": "bushface.wad",
+			"size": 238972,
+			"crc": 130043259,
+			"md5": "3ef00bdc78221d7193c310bfad11e1b3",
+			"sha1": "92a11d1c9cfa73f04dcec9a2dbd8be7bb533075f",
+			"sha256": "3aa627d985347730f422c2a214ba0618970724b0f9ccfda012071095c0a0061d"
+		}
+	]
+}

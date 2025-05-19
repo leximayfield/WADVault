@@ -1,0 +1,17 @@
+{
+	"uid": "aeternum (9d1017).wad",
+	"name": "Aeternum",
+	"description": "3 action packed levels of varying size. Few puzzles. Built after playing (and loving every second of) Alien Vendetta. Difficulty is intentionally set somewhat high.",
+	"version": "9d1017",
+	"date": "2014-12-21 16:30:03",
+	"files": [
+		{
+			"filename": "aeternum.wad",
+			"size": 7800935,
+			"crc": 2479931214,
+			"md5": "1899b80540c6b78702a05fe617d26da7",
+			"sha1": "9d10176073d97929b7831a0cefbc2a2c6653dbb2",
+			"sha256": "7253a38d98ee6b9e8d4a78c094bade5a6f581cacf731483b6149a89696c975d4"
+		}
+	]
+}

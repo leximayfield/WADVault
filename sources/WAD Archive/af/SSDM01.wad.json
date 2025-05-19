@@ -1,0 +1,16 @@
+{
+	"uid": "SSDM01.wad",
+	"name": "Death Match Level 01",
+	"description": "Fun deathmatch only level",
+	"date": "2014-02-15 16:50:11",
+	"files": [
+		{
+			"filename": "SSDM01.wad",
+			"size": 45045,
+			"crc": 1418884534,
+			"md5": "0eadd97591c7e1a0f1cd03962f7049d9",
+			"sha1": "afcca560775bfb4e29f3e5877a5d45867f5cb02a",
+			"sha256": "e58103b56c68febf334866598e138df3162985df39f8fb55acc6d32e5a351da3"
+		}
+	]
+}

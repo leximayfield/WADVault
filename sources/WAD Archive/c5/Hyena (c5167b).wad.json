@@ -1,0 +1,17 @@
+{
+	"uid": "Hyena (c5167b).wad",
+	"name": "codename HYENA killermachine",
+	"description": "This is the rerelease of our old old old TC Hyena, wich was made between 1994 and 1998. It's not testted this time around and it probaly got hundreds of bugs. But it was rereleased by popular demand. (from people who hadn't played it yet. :p) I don't claim it's good. But I as the head developer of it of course love it as it was my baby for 4 years (before I got online and saw what other people did with the engine). Please don't mail me and tell how much you think it suck (if that's your opinion of it) as I really don't care to hear about it. I also included the old FAQ for the TC as I hope you'll laugh as hard as I did when I read it the other day. ;) Last note: If you decide to play DM in Hyena on e3m1, then you really should use the e3m1ptch.deh file instead of the regular Deh as the map was designed with this grenade launcher weapon in mind. (instead of the bfg. Something for you bfg haters then I suppose ;) )",
+	"version": "c5167b",
+	"date": "2013-04-21 13:47:27",
+	"files": [
+		{
+			"filename": "Hyena.wad",
+			"size": 11777864,
+			"crc": 1636710353,
+			"md5": "55b4b104caa6ad9818013d62c8f56e1b",
+			"sha1": "c5167b601adc8cdaf70cba483927a7df3fda15ab",
+			"sha256": "b7a884701db777f207213772c83b3ca289472e7b9bbc6b5cc127056568640237"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rusars.wad",
+	"name": "Russian Arsenal",
+	"description": "the version from 5.01.10 has more powerful TOZ and Saiga and increased reloading speed for TOZ. Also RPG rockets are now spawned with certain chance *along with* AK ammo, not instead of.",
+	"date": "2014-12-11 22:28:37",
+	"files": [
+		{
+			"filename": "rusars.wad",
+			"size": 7172527,
+			"crc": 1309762739,
+			"md5": "28d2166460e8bdb442d55f485f3581e0",
+			"sha1": "90ce0d477ac84393f172cfa0e526546e9c5638bc",
+			"sha256": "d0b3938e9a854180a888e4560b68491be85e3e859933ad9aba332f3d18fabe9c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "olympus.wad",
+	"name": "Mount Olympus",
+	"description": "Replaces map11 of doom2, teaser map from episode 2 of 'The Underworld'",
+	"date": "2015-01-13 21:29:18",
+	"files": [
+		{
+			"filename": "olympus.wad",
+			"size": 2598506,
+			"crc": 2949468935,
+			"md5": "bbd62755f41569c2e5987698fc1c2ebd",
+			"sha1": "351125c52c1a0ea9824132bd812b01fccf0fbbf4",
+			"sha256": "0d71163acbd30d54683ec89403438c42abaf8ca6e3a64adc25c4e8f07e14867f"
+		}
+	]
+}

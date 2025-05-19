@@ -1,0 +1,17 @@
+{
+	"uid": "badlands (2d7a57).wad",
+	"name": "The Badlands",
+	"description": "These lands have been cursed since the dawn of time, bringining about endless amounts of death onto those who dare step foot inside, but now... A new evil has appeared... Something truly horrifying is happening here, and now you have to find out what is controlling this shit. Over and out...",
+	"version": "2d7a57",
+	"date": "2017-11-27 20:45:52",
+	"files": [
+		{
+			"filename": "badlands.wad",
+			"size": 2564985,
+			"crc": 711387434,
+			"md5": "270acb5f92a04b86b37099ac9ef35d74",
+			"sha1": "2d7a57f475b381a185dd61ad94a392a05a22a352",
+			"sha256": "bdefeae742b74ea6a1d2911d180fc2769853920266bbaeeef86869ddc3dd9023"
+		}
+	]
+}

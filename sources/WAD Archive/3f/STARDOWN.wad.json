@@ -1,0 +1,16 @@
+{
+	"uid": "STARDOWN.wad",
+	"name": "StarDown",
+	"description": "Try it out. Not tested for multi-player. : Suggestions welcomed.",
+	"date": "2014-02-15 16:46:32",
+	"files": [
+		{
+			"filename": "STARDOWN.wad",
+			"size": 107652,
+			"crc": 2399492586,
+			"md5": "75d40479cb62b3489f0f32ad4cbf641b",
+			"sha1": "3f9042e13203a639ba563448e1af19c1811d3301",
+			"sha256": "2fb5a7a68f487619abcc3d7be8a640cd9cf818e0ebcdf8b2eb2c6d8e9acb6e72"
+		}
+	]
+}

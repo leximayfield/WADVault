@@ -1,0 +1,16 @@
+{
+	"uid": "go2kill.wad",
+	"name": "\"go to kill\"",
+	"description": "1 level WAD. Excessive attention given to the appearence of the level (texture selection, alignment, lighting).",
+	"date": "2014-12-18 22:43:50",
+	"files": [
+		{
+			"filename": "go2kill.wad",
+			"size": 614884,
+			"crc": 3395173129,
+			"md5": "be610077efabcb5c728072a49353a3e5",
+			"sha1": "bde45b0b0d58746e1004e71bc00e80ac0e7a7fd1",
+			"sha256": "12e51f63e9f7472e58e336fe08c6e07bf5e2afd722c95c8743050fabcaf72d46"
+		}
+	]
+}

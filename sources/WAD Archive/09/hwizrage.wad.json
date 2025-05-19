@@ -1,0 +1,16 @@
+{
+	"uid": "hwizrage.wad",
+	"name": "Wizard's Rage",
+	"description": "4 level dungeon romp that takes place in a castle which is built inside and around a mountain during the darkness of night with night background.",
+	"date": "2014-12-30 11:23:12",
+	"files": [
+		{
+			"filename": "hwizrage.wad",
+			"size": 799390,
+			"crc": 2916110096,
+			"md5": "f4a8b5857b211fd788dc3f9a2cc9b71b",
+			"sha1": "0900b9dc969be97137b8395604f270b8543f875a",
+			"sha256": "1de935aa3b5797b3dfbb46dc4f1b77c7b2d3765f4691fe92bb97a922dc5ee76e"
+		}
+	]
+}

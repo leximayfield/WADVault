@@ -1,0 +1,16 @@
+{
+	"uid": "wither.wad",
+	"name": "Withering Graves",
+	"description": "Small level taking place within an old graveyard and mausoleum. Pay respects to the dead by laying them back to rest once more and tend to its grounds by clearing out all vermin making their new home here.",
+	"date": "2017-06-25 20:45:34",
+	"files": [
+		{
+			"filename": "wither.wad",
+			"size": 971367,
+			"crc": 1787506434,
+			"md5": "b40d2a934c9347e8a4a58339f707aa97",
+			"sha1": "f31ea9e72addc81408d0b4b454434e1cffd38f6c",
+			"sha256": "89a122e2103a628a7d2467820feb7291fc6208b51a39d57322054b41b4bb0ba1"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "pipe (6f43ac).wad",
+	"name": "PIPE!",
+	"description": "A two-player Doom 2 DeathMatch, extensively playtested.",
+	"version": "6f43ac",
+	"date": "2014-12-03 20:27:44",
+	"files": [
+		{
+			"filename": "pipe.wad",
+			"size": 71486,
+			"crc": 3332960545,
+			"md5": "06828e997126d0d51a58f06b2f3b2d5a",
+			"sha1": "6f43ac1f253d5d6a121d63b220c01c71788fd2d8",
+			"sha256": "f788b477b71951e582dc0cbd53f99ba5632d7ec397bd9da6483f6cc86f28e566"
+		}
+	]
+}

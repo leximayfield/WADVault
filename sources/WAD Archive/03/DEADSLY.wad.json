@@ -1,0 +1,16 @@
+{
+	"uid": "DEADSLY.wad",
+	"name": "\"Dead Silly\" (V1.0)",
+	"description": "It's nothing special, just a small deathmatch level with some custom special effects. I mainly just wanted to see what I could do with ZDOOM style maps and scripting.",
+	"date": "2015-12-09 23:40:36",
+	"files": [
+		{
+			"filename": "DEADSLY.wad",
+			"size": 4332448,
+			"crc": 1188655934,
+			"md5": "fd7c994d82ed1cfdb68e0d794a55778c",
+			"sha1": "0340361401260e7beff07a94cffca9d965724dd5",
+			"sha256": "fd7eaee1e08e31bcbd885d77b27e681f0b86b516779022472c12b5ef671f4a90"
+		}
+	]
+}

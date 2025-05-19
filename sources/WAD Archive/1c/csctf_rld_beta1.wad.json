@@ -1,0 +1,16 @@
+{
+	"uid": "csctf_rld_beta1.wad",
+	"name": "Counter Strike CTF Reloaded",
+	"description": "Some CTF maps designed to run with Counter Strike Weapon packs. It supports players up to 32.",
+	"date": "2013-04-19 04:43:00",
+	"files": [
+		{
+			"filename": "csctf_rld_beta1.wad",
+			"size": 35817458,
+			"crc": 2123137522,
+			"md5": "2fc46080166bd542c46df7c1243d1df5",
+			"sha1": "1ca19589b57bac40534593a0c06817d70a45e2f8",
+			"sha256": "2966d1d5435dd8f0bea495da136514e21a0ccc7f0bea3400b9aecf760af8319a"
+		}
+	]
+}

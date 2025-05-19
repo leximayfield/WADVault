@@ -1,0 +1,16 @@
+{
+	"uid": "doombal2.wad",
+	"name": "DoomBall ][",
+	"description": "\"When played using the included .deh file it becomes an entirely new Doom experience.\"",
+	"date": "2014-12-15 21:20:10",
+	"files": [
+		{
+			"filename": "doombal2.wad",
+			"size": 396208,
+			"crc": 4056861500,
+			"md5": "7f6ca259005dbe072bc1367a6147e30e",
+			"sha1": "c598fa30b1d70b281f2146fa33ffc63b922255f7",
+			"sha256": "00ed583648d661a6642c98753166e0711877f8cb71837e11e51ba2867c476a98"
+		}
+	]
+}

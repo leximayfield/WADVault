@@ -1,0 +1,17 @@
+{
+	"uid": "temple (18c075).wad",
+	"name": "The Temple",
+	"description": "find the way out of these temple.",
+	"version": "18c075",
+	"date": "2015-02-21 09:01:29",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 59162,
+			"crc": 3715199452,
+			"md5": "2b16e580b9b7f53f8a31be7e2b075fdc",
+			"sha1": "18c0750dde86f34e3f4ab6bb536e35249e1792c7",
+			"sha256": "3b4d405e65dd7299c3f945cb15cd1adda71554c92e972b0138aa17b7a361f196"
+		}
+	]
+}

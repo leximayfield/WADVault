@@ -1,0 +1,16 @@
+{
+	"uid": "mystkeep.wad",
+	"name": "MYSTIC KEEP FOR HERETIC v2.0",
+	"description": "This is my second attempt at a map. I released a crappy set of 9-levels last year.",
+	"date": "2014-12-30 11:29:20",
+	"files": [
+		{
+			"filename": "mystkeep.wad",
+			"size": 2001961,
+			"crc": 3030949700,
+			"md5": "a9de1c8cfcac536976d69a4e460e4cb8",
+			"sha1": "dffdb7a958f9f4ca0e8299555c1db07d744a0fed",
+			"sha256": "256bcff155eba76db218bdec705f251697fde6f631fd308b5546761028af4fbe"
+		}
+	]
+}

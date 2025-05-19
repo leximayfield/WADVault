@@ -1,0 +1,16 @@
+{
+	"uid": "thespire.wad",
+	"name": "The Spire",
+	"description": "Okay, for starters: THIS LEVEL IS LARGE. VERY, VERY, VERY LARGE. It has ~2400 sectors and ~2300 monsters on UV. I would NOT recommend playing this level if you have a really old computer. Second, this map is pretty hard. 100% kills and secrets on skill 4 is possible, but difficult (I've done it with a lot of saving and reloading). Other than that, it's fun with a lot of action. So enjoy it!",
+	"date": "2013-10-28 21:33:26",
+	"files": [
+		{
+			"filename": "thespire.wad",
+			"size": 2820514,
+			"crc": 3519827569,
+			"md5": "b143f0b707eebf5c4474a5ce75a14e5d",
+			"sha1": "ddcc81416cd43dbbbad6a2471461a341d483edc2",
+			"sha256": "9b593cf11aae136f406a58cfd0fd6b9834c90419b1658d760cb3c3a7b4fd503d"
+		}
+	]
+}

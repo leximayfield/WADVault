@@ -1,0 +1,17 @@
+{
+	"uid": "sp_simp (820e65).wad",
+	"name": "Simplicity - Because Complexity Sucks",
+	"description": "Simplicity is a 2-episode MegaWad for Doom 2 using the ZDoom engine. The original idea behind simplicity was to create 32 really short maps, each made in under two hours'; time (to put it simply, a megawad of speedmaps). As things began to progress, the maps started to get longer and longer, and I was spending more and more time working on said maps. So, that pretty much defeats the purpose of calling it simplicity, right? Wrong. All of the maps in this megawad still focus on simple, fun gameplay, in the normal Doom style, while still making use of the ZDoom engine's features. There are so many projects for ZDoom which attempt to make Doom into something it's not. I can assure you that this is not one of them. So what exactly makes Simplicity so different than any other megawad currently released? Well, probably nothing. So if you're expecting something drastically new and different, you're looking in the wrong place. However, if you want simple, action packed fun, then this should be the megawad for you!",
+	"version": "820e65",
+	"date": "2013-04-19 09:46:36",
+	"files": [
+		{
+			"filename": "sp_simp.wad",
+			"size": 21776187,
+			"crc": 1521607194,
+			"md5": "5cdc74382c266bc8afaaaac7f2d9f037",
+			"sha1": "820e65ddfbad7863e0a40602bdb53d2481d776ba",
+			"sha256": "9353f03ff28fc9b624f04d75ad93d5bd1eafe6f522991d56e53c1448e66132ad"
+		}
+	]
+}

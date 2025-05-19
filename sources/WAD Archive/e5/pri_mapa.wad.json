@@ -1,0 +1,16 @@
+{
+	"uid": "pri_mapa.wad",
+	"name": "My Frist! Map",
+	"description": "This was my first Doom map. My first creation for any game, really. A tipical 1994 WAD -and made in 1994, too-, with random scenery and misaligned textures. Not very interesting, but I know there are players who enjoy ugly 1994 wads... A refined -and much better- version of this map, done in 1995, appears in E2M3 of my megawad NIVELES.WAD.",
+	"date": "2014-12-13 17:51:36",
+	"files": [
+		{
+			"filename": "pri_mapa.wad",
+			"size": 71149,
+			"crc": 5968915,
+			"md5": "a6f5304f8c8d8c1ee291f324f09c65ba",
+			"sha1": "e5ffa502f27572ff2ae09a5f5cc370f99300874b",
+			"sha256": "24e53692b89c6d199c79f06426cfcb25783541015ac0322bcf8791ffc8c8793c"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DUNGEON (9a05b7).wad",
+	"name": "dungeon.wad",
+	"description": "DOOM II deathmatch wad in a dungeon setting. Watch out for the crusher.",
+	"version": "9a05b7",
+	"date": "2014-10-14 21:17:15",
+	"files": [
+		{
+			"filename": "DUNGEON.wad",
+			"size": 54548,
+			"crc": 3685215471,
+			"md5": "13b826d80afc44ad954c7978d93368f5",
+			"sha1": "9a05b75a1edb7ea0ed7283b37c8dddcbfb4e9074",
+			"sha256": "d74058e8588714c81f263f1764a8d38a0a0ce79b3b29fd274c183a5e81df66b4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "shroud.wad",
+	"name": "DeathMatch of the Ages",
+	"description": "This is just a small map that is mainly for a multiplayer DeathMatch game. Works pretty damn well if the weapons do NOT stay and the weapons DROP after death since that would provide more of a screw job for one yet a +1 frag for another. I find it quite fast paced and pleasant. ~Enjoy",
+	"date": "2014-12-15 23:05:49",
+	"files": [
+		{
+			"filename": "shroud.wad",
+			"size": 25996,
+			"crc": 79811222,
+			"md5": "7ca51c014fff7a11aa39f0e0edd02064",
+			"sha1": "d1c4e75a2e67fe51ca78c6f51b986047df73f5bb",
+			"sha256": "58d52f614875ca134789c99e927ea0001e7efa2dd18e9e9565579a41ac9783fa"
+		}
+	]
+}

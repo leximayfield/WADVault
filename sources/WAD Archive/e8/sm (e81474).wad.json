@@ -1,0 +1,17 @@
+{
+	"uid": "sm (e81474).wad",
+	"name": "Scary Mike v1.10",
+	"description": "A follow up to Mike Watson's great fun 'Running Scared'. This one is harder and more detailed though. You canrun through it in about 30 seconds, which make this a small map. About 270 sectors.",
+	"version": "e81474",
+	"date": "2014-12-29 18:24:37",
+	"files": [
+		{
+			"filename": "sm.wad",
+			"size": 239593,
+			"crc": 3910238120,
+			"md5": "5e53c5dcf30fa40bddf95d0442c357bd",
+			"sha1": "e814741f2d3f373c19d7fbd50ccba3de6b488ec4",
+			"sha256": "712a3ee2995d25ed3442dc8518e8f99cddfdca1df004d40b782cb3a768666030"
+		}
+	]
+}

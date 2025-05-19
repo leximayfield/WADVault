@@ -1,0 +1,17 @@
+{
+	"uid": "phobos (c45b87).wad",
+	"name": "The Far Side of Phobos",
+	"description": "This is a full 8 level Episode For DOOM. It takes place after \"everything else\" and there are reports of areas never cleared on Phobos, and once again, you must venture in by yourself.",
+	"version": "c45b87",
+	"date": "2013-04-21 14:23:01",
+	"files": [
+		{
+			"filename": "phobos.wad",
+			"size": 1297937,
+			"crc": 3174581797,
+			"md5": "30d9f5470828551958c03d36ad83ba17",
+			"sha1": "c45b873e35e4e1b1e77f7082a12000805e8c3fb9",
+			"sha256": "055fb14a364827ffc210d4b3971ee59bbff339b40e7d5a43de3e6544e958a26b"
+		}
+	]
+}

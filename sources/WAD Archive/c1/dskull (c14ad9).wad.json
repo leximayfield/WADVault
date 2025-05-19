@@ -1,0 +1,17 @@
+{
+	"uid": "dskull (c14ad9).wad",
+	"name": "SKULL (dskull.wad.WAD)",
+	"description": "A huge, fairly straight foreward level that is shaped like the top portion of a skull. It's not all that difficult to complete, but nearly impossible to find all the secrets. I have installed more teleporters than nescessary in order to allow quick access to various parts in deathmatches. There are several areas that \"respawn\", not in the sense of NIGHTMARE, but some places you could kill everything, then come back later and find some new nasties. This runs fine full or almost full screen on the 486-33s I've tried it on. I have no creative or witty story behind this, except that I learned that I spent way too much time on this stage. 95% of the textures are aligned the way I want them (most done before DEU 5.2), so don't yell about the few bad ones. I have a bunch of new ideas for new levels, so this should not be my last stage. Also look for my ray-traced robotic sentries (sentry.zip) they replace the cacodemons.",
+	"version": "c14ad9",
+	"date": "2013-11-04 20:17:55",
+	"files": [
+		{
+			"filename": "dskull.wad",
+			"size": 225653,
+			"crc": 354892791,
+			"md5": "d7c7cdf26ba1254de36975a7b16a15e2",
+			"sha1": "c14ad9780758c9a3cb7572c6adc35c7d0c34ac6e",
+			"sha256": "efd1100febd4eeb4c569d34794af853f1382f1d477ff321a2fd496a515a829c4"
+		}
+	]
+}

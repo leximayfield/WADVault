@@ -1,0 +1,17 @@
+{
+	"uid": "8bitdm (6e6084).wad",
+	"name": "8 Bits Deathmatch",
+	"description": "This is a try to recreate Doom as it would be done in the 80's :P. My first DM package. So it's not as great as Exec.wad, brit11.wad or dwango serie... Remember 80's? Oldschool graphics from old arcade games? Expect hyperactive graphics and music, fast Deathmatch and a very original concept. It's just weird. Try it!",
+	"version": "6e6084",
+	"date": "2013-04-19 02:47:21",
+	"files": [
+		{
+			"filename": "8bitdm.wad",
+			"size": 2073912,
+			"crc": 1424386211,
+			"md5": "3f6d905499b128ae4c0a40b3c0ab03de",
+			"sha1": "6e6084ef36915b1bfcdb0a89ba10d8bd4b5213bb",
+			"sha256": "a060db12a5416439336d7318e896bc84b35eb41a8767fe9f64363fd4a686f35a"
+		}
+	]
+}

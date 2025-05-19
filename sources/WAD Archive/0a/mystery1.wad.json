@@ -1,0 +1,16 @@
+{
+	"uid": "mystery1.wad",
+	"name": "Mystery 1",
+	"description": "Mystery 1, a 6-level wad. Maps are slaughter style. Enjoy :)",
+	"date": "2017-10-19 19:30:35",
+	"files": [
+		{
+			"filename": "mystery1.wad",
+			"size": 12742507,
+			"crc": 4157007589,
+			"md5": "4afb0bb7eec85cdf4f1e294792bf8425",
+			"sha1": "0aea9de421abf3ce0ee3a058d8a562fbe6edabd3",
+			"sha256": "19cd5a26f5a4994b12e79c66f8cbcbf00b05dc4dfe5e416ae2d2ed9ed5867274"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "FRAG_YOU (6d30b1).wad",
+	"name": "Frag You!",
+	"description": "This is one of the best Deathmatch levels around! Not too big, not too small. Major frags! Major thrills!",
+	"version": "6d30b1",
+	"date": "2014-08-30 13:54:49",
+	"files": [
+		{
+			"filename": "FRAG_YOU.wad",
+			"size": 38300,
+			"crc": 3384601453,
+			"md5": "c92a7362d84d0c317ce9affb6c1b53ac",
+			"sha1": "6d30b111adfe617719ff5ddcba964e2a52631e95",
+			"sha256": "6bb7156333bd785d1e50f873e911194ffc87d6cf83d23ed7dac97eb3baaf4713"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "caslotr2 (530f8d).wad",
+	"name": "Castle of the Renegades 2",
+	"description": "Here at last is the Doom 2 version of Castle of the Renegades, the epic e2m1 for the original Doom. I didn't make too many changes in the stuctures of the original, but I incorporated most of the new monsters and some of the new graphics and linedef types. This wad was so long in coming because I couldn't find a Doom 2 compatible editor that I liked that was capable of holding it. Thanks to Ben Morris for allowing me access to beta versions of his excellent editor, DCK.",
+	"version": "530f8d",
+	"date": "2014-01-07 21:54:52",
+	"files": [
+		{
+			"filename": "caslotr2.wad",
+			"size": 744114,
+			"crc": 1485308933,
+			"md5": "76f84f349ea4ff4294128a49110a4cc1",
+			"sha1": "530f8da6f44888e31f1cc2bc17e0adbbeff2ce44",
+			"sha256": "e7f4e6ce3c43de076047bea8f3710f3168a4abea8868eb6a3f568f4b7bf1902e"
+		}
+	]
+}

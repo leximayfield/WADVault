@@ -1,0 +1,16 @@
+{
+	"uid": "necro.wad",
+	"name": "Necropolis",
+	"description": "Level with nazis. You need to shoot the power core thingy in the blue key card area.",
+	"date": "2015-09-14 22:23:16",
+	"files": [
+		{
+			"filename": "necro.wad",
+			"size": 6249276,
+			"crc": 2301455927,
+			"md5": "ccb6c11d9a1dfc306adb784eab68de67",
+			"sha1": "f9c0480d8a4bcd2856e7cae976f7df757b86ecdb",
+			"sha256": "9f99d3901df0835cdaa58dfa65b8ca7bd0dfe0e27f594b15a72c1de130f3c96d"
+		}
+	]
+}

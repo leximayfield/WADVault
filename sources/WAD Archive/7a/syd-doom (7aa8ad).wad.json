@@ -1,0 +1,16 @@
+{
+	"uid": "syd-doom (7aa8ad).wad",
+	"name": "SYDoom v2.0",
+	"version": "7aa8ad",
+	"date": "2013-11-02 15:38:23",
+	"files": [
+		{
+			"filename": "syd-doom.wad",
+			"size": 291228,
+			"crc": 578581431,
+			"md5": "7825b1908743a5c019f6d91372bf43bc",
+			"sha1": "7aa8ad2cc475655b72886e66cb068c1370d0cae0",
+			"sha256": "b5de081505f6a4b9647e3fb9b0b5cb0330fd713f309a82fc9c5eea43cd84ab74"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "MONGO2.wad",
+	"name": "MONGO II",
+	"description": "This is modified version of MONGO.WAD, which was my first DOOM wad file. While converting it to DOOM 2 format, I also took the opportunity to make it bigger and prettier.",
+	"date": "2014-10-20 19:48:00",
+	"files": [
+		{
+			"filename": "MONGO2.wad",
+			"size": 161043,
+			"crc": 1423047887,
+			"md5": "6f54870c5d229635d15d40e4e19939cc",
+			"sha1": "cd061981bb87a0283850060c40d843bcd4e6eba8",
+			"sha256": "222ebd885d65e4af9fea9f19e23090380101ff3af4700b3e27c74f6aefee2f39"
+		}
+	]
+}

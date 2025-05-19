@@ -1,0 +1,16 @@
+{
+	"uid": "LOGCABIN.wad",
+	"name": "LOGCABIN.WAD",
+	"description": "I dunno in a log cabin or somethin'.",
+	"date": "2014-08-30 14:27:22",
+	"files": [
+		{
+			"filename": "LOGCABIN.wad",
+			"size": 83413,
+			"crc": 2003035647,
+			"md5": "467a93002d2c4f6397f79075f6826a0c",
+			"sha1": "e9752d950177c127e3e89b570cca953f802d6776",
+			"sha256": "3f1b7f2291cf4b8faf978de114e881c4fc88f28e5ec26f5ab0fb572c302cb4db"
+		}
+	]
+}

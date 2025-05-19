@@ -1,0 +1,17 @@
+{
+	"uid": "PSXDoom (8014c7).wad",
+	"name": "PSX Music wad",
+	"description": "This is a wad that replaces the music in Doom1 with the music from PSX Doom. To prevent the file size from becoming huge i had to decrease the quality of the music. The ingame music still sounds ok but the music during the stats screen is somewhat hurt by the decreased quality. These are NOT midi files.",
+	"version": "8014c7",
+	"date": "2013-04-19 04:27:00",
+	"files": [
+		{
+			"filename": "PSXDoom.wad",
+			"size": 22470088,
+			"crc": 475029212,
+			"md5": "d79ce8416503cd113874bc3ada72402a",
+			"sha1": "8014c79e61a10d8ec89175044c8b011c4c3117cb",
+			"sha256": "7c57ed779df5a2251494399d65e4fd2f3baa44009702429667da3fd2cd9a9295"
+		}
+	]
+}

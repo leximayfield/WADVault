@@ -1,0 +1,16 @@
+{
+	"uid": "MTNGORGE.wad",
+	"name": "Mountain Gorge",
+	"description": "This is a large map that replaces MAP01. An older level I decided to finish in a sort of slaughtermap style. This would have been MAP17 of Reverie originally, but I hadn't the inspiration to finish it at the time and decided to go with something of a smaller scale.",
+	"date": "2015-09-14 23:12:35",
+	"files": [
+		{
+			"filename": "MTNGORGE.wad",
+			"size": 629480,
+			"crc": 2563189457,
+			"md5": "3f170521556ca1e185c49ce3872ecc34",
+			"sha1": "034be4b3ac2b40f878d29528dee2f9b2b300bda8",
+			"sha256": "2d5940661da2136a446d50c8dd37b18406e8fb767d134ad7ca04a670365a70f7"
+		}
+	]
+}

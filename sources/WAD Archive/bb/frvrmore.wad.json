@@ -1,0 +1,16 @@
+{
+	"uid": "frvrmore.wad",
+	"name": "Forevermore",
+	"description": "One map for limit-removing ports that uses resources from Eternal Doom by TeamTNT extensively. Pretty much inspired by Eternal's works, but isn't really meant to resemble his style in any way rather than giving some small occasional hints on his trademark gameplay moves, so this inspiration is mostly ideological rather than factual. Meant to be challenging, but not insanely so.",
+	"date": "2014-12-22 18:51:48",
+	"files": [
+		{
+			"filename": "frvrmore.wad",
+			"size": 8880581,
+			"crc": 3942288477,
+			"md5": "2d54d4b21fc0027857766cddeedc0075",
+			"sha1": "bb4c7fe9a75cec4450e8102f216e65ef9753e208",
+			"sha256": "20673e6169e893555b42bbf8bec263cc81707009a352dfb7dc552c9d21d47045"
+		}
+	]
+}

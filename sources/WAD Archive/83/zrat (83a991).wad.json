@@ -1,0 +1,17 @@
+{
+	"uid": "zrat (83a991).wad",
+	"name": "ZRAT [pronounced \"Zee Rat\"]",
+	"description": "Designed especially for DEATHMATCH. Also good for single-player and cooperative play. Includes new graphics, made from scratch by the author, including animated \"worm\" walls and floors.",
+	"version": "83a991",
+	"date": "2013-11-02 15:59:57",
+	"files": [
+		{
+			"filename": "zrat.wad",
+			"size": 243135,
+			"crc": 1920130791,
+			"md5": "a09b1c32e68d73157cc0157e19214ccd",
+			"sha1": "83a9915925e50e2652b3ddaed43f0c01ad0f02a7",
+			"sha256": "7ec8439d279c8ef08a84e8cb36a34364b0461da912a20d8ab87ffa618fd810fa"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "kickin (a60123).wad",
+	"name": "Kickin (DOOM II Deathmatch PWAD)",
+	"description": "This is my second .wad file and I thought it turned out pretty good. It's a small deathmatch .wad for two or three people. All the weapons are included but you're out in the open for any big weapons. We played the level quite a few times and there are no bugs. My only problem is the ceiling and floor textures on the teleporters.",
+	"version": "a60123",
+	"date": "2016-02-07 20:34:03",
+	"files": [
+		{
+			"filename": "kickin.wad",
+			"size": 35797,
+			"crc": 2538410045,
+			"md5": "d992ee97954f10a239761d918f772cc2",
+			"sha1": "a601237ada7f2d19dcbc35a1b1ed3a905a394a24",
+			"sha256": "5b50b5ddf378182f37fdf4ff730d30b6ba57a7d551b2d8b620ca5386ae05a821"
+		}
+	]
+}

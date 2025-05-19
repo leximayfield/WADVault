@@ -1,0 +1,16 @@
+{
+	"uid": "herbtech.wad",
+	"name": "Herbtech",
+	"description": "A level set in a facility dedicated to the research and development of genetically manipulated plants. It's slowly being consumed by a rogue experimental plant.",
+	"date": "2014-12-22 19:00:27",
+	"files": [
+		{
+			"filename": "herbtech.wad",
+			"size": 672327,
+			"crc": 54284395,
+			"md5": "0efcaf33b1877d9ecd36034ca0112fd2",
+			"sha1": "a9d23724fbfc58acd8a23af7eb97e057b8609e9b",
+			"sha256": "2b8b8e7aa10fb0dc101a4a38bc1c797d006749036c19c64bc2bf2fda6bab6c78"
+		}
+	]
+}

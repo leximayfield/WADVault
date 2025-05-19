@@ -1,0 +1,16 @@
+{
+	"uid": "links.wad",
+	"name": "New Dethmatch Wad",
+	"description": "Just a new deathmatch pwad that I hope will be enjoyed by all.",
+	"date": "2013-11-04 19:23:10",
+	"files": [
+		{
+			"filename": "links.wad",
+			"size": 367675,
+			"crc": 866427861,
+			"md5": "c7fcb01acfd71df8962f311cf2338e44",
+			"sha1": "7136d82fdb5287fa0a50def341a12008811f35fc",
+			"sha256": "36f5d28e04a3d68d81f11108401d8ca9e03e1b941e7928ec19e2a2db115e7296"
+		}
+	]
+}

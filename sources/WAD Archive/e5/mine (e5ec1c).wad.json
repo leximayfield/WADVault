@@ -1,0 +1,17 @@
+{
+	"uid": "mine (e5ec1c).wad",
+	"name": "Mine.wad",
+	"description": "It's name explains exactly what it is. It is set in a mine theme. I made corridors with support beams and lanterns that flicker. I made a staircase that leads into it from the outside. I made the textures seem right instead of just throwing them in. It's a kick ass level.",
+	"version": "e5ec1c",
+	"date": "2014-12-15 23:13:51",
+	"files": [
+		{
+			"filename": "mine.wad",
+			"size": 52576,
+			"crc": 403488894,
+			"md5": "4a772dda9027959ce64fe428e4f05b28",
+			"sha1": "e5ec1cc6ca03443167919d1563c297d453e94569",
+			"sha256": "12899082d4bd9ca0c36754be63f1af9d6eb0314fa504df22b5986cd4bd4917b7"
+		}
+	]
+}

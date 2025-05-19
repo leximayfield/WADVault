@@ -1,0 +1,17 @@
+{
+	"uid": "crusher (f2c8a0).wad",
+	"name": "CRUSHER.WAD The level is named after the device in the courtyard Figure out how to work it. If all else fails, read the instructions. :)",
+	"description": "This is my first level. It is a combination of all my great ideas I wanted to put into a level. Since this is my first level, it has the mandatory room with lots o' enemies. There is a large maze which can be solved using the \"stay to the left\" method. All secrets are hinted at so you won't have to push every bit of wall to get 100% secrets. Difficulty levels are implemented but it is easy on skills 1-2 and I wouldn't recommend playing it. Skill 4 is tough even for me, but it is the most fun to play. Also, take a look at the overpass.",
+	"version": "f2c8a0",
+	"date": "2013-11-02 16:39:20",
+	"files": [
+		{
+			"filename": "crusher.wad",
+			"size": 199513,
+			"crc": 2552027880,
+			"md5": "39ddc6dce720a27b015d98e68cc38025",
+			"sha1": "f2c8a0ad869c8ac4bf44fe7e739f77b99a25ccad",
+			"sha256": "fe0cd11360a23cc2279e4809559c1e1b5852d53645ba11fff09ea343ce13af69"
+		}
+	]
+}

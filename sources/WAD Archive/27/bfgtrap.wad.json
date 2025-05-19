@@ -1,0 +1,16 @@
+{
+	"uid": "bfgtrap.wad",
+	"name": "BFG Trap v1.0",
+	"description": "Here is my very first level. Tested to be quite fun with 3 or more players in a deathmatch game. Features: teleports, long staircases, imbedded crushing ceilings, dark \"sniper\" positions, and a very interesting \"one-way\" wall, that lets you fire at someone who's going for the BFG. You can see through the wall from your side, but they can't see through theirs. I hope to make a version with all new sounds and graphics. Until then, play this one! Try it out, its not bad! The exit isn't clearly marked--it's a big skull switch.",
+	"date": "2014-12-15 21:57:37",
+	"files": [
+		{
+			"filename": "bfgtrap.wad",
+			"size": 72894,
+			"crc": 3508609183,
+			"md5": "d3170b5b0517e944a5ed4113490ec01a",
+			"sha1": "27051a59d02ff7c3bca05f25063c84851268982f",
+			"sha256": "296664fd54ce115e91afbf6ab3aa19dddd85df1def1d2925ea5b4990144abd4f"
+		}
+	]
+}

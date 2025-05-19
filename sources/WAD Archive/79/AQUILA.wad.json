@@ -1,0 +1,16 @@
+{
+	"uid": "AQUILA.wad",
+	"name": "AQUILA.WAD",
+	"description": "I got the idea for this wad while playing Ledges. It is built primarily for deathmatch, and has all the weapons. The rocket launcher is at the top of an \"eagle's nest\" type of tower. Hence the name, which is the genus of the Golden Eagle. To get the plasma gun or BFG you must trudge through a sewer of nukeage. Be careful, once you enter the sewer a bright firewall becomes visible to the other players, alerting them to where you are at. I've also got ammo for the weapons in rooms that are accessible via teleporters.",
+	"date": "2014-08-30 14:31:56",
+	"files": [
+		{
+			"filename": "AQUILA.wad",
+			"size": 91332,
+			"crc": 1563292558,
+			"md5": "67abd689ff075d2a440555aeaa80a634",
+			"sha1": "79fee3821a5176527011d50127ac367a986be209",
+			"sha256": "668fa267c06fa2699031fd4d33a3a829221987b2b009666a14972500b04fb366"
+		}
+	]
+}

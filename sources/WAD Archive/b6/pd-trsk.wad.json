@@ -1,0 +1,16 @@
+{
+	"uid": "pd-trsk.wad",
+	"name": "The Red Skull Key",
+	"description": "I'm releasing the whole pd-gates series. This was an 8 level series but 3 of them are really bad, so they are not being released. In this version, the wad file had been cleaned, the size is smaller. The design of the map has not been fixed. There are lost of textures that need aligment.",
+	"date": "2014-12-13 17:51:46",
+	"files": [
+		{
+			"filename": "pd-trsk.wad",
+			"size": 166507,
+			"crc": 2470286210,
+			"md5": "f60b853e6ca1d3f333a5ce89bd390060",
+			"sha1": "b6d5c80baca2d44edef0813df159e86f765b74b5",
+			"sha256": "918673ae213ff9329e55a82dd20c0f28bb84aca95bfd71f878dc4c98a0d1d50c"
+		}
+	]
+}

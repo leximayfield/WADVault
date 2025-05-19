@@ -1,0 +1,16 @@
+{
+	"uid": "supplies.wad",
+	"name": "Supplies",
+	"description": "Quake,Rott and not forgetting Duke3D. This is an alternative to the fine DOCKS : level.",
+	"date": "2014-12-30 11:17:29",
+	"files": [
+		{
+			"filename": "supplies.wad",
+			"size": 261373,
+			"crc": 1165210389,
+			"md5": "b3dd3bf1cafbed049845458a0c6653b9",
+			"sha1": "de044f00f99710a6acb7e8bc8d757b91cb581ac0",
+			"sha256": "6926d191cfa8dd34ad2782e03cd451ae4a278330e0ea1c59b1cbbd6dc8802d82"
+		}
+	]
+}

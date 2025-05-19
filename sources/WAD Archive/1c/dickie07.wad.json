@@ -1,0 +1,16 @@
+{
+	"uid": "dickie07.wad",
+	"name": "dickie07.WAD, issue 1",
+	"description": "This wad is 312kb when unzipped, due to the extra graphics & music.",
+	"date": "2014-12-18 22:23:13",
+	"files": [
+		{
+			"filename": "dickie07.wad",
+			"size": 319200,
+			"crc": 369010094,
+			"md5": "be707bf1a8f76192f68945234fd30c95",
+			"sha1": "1c0336ab8c7ffd4dc5c4e72e511d3433de0582bb",
+			"sha256": "0820bd465bad02582b587430b732cde35553fdec41950f7199a5c7544932e089"
+		}
+	]
+}

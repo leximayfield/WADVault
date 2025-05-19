@@ -1,0 +1,16 @@
+{
+	"uid": "cerdeath.wad",
+	"name": "Certain Death",
+	"description": "Two small maps set on a Hell-infested planet called Tromos.",
+	"date": "2013-10-09 23:28:29",
+	"files": [
+		{
+			"filename": "cerdeath.wad",
+			"size": 646248,
+			"crc": 1687708407,
+			"md5": "7424894e0a2312b6bb3ccd447ef37536",
+			"sha1": "66f873a977fec0e11407e68555ab3bb48b4408ce",
+			"sha256": "7be8e89a428966d43188062756b00b6fba0bad3a9810959e793c41cd2eacbde5"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nutty.wad",
+	"name": "The Nutty Wad",
+	"description": "It all began in July 2004 after I (Milian) played a really stupid map somewhere on ZDaemon. I imagined a wad full of silly maps and started with the work. Everything you shouldn't do in a deatmatch map is done here, like maps where you're unable to move or fights in super-small rooms... Quite normal Doom features are carried to an extreme here. When I first ran this wad on ZDaemon, Cybershark sent me some of his maps he wanted to test online, so I added them to this wad. This was the beginning of a cooperation on this wad for almost one year. The quality has been enhanced continuously while new maps, sounds and graphics have been added and people began to enjoy the wad on ZDaemon. In May 2005, Nutty saw its final release with a standard I never dreamed of when I first started with this waste project... *IMPORTANT* To run The Nutty Wad properly you should set the DMFLAGS to - enable jumping - show and respawn monsters - suicide on exit A minimum of 3 or 4 players/bots is recommended. The game seems to be most fun with a number of 8 players, though most maps have at least 12 starting points. For more info about all maps see the nutty_mapinfos.txt or visit www.milianmusik.de/doom/nutty",
+	"date": "2013-04-19 00:10:10",
+	"files": [
+		{
+			"filename": "nutty.wad",
+			"size": 8467595,
+			"crc": 1109722335,
+			"md5": "d46511f865f85072db258ae30b19fefa",
+			"sha1": "6bec0205e7ac72afdde17d89211b5d61cde74864",
+			"sha256": "4473c508c62ef8c74c215296f12d3e4353e64adfb9e9d4440f630b7cc5c5b355"
+		}
+	]
+}

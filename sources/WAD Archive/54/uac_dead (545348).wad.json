@@ -1,0 +1,17 @@
+{
+	"uid": "uac_dead (545348).wad",
+	"name": "Dooms day of UAC (UAC_DEAD.WAD) ver 1.0 (FINAL)",
+	"description": "Earth date : December 10, 2010. Location : UAC branch of Jakarta, South East Asia. Local Time : 18:35. Monsters from hell just spawned in UAC complex. UAC has deployed their truck to pick you up, along with your 5 other pals to help them. But the only person sit in the secret compartment is you. :) The truck got attacked, just after it entered the complex. You were knocked unconcious... minutes later, you got out from the compartment and tried to find your pals. \"Where are they ?\" \"Where are inhabitants of this complex ?\" \"If they are dead, where are the corpses?\" Thus, the adventure begins... Later, you will find them all. but, they are dead. EVACUATE is your priority then.",
+	"version": "545348",
+	"date": "2013-11-02 15:12:52",
+	"files": [
+		{
+			"filename": "uac_dead.wad",
+			"size": 415193,
+			"crc": 1580771535,
+			"md5": "6de40e991d06bc80bf47395badddb761",
+			"sha1": "54534875449bea74b782e75577d9966556f317ac",
+			"sha256": "4340eb049ac375cf75f52b50dda006689591eef68a495dc6ab8b1093c28d527e"
+		}
+	]
+}

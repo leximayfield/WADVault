@@ -1,0 +1,16 @@
+{
+	"uid": "e2boss01.wad",
+	"name": "Cyberdance",
+	"description": "A boss arena for E2M8, notibly more challenging than what the Id version is like. Expect to be dodging and moving a lot in this one.",
+	"date": "2014-12-13 12:41:06",
+	"files": [
+		{
+			"filename": "e2boss01.wad",
+			"size": 63576,
+			"crc": 2427460789,
+			"md5": "cee6f7c80ecbe116e2ac75e43632f17c",
+			"sha1": "fd69be5cb3cbf4674c24c2d5003ccd77e0b62736",
+			"sha256": "46ac5397797fa8e61e050e172efebf88ec84c3c7c165d28ed89eb7d057df7dca"
+		}
+	]
+}

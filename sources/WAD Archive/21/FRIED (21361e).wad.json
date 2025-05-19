@@ -1,0 +1,17 @@
+{
+	"uid": "FRIED (21361e).wad",
+	"name": "FIVE REALLY INSANE ENVIRONMENTS in DOOM.",
+	"description": "This level pits you against five different enemies in five different environments... There are (roughly) five different types of enemies that you may encounter. The \"tools\" that may be useful for securing the next area are usually provided in the current area... Good luck, Colonel, We're depending on you.",
+	"version": "21361e",
+	"date": "2013-11-02 15:11:37",
+	"files": [
+		{
+			"filename": "FRIED.wad",
+			"size": 70419,
+			"crc": 1068924109,
+			"md5": "f15638d74a479d6a5a932ae0565cb4c9",
+			"sha1": "21361efa0be75102416441780412ab9c681c7cd6",
+			"sha256": "4f72a7bd1b2c98c5e1513b38a0ebfb031483045c8292f8d68e91eaa4dc3799c6"
+		}
+	]
+}

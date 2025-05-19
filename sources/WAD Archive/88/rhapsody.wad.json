@@ -1,0 +1,16 @@
+{
+	"uid": "rhapsody.wad",
+	"name": "REZNOR'S RAPOSIDY",
+	"description": "Doom2-deathmatch",
+	"date": "2014-12-15 22:22:01",
+	"files": [
+		{
+			"filename": "rhapsody.wad",
+			"size": 140121,
+			"crc": 1417553397,
+			"md5": "5dee9d4f156354a2882a50c2d72a1ecd",
+			"sha1": "88dcd1d16bf3c2809f78584da4ac4f58531c7c2d",
+			"sha256": "d1bf09c0b233955cc4d7cbe246799bb5b278fc50e09df24519580b4bd0cde4d9"
+		}
+	]
+}

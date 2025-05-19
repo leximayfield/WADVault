@@ -1,0 +1,16 @@
+{
+	"uid": "ascensin.wad",
+	"name": "Ascension",
+	"description": "Another vanilla map, scary maybe?!",
+	"date": "2014-12-15 22:49:00",
+	"files": [
+		{
+			"filename": "ascensin.wad",
+			"size": 1728111,
+			"crc": 3745741388,
+			"md5": "a3cf117c0b5a9b9e7d4e5aebb1dee568",
+			"sha1": "74bd1e1f876fc1da6200a14313c1cfeef10081d9",
+			"sha256": "d096601e0bf24e8f3ac13c8af3db69954e705d342be115afc6981202848f5ea0"
+		}
+	]
+}

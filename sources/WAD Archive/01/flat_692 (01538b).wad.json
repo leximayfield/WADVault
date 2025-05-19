@@ -1,0 +1,17 @@
+{
+	"uid": "flat_692 (01538b).wad",
+	"name": "FLAT-692.WAD",
+	"description": "This is a level which was originally intended to be a simple copy of our flat. Our flat proved to be very boring so I added a subterranian section. This does not have to be explored to complete the level. There are some areas that were specifically added for deathmatch play but these don't detract from single player mode. Our flat number is 692, this is not version 6.92",
+	"version": "01538b",
+	"date": "2014-01-07 21:59:00",
+	"files": [
+		{
+			"filename": "flat_692.wad",
+			"size": 146229,
+			"crc": 2321235232,
+			"md5": "4a86975ab4381ca945f853ffd3bcd440",
+			"sha1": "01538b9b51305d57cf04551216f08070d7ff144d",
+			"sha256": "708bf92af242620b4dba097e708d6227f002b37a40f503ac7c7cbd1ef1337c05"
+		}
+	]
+}

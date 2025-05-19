@@ -1,0 +1,16 @@
+{
+	"uid": "heyhey.wad",
+	"name": "Hey Hey Hangar-Entryway!",
+	"description": "Dual take on a Hangar-Entryway crossover. You can launch this wad with Doom as an IWAD, and play Entryway in Hangar style. Or you can launch it with Doom 2 IWAD, and play Hangar in Entryway's style. Both maps were made from scratch, independently on the original map's geometry. Both maps were speedmaps, designed for singleplayer, but with attention to deathmatch as well. I have no ambitions on proposing this wad as a quality one. I don't plan to impress anybody by this portion of unprofessional plagiarism. Tweaked IWAD maps have been done multiple times before, anyway. I made these maps primarily as an exercise for myself, as I've found it interesting and fun.",
+	"date": "2014-12-18 22:44:19",
+	"files": [
+		{
+			"filename": "heyhey.wad",
+			"size": 106610,
+			"crc": 1690378366,
+			"md5": "dc50c0839142ff3214ccdf2b1bea50b9",
+			"sha1": "412e044cba03fa41bc9c38cc36afb2e96e502a16",
+			"sha256": "57cfe22a6626ffe7cdcf13cf7126816d02e9c484817647666176f266af9ce809"
+		}
+	]
+}

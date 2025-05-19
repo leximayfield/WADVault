@@ -1,0 +1,17 @@
+{
+	"uid": "BASEONE (769703).wad",
+	"name": "Base One",
+	"description": "\"They say the base was built on an old Druid castle...\" This is the first map I have made in years. I came across the new Edge release and thought I would try it out and see if I could still create a Doom map after so long a time. This isn't a large map but might be good for half an hour, maybe an hour, of play. You will need to jump and crouch in spots to access some areas. Use the \"move up\" key to climb the ladder. This map doesn't use any fancy DDF/RTS. It is a fairly standard shoot/switch/key map with a few puzzles (including a Doom classic) and some 3D stuff thrown in.",
+	"version": "769703",
+	"date": "2014-12-21 16:36:06",
+	"files": [
+		{
+			"filename": "BASEONE.wad",
+			"size": 789164,
+			"crc": 83357535,
+			"md5": "4df31fefd7555391e00d519a53eb9c03",
+			"sha1": "7697036c99d742244aa88083a9958d3fca76a9a4",
+			"sha256": "8ea8ac8968616dc25b7d2d68c467ec5c4d490bf37a89e826a3e09a3baefd91f4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "y2kill.wad",
+	"name": "Year 2 Kill",
+	"description": "The level has under 800 linedefs 'cos it was made on a shareware program. I've tried to make the most of the linedefs available and used almost all of what I was given. The constraints were probably a good thing 'cos it stopped the level from getting too large - it seems to have settled at a good death match size. The single player lacks a bit because of this, so I tried to make up for it by jamming it full of tricks - don't expect to get through it first time unless you're good.",
+	"date": "2014-12-15 22:43:57",
+	"files": [
+		{
+			"filename": "y2kill.wad",
+			"size": 91257,
+			"crc": 3443441368,
+			"md5": "a055553f3fdc627e3cbccdef9e5656cb",
+			"sha1": "2dffcf5545a4fb8bccbd1fcdc94eb161a7e57802",
+			"sha256": "f235d9bf1c23be10fcd56568e66386710364a8282e0b1808ade1abf6a9eaa1da"
+		}
+	]
+}

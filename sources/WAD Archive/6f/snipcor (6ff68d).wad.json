@@ -1,0 +1,17 @@
+{
+	"uid": "snipcor (6ff68d).wad",
+	"name": "Snipcor Based (Two levels grouped together:Sniper",
+	"description": "These are two run around levels , but watch your back or else!!!",
+	"version": "6ff68d",
+	"date": "2013-11-02 16:06:56",
+	"files": [
+		{
+			"filename": "snipcor.wad",
+			"size": 77841,
+			"crc": 597311750,
+			"md5": "a2f44c87de7b308912ad9ec30ad5199e",
+			"sha1": "6ff68ddb3cf755d2add82e2cb3efcb4cdd5b3f0c",
+			"sha256": "5fffd127e3ad88f673e0852694b2b551e3d41445d94e9c9843b08a0035c1eb81"
+		}
+	]
+}

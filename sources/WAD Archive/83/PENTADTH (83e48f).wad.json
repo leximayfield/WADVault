@@ -1,0 +1,17 @@
+{
+	"uid": "PENTADTH (83e48f).wad",
+	"name": "Penta-Death",
+	"description": "Designed to be a deathmatch only level. There no monsters in here (add some if you want) so single player might get dull real quick :-) The level is kind of large, so a 2 player deathmatch might take a while to get interesting. There are five main areas connected by hallways and passages, with barrels scattered throughout (if your lucky you will get to use one :-) Just run around and kill your friends !",
+	"version": "83e48f",
+	"date": "2013-11-03 17:45:18",
+	"files": [
+		{
+			"filename": "PENTADTH.wad",
+			"size": 38292,
+			"crc": 4137164581,
+			"md5": "0bbd700257b8693bbcae868309ff9cb3",
+			"sha1": "83e48fe59a75eb1254e34b03249308605f2db569",
+			"sha256": "230efcee9d608ee3c81ddc70aff25854b26929db9e58a31dfe821c1abf421abc"
+		}
+	]
+}

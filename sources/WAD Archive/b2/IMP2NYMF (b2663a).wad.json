@@ -1,0 +1,17 @@
+{
+	"uid": "IMP2NYMF (b2663a).wad",
+	"name": "Imps 2 Nymphs",
+	"description": "Graphics and Sound Patch for Imps => Nymphs, also changes barrels",
+	"version": "b2663a",
+	"date": "2014-02-15 16:55:25",
+	"files": [
+		{
+			"filename": "IMP2NYMF.wad",
+			"size": 2521407,
+			"crc": 3468652956,
+			"md5": "3d51d540cca3ec42e39b0d706580f375",
+			"sha1": "b2663a013a486e10ccc97fecb63d5088eb88863a",
+			"sha256": "016b534af55742fd44b8e3094f19863ebcf1ade40341bc367a03613ed4550d18"
+		}
+	]
+}

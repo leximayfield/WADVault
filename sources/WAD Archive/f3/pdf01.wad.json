@@ -1,0 +1,16 @@
+{
+	"uid": "pdf01.wad",
+	"name": "The Low Road",
+	"description": "A moderately sized and difficult map set in the 'slums' of the underworld, featuring plenty of brick, marble, and hell. No rocket launcher or BFG. Was initially going to be for the Ruins of Hell project.",
+	"date": "2015-01-14 22:41:15",
+	"files": [
+		{
+			"filename": "pdf01.wad",
+			"size": 242159,
+			"crc": 192892351,
+			"md5": "ac6adbeb29cca7d3a5b2f0729d2b7c00",
+			"sha1": "f302d56a8a5b462c7996fbcdab164f9c15a9cb5e",
+			"sha256": "73a5e7425b4a23482a0e1494ab105a3dfd6dfeb0fc7f5b6f0b60ff101ffe5ed5"
+		}
+	]
+}

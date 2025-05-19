@@ -1,0 +1,16 @@
+{
+	"uid": "chungus.wad",
+	"name": "Big Chungus' Symphony",
+	"description": "A short, 5 map wad with simple run n gun gameplay",
+	"date": "2019-03-06 21:59:52",
+	"files": [
+		{
+			"filename": "chungus.wad",
+			"size": 57373,
+			"crc": 353159147,
+			"md5": "c850e9e6b4eed1b7dc45569049ca485f",
+			"sha1": "d8be50cfc081aace522ac5477f7cc1d19847086f",
+			"sha256": "5f3bb04678f189c77701e9e7ccdab730f6d61f133c399e7ca021a6a3be35a870"
+		}
+	]
+}

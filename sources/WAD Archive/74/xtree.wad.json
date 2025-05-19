@@ -1,0 +1,16 @@
+{
+	"uid": "xtree.wad",
+	"name": "Christmas Tree",
+	"description": "You have to kill all the monsters on the Xmas tree in order to end the level.",
+	"date": "2014-12-29 15:32:43",
+	"files": [
+		{
+			"filename": "xtree.wad",
+			"size": 66303,
+			"crc": 2486992373,
+			"md5": "c31af2446ce1c31c5c78b2dc49953a74",
+			"sha1": "74c609d953a5876d10060027dfc92cbb0b398e2d",
+			"sha256": "8f1b66e7b9001194d51701dbfd155b8a7f7f5fbe9fa91c88bd2feb1c8d5cbd1d"
+		}
+	]
+}

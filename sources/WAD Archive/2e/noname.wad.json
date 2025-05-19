@@ -1,0 +1,16 @@
+{
+	"uid": "noname.wad",
+	"name": "The Wad With No Name (DOOM 2)",
+	"description": "A scifi style deathmatch wad. Fight your way through yet another alien base.",
+	"date": "2015-09-15 13:36:28",
+	"files": [
+		{
+			"filename": "noname.wad",
+			"size": 476103,
+			"crc": 124996727,
+			"md5": "41fcb2bc43c45e5ccf1935a327601d74",
+			"sha1": "2e88480e30ba0f5b424c6956a2b3023ea0805813",
+			"sha256": "efb55a8f4aa6b01debe5019581566b6ee1b3009a9cf389dafc7be485c8fe6651"
+		}
+	]
+}

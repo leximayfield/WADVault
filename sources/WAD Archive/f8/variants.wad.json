@@ -1,0 +1,16 @@
+{
+	"uid": "variants.wad",
+	"name": "DoomGuy Variants",
+	"description": "7 Variants on the Doom marine Skin (see details below) Nuthin' too fancy, just an afternoon's cutting and pasting.",
+	"date": "2013-04-21 14:22:27",
+	"files": [
+		{
+			"filename": "variants.wad",
+			"size": 520662,
+			"crc": 2815290629,
+			"md5": "a994c83bb80f37831108919bd80aebb8",
+			"sha1": "f80910c0b7605a672c2871d8e5135285a4447c16",
+			"sha256": "73ad404c356be19d82f9bbe7f9d81e0092d0f1ab06e117682f1c7be5a9f20dc9"
+		}
+	]
+}

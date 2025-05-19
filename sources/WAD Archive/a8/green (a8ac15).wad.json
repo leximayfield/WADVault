@@ -1,0 +1,17 @@
+{
+	"uid": "green (a8ac15).wad",
+	"name": "Euphoria In Green",
+	"description": "This is the updated final version of my first map....feel free to e-mail me with any thoughts or suggestions",
+	"version": "a8ac15",
+	"date": "2014-12-15 22:16:32",
+	"files": [
+		{
+			"filename": "green.wad",
+			"size": 574477,
+			"crc": 1432691690,
+			"md5": "32326c49247ff75f3dad1527ac5a047c",
+			"sha1": "a8ac15d36a391232c0796ae481343dc9a42d8b59",
+			"sha256": "5f4f38f625b212dc292df7b94f4bf56ad669e9d9f839dabcd928a9b4317acc64"
+		}
+	]
+}

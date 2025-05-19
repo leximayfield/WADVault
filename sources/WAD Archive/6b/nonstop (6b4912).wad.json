@@ -1,0 +1,17 @@
+{
+	"uid": "nonstop (6b4912).wad",
+	"name": "Non-stop DeathMatch",
+	"description": "This is a DeathMatch wad inspired by the GREAT \"gore.wad\", by an author unknown to me. The general idea of this wad is to maintain the adrenaline pressure of the players at a maximum rate all the time. You start out in a small niche, with your weapons right in front of you. Just run over 'em, out of the niche, and find your foes! There is NO BFG, Plasma Gun, health, armor, Invulnerablility or other annoying things to disturb you, so the game is stripped down to what it oughta be: Seek, find and KILL!!! There is also an optional way to play it: Remove the -nomonsters parameter (which usually should be present in a DM game to make it REAL fun!), and you'll find a Mancubus in the lowest part of the level, deep down in a dark pit. This is a great way of killing yourself when you're out of ammo, without getting a -FRAG! Remember though, that playing without monsters is more fair in a DoomGod vs. Greenie situation, since the DoomGod eventually will be stuck with nothing but the Chainsaw after wasting his ammo. Then even the Greenie can put the Shotgun to his head and blow his brains out, giving himself some self-esteem...until he's dead again! (OBS: Make sure you're playing Old Deathmatch, or else the weapons won't be there all the time!!!!)",
+	"version": "6b4912",
+	"date": "2014-12-15 23:01:07",
+	"files": [
+		{
+			"filename": "nonstop.wad",
+			"size": 33452,
+			"crc": 3746850305,
+			"md5": "4834dd3c73d75878e03a0d6611eae97c",
+			"sha1": "6b491280264b424c1359d3050553bc1fdbc8dec6",
+			"sha256": "53da755d4c8a5e685486eec4275c713e8aed62c882a79fae113b19bc94bd8eff"
+		}
+	]
+}

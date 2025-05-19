@@ -1,0 +1,16 @@
+{
+	"uid": "faust2.wad",
+	"name": "Faust2.wad",
+	"description": "Compilation of 10 levels which include: map1 - room7.wad map2 - room8.wad map3 - room9.wad map4 - room10.wad map5 - room13.wad map6 - room14.wad map7 - room16.wad map8 - e1m8.wad map9 - room15.wad map10 - here1m8.wad",
+	"date": "2013-11-02 15:56:35",
+	"files": [
+		{
+			"filename": "faust2.wad",
+			"size": 1091224,
+			"crc": 298495465,
+			"md5": "bc78f744605b493800d63477a31944a7",
+			"sha1": "c797b6f6c2d7d998816094a459fe54d89a962ac0",
+			"sha256": "28a916336279044353534a447c4c06e9a9b19d61f32bbe787c4f6616647b5b99"
+		}
+	]
+}

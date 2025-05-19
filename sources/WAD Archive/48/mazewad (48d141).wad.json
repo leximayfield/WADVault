@@ -1,0 +1,17 @@
+{
+	"uid": "mazewad (48d141).wad",
+	"name": "MAZEe2m1.WAD",
+	"description": "You must solve three famous mazes to escape. For more information about each maze, read on.",
+	"version": "48d141",
+	"date": "2013-11-02 15:15:18",
+	"files": [
+		{
+			"filename": "mazewad.wad",
+			"size": 157684,
+			"crc": 247570239,
+			"md5": "68c2931ebe700a6fd399d2bceed024e0",
+			"sha1": "48d14117c2e89a7bf8084323f753ea907c49af38",
+			"sha256": "0e61fcba8a0e15071598b47df30da0aa298ca54b7a58f36a2009109cca7d7b45"
+		}
+	]
+}

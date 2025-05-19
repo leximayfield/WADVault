@@ -1,0 +1,17 @@
+{
+	"uid": "marduk (ed2cd3).wad",
+	"name": "Marduk",
+	"description": "-",
+	"version": "ed2cd3",
+	"date": "2015-09-15 17:10:46",
+	"files": [
+		{
+			"filename": "marduk.wad",
+			"size": 262728,
+			"crc": 1909474911,
+			"md5": "1159aab8775593fd0e57dd255d1637e0",
+			"sha1": "ed2cd31dd3119f41384057ade52dde3e0ef07f13",
+			"sha256": "e740b2b0815cb288e861733d4321981c412453a93f495e24752e0dc8201dc337"
+		}
+	]
+}

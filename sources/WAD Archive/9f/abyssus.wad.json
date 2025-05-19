@@ -1,0 +1,16 @@
+{
+	"uid": "abyssus.wad",
+	"name": "Abyssus",
+	"description": "Another episode 2 map replacement and so far the most challenging so far. Abyssus means \"bottomless pit\" in Latin. Try and find all 9 secrets if you can, as some of them will greatly help you get through some of the tougher sections of the level.",
+	"date": "2014-12-13 17:30:58",
+	"files": [
+		{
+			"filename": "abyssus.wad",
+			"size": 273364,
+			"crc": 4077050160,
+			"md5": "4ea63e4c9c2931ffc721cdd3c40b13f1",
+			"sha1": "9f573f4a923fa2dd2f65c9a2c6cc6f9fce0e38d5",
+			"sha256": "a55368ef0f2821346e07cafe1adc1dd0ca0b2429c7cb53225da8bc3284104fcb"
+		}
+	]
+}

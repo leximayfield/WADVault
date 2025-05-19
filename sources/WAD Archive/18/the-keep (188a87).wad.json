@@ -1,0 +1,17 @@
+{
+	"uid": "the-keep (188a87).wad",
+	"name": "THE-KEEP.WAD",
+	"description": "The-Keep is a revision of my Castle.wad. I renamed it due to a previous wad with the same name by someone else. Due to many interesting comments, I have added more windows, more monsters and also a way out of the moat if you happen to fall in.",
+	"version": "188a87",
+	"date": "2016-02-07 20:30:33",
+	"files": [
+		{
+			"filename": "the-keep.wad",
+			"size": 123578,
+			"crc": 2412630250,
+			"md5": "9c1f5b0780e17487dee6025cd4596c9b",
+			"sha1": "188a87a28d08c2fdfba443fb287de94dd179978f",
+			"sha256": "a729a68e184771f9391fa9967ea0ee0c0fb12f9db19c17d8d38f438ec66423c6"
+		}
+	]
+}

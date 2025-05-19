@@ -1,0 +1,16 @@
+{
+	"uid": "viscerus.pk3",
+	"name": "Hexen: Scourge of Viscerus",
+	"description": "It has been several years since the defeat of the Deathkings, but a rogue demon sorceror named Viscerus seeks to resurrect them in order to gain dominion over Cronos.",
+	"date": "2013-04-19 11:19:05",
+	"files": [
+		{
+			"filename": "viscerus.pk3",
+			"size": 1296851,
+			"crc": 2245015200,
+			"md5": "32c02253b7fee4f7b2a4655dbed4ee4a",
+			"sha1": "4680680d1207d15585c0836eef3785cae619c012",
+			"sha256": "274101ab4cb0d640a2562fd3a516dd4bd428bf8756466a77709b07fd4b5dc29a"
+		}
+	]
+}

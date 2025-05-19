@@ -1,0 +1,16 @@
+{
+	"uid": "uaccodered.wad",
+	"name": "UAC code red",
+	"description": "A UAC base in the north pole has been put into code red because of an ongoing attack on the base by demons.",
+	"date": "2017-01-17 00:25:45",
+	"files": [
+		{
+			"filename": "uaccodered.wad",
+			"size": 6613824,
+			"crc": 3172454790,
+			"md5": "c68ad9f25620aa462054866883bd0496",
+			"sha1": "f7b8d3a2ca7f71a2f2c4067aa698b0d9ae9af614",
+			"sha256": "a7d293c9f18b5b879685ef4006429e90bc7d1f496bb72431c7537c9650336818"
+		}
+	]
+}

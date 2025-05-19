@@ -1,0 +1,17 @@
+{
+	"uid": "dock1 (944301).wad",
+	"name": "Docking Supply Station 1",
+	"description": "The action takes place in a secret docking facility. Weapons and ammo aren't all that hard to find, but be warned, there are no BFGs or Plasma Rifles. You are stuck with only the primitive projectile weapons. I've created a few new textures for this level: A railing for the ship, and also a pop- machine that I created one night while deprived of my daily intake. There are also two new player death sounds sampled from Highlander, The Simpsons, and also from Aliens. All sounds were sampled by me so that I could make sure they were the best quality possible.",
+	"version": "944301",
+	"date": "2014-12-15 21:47:24",
+	"files": [
+		{
+			"filename": "dock1.wad",
+			"size": 297096,
+			"crc": 3754221466,
+			"md5": "30b5d21ed7cde6c4f270fb3a0fe2c8fa",
+			"sha1": "9443012d03f2e1a4309c8e230d71f08edf7cc4ea",
+			"sha256": "7f8a724d2da87ffcc626bc08211ed1762ec7046133d6051a9564ef6e664d5024"
+		}
+	]
+}

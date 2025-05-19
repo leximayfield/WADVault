@@ -1,0 +1,17 @@
+{
+	"uid": "dmlifx (b515b8).wad",
+	"name": "Dave1.WAD",
+	"description": "Big level with lots of special lighting and a few other special effects. You have to watch your back in this one. Also, lots of area left to add to if you have DoomED-The Real Thing editor.Availible in the Gamer's Forum as DMREAL.ZIP. I'd highly recommend this editor",
+	"version": "b515b8",
+	"date": "2013-11-02 15:17:46",
+	"files": [
+		{
+			"filename": "dmlifx.wad",
+			"size": 121832,
+			"crc": 2692548495,
+			"md5": "59f3186d1bff5ee5ad89247d07af9d14",
+			"sha1": "b515b8114b20715e65178e279d64ed7ad26c8efd",
+			"sha256": "d46d71a906c64cc199ccd7107e24060c3fa1743b56191d1d6eb3c1064fa31f4c"
+		}
+	]
+}

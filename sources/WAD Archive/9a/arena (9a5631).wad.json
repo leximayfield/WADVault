@@ -1,0 +1,17 @@
+{
+	"uid": "arena (9a5631).wad",
+	"name": "Deathmatch Arena",
+	"description": "A cool deathmatch level designed like a sports arena. A few monsters, no exit.",
+	"version": "9a5631",
+	"date": "2014-12-13 17:38:47",
+	"files": [
+		{
+			"filename": "arena.wad",
+			"size": 17975,
+			"crc": 4032834236,
+			"md5": "56824e8fd83fc6b658df8cdb395adb2b",
+			"sha1": "9a5631261a19ce0d1bcd7dc17702b517fc537e36",
+			"sha256": "28565da702ea35332878421ef7f22b6e38f44b374cbe34c687bce6484ec0c842"
+		}
+	]
+}

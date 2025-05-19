@@ -1,0 +1,16 @@
+{
+	"uid": "perbase.wad",
+	"name": "Perrile Base",
+	"description": "After the war began in 2021, demons have been hiding in certain zones and invading them. These demons have been killing and destroying zones for several years. Marines have been reported, but they have dissapeared for unknown reasons. The demons then decided to invade a base called Perrile Base - a highly secure and active base found in 2016.",
+	"date": "2015-09-15 13:15:08",
+	"files": [
+		{
+			"filename": "perbase.wad",
+			"size": 5031624,
+			"crc": 1391698840,
+			"md5": "de0478045efa2243a0c2593410f62c05",
+			"sha1": "d719cfd95fa0e9558f8cd51ff1a7290ae5e53ea6",
+			"sha256": "5d444b743e8299041c41d38f638a56864fbb68a4a73f4b94087e17515b565292"
+		}
+	]
+}

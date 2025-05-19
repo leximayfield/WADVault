@@ -1,0 +1,17 @@
+{
+	"uid": "warhouse (0b4522).wad",
+	"name": "WARHOUSE.WAD",
+	"description": "Imagine that a large, abandoned, warehouse in your home town has been overrun by nasties. It is up to you to save the day! You must first fight your way in from outside, make it through the outer offices, and then finally into the warehouse itself. Although difficulty levels are implemented, it is always pretty tough! Good Luck! The level itself is pretty large, and may be a little slow on some machines if all the nasties are running around at the same time. On a 486 it is fine.",
+	"version": "0b4522",
+	"date": "2014-01-11 11:10:24",
+	"files": [
+		{
+			"filename": "warhouse.wad",
+			"size": 158457,
+			"crc": 1345740689,
+			"md5": "f65db1594b07a06e47dfb1794521a40f",
+			"sha1": "0b4522f338fd03a6f5360e45c399e72856d640c1",
+			"sha256": "074c32155a49bd831fe61bdace1da4468d74b15ae5b05f3a03ac87fdd0cb3b41"
+		}
+	]
+}

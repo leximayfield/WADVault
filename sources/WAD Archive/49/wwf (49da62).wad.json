@@ -1,0 +1,17 @@
+{
+	"uid": "wwf (49da62).wad",
+	"name": "WWF.WAD",
+	"description": "WWF wrestling ring..",
+	"version": "49da62",
+	"date": "2013-11-02 15:19:12",
+	"files": [
+		{
+			"filename": "wwf.wad",
+			"size": 23767,
+			"crc": 3480423039,
+			"md5": "585c1311f6d01c7fe801a1399d08b2fc",
+			"sha1": "49da6211d50e519074ddba23b111768684144e82",
+			"sha256": "b79869570db7567fd41a15e50a60aa54ae37f99350be0e0f213f31449fd19d02"
+		}
+	]
+}

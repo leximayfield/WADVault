@@ -1,0 +1,16 @@
+{
+	"uid": "sew_rem.wad",
+	"name": "Sewers Remake",
+	"description": "A vanilla remake of Sewers made by David Calvin in 1994. Remake partly inspired by SgtMarkIV's Sewers. No jumping - No crouching",
+	"date": "2017-06-26 23:59:56",
+	"files": [
+		{
+			"filename": "sew_rem.wad",
+			"size": 1486438,
+			"crc": 73936624,
+			"md5": "0ff242ae8992adae580e4019715a0248",
+			"sha1": "6ebc837d108c96166af22d385a16adc60c927c1b",
+			"sha256": "ee79495ee21648dcdfeea61d414cac8a52cab95d4cc8e3486aac5420069879d6"
+		}
+	]
+}

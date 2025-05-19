@@ -1,0 +1,17 @@
+{
+	"uid": "TEMPLE (b5b198).wad",
+	"name": "The Big Temple",
+	"description": "You are entering the big temple of DOOM. I have build a big temple room, and... other rooms to buils a DOOm level. I've tested it in 'Heart Me Plenty' diff. setting, but I know where are the monsters... so it's difficult to see if the difficulty levels are correctly set. If not, I think the y are more difficult than the ID ones. I can't play via net, so I can't make a multi-player game. I have just put 4 deathmatch starts and 4 players starts, but I can't say if TEMPLE.WAD is a good multi-player level. I hope someone will try and tell me what to do to change it in a GREAT net game.",
+	"version": "b5b198",
+	"date": "2013-11-04 20:09:58",
+	"files": [
+		{
+			"filename": "TEMPLE.wad",
+			"size": 165858,
+			"crc": 3899730891,
+			"md5": "debbed48c315a675fc6ddbf4d5b84dcf",
+			"sha1": "b5b1982e16b783ad838a73bc24d86bd722858c42",
+			"sha256": "c5d0929fb5664e0fc09f85d8d21c67d4162df55fa686d3124041e213b5172027"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dm6-dp.wad",
+	"name": "DARK PLACES (for DOOM v1.666+)",
+	"description": "Another level inspirated by Quake, DM6. Pick up gun, run and shoot! The problem was, how to build one corridor above another...",
+	"date": "2014-12-15 21:49:18",
+	"files": [
+		{
+			"filename": "dm6-dp.wad",
+			"size": 63676,
+			"crc": 2547922288,
+			"md5": "ba1e59b62b2fa06a74b9c1e8e5493a86",
+			"sha1": "212532ed91243f536a1fe36b637ec55a54ec88fa",
+			"sha256": "9b8db704d405d2374c2080d70f6d627139aa5f28fa1b100093ce3fd4815d70c5"
+		}
+	]
+}

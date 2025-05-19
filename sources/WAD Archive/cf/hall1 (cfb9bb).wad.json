@@ -1,0 +1,17 @@
+{
+	"uid": "hall1 (cfb9bb).wad",
+	"name": "Twisting Halls",
+	"description": "This is my first DOOM2 PWAD. Open areas and twisting passages abound. A grand hall filled with all your favorite demons. Something strange, and a secret or two. Had a heck of time finishing it, DEU would reach its memory limit and crash repeatedly. So...I used the old gcc 32 bit DEU 5.2 then went back and insert DOOM2 onjects and textures. Not going to DEU it anymore...",
+	"version": "cfb9bb",
+	"date": "2016-02-07 20:31:59",
+	"files": [
+		{
+			"filename": "hall1.wad",
+			"size": 234095,
+			"crc": 3077624897,
+			"md5": "0231a6ccd0b8cab623eb0c8b39c8cf6a",
+			"sha1": "cfb9bb6b4780a4c706e2f96d52b456572f4eab4b",
+			"sha256": "ca47ec8dd51a1637aec6cb95cf3b82960a79baedf428849da6ab279699198234"
+		}
+	]
+}

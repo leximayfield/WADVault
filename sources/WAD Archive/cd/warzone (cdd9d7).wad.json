@@ -1,0 +1,17 @@
+{
+	"uid": "warzone (cdd9d7).wad",
+	"name": "WARZONE",
+	"description": "These are some awsome deathmatch levels for DOOM ][ and have all been made after Quake was released. Until I have figured out how to make levels with Quest or some other Quake editor I will keep updating this series.",
+	"version": "cdd9d7",
+	"date": "2014-12-15 21:58:05",
+	"files": [
+		{
+			"filename": "warzone.wad",
+			"size": 644152,
+			"crc": 2120500047,
+			"md5": "30d5ef6e2f99d7b01c08104a8e23a30e",
+			"sha1": "cdd9d722513d7a210acf33d6abd309e29904f1e2",
+			"sha256": "6d5214f53894ffa70c7d43033930add85ab9f6871f6d3c847e4daa20245491b4"
+		}
+	]
+}

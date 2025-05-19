@@ -1,0 +1,16 @@
+{
+	"uid": "vs3.wad",
+	"name": "\"The Waterfront\"",
+	"description": "Ok, here is another deathmatch only pwad that I created while taking a break from the \"SIN\" series. It was designed for 2 player DM'ing.",
+	"date": "2014-12-15 22:23:27",
+	"files": [
+		{
+			"filename": "vs3.wad",
+			"size": 75456,
+			"crc": 3205274595,
+			"md5": "726eace4120fb95e808c64c1edac1bd3",
+			"sha1": "340be36f410ad3778c083793d49495bfef715544",
+			"sha256": "87c06e504eaa086cc2fc600b89eb511363ec8155ea9b5d1b77a07537bed99588"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellish (be4fdd).wad",
+	"name": "HELLISH",
+	"description": "Umm.. It looks like... HELL!!!",
+	"version": "be4fdd",
+	"date": "2013-11-02 16:08:10",
+	"files": [
+		{
+			"filename": "hellish.wad",
+			"size": 105589,
+			"crc": 1195676675,
+			"md5": "79028638942ef2487523602b269231cd",
+			"sha1": "be4fdd8b21b93743907870922af7c1bcbc0159ae",
+			"sha256": "ac5da6c094eb8698f111851c4991de9d09d1fe7c5988204ee3a0fd8f48640311"
+		}
+	]
+}

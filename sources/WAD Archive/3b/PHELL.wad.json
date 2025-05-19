@@ -1,0 +1,16 @@
+{
+	"uid": "PHELL.wad",
+	"name": "Planet Hell",
+	"description": "This pwad replaces episode #2 with 9 new levels. The level layouts and difficulty of these levels are compareable to DOOM's 'INFERNO'.",
+	"date": "2014-12-13 17:36:51",
+	"files": [
+		{
+			"filename": "PHELL.wad",
+			"size": 1130082,
+			"crc": 565231823,
+			"md5": "b6cfaccd4ab601eaeaa7feba2788a556",
+			"sha1": "3b91a63a8edf702b7df079807d3082872ac45e54",
+			"sha256": "5274494a1a7e0270b8c1a1b5e0f0d8d82315e076d512cd052bdef0ddb87b8971"
+		}
+	]
+}

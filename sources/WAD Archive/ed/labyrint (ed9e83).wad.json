@@ -1,0 +1,17 @@
+{
+	"uid": "labyrint (ed9e83).wad",
+	"name": "Labyrinth of reckless thoughts",
+	"description": "This level is especially made for Deathmatch with rules 2.0 (respawning items). Single player and multi-coop is also great, but the level might be a little bit too small in this cases.",
+	"version": "ed9e83",
+	"date": "2014-12-15 21:43:29",
+	"files": [
+		{
+			"filename": "labyrint.wad",
+			"size": 142203,
+			"crc": 1446163046,
+			"md5": "3736c0ea5c06ee3f43dada4cca078f91",
+			"sha1": "ed9e83828215a4a965ef4f3112b08ddafe3bccc3",
+			"sha256": "656104895187009d87672aa322f0414e20d67fed360477ce1c01185063ab61d7"
+		}
+	]
+}

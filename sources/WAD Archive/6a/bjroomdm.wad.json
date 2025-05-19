@@ -1,0 +1,16 @@
+{
+	"uid": "bjroomdm.wad",
+	"name": "Bryan J's Room of DM (Conversion of BSMAZE from",
+	"description": "Just a 1-level map conversion made in Hand using Doom Builder 2, BSMAZE.map from Blood (Monolith) Its a very-small map for Deathmatches This is my first map",
+	"date": "2014-12-15 21:34:13",
+	"files": [
+		{
+			"filename": "bjroomdm.wad",
+			"size": 29232,
+			"crc": 1514574948,
+			"md5": "37868d725eea9c47944e31e768308262",
+			"sha1": "6a7c299059bbc4a625413cb84280967423b1638b",
+			"sha256": "db79240540a9c36ba6710b0356c3ed04cc14926bb66eafac63a489db63f49c8d"
+		}
+	]
+}

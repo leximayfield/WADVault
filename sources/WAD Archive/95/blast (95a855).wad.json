@@ -1,0 +1,17 @@
+{
+	"uid": "blast (95a855).wad",
+	"name": "BLAST.WAD",
+	"description": "Lots of bad guys to BLAST in this one! All the ammo you need and more. No tricky puzzles to solve, just lots of interesting rooms with long halls. This is a big map, though it ran fine on my 486/25 w/5 meg. ** Replaces earlier version of Blast.wad.",
+	"version": "95a855",
+	"date": "2013-11-06 22:21:01",
+	"files": [
+		{
+			"filename": "blast.wad",
+			"size": 102573,
+			"crc": 59233829,
+			"md5": "982f522212df21aab3a59931dd5f2e31",
+			"sha1": "95a855a8544957ce5879a677f84b95b510fbc2ba",
+			"sha256": "1f32da84e523db0ad9991b1a4416060bd36b431aa09650f39db61b153a00b8e9"
+		}
+	]
+}

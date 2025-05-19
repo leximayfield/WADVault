@@ -1,0 +1,16 @@
+{
+	"uid": "ultrawad.wad",
+	"name": "Ultrawad",
+	"description": "no challenge so toggle fastmonsters if you need",
+	"date": "2014-12-13 12:44:06",
+	"files": [
+		{
+			"filename": "ultrawad.wad",
+			"size": 78674,
+			"crc": 2434576423,
+			"md5": "72b6db7ece26f4f3d83c5ef641097869",
+			"sha1": "83af23e6a204c2f8539d817b19705d23123c9a51",
+			"sha256": "d5e3f7e16a9c1abbf1f5c340175728a6ee9e71fc75aa59939fda4b3d4b35f6dd"
+		}
+	]
+}

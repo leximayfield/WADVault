@@ -1,0 +1,16 @@
+{
+	"uid": "cyc-a.wad",
+	"name": "Enter",
+	"description": "My first publicly released level. I made this map simply to get used to doombuilder and doom editing in general so expect plenty of lowering walls, tripwires and oddness. It's fairly small with not many monster \"repeats\" and set in a demonic temple. It's basically marble and stone with some good old hellfire and flesh worked in in places.",
+	"date": "2014-12-15 21:29:02",
+	"files": [
+		{
+			"filename": "cyc-a.wad",
+			"size": 242993,
+			"crc": 1944853383,
+			"md5": "02640899266ab50ef5e83ce51fd4231b",
+			"sha1": "3b1d94cc4779fd9d4746c82c80b52d0e82495ab1",
+			"sha256": "e5492ff79308e2fe25b9363b88e45ee225f8316e60d3464db001f5c1fb1b8c22"
+		}
+	]
+}

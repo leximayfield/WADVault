@@ -1,0 +1,16 @@
+{
+	"uid": "ww-dmres.wad",
+	"name": "War of the World DM Resources (DMII)",
+	"description": "War of the Worlds sounds for DooM II.",
+	"date": "2014-12-11 22:29:51",
+	"files": [
+		{
+			"filename": "ww-dmres.wad",
+			"size": 880591,
+			"crc": 3714395167,
+			"md5": "e4d39185c8d198f02dcb8d64b3a0796e",
+			"sha1": "4479aee0fe457e44ea5e0e284006cbfeaee90462",
+			"sha256": "470fc341992d5fe672b0ed5cc2d7869a8f7998a6c98d7c91759d4e0f5e0cb392"
+		}
+	]
+}

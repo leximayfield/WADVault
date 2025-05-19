@@ -1,0 +1,17 @@
+{
+	"uid": "noname01 (137b52).wad",
+	"name": "(couldn't think of one)",
+	"description": "This is my first attempt at a doom2 level. I'm afraid it doesn't have much of a theme as all I was trying to do was experiment. Its not a cakewalk, however, even on the 'easy' setting.",
+	"version": "137b52",
+	"date": "2013-11-04 20:11:54",
+	"files": [
+		{
+			"filename": "noname01.wad",
+			"size": 63987,
+			"crc": 1265483904,
+			"md5": "d8f1b8f2d051fb48cc07c6de206fe8ef",
+			"sha1": "137b52c49c26135b583635424c2c981da68a59db",
+			"sha256": "da0cd50b579fadbcbf7bf6bc1c379845fd0ffdfce6cdba4faa030bdc62546a51"
+		}
+	]
+}

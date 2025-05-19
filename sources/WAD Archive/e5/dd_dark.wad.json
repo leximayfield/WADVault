@@ -1,0 +1,16 @@
+{
+	"uid": "dd_dark.wad",
+	"name": "Dark Installation",
+	"description": "Contact was lost with the installation a few days ago. Investigate and figure out what's going on.",
+	"date": "2014-12-24 17:40:48",
+	"files": [
+		{
+			"filename": "dd_dark.wad",
+			"size": 776187,
+			"crc": 3822300170,
+			"md5": "2a184830b7e4156d793b60fdfc96215f",
+			"sha1": "e5ceb6f38d13d9accc19b2629a16384b5fdc2118",
+			"sha256": "53ec8ef04e3bd5eced4b6826fcc3ad19fe495dc70dec788b7b2f0721536ee9a4"
+		}
+	]
+}

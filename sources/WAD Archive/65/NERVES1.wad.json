@@ -1,0 +1,16 @@
+{
+	"uid": "NERVES1.wad",
+	"name": "Nerves Of Steel (DOOM 1 Version)",
+	"description": "Doom 1 Version of Nerves Of Steel. This is your basic computer station with CRAY supercomputers, and various other control centers.",
+	"date": "2014-08-30 13:57:04",
+	"files": [
+		{
+			"filename": "NERVES1.wad",
+			"size": 269706,
+			"crc": 3478722897,
+			"md5": "b5ff92f34290b1aa11b2141c717d2d56",
+			"sha1": "655d422f115215e05764afa7ee3c426dff0207eb",
+			"sha256": "2cb53f21ea2a93f790f801913afe79506b215daf7a1cfe59c0506f067d248888"
+		}
+	]
+}

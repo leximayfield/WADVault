@@ -1,0 +1,16 @@
+{
+	"uid": "zombcsaw.wad",
+	"name": "Chainsaw from Zombie Doom",
+	"description": "Due to the recent death of Zombie Doom, I've set out to create a series of weapons patches based on some of the weapons from the Zombie Doom beta. Al was cool enough to let me do this, so enjoy!",
+	"date": "2014-12-10 20:42:51",
+	"files": [
+		{
+			"filename": "zombcsaw.wad",
+			"size": 30988,
+			"crc": 77305892,
+			"md5": "d960472dd7c7e1e940d80197b60ea100",
+			"sha1": "6470aedbcea23cf6223931749e597f347e92b12a",
+			"sha256": "ff1669febf7a155864a9f7ae9dc18629a57c94b9e22651c1a199e27da704d1c2"
+		}
+	]
+}

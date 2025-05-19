@@ -1,0 +1,17 @@
+{
+	"uid": "e2gc (b5a83a).wad",
+	"name": "e2gc.WAD",
+	"description": "This series of two levels takes place in a military base, after you have returned from Hell. It was originally designed for single player, but supports deathmatch and cooperative (pretty well, if I do say so myself.)",
+	"version": "b5a83a",
+	"date": "2013-07-09 20:21:49",
+	"files": [
+		{
+			"filename": "e2gc.wad",
+			"size": 270398,
+			"crc": 2794183662,
+			"md5": "5b99339b1fd0595c3a36ebc316fd16fc",
+			"sha1": "b5a83a390a6e7a593b1c2a0294f0de1017b299a8",
+			"sha256": "e2d9557f0c23d1c6eea772dbfd2f8c8fed6fa463afa9d2c4b8ea67bf8e9e572d"
+		}
+	]
+}

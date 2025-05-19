@@ -1,0 +1,16 @@
+{
+	"uid": "rebalanc.wad",
+	"name": "Simple weapon rebalance for efficient combat -",
+	"description": "DEHACKED mod, compatible with any source port and even the original game. For a long time, I've been experimenting with improving balance of Doom's weapons (and enemies), to make all of them useful while retaining their \"feel\", which we players are so much familiar with, as much as possible. Eventually, I settled on this version: Fist left unchanged. Chainsaw is bloodstained and deals double damage. Pistol fires twice as fast and 100% accurately. Shotgun fires 25% faster and has a new reload animation, resembling SSG's reload. SSG fires about 33% faster, as fast as the unmodified shotgun did. Chaingun fires 25% faster. RL and PG left unchanged. BFG become a rapid-fire weapon, but loses its \"blasting\" effect - now it works like a more powerful plasmagun, which also consumes more ammo. Bullet capacity increased to 300 (600 with a backpack), plasma capacity increased to 450 (900 with a backpack). In addition, there are minor changes to some monsters to improve their balance as well, and make them worthy opponents while not too overpowered: Zombiemen are twice as fast, twice as aggressive, and shoot twice in a row. Demons and spectres move 50% faster, bite faster, and their bites deal damage a lot sooner. Revenant's missile is orange and deals half damage. Arachnotrons start firing at you without their usual long charge. That's all - enjoy! ;)",
+	"date": "2015-09-14 23:08:29",
+	"files": [
+		{
+			"filename": "rebalanc.wad",
+			"size": 96927,
+			"crc": 851285451,
+			"md5": "25d2faf19a772df59eec431a3bf4378b",
+			"sha1": "e449b237ebb3e3a820c46e17471cdb3b267259c0",
+			"sha256": "083ee922f5d7d4050d3dca16f879b8e36c069ccbad2ec050dbd4f12427f8f6a5"
+		}
+	]
+}

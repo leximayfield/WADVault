@@ -1,0 +1,16 @@
+{
+	"uid": "iodse.wad",
+	"name": "The Island of the Death (S)pecial (E)dition",
+	"description": "an upgrade from v1.0 to make it compatible with DOOM 1&2, not exactly the same in both games yet though. Story: Your ship has crashed in a storm and as far as you know everyone else is dead, after searching the island for a while you notice that off in the distance about 1 km away is a old building, you realize that with out any food or fresh water anywhere on the island and a new storm coming in that it is your only chance. You hear unearthly howls and you quickly decide that you must either go into the building hopeing that someone is living there or face what ever the hell is out there.",
+	"date": "2013-07-09 20:22:48",
+	"files": [
+		{
+			"filename": "iodse.wad",
+			"size": 516618,
+			"crc": 1766572962,
+			"md5": "bc3da3adc5305c41ae38d25d46f5c0e9",
+			"sha1": "419e888255ca8a8ac58174e8a4e48c2d778fd179",
+			"sha256": "8a483f897386ec1b3f5b3f9efd12145e360244ba4956cd339ab2048d8a1fe88b"
+		}
+	]
+}

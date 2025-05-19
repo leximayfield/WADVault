@@ -1,0 +1,16 @@
+{
+	"uid": "drac_prison.wad",
+	"name": "Subterranean Prison",
+	"description": "I made three deathmatch wads a while ago and finally decided to release them to the idgames ftp. This is one of them. In this map, you're going to be fighting in a subterranean prison with a central arena and dark tunnels around the cells. Teleport to the rocket launcher or SSG and then drop to the arena to play with your new toy. Weapons 3-5 are in the map for you to fight with.",
+	"date": "2014-12-15 22:31:07",
+	"files": [
+		{
+			"filename": "drac_prison.wad",
+			"size": 22144,
+			"crc": 3912242736,
+			"md5": "6885187b3035d28e83791891cb287c4e",
+			"sha1": "d5610e98df571c433c4851008c350b4635c387f7",
+			"sha256": "2c67eb84107e3e389f662fc9fc6877420394ff96da73820b69bd0bfd7cbb7dff"
+		}
+	]
+}

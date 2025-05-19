@@ -1,0 +1,17 @@
+{
+	"uid": "dathzor (9b337b).wad",
+	"name": "Dathzor bit 1",
+	"description": "The first three maps od hte upcoming deathmatch wad 'Dathzor'. The maps are: Normal arena-like \"No turning back\", urban-like \"Road to Shambala\" and spammy humouristic water map \"JESUS\".",
+	"version": "9b337b",
+	"date": "2014-12-15 21:32:19",
+	"files": [
+		{
+			"filename": "dathzor.wad",
+			"size": 333648,
+			"crc": 3532077545,
+			"md5": "552ecc9c8f095c35be6156a86457498b",
+			"sha1": "9b337b0ca053b6a6aa439f3d00ed850bf88c5ff1",
+			"sha256": "13b85b6ecd3dcc813be06a9d6621cbc7105b05317961f50c17986c7ef574d338"
+		}
+	]
+}

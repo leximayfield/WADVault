@@ -1,0 +1,17 @@
+{
+	"uid": "meganutz (145b49).wad",
+	"name": "MEGANUTZ Version 1.0",
+	"description": "A none too serious DeathMatch level.",
+	"version": "145b49",
+	"date": "2014-01-07 21:44:08",
+	"files": [
+		{
+			"filename": "meganutz.wad",
+			"size": 394049,
+			"crc": 1150392853,
+			"md5": "e41d2db9304c2639a298aadb079fdd81",
+			"sha1": "145b49153e06c249f5865a98698a927b70e0c31a",
+			"sha256": "7cd112be7d139f784dee389f6fa67048c4531629dca8c03ada42dbd060ca4b66"
+		}
+	]
+}

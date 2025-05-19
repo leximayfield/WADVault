@@ -1,0 +1,16 @@
+{
+	"uid": "chief.wad",
+	"name": "Chief's Wad",
+	"description": "The first six levels of the Chief series!",
+	"date": "2014-12-15 22:45:37",
+	"files": [
+		{
+			"filename": "chief.wad",
+			"size": 564524,
+			"crc": 2364047996,
+			"md5": "d0310e11577e3ad78ba1b249b42d1e3c",
+			"sha1": "1bf6e7c751bdb4178f420ba37e913102048f155b",
+			"sha256": "2224d6c474770170b44de8e6af2ba4474431991ce989a0e12fab207567fae112"
+		}
+	]
+}

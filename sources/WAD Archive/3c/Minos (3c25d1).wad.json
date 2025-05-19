@@ -1,0 +1,17 @@
+{
+	"uid": "Minos (3c25d1).wad",
+	"name": "MINOS' LABYRINTH",
+	"description": "Deathmatch-level for DOOM II. 2 Players : HUNTING 3 Players : ACTION/HUNTING 4 Players : PURE ACTION ( GET THE BFG9000 (if you can reach it :-} ))",
+	"version": "3c25d1",
+	"date": "2014-01-07 22:11:07",
+	"files": [
+		{
+			"filename": "Minos.wad",
+			"size": 86820,
+			"crc": 693251967,
+			"md5": "563bd8e1e60a0954a7c44dd94610e979",
+			"sha1": "3c25d1142360bba108dca0aaaf940712b7d7a173",
+			"sha256": "3a00e456934ad1aef0b6cdfa75987f2c89fcf887309ef0178c809cb36d73d90b"
+		}
+	]
+}

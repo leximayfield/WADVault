@@ -1,0 +1,16 @@
+{
+	"uid": "tolwyn03.wad",
+	"name": "Spacious Depot of Decay",
+	"description": "A Derelict supply depot, the UAC nearly abandoned this humble base months ago when it was discovered that the hellspawn were using it as a teleportation relay to mobilize to other locations throughout the galaxy. You must disable the depot by shutting down the power. This will mitigate further incursions in the immediate area.",
+	"date": "2014-12-29 16:16:41",
+	"files": [
+		{
+			"filename": "tolwyn03.wad",
+			"size": 498770,
+			"crc": 1149544914,
+			"md5": "02d890a064b64e0806095a0026929517",
+			"sha1": "3565697c36527a86d797c430526d094aa51b352f",
+			"sha256": "642e3563547794e0093237c472186f0f3ee03e91bc1258d264bfacfc4d1102b9"
+		}
+	]
+}

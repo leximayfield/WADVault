@@ -1,0 +1,17 @@
+{
+	"uid": "boom (f01d02).wad",
+	"name": "BOOM.WAD",
+	"description": "Nice textures. Play it. A ghost town.",
+	"version": "f01d02",
+	"date": "2014-12-18 22:29:39",
+	"files": [
+		{
+			"filename": "boom.wad",
+			"size": 66262,
+			"crc": 1749859631,
+			"md5": "45c8ac44ca2a798e5f1d76f296fcf4f2",
+			"sha1": "f01d027f5b0b6a2c47d70e236ed486db137698c7",
+			"sha256": "2f1d0db1d661b9c23afb3c90e445e71d9cb77c03a4dfeef3ad7a6a874ca7d1f5"
+		}
+	]
+}

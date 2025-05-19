@@ -1,0 +1,17 @@
+{
+	"uid": "dmatch1 (99f763).wad",
+	"name": "Doom Deathmatch Pack 1",
+	"description": "Just a bunch of Deathmatch levels.",
+	"version": "99f763",
+	"date": "2013-11-02 15:48:02",
+	"files": [
+		{
+			"filename": "dmatch1.wad",
+			"size": 125194,
+			"crc": 3120791553,
+			"md5": "1502476da8cfda4e5f55505ac380bddd",
+			"sha1": "99f76304823f591b7c7f67c7575ed179574e2b4b",
+			"sha256": "b7c7947aa6b943cf280177b1368cc75b4c7006f26f7709ee52a6ceb2fb1f3d3b"
+		}
+	]
+}

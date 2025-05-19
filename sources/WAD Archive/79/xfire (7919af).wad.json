@@ -1,0 +1,17 @@
+{
+	"uid": "xfire (7919af).wad",
+	"name": "xfire",
+	"description": "This map should provide some fast DM action, the 3 main areas are well linked for maximum access. Just enough height variation to keep things interesting. Plays really well with ports supporting mlook IMHO.",
+	"version": "7919af",
+	"date": "2014-12-15 21:36:54",
+	"files": [
+		{
+			"filename": "xfire.wad",
+			"size": 81372,
+			"crc": 694912213,
+			"md5": "d38ce705452c10b256b90181f6217073",
+			"sha1": "7919af416cb4b4696c324ad3ea9496968b0ba8eb",
+			"sha256": "2b35f94603adf06d56f9937301c42e565926f1ccbd8700ab1f610676a5348ef8"
+		}
+	]
+}

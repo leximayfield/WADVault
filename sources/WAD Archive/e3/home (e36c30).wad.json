@@ -1,0 +1,17 @@
+{
+	"uid": "home (e36c30).wad",
+	"name": "My home",
+	"description": "You wake up in the hallway in my house (scary",
+	"version": "e36c30",
+	"date": "2013-07-09 20:23:13",
+	"files": [
+		{
+			"filename": "home.wad",
+			"size": 100516,
+			"crc": 573244664,
+			"md5": "efbee11b58d110f645cba87aa0bdd126",
+			"sha1": "e36c30eb05e67c67478372fc130d4daf483cf76a",
+			"sha256": "cd5548870ea226a8e555e00e871f3e424bd74c27596bb33a7d2f04906ecda9c6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "eodmega (2dabbc).wad",
+	"name": "Doom2: Eye of Doom - MegaWAD",
+	"description": "A MegaWAD inspired by Eye of the Beholder. Theme = Dungeon.",
+	"version": "2dabbc",
+	"date": "2019-03-06 21:40:04",
+	"files": [
+		{
+			"filename": "eodmega.wad",
+			"size": 20158438,
+			"crc": 1992616281,
+			"md5": "f7182a6c8b0192db00d62ae262f26c0a",
+			"sha1": "2dabbcd540fdcf71c3ce0d59e67b8ac261fac33d",
+			"sha256": "59a3e0148ecd61d08691304eb5f96eae426191b742276dc9a290ec6ad18a2a11"
+		}
+	]
+}

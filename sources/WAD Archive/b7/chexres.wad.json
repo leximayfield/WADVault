@@ -1,0 +1,16 @@
+{
+	"uid": "chexres.wad",
+	"name": "Chex rescue",
+	"description": "A custom chex quest episode! You rarely see those. You're sent to a certain planet to rescue some people from a gigantic horde of terrible flemoids.",
+	"date": "2015-09-14 19:59:59",
+	"files": [
+		{
+			"filename": "chexres.wad",
+			"size": 704174,
+			"crc": 2049096608,
+			"md5": "877b3ede0834051cff0802557bbae3cd",
+			"sha1": "b71927f11e63ced8b6cee23a5c2166468216cbfa",
+			"sha256": "d5e75032e3469ea1913ea0d39704d184967143aafffd9188a08e261a8094a47e"
+		}
+	]
+}

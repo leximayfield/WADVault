@@ -1,0 +1,17 @@
+{
+	"uid": "reactrfv (6f2680).wad",
+	"name": "Reactor: Final Version",
+	"description": "Last version (I promise) of the first Doom level I ever made. I made the original version over a year ago. While I was completing The Waterfront, someone emailed me, saying how much they liked Reactor. So for old times sake, I went back and played it. How embarrassing! By my current standards, it sucked! So when The Waterfront was done, I decided to do a complete make- over on Reactor. I wanted the Doom 2 monsters so I converted it. I had to borrow a few of the Doom 1 textures to make it look right, namely the episode 1 sky and the sladdrips. Also, since I was never really happy with the Doom 2 music, and since it was looking sort of reminiscent of the Doom 1 levels, I borrowed one of my favorite Doom 1 themes (e1m3).",
+	"version": "6f2680",
+	"date": "2014-01-07 22:25:18",
+	"files": [
+		{
+			"filename": "reactrfv.wad",
+			"size": 403277,
+			"crc": 1586032262,
+			"md5": "a4a5766474adb1d6d1dd58f397fdacdb",
+			"sha1": "6f2680f5ab3d3141fb9cc3d80826621586c33252",
+			"sha256": "8a9415ac97539e286384e82be5611e7fbd13416f98a1e6ba53c5f382cd85dbc0"
+		}
+	]
+}

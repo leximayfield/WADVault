@@ -1,0 +1,16 @@
+{
+	"uid": "trecias.wad",
+	"name": "TRECIAS.WAD",
+	"description": "A large indoors/outdoors level with some special effects. If you beat it in fast UV, mail me a demo!",
+	"date": "2015-01-14 23:00:36",
+	"files": [
+		{
+			"filename": "trecias.wad",
+			"size": 672288,
+			"crc": 1337528498,
+			"md5": "57fbfd2f2ad3b0f8418ab08b80cf8d1f",
+			"sha1": "e364d3e9b6bd01e576a32a8700fc767cbcf6aa16",
+			"sha256": "4afccebfbba6fc885eb62c7615c21cf73caf6a36d0a9bdba33d81e03bcaa9590"
+		}
+	]
+}

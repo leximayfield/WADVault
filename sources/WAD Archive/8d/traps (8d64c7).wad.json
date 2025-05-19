@@ -1,0 +1,16 @@
+{
+	"uid": "traps (8d64c7).wad",
+	"description": "Level one is regular dm play. Levels 2 and 3 are dm gimmick levels.",
+	"version": "8d64c7",
+	"date": "2014-12-15 21:28:14",
+	"files": [
+		{
+			"filename": "traps.wad",
+			"size": 100647,
+			"crc": 2230217660,
+			"md5": "22f140189141863402d9cd6458945c5a",
+			"sha1": "8d64c73031bd83d1eeeed036617dce59d46d507e",
+			"sha256": "c0904182cb67f4551d5942b6b051427d372f8ad0942f308bad2040a37e2f4223"
+		}
+	]
+}

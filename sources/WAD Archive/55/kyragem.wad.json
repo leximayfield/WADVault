@@ -1,0 +1,16 @@
+{
+	"uid": "kyragem.wad",
+	"name": "Kyragem",
+	"description": "One map with a castle in medieval style",
+	"date": "2018-03-27 21:12:30",
+	"files": [
+		{
+			"filename": "kyragem.wad",
+			"size": 7767584,
+			"crc": 80257071,
+			"md5": "b55f1e89600c5864f456d134b8667509",
+			"sha1": "550984c3e451d5f21cdf09da0e13b39f3b8a0ace",
+			"sha256": "7d2d734789b5841eb2dd6f7a4d39454b8fa9e5b3fc3f9f73c4db48a629374f8e"
+		}
+	]
+}

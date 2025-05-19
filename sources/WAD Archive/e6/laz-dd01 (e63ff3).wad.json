@@ -1,0 +1,17 @@
+{
+	"uid": "laz-dd01 (e63ff3).wad",
+	"name": "LAZ-DD01.WAD",
+	"description": "Designed for DeathMatch. Layout inspired by Dead Simple Level #7 of Doom][. Best if used with DM2.0 option, All weapons present except the BFG-9000. (Has NO Place in DeathMatch!)",
+	"version": "e63ff3",
+	"date": "2016-02-07 20:25:20",
+	"files": [
+		{
+			"filename": "laz-dd01.wad",
+			"size": 19186,
+			"crc": 3288122700,
+			"md5": "119c771ccabb7aaea9671df685570e4b",
+			"sha1": "e63ff3ba2394d6972093b1710e7b5e6ff3dee432",
+			"sha256": "9ba816008f00acb0f36d0bc0af5cb1d94eb7ce9279173ae660b3cb8c242a344c"
+		}
+	]
+}

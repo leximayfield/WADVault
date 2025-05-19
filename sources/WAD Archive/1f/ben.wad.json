@@ -1,0 +1,16 @@
+{
+	"uid": "ben.wad",
+	"name": "Ben (don't ask me why, I only designed it!)",
+	"description": "This is my second level and I am quite pleased with it overall. It's based (loosely) on where I work with a few additions. There are some nice puzzles and some nasty surprises. There are also plenty of secrets to find. Generally, if something is hard to do, there should be a secret around which can help, so keep alert! If you like this level, try my first level (CARREG.WAD) which is fairly similar.",
+	"date": "2013-11-06 22:42:07",
+	"files": [
+		{
+			"filename": "ben.wad",
+			"size": 174538,
+			"crc": 1649358915,
+			"md5": "8e609ab3fa06f28a596b9072d9417c17",
+			"sha1": "1fedfef91fb114f79f9ba4ee40061b0eb4af1396",
+			"sha256": "1f42ac65d287acd2694fee31294a4f00af7c47bdcbbdf8ad23a353202834b017"
+		}
+	]
+}

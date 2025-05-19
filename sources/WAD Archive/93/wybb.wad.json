@@ -1,0 +1,16 @@
+{
+	"uid": "wybb.wad",
+	"name": "Watch Your Back, Buddy! V1.00",
+	"description": "Deathmatch level ONLY! There is an EXIT (you can exit whenever you want).",
+	"date": "2013-11-02 16:39:09",
+	"files": [
+		{
+			"filename": "wybb.wad",
+			"size": 139603,
+			"crc": 2330016452,
+			"md5": "f29f89a1c7663310081d97f8244eb064",
+			"sha1": "93c680a9afab04924158f4726be0a7b668f0b67d",
+			"sha256": "eefae5cc9e86571a2a5556d0bf40683b700ae81df575ed6cd38481388c145115"
+		}
+	]
+}

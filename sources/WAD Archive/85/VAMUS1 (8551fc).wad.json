@@ -1,0 +1,17 @@
+{
+	"uid": "VAMUS1 (8551fc).wad",
+	"name": "Various Artists Music Wad",
+	"description": "Music from Various Artists. I got these from midi files I have downloaded from all over the internet. These midifiles are excellent reproductions of the actual recorded versions of the songs.",
+	"version": "8551fc",
+	"date": "2013-11-04 20:14:09",
+	"files": [
+		{
+			"filename": "VAMUS1.wad",
+			"size": 472393,
+			"crc": 1696799439,
+			"md5": "de7ef11c40ea7543b6608d3e966939de",
+			"sha1": "8551fca2e1c241389560c46940bf6165ddcfb59a",
+			"sha256": "6acc62bd7d48c272cdbb85d5154f7ac49e0878fe857ea823022f16dd5fd5a6ce"
+		}
+	]
+}

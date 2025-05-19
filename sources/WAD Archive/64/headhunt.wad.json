@@ -1,0 +1,16 @@
+{
+	"uid": "headhunt.wad",
+	"name": "Head Hunter",
+	"description": "A walking brain like creature.",
+	"date": "2015-09-14 23:30:21",
+	"files": [
+		{
+			"filename": "headhunt.wad",
+			"size": 109353,
+			"crc": 3733887605,
+			"md5": "776f52e1644b5b2793e8cd9f5f659fc2",
+			"sha1": "64ff49da021011e55e880636b65b72386276f0ae",
+			"sha256": "c611232dd75eaa4659cd85bd34d88650c1a753224913f4ffbc6ea993d9b0c5dd"
+		}
+	]
+}

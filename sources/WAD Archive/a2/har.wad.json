@@ -1,0 +1,16 @@
+{
+	"uid": "har.wad",
+	"name": "HAR",
+	"description": "My brother was fooling around with a Doom to Quake level conversion program a little while ago. The problem was, most of the levels he tried to convert had architecture that was too complex, special effects tricks, or custom graphics. The result was conversions that didn't work at all or had loads of bugs. So he asked me to design a small, simple deathmatch level. This is what I came up with. BTW this level converted perfectly. He was happy! He even converted it all the way up to Quake 3. It was sweet! So, I decided to release it. I made a few texture and lighting changes. I also got rid of a visplane error (!) that plagued the original, but caused no problem for the quake conversion.",
+	"date": "2014-12-15 23:09:48",
+	"files": [
+		{
+			"filename": "har.wad",
+			"size": 60761,
+			"crc": 2954090275,
+			"md5": "92bd4cb29c5af9f0edb441b981536692",
+			"sha1": "a2961c02974933148e511d904266a5ab2986956c",
+			"sha256": "343ae4378ee923c55831577bc41f2f57b7e1d0d2880e8becdb76251ddb4ee796"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "treedm1 (443e03).wad",
+	"name": "TreeDM1.WAD",
+	"description": "A deathmatch designed with fun and balance in mind. The feeling of this level is fairly open, just a few largish rooms and some interconnecting passageways. It's not intended to be a frag-fest, but more of a fair competition. (Average life span is greater than 5 seconds... :)",
+	"version": "443e03",
+	"date": "2014-12-06 09:37:50",
+	"files": [
+		{
+			"filename": "treedm1.wad",
+			"size": 344520,
+			"crc": 1683610836,
+			"md5": "e9c40a58fd2fffa546a7617f4f71ddba",
+			"sha1": "443e03ec67dea84e906e61f109cdd4cfa560a464",
+			"sha256": "d460bcd556dcce959792678734d4af0be4c996bee89aca226cd2c55b361ceefc"
+		}
+	]
+}

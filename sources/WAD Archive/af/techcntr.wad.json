@@ -1,0 +1,16 @@
+{
+	"uid": "techcntr.wad",
+	"name": "Tech Center",
+	"description": "Medium sized level with space to run, kill, run some more and then kill again!",
+	"date": "2014-12-15 22:38:56",
+	"files": [
+		{
+			"filename": "techcntr.wad",
+			"size": 84183,
+			"crc": 3467200628,
+			"md5": "c303323cc087c889fbe72f1070c198e1",
+			"sha1": "af447d2fa3ecc179247015dbc9bea1195e443b1f",
+			"sha256": "ba60d3e7055d05ae13c0f7fd3ad3cc19a5b0779fe72a5558d7e74ddba16e743a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nov5th.wad",
+	"name": "November 5th",
+	"description": "This level was orginally created to celebrate Hellbent's birthday in 2015, and it was released on Novbember 7. 2015(https://www.doomworld.com/vb/post/1520202) This version has a few minor changes from the original release, including texture alignment, monster placements, adding more supplies for lower difficulty, etc.",
+	"date": "2016-01-28 23:22:14",
+	"files": [
+		{
+			"filename": "nov5th.wad",
+			"size": 554074,
+			"crc": 2375106724,
+			"md5": "830981da96afc8fc150bb0a1547c8522",
+			"sha1": "38728e49e1df31e3b5e377f6b3b8fe38b7088d9e",
+			"sha256": "9f66f4c6e372f4f906aa0092acadc5231dfd3788dac4997585d311e94a06845e"
+		}
+	]
+}

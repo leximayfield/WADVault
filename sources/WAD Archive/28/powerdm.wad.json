@@ -1,0 +1,16 @@
+{
+	"uid": "powerdm.wad",
+	"name": "Power Plant Deathmatch",
+	"description": "This wad got its inspiration from the power plant in Total Recall. Try to remember that it is only inspired by it, not designed to look exactly like it. There are 8 Deathmatch starts, no monsters since this is NOT a single player map although you can, of course, look at the map if you like. Weapons available for fragging your buddies are the pistol (naturally), chainsaw (for that up close and personal frag), Shotgun, Super shotgun, chaingun and rocket launcher. I left the Plasma rifle and BFG out. There is also no exit in this level.",
+	"date": "2014-12-15 22:18:04",
+	"files": [
+		{
+			"filename": "powerdm.wad",
+			"size": 1945496,
+			"crc": 2916037771,
+			"md5": "80c302973f8cfc2a9a62bb0859601e16",
+			"sha1": "28decf57493279a75ef7c339d05201e1a39d097a",
+			"sha256": "b9364cc4ebf97f15381c6804cb79ce95e31ebfc17f400d55fe19b90cc53221ed"
+		}
+	]
+}

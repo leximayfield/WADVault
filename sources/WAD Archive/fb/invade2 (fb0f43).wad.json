@@ -1,0 +1,17 @@
+{
+	"uid": "invade2 (fb0f43).wad",
+	"name": "INVADE2.WAD (INVASION...",
+	"description": "This is level 1 of a 4 level storyline episode.",
+	"version": "fb0f43",
+	"date": "2014-01-04 11:55:58",
+	"files": [
+		{
+			"filename": "invade2.wad",
+			"size": 2552382,
+			"crc": 4213596648,
+			"md5": "3dc776c48cd3397923a081ac356d7190",
+			"sha1": "fb0f433b3f6613804b9f5883cda3facaa263c1e3",
+			"sha256": "d3f68a884bfca84115dbddfc8b8c17ebd86b67d0642055f9971bfac98f20ceb7"
+		}
+	]
+}

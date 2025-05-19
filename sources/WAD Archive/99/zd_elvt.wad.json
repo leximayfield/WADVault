@@ -1,0 +1,16 @@
+{
+	"uid": "zd_elvt.wad",
+	"name": "ZDoom Elevator Example",
+	"description": "Example which shows a Duke Nukem 3D elevator with ZDoom.",
+	"date": "2015-09-15 16:36:04",
+	"files": [
+		{
+			"filename": "zd_elvt.wad",
+			"size": 15667,
+			"crc": 1537450754,
+			"md5": "a09c6766be5580e905ab2bfb8975bf5e",
+			"sha1": "993367133759060068b4918a44add9d7a13575e1",
+			"sha256": "a6e0cebb68286411da5b105d0ea4ad615402e5dc32ec3be50cf63215ce3d54b5"
+		}
+	]
+}

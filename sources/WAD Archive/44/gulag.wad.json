@@ -1,0 +1,16 @@
+{
+	"uid": "gulag.wad",
+	"name": "GULAG",
+	"description": "A five-level wad for Heretic, incorporating numerous new graphics. The appearance of each level is quite different; there is no unifying theme except that the action takes place on a series of islands. If I could have figured out how to replace the end screens, (assuming it's possible with Heretic), I would have named the levels:",
+	"date": "2013-04-19 02:35:10",
+	"files": [
+		{
+			"filename": "gulag.wad",
+			"size": 2121436,
+			"crc": 1397065954,
+			"md5": "4be273d893a79fbd96f54b2e6bf1cb5f",
+			"sha1": "447079214c025e221d31dc55ed9f1d3a93965d8e",
+			"sha256": "3805acd754570c6ef79b0ccf103591f0f11c0ceb683afafa749f7e60e27aadd7"
+		}
+	]
+}

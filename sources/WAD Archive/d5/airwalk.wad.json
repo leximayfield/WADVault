@@ -1,0 +1,16 @@
+{
+	"uid": "airwalk.wad",
+	"name": "air walk",
+	"description": "This wad was made for deathmatches. It does allow for single and co- operative play, but it would probably be boring. Are you good enough to do the air walk?",
+	"date": "2013-11-02 15:20:35",
+	"files": [
+		{
+			"filename": "airwalk.wad",
+			"size": 70294,
+			"crc": 3422636373,
+			"md5": "36b35f093a77660e7339e0de3dcb5c7f",
+			"sha1": "d5ffb8f8533097df29b1f5b356b068889c06dc6d",
+			"sha256": "1307758781f7231bd552e3738e5697bcdfd79d9ae29fa44e464f42bd6daf5df3"
+		}
+	]
+}

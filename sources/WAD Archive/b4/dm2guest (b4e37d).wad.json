@@ -1,0 +1,17 @@
+{
+	"uid": "dm2guest (b4e37d).wad",
+	"name": "The 7th Best",
+	"description": "Wait a minute. Just a minute ago you were battling the hordes of hell, and now, a step through a teleport later, you've found your- self in the 7th Guest. What's more. Some guy named Stauf is allowing the hellion minions in after you. Uh-oh!",
+	"version": "b4e37d",
+	"date": "2016-02-07 20:34:19",
+	"files": [
+		{
+			"filename": "dm2guest.wad",
+			"size": 203562,
+			"crc": 1999236257,
+			"md5": "2d2085ae963371b4e3821924ecff7fdf",
+			"sha1": "b4e37dae5464823c28d2bada110dbb8464d1eae9",
+			"sha256": "9cd6609ef0fc636f87c004364016af797dc6d5fb475955ce5a4cd3ec3fd7ab39"
+		}
+	]
+}

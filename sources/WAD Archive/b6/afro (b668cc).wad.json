@@ -1,0 +1,17 @@
+{
+	"uid": "afro (b668cc).wad",
+	"name": "AFRO.WAD",
+	"description": "Deathmatch fun. Lots of multiple entrances to most areas. Great for doubling back on your opponent.",
+	"version": "b668cc",
+	"date": "2014-01-11 11:20:06",
+	"files": [
+		{
+			"filename": "afro.wad",
+			"size": 83005,
+			"crc": 1995011019,
+			"md5": "dac6fa5f77129783c0b13fd26ac96106",
+			"sha1": "b668ccc80c761ea66f34832943e6f3b01457c103",
+			"sha256": "1e80b3b6a3a953e5df9cf04f0017e20b202b9cf10b2e522c201ddb9d63a55e8a"
+		}
+	]
+}

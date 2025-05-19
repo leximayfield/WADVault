@@ -1,0 +1,17 @@
+{
+	"uid": "base1 (667bc2).wad",
+	"name": "Quake2: Base1",
+	"description": "I love to play converted levels to Doom2, and I used to challenge a lot of other people to put Quake maps into Doom. some of the results of this include DM3.wad (by mystican) and dm4.wad (not yet released by Brv-Zokum). Since no one created a base1 conver sion from quake2, myst challenged me to create it. So, i decided to take a crack at it. After being introduced to the great EdMap level editor, I started building furiously at this map for 2 months straight Near the end i started to slack off because Deathmatch on this map was tooooo fun. Thanks Dvs and knort. ;) The main goal of this map is Deathmatch, altho SP is fun if you try to speed-run. Current top time belongs to Adam Hegyi, or Hegyi Adam, (i dunno, his irc nick is Adam_H), with 0:08. If anyone can top that, mail it to me. if anyone is interested in creating base2.wad or base3.wad (off of quake2), please mail me. However, i will have no part in a conversion that uses q2 textures. Doom2 has fine textures. Btw, anyone got the q2 tracks on midi? =)",
+	"version": "667bc2",
+	"date": "2014-12-15 22:20:53",
+	"files": [
+		{
+			"filename": "base1.wad",
+			"size": 635132,
+			"crc": 2234457478,
+			"md5": "223774913517ec50e4b514ad77c03326",
+			"sha1": "667bc2a931f563852e208406beede26fb3ac4ccd",
+			"sha256": "f5ddd79288107ddcd84ad65e739807adaa86c698a60c70edc7cbe3bc565d2647"
+		}
+	]
+}

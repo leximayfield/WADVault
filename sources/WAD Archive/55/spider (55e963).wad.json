@@ -1,0 +1,17 @@
+{
+	"uid": "spider (55e963).wad",
+	"name": "Warriors of Spider",
+	"description": "MAP01: Factory MAP02: Cave MAP03: City MAP04: Space Ship MAP05: Theatre, the Big Showdown! Map 4 and 5 are really challenging! Try It!",
+	"version": "55e963",
+	"date": "2015-01-14 14:30:22",
+	"files": [
+		{
+			"filename": "spider.wad",
+			"size": 934901,
+			"crc": 374595437,
+			"md5": "8ded6b00d27f6aa39d5d9bab5026f09a",
+			"sha1": "55e9638f8cf3ccf7a5fb08c020eaf365eb607c77",
+			"sha256": "f6f1e4d5e591c9ffdb1a6bc47da107f5c843aad680781f2238e960afe186b59a"
+		}
+	]
+}

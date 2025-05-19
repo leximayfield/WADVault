@@ -1,0 +1,17 @@
+{
+	"uid": "dm2mud (327752).wad",
+	"name": "DM2MUD.WAD",
+	"description": "This a a very tough level, designed for the single player. : There is a version for Doom called MUDZAP.WAD!",
+	"version": "327752",
+	"date": "2013-11-04 20:08:46",
+	"files": [
+		{
+			"filename": "dm2mud.wad",
+			"size": 105626,
+			"crc": 2816935633,
+			"md5": "eb80fdc75dd82381cbed21896566e64c",
+			"sha1": "3277524a9b4c57407209775228c44a2013aceb3a",
+			"sha256": "5e26bc325bfed147de0aa8118d2e6ba6fb81a49ce2f3767230d28726cc2b4ca1"
+		}
+	]
+}

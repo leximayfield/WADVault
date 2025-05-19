@@ -1,0 +1,17 @@
+{
+	"uid": "perfect (cb902f).wad",
+	"name": "The Perfect Deathmatch WAD",
+	"description": "A medium size WAD specifinally designed with",
+	"version": "cb902f",
+	"date": "2013-11-06 22:31:41",
+	"files": [
+		{
+			"filename": "perfect.wad",
+			"size": 98443,
+			"crc": 2545972525,
+			"md5": "9787a7e6a996fdb77512dbd4c8d40591",
+			"sha1": "cb902f4733020dc8eeaa966260f252a5ee1b8edc",
+			"sha256": "2c544f34eb7183dcf5028fb339f8e6fd999a9d1a750b62d1a59de28e1315c405"
+		}
+	]
+}

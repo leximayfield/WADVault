@@ -1,0 +1,16 @@
+{
+	"uid": "fragpit.wad",
+	"name": "Fragpit: DeathMatch Wad",
+	"description": "A Doom II Death Match level, with a pit in the middle that could muss you up, if you are not careful.",
+	"date": "2013-11-02 16:00:50",
+	"files": [
+		{
+			"filename": "fragpit.wad",
+			"size": 19318,
+			"crc": 1817270640,
+			"md5": "2cf353bcbcd3d4cd896fb4ae3769179f",
+			"sha1": "747f57ce53618bd5a2a39c0580895d4772592cb0",
+			"sha256": "93f8d3bb136e7e277fca764b5e49a91f05184f5cb26040530cbad3c61985c290"
+		}
+	]
+}

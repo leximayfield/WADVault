@@ -1,0 +1,16 @@
+{
+	"uid": "hymn.wad",
+	"name": "HYMN: A Heretic Community Project",
+	"description": "HYMN is a Doomworld community project for Heretic. It is a 9 level episode that features custom textures. HYMN should be compatible with most modern Boom and ZDoom related ports, as well as The Doomsday Engine, but has an emphasis on 'vanilla' style mapping.",
+	"date": "2014-12-30 11:32:19",
+	"files": [
+		{
+			"filename": "hymn.wad",
+			"size": 13248127,
+			"crc": 3045718790,
+			"md5": "98a0952973174988405e75e18fa4df33",
+			"sha1": "2e5ac7ee9c7be999c970b09624e5a7490387870a",
+			"sha256": "ee87f4a1f544b738e666cfec652255f7a52f91e965c9eeca3c5ea0d2d0ca6923"
+		}
+	]
+}

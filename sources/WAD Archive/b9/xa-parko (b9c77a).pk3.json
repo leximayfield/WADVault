@@ -1,0 +1,17 @@
+{
+	"uid": "xa-parko (b9c77a).pk3",
+	"name": "Parkour",
+	"description": "Gameplay modification for Doom(2). It's a weapon modification you can fit inside a matchbox!",
+	"version": "b9c77a",
+	"date": "2016-07-02 19:50:59",
+	"files": [
+		{
+			"filename": "xa-parko.pk3",
+			"size": 22038,
+			"crc": 2017897180,
+			"md5": "a86ad56184a1beea9b99945f2773eef2",
+			"sha1": "b9c77a50774a0cbf0b86a69e3d7ebacccb066fbc",
+			"sha256": "e954106f2096d8702c02b4558f8bea15a4c7cafe4ececdb428d75d62c568048b"
+		}
+	]
+}

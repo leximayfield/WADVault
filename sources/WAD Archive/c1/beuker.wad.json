@@ -1,0 +1,16 @@
+{
+	"uid": "beuker.wad",
+	"name": "Beuker Deathmatch Challenge - 9 original",
+	"description": "Deathmatch levels only, no monsters. These are 9 original levels that I made myself. My general theory on a good deathmatch is that it should be tough to get good weapons and equipment, with few places to hide, and little healing available. These levels are based on that theory. They have been tested for modem play, and should work good for 3 and 4 players too. If you want all the weapons, you will have to play with the toughest difficulty setting! For Registered Heretic ONLY! There is an exit on each level except #9.",
+	"date": "2013-11-06 22:50:11",
+	"files": [
+		{
+			"filename": "beuker.wad",
+			"size": 280539,
+			"crc": 3314794722,
+			"md5": "6079bb23c2a25cf7bb31fd4966cd674a",
+			"sha1": "c136d19a5974accb1d99dc0afaa7e64a6b1bca32",
+			"sha256": "3914bd07e3acb6ad4571d59b1ddfe4d753c4d59e5ca560b5f42f9e0e99d251a9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dt-shot3.wad",
+	"name": "Kingpin- 'Life of Crime' shotgun (version 2)",
+	"description": "This is an Ass-kicking re-make of dt-shot3. The sprites are considerably less grainy, the animation is better, and the weapon is black instead of green. Replaces Shotgun. I included the icon this time, as well as re-loading frames (may require offsetting).",
+	"date": "2014-12-10 22:47:26",
+	"files": [
+		{
+			"filename": "dt-shot3.wad",
+			"size": 110568,
+			"crc": 3384153869,
+			"md5": "c625659e923aedd9d4fa44e0d4934bd5",
+			"sha1": "00a8aca003c0f667cc9408beaa7d110e4dc0d6b1",
+			"sha256": "04eefe57cbb490b9a8393f07a116c0a1bfb30e5fef17650c24073f7be761f300"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "entombed.wad",
+	"name": "Entombed",
+	"description": "Another one my maps that focus on a limited armory, this time you get nothing but a Rocket Launcher and a BFG, with the latter having only a few recharges scattered across the map and the former being still fairly limited. Grab three keys, drop the gate, and get out. There's an optional arena to the east that'll load you up with rockets, but it'll hardly be a pleasant experience with the lack of health. Can you survive being entombed?",
+	"date": "2014-12-24 17:46:03",
+	"files": [
+		{
+			"filename": "entombed.wad",
+			"size": 1373629,
+			"crc": 1502582145,
+			"md5": "8a5e586a42e24976190910b3e9158173",
+			"sha1": "e552348bfa331b2c69da07e6c3159b1b87bef899",
+			"sha256": "654cc46620273946441e1217b29e4d1495861b9e57d57832119e9a15ff738760"
+		}
+	]
+}

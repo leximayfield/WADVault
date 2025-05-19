@@ -1,0 +1,16 @@
+{
+	"uid": "badblood.wad",
+	"name": "BadBlood - MapPack",
+	"description": "This is a Doom2 wad, and contains 12",
+	"date": "2013-04-19 09:33:32",
+	"files": [
+		{
+			"filename": "badblood.wad",
+			"size": 1110678,
+			"crc": 118200206,
+			"md5": "361d3c88d8bcedbc0cbc15aeb5ab8edf",
+			"sha1": "087f03b079c62a57b28ee5a673c57a7ff72680d4",
+			"sha256": "68f76aa14f86ab981b4f39dbd0e17c21304c572c8bcc6ef4bcb9f21f9eb8bc52"
+		}
+	]
+}

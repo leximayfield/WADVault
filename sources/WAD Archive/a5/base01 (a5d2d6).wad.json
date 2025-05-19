@@ -1,0 +1,17 @@
+{
+	"uid": "base01 (a5d2d6).wad",
+	"name": "Entrance to the Base",
+	"description": "You've just entered the base. It's going to be long and hard to complete your mission. Finish the brains of the organization. You don't know how long it will take, but you'll sure wreak havoc on your way through.",
+	"version": "a5d2d6",
+	"date": "2013-11-04 20:11:13",
+	"files": [
+		{
+			"filename": "base01.wad",
+			"size": 109684,
+			"crc": 4096216349,
+			"md5": "0434302ecfeb38a19df10a2cbdacf065",
+			"sha1": "a5d2d69634fac2535460081a74bad4f97f6278a9",
+			"sha256": "f47773372f29b353291ad505458cf322934499ccc03d357e58415957b78c0642"
+		}
+	]
+}

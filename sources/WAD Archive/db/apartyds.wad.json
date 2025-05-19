@@ -1,0 +1,16 @@
+{
+	"uid": "apartyds.wad",
+	"name": "A Party Downstairs",
+	"description": "One of the basement levels underneath an UAC complex became infested with demons. It needs cleanup, and you drew the short straw. Good luck. A somewhat tough tech map of an average size.",
+	"date": "2015-09-15 19:17:11",
+	"files": [
+		{
+			"filename": "apartyds.wad",
+			"size": 920912,
+			"crc": 4245983399,
+			"md5": "68920b92d6a58c9c5994d4964561b248",
+			"sha1": "db2ba4592eb754b57f77c0015c37dc84891f5ac8",
+			"sha256": "ce8fbff515a547340de387fc453dc756ba2b19bcd0afd7ea4497342b0cb81fd1"
+		}
+	]
+}

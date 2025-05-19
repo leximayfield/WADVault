@@ -1,0 +1,16 @@
+{
+	"uid": "12tunnel.wad",
+	"name": "The Tunnel of Chaos",
+	"description": "A large tunnel with goodies and lights. Nothing very special.",
+	"date": "2014-12-15 22:07:40",
+	"files": [
+		{
+			"filename": "12tunnel.wad",
+			"size": 25483,
+			"crc": 3334482740,
+			"md5": "ec63b2e55caca4e298c276bc3cc3ace1",
+			"sha1": "8e0d262d4ad0068002b50c4df85810e0e1cebd04",
+			"sha256": "aa2cc30826155d7a8fe6f192272495f436cda73a9ae32031be804d78450705df"
+		}
+	]
+}

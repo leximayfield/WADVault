@@ -1,0 +1,17 @@
+{
+	"uid": "python2 (deaed1).wad",
+	"name": "Monty Python's Revenge",
+	"description": "sounds from \"Monty Python-The Final Ripoff\"",
+	"version": "deaed1",
+	"date": "2015-09-14 19:45:02",
+	"files": [
+		{
+			"filename": "python2.wad",
+			"size": 1692481,
+			"crc": 1456676116,
+			"md5": "b3ef1cbc471aaecd633062debf78a998",
+			"sha1": "deaed18b28d2b345eeef2ca9b4139995977102c0",
+			"sha256": "cc043d5b0419ce4f9115e13abe8b33698cf35b8128d865108bf070a89287710d"
+		}
+	]
+}

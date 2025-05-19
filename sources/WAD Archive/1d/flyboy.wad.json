@@ -1,0 +1,16 @@
+{
+	"uid": "flyboy.wad",
+	"name": "FLYBOY for HEXEN",
+	"description": "Completely aerial combat; touch the ground and you're toast.",
+	"date": "2014-12-31 11:58:47",
+	"files": [
+		{
+			"filename": "flyboy.wad",
+			"size": 52543,
+			"crc": 1202473274,
+			"md5": "b7157d8678aeb924001915c2990f9910",
+			"sha1": "1db935fb93aa9a1fd31e659252a4c630a90a6d35",
+			"sha256": "165eb561e12451a36631efc23bc12c3d0f12dc67b6ed19bc6c7b5d1865ff0325"
+		}
+	]
+}

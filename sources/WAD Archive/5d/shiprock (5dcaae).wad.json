@@ -1,0 +1,17 @@
+{
+	"uid": "shiprock (5dcaae).wad",
+	"name": "Shiprock",
+	"description": "This level is a replica of the Rose Pauson residence (Shiprock) designed by Frank Lloyd Wright. Both floors are accessible, connected by an almost invisible mechanism. To access all parts of this level, you must use the accompanying DeHackEd patch. Deathmatch starts, weapons & an exit are included for people who want to play war games inside a work of art. Otherwise, it is set up only for a one-person walk-through.",
+	"version": "5dcaae",
+	"date": "2015-12-07 07:38:38",
+	"files": [
+		{
+			"filename": "shiprock.wad",
+			"size": 86931,
+			"crc": 3621931850,
+			"md5": "364ba70c7c685c171aa377b920c1a274",
+			"sha1": "5dcaaec01dbd9ea1dbdbce2232a2dd568b91ceae",
+			"sha256": "0d0f0587d1d498a32ffab3d8eeb452aa70188d0f25bcd10e9f4d78312264b722"
+		}
+	]
+}

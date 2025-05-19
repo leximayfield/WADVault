@@ -1,0 +1,17 @@
+{
+	"uid": "badlands (b361ab).wad",
+	"name": "Badlands.wad",
+	"description": "Great Deathmatch wad 2-4 player. Better played with music volume down and SFX volume up in your options setup screen.",
+	"version": "b361ab",
+	"date": "2014-12-15 21:46:31",
+	"files": [
+		{
+			"filename": "badlands.wad",
+			"size": 303559,
+			"crc": 3835742869,
+			"md5": "b43dd1c3d2792c6d2bc9b9e530ec4618",
+			"sha1": "b361ab230fc854bc73665330693cb505b3acf6d5",
+			"sha256": "f1002f1c9018b604e4304abbaa42632321ac02b793cf1643a6291fba303728a4"
+		}
+	]
+}

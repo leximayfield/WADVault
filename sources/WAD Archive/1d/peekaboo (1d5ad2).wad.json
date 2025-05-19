@@ -1,0 +1,17 @@
+{
+	"uid": "peekaboo (1d5ad2).wad",
+	"name": "\"Peek-A-Boo\"",
+	"description": "PEEKABOO is a deathmatch only level without any monsters except your friend-become-prey. It's stricktly move fast and kick ass from begining to end. The level consists of a few rooms connected to each other so the action will always be constant. There are a few false walls that make for good ambush sites. The players start in one of four hallways adjacent to a couple of rooms. They will each find a Health Supercharge, Blue Armor, Shotgun, and Chaingun. There's a Plasma Rifle and Rocket Launcher in each of the rooms. The BFG 9000 is located in a corner the big room. There's also Medikits, Invisibility Spheres and ammo for the small weapons scattered throughout. There are TWO Teleporters in the big room that will transport you to the North or South corners of the hidden hallway above the big room. This level is great in DEATHMATCH 2.0 as well as regular Deathmatch. There is plenty of opportunity for ambush. This is the second level in a new Deathmatch only episode Gil and I are developing, so keep an eye out for future levels.",
+	"version": "1d5ad2",
+	"date": "2014-01-07 22:06:10",
+	"files": [
+		{
+			"filename": "peekaboo.wad",
+			"size": 17947,
+			"crc": 2392092959,
+			"md5": "a2edcc29e5a716721e964bc6b06704c5",
+			"sha1": "1d5ad2876896d3461a165794c8abb4da58176d62",
+			"sha256": "65c29af29b336109960dc0f25190a5b7970f00619efedb62a2e6ee9835ae12ef"
+		}
+	]
+}

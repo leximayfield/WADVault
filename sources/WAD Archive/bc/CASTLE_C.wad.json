@@ -1,0 +1,16 @@
+{
+	"uid": "CASTLE_C.wad",
+	"name": "The Castle",
+	"description": "Designed for Deathmatch 2 for DOOM II Idelas from the Neuschwanstein Castle in Bavaria",
+	"date": "2013-11-03 17:47:43",
+	"files": [
+		{
+			"filename": "CASTLE_C.wad",
+			"size": 120096,
+			"crc": 3450523356,
+			"md5": "a6f25c0c65ff48ea607a94bdaea62bc4",
+			"sha1": "bce057c61f51587424a2ff31161659e6acaa9ae9",
+			"sha256": "5577d6788f8fcc2422988c399ab87f0d5de532dfb1dae753790b569cdd589565"
+		}
+	]
+}

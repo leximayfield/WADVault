@@ -1,0 +1,17 @@
+{
+	"uid": "legion (6da069).wad",
+	"name": "Legion Down Under",
+	"description": "Your mission is to secure a strange bunker in the Australian outback where many comrads have vanished. You parachute in to a small court yard and immediately realize the only way out is DOWN! Two mysterious stairways disappear into the stench filled ground. You don't feel so hot... yet!",
+	"version": "6da069",
+	"date": "2013-11-04 19:20:57",
+	"files": [
+		{
+			"filename": "legion.wad",
+			"size": 313985,
+			"crc": 3864641546,
+			"md5": "9eb6362abc0d36313b9f3bffac781c1e",
+			"sha1": "6da069aa001b7423eca7dbd5e25214e51c6a918f",
+			"sha256": "857fed6b243bdc59fad6540f42f8a28808c87a65509ed2b18bdfe741c3d86da1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "qdm.pk3",
+	"name": "Quaked Deathmatch",
+	"description": "Quaked Deathmatch is a deathmatch-only project for gzdoom sourceport, designed in Quake/Unreal style but with own ideas, to give you a few hours of fun. most needed commandline options: -file <file1> <file2>.. - files to be used ingame. For example: -file qdm.pk3 qdmhires.pk3 warning: files from later loaded packs will owerwrite earlier loaded, if names are the same. qdmhires.pk3 is a hi resolution texture pack, included with main pk3 -host <number of players> - starts server for online playing, for given number of players, waits until all slots connected before starting game. Not needed to play locally with bots. -join <server ip> - connects to given ip +deathmatch 1 - sets game to deathmatch mode +sv_cheats 1 - enables console codes +sv_weaponstay 1 - enables staying weapons +sv_itemrespawn 1 - enables item respawning during game +map <mapname> starts the game on choosen map if started as server or locally. maps available: QDDM01 - QDDM08 look http://zdoom.org/wiki/Command_line_parameters#Multiplayer_options for more options =)",
+	"date": "2014-12-15 21:34:30",
+	"files": [
+		{
+			"filename": "qdm.pk3",
+			"size": 5902074,
+			"crc": 738777610,
+			"md5": "f78aabc41ebc06d6593281e3346574dd",
+			"sha1": "7b1d07d3ebfdac526af146675b9abfebbf827b87",
+			"sha256": "ef25c736485595a5c842124010673c04f824e6b70062cde7399ceba6f43732fb"
+		}
+	]
+}

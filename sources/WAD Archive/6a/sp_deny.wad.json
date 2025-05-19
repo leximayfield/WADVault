@@ -1,0 +1,16 @@
+{
+	"uid": "sp_deny.wad",
+	"name": "Denial",
+	"description": "Merry christmas everyone! Here's a present from Agent Spork! Denial is a single map for Doom 2 which uses many of zdoom's special features to its advantage. This map is fairly cramped, so if you have claustrophobia, you're not going to like this map. But, if you could care less, this map should be a blast. I spent a couple weeks on this. Hopefully it plays as good as it looks.",
+	"date": "2014-12-29 17:02:49",
+	"files": [
+		{
+			"filename": "sp_deny.wad",
+			"size": 1195252,
+			"crc": 2755359782,
+			"md5": "257ab62f068f18a1c5ba8f0acc177075",
+			"sha1": "6aa2313f08142bf53b10467e49ed5b97371fd502",
+			"sha256": "080739ea5201e367ba59621504cce5b85dac4158aa21059577b3feac60c4f9cf"
+		}
+	]
+}

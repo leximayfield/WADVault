@@ -1,0 +1,16 @@
+{
+	"uid": "dok_tc.wad",
+	"name": "Dungeons of Kremlin TC",
+	"description": "Total-converison of old Russian DOS-game - \"Dungeons of Kremlin\"",
+	"date": "2019-08-17 12:53:36",
+	"files": [
+		{
+			"filename": "dok_tc.wad",
+			"size": 7580018,
+			"crc": 1004991718,
+			"md5": "da26a5cc4d1cec18461be5d03c995ca6",
+			"sha1": "e89c88bc6d0bde15846792a16bf33370bb242468",
+			"sha256": "8db30dca70e525885e93ca35f580ea46729874413b015ffc35a3c8315a598a65"
+		}
+	]
+}

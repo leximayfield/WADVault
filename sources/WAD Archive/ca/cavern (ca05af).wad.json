@@ -1,0 +1,17 @@
+{
+	"uid": "cavern (ca05af).wad",
+	"name": "Hitler's Caverns",
+	"description": "No description. Just kill stuff.",
+	"version": "ca05af",
+	"date": "2014-12-15 21:57:27",
+	"files": [
+		{
+			"filename": "cavern.wad",
+			"size": 502032,
+			"crc": 2795951728,
+			"md5": "3b56b58a7a79dfe994eabc401259220c",
+			"sha1": "ca05afb66a80ae83a7607f92ad3679ffd414fb48",
+			"sha256": "2036e9effb1289b3a0281c98a9ce2b27d77b1f92158f31ce62df0b2e1337523f"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "gcrocket.wad",
+	"name": "Gravecat's Rocket Arena v1.1",
+	"description": "This is your typical, standard rocket arena. It's fairly simple as far as maps go, but it was my first foray into map-making since I was a kid. There's four starting points, plenty of ammo and powerups lying around, plus a secret area in the middle which can only be opened by activating two switches.",
+	"date": "2014-12-15 22:15:14",
+	"files": [
+		{
+			"filename": "gcrocket.wad",
+			"size": 65491,
+			"crc": 4220878860,
+			"md5": "09fcf08477f89d79b50fbf26f797f300",
+			"sha1": "01b52803899fe7076d8a7370ab6aeb4adb5e191b",
+			"sha256": "5577d7a0c81c7c5404133c1795d15261fb3e841f4cfac4a34c7f6c151a553add"
+		}
+	]
+}

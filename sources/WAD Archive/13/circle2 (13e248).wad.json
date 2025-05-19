@@ -1,0 +1,17 @@
+{
+	"uid": "circle2 (13e248).wad",
+	"name": "CIRCLE2.WAD",
+	"description": "Designed to allow easy escape and ambushes, four main rooms connected by passages to each other surround a central room. Around this is a loop of dim tunnels dug into the earth. Secret doors and teleports.",
+	"version": "13e248",
+	"date": "2013-11-02 16:37:23",
+	"files": [
+		{
+			"filename": "circle2.wad",
+			"size": 179560,
+			"crc": 1220165382,
+			"md5": "3f98f81eb232dec4fae4f6b93e5d80f1",
+			"sha1": "13e24841362c8872936217e610dd06a975157dcb",
+			"sha256": "df2de573c498e7f8e8da1bb601db516b71739b9f93a2f0ee421952015f39e92f"
+		}
+	]
+}

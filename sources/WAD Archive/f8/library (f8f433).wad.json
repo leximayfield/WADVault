@@ -1,0 +1,17 @@
+{
+	"uid": "library (f8f433).wad",
+	"name": "LIBRARY.WAD (version 2)",
+	"description": "You are in the school library. The usual rules apply, silence must be maintained at all times, you must obey orders from the cheif Hitler (sorry, that should read Librarian), and you must not fiddle with the settings on the old 386's. It's the usual fight to the death in the library as you grab a few crappy old books and neatly craft them into some rudimentary weapons using almost all of the library's supply of 'Post-It' notes. Unfortunately for you, your weapons have been confiscated and you must win them all back in order to kill the mutated Mrs. Leech (an imp) and Mrs. Christophers (a demon), and report that the US Government has been conducting genetic experiments on librarians to change them into human form (this has obviously not worked, dedela dedela da da da). You can also kill anybody who actually uses the library for the purpose it is designed for (to do work and read books) and also you can kill anyone else you want.",
+	"version": "f8f433",
+	"date": "2013-04-22 00:51:04",
+	"files": [
+		{
+			"filename": "library.wad",
+			"size": 341888,
+			"crc": 1617705075,
+			"md5": "40631f8f08e2bba57fbb6003f081e14d",
+			"sha1": "f8f43351de8ad7c29675988b9214578f98bdec5a",
+			"sha256": "7217a9f733bd2edfbad9280c13de3df6f60bca2685e44b591fbe5b747b790330"
+		}
+	]
+}

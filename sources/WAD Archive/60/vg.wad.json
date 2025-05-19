@@ -1,0 +1,16 @@
+{
+	"uid": "vg.wad",
+	"name": "VooDoo Guns",
+	"description": "Two levels for 'advanced' MBF compatible ports.",
+	"date": "2013-04-19 02:32:22",
+	"files": [
+		{
+			"filename": "vg.wad",
+			"size": 161965805,
+			"crc": 2763064958,
+			"md5": "6724f9242e597fd4a524bf4f96204f9f",
+			"sha1": "60616b429af5a5d6be255e4224cfbe0b6e3a6581",
+			"sha256": "7f114ea80956903e6496be2a46663d14203fb0367351cfb91f3b40b78e70e5cb"
+		}
+	]
+}

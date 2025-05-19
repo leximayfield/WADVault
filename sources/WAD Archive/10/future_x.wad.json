@@ -1,0 +1,16 @@
+{
+	"uid": "future_x.wad",
+	"name": "FutureTic",
+	"description": "Well, as soon as I got my hands on a copy of Heretic, I started playing it like mad. However, the weapons kind of annoyed me, with all their medieval type stuff. I needed GUNS!!! Therefore, I started working on a weapon replacement for heretic, and now I've finished it. Here it is. However, All the weapons behave exactly like their Heretic counterparts, since I have no way to change the weapon behaviors. Anyway, I still hope you enjoy it just the same. :P",
+	"date": "2014-12-11 22:30:21",
+	"files": [
+		{
+			"filename": "future_x.wad",
+			"size": 843631,
+			"crc": 70846453,
+			"md5": "fe3fda677746a0c0f1e395dc24f7217e",
+			"sha1": "10f39690b4f899f24e1467de80a0752317725b4c",
+			"sha256": "8c8fbf220b90e5cf8ea93dbf873c20be38397f610c0543782ef268246e0ef3d3"
+		}
+	]
+}

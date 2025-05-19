@@ -1,0 +1,16 @@
+{
+	"uid": "rboulder.wad",
+	"name": "Rolling Boulders Resource",
+	"description": "Remember that large rolling boulder in Indiana Jones, or the same obstacles in Tomb Raider? Well, now you can place them in your Doom maps to squash and flatten players and monsters alike! Rolling Boulder user guide: -Use ZDoom Doom in Hexen map format. -Place BoulderStart actor in map facing direction you wish boulder to roll. -Assign the BoulderStart actor a thing tag. -To trigger the boulder to start rolling, have the player activate thing action 130 (Thing Activate) with the boulder's thing tag. Also, see BTESTMAP.wad (map01) for example. Step onto the silver pads to trigger the boulders to roll.",
+	"date": "2014-12-11 22:16:35",
+	"files": [
+		{
+			"filename": "rboulder.wad",
+			"size": 177972,
+			"crc": 2025218627,
+			"md5": "737a1e80a3851bef7235e830b6555c4a",
+			"sha1": "8279b4a1dfa0c8c0fb1f4562235d4f1ecd457719",
+			"sha256": "a450f1e7a743438c177e0dfab2eeac9bc2f8ca82814411009e04fcd7c5fd3d0b"
+		}
+	]
+}

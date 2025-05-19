@@ -1,0 +1,16 @@
+{
+	"uid": "PC_CP.wad",
+	"name": "DOOM 2 UNLEASHED (Pcorf community project)",
+	"description": "Welcome to DOOM 2: UNLEASHED - An all new 32 level megawad for DOOM 2 put together by various authors in the community. Known as the Pcorf Community Project at the Doomworld forums. After the release of Whispers of Satan I wanted to make a community megawad.",
+	"date": "2013-04-22 00:13:03",
+	"files": [
+		{
+			"filename": "PC_CP.wad",
+			"size": 30079583,
+			"crc": 4268571297,
+			"md5": "4335594680ea4ebd751d886756496906",
+			"sha1": "058aee7bb513c17e46406c59141e331fa8bfce47",
+			"sha256": "28846a2eb459e9383ab47764a9fb609036c734584dc7d543664a60bab49c6f65"
+		}
+	]
+}

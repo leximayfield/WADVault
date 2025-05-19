@@ -1,0 +1,17 @@
+{
+	"uid": "FASTER1 (2ffef5).wad",
+	"name": "FASTER.WAD",
+	"description": "Kill and survive.",
+	"version": "2ffef5",
+	"date": "2013-11-02 15:16:48",
+	"files": [
+		{
+			"filename": "FASTER1.wad",
+			"size": 19736,
+			"crc": 97202316,
+			"md5": "59b1046d59caa94092da12ae966d1844",
+			"sha1": "2ffef551fc7404f3ed5a6a44e5259d86ef6337d7",
+			"sha256": "89ff3e3655f0fc0e20e6d444f1cd16b2973cae8140045855bbd260a4a1a8d76e"
+		}
+	]
+}

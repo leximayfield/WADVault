@@ -1,0 +1,17 @@
+{
+	"uid": "ZONE (b2c55d).wad",
+	"name": "Zone",
+	"description": "Designed specifically for DM 2.0 with respawning monsters.",
+	"version": "b2c55d",
+	"date": "2013-11-02 15:09:19",
+	"files": [
+		{
+			"filename": "ZONE.wad",
+			"size": 61120,
+			"crc": 1081565763,
+			"md5": "874a6b3be1906293c227729ff9014d8d",
+			"sha1": "b2c55dc7ca6554091491d6b31d83931d19607bf5",
+			"sha256": "8ede5ab5465d0d54e1472619cca89ec88b28c99c3ca28b81b06ee95b729ebd93"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hellmart.wad",
+	"name": "HELLMART.WAD",
+	"description": "This level replace Episode 1, Map 1. It is a stand-alone level and is not meant to blend in with the standard DOOM levels. It is modeled after the grocery store that we work in...hence the name hellmart. We tried to duplicate the store as closely as possible. We even included a cardboard baler and meat cooler. The wad plays well in a deathmatch. You never know what aisle your opponent is hiding in.",
+	"date": "2013-11-03 17:49:11",
+	"files": [
+		{
+			"filename": "hellmart.wad",
+			"size": 110420,
+			"crc": 371617703,
+			"md5": "88ae9c7ab37f20ede1e9122d8e816e2b",
+			"sha1": "e9f294374c0796a85100935a997a6eeac6f2c68d",
+			"sha256": "e912a95e343561cfbfff5db6eb989e4a38943105d6e88ff2eea7b0eb0d19b089"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "onslaught (c13351).wad",
+	"name": "Onslaught DM",
+	"description": "A set of fast deathmatch, it varies from Quake 1 style to quake 2 style. Plus some strange new designs. And a complete new texture set I've done (GodCells).",
+	"version": "c13351",
+	"date": "2013-04-19 04:15:16",
+	"files": [
+		{
+			"filename": "onslaught.wad",
+			"size": 3767956,
+			"crc": 2257068520,
+			"md5": "858aa5521300601216eaddcc8124b165",
+			"sha1": "c133510407b0f65f18e869050ebb9be3c1eff4c8",
+			"sha256": "e64990a8cb5aaea012c6451c1e7f8652a64409d4ca0de7920de80362b9846f0e"
+		}
+	]
+}

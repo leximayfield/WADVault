@@ -1,0 +1,16 @@
+{
+	"uid": "cbpand.wad",
+	"name": "cbpandemonium",
+	"description": "A map made to recreate the magic that was Sandy Peterson's Pandemonium map from Doom.",
+	"date": "2014-12-13 12:44:25",
+	"files": [
+		{
+			"filename": "cbpand.wad",
+			"size": 249814,
+			"crc": 994217327,
+			"md5": "e4543da3bcfd99c487ec56dc5cbdde17",
+			"sha1": "6fec0901a2dd6d80b27e66b7103f4bae724ee8dc",
+			"sha256": "a7c095a1316206ed6f2ae3e129ee475e4a77bfb2a9cacdfd3a351f6ae3a791ea"
+		}
+	]
+}

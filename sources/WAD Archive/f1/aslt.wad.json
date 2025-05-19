@@ -1,0 +1,16 @@
+{
+	"uid": "aslt.wad",
+	"name": "Acid Assault",
+	"description": "\"You have been sent to test out a new HEV suit that supposedly can withstand the acidic liquids found pouring out of Mount Zenith on the planet Reaver. The rocky ball of hell known as Reaver is covered by a harsh landscape recently captured by the forces of dwelling demons that lurked below. The damn things are not going to make this field test easy... Get out of that mountainous area and try to find a way home soldier!\" Acid Assault is an experimental map I made that serves no other purpose than to test out my ability to make rocky, mountainous areas using primarily 2 or 3 textures. Varied light levels were used to achieve this goal, I think it came out rather well. I also made it an actual single player map, so there is that to do as well.",
+	"date": "2015-12-29 13:31:08",
+	"files": [
+		{
+			"filename": "aslt.wad",
+			"size": 617607,
+			"crc": 2065984738,
+			"md5": "25cfb9893eb6cef11295e8da2c2dc712",
+			"sha1": "f18149eb3e6eec7e4ee537d7c5fd6a38929b8167",
+			"sha256": "be1bcc50cf38e619e12857917286259f184a776428721228947b7c61e47616c3"
+		}
+	]
+}

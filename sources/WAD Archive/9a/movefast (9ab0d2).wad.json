@@ -1,0 +1,17 @@
+{
+	"uid": "movefast (9ab0d2).wad",
+	"name": "movefast.wad",
+	"description": "A single player or Two player cooperative wad. Lots of teleporters and moving targets. Moves fast. Nice break from deathmatch wads.",
+	"version": "9ab0d2",
+	"date": "2013-11-04 19:24:22",
+	"files": [
+		{
+			"filename": "movefast.wad",
+			"size": 64899,
+			"crc": 890958790,
+			"md5": "af041b5f706d037b28e811e864b60b9d",
+			"sha1": "9ab0d258fad6ce4f24cba23545624b443bc8cb60",
+			"sha256": "b3f1147ea832a8d17ea20517b5e8301cd75761bbe969c232c98b53fa0110ad9b"
+		}
+	]
+}

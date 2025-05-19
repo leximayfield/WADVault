@@ -1,0 +1,16 @@
+{
+	"uid": "dmc_dm.wad",
+	"name": "DMC Deathmatch MapPack",
+	"description": "A wad dedicated to mi DooM Clan: DooM Cazuela",
+	"date": "2014-12-15 22:28:37",
+	"files": [
+		{
+			"filename": "dmc_dm.wad",
+			"size": 5656184,
+			"crc": 1020818603,
+			"md5": "986a9d5f140302d89bf9139b1f353eb0",
+			"sha1": "12e84f8034523991080a56006443565ec88c23de",
+			"sha256": "f609dfc34fc968e372de043c849d411d8e0fcefc1e7920fab139907f8a9b10c1"
+		}
+	]
+}

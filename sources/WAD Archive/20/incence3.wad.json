@@ -1,0 +1,16 @@
+{
+	"uid": "incence3.wad",
+	"name": "Innocence III",
+	"description": "A 5 level (+1 secret level) mapset for DooM II. It is a reimagining of the Hell on Earth storyline. The maps were made to emulate the feel of E4 maps from Ultimate DooM and Doom II.",
+	"date": "2014-12-24 17:15:55",
+	"files": [
+		{
+			"filename": "incence3.wad",
+			"size": 811389,
+			"crc": 3275266870,
+			"md5": "4e1c94f55dff75603bbf9cec88c8c66b",
+			"sha1": "2070f35f774033854c4c74ffe317925f36851465",
+			"sha256": "e18118ed1c70dad98d807b36a994e6388aacb9e12f55fc0a629e1b05855d75f4"
+		}
+	]
+}

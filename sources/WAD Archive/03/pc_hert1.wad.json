@@ -1,0 +1,16 @@
+{
+	"uid": "pc_hert1.wad",
+	"name": "Candy choppers",
+	"description": "My first released Heretic level, replaces E2M1. Very small. Gameplay probably not perfect, I don't know much about Heretic. But I tried to make it an okay level.",
+	"date": "2014-12-30 11:26:21",
+	"files": [
+		{
+			"filename": "pc_hert1.wad",
+			"size": 65691,
+			"crc": 1639035562,
+			"md5": "317acb581105c22aadd05c70af2edce7",
+			"sha1": "03fa46cad0bfe81f27f8494d2538f9deae767d0e",
+			"sha256": "a5d01eabe9692e7b8c78f216964fce75c988ab550dee4933a438f390207d2cd5"
+		}
+	]
+}

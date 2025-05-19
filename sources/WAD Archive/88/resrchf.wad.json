@@ -1,0 +1,16 @@
+{
+	"uid": "resrchf.wad",
+	"name": "Research Facility",
+	"description": "A Research Facility has been overrun by demons & monsters. You and one other person from the marine base have decided to go in and clean up.",
+	"date": "2014-12-29 09:03:54",
+	"files": [
+		{
+			"filename": "resrchf.wad",
+			"size": 4590937,
+			"crc": 353671002,
+			"md5": "218bb22509c2f05c9676c72e67b20a89",
+			"sha1": "88d5fe0e5fa5ad646ceb2e1f0eb7cfb1c8ff5c9d",
+			"sha256": "b3029b3e25a46846ad2ab44f2cbc348dc88f9eee7462dbfa7331b2b3826ffa65"
+		}
+	]
+}

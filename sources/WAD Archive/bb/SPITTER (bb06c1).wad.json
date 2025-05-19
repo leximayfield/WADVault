@@ -1,0 +1,17 @@
+{
+	"uid": "SPITTER (bb06c1).wad",
+	"name": "SPIT.WAD",
+	"description": "A new episode. Not just original levels with 10 Barons of Hell on level 1! This might not challenge DOOM veterans very much. But, if you're like me, and just play DOOM for 5 minutes then quit, this is for you!",
+	"version": "bb06c1",
+	"date": "2013-11-02 15:09:59",
+	"files": [
+		{
+			"filename": "SPITTER.wad",
+			"size": 248706,
+			"crc": 896327308,
+			"md5": "f986cc7f3b35a6bfffe8cdb8f78e1d2a",
+			"sha1": "bb06c126d061b441afe9d3e0df32f44324c0cdeb",
+			"sha256": "a43e2df90e6f3b79deb504e2a944b423876c79663aeb995e917814c2dc922c50"
+		}
+	]
+}

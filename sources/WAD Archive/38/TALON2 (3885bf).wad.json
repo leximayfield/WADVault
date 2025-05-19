@@ -1,0 +1,17 @@
+{
+	"uid": "TALON2 (3885bf).wad",
+	"name": "TALON2 - 9 DOOM ][ REPLACEMENT LEVELS",
+	"description": "Another collection of 9 DEATHMATCH-ONLY wads for Doom ][. Included are: FALLOUT.WAD (orig by me) NEW2.WAD (Underhalls remake by me) BALLROOM.WAD(from TLR-II) ARSENAL.WAD (from TLR-II) DEJAVU5.WAD (e1m5 remake by me) RUINS.WAD (orig by me) PAIN2.WAD ( \" ) - my first wad :) IGORONE.WAD (from IGORX) IGORFOUR.WAD( \" )",
+	"version": "3885bf",
+	"date": "2014-01-07 22:05:13",
+	"files": [
+		{
+			"filename": "TALON2.wad",
+			"size": 1109011,
+			"crc": 688108969,
+			"md5": "db32f58a1decbf38e65378c0b34fd206",
+			"sha1": "3885bf9b4c67c5506d7d26d92834255f211c3e8c",
+			"sha256": "d6f137f5698650f0459c935a50f9a824150bf827e031363273f0786ed5e51215"
+		}
+	]
+}

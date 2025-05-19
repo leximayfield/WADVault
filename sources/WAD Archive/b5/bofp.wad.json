@@ -1,0 +1,16 @@
+{
+	"uid": "bofp.wad",
+	"name": "Beware of False Prophets",
+	"description": "One map inspired by the Death Tormention series. Uses music from Whipsers of Satan map27.",
+	"date": "2014-11-10 18:06:57",
+	"files": [
+		{
+			"filename": "bofp.wad",
+			"size": 759502,
+			"crc": 930144063,
+			"md5": "58e06d66511b820c0cdd68d0f25d8365",
+			"sha1": "b5b1865de8eaef185e351f27a5d211d528a3891f",
+			"sha256": "d6e184bf3a0edb75d0346d5e786f4ff37422b0fde7181056c4fc490138c1a0d7"
+		}
+	]
+}

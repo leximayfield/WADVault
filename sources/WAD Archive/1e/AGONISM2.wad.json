@@ -1,0 +1,16 @@
+{
+	"uid": "AGONISM2.wad",
+	"name": "Agonism2.WAD",
+	"description": "This is the follow up level for agonism.wad. It is a much more complicated deathmatch wad, consisting of an arena with four towers and a lot of teleportation. It is a medium sized level, and three or four players are recommended. All weapons (except for plasma weapons) are available, along with ammo. Health is available dependent on skill level. The idea for this wad came from an article on r.g.c.d.editing, about using teleporters to increase the number of deathmatch positions. This wad is my own interpretation of that idea. By using the teleporters, all areas of the level are accessible. I hope everyone enjoys it.",
+	"date": "2014-08-30 14:34:11",
+	"files": [
+		{
+			"filename": "AGONISM2.wad",
+			"size": 80643,
+			"crc": 2991763908,
+			"md5": "0edbf3e581857198cc9af4f01e4aaf77",
+			"sha1": "1e0daedfbc5b972a49f9705c6e427d3c33693229",
+			"sha256": "58f160948fbb890ec163abffce0b2f60dc3a67ce497df4743daf7d0d7f669c3d"
+		}
+	]
+}

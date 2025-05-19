@@ -1,0 +1,17 @@
+{
+	"uid": "king (8d08d5).wad",
+	"name": "King of the Fort   \"KING.WAD\"",
+	"description": "King of the Fort is designed for multiplayer DEATHMATCH. There are no monsters. The purpose is obvious, be the one to occupy the Castle and try to keep everyone else out!",
+	"version": "8d08d5",
+	"date": "2013-11-03 17:48:14",
+	"files": [
+		{
+			"filename": "king.wad",
+			"size": 97082,
+			"crc": 967637545,
+			"md5": "99b63e5491afe7900cd62775d1f4b49e",
+			"sha1": "8d08d50cde05bc41755cb4a65e480f61aec1b525",
+			"sha256": "087968176a67e4d6715ca596c9e1e86bd453cc7389b5e4e5beeed18852425ab6"
+		}
+	]
+}

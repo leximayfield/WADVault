@@ -1,0 +1,16 @@
+{
+	"uid": "bloodreactor.wad",
+	"name": "Blood Reactor",
+	"description": "Blood Reactor is a single vanilla Doom 2 level designed to be short and fun. It features 6 secrets, plus a few pseudo-secrets. All of the weapons are available. It is intended to be challenging but not frustrating. It has high variety, low tedium, and careful use of map layout, lighting, and gameplay to create a tight and polished experience. The theme/story of the level is that you've infiltrated a \"blood reactor\" (an energy fusion power plant fueled by blood instead of nuclear fusion) in hell and need to shut it down to hinder hell's energy resources and then to escape out through the sewage system of the reactor. I hope you enjoy it! For reference, the available secrets are: (1) the invisibility powerup room, (2) the super shotgun, (3) the BFG room, (4) a smarter way to handle the BFG room, (5) the soulsphere room, and (6) the rocket launcher. Try to see if you can get them all without cheating! Some are easy to find and some are hard.",
+	"date": "2019-08-20 12:59:25",
+	"files": [
+		{
+			"filename": "bloodreactor.wad",
+			"size": 629185,
+			"crc": 3145085578,
+			"md5": "9e4217cc1254e5e3d945adc4f220c59b",
+			"sha1": "66d6d9c0fc16a375c2a9f997b164fcc202714f54",
+			"sha256": "61c25b019265a5fd96eb4244d077323c2cf71a516da73b1189bffef38c973051"
+		}
+	]
+}

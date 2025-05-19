@@ -1,0 +1,16 @@
+{
+	"uid": "smoothweaps.wad",
+	"name": "Smooth Weapon Animations",
+	"description": "Smooth HUD weapon animations converted to Dehacked",
+	"date": "2015-09-14 23:20:07",
+	"files": [
+		{
+			"filename": "smoothweaps.wad",
+			"size": 296448,
+			"crc": 1224300699,
+			"md5": "83fc7535fa3ecdeace4ccd8d0b6c87a6",
+			"sha1": "497f25fa912f36748879e6c81459742c884be947",
+			"sha256": "0b6428efaed83300891906de5a84d23b2d991a3f2cf8c1f828a7e63abc021186"
+		}
+	]
+}

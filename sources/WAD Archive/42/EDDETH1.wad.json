@@ -1,0 +1,16 @@
+{
+	"uid": "EDDETH1.wad",
+	"name": "Ed Deths Castle",
+	"description": "This is the first level I have made availble to the public, some feedback would be nice. It is a castle designed for death match but can be played single; or co-op if you are wimps.",
+	"date": "2014-10-14 21:23:37",
+	"files": [
+		{
+			"filename": "EDDETH1.wad",
+			"size": 80346,
+			"crc": 3797227084,
+			"md5": "93623955f0ea9e3cb3c8107774145db3",
+			"sha1": "428ff4905950b8f47beca06f703bca220e04c2fa",
+			"sha256": "632784545c618ec968a1f7bc16ee8a936134ab6eb365680305cbb7264651115e"
+		}
+	]
+}

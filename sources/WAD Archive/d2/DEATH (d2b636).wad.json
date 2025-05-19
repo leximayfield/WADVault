@@ -1,0 +1,17 @@
+{
+	"uid": "DEATH (d2b636).wad",
+	"name": "Annex Of Death",
+	"description": "This WAD should be used with ANNEX.WAD by Ryan McGrail. We designed them together.",
+	"version": "d2b636",
+	"date": "2016-02-07 20:26:11",
+	"files": [
+		{
+			"filename": "DEATH.wad",
+			"size": 168733,
+			"crc": 3995179373,
+			"md5": "ff50aa6e5a47e147f4f8bf0ee5a5ccc5",
+			"sha1": "d2b63658e954275c5854ece67c29e49edbc5a48c",
+			"sha256": "a2da643082c3d7ecc6226d36773d29aba709ad77edb8b5fc5021040c98d469a6"
+		}
+	]
+}

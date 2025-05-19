@@ -1,0 +1,16 @@
+{
+	"uid": "die1.wad",
+	"name": "Die1",
+	"description": "Die1.wad is a large level (over 200k unzipped). People play deathmatch and the such but I got my Doom2 GrandMaster title by playing single player! Level is spread out and I've tried to design it so you have to visit the entire level. My philosophy is when you play single or coop play that \"everything dies!\" This level will not change in monster distribution no matter what skill level you choose. Coop is fun as well! For you deathmatchers out there I have included a small deathmatch arena. Remember, no cheating!",
+	"date": "2014-12-18 23:14:40",
+	"files": [
+		{
+			"filename": "die1.wad",
+			"size": 223521,
+			"crc": 919736560,
+			"md5": "d9c61a7f1317c524432e62347d05c06b",
+			"sha1": "909aa24c5350f5aa03d8e19ab3dfc7d2c5a46f53",
+			"sha256": "0ec271dd279accc3386cdbd1d30e3329474a61104ab87e49696e2b351144637b"
+		}
+	]
+}

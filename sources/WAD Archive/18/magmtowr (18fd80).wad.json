@@ -1,0 +1,17 @@
+{
+	"uid": "magmtowr (18fd80).wad",
+	"name": "Magma Tower",
+	"description": "Last year, Hell's invasion of Earth took us by complete and total surprise. We had no idea how to stop them, much less where they were coming from. But now, it seems we have the answer to both of these questions.",
+	"version": "18fd80",
+	"date": "2015-01-13 21:34:16",
+	"files": [
+		{
+			"filename": "magmtowr.wad",
+			"size": 6985877,
+			"crc": 379609296,
+			"md5": "1890afe13694bd14c26037ef06b5fca8",
+			"sha1": "18fd80939d7845bb5a285a306c5ddbf692e70ecb",
+			"sha256": "212d8199d5c0ffd4a4972febacb5667c6d25fd9f3b593a420213e2b3c51c9a7e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "moddm2.wad",
+	"name": "MoDDM2",
+	"description": "My second deathmatch pack. All levels have been made special just for this, exeption map05 wich is a moddm1 map :). I worked hard on these maps trying to make them perfect in both detail and gameplay, especially gameplay. According to the beta testers, I succeded. Enjoy!(look below for level descriptions and gameplay settings)",
+	"date": "2014-12-15 21:57:33",
+	"files": [
+		{
+			"filename": "moddm2.wad",
+			"size": 1130627,
+			"crc": 94911061,
+			"md5": "cb5f2dad390a9998a2c33812951a230c",
+			"sha1": "3eb12ee46a5b0394576a3d3cc31bc18b550b82e3",
+			"sha256": "0426fa59e35bf050b277c5be1915ff12b1a0985b60a4c35d75f26be758e3deee"
+		}
+	]
+}

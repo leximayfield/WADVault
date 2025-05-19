@@ -1,0 +1,17 @@
+{
+	"uid": "TLABS (ef3fc7).wad",
+	"name": "The Abandoned Labs",
+	"description": "An short wad which is set in, as you see in the title, The Abandoned Labs, features 3D floors and 4 new textures. Like i said before it is short and it can be finished in 3-4 mins. Oh and also this wad features new scripts.",
+	"version": "ef3fc7",
+	"date": "2014-12-29 17:05:06",
+	"files": [
+		{
+			"filename": "TLABS.wad",
+			"size": 133686,
+			"crc": 2748106448,
+			"md5": "74335978c5c70a1e5c6d39cd9b20511b",
+			"sha1": "ef3fc7b0e74cc8847da3e12ecaf548e868bdaca3",
+			"sha256": "dd343ea336dbed919879b99f6b41a57f61d598265f355297e86bc6b3d6d32685"
+		}
+	]
+}

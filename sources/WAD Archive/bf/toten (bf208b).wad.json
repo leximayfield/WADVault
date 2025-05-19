@@ -1,0 +1,17 @@
+{
+	"uid": "toten (bf208b).wad",
+	"name": "Escape from Totenhaus",
+	"description": "10-level WolfenDOOM adventure, featuring new",
+	"version": "bf208b",
+	"date": "2015-09-14 20:24:20",
+	"files": [
+		{
+			"filename": "toten.wad",
+			"size": 7069311,
+			"crc": 2774454775,
+			"md5": "03f91f7a4e425aab3934ec7230b9de27",
+			"sha1": "bf208ba430fb699309b548923c71289954e82cac",
+			"sha256": "015d2bfb0bf0b3a727d2f224431e157b7b121b0bc0b6283c0404a077c417f204"
+		}
+	]
+}

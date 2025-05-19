@@ -1,0 +1,17 @@
+{
+	"uid": "nmdu (be3f2b).wad",
+	"name": "The Ultimate NMD",
+	"description": "A deliberately underdetailed replacement of all of DooM, following the themes of each episode.",
+	"version": "be3f2b",
+	"date": "2018-05-28 22:52:33",
+	"files": [
+		{
+			"filename": "nmdu.wad",
+			"size": 2733204,
+			"crc": 3221211203,
+			"md5": "d6151100120cee1da3bdeb58903915a4",
+			"sha1": "be3f2bf5cd9cb69ecfa5dbbb3fb978d48d4f4e7a",
+			"sha256": "8c96c52aa1d69921d6f2a90471a206f982b3b46b35fe5faf41f7f9f68a96f9f0"
+		}
+	]
+}

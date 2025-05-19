@@ -1,0 +1,17 @@
+{
+	"uid": "shrine (ef67f7).wad",
+	"name": "Shrine of the Warriors",
+	"description": "This is my last level before DOOM ][. I will consider rebuilding this level and \"The Final Gathering\" for DOOM ][ when possible.",
+	"version": "ef67f7",
+	"date": "2013-11-02 15:12:55",
+	"files": [
+		{
+			"filename": "shrine.wad",
+			"size": 490965,
+			"crc": 1162774336,
+			"md5": "8a1bba4ca6a9c1ec3e0c7dc56398816e",
+			"sha1": "ef67f795a9d1b16e9917ebcd768d71a5b184cdf0",
+			"sha256": "5a472fb0c7cbb801248abed1778536cf3c797feb72231ee74c6d4c866239bcf3"
+		}
+	]
+}

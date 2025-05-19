@@ -1,0 +1,16 @@
+{
+	"uid": "dbmap07.wad",
+	"name": "Dead Simple: DooMBoy Edition",
+	"description": "My version of Dead Simple, REQUIRES ZDoom",
+	"date": "2014-12-22 18:37:20",
+	"files": [
+		{
+			"filename": "dbmap07.wad",
+			"size": 87243,
+			"crc": 4280515288,
+			"md5": "74b7fcfe581ddb516614fe5f4db3af8c",
+			"sha1": "ea2fd0b515871f47b92d8dd408f13d31c948eab6",
+			"sha256": "deb0bf48436d06832b982f063e123b466330b5cfe892afd7a4f92fa853a93b86"
+		}
+	]
+}

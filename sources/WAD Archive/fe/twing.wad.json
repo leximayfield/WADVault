@@ -1,0 +1,16 @@
+{
+	"uid": "twing.wad",
+	"name": "Terror's Wing",
+	"description": "Deathmatch only level. Supposed to be a floating arena in space or something. Nothing incredible... I made this to celebrate a friends' birthday (Happy Birthday Alex!)",
+	"date": "2014-12-15 22:18:49",
+	"files": [
+		{
+			"filename": "twing.wad",
+			"size": 1473316,
+			"crc": 3326809372,
+			"md5": "c3edd3221ac530f6fd8e497e0c0746b5",
+			"sha1": "fec609c01f1f5a3c3d1b7db6578dea1ad3274ac6",
+			"sha256": "d56076c1a8f43fc18a12315bc52863ed2f5dc7d864a935d6d0f9449bc9b8ac5a"
+		}
+	]
+}

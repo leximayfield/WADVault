@@ -1,0 +1,16 @@
+{
+	"uid": "strcoopa.wad",
+	"name": "Stranded Coop",
+	"description": "A set of four purely cooperative play-aimed maps. Map04 used to be in a separate wad called bcheese.wad. The intermission music is the intro of an ImpulseTracker tune called Mountain Paradise from the composer Oracle Soul. For Hannah's birthday, enjoy :)",
+	"date": "2013-04-19 01:03:18",
+	"files": [
+		{
+			"filename": "strcoopa.wad",
+			"size": 1253900,
+			"crc": 3464331556,
+			"md5": "1460f4dc5ef664f7372f2139761fed62",
+			"sha1": "616c1bd4746c8cd04d6570b2334db0edcf79e625",
+			"sha256": "be954e1bf5d6d884d7b0f6b87f8a965a567ab6818adcfc1553fe3525293e7c1a"
+		}
+	]
+}

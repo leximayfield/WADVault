@@ -1,0 +1,16 @@
+{
+	"uid": "rider01.wad",
+	"name": "RIDER01.WAD",
+	"description": "Actually my fourth DeathMatch WAD, but I kinda like it as a warm-up level. Pretty small, looks good (we'll I like it anyway ;)) and increase the frag count somewhat.",
+	"date": "2013-11-02 15:50:34",
+	"files": [
+		{
+			"filename": "rider01.wad",
+			"size": 91285,
+			"crc": 153384646,
+			"md5": "c27723066e4877cf82fd3705fc56f1a9",
+			"sha1": "66ed437a2168e7c3c702682b1787d85a54dcc7e9",
+			"sha256": "c5547a506d7f5e32e212052dcf551d869bde40705bdcc5e48cddf549cfcc6d4e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fear_isl.wad",
+	"name": "Fear Island",
+	"description": "You begin on the marbled rooftop of an island fortress. Work your way down two terraced levels, battling all your favorite foes. Note: although the chainsaw & berserk pack are sources of limitless entertainment, they usually serve a dual purpose, (i.e., they allow you to conserve ammo). Remember this. Although the architecture is not terribly detailed, the texture alignment is near perfect.",
+	"date": "2014-12-24 18:49:15",
+	"files": [
+		{
+			"filename": "fear_isl.wad",
+			"size": 229462,
+			"crc": 3540590949,
+			"md5": "f84ca33c4ad09e281ba597df3ca4c051",
+			"sha1": "ef8666e1fb58517c0938594ee87ec486ab1a9ba7",
+			"sha256": "4808bbc3295b3c901466144fe30a2a960409fb3eac1d5785d8e58ee0ef2e852b"
+		}
+	]
+}

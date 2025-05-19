@@ -1,0 +1,16 @@
+{
+	"uid": "pc_hellk.wad",
+	"name": "Hell Keep Remake",
+	"description": "Remake of Hell Keep which is a much more realistic design than the original map. I made this from scratch using complete memory and nothing is modified from the original. The map is designed to look more like a real keep than a rather stupid sand castle, etc. Gameplay is easy to medium in difficulty on UV. 25.02.07 - This version fixes the Exit Door bug in which the door sector was tagged but not the door lines. This would cause Vanilla Doom to crash and all the sectors in PrBoom to lower.",
+	"date": "2014-12-13 17:49:32",
+	"files": [
+		{
+			"filename": "pc_hellk.wad",
+			"size": 261953,
+			"crc": 172101357,
+			"md5": "5f8461e22b47197d429452fbdfb2468b",
+			"sha1": "f84b3a33bbd9021772f5456bd09125f25bc111c6",
+			"sha256": "0a6779cf798e2813ae6a63ba3b5da6b8e7b3545a58e32451895f9864fd3c9059"
+		}
+	]
+}

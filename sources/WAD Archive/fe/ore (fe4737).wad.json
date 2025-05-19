@@ -1,0 +1,17 @@
+{
+	"uid": "ore (fe4737).wad",
+	"name": "(dunno, can't think of one!)",
+	"description": "Made for deathmatch. Contains a few tricks, a switch that moves a lot of walls and a fake exit to stop that player that finishes to soon( the real one is hidden)",
+	"version": "fe4737",
+	"date": "2014-11-01 14:55:04",
+	"files": [
+		{
+			"filename": "ore.wad",
+			"size": 59412,
+			"crc": 1140621287,
+			"md5": "cc6907a5c2dd8ca76a08c79c3ddf26b1",
+			"sha1": "fe4737bc01ce87be0cb65ec9f08655081de4b11a",
+			"sha256": "034e02edecce8b7c0edddf7c2820179f448de57832ee9ccb173bc2251da8298e"
+		}
+	]
+}

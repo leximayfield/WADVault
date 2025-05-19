@@ -1,0 +1,17 @@
+{
+	"uid": "thelord (3e8602).wad",
+	"name": "The Lord",
+	"description": "Hey, I didn't include the .EXE files with the ZIPFILE for nothing! Check them out!",
+	"version": "3e8602",
+	"date": "2014-01-07 22:09:27",
+	"files": [
+		{
+			"filename": "thelord.wad",
+			"size": 936980,
+			"crc": 3446399057,
+			"md5": "8c4922f549e3ff7bc56dff031b02b644",
+			"sha1": "3e86027f9520986eaae2547e4f3efa052ff8ae35",
+			"sha256": "b576a19a05eca0c97451afe82b23cdf59c1bbc183ec194791548dad554b1fa20"
+		}
+	]
+}

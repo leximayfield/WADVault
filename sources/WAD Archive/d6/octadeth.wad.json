@@ -1,0 +1,16 @@
+{
+	"uid": "octadeth.wad",
+	"name": "octagon (hah with 16 sides) of death",
+	"description": "very simple map. sorta reminds people of map07 from DooM2.",
+	"date": "2014-12-15 22:32:36",
+	"files": [
+		{
+			"filename": "octadeth.wad",
+			"size": 39348,
+			"crc": 4217381062,
+			"md5": "a4b3d125cb88ee367e2d559cbe34db6d",
+			"sha1": "d6a74ce1ed319707473c253b1499406f8c0dd534",
+			"sha256": "39828458a4e0806a8a14793adbb0a1dd7ff679051646fcf1eda888556f54498b"
+		}
+	]
+}

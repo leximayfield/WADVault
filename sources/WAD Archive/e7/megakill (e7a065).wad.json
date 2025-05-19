@@ -1,0 +1,17 @@
+{
+	"uid": "megakill (e7a065).wad",
+	"name": "MEGAKILL.WAD",
+	"description": "This Wad is for DOOM ][ only. Designed for fast-kill, deathmatch play only. Many secrets in this wad. If you want maximum effectiveness, look at it with an editor (like Edmap). The key to a good deathmatch is knowing your level!",
+	"version": "e7a065",
+	"date": "2013-11-04 19:20:43",
+	"files": [
+		{
+			"filename": "megakill.wad",
+			"size": 42888,
+			"crc": 19350239,
+			"md5": "aa9d14b774a866f8e2b568fd952eeaef",
+			"sha1": "e7a06565d2e35dc0ead5bd036942d19e98bb821e",
+			"sha256": "ed460897ad9252451aded700d6cc19f8480c62394cd82dc31695090f760c6dad"
+		}
+	]
+}

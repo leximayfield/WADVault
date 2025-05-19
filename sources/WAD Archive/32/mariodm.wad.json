@@ -1,0 +1,16 @@
+{
+	"uid": "mariodm.wad",
+	"name": "Super Mario Doom",
+	"description": "8 bit mario doom nuff said!",
+	"date": "2013-04-18 23:06:36",
+	"files": [
+		{
+			"filename": "mariodm.wad",
+			"size": 4101060,
+			"crc": 598825625,
+			"md5": "6b6703c7024fa589f039af5f9af341bd",
+			"sha1": "32e0d04af0445c621b89ce71d3d5ea80fc33649f",
+			"sha256": "f2b1af26a36a3487cb8fb9259179bdfdefb0a2d094519488381fe17c072e5c5e"
+		}
+	]
+}

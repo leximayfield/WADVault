@@ -1,0 +1,17 @@
+{
+	"uid": "corridor (7a32a6).wad",
+	"name": "Corridors -O- Death",
+	"description": "A 4 player Deathmatch for Doom II, works fairly well for 2 players also. Basically this WAD is a square with four corridors connecting it to a larger square corridor. There are four rooms containing the weapons. All weapons are present in this WAD. The BFG is semi-hidden, though once you find it it is no problem to get. The main square is a pool of life stealing blood, with a column in the center that has a megasphere on it. The sphere will be hard to get unscathed in a 4 player match, as the apron around the blood pool is dark, and can easily be covered from a distance or upclose. The line defs that trigger the column to come down are too close to allow a turbo-ing player to whiz by without a shot being fired at him.",
+	"version": "7a32a6",
+	"date": "2014-12-03 20:14:46",
+	"files": [
+		{
+			"filename": "corridor.wad",
+			"size": 16336,
+			"crc": 3129293338,
+			"md5": "d636ad843d0244255a3b8e5332c46129",
+			"sha1": "7a32a6cb9fbf9380ce35dcccb9e31c9e56f3b72a",
+			"sha256": "c792b2034b732d2f3dfd751f005107a65087f1c563eabaf0b1524441b1368f0c"
+		}
+	]
+}

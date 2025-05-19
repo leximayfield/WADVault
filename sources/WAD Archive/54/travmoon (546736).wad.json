@@ -1,0 +1,17 @@
+{
+	"uid": "travmoon (546736).wad",
+	"name": "Travelling to the moon",
+	"description": "Was originally going to be a breather from my \"fortress of misery\" map but as I went on, it became clear that it wasn't gonna be as short ;)",
+	"version": "546736",
+	"date": "2018-04-16 07:47:47",
+	"files": [
+		{
+			"filename": "travmoon.wad",
+			"size": 10904980,
+			"crc": 3116421971,
+			"md5": "ec0eb6b814244a1650d10eed5963b8d7",
+			"sha1": "5467369bafffb455832d3ae66795e3cfea8d8ea6",
+			"sha256": "185463d72356021e0914e21e073d66647b39b6b552a6460ecfeca82766d12c21"
+		}
+	]
+}

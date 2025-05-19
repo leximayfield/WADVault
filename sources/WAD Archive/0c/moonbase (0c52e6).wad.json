@@ -1,0 +1,17 @@
+{
+	"uid": "moonbase (0c52e6).wad",
+	"name": "MOONBASE.WAD",
+	"description": "I started this about a year ago on my dads pc and never got around to finishing it, so I thought that It was about time to. I have no idea why I called it moonbase but it shouldn't be too bad for a four player game.",
+	"version": "0c52e6",
+	"date": "2015-09-14 20:34:24",
+	"files": [
+		{
+			"filename": "moonbase.wad",
+			"size": 209657,
+			"crc": 3041146972,
+			"md5": "8fc56d57af874677fc17b14c9c31f769",
+			"sha1": "0c52e67f57a3213f65a2a9739027e704636b73cf",
+			"sha256": "0d27eabcc6a982c7d19632efc83e4ebb628511782a9449e6ddd8c183fb25820b"
+		}
+	]
+}

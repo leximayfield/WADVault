@@ -1,0 +1,17 @@
+{
+	"uid": "mywad (91f578).wad",
+	"name": "My Wad",
+	"description": "Small but action Packed Wad!",
+	"version": "91f578",
+	"date": "2015-09-15 18:15:06",
+	"files": [
+		{
+			"filename": "mywad.wad",
+			"size": 43310,
+			"crc": 4289831521,
+			"md5": "7feedef65957082c13c5c7afb7616311",
+			"sha1": "91f578de56dfc2f4d06dcf35ec0897aa2f791bb5",
+			"sha256": "2674c081157e512f3f07648896aba4981e9c8951e1992d70d337ef8dd4771757"
+		}
+	]
+}

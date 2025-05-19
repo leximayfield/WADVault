@@ -1,0 +1,16 @@
+{
+	"uid": "inftemple.wad",
+	"name": "Infernal Temple",
+	"description": "some strange people just moved into your town. they've been performing sacrifices on animals (cute ones at that!), human-torture and other horrendous acts... go shut down their twisted organization.",
+	"date": "2014-12-24 18:52:57",
+	"files": [
+		{
+			"filename": "inftemple.wad",
+			"size": 253084,
+			"crc": 3488981070,
+			"md5": "106c13c86f6af3185ad00589c49de86f",
+			"sha1": "4819dd43a63ce0773e610b137fc91e32946c720d",
+			"sha256": "a08c5a3808ee2e36a6b56557f4c1d0b7dbd979d17580ce33841bbbb293051862"
+		}
+	]
+}

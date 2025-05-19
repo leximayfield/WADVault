@@ -1,0 +1,16 @@
+{
+	"uid": "mancer06.wad",
+	"name": "Mancer06.wad",
+	"description": "Awesome DM WAD ( similar to Mancer02.wad ) You should never be stuck with a handgun, unless you run out of ammo =) You will find all the weapons on the level except the BFG9000 and the Plasma Rifle.",
+	"date": "2018-06-21 11:29:29",
+	"files": [
+		{
+			"filename": "mancer06.wad",
+			"size": 45421,
+			"crc": 1175828900,
+			"md5": "1e232d41a5aa5cdd454a622f0224b95a",
+			"sha1": "17e1d72085464f9f118652b31f350eeb44b1a592",
+			"sha256": "73911a8647a2f49d4f04599f0fdfc569c93cb363a9d00e76873803cc0150a2ae"
+		}
+	]
+}

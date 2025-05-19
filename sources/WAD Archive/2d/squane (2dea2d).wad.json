@@ -1,0 +1,17 @@
+{
+	"uid": "squane (2dea2d).wad",
+	"name": "SQUANE",
+	"description": "Another spam map. This is a modified version of the first room of map23 from Drown in Blood, which was originally made in late 2005.",
+	"version": "2dea2d",
+	"date": "2013-04-19 09:29:25",
+	"files": [
+		{
+			"filename": "squane.wad",
+			"size": 895362,
+			"crc": 3024722498,
+			"md5": "a39db75eb71491fc96e543e80020ad59",
+			"sha1": "2dea2d4377a449eb4de56d7b4f6d7bb334c731ac",
+			"sha256": "60719195459e9e5893beb875bf6212855d110eb346631f083fea4b9efad168d6"
+		}
+	]
+}

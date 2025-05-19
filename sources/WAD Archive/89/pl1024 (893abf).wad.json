@@ -1,0 +1,17 @@
+{
+	"uid": "pl1024 (893abf).wad",
+	"name": "Plutonia 1024: The Plutinya Exeriment",
+	"description": "32 single player Plutonia-themed 1024 maps designed by various Doomworld community members.",
+	"version": "893abf",
+	"date": "2015-09-10 17:54:25",
+	"files": [
+		{
+			"filename": "pl1024.wad",
+			"size": 6270770,
+			"crc": 2766819344,
+			"md5": "a3c15442ccdf9e414862aa4dbc6d4d6a",
+			"sha1": "893abff85bea15bbfad80ccb71846dcea8bba677",
+			"sha256": "ad95df63745a8ce2de2cde422e31737212ea1f84810c9d915b757e4e82582562"
+		}
+	]
+}

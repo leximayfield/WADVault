@@ -1,0 +1,17 @@
+{
+	"uid": "NICKS1ST (afd2df).wad",
+	"name": "NICKS1ST.WAD",
+	"description": "This is my first attempt at WAD creation, but I think it's pretty good. I tried to capture that spooky, nerve- wracking feel; lots of darkness and monsters.",
+	"version": "afd2df",
+	"date": "2013-11-02 16:01:17",
+	"files": [
+		{
+			"filename": "NICKS1ST.wad",
+			"size": 76318,
+			"crc": 1626430541,
+			"md5": "6575c59a9f3fc69620c51f2c7ad36d8f",
+			"sha1": "afd2dff99a9d00b3115e51d24e065d536ab6d52d",
+			"sha256": "c63340f4670cce597a56377c161f6883a725928477e5d0d9a61e9f5325edf3d3"
+		}
+	]
+}

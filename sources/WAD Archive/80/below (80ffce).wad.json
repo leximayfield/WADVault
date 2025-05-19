@@ -1,0 +1,17 @@
+{
+	"uid": "below (80ffce).wad",
+	"name": "Below",
+	"description": "Reports of strange noises in the basement have brought you to a castle in Northern Europe. You go downstairs, gun in hand, to investigate, and now you're trapped there. It looks like someone's been busy redecorating the place, but that's ok. You have a few ideas of your own about color scheme. Time to get to work.",
+	"version": "80ffce",
+	"date": "2016-02-07 20:29:35",
+	"files": [
+		{
+			"filename": "below.wad",
+			"size": 214724,
+			"crc": 2544507762,
+			"md5": "d615251a042be48130b6ef49b594ea97",
+			"sha1": "80ffce76803ec65f3665fc0c4bc88a7604ea1b9a",
+			"sha256": "bb0e419d9c69f35e8ecb47444811c4fb43c27094f55428d96c28a1e60ce6e99c"
+		}
+	]
+}

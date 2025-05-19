@@ -1,0 +1,16 @@
+{
+	"uid": "deimoscc.wad",
+	"name": "Deimos Control Center",
+	"description": "Medium sized episode 2 styled level.",
+	"date": "2014-12-13 17:30:47",
+	"files": [
+		{
+			"filename": "deimoscc.wad",
+			"size": 124896,
+			"crc": 2783364266,
+			"md5": "80887deb3e587e82a7f58c621f72db7f",
+			"sha1": "466dc30ed911e4cd1c884a39ba6a31c08f0db61c",
+			"sha256": "265a41400ad5d29bcaddd5b7572fd06688aedf522f43c2b9e7c69d162c2e59a4"
+		}
+	]
+}

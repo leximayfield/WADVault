@@ -1,0 +1,17 @@
+{
+	"uid": "tower53 (b36acf).wad",
+	"name": "TOWER53.WAD",
+	"description": "This is my first attempt at a Doom level. It's currently beta version .53, and not setup for deathmatch or multi player. It's got one trap which requires restarting and one which kills you no matter what... So lemme know what you think...",
+	"version": "b36acf",
+	"date": "2013-11-02 15:17:05",
+	"files": [
+		{
+			"filename": "tower53.wad",
+			"size": 80437,
+			"crc": 152231110,
+			"md5": "f89b0f8efcb430ca0c8a991daacc6dc5",
+			"sha1": "b36acfdb1a3d0150afe424b6f54dc5abe761db24",
+			"sha256": "897c018f4545adc4a4058efe98a3f3eefa8ded6c556b1e18f47a8556863b62c4"
+		}
+	]
+}

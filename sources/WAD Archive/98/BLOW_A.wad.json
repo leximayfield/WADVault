@@ -1,0 +1,16 @@
+{
+	"uid": "BLOW_A.wad",
+	"name": "BLOW_A.wad (Pardon the pun)",
+	"description": "This is a great small, multi-frag level with a few spots to hide (don't stay too long though or KERSPLAT!). Great for two player... haven't tried multi.... let me know! Make sure you use the altdeath parameter for this level (-altdeath) and make sure you warp to level 17 (-warp 17).",
+	"date": "2014-08-30 14:26:36",
+	"files": [
+		{
+			"filename": "BLOW_A.wad",
+			"size": 16986,
+			"crc": 4215134792,
+			"md5": "413e167c8d0e3efca149a4a9976ef7ea",
+			"sha1": "983162d25a353f3d4a78b62f5c47be62281a7ba6",
+			"sha256": "2f1afb3a3ab4385978efda50c3c30a5aff0e1de0980bdb249638153eb443fc87"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "d2m.wad",
+	"name": "DooM 2 MooD",
+	"description": "The Mood is like Doom spelled backwards. Currently just 2 levels complete. Plan is for it to be 32 level megawad. There are some \"new\" textures, from Doom1, and one from Plutonia and some edits. Initially I intended there just to be the \"missing\" liquid fall textures, but couldn't resist adding my Tekwall modifications. There are some that aren't used yet, but I'll most likely use them later.",
+	"date": "2014-12-14 23:09:47",
+	"files": [
+		{
+			"filename": "d2m.wad",
+			"size": 1009361,
+			"crc": 1481527296,
+			"md5": "ea4c52222c283089abbbd8cb8b01241f",
+			"sha1": "d7765cd72daa99cf4827ab976bbbc41ee68026ff",
+			"sha256": "f2cf40eac518e8b5fe831c3932533d1b7164247e3fd38d24bff4017790a983c3"
+		}
+	]
+}

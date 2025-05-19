@@ -1,0 +1,16 @@
+{
+	"uid": "hotblood.wad",
+	"name": "HOTBLOOD.WAD",
+	"description": "One new level for E2M7. Red & hot textures and also hot gameplay.",
+	"date": "2018-05-29 19:53:58",
+	"files": [
+		{
+			"filename": "hotblood.wad",
+			"size": 73040,
+			"crc": 3535284989,
+			"md5": "165376623c51ce061e0403441502d0bb",
+			"sha1": "5fc52b50ba148b4493e80505c351c21170a42fa1",
+			"sha256": "d2311b34f9e907906c21ca64d82b66e2db7326720300585e54ddaf284d912000"
+		}
+	]
+}

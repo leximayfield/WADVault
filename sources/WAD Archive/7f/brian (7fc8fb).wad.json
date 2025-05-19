@@ -1,0 +1,17 @@
+{
+	"uid": "brian (7fc8fb).wad",
+	"name": "BRIAN for MAP01  DOOM2",
+	"description": "DOOM2 DEATHMATCH",
+	"version": "7fc8fb",
+	"date": "2013-11-04 19:20:40",
+	"files": [
+		{
+			"filename": "brian.wad",
+			"size": 24292,
+			"crc": 3854630153,
+			"md5": "4e08d1e702fc40793592c0b432c34a3c",
+			"sha1": "7fc8fbbedf4bf5c6f92d0e3d8c93fb84a7eb97b0",
+			"sha256": "c2277875bb2dec4942b4469626c6497d1a6481aaa67702c8515baf23f06b73a1"
+		}
+	]
+}

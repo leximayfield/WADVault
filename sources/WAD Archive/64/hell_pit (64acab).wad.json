@@ -1,0 +1,17 @@
+{
+	"uid": "hell_pit (64acab).wad",
+	"name": "Hell Pit",
+	"description": "I made this level sometime in '96. It's one of my earliest levels that wasn't lost or deleted. I was very happy with this map when it was finished. Playing it now, well, it has its moments but overall it's a silly place. The ending is rather stupid, after getting the blue key hit the switch next to the blue door then go back past the red skull barriers, a teleporter will have opened to your left. It takes you a room with three switches, the one near the dead marine will open a small room, I think you have to enter the room to open the blue exit door. It's dumb I know, don't ask what I was thinking.",
+	"version": "64acab",
+	"date": "2014-12-18 22:17:33",
+	"files": [
+		{
+			"filename": "hell_pit.wad",
+			"size": 269752,
+			"crc": 3033537021,
+			"md5": "dcce98c171ffce58faf1b8d75b2735fd",
+			"sha1": "64acab200fb8b6fcab72dfce9ee537148a9acb91",
+			"sha256": "8e5c79279bf0650108e958f3184848d6fda62b0dd6b056f0c8d7b726a57b678c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "deadlock (28fccf).wad",
+	"name": "Deadlock - Beyond Quad (DEADLOCK.WAD from DEADLOCK.ZIP)",
+	"version": "28fccf",
+	"date": "2014-12-18 23:19:47",
+	"files": [
+		{
+			"filename": "deadlock.wad",
+			"size": 313637,
+			"crc": 4071868671,
+			"md5": "7e937c66a187a67c23166cf8ba7129e1",
+			"sha1": "28fccf7f0d9c548146c3ded1cec328b72842f5b8",
+			"sha256": "150a95e112fd33deca10b67d4a309e3aa1e833d2b59b0c54d39bd4d39b1b1e48"
+		}
+	]
+}

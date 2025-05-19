@@ -1,0 +1,16 @@
+{
+	"uid": "oldrfnry.wad",
+	"name": "Old Refinery",
+	"description": "This level requires the ability to jump, wich is necessary to complete the level.",
+	"date": "2016-06-16 20:55:20",
+	"files": [
+		{
+			"filename": "oldrfnry.wad",
+			"size": 457019,
+			"crc": 3647548808,
+			"md5": "808987d20ef13b629e388264b58fb154",
+			"sha1": "a8077ae453e66faafa2c0bdde38b5077b46bce39",
+			"sha256": "fc572deceb01736bb44ded15cc02dc1d161a0e04cedc90515ae2fa1c4e200f07"
+		}
+	]
+}

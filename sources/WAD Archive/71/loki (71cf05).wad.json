@@ -1,0 +1,17 @@
+{
+	"uid": "loki (71cf05).wad",
+	"name": "Nightmares of Loki 1999",
+	"description": "Nightmares of Loki is a cryptic hallucinagenic Nightmare. This version contains 3 episodes and level starts to the 4th This game was started in 1995 under the name 'doom legacy' After a source port was discovered with the same name, it has been renamed in 1999 to 'Nightmares of Loki' The story is little to nothing but the levels are the focus. These levels are HUGE and they'll piss you off, so SAVEGAME! works great in zdoom, 2 levels crash in jdoom. made for the original 'Ultimate Doom' v1.9",
+	"version": "71cf05",
+	"date": "2014-12-14 20:53:27",
+	"files": [
+		{
+			"filename": "loki.wad",
+			"size": 12471414,
+			"crc": 3481770885,
+			"md5": "e6700c9a11e8ead1117e167de02360b0",
+			"sha1": "71cf05be7b91aa6ed5fe162dfe9eb473a530f5b9",
+			"sha256": "890b181862c25990ffbf36d58415dd4ae49160446407c288627c95c9c2f2105f"
+		}
+	]
+}

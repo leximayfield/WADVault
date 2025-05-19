@@ -1,0 +1,16 @@
+{
+	"uid": "rage_11.wad",
+	"name": "Rage_11.WAD",
+	"description": "This is the first level in a nine level episode currently under construction. Once all levels are complete all will be available in one wad file RageHell.wad including a complete story line. The final episode will actually replace e2m1-m9.",
+	"date": "2014-12-13 17:44:43",
+	"files": [
+		{
+			"filename": "rage_11.wad",
+			"size": 39629,
+			"crc": 4243430292,
+			"md5": "130298dd002d15ba9c84dbb9df488481",
+			"sha1": "cd74a08846a298f5734a198816eb6e41c8f3ac67",
+			"sha256": "456b91a0dd99b58a6e0c9c5e80ffa220119936e3042b283aeefe8335d7f47e6a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "esc_wolf (a7c22a).wad",
+	"name": "Escape From Wolfenstein",
+	"description": "A very Wolf3D 'feel'! Escape From Wolfenstein is tough... the tough part actually is finding the exit without cheat codes.",
+	"version": "a7c22a",
+	"date": "2013-11-02 15:20:07",
+	"files": [
+		{
+			"filename": "esc_wolf.wad",
+			"size": 123398,
+			"crc": 3462999680,
+			"md5": "60c655a4c209f64b07b43931c1623186",
+			"sha1": "a7c22ac09891c9d60669c52902e66c4deac45b6b",
+			"sha256": "27902276ac8a06940cdcb6873d42126877b5b299c2e917f943419dc62dd6ac5c"
+		}
+	]
+}

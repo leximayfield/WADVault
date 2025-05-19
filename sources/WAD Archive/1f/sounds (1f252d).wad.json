@@ -1,0 +1,17 @@
+{
+	"uid": "sounds (1f252d).wad",
+	"name": "RTC_Marine's Sounds Volume I",
+	"description": "A File Of Some Very Interesting Sounds/Music For DooM! Includes Sounds For: * Pistol * Shotgun * Chaingun * Rocket Launcher * Plasma Gun Includes Music For: * Map 1 Of Final DooM, DooM II * Map 2 Of Final DooM, DooM II * Episode 1 Mission 1 Of DooM/ Ultimate DooM",
+	"version": "1f252d",
+	"date": "2015-09-15 18:14:39",
+	"files": [
+		{
+			"filename": "sounds.wad",
+			"size": 121280,
+			"crc": 819147829,
+			"md5": "718c979a1c999462402caf2be0dfcde5",
+			"sha1": "1f252d6f014017b25a4eb63bdb8ceaf963a2ff6c",
+			"sha256": "f99f92132352078173472248ab6c02cb605cb55fe65246b8ac12e3642d29bff8"
+		}
+	]
+}

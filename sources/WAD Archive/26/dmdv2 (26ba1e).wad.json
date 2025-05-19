@@ -1,0 +1,17 @@
+{
+	"uid": "dmdv2 (26ba1e).wad",
+	"name": "DAVES2ND.WAD",
+	"description": "This is my second WAD, hence the catchy title. It's smaller than I would have liked, but most of the construction was done in DEU 5 and I started running out of RAM. It's subsequently been tidied-up in V5.2. I've tried to set it up as an alternative to E1M1 that can be played through, i.e. you won't start E1M2 with any advantages over the original in terms of usable weapons etc.",
+	"version": "26ba1e",
+	"date": "2013-07-09 20:21:34",
+	"files": [
+		{
+			"filename": "dmdv2.wad",
+			"size": 154363,
+			"crc": 13473920,
+			"md5": "983a60017b2cb09b6de1f115cac0cf57",
+			"sha1": "26ba1e7bff2b2f46c3451287b80e2bb2c9f35bec",
+			"sha256": "a41cbec8acb86617892881324c187472d2360228e6f7343e45205dc813fd652e"
+		}
+	]
+}

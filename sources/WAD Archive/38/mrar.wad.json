@@ -1,0 +1,16 @@
+{
+	"uid": "mrar.wad",
+	"name": "Munchies",
+	"description": "Small deathmatch wad. I don't know if it's any good. I haven't ever played deathmatch before. There is 1 BFG in the center of the level. It is all perfectly symmetrical.",
+	"date": "2014-12-15 23:16:08",
+	"files": [
+		{
+			"filename": "mrar.wad",
+			"size": 15789,
+			"crc": 3240061576,
+			"md5": "94170d33e62c449d3ad53fd147420265",
+			"sha1": "3852c04ba9310bf8592c6de140af7840bdc17093",
+			"sha256": "6bc59f7ade31976649f4486365a0c04be4d30fdd7e993c042e6c14cb1cdc3829"
+		}
+	]
+}

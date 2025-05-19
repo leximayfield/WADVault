@@ -1,0 +1,17 @@
+{
+	"uid": "hellbnd (a1302e).wad",
+	"name": "Hell Bound",
+	"description": "Its a huge multiplayer level.",
+	"version": "a1302e",
+	"date": "2013-07-09 20:23:23",
+	"files": [
+		{
+			"filename": "hellbnd.wad",
+			"size": 166413,
+			"crc": 1164813173,
+			"md5": "7dadcbd0dd362d520344e437a0c2701d",
+			"sha1": "a1302e1d373c380b2240e91d2900a8b8a6868b91",
+			"sha256": "49b02758686b482ecf9402d3609cf7d55026609390386597c627494c758dd3e9"
+		}
+	]
+}

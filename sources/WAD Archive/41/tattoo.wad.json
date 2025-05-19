@@ -1,0 +1,16 @@
+{
+	"uid": "tattoo.wad",
+	"name": "Tattoo for Doom II",
+	"description": "This wad is a compilation of all 5 wad files that I've made. They are placed in this wad in the order that I made them. The only change that I made to any level is that I put my own BBS ad in the panel that I made. You will see it as you play. Enjoy!!",
+	"date": "2015-01-14 23:04:00",
+	"files": [
+		{
+			"filename": "tattoo.wad",
+			"size": 887095,
+			"crc": 2955376982,
+			"md5": "f658318876123fa7c243a936c646dc30",
+			"sha1": "414a89b7608448870c3f2dda36a223e105052f78",
+			"sha256": "49cc6bb7340daca25346dedf3dae5f2fa2e3e40cdc40a4d72600a7c1c54523ec"
+		}
+	]
+}

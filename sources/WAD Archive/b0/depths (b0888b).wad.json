@@ -1,0 +1,17 @@
+{
+	"uid": "depths (b0888b).wad",
+	"name": "Depths of Insanity",
+	"description": "A short seven-map set - my first I've uploaded to the world. The story, as little as it matters, is: some time has passed since the events of the IWADs. Doomguy, now a little bit sick of all the demon killing, has to shut down yet another Hell portal the UAC created in some freakshow underground experiment. Have fun! -Nova",
+	"version": "b0888b",
+	"date": "2018-10-08 03:20:35",
+	"files": [
+		{
+			"filename": "depths.wad",
+			"size": 6722276,
+			"crc": 2300612807,
+			"md5": "54cc3dd0b43f6332dc48fabcf071ee55",
+			"sha1": "b0888bb736a221d7fb3717ad373034f48d86325c",
+			"sha256": "68f6c98e9d7750f5fa4933453b2c6bccb620c8995573dcfbfbc6ce02c220e431"
+		}
+	]
+}

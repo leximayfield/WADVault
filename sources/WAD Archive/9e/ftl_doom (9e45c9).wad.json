@@ -1,0 +1,17 @@
+{
+	"uid": "ftl_doom (9e45c9).wad",
+	"name": "For The Love Of DOOM",
+	"description": "Episode for classic DOOM",
+	"version": "9e45c9",
+	"date": "2019-04-09 21:57:03",
+	"files": [
+		{
+			"filename": "ftl_doom.wad",
+			"size": 2141348,
+			"crc": 2327521684,
+			"md5": "b6532c935ce2b41418c120d6733fe84e",
+			"sha1": "9e45c9dc1e42d6bc4a090511fe792736268dffee",
+			"sha256": "adfcf4c5c57b3915338d2e1d677f8bb7c2f41221dabf2b6c11b5cc13708fef50"
+		}
+	]
+}

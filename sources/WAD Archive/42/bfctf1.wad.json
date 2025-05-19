@@ -1,0 +1,16 @@
+{
+	"uid": "bfctf1.wad",
+	"name": "Crampy Steel",
+	"description": "A CTF map made with Mario Vasquez's sweet tech textures. A little cramped.",
+	"date": "2014-12-12 14:19:15",
+	"files": [
+		{
+			"filename": "bfctf1.wad",
+			"size": 470940,
+			"crc": 1640524333,
+			"md5": "a62c88e1bd9b11c2780731fc1c04eb90",
+			"sha1": "42dc2b48b2d78b57385b69c06e37619af21775a4",
+			"sha256": "6d9fa0447dfd9130d2eda283539684952d3756368c2b97cf6cd7b98bb4c72b0d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "redkey.wad",
+	"name": "Red Key for Heretic",
+	"description": "Just a little mod that replaces the yellow key with a red one. I made this for use in Shadowcaster, but due to the sprite-based nature of the red key stuff, it didn't take long to work out that it could be used anywhere, really. So here it is - play any wad you want with it, use it in your own wad if you want to.",
+	"date": "2014-12-30 11:24:44",
+	"files": [
+		{
+			"filename": "redkey.wad",
+			"size": 70648,
+			"crc": 841515483,
+			"md5": "c3c74ecbe5a6f01c6adbbb3840a29082",
+			"sha1": "1463965d7cc9043bf972a0d3fcb3306b70193fbf",
+			"sha256": "2bd722500982ec6158ef60f2ebedce20def69797e3a283b0ac1db9e986c39cd2"
+		}
+	]
+}

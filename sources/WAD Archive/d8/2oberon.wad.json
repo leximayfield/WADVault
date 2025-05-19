@@ -1,0 +1,16 @@
+{
+	"uid": "2oberon.wad",
+	"name": "OBERON BASE",
+	"description": "Idustrial base with lots of teleporting enemies. Watch your back!",
+	"date": "2014-12-15 19:08:04",
+	"files": [
+		{
+			"filename": "2oberon.wad",
+			"size": 383657,
+			"crc": 4152386203,
+			"md5": "3f0c6375a9ab7ebe3cc0e8365944ddd5",
+			"sha1": "d83567f474f8ecf6bbd22b414b047acb1ec397ef",
+			"sha256": "fb4500d874e0a63c51bf00b6f798cbc0698d2659402808e6128bd7db266457c7"
+		}
+	]
+}

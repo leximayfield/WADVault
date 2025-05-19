@@ -1,0 +1,17 @@
+{
+	"uid": "outpost (1ea3c5).wad",
+	"name": "Outpost.WAD",
+	"description": "The Story so far... An escape pod from Mars arrived several weeks ago and was quaranteened at a distant outpost near Mongolia. Recently, all contact was lost. The last message spoke of the guards and going insane. You (and your team??) have been sent in to investigate and determine if there are any survivors. Outpost is an idea I had for awhile and although this is my first attempt at construction of a custom .wad, I think I've done a decent job. There's a few puzzles, some dead ends, and a definite pattern for weapon use.",
+	"version": "1ea3c5",
+	"date": "2015-12-05 13:28:29",
+	"files": [
+		{
+			"filename": "outpost.wad",
+			"size": 175357,
+			"crc": 4285845827,
+			"md5": "40881224280d5790674b57d36744261d",
+			"sha1": "1ea3c5029c2a55e4c8653cd9fcba2806d113195b",
+			"sha256": "0b70c14766f4845183864cb8c0f8f8454f46613c1ad1cbf33bf1cd19b2860cd4"
+		}
+	]
+}

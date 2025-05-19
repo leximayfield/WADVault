@@ -1,0 +1,16 @@
+{
+	"uid": "cyberarena3.wad",
+	"name": "Cyber Arena 3",
+	"description": "Cyber Arena 3, a Legacy map with many special features, and scripted events.",
+	"date": "2014-12-21 16:52:14",
+	"files": [
+		{
+			"filename": "cyberarena3.wad",
+			"size": 6910709,
+			"crc": 3616713921,
+			"md5": "a4170886ddfecdc874e11089096237c7",
+			"sha1": "03b9e89b617890cc242338d6cd6dd018c0b35171",
+			"sha256": "57f05620d7df00c004c1a3e319697284407697c5a6b84dad6633f5db37f87cfc"
+		}
+	]
+}

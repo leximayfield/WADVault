@@ -1,0 +1,17 @@
+{
+	"uid": "dmwargam (870b1a).wad",
+	"name": "DOOM: War Games",
+	"description": "During your intergalactic surveillance for UAC, you",
+	"version": "870b1a",
+	"date": "2013-11-02 15:09:27",
+	"files": [
+		{
+			"filename": "dmwargam.wad",
+			"size": 63989,
+			"crc": 3814737185,
+			"md5": "f9689f703ce5793cfcab021ceff7b022",
+			"sha1": "870b1aa5bc45226d0c767a4a921fee3ebd6b1c84",
+			"sha256": "af7e59d902ae207c91b51757ad25d52784a46f3d56f85528ee0521468791f71b"
+		}
+	]
+}

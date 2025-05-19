@@ -1,0 +1,17 @@
+{
+	"uid": "duo_1 (35f079).wad",
+	"name": "DUO_1.ZIP",
+	"description": "Duo_1 is a deathmatch level set in an abandoned Command & Control Center. There are no monsters here, but your buddy came down with DOOMentia must be hunted down & killed. BTW, he will be hunting you too.",
+	"version": "35f079",
+	"date": "2015-12-07 09:28:15",
+	"files": [
+		{
+			"filename": "duo_1.wad",
+			"size": 97542,
+			"crc": 3056931544,
+			"md5": "d6192a6175faeca46fbf37576a501a08",
+			"sha1": "35f0793a0d97f700f347e1d27cfb268c069d9b4a",
+			"sha256": "01a3f179e14554e38bd9c75c791852dae09d57aed45888f0448c6bfd3a11d359"
+		}
+	]
+}

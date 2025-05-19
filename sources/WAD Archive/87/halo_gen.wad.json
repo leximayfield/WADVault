@@ -1,0 +1,16 @@
+{
+	"uid": "halo_gen.wad",
+	"name": "Halo Gen",
+	"description": "A set of 10 maps designed for 1on1 play. Some might sustain 4 players too.",
+	"date": "2013-04-19 00:48:07",
+	"files": [
+		{
+			"filename": "halo_gen.wad",
+			"size": 710992,
+			"crc": 3173934865,
+			"md5": "4df02931c65466cdf098f6fbaac24fc9",
+			"sha1": "8773b9c18e1df3abaecfd6b21c14ef0cd367a394",
+			"sha256": "6271079233cb26029c01bda2a35eb0ab5e2c48eda524c4e31a72e281977d7081"
+		}
+	]
+}

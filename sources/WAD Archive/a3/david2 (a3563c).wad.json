@@ -1,0 +1,17 @@
+{
+	"uid": "david2 (a3563c).wad",
+	"name": "DAVID2.WAD",
+	"description": "E1M1 map made from scratch. Not yet complete.......",
+	"version": "a3563c",
+	"date": "2013-11-02 15:53:24",
+	"files": [
+		{
+			"filename": "david2.wad",
+			"size": 39148,
+			"crc": 838353892,
+			"md5": "6932f40bc4d8cada1800b453b8529754",
+			"sha1": "a3563c221b27f0f25a9948ec08af24de60fc4a96",
+			"sha256": "f8f15b4e76e43cd03fa2508b15025ffb19b72c2d920b224b068ace37b64971e8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "factorx.wad",
+	"name": "Factor X Trilogy",
+	"description": "An action packed trilogy for the seriously doomed. Hack, blast, slice, fry,rip, mow, evaporate etc your way through the nazi factory zone to the gateway to freedom.",
+	"date": "2014-12-18 22:58:33",
+	"files": [
+		{
+			"filename": "factorx.wad",
+			"size": 1314152,
+			"crc": 1516223614,
+			"md5": "940bc0fa13b4405b316cb270381738da",
+			"sha1": "b063ed164fde4e297c4913b92642023eff4f8564",
+			"sha256": "c7c6d0d5cf41fbf09d1ac990967eecfd968a0a33a47456d89b08697e1c256434"
+		}
+	]
+}

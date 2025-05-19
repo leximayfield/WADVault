@@ -1,0 +1,17 @@
+{
+	"uid": "symmetry (4db209).wad",
+	"name": "Symmetry",
+	"description": "Four level deathmatch wad. I put alot of thought into the choices of symmetric sets of lifts and stairs to maximize visual contact and dynamic play. Be sure to play with the difficulty settings changed..",
+	"version": "4db209",
+	"date": "2014-12-15 21:31:33",
+	"files": [
+		{
+			"filename": "symmetry.wad",
+			"size": 346708,
+			"crc": 3446975364,
+			"md5": "279361fe4042eafc016fbe1100a6dfda",
+			"sha1": "4db2098683e1f1a236882879fcb79b629468c1b5",
+			"sha256": "b79d6de1657f5c542ed4c691390c1b91f9efa61cfc45d1bc7405a1a2fac973d3"
+		}
+	]
+}

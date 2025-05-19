@@ -1,0 +1,16 @@
+{
+	"uid": "whik.wad",
+	"name": "WhiteKnuckle",
+	"description": "my first release. I did a couple of unfinished maps here and there. they were crap :p",
+	"date": "2015-01-14 22:48:34",
+	"files": [
+		{
+			"filename": "whik.wad",
+			"size": 108848,
+			"crc": 1445355248,
+			"md5": "b98d89d1015f563bbfe271d84d6cbaf9",
+			"sha1": "380417270103f1b3d688da82179b55725f81adb0",
+			"sha256": "6c8323eaa758870fe3fcba6e816090a77a91598434cf2a24353148b094a470f6"
+		}
+	]
+}

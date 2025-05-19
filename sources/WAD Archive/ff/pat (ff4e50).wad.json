@@ -1,0 +1,17 @@
+{
+	"uid": "pat (ff4e50).wad",
+	"name": "Pat.WAD",
+	"description": "This is a deathmetch level that we play at the firehouse on the weekends. There are some secret walls, rooms and items in this level. The level itself is an arena with smaller rooms or arenas all around it that are all connected. All weapons are available.",
+	"version": "ff4e50",
+	"date": "2014-12-15 22:40:34",
+	"files": [
+		{
+			"filename": "pat.wad",
+			"size": 85802,
+			"crc": 2419183612,
+			"md5": "3fb123099392f632972a5920954e31f9",
+			"sha1": "ff4e50ecacfe058b2297a2a089fd58b15ded2bb2",
+			"sha256": "8dc1e58fa40d5b32e499bd67b3f26ec1d464dff8e54909848e2c55269446afc1"
+		}
+	]
+}

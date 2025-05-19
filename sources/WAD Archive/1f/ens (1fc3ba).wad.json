@@ -1,0 +1,17 @@
+{
+	"uid": "ens (1fc3ba).wad",
+	"name": "ENS",
+	"description": "This wad was designed from the ground up to resemble a real building. This building is located at some prestigious college somewhere in Ohio. The single player mode on this wad is very challenging, and not designed for the novice Doom II player. The deathmatch mode for this wad is sure to be a real bloodbath, not designed for the faint of heart.",
+	"version": "1fc3ba",
+	"date": "2013-11-02 15:48:29",
+	"files": [
+		{
+			"filename": "ens.wad",
+			"size": 63140,
+			"crc": 790945511,
+			"md5": "181ed4e9fe22b45fcf9166b40a1135cb",
+			"sha1": "1fc3bada4ac4f553116c1a1c3d274a3533c99336",
+			"sha256": "6e71a2aa86e4f8dce20e1eb7130d47389a341fd334f3e5699ceac5be56be5af2"
+		}
+	]
+}

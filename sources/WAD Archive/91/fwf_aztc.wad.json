@@ -1,0 +1,16 @@
+{
+	"uid": "fwf_aztc.wad",
+	"name": "thefwf's Aztec DM",
+	"description": "A largeish dm map based off the cs map de_aztec",
+	"date": "2014-12-15 23:12:15",
+	"files": [
+		{
+			"filename": "fwf_aztc.wad",
+			"size": 876448,
+			"crc": 1071404701,
+			"md5": "7a36a41cc7fd542cbd0a11ab7b4edf5f",
+			"sha1": "914b50cefd43891dc4994689435dccafbf2d0e7f",
+			"sha256": "4f286cf87bb070167ac381b987a5c1ad6df812f72d34bcd3ab179f2d8f763ae2"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tedp.wad",
+	"name": "TEDP",
+	"description": "A minuscule duel pack.",
+	"date": "2013-04-22 00:32:43",
+	"files": [
+		{
+			"filename": "tedp.wad",
+			"size": 607891,
+			"crc": 944768892,
+			"md5": "003c0110d485618dd2fd866f1ed0f10f",
+			"sha1": "ebd3bf84779a51a5fc0ad3a2dbf67f3749307a72",
+			"sha256": "cd049e9dd8e4281b9461a3da51178a295a1bf527ac56bb7d14084a13528f6633"
+		}
+	]
+}

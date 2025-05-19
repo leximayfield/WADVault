@@ -1,0 +1,16 @@
+{
+	"uid": "funhaus.wad",
+	"name": "FUNHOUSE.WAD",
+	"description": "a simple wad for beginners. I am trying out some :design principles, so it is really not that complex",
+	"date": "2013-07-09 20:21:45",
+	"files": [
+		{
+			"filename": "funhaus.wad",
+			"size": 87239,
+			"crc": 2151642392,
+			"md5": "5cefb7872186d6641cb915c7b4b80cfe",
+			"sha1": "e510b68d8d83d9ebee952b16e682d7376b287b68",
+			"sha256": "ba22b0cc4e29c05fef4082d5b15a58b324fc701354668af4a7ac4c02809bee00"
+		}
+	]
+}

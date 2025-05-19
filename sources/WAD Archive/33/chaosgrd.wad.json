@@ -1,0 +1,16 @@
+{
+	"uid": "chaosgrd.wad",
+	"name": "Chaotic Grounds",
+	"description": "Another level cut from my megawad. Made in 1997 from a sketch, and updated around 2000. It's a clear Courtyard ripoff, which was one of my fav doom2 levels. I've taken out custom textures and tossed in a weapon at the beginning, it's a long fight to the center!",
+	"date": "2019-03-06 21:57:35",
+	"files": [
+		{
+			"filename": "chaosgrd.wad",
+			"size": 270291,
+			"crc": 3632390514,
+			"md5": "8605a50452ad79e49f5893f362441e51",
+			"sha1": "33218a7134e078330d5470b9fbb203f8bc26f3d2",
+			"sha256": "af3cce2980872d00ec7b8968f2fc3a012937b1e7d411486cbdb269485d227afd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tower (b57e96).wad",
+	"name": "The Tower",
+	"description": "On a strange watery asteroid far far away there is a tower. The population of the asteroid consists of the incorrigible culls of an advanced genetic science. Can you scale the tower and press the auto-destruct switch? Not unless you're good... You will need three keys. The red key is easy to find. The blue key is known to be in the maximum security pen to the south. Rumours have it that the yellow key is hidden in an alien art gallery somewhere on the asteroid.",
+	"version": "b57e96",
+	"date": "2013-11-02 16:59:09",
+	"files": [
+		{
+			"filename": "tower.wad",
+			"size": 504600,
+			"crc": 3979073265,
+			"md5": "0d90eb62464024686fa77c093cc5d7ed",
+			"sha1": "b57e96afbe5d7b720aad278611e479ff4ccb4be7",
+			"sha256": "6b039568721719020e67bbb7c4757cddbe718bddfc77add5ae7c845581da519a"
+		}
+	]
+}

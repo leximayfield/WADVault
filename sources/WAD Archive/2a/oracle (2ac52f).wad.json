@@ -1,0 +1,17 @@
+{
+	"uid": "oracle (2ac52f).wad",
+	"name": "Oracle...",
+	"description": "A large alien base has been discovered by a Scout and Survey team in the Regulus Cluster on a close Terran analogue. Sensor readings show possible traces of a highly advanced technology. You've been assigned the job of exploration. Relax! Fleet Intel reports that it's 99.999% likely that the base is unoccupied and probably friendly (yeah,right!). You won't be allowed to carry any weapons in but your pistol... as usual.",
+	"version": "2ac52f",
+	"date": "2013-11-02 15:41:59",
+	"files": [
+		{
+			"filename": "oracle.wad",
+			"size": 1335788,
+			"crc": 1747011259,
+			"md5": "8982ca7c8f151b74a4f89b5b102a7b7b",
+			"sha1": "2ac52f1420dfca5233ac3461bb8534e85adbaf6d",
+			"sha256": "38d1302f73395a14e689a380464a20f091f178762f206e9a1c5f1cc4fb6e3a9d"
+		}
+	]
+}

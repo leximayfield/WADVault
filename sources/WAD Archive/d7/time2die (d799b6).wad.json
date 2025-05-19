@@ -1,0 +1,17 @@
+{
+	"uid": "time2die (d799b6).wad",
+	"name": "Time 2 Die",
+	"description": "This wad contains two levels that begin at MAP01 and end at MAP03. These levels can be played as single-player action or as deathmatch levels, though this feature has not been tested yet. So try this option with at your own RISK. MAP03 is not deathmatch level whereas MAPs 01 and 02 are designed for deathmatch level play. Please email me and let me know what you think of my levels as this is my first time creating some doom2 levels from scratch. :)",
+	"version": "d799b6",
+	"date": "2015-01-14 22:59:37",
+	"files": [
+		{
+			"filename": "time2die.wad",
+			"size": 27324,
+			"crc": 4126850496,
+			"md5": "07b049762024bb3996d2d9cb1e63b960",
+			"sha1": "d799b6ada792f848ce10562241b4a0b49bb5a6e8",
+			"sha256": "30640aaca088148aee859bc178cd7280125189b0b1859af4deba97300b6105c9"
+		}
+	]
+}

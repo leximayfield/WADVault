@@ -1,0 +1,17 @@
+{
+	"uid": "COMPBASE (b8357a).wad",
+	"name": "COMPBASE.WAD",
+	"description": "You are sent to infiltrate a secret computer base in the depths of a gigantic forest. Your commander gave you instructions to wipe out the new breed of mutant that is being bred there. Spectres! But, it seems that when you arrive, you realize that the enemy has let the Spectres get out of hand... They are rampaging everywhere along with their cousins, the Demons! So many, in fact, that all of the enemy soldiers have evacuated and are waiting out landing area for assistance... hundreds of enemy soldiers, Spectres, and Demons, but that is not all! To top it all off, there is a hellish maze of wiring that powers the base... and the mutants have invaded that also. Good luck!",
+	"version": "b8357a",
+	"date": "2013-11-06 22:19:17",
+	"files": [
+		{
+			"filename": "COMPBASE.wad",
+			"size": 73336,
+			"crc": 3855885689,
+			"md5": "dbf5a5e5cf02ac6794d0a715f03731b4",
+			"sha1": "b8357a4ae70352c6335979962b87eee1c5d6342d",
+			"sha256": "035ab738bfc31d42485e03775e6084c0a2e552f80891e7d0253942d0da635d0a"
+		}
+	]
+}

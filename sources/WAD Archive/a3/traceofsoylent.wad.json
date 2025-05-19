@@ -1,0 +1,16 @@
+{
+	"uid": "traceofsoylent.wad",
+	"name": "Trace of Soylent",
+	"description": "Map created for submission to the Gore Prisons project led by Trace of Spades. Map occupies MAP05 in that project and the restricitons for that slot are Zombies, Imps and Demons only, and weapons only up to Slot 5.",
+	"date": "2018-07-09 14:37:09",
+	"files": [
+		{
+			"filename": "traceofsoylent.wad",
+			"size": 12592925,
+			"crc": 1485813326,
+			"md5": "4160006e83d2b7deafd16ffcbc96778f",
+			"sha1": "a3e893198a7e109e67139ea3bc188aeeaa8a6c7b",
+			"sha256": "6f1979930a328623279d885b2165ce32ef7176b4aced2047d218ba493a0a568f"
+		}
+	]
+}

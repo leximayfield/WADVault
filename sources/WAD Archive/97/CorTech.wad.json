@@ -1,0 +1,16 @@
+{
+	"uid": "CorTech.wad",
+	"name": "Corrupted Techbase",
+	"description": "This was part of a project called Project Uber, but Jack cancelled it since it wasn't much for him. The UAC was doing some Teleportation experiments. However, the experiment has gone wrong. Opened the portal to Hell. Hellspawn and possessed humans took over and ruined and corrupted their base. It is up to you to kill the demons and close the gates.",
+	"date": "2014-12-21 15:51:23",
+	"files": [
+		{
+			"filename": "CorTech.wad",
+			"size": 23938443,
+			"crc": 2560361766,
+			"md5": "d76e154ae97433f9cfda9648b937ccfb",
+			"sha1": "976b1136af1b16850aa87dde62ab30df56629811",
+			"sha256": "0b0016af894d9b9eef4eb2a9f417648c5accc07087960413e84313f00cc46a18"
+		}
+	]
+}

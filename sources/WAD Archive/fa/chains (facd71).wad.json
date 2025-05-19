@@ -1,0 +1,17 @@
+{
+	"uid": "chains (facd71).wad",
+	"name": "Chains",
+	"description": "Chainguns, Chainsaws, barrels and a dark room. Deathmatch doesn't get any better than this!",
+	"version": "facd71",
+	"date": "2014-01-07 22:03:19",
+	"files": [
+		{
+			"filename": "chains.wad",
+			"size": 41069,
+			"crc": 2084448589,
+			"md5": "55b8a609688536acdf6af5b616065b4d",
+			"sha1": "facd71da231b3428b3cd22040d44721e57fbd5f1",
+			"sha256": "e80b8fc48866ed44ed7c6111aea0eea1f5ab7ed65a026785afb2e580968b27ff"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "nukfacil.wad",
+	"name": "Nuke Processing Facility",
+	"description": "It's a dark nuke processing facility.",
+	"date": "2014-12-15 21:50:51",
+	"files": [
+		{
+			"filename": "nukfacil.wad",
+			"size": 64130,
+			"crc": 283079169,
+			"md5": "2174d56aadd7c2431e310d889e6b04ed",
+			"sha1": "38394fcd1f2dba30950c766e611d48ce3427f6be",
+			"sha256": "de104029529032ac2a810801db49365162e0ed41f8815d3a1bef580318bf8522"
+		}
+	]
+}

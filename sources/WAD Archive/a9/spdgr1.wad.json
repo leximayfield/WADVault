@@ -1,0 +1,16 @@
+{
+	"uid": "spdgr1.wad",
+	"name": "Spdgr1",
+	"description": "My very first map.",
+	"date": "2015-01-14 22:58:19",
+	"files": [
+		{
+			"filename": "spdgr1.wad",
+			"size": 156914,
+			"crc": 3965705374,
+			"md5": "027d9457e1bbf2f69331fcee4cb12ade",
+			"sha1": "a999f0bf4774574ede49df24b8dc3903418591a0",
+			"sha256": "ad2793e34eb95e746e4b0f3843a26248733e84cda82cc510e7d744f8985a9bb3"
+		}
+	]
+}

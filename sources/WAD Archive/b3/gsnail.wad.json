@@ -1,0 +1,16 @@
+{
+	"uid": "gsnail.wad",
+	"name": "Gardensnail",
+	"description": "Medium size DM map, small building and its garden. BFG and Plasma are little harder to get. Play it oldskool, no jump, no aim, etc.",
+	"date": "2014-12-15 21:45:49",
+	"files": [
+		{
+			"filename": "gsnail.wad",
+			"size": 156097,
+			"crc": 737179214,
+			"md5": "83b1c6b14a6b9fa355f4e43168db094e",
+			"sha1": "b3aaf492eb35eeb47a462a3d3a4fa3962784dd2f",
+			"sha256": "ea4b94ca2fdda0ec3e5cf8c94915a19ba0d9f9b87fa83ef8f82bfd0d1462bec8"
+		}
+	]
+}

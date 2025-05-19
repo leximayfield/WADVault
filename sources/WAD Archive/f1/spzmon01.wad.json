@@ -1,0 +1,16 @@
+{
+	"uid": "spzmon01.wad",
+	"name": "ZDoom Monster Pack 01",
+	"description": "Changes SS into Strife Soldier, and Dead Lost Soul into a Railgun shooting enforcer.",
+	"date": "2014-12-11 22:21:10",
+	"files": [
+		{
+			"filename": "spzmon01.wad",
+			"size": 177330,
+			"crc": 2942081864,
+			"md5": "1c40568bcdf4a4b7a9a30c66f7dd59c6",
+			"sha1": "f1e6ca7ce05c665fe56a0ba8f5d943b85268c953",
+			"sha256": "db9f888f64a059a837308d753e97878daf6c26a4ad2824435cbd45cb669cbaab"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "tod (589430).wad",
+	"name": "Trails of Destruction",
+	"description": "More DOOM 2 levels to kick ass in!",
+	"version": "589430",
+	"date": "2015-01-14 23:07:09",
+	"files": [
+		{
+			"filename": "tod.wad",
+			"size": 609383,
+			"crc": 1614256066,
+			"md5": "9f7117dad57597ef1ad25106c741356f",
+			"sha1": "5894305793518b2f0c164dcbda33ce41f92cd281",
+			"sha256": "98f83be3ebc8d8ac70840f8e8cc73309e9dbbf29f112bcf1dd635640f42ba4cc"
+		}
+	]
+}

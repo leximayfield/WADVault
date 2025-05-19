@@ -1,0 +1,17 @@
+{
+	"uid": "sewers (700fde).wad",
+	"name": "SEWERS.ZIP",
+	"description": "This is the first level in a new 9 level episode. A run through the muck.",
+	"version": "700fde",
+	"date": "2013-11-02 15:40:37",
+	"files": [
+		{
+			"filename": "sewers.wad",
+			"size": 147556,
+			"crc": 3140449920,
+			"md5": "95191cf9adb1b5c81db422c2151a7ead",
+			"sha1": "700fde4ef30c1c5e3f438c00fff0f80cb2945209",
+			"sha256": "929435108dd13105025470257a8f3aac97e03fe2792dec5249438004cdae7703"
+		}
+	]
+}

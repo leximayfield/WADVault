@@ -1,0 +1,16 @@
+{
+	"uid": "blinded.wad",
+	"name": "Blinded by Fear",
+	"description": "This is your average DOOM level; it doesn't have any extremely detailed lighting, no extremely detailed architecture, but it still looks kinda nice. The idea with this map was that it would be fast to make the surroundings so that I could use more time to design the gameplay. The design is \"effective\" in that it doesn't contain perverse amount of linedefs. It is stuff that looks good but still is fast to draw. Keep It Simple Stupid, like. The reason for this is the most recent thing I made (nightwing) that took like 6 months to complete but still turned out to be crap. It had awesome architecture, but the gameplay was lacking. Well, anyway, this should be enjoyable ;)",
+	"date": "2014-12-15 22:35:19",
+	"files": [
+		{
+			"filename": "blinded.wad",
+			"size": 251284,
+			"crc": 2894864189,
+			"md5": "f0e3bc196d526fe6d8f399ee00561c9b",
+			"sha1": "7d586f8f3d3e27da06891d19d53a7fc43fc242c5",
+			"sha256": "ba3eb9503b566053afc7ebd7598650b18957205e80adcef11f16df90335a6ac7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "BLUE (c1af8f).wad",
+	"name": "BLUE",
+	"description": "A two-player Doom 2 DeathMatch, extensively playtested. Used in Tournaments.",
+	"version": "c1af8f",
+	"date": "2014-12-03 19:59:45",
+	"files": [
+		{
+			"filename": "BLUE.wad",
+			"size": 65564,
+			"crc": 4079256992,
+			"md5": "0035c6b3ecedc634a38fa60ef7251e56",
+			"sha1": "c1af8f109480e49675986bbc42e11cd29db989dc",
+			"sha256": "d02828d84e1182c06c635f1494421a38880799906ea03548de9874c3428deb33"
+		}
+	]
+}

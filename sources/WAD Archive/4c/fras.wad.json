@@ -1,0 +1,16 @@
+{
+	"uid": "fras.wad",
+	"name": "Fras v9.3",
+	"description": "Collection of well-made levels by two people from 6/1998 on. Levels continue to be added. See end of text file.",
+	"date": "2014-12-15 21:22:13",
+	"files": [
+		{
+			"filename": "fras.wad",
+			"size": 1298520,
+			"crc": 3872141949,
+			"md5": "34963bc2e9e0ee315abb8643d48a9fa6",
+			"sha1": "4c22a19684e9b9d8ad082c4ffc3f56b4776434c0",
+			"sha256": "a300fabd7639c2e69d71d1300ec9b7642cebd02939daf18642aa06a985fcb265"
+		}
+	]
+}

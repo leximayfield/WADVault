@@ -1,0 +1,16 @@
+{
+	"uid": "ltbearfx.wad",
+	"name": "Lightbearer",
+	"description": "Hey all, this is my first map. In this one, Satan has taken over a power facility and you must fight the hordes of demons to shut it down and stop the demonic influence. This was designed for vanilla Doom and I tried to make it as speedrun-friendly as possible.",
+	"date": "2015-12-29 12:30:51",
+	"files": [
+		{
+			"filename": "ltbearfx.wad",
+			"size": 169754,
+			"crc": 3462989610,
+			"md5": "0896c4d240a7b2069c909c74fce67371",
+			"sha1": "4de906d00244f286fc5cf3ffc428694929c968cc",
+			"sha256": "fedb9a9c532a0b2b3726ea429e73f765a3c83bc2595cea1061bda2aca5ceffdd"
+		}
+	]
+}

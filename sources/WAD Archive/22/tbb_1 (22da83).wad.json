@@ -1,0 +1,17 @@
+{
+	"uid": "tbb_1 (22da83).wad",
+	"name": "The Basement (first of a series)",
+	"description": "This is the basement of a large power plant recently taken over. Several Space Marines have already failed to retake. It is crucial that this plant not remain in enemy hands. It is reported that there are spiders in the basement... The layout of this plant is NOT 'steering'. By that I mean that the layout does not force you down any particular path. There are suggestions (in the form of dead marines) that you take a different route - it's up to you to head the warnings left by your late comrades who thought to charge right in, pistol flashing. The building is logically laid out and as realistic as DOOM2 allows. Again - this WAD is very free-form. Attention to detail and realism are the watch-words here. Explore. If you are one of those who go charging into every room - you WILL die. This level can kill-you-quick. Try to put yourself in your guys shoes - would YOU really sprint into the middle of an enemy filled room??? Fools rush in, etc... 'nuff said. Husband your resources. There is plenty of ammo to complete the level - if you don't waste it. Make those shots count, Marine! There are no real puzzles to figure out to complete the level. If something seems impossible for you to accomplish, either there is probably another way to get the same results or else you don't HAVE to go that way to complete the level. All weapons, including the backpack, are available, except the BFG. This is a large WAD designed primarily for single player and coop play by *cooperative* coop players. Due to the size, a 50 MHz 486 is recommended. Skill levels: Skill levels are incorporated with Hurt Me Plenty roughly equivalent to Ultra-Violence in the original game. Ultra-Violence is meant to be a real challenge, even to the best doomers. Even I die occasionally on UV.",
+	"version": "22da83",
+	"date": "2013-11-06 22:28:25",
+	"files": [
+		{
+			"filename": "tbb_1.wad",
+			"size": 659928,
+			"crc": 190869692,
+			"md5": "a047ae1f6f028a1f01127869179874cc",
+			"sha1": "22da83da8cb7c2c839aeb6f11c99cbd519f1e64b",
+			"sha256": "beb242ec0d319c15236c81e7efc219a17b3dfcf37b71b3ea64e5d7098b0e7939"
+		}
+	]
+}

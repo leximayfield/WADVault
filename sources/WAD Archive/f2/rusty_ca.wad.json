@@ -1,0 +1,16 @@
+{
+	"uid": "rusty_ca.wad",
+	"name": "RUSTY CAGE.WAD",
+	"description": "I started out intending to make this a DeathMatchWAD, but it kept growing on me, until I decided to go all out and just make it as big as I could. It actually was bigger at one time, but I kept getting errors and was unable to save games, so I scaled it back. I really wish I could have more monsters in the wad, but it crashes if I put in any more.",
+	"date": "2014-12-13 12:49:58",
+	"files": [
+		{
+			"filename": "rusty_ca.wad",
+			"size": 644414,
+			"crc": 2566168968,
+			"md5": "7254f87363d2a64f783836b0adeff5bd",
+			"sha1": "f2c962d7ae789bcbb91f122fb857e77b88d2f5d2",
+			"sha256": "062ca4a7972a97a9f855da194ae88cd32fee776a4f8891aa1f88d999c5264666"
+		}
+	]
+}

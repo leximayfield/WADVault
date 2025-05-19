@@ -1,0 +1,16 @@
+{
+	"uid": "EOB.wad",
+	"name": "Eye of the Beholder",
+	"description": "I will go into more detail later...",
+	"date": "2018-05-28 21:00:48",
+	"files": [
+		{
+			"filename": "EOB.wad",
+			"size": 4512125,
+			"crc": 2270548484,
+			"md5": "8fe014af4e6801a81b4699dff0a81d2b",
+			"sha1": "60008a8f2caa1bbfb058c54f0c88fef8e15e3813",
+			"sha256": "f5a72b3578d8e132cebbb9d2430496679fbb9f8a3cc5e2eabb090ff657bffd27"
+		}
+	]
+}

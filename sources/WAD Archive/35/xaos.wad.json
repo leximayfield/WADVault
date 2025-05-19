@@ -1,0 +1,16 @@
+{
+	"uid": "xaos.wad",
+	"name": "XAOS ver. 1.3",
+	"description": "A 10 level replacement for DOOM II with more probably on the way.",
+	"date": "2015-01-14 23:06:26",
+	"files": [
+		{
+			"filename": "xaos.wad",
+			"size": 1315880,
+			"crc": 3704158331,
+			"md5": "3216e70167b4d3f7911847b2298cf5b9",
+			"sha1": "355954c6d9dc91c9cee7e3bdc115b91a70d6fdd7",
+			"sha256": "0e3a0acf3c486cd17194a3fe064d8c9b719f06a410055c8d5c7fc1674320f7a6"
+		}
+	]
+}

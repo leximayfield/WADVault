@@ -1,0 +1,16 @@
+{
+	"uid": "ssatc.wad",
+	"name": "Star Ship ATC",
+	"description": "A non-linear level that is set in a space ship. Don't look at the map if you want to preserve the idea that it's multi-floor!",
+	"date": "2015-01-14 22:46:39",
+	"files": [
+		{
+			"filename": "ssatc.wad",
+			"size": 247148,
+			"crc": 1489278591,
+			"md5": "37d7580ded9aed43f7c6b424dc32b6ed",
+			"sha1": "39db32d5f2a943751d5b4b29ad36e8e591b81714",
+			"sha256": "4918a744ace23fe693dfa923b049803a236546dd359f1903dadfdeef1a4817a9"
+		}
+	]
+}

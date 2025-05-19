@@ -1,0 +1,16 @@
+{
+	"uid": "maud'dib.wad",
+	"name": "Maud'dib",
+	"description": "A Very unique DeathMatch Level for DOOM2.",
+	"date": "2014-12-15 22:18:28",
+	"files": [
+		{
+			"filename": "maud'dib.wad",
+			"size": 158610,
+			"crc": 1180128723,
+			"md5": "c03d68b70b88475b53f0c87d4ff4ff57",
+			"sha1": "9e39b967592c456e81c9db6ad8f8598c3a29e98a",
+			"sha256": "ce0ef778dc55e82e51e76bd853b3f139a60a472ac33771ee42db0bc4bc384d9a"
+		}
+	]
+}

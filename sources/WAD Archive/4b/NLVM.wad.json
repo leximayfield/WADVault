@@ -1,0 +1,16 @@
+{
+	"uid": "NLVM.wad",
+	"name": "nonlinear vanilla map",
+	"description": "Nonlinear vanilla map made without 3d mode.",
+	"date": "2015-01-06 21:41:50",
+	"files": [
+		{
+			"filename": "NLVM.wad",
+			"size": 1258954,
+			"crc": 1011961947,
+			"md5": "a29f4435cbc77c823b2b0a719e975225",
+			"sha1": "4bde168e9f1033f2a5d3aa6354bca97ef6533f38",
+			"sha256": "733044beb13d9bd0b2f49e9119757adc76578ab36f5842ef0e801784484f8e02"
+		}
+	]
+}

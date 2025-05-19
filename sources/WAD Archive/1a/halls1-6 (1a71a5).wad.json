@@ -1,0 +1,17 @@
+{
+	"uid": "halls1-6 (1a71a5).wad",
+	"name": "Halls of Death (Episode of deathmatch wads)",
+	"description": "These levels are designed especially for deathmatch. They're great fun at even two players games, but with a LOT of playtesting we have found out that the more players you have, the more fun :)",
+	"version": "1a71a5",
+	"date": "2013-11-02 15:12:48",
+	"files": [
+		{
+			"filename": "halls1-6.wad",
+			"size": 562932,
+			"crc": 1503073448,
+			"md5": "73aff2c4c8d5f7a515bb49b9d535f282",
+			"sha1": "1a71a575b89bc7d72237df598af063cf7998d3e9",
+			"sha256": "53bcd449136f00dc26b258f84ce2bcac078fb596e4b23ebbc6cf18ac684e9c3e"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "stealth (79361c).wad",
+	"name": "STEALTH.WAD",
+	"description": "This patch file is for E1M1, although it is an adventure in itself!. Try it at first without the map or any cheats. It's my second attempt and things are hotting up... Have fun!",
+	"version": "79361c",
+	"date": "2013-11-04 20:13:10",
+	"files": [
+		{
+			"filename": "stealth.wad",
+			"size": 111806,
+			"crc": 3793661317,
+			"md5": "9237c5b5d2d81456ce57eb0180eb7d0d",
+			"sha1": "79361c6664fb761cb8cead9db25aca54af40b5d0",
+			"sha256": "5108c37991cdec352b8e532f203eb34e035cb2cc3f85d29966c27efce631ec68"
+		}
+	]
+}

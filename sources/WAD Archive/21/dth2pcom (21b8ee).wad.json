@@ -1,0 +1,17 @@
+{
+	"uid": "dth2pcom (21b8ee).wad",
+	"name": "Death Match Map for 2 players (7 5+)",
+	"description": "This map was created using the top 29 ranked Deathmatch PWADS for 2 players. They rank from 9 to 7 in play and design was not taken into consideration at all.",
+	"version": "21b8ee",
+	"date": "2014-01-07 22:02:15",
+	"files": [
+		{
+			"filename": "dth2pcom.wad",
+			"size": 1668283,
+			"crc": 2682623454,
+			"md5": "59af46b7b643b7033e6f4696686a2ad7",
+			"sha1": "21b8ee1e93008e25c4bb53f72bd6a7ca879e6fab",
+			"sha256": "a0e9d0da77268ef482e079d6585ce17402fd2d3a8a950d273c1ffb999ff8e626"
+		}
+	]
+}

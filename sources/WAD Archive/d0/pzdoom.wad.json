@@ -1,0 +1,16 @@
+{
+	"uid": "pzdoom.wad",
+	"name": "Puzzle of Doom",
+	"description": "On this map you need solve puzzle to pass level. That is a thinking job. Besides at last there are a bit shoot-and-kill scene.",
+	"date": "2017-06-27 00:21:31",
+	"files": [
+		{
+			"filename": "pzdoom.wad",
+			"size": 294917,
+			"crc": 4200253582,
+			"md5": "af276887390ff81c998427f7498c5e04",
+			"sha1": "d02ab9a4c38ea67dba705d7493044c2151b830ce",
+			"sha256": "69af6286109fc66be173461f0c387ca059eeb534025a167310eba85ab6a6a24b"
+		}
+	]
+}

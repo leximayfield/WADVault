@@ -1,0 +1,16 @@
+{
+	"uid": "pc_dens.wad",
+	"name": "Dens of Borsippa",
+	"description": "A fairly linear map with medium difficultly (not easy for me but easy for experts). All enemies, ammo health, etc have been calculated on the average amounts in MAP23 of Doom 2, D2twid, TNT Evilution, Plutonia and Icarus.wad. The theme is bricks and hellish, but not hellfire.",
+	"date": "2017-08-18 21:07:25",
+	"files": [
+		{
+			"filename": "pc_dens.wad",
+			"size": 355314,
+			"crc": 3786368426,
+			"md5": "ac64c2ab596e0159c4e1052318398e1f",
+			"sha1": "496e0d4649e6fe230e35009639202e9092b6eb20",
+			"sha256": "e881646d6d2caf6a802d443196c38128ca08c5218dcdc5639aca28caf12a7687"
+		}
+	]
+}

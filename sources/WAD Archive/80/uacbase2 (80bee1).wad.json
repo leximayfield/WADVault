@@ -1,0 +1,17 @@
+{
+	"uid": "uacbase2 (80bee1).wad",
+	"name": "The UAC Base -- Doom II version",
+	"description": "Communications have ceased coming in from a major UAC military base/supply depot/ refueling center in North America. Also, before this happened, the base's chief administrator filed some classified reports with UAC headquarters. These reports expressed his suspicions that some of the base's staff were practicing occult rituals in a secret area of the basement somewhere. As of this time, no one has been able to find these areas. We're sending you in to find out what's going on and 'clean up' if necessary. We're arming you with a pistol only, since this base is one of the leading UAC military supply depots on the planet, with 3 armories stocked with weapons. If you need offensive weapons, seek the armories.",
+	"version": "80bee1",
+	"date": "2014-12-03 20:21:07",
+	"files": [
+		{
+			"filename": "uacbase2.wad",
+			"size": 455794,
+			"crc": 3607380485,
+			"md5": "6f72a1012d379f0661564b92f0230395",
+			"sha1": "80bee1b9cdbfd9d4768354bbc5aecfa3ff39b10b",
+			"sha256": "d07bd608f9ea2e705c878e7f2a44d68b49156837e9ecf9f357df20155149a89c"
+		}
+	]
+}

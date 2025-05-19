@@ -1,0 +1,17 @@
+{
+	"uid": "quadkill (a10342).wad",
+	"name": "QUAD KILL",
+	"description": "Doom 2 PWAD, 16 levels of multi-player wads more to be added latter",
+	"version": "a10342",
+	"date": "2014-12-15 21:37:33",
+	"files": [
+		{
+			"filename": "quadkill.wad",
+			"size": 456600,
+			"crc": 2719739593,
+			"md5": "6a96a97cc69ae4015d348ae3ec313b80",
+			"sha1": "a103429db06d1aed4f3cea93899b6dfce6f36abe",
+			"sha256": "d29d4cdd159d060ec9e865e916d67bae43702506b443cac9ee98c337390f2019"
+		}
+	]
+}

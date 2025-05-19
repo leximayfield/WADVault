@@ -1,0 +1,17 @@
+{
+	"uid": "cage (823407).wad",
+	"name": "the cage of destiny v1.0",
+	"description": "Well, check it out yourself. As you'll notice, there is a cage in this level. That means you can capture your opponent when he is trying to get the plasma riffle by pressing one of 4 buttons on the opposite side. There is still a way out when being captured, but you can be targeted easily..... If you want to hunt down your opponent, well, do it. Escaping meat on the outer way is inticated by an arrow. (you can't escape your destiny!) On skill level 1+2, there is a chainsaw in the middle of the level. On every other skill setting, this chainsaw is replaced by a rocket launcher (some don't like rocket launchers in deathmatch levels, don't know why..), but the chainsaw is placed on an other location. NO BFG 9000 in this level!",
+	"version": "823407",
+	"date": "2013-11-02 16:07:19",
+	"files": [
+		{
+			"filename": "cage.wad",
+			"size": 50261,
+			"crc": 1587341415,
+			"md5": "09e9663e749bcec2ceb3a96d3d938f6c",
+			"sha1": "823407c4789299b382037526a6af9d851ccafd62",
+			"sha256": "0067e13dcc0ec2e60ce8b9b0e3fe8ad1af716b2a39d0812ff47e142f78d8603d"
+		}
+	]
+}

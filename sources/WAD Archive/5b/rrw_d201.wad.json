@@ -1,0 +1,16 @@
+{
+	"uid": "rrw_d201.wad",
+	"name": "RRW_D201.WAD",
+	"description": "This map is a DOOM ][ conversion of my DOOM map called RRWARD01.WAD, released in 1994. This map is design for single player or cooperative multiplayer mode, though it does have features for DEATHMATCH built in. This map is quite large, over 560 secters. There are no \"step wrong and die\" traps - If you can get into an area (without cheating) you can get out. There are secrets, hidden doors and switches galore in this map.",
+	"date": "2015-01-14 14:40:28",
+	"files": [
+		{
+			"filename": "rrw_d201.wad",
+			"size": 484564,
+			"crc": 1834124128,
+			"md5": "b48cf19654f7ed80d9cf45f3ac56f782",
+			"sha1": "5b3fc53cd84b2028b69e71bd3221c33f5b8e640a",
+			"sha256": "982c53b4db0de8e51efdb1a95c373685613f25a0ba4da1e7b8cf8d373f44a868"
+		}
+	]
+}

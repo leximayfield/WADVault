@@ -1,0 +1,17 @@
+{
+	"uid": "ruindm (7c9d8c).wad",
+	"name": "The Brotherhood of Ruin Deathmatch",
+	"description": "Deathmatch level preview of partial conversion The Brotherhood of Ruin.",
+	"version": "7c9d8c",
+	"date": "2015-09-14 20:23:26",
+	"files": [
+		{
+			"filename": "ruindm.wad",
+			"size": 615867,
+			"crc": 3513795298,
+			"md5": "fdbd47972978aa48810e4ba68fe95ee8",
+			"sha1": "7c9d8c3308a551b165e10ed06eaaf25a6f3d43b0",
+			"sha256": "44d2679a1942ec1ac1b4a2bdeae4521eddb2f1308f8da314648c6a77a90bb1a1"
+		}
+	]
+}

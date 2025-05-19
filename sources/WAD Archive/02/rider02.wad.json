@@ -1,0 +1,16 @@
+{
+	"uid": "rider02.wad",
+	"name": "RIDER02.WAD",
+	"description": "A VERY small DeathMatch level. But after playing the same level for hours and hours, I decided to leave it `AS-IS'. I hope you find it just as fun.",
+	"date": "2013-11-02 15:42:08",
+	"files": [
+		{
+			"filename": "rider02.wad",
+			"size": 19702,
+			"crc": 1359457599,
+			"md5": "a357f9fba7bc2bc2e97e28c8e10152e1",
+			"sha1": "02716ff27d4c6e4cf52815218022a38595ef2fb8",
+			"sha256": "fcc9851aa0be1a8a6f75816a2acae6ca678da54781351c7693793792a6196572"
+		}
+	]
+}

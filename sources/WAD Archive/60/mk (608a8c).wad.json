@@ -1,0 +1,17 @@
+{
+	"uid": "mk (608a8c).wad",
+	"name": "Mortal Kombat",
+	"description": "This is a Doom 2 Deathmatch WAD inspired by the Mortal Kombat movie and games. This is most evident in the automap once all the outdoors areas have been explored ;)",
+	"version": "608a8c",
+	"date": "2014-12-15 22:03:54",
+	"files": [
+		{
+			"filename": "mk.wad",
+			"size": 122841,
+			"crc": 332674815,
+			"md5": "486dab62ae64757697d2e0f0b2807a9d",
+			"sha1": "608a8c257d8e1bfbbe91458c3b23454eace56ad0",
+			"sha256": "b354407466da34dca2c9ae8e7b6cbc626b026b8454efe6eb165a0fea0da1b9ba"
+		}
+	]
+}

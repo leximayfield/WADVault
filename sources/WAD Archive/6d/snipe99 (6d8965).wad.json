@@ -1,0 +1,17 @@
+{
+	"uid": "snipe99 (6d8965).wad",
+	"name": "SNIPE99.ZIP (snipe99.wad, snip99e.txt,",
+	"description": "This level was originally a small deathmatch concept, but needed some additions to improve playability. This level is moderate in size and has been designed for 2 Player Deathmatch. It also plays well as a one player episode. There are a few hidden doors, but they should be easy to spot. Two teleporters. A hidden exit, but it is revealed fairly easily. Monsters are copious in UV, and there is a spiderdemon. Not too tough to get though, because of the location. View the .lmp to see basically the entire level in UV. (Apologize for my performance as I only had the keyboard at the time) (doom -playdemo sniper99 -file sniper99.wad) Comments, criticisms very welcome.",
+	"version": "6d8965",
+	"date": "2013-11-02 15:48:17",
+	"files": [
+		{
+			"filename": "snipe99.wad",
+			"size": 158481,
+			"crc": 497113889,
+			"md5": "b0da6a319b4371479181bccf40bd863f",
+			"sha1": "6d8965664aa466f13e040213c30442b41b9819d5",
+			"sha256": "b6a76e613a58ea6ef06601562074f5eceb0c22337818c7ec00dc062c1b6460f7"
+		}
+	]
+}

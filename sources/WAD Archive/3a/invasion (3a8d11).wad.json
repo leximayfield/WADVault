@@ -1,0 +1,17 @@
+{
+	"uid": "invasion (3a8d11).wad",
+	"name": "Demon Invasion Episode 1&2",
+	"description": "This wad contains my previously released wad as the First Level, with many changes! See README!.TXT for the Plot!",
+	"version": "3a8d11",
+	"date": "2014-12-18 22:36:06",
+	"files": [
+		{
+			"filename": "invasion.wad",
+			"size": 661403,
+			"crc": 896136069,
+			"md5": "775b48d23987f9ba067ee8caa04a3853",
+			"sha1": "3a8d1147dcd52df25468f198560b771714097715",
+			"sha256": "be86ab697ae80abe8bbe55f8a49d240ae90b9fbda19f826046a3bf658b8ff2c5"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmomen (80b089).wad",
+	"name": "DMOMEN.WAD",
+	"description": "A dark haunting WAD. With much emphasis on horror and the macabre. We tried to make it as gruesome as we could without overdoing it. I think. I've made this WAD file a little less difficult. No hidden exit this time. All the weapons are in plain sight. There's also ample weapons and ammo to kill all the different monsters.",
+	"version": "80b089",
+	"date": "2013-11-02 15:26:08",
+	"files": [
+		{
+			"filename": "dmomen.wad",
+			"size": 138504,
+			"crc": 993728552,
+			"md5": "9586fef450add617c86944ffcbcf2336",
+			"sha1": "80b089c93910d1ee662b8f8397d1348d2a06e413",
+			"sha256": "bed757610cd56ddac61cdbb9552d5acd4aee3385b626d13dcf2d0e45dcb5a3dc"
+		}
+	]
+}

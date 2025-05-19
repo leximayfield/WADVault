@@ -1,0 +1,17 @@
+{
+	"uid": "hellgate (dc3762).wad",
+	"name": "Hell's Gate",
+	"description": "Your missoin was simple. Go to the small outpost in Pheonix, Arizona. There, a small hallway with Gate at the end. This gate will take you to a small remain of whats left of hell. The UAC thinks only a few monsters excist there. Boy were they wrong . . .",
+	"version": "dc3762",
+	"date": "2014-12-18 22:20:27",
+	"files": [
+		{
+			"filename": "hellgate.wad",
+			"size": 30333,
+			"crc": 2146634041,
+			"md5": "207a1265150b2a0e12e6f55ccddb434a",
+			"sha1": "dc376268e0a2ae080c22f4f5e77f1d2068ced713",
+			"sha256": "b428c2c49083d0ee01e5995793df5311ff372b8a21d82b908f0dd0de4d504d5b"
+		}
+	]
+}

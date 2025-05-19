@@ -1,0 +1,16 @@
+{
+	"uid": "a41_mus.wad",
+	"name": "Music for \"All for One\", the first",
+	"description": "This is a set of replacement background music for all of E1 and three missions of E2 of Doom. It was originally intended to be be included in a41_coop.wad, but that's already mighty big and I've come to reconsider the dubious value of new music.",
+	"date": "2015-09-14 21:01:42",
+	"files": [
+		{
+			"filename": "a41_mus.wad",
+			"size": 303772,
+			"crc": 3654292250,
+			"md5": "8c93516459518af30a552bab0d003296",
+			"sha1": "8b70be7b6ba0afb406de7a0bec625bb3e5cb0845",
+			"sha256": "f5e7c169897b7c2967794d84740e3c9be52593c99bbb48aff49db8f7ac0c31f5"
+		}
+	]
+}

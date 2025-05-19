@@ -1,0 +1,17 @@
+{
+	"uid": "thunder (68b28e).wad",
+	"name": "THUNDER.WAD & THUNDER.SFG (DOSDoom script file)",
+	"description": "A little experiment with ambient sounds.",
+	"version": "68b28e",
+	"date": "2015-01-14 23:08:05",
+	"files": [
+		{
+			"filename": "thunder.wad",
+			"size": 146288,
+			"crc": 248316632,
+			"md5": "038009ed6c9fe35de5a9653414bfa20c",
+			"sha1": "68b28ed7526a340cd3b0a6b35a4bdb3cf009590d",
+			"sha256": "d695c33c4280194f4cde660d62bcd316f07db8c18b377977eee257740933b5af"
+		}
+	]
+}

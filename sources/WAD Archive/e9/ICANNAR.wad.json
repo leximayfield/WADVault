@@ -1,0 +1,16 @@
+{
+	"uid": "ICANNAR.wad",
+	"name": "Hell on Icannar: Old Nuclear Plant",
+	"description": "My third map in history, and my only non-joke map that ever got finished. I planned it to be a part of my \"Hell on Icannar\" megawad, but then my hard drive crashed and this map was the only map that survived. Includes all three keycards, secret areas, several traps, pools, pits and puddles of nukage. Some of the switch puzzles might be a bit confusing. I apologize for the incredibly stupid-looking spaceship at the end of the map; I suck at building spaceships in vanilla format.",
+	"date": "2014-12-18 22:46:31",
+	"files": [
+		{
+			"filename": "ICANNAR.wad",
+			"size": 276011,
+			"crc": 612153760,
+			"md5": "80a236d89ba37bac1214fcb8b91f336e",
+			"sha1": "e96f391687530afc7576b7b9a5ba62cf06b71639",
+			"sha256": "907c9fa57482b62aff937711a1109fdc08e4a5808b7f6f506f4ccd7c85328bd8"
+		}
+	]
+}

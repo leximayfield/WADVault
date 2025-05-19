@@ -1,0 +1,16 @@
+{
+	"uid": "tyranny.wad",
+	"name": "Doom2: The Tyranny Levels 1.0",
+	"description": "Diverse set of deathmatch levels. A few textures. New music for levels 11-30.",
+	"date": "2014-12-15 23:09:26",
+	"files": [
+		{
+			"filename": "tyranny.wad",
+			"size": 2179412,
+			"crc": 17877165,
+			"md5": "ebeb544120d4116c6e6c7000b0c292a4",
+			"sha1": "d0d65172e6006ae4084e66011b8dd0ee698a9128",
+			"sha256": "d1b84ac83073091cca99f4f5e46e1bf5148ebe665fce6c4b0550455fc0e6ddc9"
+		}
+	]
+}

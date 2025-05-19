@@ -1,0 +1,17 @@
+{
+	"uid": "ROOMS (9f6cc6).wad",
+	"name": "ROOMS",
+	"description": "A nicely put together level. \"Try looking for the path to the bonus level\"! Also if you are afraid of heights dont play this level, because there are some pretty high lifts!",
+	"version": "9f6cc6",
+	"date": "2014-01-11 11:21:18",
+	"files": [
+		{
+			"filename": "ROOMS.wad",
+			"size": 67483,
+			"crc": 3253141959,
+			"md5": "1e68bd77850aa2a7c9f4a74c91c6a063",
+			"sha1": "9f6cc66a9111e659fa216f965c0518079200d7e5",
+			"sha256": "2cb82a6d2cb8a5d084147c10b3db1c2088693c06b2e61cf66260b0e701f10a22"
+		}
+	]
+}

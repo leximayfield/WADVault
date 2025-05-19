@@ -1,0 +1,16 @@
+{
+	"uid": "judas32.wad",
+	"name": "Judas32",
+	"description": "This is a DM level designed for 1-on-1 duels, inspired by Judas23. WARNING: The new background music is a .MIDI file, so you'll listen to it only if you use a port that can play it, such as ZDoom-based ports (ZDoom, GZDoom, ZDaemon...).",
+	"date": "2014-12-15 22:45:16",
+	"files": [
+		{
+			"filename": "judas32.wad",
+			"size": 89221,
+			"crc": 3150100240,
+			"md5": "ad2923879fa8ec7b9ca2b9e4b3cc7387",
+			"sha1": "31fef1f5af93aa00c40f707521e877649a402b37",
+			"sha256": "a42562dc308152609528e629304d34dea4741355a0db99d60d20738e6b99acbc"
+		}
+	]
+}

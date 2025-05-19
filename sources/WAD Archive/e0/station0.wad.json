@@ -1,0 +1,16 @@
+{
+	"uid": "station0.wad",
+	"name": "Station Zero",
+	"description": "This is my very first released level. It's supposed to take place in a UAC military station that has been invaded by demons. Not much else to say, really. I hope you don't hate it too much, being it is my first released map... Oh, and, this is an oldschool type map that, as far as I tested it, works with vanilla Doom.",
+	"date": "2014-12-14 20:52:33",
+	"files": [
+		{
+			"filename": "station0.wad",
+			"size": 89473,
+			"crc": 110869989,
+			"md5": "3374dece2cc86f86927d1844ef41b2fc",
+			"sha1": "e03bf03c255d7efa4e6f05f85c211afda4d2bd39",
+			"sha256": "534fbbf472a80b4882f3aff867ac74e0297cd5d674fb6e60f83b0830cf224b42"
+		}
+	]
+}

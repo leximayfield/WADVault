@@ -1,0 +1,16 @@
+{
+	"uid": "takethis.wad",
+	"name": "TakeThis",
+	"description": "Another DOOM II level - Just one big fight to the finish. You will find better and better weapons as you progress. There is plenty of ammo around if you can live long enough to get to it.",
+	"date": "2015-01-14 23:00:08",
+	"files": [
+		{
+			"filename": "takethis.wad",
+			"size": 176921,
+			"crc": 4001494943,
+			"md5": "0db81cf7846c501e6e8a2cd728eda7a1",
+			"sha1": "ea089bba9259a961004e10058483cf84978cc180",
+			"sha256": "9fb08b047a337786b5317963859d8b160ddfb0ffb668a87fc1286aa9010ddf64"
+		}
+	]
+}

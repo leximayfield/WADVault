@@ -1,0 +1,17 @@
+{
+	"uid": "spidered (f58093).wad",
+	"name": "SPIDERED.WAD (\"The Spider Trap\")",
+	"description": "A Marine \"spider-trap\" facility was overrun be demonic rescuers when their master, the Spider Demon, was caught. Now it is up to you to inflitrate and re-take the facility.",
+	"version": "f58093",
+	"date": "2013-11-03 17:47:48",
+	"files": [
+		{
+			"filename": "spidered.wad",
+			"size": 73975,
+			"crc": 2716843818,
+			"md5": "1aca754399cb4efbab8971282fdf2bbe",
+			"sha1": "f580937c0280bdcc5426da731cc59c94ba54c09b",
+			"sha256": "9aa4f20d1e07e2b3f752f02402e4855576db63a204ede092b4042705f311d320"
+		}
+	]
+}

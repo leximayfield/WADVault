@@ -1,0 +1,16 @@
+{
+	"uid": "obsdm.wad",
+	"name": "Obsidian Deathmatch",
+	"description": "A compilation of old-school style deathmatch maps by Tempest with contributions by Jroc, Proteh, and tm512.",
+	"date": "2013-04-22 00:32:53",
+	"files": [
+		{
+			"filename": "obsdm.wad",
+			"size": 2553352,
+			"crc": 1258433154,
+			"md5": "d1fd8505ff48faf471f94ec3a453acbe",
+			"sha1": "ff8f9735c6273b70ddb7b1d9b30097ae47e6f453",
+			"sha256": "f46e1ef9f2b2f6684eec3ea9de04c35e1ce06667ed93fe4c41834930e0d59d85"
+		}
+	]
+}

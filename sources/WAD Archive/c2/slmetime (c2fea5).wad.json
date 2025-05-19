@@ -1,0 +1,17 @@
+{
+	"uid": "slmetime (c2fea5).wad",
+	"name": "--==] Slime Time [==--",
+	"description": "Here we are DooMers, SLIME TIME! The story of this finely constructed WAD goes along the lines of this:",
+	"version": "c2fea5",
+	"date": "2014-12-03 20:16:40",
+	"files": [
+		{
+			"filename": "slmetime.wad",
+			"size": 79863,
+			"crc": 4142212259,
+			"md5": "e00aaf85ed40ee048935d2a700af68f8",
+			"sha1": "c2fea5d6f730178b4a39bffe3c6ffe03dbd97360",
+			"sha256": "6be45d6805547b74adcae1dc7f12c8cf0cc1e44e46f2765e76e3f5d5dfce85c7"
+		}
+	]
+}

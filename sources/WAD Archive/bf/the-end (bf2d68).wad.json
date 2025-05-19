@@ -1,0 +1,17 @@
+{
+	"uid": "the-end (bf2d68).wad",
+	"name": "THE END!",
+	"description": "The end of the levels!",
+	"version": "bf2d68",
+	"date": "2015-01-14 23:00:56",
+	"files": [
+		{
+			"filename": "the-end.wad",
+			"size": 101909,
+			"crc": 1222843597,
+			"md5": "bf30854a76c5de4645a71d074c99d4ec",
+			"sha1": "bf2d68027b7ffbb600b35bffb83fcb6f7bbb8808",
+			"sha256": "70dedb51efacf850bcabcde496e2248b600e62712d493f088d87496fe4e128f4"
+		}
+	]
+}

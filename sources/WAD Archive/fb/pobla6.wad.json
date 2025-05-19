@@ -1,0 +1,16 @@
+{
+	"uid": "pobla6.wad",
+	"name": "Point Blank 6",
+	"description": "Number six of the Point Blank DM level series. This one is hard on the limit, but I do hope you won't get any HOM. I once did and fixed it. The level is one big open area with 2 teleporters, a tricky BFG place in the middle and two other buildings to get Rocket & Plasma (in the appropriate skill).",
+	"date": "2014-12-15 22:02:48",
+	"files": [
+		{
+			"filename": "pobla6.wad",
+			"size": 64794,
+			"crc": 499878449,
+			"md5": "ddc78435ec181fac3416a2c14f798567",
+			"sha1": "fb65613e73a0e1a278e6cb74f02c5c5f753782e1",
+			"sha256": "05251fd171328ae58f9d599bf7c5b13637a0bfe42a8fbf49fa5540da8a55085f"
+		}
+	]
+}

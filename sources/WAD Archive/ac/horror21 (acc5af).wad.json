@@ -1,0 +1,17 @@
+{
+	"uid": "horror21 (acc5af).wad",
+	"name": "Horror.WAD",
+	"description": "Search and destroy, watch your \"six\". This is a Deathmatch, Deathmatch+Co-op level only.",
+	"version": "acc5af",
+	"date": "2013-11-02 15:59:55",
+	"files": [
+		{
+			"filename": "horror21.wad",
+			"size": 64428,
+			"crc": 3465203051,
+			"md5": "9df241ed9ca6a75fe31e94e1e43046a1",
+			"sha1": "acc5af96812b10b3741461b65e0d624882106962",
+			"sha256": "43ea5e21cb04b36f14b5f49d7c4196d371427f2bbb6733cc21cdf67e84749b1f"
+		}
+	]
+}

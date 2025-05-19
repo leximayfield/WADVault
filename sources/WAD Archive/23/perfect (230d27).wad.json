@@ -1,0 +1,17 @@
+{
+	"uid": "perfect (230d27).wad",
+	"name": "The Perfect Deathmatch WAD",
+	"description": "A medium size WAD specifinally designed with",
+	"version": "230d27",
+	"date": "2014-01-07 22:01:04",
+	"files": [
+		{
+			"filename": "perfect.wad",
+			"size": 98443,
+			"crc": 2576431667,
+			"md5": "ab4d0d1710e93ab53fb3f28423cc5772",
+			"sha1": "230d27ae1a7851dfb75bdef05f82df152fe9d2eb",
+			"sha256": "4bdfd25d387cc25847bd01d63305f32979602283a03b370f84f0efe7fea47889"
+		}
+	]
+}

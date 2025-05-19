@@ -1,0 +1,17 @@
+{
+	"uid": "dbp01 (70f8bd).wad",
+	"name": "Monuments of Mars",
+	"description": "A custom single player mapset by members of Doomer Boards (doomer.boards.net)",
+	"version": "70f8bd",
+	"date": "2018-04-15 00:24:54",
+	"files": [
+		{
+			"filename": "dbp01.wad",
+			"size": 4657278,
+			"crc": 1512002021,
+			"md5": "7132150e275a15f7df8d67062fde5731",
+			"sha1": "70f8bd511a0f4957026f36e1dc0c60858546be2f",
+			"sha256": "4995d2736ea1892835375648d774f26c9f5990d18a6b6ac435bc080a2b1e4a34"
+		}
+	]
+}

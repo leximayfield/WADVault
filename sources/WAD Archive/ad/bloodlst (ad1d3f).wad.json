@@ -1,0 +1,17 @@
+{
+	"uid": "bloodlst (ad1d3f).wad",
+	"name": "Bloodlust",
+	"description": "A large underground level that aims to be nonlinear. HMP is the recommended difficulty, UV is much harder and HNTR much easier.",
+	"version": "ad1d3f",
+	"date": "2014-12-21 16:52:34",
+	"files": [
+		{
+			"filename": "bloodlst.wad",
+			"size": 2854531,
+			"crc": 1751771253,
+			"md5": "5342face46c6a184f3577ef301ad347d",
+			"sha1": "ad1d3ffa6f07d25bfa0d348d0945e4e2c44c92a6",
+			"sha256": "0f8fd1e9e28656f29780f785681e6f8ab0073ec7bd34bd5fda7a3dccbe8e0589"
+		}
+	]
+}

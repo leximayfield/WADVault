@@ -1,0 +1,16 @@
+{
+	"uid": "yelowkey.wad",
+	"name": "The Yellow Key Card",
+	"description": "Find the hidden yellow keycard in order to have some semblance of a chance of completing this level",
+	"date": "2015-01-14 14:31:18",
+	"files": [
+		{
+			"filename": "yelowkey.wad",
+			"size": 122835,
+			"crc": 3057750661,
+			"md5": "434e3db5c691dfc7352f3aa7664c71f6",
+			"sha1": "c80fcc26c3ef232b8493dccec59e9cd26fa66f1b",
+			"sha256": "27a7f9bf005b2bf52fb5006ce80d10d09086266a4f377d00cdf380f74e86f2c6"
+		}
+	]
+}

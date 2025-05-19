@@ -1,0 +1,16 @@
+{
+	"uid": "moggo.wad",
+	"name": "Moggo",
+	"description": "Kill the final BOSS!",
+	"date": "2015-09-15 18:41:01",
+	"files": [
+		{
+			"filename": "moggo.wad",
+			"size": 36422,
+			"crc": 1124888316,
+			"md5": "c5fd39e17fc6c5ac2e950fa006509431",
+			"sha1": "d6e2487573319df71f272057cb49415db142c064",
+			"sha256": "ca824b6ac58257a4c666bdda6d6ef52ef0ace480ff067771e6c115fab1107f40"
+		}
+	]
+}

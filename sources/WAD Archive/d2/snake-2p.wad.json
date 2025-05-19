@@ -1,0 +1,16 @@
+{
+	"uid": "snake-2p.wad",
+	"name": "Snake Doom",
+	"description": "Control the snake and collect apples",
+	"date": "2014-12-29 15:37:03",
+	"files": [
+		{
+			"filename": "snake-2p.wad",
+			"size": 146786,
+			"crc": 1021687278,
+			"md5": "00900e929776cd419447f84923f30448",
+			"sha1": "d2e015d2617b53bd3dec85f14e273cab6260f6bd",
+			"sha256": "5893f081e4eab0b76f33cf0c15332547b651a56f1afd8d2dc03dd62e32243182"
+		}
+	]
+}

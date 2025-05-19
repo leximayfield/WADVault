@@ -1,0 +1,16 @@
+{
+	"uid": "cdark.wad",
+	"name": "Cold Darkness",
+	"description": "You play as Sergeant Kane who works for UAC and you are trapped in an arctic land with nobody. Luckily, you see a base and enter it while finding a deep and silent hole.",
+	"date": "2015-09-14 21:53:08",
+	"files": [
+		{
+			"filename": "cdark.wad",
+			"size": 11757651,
+			"crc": 1329515172,
+			"md5": "6056927c91d29e03d8610782ba28043e",
+			"sha1": "9708de52d89f9ecd200706cf17b26dc2dd7718af",
+			"sha256": "791ffc008e43a24e029c73983cafbfcd211def1b9a16c0e71d68314fbc314cd6"
+		}
+	]
+}

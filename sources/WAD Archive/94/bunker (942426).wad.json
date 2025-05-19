@@ -1,0 +1,17 @@
+{
+	"uid": "bunker (942426).wad",
+	"name": "The Bunker",
+	"description": "An inner arena and outer arena, both outdoors, with a building between them, and four different sets of tunnels in the building. All the weapons, etc. are in the tunnels, The \"feature\" is a bunker-type building in the outer arena, which you can lock yourself in and shoot out the windows. There's a deathmatch start in there, so someone might spawn inside just when you feel safe..... This level is intended for Deathmatch only.",
+	"version": "942426",
+	"date": "2014-12-15 23:04:30",
+	"files": [
+		{
+			"filename": "bunker.wad",
+			"size": 131301,
+			"crc": 913843982,
+			"md5": "7b5f7ab1580d9dce9d4be7cc0e65a711",
+			"sha1": "942426bb9fcf941d7292480647d444b8e5417ea4",
+			"sha256": "b6f9b077e572a1c80dcf41ab5a5a692e5f22a13d1775cddaf3b53f7ba358767b"
+		}
+	]
+}

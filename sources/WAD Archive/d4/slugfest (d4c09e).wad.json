@@ -1,0 +1,17 @@
+{
+	"uid": "slugfest (d4c09e).wad",
+	"name": "SLUGFEST.WAD",
+	"description": "My first Heretic WAD. There are some interesting effects in this game to pay attention to, otherwise you may be sorry. A bloody 3 or 4 player deathmatch WAD. Probably my only Heretic WAD now that Duke3D is out!",
+	"version": "d4c09e",
+	"date": "2014-12-30 11:24:58",
+	"files": [
+		{
+			"filename": "slugfest.wad",
+			"size": 57481,
+			"crc": 1546248587,
+			"md5": "94e1dca267891e9324c2f4ef4bb93c80",
+			"sha1": "d4c09ea777bd1e3e80ecc93e9f17924c8b72d6dc",
+			"sha256": "933719c27e81fb0ae8bbc7b4d0abbff06f418254bbe076388b37ff14e539fce6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "prdc.wad",
+	"name": "Paradice",
+	"description": "This wad is a patchwork of many wad fragments and incompleted levels I did in the last 5 years. I gathered them all in this wad, connected the various parts, added monsters and ammo. It's very big and full of monsters.",
+	"date": "2014-12-29 08:44:59",
+	"files": [
+		{
+			"filename": "prdc.wad",
+			"size": 5761614,
+			"crc": 535811775,
+			"md5": "28c255df757c8cf6a45023c4285a7776",
+			"sha1": "061a513e5b5e3382b8a701d71269271893ffeae8",
+			"sha256": "3377771c73ff436417478d578b321ae09ba782a97a6470037a646fea173be31d"
+		}
+	]
+}

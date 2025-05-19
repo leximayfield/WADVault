@@ -1,0 +1,17 @@
+{
+	"uid": "cave (df87dc).wad",
+	"name": "The Cave",
+	"description": "This is my first WAD :)",
+	"version": "df87dc",
+	"date": "2014-12-15 23:06:43",
+	"files": [
+		{
+			"filename": "cave.wad",
+			"size": 39373,
+			"crc": 2535290076,
+			"md5": "fe6ea447ca7e68bea83221fff0cc1fcd",
+			"sha1": "df87dc539b6dacd72295025b86ed24d33347b285",
+			"sha256": "c9a19d1132915f87eee65c19333464f85a98851f05df7590d52ceab2105561d9"
+		}
+	]
+}

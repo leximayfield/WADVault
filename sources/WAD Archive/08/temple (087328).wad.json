@@ -1,0 +1,17 @@
+{
+	"uid": "temple (087328).wad",
+	"name": "Temple of Doom",
+	"description": "A medieval style level with lots of green and a couple of huge rooms (check out the pentagram in the shrine room!). It's not one of those gigantic, brain bending levels, but I paid special attention to textures (just a few misaligned spots), light levels, sector heights, hidden doors, etc. to stick to the basic theme, maintain realism, and enhance the experience.",
+	"version": "087328",
+	"date": "2014-12-14 20:57:21",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 116828,
+			"crc": 657743938,
+			"md5": "b5df6fce66e890e32563453cc3fc9b2b",
+			"sha1": "087328842f30c898c3388b3e457c7ec003e718cd",
+			"sha256": "d07d7652d36b33856f5a0a4313384df91185154207bbc5b8526fe6510abde91d"
+		}
+	]
+}

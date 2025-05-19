@@ -1,0 +1,16 @@
+{
+	"uid": "sector10.wad",
+	"name": "Sector 10",
+	"description": "A standalone release of 10secto2.wad's map07. The only change is the added nice blue sky.",
+	"date": "2014-12-29 17:01:56",
+	"files": [
+		{
+			"filename": "sector10.wad",
+			"size": 910792,
+			"crc": 1829288254,
+			"md5": "03da6bda4568ce14c1555f7d93941ce9",
+			"sha1": "65ac73d14909ae126d2277805b0c79acb353533c",
+			"sha256": "5fa53089c367787ece7b9ef2124bc84901d75e6cf522d1583d8f8d34233fe48f"
+		}
+	]
+}

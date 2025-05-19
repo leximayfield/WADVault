@@ -1,0 +1,17 @@
+{
+	"uid": "neb01 (5bf72e).wad",
+	"name": "Nebula 95: Nebula Shrine",
+	"description": "First entry in a series of small vanilla doom maps in a space adventure built off personal nostalgia. Each entry consists of a two short maps: an introductory monsterless map with a single secret to find before tackling the mission, and the main map itself. I release them in the order they are made, but the difficulty depends on the map. This marble-themed map is one of the harder ones in the series so far. It was based on my map 18 from Odamex Nitro, but the layout (particularly the perimiter around the central shrine), has changed quite a bit for the single player version. It's a sorta free-roaming level in which all weapons are available, if you know where to find them.",
+	"version": "5bf72e",
+	"date": "2018-05-29 00:27:26",
+	"files": [
+		{
+			"filename": "neb01.wad",
+			"size": 938741,
+			"crc": 2567625387,
+			"md5": "5bd8a8b9142cf9d471a0fed8ea4d0504",
+			"sha1": "5bf72ed4c2a7f4f157f82eb955aeaf4d2c2fc51f",
+			"sha256": "21088a37c26cd485de0733598b95f2a3be769be0eb289ae6bf36fc8e58b863a0"
+		}
+	]
+}

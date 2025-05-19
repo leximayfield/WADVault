@@ -1,0 +1,17 @@
+{
+	"uid": "monsters (e980fb).wad",
+	"name": "\"Monsters\"",
+	"description": "This is an absolute wild \"micro\" Doom II level. Four rooms with 3 Spider Masterminds, 1 Cyberdemon, and 1 Revenant. There is no health and no armor, just a BFG9000 and some cells! The odds are stacked against you, but this level can be won! Warning: This level should not be played by anyone with a weak heart! This may be the best \"micro\" level you've ever played.",
+	"version": "e980fb",
+	"date": "2014-01-07 21:48:01",
+	"files": [
+		{
+			"filename": "monsters.wad",
+			"size": 4515,
+			"crc": 71780503,
+			"md5": "4f939cc1c04b33b8664c5e87c0c44a97",
+			"sha1": "e980fb46fb8221dfb63036dcc19a447319fd5c18",
+			"sha256": "2d096147156177cdebe7e9d3a2b612a7299327a29a792b755a0c9ba6f592f2f9"
+		}
+	]
+}

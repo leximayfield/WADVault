@@ -1,0 +1,16 @@
+{
+	"uid": "nuke_tun.wad",
+	"name": "NUKE TUNNELS.WAD",
+	"description": "You find yourself deep inside a nuclear sewage complex, with radio active sludge all around you. You must fight your way through, finding radiation suits along the way to make your journey a little easier. When you get to the tunnels, you will have three routes to choose from. Then, work your way to the outside where you will need to find the key to the control center. From there you can teleport to the exit. There is no Cyberdemon in this level.",
+	"date": "2014-12-14 20:53:57",
+	"files": [
+		{
+			"filename": "nuke_tun.wad",
+			"size": 371987,
+			"crc": 3310040542,
+			"md5": "f9e049f0514fbdff938dc92db1cbc002",
+			"sha1": "89d386eb9575a126f5ee1ef39c317ee9107545a9",
+			"sha256": "9a4d2b3230a9730c78c6f088dea62dc979d4a7531e232daff4ac3016bdbe1063"
+		}
+	]
+}

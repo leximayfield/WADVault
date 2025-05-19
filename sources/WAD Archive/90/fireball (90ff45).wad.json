@@ -1,0 +1,17 @@
+{
+	"uid": "fireball (90ff45).wad",
+	"name": "Fireball Frenzy",
+	"description": "You against 96 Imps, 12 Cacodemons, and 4 CyberDemons. All in one huge T shaped arena! Don't worry all the enemies except the Cacodemons are basically behind bars, so they can't roam around the arena. The only way I can describe the level is, it's almost like dodgeball, but these balls are on fireball and there are about 100-200 (these numbers are just estimates) of them heading in your direction all at once!! :) This is not my best wad, this started as an expirement to see how many projectiles I could have on the screen without the game crashing. And after playing it a little, I found it to be kinda fun. So I decided to do a little work on it to make it decent enough to upload onto the internet. And this is the finished product of that expirement, \"Fireball Frenzy.\"",
+	"version": "90ff45",
+	"date": "2014-12-18 23:08:28",
+	"files": [
+		{
+			"filename": "fireball.wad",
+			"size": 185068,
+			"crc": 3739139936,
+			"md5": "03240adee2472700f821d80d16f992b7",
+			"sha1": "90ff45a8610779d94680d35a248c9bb0bf4d4a3a",
+			"sha256": "ffd4371e288980fe7411e0a9f453acc95e0782636054bb8467f30d6aa703c0d2"
+		}
+	]
+}

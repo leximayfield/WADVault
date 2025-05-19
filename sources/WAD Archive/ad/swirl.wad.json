@@ -1,0 +1,16 @@
+{
+	"uid": "swirl.wad",
+	"name": "SWIRL",
+	"description": "Fighting area in the middle with crossing channels, surrounding rooms containing startpositions, 4-fold- symmetric layout, perfectly aligned textures.",
+	"date": "2014-12-15 22:59:41",
+	"files": [
+		{
+			"filename": "swirl.wad",
+			"size": 101142,
+			"crc": 3857494620,
+			"md5": "b243f55b377838e237f5386cf18f6105",
+			"sha1": "adb29935d40bb1cee844e79d97aed0d7962102aa",
+			"sha256": "fdafdb2c29f7ed3c4aac40676e0d22f7ef771f66a5d5a3edd373cefc3de59d62"
+		}
+	]
+}

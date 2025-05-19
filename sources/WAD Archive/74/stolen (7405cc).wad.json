@@ -1,0 +1,17 @@
+{
+	"uid": "stolen (7405cc).wad",
+	"name": "STOLEN.WAD",
+	"description": "This is a nice deathmatch level. It is relatively small. There are 8 transporters. The switch to end the level is hidden. There are only 3 extra weapons. There will be many frags. No STARTAN3. Lots of tricks and hiding places. Texture alignment.",
+	"version": "7405cc",
+	"date": "2013-11-02 15:51:13",
+	"files": [
+		{
+			"filename": "stolen.wad",
+			"size": 51816,
+			"crc": 2033591605,
+			"md5": "842f1a14b84fb4f81287fb5fa8847661",
+			"sha1": "7405ccd5896fde18555f0083358d6776ea4b7a0a",
+			"sha256": "be1736b87db07753ed436dc45769d8390ebfe69ad334fef69de9099974edaf4f"
+		}
+	]
+}

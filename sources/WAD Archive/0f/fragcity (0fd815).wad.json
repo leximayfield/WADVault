@@ -1,0 +1,17 @@
+{
+	"uid": "fragcity (0fd815).wad",
+	"name": "Frag City",
+	"description": "You start out in the middle of an arena, if you are able to reach a teleporter, you can enter the second area. There is also a special third area you can fight or run through.",
+	"version": "0fd815",
+	"date": "2013-11-02 15:15:20",
+	"files": [
+		{
+			"filename": "fragcity.wad",
+			"size": 118445,
+			"crc": 2882624855,
+			"md5": "697ea919541615ab3bf6b8c421869290",
+			"sha1": "0fd815f5d02148c28652151468be80c89c4817b2",
+			"sha256": "6826dd5a6058b2b4fa569287ad86b1b1b796128e91286b891d95acfa8fa30acd"
+		}
+	]
+}

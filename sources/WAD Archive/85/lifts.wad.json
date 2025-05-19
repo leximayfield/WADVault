@@ -1,0 +1,16 @@
+{
+	"uid": "lifts.wad",
+	"name": "Tutorial: Lifts",
+	"description": "I made this as a tutorial for those whom want to learn about the floor lifts with texture and special changes. I am making a megawad and it requires this. Same as the previous 3 - Doom in Hexen Format",
+	"date": "2017-06-27 00:17:31",
+	"files": [
+		{
+			"filename": "lifts.wad",
+			"size": 10633,
+			"crc": 3341541121,
+			"md5": "2f2287f1012e80925580088ef9bd8dfa",
+			"sha1": "852f8b96a9281592315c6d8f4387280d404265c9",
+			"sha256": "41a88cc8c4fd5192845e0eaf2ce377c215d43a7df668bd58bf51807efc52be26"
+		}
+	]
+}

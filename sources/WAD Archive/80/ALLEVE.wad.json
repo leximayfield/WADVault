@@ -1,0 +1,16 @@
+{
+	"uid": "ALLEVE.wad",
+	"name": "All Hallow's eve wad",
+	"description": "Cornell University. This, I think, is : my 7th wad (some others include: COLONY, : CRESCENT, WHITROOM, SIXAREAS and PUREEVIL : (can't remember the last one(s)). I got a : bit of feedback from WHITROOM and CRESCENT : hope to hear some from this PWAD as well. : More shameless self-promoting: I also made : a music wad called ACTIOMUS (which has much : more appropriate music than the classical : music one that I made). I also have a graphic : file called SEQUENCE. All these are available : on ftp. Made on Doom version 1.666. A fairly good- : sized level (1300 vertices) taking advantage : of the power of doom to give you different : elevations (ledges, lifts, etc.) in a game. : Lots of switches and triggers.",
+	"date": "2014-02-15 17:11:10",
+	"files": [
+		{
+			"filename": "ALLEVE.wad",
+			"size": 164565,
+			"crc": 3476986745,
+			"md5": "fb1565c95b23dd59550dfdd29ca736b4",
+			"sha1": "80afb458ff9223b138060548ee4d54d8f44a2252",
+			"sha256": "2a8d2ec0d86d25c39c069007feb5ffa4ce4791179614483a479eb0f9eb47e789"
+		}
+	]
+}

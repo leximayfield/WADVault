@@ -1,0 +1,16 @@
+{
+	"uid": "excorpse.wad",
+	"name": "Exquisite Corpse",
+	"description": "The phrase \"exquisite corpse\" originates from a surrealist game in which sentences were created by a group of people, each person not knowing what the previous words were. In this WAD, each of the 12 authors was given a block of space 1024x1024 units big and asked to create a part of a larger level. However, all they were given to guide them were small slivers of the previously created pieces adjacent to theirs. The Exquisite Corpse WAD was conceived by Linguica and created by members of the Doomworld forums in early September 2004. ----------------------- | | | | | | 1 | 2 | 3 | 4 | | | | | | |-----+-----+-----+-----| | | | | | | 5 | 6 | 7 | 8 | | | | | | |-----+-----+-----+-----| | | | | | | 9 | 10 | 11 | 12 | | | | | | ----------------------- 1. Linguica 2. Shtbag667 3. Darksoul 4. Volteface 5. Fiend 6. Cyb 7. _5hifty 8. chopkinsca 9. Blackfish 10. Scrum 11. EarthQuake 12. boris",
+	"date": "2014-12-18 23:06:47",
+	"files": [
+		{
+			"filename": "excorpse.wad",
+			"size": 949304,
+			"crc": 2362939317,
+			"md5": "9906c51f3394b4309fad21d88cedd3b0",
+			"sha1": "7d5efa7e4f8dee1897e1ce43a166391580a3751a",
+			"sha256": "0309b330002273f26cf2db5baf24f56de8ab162d0ab597c501c719922712b97f"
+		}
+	]
+}

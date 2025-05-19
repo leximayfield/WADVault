@@ -1,0 +1,16 @@
+{
+	"uid": "chaosrsh.wad",
+	"name": "Chaos Rush v1.0",
+	"description": "I created this back in 1997 as an experiment to learn the new features of Hexen. As you can tell by the rather square nature of the map, I started playing with Hexen right after I finished WATRCITY.WAD for Heretic.",
+	"date": "2014-12-31 12:14:06",
+	"files": [
+		{
+			"filename": "chaosrsh.wad",
+			"size": 108867,
+			"crc": 2802903204,
+			"md5": "4bb813d638959b514db421e92c4f1d52",
+			"sha1": "af497d7e10ea967ccb6fdf9fe3052213ed0c333e",
+			"sha256": "6ac14bbdefb1a05b1e2111cda9803c5bfbc695898ba31b97f1c2f50ad1ae5ed7"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "e1mx.wad",
+	"name": "Mission X",
+	"description": "Your typical episode one-styled WAD. The first level PWAD I have ever released.",
+	"date": "2015-09-15 19:25:53",
+	"files": [
+		{
+			"filename": "e1mx.wad",
+			"size": 102988,
+			"crc": 4099020543,
+			"md5": "450c1454d40cef23322f4673fb866b47",
+			"sha1": "36966658e400c37d30ae267a9a4e4105349be954",
+			"sha256": "ed87b2ebdbf13a15bac5f7b56415b093ecf386b04f0e75b46d76583fbc928829"
+		}
+	]
+}

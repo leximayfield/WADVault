@@ -1,0 +1,17 @@
+{
+	"uid": "shire (789bee).wad",
+	"name": "SHIRE.WAD",
+	"description": "It's a deathmatch (again). This time, you play company reps who have gone to the Shire Centre in Reading, UK, to sell your lovely skin care products. (This is a true story). Things have turned nasty between you and you have to slug it out with weapons made from empty cream tubs and giveaway pens.",
+	"version": "789bee",
+	"date": "2013-04-22 00:51:03",
+	"files": [
+		{
+			"filename": "shire.wad",
+			"size": 62019,
+			"crc": 385289169,
+			"md5": "bdcc64387fa1852e5ac6ef515d6b4c22",
+			"sha1": "789beed0c6cc057115058cb7bdb34357a2196af9",
+			"sha256": "db1c4e4dfba4fc63b0676a8015a2b4f623e3b4eae67d48841f301548b205c954"
+		}
+	]
+}

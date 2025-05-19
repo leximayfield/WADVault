@@ -1,0 +1,16 @@
+{
+	"uid": "nectar.wad",
+	"name": "Nectarine DM",
+	"description": "This is a single DM map I whipped up over a couple of days. I was listening to Nectarine Demo Scene radio (http://www.scenemusic.net/index.htm) and suddenly got inspired. It's a brown brick map with some green marble thrown in for good measure. I lke it, I hope you do too.",
+	"date": "2014-12-15 21:39:30",
+	"files": [
+		{
+			"filename": "nectar.wad",
+			"size": 154012,
+			"crc": 3867292034,
+			"md5": "b89ccfceadf8f653784e3b662729ac41",
+			"sha1": "90816fe6b4f658e47686a3e6ab0ea52b5bddbc9f",
+			"sha256": "75c443da7bfc7b5fd941c6f5656b6b60cfa49b5adb867d9bfc51aab21fac0c73"
+		}
+	]
+}

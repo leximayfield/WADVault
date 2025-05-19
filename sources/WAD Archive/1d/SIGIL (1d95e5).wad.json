@@ -1,0 +1,17 @@
+{
+	"uid": "SIGIL (1d95e5).wad",
+	"name": "SIGIL v1.1",
+	"description": "Baphomet was only doing Satan's bidding by placing a powerful sigil in the teleporter out of E4M8 to bring you back to Hell. Somehow they didn't understand that you're the reason they failed in the first place.",
+	"version": "1d95e5",
+	"date": "2019-05-31 15:33:54",
+	"files": [
+		{
+			"filename": "SIGIL.wad",
+			"size": 4525740,
+			"crc": 1518387917,
+			"md5": "1fe9daa0e837c7452eb2f91aac2cc983",
+			"sha1": "1d95e599a1587d1130bf24356a73b817ac2c1b57",
+			"sha256": "a4ebe86370e786b254d6e7e81a44d21208db5673edc1b653ee2af75b634e0938"
+		}
+	]
+}

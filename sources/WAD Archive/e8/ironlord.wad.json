@@ -1,0 +1,16 @@
+{
+	"uid": "ironlord.wad",
+	"name": "Iron Lords",
+	"description": "A small map intended as an attempt at making a more or less balanced and playable traditional experience. Replaces MAP01.",
+	"date": "2019-08-26 12:51:30",
+	"files": [
+		{
+			"filename": "ironlord.wad",
+			"size": 378535,
+			"crc": 4290923762,
+			"md5": "362d3235e361be114e7b54589b8a1a8c",
+			"sha1": "e8c571950900d18851763e07671eb426a9c971d9",
+			"sha256": "a34dae3ddf610120125b1fb88347863b54a8bff22e5e60ca3969b6345c8ba9e2"
+		}
+	]
+}

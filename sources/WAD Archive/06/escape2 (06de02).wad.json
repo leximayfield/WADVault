@@ -1,0 +1,17 @@
+{
+	"uid": "escape2 (06de02).wad",
+	"name": "ESCAPE",
+	"description": "A spooky castle with skeletons in the dungeons. You have been incarcerated here for a few years after unsuccessfully attempting to storm the place on your own (a foolish thing to do). Still, your superiors think you might have useful information (if you're still alive), so they send in a real marine to bail you out. Unfortunately, your guard is a tough nut and manages to blend the marine's brains with the wallpaper before himself buying the farm. Pity, you'll never finish that game of halma. With his dying breath the marine croaks something about a secret passage and a teleporter waiting for you out in the woods, so you set off, wondering who in Hell designed this amazing place. You wish you had more time to hang around.",
+	"version": "06de02",
+	"date": "2013-11-02 15:23:18",
+	"files": [
+		{
+			"filename": "escape2.wad",
+			"size": 151501,
+			"crc": 2267965216,
+			"md5": "ab47bfc0c8afa950f743922cc48553cc",
+			"sha1": "06de026cc92de2bf9e90414a85ec004b751b53ef",
+			"sha256": "368e0642b37fc2b5a625c0d74ba8f1ecdae7c3c6ac594a3933debe1c154220c8"
+		}
+	]
+}

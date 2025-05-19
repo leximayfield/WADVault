@@ -1,0 +1,16 @@
+{
+	"uid": "rvenge01.wad",
+	"name": "rvenge01.wad & rvenge01.lmp",
+	"description": "rvenge01 is a 3 level WAD: - Level01: Escape from Hellcatroz: Troops from hell have brought you to the prison: Hellcatroz. You must escape as quick as possible. - Level02: Sewer time: The prison lays near to the water pumping station. If you go trough the sewers you may be able to get to the \"Ruler's maison\". - Level03: Ruler's maison: here lives the guardian of the portal to hell. Will you be able to distroy him and go to hell? if so, you can search for the big brain after this mess and destroy it. I have tried to make the levels as detailed and realistic as i can. But this is my first WAD. So i don't know if i succeeded. I have added a demo that finishes all three levels on UV and reveals all secrets. But you will need Zdoom to play the demo.",
+	"date": "2014-12-29 08:40:20",
+	"files": [
+		{
+			"filename": "rvenge01.wad",
+			"size": 263109,
+			"crc": 166881641,
+			"md5": "29697dd1e9d788dec474be41c398724a",
+			"sha1": "822e1b30c992fe57de9f043267659c7570569aa7",
+			"sha256": "fe4974c954a120236fc5d09a99757e4911413e7ae0c244155c4f24d498e2ce91"
+		}
+	]
+}

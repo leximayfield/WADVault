@@ -1,0 +1,16 @@
+{
+	"uid": "pan.wad",
+	"name": "Pan.wad",
+	"description": "The original six levels from Moria.wad, out of the 2nd, plus new others.",
+	"date": "2013-11-06 22:49:41",
+	"files": [
+		{
+			"filename": "pan.wad",
+			"size": 1264608,
+			"crc": 1856492174,
+			"md5": "0871bd0ecc4658178daf709101b5f629",
+			"sha1": "67edc27127edd3dca13ad656dfd2f4a0e4809f18",
+			"sha256": "9dc41cc84f4bbd2dceb5a8f155ec83f0f9e6ef36fffe8a5f4567e857e5b457d4"
+		}
+	]
+}

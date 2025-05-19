@@ -1,0 +1,16 @@
+{
+	"uid": "herechok.wad",
+	"name": "HereCHOOK v1.0",
+	"description": "Continuation of the Chook DOOM theme but this time with Romero bashing in mind :) This Rather funny patch replaces gargoyles with chooks and replaces the crossbow with an awesome chicken bow. The plagerist Heretic Chickens have also been kindly replaced.",
+	"date": "2018-04-15 00:13:38",
+	"files": [
+		{
+			"filename": "herechok.wad",
+			"size": 651648,
+			"crc": 272336506,
+			"md5": "aa5db76b539401ff978717dd4d5dadfb",
+			"sha1": "4bd27526f8405bc84e6c69ab4a5034b26ca997ad",
+			"sha256": "39bcdafa20365d8cd3244c0281524be14580e99751e771b5f77ae59c51f1d029"
+		}
+	]
+}

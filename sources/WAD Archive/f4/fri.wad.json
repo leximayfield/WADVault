@@ -1,0 +1,16 @@
+{
+	"uid": "fri.wad",
+	"name": "Fragfest",
+	"description": "This is a deathmach wad that is meant to be played by 2-6 people. It has some good spots to take cover and has a fast pace.",
+	"date": "2014-12-12 14:11:30",
+	"files": [
+		{
+			"filename": "fri.wad",
+			"size": 150322,
+			"crc": 3491627274,
+			"md5": "cf82512da3b33e30ad31a312cc5433f2",
+			"sha1": "f42f4eb45cc2f014fd97eb16d46e769fac120796",
+			"sha256": "95576d41cbdb4b2ed710fa9c60618bf0bceaa72b187aadd9b3b6e49f8ce4ee7c"
+		}
+	]
+}

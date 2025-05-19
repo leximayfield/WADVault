@@ -1,0 +1,16 @@
+{
+	"uid": "fxbensnd.wad",
+	"name": "Ben's DOOM Sounds",
+	"description": "These are some sounds I recorded and editted to replace ALL the creatures' sounds. As well, the pistol fire sound has been replaced with a hollow sounding gun fire but it has a neat ending: the sound of bullet shells hitting the ground! I'm placing these sounds in a separate PWAD file instead of putting them into actual level PWAD files to allow users the option of including or not including the sounds (after all, you may get sick of the voices - I know I did! :).",
+	"date": "2013-11-04 20:06:35",
+	"files": [
+		{
+			"filename": "fxbensnd.wad",
+			"size": 507435,
+			"crc": 3288816168,
+			"md5": "b3fbce2df889de41284f46e59d5f841a",
+			"sha1": "c2fb654720eab3f0d416e63aa8967268e6f96c79",
+			"sha256": "6bd1feb3fa404fda6d1355d9d21e67762761870c5a442c4e2a548c34f4a8ca48"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "redemption (cf6791).wad",
+	"name": "Redemption I",
+	"description": "The first of the Redemption series. This wad was oringally supposed to be released sometime in April, but never was, due to a lack of story, but now there is one.",
+	"version": "cf6791",
+	"date": "2014-12-29 09:11:21",
+	"files": [
+		{
+			"filename": "redemption.wad",
+			"size": 4841787,
+			"crc": 3670215809,
+			"md5": "abec76af1796c7366e2e1f4eb62a4abf",
+			"sha1": "cf679116eb6e4b61db4fdbedac0b90fc64ab136c",
+			"sha256": "43db365e668e100942fbf3c9ec278338aab43573838d1a820b95480e72e1d829"
+		}
+	]
+}

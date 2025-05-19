@@ -1,0 +1,17 @@
+{
+	"uid": "oldwest (f8f2d8).wad",
+	"name": "OLDWEST.WAD",
+	"description": "This level is a recreation of an old west town. Much attention has been paid to the balance and design of this level. There is NO BFG, and the lone plasma rifle is hard to get. Shotguns and super shotguns are everywhere. Chainguns and rocket launchers are also available. However, this is definately a shotgun level! As of yet, there are NO monsters. That may change, however.",
+	"version": "f8f2d8",
+	"date": "2016-02-07 20:35:50",
+	"files": [
+		{
+			"filename": "oldwest.wad",
+			"size": 84807,
+			"crc": 1210954916,
+			"md5": "7ea2b9770f40dfb0eae487ee11552bf1",
+			"sha1": "f8f2d86aefdef84ae080e3fca1581aac5a1cd9b0",
+			"sha256": "e0023e3b0903ef44a9768d975da490aacc658829ded8e890a0fe4769be3529ed"
+		}
+	]
+}

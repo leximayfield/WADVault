@@ -1,0 +1,16 @@
+{
+	"uid": "bandr.wad",
+	"name": "Brown and Red",
+	"description": "This is a single Boom-compatible map made for the Vinesauce mapping contest of 2016. It's a bite-sized slaughter map. Ultra-Violence is intended to challenge the best Doom players, while any moderately experienced Doom player should have a good time on Hurt Me Plenty, and the lowest difficulty is implemented too.",
+	"date": "2018-04-16 08:07:07",
+	"files": [
+		{
+			"filename": "bandr.wad",
+			"size": 1348479,
+			"crc": 4083559809,
+			"md5": "18a54305f155f97eee62a333f80b64dd",
+			"sha1": "6e9f34bf3b422ba7108eb5404fdab3f98ee2cdd0",
+			"sha256": "437d3116e48efb70bd77e9662f34bd4b28d7ed45ed6aaf62ec87114a9d8bde5a"
+		}
+	]
+}

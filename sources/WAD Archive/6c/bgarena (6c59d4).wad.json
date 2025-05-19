@@ -1,0 +1,17 @@
+{
+	"uid": "bgarena (6c59d4).wad",
+	"name": "Bluegill's Arena of Death",
+	"description": "This level is basically one big room. Its meant to : be played with monsters (for some sounds), don't : worry you'll never see them. :) It's totally a : deathmatch level. All weapons are present but some : extract a price to retrieve. There is no armor and : very little health. Dim lighting makes for a hard : match.",
+	"version": "6c59d4",
+	"date": "2014-01-07 22:07:02",
+	"files": [
+		{
+			"filename": "bgarena.wad",
+			"size": 321844,
+			"crc": 2044248227,
+			"md5": "846ace3f7c68d36f83a1e958cc795caa",
+			"sha1": "6c59d40310f817e504bb071313f903fdd93b183a",
+			"sha256": "4afacca7ca883253f4de9466bda0fe9afcfd0524d7054b85bbfb34f91c2b4ed0"
+		}
+	]
+}

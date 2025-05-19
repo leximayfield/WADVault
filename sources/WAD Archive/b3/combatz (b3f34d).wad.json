@@ -1,0 +1,16 @@
+{
+	"uid": "combatz (b3f34d).wad",
+	"name": "DOOM: The Combat Zone",
+	"version": "b3f34d",
+	"date": "2014-01-04 11:56:02",
+	"files": [
+		{
+			"filename": "combatz.wad",
+			"size": 170927,
+			"crc": 4220987342,
+			"md5": "a6cce79a8a6b1ddf672d4e9d31d93b8b",
+			"sha1": "b3f34db5727f8aa8cd3addbfa20a6e863db4d85b",
+			"sha256": "e7da38dfc5792017463db40d0be350b3ae4e4909f6f1b11687c41b854027d799"
+		}
+	]
+}

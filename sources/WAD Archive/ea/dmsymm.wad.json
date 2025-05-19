@@ -1,0 +1,16 @@
+{
+	"uid": "dmsymm.wad",
+	"name": "Dm-Symmetry",
+	"description": "An (obviously) symmetrical map set in a hellish marble temple-like thing. Some frantic close-quarters battles as well as more open areas. The powerups are rather difficult to get (you'll soon see why).",
+	"date": "2013-04-19 00:29:03",
+	"files": [
+		{
+			"filename": "dmsymm.wad",
+			"size": 1750345,
+			"crc": 2725734872,
+			"md5": "793ef14a527fbd750d23870ccfa5007c",
+			"sha1": "ea892b0ab3a59989d88d743be3b23dd70959afbf",
+			"sha256": "4bff69369dfcb18f60d2d85dcb608a0cf9b5f214e8a0e0ee3a94ce7fb0034ffa"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmarena (3b1d06).wad",
+	"name": "THE ARENA",
+	"description": "Okay, I first started out to add a couple of Halls to the Original Game 1, Level 1. This escalated as we continued to play the level at work. My kids (who are way to young to be allowed to play DOOM) suggested I put a bunch of the Red Balloons, Minotaurs (Barons), a Spider and a Rocket Man (Cyborg) in the \"Arena\" to see who would win!! I did as they asked (temporarily, I thought) and all the Doomers at work liked it! Sometimes the Spider wins, at other times the Cyborg wins, and sometimes a Minotaur or two will survive, although somewhat weakened.",
+	"version": "3b1d06",
+	"date": "2013-11-02 15:14:59",
+	"files": [
+		{
+			"filename": "dmarena.wad",
+			"size": 91371,
+			"crc": 1682155849,
+			"md5": "61aa0c6defb6ca354db15fef930712e6",
+			"sha1": "3b1d06844005d0ce679918ca4e9b0b829af9f263",
+			"sha256": "1cda877d318f29ad8b27c350993d575d3bcfba672e126f41b2a69b1d1b9dd65a"
+		}
+	]
+}

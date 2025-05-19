@@ -1,0 +1,17 @@
+{
+	"uid": "octapit (3f3114).wad",
+	"name": "Octagon Pit",
+	"description": "I made this wad first as a deathmatch wad and then decided to add some monsters to the mahem. Basically there's a central octagonal room with raised surounding platforms. A couple of side rooms accessed via teleporters with one taking inspiration from Indiana Jones, The Last Crusade. :)",
+	"version": "3f3114",
+	"date": "2014-12-03 20:04:31",
+	"files": [
+		{
+			"filename": "octapit.wad",
+			"size": 104739,
+			"crc": 3652308110,
+			"md5": "b27f5a88140980b9bc95029f1babfe24",
+			"sha1": "3f311415320c32cb572c44aa361b8c240299d6a0",
+			"sha256": "ceb9d1ae59c68af96ee3fdc1eb0db0246aa6a5fdc6c955e49d0463913196b63e"
+		}
+	]
+}

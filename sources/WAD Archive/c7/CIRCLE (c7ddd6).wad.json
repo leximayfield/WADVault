@@ -1,0 +1,16 @@
+{
+	"uid": "CIRCLE (c7ddd6).wad",
+	"description": "Never to far away from your opponents, Switches make the level harder by raising barons etc. Use Sky1.gif to set the mood (DMGRAPH NEEDED, use same insertion points as normal sky1) Based on a circle to allow easy reach of any part of the complex, and the dark mines section to hide out in.",
+	"version": "c7ddd6",
+	"date": "2013-11-02 15:57:35",
+	"files": [
+		{
+			"filename": "CIRCLE.wad",
+			"size": 156107,
+			"crc": 2287364322,
+			"md5": "faa98798698ec947feb62f24f0b112c3",
+			"sha1": "c7ddd60333d6dddc670b1759070268e20138c24a",
+			"sha256": "d3bc3b4f4df5f5316ef8ca30e346f74fc80a04661d2a2c5d0559a53966f56998"
+		}
+	]
+}

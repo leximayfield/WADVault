@@ -1,0 +1,16 @@
+{
+	"uid": "smalld.wad",
+	"name": "A Small Deathmatch Level",
+	"description": "This level is designed only for deathmatch, and primarily for two people. I made it small and simple so that it would be fast via modem play. This level is way too small for four player deathmatch, but if you want total mayhem, go ahead and try it. It's a fun level for two people, and it is FAIR; something which many deathmatch levels lack. The only way to win in this level is by skill alone, not by knowing where secrets or powerups are (as it is with most deathmatch levels). There are no secrets in this level, BTW. If you like the super shotgun, then play this level on skill 1-2. If you are a veteran Doom player like me, then put it on skill 3-4. This changes the super shotguns to regular shotguns (The super shotgun is MUCH too powerful for deathmatch, IMHO). I recommend playing this level with Deathmatch 2.0.",
+	"date": "2014-01-07 21:45:51",
+	"files": [
+		{
+			"filename": "smalld.wad",
+			"size": 22850,
+			"crc": 2093747965,
+			"md5": "18f5ea6c757e6240141baf69f99c14d3",
+			"sha1": "4b1527a501c09dc37dddbb5b8e4cffa8fed48ee9",
+			"sha256": "36a2ea06fbeed58eeed915376ca24b2d137510ee849f1139f523eae8ff31bc9e"
+		}
+	]
+}

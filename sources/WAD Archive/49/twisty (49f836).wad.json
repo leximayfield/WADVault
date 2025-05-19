@@ -1,0 +1,17 @@
+{
+	"uid": "twisty (49f836).wad",
+	"name": "TWISTY.WAD",
+	"description": "(Set the mood here.)",
+	"version": "49f836",
+	"date": "2014-12-03 20:04:50",
+	"files": [
+		{
+			"filename": "twisty.wad",
+			"size": 73542,
+			"crc": 39300859,
+			"md5": "188ce3c0a29d092b9ce9452546614bf0",
+			"sha1": "49f8360ed8c37a0f14ffccbdcca8b6cc78a531d1",
+			"sha256": "34e22ecc3002a3786f14dadcba702157b29a46020c0e3d6bbedd5437a0d81ad2"
+		}
+	]
+}

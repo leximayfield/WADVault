@@ -1,0 +1,17 @@
+{
+	"uid": "007tower (52d770).wad",
+	"name": "007tower or James Bond tower or james bond casket",
+	"description": "a tower. Mr Bond is on the crate box.",
+	"version": "52d770",
+	"date": "2013-11-06 22:44:58",
+	"files": [
+		{
+			"filename": "007tower.wad",
+			"size": 65947,
+			"crc": 2374258972,
+			"md5": "d5220ce23272f21729d67d7a615cca77",
+			"sha1": "52d770700339af33fdbf489a04df2c1e045f1373",
+			"sha256": "20377ff10efa4125ee5a943ba82cc745c53ee50293b457fb82fc8c66fed2374a"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"uid": "sliddr2.wad",
+	"description": "This is an improved version of the sliding door that uses the glass-floor effect described in Jim Flynn's Boom editing wad. The effect is quite good.",
+	"date": "2015-09-15 13:38:01",
+	"files": [
+		{
+			"filename": "sliddr2.wad",
+			"size": 51224,
+			"crc": 555649736,
+			"md5": "9e004db808940acbacc55aa9c35d7b25",
+			"sha1": "69ebd8ea29b98607436c943954ee46b31f2aee16",
+			"sha256": "0418cd3c50b298f3a8c70a42b0b22fd0360682fa4e37dfb4e3042836b3e9f607"
+		}
+	]
+}

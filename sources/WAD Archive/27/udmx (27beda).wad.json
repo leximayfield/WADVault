@@ -1,0 +1,17 @@
+{
+	"uid": "udmx (27beda).wad",
+	"name": "Unidoom Deathmatch X",
+	"description": "32 of the best, most well-tested classic deathmatch maps ever produced.",
+	"version": "27beda",
+	"date": "2013-04-21 20:52:40",
+	"files": [
+		{
+			"filename": "udmx.wad",
+			"size": 21230808,
+			"crc": 80261964,
+			"md5": "2b41f525a3a94ef86b553fb5e656dd9a",
+			"sha1": "27beda91848ff578c7875cc97e69ed15a3be5c8e",
+			"sha256": "5d3fd02910ac71ce6a86b34f605903343e4717ce526f0968cb49c61020f37320"
+		}
+	]
+}

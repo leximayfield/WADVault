@@ -1,0 +1,17 @@
+{
+	"uid": "trial (49dffa).wad",
+	"name": "Trial.WAD",
+	"description": "This level tests your skills as a space marine. You should be able to finish the level without running short of ammo. Ammunition should be used at its maximum, if you run out of ammo, you have not used it efficiently.",
+	"version": "49dffa",
+	"date": "2013-11-04 20:14:01",
+	"files": [
+		{
+			"filename": "trial.wad",
+			"size": 51443,
+			"crc": 2885547602,
+			"md5": "1196e207949d8864e7d5f01c389e217a",
+			"sha1": "49dffa3d8817d495ba7ff0743c11e2ee4a3c430f",
+			"sha256": "a5d536349cf5384c434c11dcad4f176f430078fef95eb9c1a50bdab5f3f5f836"
+		}
+	]
+}

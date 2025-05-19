@@ -1,0 +1,16 @@
+{
+	"uid": "amfdoom.wad",
+	"name": "AMFDOOM.WAD",
+	"description": "These levels are the first I ever made. I had no one to help me learning things about the editor. It needed many hours to experience how to make functionable doors. Sometimes I tried some other functions like crushing ceilings if you want to press a switch and walklines opening rooms where IMP's are only waiting to kill you. I hope you enjoy the levels!",
+	"date": "2014-12-13 12:51:22",
+	"files": [
+		{
+			"filename": "amfdoom.wad",
+			"size": 1298883,
+			"crc": 1175695489,
+			"md5": "17da7709ced8434203fe26fd4961e85b",
+			"sha1": "5f54c1820304edf49dd4812a34b9a30c85ce632c",
+			"sha256": "9fd0cd3e8bce1740f3947b2586241391fc6692452fb969ed029ecd1ef8eddb8e"
+		}
+	]
+}

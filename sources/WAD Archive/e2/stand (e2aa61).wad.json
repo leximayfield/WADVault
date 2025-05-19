@@ -1,0 +1,17 @@
+{
+	"uid": "stand (e2aa61).wad",
+	"name": "The Stand",
+	"description": "BTW: THIS WAD IS FOR DOOM 2 This wad is based on HEADLONG.WAD but I made many improvements and I think you'll find it's quite different. It's got (as far as I know) every weapon in the game and is intended for deathmatch with no monsters (only way to play!). I did add co-op starts and some monsters but I didn't spend much time on that. I took advantage of some of the new textures from Doom 2 such as the panelling and bookshelves. The exit is easy to reach and very visible because I expect in deathmatch it will make it easier for you. (why bother with co-op exits? :) Anyway, I can't think of anything else to say, except maybe that if you're wondering where I got the name , it's from the best book of all time, `The Stand' by Stephen King and it seemed as good a name as any! :)",
+	"version": "e2aa61",
+	"date": "2015-12-07 10:03:13",
+	"files": [
+		{
+			"filename": "stand.wad",
+			"size": 53954,
+			"crc": 197234441,
+			"md5": "50b287d2c645c78a89805f0ed7e68750",
+			"sha1": "e2aa6107a410d1c86ccc45bdfec7eacb8dbe8945",
+			"sha256": "9675fa52201f37a9326ed2aa1fa8b815511159ae0eb13ea0feee109a955f2a89"
+		}
+	]
+}

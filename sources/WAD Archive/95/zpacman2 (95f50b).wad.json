@@ -1,0 +1,16 @@
+{
+	"uid": "zpacman2 (95f50b).wad",
+	"name": "Pacman Doom 2",
+	"version": "95f50b",
+	"date": "2013-04-19 01:18:31",
+	"files": [
+		{
+			"filename": "zpacman2.wad",
+			"size": 4273955,
+			"crc": 749699916,
+			"md5": "7a6d0523996e689fd3daaa367d79180b",
+			"sha1": "95f50bb62d152da6b4149bd881baa6081a33d335",
+			"sha256": "d5309ae46f8c4fe95a9c88ec7cb375061d3d42093e9fb3de58a032ed3763f636"
+		}
+	]
+}

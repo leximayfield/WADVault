@@ -1,0 +1,17 @@
+{
+	"uid": "ccenter (4e0944).wad",
+	"name": "Control Center",
+	"description": "Control Center is a map I made some weeks ago, based on the 90's mapping style. Some areas might even remind you of some places in the original Ultimate Doom episodes. The theme of the map is a base, very similar to the ones in the first episode of Ultimate Doom, Knee-Deep In The Dead.",
+	"version": "4e0944",
+	"date": "2015-09-14 22:18:20",
+	"files": [
+		{
+			"filename": "ccenter.wad",
+			"size": 382686,
+			"crc": 1980839133,
+			"md5": "4ed2f906b2ed750de1bfd4fc6e34dc2b",
+			"sha1": "4e0944fafcbc4b33bee3a8efe9a50f37a56687b2",
+			"sha256": "04deb12d45b6bab103025fcdcaf6b5475cfba5984d06b04c3dbae606620239de"
+		}
+	]
+}

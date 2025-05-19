@@ -1,0 +1,17 @@
+{
+	"uid": "castle3 (e4ecb3).wad",
+	"name": "CASTLE3.WAD",
+	"description": "This is a sequel to my older castles (castle.wad in dmwads.zip collection and castle2.wad). The level is a castle with all the towers and things. You can unleash a cyberdemon or a revenant by pressing some buttons... This makes the level far more exciting! Please use the following doom options: - RESPAWN (if you want to get rid of the monsters you can shut their starting doors and then kill 'em. After this, the monsters will respawn in their jails... waiting for somebody to press the right [in fact, left] button!) - DEATHMATCH 2.0 (for respawning medikits and weapons that can be used as ammo dumps) - DO NOT USE THE \"-NOMONSTERS\"! The cyberdemon and the skeleton guy are vital parts of the level!",
+	"version": "e4ecb3",
+	"date": "2014-10-14 20:53:49",
+	"files": [
+		{
+			"filename": "castle3.wad",
+			"size": 161516,
+			"crc": 2245455203,
+			"md5": "84424b9b04cf043431f2f6a6d556272d",
+			"sha1": "e4ecb39db9ae628dc0476b1b7ad1475c7a33b15d",
+			"sha256": "1d1f0b043b047d15378ee6f179e50156acbd0cf0e3a7550cd2fd5fa3e155839d"
+		}
+	]
+}

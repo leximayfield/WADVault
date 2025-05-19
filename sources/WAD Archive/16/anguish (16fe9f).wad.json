@@ -1,0 +1,17 @@
+{
+	"uid": "anguish (16fe9f).wad",
+	"name": "Anguish",
+	"description": "An action packed 4 level .wad",
+	"version": "16fe9f",
+	"date": "2014-12-15 22:26:19",
+	"files": [
+		{
+			"filename": "anguish.wad",
+			"size": 460897,
+			"crc": 1647578886,
+			"md5": "a2e78dcc98088070686481417eb66b1d",
+			"sha1": "16fe9ffc7af33cb2c28bc649d617649fe3e4b2d7",
+			"sha256": "da4f86ea7a9ff0d3445cf8a84f7a78a72baec09485a306803e0a414eaf8fb465"
+		}
+	]
+}

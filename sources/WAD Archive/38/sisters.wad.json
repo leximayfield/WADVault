@@ -1,0 +1,16 @@
+{
+	"uid": "sisters.wad",
+	"name": "Sisters of Mercy Doom v1.0",
+	"description": "I really like the Sisters and when I found that there were no Doom WADs for them I set out to make my own! And here it is!!! I searched the Net for MIDI files, so far I've only found 4, if you have any that I could add then please e-mail them to me!!! The tracks included are: * Temple of Love 1992 * Alice * A Rock in a Hard Place * --One which I don't have yet and so I don't know it's name :-(",
+	"date": "2015-09-14 23:30:28",
+	"files": [
+		{
+			"filename": "sisters.wad",
+			"size": 195184,
+			"crc": 567936874,
+			"md5": "228a7df20282896a640f4b201bfd6f5e",
+			"sha1": "38b616634843ede4c5184dea16a5ae1c25d4266e",
+			"sha256": "b1246a8aa56fca3590d2d2fc9487ac3a8bd85d5f4a115405db97e5b151d0b0c1"
+		}
+	]
+}

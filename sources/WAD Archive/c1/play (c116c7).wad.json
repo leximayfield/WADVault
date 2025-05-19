@@ -1,0 +1,17 @@
+{
+	"uid": "play (c116c7).wad",
+	"name": "Play.wad",
+	"description": "I've made alot of levels for Doom][, but these are the first ones I've ever made for Hexen. They're badass!!! A collection of four deathmatch levels and a few graphics. This is great for hours of play, because all levels are in wad and you can simply exit one to cycle through the others... number four goes back to number one...",
+	"version": "c116c7",
+	"date": "2014-12-31 12:04:08",
+	"files": [
+		{
+			"filename": "play.wad",
+			"size": 1402740,
+			"crc": 1678448032,
+			"md5": "08e30c69cf682033652325ad1dee4225",
+			"sha1": "c116c7e35cdf4b08152dc07733470e72dcfa0226",
+			"sha256": "5e2f5ce4ce873cab3b8a5473dac59ae6dbafc1b7d44eb3d04aba05aefe1ac5e7"
+		}
+	]
+}

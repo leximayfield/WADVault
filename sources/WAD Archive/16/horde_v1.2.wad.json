@@ -1,0 +1,16 @@
+{
+	"uid": "horde_v1.2.wad",
+	"name": "\"Horde v1.2\"",
+	"description": "Fun coop wad with some new monsters and weapons. Fight your way through hordes of enemies!",
+	"date": "2013-08-12 21:02:42",
+	"files": [
+		{
+			"filename": "horde_v1.2.wad",
+			"size": 4949092,
+			"crc": 1650946731,
+			"md5": "0a75072264e83e38ddafac20a31a3983",
+			"sha1": "16fe0ba6a3225678e061189c31b53001f52cbf48",
+			"sha256": "2683bce19d912443e3313bf9beb4fab412e466680fe44397a247a7c12c42c0d7"
+		}
+	]
+}

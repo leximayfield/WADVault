@@ -1,0 +1,16 @@
+{
+	"uid": "city5.wad",
+	"name": "city5",
+	"description": "a DOOM2 level, designed to look like a city. there is a gun store, ammo store, armor store ,convenience-store(health store),a library (a soul-sphere on dm),electronics store(db- shotgun on dm),a bar(lots of blue bottles) and a pet store(I'll bet you can guess whats in there...heh heh...)",
+	"date": "2014-12-15 21:57:14",
+	"files": [
+		{
+			"filename": "city5.wad",
+			"size": 102068,
+			"crc": 1901982791,
+			"md5": "ee696209ddd9eceadf9e098a0919360b",
+			"sha1": "366a811c009fbb39c560fde69aac6e844dcd7720",
+			"sha256": "9c5e3f7a225b5fd6b66d8e0cdbf87866ea4ccb52f28d53d5a2cef1f178912e0b"
+		}
+	]
+}

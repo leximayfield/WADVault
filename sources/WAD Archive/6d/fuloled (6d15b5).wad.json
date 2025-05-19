@@ -1,0 +1,17 @@
+{
+	"uid": "fuloled (6d15b5).wad",
+	"name": "Full of Lead (FULOLED.WAD)",
+	"description": "This is a DEATHMATCH-ONLY pwad for DOOM ][. SIGH!!! ANOTHER ONE? Yes, but I think this one will be worth your download. First of all, it contains NO MEGASPHERES OR SUPERCHARGES! so the game does not turn into HealthWars. There is a strategically placed medkit and beserk pack, along with a few stimpacks. There are plenty of weapons to prevent anyone from gaurding them all. I've tried to make this level a very playable deathmatch design. All weapons are present, except the BFG. (I rarely like the BFG for deathmatch games, except when it is strategically placed (such as in DANZIG13.WAD). I've added a few features to this level which, in my opinion, sets it apart from most deathmatch levels currently available:",
+	"version": "6d15b5",
+	"date": "2013-11-02 16:06:22",
+	"files": [
+		{
+			"filename": "fuloled.wad",
+			"size": 107422,
+			"crc": 2216655148,
+			"md5": "eeede2c1d6183580e8a1e4b30ab2d405",
+			"sha1": "6d15b52adfabdc98a256ef0b9ffba3cf140bd93e",
+			"sha256": "ebd3dec59e5e0f676e4c08f7e12f550799bcaa509971b71c0fac0966f6180cdd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "moonskin.wad",
+	"name": "Mooninite",
+	"description": "The Mooninite(s) from Aqua Teen Hunger Force make their way into doom",
+	"date": "2015-09-15 16:20:26",
+	"files": [
+		{
+			"filename": "moonskin.wad",
+			"size": 230102,
+			"crc": 2315770614,
+			"md5": "9485f97ceb68d0581ff32a86627a72d8",
+			"sha1": "0905c72e7c8c1e385af4e406560e243327a7dda6",
+			"sha256": "5b0580e640499923eccbd3a1bca598e45dba89025fac916dd6c3d24dbec11b22"
+		}
+	]
+}

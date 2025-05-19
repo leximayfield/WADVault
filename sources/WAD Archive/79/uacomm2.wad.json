@@ -1,0 +1,16 @@
+{
+	"uid": "uacomm2.wad",
+	"name": "Map 1: UAC Communication Relay",
+	"description": "4 levels that I've made for Deathmatch.",
+	"date": "2014-12-15 23:13:22",
+	"files": [
+		{
+			"filename": "uacomm2.wad",
+			"size": 564480,
+			"crc": 637040698,
+			"md5": "3d37c1069be34b2157a5037a62bbb693",
+			"sha1": "79f6c29c3aa50208086d741ac762b8305d4ca50c",
+			"sha256": "ef10ed0c01f6c6fb0d63bf885c8a1ecd305c6e16b3d9f34a780de9175a35ae2b"
+		}
+	]
+}

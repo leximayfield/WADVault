@@ -1,0 +1,16 @@
+{
+	"uid": "zcon_z0r.wad",
+	"name": "ZDaemon Contest Map",
+	"description": "Well, it's a bit symmetrical (someone is going to kill me now for saying that), but it's still good nonetheless. It has that strong E1-ish feeling to it, mixed with a bit of E1M8. EDIT: I tested this wad in Doom v1.1 and it works perfectly, so I decided to convert the MIDI to MUS format. Enjoy oldsk00lers!",
+	"date": "2014-12-15 23:11:07",
+	"files": [
+		{
+			"filename": "zcon_z0r.wad",
+			"size": 166601,
+			"crc": 4266915715,
+			"md5": "97ef2722e83b0be8328d8b3a18e7242f",
+			"sha1": "a6e0062a6fc0ad723f2c7b23a304bc0d3958877e",
+			"sha256": "386ba3b1ef02873b4df18be412c8d24ffba5f449728e4f98e1ad436a78cb2e83"
+		}
+	]
+}

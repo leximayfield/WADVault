@@ -1,0 +1,17 @@
+{
+	"uid": "chain (1deab4).wad",
+	"name": "Chaingunner's wad pack",
+	"description": "Levels by Chaingunner.",
+	"version": "1deab4",
+	"date": "2015-12-29 12:40:08",
+	"files": [
+		{
+			"filename": "chain.wad",
+			"size": 7374482,
+			"crc": 1173031236,
+			"md5": "ec3be0a2e9d90d974d3c73d2fafb58da",
+			"sha1": "1deab4e61775540d1db82dae88bf28e669834c46",
+			"sha256": "57d10f479294949ae252f4ead8d2d7c57f36f7b34690cb6ce59d9080d1909fc2"
+		}
+	]
+}

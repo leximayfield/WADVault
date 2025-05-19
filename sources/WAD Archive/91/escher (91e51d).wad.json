@@ -1,0 +1,17 @@
+{
+	"uid": "escher (91e51d).wad",
+	"name": "escher.wad    ( DOOM ][ )",
+	"description": "A big fan of M.C. Escher, what a genius. I have tried my best to make a quality wad, with enough escher and escherish stuff in it. I tried not to put to much stuff in it so it wouldn't be too large or too slow. What good is a wad if you can't deathmatch 4-way on it - quick! Design is kept fairly simple to insure a good playing speed and plenty of frags.",
+	"version": "91e51d",
+	"date": "2013-11-04 19:24:46",
+	"files": [
+		{
+			"filename": "escher.wad",
+			"size": 462952,
+			"crc": 4150588242,
+			"md5": "019310eb9aa64d1f91cfae16e1da3951",
+			"sha1": "91e51d51d01be26520e77286fb932a12da96560c",
+			"sha256": "f2b664e54a7394959b608dfaccb8272b1d86471c72152833005d3164ed88a95f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "berserk (b675c0).wad",
+	"name": "BERSERK.WAD",
+	"description": "Total Chaos, Lots of weapons hidden everywhere!",
+	"version": "b675c0",
+	"date": "2013-11-02 16:05:47",
+	"files": [
+		{
+			"filename": "berserk.wad",
+			"size": 48425,
+			"crc": 1259957711,
+			"md5": "5d42d3618c75eac6e281ecb6a50c6548",
+			"sha1": "b675c0bbf1b539acd144398925f4d3bea2b6b9ce",
+			"sha256": "fcbb626a21816cea5912ca80bfc5fcae3b5a4e7a4aafb6cdc0d6db9b12af0fe1"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "warestat.wad",
+	"name": "At Warehouse Station",
+	"description": "Find a way into the locked railcar of the monorail and get out of the warehouse-station.",
+	"date": "2016-07-21 19:40:24",
+	"files": [
+		{
+			"filename": "warestat.wad",
+			"size": 698143,
+			"crc": 1100898207,
+			"md5": "9a3df35829b9ebcca37f6059445c5abb",
+			"sha1": "5e15d8e647fe2738c4c588c34ca70daa8b2832cd",
+			"sha256": "79813048d0ad7c4ef99f185453b817a6a07297b66108dd0242710994a8296907"
+		}
+	]
+}

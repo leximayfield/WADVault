@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczar3 (6d72af).wad",
+	"name": "H2H CZECH ARENA 3 (H2HCZAR3.WAD) DOOM II version",
+	"description": "I was asked to make something similair to the original MAP07, so I did. All weapons except BFG can be found inside the storehouse and also outside. (Just one chaingun) There are some medical kits but no spheres. This arena should be fun even for a solo player.",
+	"version": "6d72af",
+	"date": "2014-01-07 21:45:51",
+	"files": [
+		{
+			"filename": "h2hczar3.wad",
+			"size": 143579,
+			"crc": 3804174875,
+			"md5": "a680c9373cbb97cac93d0aea8d9950f7",
+			"sha1": "6d72af27e788b8feef81fee5d7f29344e0c159ad",
+			"sha256": "cd8617de35fda921823b33cc9196e3b35d11534cea9e56bf6f8e4cc4381ea8dc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "omega_h (d49710).wad",
+	"name": "OMEGA_HERETIC",
+	"description": "Wad for Heretic E1M1 that i converted : from my omega_ii.wad for doom2. : Very nice lookin map check it out.",
+	"version": "d49710",
+	"date": "2013-11-02 16:38:40",
+	"files": [
+		{
+			"filename": "omega_h.wad",
+			"size": 179406,
+			"crc": 961675309,
+			"md5": "4707f17c54762f86e65b5b76d5a2ddf8",
+			"sha1": "d49710d82bbb981c3cbaed43196f30418d3361c6",
+			"sha256": "9c7e0641c89d71ccf6898eacaf091b9f650e903445481f56863ecad66fe9b28d"
+		}
+	]
+}

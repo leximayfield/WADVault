@@ -1,0 +1,16 @@
+{
+	"uid": "seismic.wad",
+	"name": "Seismic Lab",
+	"description": "This is my tribute and homage to Aikman's popular Dwango5 Map01.",
+	"date": "2014-12-15 22:30:14",
+	"files": [
+		{
+			"filename": "seismic.wad",
+			"size": 684339,
+			"crc": 213134955,
+			"md5": "632b861fda6039bac8fd41b1a47f5e7f",
+			"sha1": "9234a4eb97bdd3088932049a3c24dd97c9893f54",
+			"sha256": "77ad811882cbafd3400cf02c16ed04d971e40dc01a70217bc93f65025ce5e425"
+		}
+	]
+}

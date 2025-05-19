@@ -1,0 +1,16 @@
+{
+	"uid": "adolf.wad",
+	"name": "Adolf",
+	"description": "This is a level I made to go with my new sprite 'Adolf',a giant floating Hitler head that replaces the Cacodemon in Doom2.I drew all the head animations with pencil and paper,and then scanned them in. It looks quite realistic.",
+	"date": "2014-12-15 23:00:28",
+	"files": [
+		{
+			"filename": "adolf.wad",
+			"size": 593124,
+			"crc": 2990125874,
+			"md5": "043fe70aa69b4fb81c2f718709bca215",
+			"sha1": "8757d8ce534d2b2253b2dcc6e46a8600bc9dcdb2",
+			"sha256": "9ada8e979fbdd4013910123a1c62d915524a5a160c1d700b89b19fc4078c6d9f"
+		}
+	]
+}

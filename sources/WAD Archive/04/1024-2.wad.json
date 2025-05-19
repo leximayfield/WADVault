@@ -1,0 +1,16 @@
+{
+	"uid": "1024-2.wad",
+	"name": "1024-2",
+	"description": "It's my second attempt at making real 1024 wad heh this time it's MAP13-style map :) (Fixed bugs)",
+	"date": "2014-12-20 18:38:50",
+	"files": [
+		{
+			"filename": "1024-2.wad",
+			"size": 263381,
+			"crc": 36069484,
+			"md5": "0d3cf059e064b1d2f8eacbe05d7c0934",
+			"sha1": "043cf832bb3d2457c20154520f398cfb7f0061d5",
+			"sha256": "3148a5d791b7737f11f0f7815938a1fbab369ae34df4a47e1b231d1e09ef2b56"
+		}
+	]
+}

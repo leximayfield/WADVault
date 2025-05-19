@@ -1,0 +1,16 @@
+{
+	"uid": "levelup.wad",
+	"name": "Level Up",
+	"description": "One of my first wads. Uses ZDOOM. The scene at the base, located on the Earth. As a result, experience has opened the portal from Mars to Earth and monsters fled a wave on the back of the portal...",
+	"date": "2015-01-05 16:31:51",
+	"files": [
+		{
+			"filename": "levelup.wad",
+			"size": 320986,
+			"crc": 3488434306,
+			"md5": "254695b3c9429d1daeaac527562f6300",
+			"sha1": "0cf5301cac8ddc603a9bc4f426949ad8338deb1d",
+			"sha256": "7bab0a6abe0e53e3f9290ce4775c1e7890dadca627ac23c6f02898e6d9c07216"
+		}
+	]
+}

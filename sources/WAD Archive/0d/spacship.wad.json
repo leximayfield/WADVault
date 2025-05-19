@@ -1,0 +1,16 @@
+{
+	"uid": "spacship.wad",
+	"name": "Alien Invasion",
+	"description": "You're one of those Green-Uniformed Marine Guys, and your unit has just been sent in to put down an alien attack. During the first day of the voyage, you were taken out of commision by an unfortunate accident involving the automatic doors on the ship. While you were healing, the ship was invaded by those same aliens that you were going to fight. The crew, except for you, was killed (although some did escape to the nearby planet). Your only hope is to get to the remaining escape pod and pilot it to your destination.",
+	"date": "2013-11-03 17:47:51",
+	"files": [
+		{
+			"filename": "spacship.wad",
+			"size": 382801,
+			"crc": 4286941615,
+			"md5": "3f67a2f0fc16687a4da30722659b79dc",
+			"sha1": "0dd2251df0a6a966f643530ffaf2747988f735e8",
+			"sha256": "fd8e476a01fe8a92ce07b0f7ee1f6c903158f07fef1223c544fcb8bac2ebb067"
+		}
+	]
+}

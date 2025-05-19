@@ -1,0 +1,16 @@
+{
+	"uid": "ambush!.wad",
+	"name": "Ambush!",
+	"description": "A 1-player level ... for people who aren't as good at Doom as some of us and need practice. This level looks great and is fun to play. Also works for Deathmatch, as it has teleports and passages hidden all over the place.",
+	"date": "2014-12-15 23:03:39",
+	"files": [
+		{
+			"filename": "ambush!.wad",
+			"size": 65600,
+			"crc": 2460566061,
+			"md5": "5d1200786772c3a1a575bc16470aeceb",
+			"sha1": "39f8435a3f0ebb1facba6d160579a5400ced452d",
+			"sha256": "6a7af4082a2fcb7b3522ad1870a2caab61b347aad1d3c18ccf4d5f5cc0f23b47"
+		}
+	]
+}

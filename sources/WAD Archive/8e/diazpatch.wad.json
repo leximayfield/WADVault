@@ -1,0 +1,16 @@
+{
+	"uid": "diazpatch.wad",
+	"name": "Human Enemies for WWHC-Diaz",
+	"description": "A special patch made for Wildweasel's new version of his famous Diaz: The Last Hours of Purity mod (wwhcdiaz.zip) featuring all- human and mechanical enemies. What would have happened if Diaz had arrived on Phobos only a few hours earlier? Probably something like this.",
+	"date": "2014-12-10 22:46:58",
+	"files": [
+		{
+			"filename": "diazpatch.wad",
+			"size": 6246869,
+			"crc": 3653273820,
+			"md5": "ab1f8caba5337b3f62cc0f44c5e0cc72",
+			"sha1": "8ea2a277f3523763fe8ad2fa8a40de6876f0c628",
+			"sha256": "a10a92de5aaa5f155eac545d18cbb4a871ae1a9d0f8ec5cfabf6a81a2f8a601e"
+		}
+	]
+}

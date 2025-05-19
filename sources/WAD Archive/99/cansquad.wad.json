@@ -1,0 +1,16 @@
+{
+	"uid": "cansquad.wad",
+	"name": "Canary Squadron (v1.4)",
+	"description": "Definitive version of Canary Squadron to replace all previous versions. This version has been tested all the way through in Doom95 to ensure it's compatible with all ports.",
+	"date": "2014-12-21 16:41:18",
+	"files": [
+		{
+			"filename": "cansquad.wad",
+			"size": 824238,
+			"crc": 2716522307,
+			"md5": "227c6fbfab5f3e75e2bf03d19d6fb927",
+			"sha1": "9952fa24653c302154a7e65c23c9e98842fd5844",
+			"sha256": "fe35f0885231daa1e250edab60d0fc0ea03d2db248dc1d2480776ce7fa8d3d64"
+		}
+	]
+}

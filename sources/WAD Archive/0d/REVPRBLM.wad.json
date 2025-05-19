@@ -1,0 +1,16 @@
+{
+	"uid": "REVPRBLM.wad",
+	"name": "The Revenant Problem",
+	"description": "There is a runaway Revenant barreling down the teleporter track. Ahead, at the main teleporter's destination, there are five Imps trapped by explosive barrels and unable to move. The Revenant is headed straight for them. You are standing inside the nearby STARTAN2 viewing chamber next to a switch. If you press this switch, the Revenant will change to a different teleporter. However, you notice that there is one Imp trapped within explosive barrels at this side teleporter's destination. You have two options: 1. Do nothing, and the Revenant fires a rocket which explodes the barrels, killing the five Imps at the main teleporter. 2. Push the switch, diverting the Revenant onto the side teleporter where it will kill one Imp. Which is the most ethical choice?",
+	"date": "2018-02-15 20:49:26",
+	"files": [
+		{
+			"filename": "REVPRBLM.wad",
+			"size": 5177933,
+			"crc": 1932183518,
+			"md5": "6077a9f429d74106fc015a8cf8094172",
+			"sha1": "0de722f63fcc5c89b586f47c9d267a12985bc208",
+			"sha256": "405ab6c3de747f964747d8cc5447f13fc6b6fdfa83b2d59a08717f48ff1a3e76"
+		}
+	]
+}

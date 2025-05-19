@@ -1,0 +1,16 @@
+{
+	"uid": "dt-mac.wad",
+	"name": "Machine Gun",
+	"description": "Another 'straight on' style patch. This one replaces the chaingun with a MP40 type machine gun. It doesnt function any different, but looks really cool nonetheless. You may recognize it from the many wolfendoom series, by Laz Rojas. (what? you haven't played wolfendoom? get your sorry ass to the themes directory pronto!)",
+	"date": "2014-12-10 22:46:28",
+	"files": [
+		{
+			"filename": "dt-mac.wad",
+			"size": 19344,
+			"crc": 207080440,
+			"md5": "b3c1656176d4894b4c3e38a004829306",
+			"sha1": "7e722a329279eca2a9011c1c85ee3a47780099ce",
+			"sha256": "fe1ce942b03d109192dc829f600c6147403ef07bc5a31a5ba8375b1092bfc518"
+		}
+	]
+}

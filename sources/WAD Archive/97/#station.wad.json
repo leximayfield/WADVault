@@ -1,0 +1,16 @@
+{
+	"uid": "#station.wad",
+	"name": "Space Station",
+	"description": "A special level, inside a space station. This is my 16th level with some neat architecture. An alien space station is found somewhere in the solar system and you where teleported there to investigate, but you were warned to be on guard because it was quite possible that the damned station was the begining of an invation from an alien race. check this station and destroy the aliens if they are enemy!",
+	"date": "2014-12-15 19:08:23",
+	"files": [
+		{
+			"filename": "#station.wad",
+			"size": 493193,
+			"crc": 2348760361,
+			"md5": "2e4342e728ecec80256bd90eddebdacb",
+			"sha1": "97912c677155cc77b54d6470780948647b576351",
+			"sha256": "005d0875fbdd145a407f63134517f798e222afcf95d91780d6473cf01e149d00"
+		}
+	]
+}

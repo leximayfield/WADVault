@@ -1,0 +1,17 @@
+{
+	"uid": "gtpsychd (0fcee7).wad",
+	"name": "Get Psyched",
+	"description": "A hard, castle type level, but NOT insanely hard, it can be beaten in UV without findig the secrets, (but you probably be tight of ammo the first time) I made this in the spirit of the original Doom levels (that means no jumping/crouching are needed), so it doesn't use any port-specific features. It also seems to be a nice deathmatch level (only been tested with SKulltag bots).",
+	"version": "0fcee7",
+	"date": "2014-12-18 22:23:31",
+	"files": [
+		{
+			"filename": "gtpsychd.wad",
+			"size": 112444,
+			"crc": 337881277,
+			"md5": "2b50ddc598367343642b2697e2f4bbb8",
+			"sha1": "0fcee77188bb2eed5679f95b1c11be528f74658b",
+			"sha256": "1a9ff55ec99158e56de9b5085ca3e19b0aaf6a1a09a1e9d90ed60faab2afd53f"
+		}
+	]
+}

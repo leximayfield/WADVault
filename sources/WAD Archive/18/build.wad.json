@@ -1,0 +1,16 @@
+{
+	"uid": "build.wad",
+	"name": "Build",
+	"description": "A zdoom mod music dm or single player wad.",
+	"date": "2014-12-21 14:15:12",
+	"files": [
+		{
+			"filename": "build.wad",
+			"size": 62376,
+			"crc": 2361750679,
+			"md5": "1cbc55347635cb62b3b30fb763d25eff",
+			"sha1": "18ddc6b10541c83e2b9c89d58d1899ec9cd8f21a",
+			"sha256": "9b6bfc2cd5b03d73ecda01c236cdf32787c078ae41b3d07931097947f4ab49df"
+		}
+	]
+}

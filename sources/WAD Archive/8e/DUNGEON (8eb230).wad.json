@@ -1,0 +1,17 @@
+{
+	"uid": "DUNGEON (8eb230).wad",
+	"name": "Dungeons of Hell",
+	"description": "Scenario with large rooms and huge killing potential!",
+	"version": "8eb230",
+	"date": "2013-11-02 15:51:02",
+	"files": [
+		{
+			"filename": "DUNGEON.wad",
+			"size": 120569,
+			"crc": 3972939218,
+			"md5": "e4b31612aa86de50b81ece485ee72af4",
+			"sha1": "8eb2302fed7f33aad6bb48c58d40344acb3cb97e",
+			"sha256": "4e1080abc63163e6124de04566dbb7dbdb11d8fed6874d0678234d9813e141e2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmcare (ddddb8).wad",
+	"name": "CAREFUL.WAD",
+	"description": "This is a first time try at building a level from scratch. It was mainly built for deathmatch play but found that it is great for a 1 player game. The name is \"CAREFUL\" for a very good reason. There are alot of secret passages, so keep hunting - all is not what it seems. ;-) Please let me know if there are any problems encountered. See ya on the other side.",
+	"version": "ddddb8",
+	"date": "2013-11-02 15:15:43",
+	"files": [
+		{
+			"filename": "dmcare.wad",
+			"size": 47545,
+			"crc": 1538504826,
+			"md5": "38fa29ed638f504917adf30a7995acdc",
+			"sha1": "ddddb8ea2303719e216d94e033c24463c1548e21",
+			"sha256": "f6bd7fb512083e0d880dc5fd7e803d0f27571f08a3dee6d64aa3a0e8bae2bcaa"
+		}
+	]
+}

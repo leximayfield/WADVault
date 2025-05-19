@@ -1,0 +1,16 @@
+{
+	"uid": "bohborg1.wad",
+	"name": "Borgs of BOH! 1",
+	"description": "Borgs of BOH! is a series of simple death match levels designed to give Bots as fair a chance as possible. There isn't much in the way of obstacles or structures that can inhibit the movement of ZDaemon Bots.",
+	"date": "2014-12-15 22:21:01",
+	"files": [
+		{
+			"filename": "bohborg1.wad",
+			"size": 410369,
+			"crc": 1407493825,
+			"md5": "b740f17952eb0eab3c43d51dfeea1264",
+			"sha1": "66c0d35840d15842e99765434820868cc9e0f037",
+			"sha256": "8bb01a697d4c65b30e8752470c81dfa86c6db6c818a9017bc73983aa95eb3b1f"
+		}
+	]
+}

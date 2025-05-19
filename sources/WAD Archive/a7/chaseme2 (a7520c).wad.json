@@ -1,0 +1,17 @@
+{
+	"uid": "chaseme2 (a7520c).wad",
+	"name": "Chase me",
+	"description": "Yet another deathmatch WAD but only for DooM II. I tried to make this work as a small single player level aswell. Watch out when you go for the plasma gun, you might get trapped. I deceided to include the BFG this time to give your opponent maximum grief.",
+	"version": "a7520c",
+	"date": "2013-04-19 14:22:35",
+	"files": [
+		{
+			"filename": "chaseme2.wad",
+			"size": 41784,
+			"crc": 2665639987,
+			"md5": "e98b1ea8188df1581782ded9a3bde6a6",
+			"sha1": "a7520cff3d75bde9be264f79bf84f98be82898ec",
+			"sha256": "2319913c2a64b8eb35a32edc82314d13683d6fe6d28d6476f0bb28ff0af80a39"
+		}
+	]
+}

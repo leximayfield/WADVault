@@ -1,0 +1,17 @@
+{
+	"uid": "courtyrd (862c1d).wad",
+	"name": "COURTYRD.WAD",
+	"description": "Is a medium sized deathmatch level with a large open courtyard.",
+	"version": "862c1d",
+	"date": "2014-12-15 22:01:58",
+	"files": [
+		{
+			"filename": "courtyrd.wad",
+			"size": 32900,
+			"crc": 2496303194,
+			"md5": "fd28e186609597f57e93d49e915ecdd4",
+			"sha1": "862c1d56b73c04ee18112f860d27ad404d4a7e9b",
+			"sha256": "885f47f598525ecb62f319ea5b5a105690d4acd712920b9b54090fb28be04c1c"
+		}
+	]
+}

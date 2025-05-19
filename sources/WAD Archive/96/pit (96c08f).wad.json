@@ -1,0 +1,17 @@
+{
+	"uid": "pit (96c08f).wad",
+	"name": "Pit",
+	"description": "A happy play pen and surrounding territory. This started as a Heretic wad with the teleports arranged to circulate tomed-up mace balls. Reworked it for Doom2 when I joined Long Beach DWANGO, many improvements came over time.",
+	"version": "96c08f",
+	"date": "2014-12-15 22:33:21",
+	"files": [
+		{
+			"filename": "pit.wad",
+			"size": 203675,
+			"crc": 1056153384,
+			"md5": "f14486a741691197817b803a3b51a64e",
+			"sha1": "96c08f2bde0ca505d154ca5373baa70d30b0b169",
+			"sha256": "81e73190600b08d41e7886fd49f36ae4fa741b98e0c514703b981663bc58122a"
+		}
+	]
+}

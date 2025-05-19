@@ -1,0 +1,16 @@
+{
+	"uid": "tekmine.wad",
+	"name": "Tek Mine (first level of 8)",
+	"description": "One of the most productive iron mines",
+	"date": "2013-11-02 16:37:39",
+	"files": [
+		{
+			"filename": "tekmine.wad",
+			"size": 484603,
+			"crc": 2426965976,
+			"md5": "e1458eec617082c9a04eb857aa8fe9ff",
+			"sha1": "ac6b0f46afea3b05c9b6cbeb040eda39560d991d",
+			"sha256": "e00325813b0b47b08ce22e4975619cf3d11fd4b174ba4659ef19d4a4c9ab6f44"
+		}
+	]
+}

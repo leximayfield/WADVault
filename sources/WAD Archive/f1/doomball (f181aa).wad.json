@@ -1,0 +1,17 @@
+{
+	"uid": "doomball (f181aa).wad",
+	"name": "DoomBall",
+	"description": "DoomBall is, first and foremost, an excellent deathmatch level. For most of you that's all you need to justify down loading it. But wait, there's more. When played using the included .deh file it becomes an entirely new Doom experience. DoomBall is played like soccer only your opponent may kill you to keep you from scoring. Rules: 1.) There are no rules in DoomBall. 2.) Refer to rule 1. Suggestions: do not allow scoring while the opponent is respawning. If no one else is there to witness it did it really happen? If the ball hits the rail it sticks and can be considered out of bounds. The last player who touched it should run around to other side of the rail and punch the ball back in play. There is a \"feature\" in the doom engine that causes the ball to fail to trigger the teleport in the goal about 10% of the time. If the ball gets stuck in the goal, open the door in the back and punch the ball back in play.",
+	"version": "f181aa",
+	"date": "2014-01-07 22:23:43",
+	"files": [
+		{
+			"filename": "doomball.wad",
+			"size": 540281,
+			"crc": 3067575244,
+			"md5": "cbd2e078d89cfdfde8757e6d1636499c",
+			"sha1": "f181aad1bf4b7f01d0fb50ef5e7d816eca7d57bf",
+			"sha256": "45bcb2447bf92ef29c30ce97e7ef8b4f391be9ec0ec7bb1a706786df361f519e"
+		}
+	]
+}

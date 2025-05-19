@@ -1,0 +1,17 @@
+{
+	"uid": "Hornet (bbf08b).wad",
+	"name": "Hornet",
+	"description": "The map is small and deceptively simple, but there are lots of secrets and intentional red herrings. You definitely should not immediately charge off with guns blazing, as that will only get you killed. There are visual hints as to what you should and should not do. Proceed cautiously, and examine everything.",
+	"version": "bbf08b",
+	"date": "2014-12-13 17:46:35",
+	"files": [
+		{
+			"filename": "Hornet.wad",
+			"size": 49453,
+			"crc": 1274663936,
+			"md5": "9e1ca7735fb85dd9618cd3ff07b3fc52",
+			"sha1": "bbf08b58fd456d2265e5c3685c86ba8656fee190",
+			"sha256": "b4ff7c769f73182a51edceb04ce709aee04ab01e657d7f2d33cc9a8bbb70c27e"
+		}
+	]
+}

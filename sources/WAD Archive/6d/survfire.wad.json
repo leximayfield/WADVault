@@ -1,0 +1,16 @@
+{
+	"uid": "survfire.wad",
+	"name": "Fire Fight",
+	"description": "Go head to head with those pesky monsters but don't fall off the arena.",
+	"date": "2014-12-29 17:20:33",
+	"files": [
+		{
+			"filename": "survfire.wad",
+			"size": 73424,
+			"crc": 3001884594,
+			"md5": "d426212130661558e5da70dc8b517869",
+			"sha1": "6daafe925ee234ea4d07b5c78670071e1be5b76c",
+			"sha256": "3d399f29f0fbe84bc31ecb9bb3ae7d9406a62656f022b5ede53618fd4970be2b"
+		}
+	]
+}

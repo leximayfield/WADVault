@@ -1,0 +1,17 @@
+{
+	"uid": "wow (7ef36c).wad",
+	"name": "The word you will say after playing this!",
+	"description": "This is the chilling finale to The Shores of Hell, but with a few extra twists. There are many more enemies and things to figure out. There is an entire section that cannot be reached without TWO people playing. Here is a warning... Even on the easiest skill setting, this level will be challenging. Here's another warning... I created this level on a 90 MHz Pentium with 16 Meg of memory. There are loads and loads of enemies running around. I do not recommend playing this level on your old 386. My 486 66 with 32 Meg of memory was even a little sluggish. I am happy to tell you that I just completed the original music for this level-- my sequencing software is crummy!",
+	"version": "7ef36c",
+	"date": "2013-11-02 15:17:19",
+	"files": [
+		{
+			"filename": "wow.wad",
+			"size": 159585,
+			"crc": 1348289043,
+			"md5": "489c81a39565478e20524c3d46f442e4",
+			"sha1": "7ef36cfac5bcafbcd6bfb470f29853e48dce79b4",
+			"sha256": "989dc0f231322343671257b414f1181aa8f3f77b8c37052d7bddb24d5768986d"
+		}
+	]
+}

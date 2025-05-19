@@ -1,0 +1,17 @@
+{
+	"uid": "gotcha (ee4249).wad",
+	"name": "Trapped.WAD",
+	"description": "You Start off in a square room with 4 doors. There Are two switches one opens all the doors and one will crush you into mush. Watch out there are lots traps and secrets if you find one you might find life or DEATH.",
+	"version": "ee4249",
+	"date": "2014-12-18 23:08:57",
+	"files": [
+		{
+			"filename": "gotcha.wad",
+			"size": 105496,
+			"crc": 3759958920,
+			"md5": "675c91dc7278b4e21cd49afa9b950411",
+			"sha1": "ee424940032c6d2518d61cd3aeec0efde6d36a2b",
+			"sha256": "990c9b1813d822bd046105318287aa1ba93ad473cee3110b3419883e86ca1c04"
+		}
+	]
+}

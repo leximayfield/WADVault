@@ -1,0 +1,17 @@
+{
+	"uid": "caverns (fafb0f).wad",
+	"name": "CAVERNS",
+	"description": "Your on Mars ... the enemy's stronghold!",
+	"version": "fafb0f",
+	"date": "2013-11-02 16:01:10",
+	"files": [
+		{
+			"filename": "caverns.wad",
+			"size": 310100,
+			"crc": 735713530,
+			"md5": "cc8fe429fe20b4e75e7a993720a9e9f3",
+			"sha1": "fafb0f8255b6fca6ee840605034e7edcf65b94c5",
+			"sha256": "ce16f3e966da83044b5e9cd875d6e3b83cb03b70f7611e847069475c4ed0fc00"
+		}
+	]
+}

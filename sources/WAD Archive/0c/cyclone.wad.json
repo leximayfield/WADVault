@@ -1,0 +1,16 @@
+{
+	"uid": "cyclone.wad",
+	"name": "Cyclone  (CYCLONE.WAD FROM CYCLONE.ZIP)",
+	"description": "The Ultimate Deathmatch level. Play single or co-op if you want, too; there are plenty 'O monsters. (Demons, Spectres, etc.) If you make it thru this on your own in U.V.with no cheats, please e-mail me so I can put you in the Cyclone HoFame! This level has been EXTENSIVELY playtested in modem and network play, and as my friends say : \"Let's go 'round again!\". I seem to remember one night where 4 of us were playing and we all had 30+ frags before we realized the sun had just risen, much to our surprise...",
+	"date": "2014-12-15 23:05:51",
+	"files": [
+		{
+			"filename": "cyclone.wad",
+			"size": 124016,
+			"crc": 1816382168,
+			"md5": "1380d98bb5b032cb3f92faff932fa62c",
+			"sha1": "0c84ecfc78494822f68822d86ee0132470488006",
+			"sha256": "e25832b2742b1d165530c94b283db25edb3c9ff634cfb865cd979112296abf33"
+		}
+	]
+}

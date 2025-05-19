@@ -1,0 +1,16 @@
+{
+	"uid": "uac_deaz.wad",
+	"name": "UAC_DEAD patch for ZDoom",
+	"description": "Even UAC_DEAD.WAD is a milestone you should'n miss, it uses a feature which was removed in Ultimate Doom, unfortunately. Even worse, there is no source port available, which can play UAC_DEAD correctly without slight modifications. This is a simple wad which just consists of a MAPINFO lump enabling you to play the original UAC_DEAD.WAD in its intended way with Zdoom.",
+	"date": "2014-12-13 17:40:04",
+	"files": [
+		{
+			"filename": "uac_deaz.wad",
+			"size": 240,
+			"crc": 2514822899,
+			"md5": "1bbb1b0544fe25446d875ebbcb4cb689",
+			"sha1": "65e3c2607aad38a6de61520d9639a52a1bed6132",
+			"sha256": "f7160812ab21bba18d796c9bec26d84dbb7045bf52af886c298929cdf40411d6"
+		}
+	]
+}

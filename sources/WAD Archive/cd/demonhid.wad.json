@@ -1,0 +1,16 @@
+{
+	"uid": "demonhid.wad",
+	"name": "Demon Hideout",
+	"description": "This is a pretty straightforward WAD, I designed it in a couple hours yesterday. This is meant to either be played in GZDoom, ZDoom, or Zandronum. I'm unsure about skulltag though or other ports. Feel free to try it on other ports and tell me about it.",
+	"date": "2016-01-05 07:47:27",
+	"files": [
+		{
+			"filename": "demonhid.wad",
+			"size": 306973,
+			"crc": 1543674946,
+			"md5": "709fbad8a5d1c1f6c675cfe431735353",
+			"sha1": "cd89864ccbb9790307eabcfe50fe59bc37691786",
+			"sha256": "552dd4eba3bbf2eb4b57b41969a314383dbe3449500ea564dd6f10f42d657d04"
+		}
+	]
+}

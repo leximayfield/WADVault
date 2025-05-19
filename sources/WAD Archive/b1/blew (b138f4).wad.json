@@ -1,0 +1,17 @@
+{
+	"uid": "blew (b138f4).wad",
+	"name": "BLEW.WAD",
+	"description": "A small level, with most weapons, great for death match, lotsa hiding places, etc.",
+	"version": "b138f4",
+	"date": "2013-11-02 15:55:36",
+	"files": [
+		{
+			"filename": "blew.wad",
+			"size": 56814,
+			"crc": 3824946277,
+			"md5": "c44bccb3c6372a9ab2a113a712a5f018",
+			"sha1": "b138f4583178f07e49900134e5022d0234dd9fb0",
+			"sha256": "b72d13a8992874322234112718d91887a77a807df6a3fd2061812b896991a2fb"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "warrens.wad",
+	"name": "The Warrens",
+	"description": "After the bizarre ruins were found beneath a UAC excavation site, your team was sent down to investigate. Left behind to watch their backs, you heard them die... and worse. Investigate the warrens!",
+	"date": "2015-01-14 22:41:38",
+	"files": [
+		{
+			"filename": "warrens.wad",
+			"size": 172230,
+			"crc": 3876352784,
+			"md5": "87a8914e860b2699b660e3aa80c2ff5c",
+			"sha1": "22876bf435c3c228f421f9e51afb3f73edeca4ec",
+			"sha256": "ab88511e1aecc70d717096321b7ca6d9f6b360bbbd3d922f69b2e8277c9b0e6e"
+		}
+	]
+}

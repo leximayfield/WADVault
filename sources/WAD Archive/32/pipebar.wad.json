@@ -1,0 +1,16 @@
+{
+	"uid": "pipebar.wad",
+	"name": "The status bar from Houses 1.3",
+	"description": "This is a status bar I originally put together for Houses 1.3. I just decided that I would make this so you can download it to see the quality of the actual Houses WAD.",
+	"date": "2015-09-15 19:30:53",
+	"files": [
+		{
+			"filename": "pipebar.wad",
+			"size": 14840,
+			"crc": 407791987,
+			"md5": "dd9dc459181ff1d46030be6090fa88da",
+			"sha1": "329c9ea3bebe50366c7ca831824eba689d476847",
+			"sha256": "f9a2e1008f0db16cb4509e4159383f9ffb617cc3f44b05d071650052192d3157"
+		}
+	]
+}

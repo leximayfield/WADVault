@@ -1,0 +1,17 @@
+{
+	"uid": "galaxia (bf611d).wad",
+	"name": "GALAXIA.WAD (The Ultimate Czech Level)",
+	"description": "- This is my first creation. But I tried to avoid mistakes like too high sector, too long line, HOM, texture misalignment and such ... - It took me many hours and when I finished the level after several weeks, I didn't want to have just a few soldiers. So, this is gonna be tough. - No Cyberdemon, but several spiders. But wait! The one in the first room is here just for the story and will be killed later. All other spiders are only decorations and won't be killed. A few cacos and barons. (total: over 330 enemies) - You will be given all weapons except the BFG. - Don't believe in invulnerability. (It sucks). - There are no traps or places where you would stuck. - No puzzles, just an instant and hard action. Hey, this is DOOM! - My plan was to design an original subway area and sewers. (of course). When I started, I hadn't played a single pwad before. So I didn't steal any idea, just was not first. - THE LEVEL WAS DESIGNED FOR ONE PLAYER ONLY AS A STAND ALONE WAD. PLAY THE LEVEL AND QUIT. YOU SHOULD HAVE A FAST 486 (designed on DX2-66 VLB). - I can complete the level in about 20 minutes.",
+	"version": "bf611d",
+	"date": "2014-01-07 22:16:58",
+	"files": [
+		{
+			"filename": "galaxia.wad",
+			"size": 704993,
+			"crc": 189346408,
+			"md5": "26639c621d8b68b02072458a5a77f32e",
+			"sha1": "bf611dbf6ad4297c040063b421d766b7cdefb7cf",
+			"sha256": "ffdbac1a5e67d007eed1f5268560baa9b0af7c102aebee48d26b7f90d79d1454"
+		}
+	]
+}

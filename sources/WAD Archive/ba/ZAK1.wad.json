@@ -1,0 +1,16 @@
+{
+	"uid": "ZAK1.wad",
+	"name": "ZAK1",
+	"description": "This is about our 5th attempt at a wad file, we have learnt from our mistakes and this level includes some of our better ideas from the early attempts. The level is a fairly dark level based around a large cavern. In deathmatch there are several sniping points and every weapon is available. For co-operative play we have added a couple of extra baddies to make things more interesting.",
+	"date": "2014-10-14 21:07:13",
+	"files": [
+		{
+			"filename": "ZAK1.wad",
+			"size": 78662,
+			"crc": 2253297400,
+			"md5": "89f4a76a5cbacf893ee65f59b1533c9a",
+			"sha1": "ba168be01f545474be000a3affb906cc6c8f6f9e",
+			"sha256": "21dc3c828a6ce9e2c23099aa6ab7a35baadf08b06f5130a5e384a1bffbef02ea"
+		}
+	]
+}

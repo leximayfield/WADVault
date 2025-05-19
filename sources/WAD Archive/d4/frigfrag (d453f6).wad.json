@@ -1,0 +1,17 @@
+{
+	"uid": "frigfrag (d453f6).wad",
+	"name": "Frigid Frag",
+	"description": "Winter is coming! This is a winter-themed deathmatch arena inspired by Brit10. Ideal for duels or 1-4 players.",
+	"version": "d453f6",
+	"date": "2015-02-07 14:21:02",
+	"files": [
+		{
+			"filename": "frigfrag.wad",
+			"size": 336574,
+			"crc": 3451168189,
+			"md5": "8dd0d4ffbd6f775b8d29c8b3e0ce9df4",
+			"sha1": "d453f69e3354fe4494bee7f9c7198e49683f766b",
+			"sha256": "4b34bd0ed516d9febf1f49a1ad3e9e130cb4791085fd91aa9e6be9e84c6c7176"
+		}
+	]
+}

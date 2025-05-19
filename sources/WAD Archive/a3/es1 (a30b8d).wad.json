@@ -1,0 +1,17 @@
+{
+	"uid": "es1 (a30b8d).wad",
+	"name": "Enemy Stalkers Part I",
+	"description": "After years of fighting and bloodshed, Earth's defense forces have put together an elite team of super-skilled warriors to once and for all destroy the enemy. This team, called Enemy Stalker is sent to the distant military base named Cerrus 2. Your mission: Decimate.",
+	"version": "a30b8d",
+	"date": "2014-12-18 22:50:25",
+	"files": [
+		{
+			"filename": "es1.wad",
+			"size": 203014,
+			"crc": 838586036,
+			"md5": "a058b2d3a0d2fbebf1fb76677e8804e4",
+			"sha1": "a30b8d8e52c47797443d4a41a480a0c006308004",
+			"sha256": "983914416ff60f554e19f393e61607a3653280fc16f830533b6267af44edd8c6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "freak (8a3445).wad",
+	"name": "FREAK.WAD",
+	"description": "This is my latest creation, the most phenomenal deathmatch wad out there. It's five levels of really lethal chaos. You can play it single player or cooperative, but it isn't very good for that. Just kill people in it.",
+	"version": "8a3445",
+	"date": "2014-08-30 14:33:30",
+	"files": [
+		{
+			"filename": "freak.wad",
+			"size": 218110,
+			"crc": 1946088302,
+			"md5": "f2de88b00d870fd88d4b7f9217a4ca81",
+			"sha1": "8a34453f49501f510cab58f33bf95b7846532650",
+			"sha256": "bae80ecb840982055f80dcc7ced1fa5c574aeddeb0c8f2ef3d845871d6cedfc8"
+		}
+	]
+}

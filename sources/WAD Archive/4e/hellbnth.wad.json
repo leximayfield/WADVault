@@ -1,0 +1,16 @@
+{
+	"uid": "hellbnth.wad",
+	"name": "Hell Beneath.",
+	"description": "A good sized map for vanilla Doom2. This map has challenge in buckets. Plus great design and architechture to boot.",
+	"date": "2014-12-18 22:17:48",
+	"files": [
+		{
+			"filename": "hellbnth.wad",
+			"size": 128848,
+			"crc": 934988205,
+			"md5": "b7608878ad891dd600cc05baa2dca476",
+			"sha1": "4edd743355dd4e2206b693b641fed1fac1117fac",
+			"sha256": "2c5c5663f59de43f4889bf6112c68a0e0f6a02c5ef5b845af91fb31e352f57a8"
+		}
+	]
+}

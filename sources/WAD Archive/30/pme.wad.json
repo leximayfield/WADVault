@@ -1,0 +1,16 @@
+{
+	"uid": "pme.wad",
+	"name": "Post Mortem Experiment (pme.wad)",
+	"description": "This is a zDoom deathmatch map pack featuring three levels by me (deadnail) and three levels by Dashiva. All of the levels are explicitly fun to play and have a module soundtrack.",
+	"date": "2014-12-15 21:24:03",
+	"files": [
+		{
+			"filename": "pme.wad",
+			"size": 4300500,
+			"crc": 4100932645,
+			"md5": "dedcd76d548a212f8ed0c9e50220325a",
+			"sha1": "30587e38146e0bbfbfdc824de2a1eeea0aa4101c",
+			"sha256": "c87bf2e282ed8c351a5c785a1c188906f6d9d1c720c79a5480fa0f49d5f7974d"
+		}
+	]
+}

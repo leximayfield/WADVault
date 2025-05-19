@@ -1,0 +1,17 @@
+{
+	"uid": "ghostown (abc8b6).wad",
+	"name": ". GHOSTOWN.WAD",
+	"description": ":Based on a wad i did a year ago for Doom1. Ghostown is three open levels based on the theme of small towns, you can go anywhere you like, picking up the keys you need to advance to the next level. My design goal was a wad that challenged on a strategic level, one that could be replayed and enjoyed again & again, and still have the potential to surprise (and shock). I encourage you to first take a Tour through Ghostown, to learn the layout and suss out the powerups. Because this wad relies on the semi-random teleporting in of monsters, each time you play the game will be different.",
+	"version": "abc8b6",
+	"date": "2013-11-02 16:41:03",
+	"files": [
+		{
+			"filename": "ghostown.wad",
+			"size": 482845,
+			"crc": 2722070184,
+			"md5": "9bbb52bcd81a2aadc6957cf0ec91e981",
+			"sha1": "abc8b665901dfe4afbceec36e592deaa7a64249c",
+			"sha256": "0b8928b5bad9855ef76944d047cb4de711a6fceb2d5197f3eeafe370a124c90f"
+		}
+	]
+}

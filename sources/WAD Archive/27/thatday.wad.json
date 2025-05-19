@@ -1,0 +1,16 @@
+{
+	"uid": "thatday.wad",
+	"name": "That Day",
+	"description": "This is a short map for Doom 2 in Boom format. I made it because I was bored. I worked on it on and off during the weekend, and my guess is that it took probably something about 6 hours (note that this is a rough guess) total to make it. Its up to you to decide if it is any good for a six hour effort.",
+	"date": "2014-12-29 18:23:25",
+	"files": [
+		{
+			"filename": "thatday.wad",
+			"size": 40186,
+			"crc": 1842084206,
+			"md5": "856497042eb61f1578ffe246d4067fba",
+			"sha1": "27466abbed0415c00f2db2e4a273ea4917558b73",
+			"sha256": "c05cdebc0e9093ae56a77f7a7dce6e0121f7211853e7f8030d4af5d79ab3953e"
+		}
+	]
+}

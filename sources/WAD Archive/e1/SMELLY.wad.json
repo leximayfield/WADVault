@@ -1,0 +1,16 @@
+{
+	"uid": "SMELLY.wad",
+	"name": "The Smelly Part of Hell",
+	"description": "my first level. it just grew and grew.",
+	"date": "2013-11-06 22:44:30",
+	"files": [
+		{
+			"filename": "SMELLY.wad",
+			"size": 104913,
+			"crc": 1643031555,
+			"md5": "97ef83b7a128f0b3e1b63a139ab4f40b",
+			"sha1": "e1d43d93bb7a0f5e2d7b6fa26a51474bf1f53119",
+			"sha256": "3128c928e289851fa8e1197db8c76f7ee79b49ede8820ac62f1992786fc2159f"
+		}
+	]
+}

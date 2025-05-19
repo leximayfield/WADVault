@@ -1,0 +1,17 @@
+{
+	"uid": "scythe1 (3ec1d6).wad",
+	"name": "Scythe",
+	"description": "A 32 level megawad for doom2. This megawad doesn't have perfect texture alignment, insane detail and fantasticly hard gameplay. Instead it focuses on small fun maps to blast through without much thought about defense. The difficulty rises steadily as you go through the maps and the last few should challenge even the best.",
+	"version": "3ec1d6",
+	"date": "2013-04-21 20:52:37",
+	"files": [
+		{
+			"filename": "scythe1.wad",
+			"size": 6215556,
+			"crc": 3220334071,
+			"md5": "3131213a9413a604c5c160848ddb3d9d",
+			"sha1": "3ec1d6c5537f4204d48ce661182e7fbd044d5f6b",
+			"sha256": "7d0ee3f9ac017255d2903504dab2d0ed32bfd39482b2cc5e102d26c4858871ff"
+		}
+	]
+}

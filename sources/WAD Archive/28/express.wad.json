@@ -1,0 +1,16 @@
+{
+	"uid": "express.wad",
+	"name": "Express  (EXPRESS.WAD FROM EXPRESS.ZIP)",
+	"description": "My NEWEST Ultimate Deathmatch level. Express to Hell ! Single player if you want a serious challenge. This level has been extensively playtested in modem and network play.",
+	"date": "2014-12-18 22:34:21",
+	"files": [
+		{
+			"filename": "express.wad",
+			"size": 109360,
+			"crc": 3088738381,
+			"md5": "86c729f38413b387dfc482ee45d3de04",
+			"sha1": "28bfb8ab74df440f36b037b7b3359565397e15f7",
+			"sha256": "e54e93557b870dad7bbbe47dbf46db6b4dd885eeacf35224d36e485dce2a2a08"
+		}
+	]
+}

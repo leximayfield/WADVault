@@ -1,0 +1,17 @@
+{
+	"uid": "gun1 (ecc663).wad",
+	"name": ".32 Auto",
+	"description": "A small caliber handgun taken from the manual that came with the weapon.",
+	"version": "ecc663",
+	"date": "2014-01-07 22:07:50",
+	"files": [
+		{
+			"filename": "gun1.wad",
+			"size": 99689,
+			"crc": 3313603227,
+			"md5": "812e91ec901832da490745f6997091af",
+			"sha1": "ecc663acd5e1dce5c32cb693a13de8206a20ca50",
+			"sha256": "a46e515d2974fd6e7b7aa39c7bc1b3e233cf562ff5361a0e32c84ece3cf6b8f0"
+		}
+	]
+}

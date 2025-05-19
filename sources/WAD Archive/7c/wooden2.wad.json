@@ -1,0 +1,16 @@
+{
+	"uid": "wooden2.wad",
+	"name": "Wooden 2",
+	"description": "this level is included in our second DMC deathmatch levels compilation, called DMC2: Immortal Thoughts More information about the compilation can be found at http://www.horizon.nl/~cono.",
+	"date": "2014-12-15 21:22:48",
+	"files": [
+		{
+			"filename": "wooden2.wad",
+			"size": 264636,
+			"crc": 1023006272,
+			"md5": "5e38bca900415532127f12cad0c287fb",
+			"sha1": "7cea7006044c1fb1756266e861ad4e4f99de251d",
+			"sha256": "95ffacf7586809d33e6c2bdd83c865fd0b07b1692b39ff999e2d0220e873f245"
+		}
+	]
+}

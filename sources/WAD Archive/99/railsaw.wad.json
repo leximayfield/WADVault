@@ -1,0 +1,16 @@
+{
+	"uid": "railsaw.wad",
+	"name": "Railsaw",
+	"description": "My first weapons mod that replaces all weapons.",
+	"date": "2014-12-11 22:32:48",
+	"files": [
+		{
+			"filename": "railsaw.wad",
+			"size": 1698907,
+			"crc": 324302720,
+			"md5": "79135760c2e2f1ac61249e2255914f58",
+			"sha1": "996f239317a311891506ae7d1b957abf2e7ebbfa",
+			"sha256": "f4edab6dd00911085d4c3b2c924e0c0946991d20e7900a2b2c84cfff5c2b1069"
+		}
+	]
+}

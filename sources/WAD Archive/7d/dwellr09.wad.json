@@ -1,0 +1,16 @@
+{
+	"uid": "dwellr09.wad",
+	"name": "DWELLR09.WAD for Doom II",
+	"description": "Deathmatch only WAD Small, fast paced, high frag level with exit. Designed for OLD DEATHMATCH. Provisions have been included for ALTDEATH (a little health, ammo, etc.). There are also monsters. If you want to practice solo, you can run around with respawn on. Otherwise play with nomonsters.",
+	"date": "2014-01-07 21:47:01",
+	"files": [
+		{
+			"filename": "dwellr09.wad",
+			"size": 40926,
+			"crc": 3310414620,
+			"md5": "3938ef805bd5a37c00986c4ec2ce8927",
+			"sha1": "7d3228ce3dc0f9bc75c854a09d2617161deccf9b",
+			"sha256": "6f6d4f25fa87bba10e296345b187ad0a7e6c7bd62fd280b3c08c0a3f4559c645"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sword (50ef78).wad",
+	"name": "Sword of Damocles",
+	"description": "As in the ancient story of Damocles, member of the court of Dionysius II of Sicily, the threat of danger lurks around every corner. Beware the sword of Damocles that dangles by a single hair above your head!",
+	"version": "50ef78",
+	"date": "2013-11-02 17:00:32",
+	"files": [
+		{
+			"filename": "sword.wad",
+			"size": 144191,
+			"crc": 2619417576,
+			"md5": "c5739f3fe46dbee40c67d4b50371a0ab",
+			"sha1": "50ef781b5a6f5474a25c59df0c99566498c3bb44",
+			"sha256": "165c15a46f4797384fdac3629ad25fb2c9246bf8af8010772b50751cd9f22afe"
+		}
+	]
+}

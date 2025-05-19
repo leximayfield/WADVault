@@ -1,0 +1,17 @@
+{
+	"uid": "bludlust (892d7d).wad",
+	"name": "Bloodlust",
+	"description": "A large Deathmatch designed with 3 or 4 players in mind, but 2 players will have a blast too. Single play mode has monsters, but not many; this wad was constructed primarily for Deathmatches. Take a GOOD, LONG look around before Deathmatch play because of all the secret doors, lifts, etc. Take nothing for granted, a seemingly safe spot may have a false wall nearby hiding an opponent with a rocket launcher!",
+	"version": "892d7d",
+	"date": "2014-12-15 22:03:44",
+	"files": [
+		{
+			"filename": "bludlust.wad",
+			"size": 96989,
+			"crc": 3406114436,
+			"md5": "e327aaae86ca0f85b8248955095399d1",
+			"sha1": "892d7dfb64f633846236c9aa8129d5a9242f6c36",
+			"sha256": "a929e7a29500beb4d06695b9b51f0bb25fdc765dbf0a50893b4c5d32ea231ebf"
+		}
+	]
+}

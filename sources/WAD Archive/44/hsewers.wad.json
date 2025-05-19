@@ -1,0 +1,16 @@
+{
+	"uid": "hsewers.wad",
+	"name": "The Sewers",
+	"description": "Herein lies a brand new level for ID software's Heretic that features plenty of monsters, secrets, and weapons. Set in a water treatment plant straight from Hell! Enjoy!",
+	"date": "2013-11-02 16:39:37",
+	"files": [
+		{
+			"filename": "hsewers.wad",
+			"size": 178684,
+			"crc": 2909612772,
+			"md5": "5598fad8b50e86e43b29043f21f67cd3",
+			"sha1": "449ef9ebe74f845ab138d4a7025073051851bc69",
+			"sha256": "833a96e1a05f4337708e3eed42fb2a7048ff1e891b24091705e41007732def8b"
+		}
+	]
+}

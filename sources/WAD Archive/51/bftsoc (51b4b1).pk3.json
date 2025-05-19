@@ -1,0 +1,17 @@
+{
+	"uid": "bftsoc (51b4b1).pk3",
+	"name": "Battle for the sphere of chaos",
+	"description": "My long work for Hexen, which i was started in September 2013. It have only 4 levels, but it have \"hub\" mode. Story: The action takes place in parallel world of Hexen, where instead of Korax, world Cronos was attacked by D'Sparil and with the help of his army brought the chaos and destruction to this world. The task of heroes - crush the D'Sparil and destroy the Sphere of Chaos, which he uses to control his troops.",
+	"version": "51b4b1",
+	"date": "2016-06-16 21:00:41",
+	"files": [
+		{
+			"filename": "bftsoc.pk3",
+			"size": 6590537,
+			"crc": 3092853648,
+			"md5": "cf5e4bc9a26abe134f4ac4e88ae9423e",
+			"sha1": "51b4b138eadc85ccde80a9cc34262b5d1fe4293f",
+			"sha256": "a4e795d73473a30d7df2743a16569c1b0b0f0c600ba6012b555bef3555096007"
+		}
+	]
+}

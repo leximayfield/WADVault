@@ -1,0 +1,17 @@
+{
+	"uid": "cumamons (7188cc).wad",
+	"name": "Custom Marathon Monsters",
+	"description": "An cult takeover over UAC facilities just happened. UESC pipes in as a response to the situation. UESC intelligence believes that the cult is working w/ Pfhor organizations. UESC decides to pair up w/ UAC to contain the situation. Unfortunately, the situation grew into a world-wide issue. Who will stop the madness?",
+	"version": "7188cc",
+	"date": "2019-12-01 00:25:37",
+	"files": [
+		{
+			"filename": "cumamons.wad",
+			"size": 34537793,
+			"crc": 4084912865,
+			"md5": "2bbcb0bbabc50ca9a71bd82f856700a8",
+			"sha1": "7188cc348053a3caf9be8adca3f3bcd83743789b",
+			"sha256": "25bfd6ae3ba6bd9f96fd2216b087371b929407f9d9ca08e64aaad5a83170e3dd"
+		}
+	]
+}

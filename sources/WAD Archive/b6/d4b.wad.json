@@ -1,0 +1,16 @@
+{
+	"uid": "d4b.wad",
+	"name": "Doom IV: Daisy's Revenge, Level 2&3",
+	"description": "This is the second in a series of D4x wads. Subsequent wads require previous wads.",
+	"date": "2014-12-13 17:35:49",
+	"files": [
+		{
+			"filename": "d4b.wad",
+			"size": 21780,
+			"crc": 3342189806,
+			"md5": "b03b56c1c1febfaaa652350474af9d9b",
+			"sha1": "b6efb318192fc73c19b67680732b720202d010e0",
+			"sha256": "992b6b3a4a984deb9c28aad8aed84d17a36e86da0216e0c6a13a496a6a264318"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "rp.wad",
+	"name": "Rust Point",
+	"description": "A small map using deConstruct Industrial Textures.",
+	"date": "2015-01-14 22:43:29",
+	"files": [
+		{
+			"filename": "rp.wad",
+			"size": 1819288,
+			"crc": 1110245065,
+			"md5": "59684d0251e8e52de426fbfda97a2789",
+			"sha1": "f87ddec93da99e51e32ac2c95ca0053848a4c58b",
+			"sha256": "e7d354f27f89153ccfbd506e474ff66ab5c32a9e0eb0681a087fa01a9149ad9c"
+		}
+	]
+}

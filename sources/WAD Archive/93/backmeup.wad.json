@@ -1,0 +1,16 @@
+{
+	"uid": "backmeup.wad",
+	"name": "Back Me Up",
+	"description": "Short, simple maps. Coop should be fun, DM would work best on Map02 through Map06. Pistol starts are all possible and difficulty levels vary greatly.",
+	"date": "2014-12-15 22:29:27",
+	"files": [
+		{
+			"filename": "backmeup.wad",
+			"size": 424486,
+			"crc": 3949576322,
+			"md5": "a917c2e9bd5f379f1a2d8754be57fa01",
+			"sha1": "93d05f62e066ce7709440d9c3046a2ac6dba8abf",
+			"sha256": "e05ec0c5fe0ecbd52de1bdd5e914762deba29d91b783c431d5324eef6add3d3e"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doom (1d1d4f).wad",
+	"name": "The Ultimate Doom (Xbox)",
+	"version": "1d1d4f",
+	"date": "2016-06-21 20:50:21",
+	"files": [
+		{
+			"filename": "doom.wad",
+			"size": 12538385,
+			"crc": 4280002355,
+			"md5": "0c8758f102ccafe26a3040bee8ba5021",
+			"sha1": "1d1d4f69fe14fa255228d8243470678b1b4efdc5",
+			"sha256": "f3feee62bba829784190d1e9352f46d65eb64d1b7ce41c46395785c146382757"
+		}
+	]
+}

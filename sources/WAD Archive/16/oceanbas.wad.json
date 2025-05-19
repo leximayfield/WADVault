@@ -1,0 +1,16 @@
+{
+	"uid": "oceanbas.wad",
+	"name": "ocean base",
+	"description": "a single player/cooperative level with deathmatch starts It is set on a deserted (by normal humans) island out in the middle of nowhere. On this island is two storage facilities, one large military base, a cave with molten lava on the floor and a couple of rock formations nearby. as you have probably already guessed, the island was over run by hellspawn, all of it's former occupants murdered. It is your job to capture back the base and escape through the emergency teleporter within the base.",
+	"date": "2015-09-15 19:28:01",
+	"files": [
+		{
+			"filename": "oceanbas.wad",
+			"size": 126916,
+			"crc": 1236195389,
+			"md5": "61feded191252d800496d0fc388fa0d2",
+			"sha1": "16854a1693aa09d15e7c960364413426ec142a7f",
+			"sha256": "8d65786a45cebce6eb646301e783c39927b5ccd1a7ff810cfa3423ae1c8fbda3"
+		}
+	]
+}

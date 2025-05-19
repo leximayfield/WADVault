@@ -1,0 +1,16 @@
+{
+	"uid": "FORTUNE.wad",
+	"name": "FORTUNE.WAD \"Soldier of Fortune\" V1.0",
+	"description": "This is my first level, but don't let that put you off... hey, it even has an exit :). Seriously, it's gotten good reviews from some well known Wad authors. Try it out.",
+	"date": "2014-12-18 22:15:28",
+	"files": [
+		{
+			"filename": "FORTUNE.wad",
+			"size": 587545,
+			"crc": 2145555385,
+			"md5": "1f61fefe00d727fe99772b48c46a03fc",
+			"sha1": "da5134c3c65337cf49d30fddb4320e868d9d625c",
+			"sha256": "79b8add78e56b7294d9a7ae3d6376c5558076bec12bdf76021bf6f28826b066d"
+		}
+	]
+}

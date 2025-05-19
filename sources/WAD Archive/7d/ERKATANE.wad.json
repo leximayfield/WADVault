@@ -1,0 +1,16 @@
+{
+	"uid": "ERKATANE.wad",
+	"name": "Erkatt\u00e4\u00f1\u00f1e: 11 maps, 2 flavors.",
+	"description": "The main goal was to create a vanilla classic episode themed on Doom2 techbases. I was as well influenced by d2twid and 1994-1996 maps regarding to the very raw detailing employed. The maps are small to mid in size and the average enemy count is around 100 per map. There is virtually no texture alignment except for some doors and switches, taking advantage of the sector height sometimes for that work, and I made no use of support2/3 to separate different textures, using just angles as in some iwad maps. On the other hand I wanted very consistent themes so I used just 40 different textures per map as a constraint, including those for doors and keymarks as I realised some iwad maps use very few textures too.",
+	"date": "2018-02-10 16:59:18",
+	"files": [
+		{
+			"filename": "ERKATANE.wad",
+			"size": 1458959,
+			"crc": 3008685060,
+			"md5": "899dcd8de42f0873f40f77eea42e2fbf",
+			"sha1": "7dbc8d5545de6af25a3c333a3f5035b0305a97b9",
+			"sha256": "1d378f8679fa95198f975197c1a95ab78c79c178312f5c58c20ae0c59833c5ca"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dimxmus.wad",
+	"name": "Doom 2 Variations by Dimaension X",
+	"description": "With the release of Dimaension X's \"Doom 2 Variations\" tribute : to Bobby Prince's compositions for Doom 2, I quickly assembled : a workable PWAD using the songs to be used in the game using : a ZDoom source port. : : Note I used 16bit mono in order to reduce file upload size : but the songs still sound pretty good. If you want to listen : to Dave's tracks in full quality, head to http://dimaensionxblog.blogspot : or simply go directly to http://www.archive.org/details/the_doom_2_variations",
+	"date": "2013-12-04 13:06:19",
+	"files": [
+		{
+			"filename": "dimxmus.wad",
+			"size": 72589848,
+			"crc": 3646806868,
+			"md5": "6c8f8a4a334dacbe5cb5064cd9582989",
+			"sha1": "7c65ebb862c6d3688fb88ba830bafb459131671d",
+			"sha256": "bf87076c8a4421a32fb65dbc96e39ac30dddff2b2b21572eb05bd23fca6cbe7a"
+		}
+	]
+}

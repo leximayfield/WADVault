@@ -1,0 +1,16 @@
+{
+	"uid": "dts-tdem.wad",
+	"name": "DTS-T (Demo)",
+	"description": "This is a 2-Level-Demo of my upcoming MegaWad \"DTS-T\" due out hopefully in 2004.",
+	"date": "2014-12-18 23:08:53",
+	"files": [
+		{
+			"filename": "dts-tdem.wad",
+			"size": 1750790,
+			"crc": 1494697775,
+			"md5": "94a91051e728891827a84061b1c8cb39",
+			"sha1": "6b915eb47a77e8ff8b5fdaa56461e4be13a79a9c",
+			"sha256": "8196874a72060c10951bd770de0195767fc5bb366498307a2fed911b0cfbf0c4"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "vile_lib.wad",
+	"name": "Occult Library v1.1",
+	"description": "Small but challenging map taking place in a demon infested library.",
+	"date": "2014-12-29 18:17:39",
+	"files": [
+		{
+			"filename": "vile_lib.wad",
+			"size": 1413224,
+			"crc": 1596550582,
+			"md5": "dad8d4ab30455c8ca876411967a76441",
+			"sha1": "efd7a17c6d053869337a9973237616b7280f23b9",
+			"sha256": "6b9eb12ed26cf6b2537352c23dfa42ce213156c456cc01b66f1ea4056c7e75aa"
+		}
+	]
+}

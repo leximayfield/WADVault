@@ -1,0 +1,17 @@
+{
+	"uid": "pentgio (517826).wad",
+	"name": "pentgio.wad",
+	"description": "Inspired by doom2 level 7, except bigger and more stuff. Given very high marks by everyone who's seen it.",
+	"version": "517826",
+	"date": "2013-11-02 15:51:12",
+	"files": [
+		{
+			"filename": "pentgio.wad",
+			"size": 64266,
+			"crc": 496354528,
+			"md5": "6b06860e7bfb360c0147907f9b93be9e",
+			"sha1": "517826cb2dd3e6999616d693aa82dc8520a37b63",
+			"sha256": "dab6baa523a512a130465eac257b7cdd31eb577ad3798d38fbe94afe67f07cb2"
+		}
+	]
+}

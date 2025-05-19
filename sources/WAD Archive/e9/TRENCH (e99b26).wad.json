@@ -1,0 +1,17 @@
+{
+	"uid": "TRENCH (e99b26).wad",
+	"name": "Trench.wad",
+	"description": "This is a deathmatch WAD that my brother and I have loads of fun playing, it can really get that adreneline flowing.",
+	"version": "e99b26",
+	"date": "2013-11-14 14:15:16",
+	"files": [
+		{
+			"filename": "TRENCH.wad",
+			"size": 55949,
+			"crc": 2470225979,
+			"md5": "90e5b75109811611f8a78949bbeab383",
+			"sha1": "e99b26351109c18b762830c086f9cd44c57b925f",
+			"sha256": "af1c372c3b4c3671eea8c4ca4de022db00e1233033c87848ebf500cf24bb31cc"
+		}
+	]
+}

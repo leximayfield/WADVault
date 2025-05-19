@@ -1,0 +1,16 @@
+{
+	"uid": "ph_mini.wad",
+	"name": "Mini Doom",
+	"description": "It's The Ultimate Doom... But smaller. Four one-map episodes, each \"speed mapped\" in 6-10 hours. Yes, my ambitions did get in the way a bit. Each map has all difficulties implemented, is single-player only and, for added flair, was mapped in a different format from the others. E1 is Boom, E2 is ZDoom (Doom format), E3 is ZDoom (HeXen format) and E4 is GZDoom (UDMF). You'll need OpenGL for E4, due to an experimental room involving mirrors.",
+	"date": "2019-08-23 12:38:06",
+	"files": [
+		{
+			"filename": "ph_mini.wad",
+			"size": 1418400,
+			"crc": 2786017865,
+			"md5": "c9767fd25a0b115032f22312ad182ca0",
+			"sha1": "ff51fa189d6d330d72df0448a3b63d049a46f68e",
+			"sha256": "9ce62e1a188dd2ea55f5d7ebb893620f83319aa27aaf2a2db5f758584b73665c"
+		}
+	]
+}

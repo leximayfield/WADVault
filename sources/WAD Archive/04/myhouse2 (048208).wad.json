@@ -1,0 +1,17 @@
+{
+	"uid": "myhouse2 (048208).wad",
+	"name": "MyHouse2.wad",
+	"description": "This is the Doom ][ version of my Wad file, some of texture's are a little off so if you want the full effect you should play it on Doom I !!!",
+	"version": "048208",
+	"date": "2014-12-03 20:10:19",
+	"files": [
+		{
+			"filename": "myhouse2.wad",
+			"size": 157608,
+			"crc": 3389609999,
+			"md5": "9cc4323a66ad858b0c9e3f0610067308",
+			"sha1": "0482081aff320a3738a40bd912827ac0c4608171",
+			"sha256": "64b25a8a04ac940c83dabdcb9f32a0f3d7ffa5bb91766d4fa96a898b34b0da7c"
+		}
+	]
+}

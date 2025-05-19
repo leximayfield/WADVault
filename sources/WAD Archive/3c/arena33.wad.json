@@ -1,0 +1,16 @@
+{
+	"uid": "arena33.wad",
+	"name": "Deadpool's Real Arena",
+	"description": "This is a much cleaner, more interesting version of the Deadpool's Arena Hexen WAD I uploaded the other day. It's designed for Deathmatch only, so there're still no monsters in the thing. Unless someone uncovers a major bug/HOM/etc., this will be the last update I make to this WAD.",
+	"date": "2014-12-31 12:00:10",
+	"files": [
+		{
+			"filename": "arena33.wad",
+			"size": 126027,
+			"crc": 948189169,
+			"md5": "312634e1114f8a9973cd72f1343c0189",
+			"sha1": "3c39bb453bd16a17066e3a75551bf2cf64fceafb",
+			"sha256": "ccc44b87f5c4641f450beb7763f2378d8a72130f5378d417f508de159e370657"
+		}
+	]
+}

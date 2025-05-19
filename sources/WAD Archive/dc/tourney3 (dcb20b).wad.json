@@ -1,0 +1,17 @@
+{
+	"uid": "tourney3 (dcb20b).wad",
+	"name": "TOURNEY 003",
+	"description": "This file was created especially for a VGC (Virtual Gaming Center) tournament (see TOURNEY5.VGC and RESULT.T5 files included within this ZIP).",
+	"version": "dcb20b",
+	"date": "2014-12-03 20:03:22",
+	"files": [
+		{
+			"filename": "tourney3.wad",
+			"size": 174529,
+			"crc": 321249049,
+			"md5": "f510a3534529e352ad8b6453ec534cb9",
+			"sha1": "dcb20b9fabd663baf9202e087e6e674f1cdd9878",
+			"sha256": "819cdaadee27ce87ba5ba9db5f80ddaff6df4f03cced8aeb255ea1d7f6672786"
+		}
+	]
+}

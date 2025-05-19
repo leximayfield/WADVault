@@ -1,0 +1,16 @@
+{
+	"uid": "rtohell.wad",
+	"name": "Return to hell",
+	"description": "A level based on the hell.",
+	"date": "2014-12-29 08:56:31",
+	"files": [
+		{
+			"filename": "rtohell.wad",
+			"size": 368297,
+			"crc": 2506386559,
+			"md5": "f3dbd59b861d7f2fc20c6757d62fb918",
+			"sha1": "5c53d542eece5ae67e9a3364016ebd74cf8a1f19",
+			"sha256": "28099091e756098501cf3584320d89516f53101a67d4e4b350090ab7e124a6a7"
+		}
+	]
+}

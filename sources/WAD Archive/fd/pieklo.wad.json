@@ -1,0 +1,16 @@
+{
+	"uid": "pieklo.wad",
+	"name": "Pieklo",
+	"description": "A small wad consists of 2 maps. The maps originally have been constructed in limit- removing format, but there is Boom's action of sky transfer on map 02. You start in a small hotel. An aliens from Pekel world invades in our reallity, so, get ready your weapon and show them kuzma's mother!",
+	"date": "2014-12-29 08:40:36",
+	"files": [
+		{
+			"filename": "pieklo.wad",
+			"size": 2421053,
+			"crc": 392125483,
+			"md5": "c82a4a7d9fafa089a9148e6e2418d972",
+			"sha1": "fdfaa439bfab5759413d341961fcccabe0314e8d",
+			"sha256": "38571e04f0492075fbae04f6d655992eb950f2f2bc246eeb1e07af08d3bda363"
+		}
+	]
+}

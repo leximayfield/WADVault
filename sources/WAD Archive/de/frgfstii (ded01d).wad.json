@@ -1,0 +1,17 @@
+{
+	"uid": "frgfstii (ded01d).wad",
+	"name": "FrgFstII.WAD",
+	"description": "Set the mood here.",
+	"version": "ded01d",
+	"date": "2013-11-02 16:58:24",
+	"files": [
+		{
+			"filename": "frgfstii.wad",
+			"size": 537978,
+			"crc": 4065761539,
+			"md5": "94e51b37c82787c9bea35b4072b003b7",
+			"sha1": "ded01d9c4d8b8a1a3d5b4c21990d1f838cac271a",
+			"sha256": "7f9c841158d3e884a9ec9f825dd343f1bd3c0b6f246d3082d4436adac15086e9"
+		}
+	]
+}

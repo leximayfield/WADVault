@@ -1,0 +1,16 @@
+{
+	"uid": "agonism9.wad",
+	"name": "AGONISM9.WAD",
+	"description": "A medium sized deathmatch wad with an outdoor setting. All weapons available, although the BFG and Plasma gun are more difficult to get.",
+	"date": "2014-12-15 21:28:44",
+	"files": [
+		{
+			"filename": "agonism9.wad",
+			"size": 46401,
+			"crc": 4268205194,
+			"md5": "212a9796b07b3c3d0cfbf4d27379dded",
+			"sha1": "8ffb905e4d33ef90e478fdd55eb6a1d6c4859296",
+			"sha256": "827fbf21b7abd3cc115efa81d65a30f63be2f3be8e4f54a2acce026d22108cdb"
+		}
+	]
+}

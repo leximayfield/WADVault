@@ -1,0 +1,16 @@
+{
+	"uid": "pc_sop.wad",
+	"name": "Sinful Outpost",
+	"description": "A big and detailed bricks and metal map for Doom 2 inspired by John Dr. Sleep Anderson and Tom Mustaine.",
+	"date": "2017-03-16 20:36:45",
+	"files": [
+		{
+			"filename": "pc_sop.wad",
+			"size": 1179876,
+			"crc": 1673097433,
+			"md5": "d84bd389ba791f4fd899c64c6dd6badb",
+			"sha1": "43ed27ab9c480ed3b540168a3f4740819a87ae0e",
+			"sha256": "9396b73e8ed1cb6d15fde52a6fce64f9f89f16b1bfa146a9efd8ef1ddda2d9c7"
+		}
+	]
+}

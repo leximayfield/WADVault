@@ -1,0 +1,17 @@
+{
+	"uid": "tazmania (70a1d1).wad",
+	"name": "TAZMANIA.WAD",
+	"description": "Welcome to Castle Tazmania. This is a DOOM ][ Level designed primarily for deathmatch play. I took great care to choose textures appropriately for all rooms, and I also spent a lot of time aligning the textures to make the secrets a little harder to find. (I cannot abide those who throw something together in an hour without even trying to align textures, and then expect us to play it). I am especially proud of the walls in the spiral staircase. A lesser man would have left the venetian-blind effect there because it was so much trouble to correct. I always enjoy watching perfectly matched walls go by as I'm running full speed, guns a-blazin'.",
+	"version": "70a1d1",
+	"date": "2014-01-07 22:10:12",
+	"files": [
+		{
+			"filename": "tazmania.wad",
+			"size": 178757,
+			"crc": 3404906050,
+			"md5": "2dc4437d1c0d4a21a2e0dcc4d1879c12",
+			"sha1": "70a1d1f2f45cdcad12fa23fedc9abca10ae60f41",
+			"sha256": "f0ac94ff90c70b0e634ad221f99b082c394a99d3a18bfe0d5dddb1dd7821a297"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "comcon (ac5002).wad",
+	"name": "Command Control (COMCON.WAD)",
+	"description": "Command Control, normally where big decisions are made. The only thing you'll need to decide is which target deserves your attention first. Play starts out slow but quickly turns into a DOOM-fest with few parts that allow for breathing.",
+	"version": "ac5002",
+	"date": "2015-12-07 11:50:44",
+	"files": [
+		{
+			"filename": "comcon.wad",
+			"size": 328158,
+			"crc": 3578775294,
+			"md5": "bcd2521b423b6b33fb847359470df3af",
+			"sha1": "ac5002d580b1f416b04fb1e31f3e79cff4c3f004",
+			"sha256": "3b3095f7b8785f5471e2b82a99c604857af95ded679f18aaa32cffb826f3236a"
+		}
+	]
+}

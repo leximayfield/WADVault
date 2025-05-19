@@ -1,0 +1,16 @@
+{
+	"uid": "ht_grave.wad",
+	"name": "The Grave of the Heretic",
+	"description": "An old deathmatch favorite reincarnated as a Heretic level. Primarily a death- match PWAD, but fun for single-player mode also. This is just a PWAD to show off what the Heretic (at least the beta) is capable of. And yes, as we release this level the shareware version of Heretic is not even out, yet we've included some fun stuff that wasn't included in the beta (watch out for the Wizard and the Liche (flying head that torches you and shoots whirlwinds), as well as the minefield) ;) Also to exit the level, find \"The Grave of the Heretic\" and activate it. Enjoy.",
+	"date": "2013-11-04 20:16:33",
+	"files": [
+		{
+			"filename": "ht_grave.wad",
+			"size": 35512,
+			"crc": 3896281111,
+			"md5": "5c61a2814478eeeb9946643c5ac64d32",
+			"sha1": "999039f4e63fb1f06a5ccc518fd87b620834fdcd",
+			"sha256": "c48af7bbb2252ada4d7f0fb3cedb2d7abf7009cb5d57f9d43831a10cb9b7c628"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "UNHOLY-X (a7a667).wad",
+	"name": "UNHOLY-X.WAD",
+	"description": "Unholy Cross. An E1M1 deathmatch level designed for 2-3 players. This PWAD is designed around a tall central room containing a massive fiery alter. There are all the weapons except the BFG (it ruins DM) and several concealed sniper points. You also can use the slimy one-way sewer to your advantage.",
+	"version": "a7a667",
+	"date": "2013-11-02 15:09:22",
+	"files": [
+		{
+			"filename": "UNHOLY-X.wad",
+			"size": 67133,
+			"crc": 2809038112,
+			"md5": "1ea01c626a5fce6f1dcace4ebdd29637",
+			"sha1": "a7a6675d6f62028fb02f6e85f9eddb62baa02e93",
+			"sha256": "e12ea9dec55e79fbd9bef0d8f761bf1b412df6dca2c0d3547c3ae2f235f057ae"
+		}
+	]
+}

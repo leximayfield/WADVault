@@ -1,0 +1,16 @@
+{
+	"uid": "castleof.wad",
+	"name": "Castle of the Damned",
+	"description": "level for DooM ][ based on Quake map E1M2: Castle of the Damned",
+	"date": "2014-12-15 22:31:56",
+	"files": [
+		{
+			"filename": "castleof.wad",
+			"size": 431341,
+			"crc": 3713384415,
+			"md5": "e654d9c38815d33c6a44fd00bb6e7cfe",
+			"sha1": "424fb7f6bc0f1faac91ea91044a769739740ee06",
+			"sha256": "49b41da0cf8898bb35bec803d85f89c7cfb3d3ef635cda2906ca632fb28474a8"
+		}
+	]
+}

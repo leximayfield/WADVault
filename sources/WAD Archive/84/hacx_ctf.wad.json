@@ -1,0 +1,16 @@
+{
+	"uid": "hacx_ctf.wad",
+	"name": "HacX-CTF",
+	"description": "2-team Capture The Flag for HacX - single player only with up to 16 bots!",
+	"date": "2015-09-14 22:09:54",
+	"files": [
+		{
+			"filename": "hacx_ctf.wad",
+			"size": 494367,
+			"crc": 3698752831,
+			"md5": "790939637258ca352db10fea925e9130",
+			"sha1": "8462920e569e250a788876449b66e793d2e880fc",
+			"sha256": "a5bc98b6dc9b3e4421dba04d0124155fad5888fba265e6e7018bde8edce9477a"
+		}
+	]
+}

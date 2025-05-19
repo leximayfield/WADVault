@@ -1,0 +1,17 @@
+{
+	"uid": "plant (ff5afb).wad",
+	"name": "The Energy Plant",
+	"description": "Ok marine, this is your mission. this plant is the main supplyer of energy to the opposition. You must cross the bridge, enter the plant, kill everything in sight, and finally shut the plant off for good. Plain and simple. Now get moving!",
+	"version": "ff5afb",
+	"date": "2015-01-14 14:38:31",
+	"files": [
+		{
+			"filename": "plant.wad",
+			"size": 187043,
+			"crc": 184955173,
+			"md5": "d61b4e3d5f25c22cffa15559e31ce589",
+			"sha1": "ff5afb9d72afb76ba054e722fe043165051ace86",
+			"sha256": "9bbc463bb761bec2da87eb078421faf68b40c5f5e132224c83531111d74e985a"
+		}
+	]
+}

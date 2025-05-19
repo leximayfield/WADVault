@@ -1,0 +1,17 @@
+{
+	"uid": "exodus (8353f7).wad",
+	"name": "exodus",
+	"description": "A story . . You and your squad are trapped in a base infested with zombies. Unfortunatley you are the only suvivor of your team. Your ordered to clear out the UAC base and while doing so seal off the portal between the base and the outside world. Failure will result in a world dominated by the hordes of hell :).",
+	"version": "8353f7",
+	"date": "2014-12-24 17:00:38",
+	"files": [
+		{
+			"filename": "exodus.wad",
+			"size": 663849,
+			"crc": 2245341595,
+			"md5": "31f9a78928b6cdec7e397263b779ce23",
+			"sha1": "8353f779aadc302e59c577527e6a1764eb095077",
+			"sha256": "9e07f6e9645e8446bec075db6006842baa12c7bdb8cd0adb7c94f056c0093fa1"
+		}
+	]
+}

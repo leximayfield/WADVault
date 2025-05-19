@@ -1,0 +1,16 @@
+{
+	"uid": "wtp.wad",
+	"name": "Water Treatment Plant",
+	"description": "This is an old building somewhere in a derelict town, but that's not important, the truth is its a front for a teleport station... sneaky UAC... this is my first vanilla map, I am quite proud of what it is now, its not all polished or detailed fully, but the gameplay is exactly how I wanted it to be, easy is tailored to how I play, medium is about average and hard is me challenging myself! this map is also a surprisingly fun bot deathmatch map! This map has been tested fully in multiple ports, these ports are: prboom, prboom+, zdoom, zandronum, skulltag, gzdoom and chocolate doom.",
+	"date": "2014-12-29 17:07:20",
+	"files": [
+		{
+			"filename": "wtp.wad",
+			"size": 110184,
+			"crc": 2827975725,
+			"md5": "25d80ae1a1e49395d47568df514a5a46",
+			"sha1": "c02ae564db0578cc9770ee562a6f2017a855f96c",
+			"sha256": "e061fc4e6d529e88fd86a98b265c2057be926bb6ab614c1407ae51f3fff3bb46"
+		}
+	]
+}

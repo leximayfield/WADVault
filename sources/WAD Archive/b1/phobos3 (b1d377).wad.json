@@ -1,0 +1,17 @@
+{
+	"uid": "phobos3 (b1d377).wad",
+	"name": "Phobos Nexus",
+	"description": "A small map for vanilla doom.exe, I mixed hell and tech themes together, and came up with this, I hope you like it.",
+	"version": "b1d377",
+	"date": "2014-12-13 12:49:49",
+	"files": [
+		{
+			"filename": "phobos3.wad",
+			"size": 532796,
+			"crc": 1669465448,
+			"md5": "7922c46d925c89d6181ed2d067bb2b7f",
+			"sha1": "b1d3773bd65a5d86dae42b20f953e34789a6d54f",
+			"sha256": "31574882cf90b30620c8402a6c4e5543ea0e7aa75ae8bdfc1a9214a9ccfad368"
+		}
+	]
+}

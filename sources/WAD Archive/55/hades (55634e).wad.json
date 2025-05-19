@@ -1,0 +1,17 @@
+{
+	"uid": "hades (55634e).wad",
+	"name": "HADES.WAD",
+	"description": "A DeathMatch wad that takes place in a fiery hell.",
+	"version": "55634e",
+	"date": "2014-12-31 12:02:57",
+	"files": [
+		{
+			"filename": "hades.wad",
+			"size": 56188,
+			"crc": 1918397245,
+			"md5": "3d480b3ade224634f28e53308d48e9e0",
+			"sha1": "55634e33b1c6af91ef40833f6164182481b14f97",
+			"sha256": "406873b34daea09ab358c9f6f4fa7be03a8553a4fee8db2576c3e5f1b820eda2"
+		}
+	]
+}

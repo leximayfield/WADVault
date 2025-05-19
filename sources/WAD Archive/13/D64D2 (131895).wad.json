@@ -1,0 +1,17 @@
+{
+	"uid": "D64D2 (131895).wad",
+	"name": "Doom 64 for Doom II",
+	"description": "Doom 64 maps recreated or reimagined with vanilla Doom II assets, and made to run within the original vanilla limits. Not all maps are perfect recreations; the goal was to recreate the major aspects of the maps while allowing for creative liberties where needed or wanted.",
+	"version": "131895",
+	"date": "2018-10-01 15:41:10",
+	"files": [
+		{
+			"filename": "D64D2.wad",
+			"size": 17194528,
+			"crc": 4255415514,
+			"md5": "8ce504a529c1ccbf61365d10a29c8379",
+			"sha1": "1318953f13fb1a95179629b93453464ef8c0e6b3",
+			"sha256": "22929ad92bd59e28ff9e3704f553c673ebe788348feae0b81de662a62b808ca7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "dmcas (520582).wad",
+	"name": "CASTLE1.WAD",
+	"description": "Open Castle, with wall, moat, well, you'll see...",
+	"version": "520582",
+	"date": "2013-11-02 15:13:36",
+	"files": [
+		{
+			"filename": "dmcas.wad",
+			"size": 215634,
+			"crc": 1967814277,
+			"md5": "b79f073020f116991da768a509eae1eb",
+			"sha1": "520582c88d44adf03e9fa8dc34bf77bf60aa0c7d",
+			"sha256": "1d2632c3df12f19530579a314db31e73924ad6148c5987dd21100e3484210f97"
+		}
+	]
+}

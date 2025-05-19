@@ -1,0 +1,17 @@
+{
+	"uid": "warhouse (b8b3b9).wad",
+	"name": "Warhouse",
+	"description": "Doom ][ PWAD, both DEATHMATCH (4 players recommended) and SINGLE PLAYER. - Includes keys for single player games, and a demo (1.666) that doesn't give it all away. - Tricky BFG for DM games. - Consistent look.",
+	"version": "b8b3b9",
+	"date": "2014-12-15 21:51:22",
+	"files": [
+		{
+			"filename": "warhouse.wad",
+			"size": 187165,
+			"crc": 4220941738,
+			"md5": "9b9cf02e3cf4f14e1029313c7b453519",
+			"sha1": "b8b3b957e387d878601573ee304381d1d72e05aa",
+			"sha256": "d81d838572e942f9640136a3d03c2f410b46b3d1ca53dae40cf64b8221ff1f21"
+		}
+	]
+}

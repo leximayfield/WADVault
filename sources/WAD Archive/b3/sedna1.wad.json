@@ -1,0 +1,16 @@
+{
+	"uid": "sedna1.wad",
+	"name": "SEDNA 1",
+	"description": "A large map for Doom 2 requiring a Boom compatible source port. This level was built in 1999 of what I can remember and was built for a megawad which never got released. This map takes advantage of many Boom features and will run with any port supporitng these. The style of the level is varied, real old school Doom style but in my style of course, should be a real challenge too. This level works perfecty with Boom and Zdoom.",
+	"date": "2014-12-29 17:27:49",
+	"files": [
+		{
+			"filename": "sedna1.wad",
+			"size": 481744,
+			"crc": 2798342456,
+			"md5": "3b2a52d6574cd70acbb3b214c6e742f8",
+			"sha1": "b3e20f9cead1188959692b3860d6ed3aa945deea",
+			"sha256": "9a8568fb28aff7ddf60042e2b0fe57f18038366ef7315f3af625a137c52de68e"
+		}
+	]
+}

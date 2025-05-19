@@ -1,0 +1,16 @@
+{
+	"uid": "doom moe 1.wad",
+	"name": "MOE 1",
+	"description": "This wad file contains my very first GZdoom builder level for DOOM 2",
+	"date": "2017-11-27 12:41:26",
+	"files": [
+		{
+			"filename": "doom moe 1.wad",
+			"size": 137276,
+			"crc": 511658820,
+			"md5": "71929257b6148ab01deb66ec7625654d",
+			"sha1": "6e8b1d5a9d91796f2cfd6b830a16263c9b3bc93f",
+			"sha256": "51db17b4022ab159757f6114d168c0189182eedb186a8d376ddcadd33ac47a8f"
+		}
+	]
+}

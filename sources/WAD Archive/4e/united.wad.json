@@ -1,0 +1,16 @@
+{
+	"uid": "united.wad",
+	"name": "United Mod",
+	"description": "I made this mod as an experiment. The results were unique enough that I figured I'd distribute it.",
+	"date": "2015-01-14 22:53:15",
+	"files": [
+		{
+			"filename": "united.wad",
+			"size": 9655,
+			"crc": 582335250,
+			"md5": "c8d3459e6d82a31ecc0087151fad2192",
+			"sha1": "4e7bc4dcc9c0b3904a7d8c5dc8e106facaf21cc9",
+			"sha256": "d5e3a3fc40f99cfdd21f71e645e442be67fb05083c0057b21edf370dcd672f88"
+		}
+	]
+}

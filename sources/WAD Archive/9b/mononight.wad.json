@@ -1,0 +1,16 @@
+{
+	"uid": "mononight.wad",
+	"name": "Monochromatic Nightmare",
+	"description": "A single player level designed for the Monochrome Mapping Project on the Doomworld Forums - http://tinyurl.com/bp2od5n. This is a Monochromatic Black & White experience that will test your perception. The idea was to design a clean map devoid of detail but retaining character. The WAD is designed exclusively with Zdoom in mind as it does make use of Slopes, Stacked 3D sectors and ACS scripts. As well as making heavy use of Da Werecat's textures I have also added my own black and white door, lift, floor and brick textures. Screenshots can be found here: http://sdrv.ms/QnkSyG Enjoy, Dave",
+	"date": "2015-01-13 21:42:22",
+	"files": [
+		{
+			"filename": "mononight.wad",
+			"size": 2086178,
+			"crc": 1945115463,
+			"md5": "c984944a01f4370cec27a7bb27cd43e5",
+			"sha1": "9b16f43c1916691499342f623127dec9265c45a3",
+			"sha256": "c774b9faae4df350cb68f79ff04632646984da34b6eae23fdfc8a901543e32ec"
+		}
+	]
+}

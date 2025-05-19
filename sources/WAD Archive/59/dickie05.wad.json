@@ -1,0 +1,16 @@
+{
+	"uid": "dickie05.wad",
+	"name": "dickie05.WAD, issue 1 (Waterworld)",
+	"description": "This wad is 264kb when unzipped",
+	"date": "2014-12-18 22:33:51",
+	"files": [
+		{
+			"filename": "dickie05.wad",
+			"size": 270052,
+			"crc": 2725301915,
+			"md5": "06bb81c1a7e4f7d5b794adca97613f2d",
+			"sha1": "5980c3fb3f888df6ac5383dfc071f6ad1f20e2ee",
+			"sha256": "c2e24f43df83e1124a423b04c3e64f4009ffd48177a4165eee8a0c2b5c5905c3"
+		}
+	]
+}

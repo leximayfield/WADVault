@@ -1,0 +1,17 @@
+{
+	"uid": "utnt_inv (b3c375).wad",
+	"name": "Ultimate Torment & Torture : Invasion",
+	"description": "A 5 Map Set for Skulltag's Invasion mode based in the world of Torment & Torture and created for Coop / Multiplayer",
+	"version": "b3c375",
+	"date": "2013-04-30 09:24:13",
+	"files": [
+		{
+			"filename": "utnt_inv.wad",
+			"size": 15250247,
+			"crc": 2854430225,
+			"md5": "de4d6c9b5740b54e182bd843007d1d0f",
+			"sha1": "b3c3757e1e66df5d0abdde4418dc9378123ee091",
+			"sha256": "8039f96a4d300d2775434a5148463cdc1b94557ea1fc4a33604cc109ef0eeaff"
+		}
+	]
+}

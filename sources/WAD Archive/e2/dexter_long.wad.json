@@ -1,0 +1,16 @@
+{
+	"uid": "dexter_long.wad",
+	"name": "Dexter Long Version",
+	"description": "This is the long version of my famous Dexter wad for GZDoom. It includes a lot more details, more monsters, and a very nice cargo ship yard at the end. The cargo ship was drawn to scale and is based on a real cargo ship.",
+	"date": "2019-06-22 13:39:40",
+	"files": [
+		{
+			"filename": "dexter_long.wad",
+			"size": 2177521,
+			"crc": 2625543567,
+			"md5": "c28f0f416744c66d7637f4a321e15905",
+			"sha1": "e2940b6a830a30e60d3965e82726c290131db027",
+			"sha256": "c4a93db86a133ac83eac68bda343a988177689e7f29a887c171d367134b4b480"
+		}
+	]
+}

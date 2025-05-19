@@ -1,0 +1,17 @@
+{
+	"uid": "cham1 (824df6).wad",
+	"name": "Dynamic Chambers.",
+	"description": "Drew most of this one out on paper. One room has four different looks, at each phase of the level it will change. Depending on what secrets you find, the ending can play quite differently. My first DCK level.",
+	"version": "824df6",
+	"date": "2014-01-07 21:54:59",
+	"files": [
+		{
+			"filename": "cham1.wad",
+			"size": 334569,
+			"crc": 4019578161,
+			"md5": "3b6d8f380086a7a36bb332a773000f70",
+			"sha1": "824df61dac0a51ac4e3a199c6387397216b846c6",
+			"sha256": "1deecc5d7475fc741a033f7207710fe7726cc7e52bcc99c2013017baaa1cdb4a"
+		}
+	]
+}

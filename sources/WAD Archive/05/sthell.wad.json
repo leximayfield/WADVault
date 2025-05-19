@@ -1,0 +1,16 @@
+{
+	"uid": "sthell.wad",
+	"name": "Stuck in Hell",
+	"description": "You're a Doom Marine. You're stuck in a tricky place of Hell. This map is something I started as a learning ground for making some new scripts. It ended up having some challenging puzzles and I thought it could be shared to you folks.",
+	"date": "2014-12-29 16:54:39",
+	"files": [
+		{
+			"filename": "sthell.wad",
+			"size": 12043243,
+			"crc": 2487136823,
+			"md5": "6bb1137146825ac43074d9806e1a412d",
+			"sha1": "05568b88955aeec50add8a759999d71e497d0878",
+			"sha256": "802a0fc0d6a8620f768ea9333662a36b86371bf76d3af901f63396ba26ff16d1"
+		}
+	]
+}

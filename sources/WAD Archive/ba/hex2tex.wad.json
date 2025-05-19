@@ -1,0 +1,16 @@
+{
+	"uid": "hex2tex.wad",
+	"name": "Hexen 2 Texture Pack for Doom 2",
+	"description": "Most of the textures from the demo of Raven Software's Hexen 2.",
+	"date": "2015-09-14 22:25:32",
+	"files": [
+		{
+			"filename": "hex2tex.wad",
+			"size": 907712,
+			"crc": 3023924920,
+			"md5": "cde17551070b198e1950ce050ac938f7",
+			"sha1": "ba126c6f1430f8f787a2653eb9025e19d33c65d3",
+			"sha256": "01e48990cf4ef5db45c0144f96027cee0cee6d81cfa902ffc99901fd12bdbdf4"
+		}
+	]
+}

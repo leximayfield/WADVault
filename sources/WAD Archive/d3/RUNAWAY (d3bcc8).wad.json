@@ -1,0 +1,17 @@
+{
+	"uid": "RUNAWAY (d3bcc8).wad",
+	"name": "runaway.zip (runaway.wad and .txt)",
+	"description": "Named not for any particular theme, more for the fact that once I started designing this level, I just kind of ran away with sector creation, and presto....runaway.wad. Has copious weaponry, but still may be pretty hard in UV. Not bad for deathmatch, but kind of spread out. Lots of different textures lighting and room environments, a few tricks and secrets and poetic liscence stolen unabashedly from id's original levels.",
+	"version": "d3bcc8",
+	"date": "2013-11-02 15:42:51",
+	"files": [
+		{
+			"filename": "RUNAWAY.wad",
+			"size": 181784,
+			"crc": 4042539344,
+			"md5": "031ec524e010df8d090bf2f5874b3fb6",
+			"sha1": "d3bcc8d89d2f05b702dcc5498e60beb2acbce3a2",
+			"sha256": "9347cede6fa5bdd59405f9443a14adeefba3f31a9c46bdf576da6787af9625c9"
+		}
+	]
+}

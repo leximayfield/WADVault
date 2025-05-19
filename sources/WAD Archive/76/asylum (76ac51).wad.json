@@ -1,0 +1,17 @@
+{
+	"uid": "asylum (76ac51).wad",
+	"name": "Asylum.zip",
+	"description": "This level is for the experienced Doomers only. (NO WIMPS THAT LIKE TO CHEAT)",
+	"version": "76ac51",
+	"date": "2014-12-15 22:14:18",
+	"files": [
+		{
+			"filename": "asylum.wad",
+			"size": 563865,
+			"crc": 2337466342,
+			"md5": "294d751367f1cc315eb9b7c5edd86992",
+			"sha1": "76ac5195de6854508f2fcc5885a60145ff19a56d",
+			"sha256": "a7517e1f6c767b39db02278dff1331af5aa5f7d65d4f71f91449bc2be5c2b7a2"
+		}
+	]
+}

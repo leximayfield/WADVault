@@ -1,0 +1,17 @@
+{
+	"uid": "temple_2 (41c76e).wad",
+	"name": "The Big Temple",
+	"description": "You are entering the big temple of DOOM. This is the second and last version of TEMPLE",
+	"version": "41c76e",
+	"date": "2013-11-04 20:18:02",
+	"files": [
+		{
+			"filename": "temple_2.wad",
+			"size": 174875,
+			"crc": 3980116110,
+			"md5": "f1c0fe7af8816d7e9000319a2757d829",
+			"sha1": "41c76e9c6d9b2adf508d0ebc8ea923dfd75b494f",
+			"sha256": "c399939a1ecea293e5c2cd5ccbbb549aaba4db167ad8f5dba537e4fd0205d29f"
+		}
+	]
+}

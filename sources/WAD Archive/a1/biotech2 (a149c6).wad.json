@@ -1,0 +1,17 @@
+{
+	"uid": "biotech2 (a149c6).wad",
+	"name": "BioTech  (version 2)",
+	"description": "You are a bounty hunter, hired by a small genetics research company named BioTech, to \"fix\" their current project which has gone horribly wrong.",
+	"version": "a149c6",
+	"date": "2014-12-15 22:30:02",
+	"files": [
+		{
+			"filename": "biotech2.wad",
+			"size": 1748482,
+			"crc": 570727244,
+			"md5": "6dd9e5307df7f404ee6a79ad901a618a",
+			"sha1": "a149c69a28fc1889464f03088ff0f70c0bb60d88",
+			"sha256": "92803194b19e0a3ac190cc63488955e890da1728ec2f68265cd6403ea604c0d0"
+		}
+	]
+}

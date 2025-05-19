@@ -1,0 +1,16 @@
+{
+	"uid": "poisohub.wad",
+	"name": "Poison Hub",
+	"description": "A first attempt at making a reasonably sized DOOM map. It has quite a few outdoor areas included, and all three keys are used. I've tried to make it slightly non-linear so that it is more interesting.",
+	"date": "2018-04-14 19:43:18",
+	"files": [
+		{
+			"filename": "poisohub.wad",
+			"size": 99701,
+			"crc": 968516244,
+			"md5": "c771b9633aba3bc7d658bc8f7acff05e",
+			"sha1": "e9b1b9ca4e2330dbf993780107e8b6e3caaa6577",
+			"sha256": "90d22b4e551775b0cb64b81ac7de3ad45df6dbcef69c7c63b1030fca9f9c8024"
+		}
+	]
+}

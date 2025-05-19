@@ -1,0 +1,16 @@
+{
+	"uid": "1024bunk.wad",
+	"name": "Bunker 1024",
+	"description": "This is a simple map I made inspired by the Claustrophobia 1024 series. While tiny, I have managed to make this Multiplayer Compatible. I did originally design this with Brutal Doom in mind, but you should be able to play this in good ol' Vanilla Doom. NOTE: Please limit 2 people in Co-op, & 4 people in DM. Storytime: =A local UAC Bunker has recently gone Dark. You have been sent in to investigate the area & eliminate any hostiles. However, from the moment you walk in the door, you realise that this job won't be easy.",
+	"date": "2014-12-20 18:34:27",
+	"files": [
+		{
+			"filename": "1024bunk.wad",
+			"size": 11197133,
+			"crc": 3533153255,
+			"md5": "b40aa1e5f4a4db348eec07ffb3c33a9f",
+			"sha1": "4f183b4aac5cdd9cf136571e026a5f7362aef17f",
+			"sha256": "1a6cc8bc43ed7f8da6055451e50e561d69b713be5ef0039eb63e3db855e38d98"
+		}
+	]
+}

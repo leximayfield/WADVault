@@ -1,0 +1,16 @@
+{
+	"uid": "hellborg.wad",
+	"name": "Hellborg",
+	"description": "I did this as an hoby, which it took too many time than it is supposed to. From time to time, I stopped designing, got bored from it, but and then again I wanted to continue. I was planning to make many more levels but since the new DOOM is coming, I want to give a shot to SnapMap :). I recommend using Zandronum because I never tried on other engines, actually I tried it on Doomsday Engine also(love the 3d effects) but some switches does not work properly which gets you stucked at some part of level. The Story is same as the original Doom's one. Some events happened and then you were sent to deal the HELL out of it :). Enjoy!",
+	"date": "2016-04-05 22:39:28",
+	"files": [
+		{
+			"filename": "hellborg.wad",
+			"size": 33718326,
+			"crc": 4043545986,
+			"md5": "e3aa61cd91d128feeb5e7c8157ddc9df",
+			"sha1": "953c55983ce2642ffdc97ef46f1c35340c032b7d",
+			"sha256": "0cd6b490940f838d2ea005b8bce97c8ef4fd501828ea5765f005bc4aea2aefa7"
+		}
+	]
+}

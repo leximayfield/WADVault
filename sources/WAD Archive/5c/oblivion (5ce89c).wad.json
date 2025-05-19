@@ -1,0 +1,17 @@
+{
+	"uid": "oblivion (5ce89c).wad",
+	"name": "Oblivion",
+	"description": "This is one of three wads I have recently made. It's intended for single player.",
+	"version": "5ce89c",
+	"date": "2017-10-19 19:30:56",
+	"files": [
+		{
+			"filename": "oblivion.wad",
+			"size": 147700,
+			"crc": 3649320507,
+			"md5": "e2de2e3e72469a4ee9fc1d148e73f4d3",
+			"sha1": "5ce89caecd8e56ea549d8786f89e092f16deec2d",
+			"sha256": "56b53f71eb4851a136c886abb04e684a136756a54bccd586b832cf329893c6c6"
+		}
+	]
+}

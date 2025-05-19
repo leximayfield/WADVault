@@ -1,0 +1,17 @@
+{
+	"uid": "HOOVER (3313a3).wad",
+	"name": "Hoover damm'ed",
+	"description": "This level is based on a hydroelectric dam, say maybe hoover dam, big rooms,nukage falls and lots of telaporters,passage ways and one big room that is the dam itself, come in and be DAMM'ED.",
+	"version": "3313a3",
+	"date": "2014-08-30 13:52:36",
+	"files": [
+		{
+			"filename": "HOOVER.wad",
+			"size": 128708,
+			"crc": 1877035933,
+			"md5": "cbb41a77c52232c5c0e4f2fad9c0b3e8",
+			"sha1": "3313a3cf26093101123136baceb6507bb9dfc298",
+			"sha256": "79b8f4bee6460014b3a21bd51c29d9f004d803514dadbdfaddc63d6a04dd9ed0"
+		}
+	]
+}

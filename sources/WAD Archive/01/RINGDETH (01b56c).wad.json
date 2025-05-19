@@ -1,0 +1,17 @@
+{
+	"uid": "RINGDETH (01b56c).wad",
+	"name": "Ring of Death",
+	"description": "An arena-style, wide-open level. A real challenge alone, easier in cooperative mode, and an excellent deathmatch level.",
+	"version": "01b56c",
+	"date": "2013-11-02 15:24:07",
+	"files": [
+		{
+			"filename": "RINGDETH.wad",
+			"size": 57371,
+			"crc": 2438916288,
+			"md5": "4af6277cbed23db87757f776b1189a1a",
+			"sha1": "01b56c5d558fe1ef0daf1e5f8621947b20798621",
+			"sha256": "dd2cddad7537ccde17434a0e5e9681c820fdb606417abec9bc122f258da41232"
+		}
+	]
+}

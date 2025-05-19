@@ -1,0 +1,17 @@
+{
+	"uid": "detail (12d5d8).wad",
+	"name": "OMFG DETAILZ0R",
+	"description": "My first releaseable project ever! Basically just a office table i made to get used to DoomBuilder",
+	"version": "12d5d8",
+	"date": "2014-12-24 17:00:22",
+	"files": [
+		{
+			"filename": "detail.wad",
+			"size": 182400,
+			"crc": 36184164,
+			"md5": "b8851fed907cf16bcd25b6654b1b626c",
+			"sha1": "12d5d868b2a0d15eb2761657dee75b1319330764",
+			"sha256": "820537931301d70d42d3975fa6cea88a37be7b8bd939458d0995f3f926d2c551"
+		}
+	]
+}

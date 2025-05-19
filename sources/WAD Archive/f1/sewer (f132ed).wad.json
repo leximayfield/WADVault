@@ -1,0 +1,17 @@
+{
+	"uid": "sewer (f132ed).wad",
+	"name": "Nuclear Waste Facility",
+	"description": "The year is 2083. Ever since the discovery of Tachyon Converters in the early 2030's there has not been much use for the old nuclear waste recycling plants. The government turned most of them into low cost housing developments. Except for Facility 103. It was converted into a prison, an Alcatraz of sorts. A strange mutated version of the flu strain has developed in this prison. The government has sent you and your team to get a sample of the virus. They have given you each a vaccine which should provide immunity to the disease. Yeah, right.. Your team transports to the facility and catches the disease within minutes, making you go berzerk. It then becomes a free for all, every man for himself.. a DEATHMATCH!",
+	"version": "f132ed",
+	"date": "2014-01-04 11:56:06",
+	"files": [
+		{
+			"filename": "sewer.wad",
+			"size": 200857,
+			"crc": 2510299309,
+			"md5": "f5cdb8f3592fbdedf56bb341e1b84978",
+			"sha1": "f132ed84d688624f21bb0652d5ef561bcc00d821",
+			"sha256": "f1933a189aac9c3ec496d706211e82dad67719ba866eb22aa40a66643e58d0bb"
+		}
+	]
+}

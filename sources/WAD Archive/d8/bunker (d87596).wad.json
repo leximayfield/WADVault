@@ -1,0 +1,17 @@
+{
+	"uid": "bunker (d87596).wad",
+	"name": "The Bunker",
+	"description": "Small map for fast-paced deahmatch",
+	"version": "d87596",
+	"date": "2014-12-15 22:48:07",
+	"files": [
+		{
+			"filename": "bunker.wad",
+			"size": 500570,
+			"crc": 1561614133,
+			"md5": "5852a3469695147aa95d3d8c69fdf75f",
+			"sha1": "d87596ad210b8faa07963518817449cb104554b5",
+			"sha256": "8ab067684302f19445b4a92999a7170e0bd649dd79a03576396434de0be45423"
+		}
+	]
+}

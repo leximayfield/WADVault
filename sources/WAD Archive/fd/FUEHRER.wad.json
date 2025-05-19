@@ -1,0 +1,16 @@
+{
+	"uid": "FUEHRER.wad",
+	"name": "FUEHRER.WAD for DOOM II Deathmatch",
+	"description": "A wad with something for every deathmatcher: small, easily accessible weapons, telefrag possibilities, open and tight areas, lifts, multiple floor heights, a semi-dark area, relatively low chances for respawn frags.",
+	"date": "2014-08-30 14:25:02",
+	"files": [
+		{
+			"filename": "FUEHRER.wad",
+			"size": 37189,
+			"crc": 21471255,
+			"md5": "e47db323bee04bd6b2464441730bb710",
+			"sha1": "fd28e44d10d8602137eb6ee4efa17a3b427fb046",
+			"sha256": "3500360c8a51bf7da5a48918c3342f1dbfd05efb8ffa2c5bc39136e769acbaf7"
+		}
+	]
+}

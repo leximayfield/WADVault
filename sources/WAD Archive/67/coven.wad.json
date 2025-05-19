@@ -1,0 +1,16 @@
+{
+	"uid": "coven.wad",
+	"name": "Coven",
+	"description": "A quick Heretic level in a similar vein to the originals, built and tested for the DOS .EXE. The map takes place in and around a chapel inhabited by an evil cult and resembles the City of the Damned levels visually. This is not quite a speedmap, but I devised the initial floor plan in one night, then spent some additional time tweaking and polishing it later. Normal difficulty is the original \"as intended\" object layout, but there are settings for Easy and Hard, if you need them.",
+	"date": "2014-12-30 11:21:30",
+	"files": [
+		{
+			"filename": "coven.wad",
+			"size": 125651,
+			"crc": 1051107248,
+			"md5": "824d8e31f7534fcaae934b68e4ce6ec8",
+			"sha1": "67a1015315c3fc7f62d8ba5671f7162e00097906",
+			"sha256": "0e8e861c8a2f9da2e175e3cc6d1cc29475f13633aa5838f2ba143886bc5ac74e"
+		}
+	]
+}

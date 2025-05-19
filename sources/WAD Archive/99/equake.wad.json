@@ -1,0 +1,16 @@
+{
+	"uid": "equake.wad",
+	"name": "Earthquake",
+	"description": "You, the marine, was sent to destroy the cpu held at the enemies stronghold. It won't be easy, but it will be some adventure...",
+	"date": "2015-09-15 19:27:57",
+	"files": [
+		{
+			"filename": "equake.wad",
+			"size": 33340898,
+			"crc": 217215272,
+			"md5": "0f467deec1dd1ee30fcda04cb652b28f",
+			"sha1": "99db048e954279ce7d20b8dd9bf35d16143faf40",
+			"sha256": "a2cd3ea00e838f4e0d9827a1221f3dc71c53aa2fa05247999baa6665bfa4169d"
+		}
+	]
+}

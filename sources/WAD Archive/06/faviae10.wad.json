@@ -1,0 +1,16 @@
+{
+	"uid": "faviae10.wad",
+	"name": "Favillesco Alpha Episode: Apostasy on Amalthea",
+	"description": "Alpha Doom themed episode, it runs on E4 due to special tag availabilities, not being the original E4 episode planned for the favillesco series though. This episode takes place on the moon Amalthea, the biggest moon of jupiter after the 4 galilean moons, keeping the favillesco Jupiter's moons rule as well ;) and the original name was going to be \"roots of evil\" reflecting the alpha connection but I desided to keep the moon name where the apisode is set in the episode title, I had to turn \"Apostasy on Amalthea\" into \"Amalthea's Apostasy due to graphic constrains. After working with some alpha-doom texutes on reticula episode 1 I felt the need of making an episode themed on the alpha doom, giving some chance to those textures and playing with them. I used circa 95% of the textures because some of them looked really crappy and in addition I edited some of them using some original patches contained in the alphas which wheren't used at all or \"missused\" like the tech ones which in the available textures are cut at some point. About 2/3 of these textures are used in Doom and Doom2 as well, some with minor modifications so the levels will look like E1 and E2 melted, with emphasis on the alpha look but not being extremely poor. I didn't rely on teleport ambushes this time, just as original Doom was, but monster closets are numerous, keeping the gameplay fluid. Dedication was put on the layouts as always do because I hate levels with only square rooms in Doom and I tried to use more lighting features than in my previous releases, so you might notice that this mapset is very far from most of modern releases regarding to feel and atmosphere because I constantly try to recreate that 90's aspect in Doom. PD: This wad was made in Buenos Aires, Argentina during summer, in a room with 35\u00b0C everyday XD",
+	"date": "2014-07-16 21:33:39",
+	"files": [
+		{
+			"filename": "faviae10.wad",
+			"size": 6666330,
+			"crc": 4171179384,
+			"md5": "d52216b09459c4a8c64c052b2a323019",
+			"sha1": "06785d8275eb2b16335d2cdd4d10a187bac3d194",
+			"sha256": "6700c4804339693847d972a1aad604d4d4a4cf06474a510c4d2f5973eaae87bb"
+		}
+	]
+}

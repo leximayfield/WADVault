@@ -1,0 +1,17 @@
+{
+	"uid": "FAST (cf957c).wad",
+	"name": "Fast Death (DOOM II - DEATHMATCH)",
+	"description": "You've been dropped into a mad, bloody death zone. It's the game arena of an cruel evil mage. He uses to play with humans - sends them into the DEATHMATCH. Only one can survive, he'll be free! But there is more danger around you. The mage controlls lots of rough monsters and dark creatures, which want to kill you. Be carefull, and look your back. Death is faster you think...",
+	"version": "cf957c",
+	"date": "2014-11-01 14:57:52",
+	"files": [
+		{
+			"filename": "FAST.wad",
+			"size": 31044,
+			"crc": 67018039,
+			"md5": "00e1c73b8672f21867b776d858fff33c",
+			"sha1": "cf957cb3924900427e7e2f73a3a0300517156cae",
+			"sha256": "eb92e57bc13ad229fe18c42a71fb1ec63c6795fb80c29b2e6fbf4a68bfb3cb62"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "hellfort (322571).wad",
+	"name": "Hell Fortress",
+	"description": "This is a remake of an older Doom WAD I made that was unfortunately was deleted along with the backup files. The original WAD was planned to be featured in another WAD that was cancelled aswell. Now here it is, One of my oldest Doom WADs. Brought to you in it's fullest glory, remastered to bring the beauty of it to life. I hope you all enjoy.",
+	"version": "322571",
+	"date": "2017-09-20 23:36:54",
+	"files": [
+		{
+			"filename": "hellfort.wad",
+			"size": 6405701,
+			"crc": 3513931120,
+			"md5": "05e459535c89bc283c9febe3d256ad94",
+			"sha1": "3225718da7a09a4664343a870a66282afd8a3bdf",
+			"sha256": "a1dda0ce6623274e0190ced79580b432e9c6a87f7e2f81702cb4a37e69cfdd40"
+		}
+	]
+}

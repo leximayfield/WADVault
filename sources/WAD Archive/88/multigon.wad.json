@@ -1,0 +1,16 @@
+{
+	"uid": "multigon.wad",
+	"name": "Multigon",
+	"description": "This my first attempt at building my own level, and I think it came out pretty well. Let me know what you think. Too easy? Too hard? Cool? Uncool?",
+	"date": "2013-11-04 20:11:59",
+	"files": [
+		{
+			"filename": "multigon.wad",
+			"size": 105561,
+			"crc": 3488289389,
+			"md5": "0f3430f7f37456c3538230b0bb8de708",
+			"sha1": "887f4bb2bcadb99a0715e4b90afd41dd6167c159",
+			"sha256": "247aafdf6c31254041b5a8e507488ba3bc99993ee1e50dbc78c973b9110dd932"
+		}
+	]
+}

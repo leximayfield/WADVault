@@ -1,0 +1,17 @@
+{
+	"uid": "forest32 (c1cfe3).wad",
+	"name": "FOREST.WAD ver 3.2",
+	"description": "Forest is a five mission PWAD with new graphics. Look at the sky and watch for 'graphiti' on some walls.",
+	"version": "c1cfe3",
+	"date": "2013-11-02 15:24:40",
+	"files": [
+		{
+			"filename": "forest32.wad",
+			"size": 1051944,
+			"crc": 3785610561,
+			"md5": "8f17ab16f3313fc024fb9e370ef0d36f",
+			"sha1": "c1cfe3c7ab4ac3ac4b34ea3f02456caf8147518c",
+			"sha256": "94d3e7d4cab2bf9eac045ed0d97ef6443b17a15c80558e69c3ac489c483412f0"
+		}
+	]
+}

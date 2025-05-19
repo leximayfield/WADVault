@@ -1,0 +1,17 @@
+{
+	"uid": "legend (290318).wad",
+	"name": "legend.zip",
+	"description": "This is a combo wad containing levels one, two, and three.",
+	"version": "290318",
+	"date": "2013-11-02 15:26:15",
+	"files": [
+		{
+			"filename": "legend.wad",
+			"size": 217614,
+			"crc": 2466819214,
+			"md5": "ae3d3062b64bc45b4871cc0c7afb2162",
+			"sha1": "29031843bbd45933791bb92b53dc43af3b618c7e",
+			"sha256": "11f957d9afb372dbc06ff67994170fd26f4619d5abacea826689e89e9122b60e"
+		}
+	]
+}

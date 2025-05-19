@@ -1,0 +1,17 @@
+{
+	"uid": "icedeath (59dcca).wad",
+	"name": "ICEDEATH",
+	"description": "Fairly tough with a lot of action. Large level with many rooms and areas.",
+	"version": "59dcca",
+	"date": "2013-11-02 15:39:08",
+	"files": [
+		{
+			"filename": "icedeath.wad",
+			"size": 160216,
+			"crc": 1008592972,
+			"md5": "12def6248dd6056def20ee14c629dc46",
+			"sha1": "59dccad9ceeff317b1341b1aaf11495583c51000",
+			"sha256": "03304102ccd32a9541282f8976beaa229266f5c5fe0e20ca91a21e7a4f09bf03"
+		}
+	]
+}

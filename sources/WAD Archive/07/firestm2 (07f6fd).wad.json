@@ -1,0 +1,17 @@
+{
+	"uid": "firestm2 (07f6fd).wad",
+	"name": "Fire Storm",
+	"description": "Prepare to enter the Firestorm. Select your weapons combination and enter the grim deathmatch arena. Slug it out with your competitors and a furious horde of enemies while trying to gain access to hidden caches of weapons and power ups. Network play requires cooperation between two players to end level. Level was designed to be played as a deathmatch with respawing on, providing maximum level playability and carnage :) If you play solo, do it in nightmare mode.",
+	"version": "07f6fd",
+	"date": "2013-11-02 15:54:46",
+	"files": [
+		{
+			"filename": "firestm2.wad",
+			"size": 273336,
+			"crc": 820598742,
+			"md5": "0a944d0bf3472e85fbc0c5241bf72e1f",
+			"sha1": "07f6fd1f948002eab13121559710e7f4083c65a1",
+			"sha256": "f3e5a50ba534fe0fb9cb17157bfed61c7da91ce8adbed131c5165ce9a5dbc4af"
+		}
+	]
+}

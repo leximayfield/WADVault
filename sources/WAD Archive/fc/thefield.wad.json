@@ -1,0 +1,16 @@
+{
+	"uid": "thefield.wad",
+	"name": "The Field",
+	"description": "An atmospheric map I decided to make after a talk with a friend about a certain fear he had of desolate, open spaces...my first map to have ACS scripting. Simple, but it works.",
+	"date": "2014-12-29 15:25:56",
+	"files": [
+		{
+			"filename": "thefield.wad",
+			"size": 1180944,
+			"crc": 475042705,
+			"md5": "9e313e0eea68f9726c108f7e49a0f22e",
+			"sha1": "fcdf56d88b6dca98ddc3ce31787b370ddea04f78",
+			"sha256": "3ee3aa607605b374619634de178197342b543ac88f23a55fa00f59d09a6e59a6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "doom32.wad",
+	"name": "DOOM 32 (Release II)",
+	"description": "A set of 32 carefully collected WADfiles for your entertainment. (What else?)",
+	"date": "2014-12-27 12:08:11",
+	"files": [
+		{
+			"filename": "doom32.wad",
+			"size": 8339114,
+			"crc": 1898019969,
+			"md5": "ffaf7fe48ae035664c10611b81c8bb6d",
+			"sha1": "9e024a8e4a2a295ee050a91c5a4f6aef713e158c",
+			"sha256": "3df8dc92833e1edbd5871d63394b03cd9ce2c7177daf7391f767cea3a442aa27"
+		}
+	]
+}

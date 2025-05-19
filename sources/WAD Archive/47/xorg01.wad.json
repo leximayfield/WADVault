@@ -1,0 +1,16 @@
+{
+	"uid": "xorg01.wad",
+	"name": "Xorg 1",
+	"description": "It's just a basic brick-themed level with some acs scripting. Not very big. You'll need to use jumping in this level.",
+	"date": "2014-12-29 16:47:38",
+	"files": [
+		{
+			"filename": "xorg01.wad",
+			"size": 328676,
+			"crc": 2605774300,
+			"md5": "a501fcbb88007179aaf1af605a825979",
+			"sha1": "47093e39b0d056fc5c9f992b94a770de5bb32592",
+			"sha256": "74caccc44240ac3b20ade0efe1f72de636078cf96483d2ab1235beb46f6ee709"
+		}
+	]
+}

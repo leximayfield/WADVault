@@ -1,0 +1,17 @@
+{
+	"uid": "DARKNESS (417aef).wad",
+	"name": "Disciples of Darkness",
+	"description": "This is a very difficult map on UV to attempt in a saveless run (low room for mistakes, 2-3 dangerous areas and an almost deadly one). This level feature some big outdoor areas and moderate to big indoor sections.",
+	"version": "417aef",
+	"date": "2018-04-15 00:45:52",
+	"files": [
+		{
+			"filename": "DARKNESS.wad",
+			"size": 3282526,
+			"crc": 611402340,
+			"md5": "1a01d86268c86e817317383d87302734",
+			"sha1": "417aef4c95e2ac365ab6913c375563213056c012",
+			"sha256": "e68366e60ce3f1dd314428f5c3663860a959a3237527776e48984a86f167ea17"
+		}
+	]
+}

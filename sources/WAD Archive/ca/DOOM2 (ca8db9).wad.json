@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (ca8db9).wad",
+	"name": "Doom 2 (PSN)",
+	"version": "ca8db9",
+	"date": "2015-01-30 23:07:14",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14599800,
+			"crc": 1158956770,
+			"md5": "4c3db5f23b145fccd24c9b84aba3b7dd",
+			"sha1": "ca8db908a7c9fbac764f34c148f0bcc78d18553e",
+			"sha256": "613e5742affa6795b638dd80b008403e2c725bac9ee567b4eff124a1e44696dc"
+		}
+	]
+}

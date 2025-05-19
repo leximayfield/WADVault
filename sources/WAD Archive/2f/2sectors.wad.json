@@ -1,0 +1,16 @@
+{
+	"uid": "2sectors.wad",
+	"name": "1024x1024 & 2 sectors contest wad",
+	"description": "This is a compilation of all the contest wads which were sent to the contest held in Newdoom. Read the contestinfo.txt before playing!",
+	"date": "2013-12-22 18:43:33",
+	"files": [
+		{
+			"filename": "2sectors.wad",
+			"size": 1376624,
+			"crc": 4041161285,
+			"md5": "4d1fadcbd1e16ec3577203ad1eaf8859",
+			"sha1": "2f81311b2344c68a613d3cb92f3d9748c4fa0242",
+			"sha256": "87627b8eb0f16d461ac7c5254854e4e3f6ee28da605d16c3cb534bd8024f1628"
+		}
+	]
+}

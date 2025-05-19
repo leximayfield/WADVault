@@ -1,0 +1,16 @@
+{
+	"uid": "d2spfx16-withdeh.wad",
+	"name": "Doom 2 Minor Sprite Fixing Project v1.6",
+	"description": "A comprehensive collection of minor sprite fixes for Doom 2 comprised of restored missing monster angle rotations, art corrections, and adjusted sprite offsets. Also includes a separate Doom 1/ Ultimate Doom-compatible version and optional minor DeHackEd patch fixes. These files are compatible with any custom Doom 2 or 1 add-ons, including demo compatibility, as long as you load the following WAD or DEH files with the lowest priority. D2SPFX16.WAD - Doom 2 sprite fixes D1SPFX16.WAD - Doom 1-compatible sprite fixes D2DEHFIX.DEH - doom2.exe v1.9 DeHackEd fixes D1DEHFIX.DEH - doom.exe v1.9 DeHackEd fixes",
+	"date": "2015-10-02 08:58:57",
+	"files": [
+		{
+			"filename": "d2spfx16-withdeh.wad",
+			"size": 2902510,
+			"crc": 1125797573,
+			"md5": "7f755cf3044ba40dab9aca0d858b1e8c",
+			"sha1": "6e3902a066581c5a6a44be1cea8a367942226d1d",
+			"sha256": "19a16f8afb659ef87485f65ed2cd304040725e6d653e33b305da86769486ad85"
+		}
+	]
+}

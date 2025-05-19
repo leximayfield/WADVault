@@ -1,0 +1,16 @@
+{
+	"uid": "estate.wad",
+	"name": "ESTATE",
+	"description": "This mission takes place at rural estate. Your a long way from any help. The exit is a bit tricky. Think about it. What's the most logical way to leave. If you don't want the answer DON'T READ BOTTOM OF THIS TEXT.",
+	"date": "2016-02-06 13:54:52",
+	"files": [
+		{
+			"filename": "estate.wad",
+			"size": 159833,
+			"crc": 1509132834,
+			"md5": "774b3550b2b2196bc1946fde890aa69f",
+			"sha1": "cc850d9d13f2eadbd906af766d33e617eae778de",
+			"sha256": "64bcbd6b34573190faffb76f54dfd25de7f5c6023733fb3a7f6bd29acac70bce"
+		}
+	]
+}

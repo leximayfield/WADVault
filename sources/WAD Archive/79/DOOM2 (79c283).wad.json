@@ -1,0 +1,16 @@
+{
+	"uid": "DOOM2 (79c283).wad",
+	"name": "Doom II v1.8",
+	"version": "79c283",
+	"date": "2015-11-14 16:40:24",
+	"files": [
+		{
+			"filename": "DOOM2.wad",
+			"size": 14612688,
+			"crc": 834485184,
+			"md5": "c236745bb01d89bbb866c8fed81b6f8c",
+			"sha1": "79c283b18e61b9a989cfd3e0f19a42ea98fda551",
+			"sha256": "5c154662700917c085bae27a72adc4989ea1dc238d130c0b88f3c6e479701a0e"
+		}
+	]
+}

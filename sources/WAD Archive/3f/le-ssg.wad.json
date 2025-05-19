@@ -1,0 +1,16 @@
+{
+	"uid": "le-ssg.wad",
+	"name": "Super Shotgun from Quake 2 (with muzzle flash)",
+	"description": "This is a Doom mod which replaces the Super Shotgun with the weapom of same name from Quake 2.",
+	"date": "2014-12-11 22:18:17",
+	"files": [
+		{
+			"filename": "le-ssg.wad",
+			"size": 144400,
+			"crc": 2693730252,
+			"md5": "ef0eab7dd5c6db11c52b786ebe3095e4",
+			"sha1": "3f514f5f8b49419858baa1637eb3e0b2fde79ffb",
+			"sha256": "0519f5b94891ad12553f4b49ff47a2e52e3b990e9906ee6bb9b60e9054bd5f17"
+		}
+	]
+}

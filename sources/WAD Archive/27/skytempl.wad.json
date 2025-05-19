@@ -1,0 +1,16 @@
+{
+	"uid": "skytempl.wad",
+	"name": "Sky Temple",
+	"description": "You're in a place, and you need to get out.",
+	"date": "2014-12-29 17:23:39",
+	"files": [
+		{
+			"filename": "skytempl.wad",
+			"size": 125032,
+			"crc": 1723584077,
+			"md5": "5af9ec16482108a5665118a71d194952",
+			"sha1": "2728b2699eacd9ffcb151fc90ef69bd0cbb9155a",
+			"sha256": "b83aafbc46d34ad6fc7bd71ea5809d1bda1f7d1fbd12551b7351be3293a5cbbc"
+		}
+	]
+}

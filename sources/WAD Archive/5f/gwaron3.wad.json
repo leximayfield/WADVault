@@ -1,0 +1,15 @@
+{
+	"uid": "gwaron3.wad",
+	"description": "This is an awesome lmp where 3 other players gang up against me and I take them all down. At the exit of each level, all the frags are totalled up and my frags are greater than the sum of the rest of their frags. They killed each other on occasion, so their frag count also counts frags against each other. I'm only putting down maps maps 1 and 2 because most of the fighting was on those two maps, but some interesting fights went on up to map 5, where we hit the maxdemo. I haven't seen many 3 on 1 lmps and I think this one is really good. Make sure to view the lmp with the wad I included or else the demo will mess up. I have included a batch file that will do this, so just unzip the file in your doom2 1.9 directory and type gwaron3.",
+	"date": "2015-09-14 20:38:00",
+	"files": [
+		{
+			"filename": "gwaron3.wad",
+			"size": 331403,
+			"crc": 390285136,
+			"md5": "03cc9fb27bdd542d72928aa24a70ba2b",
+			"sha1": "5fee4ec8d501adee17d41b00e50aba76f60276c5",
+			"sha256": "052c04493bf6682b3caccf38ad64cd01d12768e16c15652fc92dc2b958456824"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "2simple.wad",
+	"name": "Too Simple",
+	"description": "Basically, my friends and I spend hours playing DM on MAP07 in Doom ][, so I decided I'd make a wad in the likeness of said level. Though I never really took much time analyzing the level, I took the basic shape, and worked from there. I mean this to be a DM WAD, but you can play it co-op, and single playerly (though each of above suck). One word of advise, if you don't like plasma, don't get this WAD.",
+	"date": "2014-01-07 21:47:58",
+	"files": [
+		{
+			"filename": "2simple.wad",
+			"size": 53510,
+			"crc": 401832083,
+			"md5": "29985291bdc3610684df8a653d8b0632",
+			"sha1": "f635ceb06dfba9fff22564d7daa60e1cf85f6ea2",
+			"sha256": "2126875ce16046bd8098b536bd76142f5dc9cc39a8006d1382a0256daa5937bb"
+		}
+	]
+}

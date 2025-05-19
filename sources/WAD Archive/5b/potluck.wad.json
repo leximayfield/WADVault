@@ -1,0 +1,16 @@
+{
+	"uid": "potluck.wad",
+	"name": "Pot Luck",
+	"description": "A short but challenging map in the same vein as my other WAD \"Spasm\".",
+	"date": "2019-12-01 02:05:59",
+	"files": [
+		{
+			"filename": "potluck.wad",
+			"size": 406799,
+			"crc": 207920760,
+			"md5": "94cec5e64ed5c2059cc5944e89785e21",
+			"sha1": "5bdbfc530dac82b8832a800eefcf53cf69d78509",
+			"sha256": "c45c8b303f9f06ce867b087109af6085220ea790bdf5ca1942562b6f226e178b"
+		}
+	]
+}

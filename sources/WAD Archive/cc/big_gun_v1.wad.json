@@ -1,0 +1,16 @@
+{
+	"uid": "big_gun_v1.wad",
+	"name": "BIG GUNS for DOOM II v1.9 (Advanced port NOT required)",
+	"description": "Medium sized level packed with monsters, set somewhere in hell. Let me know what you think.",
+	"date": "2013-04-18 23:25:32",
+	"files": [
+		{
+			"filename": "big_gun_v1.wad",
+			"size": 368950,
+			"crc": 960282821,
+			"md5": "b408dac4cb174b6577ebf659097d18d6",
+			"sha1": "ccc072b4551005684c6090818fe719b05a10375f",
+			"sha256": "1f57807fa72732bbd0d7956c1fad168a54ba4972035f8168183d825f91081c3a"
+		}
+	]
+}

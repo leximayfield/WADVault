@@ -1,0 +1,17 @@
+{
+	"uid": "gs2 (ae0cae).wad",
+	"name": "GS's Arena",
+	"description": "This wad is designed for use with the new DEATHMATCH 2.0 rules. The wad consist in an area surrounded by an higher corridor. In the central area is situated a pool with fifteen lifts (good for hunting). The main area also includes miscellanous structures with some additional lifts to quickly go from a place to another one. I also included a small dark room. The only remaining weapons are shotguns, a chainsaw and a chaingun in order not to allow easy frags (but it's still bloody ;-) ). There's no monsters. At least this patch includes a new music from Van Halens, Jump.",
+	"version": "ae0cae",
+	"date": "2014-01-07 22:08:39",
+	"files": [
+		{
+			"filename": "gs2.wad",
+			"size": 108303,
+			"crc": 2397927043,
+			"md5": "8e8235bb81d72c411b97aafb34db6928",
+			"sha1": "ae0cae9154698f2533e427761b8d23063259b1a0",
+			"sha256": "916aa748a2167a8470323a2e8f123db1bc6558e748b45ddd20e823cd781a24f0"
+		}
+	]
+}

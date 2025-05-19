@@ -1,0 +1,17 @@
+{
+	"uid": "CARPET (5d0a7f).wad",
+	"name": "The Red Carpet of Hell!",
+	"description": "Merely a development (of a development) of my first simple test WAD, this level is not very ambitious. Try the harder skill levels if you're an experienced player. DooM 2 only.",
+	"version": "5d0a7f",
+	"date": "2014-01-07 22:04:18",
+	"files": [
+		{
+			"filename": "CARPET.wad",
+			"size": 43657,
+			"crc": 2857144425,
+			"md5": "f727bb6b6f586b9adf203c3fbf65f223",
+			"sha1": "5d0a7f8d712dbefc4aaa024d3459e8b5e1c87134",
+			"sha256": "f8bf08a00e97e8c3fc8ad92c3d2670c30d3dfd1ad08902a17239f77e2559eff7"
+		}
+	]
+}

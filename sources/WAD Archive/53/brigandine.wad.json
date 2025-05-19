@@ -1,0 +1,16 @@
+{
+	"uid": "brigandine.wad",
+	"name": "Brigandine",
+	"description": "A running battle through a twisty terraced city of brick, iron and skin. A well-meaning attempt to make a singleplayer map that would flow like a deathmatch one. Secretly just a love letter to BRWINDOW.",
+	"date": "2018-03-28 00:21:41",
+	"files": [
+		{
+			"filename": "brigandine.wad",
+			"size": 14847773,
+			"crc": 2094551940,
+			"md5": "cefbd4ae6dcbd040689b0e3d4b941b79",
+			"sha1": "535553c56b538ac3489f5308b1e06954a1a9e884",
+			"sha256": "029f7cd9ca0496116f71ba6c8052db4e5890c61a40a0d51736be792ddd204723"
+		}
+	]
+}

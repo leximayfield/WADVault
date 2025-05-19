@@ -1,0 +1,16 @@
+{
+	"uid": "hellbase (e590cd).wad",
+	"description": "You just finally escaped from the first base on Phobos. You are surrounded by darkness, and then SNAP! You're in the middle of enemy fire in an unknown Hell base, somewhere on Phobos. This is a medium sized level made for deathmatch basically. It has some secrets and some tricks that make it very hard to beat. Lots of overlooks and hidden passageways for deathmatch. This level is relatively easy on Hurt me Plenty or lower. It's gets hard on Ultra-Violence and Nightmare, but not overly so.",
+	"version": "e590cd",
+	"date": "2013-11-06 22:15:46",
+	"files": [
+		{
+			"filename": "hellbase.wad",
+			"size": 167193,
+			"crc": 3468347708,
+			"md5": "9ed0efa8dd27a60d33eb9a0d6164c2f6",
+			"sha1": "e590cd4df5f49cf97b1d916a7ba55f79c6b87fe8",
+			"sha256": "d25770da512f416977b412d8ea908900e13ede5f4fb6b17dc56046c715e04122"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "sp-sin1.wad",
+	"name": "ZDoom Sin Weapon Pack 1",
+	"description": "A new ZDoom weapon pack.",
+	"date": "2014-12-11 22:29:07",
+	"files": [
+		{
+			"filename": "sp-sin1.wad",
+			"size": 814010,
+			"crc": 3096461110,
+			"md5": "671914225e2a1c1f199cea3e8e2417e1",
+			"sha1": "b71db47403f59dc7d836f61201b269d83e499b25",
+			"sha256": "934c52a311cf93a3dc1bf67662b0397833b9e2965585988613090b7e7653090c"
+		}
+	]
+}

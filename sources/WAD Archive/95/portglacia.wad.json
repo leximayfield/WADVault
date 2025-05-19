@@ -1,0 +1,16 @@
+{
+	"uid": "portglacia.wad",
+	"name": "Port Glacia",
+	"description": "Originally a map for Jimmy's Joy Of Mapping 5, I ended up pulling it as it had gotten too large and ambitious, and its size & length would have really bogged down what was already a hefty community project. This allowed me the chance to polish the map up to a higher standard, as the original JOM project limited mapping time to only 72 hours. Most of the map was done during that period, but more time was needed to re-do a couple areas and rework some progression, as well as complete detailing and thing placement. Funny that I get ~90% of this done in 3 days, then spend the next 4 months procrastinating on getting the rest done.",
+	"date": "2018-04-23 22:42:47",
+	"files": [
+		{
+			"filename": "portglacia.wad",
+			"size": 8402247,
+			"crc": 1951857862,
+			"md5": "87ae8a986f9a2c7a1e1f3541f2585e60",
+			"sha1": "95297d86884ea713e802f70c7f2cb0a7c14a3b98",
+			"sha256": "2f0e261606d01f1f612e2f96592aa15390e9ed8e4545835488cdfde617d1e6d4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "supersfx (0db502).wad",
+	"name": "Super Sound FX (for DOOM or DOOM 2)",
+	"description": "This PWAD replaces about 80% of the DOOM sound effects. The sounds I used were taken from several dozen other SFX PWAD's including WESTSND.WAD, AODOOM.WAD, and JERKY2.WAD to name just a few. It contains many sounds from the best movie of all time \"Army of Darkness,\" which very much reminds me of DOOM. There are also a couple of sounds from the funniest guys on the planet \"The Jerky Boys.\" The rest of the sounds are from numerous other sources (some of which are unknown to me). The DOOM music has been replaced with the theme song from Terminator ][ (no, not \"You Could Be Mine\"). I think you'll agree that this is the _best_ sound WAD out there.",
+	"version": "0db502",
+	"date": "2013-11-02 16:39:33",
+	"files": [
+		{
+			"filename": "supersfx.wad",
+			"size": 846736,
+			"crc": 3776729139,
+			"md5": "a6da6cc99b2accdd13fadc51fc0e1ddf",
+			"sha1": "0db5028ce2d0f220b06e05cd1b9af7f1d2b980e7",
+			"sha256": "2ab32c34d496b512afa29eb5bb7ae2bd55316403227a4fe9294007380dd95b90"
+		}
+	]
+}

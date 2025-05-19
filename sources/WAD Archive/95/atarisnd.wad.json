@@ -1,0 +1,16 @@
+{
+	"uid": "atarisnd.wad",
+	"name": "Atari Sounds",
+	"description": "Some beepy, sexy sounds from some classic Atari games",
+	"date": "2015-09-15 18:20:12",
+	"files": [
+		{
+			"filename": "atarisnd.wad",
+			"size": 4246992,
+			"crc": 1858908698,
+			"md5": "5693e67583c13595350023aaf68c4456",
+			"sha1": "955c07279ec70e3ea6ca5ca2ecec1d650cecd550",
+			"sha256": "4d0c6d23bc031ca61f1c45c3af5355e4ed36976ee0e2c729c4db7a432ecd87e8"
+		}
+	]
+}

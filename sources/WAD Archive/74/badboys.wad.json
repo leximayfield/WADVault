@@ -1,0 +1,16 @@
+{
+	"uid": "badboys.wad",
+	"name": "Bad Boys v. beta1",
+	"description": "This is our first try at a DOOM-level. When finished, it will contain several levels. Hope you enjoy it.",
+	"date": "2014-12-15 22:58:20",
+	"files": [
+		{
+			"filename": "badboys.wad",
+			"size": 750741,
+			"crc": 2709506650,
+			"md5": "8ce3d1180085bf8812e7e2c6be985d9f",
+			"sha1": "74f844a35bbafc4c020fd0b0147109c5f86ec5ea",
+			"sha256": "e2134ee16c8b035883918e0af575382279795d77455d2db39ca5fe1ef85a9e24"
+		}
+	]
+}

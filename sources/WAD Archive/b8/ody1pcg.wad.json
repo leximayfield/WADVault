@@ -1,0 +1,16 @@
+{
+	"uid": "ody1pcg.wad",
+	"name": "The Odyssey V.1.01.PCG",
+	"description": "This is my SECOND fully working Doom level. The FIRST standard level!",
+	"date": "2015-09-14 20:31:09",
+	"files": [
+		{
+			"filename": "ody1pcg.wad",
+			"size": 392355,
+			"crc": 875389104,
+			"md5": "bd54b4411f6092beb9c89edcad95e343",
+			"sha1": "b8fa6f905c6f9cf4809c8182c5bb1b127ae85210",
+			"sha256": "71a21fac5cf3bf49237bf77a46cd5a3b4789464b1cd381f254490aa3c1176ce9"
+		}
+	]
+}

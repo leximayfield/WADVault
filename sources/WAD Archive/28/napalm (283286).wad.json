@@ -1,0 +1,17 @@
+{
+	"uid": "napalm (283286).wad",
+	"name": "Napalm.wad",
+	"description": "Deathmatch level the perfect size so you don't get killed as soon as you warp in but small enough to get alot of frags.",
+	"version": "283286",
+	"date": "2014-08-30 14:00:14",
+	"files": [
+		{
+			"filename": "napalm.wad",
+			"size": 90586,
+			"crc": 1027473630,
+			"md5": "26162fea97a56ba8bd8656e2fb87723c",
+			"sha1": "283286b593d5603c9bd364f92992bac90c091cf3",
+			"sha256": "15179b3e1ab7f13bb171807c3f01427ad2d7f9c5fc10e1d772eb78ae0a58b2f0"
+		}
+	]
+}

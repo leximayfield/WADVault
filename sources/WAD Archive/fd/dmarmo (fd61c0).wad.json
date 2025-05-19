@@ -1,0 +1,17 @@
+{
+	"uid": "dmarmo (fd61c0).wad",
+	"name": "The Armory v1.0",
+	"description": "The setting: UAC Weapons Armory, New York, Earth. A large arsenal. A cut-off distress call. Tons of alien invaders. And the only force to stop them: YOU!",
+	"version": "fd61c0",
+	"date": "2013-11-04 20:07:33",
+	"files": [
+		{
+			"filename": "dmarmo.wad",
+			"size": 41739,
+			"crc": 1970395964,
+			"md5": "0bab26638c98a026c45bf607217a3619",
+			"sha1": "fd61c098c00b0ae7ca2155055ecb583cf82f93fa",
+			"sha256": "4de7df7d8042f88291ba84ee80638ee486dd505bb3a64430ee5d4198affc3e05"
+		}
+	]
+}

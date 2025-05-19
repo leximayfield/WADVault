@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (908d02).wad",
+	"name": "fortress.wad",
+	"description": "You, and hopefully two or three friends are dispatched to put an end to the evil king and queen, tyrannical leaders who rule over your beloved country with an iron fist.",
+	"version": "908d02",
+	"date": "2014-12-18 23:16:01",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 353051,
+			"crc": 3184831127,
+			"md5": "f0f48af9de5320f0db71bb3166031d7e",
+			"sha1": "908d02d753e11547784f277af9c53da64bcbba82",
+			"sha256": "3da14c663d32623dc637ec39e278d413eb17ec20a38d20caefd209dea5bac36b"
+		}
+	]
+}

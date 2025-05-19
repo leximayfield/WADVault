@@ -1,0 +1,16 @@
+{
+	"uid": "standard.wad",
+	"name": "Deadly Standards",
+	"description": "A community made Episode 1 replacement for Ultimate Doom. The only limit given was to use the stock IWAD resources (graphics, sounds). The exception being a new midi/soundtrack.",
+	"date": "2018-03-28 00:21:28",
+	"files": [
+		{
+			"filename": "standard.wad",
+			"size": 5392487,
+			"crc": 692315724,
+			"md5": "1bc25a40f3282151f086e8eb2d0a1fe2",
+			"sha1": "ae8637715438e8261515fb77c65e45a298fc50ee",
+			"sha256": "001176128b6db7d73a0ab24b09a0e125b8017beda2cc3a8999946a8aceebc2a3"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "kbase_3.wad",
+	"name": "Base Series",
+	"description": "kbase_3 is a large, noisy base.",
+	"date": "2014-12-27 12:19:52",
+	"files": [
+		{
+			"filename": "kbase_3.wad",
+			"size": 349252,
+			"crc": 2388680185,
+			"md5": "af7d82b6d2adc8ff0b5cd2c3cc1bd2bc",
+			"sha1": "5f8f596db26b4b5c81b6c4bbe92d5908686fb92d",
+			"sha256": "04b012485ed5a11827a20ca2404ec9f90b10fa0fef645ce78bdb9f8d540dda70"
+		}
+	]
+}

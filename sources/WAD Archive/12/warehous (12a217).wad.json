@@ -1,0 +1,17 @@
+{
+	"uid": "warehous (12a217).wad",
+	"name": "WAREHOUSE.WAD",
+	"description": "This level is for those DDDP's (Diehard Deathmatch Doom Players). This WAD has been tested and tested and tested. The only problem is that there isn't enough time in a day when you get four DOOM Guru's together to do JUST battle. This WAD was not designed for single play but can be easily modified and added onto to become one. Happy Deathmatching and don't stay up to late. :)",
+	"version": "12a217",
+	"date": "2013-11-02 15:49:28",
+	"files": [
+		{
+			"filename": "warehous.wad",
+			"size": 59791,
+			"crc": 3797234302,
+			"md5": "1430d6ba22682e90949a9ebb41d42f76",
+			"sha1": "12a21764f0dd617a086f5ab3d296ff39bcccbc8c",
+			"sha256": "258e79ed74f2ded1a46312341ca40850210e9c2476a3ac70b8ae77a9353ccaa6"
+		}
+	]
+}

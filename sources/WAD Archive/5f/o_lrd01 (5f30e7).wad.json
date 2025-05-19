@@ -1,0 +1,17 @@
+{
+	"uid": "o_lrd01 (5f30e7).wad",
+	"name": "Over_lrd 01 Deathmatch",
+	"description": "Deathmatch",
+	"version": "5f30e7",
+	"date": "2016-02-07 20:30:43",
+	"files": [
+		{
+			"filename": "o_lrd01.wad",
+			"size": 35804,
+			"crc": 4129761461,
+			"md5": "a39b4c080bdd8d488afca87a8ff2b2b0",
+			"sha1": "5f30e7868ed8b9507d40e576224fc863879d1eae",
+			"sha256": "d35aeec2d2a621471f6229e691fb1045dd89666c4d32d47d3fc554781acd1962"
+		}
+	]
+}

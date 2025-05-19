@@ -1,0 +1,16 @@
+{
+	"uid": "critpath.wad",
+	"name": "Darkstorm - Critical Path",
+	"description": "Critical Path is a Doom II PWAD for advanced players, preferably those with faster computers, and is difficult enough to challenge anyone on the first few attempts. However, once you've analysed the tactics necessary for the level's completion, it all becomes rather easy. Par time is 28 minutes.",
+	"date": "2014-12-15 22:04:19",
+	"files": [
+		{
+			"filename": "critpath.wad",
+			"size": 483194,
+			"crc": 2257563432,
+			"md5": "58ab7482c30cba7f8fb918d28f8ee1df",
+			"sha1": "f86a3309797fa889df9ef33ca4f840d5f29c9630",
+			"sha256": "9cc8ffa9f1e41ee77d3f83fa49bc7a60f9aef7aae962406cad0ec2ae2f138175"
+		}
+	]
+}

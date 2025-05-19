@@ -1,0 +1,16 @@
+{
+	"uid": "cybawolf.wad",
+	"name": "Cyber Wolf",
+	"description": "You must beat all 3 cyberdemons to win the level. You need zdoom to play this level so you can beat it properly. This is my first level and it has wolfenstein walls and cages in it and 3 cyberdemons. Once you beat them the level ends only under zdoom. Im not good enough to beat the level, but I hope you are.",
+	"date": "2014-12-21 16:39:52",
+	"files": [
+		{
+			"filename": "cybawolf.wad",
+			"size": 1050512,
+			"crc": 918751774,
+			"md5": "555e2f30654aa431c6072fc093f82cad",
+			"sha1": "09dcf367259dd42ccc017e1c6bf9ff548e38c079",
+			"sha256": "8e65c02fcfa89fb500e9beb853f1f87f5e531b82f55247284fc6904287ecb65d"
+		}
+	]
+}

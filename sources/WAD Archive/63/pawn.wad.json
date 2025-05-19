@@ -1,0 +1,16 @@
+{
+	"uid": "pawn.wad",
+	"name": "Chess Pawn (for HERETIC)",
+	"description": "Have you ever felt like a Pawn in someone's : (or something's) game of chess? Well if you : haven't now you will... : : This is a large level with several secrets, : all weapons are included, and a grand finale : on a chess board. This is the first level I've : created, so any comments or suggestions are : welcome. Please e-mail me at DRKSYDE@aol.com Thanx!! : : To play this level unzip all files to your : Heretic directory and type \"pawn\" (without : quotes). Start a new game in episode 1- City : of the damned, at a skill level of your choice.",
+	"date": "2014-12-30 11:18:37",
+	"files": [
+		{
+			"filename": "pawn.wad",
+			"size": 181753,
+			"crc": 3519123917,
+			"md5": "951ef8ae5155b5442a055a2b3bc437f4",
+			"sha1": "63840b87e9b49e192700e22e283e6045469f633f",
+			"sha256": "f6662562a0f346aa612331465182d74a108ce320228821635abf0fb2d3ef7f46"
+		}
+	]
+}

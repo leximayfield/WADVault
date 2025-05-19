@@ -1,0 +1,16 @@
+{
+	"uid": "PC_WDOOM.wad",
+	"name": "WolfenDoomed",
+	"description": "Rarely do you get a wad released that contains only levels using the Doom2 Wolfenstein textures. In my earliest days of WAD Designing I enjoyed making Wolfenstein themed levels but many were not released. But here I bring you exclusive Wolfenstein remakes of 11 selected Doom/Doom2 Maps using only the Doom2 Wolfenstein textures. I reccomend that you play each level from a Pistol Start. The list of levels are shown below.",
+	"date": "2015-01-14 22:44:29",
+	"files": [
+		{
+			"filename": "PC_WDOOM.wad",
+			"size": 1115288,
+			"crc": 968330371,
+			"md5": "c03667715b1ce3ecef69f0d0574751e9",
+			"sha1": "a35b2dedb616d00aea27ab975632ec73c9b26535",
+			"sha256": "bd4a5b7651fb674e4ecf22bcbc3ad8a439feadeb27a2b9101b79df930272abfd"
+		}
+	]
+}

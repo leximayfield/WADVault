@@ -1,0 +1,17 @@
+{
+	"uid": "dmcrashed (50a8b3).wad",
+	"name": "Doom 2 crashed",
+	"description": "The little map that will take you two minutes of time",
+	"version": "50a8b3",
+	"date": "2014-12-18 22:37:03",
+	"files": [
+		{
+			"filename": "dmcrashed.wad",
+			"size": 333254,
+			"crc": 3506052117,
+			"md5": "8b70fefe068e5b146284e423c2e2aa7b",
+			"sha1": "50a8b33844b484ddf96656d9c6faa019e4c0f77d",
+			"sha256": "ddc7d9138592903c2d41275970c6f75862f06693e30e5dca36af3f3cf8a74824"
+		}
+	]
+}

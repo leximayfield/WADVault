@@ -1,0 +1,16 @@
+{
+	"uid": "tactical.wad",
+	"name": "Talon",
+	"description": "You've teleported to your home base, but there are bodies everywhere. You pick up a dropped shotgun, and move to the teleport . . some of the bodies aren't human! The teleport takes you to a room with more human/alien bodies, but instead of a teleport leading to the command central, it leads to their world. God, what's going on?",
+	"date": "2015-01-14 23:02:22",
+	"files": [
+		{
+			"filename": "tactical.wad",
+			"size": 1326205,
+			"crc": 4083543026,
+			"md5": "fb1c987b6851a8b6fdbb330bd6606c40",
+			"sha1": "053e9616d0238d2fa57d9fce7f6105d223f097ae",
+			"sha256": "8df1ba485872cb00352d8d7be8530e3aaba51cb117b422b42db365f28aa81d95"
+		}
+	]
+}

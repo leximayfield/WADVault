@@ -1,0 +1,17 @@
+{
+	"uid": "emperor2 (abdbfd).wad",
+	"name": "Emperor2.wad: The Tiberius",
+	"description": "My second completed, glitch-free wad. If you get easily aggravated when you have to take a little time finding switches and keys, steer clear. This WAD was designed as a companion to be played with emperor1.wad. As a result, it is slated in map02. However, those wishing to play it alone (and there's no reason why you can't) can use the emp2.bat file to warp directly to the level.",
+	"version": "abdbfd",
+	"date": "2013-11-06 22:44:26",
+	"files": [
+		{
+			"filename": "emperor2.wad",
+			"size": 241887,
+			"crc": 2976320295,
+			"md5": "61cb7887cc47554a6337cedbcc58527d",
+			"sha1": "abdbfd43d9a50d3f47afcc565b101f6bfa65fe46",
+			"sha256": "2e9debaac65a3127587ff4e6a2682b1086a31378a58c6e767d34b8bca0ce2a64"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "grenade2 (a29ccf).wad",
+	"name": "Grenade Weapon Patch",
+	"version": "a29ccf",
+	"date": "2013-11-02 17:11:11",
+	"files": [
+		{
+			"filename": "grenade2.wad",
+			"size": 200251,
+			"crc": 1134947875,
+			"md5": "de872e6bb6ad4b3b152becd664bc67b1",
+			"sha1": "a29ccf29f32b300c5ee13d2a75946f499aadb86b",
+			"sha256": "7ca4bc3cd10a66aba2eebf7e5de9e78c3028b9730c1f4e450c423ebd3441f9dd"
+		}
+	]
+}

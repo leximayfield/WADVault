@@ -1,0 +1,17 @@
+{
+	"uid": "original (f843b9).wad",
+	"name": "The Original Missions",
+	"description": "Faithful recreation of Episodes 1, 2, and 3 of",
+	"version": "f843b9",
+	"date": "2013-04-19 04:41:34",
+	"files": [
+		{
+			"filename": "original.wad",
+			"size": 7813324,
+			"crc": 948624899,
+			"md5": "7eb78c3fef37d4ccba5f1166823a9262",
+			"sha1": "f843b93148e7eead8aefdf1a0560c52a8d014f48",
+			"sha256": "aca7b1589503f8b8f9099023471f4df1e5aaa3ef1df629288b67c1f1bca6f7c8"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dmnbkr.wad",
+	"name": "Demon Bunker",
+	"description": "Small techbunker WAD. My first finished map",
+	"date": "2015-09-15 16:37:41",
+	"files": [
+		{
+			"filename": "dmnbkr.wad",
+			"size": 106341,
+			"crc": 1516957599,
+			"md5": "8d929248fc8ddce4b042d9b62a3d4813",
+			"sha1": "2eb6b28628f16cf17b55985c1f2fad3d79492df4",
+			"sha256": "ef386a47d44014a2f6be0167a50f5ef8b18ba10f8f7906e34d1d3194d9469c72"
+		}
+	]
+}

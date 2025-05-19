@@ -1,0 +1,16 @@
+{
+	"uid": "facilityh.wad",
+	"name": "Facility H",
+	"description": "Simply a speedmap based on classic doom",
+	"date": "2014-12-14 21:06:05",
+	"files": [
+		{
+			"filename": "facilityh.wad",
+			"size": 48902,
+			"crc": 1441138496,
+			"md5": "f609225810e78a4575df85f7e73c1cc2",
+			"sha1": "7419b35b9d76f134abb2229e8fd396107ec5c180",
+			"sha256": "d79ab5ec29158a6c668aeafb8055cc653c7db7110972cf81342535a3a4962e09"
+		}
+	]
+}

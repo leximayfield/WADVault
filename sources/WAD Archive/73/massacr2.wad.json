@@ -1,0 +1,16 @@
+{
+	"uid": "massacr2.wad",
+	"name": "Massacre II",
+	"description": "This is a file made originally for Doom. I converted to Doom II and made use of Doom II's texteures, monsters, etc. It also Includes a fourth level that is not on the original, plus an extra secret room in the third level. The game was originally meant to be a replacement for the 2nd episode of Doom and was titled \"Massacre on Deimos.\" I tweaked the original Doom story line a little by saying that the infestation was a gradual one (got worse with each area) and several scientists died in the attack. A small handfull lived to tell you the story, and about the seeming \"Stairway to hell\" going down to their former rec room.",
+	"date": "2015-09-14 22:27:48",
+	"files": [
+		{
+			"filename": "massacr2.wad",
+			"size": 378242,
+			"crc": 968352921,
+			"md5": "2263e7b31d1bb82263a3bff2cbf06d9d",
+			"sha1": "7341fb9b268fa5b088ef258c65c2147d3870f400",
+			"sha256": "26325eec17bc93a8048042f1ba90577afd701a99e0e7b66dee66b31f3bb70cae"
+		}
+	]
+}

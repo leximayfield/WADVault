@@ -1,0 +1,17 @@
+{
+	"uid": "comatose (28d0ba).wad",
+	"name": "Comatose - Chamber of Torment",
+	"description": "Small chamber for insanely fast games.",
+	"version": "28d0ba",
+	"date": "2014-12-15 22:10:59",
+	"files": [
+		{
+			"filename": "comatose.wad",
+			"size": 31301,
+			"crc": 282025420,
+			"md5": "927754b8c14d51a1f2a454a44f40c2bf",
+			"sha1": "28d0ba791fcc4b9da5d4a996a94e7854eee2936d",
+			"sha256": "89ccc13e4ba71e71290b8454a87433e302e871112571816e99640d4352793eaf"
+		}
+	]
+}

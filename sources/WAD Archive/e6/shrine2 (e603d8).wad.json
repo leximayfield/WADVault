@@ -1,0 +1,17 @@
+{
+	"uid": "shrine2 (e603d8).wad",
+	"name": "Shrine of the Warriors",
+	"description": "You begin right next door to hell. in a twisted chamber used by hell spawn as a portal to the human realms.",
+	"version": "e603d8",
+	"date": "2013-11-02 16:02:53",
+	"files": [
+		{
+			"filename": "shrine2.wad",
+			"size": 1217629,
+			"crc": 257026570,
+			"md5": "e91d56b188866b4dc7e21be8fec52b16",
+			"sha1": "e603d86e795f3840355f74b2bdfe190dfeda0240",
+			"sha256": "daa17e2540a36dc2a973890c6e9fc1315b5f6b2c7f3fda17c6ecb6cad8933670"
+		}
+	]
+}

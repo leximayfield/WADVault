@@ -1,0 +1,17 @@
+{
+	"uid": "ok (cc995d).wad",
+	"name": "OK Corral",
+	"description": "This started out as a simple deathmatch wad and quickly got out of control. :-)",
+	"version": "cc995d",
+	"date": "2015-09-14 19:52:17",
+	"files": [
+		{
+			"filename": "ok.wad",
+			"size": 153395,
+			"crc": 1642426091,
+			"md5": "2621fb8e7b47a9c841dbf9e41ccbcc4e",
+			"sha1": "cc995d7cc750b34b907d1184e7f2e61acb5f6eed",
+			"sha256": "eb984dbdf7c6c35b42b684ccfe0ed1d218abea4d39d779a2c31e0974fbf700cb"
+		}
+	]
+}

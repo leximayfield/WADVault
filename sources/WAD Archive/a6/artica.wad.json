@@ -1,0 +1,16 @@
+{
+	"uid": "artica.wad",
+	"name": "Artica",
+	"description": "My best work ever, I'd have to say. I spent a good amount of time on lighting(or at least a lot of thought heh), architecture(something Dismemberment wasn't too strong in)and *gasp* texture alignment. The wad is also in two maps becuase WadEd decided that I shouldn't be able add the final area, so it's in a second map. It works out though, because the final area was going to be sealed off from the rest of the map anyway.",
+	"date": "2014-12-21 17:01:08",
+	"files": [
+		{
+			"filename": "artica.wad",
+			"size": 409773,
+			"crc": 78668902,
+			"md5": "ecb3feba9ba7c076cc70323f12a6ed76",
+			"sha1": "a61790310ade91c59bf797c9e161e3892b751deb",
+			"sha256": "a8ddff6706b99e4652b7643194b7ab74c7c2691eb379db0e23ce5616fa398b31"
+		}
+	]
+}

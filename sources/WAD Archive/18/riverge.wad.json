@@ -1,0 +1,16 @@
+{
+	"uid": "riverge.wad",
+	"name": "River Of Revenge",
+	"description": "Six action packed levels with new music. Source port required, because of the big size of some of the maps, the wad is tested on Zdoom and Legacy, works best on Zdoom. Check the story later at the text file. And map 01 sucks, please don't stop playing because of it :)",
+	"date": "2014-12-29 09:10:34",
+	"files": [
+		{
+			"filename": "riverge.wad",
+			"size": 2013431,
+			"crc": 1666290552,
+			"md5": "8b95d2b25489d7e6d816d9bd3a598833",
+			"sha1": "180a60f103964c3a0c6af9486ddb20f10c98edf7",
+			"sha256": "785aa7f94dcfaba576ae8b43b2d641d4862805ac61d4cfde8774743d1dcf8803"
+		}
+	]
+}

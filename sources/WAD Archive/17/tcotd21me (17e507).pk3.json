@@ -1,0 +1,17 @@
+{
+	"uid": "tcotd21me (17e507).pk3",
+	"name": "The City of The Damned : Apocalypse",
+	"description": "The successor of \"The City of The Damned\", a ZDoom map featuring resources from the Monolith game \"Blood\", this time featuring dynamic lights and other nifty sourceport additions in GZDoom. Expect a moody, dark and scary city filled with zombies, cultists and evil demons.",
+	"version": "17e507",
+	"date": "2013-04-19 03:55:06",
+	"files": [
+		{
+			"filename": "tcotd21me.pk3",
+			"size": 25629100,
+			"crc": 2913213282,
+			"md5": "e1c2a43b868e0435b25d4186851fd429",
+			"sha1": "17e507ea4f5c82d54db9b5a2103923aab3159688",
+			"sha256": "b3f23f18025da52204d758d830038d1cf505e602cffd4a48576fcf74d4fc4b1a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "amorte.wad",
+	"name": "a Morte [15 maps - 3 Hubs]",
+	"description": "Berlin, 1945. Things are heating up and Inside an old church a cabal of Nosferati begin opening portals, looking for another realm to evacuate to. Unfortunately for them they come across an arachnid-infested mausoleum, where a hero awakens... Extensive Hexen mod with 15 new maps, spread over 3 hubs. New weapons, Enemies and Environmental Hazards. More info on the zdoom forum: http://forum.zdoom.org/viewtopic.php?f=19&t=50891",
+	"date": "2016-07-20 20:02:39",
+	"files": [
+		{
+			"filename": "amorte.wad",
+			"size": 64843858,
+			"crc": 319382761,
+			"md5": "4ab911e59277ebd2432052b1675795ff",
+			"sha1": "87549d7437ca659be3c69e95c41674e0a81297ad",
+			"sha256": "73314d43cb6be4611e15a3c333e213298d2d4d81f8738bd697e8cf6ea895c472"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "distion (ade2ea).wad",
+	"name": "Dissolution",
+	"description": "Dissolution is a 7 map side story to Project Slipgate. *New version with no misaligned textures*",
+	"version": "ade2ea",
+	"date": "2013-04-19 11:22:01",
+	"files": [
+		{
+			"filename": "distion.wad",
+			"size": 11401808,
+			"crc": 187157441,
+			"md5": "def9e7fea96d604c2284588b8697efa9",
+			"sha1": "ade2ea1dc18f0b0fcc751216f7bc3917c77d50dd",
+			"sha256": "50d21f9e0bec0e22b608e4d95314846cf322cd93ca196aedfbed9f805a9a9512"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "TRAIN (fd2560).wad",
+	"name": "Train to the Abyss",
+	"description": "A level i came up with in my spare time.",
+	"version": "fd2560",
+	"date": "2015-01-14 22:40:35",
+	"files": [
+		{
+			"filename": "TRAIN.wad",
+			"size": 570548,
+			"crc": 380211930,
+			"md5": "20b4ad25462d3c637471e02a13dc02fd",
+			"sha1": "fd2560f09e24160b05b3f7fe5a3e2cbb2ce66498",
+			"sha256": "79b241c66b67c381abdb1821300a0eafb8876d9b4b2c19ab62e8bc8040685bfd"
+		}
+	]
+}

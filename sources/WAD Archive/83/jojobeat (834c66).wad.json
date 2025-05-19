@@ -1,0 +1,17 @@
+{
+	"uid": "jojobeat (834c66).wad",
+	"name": "JoJoBeat: DeathMatch Wad",
+	"description": "Features: Hell's abyss, Snipe spots, central battle room, trap control room, and more!",
+	"version": "834c66",
+	"date": "2014-12-03 20:10:08",
+	"files": [
+		{
+			"filename": "jojobeat.wad",
+			"size": 87478,
+			"crc": 390702337,
+			"md5": "f1f55b84a12632b0b992f156fc3ad6e1",
+			"sha1": "834c66ede9a81f2b8bc5d5b7d298ed41c2638940",
+			"sha256": "40ff4a7f659a854637c0084e58cf600a81821ca2de457a58b391fc924424872c"
+		}
+	]
+}

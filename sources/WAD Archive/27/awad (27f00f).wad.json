@@ -1,0 +1,17 @@
+{
+	"uid": "awad (27f00f).wad",
+	"name": "Andy's WAD",
+	"description": "This wad file was created because I had nothing bettor to do.",
+	"version": "27f00f",
+	"date": "2014-12-15 22:07:23",
+	"files": [
+		{
+			"filename": "awad.wad",
+			"size": 368483,
+			"crc": 1833280632,
+			"md5": "d0c1cdd05084a2f90bf904751dcb1ec1",
+			"sha1": "27f00f3bc943224d9d67cf3fcf4afb16c7651fa2",
+			"sha256": "2a33f35ef72bc0665b255faf1aeeca56ea69bff88c62260c2a48a291f9c9bc1b"
+		}
+	]
+}

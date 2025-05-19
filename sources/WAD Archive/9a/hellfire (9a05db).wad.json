@@ -1,0 +1,17 @@
+{
+	"uid": "hellfire (9a05db).wad",
+	"name": "Hellfire",
+	"description": "Made in Doom2-format and includes 15 new levels in two styles - City and Hell.",
+	"version": "9a05db",
+	"date": "2018-05-28 21:08:49",
+	"files": [
+		{
+			"filename": "hellfire.wad",
+			"size": 12652286,
+			"crc": 2077563227,
+			"md5": "1e3145d40c5fef98f9d1056b0d778d7c",
+			"sha1": "9a05db08739557c200b47059c63cefda9f07f8bd",
+			"sha256": "492e205b32ccbaba51251baada2a4abd130aa3382c501dbb5eafce7f267cd6e0"
+		}
+	]
+}

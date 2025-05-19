@@ -1,0 +1,17 @@
+{
+	"uid": "apoclpse (6e83b6).wad",
+	"name": "APOCALYPSE",
+	"description": "Apocalypse is my third official released WAD file for IDs awesome action game DOOM. This level is best suited for single player play, but does support multiplayer and deathmatch.",
+	"version": "6e83b6",
+	"date": "2014-01-07 22:11:09",
+	"files": [
+		{
+			"filename": "apoclpse.wad",
+			"size": 330403,
+			"crc": 654659713,
+			"md5": "a9c4550f9e717123d0eb642a54ceed7f",
+			"sha1": "6e83b69067351d8fd5bf7fa6ea83b2144877b6e1",
+			"sha256": "9986b67cd59eb0b31b8bf896b1f56d1e0ed93a8738acde408aee8c846a08720e"
+		}
+	]
+}

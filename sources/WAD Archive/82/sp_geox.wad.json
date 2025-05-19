@@ -1,0 +1,16 @@
+{
+	"uid": "sp_geox.wad",
+	"name": "Geo X",
+	"description": "Geo X is an overhauled version of two different wads (sp_deny, and sp_geo), merged together. There is a lot of things that are different in this version. In my personal opinion, the maps had very bad gameplay flaws. The maps were way too long and drawn out, and have been shortened quite a bit. Also, there are times where there just isn't enough ammo, and not enough weapon variation. You'd find yourself running throughout the maps with just the regular shotgun until almost half-way through the map. Weapons will now be found earlier and more frequent throughout the maps. Some new areas have been added, with others removed. Some detail has been added in some places as well. All decorate monsters have been removed, except for one single enemy. If you played the original versions of these maps and disliked them (as I'm sure you did), I'd highly recommend trying this. Even if you did like the original versions of these maps I'd still play it. There's quite a bit different, and I think it's for the better.",
+	"date": "2014-12-29 15:55:24",
+	"files": [
+		{
+			"filename": "sp_geox.wad",
+			"size": 9304021,
+			"crc": 1724224602,
+			"md5": "1325af3b6711a13604ac4f3cfe843caf",
+			"sha1": "82867e3a8439a0ce3fc2177e00c0b766d37a761f",
+			"sha256": "d8cb371a3ab669d1e8236064ad0c1fca40a3f48cc275fcc0379f4bfe37a2be35"
+		}
+	]
+}

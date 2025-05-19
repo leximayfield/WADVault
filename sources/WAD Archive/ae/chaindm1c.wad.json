@@ -1,0 +1,16 @@
+{
+	"uid": "chaindm1c.wad",
+	"name": "ChainDM (public beta release 1c)",
+	"description": "A Skulltag competition mod that utilizes a plethora of new features seen in modern shooters like Quake 3 and Unreal Tournament. The final release is slated to have 3 (or 5, depending on how much time I have) maps per each game mode: Duel, TDM, and CTF.",
+	"date": "2013-04-18 23:30:20",
+	"files": [
+		{
+			"filename": "chaindm1c.wad",
+			"size": 12862772,
+			"crc": 1804265062,
+			"md5": "4d92efb21db501e88e59edf2a67771de",
+			"sha1": "ae52f05a7edc16d385a32f2042d00575fd1ed182",
+			"sha256": "702ddfeb48d48cdc3d6ca85347b33dd77d1c48a34ec3b4353a3d438406de0afa"
+		}
+	]
+}

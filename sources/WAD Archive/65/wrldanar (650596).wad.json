@@ -1,0 +1,17 @@
+{
+	"uid": "wrldanar (650596).wad",
+	"name": "World of Anarchy",
+	"description": "Here's a generic deathmatch wad i made from months of procrastination. It's actually a representation of how today's deathmatch wads look, missing that good old fragtastic feeling. This level may or may not be an exception, i'll let you be the judge of that. It features many corridors, rarely hidden ones. Oh, and as always, you MUST use skulltag data and actors for it to work properly. Unless you wanna see a bunch of missing textures and actors.",
+	"version": "650596",
+	"date": "2015-09-15 17:10:05",
+	"files": [
+		{
+			"filename": "wrldanar.wad",
+			"size": 2133810,
+			"crc": 157311981,
+			"md5": "43e7fa4693d31ab1cfa62cc6a483d272",
+			"sha1": "650596f9dd423f17f5e3e764f650240e55b851ee",
+			"sha256": "91bc76909b093edfc3cfca9db186e05429b36b9ffcdb84db2b808aedd0d34022"
+		}
+	]
+}

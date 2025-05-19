@@ -1,0 +1,16 @@
+{
+	"uid": "dethmetl.wad",
+	"name": "Death/Hard/Industrial/Goth/etc music WAD for both Doom and Doom2",
+	"description": "Replaces _all_ music in doom and doom2",
+	"date": "2015-09-14 22:22:23",
+	"files": [
+		{
+			"filename": "dethmetl.wad",
+			"size": 1737894,
+			"crc": 1377872494,
+			"md5": "736e8d6d6a44721277c14b5fe3acfd66",
+			"sha1": "9d4fb6c23221ccca6b514c38c38d7257cdfbd112",
+			"sha256": "c6a614eb0136d336ff1ad4919d37f4bfacde75b3e1002f9092209ef1f14f33e8"
+		}
+	]
+}

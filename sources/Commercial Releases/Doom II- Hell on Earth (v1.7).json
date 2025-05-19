@@ -1,0 +1,16 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom II: Hell on Earth (v1.7)",
+	"name": "Doom II: Hell on Earth",
+	"version": "v1.7",
+	"files": [
+		{
+			"filename": "DOOM2.WAD",
+			"date": "1994-09-21",
+			"size": 14612688,
+			"crc": "47daeb2e",
+			"md5": "ea74a47a791fdef2e9f2ea8b8a9da13b",
+			"sha1": "78009057420b792eacff482021db6fe13b370dcc"
+		}
+	]
+}

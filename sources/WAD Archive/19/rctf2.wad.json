@@ -1,0 +1,16 @@
+{
+	"uid": "rctf2.wad",
+	"name": "Industrial Mayhem",
+	"description": "Be sure to use the node file on this one.",
+	"date": "2014-12-15 21:20:21",
+	"files": [
+		{
+			"filename": "rctf2.wad",
+			"size": 1586813,
+			"crc": 2486841209,
+			"md5": "d01de6d5277d3b7c02e85ded823d4e34",
+			"sha1": "193abccd6b4f16bbeb9c2f4426556e34cc416a80",
+			"sha256": "dc917ab6363d830c6ba149b6c5db861a77009923caa9f2f3ae8012db3c05510a"
+		}
+	]
+}

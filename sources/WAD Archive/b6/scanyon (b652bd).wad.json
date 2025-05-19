@@ -1,0 +1,17 @@
+{
+	"uid": "scanyon (b652bd).wad",
+	"name": "Slaughter Canyon",
+	"description": "Its a huge level.",
+	"version": "b652bd",
+	"date": "2016-02-07 20:30:39",
+	"files": [
+		{
+			"filename": "scanyon.wad",
+			"size": 113908,
+			"crc": 651160745,
+			"md5": "639616fbbb84cf9440fbe618013a1a9d",
+			"sha1": "b652bd9289d8e87d9b4f855d0da2506f85ac8ba7",
+			"sha256": "6720642553c6744dfb9c5415edf16839aac2c52978ff01b63cb337afbc37d7ed"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "thos02.wad",
+	"name": "The Hall Of Showdown",
+	"description": "The story of this Pwad is as long as the Pwad is big. One day some years ago some friends and I, we discovered that there is a way to create own Pwads. We started to build some at once, and so I started to work on this file; only to try out some ideas, to find out how DEU works and to create something for Deathmatch. So I found out that most of these ideas didn't work, but I found out how DEU works. More ideas came and the Pwad got bigger and bigger and useless for Deathmatch. So I stoped working on it. But I didn't stop building Pwads (stairs.wad, lift.wad, cyrc.wad, ralle.wad) and these Pwads are very good ;-). Now, years later I rediscovered the thos.wad on my HD and made thos02.wad out of it (includes: things, some corrections, an end-level-switch, a demo which shows you how to survive and how to find the big BFG-Secret and some sreenshots). There are still some Bugs (which I see but you might not) and the Pwad is still senseless because DM is only fun with more than 2 players (I never played with more than 2) and because Singleplayer might be to hard. But you should try it out also this one, to be able to compare it to my other Pwads. (Try out: CROSS.wad, STAIRS.wad, LIFT.wad, CYRC.wad, RALLE.wad, ASYM.wad and all the other Pwads I've created...)",
+	"date": "2014-12-13 12:54:53",
+	"files": [
+		{
+			"filename": "thos02.wad",
+			"size": 424097,
+			"crc": 702594340,
+			"md5": "96ab1ab91a573b2d01fddeecf8fe8b82",
+			"sha1": "04804b9df6d08e02610bd3b36ee2d89e3b6223e3",
+			"sha256": "bbd7312c1d952823d6951e3f55f304f36fb982a22c1fc77961d40664839a0b29"
+		}
+	]
+}

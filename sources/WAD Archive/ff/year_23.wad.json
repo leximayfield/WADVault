@@ -1,0 +1,16 @@
+{
+	"uid": "year_23.wad",
+	"name": "Year 23 -The Belly of the Beast- [v1.1]",
+	"description": "Good God! After that struggle in the canyon, it feels like a year's gone by! You stand over the corpses of five zombies, drenched in the blood and guts of all who opposed you. In that tiny, cavernous room, the only other opening you see is a tunnel that stretches off into darkness. Taking a deep breath, you descend the craggy passage, the torches blazing within the walls your only guide. After a short while, you can feel the air getting hotter -- and not just from the torches. When you see light again, the rock has become suspiciously red and black. You press on, feeling as if your skin was on the verge of combusting, until-- Well, wouldn't you know it? You've ended up in Hell! You could say this was just the inside of a volcano, but that doesn't explain the coloration of the rocks. Or the brown stalagmites up there. Or, for that matter, the fact that you haven't burst into flame from convection already. You turn around and try to head back, but as luck would have it, a wall shoots out of the ground and blocks you. You shrug, turn back to the stream of lava on the other end, and sit down. Just when you've started to think of fun things to do with demon intestines, stepping stones rise out of the lava. You pick yourself up, and proceed to jump from step to step, trying to see where the passage leads. The sad part? When you get back from all this, /no one/ is going to believe you. * * * The newest entry in the Year series, this is the sequel to Year 22 -A Rock and a Hard Place-. Consequently, it runs on MAP03. This time, I gave myself a development period of one week starting from my birthday, which was far more reasonable -- in theory, anyway. Unfortunately, mapper's block, coupled with life and other Doom projects, conspired to make this take most of the year to finish... /again./ Thankfully, I was able to get this done before the end of the year. Either way, I apologize for the wait. You'll also have to play this on something like PrBoom+ or Eternity this time; there are too many SEGS in this level for Boom to load it without crashing. Oh, well. Also, if you're using ZDoom (or any variant thereof) to play this, you can't use the jump or crouch buttons. Sorry, but you're not supposed to do those in this level. Anyway, it's a big level compared to the last one, and a rather tough one, at that -- at least on Ultra-Violence. I really mean it this time, too; there are /many/ devious traps, and if you begin the level from a pistol start, you'll have to get the berserk pack at the beginning. Trust me. In fact, if you're playing this for the first time and you're not skilled at Doom, I recommend you play it on Hurt Me Plenty instead. It might be a bit hard, but it's not as mean as it'll be on UV. Don't even /think/ of trying this on -fast or Nightmare if you value your sanity! Regardless, enjoy the level!",
+	"date": "2014-12-29 15:09:20",
+	"files": [
+		{
+			"filename": "year_23.wad",
+			"size": 3963051,
+			"crc": 4266227366,
+			"md5": "33d1b585c3ce040757ced61aa697a827",
+			"sha1": "ffc156786742878c264782a2192edda9e6a422e8",
+			"sha256": "a46b139f15091342de3fa969cb5e56d78972454595a8a13fc7853fcd64a64866"
+		}
+	]
+}

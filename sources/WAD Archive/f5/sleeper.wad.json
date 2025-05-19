@@ -1,0 +1,16 @@
+{
+	"uid": "sleeper.wad",
+	"name": "When the Sleeper Wakes",
+	"description": "A high tech deathmatch level.",
+	"date": "2014-12-15 22:06:16",
+	"files": [
+		{
+			"filename": "sleeper.wad",
+			"size": 753099,
+			"crc": 3381352861,
+			"md5": "a510adba5aca6ff84497eec341e38915",
+			"sha1": "f5bf7cebf0915f5c9532104f6e35d89158d68bfb",
+			"sha256": "c8a12f6a0554aa0d02ee7e070bcaef71a31eaf4b0af54bb762cfc1aedca48f6e"
+		}
+	]
+}

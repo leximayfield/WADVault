@@ -1,0 +1,16 @@
+{
+	"uid": "ttop.wad",
+	"name": "The Tower of Pain",
+	"description": "You've been dispatched to an island by the Union Aerospace Corporation to elimate all of the possible hostilities and secure the Island for the advancement of the US in this war... Load up your weapons and take that tower down!",
+	"date": "2017-02-20 20:29:11",
+	"files": [
+		{
+			"filename": "ttop.wad",
+			"size": 48599497,
+			"crc": 1497096657,
+			"md5": "1982bd3294ea085ed1cd57c52a4b8c1b",
+			"sha1": "ac9c87e2724f1b9d88c8ae50e3589d5c8db5064c",
+			"sha256": "059b850185217a9cc8e9adba0606ce2fa6da86310d18779bfc060fa8d7e560b9"
+		}
+	]
+}

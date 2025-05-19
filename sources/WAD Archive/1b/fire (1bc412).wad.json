@@ -1,0 +1,17 @@
+{
+	"uid": "fire (1bc412).wad",
+	"name": "Fire rifle",
+	"description": "This Changes the plasma rifle into a new flame thrower",
+	"version": "1bc412",
+	"date": "2014-12-11 22:18:05",
+	"files": [
+		{
+			"filename": "fire.wad",
+			"size": 316068,
+			"crc": 1222285384,
+			"md5": "3af1a196763db7e94be6671c4a1f21db",
+			"sha1": "1bc4127b4f1f3ba7cb9e53cd842b5a8752741095",
+			"sha256": "9a282d7735c98e3ed30609c859553f2d01eb9db81e7c2c359a691e710c3a4779"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "kat (a9d887).wad",
+	"name": "KAT.WAD",
+	"description": "Large level, lots of monsters to shoot. Could be very interesting playing in Deathmatch mode.",
+	"version": "a9d887",
+	"date": "2013-11-02 15:07:59",
+	"files": [
+		{
+			"filename": "kat.wad",
+			"size": 92578,
+			"crc": 860955117,
+			"md5": "653612c388766e53c063ce3303d5a1ee",
+			"sha1": "a9d887f67817717ffe86d28a91d20a9f7523b363",
+			"sha256": "639f5085e1bb6bb48aa2719bc85a7e2d1555609e11f320003cac2637ab1e5a7e"
+		}
+	]
+}

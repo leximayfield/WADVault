@@ -1,0 +1,17 @@
+{
+	"uid": "sunlust_betar3 (f89334).wad",
+	"name": "Sunlust",
+	"description": "Sunlust is a set of 32 boom-compatible maps for Doom II, designed to be played from pistol start. The maps meander through a range of themes, from traditional bases and temples to abstract hellish, void, and tech aesthetics. UV is designed primarily for ubermensch doom-gods, thus we encourage most players to start off on HMP or lower.",
+	"version": "f89334",
+	"date": "2015-06-20 16:01:34",
+	"files": [
+		{
+			"filename": "sunlust_betar3.wad",
+			"size": 68807713,
+			"crc": 1313118753,
+			"md5": "ef03518fea67ab4ff8e3a1f347cc0f1b",
+			"sha1": "f8933484ab719192846654f38f9ad371e0b03412",
+			"sha256": "13d3f4727d593ab8f2e114c5eb25f0ff14be4e5762d641fd708abe4452fd0df5"
+		}
+	]
+}

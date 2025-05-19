@@ -1,0 +1,17 @@
+{
+	"uid": "match123 (adf5d4).wad",
+	"name": "MATCH11.WAD, MATCH12.WAD and MATCH13-WAD",
+	"description": "These three levels are ideal for multi-player deathmatch games, however, they are pretty boring for single player or co-operative play.",
+	"version": "adf5d4",
+	"date": "2013-11-02 15:18:35",
+	"files": [
+		{
+			"filename": "match123.wad",
+			"size": 51178,
+			"crc": 2211042284,
+			"md5": "606d11c570034047af1d2da46ba17b45",
+			"sha1": "adf5d40edc6fdbf603718b5cb1ce1640c702c351",
+			"sha256": "68178dbb2727e7e594263ee5ebd94eee0f1a84fdff073cc5c2f1f9cd7e1ee343"
+		}
+	]
+}

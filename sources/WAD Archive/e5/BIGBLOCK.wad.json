@@ -1,0 +1,16 @@
+{
+	"uid": "BIGBLOCK.wad",
+	"name": "BIGBLOCK.WAD",
+	"description": "This is the first level in a new 3 level episode (called \"Massacre\"), BIGBLOCK.WAD is rough stuff !!!",
+	"date": "2014-10-14 21:22:54",
+	"files": [
+		{
+			"filename": "BIGBLOCK.wad",
+			"size": 155664,
+			"crc": 1807037170,
+			"md5": "2dcbde77f89349dc572449ac399acc2a",
+			"sha1": "e5e28941deaf1867e9f3d1c975481ef2ac3adc2b",
+			"sha256": "571c24c2972e286b5cbb39b9c91be4245f78d991b845d2b708f5f93f7b86fe04"
+		}
+	]
+}

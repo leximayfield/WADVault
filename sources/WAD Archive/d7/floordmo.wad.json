@@ -1,0 +1,16 @@
+{
+	"uid": "floordmo.wad",
+	"name": "Floor Demo",
+	"description": "A tech demo of 3D moving floors. There's still some things that I want to do to it, but as a start this is pretty neat.",
+	"date": "2015-09-15 17:46:31",
+	"files": [
+		{
+			"filename": "floordmo.wad",
+			"size": 29820,
+			"crc": 2863421674,
+			"md5": "0512fed8073d3eddf6d648535408abaa",
+			"sha1": "d7a35ed4ec79d7c42970419b955250884eb60e85",
+			"sha256": "f623b4b9fc3960def46e75be25273f306dc12feb1dc5cbbef363a74057d731f4"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "ffzombie (0a858c).pk3",
+	"name": "Former Friend Zombie",
+	"description": "A twist to cooperative and survival games. Your dead teammates revive as zombies and attack you!",
+	"version": "0a858c",
+	"date": "2013-04-22 00:17:58",
+	"files": [
+		{
+			"filename": "ffzombie.pk3",
+			"size": 48919,
+			"crc": 2921056214,
+			"md5": "e52c2a82f202188af5dbdd0e354e9779",
+			"sha1": "0a858c6be7acb665c07fe09eb4b5f2f8364e393b",
+			"sha256": "3f4a565533eb03b0e2ac859700081d1a70ab081693d896287b2af64e1cd97d15"
+		}
+	]
+}

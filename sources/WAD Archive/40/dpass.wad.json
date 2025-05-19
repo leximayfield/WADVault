@@ -1,0 +1,16 @@
+{
+	"uid": "dpass.wad",
+	"name": "Dark Passage",
+	"description": "This is a long level with a long history. Mr. Chris (Chris Pisarczyk) and the late Phobosdeimos1 (Callum Oliver) started this map during the development of Doom the way id Did, probably a year or so before it was officially released. I joined in after Phobosdeimos1 left early in the map's development and I joined in afterwards. I did a lot of the western half of the map and Mr. Chris did a lot of the eastern half, but there are many points where we both worked on the same areas, so you really can't tell who did what. (Since Mr. Chris is a much more popular mapper than I am, I assume people probably can recognize his mapping style) Of course, ol' faithful here was rejected from the project for being about twice the size of E2M7 and having over two hundred monsters, among other things. Eventually Mr. Chris released the DTWID version of this level as \"the damned,\" which you can find here on /idgames. Meanwhile, as I gained more knowledge about mapping I dinked around a bit and made a few adjustments here and there to help with the map's flow and progression. A few bugs were also fixed, and a couple of things were added here and there to add character. For those who haven't played this level before (most of you, I would assume), you may need to use your automap more than a few times because this map is VERY large and VERY non-linear. You may also need to wear eye protection, since it's twice as ugly as it is big. (Remember, it's DTWID so we had to channel our inner Sandy Petersen!) Also, I would advise against deathmatch on this map due to its gargantuan size. (I'm one of those guys that has to put deathmatch starts in every map he touches!) Hope you have fun! -Jeff (Marnetmar)",
+	"date": "2014-12-14 20:53:44",
+	"files": [
+		{
+			"filename": "dpass.wad",
+			"size": 374791,
+			"crc": 3252985545,
+			"md5": "6197aca1a8556c68413f3daa884a125d",
+			"sha1": "40e8d65bcb51915b85230f15f7c759131025598f",
+			"sha256": "7e178abea21f12fba90ce72629d396954d1f0262c16e093a0c1499b9a01a5ede"
+		}
+	]
+}

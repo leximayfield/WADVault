@@ -1,0 +1,17 @@
+{
+	"uid": "napalm (43db90).wad",
+	"name": "NAPALM.WAD for DOOM ][",
+	"description": "This is a small deathmatch level based upon the theme of level 1, Doom 2. It is best played using deathmatch rules 1.",
+	"version": "43db90",
+	"date": "2016-02-07 20:30:56",
+	"files": [
+		{
+			"filename": "napalm.wad",
+			"size": 55702,
+			"crc": 76289775,
+			"md5": "0d3696ff7833ea6b299780bdf0f4f063",
+			"sha1": "43db9027a46951000609f48ba7ba3d0d92c85317",
+			"sha256": "ffe624de114104fabeb02bc0515345e09eb4c3b6a716d87766af8cbd447cd9cb"
+		}
+	]
+}

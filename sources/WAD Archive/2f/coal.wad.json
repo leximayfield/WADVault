@@ -1,0 +1,16 @@
+{
+	"uid": "coal.wad",
+	"name": "COAL MINE for DOOM II",
+	"description": "A Medium sized level based in a deep coal mine. Focus is on single play action. E-mail me your thoughts!",
+	"date": "2014-12-15 23:10:23",
+	"files": [
+		{
+			"filename": "coal.wad",
+			"size": 315258,
+			"crc": 304640357,
+			"md5": "354ff9984f0e6210bbd7c43d62fda588",
+			"sha1": "2f79eb871fcd40df5d3fffaf5c5dcaefff8f8573",
+			"sha256": "3f83e56ec5e8a35808cec672ee20cccacb088fdd53bf82cc425c84ea61fc0011"
+		}
+	]
+}

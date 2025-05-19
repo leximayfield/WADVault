@@ -1,0 +1,16 @@
+{
+	"uid": "hti.wad",
+	"name": "\"Hell's Twisted Influence: The new Nightmare\"",
+	"description": "My first ZDOOM wad attempt so don't expect anything terribly groundbreaking here.",
+	"date": "2014-12-24 19:12:22",
+	"files": [
+		{
+			"filename": "hti.wad",
+			"size": 12751731,
+			"crc": 1513621537,
+			"md5": "d8a9f9991659dc662e01cd14bf6bad75",
+			"sha1": "42ef91c5a6c7db4b6c1112cf6a9434a6bbe98105",
+			"sha256": "913704dda0d3d7a7b1eb25f8e938f53bf9e9ed0d4d85cb33cc1dd3537461009b"
+		}
+	]
+}

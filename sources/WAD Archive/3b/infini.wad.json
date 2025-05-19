@@ -1,0 +1,16 @@
+{
+	"uid": "infini.wad",
+	"name": "Mortis Infinitum  (for Doom2)",
+	"description": "This is a replacement for the final level (map30) of Doom2, created specifically for the Newdoom community project. It can also be played as a standalone level",
+	"date": "2018-05-28 21:43:31",
+	"files": [
+		{
+			"filename": "infini.wad",
+			"size": 81602,
+			"crc": 698583714,
+			"md5": "1c056c3bbdf9c72c43704d3afda77cc3",
+			"sha1": "3b9740163c513b074d57ad09e882390b9537b2f0",
+			"sha256": "6b2db9d3cf0e6c5a074d0ad02207b08292e213a2e0704393226d3649a4c918d3"
+		}
+	]
+}

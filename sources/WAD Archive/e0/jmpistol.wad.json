@@ -1,0 +1,16 @@
+{
+	"uid": "jmpistol.wad",
+	"name": "JMAA's Pistol Start",
+	"description": "This is pretty much a dumb mod, but all it does is just limit the weapon range to just the pistol and pistol ammo and tone down the monsters' health to be easily killable with the pistol without having to bore yourself. It also includes a new skill level for really special gamers.",
+	"date": "2017-09-17 18:47:20",
+	"files": [
+		{
+			"filename": "jmpistol.wad",
+			"size": 3710,
+			"crc": 4190339341,
+			"md5": "89db82aea57280210a1d8a0cb719dca4",
+			"sha1": "e0ee498d25c795bf69988695411834f9f37ed9f8",
+			"sha256": "aa5172d30f3eca671ca97e00709679e75b3351c4d069fb562be807dede6b8f18"
+		}
+	]
+}

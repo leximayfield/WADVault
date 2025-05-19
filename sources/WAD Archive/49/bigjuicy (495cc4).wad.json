@@ -1,0 +1,17 @@
+{
+	"uid": "bigjuicy (495cc4).wad",
+	"name": "Big Juicy Level.",
+	"description": "Big rooms, lots of monsters on higher difficulty. Hopefully a couple of new Ideas.",
+	"version": "495cc4",
+	"date": "2013-11-02 15:51:33",
+	"files": [
+		{
+			"filename": "bigjuicy.wad",
+			"size": 219846,
+			"crc": 816501757,
+			"md5": "6ead4468e7e5f647297bb131c9987a3f",
+			"sha1": "495cc4fa7ea288a56c47507a543fd8e10e57e6d9",
+			"sha256": "521643d765f35da65ab6f4388c5234e066460a6addabc5ddc7e02fd69faf9136"
+		}
+	]
+}

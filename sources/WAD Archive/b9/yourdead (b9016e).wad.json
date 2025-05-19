@@ -1,0 +1,17 @@
+{
+	"uid": "yourdead (b9016e).wad",
+	"name": "yourdead",
+	"description": "This is a big wad and has many monsters but it also has enough health and ammo to beat it. The fights are fair and you have plenty of room to move around.",
+	"version": "b9016e",
+	"date": "2015-01-14 14:55:30",
+	"files": [
+		{
+			"filename": "yourdead.wad",
+			"size": 353454,
+			"crc": 2474742523,
+			"md5": "47e1872bb108c9a7e468c1ab59ea31db",
+			"sha1": "b9016e98e7b85810025407c271e7fb4f6bb139d4",
+			"sha256": "0f2aa2a982519961672ce1c664470ae58c1d89fa1f4b28132c6c5b1793e7a00b"
+		}
+	]
+}

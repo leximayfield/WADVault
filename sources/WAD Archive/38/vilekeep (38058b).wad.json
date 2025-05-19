@@ -1,0 +1,17 @@
+{
+	"uid": "vilekeep (38058b).wad",
+	"name": "The Vile Keep (version 1.7)",
+	"description": "Crossing the sea of flames, you have arrived at the outskirts of a demonic fortress. Along the only approach to the main gate, a small number of peculiar watchtowers stand, and more such structures ward the fortress walls. See below for more information.",
+	"version": "38058b",
+	"date": "2018-04-16 07:59:57",
+	"files": [
+		{
+			"filename": "vilekeep.wad",
+			"size": 675370,
+			"crc": 573186145,
+			"md5": "f3495ed4e9c0f6562f1d7c2baee07e38",
+			"sha1": "38058b3fd6b8b873f08610b3920b49c9b9daaa76",
+			"sha256": "a722fe9cf09b726e4a36409b2f45a8308c6df7f1557f182c3654f7213ea566e7"
+		}
+	]
+}

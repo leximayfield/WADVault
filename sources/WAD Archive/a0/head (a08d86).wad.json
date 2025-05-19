@@ -1,0 +1,17 @@
+{
+	"uid": "head (a08d86).wad",
+	"name": "This is my land,",
+	"description": "This is the first deathmatch level I've done.",
+	"version": "a08d86",
+	"date": "2014-12-15 23:12:08",
+	"files": [
+		{
+			"filename": "head.wad",
+			"size": 11675,
+			"crc": 3878702242,
+			"md5": "a55643df64fd43e8bf21115a0e58f565",
+			"sha1": "a08d8665082f99bf0ac170ef14f858a6e2f4c036",
+			"sha256": "932fababfaeb6c611aed5bb29af37419ad0b3d7b6ef5f99ddf8b6db9654e9595"
+		}
+	]
+}

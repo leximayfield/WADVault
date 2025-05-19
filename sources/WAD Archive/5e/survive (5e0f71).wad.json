@@ -1,0 +1,17 @@
+{
+	"uid": "survive (5e0f71).wad",
+	"name": "Only the strong survive",
+	"description": "Ground up restoration of keeper.wad. Enhanced graphics, tougher battles, more puzzles and more (but not necessarily to many) monsters.",
+	"version": "5e0f71",
+	"date": "2013-11-02 15:22:58",
+	"files": [
+		{
+			"filename": "survive.wad",
+			"size": 230401,
+			"crc": 255621842,
+			"md5": "53ca159e1e5efcb8ae3bae0dfab50d5e",
+			"sha1": "5e0f71479d5cd436c92aea709f1a5939ce50d771",
+			"sha256": "dddd4148df6792736c860e492d914e31ab8cf662d4b00a13053c2d0081353aa1"
+		}
+	]
+}

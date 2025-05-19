@@ -1,0 +1,16 @@
+{
+	"uid": "opredux.wad",
+	"name": "Outpost Redux",
+	"description": "A map I made over a year ago to play with friends via ST coop, there's some new monsters and stuff added, watch out for the kamakazi death cubes!",
+	"date": "2015-01-13 21:52:47",
+	"files": [
+		{
+			"filename": "opredux.wad",
+			"size": 4416503,
+			"crc": 2881412227,
+			"md5": "6bd71a13e610372e3384ef00d6055f37",
+			"sha1": "3da0eecfebc02583860a57ece194683996a0ffa4",
+			"sha256": "3c1e1e4c94276e963bd71614a38f04b42d0e3db316722263b1990e2f18237700"
+		}
+	]
+}

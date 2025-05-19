@@ -1,0 +1,17 @@
+{
+	"uid": "tshck1 (59a4a0).wad",
+	"name": "Theme Shock",
+	"description": "Your mercenary company has been hired by 'the company' to put down a rebellion on a Scientific Colony (specializing in genetic research). After fighting off meager resistance on the surface, you find your way down to the central bunker, location of the plantary shield generator. Turning off this piece of equipment will allow the company's orbital forces to bomb the outpost back into the stone age. According to the schematic, the generator lies in the hub of the level. The controls to get into the hub are in the computer room (SW corner). Unfortunately, intelligence indicates that the computer room is almost certainly locked down behind three blast doors. The controls to open these are scattered across the installation (author's note: if you pull a switch and don't see an immediate effect, you've probably opened one of these doors). Of course this plot is one of those 'Alien vs Predator' scenarios. However, you'll be confronting much more than that nefarious duo here. Terminators, crazed scientists, and various other denizens of action movies abound in this level. Play it and see for yourself.",
+	"version": "59a4a0",
+	"date": "2014-01-07 22:06:19",
+	"files": [
+		{
+			"filename": "tshck1.wad",
+			"size": 104755,
+			"crc": 3535554522,
+			"md5": "ad279d348b151d3ab3c804e3debe8e9b",
+			"sha1": "59a4a0d0f9cee646dba8b2f6e99d5c42d62c5dc1",
+			"sha256": "0c09c2dbde74d78256420c52c8f2b491cbe8ee034a5535a77986fdfbfd1a874b"
+		}
+	]
+}

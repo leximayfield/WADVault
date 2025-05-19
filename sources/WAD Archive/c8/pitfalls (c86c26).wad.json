@@ -1,0 +1,17 @@
+{
+	"uid": "pitfalls (c86c26).wad",
+	"name": "Pitfalls",
+	"description": "A map for plutonia, was cut out of the project Plutonia Revisited. No homages. Have fun!",
+	"version": "c86c26",
+	"date": "2015-01-14 22:59:17",
+	"files": [
+		{
+			"filename": "pitfalls.wad",
+			"size": 238589,
+			"crc": 2557534830,
+			"md5": "f7e57e9f87fb02a95bfbd9c68c94e64e",
+			"sha1": "c86c26f946c992b196329a65d295c482b4e721c5",
+			"sha256": "8fabbdef7f972b01c0a5ada5b494572191e6b5d0036cf0b7bd6970c9bc10a8cc"
+		}
+	]
+}

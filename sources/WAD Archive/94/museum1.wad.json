@@ -1,0 +1,16 @@
+{
+	"uid": "museum1.wad",
+	"name": "Museum I",
+	"description": "Welcome to the first WAD in the museum series. You must search for the exit, while paying particular attention to the exhibits and the guards who are trying to blow your head off. Have a nice day.",
+	"date": "2013-04-19 14:22:27",
+	"files": [
+		{
+			"filename": "museum1.wad",
+			"size": 70177,
+			"crc": 3429324315,
+			"md5": "8092a0a314905d37276ba4530305019c",
+			"sha1": "9428372b64fc546983b1e8a5adf517d59bbf2c8f",
+			"sha256": "b8879eb33a7087f8958beae7100f267c3a36d5c91beb326172ed5580e26c3e6b"
+		}
+	]
+}

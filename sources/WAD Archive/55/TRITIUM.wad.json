@@ -1,0 +1,16 @@
+{
+	"uid": "TRITIUM.wad",
+	"name": "Tritium Refinery",
+	"description": "Two Vanilla-compatible techbase levels for Doom 2. Two new midis by me are included.",
+	"date": "2016-10-17 16:58:26",
+	"files": [
+		{
+			"filename": "TRITIUM.wad",
+			"size": 445995,
+			"crc": 542206570,
+			"md5": "40f69523a771ba5912663fc0cbc3a25c",
+			"sha1": "556b33f5b5ce8a8a022cb72244c9108b640789a6",
+			"sha256": "a0526818ec7f8eb1d1277342108dc8ea0b8132ea636025de4b4a71430585cc84"
+		}
+	]
+}

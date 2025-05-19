@@ -1,0 +1,16 @@
+{
+	"uid": "HELLARNA.wad",
+	"name": "Hell's Arena",
+	"description": "A large outdoor room that over time, gets filled with various monsters. This is not just another arena level with one big gray room and a million medi-kits. There is attention to detail (especially in the first couple of rooms). The ammo is mostly in one large cache and health is limited! The idea of this level was to be a challenge. I can almost guarantee that the first time you play this, the back of your skull will be blown out by a rocket. :)",
+	"date": "2014-12-24 18:49:22",
+	"files": [
+		{
+			"filename": "HELLARNA.wad",
+			"size": 52654,
+			"crc": 1129045578,
+			"md5": "b3426ec005b40ef45d67bb7a98c04468",
+			"sha1": "6510ae7e7fdbbf8b35b92bbbd57467b86aa9f069",
+			"sha256": "9ef1e7cedb6b6748a781c490c28a3fcee192b4ef8fef16bac82e780550148005"
+		}
+	]
+}

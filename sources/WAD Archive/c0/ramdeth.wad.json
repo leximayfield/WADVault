@@ -1,0 +1,16 @@
+{
+	"uid": "ramdeth.wad",
+	"name": "Rambutt's Deathmatch (or Fun For The Whole Family)",
+	"description": "A collection of 3 deathmatch-only levels by me !",
+	"date": "2014-12-15 23:03:51",
+	"files": [
+		{
+			"filename": "ramdeth.wad",
+			"size": 462792,
+			"crc": 3297851271,
+			"md5": "556eeed6468c97ed2cb3d77611134d05",
+			"sha1": "c0d84eee3ccc651ed94397b81faba212008bed7c",
+			"sha256": "1fa97b2ce420310606d7ce5e29002182e1e26a56dfc5737575e720ef36ff07e2"
+		}
+	]
+}

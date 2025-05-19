@@ -1,0 +1,17 @@
+{
+	"uid": "office (6d7c31).wad",
+	"name": "OFFICE.WAD",
+	"description": "You arrive in the lobby and head for the elevator to take you to another day at work, but something very strange is going on.",
+	"version": "6d7c31",
+	"date": "2014-01-11 11:28:39",
+	"files": [
+		{
+			"filename": "office.wad",
+			"size": 120691,
+			"crc": 3994213515,
+			"md5": "685720368d6743c6c6cb5fe62f2336dd",
+			"sha1": "6d7c31c6f84928244a2de1d85f38b8029c180467",
+			"sha256": "818c366d9a971b9a4ac45b145f6358248dc33c30b578d988b03bcbe313c6988f"
+		}
+	]
+}

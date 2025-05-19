@@ -1,0 +1,16 @@
+{
+	"uid": "gate1 (db05f4).wad",
+	"name": "The Gate #1 (Gate1.zip)",
+	"version": "db05f4",
+	"date": "2014-12-03 20:17:28",
+	"files": [
+		{
+			"filename": "gate1.wad",
+			"size": 235639,
+			"crc": 4086695769,
+			"md5": "1188da6570d57fdcc39ffd1c26d77d07",
+			"sha1": "db05f4a785fb57f83ae2611b85349a9f86aa5819",
+			"sha256": "c673c59828cb2d1ac57aab022b8c5e5831274d15b9803f4cfc042c56b0779b94"
+		}
+	]
+}

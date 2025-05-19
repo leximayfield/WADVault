@@ -1,0 +1,17 @@
+{
+	"uid": "RANDOM (8084b6).wad",
+	"name": "Random",
+	"description": "I made this map years ago when I was 16, I hope you guys like it. It is a random mess, hence the name. But it has a lot of different themes and secrets.",
+	"version": "8084b6",
+	"date": "2015-12-29 12:18:25",
+	"files": [
+		{
+			"filename": "RANDOM.wad",
+			"size": 475526,
+			"crc": 2453136970,
+			"md5": "576b86ffd535fb54aa4bf781ed8c46ab",
+			"sha1": "8084b688ddf4656fbfacd8b5b783c9cb4845face",
+			"sha256": "cc701a2283fafebad8ddad4c44872f893126735521fe73c40ffa199e467a280e"
+		}
+	]
+}

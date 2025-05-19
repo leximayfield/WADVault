@@ -1,0 +1,17 @@
+{
+	"uid": "hurt (4043ca).wad",
+	"name": "Hurt",
+	"description": "Hurt is my second ever map. It is a rather huge singleplayer map, that might take up to 1 - 2 hours to complete. It was mainly an exercise in building architecture and getting used to GzDoom Builder, thus please don't expect too much in terms of pre-planned design. The map is quite open, features two completely optional areas and might be a bit cryptic in its progression. It is very moody and features a great track by Artist \"Immorpher\".",
+	"version": "4043ca",
+	"date": "2019-07-04 15:37:48",
+	"files": [
+		{
+			"filename": "hurt.wad",
+			"size": 41450287,
+			"crc": 3951171043,
+			"md5": "8b113c20d71792082e063781d5ea3287",
+			"sha1": "4043ca87477bee9c436ac06432ba4edc400ec0a2",
+			"sha256": "cffb1245550d799177bc28bac816b7cb488010ceaac806e786b953b002c4fa90"
+		}
+	]
+}

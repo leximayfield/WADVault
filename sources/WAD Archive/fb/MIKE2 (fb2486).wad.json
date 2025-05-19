@@ -1,0 +1,17 @@
+{
+	"uid": "MIKE2 (fb2486).wad",
+	"name": "MIKE.WAD",
+	"description": "A small wad I made for other people to build on.",
+	"version": "fb2486",
+	"date": "2014-02-15 16:52:52",
+	"files": [
+		{
+			"filename": "MIKE2.wad",
+			"size": 37021,
+			"crc": 326616107,
+			"md5": "c24e28c42e0124d7ec4a2319b3c8a830",
+			"sha1": "fb2486d8893e989730372464f1a4a39c00dcf32f",
+			"sha256": "bee548ec2a5b1d5e304f14ff961201c90e3805b027e2bd232413c5d3ee2375b3"
+		}
+	]
+}

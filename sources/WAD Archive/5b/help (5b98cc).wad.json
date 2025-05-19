@@ -1,0 +1,17 @@
+{
+	"uid": "help (5b98cc).wad",
+	"name": "Help!",
+	"description": "Hack and slack quicky... in an E1M1, E1M2 and E1M3 levels replacement. Mainly a single player pwad. ....more to come!",
+	"version": "5b98cc",
+	"date": "2014-01-07 21:45:58",
+	"files": [
+		{
+			"filename": "help.wad",
+			"size": 263017,
+			"crc": 3759286094,
+			"md5": "d3ece549bc3facb102c13868edfbb46b",
+			"sha1": "5b98cc4050df79a42986fdffde9fb81ae4de4340",
+			"sha256": "2262e09bf3bd61f47cce9189223210ce47793e0b1524d0e3377fd5a34dfaa41f"
+		}
+	]
+}

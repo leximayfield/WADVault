@@ -1,0 +1,16 @@
+{
+	"uid": "BLUE (70d6cd).wad",
+	"description": "Level one has Revenants on middle BFG lift. Level two has two large rooms with a large pyramid in the middle of each. Teleporters to a symmetrical snipe spot between the two rooms. There is a cyberdemon in each of the two large rooms-added for additional speed of play.",
+	"version": "70d6cd",
+	"date": "2014-12-15 22:41:54",
+	"files": [
+		{
+			"filename": "BLUE.wad",
+			"size": 80450,
+			"crc": 3978889005,
+			"md5": "95e5062915677e45f401eccf6566b8ad",
+			"sha1": "70d6cd37575c12bc213adc10adab5ec194ce8e7c",
+			"sha256": "5dc99e81800a4f700b1b7550ebbbd3f39471cb194d4f1a8e3b45b1ebf31a79b1"
+		}
+	]
+}

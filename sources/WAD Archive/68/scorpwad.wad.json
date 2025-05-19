@@ -1,0 +1,16 @@
+{
+	"uid": "scorpwad.wad",
+	"name": "My second level",
+	"description": "I made it... it's cool... I'm proud.",
+	"date": "2014-12-14 20:59:08",
+	"files": [
+		{
+			"filename": "scorpwad.wad",
+			"size": 144772,
+			"crc": 2211916561,
+			"md5": "1d5eb9ad60283cd0ed3db507109bda1c",
+			"sha1": "68d3699ede8e7acc83957c15dce7c234f469bc39",
+			"sha256": "74b2c88729f2a405714cd0b6d564d4c84aac1b48bbf22b3646479b0576913c77"
+		}
+	]
+}

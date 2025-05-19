@@ -1,0 +1,16 @@
+{
+	"uid": "modgib.wad",
+	"name": "MasterOFDeaths GIBS!",
+	"description": "Adds gibs to the exploding frames of the lesser monsters",
+	"date": "2014-12-11 22:09:26",
+	"files": [
+		{
+			"filename": "modgib.wad",
+			"size": 15269,
+			"crc": 3541447701,
+			"md5": "6e467d0b3dd2a28677a998ac0c4cb570",
+			"sha1": "d13ffde0b9bac4ecc303d8e75f791ef4fa708f78",
+			"sha256": "68808b6335155c5457bc2af54ecf05b1d375db95109359de78143f0e748502b4"
+		}
+	]
+}

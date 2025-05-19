@@ -1,0 +1,16 @@
+{
+	"uid": "match (50e2ef).wad",
+	"name": "TheMATCH",
+	"version": "50e2ef",
+	"date": "2013-11-04 19:20:46",
+	"files": [
+		{
+			"filename": "match.wad",
+			"size": 103489,
+			"crc": 1470368559,
+			"md5": "b6cb7a0a5bc8d63ade9a42498eaf8bfd",
+			"sha1": "50e2ef41feaf42aa2dde79bea5c7a75539ce2a9f",
+			"sha256": "e14b15c399d9b379e8f6dc795be9786d3809d5f90c694508c11976c2c9f93324"
+		}
+	]
+}

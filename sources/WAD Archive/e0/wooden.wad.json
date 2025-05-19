@@ -1,0 +1,16 @@
+{
+	"uid": "wooden.wad",
+	"name": "WOODEN.WAD",
+	"description": "a wooden wad",
+	"date": "2014-12-15 21:29:19",
+	"files": [
+		{
+			"filename": "wooden.wad",
+			"size": 81246,
+			"crc": 2463023952,
+			"md5": "771a34bf29b14e94a5ab248dc2be4cbf",
+			"sha1": "e0343ace00cb2ce646f82e3b65cdf28eec80ca81",
+			"sha256": "12e1ee6db0c313d0891400584f7460d731f6b2959700ed390a48cba393e7ea1e"
+		}
+	]
+}

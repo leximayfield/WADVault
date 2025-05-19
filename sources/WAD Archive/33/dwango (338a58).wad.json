@@ -1,0 +1,17 @@
+{
+	"uid": "dwango (338a58).wad",
+	"name": "The Official DWANGO PWAD",
+	"description": "This is how a PWAD should be. It was written for DWANGO. DWANGO is a service run by IVS, where you can dial up, and play DEATHMATCH/COOP games via modem. It allows four player deathmatch games, and chat areas, so you can get to know your fellow DOOMERS!!! The BBS number to get the DWANGO software is (713)467-9272.",
+	"version": "338a58",
+	"date": "2013-11-04 19:22:26",
+	"files": [
+		{
+			"filename": "dwango.wad",
+			"size": 94405,
+			"crc": 3092793059,
+			"md5": "cc15b2be668a33d0755a91485669645e",
+			"sha1": "338a58eaf92a77f8600479e8483fc0a938837a49",
+			"sha256": "cef76abb0bf30b880fff8896eab859302e62c6b54bca81cc5b76df57a708811f"
+		}
+	]
+}

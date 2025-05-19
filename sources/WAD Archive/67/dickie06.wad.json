@@ -1,0 +1,16 @@
+{
+	"uid": "dickie06.wad",
+	"name": "dickie06.WAD, issue 1 (Hell Henge)",
+	"description": "This wad is 388kb when unzipped, due to the extra graphics & music.",
+	"date": "2014-12-18 23:06:56",
+	"files": [
+		{
+			"filename": "dickie06.wad",
+			"size": 396756,
+			"crc": 1956245669,
+			"md5": "4aab28d708efe5fb15ca5b774a617d63",
+			"sha1": "6739f0691fb780ccee7834edceefb357f3db5aa0",
+			"sha256": "f6d57b25ffca9c2b529698150397790fc3dc04af8e3d5104acb5cd18d627ad97"
+		}
+	]
+}

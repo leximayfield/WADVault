@@ -1,0 +1,16 @@
+{
+	"uid": "PIT1.wad",
+	"name": "PIT1.WAD",
+	"description": "This is my first pwad ever. This level was designed to be used as a Deathmatch level for Doom2. There are no monsters. Sorry, but there is no BFG! Be careful not to fall into the pits!",
+	"date": "2014-10-14 21:16:53",
+	"files": [
+		{
+			"filename": "PIT1.wad",
+			"size": 12194,
+			"crc": 1369616483,
+			"md5": "24ff2c6273c689cb4646c22ef91e7b8b",
+			"sha1": "a0e1cbcea0d42eedbca801fa5f99e9ace1761d71",
+			"sha256": "1bfa671bf8dad83001994988172e04739048fdea3ed151cc724b596c708452ba"
+		}
+	]
+}

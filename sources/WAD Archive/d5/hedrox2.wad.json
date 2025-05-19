@@ -1,0 +1,16 @@
+{
+	"uid": "hedrox2.wad",
+	"name": "HeDRoX 2",
+	"description": "The sequel to Hedrox, this time bigger and more challenging.",
+	"date": "2014-12-22 18:33:19",
+	"files": [
+		{
+			"filename": "hedrox2.wad",
+			"size": 17138397,
+			"crc": 1258888947,
+			"md5": "42f53d6a512ed8757aa3e59b3e6b463b",
+			"sha1": "d597b42d757d2a00533f62f025f5d7c3b3566dff",
+			"sha256": "2cf2081fd0630de4266afdd2d0b0ade4a8d5891b9b4bae8c1b5b885c6d260c07"
+		}
+	]
+}

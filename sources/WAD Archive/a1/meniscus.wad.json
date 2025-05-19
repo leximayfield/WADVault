@@ -1,0 +1,16 @@
+{
+	"uid": "meniscus.wad",
+	"name": "CASTLE MENISCUS",
+	"description": "\"Vikings\" early next year, both by major : game companies. The Cosmonaut, and the Zuzuzombie for many : enjoyable Deathmatches... * Thanks to the fine people who wrote the DETH : Editor, which was used exclusively to make this : level (as well as all of my other levels)... * Thanks to id for finally bringing a game to the : world that doesn't get boring after 5 minutes... * Years ago I DM'd an AD&D (TM, etc.) game; the : Castle Meniscus was one of many castles in the : world of Cereberus; if response to this level is : good, there may be sequels based on some others. * This game was designed primarily as a Single- : Player game, although it is perfectly capable of : DEATHMATCH. It may also make a good Cooperative if : you play on higher skill levels... * Your goal (aside from survival) is to get 100% : of the Secrets. All hidden doors are marked, but : some may be VERY subtle, so look closely... * If you play this several times you will recognize : that if you go through certain rooms in a certain : order, your chances of survival will be much better. : Beginners may find this one difficult, but I can : can complete it on Ultra-Violence without dying or : cheating, so its not too bad. * This is a BIG level, so you may need some horse- : power to run it smoothly... my deathmatch mates : recommend at LEAST a DX2-66 w/ 16+ MB of RAM... : and a good Video card... I personally would : recommend at a Pentium; it was built w/ a P-60, : Stealth 64 2MB VRAM, and 24MB of RAM...",
+	"date": "2015-09-15 17:27:26",
+	"files": [
+		{
+			"filename": "meniscus.wad",
+			"size": 329739,
+			"crc": 1931137164,
+			"md5": "d121c7bb7555b1a242369429e315df99",
+			"sha1": "a1fc6f382f0733f37483ca3ea3e31c0efef76b1f",
+			"sha256": "edc975a2742f457012615c5bec76153547aa8cd1ea98faf60ea5a481b2bcb226"
+		}
+	]
+}

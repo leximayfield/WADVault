@@ -1,0 +1,16 @@
+{
+	"uid": "gib.wad",
+	"name": "gib",
+	"description": "Quake-inspired spraying gibs mod.",
+	"date": "2018-04-16 07:51:20",
+	"files": [
+		{
+			"filename": "gib.wad",
+			"size": 11014,
+			"crc": 4091379845,
+			"md5": "d7e28aac314f432a8a8e5144e7a3d797",
+			"sha1": "82c8e884a99bfff62cbec3d1f54195bbb4979c3b",
+			"sha256": "79106b76f4672a00a5d8aff0f550154b0e6d291a4627612557d073e7163dcd2e"
+		}
+	]
+}

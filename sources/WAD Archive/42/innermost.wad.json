@@ -1,0 +1,16 @@
+{
+	"uid": "innermost.wad",
+	"name": "Innermost",
+	"description": "Single map set in a marble citadel. The gimmick here is that all the monsters are spectral.",
+	"date": "2019-03-06 21:56:49",
+	"files": [
+		{
+			"filename": "innermost.wad",
+			"size": 2211914,
+			"crc": 1692973161,
+			"md5": "2cd19789a420f3451eb714662e40c594",
+			"sha1": "420b92539001bbd62b88e67c56e37a5ed2d76300",
+			"sha256": "990e5badd384d8ed97a38ec51790c7bf2704c734250365b2c75b1df079baacf2"
+		}
+	]
+}

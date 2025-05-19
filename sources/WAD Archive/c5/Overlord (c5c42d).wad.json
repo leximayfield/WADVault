@@ -1,0 +1,17 @@
+{
+	"uid": "Overlord (c5c42d).wad",
+	"name": "THE OVERLORD",
+	"description": "Fairly big level, with two main areas...a small town, and a castle across the sea. The main 'feature' is the Overlord (a cyberdemon) and his generals (four revenants) that watch over the town. They shoot at you from the safety of their castle. Easy to dodge their missiles, but don't stand in one place too long.",
+	"version": "c5c42d",
+	"date": "2014-01-07 22:07:59",
+	"files": [
+		{
+			"filename": "Overlord.wad",
+			"size": 270642,
+			"crc": 3159579904,
+			"md5": "fa6f7f2de12ceff008485b5465b8b706",
+			"sha1": "c5c42dbe3c62aae0429824ba8ac769e04541e690",
+			"sha256": "b4fe299130fca093963ee8104beb288d46ee9533f7eb561165437a65d504caed"
+		}
+	]
+}

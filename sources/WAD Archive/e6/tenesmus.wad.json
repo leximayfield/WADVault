@@ -1,0 +1,16 @@
+{
+	"uid": "tenesmus.wad",
+	"name": "Fortress Tenesmus",
+	"description": "Keep 'em clenched. Also available STEVIE_1.ZIP aka \"Epididymus\"",
+	"date": "2013-11-03 17:47:24",
+	"files": [
+		{
+			"filename": "tenesmus.wad",
+			"size": 242392,
+			"crc": 1741182374,
+			"md5": "61b4e58488c5ab55ac9d4dcc0419d658",
+			"sha1": "e6fd70f1de8ff1e5532249e50ef96c43ec3e3ed9",
+			"sha256": "af85a867a53b71ceeb6fa8184a3631cecdcb9182973e84ce96cf356af8b61ff3"
+		}
+	]
+}

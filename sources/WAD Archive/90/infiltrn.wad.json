@@ -1,0 +1,16 @@
+{
+	"uid": "infiltrn.wad",
+	"name": "Infiltration",
+	"description": "Infiltrate a base and set the self-destruct!",
+	"date": "2014-12-18 22:43:37",
+	"files": [
+		{
+			"filename": "infiltrn.wad",
+			"size": 129217,
+			"crc": 1619261963,
+			"md5": "0dbbc681f589a405c409fe3992d7746e",
+			"sha1": "90940c0e38223b8dca01c134c82b3d3404661553",
+			"sha256": "ec545a4a9ef4b476de2b5721f6f3ae2082f1abedbc34591c8f2f393e67ba3ba8"
+		}
+	]
+}

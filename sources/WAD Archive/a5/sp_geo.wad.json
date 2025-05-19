@@ -1,0 +1,16 @@
+{
+	"uid": "sp_geo.wad",
+	"name": "Geo - Part I (v1.05)",
+	"description": "Two maps, one of which I made in about a week, and another which took about two years to actually finish (I rarely worked on it). both of the maps generally have a gothic/quakeish theme.",
+	"date": "2015-01-14 14:49:32",
+	"files": [
+		{
+			"filename": "sp_geo.wad",
+			"size": 10883265,
+			"crc": 2856990972,
+			"md5": "15608faf6f1e51009449fcb48db3e250",
+			"sha1": "a5b51f6714e77cb7a38c6f798f9a1cf334a4be7a",
+			"sha256": "ea6a4fceb7720f3b247b5241dcf562516cd4db3145699602d6d1dbb6fd1f7ca0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "deathlessfinal (99eb41).wad",
+	"name": "Deathless",
+	"description": "A speedily-done Ultimate Doom megawad. The 27 layouts for the three new episodes were first blocked out starting midnight 1st Nov. The 27th map was thingplaced and balanced at about midnight on 10th Nov, so the total build time for this is 9 days. A number of days after release were spent on finding bugs and balancing the maps for single and co-op play.",
+	"version": "99eb41",
+	"date": "2019-03-06 21:31:42",
+	"files": [
+		{
+			"filename": "deathlessfinal.wad",
+			"size": 5240747,
+			"crc": 1530206177,
+			"md5": "779e10eb431707a6977b488b2fcd976d",
+			"sha1": "99eb41ea7a43d52d4d7ef0044dab00886a47a2fc",
+			"sha256": "5aad1f05356beb0119caa408b0a9381987bae0f20097efe3f50904f5bbfdb097"
+		}
+	]
+}

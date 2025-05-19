@@ -1,0 +1,16 @@
+{
+	"uid": "bac01.wad",
+	"name": "BaC: Ship Of Fools",
+	"description": "Primarily a deathmatch. We tried to keep it as in-theme as possible. It takes place in the engine room and bridge of a starship. Complete with a working airlock!",
+	"date": "2013-11-06 22:39:18",
+	"files": [
+		{
+			"filename": "bac01.wad",
+			"size": 108300,
+			"crc": 4034505347,
+			"md5": "7966b43ee83f8cee7fb4dd64bab61ef6",
+			"sha1": "ad8674385db1bfd789c6dda76d887dfb5d46c339",
+			"sha256": "21659d71a48c9b8df735e6850d5a3ca232f055a5bad6001bf3e54dd202a14f30"
+		}
+	]
+}

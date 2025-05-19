@@ -1,0 +1,17 @@
+{
+	"uid": "swmusfx4 (5ca430).wad",
+	"name": "Star Wars Music and Sound Effects PWAD",
+	"description": "For those who have used swmusfx2 or swmusfx3, this contains some new sounds that correspond to the various graphics patches that have been released. For the Imperial Guard graphics replacements, I had trouble finding sounds so I just inserted a blank VOC. ;) They don't strike me as the type to say much anyway. ;) I also took some of the music from Tie Fighter (Thanks for the help with that Force!) and replaced 10 levels with music from the game. Anyway, I hope you enjoy the new sounds and music!",
+	"version": "5ca430",
+	"date": "2014-01-04 11:55:56",
+	"files": [
+		{
+			"filename": "swmusfx4.wad",
+			"size": 1554052,
+			"crc": 3942875536,
+			"md5": "081628d8d6a58876287f5caf215e03f5",
+			"sha1": "5ca4306bc6020de0edfdc456c4303eaa5fbd0c44",
+			"sha256": "cde9d04c5d9a8ecf4edb3add16eb76defd30b90205d1d98e244915047a69e534"
+		}
+	]
+}

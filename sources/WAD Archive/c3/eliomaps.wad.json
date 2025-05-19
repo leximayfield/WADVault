@@ -1,0 +1,16 @@
+{
+	"uid": "eliomaps.wad",
+	"name": "Elio's Maps",
+	"description": "These are 2 maps from my wad \"Maps of Evil\", so you might as well call it a sneak peek.",
+	"date": "2019-06-28 15:31:17",
+	"files": [
+		{
+			"filename": "eliomaps.wad",
+			"size": 1222743,
+			"crc": 2130793696,
+			"md5": "4c029a7b9a2f245a6329c974351d3f1c",
+			"sha1": "c36863362974a89463f613acc84e2acfb9f33cf2",
+			"sha256": "60382f10af7ff9d9b556b36219c46ec5c8d458c83a52b4b552073ff7de0eec4d"
+		}
+	]
+}

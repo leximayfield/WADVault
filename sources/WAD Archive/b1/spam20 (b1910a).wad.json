@@ -1,0 +1,17 @@
+{
+	"uid": "spam20 (b1910a).wad",
+	"name": "SPAM20",
+	"description": "SPAM v. 2.0!!! I fixed some problems that I had with the original SPAM, and I added some new stuff. Look below to find out all the changes.",
+	"version": "b1910a",
+	"date": "2015-01-14 14:50:36",
+	"files": [
+		{
+			"filename": "spam20.wad",
+			"size": 1451396,
+			"crc": 4100511701,
+			"md5": "289308a22d13e30e20265da6975c5a6c",
+			"sha1": "b1910a6268813d8383e3d64c179e48822e0f160f",
+			"sha256": "5ece7fd62a14aedc26830b12bbe45a54041c2c0cc562f03fd8734972aec1b42a"
+		}
+	]
+}

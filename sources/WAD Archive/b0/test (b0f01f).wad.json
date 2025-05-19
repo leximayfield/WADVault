@@ -1,0 +1,17 @@
+{
+	"uid": "test (b0f01f).wad",
+	"name": "Hell Revealed II",
+	"description": "The long-awaited sequel to Yonatan Donner & Haggay Niv's \"Hell Revealed\".",
+	"version": "b0f01f",
+	"date": "2013-04-19 17:11:29",
+	"files": [
+		{
+			"filename": "test.wad",
+			"size": 6588096,
+			"crc": 3316790516,
+			"md5": "dad338e1968aea4df05d465e864d78f3",
+			"sha1": "b0f01f03847b22d046aea2c2367be95b30998627",
+			"sha256": "e0ef0403d3f7eedbd4ac0ab97b2d3086920805140db4f7b18a3a398fa91ab1a3"
+		}
+	]
+}

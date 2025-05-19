@@ -1,0 +1,17 @@
+{
+	"uid": "puppy (9217c8).wad",
+	"name": "Puppy",
+	"description": "My dog, he craps when he dies...then vanishes.",
+	"version": "9217c8",
+	"date": "2014-12-15 21:38:04",
+	"files": [
+		{
+			"filename": "puppy.wad",
+			"size": 500800,
+			"crc": 81993606,
+			"md5": "20aeb07d4057b5229bcafd79bf6de2c3",
+			"sha1": "9217c8f7dcdf00b9f4c57e8597fc1ad52c402790",
+			"sha256": "0a5b692a29f970b45a2f298757b52f0a034bd06ad251f01b550448f2022aa9bc"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom: Knee-Deep in the Dead (v1.2 NeXTSTEP)",
+	"name": "Doom: Knee-Deep in the Dead",
+	"description": "Exclusive release for NeXTSTEP computers",
+	"version": "v1.2 NeXTSTEP",
+	"files": [
+		{
+			"filename": "DOOM1.WAD",
+			"date": "1994-02-04",
+			"size": 4260146,
+			"crc": "023c2f84",
+			"md5": "2a380f28e813fb0989cae5e4762ebb4c",
+			"sha1": "eaa66abb5e0b9c22f2f314b6599dcee871f57ed7"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "DISNEY (0ff729).wad",
+	"name": "DISNEY.WAD (Version 1.01) Dalmatians",
+	"description": "This is a sound patch for DOOM which will replace about 95% of the sounds in the game with amusing phrases and sounds from a couple Disney films. You will probably use this wad a lot, especially since it is one of the best Disney sound wads available to date. This sound collection is big. Yup, that's right, a whole 1.4 Megs. Got a problem? Well, too bad. What you are getting is state of the art, 8 bit 11khz digitized speech and sound from one of the second best animation companies in the world. (Not directly, of course.) Please e-mail us with your comments and suggestions. First one to do so wins a genuine Mickey Mouse (TM) Watch, courtesy of the Disney Store. (Or a guy on the corner of Lexington and Fifth) (Restrictions apply. See below for details.)",
+	"version": "0ff729",
+	"date": "2014-01-11 11:33:47",
+	"files": [
+		{
+			"filename": "DISNEY.wad",
+			"size": 1422626,
+			"crc": 4174228709,
+			"md5": "c67bb977a87e40c52368f95c68152a82",
+			"sha1": "0ff729cf2782d669e4764ddc078bb9806d9a95cf",
+			"sha256": "7ac5efdc17107bf58e55884e45d10f08319b6562c479850000d3aa6d09294fe1"
+		}
+	]
+}

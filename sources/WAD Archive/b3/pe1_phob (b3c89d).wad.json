@@ -1,0 +1,17 @@
+{
+	"uid": "pe1_phob (b3c89d).wad",
+	"name": "Simply Phobos (24 February 2010)",
+	"description": "Simply Phobos is an Episode 1 replacement for Doom. This is an upgrade that fixes a few bugs from the original release and has improved music.",
+	"version": "b3c89d",
+	"date": "2013-07-31 21:12:00",
+	"files": [
+		{
+			"filename": "pe1_phob.wad",
+			"size": 2280263,
+			"crc": 3267820244,
+			"md5": "03527c31bc4985659e3b5b201dc13393",
+			"sha1": "b3c89da8327121f1ad2d7ea532a6feebfbf145e7",
+			"sha256": "825fd406e8660c6280651a11dd6b67eceba8ace2d80310ecccae42fb1e170715"
+		}
+	]
+}

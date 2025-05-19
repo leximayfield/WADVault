@@ -1,0 +1,16 @@
+{
+	"uid": "dwangopack_alpha.wad",
+	"name": "Dwangopack alpha",
+	"description": "All maps of dwango 1-12 in a single wad! Ideal for DeathMatch servers 2-8 players with random map rotation",
+	"date": "2013-12-01 13:13:09",
+	"files": [
+		{
+			"filename": "dwangopack_alpha.wad",
+			"size": 18201787,
+			"crc": 4130255263,
+			"md5": "ec9939bc655c89975647e01c2a05c506",
+			"sha1": "1db5add5fb1d01874634bd5ac3a645b92b507025",
+			"sha256": "44ccb2a58a07045e257e2f8cc629b5040827852074c46f45a281b706a38609a9"
+		}
+	]
+}

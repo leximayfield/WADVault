@@ -1,0 +1,17 @@
+{
+	"uid": "TNT (536d7c).wad",
+	"name": "TNT (expletive)",
+	"description": "Pretty large level with a few hard to find secrets. Try to find them without using an editor! Had fun creating it. Have fun trying for 100% everything. Can be done once you know the level well. Tip. Go behind each door you find.",
+	"version": "536d7c",
+	"date": "2014-02-15 17:05:26",
+	"files": [
+		{
+			"filename": "TNT.wad",
+			"size": 125399,
+			"crc": 567410494,
+			"md5": "8e0f231f607354d59f4dd001e38ea70a",
+			"sha1": "536d7cf004f8d9fdda6fbf4fe9a65d5a7dc9644f",
+			"sha256": "fccc1a32185dc969a2e707e8c640f6141305dc606136826be749071f0ff4ebb0"
+		}
+	]
+}

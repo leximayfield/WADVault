@@ -1,0 +1,17 @@
+{
+	"uid": "square (75a70c).wad",
+	"name": "Square",
+	"description": "A small, fast and furius SP-map, with a lot of Big Ones!",
+	"version": "75a70c",
+	"date": "2015-01-14 14:44:51",
+	"files": [
+		{
+			"filename": "square.wad",
+			"size": 34690,
+			"crc": 3691962795,
+			"md5": "858e35536a6ba33d68cbc4a9e1283273",
+			"sha1": "75a70c939e35a8a9c9b3b135a0e6081ca1380f28",
+			"sha256": "376c57a4ba11a3f6738b9cce9fbf067d183bb67f34865b4366ec988a215b40bd"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "scraper1.wad",
+	"name": "Scraper1.WAD",
+	"description": "Big city downtown setting with access to a modern day skyscraper.",
+	"date": "2014-12-15 22:26:27",
+	"files": [
+		{
+			"filename": "scraper1.wad",
+			"size": 57906,
+			"crc": 3565228562,
+			"md5": "7c6c87766aab7cc071d44f0b97702881",
+			"sha1": "83eca75e4affabff88dd3ea280566f75a1a12f49",
+			"sha256": "b80b91fd88f96078a7d2d9efcfc1e7e16aedeb0ca42c854bddf57c055ea58d8f"
+		}
+	]
+}

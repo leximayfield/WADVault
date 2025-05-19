@@ -1,0 +1,17 @@
+{
+	"uid": "teeth (97c33c).wad",
+	"name": "Teeth of the Storm",
+	"description": "Teeth is a single doom2 level for EDGE 1.27.",
+	"version": "97c33c",
+	"date": "2014-12-29 17:05:48",
+	"files": [
+		{
+			"filename": "teeth.wad",
+			"size": 938215,
+			"crc": 2446366664,
+			"md5": "803b1e8e1d1ce6975a00947a57ac62c4",
+			"sha1": "97c33c8cd945ffe79cdce1993dad93ccbcd052f6",
+			"sha256": "fd2ff2010e74749e1f25a1bfbc4ab63297fa730a736349ab4ab13efe477b3e03"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "EXPLORE (6ef065).wad",
+	"name": "Exploring the Lost",
+	"description": "Dark, wide open, and enemies just wanting to eat your flesh with a toothpick (if they had one)",
+	"version": "6ef065",
+	"date": "2013-11-02 15:41:58",
+	"files": [
+		{
+			"filename": "EXPLORE.wad",
+			"size": 148403,
+			"crc": 771647279,
+			"md5": "4ef0d8b9c7d498a561a3fd6c694b00aa",
+			"sha1": "6ef065106b439399d6d485beb84bc187a429434f",
+			"sha256": "ef60928713fbc0c54ca41f514b596bb72f0299ce93a0d657b30c3e53d67de8c9"
+		}
+	]
+}

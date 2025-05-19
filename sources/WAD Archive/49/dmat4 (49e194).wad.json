@@ -1,0 +1,17 @@
+{
+	"uid": "dmat4 (49e194).wad",
+	"name": "DMAT4.WAD",
+	"description": "Dmat 4, for those looking to build up major frags in righteous deathmatch ! Custom made for deathmatch..actually not set up for anything else. Small and central, for maximum speed and findage of your opponent. 'Course first ya gotta kill the baddies.",
+	"version": "49e194",
+	"date": "2013-11-02 16:54:59",
+	"files": [
+		{
+			"filename": "dmat4.wad",
+			"size": 45587,
+			"crc": 441768951,
+			"md5": "a9adc8d3856aabee0768644c1b239ff0",
+			"sha1": "49e1942ef928bce625510cc879c9ac17fb69f61d",
+			"sha256": "640ad8f5795d8bdd6a0f82c353da8189285f33e651fbd64e4739f64a91cea818"
+		}
+	]
+}

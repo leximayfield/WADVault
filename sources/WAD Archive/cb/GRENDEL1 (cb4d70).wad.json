@@ -1,0 +1,17 @@
+{
+	"uid": "GRENDEL1 (cb4d70).wad",
+	"name": "Assault Drop",
+	"description": "This is a fairly large level, most of which is \"indoors\". It's mostly fairly conventional, but there are a few fun little twists. One planned \"scenery\" feature - planetary defense missiles in one of the rooms - didn't make it in because of the DOOM! engine's linedef limit HOM bug. This feature may be added back in after the release of DOOM! version 1.666, the final DOOM! version.",
+	"version": "cb4d70",
+	"date": "2014-10-20 18:18:08",
+	"files": [
+		{
+			"filename": "GRENDEL1.wad",
+			"size": 258741,
+			"crc": 3081063136,
+			"md5": "b53e15295e01cf8673e1d9c3079370b1",
+			"sha1": "cb4d7008029c9b019126b02e483c8105b265d6ac",
+			"sha256": "5906cf85e543d6aefc8fdc552ae41469137fc643fcc3e65e8cd7d12b145ba76f"
+		}
+	]
+}

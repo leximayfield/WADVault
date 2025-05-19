@@ -1,0 +1,17 @@
+{
+	"uid": "maze1 (f57fec).wad",
+	"name": "AMAZE1.WAD",
+	"description": "This started out as an experiment in learning DEU, and just grew into this .WAD file. It's got a little of everything a new DEU user would need to spend time figuring out, different doors, wall textures, steps, lifts and more. It's meant to replace Episode 1, Map 1, so there ain't no Cacodemons, rocket launchers or instant death traps, if you're into that stuff you'll need to wait for my next effort... ;)",
+	"version": "f57fec",
+	"date": "2013-11-02 15:36:44",
+	"files": [
+		{
+			"filename": "maze1.wad",
+			"size": 64264,
+			"crc": 2175334869,
+			"md5": "226773391fe31d7af4f373b32f6b63f6",
+			"sha1": "f57fec65c53762fd49e9bc402a7d472c55bffdfe",
+			"sha256": "32ff0a4ea9415f6299f30cab3168ab438029dcebcd2abfd63de6cb82130bddd1"
+		}
+	]
+}

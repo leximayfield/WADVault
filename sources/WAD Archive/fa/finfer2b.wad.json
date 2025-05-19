@@ -1,0 +1,16 @@
+{
+	"uid": "finfer2b.wad",
+	"name": "Infernal Fortress 2.1",
+	"description": "A remake of a remake, this is and upgraded version of my old map Infernal Fortress 2 (released as \"Finfer2\"), adapted from zdoom to boom format.",
+	"date": "2015-09-15 18:13:30",
+	"files": [
+		{
+			"filename": "finfer2b.wad",
+			"size": 7523394,
+			"crc": 3283890314,
+			"md5": "9a67ef5f5645597848c7a58ff5134a0c",
+			"sha1": "fa2ef6b2e5a213ccac9ffa811cb3841a6060d59e",
+			"sha256": "59639703e4143125f1e6fa8a89b3cce3e036b19593096f38f044ca15beabce31"
+		}
+	]
+}

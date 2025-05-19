@@ -1,0 +1,16 @@
+{
+	"uid": "tyard.wad",
+	"name": "The Yard",
+	"description": "A level based loosly on level 7. No sissy weapons, only big boys need apply.",
+	"date": "2014-01-07 21:51:33",
+	"files": [
+		{
+			"filename": "tyard.wad",
+			"size": 25845,
+			"crc": 470417022,
+			"md5": "0c2e8c1d6ca0d7356dfe8c9978dc7261",
+			"sha1": "9baf217f21e3747047bb54f76e5b496324ba4a3a",
+			"sha256": "a7180fb96c014bd1275288ac171fa3271ec89ab7087e0f1d1a29938ad3864372"
+		}
+	]
+}

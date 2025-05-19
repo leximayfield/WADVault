@@ -1,0 +1,17 @@
+{
+	"uid": "dwspd002 (1781fa).wad",
+	"name": "Doomworld Speedmapping Compilation #2",
+	"description": "This is a compilation of the WADs entered in : Doomworld's second speedmapping exercise. : Participants were given 100 minutes to create a : Doom 2 level on a certain theme. This week's : theme was to build a map without using a grid. : Some of the maps pretty obviously use a grid, : but whatever.",
+	"version": "1781fa",
+	"date": "2014-12-22 18:49:16",
+	"files": [
+		{
+			"filename": "dwspd002.wad",
+			"size": 1531760,
+			"crc": 2017291875,
+			"md5": "45da7b511da6b83e3d148f7d3f81e538",
+			"sha1": "1781fa87efe1a8e84e6142d99a95e0143569f173",
+			"sha256": "968dce1348a712447954a3a6810745a42159ddcfea265e25c237ead5dfc5c10b"
+		}
+	]
+}

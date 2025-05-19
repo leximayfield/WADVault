@@ -1,0 +1,17 @@
+{
+	"uid": "barracks (b527eb).wad",
+	"name": "Barracks",
+	"description": "A deathmatch buidling surrounded by large castle walls. Lot's of windows, and funny frags. Also, there is a cool secret, it's the only one, but it's easy to keep everybody else out..with the goggles, you are the only one that can see!",
+	"version": "b527eb",
+	"date": "2014-12-15 22:30:50",
+	"files": [
+		{
+			"filename": "barracks.wad",
+			"size": 436632,
+			"crc": 1939009531,
+			"md5": "6573ad492aedf968d67674ef218e009f",
+			"sha1": "b527eb8be3889b8a94ea470796b9a3427ce9a1ed",
+			"sha256": "ffa2e0e64ec5150d22197e3a3366e2d28689bff6761bba1dc5b100b274dd961b"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "library (2f2aa4).wad",
+	"name": "library.WAD",
+	"description": "no time to read a book now.",
+	"version": "2f2aa4",
+	"date": "2014-12-27 12:26:27",
+	"files": [
+		{
+			"filename": "library.wad",
+			"size": 273374,
+			"crc": 2296321961,
+			"md5": "10031592a28321f8587330cea21aa0dc",
+			"sha1": "2f2aa4e030bf2d6b8b49feeb0e09f0df517ff5eb",
+			"sha256": "830f25a42f2a01f31ea24aae837696690f939d30cb7dff7de05e605a90114cf5"
+		}
+	]
+}

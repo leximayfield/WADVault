@@ -1,0 +1,16 @@
+{
+	"uid": "shitdm.wad",
+	"name": "Another Shitty Deathmatch map",
+	"description": "As i have been playing doom deathmatch recently on my dialup thought i should make a deathmatch map myself also . Here are the fruits of my labour",
+	"date": "2016-08-12 20:57:39",
+	"files": [
+		{
+			"filename": "shitdm.wad",
+			"size": 44507,
+			"crc": 3718629198,
+			"md5": "db6ab81e9426a34f468a343eb6604e32",
+			"sha1": "b9383a49038c943c4d7ae22ad5521eee7a89e40d",
+			"sha256": "4432ac86af0b686f24ee89f3dfd9c09144d9c4f9b11522b4149af2008caae1d7"
+		}
+	]
+}

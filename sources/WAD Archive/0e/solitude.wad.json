@@ -1,0 +1,16 @@
+{
+	"uid": "solitude.wad",
+	"name": "Solitude",
+	"description": "A Containment Area-inspired level with an oldschool style that combines the original level's music and abundance of crates with a few surprises of its own. This is one of the first maps I ever completed and what I consider to be the first time I truly \"got\" what it took to make a non-linear map with elements of exploration and branching paths.",
+	"date": "2014-12-14 21:06:07",
+	"files": [
+		{
+			"filename": "solitude.wad",
+			"size": 135396,
+			"crc": 22928409,
+			"md5": "dec947ff042b56afad7adefe4df87541",
+			"sha1": "0ed4aa76c5a29278d833555c6f63d1c26da34be2",
+			"sha256": "19908db11717be28a070c424f5ff26545dfb21fb7204d932a1ec306b48387c13"
+		}
+	]
+}

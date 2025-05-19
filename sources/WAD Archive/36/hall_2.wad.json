@@ -1,0 +1,16 @@
+{
+	"uid": "hall_2.wad",
+	"name": "Just Some Levels",
+	"description": "Level 1:good deathmatch level, lots of teleporters. plenty of enemies.",
+	"date": "2015-01-14 23:03:23",
+	"files": [
+		{
+			"filename": "hall_2.wad",
+			"size": 199573,
+			"crc": 441185697,
+			"md5": "830d60f1ba00921b41babf39875ca8c5",
+			"sha1": "366a6b949170fafacdf4c4eabf26eb8bb45575e9",
+			"sha256": "faac62ad3ce8da8b807609b0ec9e78ef7e72f0d12bb0966f364ec8eb2cc92ab8"
+		}
+	]
+}

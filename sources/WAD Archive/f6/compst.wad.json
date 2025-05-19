@@ -1,0 +1,16 @@
+{
+	"uid": "compst.wad",
+	"name": "Toxic Computing",
+	"description": "This is a map I made to try an old school style of detailing. It means that the geometry creates the \"beauty\". I modified nothing in the MAPINFO (map name, music, nojump, etc...). Simplicity.",
+	"date": "2018-09-30 20:29:22",
+	"files": [
+		{
+			"filename": "compst.wad",
+			"size": 78082,
+			"crc": 3731362138,
+			"md5": "32d2c01bba2308a11baea2f0f0abe16a",
+			"sha1": "f69b591af1aefeaee34112b0ce03596ba0575e70",
+			"sha256": "3d5e2e4b944ba45e079a84c338dbc5e48c8741fbd59a1ffb5985c8640ccf902d"
+		}
+	]
+}

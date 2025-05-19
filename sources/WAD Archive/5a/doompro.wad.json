@@ -1,0 +1,16 @@
+{
+	"uid": "doompro.wad",
+	"name": "Doompro",
+	"description": "1 on 1 Deathmatch level with a frag counter built in to the play area. Must be played Skill 5 and COOP! (4 Player Teams Level is still in development)",
+	"date": "2014-12-15 21:59:23",
+	"files": [
+		{
+			"filename": "doompro.wad",
+			"size": 770745,
+			"crc": 1963840730,
+			"md5": "43a8d5da8143896a600aa4a3b858bd56",
+			"sha1": "5a753746dcff47702e9affd8503ef30ec5dbeb5d",
+			"sha256": "6265ed63be21c37b1c5a1e2880a2f8a583e1e2957cbc834262485679d21733f9"
+		}
+	]
+}

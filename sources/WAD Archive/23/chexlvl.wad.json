@@ -1,0 +1,16 @@
+{
+	"uid": "chexlvl.wad",
+	"name": "a level for Chex Quest",
+	"description": "One level of moderate difficulty for vanilla chex quest.",
+	"date": "2014-12-13 17:51:49",
+	"files": [
+		{
+			"filename": "chexlvl.wad",
+			"size": 96228,
+			"crc": 1567381011,
+			"md5": "0a3216f5f97ba0b061ceb87ae4dda5a8",
+			"sha1": "233bba4e47451a3dd5d88adf3c54b03504eaa116",
+			"sha256": "38c62bb5026f439104ec183db8da482d258d33163fe624a1dda2e28dc2cd4536"
+		}
+	]
+}

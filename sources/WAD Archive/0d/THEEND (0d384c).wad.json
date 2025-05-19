@@ -1,0 +1,17 @@
+{
+	"uid": "THEEND (0d384c).wad",
+	"name": "THEEND.WAD",
+	"description": "A blast-fest ending level for Episode 3. Designed esp. for multi-player games with lots of monster action.",
+	"version": "0d384c",
+	"date": "2014-01-04 11:55:47",
+	"files": [
+		{
+			"filename": "THEEND.wad",
+			"size": 24424,
+			"crc": 2275538659,
+			"md5": "b29906ad0fa32b1800e99128d66f3aa9",
+			"sha1": "0d384c17d40f21aea537e78772739982657dd4a4",
+			"sha256": "5f7c8a1c8b0d4c7282107cde6e7072c71d03facd54343d3c37f81f839227c5ae"
+		}
+	]
+}

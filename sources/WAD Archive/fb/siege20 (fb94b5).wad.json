@@ -1,0 +1,17 @@
+{
+	"uid": "siege20 (fb94b5).wad",
+	"name": "Siege 2.0",
+	"description": "A HUGE improvement over Siege 1.0 Your mission, whether or not you choose to accept it, is to infiltrate the castle and maintain control of it. Intelligence suggests a strong outside contingent, but no significant defense on the inside. Your main obstacle will be rival infiltrators... You will NOT be given reinforcements. Good luck. Good-bye.",
+	"version": "fb94b5",
+	"date": "2015-12-07 09:06:45",
+	"files": [
+		{
+			"filename": "siege20.wad",
+			"size": 73918,
+			"crc": 610155593,
+			"md5": "f19160fff7010c5f672abe15d00469c1",
+			"sha1": "fb94b536872af159498fc5a962c25d71c8462cf2",
+			"sha256": "bf16b1982a0f1fa590f483ff1f6735aa12aa3b2ea07d3d2d69f5de8c8ad3861c"
+		}
+	]
+}

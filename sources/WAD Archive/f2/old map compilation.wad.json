@@ -1,0 +1,16 @@
+{
+	"uid": "old map compilation.wad",
+	"name": "Old Map Compilation",
+	"description": "A compilation of the maps I have from the mid-late 90's/early 00's, which we made for fun and all pre-date MAP01 of Scourge. The only levels that are older than these that I know of are the ones that inspired MAP05 and MAP10 of Scourge, and I don't have those anymore - everything else was even worse and lost to time. No release intended as these were all levels made for learning purposes and show the lack of skill we had at the time. MAPINFO added for the hell of it. These maps inspired Coils of the Twisted Tale (ph_quik2.zip, Quicky2.wad). Par times are to the nearest 5 seconds, but should all be achievable. No music plays at all, as the MAPINFO doesn't specify any. MAP06 is probably the worst (although MAP12 has two small mazes) and MAP11 is the easiest to get stuck in.",
+	"date": "2014-12-29 09:13:18",
+	"files": [
+		{
+			"filename": "old map compilation.wad",
+			"size": 487370,
+			"crc": 271807338,
+			"md5": "613a35302067812991a7219db78fdf13",
+			"sha1": "f2c7ea932cee116c9b813ce80bd83d9616b0b154",
+			"sha256": "24034ae9602eddcbd9d3ae5bce531d7511ae773d373fdb378e538fa4335a124d"
+		}
+	]
+}

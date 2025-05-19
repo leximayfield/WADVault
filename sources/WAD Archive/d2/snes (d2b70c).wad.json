@@ -1,0 +1,17 @@
+{
+	"uid": "snes (d2b70c).wad",
+	"name": "SNES SoundTrack",
+	"description": "This is the soundtrack of the snes version of doom Currently it only supports zdoom based sourceports i will do a mid version next, Try playing episode 1 of doom and have fun! I reploaded because the file was corrupted whoops.",
+	"version": "d2b70c",
+	"date": "2016-06-16 20:54:08",
+	"files": [
+		{
+			"filename": "snes.wad",
+			"size": 1720616,
+			"crc": 3918228388,
+			"md5": "0b1c209fb2896621acdb243e41b21b2f",
+			"sha1": "d2b70c908b8f63e855a02eda5cf09725572b98d2",
+			"sha256": "b9f3f89d08f913dac7bb062cba42e3303a53f8210cdc9cdc2448b271fb2417a8"
+		}
+	]
+}

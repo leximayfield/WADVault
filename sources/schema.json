@@ -1,0 +1,82 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"title": "WADVault",
+	"description": "Schema used by metadata files used by WADVault.",
+	"type": "object",
+	"required": [
+		"uid",
+		"files"
+	],
+	"properties": {
+		"uid": {
+			"description": "Unique identifier per entry",
+			"type": "string"
+		},
+		"name": {
+			"description": "Name of entry",
+			"type": "string"
+		},
+		"description": {
+			"description": "Detailed information about entry",
+			"type": "string"
+		},
+		"files": {
+			"description": "List of files in entry",
+			"type": "array",
+			"items": {
+				"type": "object",
+				"required": [
+					"filename",
+					"size",
+					"crc",
+					"md5",
+					"sha1"
+				],
+				"properties": {
+					"filename": {
+						"description": "Name of file",
+						"type": "string"
+					},
+					"date": {
+						"description": "Date of file in YYYY-MM-DD HH:MM:SS format",
+						"type": "string"
+					},
+					"size": {
+						"description": "Size of file in bytes",
+						"type": "integer"
+					},
+					"crc": {
+						"description": "CRC32 of file",
+						"type": [
+							"string",
+							"integer"
+						]
+					},
+					"md5": {
+						"description": "MD5 hash of file",
+						"type": "string",
+						"length": 32
+					},
+					"sha1": {
+						"description": "SHA1 hash of file",
+						"type": "string",
+						"length": 40
+					},
+					"sha256": {
+						"description": "SHA256 hash of file",
+						"type": "string",
+						"length": 64
+					}
+				}
+			}
+		},
+		"version": {
+			"description": "Textual description of version",
+			"type": "string"
+		},
+		"date": {
+			"description": "Date of archive in YYYY-MM-DD HH:MM:SS format",
+			"type": "string"
+		}
+	}
+}

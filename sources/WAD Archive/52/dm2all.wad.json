@@ -1,0 +1,16 @@
+{
+	"uid": "dm2all.wad",
+	"name": "Alley.WAD",
+	"description": "A fun deathmatch WAD for two. Lots of secret areas, a few monsters and teleporters for hours of fragging fun!",
+	"date": "2013-11-03 17:44:59",
+	"files": [
+		{
+			"filename": "dm2all.wad",
+			"size": 62591,
+			"crc": 3173657850,
+			"md5": "49c731273b47f3a50f220fdbee6a331d",
+			"sha1": "520e409235e19eac30ade56afb016c9d67b3ecd2",
+			"sha256": "d53276b532eb07bc820dd2835106de1160600218f277d8b66e705a2c1c6de2eb"
+		}
+	]
+}

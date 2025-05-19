@@ -1,0 +1,16 @@
+{
+	"uid": "uacret.wad",
+	"name": "The UAC's Return",
+	"description": "A medium-sized tech base with a depressing atmosphere. I almost lost it in a hard drive crash, so I decided to release it.",
+	"date": "2014-12-15 22:12:06",
+	"files": [
+		{
+			"filename": "uacret.wad",
+			"size": 6550909,
+			"crc": 2320087528,
+			"md5": "1a7fb2cb47cc57a7fa9d77ec63b7b7ff",
+			"sha1": "9526bf2fb8f9435f0658bfdfb7d5c57ca151d346",
+			"sha256": "f5af10a230a771f8846cd9a14c498784fd4697cd740bfcca1846c74a5bf12c57"
+		}
+	]
+}

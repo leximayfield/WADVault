@@ -1,0 +1,16 @@
+{
+	"uid": "fox_03.wad",
+	"name": "FOX_03",
+	"description": "Deathmatch WAD for DooM II.Made mainly for Deathmatch",
+	"date": "2014-01-11 11:30:37",
+	"files": [
+		{
+			"filename": "fox_03.wad",
+			"size": 137321,
+			"crc": 3691868219,
+			"md5": "fc00e5bc8ce56d68a3c72ffb1f69c838",
+			"sha1": "0e6c1a8de13f470e7e000b7df373ca2a7abb7f79",
+			"sha256": "e998e0cf313d1c587c01710949c6bec4db692e5e65a687aabdcd8c11500f3f99"
+		}
+	]
+}

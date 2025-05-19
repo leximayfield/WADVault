@@ -1,0 +1,16 @@
+{
+	"uid": "dickie03.wad",
+	"name": "dickie03.WAD, issue 1.",
+	"description": "A nice, simple wad which doesn't require too much thinking. This level is 188kb when unzipped.",
+	"date": "2014-12-18 22:17:08",
+	"files": [
+		{
+			"filename": "dickie03.wad",
+			"size": 192156,
+			"crc": 624331565,
+			"md5": "f9fcd3312620f4bb30e91f4f580740e6",
+			"sha1": "036e90902c3898604d8a81761647e4737c80a08e",
+			"sha256": "3b065d09926ae6b3e0794b596fca246efabebf0ab98848cbb71f82a0d75e1026"
+		}
+	]
+}

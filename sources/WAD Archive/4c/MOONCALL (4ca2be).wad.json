@@ -1,0 +1,17 @@
+{
+	"uid": "MOONCALL (4ca2be).wad",
+	"name": "Moon's Call",
+	"description": "The sequel to Moonsong. Another practice map, this one intended to practice some different types of architecture and gameplay tweaks. After taking the gateway planted in Moonsong, you drop into a hellish world situated in the void. Isolated and alone, your only option is to go through. This update introduces a tiny bugfix to allow it to run in later versions of GZDoom",
+	"version": "4ca2be",
+	"date": "2019-03-20 01:32:00",
+	"files": [
+		{
+			"filename": "MOONCALL.wad",
+			"size": 533970,
+			"crc": 4013515194,
+			"md5": "541be2aa0484c8f980ea3e0c3b47e04f",
+			"sha1": "4ca2beeb6e2008fd99e97dd99e7982cf4d551b06",
+			"sha256": "349a347a2b22f99e4ade06757813983276bb0ac6904622b96c7cbbbf228f68db"
+		}
+	]
+}

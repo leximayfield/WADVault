@@ -1,0 +1,16 @@
+{
+	"uid": "d3d2dm2.wad",
+	"name": "d3d2dm2.WAD",
+	"description": "A reconstruction of Map 2 in Duke Nukem 3D. This is a great 2 player deathmatch and as a 4 player deathmatch it's a scream!",
+	"date": "2014-12-15 21:54:40",
+	"files": [
+		{
+			"filename": "d3d2dm2.wad",
+			"size": 145721,
+			"crc": 2881932722,
+			"md5": "c553d94305ff38a1b922b2a464d538e8",
+			"sha1": "48043e96b41da06056c7f91d2964a19628e858e8",
+			"sha256": "b5fba9f62dcb12bc5b2e1332f38b819cd65666e5ad86f705ea2a4c846c70d24d"
+		}
+	]
+}

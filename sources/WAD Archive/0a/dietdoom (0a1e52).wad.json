@@ -1,0 +1,17 @@
+{
+	"uid": "dietdoom (0a1e52).wad",
+	"name": "DietDoom",
+	"description": "Small, frantic, deadly deathmatch wad. This Wad is meant for only deathmatch use, I won't be held responsible for the resulting boredom when playing single/cooperative. Contains all weapons, many teleporters, crossing alleyways, stepping stones, and no big open places. HEAPS of ammo in the start so keep blasting with that BFG. Meant for normal deathmatch and 1.2 doom because the network machines we run doom on havem't got enough ram for later versions.",
+	"version": "0a1e52",
+	"date": "2013-11-02 16:02:37",
+	"files": [
+		{
+			"filename": "dietdoom.wad",
+			"size": 45835,
+			"crc": 3627728159,
+			"md5": "66c398eb8b2688b319f058ea6b969b33",
+			"sha1": "0a1e521ebfc522d8860789d8f6a1f7f21e4cddb3",
+			"sha256": "ffbc3f1c734fdfc682521032fc9a4aae4e5292018117c0db3fcb310f26e47c5a"
+		}
+	]
+}

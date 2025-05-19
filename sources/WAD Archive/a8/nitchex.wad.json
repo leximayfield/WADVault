@@ -1,0 +1,16 @@
+{
+	"uid": "nitchex.wad",
+	"name": "Nitro's Chex Quest",
+	"description": "This is the final version of Nitro's Chex Quest. This is designed for the DOS version of Chex Quest which can be found online as freeware.",
+	"date": "2014-12-13 17:36:00",
+	"files": [
+		{
+			"filename": "nitchex.wad",
+			"size": 971132,
+			"crc": 680893963,
+			"md5": "ad84829373922415abb3d384b57bc64f",
+			"sha1": "a827af82fbd44bd0c0fa48747c3175566efdf7e1",
+			"sha256": "c274addc42c5ebad7d753c4d9256a5f8c3ac4586a5d1821b7fbcaf5a44ba9498"
+		}
+	]
+}

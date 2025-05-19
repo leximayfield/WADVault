@@ -1,0 +1,16 @@
+{
+	"uid": "veloctf.wad",
+	"name": "Velocity CTF",
+	"description": "12 maps of high-speed action-packed Capture the Flag maps by various individuals of the Mechanix Union. Map list: MAP01 - Rotated Infinity by Dusk MAP02 - Crypts of Eternity by Decay MAP03 - and Hell Captured by Dusk MAP04 - Industrial Nukage Mining by Dusk MAP05 - Gun Shy by Kamai MAP06 - Generatrix by Decay MAP07 - Tyr's One-Wheeled Bicycle by HeavenWraith MAP08 - Bleak Outlook by Synert MAP09 - Swap Meet by Shane MAP10 - Architecture of Aggression by Decay MAP11 - Winter Sacrifice by Decay MAP12 - Complex Beta by Decay Uses the following music tracks: MAP01 - \"Mizshunn Impassable\" by David \"Tolwyn\" Shaw MAP02 - \"Skedar Mystery\" by Graeme Norgate, sequenced by Gold Jinjo MAP03 - \"Destiny\" by Mark Klem MAP04 - \"Fear Factory\" from Donkey Kong, sequenced by Jay Reichard MAP05 - \"Taking Names\" by Bobby Prince MAP06 - \"Conductor\" by James \"Jimmy\" Paddock MAP07 - \"Fairy Tail Main Theme (Metal Version)\", MIDI-sequenced by HeavenWraith MAP08 - \"Bleak Outlook\" by Synert MAP09 - \"Path of Destruction\" by Mark Klem MAP10 - \"Wolfsong\" by darkhaven3 MAP11 - \"Under a Crimson Moon\" by Eric \"The Green Herring\" Baker MAP12 - \"Transducer\" by James \"Jimmy\" Paddock",
+	"date": "2013-04-18 23:25:09",
+	"files": [
+		{
+			"filename": "veloctf.wad",
+			"size": 11312239,
+			"crc": 520479901,
+			"md5": "17a7ddd5d0599d39bc7a2a7c637752ca",
+			"sha1": "f263ce1bc39945a7eb5d8e034e84815ec796930f",
+			"sha256": "56654a5d00b331a3dbb33b2b085af627ea1589dde7fc21caa52b6d59467696f6"
+		}
+	]
+}

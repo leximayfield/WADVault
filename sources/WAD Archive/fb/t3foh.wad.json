@@ -1,0 +1,16 @@
+{
+	"uid": "t3foh.wad",
+	"name": "The 3 Floors of Hell",
+	"description": "3 level WAD. Quite a lot of attention given to the appearence of the levels",
+	"date": "2015-01-14 22:48:24",
+	"files": [
+		{
+			"filename": "t3foh.wad",
+			"size": 564116,
+			"crc": 62756128,
+			"md5": "a740a51e6ce83f2fc4b5d18d54e3a945",
+			"sha1": "fb84c69473cbb6426b06999d404e1f497978d0cf",
+			"sha256": "c66e9f3ee748064122cf863fc87c74071fcd5fd6cb8ef2d3dc973a4a4500ec45"
+		}
+	]
+}

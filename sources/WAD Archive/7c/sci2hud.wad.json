@@ -1,0 +1,16 @@
+{
+	"uid": "sci2hud.wad",
+	"name": "\"The Scientist\" styled Hud",
+	"description": "This is a small mod that adds a themed Hud for Sci.wad and SCI2.wad, it has a custom font as an addition to the hud.",
+	"date": "2019-09-13 12:13:06",
+	"files": [
+		{
+			"filename": "sci2hud.wad",
+			"size": 32466,
+			"crc": 3920555966,
+			"md5": "3a88b14b7f7d3aa4cbbc0ab6c9bf9c91",
+			"sha1": "7c8ea5a4afbc74f31ee1500b30e5b22b64522c38",
+			"sha256": "e55bcc3227e2c54af760ea974d1d06853e01c8dd13b49affb25a8896933706f4"
+		}
+	]
+}

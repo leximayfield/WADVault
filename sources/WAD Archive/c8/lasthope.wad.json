@@ -1,0 +1,16 @@
+{
+	"uid": "lasthope.wad",
+	"name": "LAST HOPE of the UAC",
+	"description": "Many years have passed since the first bloody encounters with the enemy, and so, the war against the demon invaders continues, unabated, despite the heroic efforts of the UAC. Time has taken it's toll as well. The resources of the once mighty UAC are nearly exhausted, while the enemy seems to grow stronger and bolder all the time... You (and possibly, your squadmate) are the last hope of the UAC. You have been chosen, from among the last remaining space marines, to penetrate the Caves of Steel, formerly a UAC moonbase, and somehow gain knowledge of (or access to) the legendary \"ShadowGate\", by which the enemy transports most of its troops and supplies. This gate cannot be destroyed, but it may be able to be used to penetrate the supernatural defenses of the enemy, somehow. You will be inserted directly into the base via confiscated enemy slipgate technology and from that point on, you'll be on your own.",
+	"date": "2014-12-13 17:28:05",
+	"files": [
+		{
+			"filename": "lasthope.wad",
+			"size": 1812092,
+			"crc": 1160265879,
+			"md5": "f9dc30a549b05e8a84fecf89769de6dd",
+			"sha1": "c89a71dd84524adb43ad2b4b5f37e6e6c55a2a9f",
+			"sha256": "8bf5b9dbdb7aba28f19fc3124cd70be340d56fc3b14e1c719aeb98da421f4a88"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "lol1 (9163f1).wad",
+	"name": "Watch out for the Cyber Demon",
+	"description": "This is my first attempt a building a Level. It is fairly small but fairly difficult in some areas. Please try this level and feed back any constructive comments you may have to the E-mail address above. Look out for LOL2 coming soon, which I hope will have more of a theme.",
+	"version": "9163f1",
+	"date": "2013-11-02 15:46:43",
+	"files": [
+		{
+			"filename": "lol1.wad",
+			"size": 59940,
+			"crc": 3217361463,
+			"md5": "19f8a54d1f5344ff69a4a64c6f719081",
+			"sha1": "9163f1ba7de07c3355ed50005a8d057ddc5f56b1",
+			"sha256": "f72c402d79c0383f9a84498fd9855ec568f9aa0ba4b7664e948b86978d6b5eb6"
+		}
+	]
+}

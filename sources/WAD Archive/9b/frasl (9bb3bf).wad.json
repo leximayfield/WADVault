@@ -1,0 +1,16 @@
+{
+	"uid": "frasl (9bb3bf).wad",
+	"description": "An assortment of levels by two people made from 5/1998 on. Although some levels have a story arc, for the most part, each level has its own theme. See end of text file for details on each map.",
+	"version": "9bb3bf",
+	"date": "2019-03-20 00:59:32",
+	"files": [
+		{
+			"filename": "frasl.wad",
+			"size": 5041437,
+			"crc": 4135406869,
+			"md5": "989f0e59362750920ce9294949781972",
+			"sha1": "9bb3bff4fd05e4fe37cdaaa67207cb93e9ec1326",
+			"sha256": "bc5ce88469529399d11c49f886314e3b6ae99c343dd439bc4d2e6b44bfeb40b1"
+		}
+	]
+}

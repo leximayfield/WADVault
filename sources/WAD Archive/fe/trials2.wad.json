@@ -1,0 +1,16 @@
+{
+	"uid": "trials2.wad",
+	"name": "The Trials 2",
+	"description": "A complete rebuild of the crappier parts of the original Trials level so I hope you guys find it better!",
+	"date": "2015-12-29 15:24:27",
+	"files": [
+		{
+			"filename": "trials2.wad",
+			"size": 306462,
+			"crc": 3288665037,
+			"md5": "47f4c6e123c55afc3541d149630af644",
+			"sha1": "fe77803e2b2945dda4916c3c623f8dd4afd4e57b",
+			"sha256": "329866706bdb05c25279a8035c21e116a3293be8909e90dd63372be7a7913fa9"
+		}
+	]
+}

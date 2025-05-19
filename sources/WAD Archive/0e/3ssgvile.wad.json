@@ -1,0 +1,16 @@
+{
+	"uid": "3ssgvile.wad",
+	"name": "Starch Pile",
+	"description": "Try to kill an arch-vile in 3 shots with the SSG. Use the included 3ssgvile.bex dehacked file if you want a faster SSG and arch-viles that don't move or attack.",
+	"date": "2013-04-19 04:31:07",
+	"files": [
+		{
+			"filename": "3ssgvile.wad",
+			"size": 11854970,
+			"crc": 3416709072,
+			"md5": "dee2c042582529ba3a344e5bf798d05a",
+			"sha1": "0e06cfa1036d82e28c1f1fa8006082b7ac5b582a",
+			"sha256": "ea296e54717099f5f56ae02658a089cbd7de10244d6f2de28013dea667fbb8a9"
+		}
+	]
+}

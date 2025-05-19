@@ -1,0 +1,16 @@
+{
+	"uid": "sosueme.wad",
+	"name": "SoSueMe",
+	"description": "2-4 player DMatch level",
+	"date": "2014-12-15 22:32:48",
+	"files": [
+		{
+			"filename": "sosueme.wad",
+			"size": 1508920,
+			"crc": 1695455046,
+			"md5": "6f2d3859b52a1d7518154a1771ed818f",
+			"sha1": "17b34859c620fda6e17cd33906a79d71c202beef",
+			"sha256": "29ec676a187826d8706a7988054a195fa8f4c6a8da2a705041d037239b159dd1"
+		}
+	]
+}

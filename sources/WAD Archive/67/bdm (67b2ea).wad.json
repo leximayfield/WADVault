@@ -1,0 +1,17 @@
+{
+	"uid": "bdm (67b2ea).wad",
+	"name": "BDM.WAD  (aka brian's death match wad)",
+	"description": "This is a wad designed for death match. It is a half outside, half inside level. I think it came out pretty damn good, Give it a look! All the weapons are there. In single player there are gobs of baddies. It ain't too big, but it is nice.",
+	"version": "67b2ea",
+	"date": "2013-11-06 22:29:26",
+	"files": [
+		{
+			"filename": "bdm.wad",
+			"size": 87391,
+			"crc": 2904196973,
+			"md5": "b1dda328a704d013a0b72f36c89c241e",
+			"sha1": "67b2ea2ba788a3a4922c503ddb78c73bf3730673",
+			"sha256": "a2927935736cec4e59bdce1da902a6d954e33722d87f541745a1e1bae27e8b6f"
+		}
+	]
+}

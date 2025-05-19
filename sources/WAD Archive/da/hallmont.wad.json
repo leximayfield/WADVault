@@ -1,0 +1,16 @@
+{
+	"uid": "hallmont.wad",
+	"name": "Hall of The Mountain King (HALLMONT.WAD)",
+	"description": "A huge level with some impressive bits and pieces. Full description below, but basically it's a big underground medieval-style setup.",
+	"date": "2013-07-09 20:23:46",
+	"files": [
+		{
+			"filename": "hallmont.wad",
+			"size": 201595,
+			"crc": 3004950794,
+			"md5": "686655b8309712b15d18b54620017195",
+			"sha1": "daa430a8ea41f7cd949f76acf5b3c77fd85831ec",
+			"sha256": "c49e7c8a21d7dd93562a051e45ce95e964e4f9ebcc3fee4515cd13e51429a17a"
+		}
+	]
+}

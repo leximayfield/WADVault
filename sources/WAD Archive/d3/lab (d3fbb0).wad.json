@@ -1,0 +1,17 @@
+{
+	"uid": "lab (d3fbb0).wad",
+	"name": "LAB.WAD",
+	"description": "Nice textures. Play it. The big room with the Chaingun guys in it might be kind of hard.",
+	"version": "d3fbb0",
+	"date": "2014-12-18 22:22:22",
+	"files": [
+		{
+			"filename": "lab.wad",
+			"size": 79003,
+			"crc": 2276459930,
+			"md5": "d1b95b685b506920a76a81a1db841f97",
+			"sha1": "d3fbb0032b1604441cae29bd29ab9b06dcfc529b",
+			"sha256": "2d7650e292e75eb66277607b10f6783e1150103ee9258c3dfe409d1736bdfff9"
+		}
+	]
+}

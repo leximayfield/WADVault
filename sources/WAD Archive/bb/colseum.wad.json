@@ -1,0 +1,16 @@
+{
+	"uid": "colseum.wad",
+	"name": "Colloseum",
+	"description": "This is my first map release and real attempt at making a level 1 map that I'd want to include in a map pack should I ever get around to making one. It's based on an old idea I had which partially included having to defeat imps using fist attacks. Besides the use of very basic scripts and zdoom things, this is designed to play out like a standard doom 2 map. All the textutes, monsters, and sprites come from the original doom 2 IWAD, so be sure to give thanks to Id software and to all the various wad editor and source port makers where it's due. While the map is fairly short, it can also get somewhat challenging (by my standards anyway) and there's some good fast paced fun to be had. *Story* So after a failed raid on a demon stronghold, the Doomguy finds himself captured and possibly being used as cheap entertainment. Obviously, the Doomguy isn't too happy about this and has a gut feeling that the demons have no intention of giving him a real chance for survival, at least not if he plays along with their game.",
+	"date": "2014-12-15 22:13:30",
+	"files": [
+		{
+			"filename": "colseum.wad",
+			"size": 113477,
+			"crc": 806954009,
+			"md5": "313cfd0af4db7e2208f108e511dc8b8f",
+			"sha1": "bb173e0c1426fa0db6db7d96a78e054f23ee3ed6",
+			"sha256": "95992f092e26ad7e023624fa0178bd8222e5a9b3c27bb126126e5e6738367374"
+		}
+	]
+}

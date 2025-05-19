@@ -1,0 +1,17 @@
+{
+	"uid": "annex (bb6029).wad",
+	"name": "Annex Of Death",
+	"description": "Ah...Help!! I'm stuck in Hell And you gotta get me out!",
+	"version": "bb6029",
+	"date": "2014-01-04 11:55:44",
+	"files": [
+		{
+			"filename": "annex.wad",
+			"size": 32808,
+			"crc": 676291800,
+			"md5": "38d9943a13016c3b56c2e03eba2d8ef0",
+			"sha1": "bb6029146068604c9dcc2e3baffde39dbc55448d",
+			"sha256": "c2307d9b24a9b667ae40839f237393ec7e05953196b4f327da58b2fb82fc6a46"
+		}
+	]
+}

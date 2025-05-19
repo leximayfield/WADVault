@@ -1,0 +1,16 @@
+{
+	"uid": "dothtimp.wad",
+	"name": "Do That Imp",
+	"description": "My 1st attempt at building a level. Please tell me your comments, good & bad. There are player starts for co-op and deathmatch, but since I have little experience with either, I don't know if the level's good for that. I had only my husband and myself to test it out, so if you'd like to help me test future levels, let me know.",
+	"date": "2013-07-09 20:21:26",
+	"files": [
+		{
+			"filename": "dothtimp.wad",
+			"size": 157015,
+			"crc": 464865967,
+			"md5": "46aac977d2547e96b40745cd368607d8",
+			"sha1": "4b55569e8e2c1e2674a6e008cb143fc655676ced",
+			"sha256": "14c15c1694f97594edf8b46d5cf989adb9a3acee69ddc466897fee75503f07fb"
+		}
+	]
+}

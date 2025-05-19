@@ -1,0 +1,17 @@
+{
+	"uid": "parth11 (ff3c3c).wad",
+	"name": "Parthenon",
+	"description": "Parthenon was originally a beautiful rendition of the structure of the same name in Greece, but HoM considerations reduced it to the vestige you see in the exact middle of the map. (For those interested, the original still exists, and if I ever find a way to use it, it will appear in it's entirety.)",
+	"version": "ff3c3c",
+	"date": "2013-11-02 15:13:18",
+	"files": [
+		{
+			"filename": "parth11.wad",
+			"size": 184826,
+			"crc": 2014907884,
+			"md5": "4ff1919100de1fb0b71437125a553fc5",
+			"sha1": "ff3c3ccd49b4a0f779f1b6a85ff695f9a1f66184",
+			"sha256": "8ff25cd9764f97d04665454cca0c2d3b470559dc48c176ecfcba702a70e9409d"
+		}
+	]
+}

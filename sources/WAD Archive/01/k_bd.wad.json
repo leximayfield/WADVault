@@ -1,0 +1,16 @@
+{
+	"uid": "k_bd.wad",
+	"name": "Beyond Death",
+	"description": "I used some new ideas this time, all of which were enspired by Quake2. I won't say this map resembles Q2, but the Architecture is similar.",
+	"date": "2015-01-05 16:24:14",
+	"files": [
+		{
+			"filename": "k_bd.wad",
+			"size": 687344,
+			"crc": 216749289,
+			"md5": "65898be4c2b817a9a7eb9081ef9e4655",
+			"sha1": "01aca1a1fe38dd3ea49bd668f97ace2dc9e6e7b1",
+			"sha256": "57d7f57b86d4f65ea669157e59fd2b5c47146a0bc0e29795f641343e419b810d"
+		}
+	]
+}

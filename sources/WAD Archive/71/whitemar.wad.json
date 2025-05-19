@@ -1,0 +1,16 @@
+{
+	"uid": "whitemar.wad",
+	"name": "Whitemare",
+	"description": "Megawad, based on \"winter\" theme from Russian Doom Community. The demons have decided to ruin the winter's fun of Christmas and New Year's celebrations to people, so your task is prove those stupid bastards wrong. The base of this megawad are 12 improved maps (map 01 - map 06, map 08-map 11, map 14, map 16) from speedmapping contests \u00b95, which took place on 19.12.2010 on iddqd.ru forum. The rest levels were added some time later, some maps were seriously reworked, and others have been put in wad almost without any changes at all. Have a good game.",
+	"date": "2013-04-19 01:44:26",
+	"files": [
+		{
+			"filename": "whitemar.wad",
+			"size": 19222400,
+			"crc": 1887894810,
+			"md5": "05b316d7697c82937176934ef4e8bc58",
+			"sha1": "717fac6b22b00eae7856067ee5cd8f9c68bae4ba",
+			"sha256": "d6e495611117fc59ab617d95cc28cdfd7eaa52513ae765d8eb3e66718deb16d0"
+		}
+	]
+}

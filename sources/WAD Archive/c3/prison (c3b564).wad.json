@@ -1,0 +1,17 @@
+{
+	"uid": "prison (c3b564).wad",
+	"name": "The Prison",
+	"description": "Anticipating that you'd kick up a fuss when they reattempted transdimensional travel, the UAC locked you up in a military prison. Fortunately, the guards stationed to watch over you are old war buddies who realise the urgency of the situation and give you the code to activate the switch to raise the platform of your cell. However, as you are about to do this, they are swamped by Hell's minions, who have once again emerged from the nearby gate, leaving only you alive to escape the prison.",
+	"version": "c3b564",
+	"date": "2014-12-13 17:34:11",
+	"files": [
+		{
+			"filename": "prison.wad",
+			"size": 835504,
+			"crc": 1856403519,
+			"md5": "ca80bf7a35546e561e587c97539b3ff4",
+			"sha1": "c3b564b20ae682702ddbc438345a4da7aa226229",
+			"sha256": "c601d5bbe70518e4d1f1a7eca904233217b83880d94d991dd24abaaf69c7611d"
+		}
+	]
+}

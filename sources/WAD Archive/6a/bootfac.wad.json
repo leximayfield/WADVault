@@ -1,0 +1,16 @@
+{
+	"uid": "bootfac.wad",
+	"name": "Bootmans factory",
+	"description": "After falling into a ditch you find yourself facing Bootmans minions.",
+	"date": "2016-07-20 20:08:48",
+	"files": [
+		{
+			"filename": "bootfac.wad",
+			"size": 237722,
+			"crc": 3783985450,
+			"md5": "4f3d97d5aa057d8f94334c4f39e884eb",
+			"sha1": "6af10966361841ffebc5d6b4fcc78e4304c14e92",
+			"sha256": "7f9c8c0a08478ffbcf6fd69383dca70dacd00a28cded18f39d9c054bfe4c04c9"
+		}
+	]
+}

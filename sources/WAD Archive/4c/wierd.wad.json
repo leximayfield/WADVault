@@ -1,0 +1,16 @@
+{
+	"uid": "wierd.wad",
+	"name": "Weird.txt",
+	"description": "Changes many of the sounds in doomII and makes them very wierd! All of the sounds were found on my computer (Packard Bell Force 101) and none were added or custom made.",
+	"date": "2015-09-14 20:26:22",
+	"files": [
+		{
+			"filename": "wierd.wad",
+			"size": 654244,
+			"crc": 1833875967,
+			"md5": "6f3b79a28ae98d436d4155897db936f3",
+			"sha1": "4c9b56347f22ad20911c6adcbe47bfba38b55bc6",
+			"sha256": "6c41a260d3be4d33332ddff08e2b3686c413e68331e3aa5a2e98d1b1af1489d0"
+		}
+	]
+}

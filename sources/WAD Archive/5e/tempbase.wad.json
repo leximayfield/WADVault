@@ -1,0 +1,16 @@
+{
+	"uid": "tempbase.wad",
+	"name": "Temple Base",
+	"description": "You told the zoning board it was a bad idea to build a techbase next a demonic temple, but did they listen to you? Of course not. Now demons have taken over the base -- surprise, surprise -- and it's up to you to clear it out and get back home in one piece.",
+	"date": "2014-12-29 16:28:55",
+	"files": [
+		{
+			"filename": "tempbase.wad",
+			"size": 226691,
+			"crc": 2254328425,
+			"md5": "973fffb03527f0eeda8176f1cc6f0926",
+			"sha1": "5e9d049d838dab363be10c6c6de9d92ffdc9cee1",
+			"sha256": "f4ded32c334e3f8868eb63ca7cdb566dc6ae03aec07f951b7511413041d1f30f"
+		}
+	]
+}

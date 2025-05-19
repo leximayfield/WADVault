@@ -1,0 +1,17 @@
+{
+	"uid": "infernal (fe30db).wad",
+	"name": "An Infernal Place v1.1",
+	"description": "The Doom2 version of \"An Infernal Place\". Some new sectors added.",
+	"version": "fe30db",
+	"date": "2013-04-20 17:26:16",
+	"files": [
+		{
+			"filename": "infernal.wad",
+			"size": 412424,
+			"crc": 1506483802,
+			"md5": "5ef84854b3d55f888269971e2fc5110c",
+			"sha1": "fe30db95182f67b48e7a00fc9bf13dcf0747d634",
+			"sha256": "b075f481848ab196fb2e13a689181ec01091636a6260c795cfdfa16d07cdc8d2"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "2bosses (fced46).wad",
+	"name": "2BOSSES.WAD",
+	"description": "A level for guys who want mainly to fight.",
+	"version": "fced46",
+	"date": "2014-01-04 11:55:50",
+	"files": [
+		{
+			"filename": "2bosses.wad",
+			"size": 287235,
+			"crc": 266489296,
+			"md5": "85662b61f05865ef239be2038ad4f669",
+			"sha1": "fced461c3337ab6fd5748031dcf2c4642a4a3a25",
+			"sha256": "4e8deb30a8c3a15b8c60ab951c59538f7d818f84aab3a222eb0c3bb84ef849a2"
+		}
+	]
+}

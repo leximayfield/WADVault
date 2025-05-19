@@ -1,0 +1,16 @@
+{
+	"uid": "chuxen.wad",
+	"name": "CHUXEN: Beyond Hexen (all right, maybe not",
+	"description": "HEXEN replacement hub (6 levels) designed for the single player",
+	"date": "2014-12-31 12:04:41",
+	"files": [
+		{
+			"filename": "chuxen.wad",
+			"size": 955970,
+			"crc": 3757890287,
+			"md5": "360d1fc63db9d06a3cfa8c46dc3b1d17",
+			"sha1": "22751b4550669197d61c66c2de8061deacad70d9",
+			"sha256": "c8fbc4d100c78040e979167c2c2623cc2042403448030431db165e20f88abc35"
+		}
+	]
+}

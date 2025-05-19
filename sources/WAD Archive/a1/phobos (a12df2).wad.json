@@ -1,0 +1,17 @@
+{
+	"uid": "phobos (a12df2).wad",
+	"name": "Phobos",
+	"description": "You are in the Phobos and deathmatchin' with your folks, let's see who will survive.",
+	"version": "a12df2",
+	"date": "2014-12-15 21:34:24",
+	"files": [
+		{
+			"filename": "phobos.wad",
+			"size": 313364,
+			"crc": 209042439,
+			"md5": "9026123c04e6efe47c0c217f333f1dcf",
+			"sha1": "a12df2f428b1a1f70b3d20405dffc3e882971e59",
+			"sha256": "f2aee2aaf49181ce946e200d25f77aec645f4831cb16403380149ae38aa8641a"
+		}
+	]
+}

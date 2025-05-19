@@ -1,0 +1,16 @@
+{
+	"uid": "inftower.wad",
+	"name": "The Infected Tower lvl.1",
+	"description": "The setup for this level is: The doom guy has killed all the aliens and he hears about the aliens atempt to get back on earth by infecting a tower and making it their base to mass produce aliens of every kind. In level one you start up in a cave making your up to the tower",
+	"date": "2014-12-24 17:46:06",
+	"files": [
+		{
+			"filename": "inftower.wad",
+			"size": 138912,
+			"crc": 2934254680,
+			"md5": "8a53b07c0d2af208ad8e36fa55be68da",
+			"sha1": "fb9e3080292f428b6b38f66c12ca70bcbdb8695c",
+			"sha256": "0f0cf14be755e458e265a23f7f61d2e45d6d19512f5ec1954e9689c3f83c5f5a"
+		}
+	]
+}

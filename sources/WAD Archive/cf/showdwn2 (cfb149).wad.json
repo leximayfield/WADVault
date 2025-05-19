@@ -1,0 +1,17 @@
+{
+	"uid": "showdwn2 (cfb149).wad",
+	"name": "SHOWDWN2.WAD",
+	"description": "A total BLAST! Enter a huge room simply crammed full of monsters, kill, kill, kill, take a break, kill, kill, kill and wonder if it will ever end! Cap it off with a true showdown between the bosses!",
+	"version": "cfb149",
+	"date": "2013-11-02 15:08:41",
+	"files": [
+		{
+			"filename": "showdwn2.wad",
+			"size": 37846,
+			"crc": 2977268021,
+			"md5": "6e63121e33f7bc8c5d39c25e09e391f5",
+			"sha1": "cfb149c56870ab54b746a1364c877c4f85bfc505",
+			"sha256": "40a0a3548bc6186bd4b21fc09e35aed5124adc8e143917c30dc7e02771646ab5"
+		}
+	]
+}

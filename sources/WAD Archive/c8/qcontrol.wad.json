@@ -1,0 +1,16 @@
+{
+	"uid": "qcontrol.wad",
+	"name": "Quality Control",
+	"description": "Quality control",
+	"date": "2015-01-14 22:59:24",
+	"files": [
+		{
+			"filename": "qcontrol.wad",
+			"size": 4294,
+			"crc": 2672002186,
+			"md5": "89118e8cd857cae1a15df277b56be920",
+			"sha1": "c816771203bb5e0c7ae0d331f02490eb522deb0e",
+			"sha256": "35ece4626b23cf869acb89258fcc31e033be3f5ced18840b178975742c0faa1a"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "monlth01.wad",
+	"name": "mnlith01.wad.",
+	"description": "A single player map for Doom2. Part 1 of the MONOLITH series.",
+	"date": "2015-09-15 13:32:30",
+	"files": [
+		{
+			"filename": "monlth01.wad",
+			"size": 122217,
+			"crc": 4248976404,
+			"md5": "97e4ff866a52ca9293d4f2e0c3ac2f85",
+			"sha1": "3a879138ed054b68ec0edc32697c25ec17834b45",
+			"sha256": "3a48b452a6cdc3704ee1822440d4b0291ee4de37bb5ca8e7f49e10715c5ff372"
+		}
+	]
+}

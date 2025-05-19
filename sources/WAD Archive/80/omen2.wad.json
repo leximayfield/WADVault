@@ -1,0 +1,16 @@
+{
+	"uid": "omen2.wad",
+	"name": "Return to the Omen",
+	"description": "Map1 deathmatch only replacement for DOOM ][",
+	"date": "2013-04-22 00:42:13",
+	"files": [
+		{
+			"filename": "omen2.wad",
+			"size": 161800,
+			"crc": 484699380,
+			"md5": "e4c680989a84e9bf4916dc6e0f7e6283",
+			"sha1": "8065094b70996a980e7a93a20c1cb69853fb501d",
+			"sha256": "8e3dacc1d5bc9240898462f03e0eb192025ae5e2faeb2c65672ca26ad884b049"
+		}
+	]
+}

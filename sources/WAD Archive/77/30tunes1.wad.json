@@ -1,0 +1,16 @@
+{
+	"uid": "30tunes1.wad",
+	"name": "30 Levels of Doom2 Music",
+	"description": "This is 30 levels of fairly interesting music for Doom 2. I downloaded about 100 midi files with cool filenames and chose about 25 to compile into one big Doom2 wad.",
+	"date": "2015-09-14 23:18:31",
+	"files": [
+		{
+			"filename": "30tunes1.wad",
+			"size": 881693,
+			"crc": 548383288,
+			"md5": "70bdfebc3d97eeea33b07dc19c4181b7",
+			"sha1": "77e6419a132bb8c1a15ee40d96db6d377fddca76",
+			"sha256": "316f7fe2a650e0f623867ed855d7836ba3fb57ba1fdf662f1e362c5325ce1904"
+		}
+	]
+}

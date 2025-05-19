@@ -1,0 +1,17 @@
+{
+	"uid": "methane (833153).wad",
+	"name": "Mine filled with methane",
+	"description": "A relatively large map (303 monsters on UV to keep you busy) with a bunch of nonlinearity. There is more than one way to complete the map and you don't have to visit all areas to do it but exploration is encouraged and will make your life easier thanks to different weapons and powerups you may find in \"optional\" places. This wad includes MAPINFO lump which disables jumping - please do NOT override this as you are not supposed to jump in this map. Action takes place in a mine filled with methane... and hellspawn! Try finishing with 100% monsters and secrets! I hope you will enjoy playing the map as much as I enjoyed making and playtesting it!",
+	"version": "833153",
+	"date": "2015-01-13 21:38:40",
+	"files": [
+		{
+			"filename": "methane.wad",
+			"size": 306988,
+			"crc": 264462123,
+			"md5": "f1c59a11c19b3375af4c074be126125c",
+			"sha1": "8331537d1d030c791bc47158fa60411f9f6ff326",
+			"sha256": "6195b8b43858e59f7af6a8b13f1193086fac87a52f4f4770fd2faaeab51e50c5"
+		}
+	]
+}

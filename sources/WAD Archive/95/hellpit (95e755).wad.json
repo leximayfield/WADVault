@@ -1,0 +1,17 @@
+{
+	"uid": "hellpit (95e755).wad",
+	"name": "Hellpit.wad",
+	"description": "This is fair and well balanced level for Raven Softwares",
+	"version": "95e755",
+	"date": "2013-11-06 22:51:04",
+	"files": [
+		{
+			"filename": "hellpit.wad",
+			"size": 86171,
+			"crc": 3171684582,
+			"md5": "5432b483172c4f0820c9b95ab25ca73c",
+			"sha1": "95e755a6373df6addfaf95ce3fabe89ae790c465",
+			"sha256": "140c7bfbbfe39041b89d9ee1bca27c179b53fc60d419ac9baeff7f93bcb28de4"
+		}
+	]
+}

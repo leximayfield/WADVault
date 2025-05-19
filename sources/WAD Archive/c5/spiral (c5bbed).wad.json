@@ -1,0 +1,17 @@
+{
+	"uid": "spiral (c5bbed).wad",
+	"name": "Spiral Of Death - deathmatch level",
+	"description": "An alteration of doom episode one, mission two. Rooms have been added and joined to make for an excellent deathmatch game. Friends and I have spent three hours straight on this one floor. Plenty of places to sneak up on your friends, or enemies depending on how you see it. Its O.K. to sing \"Roll out the barrel\" at the beginning of this game.",
+	"version": "c5bbed",
+	"date": "2013-11-02 16:44:28",
+	"files": [
+		{
+			"filename": "spiral.wad",
+			"size": 69576,
+			"crc": 551547705,
+			"md5": "3f2a481858ff299fb47df5ee321e7313",
+			"sha1": "c5bbedd00c4b624b47acc390e59a3592992b9f8a",
+			"sha256": "bcf0e8dea37344d0a24fb9281aa2d3884ff5448f23cc0de7b7f5965e708f93c1"
+		}
+	]
+}

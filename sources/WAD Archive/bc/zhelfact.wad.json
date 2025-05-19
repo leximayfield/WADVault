@@ -1,0 +1,16 @@
+{
+	"uid": "zhelfact.wad",
+	"name": "The Hell Factory beta 0.25",
+	"description": "This is my first Boom/ZDoom project and Johannes`s first released project. It have 4 levels so far what are joined together.",
+	"date": "2014-12-29 17:11:37",
+	"files": [
+		{
+			"filename": "zhelfact.wad",
+			"size": 487172,
+			"crc": 2460179648,
+			"md5": "8221424c28a72f651815cff77d36f23b",
+			"sha1": "bce7bdf2b96ea830ffd74dd7d238ba935851d83e",
+			"sha256": "1cae7c0f9c3698656b305f7c7864137fc23f02869671dc827ff9ecadfefddb85"
+		}
+	]
+}

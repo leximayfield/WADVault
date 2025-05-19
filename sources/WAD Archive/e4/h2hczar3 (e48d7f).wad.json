@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczar3 (e48d7f).wad",
+	"name": "The Storehouse",
+	"description": "I was asked to make something similair to the original MAP07, so I did. All weapons except BFG can be found inside the storehouse and also outside. (Just one chaingun) There are some medical kits but no spheres. This arena should be fun even for a solo player.",
+	"version": "e48d7f",
+	"date": "2014-12-15 21:39:08",
+	"files": [
+		{
+			"filename": "h2hczar3.wad",
+			"size": 143624,
+			"crc": 115334687,
+			"md5": "e23e03912c633458e39ab615d2c18829",
+			"sha1": "e48d7f1007d34cb6e272f9e67cc034e2fd0c943e",
+			"sha256": "4207d03cb671c2822d67cfe34d77ccb71429e49c4dcf096f7a570143a80e956a"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "crap (4a755e).wad",
+	"name": "CRAP.WAD",
+	"description": "A file which shows you how NOT to make a WAD file. Caution: If your computer screws up then it's your fault. Use this file AT YOUR OWN RISK!!!!!",
+	"version": "4a755e",
+	"date": "2013-11-02 16:06:11",
+	"files": [
+		{
+			"filename": "crap.wad",
+			"size": 14703,
+			"crc": 3807380577,
+			"md5": "cd0388307c40c59b7461fd812738bff8",
+			"sha1": "4a755ee88572df9a0a802689a0374742cf782681",
+			"sha256": "ba3aadbdb7b345583830d12abcd2ba1f21181bb24fb1eccaf58c9259a4d58f5b"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "fstation.wad",
+	"name": "\"Frag Station\" for DOOM I FSTATION.WAD",
+	"description": "This is my second real level, and I think",
+	"date": "2013-07-09 20:21:24",
+	"files": [
+		{
+			"filename": "fstation.wad",
+			"size": 264974,
+			"crc": 1612396996,
+			"md5": "43aab41642dd69d59f52ca54cd06a217",
+			"sha1": "4b94f52bac440c50ddf0441edf09c2911a7ea654",
+			"sha256": "2a1787feb77c5d930510c8db080976cc1fac5d7eb3ac34ec7b2f0b2ce645ed22"
+		}
+	]
+}

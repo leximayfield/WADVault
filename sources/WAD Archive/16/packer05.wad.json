@@ -1,0 +1,16 @@
+{
+	"uid": "packer05.wad",
+	"name": "PACKER05 THE COURTYARD",
+	"description": "The fifth of the PACKER Deathmatch series for DOOM ][. The first to cater to the new style fragging.... Smallish and tight to limit hiding places, but big enough to keep an element of skill in play. I hate the \"shoot into a crowd\" scenario. Also contains over 20 frames of original animation... --==================================-- This level has no plot, as I find them a waste of time... It has the same basic run and shoot style as the rest of the PACKER series, but is smaller and is a bit more technical. I employed a few new techniques in designing the graphics. I know you aren't supposed to use \"striped\" graphics but they fit the mood, and I LIKE THEM! With no exceptions- all of the graphics are homemade BY ME, or modified DooM originals... Lazarus keeps telling me that I don't have to make ALL new graphics, but I LIKE TO BE DIFFERENT.",
+	"date": "2014-12-15 21:41:41",
+	"files": [
+		{
+			"filename": "packer05.wad",
+			"size": 615248,
+			"crc": 2248008458,
+			"md5": "1313eaae64f40cbd85b7dd66281deff0",
+			"sha1": "16750f885f2d7a9b5a90cd5b46bd0aa15cee64b0",
+			"sha256": "634901cb5a1869fc95e9bed3118176101f229f0f603f926654dfa854c59de63d"
+		}
+	]
+}

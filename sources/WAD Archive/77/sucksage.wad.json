@@ -1,0 +1,16 @@
+{
+	"uid": "sucksage.wad",
+	"name": "Suck a Sage",
+	"description": "My first original Legacy map. Although original, it was inspired by \"Suck a Sage\" which is a piece of music from Guilty Gear X.",
+	"date": "2013-04-22 00:33:49",
+	"files": [
+		{
+			"filename": "sucksage.wad",
+			"size": 194069,
+			"crc": 3618216412,
+			"md5": "03aff8cdefad85297cc08616f045e21e",
+			"sha1": "7721edd2f50809c335db8bd301b0d41702d33a4b",
+			"sha256": "c6fc62c71c5240e355f457730699ccfa1376ae5b8ee2659048b797f2f02e301c"
+		}
+	]
+}

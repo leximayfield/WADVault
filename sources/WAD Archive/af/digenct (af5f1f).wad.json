@@ -1,0 +1,17 @@
+{
+	"uid": "digenct (af5f1f).wad",
+	"name": "Digital Encounter",
+	"description": "Doom ][ WAD You'll be laughing your fraggen butt off.",
+	"version": "af5f1f",
+	"date": "2014-12-15 22:15:45",
+	"files": [
+		{
+			"filename": "digenct.wad",
+			"size": 663235,
+			"crc": 1850445183,
+			"md5": "9ac5aaaeb17365fc59b9b9ef0e74af59",
+			"sha1": "af5f1f0102ea4b5d061df491a0e66c3e9bf87699",
+			"sha256": "dfb13d766deed3e608cc9ea10917b298867ba000541e6f057a1a0491676b82dd"
+		}
+	]
+}

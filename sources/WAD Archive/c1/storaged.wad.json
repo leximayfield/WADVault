@@ -1,0 +1,16 @@
+{
+	"uid": "storaged.wad",
+	"name": "Storaged",
+	"description": "Deathmatch map set in the style of a storage area.",
+	"date": "2014-12-15 21:29:43",
+	"files": [
+		{
+			"filename": "storaged.wad",
+			"size": 62548,
+			"crc": 2034427228,
+			"md5": "320f5856ecf63bb49c7be21daa8fc78b",
+			"sha1": "c16b8e03153462c87f095cae3f58d116cccc2a08",
+			"sha256": "c39e4b178718e2b62ab80ca1501fddac845bc2c0625e85a4048d2d3349aad5d8"
+		}
+	]
+}

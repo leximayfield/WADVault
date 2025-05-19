@@ -1,0 +1,16 @@
+{
+	"uid": "mountwf.wad",
+	"name": "Mountain Waste Facility",
+	"description": "Move through the old Waste Facility to gain access to the other side of the mountain caverns.",
+	"date": "2015-01-13 21:52:25",
+	"files": [
+		{
+			"filename": "mountwf.wad",
+			"size": 481787,
+			"crc": 2978460035,
+			"md5": "eaa489db75e299a15a88d68f30a06278",
+			"sha1": "10022d1fc5852ff90ded5e953fe60555fb039b1f",
+			"sha256": "16306ea24d25f5c11478046ee3fb22647ffe26e10e9433c7f5275891f51df038"
+		}
+	]
+}

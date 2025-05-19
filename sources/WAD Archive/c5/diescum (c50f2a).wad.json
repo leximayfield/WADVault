@@ -1,0 +1,17 @@
+{
+	"uid": "diescum (c50f2a).wad",
+	"name": "DIESCUM.WAD",
+	"description": "A deathmatch level with a lot of lifts.",
+	"version": "c50f2a",
+	"date": "2014-01-11 11:20:00",
+	"files": [
+		{
+			"filename": "diescum.wad",
+			"size": 65534,
+			"crc": 4067931184,
+			"md5": "8cb87fec6cf25046464b8e6e31961bae",
+			"sha1": "c50f2a8c629c45e39aa3010bb0c2b4f2ca7b8903",
+			"sha256": "6bcf0baa95401d65bf11831158957b87b3243e2770839951fb9fcbe05074c33a"
+		}
+	]
+}

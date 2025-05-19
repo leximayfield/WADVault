@@ -1,0 +1,17 @@
+{
+	"uid": "massacre (26cd22).wad",
+	"name": "Massacre",
+	"description": "This is a pretty fast-paced deathmatch level. It was made for 2 players. I haven't tested 4 players. There is a floating cube on this level and the cube has no gliches. I didn't make the cube the same way as the author of FLOATCUB. It should be a very good level for anyone. This level is a need for everyone!",
+	"version": "26cd22",
+	"date": "2013-11-02 15:54:06",
+	"files": [
+		{
+			"filename": "massacre.wad",
+			"size": 92650,
+			"crc": 2636001542,
+			"md5": "8e9d7991b909800c49d14e07de002665",
+			"sha1": "26cd22780e34f19194470024166f64879188c9db",
+			"sha256": "922e575fe1cc787aecf280f827397aeac20732e7ee72f70a70d5764b627fcbb8"
+		}
+	]
+}

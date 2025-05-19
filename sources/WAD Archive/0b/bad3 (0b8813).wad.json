@@ -1,0 +1,17 @@
+{
+	"uid": "bad3 (0b8813).wad",
+	"name": "bad3.WAD",
+	"description": "our favorite deathmatch wad yet (out of all that we've come accross). It was originally made from Doom's E1M1 and then converted to work with Doom ][. This level has many surprises and it's really easy to ambush and backtrack on your opponent! :)",
+	"version": "0b8813",
+	"date": "2013-11-02 15:38:11",
+	"files": [
+		{
+			"filename": "bad3.wad",
+			"size": 99598,
+			"crc": 3696283321,
+			"md5": "d50d1b9bed73be42c035dee748534fda",
+			"sha1": "0b881365878828eb2d2e3cb18250a6a372d70646",
+			"sha256": "27c982ba233628f11d58967020b3d461c0e70a62fbd6e77f9033f8e9e4eb4f17"
+		}
+	]
+}

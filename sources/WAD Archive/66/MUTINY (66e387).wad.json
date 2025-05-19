@@ -1,0 +1,17 @@
+{
+	"uid": "MUTINY (66e387).wad",
+	"name": "Mutiny (A Doomworld Community Project)",
+	"description": "Mutiny is a 16-level, Limit Removing Community Project Episode for Doom 2 intended to be the spiritual successor of late 90's cyberpunk themed wads such as STRAIN, Hacx, Nimrod, Dystopia 3, and Perdition's Gate. It features new colorful, high contrast, (intentionally retro) textures inspired by the works of Iika Keranen and Anthony Czerwonka, complete with plenty radioactive signs, warning stripes, computers, slime, and rust.",
+	"version": "66e387",
+	"date": "2016-09-18 20:00:14",
+	"files": [
+		{
+			"filename": "MUTINY.wad",
+			"size": 16184974,
+			"crc": 409763915,
+			"md5": "8de359b0725c5d89d0746e8d0ad2254f",
+			"sha1": "66e387be6182ff418f5c4f07f972f4817437605d",
+			"sha256": "852519792674a79c13514b866db23d59931053b809beac6b7c1f69904472dae6"
+		}
+	]
+}

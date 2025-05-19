@@ -1,0 +1,16 @@
+{
+	"uid": "awful.wad",
+	"name": "Another Awful Map",
+	"description": "My second map , more complex than the first one . Has now a winnable ending , enjoy :) . Yet again made with project brutality in mind",
+	"date": "2016-07-20 20:05:10",
+	"files": [
+		{
+			"filename": "awful.wad",
+			"size": 57065,
+			"crc": 1838997488,
+			"md5": "5d1d5d871169d2fc035b6300451f421a",
+			"sha1": "3a5598fb532b6aeccc3e03b783aca253ea5d6833",
+			"sha256": "cbb7119143b49a7296aae1c11ea76b6c73e3ac40c65848276d03c4ecfbd6ca05"
+		}
+	]
+}

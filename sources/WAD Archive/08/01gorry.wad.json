@@ -1,0 +1,16 @@
+{
+	"uid": "01gorry.wad",
+	"name": "Gorry (01gorry.wad) DeathMatch for Doom 2",
+	"description": "DEATHMATCH, 2 to 4 players. - Easy to identify co-op exit. Hallways and an arena to fight in. There are a couple of secret rooms, teleporters, and hidden pannels.",
+	"date": "2013-04-19 04:41:43",
+	"files": [
+		{
+			"filename": "01gorry.wad",
+			"size": 51911,
+			"crc": 768118776,
+			"md5": "56630eb5552908a1ac93066cc598e27e",
+			"sha1": "087c397de150a240850b68ab8385caaf5221bc24",
+			"sha256": "bf4375c8164d91f68739a89b55f407a737c7ca9b251c6969097b1e7b377cac19"
+		}
+	]
+}

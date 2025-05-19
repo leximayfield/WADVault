@@ -1,0 +1,17 @@
+{
+	"uid": "JUNKYARD (5743e2).wad",
+	"name": "Junkyard",
+	"description": "This is a DeathMatch for Doom II and accomodates up to 4 players. It is a dark night, you and your buddies sneak into the junkyard to duke it out. This level is a junkyard and has an office in the center. The WAD is not huge and not too small, lots of hiding in the office and holing up in the corners of the yard, where the junk (and weapons) are. No BFG in this one, it would greatly upset the power balance ... in my opinion. Weapons are easily incorporated using your favorite editor, should you really want to add a BFG. BTW: There is no exit switch.",
+	"version": "5743e2",
+	"date": "2014-01-07 21:51:48",
+	"files": [
+		{
+			"filename": "JUNKYARD.wad",
+			"size": 40164,
+			"crc": 4122301105,
+			"md5": "b24d8326d47ebcca60cea5a08bc38b03",
+			"sha1": "5743e27195685cb2b2eec454334db88798964946",
+			"sha256": "0e9d8db09737347ede2232ab2dda749c826cb5bcfd4ba4412a9bcb0691c9aa94"
+		}
+	]
+}

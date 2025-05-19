@@ -1,0 +1,16 @@
+{
+	"uid": "corpse1.wad",
+	"name": "Corpse1.WAD for Doom II",
+	"description": "Designed for 2 or 3 player Deathmatch.",
+	"date": "2014-12-15 22:03:18",
+	"files": [
+		{
+			"filename": "corpse1.wad",
+			"size": 606483,
+			"crc": 1144831753,
+			"md5": "b533b0ee2c0b30f9095e525079e28099",
+			"sha1": "99a4a6033bd9b15f5b728722ef733a6e8c042de3",
+			"sha256": "9153e083e4ddf107ffeca5e1697e03b2442a2769d8d7abe45eff5e87f6d01a76"
+		}
+	]
+}

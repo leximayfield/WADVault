@@ -1,0 +1,16 @@
+{
+	"uid": "secbase.wad",
+	"name": "The Secret Installation",
+	"description": "Two (or four) psycho marines who are frustrated with the ongoing fight against demons go insane and are put inside a hidden base with no possible means of escape. When a hoard of demons penetrate the base the marines totaly lose it and start firing at any and everything that moves (obvious exsuse to blow away the other players).",
+	"date": "2014-12-13 17:25:13",
+	"files": [
+		{
+			"filename": "secbase.wad",
+			"size": 157116,
+			"crc": 2240083523,
+			"md5": "bdc1cadf5cee2bac1db8cedefede98c1",
+			"sha1": "0d2c66ac2aee4aa91e038c22d2f2b374cc2857e7",
+			"sha256": "3a461e5f25e390459f9c8fab54c4c010e73d4d1286500e8fa3ea90d55c470006"
+		}
+	]
+}

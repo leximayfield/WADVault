@@ -1,0 +1,17 @@
+{
+	"uid": "dethtrap (58127d).wad",
+	"name": "DETHTRAP.WAD",
+	"description": "The DethTrap is a DeathMatch (HexMatch?) level for HEXEN.",
+	"version": "58127d",
+	"date": "2014-12-31 11:50:19",
+	"files": [
+		{
+			"filename": "dethtrap.wad",
+			"size": 68101,
+			"crc": 260841877,
+			"md5": "15a60d3bb38f48bb1c74df06c8ee0b89",
+			"sha1": "58127d32b50807ba17e3e0c4cccd11f7911ca794",
+			"sha256": "16af2fe3c2693dc7b8fbf92b03ea0d15bf9dec8fd96f85d51e1e1e4108a1e579"
+		}
+	]
+}

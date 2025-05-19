@@ -1,0 +1,16 @@
+{
+	"uid": "anadream.wad",
+	"name": "THE ANA'S DREAM",
+	"description": "This wad contain redefined Sprites like Arch-vile and other ordinaries Sprites, new textures (80%), new graphics, new music, and all new sounds. I've created this single WAD with the aim that it can be enjoyed not only playing it (WAD's complexity - 8200 sidedefs, a lot of TAG's numbers -almost 140- ), but listening it (Music & Sounds) and watching it (new textures, redefined Sprites, etc.)",
+	"date": "2014-12-15 22:46:28",
+	"files": [
+		{
+			"filename": "anadream.wad",
+			"size": 802304,
+			"crc": 3120430349,
+			"md5": "14acc045914ddc28a8bfeab0ebb9566b",
+			"sha1": "6e374046102c1a915698655d8943534f39181825",
+			"sha256": "834d62a4aa08ef741b1b950ea1bd223d76ffeb93c44304038e220ae9fe37d9dc"
+		}
+	]
+}

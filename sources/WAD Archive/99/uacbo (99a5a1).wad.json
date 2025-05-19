@@ -1,0 +1,17 @@
+{
+	"uid": "uacbo (99a5a1).wad",
+	"name": "Blackout UAC",
+	"description": "My imagination of UAC. Goals were to keep it dark and eerie, original UAC styled but with some added textures for effect.",
+	"version": "99a5a1",
+	"date": "2014-12-29 16:18:22",
+	"files": [
+		{
+			"filename": "uacbo.wad",
+			"size": 5237209,
+			"crc": 724495931,
+			"md5": "c793b240a7538e6fab3be5badd0f6793",
+			"sha1": "99a5a199c525f9b28c03f00c3f2ee49b12361448",
+			"sha256": "07a4d1f66654b8e7d5354d79c01330b5d0bfbfe5262b86bd0f0c54bd7c74497c"
+		}
+	]
+}

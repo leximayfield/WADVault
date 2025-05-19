@@ -1,0 +1,16 @@
+{
+	"uid": "travis1.wad",
+	"name": "travis1.wad",
+	"description": "First attempt at wad.",
+	"date": "2014-12-15 23:15:58",
+	"files": [
+		{
+			"filename": "travis1.wad",
+			"size": 46901,
+			"crc": 2630197329,
+			"md5": "30196eb29a5be7ee1e0bd7c1c4a1a3d6",
+			"sha1": "e9491a4763d1186ff6bdb09407d90bd033d0ebde",
+			"sha256": "5b3424e90771b67a34a3f8b22ceb478420cf1df32dd24bd2197b65bf657c73eb"
+		}
+	]
+}

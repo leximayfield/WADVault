@@ -1,0 +1,17 @@
+{
+	"uid": "keepmov1 (ba2ba1).wad",
+	"name": "Keep Moving I (for DOOM II)",
+	"description": "Purely deathmatch! Designed to keep you and your opponents on your toes. In deathmatch mode everyone starts with one of four weapons and you keep that weapon... until you die. Ammo at one end, health at the other, and plenty of frags in between. Watch your back, aim well, and KEEP MOVING! After testing several different setup options, we came to the conclusion that the best play was with Deathmatch 2.0 and respawning monsters. Try it like that! It really keeps the action going... The map contains every weapon, most of of bonuses, and yes, there is an exit.",
+	"version": "ba2ba1",
+	"date": "2013-11-02 15:42:57",
+	"files": [
+		{
+			"filename": "keepmov1.wad",
+			"size": 71950,
+			"crc": 2401929157,
+			"md5": "01ef2aa0e57e95a2f5beaad4b7b67540",
+			"sha1": "ba2ba12306286355d27f579a672febee1ea5917b",
+			"sha256": "a54c369b9428f590b092b297a1ef3b8db63442575f9a2f4c5facf26469f7ca87"
+		}
+	]
+}

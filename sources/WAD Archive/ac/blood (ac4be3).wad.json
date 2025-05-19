@@ -1,0 +1,17 @@
+{
+	"uid": "blood (ac4be3).wad",
+	"name": "Arena of Blood",
+	"description": "This is an arena style Deathmatch level. I have never exactly had the chance to play Deathmatch with someone when I designed this but I have set it up to where I think it would be a good chalenge. There are a few weapons spread out but only one person will be able to get the rocket launcher. I hope you like it, have fun!!!",
+	"version": "ac4be3",
+	"date": "2013-11-06 22:49:54",
+	"files": [
+		{
+			"filename": "blood.wad",
+			"size": 25160,
+			"crc": 315424526,
+			"md5": "872c8065dc1df6754f27f2f8d393cfdb",
+			"sha1": "ac4be3a4cb6cf44ba55f0aeffb333d901aa20563",
+			"sha256": "036ce5b510de4020d002331cc89eadfcb8fd482f70a0114bbd44e542ee6c9335"
+		}
+	]
+}

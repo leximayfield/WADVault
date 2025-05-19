@@ -1,0 +1,16 @@
+{
+	"uid": "secrlab.wad",
+	"name": "Secret Laboratory",
+	"description": "Deep down inside the star base of the UAC lies a secret laboratory where there is dark testing going on for things that cannot be revealed in this document. Your mission is to infiltrate the secret laboratory and find out what the now-rogue UAC has to hide.",
+	"date": "2014-12-29 15:19:03",
+	"files": [
+		{
+			"filename": "secrlab.wad",
+			"size": 1931801,
+			"crc": 2994103128,
+			"md5": "a66d7552e304dc367be92c914e09628f",
+			"sha1": "d9e9467b71144248d1047b5968b05a8e7db6f43b",
+			"sha256": "7ec84b161f34e852d281168903ad6a657731be308794b8650311d475a2ca9923"
+		}
+	]
+}

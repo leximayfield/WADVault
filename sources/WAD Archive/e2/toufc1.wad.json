@@ -1,0 +1,16 @@
+{
+	"uid": "toufc1.wad",
+	"name": "Temple of Unholy Fire, chapter 1 (demo)",
+	"description": "Demo level for my player miniwad in hellish/marble style influenced by games like Heretic, Hexen and Painkiller. Contains new monsters, weapons and decorations implemented with BEX patch. Although this wad is called demo level it's playable on it's own. For list of changes see changes.txt file.",
+	"date": "2017-06-27 00:13:23",
+	"files": [
+		{
+			"filename": "toufc1.wad",
+			"size": 17865817,
+			"crc": 2510559853,
+			"md5": "17abdfe78efb048d2b6653a90284c55f",
+			"sha1": "e22871dba7025f2551ff213e0506561cca744723",
+			"sha256": "0f83660ae975f26bdb903d73a25b6b8e0dd688d137d4a94eb54984525d782c63"
+		}
+	]
+}

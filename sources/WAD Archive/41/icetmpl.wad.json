@@ -1,0 +1,16 @@
+{
+	"uid": "icetmpl.wad",
+	"name": "Ice Temple of the Maulotaur",
+	"description": "Lots of traps and pits, teleporting around. Most weapons are included. My first PWAD, so it's a little raw, but I'm proud of it! Made for single player, but good co-op. I haven't tried DM, but it's probably worth a shot (also, If you have advice or information about adding new textures, monsters, sounds, weapons, etc. drop me an E-mail). Enjoy! (:'/)",
+	"date": "2018-06-15 11:28:11",
+	"files": [
+		{
+			"filename": "icetmpl.wad",
+			"size": 55029,
+			"crc": 3972521466,
+			"md5": "c393ecbf07b91cdb084e07761187bf3a",
+			"sha1": "41f51e11f3e8acb4d0f7edd90830f04c67b5b0cb",
+			"sha256": "a786f3b8753262aae478f428bdeb1c6ec3ae67e7d2e3943e23c957e303f02c36"
+		}
+	]
+}

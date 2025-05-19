@@ -1,0 +1,17 @@
+{
+	"uid": "mentzer6 (c911f5).wad",
+	"name": "Mentzer6.WAD (For Doom 2)",
+	"description": "AKA: Frag Count",
+	"version": "c911f5",
+	"date": "2014-12-03 20:18:48",
+	"files": [
+		{
+			"filename": "mentzer6.wad",
+			"size": 50194,
+			"crc": 2399288931,
+			"md5": "71831173034143a5002cecc0c7f5db1c",
+			"sha1": "c911f5e2495d7f8c7e0fae2cf26418fb302ca816",
+			"sha256": "4676774fddc30ad58a069bd4bd37af80b009b98163da9809e56dc2af1eeab984"
+		}
+	]
+}

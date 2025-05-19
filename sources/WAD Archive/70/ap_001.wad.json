@@ -1,0 +1,16 @@
+{
+	"uid": "ap_001.wad",
+	"name": "World's End",
+	"description": "Part one in a series of levels to be individually released and then eventually combined to form a final compilation. World's End is a barren and perilous place. A hive for imps and other creatures who will likely take interest in your abrupt intrusion.",
+	"date": "2014-12-21 17:00:30",
+	"files": [
+		{
+			"filename": "ap_001.wad",
+			"size": 108338,
+			"crc": 3802546822,
+			"md5": "6258602c6aa48a82a9077684a47846bb",
+			"sha1": "70109367c15f5adff9d55244c43bfa2821bf5015",
+			"sha256": "ff711190179a863ab84d5708962dc6bb3449a9576f618d19e343652aeffd0e40"
+		}
+	]
+}

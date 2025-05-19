@@ -1,0 +1,17 @@
+{
+	"uid": "hiding (626e82).wad",
+	"name": "Hiding to Nothing",
+	"description": "My second published WAD, much much bigger than the last and far more difficult.",
+	"version": "626e82",
+	"date": "2016-02-07 20:28:59",
+	"files": [
+		{
+			"filename": "hiding.wad",
+			"size": 151170,
+			"crc": 3484589604,
+			"md5": "87b6745bd7cef15ffbbf9c623c8c74fb",
+			"sha1": "626e82f37f5754bb0ce9a7d74a494b0b40a25d46",
+			"sha256": "b100faedf7c3e82b9bb8948e5cc344f2ff6fcb3af610565427c8fc36b3d5a3b0"
+		}
+	]
+}

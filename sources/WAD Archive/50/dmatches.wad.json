@@ -1,0 +1,16 @@
+{
+	"uid": "dmatches.wad",
+	"name": "DMATCHES.WAD",
+	"description": "A package of 12 different deathmatch levels, varying in weaponry, size etc. The levels are sorted by \"fragginess\": first are the levels containing only shotguns, catlings etc, and last are full of bfg-plasma-cyberdemon things... All the levels are made with taste, texture alignment is excellent and there's no bugs! Go fragging your friends for next month!",
+	"date": "2013-11-02 16:38:55",
+	"files": [
+		{
+			"filename": "dmatches.wad",
+			"size": 1049305,
+			"crc": 2062521452,
+			"md5": "7dade365db2940cad199f9c83bd56611",
+			"sha1": "5060cf06ede6b50add9213305fc353a66deaf2a5",
+			"sha256": "1cd9b2fbbba866c31864b2baac3e19abdd1beb85b2bbf61d91433a2625b2c060"
+		}
+	]
+}

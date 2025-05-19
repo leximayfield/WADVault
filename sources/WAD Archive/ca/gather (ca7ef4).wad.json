@@ -1,0 +1,16 @@
+{
+	"uid": "gather (ca7ef4).wad",
+	"name": "The Final Gathering",
+	"version": "ca7ef4",
+	"date": "2015-12-07 06:05:00",
+	"files": [
+		{
+			"filename": "gather.wad",
+			"size": 488419,
+			"crc": 1472568467,
+			"md5": "c5053bb64ab4e621565d1b50a0f8f6fe",
+			"sha1": "ca7ef4c628176201a9bf173b0e4fe5e2fb3a227f",
+			"sha256": "8875cd59f9d02ecc97774a7fb5e3a9778fd887bee570464cc083bfd8485cb4aa"
+		}
+	]
+}

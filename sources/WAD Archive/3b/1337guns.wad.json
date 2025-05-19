@@ -1,0 +1,16 @@
+{
+	"uid": "1337guns.wad",
+	"name": "1337 Guns",
+	"description": "Well, I just released this to be the first weapon replacement that actually powers down the weapons! It's not quite as good as my other ones, but I did it and just had to release it. :P",
+	"date": "2014-12-11 22:25:18",
+	"files": [
+		{
+			"filename": "1337guns.wad",
+			"size": 544574,
+			"crc": 1873309536,
+			"md5": "e9a564301b2e84b35d63c6198fc3afdb",
+			"sha1": "3b53600cef5a35053b5e9021c5e90ae3cd0686cb",
+			"sha256": "3ff13954011638b07c8df239d349220fe3908501ce50286d6f143d92cda9bf54"
+		}
+	]
+}

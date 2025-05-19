@@ -1,0 +1,16 @@
+{
+	"uid": "forlorn.wad",
+	"name": "Forlorn",
+	"description": "A map created for my Talosian Incident II project, and released as a demo for Torn's 2005 Doom Advent Calendar.",
+	"date": "2014-12-22 18:52:18",
+	"files": [
+		{
+			"filename": "forlorn.wad",
+			"size": 1193218,
+			"crc": 206431963,
+			"md5": "7e4fd3117aa6008e53f2d8208a0e9742",
+			"sha1": "0871474f481864618a95702e690ddeadab58449a",
+			"sha256": "230a3c92d7d1a48a9283e697b442fc5542b10f15d437ac08c9ae2cdd7e18f61d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "karnage.wad",
+	"name": "Total KARNAGE!(v1.1)",
+	"description": "large level with lots of lighting fx, excellent design. General theme with LOTS of puzzles, traps, Deathmatch features and other cool stuff. Because of the levels layout D-Match might be a bit of a pain, but there's lots of transporters around the place so it should be to much of a problem to do some serious fraggin'.",
+	"date": "2014-12-27 12:55:12",
+	"files": [
+		{
+			"filename": "karnage.wad",
+			"size": 283523,
+			"crc": 1176531839,
+			"md5": "bd4e0cbfa61d0aade33d5af504eb8e7e",
+			"sha1": "8bf681d42bb6c29ab176316ab3744b339e6d6814",
+			"sha256": "1e52b7c501d55237447faf2f7b72eb450f9978b6eb7bcfda6f34f6ab8dbf3914"
+		}
+	]
+}

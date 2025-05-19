@@ -1,0 +1,16 @@
+{
+	"uid": "dfort.wad",
+	"name": "Fortress of D'Sparil",
+	"description": "A Heretic level I decided to do for a change from Doom levels, and partially because ZETH supports Heretic ;).",
+	"date": "2014-12-30 11:37:47",
+	"files": [
+		{
+			"filename": "dfort.wad",
+			"size": 426184,
+			"crc": 672668530,
+			"md5": "b373e671a4120cecd44af07550206c50",
+			"sha1": "443a0600713294579ddf6ca22eae0af3ed399a43",
+			"sha256": "515d146c2debeccc8652e40d225a4d26e20fc7270143ec6ac102457717aebc50"
+		}
+	]
+}

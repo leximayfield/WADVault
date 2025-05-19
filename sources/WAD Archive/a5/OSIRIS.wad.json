@@ -1,0 +1,16 @@
+{
+	"uid": "OSIRIS.wad",
+	"name": "OSIRIS Total Conversion",
+	"description": "OSIRIS Total Conversion is the much-expanded sequel to I, ANUBIS (a DOOMGATE \"Best Doom2 of all time\" level). OSIRIS makes that one look like pac-man.",
+	"date": "2013-04-21 20:50:15",
+	"files": [
+		{
+			"filename": "OSIRIS.wad",
+			"size": 4546392,
+			"crc": 2384176519,
+			"md5": "08c56b6c604783d2a6528e83c83208f4",
+			"sha1": "a5d93fcc996a7734260b2b17554801e19d07c40d",
+			"sha256": "03f228b784fa20ff884f927724fd5ac742cfe8309e6d9b7fed69a2306b6cc169"
+		}
+	]
+}

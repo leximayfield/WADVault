@@ -1,0 +1,16 @@
+{
+	"uid": "HEXSTEP.wad",
+	"name": "Undertaker's Venture",
+	"description": "Map01 for Hexen.",
+	"date": "2014-10-14 21:05:43",
+	"files": [
+		{
+			"filename": "HEXSTEP.wad",
+			"size": 39705,
+			"crc": 2480838912,
+			"md5": "d886ddbd62af939f303d2e57e32d232f",
+			"sha1": "ecd0d36f7d26df69d5c6155523903589dda0083f",
+			"sha256": "589d36e47806d9d56e542ceed0129f90a4fef58f68c10a346724bae0b96daa98"
+		}
+	]
+}

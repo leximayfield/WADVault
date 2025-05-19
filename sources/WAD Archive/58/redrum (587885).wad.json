@@ -1,0 +1,17 @@
+{
+	"uid": "redrum (587885).wad",
+	"name": "REDRUM",
+	"description": "Redrum is a rather large file, over 300k. For some reason beyond my comprehension DOOM will not let you save your game while playing Redrum.wad, so you better be pretty good at doom! Also may I suggest that you run doom with your \"messages on\". This is the only way you will know if and what key you will need to open a locked door for I have not color coded them (I just didn't like the look of em' in my level) I have included Deathmatch starts in this level but I did not design the level for it. The level is so expansive you might never find each other. I think there is a nice mix of monsters,amo,and first aid in the level. If you think it is too hard or too easy you may add or delet amo and health to suit your needs (I don't mind). I have also hidden my secret doors very well, and you may have to use more of a \"Wolfenstein\" approach to find them. Have fun!",
+	"version": "587885",
+	"date": "2014-01-04 11:55:46",
+	"files": [
+		{
+			"filename": "redrum.wad",
+			"size": 338639,
+			"crc": 3157468291,
+			"md5": "79d3875d549314939f7e3064a0233044",
+			"sha1": "587885d4f34af7eb07138dc2fe921721207cbd9b",
+			"sha256": "313181c53b60a4e09d087ee77ab4587a5d4d451e39bcbb7b4cdcc293f11ec129"
+		}
+	]
+}

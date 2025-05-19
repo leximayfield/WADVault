@@ -1,0 +1,16 @@
+{
+	"uid": "metvault.wad",
+	"name": "Metal Vault",
+	"description": "You've been sent to investigate and clear a mysterious hellish vault that got raised on Phobos. Your task is to clear the area of demonic resistance and proceed forward to the logical end. Beware that not everything you need will be in plain sight!",
+	"date": "2015-09-14 21:55:16",
+	"files": [
+		{
+			"filename": "metvault.wad",
+			"size": 92110,
+			"crc": 2319685294,
+			"md5": "eb70243800e79d5d41c464e1e09481b5",
+			"sha1": "0ed23b27918088f0e9daf148b0b36ffd080eecbe",
+			"sha256": "9cdb37d2a6bd71f95518b868a71ad7e6ee264a958df74eb2c7f642c7d8bdeff1"
+		}
+	]
+}

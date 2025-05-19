@@ -1,0 +1,17 @@
+{
+	"uid": "pipes (08588a).wad",
+	"name": "Waste Disposal Inc.",
+	"description": "This being my first DM map, I think it's actually pretty good. I use props such as trees and drain pipes to spruce up the look a bit. The BFG is also a bit harder to find than usual in this DM map. Enjoy!",
+	"version": "08588a",
+	"date": "2014-12-15 22:29:14",
+	"files": [
+		{
+			"filename": "pipes.wad",
+			"size": 483958,
+			"crc": 1299312692,
+			"md5": "0212556e40ae9bf7c6b04cedddf36567",
+			"sha1": "08588a6c5e3e3975a4da958ba49865cddbb1e32a",
+			"sha256": "99106c59b4c4ee2374a40d6b8a86d54b2e442df1dce7d2ecc5fc9d7ec1ee9921"
+		}
+	]
+}

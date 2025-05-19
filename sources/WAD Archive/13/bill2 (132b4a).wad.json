@@ -1,0 +1,17 @@
+{
+	"uid": "bill2 (132b4a).wad",
+	"name": "BILL2",
+	"description": "Single deathmatch level designed for close quarters combat. Takes a little bit of brains but not for the mensa group. Just remember that if you must have that BFG (BFG Queens take note), then go ahead and take the risk.",
+	"version": "132b4a",
+	"date": "2014-01-07 22:18:46",
+	"files": [
+		{
+			"filename": "bill2.wad",
+			"size": 161672,
+			"crc": 1218695608,
+			"md5": "e5d12a3f7a765cb844043d03d64c5487",
+			"sha1": "132b4af0c6727a0b46251ca766e713f2f1c26260",
+			"sha256": "8060e18c2ae0136a6483c98431166976e10b977323eb7ec34d94335a4e356f8b"
+		}
+	]
+}

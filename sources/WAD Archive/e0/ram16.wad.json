@@ -1,0 +1,16 @@
+{
+	"uid": "ram16.wad",
+	"name": "Nazi Deth Kamp '96",
+	"description": "This is a brand new version of \"Nazi Deth Kamp\" that originally appeared as level 2 in RamDeth last August and was later remade into level 6 in RamDoom. I added more enemies, health, and ammo to spice it up some ! I beat on UV, can you ?",
+	"date": "2015-01-14 14:58:15",
+	"files": [
+		{
+			"filename": "ram16.wad",
+			"size": 715440,
+			"crc": 2289026880,
+			"md5": "a64e1b1b2bd9e9b06c0e8542df80c9ff",
+			"sha1": "e00b13ee1f15e5a189b763c4d0324247a623bd57",
+			"sha256": "0ddfd7ef7a2ac4a9dfba2fae043d0278c5a22be1f235af815bac5890eb2ead19"
+		}
+	]
+}

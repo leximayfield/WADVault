@@ -1,0 +1,16 @@
+{
+	"uid": "edge (ac96ce).wad",
+	"name": "EDGE WAD for V1.27",
+	"version": "ac96ce",
+	"date": "2015-06-29 12:54:22",
+	"files": [
+		{
+			"filename": "edge.wad",
+			"size": 762308,
+			"crc": 532717249,
+			"md5": "ebe8a9b7d5c1efc491b09efb1d67aca6",
+			"sha1": "ac96ce3e47f464eff9bed566db78e7fad0ebb07f",
+			"sha256": "e719c42351a54588c8092cc3c089bddcacfec99bd5f7ebd935a9c2bef0c5e533"
+		}
+	]
+}

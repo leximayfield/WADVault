@@ -1,0 +1,16 @@
+{
+	"uid": "tomshall.wad",
+	"name": "Tom's Halls v1.6",
+	"description": "This is my first attempt at a 'Doom the way Id Did'-like map. It is based mainly on the style of Tom Hall's Doom maps, namely E1M4, E2M1, E2M2, E2M3, E2M4, E2M7, E3M3, E3M7, and MAP 10. Perhaps more of a medley/remix than a raw style replication, I feel it's a decent map, nonetheless. I wasn't arsed to build for vanilla limits, so you'll very likely need a limit removing port to run this. Enjoy!",
+	"date": "2014-12-29 16:38:16",
+	"files": [
+		{
+			"filename": "tomshall.wad",
+			"size": 223396,
+			"crc": 3563533366,
+			"md5": "8cc55c7fccebc9d9981cd90692c7c443",
+			"sha1": "d2f7c38a72c4145b8b1214404e77df6d3ddccf48",
+			"sha256": "1f8062cdfb84e85762f2647c99c9601a9c1ded2af85e1e308816e0f096878f28"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "bas_evil.wad",
+	"name": "The Base of Evil",
+	"description": "This pwad replaces episode #2 with 9 new levels. The level layouts and difficulty of these levels are compareable to DOOM's 'INFERNO'.",
+	"date": "2014-12-13 17:39:12",
+	"files": [
+		{
+			"filename": "bas_evil.wad",
+			"size": 1128708,
+			"crc": 4156575474,
+			"md5": "d31ca29eeff1f4de26a32bd3d8fd5ce3",
+			"sha1": "242ee546b1b43c52811ad475c9934f8342ecae72",
+			"sha256": "c5d0d39bc838bc2c32fdde8a8d827c31af81ad51d117457f9815db4011df0f8f"
+		}
+	]
+}

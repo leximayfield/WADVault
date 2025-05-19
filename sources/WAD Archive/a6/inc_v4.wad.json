@@ -1,0 +1,16 @@
+{
+	"uid": "inc_v4.wad",
+	"name": "Incubator",
+	"description": "A follow up map to WTP, it is to be played with WTP so the story continues. This is the base on the other side of the teleport, it looks like it has been used recently, the place seems to be nothing but empty of hell spawn however.",
+	"date": "2014-12-24 19:09:20",
+	"files": [
+		{
+			"filename": "inc_v4.wad",
+			"size": 270275,
+			"crc": 1687512723,
+			"md5": "6821a516d1c25a31a127e0d9789ec6cc",
+			"sha1": "a67489497ef7818aac979933412dbacaaf790f8a",
+			"sha256": "3f605111043a10f4b127a699cf386cbc7d6ffd920a36ec29eb3ea7cd9b21e913"
+		}
+	]
+}

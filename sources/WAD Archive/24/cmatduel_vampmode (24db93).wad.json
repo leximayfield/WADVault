@@ -1,0 +1,17 @@
+{
+	"uid": "cmatduel_vampmode (24db93).wad",
+	"name": "CMAT duel",
+	"description": "This is a conversion of the uber-old CMAT wad into a duel wad, in order to experiment an alternative to shoot!.wad. For those that don't know, CMAT was a SSG practice wad taking place in D5M1 courtyard where the goal was to kill a shotgun guy with 3500 hp.. more info here http://www.doom2.net/~alliance/ladder2.html On this conversion both players start with 666 hp and a SSG with unlimited ammo, with a max reachable health of 999 through vampire mode. I'd suggest using either fraglimit 10 or timelimit 5.",
+	"version": "24db93",
+	"date": "2013-05-06 18:02:58",
+	"files": [
+		{
+			"filename": "cmatduel_vampmode.wad",
+			"size": 21655,
+			"crc": 1137405687,
+			"md5": "a68a29c8ff920c36e10bcdb0b1c3c6cc",
+			"sha1": "24db93597db8dcd332e6aec6b558200ab87e1099",
+			"sha256": "81e2f58ee7387ea7adb993c69de61396cb5f735b4f885dd53268eb1887185ee3"
+		}
+	]
+}

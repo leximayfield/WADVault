@@ -1,0 +1,16 @@
+{
+	"uid": "whereonearth1.wad",
+	"name": "Heretics on Earth - beta 1",
+	"description": "This mod replaces the player with a heretic, the weapons with a set of medieval arsenal, and many of the pickups with less techy variants.",
+	"date": "2014-08-18 21:13:53",
+	"files": [
+		{
+			"filename": "whereonearth1.wad",
+			"size": 942401,
+			"crc": 2773664002,
+			"md5": "1300a7722eade3455ed3ed971ff21f04",
+			"sha1": "72a1d2fe2ca78495a74e879f65a4014e6f97781f",
+			"sha256": "b53d8f2def9ba98aa84d4e98d5a0903b4e6d062e18032b2ce8741dbc10002933"
+		}
+	]
+}

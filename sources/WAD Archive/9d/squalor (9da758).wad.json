@@ -1,0 +1,17 @@
+{
+	"uid": "squalor (9da758).wad",
+	"name": "SQUALOR.WAD",
+	"description": ".While I have constructed many maps for DOOM and DOOM II this is the first map that I feel proud enough of to post to the net. It's deathmatch only. Everyone here at my office enjoys it, let me know what you think. I put a few monsters in along with all of the weapons and powerups. Not really intended for Deathmatch II, but you can try. I tried to include some good sniper spots while using varying light levels to make the level more of a hunt and chase style of fighting rather that a free for all such as level seven of DOOM II.",
+	"version": "9da758",
+	"date": "2013-11-02 16:00:54",
+	"files": [
+		{
+			"filename": "squalor.wad",
+			"size": 107810,
+			"crc": 2836497442,
+			"md5": "582be794cc4e9f5744823baa20f3a14a",
+			"sha1": "9da758b5cfef9dc5f4e3ba10960f1cd9ac933c6b",
+			"sha256": "ba7d7845c532a53d822aba7574e9e9cfd0a856cbb0617aa5f7741bd7febe2e57"
+		}
+	]
+}

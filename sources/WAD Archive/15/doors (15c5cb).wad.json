@@ -1,0 +1,17 @@
+{
+	"uid": "doors (15c5cb).wad",
+	"name": "The doors to hell",
+	"description": "After years of development, the masterpiece has finally been completed, witness the ultimate destruction of humanity as the doors of hell have opened, you are the only one left and it's up to you to fight them off, else all good is doomed forever.",
+	"version": "15c5cb",
+	"date": "2014-12-24 19:19:57",
+	"files": [
+		{
+			"filename": "doors.wad",
+			"size": 640278,
+			"crc": 3852480411,
+			"md5": "0f7aa8fafb32c480666d2dbc4eb55ddf",
+			"sha1": "15c5cb4f7f3f1beef6da212a7a4c097ca1e3e9b6",
+			"sha256": "ced0780c68b86ddd8a412e2e6f51087ce2071412d48786f26e7e1f9edcce94cf"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "demon (a02d48).wad",
+	"name": "The Demon Hoards (Doom 2)",
+	"description": "Sick of those boring levels everybody else makes that are all the same. Try this one out! You have to escape from the Demon hoards! This is by no means an easy level (though it is quite possible, I've beaten it a zillion times), but it is fun and requires a little bit of strategy and luck combined. Knock yourself out running from over 100 demons!",
+	"version": "a02d48",
+	"date": "2013-11-04 20:08:04",
+	"files": [
+		{
+			"filename": "demon.wad",
+			"size": 4526,
+			"crc": 2437957684,
+			"md5": "420ee0609dafaacd1d4a5b68fae3e15d",
+			"sha1": "a02d48179cf7870fd65c9583cfe1b282bc3ba82d",
+			"sha256": "45e84e134ecbccfe07ce42c2e8d0e4105045eac444a7d54441495722101d3fc2"
+		}
+	]
+}

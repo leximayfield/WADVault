@@ -1,0 +1,17 @@
+{
+	"uid": "trap (9eebb0).wad",
+	"name": "TRAPPED",
+	"description": "Arena type wad. Made for four player deathmatch. Hidden",
+	"version": "9eebb0",
+	"date": "2014-12-03 20:20:27",
+	"files": [
+		{
+			"filename": "trap.wad",
+			"size": 167969,
+			"crc": 125774965,
+			"md5": "5a65973359ef7fadd25070283cff600d",
+			"sha1": "9eebb012bad873c5fc93d94a92d82e09926d4f71",
+			"sha256": "674e16971328fd6885114f299206fbad00456b7ebb2028d670faca4e24af7d46"
+		}
+	]
+}

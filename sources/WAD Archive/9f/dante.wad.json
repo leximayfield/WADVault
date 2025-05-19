@@ -1,0 +1,16 @@
+{
+	"uid": "dante.wad",
+	"name": "DANTE.WAD",
+	"description": "Three challenging maps prompted by Dante's inferno Map 01: Dark Wood Map 02: Acheron River Map 03: Limbo",
+	"date": "2014-12-18 23:19:42",
+	"files": [
+		{
+			"filename": "dante.wad",
+			"size": 178874,
+			"crc": 2438101440,
+			"md5": "e9f65a459e76a7d35e47277f1bf5ba53",
+			"sha1": "9fb8975b28f19319162a828d97fd3640a262d992",
+			"sha256": "ef1ece6390442560965d7dd21148247a699c83b0e575c24d448b0e1cf7209c7e"
+		}
+	]
+}

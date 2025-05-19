@@ -1,0 +1,17 @@
+{
+	"uid": "wolf (f6ac2d).wad",
+	"name": "The Ultimate Enemy",
+	"description": "This is the first 4 levels of Doom 2, now with only one enemy (the Wolfenstein soldiers) and 2 weapons (the super shotgun and the chaingun) !! Ammo is scare and so is the health, so when you find some, you better conserve it a little !",
+	"version": "f6ac2d",
+	"date": "2013-11-03 17:46:05",
+	"files": [
+		{
+			"filename": "wolf.wad",
+			"size": 370123,
+			"crc": 332086839,
+			"md5": "4135fac44f4201b3c57ce20524eb4ee5",
+			"sha1": "f6ac2d6243f9b87901ffd596d62ea8e23e8c47f5",
+			"sha256": "da49aa0b03ef659b3a0531bf28a4b18213ad586427d04392cb36d2ff2a73ccc5"
+		}
+	]
+}

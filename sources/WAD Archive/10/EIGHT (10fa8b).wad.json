@@ -1,0 +1,17 @@
+{
+	"uid": "EIGHT (10fa8b).wad",
+	"name": "Death Eight",
+	"description": "Optimized, and I do mean optimized, for death- match play. No exits, and no monsters, which means no fun alone.",
+	"version": "10fa8b",
+	"date": "2014-08-30 14:25:20",
+	"files": [
+		{
+			"filename": "EIGHT.wad",
+			"size": 22229,
+			"crc": 1765159021,
+			"md5": "06c494b8ed8f4ac896ddc06aa60c126b",
+			"sha1": "10fa8b3d3ba4fc6a3ec31155df0cf390ccc76905",
+			"sha256": "a5c0d8b371151413af2103aede776d14ec77bb58058c13bc4cf5d0f24d3a06c5"
+		}
+	]
+}

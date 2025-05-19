@@ -1,0 +1,17 @@
+{
+	"uid": "quad (84d96a).wad",
+	"name": "QUAD.WAD (possibly final)",
+	"description": "Similar to level 7 in size and purpose, but architecturally more complex. Gameplay should be more chaotic too. :)",
+	"version": "84d96a",
+	"date": "2014-12-15 22:31:57",
+	"files": [
+		{
+			"filename": "quad.wad",
+			"size": 63063,
+			"crc": 3948653253,
+			"md5": "f81ac58452412ad8c3f6b328d23dfdbc",
+			"sha1": "84d96a5eba797ce5d3c842ddb32ff24e77cf9996",
+			"sha256": "cf48cad34089926c752f6eee9c4641514af38b0fa3480b25bd9ace57d2e2f773"
+		}
+	]
+}

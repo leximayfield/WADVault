@@ -1,0 +1,16 @@
+{
+	"uid": "bfield.wad",
+	"name": "Battle Field and Hill Fun",
+	"description": "This is a DEATHMATCH level. There are *NO* monsters so if your expecting to play this alone you'll get bored. This is an mostly an open area playing area. It includes 1 fort and 1 bunker. This is best played with two teams of two. Just remember who your teams are. This level has stuff like a snipers alley. This WAD is best played around scenarios i.e. attack the base/defend the base. If your attacking the bunker you have the opertunity to kill the power, which shuts the lights off. Get the light amps. and attack at total darkness. I tried to give each team there own weapon to start with- fort-P.G.; bunker-M.L I also tried to give each team security around their base. Each side has their advantages and dis- advantages. On Hill Fun it is just one big long stairway and a bunch of hills. I made this one for fun.",
+	"date": "2014-12-15 21:33:46",
+	"files": [
+		{
+			"filename": "bfield.wad",
+			"size": 98038,
+			"crc": 3189997103,
+			"md5": "440fa7c3becacc61f13668d833aafd36",
+			"sha1": "41b330ac36f79c120ce0efcbe9c50009780e37a4",
+			"sha256": "106c7951079dec1f273d2968ed7d3c9aa4c66f71c7f27fe0dd5514482e95855f"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sewer (ae8c57).wad",
+	"name": "The Sewers",
+	"description": "Level takes place in a sewer-like environment. Dark and dingy (pronounced DIN-GEE) walkways and rooms provide plenty of places where the enemies lie in wait. Huge level! Takes an average player about 1 hour to play! Check out the unique ideas and watch for textures that are slightly different or out of alignment with the ones next to them. Some times they hold secret rooms, sometimes they're just there to throw you off track.",
+	"version": "ae8c57",
+	"date": "2015-01-14 23:10:34",
+	"files": [
+		{
+			"filename": "sewer.wad",
+			"size": 461340,
+			"crc": 1883545957,
+			"md5": "83d11d306e1c4a6f767e64261ede8b14",
+			"sha1": "ae8c5763ea341523cb08772eabdcf094cb9b1329",
+			"sha256": "8b78990cb32778baddeda4ab157396f6fb082be6dd66931731284cf66e67eda0"
+		}
+	]
+}

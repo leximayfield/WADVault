@@ -1,0 +1,16 @@
+{
+	"uid": "scrpmin.wad",
+	"name": "Scorpion Minion",
+	"description": "A small six legged enemy in the theme of the Arachnotron/Spider Mastermind.",
+	"date": "2018-04-15 22:58:31",
+	"files": [
+		{
+			"filename": "scrpmin.wad",
+			"size": 118908,
+			"crc": 2530742155,
+			"md5": "a104a18d1bf8cf666ca7e19293365f58",
+			"sha1": "8badbd360becde58761358afe7db2da1d9efd567",
+			"sha256": "da37651e50ebfb5f162676c34e219cb291a70fd7e7b063ea750452babecf9488"
+		}
+	]
+}

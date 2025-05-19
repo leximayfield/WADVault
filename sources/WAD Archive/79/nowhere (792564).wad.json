@@ -1,0 +1,17 @@
+{
+	"uid": "nowhere (792564).wad",
+	"name": "Nowhere to Hide",
+	"description": "A single-level Doom2 PWAD.",
+	"version": "792564",
+	"date": "2015-09-14 21:54:42",
+	"files": [
+		{
+			"filename": "nowhere.wad",
+			"size": 145584,
+			"crc": 1570768909,
+			"md5": "16ef30d7ea89de3489b6e70686b6130e",
+			"sha1": "792564dfaa81e31d403d146cc2b37c65801e2f96",
+			"sha256": "1f32ba7eb57d01bfb4608f588d854a445ae6894350f5f166d16de7364b7711bc"
+		}
+	]
+}

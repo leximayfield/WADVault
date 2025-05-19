@@ -1,0 +1,17 @@
+{
+	"uid": "hellhole (8f86c8).wad",
+	"name": "Hellhole.wad (for Doom 2)",
+	"description": "A relativly small, straightforward Deathmatch level with few bells and whistles. The basis of the WAD is a large, octagonal area with a deep lava pit in the middle. Five accessable pillars rise from the hellhole. There are numerous obstacles to dodge around, and an additional room with a deadly trap in it.",
+	"version": "8f86c8",
+	"date": "2014-10-14 21:00:21",
+	"files": [
+		{
+			"filename": "hellhole.wad",
+			"size": 110564,
+			"crc": 2202022655,
+			"md5": "06bcf0333b85f182efccf3c8d4156c94",
+			"sha1": "8f86c89e0ce5f5c8402862c13a42236294bce73c",
+			"sha256": "d2894e1636aa5cdd228f0ad3aef82d70633da191c36d06443615244ffb768166"
+		}
+	]
+}

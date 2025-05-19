@@ -1,0 +1,16 @@
+{
+	"uid": "d2_kill.wad",
+	"name": "KILL 'EM!",
+	"description": "This is the Doom II conversion of my level KILL_EM.WAD. But unlike most DOOM to DOOM II conversions, I've made lots of changes. The level itself is a medium-sized one, with a main arena, passages, and two smaller rooms, each with some tricks and strategies to them. The courtyard is where I expect much of the major fighting to be carried out, and has three main structures in it, as well as ledges around much of it. The structures are a hollow pillar (with nice stuff inside), a tall thin building (only way to get up it is a lift, so it's great for hiding nice stuff in, hint hint), and a pagoda, who's main function is blocking shots and holding up opponents. Of the smaller rooms, one is pitch-dark, and holds some warp-in spots and guns, and makes for great ambushes. The other room has a jail in it, see the next subject.",
+	"date": "2013-11-04 19:23:32",
+	"files": [
+		{
+			"filename": "d2_kill.wad",
+			"size": 344811,
+			"crc": 3328513298,
+			"md5": "c44212f6987073fb968d6c095256f060",
+			"sha1": "9d3939978016e18c9bd7389c1278b24a3936d71e",
+			"sha256": "fc9f323f84168193dae487ab52cc17aa7512fb0aeb37c59e1a18c59b1d950eee"
+		}
+	]
+}

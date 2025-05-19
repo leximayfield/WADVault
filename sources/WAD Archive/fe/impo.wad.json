@@ -1,0 +1,16 @@
+{
+	"uid": "impo.wad",
+	"name": "FROM OUT OF THE WAD BIN... 'Impo'",
+	"description": "This is just a graphics and sound replacement making the marine (you) an imp. I started it like 2 years ago.",
+	"date": "2014-12-18 23:11:31",
+	"files": [
+		{
+			"filename": "impo.wad",
+			"size": 651424,
+			"crc": 958369115,
+			"md5": "555e27f5addca14a925fc9fb80c88e8e",
+			"sha1": "fe24b5bd035e4b96b41f0ff89ac7e783f0b22466",
+			"sha256": "deef43762953e227dad22749d25dc6134fab430f7086d34d172dc1fc37dfd6f9"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "greenfish.wad",
+	"name": "Green fish status bar face replacement",
+	"description": "This replaces the status bar face with the green fish that is common on the doomworld forums.",
+	"date": "2013-04-18 23:13:30",
+	"files": [
+		{
+			"filename": "greenfish.wad",
+			"size": 53672,
+			"crc": 577896900,
+			"md5": "5bd7874a74d6077f1ce8544626d5d9c7",
+			"sha1": "985be27cb4c21e6cfba8acbdfbe823831710886f",
+			"sha256": "05ec9c7d9ee008632bc79bf158147584b097a63d08933e3ccc73c4707669bd52"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "garden1 (4c752b).wad",
+	"name": "GARDEN1.WAD",
+	"description": "Welcome to the botanical gardens of Deimos. My concept here was aesthetics. I wanted to create an indoor/outdoor scenario that would challenge experienced players and showcase Doom's graphics. Many of the rooms are difficult until you figure out a trick for dealing with them, but the whole level is far from impossible (unless played on skill level 4 or 5, it gets pretty tough that way). The level's big and tricky.",
+	"version": "4c752b",
+	"date": "2013-11-04 20:11:00",
+	"files": [
+		{
+			"filename": "garden1.wad",
+			"size": 195477,
+			"crc": 3462319292,
+			"md5": "9ae3e0ef8773c8c7b82701a8a7894815",
+			"sha1": "4c752b3bba98c2f1bce45b21f80e787651642971",
+			"sha256": "854064bd90f6a2887587bedaf04e4e8f704d2a4adb315aef519495c76e50b6ad"
+		}
+	]
+}

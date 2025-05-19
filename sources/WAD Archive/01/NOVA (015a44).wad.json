@@ -1,0 +1,17 @@
+{
+	"uid": "NOVA (015a44).wad",
+	"name": "NOVA.WAD",
+	"description": "Nova started out as a test platform to experiment with cut'n'paste ops and rotation in DEU 5.1, and somehow grew into a deathmatch level. Dark and ominous. And no STARTAN3!",
+	"version": "015a44",
+	"date": "2014-01-07 22:04:50",
+	"files": [
+		{
+			"filename": "NOVA.wad",
+			"size": 61847,
+			"crc": 3649024805,
+			"md5": "687b5f004913bf67779db4a65409be08",
+			"sha1": "015a4456de1734f5ba7f99ac226b3e3bb3d75e53",
+			"sha256": "7603778af5e80678247eb383c13169f70f8dbb7adfe174fa0fa481139e2bace5"
+		}
+	]
+}

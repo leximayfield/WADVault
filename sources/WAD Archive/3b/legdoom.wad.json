@@ -1,0 +1,16 @@
+{
+	"uid": "legdoom.wad",
+	"name": "Legdoom",
+	"description": "A few maps for doom that I whipped up ages ago.. the first 4 are completely finished and the last 2 (maps 5 and 31) weren't. the first 4 should be great fun to play, and are all also deathmatch compatible.",
+	"date": "2018-05-28 18:46:48",
+	"files": [
+		{
+			"filename": "legdoom.wad",
+			"size": 2035569,
+			"crc": 155717051,
+			"md5": "940340a9b698286ad4da21fec507c5c1",
+			"sha1": "3b3ccb9f53316d09a17498504e0fd4fb08959909",
+			"sha256": "08b8bc62769f3388b52eca2466f8e65c2508056107046d35d7dc5d21ba96ac29"
+		}
+	]
+}

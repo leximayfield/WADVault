@@ -1,0 +1,16 @@
+{
+	"uid": "pc_cw.wad",
+	"name": "Clockwork 70",
+	"description": "A small, Quake-inspired, medieval style map for Doom 2 that requires a Boom compatible source port. The map has 70 monsters on each skill setting but you get different monsters per skill setting and this includes multiplayer.",
+	"date": "2017-03-16 20:36:38",
+	"files": [
+		{
+			"filename": "pc_cw.wad",
+			"size": 487615,
+			"crc": 2034941478,
+			"md5": "d3de6fa43c3a69afa880a31a9cc5f6e1",
+			"sha1": "d9c0f36b2ff0ed90978235170e9e79a12fd24118",
+			"sha256": "d28c8089079bfe813a4e6bf1d6a91044d72b1db838c6a862a608cd1bfd1f6f48"
+		}
+	]
+}

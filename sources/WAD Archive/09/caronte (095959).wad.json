@@ -1,0 +1,17 @@
+{
+	"uid": "caronte (095959).wad",
+	"name": "Caronte",
+	"description": "A hellish ship.",
+	"version": "095959",
+	"date": "2014-12-21 16:21:13",
+	"files": [
+		{
+			"filename": "caronte.wad",
+			"size": 951947,
+			"crc": 1948130200,
+			"md5": "7b7fea2b1e9fff43088d2120a762ed0c",
+			"sha1": "095959ca6456a97ae0863e4666335c691787f195",
+			"sha256": "7e09a3fb3e741219f6a50bed6fd5f7faf3421049f8aba9b07f0817801d1b6a18"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "jfolly.wad",
+	"name": "JAX FOLLY  (jfolly.wad)",
+	"description": "Pretty standard fare- find the keys, kill the bad guys, try and stay in one piece. This is a fair sized single player level. It's too large for death matches. Tried to keep an eye on texture alignments and I think it looks good and plays well. Hope you enjoy it.",
+	"date": "2014-12-27 12:55:53",
+	"files": [
+		{
+			"filename": "jfolly.wad",
+			"size": 180555,
+			"crc": 1439634508,
+			"md5": "80804074dd0a504708d8e4a0ee233a20",
+			"sha1": "ab3cfdb17f41ee0a6f244c1c83d11093aa093867",
+			"sha256": "972b924f8c170cd5b6252d922221eeb162b2de4614d99124451887f5fd582b54"
+		}
+	]
+}

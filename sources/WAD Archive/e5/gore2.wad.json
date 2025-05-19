@@ -1,0 +1,16 @@
+{
+	"uid": "gore2.wad",
+	"name": "Gore v2.0 Make monsters die gorier! (PWAD-version)",
+	"description": "This makes the death animations of the player, the imp, the former human, the former human sergeant, and the pink demon *much* more bloody and gory.",
+	"date": "2014-04-14 12:45:32",
+	"files": [
+		{
+			"filename": "gore2.wad",
+			"size": 402404,
+			"crc": 2739001581,
+			"md5": "5525b744c99fe5052c9dde2ee3c8db13",
+			"sha1": "e5d0a67a9f055af4dbaf21a1149d25c121bedebf",
+			"sha256": "0ae3f0b0606533755cfa02815e2b907d395b97214548f385d48ed8f815ab6fdf"
+		}
+	]
+}

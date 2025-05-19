@@ -1,0 +1,16 @@
+{
+	"uid": "tek10.wad",
+	"name": "Mercurial X",
+	"description": "A top 32 finisher in Doomworld's 10 sector WAD contest - This time, without the red key door bug.",
+	"date": "2014-12-29 15:05:34",
+	"files": [
+		{
+			"filename": "tek10.wad",
+			"size": 233312,
+			"crc": 1442013047,
+			"md5": "7b5a732d3380b38b9eb4c224f4a1f6cf",
+			"sha1": "762d3a6c628ef32cb4d15fdc67cd23a26b327d17",
+			"sha256": "d7c5392d55619509a8e1708ac78c3c3717c5888782228f42526cd4deb712b6fe"
+		}
+	]
+}

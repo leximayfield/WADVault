@@ -1,0 +1,16 @@
+{
+	"uid": "wom.wad",
+	"name": "World of Monsters",
+	"description": "You received a transmission from your commander and he informed you that he lost contact with the Mars Base and he asked you to check it out. After you got prepared, you were transported in a space ship all the way to the Mars Base.",
+	"date": "2015-09-14 20:30:55",
+	"files": [
+		{
+			"filename": "wom.wad",
+			"size": 7240807,
+			"crc": 2969335943,
+			"md5": "38703d9015bb959baad59461acb0e251",
+			"sha1": "f6cb8d9a5976c949339a553343ff38b414563995",
+			"sha256": "b846bd641e68d4acc5ab90a85e34ab0c109dcb1c0169360d067adccaa35aa2b1"
+		}
+	]
+}

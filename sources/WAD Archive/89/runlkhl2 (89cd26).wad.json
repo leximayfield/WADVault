@@ -1,0 +1,17 @@
+{
+	"uid": "runlkhl2 (89cd26).wad",
+	"name": "RUNLKHL2.WAD",
+	"description": "The second version of my first WAD. Designed for single player, multiple player or Deathmatch modes, easy, medium or hard. Looks much like a Castle, complete with moats, dungeons, secret passages, temples, and even an open pit mine where they obviously got all of that green marble (and there is a lot of green marble). I added a section at the end which seems to me to be well designed for deathmatch, but I didn't get around to putting the deathmatch startpoints there. It is a very large wad and could drag at times on slower machines. I fixed the problem with the first version in the temple where there seemed to be invisible walls, it was actually dead bodies hanging from the ceiling. You couldn't see them but they still blocked your movements.",
+	"version": "89cd26",
+	"date": "2013-11-04 20:17:42",
+	"files": [
+		{
+			"filename": "runlkhl2.wad",
+			"size": 220685,
+			"crc": 434625683,
+			"md5": "97c6dd7cbcff35d6d1b37b2dc218672b",
+			"sha1": "89cd26d2b41c11b351fbdd6cc16124e31329e34a",
+			"sha256": "9c04583757595fb6a72015235069ff4665775398da50c0768b723e86b072fd78"
+		}
+	]
+}

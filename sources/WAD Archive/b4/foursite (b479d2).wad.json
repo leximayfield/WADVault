@@ -1,0 +1,17 @@
+{
+	"uid": "foursite (b479d2).wad",
+	"name": "Foursite",
+	"description": "4-in-1 map concept. The Foursite military base lies abandoned. You\u2019ve heard rumors of a secret backdoor entrance: find the entrance, explore the four quadrants of the base, reach the heart, and escape alive.",
+	"version": "b479d2",
+	"date": "2016-11-12 17:01:58",
+	"files": [
+		{
+			"filename": "foursite.wad",
+			"size": 14430192,
+			"crc": 2045907226,
+			"md5": "09716ec705efc71a377e31462c7d4a0a",
+			"sha1": "b479d21dffd4a141f137821bac73505732e79738",
+			"sha256": "5233a2245f0859654666c8249c2f4f5078fee5348cc09630727d94daa73f7353"
+		}
+	]
+}

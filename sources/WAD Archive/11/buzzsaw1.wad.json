@@ -1,0 +1,16 @@
+{
+	"uid": "buzzsaw1.wad",
+	"name": "BuzzSaw: City Under Siege",
+	"description": "6 all new city-based maps specifically designed for DOS Final DOOM [supports plutonia.wad]. Compatible with most source ports and also plays great with weapon/monster mods designed for vanilla maps.",
+	"date": "2019-07-07 16:05:03",
+	"files": [
+		{
+			"filename": "buzzsaw1.wad",
+			"size": 2148434,
+			"crc": 1639192039,
+			"md5": "c7e587d084abb77f08184bc6032b01ad",
+			"sha1": "11d9d7e2045e73088193338447dddca294aecb01",
+			"sha256": "878286cc95884a1820aeaddfc3e6b5f91a9754c9106e8f9950bd006c99d80e62"
+		}
+	]
+}

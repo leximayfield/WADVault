@@ -1,0 +1,16 @@
+{
+	"uid": "youdig.wad",
+	"name": "You Dig v1.7",
+	"description": "This is a map with a very unusual twist on the doom experience. No spoilers here, other than the name. You've just gotta see it for yourself! ;)",
+	"date": "2014-12-29 15:38:33",
+	"files": [
+		{
+			"filename": "youdig.wad",
+			"size": 2680170,
+			"crc": 690118145,
+			"md5": "8e8a91f0eb13b4152acb6f31f6a611f6",
+			"sha1": "46e976624a0fa0732fda1a7f516034e81bd46919",
+			"sha256": "98ffe878af0346d9c785125fe5c999bfa703d4f5691f50250055a47f14760523"
+		}
+	]
+}

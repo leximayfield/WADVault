@@ -1,0 +1,17 @@
+{
+	"uid": "grid (ad645f).wad",
+	"name": "The Grid",
+	"description": "This is a deathmatch level set in a grid of criss-crossing upper and lower corridors with moving floors at each intersection. The upper corridors run north to south and are connected by windows. The lower corridors run east to west, and are dark. Shotgun, chaingun and chainsaw are available, with a rocket launcher in the middle.",
+	"version": "ad645f",
+	"date": "2016-02-07 20:26:23",
+	"files": [
+		{
+			"filename": "grid.wad",
+			"size": 32956,
+			"crc": 204289262,
+			"md5": "7f5a057f062f5c77a8f36eb5cb445592",
+			"sha1": "ad645f23f4ea704b43522c05d8c9b9781cd88f45",
+			"sha256": "53f7b0f14f4d34ccbdacca9de27fffdab60fa3ac7dd248167150d2c20165e264"
+		}
+	]
+}

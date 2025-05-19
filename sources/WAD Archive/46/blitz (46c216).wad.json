@@ -1,0 +1,17 @@
+{
+	"uid": "blitz (46c216).wad",
+	"name": "Blitz Of Pain",
+	"description": "Get ready to move once you leave the first room. Lots of action. Good luck on the final blitz. This level is best with single player but is set up to be played with multiple players. Tough to play on less than 486.",
+	"version": "46c216",
+	"date": "2014-01-07 21:44:38",
+	"files": [
+		{
+			"filename": "blitz.wad",
+			"size": 667205,
+			"crc": 3368462837,
+			"md5": "0035922200726a8fd427a77d8fc12932",
+			"sha1": "46c216963d87aaaddf9cf0863f350884d692545e",
+			"sha256": "845ff13f73ef03661f7a8547e3c8c7c76d8060db116175255947fc75ca819881"
+		}
+	]
+}

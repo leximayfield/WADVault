@@ -1,0 +1,17 @@
+{
+	"uid": "makdoom2 (ee0dfb).wad",
+	"name": "MAK's Doomdom",
+	"description": "Two classic Doom levels complete with all three keys, traps, secret doors, and of course, lots of targets. These levels are an attempt to mirror the mood and detailed maps that made the original game so much fun. Stress was placed on QUALITY. Some WAD files floating around have a thrown together feel.",
+	"version": "ee0dfb",
+	"date": "2013-11-04 19:23:10",
+	"files": [
+		{
+			"filename": "makdoom2.wad",
+			"size": 907755,
+			"crc": 634829457,
+			"md5": "0953b1d19e0f412b89121235fad93581",
+			"sha1": "ee0dfbc57a4cd56cd75c2439a01c9db55c955bab",
+			"sha256": "ea48160ed47df30b2aa9596790851bc2a52f615710285a4f6cbe83e2bd6746a6"
+		}
+	]
+}

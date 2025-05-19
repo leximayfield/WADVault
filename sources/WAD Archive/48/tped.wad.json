@@ -1,0 +1,16 @@
+{
+	"uid": "tped.wad",
+	"name": "The Pedestal",
+	"description": "This is an updated version of The Pedestal that I released a few months ago. A good level for deathmatch, especially on skill 4 or 5.",
+	"date": "2014-01-07 21:49:57",
+	"files": [
+		{
+			"filename": "tped.wad",
+			"size": 33409,
+			"crc": 2936749456,
+			"md5": "0aa9ba96ca4a09a94e579e812f9d03b0",
+			"sha1": "489bec7e58aff89506f276b3506f11b08b87d2b9",
+			"sha256": "84e6b1e0ab6b8b4867d4ce4caba9f769249036e270eda0e8452e433d03c31b04"
+		}
+	]
+}

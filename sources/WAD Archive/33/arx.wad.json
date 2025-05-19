@@ -1,0 +1,16 @@
+{
+	"uid": "arx.wad",
+	"name": "Arxangels",
+	"description": "New cooperative wad. A lot of monsters, traps and secrets in 12 new levels with interesting gameplay and design are awaiting you!",
+	"date": "2013-05-22 20:15:56",
+	"files": [
+		{
+			"filename": "arx.wad",
+			"size": 2899479,
+			"crc": 60438265,
+			"md5": "7e7fbd88c88a84716863d848cc928327",
+			"sha1": "337126dd49c73086f80dbcc6fad589cddf876f1b",
+			"sha256": "08ad8fbceeebd6e3e02aa992ba50dbf601a1d782407c8f3b57969ea33ae072b9"
+		}
+	]
+}

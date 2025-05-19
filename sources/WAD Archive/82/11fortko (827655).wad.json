@@ -1,0 +1,17 @@
+{
+	"uid": "11fortko (827655).wad",
+	"name": "Fort Knocks PWAD",
+	"description": "A fort with demons to fight against.",
+	"version": "827655",
+	"date": "2013-11-02 16:39:32",
+	"files": [
+		{
+			"filename": "11fortko.wad",
+			"size": 138418,
+			"crc": 2222049825,
+			"md5": "502fca90ca185d50fec75c5eb94d9d2d",
+			"sha1": "827655c6021b2f62664faca3181e8ea07302f08f",
+			"sha256": "5e33cfd7033fbd5f99496879521452b4c7ad3a2b849d879948c6d34f272a0e60"
+		}
+	]
+}

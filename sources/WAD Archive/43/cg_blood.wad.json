@@ -1,0 +1,16 @@
+{
+	"uid": "cg_blood.wad",
+	"name": "Etude in Blood",
+	"description": "You'll be swimming in blood ! Activate 17 skulls to gain access to main gate. There, an army of imps (supported by some cacos) will attack you. Slaughter them all before you can access the exit.",
+	"date": "2014-12-21 14:15:24",
+	"files": [
+		{
+			"filename": "cg_blood.wad",
+			"size": 1045844,
+			"crc": 3181449286,
+			"md5": "391d6612ca2858be50018b3b7415eafa",
+			"sha1": "4367f1d24f6d41199b55d6df26808955e5bae191",
+			"sha256": "681c2ae263341f769c85f4f7095689290424fd144583412d0732b8ccd8552847"
+		}
+	]
+}

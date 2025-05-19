@@ -1,0 +1,16 @@
+{
+	"uid": "linf.wad",
+	"name": "lacrimosa's INFERNO",
+	"description": "A city woth monsters. It's my level #32 It's suposed that all the sections can be pass in any order, but there are so many possiblilities that I can't be sure. Anyway, don't pass to another section if you haven't finish the one where you are. Don't swim in the sea!",
+	"date": "2015-01-05 16:27:01",
+	"files": [
+		{
+			"filename": "linf.wad",
+			"size": 547149,
+			"crc": 4042269627,
+			"md5": "101cecbbe3069c5ea09be4b545b226a5",
+			"sha1": "e5c78ab4d4318b8e859893fc7a0bfe9b8cdc5902",
+			"sha256": "2f90b045f3a8f670316ae8e3d873b9b5c3612ca2354fb4a24a6922a3ab46e1f2"
+		}
+	]
+}

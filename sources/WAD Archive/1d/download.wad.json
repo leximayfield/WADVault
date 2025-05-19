@@ -1,0 +1,16 @@
+{
+	"uid": "download.wad",
+	"name": "Download",
+	"description": "STORY: Yuki started downloading some file (he doesn't want you to know what it was) and Windows said that it will take about 15 minutes, so to kill some time he started to imagine Doom levels while listening to Gary Numan and Depeche Mode.",
+	"date": "2014-12-24 18:51:22",
+	"files": [
+		{
+			"filename": "download.wad",
+			"size": 929155,
+			"crc": 3995221812,
+			"md5": "7c3da2b6bbecb1973b1d54bcdc123b3c",
+			"sha1": "1d8f5d9f50bf2331e4883f8ca9cd88a240dd8182",
+			"sha256": "cce007d519be2aeb684a2f7058a5b8af9d1730cf116497d7a08db75e4ee9d5ab"
+		}
+	]
+}

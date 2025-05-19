@@ -1,0 +1,16 @@
+{
+	"uid": "berwyn.wad",
+	"name": "\"Berwyn\"",
+	"description": "One level wad for Doom II, Revision of Berwyn1, adding rooms, traps, critters. Added multi-players, deathmatch, and skill levels.",
+	"date": "2014-12-15 23:15:44",
+	"files": [
+		{
+			"filename": "berwyn.wad",
+			"size": 196288,
+			"crc": 1214635759,
+			"md5": "5901d854eacc5360cc5b1c30afe601b8",
+			"sha1": "ccc8d84b340a9ceaf9fa86da0a62b6e518811379",
+			"sha256": "62a0ad17f2be84859823e9b0b4b3ac48c4964b3ed0d95ae231e4467bdd521e15"
+		}
+	]
+}

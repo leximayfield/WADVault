@@ -1,0 +1,17 @@
+{
+	"uid": "stauf (b92265).wad",
+	"name": "11th Hour Stauf Wad",
+	"description": "A reproduction of the Stauf mansion from The 11th Hour: The Sequel To The 7th Guest. PLAY DEATHMATCH WITH MONSTERS. STAUF.WAD and STAUFMUS.WAD are for DOOM, STAUF2.WAD is for DOOM2, STAUFH.WAD is for HERETIC. Very simple. An example command line for DOOM is C:\\DOOM>DOOM -FILE STAUF.WAD STAUFMUS.WAD The same would apply for the rest of the WADs. I tried to keep the WADS as easy to play as possible. You will find tons of ambush points and secrets. I got a little carried away with the HERETIC WAD, there are a few more secret areas. Hope you enjoy the Wads, I Had fun making them.",
+	"version": "b92265",
+	"date": "2013-11-03 17:47:05",
+	"files": [
+		{
+			"filename": "stauf.wad",
+			"size": 167420,
+			"crc": 2188731436,
+			"md5": "c1781629e39397a4e14d511661c6f203",
+			"sha1": "b92265a218a72a8ace6978311c96985a1d181625",
+			"sha256": "7eafc1908a8865d7213c95b5c86f9312cb8cd23165adf2b3182b55b534390883"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "fear (a34297).wad",
+	"name": "Fear.wad",
+	"description": "Arriving at an an abandoned military complex, you discover it's not so empty anymore.",
+	"version": "a34297",
+	"date": "2013-11-02 15:58:52",
+	"files": [
+		{
+			"filename": "fear.wad",
+			"size": 141175,
+			"crc": 226161766,
+			"md5": "ae9c19e090eb7fc3c86cbe5a219d5336",
+			"sha1": "a342970c8ff4bacb4ba6a82532d6e091c0fb96a1",
+			"sha256": "722d0a33768ec9a137707a056d559894a663ebdaee82f10b3ee0b48d61ffc942"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "carwarz.wad",
+	"name": "Carwarz.WAD",
+	"description": "Carwarz is a graphics and music conversion for DOOM. It features humerously unique graphics and brighter cheerier music.",
+	"date": "2013-11-06 22:35:24",
+	"files": [
+		{
+			"filename": "carwarz.wad",
+			"size": 4170576,
+			"crc": 3845260307,
+			"md5": "1f88e0d94807fd63049b7d4984261ced",
+			"sha1": "58b3b8f224b582910b125ed8b5c2cbbaf37fe1e2",
+			"sha256": "ef96b9992cbec5a45e2f169785fd17e3a1542abd17659025e20503c66b3ce83f"
+		}
+	]
+}

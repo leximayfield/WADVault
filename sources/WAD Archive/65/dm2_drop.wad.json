@@ -1,0 +1,16 @@
+{
+	"uid": "dm2_drop.wad",
+	"name": "DROP",
+	"description": "Nice quick easy little level ;) There's no theme or anything, just shoot anything that moves!",
+	"date": "2014-01-07 21:59:04",
+	"files": [
+		{
+			"filename": "dm2_drop.wad",
+			"size": 123185,
+			"crc": 3429753991,
+			"md5": "40729f724d8886180eed16758755d382",
+			"sha1": "6529bf4cf0fce7555d41360126ddd6b648a9fa28",
+			"sha256": "884ee8ef5b608d5e4e5e4c582d6604e93e9b3ba2e1ecce0a404b3ff309ec9969"
+		}
+	]
+}

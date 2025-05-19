@@ -1,0 +1,16 @@
+{
+	"uid": "nokd4b.wad",
+	"name": "NokDooM for BOOM",
+	"description": "This is the 3 first levels of my previous work, Realm of Shades, but modified for work with the mega-awesome port BOOM, by TeamTNT!! It really rocks!!! There's no story, the levels have a kind of continuity but only you need is enter, kill and survive them. Enjoy! Each one of the 3 levels can be finished with 100% kills and 100% secrets starting only with a pistol. Implemented: -Conveyor -Teleporting Items -Underwater Areas -Current -Transparent Walls -Vertical Animated Walls -Multiple Switches -Rooms over Rooms (!) -One Elevator -Use of BLUMAP and GRNMAP, extract from the last version of editutil.zip -2 new switches -A new animated nukage flat (28 frames) -MIDI music store by MUSPUT.EXE (tm) -Scrolling Floors -TOTAL MASSACRE!!!!",
+	"date": "2015-01-13 21:32:54",
+	"files": [
+		{
+			"filename": "nokd4b.wad",
+			"size": 2296833,
+			"crc": 1559019999,
+			"md5": "e548456736ea485d124fc1314ece1a5a",
+			"sha1": "e25f0e59ec75da52c0d2710470d60aa900d5d028",
+			"sha256": "8bc6e144aa0fcb3708e0152136277004b1ec9cd75db4eab1429d21ea630cb008"
+		}
+	]
+}

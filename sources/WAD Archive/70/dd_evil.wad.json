@@ -1,0 +1,16 @@
+{
+	"uid": "dd_evil.wad",
+	"name": "Evil Unleashed",
+	"description": "A medium sized classic doom map with an decent layout and entertaining gameplay which leans more to the easy side. The map started out as nothing really serious, but for some reason the map kept interesting me long enough to finish it. Its probably not the best map that I have made, but its definitely one of the most classic looking ones I made so far. Some areas feel like they are inspired on doom E1 while other areas look more like E2/E3, so its a bit of an mixed bunch of themes.",
+	"date": "2014-12-14 21:07:16",
+	"files": [
+		{
+			"filename": "dd_evil.wad",
+			"size": 386973,
+			"crc": 3072541842,
+			"md5": "e1beddb1c7e2911f78b8664163330023",
+			"sha1": "703d78028db5d9c9de4307849c747ef38994d861",
+			"sha256": "4079cd8bebd73d40d6558250ea4bbcfa3da6222c383cefd5b9fd3e7121ce5ce8"
+		}
+	]
+}

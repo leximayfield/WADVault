@@ -1,0 +1,16 @@
+{
+	"uid": "d_tox.wad",
+	"name": "De-tox",
+	"description": "You are lost on some strange planet with some fellow space marines and the toxic level of the zone you've entered is so high it has caused your team to become enemies!",
+	"date": "2014-12-15 21:25:21",
+	"files": [
+		{
+			"filename": "d_tox.wad",
+			"size": 556004,
+			"crc": 1680750902,
+			"md5": "82374eca047ff22e45aa9f52b6642782",
+			"sha1": "aa57c0bb2bc9d04a32f2a241891fe3bab094ddc0",
+			"sha256": "579f5d290d0739a59e4acc652811da4a7c376b501b9574ab65ab2caf823e3fb3"
+		}
+	]
+}

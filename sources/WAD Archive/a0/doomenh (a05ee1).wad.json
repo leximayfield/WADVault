@@ -1,0 +1,17 @@
+{
+	"uid": "doomenh (a05ee1).wad",
+	"name": "Doom Enhanced v1.2",
+	"description": "This add-on enhances Doom, Doom 2 and Final Doom, evolving various features of it into something more interactive and visually interesting, via features from the games it inspired, without altering the core gameplay too much. For details, see below.",
+	"version": "a05ee1",
+	"date": "2014-12-10 22:47:16",
+	"files": [
+		{
+			"filename": "doomenh.wad",
+			"size": 1927315,
+			"crc": 507117572,
+			"md5": "c2a1b329d7ba59253c3d9e04b6b58809",
+			"sha1": "a05ee1a1e8d2e4f9ecae625e2022f78a2b490fe6",
+			"sha256": "815c06fe3084576f4cb8383b7acf96429ad68d221fb4ec914ab0d0af2cebb43e"
+		}
+	]
+}

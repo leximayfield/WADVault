@@ -1,0 +1,16 @@
+{
+	"uid": "hepta.wad",
+	"name": "Heptagram Arena",
+	"description": "This is my first ewad I ever created. I had this ewad (ex- ternal wadfile) for nearly a year before I decided to submit it to cdrom.com. It is a simple, arena-like level shaped in a seven pointed star. In deathmatch you start on one of seven platforms in the outer arms with all weapons there, so you do not have to go around searching for them, except the chain- saw, which is in the middle arena area, and the BFG900, which is on a platform in the center. The platform has one-sided type walls all around, which makes it a perfect spot for snipers, but also can be shot at from every direction. There is one and only one monster, the dreaded cyberdemon, which is on the center platform guarding the BFG9000.",
+	"date": "2014-12-15 21:24:18",
+	"files": [
+		{
+			"filename": "hepta.wad",
+			"size": 61282,
+			"crc": 2450636333,
+			"md5": "7c00bc77e68995fb8cc6551f2ee9a782",
+			"sha1": "a8c46f2bcf3d87ed54e020a798abc4d426890e00",
+			"sha256": "f1bd4b6f98b2752f714b7aca210f4d42927748b291bc1a3686535a50e914c115"
+		}
+	]
+}

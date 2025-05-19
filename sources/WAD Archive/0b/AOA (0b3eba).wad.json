@@ -1,0 +1,17 @@
+{
+	"uid": "AOA (0b3eba).wad",
+	"name": "Assult of the Arachnotrons",
+	"description": "This is my second Doom 2 wad. It is a very tough level.",
+	"version": "0b3eba",
+	"date": "2014-10-14 21:08:07",
+	"files": [
+		{
+			"filename": "AOA.wad",
+			"size": 118700,
+			"crc": 2829593619,
+			"md5": "04db81c1bb9ace9bd56ce0e50b3dd1a1",
+			"sha1": "0b3eba8be08dbd1092c8f8385d7179452662c4cd",
+			"sha256": "30745640ba158e21669e6e20f4ff40091dcadcbce3286d90cd4274f996be094f"
+		}
+	]
+}

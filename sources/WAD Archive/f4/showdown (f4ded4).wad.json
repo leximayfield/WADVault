@@ -1,0 +1,17 @@
+{
+	"uid": "showdown (f4ded4).wad",
+	"name": "Showdown",
+	"description": "This level was designed for Deathmatch. Whoever is on the outermost level has complete control over two crushing ceilings. However, the crushing ceiling can be stopped at any time by crossing the outer linedef of that particular circular ceiling. On the highest level, stepping on the red square will activate one of the ceilings, and the black square will turn it off.",
+	"version": "f4ded4",
+	"date": "2014-01-07 22:13:39",
+	"files": [
+		{
+			"filename": "showdown.wad",
+			"size": 35300,
+			"crc": 1442987047,
+			"md5": "0c0fa0886710c395c46d6ad63d25f493",
+			"sha1": "f4ded426a0411d455e5c87ace1f47aaf05bfbff9",
+			"sha256": "d93a9f8534abfeec79aecbe3d2115107c8306b0e5421027efbbabca4876f5c67"
+		}
+	]
+}

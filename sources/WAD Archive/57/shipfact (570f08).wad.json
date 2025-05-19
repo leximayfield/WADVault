@@ -1,0 +1,17 @@
+{
+	"uid": "shipfact (570f08).wad",
+	"name": "Shipping Factory",
+	"description": "A virus has spread through the U.A.C's 2nd shipping factory. The virus turns the workers into zombies, and have opened up a portal from hell. Destroy this evil, as soon as possible.",
+	"version": "570f08",
+	"date": "2016-03-05 14:55:01",
+	"files": [
+		{
+			"filename": "shipfact.wad",
+			"size": 23119858,
+			"crc": 3681845374,
+			"md5": "9d00d4c33012a3a2c41a40d87bbd0bba",
+			"sha1": "570f08b82d37abf408d8d5100d5d8da07c456704",
+			"sha256": "dbe92332a9c7e9187e6befa14399863dcc3b7b726b72654aadbab1da45b68882"
+		}
+	]
+}

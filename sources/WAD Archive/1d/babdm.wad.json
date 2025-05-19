@@ -1,0 +1,16 @@
+{
+	"uid": "babdm.wad",
+	"name": "BAB DeathMatch for Doom2",
+	"description": "Replacement for DOOM2 @ levels 1 - 04 Great for solo play or multi player. Deathmatch! Excellent has been updated and tested now. Allows for plenty of ammo and health. You are not overpowered by more monsters than you can handle (well, most of the time anyway). Each level has at least one secret area in it. There is a way to get out of any situation (you will not fall into a pit with no way out etc..).",
+	"date": "2014-12-15 21:27:12",
+	"files": [
+		{
+			"filename": "babdm.wad",
+			"size": 349229,
+			"crc": 258262131,
+			"md5": "f6ba174ce24e0ae7f9c816050a42dab5",
+			"sha1": "1dfc5177b0c4621b2d73a080a673441d19d53685",
+			"sha256": "c1db456ec12fbfe74270c9ff61294bcedd75c401dffc7c7a0994a6681788603c"
+		}
+	]
+}

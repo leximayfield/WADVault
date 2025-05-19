@@ -1,0 +1,16 @@
+{
+	"uid": "dmseek.wad",
+	"name": "\"Hide and Seek\"  DMSEEK.WAD",
+	"description": "Previous DOOM levels: \"Training Facility\" DMTRAIN.WAD This level was designed for deathmatch play. No monsters. Deathmatch 2.0 (-altdeath) rules are recommended. Features an open play area, rooms for hiding, and elevated perches for long distance spotting/shooting. See special notes below.",
+	"date": "2013-04-20 10:54:49",
+	"files": [
+		{
+			"filename": "dmseek.wad",
+			"size": 99948,
+			"crc": 1747019629,
+			"md5": "8d9399caa4fc098b25b2a762e5557a22",
+			"sha1": "f4c8a528258c1dea55ad7a11c2d572526a7bee8e",
+			"sha256": "49be2cb56523b576f60897ef3a88794eba792690c016d6392b8787ec602eaaca"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "BKNIGHT2 (0c6083).wad",
+	"name": "Be a knight even in Altdeath 2!",
+	"description": "Get your weapons, fight for honor! No place to hide, a grave to die. Now, 4 ready rooms are added. While in 3 or 4 players mode, weapons may be gotten by others and you must wait there for 30 seconds. The ready room is used to trap the respawners and protect the weapon- waiter from being attack by respawners. But respawners may having a fight in the small ready room. He..e.. Also, suitable side arms are added in each weapon room.",
+	"version": "0c6083",
+	"date": "2013-11-06 22:30:27",
+	"files": [
+		{
+			"filename": "BKNIGHT2.wad",
+			"size": 19643,
+			"crc": 1542593882,
+			"md5": "aa41365eb5c04edc5ab9871125bafbcf",
+			"sha1": "0c6083ea1a5ff986a8d374ebf95bb3d91f226cf4",
+			"sha256": "959b8249110d6e4cbe6e31595284df9479daaf86da9b01029724922643a9586e"
+		}
+	]
+}

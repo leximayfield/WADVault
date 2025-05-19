@@ -1,0 +1,16 @@
+{
+	"uid": "prong.wad",
+	"name": "Prong levels",
+	"description": "Prong.wad is an 10 level wadfile for your Doom2 registered version",
+	"date": "2015-01-14 22:45:43",
+	"files": [
+		{
+			"filename": "prong.wad",
+			"size": 1031082,
+			"crc": 42703983,
+			"md5": "d1aae9b5cc483bf12fcc418c9831b4a9",
+			"sha1": "2cd7593cbe2e423750abc31145ffa6babdcec311",
+			"sha256": "ec017e8de4b43ab607d4a1598ff843bf3ccf5f8936cfb1b8b594a5b55f6a6ec6"
+		}
+	]
+}

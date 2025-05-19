@@ -1,0 +1,17 @@
+{
+	"uid": "stairwar (cfa971).wad",
+	"name": "ULTIMA.WAD",
+	"description": "This level started out as an attempt to recreate some of the terrain in the Ultima Underworld series, but due to the limit inherent to doom on calculating only up to 16 transparent sidedefs in a row, I was forced to lessen it to a simple little Deathmatch level. There are two lifts in the level (somewhere), one which leads to a teleporter back to the center island and one which leads to the end level switch.",
+	"version": "cfa971",
+	"date": "2016-02-07 20:37:33",
+	"files": [
+		{
+			"filename": "stairwar.wad",
+			"size": 39599,
+			"crc": 425450816,
+			"md5": "a07d8338e9b3fe55a989a4ea6fd94ffe",
+			"sha1": "cfa9711eab16b54352682c8cf5e8caf08d140a7e",
+			"sha256": "b22cb6077c1a3a8adfd383af8119b1ab8b152aee07b6cac401217db9e171b20a"
+		}
+	]
+}

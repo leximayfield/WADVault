@@ -1,0 +1,17 @@
+{
+	"uid": "cheese (62e810).wad",
+	"name": "Creatures of Mine",
+	"description": "This wad will replace the cacodemon into a spikey grey thing, some of the sounds, and the goat head thing on level 30 into a picture of me when I was little. I couldn't think of a name for my creature. If you have one email me.",
+	"version": "62e810",
+	"date": "2014-12-11 22:27:51",
+	"files": [
+		{
+			"filename": "cheese.wad",
+			"size": 557460,
+			"crc": 4276073118,
+			"md5": "b6c94f13669bb1caf2f726d58bdd48f7",
+			"sha1": "62e810e1ceb196f1a192585cf7a0312a8f85e370",
+			"sha256": "2e02bd08d0e29934723acc1254c04449edc0819c0a915f0d9bd5f77a7e3f0c90"
+		}
+	]
+}

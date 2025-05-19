@@ -1,0 +1,17 @@
+{
+	"uid": "fireball (bc9c34).wad",
+	"name": "FIREBALL.WAD",
+	"description": "This is the first wad file that I have released to the public, although I have a couple of others waiting to be uploaded. It contains all three keys, and it is a fairly large level. To rebuild the nodes, the reject data, and the blockmap in DEU took nearly 1 minute and 10 seconds!! On the easiest levels, it should be easy, but their are only Imps, Sargeants, and Troopers to kill. Should be easy, even for the novices out there. The next level (3), has a couple more of the enemies listed above, and a couple of demons thrown in as well. Levels 4 + 5 (UV + Nightmare), have lots of the basic enemies, plus quite a few demons, and 1 or 2 spectres there too.",
+	"version": "bc9c34",
+	"date": "2013-07-09 20:21:07",
+	"files": [
+		{
+			"filename": "fireball.wad",
+			"size": 134503,
+			"crc": 3674386526,
+			"md5": "54db2a4827448f18d37f42a50bc4c0b7",
+			"sha1": "bc9c341e082b65fb0af8fe33baf4bfcdafec2198",
+			"sha256": "266fbf2f821a54423aac6163a4de9e169f2ad854f47b702b832600273c11e651"
+		}
+	]
+}

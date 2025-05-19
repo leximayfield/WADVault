@@ -1,0 +1,17 @@
+{
+	"uid": "cloace (99f346).wad",
+	"name": "CLOACE.WAD",
+	"description": "Designed primarily as a deathmatch wad but also allows 1 player action with difficulty levels ================================================================",
+	"version": "99f346",
+	"date": "2013-11-06 22:43:38",
+	"files": [
+		{
+			"filename": "cloace.wad",
+			"size": 149580,
+			"crc": 731816021,
+			"md5": "af9d5da7533c097628fb6c9bd943b44b",
+			"sha1": "99f346f5adf0e69892c6092c9de3bbb9bca48f55",
+			"sha256": "c90ff6be1fb89125f12b32aa2e5480960289af0019d3715f1e345f1d17dadb68"
+		}
+	]
+}

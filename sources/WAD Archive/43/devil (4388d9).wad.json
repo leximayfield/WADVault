@@ -1,0 +1,17 @@
+{
+	"uid": "devil (4388d9).wad",
+	"name": "DEVIL.WAD",
+	"description": "This WAD should be used with ANNEX.WAD by Ryan McGrail. We designed them together.",
+	"version": "4388d9",
+	"date": "2014-01-04 11:55:47",
+	"files": [
+		{
+			"filename": "devil.wad",
+			"size": 130854,
+			"crc": 4142495628,
+			"md5": "7b49a48a3ea7d4847c728cf05f05d6b1",
+			"sha1": "4388d925fb4bfc5fd5370ad2ac2c149841229ab1",
+			"sha256": "1bc3eee5122af88bf0c83a2542fc886b7aa3d94a452567468842d6cbbff659f2"
+		}
+	]
+}

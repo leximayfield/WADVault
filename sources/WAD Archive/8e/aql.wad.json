@@ -1,0 +1,16 @@
+{
+	"uid": "aql.wad",
+	"name": "Ask Questions Later",
+	"description": "A one level \"traditional\" wad, all weapons are included so keep an eye open. Don't use cheats or extra non-traditional DOOM gameplay features (such as jump or crouch).",
+	"date": "2014-12-14 20:56:20",
+	"files": [
+		{
+			"filename": "aql.wad",
+			"size": 301887,
+			"crc": 4183021853,
+			"md5": "6acba41b9dc0e09c19c182fa379fb994",
+			"sha1": "8e51742456a39963796ccfa51a5472fe2de9c81b",
+			"sha256": "9ace75827439340233e0cc0d0295415711e0b5c6f8a14dd5444301278255572e"
+		}
+	]
+}

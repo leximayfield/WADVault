@@ -1,0 +1,17 @@
+{
+	"uid": "AARDVARK (428511).wad",
+	"name": "AARDVARK",
+	"description": "An excellent (however large) deathmatch level (3-4 player net games work best.)",
+	"version": "428511",
+	"date": "2013-11-06 22:49:38",
+	"files": [
+		{
+			"filename": "AARDVARK.wad",
+			"size": 376646,
+			"crc": 2135093520,
+			"md5": "7fd1851fe8b675327b873f7d7eac3a59",
+			"sha1": "428511556698b07098389af8780ee8eea4e87f1f",
+			"sha256": "f0777ba606c930f1544608b1230e85a95318441098fdc2999cf0477bb2834652"
+		}
+	]
+}

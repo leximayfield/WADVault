@@ -1,0 +1,16 @@
+{
+	"uid": "thflrblw.wad",
+	"name": "The Floor Below",
+	"description": "A TimeOfDeath map that should be compatible with the original vanilla Doom.",
+	"date": "2015-01-06 21:41:45",
+	"files": [
+		{
+			"filename": "thflrblw.wad",
+			"size": 1804526,
+			"crc": 920944889,
+			"md5": "416b94d4e376d2fe7c675f5745602fd7",
+			"sha1": "39882a3172c6c88fc40e34380d23439b2650549e",
+			"sha256": "713d54f7fca233a0b9cd25d6e6b959d992a27305ca5becbd88bc197f138f49f3"
+		}
+	]
+}

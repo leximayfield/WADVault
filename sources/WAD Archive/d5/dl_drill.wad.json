@@ -1,0 +1,16 @@
+{
+	"uid": "dl_drill.wad",
+	"name": "DRILLING STATION",
+	"description": "You'll start in front of the exit doors, but to open them is needed all three key cards placed around the nightly oil drilling station in a middle of the dark sea.",
+	"date": "2014-12-13 17:35:50",
+	"files": [
+		{
+			"filename": "dl_drill.wad",
+			"size": 112832,
+			"crc": 3053444611,
+			"md5": "30c922befb6149b1ceafae105649a9cb",
+			"sha1": "d5c0bd24cf255847110f039fdcf01988fdaff026",
+			"sha256": "0507bbaaad7b07cf0e8e785cd16d3f37f8cdec2818e173a3a09b8d4d3d609825"
+		}
+	]
+}

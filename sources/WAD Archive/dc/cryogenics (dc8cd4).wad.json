@@ -1,0 +1,17 @@
+{
+	"uid": "cryogenics (dc8cd4).wad",
+	"name": "Cryogenics",
+	"description": "Set of 4 slaughter themed maps",
+	"version": "dc8cd4",
+	"date": "2017-12-31 15:45:43",
+	"files": [
+		{
+			"filename": "cryogenics.wad",
+			"size": 24290213,
+			"crc": 901663050,
+			"md5": "cd8b05a1643246f6e14a6e609a199c31",
+			"sha1": "dc8cd4585f2cb76210f55c3200f1330a0361fc4e",
+			"sha256": "65e34f2aa3e1323671f686777d1374a0eba6c516bba8831ed7d5f98924a5b5c7"
+		}
+	]
+}

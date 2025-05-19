@@ -1,0 +1,16 @@
+{
+	"uid": "eulogy4.wad",
+	"name": "Eulogy 4",
+	"description": "Fourth part of the Eulogy series. This one is probably the best yet. Has a few nifty gimmicks like 'complete darkness' as well as major shadow- casting in one area(the slime pit). Also impliments a Dehacked patch which introduces a new monster, the Nightmare Imp. The Nightmare Imp really is a nightmare. They're quick, always seem to know where you are, have high health(sometimes even the super- shotgun isn't enough)and are partially invisible.",
+	"date": "2014-12-18 22:16:17",
+	"files": [
+		{
+			"filename": "eulogy4.wad",
+			"size": 159525,
+			"crc": 1544145837,
+			"md5": "1ee85d861f31fd15b7739ca887ae18b7",
+			"sha1": "192b8f5a2e0a00bd9eabb7ceb985beb42715aafd",
+			"sha256": "26777869c9b51710042884962befe43e53e5a8288a7944ab20d7ac550c4106fc"
+		}
+	]
+}

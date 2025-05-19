@@ -1,0 +1,16 @@
+{
+	"uid": "chemexpt.wad",
+	"name": "Chemical Experiment",
+	"description": "A UAC experiment with a classified substance sends the research facility to hell.",
+	"date": "2014-12-15 22:55:13",
+	"files": [
+		{
+			"filename": "chemexpt.wad",
+			"size": 849906,
+			"crc": 2461027187,
+			"md5": "b0186941b1039081b1be8e1786495668",
+			"sha1": "8261359db26d2a93a12954cd68158fa142865747",
+			"sha256": "5a4b289461d98286531d9f39414c48acbeccc0ea91c75c25f79f4f8b84853d57"
+		}
+	]
+}

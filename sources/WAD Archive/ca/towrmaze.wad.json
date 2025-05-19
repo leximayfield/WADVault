@@ -1,0 +1,16 @@
+{
+	"uid": "towrmaze.wad",
+	"name": "Tower Maze Deathmatch",
+	"description": "Small, fast, and furious deathmatch wad! Two towers, center platform, and a maze.",
+	"date": "2014-12-15 21:55:38",
+	"files": [
+		{
+			"filename": "towrmaze.wad",
+			"size": 47372,
+			"crc": 2824307336,
+			"md5": "69ee14082247a300d8eaaf0842804e60",
+			"sha1": "cafc133dbab19dc61516c2f19e9bb94c64b208bb",
+			"sha256": "c4c18be0c8b89e0b395954993b6f28fe8ef4b3ad98318c54fc79b856847a5696"
+		}
+	]
+}

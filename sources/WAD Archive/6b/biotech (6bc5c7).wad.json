@@ -1,0 +1,17 @@
+{
+	"uid": "biotech (6bc5c7).wad",
+	"name": "Biotech Stuff",
+	"description": "Unused/unfinished Giger'esque sprites",
+	"version": "6bc5c7",
+	"date": "2015-09-15 17:58:58",
+	"files": [
+		{
+			"filename": "biotech.wad",
+			"size": 8053517,
+			"crc": 4068015519,
+			"md5": "b82540afadf1202e374e1c521786458a",
+			"sha1": "6bc5c78e58503acabd76af25a1bbc22df75724ed",
+			"sha256": "191b979b90d9aa5db1753846152aa32b08a6060cdcb089ecaad5103afb8fcede"
+		}
+	]
+}

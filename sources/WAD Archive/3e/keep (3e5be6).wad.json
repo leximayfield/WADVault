@@ -1,0 +1,17 @@
+{
+	"uid": "keep (3e5be6).wad",
+	"name": "KEEP.WAD",
+	"description": "I originally made this map as an exercise in building complex maps in DEU II. It took for ever to get the lighting effects and texture alignments correct. I started running out of RAM while working on the level so I left the outside of the castle pretty simple. I wasn't intending to make it a playable level, but everyone who saw it insisted that I pass it along, so here it is. Chock full of monsters and weapons. Pretty easy on difficulty one, nearly impossible to defeat the cyberdemon on difficulty four. I don't know anyone who could finish this in nightmare mode (let me know if you do!). Plenty of ammo and power ups to finish at any level of difficulty. After you kill the bad guys take a moment to look at the scenery. I spent nearly all of my time trying to make the KEEP look really cool. Sort of a modernized castle with a few towers, a study, a pipe organ, library, chapel, bathroom (needs cleaning), dining room, kitchen, and parlour. I particularly like the chapel, tons of work trying to balance all of the two sided linedefs needed to create the arches.",
+	"version": "3e5be6",
+	"date": "2013-11-02 15:46:24",
+	"files": [
+		{
+			"filename": "keep.wad",
+			"size": 162226,
+			"crc": 2990790711,
+			"md5": "c2bd49941c6790395e396baa472c9c82",
+			"sha1": "3e5be66a3bb889ba9e852045b28e8db1caa72509",
+			"sha256": "caffa90433b506085113561236425e527f3615b45c55fa385de61375cfd1c9b6"
+		}
+	]
+}

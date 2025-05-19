@@ -1,0 +1,16 @@
+{
+	"uid": "industry.wad",
+	"name": "Industrial Warfare",
+	"description": "//********// Outside the perimeter of Corporate City, a huge old abandoned Factory lies in the middle of the unhabited streets. A few hours ago, some of its machinery began working again; but no corporative orders have been found. You have been sent to investigate this unexplained restart. As you get close to the precinct, you can see the west wing is active again. It's time to wipe out the things that should not be there. //*******//",
+	"date": "2016-10-17 17:14:28",
+	"files": [
+		{
+			"filename": "industry.wad",
+			"size": 505267,
+			"crc": 3599968219,
+			"md5": "2026b26cf7301ec50555ba9b20b53a5c",
+			"sha1": "bed277dd1dd56d0b2e872e21d754ebdbdd70385f",
+			"sha256": "87c72192358838bc3512433e6c1b4cd81261f08cec5004db6076736035fdb597"
+		}
+	]
+}

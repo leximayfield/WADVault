@@ -1,0 +1,16 @@
+{
+	"uid": "shootrev.wad",
+	"name": "Shoot Revisited",
+	"description": "A deathmatch map inspired by shoot.wad. Someone may find a couple of EXPLOSIVE surprises...",
+	"date": "2013-04-21 13:49:48",
+	"files": [
+		{
+			"filename": "shootrev.wad",
+			"size": 52462,
+			"crc": 2757112111,
+			"md5": "dd1ec4a1544394fdd70335fdf65b36bc",
+			"sha1": "91e6d2a16cf52f48a94ab70692905f5c1e9663a1",
+			"sha256": "6e33ddcca3b867e39bccaf3d1daf82a84b200a89763455497f9bc145e9f456ac"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "shrine (8bfa2c).wad",
+	"name": "Shrine.Wad",
+	"description": "This level took a bitchingly long time to put together. I tried to keep the",
+	"version": "8bfa2c",
+	"date": "2015-12-05 13:26:46",
+	"files": [
+		{
+			"filename": "shrine.wad",
+			"size": 49570,
+			"crc": 2635394664,
+			"md5": "71f9bc8039952ce4bd971d2e5f407a3e",
+			"sha1": "8bfa2c253b4446d757a5b6bff3940e00d950675d",
+			"sha256": "d51053c42ca0fd89472da9cde64f3298d80adcc17869bfdad8c889740d75d065"
+		}
+	]
+}

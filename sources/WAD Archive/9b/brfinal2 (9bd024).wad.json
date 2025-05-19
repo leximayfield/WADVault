@@ -1,0 +1,17 @@
+{
+	"uid": "brfinal2 (9bd024).wad",
+	"name": "Beyond Reality",
+	"description": "There is a dimension, a dimension full of nonsense and surrealism. It is a place where crates are out to kill you, and a place where logic jumps off a bridge. A journey into a wondrous land of ludicrosity, your next stop: Beyond Reality! This WAD is playable on zdoom, skulltag, and zandronum, OpenGL is recommended to remove palette issues on some textures.",
+	"version": "9bd024",
+	"date": "2014-01-16 20:01:06",
+	"files": [
+		{
+			"filename": "brfinal2.wad",
+			"size": 41014714,
+			"crc": 373535401,
+			"md5": "6177c1b603a381b44e423a5cdef75634",
+			"sha1": "9bd024ebcae62c9c3831ab48f4daf2ee27eb0044",
+			"sha256": "54884ab7a71877400355820a4a9edf6cbdcfcbde539372957b2d0bc79d302f73"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "snipers (50217e).wad",
+	"name": "Snipers in the Wheel of Death! V1.00",
+	"description": "Deathmatch level ONLY! There is an EXIT (you can exit whenever you want).",
+	"version": "50217e",
+	"date": "2013-11-02 16:41:07",
+	"files": [
+		{
+			"filename": "snipers.wad",
+			"size": 116375,
+			"crc": 3172371513,
+			"md5": "5c057bb84ef0644cdd882041070e5138",
+			"sha1": "50217efec7dddcc2e3bc7bb6dc71198fc2fc103a",
+			"sha256": "ffa5862b14be31f39739ece2cc589b5ba3bf788ccd32b47e2eb8022d369f78b0"
+		}
+	]
+}

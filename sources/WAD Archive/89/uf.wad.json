@@ -1,0 +1,16 @@
+{
+	"uid": "uf.wad",
+	"name": "UNDERGROUND FANTASIA",
+	"description": "My first WAD completely designed from scratch.",
+	"date": "2015-01-14 22:58:02",
+	"files": [
+		{
+			"filename": "uf.wad",
+			"size": 349464,
+			"crc": 1205659022,
+			"md5": "98df7f0ff70624e68ea86dc758ea1340",
+			"sha1": "891e5b5413ab59e8b22a026f3b74a21fab49c392",
+			"sha256": "1841ab4502fa8babfb86be05c68146dd0861612013171894050bd777a0293201"
+		}
+	]
+}

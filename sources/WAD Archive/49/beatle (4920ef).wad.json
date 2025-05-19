@@ -1,0 +1,17 @@
+{
+	"uid": "beatle (4920ef).wad",
+	"name": "BEATLE.WAD for DOOM II!",
+	"description": "BEATLE.WAD is a single level deathmatch wad. I tried to incorporate the things that make deathmatch fun (and left out the stuff that sucks, i.e. chaingun vs. BFG, beserker boxes, etc.).",
+	"version": "4920ef",
+	"date": "2013-11-06 22:51:40",
+	"files": [
+		{
+			"filename": "beatle.wad",
+			"size": 48523,
+			"crc": 3459166898,
+			"md5": "74f9f81a1f2a073f4b3756f048355b14",
+			"sha1": "4920ef3994f3dd12d0109cbb7690e5ff74224f6b",
+			"sha256": "a4c4fbb61b8f86dfa8a30943c579ca9a320fbc07652060be871bd2cbcb83f33d"
+		}
+	]
+}

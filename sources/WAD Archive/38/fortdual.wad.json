@@ -1,0 +1,16 @@
+{
+	"uid": "fortdual.wad",
+	"name": "Fortress of Duality",
+	"description": "Originally designed for a long-defunct (I think) megawad project, this was originally built using",
+	"date": "2014-12-24 19:14:23",
+	"files": [
+		{
+			"filename": "fortdual.wad",
+			"size": 665170,
+			"crc": 2731584930,
+			"md5": "892040873fd50d71ffe55b07c2766557",
+			"sha1": "38dfe9e2f2ed46eebbc47b2b9d4ea75d5bb2eaff",
+			"sha256": "177aaa73d9dd0f59290a9de12258e74aecccf8177f6ec1b536256217d9975f56"
+		}
+	]
+}

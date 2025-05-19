@@ -1,0 +1,17 @@
+{
+	"uid": "marble (0fccb0).wad",
+	"name": "Floor/Ceiling Sector Translations",
+	"description": "An exmple wad showing two examples of sector coloring.",
+	"version": "0fccb0",
+	"date": "2018-04-16 08:30:53",
+	"files": [
+		{
+			"filename": "marble.wad",
+			"size": 23088,
+			"crc": 3155588404,
+			"md5": "0fb5b5b4fe069a871280746c8f0108d5",
+			"sha1": "0fccb0f1053328cf108709de869f26379924ca32",
+			"sha256": "3098a1971934724c3b067ae3d30071b26aa95caf1708a235247414457366ac5c"
+		}
+	]
+}

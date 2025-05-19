@@ -1,0 +1,16 @@
+{
+	"uid": "comp867.wad",
+	"name": "Complex 867",
+	"description": "A large complex with a few different themes (marble, metal, blue-tech, stone, and outdoors). The monsters are small at first, then they get larger and larger. This level also has many, many secrets (17 secret sectors in total), so hunt for them all; Some of them are quite obscure. Health and ammo is fairly well balanced. Though health should not be a problem, using ammo effectively IS important.",
+	"date": "2014-12-21 15:05:57",
+	"files": [
+		{
+			"filename": "comp867.wad",
+			"size": 164731,
+			"crc": 3910855670,
+			"md5": "0f4a3fc1b6a94d2efe2b600d30083059",
+			"sha1": "7fc46fe7135fc6fa1da91cdb4640a916d9656199",
+			"sha256": "a9f03ca4626dbdff6a1359a469692a56883eaf8c104d7145f0133a7fb328bdd6"
+		}
+	]
+}

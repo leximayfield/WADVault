@@ -1,0 +1,16 @@
+{
+	"uid": "french.wad",
+	"name": "French Doom translation",
+	"description": "This is a recreation of the official French translation of Doom II, in the form of a PWAD file and dehacked patch. I have created these by comparison of the English and French versions of doom2.exe and doom2.wad (the French version is named doom2f.wad).",
+	"date": "2013-04-22 00:50:59",
+	"files": [
+		{
+			"filename": "french.wad",
+			"size": 268036,
+			"crc": 207192435,
+			"md5": "49d54f24dd8741a39052604f3c8a9390",
+			"sha1": "8abf864e56a21f3a2c48b35cc617bbf933437bba",
+			"sha256": "280d0e9f408c8c8866e523aa17c4e9b43ba44ffcfc10086f9ab1b41475ea86a4"
+		}
+	]
+}

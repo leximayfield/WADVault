@@ -1,0 +1,16 @@
+{
+	"uid": "ihic.wad",
+	"name": "Imperfection Has Its Charms",
+	"description": "Since I am waiting on a few people before the Speed of Doom megawad project can be continued any further, I've decided to spend my time dusting off my old maps. The mapset used to be for zdoom, now it is playable on any limit-removing port with the Plutonia Iwad. These are very very early maps of mine, including my first map which is on map03. I fixed it to make it more compatible with most ports, made it more playable and fun, added shortcuts here and there. The design is very old school, and occasionally primitive, hence the title 'Imperfection has its charms.' Some of you may recognise the designs of several maps or played them before. Partial layouts of Map02 and Map07 is remade in Speed of Doom. A spruced up version of Map04 occupies the Map13 slot in NewDoom Community Project 2. There is no difficulty settings unfortunately, I would consider these maps to be challenging and not exactly for the faint of hearts. Enjoy!",
+	"date": "2014-12-24 17:48:11",
+	"files": [
+		{
+			"filename": "ihic.wad",
+			"size": 3821864,
+			"crc": 3780568909,
+			"md5": "336e7a55cbd2591f18e47c34ca9e2c44",
+			"sha1": "390cc9bf314ec0adc17a63f7256a7325ba147090",
+			"sha256": "d888cabecafbf80de4fe76316ff52f48263264c1115dade76896fe7aec20f041"
+		}
+	]
+}

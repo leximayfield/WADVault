@@ -1,0 +1,16 @@
+{
+	"uid": "adage.wad",
+	"name": "Adage",
+	"description": "1 map for vanilla Doom to celebrate the birthday of WildWeasel on Doomworld and the ZDoom forums. Hope you had a good one dude. :)",
+	"date": "2014-12-15 21:36:09",
+	"files": [
+		{
+			"filename": "adage.wad",
+			"size": 358630,
+			"crc": 1381742798,
+			"md5": "bc5a629d318a20b5db916c6dd5297343",
+			"sha1": "d31a07b76d1b4ba970002e37bbf4e81648894b77",
+			"sha256": "eff48c922851347c6d05ea8ecafa8d75181b0635028dc15f0ecec014faa22341"
+		}
+	]
+}

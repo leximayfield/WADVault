@@ -1,0 +1,16 @@
+{
+	"uid": "ranch.wad",
+	"name": "Welcome To My Ranch",
+	"description": "There are new monsters' sprites like the special forces from HALF-LIFE (not precise), and new chaingun's sprites.",
+	"date": "2014-12-29 08:49:36",
+	"files": [
+		{
+			"filename": "ranch.wad",
+			"size": 375268,
+			"crc": 3231927293,
+			"md5": "6068b7b1c2abf317404bf29179e5fbcf",
+			"sha1": "8e5d80f33b131e16ac00e5e751b2e692a99df2e9",
+			"sha256": "27599fd56e1b2741f3bdfb5a06e1730f34924799ccc28e6181d70c37ad5360b6"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dd.wad",
+	"name": "DominationDuel",
+	"description": "Gothic Duel map",
+	"date": "2014-12-12 14:18:10",
+	"files": [
+		{
+			"filename": "dd.wad",
+			"size": 431971,
+			"crc": 104819712,
+			"md5": "40e301071a83d1b65422dac490608947",
+			"sha1": "3562a4a42efa5cb20dcd45141d96ee9ceb43fa0d",
+			"sha256": "0ba020a46557b236ebeb969a705344d62c38a345c1190462d11a5e3374296254"
+		}
+	]
+}

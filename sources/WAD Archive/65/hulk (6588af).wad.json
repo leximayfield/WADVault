@@ -1,0 +1,17 @@
+{
+	"uid": "hulk (6588af).wad",
+	"name": "Hulk.zip (Contains Hulk.wad, Hulk.bat Hulk.txt)",
+	"description": "Prototype of first level a Space Hulk series based on the original Space Hulk maps.",
+	"version": "6588af",
+	"date": "2013-11-02 16:05:36",
+	"files": [
+		{
+			"filename": "hulk.wad",
+			"size": 9685,
+			"crc": 2421195440,
+			"md5": "b747cd413a747cf1ff3f7bbaba6789c0",
+			"sha1": "6588af57ee8e4e74fb9b7d9b705bd3d7b34c2787",
+			"sha256": "0623f7e4b9f1b39df8954a3be98358a707334e17b158c732560f4966a4409389"
+		}
+	]
+}

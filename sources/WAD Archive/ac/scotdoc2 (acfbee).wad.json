@@ -1,0 +1,17 @@
+{
+	"uid": "scotdoc2 (acfbee).wad",
+	"name": "SCOTDOC2.WAD",
+	"description": "My second wad. This is smaller than my first one, SCOTDOC1.wad. Have fun.",
+	"version": "acfbee",
+	"date": "2015-12-07 09:02:35",
+	"files": [
+		{
+			"filename": "scotdoc2.wad",
+			"size": 85664,
+			"crc": 1870954084,
+			"md5": "ec1488db851419ea70bd280cad14d2c8",
+			"sha1": "acfbee07935ec284144e52f6804a0911dab86167",
+			"sha256": "11d554f480de000c40b2daa9d06be2543b8a15671a95002a298f63aa5ca6b7ef"
+		}
+	]
+}

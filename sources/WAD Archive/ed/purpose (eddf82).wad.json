@@ -1,0 +1,17 @@
+{
+	"uid": "purpose (eddf82).wad",
+	"name": "PURPOSE.WAD",
+	"description": "This is an E2M1 level that could just as easily be an E1M1 version but to keep it out of shareware hands I made it an E2. (really guys, you should go ahead and register. You won't be disappointed.) The idea here wasn't to create a huge level but instead this is to be used as a launching point for additional levels/missions. The puzzles are basic and the shootouts (IMHO) are fun rather than always being cut-throat.",
+	"version": "eddf82",
+	"date": "2014-01-07 22:26:28",
+	"files": [
+		{
+			"filename": "purpose.wad",
+			"size": 121169,
+			"crc": 1036989783,
+			"md5": "78a594dc4c2199ed6c240ea5325abcf7",
+			"sha1": "eddf8253807105ff6fbe145f13ef5518e3c0e2bb",
+			"sha256": "915cc01293656d2c5e4189e01641429b9e044aef708222f68404f8ce9db9ca98"
+		}
+	]
+}

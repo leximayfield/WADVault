@@ -1,0 +1,16 @@
+{
+	"uid": "mantis.wad",
+	"name": "Mantis",
+	"description": "(lEVEL FOR DOOM2) This is a level, designed for both single player and co-op",
+	"date": "2015-09-14 20:47:22",
+	"files": [
+		{
+			"filename": "mantis.wad",
+			"size": 266646,
+			"crc": 894781615,
+			"md5": "8465196bd0d7a10bc5c23157ec89e53a",
+			"sha1": "387608fbf8880babf81183cee41d84da26a48261",
+			"sha256": "6e7d8db7ed02cf829e7fd0d77d3dcac04c9327451b912ebb942069fe5515f6d9"
+		}
+	]
+}

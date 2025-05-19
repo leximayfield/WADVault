@@ -1,0 +1,16 @@
+{
+	"uid": "cold40.wad",
+	"name": "COLD40.WAD (.ZIP, or whatever)",
+	"description": "A knock-down, drag-out, no-holds-barred DEATHMATCH based on the CREATURES of LIGHT & DARKNESS 1 & 2 player wads.",
+	"date": "2014-12-30 11:17:32",
+	"files": [
+		{
+			"filename": "cold40.wad",
+			"size": 258077,
+			"crc": 3854807039,
+			"md5": "fbb49d4339d560493f1803d05271db7c",
+			"sha1": "a5c069698a9b7231f08a25a28a24eb2218a57d1d",
+			"sha256": "04a5865b34ce630121e4d392ac03baa56f8106767d9bfc46af7b38d582d860fe"
+		}
+	]
+}

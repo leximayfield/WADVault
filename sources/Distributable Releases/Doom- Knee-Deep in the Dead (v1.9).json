@@ -1,0 +1,17 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom: Knee-Deep in the Dead (v1.9)",
+	"name": "Doom: Knee-Deep in the Dead",
+	"description": "Shareware release, contains episode 1",
+	"version": "v1.9",
+	"files": [
+		{
+			"filename": "DOOM1.WAD",
+			"date": "1995-02-01",
+			"size": 4196020,
+			"crc": "162b696a",
+			"md5": "f0cefca49926d00903cf57551d901abe",
+			"sha1": "5b2e249b9c5133ec987b3ea77596381dc0d6bc1d"
+		}
+	]
+}

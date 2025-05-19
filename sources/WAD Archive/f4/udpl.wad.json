@@ -1,0 +1,16 @@
+{
+	"uid": "udpl.wad",
+	"name": "Ultimate Doom Project Leftovers",
+	"description": "Four levels for Ultimate Doom running on M1 of each episode, roughly in the original episode's style. Had planned on expanding but lost interest for now.",
+	"date": "2014-12-13 17:43:27",
+	"files": [
+		{
+			"filename": "udpl.wad",
+			"size": 480458,
+			"crc": 1897484633,
+			"md5": "8232d7fe93ba81e6aae42051b895593f",
+			"sha1": "f47ceddfc9756c5c6323c40163222f52a3c89635",
+			"sha256": "a6554040457b80a0083894ac5522988a1b3445db62e3b4acf220ad0910c0819b"
+		}
+	]
+}

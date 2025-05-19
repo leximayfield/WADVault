@@ -1,0 +1,17 @@
+{
+	"uid": "snds (eb9fde).wad",
+	"name": "Greatest sound .wad ever",
+	"description": "(This was actually made at the end of July in 2014 but I was too lazy to actually upload it.) This is my sound .wad! It makes all sounds, well, sound *awesome*! Play! Play! Works with any Doom IWAD! Play! May have sounded better before but I had to convert it to Doom format for compatibilty with anything that's not ZDoom. :/",
+	"version": "eb9fde",
+	"date": "2015-06-18 23:05:42",
+	"files": [
+		{
+			"filename": "snds.wad",
+			"size": 7454198,
+			"crc": 3728706013,
+			"md5": "f8d59d99d7c17c15b0a250523163f01c",
+			"sha1": "eb9fde558aee6bf7042b08703060df7fc731d316",
+			"sha256": "b3a5d205fc4e1b192ed9f4c96d95057effaffaa3bd9d917fe5aef245606e3052"
+		}
+	]
+}

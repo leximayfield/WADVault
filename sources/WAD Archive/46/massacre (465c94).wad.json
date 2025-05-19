@@ -1,0 +1,17 @@
+{
+	"uid": "massacre (465c94).wad",
+	"name": "MASSACRE",
+	"description": "This is my first wad, there are more to come.. I hope you like this level as much as I and my beta-testers.",
+	"version": "465c94",
+	"date": "2015-09-14 20:26:19",
+	"files": [
+		{
+			"filename": "massacre.wad",
+			"size": 124536,
+			"crc": 3942112819,
+			"md5": "6c70099582cfe8ec590c57d662633c35",
+			"sha1": "465c9455c58f89710cb2664c1e913088241b7705",
+			"sha256": "11a744ac1b88f5e95d5e38ff5da525cb530fb4c32c4385764b8e95ded4aaa5d3"
+		}
+	]
+}

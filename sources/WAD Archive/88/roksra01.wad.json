@@ -1,0 +1,16 @@
+{
+	"uid": "roksra01.wad",
+	"name": "ROKS Rocket Arena 1",
+	"description": "This is an in-your-face ROKS RA map. Expect a high frag count and gibs galore. You can play it with Doombots, but they don't start with the rocket launcher so I put a few launchers out mainly for them to pick up.",
+	"date": "2014-12-15 21:20:44",
+	"files": [
+		{
+			"filename": "roksra01.wad",
+			"size": 66866,
+			"crc": 174227452,
+			"md5": "8dbe0b92d09d2272c0751e428aa0b285",
+			"sha1": "880781cae76a5138080253157bb30029da5a09f1",
+			"sha256": "6ef8d2f86d493ba0225368806b0a241cb8f0317a9a33d85b209b349d3aa79f1f"
+		}
+	]
+}

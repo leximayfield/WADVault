@@ -1,0 +1,16 @@
+{
+	"uid": "casttech.wad",
+	"name": "CastleTech",
+	"description": "A medium sized map featuring an outdoor castle based theme and interior tech based theme. Takes about 6 minutes to complete. This Is the second map I've ever created and I hope to create many more in the future.",
+	"date": "2015-09-15 17:58:43",
+	"files": [
+		{
+			"filename": "casttech.wad",
+			"size": 116312,
+			"crc": 2874034898,
+			"md5": "d40e3cf11f7ae0f2da6026adf79187c1",
+			"sha1": "cb7357e57eeacb1703cb77d690b25344125ca93f",
+			"sha256": "ffeb906c3db9104a8a2c09a21ae22a312eb3f15855598e57c587612e634ac8b5"
+		}
+	]
+}

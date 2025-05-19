@@ -1,0 +1,17 @@
+{
+	"uid": "shdwskin (9ae771).wad",
+	"name": "Shadow Marine",
+	"description": "Simple player skin that replaces the regular Doom Marine with a mysterious shadow version; inspired from characters such as Shadow Jago from Killer Instinct Gold and Noob Saibot from Mortal Kombat and other silhouette-type characters.",
+	"version": "9ae771",
+	"date": "2017-08-18 20:52:50",
+	"files": [
+		{
+			"filename": "shdwskin.wad",
+			"size": 110891,
+			"crc": 682880608,
+			"md5": "bdbeca3a03aee59d2d0c61f9a425b15e",
+			"sha1": "9ae771ab5f4681eb9b074b54f86066025ca94a98",
+			"sha256": "f3c526b040bbab736fa3d5529d4b91b8792ebeacd7fc029beb0762d209db5826"
+		}
+	]
+}

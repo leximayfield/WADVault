@@ -1,0 +1,16 @@
+{
+	"uid": "modmort.wad",
+	"name": "Modus Mortis",
+	"description": "5 maps to survive through. No real plot here, though some map details can hold some. Use Imagination :) HMP skill level is recommended for first run, UV may be too hard without learning all secrets. Secrets are vital part of the wad, so some tips on few secrets I don't want you to miss: -map 02 - Don't miss plasma rifle when you're in hurry. -map 04 - Look for strange wall to get supershotgun, chainsaw and some extra ammo. -map 05 - With yellow key obtained, do some backtracking to get such a good thing as backpack. Also, when you're done with the big spider, don't hurry to push exit switch - now you can pay back for map02 and get 100% of kills. And don't forget, automap is your friend :) P.S. Yes, 1st map is really small, go further. P.P.S. Works with vanilla, or at least with Chocolate Doom",
+	"date": "2015-09-15 17:15:04",
+	"files": [
+		{
+			"filename": "modmort.wad",
+			"size": 969563,
+			"crc": 3425111810,
+			"md5": "0ffa0cebb5e95c8420e5ed527ce75a6a",
+			"sha1": "e7996a211415f96eb037ac9495181ac09e01f7d1",
+			"sha256": "19e101f9cf609f4327e4beb6e4bbcd3b146497795645ee76a09eadbb31ef4dc8"
+		}
+	]
+}

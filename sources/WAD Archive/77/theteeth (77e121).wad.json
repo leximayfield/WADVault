@@ -1,0 +1,17 @@
+{
+	"uid": "theteeth (77e121).wad",
+	"name": "THETEETH.WAD",
+	"description": "Fight your way into the base then find the red key to leave. The harder the skill setting the more of the level can be accessed. If 'Eye In Symbol' things block your path then you can't access that part of the level on the current skill setting. The number of keys to be found also increases with the skill setting. This level cannot be 'practised' on an easy skill setting. Why 'The Teeth'? - Enter the blue key door (Hard skill setting only) and you'll find out",
+	"version": "77e121",
+	"date": "2013-11-02 15:20:05",
+	"files": [
+		{
+			"filename": "theteeth.wad",
+			"size": 145970,
+			"crc": 186145602,
+			"md5": "18e20976db94c5224d5d195412063cf8",
+			"sha1": "77e121386602ea0cba92cd1371874c61bf1dd97b",
+			"sha256": "9986a6a58e7f94759d2ec79d7169f2013e34dfa38ffe83cec6f89fb579704ba6"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "sprlbase (730e03).wad",
+	"name": "Sprawlbase",
+	"description": "This started as a small, simple techbase to test my understanding of basic mapping techniques while making something decent and playable, but I kept adding to it as I thought of more ideas and styles I wanted to try (hence the name). Skilled players will definitely find this one on the easy side, especially at the beginning, but I did try to create some moments of challenge. I won't do too much apologizing here--suffice it to say there are a LOT of things I would do differently next time around. This map was designed without the use of mouselook, jumping, or crouching, but I don't think you'll break anything too badly by using any of that. There's a room near the end where you'll have to noclip back if you hop over the railings, but that's about it.",
+	"version": "730e03",
+	"date": "2014-12-29 18:17:24",
+	"files": [
+		{
+			"filename": "sprlbase.wad",
+			"size": 1449926,
+			"crc": 3598032283,
+			"md5": "4343421e7d9b13ae0a141195910ba641",
+			"sha1": "730e03c81aff1b8b5d86e9f6c99a0aa969fdf372",
+			"sha256": "e441daaa583ef07727c8bdff6210340b790b380e874aa618f056f8c719f8f456"
+		}
+	]
+}

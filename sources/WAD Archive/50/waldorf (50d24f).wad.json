@@ -1,0 +1,17 @@
+{
+	"uid": "waldorf (50d24f).wad",
+	"name": "Waldorf wad",
+	"description": "A collection of 4 made from scratch levels designed specifically for new deathmatch. One mini-episode covering maps 1-4 with difficulty settings applicable for some of the levels. Meant to be played at skill 3. This is the level with the correct amount of baddies for deathmatch. Make sure to have weapons and baddies respawn. This wad is good for slower machines. Nothing too complex going on here, although they are very creative. All levels have exits usable on single player, some are hard to find though.",
+	"version": "50d24f",
+	"date": "2014-12-03 20:17:01",
+	"files": [
+		{
+			"filename": "waldorf.wad",
+			"size": 100904,
+			"crc": 1209904640,
+			"md5": "2081d9911adcdc25347e4d7b278e8fc7",
+			"sha1": "50d24fc54f403300536d32b91198995da734699b",
+			"sha256": "83e26a7bbba82c8a77e92f3d405f30307314f8f9c381baf1a795a9d267e2a604"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "db_cath.wad",
+	"name": "The Cathedral",
+	"description": "A recreation for 2003 of Heretic's E1M6, The Cathedral",
+	"date": "2014-12-18 22:47:59",
+	"files": [
+		{
+			"filename": "db_cath.wad",
+			"size": 238861,
+			"crc": 1154111891,
+			"md5": "661596964f9e617de19ce68a566596de",
+			"sha1": "83eadcaf908bf8868d03bcba089d527e6299b195",
+			"sha256": "94b239acdd4d9d49eff8d3b78d8489f32c4355ed2bb4b49841d2a82e0130d2a4"
+		}
+	]
+}

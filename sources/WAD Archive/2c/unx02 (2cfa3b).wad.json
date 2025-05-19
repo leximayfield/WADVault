@@ -1,0 +1,17 @@
+{
+	"uid": "unx02 (2cfa3b).wad",
+	"name": "UNX02: Underground",
+	"description": "This level is a sequel to UNX01 released in 2016. It's fairly easy because it's supposed to be a map02 from a set of 32. It's for vanilla Doom. Story: After exiting \"UNX01: Infiltrate\" you find yourself in what looks like an underground zone, with a bunch of new people who want to kill you. Thankfully your dead comrades left weapons for you to use (you never liked those guys anyway). That's pretty much it. Originally the level had only stock resources from Doom2, but in the last moment I decided to include a few (3) custom flats just for shit and giggles. These flats are mostly recolors of vanilla flats and are used very sparingly, however.",
+	"version": "2cfa3b",
+	"date": "2019-03-26 01:28:19",
+	"files": [
+		{
+			"filename": "unx02.wad",
+			"size": 111038,
+			"crc": 2039976806,
+			"md5": "e02dcf538b46369fe307e563db339338",
+			"sha1": "2cfa3b036b629b781280a26889b1760ce6c322d2",
+			"sha256": "f249092c3b860d973c84cfd26a6f4d18370880800582d3c2dd0a994069c5f313"
+		}
+	]
+}

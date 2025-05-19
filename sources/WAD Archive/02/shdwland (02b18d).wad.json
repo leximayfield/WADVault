@@ -1,0 +1,17 @@
+{
+	"uid": "shdwland (02b18d).wad",
+	"name": "ShadowLand",
+	"description": "This is a brick and steel arena with special lighting. It's possible to get lost when you have to in the shadows. Lots of atmosphere. I've included all weapons except the BFG, lots of ammo, and enough health to make it worth while to escape a losing firefight.",
+	"version": "02b18d",
+	"date": "2013-11-02 15:49:12",
+	"files": [
+		{
+			"filename": "shdwland.wad",
+			"size": 93379,
+			"crc": 987645722,
+			"md5": "5c6a798bb18605b7ab9c8b956c72c4d6",
+			"sha1": "02b18d8b09d6435706e5ce416b130908a3a2555d",
+			"sha256": "972f185c1a059f16955834ba51af12505d99f9251ea9c8d8ef0fbf6b4ad3e620"
+		}
+	]
+}

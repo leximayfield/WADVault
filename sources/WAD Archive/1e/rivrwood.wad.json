@@ -1,0 +1,16 @@
+{
+	"uid": "rivrwood.wad",
+	"name": "Riverwood Village",
+	"description": "Still phased after your trek through Korax's homeworld and beyond, rebuilding Cronos has been far from a flawless experience. Much of Korax's minions still wander the world, most unfound by any tasked to slay them.",
+	"date": "2014-12-31 12:06:47",
+	"files": [
+		{
+			"filename": "rivrwood.wad",
+			"size": 826394,
+			"crc": 3592975703,
+			"md5": "dcad8ba802aaf68ef4bcb4f999efbc8f",
+			"sha1": "1e70f1694c0264fb467b52ce09f6a595002e2fd9",
+			"sha256": "ec5fbe7d827950aa36747cd7c0bd20734452399f4d2e1c3b2e43048ede7b28b8"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "td2 (dccea3).wad",
+	"name": "Total Darkness 2",
+	"description": "A dark level full of detail and difficulty.",
+	"version": "dccea3",
+	"date": "2014-12-12 14:16:31",
+	"files": [
+		{
+			"filename": "td2.wad",
+			"size": 1442003,
+			"crc": 4130325431,
+			"md5": "4b8b6e6e2683e085b31e793c1787fb50",
+			"sha1": "dccea33433d92c98f18eb3fbf64b0aee92ee563a",
+			"sha256": "defee27ab5b14aec637e624af8a3d06b57826cc5ace6cc005d3541fb156d7aa1"
+		}
+	]
+}

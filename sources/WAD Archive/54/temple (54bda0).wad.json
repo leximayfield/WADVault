@@ -1,0 +1,17 @@
+{
+	"uid": "temple (54bda0).wad",
+	"name": "Temple of DOOM",
+	"description": "deathmatch level with some monsters",
+	"version": "54bda0",
+	"date": "2014-12-15 23:01:13",
+	"files": [
+		{
+			"filename": "temple.wad",
+			"size": 71140,
+			"crc": 2130867321,
+			"md5": "a1de2d24d57c73e14fbba32e5c231d5a",
+			"sha1": "54bda0f249535f12569951dc6bc7121164bdc7c3",
+			"sha256": "f651648a1f466a6f8e15b45bd6bbc498d13d401030f55e92e97929d14a523719"
+		}
+	]
+}

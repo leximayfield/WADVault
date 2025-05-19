@@ -1,0 +1,16 @@
+{
+	"uid": "gary_rmx.wad",
+	"name": "Gary Gritness - Doom RMX",
+	"description": "Hi, I'm Gary Gritness, and I reworked DOOM's music with my Roland Juno-60 and TR-606. It adds a cool, powerful early 80s sound to it, while staying as true to the original spirit and coherence of the original and blending just right in-game. Initially, it was a tape-only release (on slikktapes.com), but I just had to do a proper .WAD, and the good folks on the DoomWorld forums suggested I submit the .wad to the archive. On top of the original Ultimate Doom, you can play these fantastic Doom I megawads that would be a good fit to this remade music: - Doom The Way iD Did - Phobos: Anomaly Reborn - Classic Episode - Knee Deep in Zdoom - Invasion - Eternal Torture A huge THANK YOU to the whole Doom community, Tear on, -Gary G www.garygritness.com www.slikktapes.com",
+	"date": "2018-04-14 23:22:52",
+	"files": [
+		{
+			"filename": "gary_rmx.wad",
+			"size": 52551525,
+			"crc": 1078298509,
+			"md5": "cb078e62279c1aaee9598e99c0481c65",
+			"sha1": "2df705a5c2acdd362503636de4e42ba60b4d7b75",
+			"sha256": "67dd0588bc01b8f9008670deec8a3d0dd5db4c6a17e270100b104fe15abb9334"
+		}
+	]
+}

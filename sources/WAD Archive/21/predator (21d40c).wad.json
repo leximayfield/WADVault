@@ -1,0 +1,17 @@
+{
+	"uid": "predator (21d40c).wad",
+	"name": "Predator At Large",
+	"description": "This is the best PWAD I've ever built, and it's the second of a series. I will be working on the rest of the episode, so for any suggestions for better playability, etc. drop me a message via E-mail.",
+	"version": "21d40c",
+	"date": "2013-11-10 14:08:59",
+	"files": [
+		{
+			"filename": "predator.wad",
+			"size": 170500,
+			"crc": 3690084718,
+			"md5": "85a1659ff8f07fec815bfb99b8d9e1c2",
+			"sha1": "21d40c79e2d020e39fb41627cce984ccc3343e83",
+			"sha256": "b3606d081faa228e78276395ae470e6c4b6e39b43ea2991f36b174ee69ce0d17"
+		}
+	]
+}

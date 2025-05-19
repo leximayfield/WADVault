@@ -1,0 +1,16 @@
+{
+	"uid": "mbfinv.wad",
+	"name": "MBF Invasion",
+	"description": "An old attempt to recreate Skulltag/Zandronum invasion mode in MBF source port. The invasion control mechanism was done in late 2011, and the map has been completed at 01.10.2013 (originally called invaders.wad). It was only released on RDC forums and nowhere else/. I completely forgot to release it on Doomworld, so here it is (though I've made some balance modifications, so it's not compatible with invaders.wad)",
+	"date": "2015-12-29 14:51:48",
+	"files": [
+		{
+			"filename": "mbfinv.wad",
+			"size": 1857514,
+			"crc": 1193219785,
+			"md5": "dc868156f83ca6dde2d5c4d324a60065",
+			"sha1": "8e21bd30b9edc6d462d5b4ee5ee98fe3ee2879e3",
+			"sha256": "1364e1d5b420be7bb527bf85870ffeed447cfed5982ee0885be266ade8a3a860"
+		}
+	]
+}

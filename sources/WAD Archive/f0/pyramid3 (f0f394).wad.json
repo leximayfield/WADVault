@@ -1,0 +1,17 @@
+{
+	"uid": "pyramid3 (f0f394).wad",
+	"name": "PYRAMID.WAD",
+	"description": "Single, Multi-Player, and Deathmatch. Make it to the Pyramid, get to the top, and see what happens next.",
+	"version": "f0f394",
+	"date": "2013-11-02 15:24:02",
+	"files": [
+		{
+			"filename": "pyramid3.wad",
+			"size": 98842,
+			"crc": 2463036327,
+			"md5": "64b2b7396d9b6f39ceff06365a7df504",
+			"sha1": "f0f394b11a7102323474e9f9d0994f1597dac5dd",
+			"sha256": "744c65f1bfbae4b1f526d2390773fb8c5d4d1e72d4ead23004255ca86f9798e2"
+		}
+	]
+}

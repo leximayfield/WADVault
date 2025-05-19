@@ -1,0 +1,17 @@
+{
+	"uid": "dm1deth (62f303).wad",
+	"name": "9DMDETH",
+	"description": "9 Great deathmatch wads for Doom 1 & 2, V. 1.666 Designed primarily for two player deathmatchs (but the more opponents, the more FUN)!",
+	"version": "62f303",
+	"date": "2013-11-02 15:22:56",
+	"files": [
+		{
+			"filename": "dm1deth.wad",
+			"size": 338735,
+			"crc": 159683127,
+			"md5": "9f19a181f6758b21e158620293539560",
+			"sha1": "62f303f859e0919482a973d90aa0b1a239b95fc8",
+			"sha256": "054dafb3b29a9b1ef14a00aa6531a68d08d25324292650c1e27f7a98a07c9cb6"
+		}
+	]
+}

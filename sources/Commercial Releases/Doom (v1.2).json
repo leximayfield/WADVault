@@ -1,0 +1,16 @@
+{
+	"$schema": "../schema.json",
+	"uid": "Doom (v1.2)",
+	"name": "Doom",
+	"version": "v1.2",
+	"files": [
+		{
+			"filename": "DOOM.WAD",
+			"date": "1994-02-17",
+			"size": 10399316,
+			"crc": "a5da8930",
+			"md5": "792fd1fea023d61210857089a7c1e351",
+			"sha1": "b5f86a559642a2b3bdfb8a75e91c8da97f057fe6"
+		}
+	]
+}

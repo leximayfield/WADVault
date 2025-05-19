@@ -1,0 +1,17 @@
+{
+	"uid": "sargasso (6dbb66).wad",
+	"name": "Sargasso",
+	"description": "Sargasso is an 11-map space adventure episode for DooM II which requires a Boom-compatible port to play. You play as Wolf - the leader of a mercenary team which resides in a space station hideout known as Sargasso - until one day aliens capture a loaded cargo ship and wreak havoc on any who oppose. It's up to you now - grab your high-tech weaponry and show them who rules this side of the galaxy!",
+	"version": "6dbb66",
+	"date": "2019-10-27 23:20:15",
+	"files": [
+		{
+			"filename": "sargasso.wad",
+			"size": 18871117,
+			"crc": 852601085,
+			"md5": "4129e3f37bee90a79c68551fb6cee52d",
+			"sha1": "6dbb66a7c118de8baa945562b34560ba00f07f2b",
+			"sha256": "2cfdf38c2fa93c866870f80ff01f0da287b561bb99dbbe45bfa5f45cea733cb3"
+		}
+	]
+}

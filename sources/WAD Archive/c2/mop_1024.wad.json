@@ -1,0 +1,16 @@
+{
+	"uid": "mop_1024.wad",
+	"name": "Claustral",
+	"description": "a map limited to a 1024x1024 square (some geometry extend beyond this boundairy, but the player and all gameplay happen within this area). this map was made when the 1024 contests and community projects were just starting to get popular. Never released until now. Its a short, claustrophobic castle map with lots of brown bricks and metal (my favorite stock textures!).",
+	"date": "2015-09-14 19:34:00",
+	"files": [
+		{
+			"filename": "mop_1024.wad",
+			"size": 339180,
+			"crc": 3330786197,
+			"md5": "10207a9be62c7afb0f18e3db1204657b",
+			"sha1": "c21bdd4cdc85f3db48b05abbea9b4275fb48c8d4",
+			"sha256": "2c9cbffac5d2d9ceb2395d97a3b26fc6c2d8ca8ce889568ae449b43fec4fe741"
+		}
+	]
+}

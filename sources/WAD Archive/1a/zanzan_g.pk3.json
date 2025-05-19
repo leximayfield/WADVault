@@ -1,0 +1,16 @@
+{
+	"uid": "zanzan_g.pk3",
+	"name": "ZanZan - Gzdoom Version",
+	"description": "This is a conversion of the excellent Total Convesion for Doom by Edmundo Bordeau named Zanzan, where you play an immortal (not anymore) ruler of your planet. You plan on destroying a planet, that, as you believe, will lead to a war in the future. One of your servants does not agree with that, so when Zanzan, or you, sleep for one year, your former servant plans a rebelion against you to stop you from destroying the above mentioned planet. The very planet is .. Earth. Refer to Zanreadme.txt for more information. This TC had originally been built for a, now defunct, version of Zdoom's open Gl sourceport- Zdoomgl. The very old version (0.66) had md2 models support, which this mod uses extensively to create a new gaming environment. With the addition of md2 models support to Graf Zahl's excellent Zdoom sourceport-Gzdoom, I, Paul at DRD or Nmn, have taken care of making a version of the TC to run under Gzdoom. One of the reasons was that the old version of ZDoomgl the original TC requires can cause trouble to either set up, or display things properly. Another reason was that Gzdoom is more popular nowadays. Last reason was that I wanted more people to play this mod, as I think, without any hyperbole, it's very likely the best wad ever made, even if having only 3 levels. Have fun!",
+	"date": "2014-12-29 18:22:39",
+	"files": [
+		{
+			"filename": "zanzan_g.pk3",
+			"size": 3865477,
+			"crc": 2497662946,
+			"md5": "a8add86e980143d8377f13424440ce00",
+			"sha1": "1a24a32d856e8fee0b5eec14730ec1c1f0372c4f",
+			"sha256": "db1fa366faad20522f1937eca56b46b4574c9677399507e58cf78ba8b85fac25"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "flip (ea36d9).wad",
+	"name": "flip.wad",
+	"description": "Small game. No monsters. Lots of trip lines.",
+	"version": "ea36d9",
+	"date": "2014-12-13 17:40:57",
+	"files": [
+		{
+			"filename": "flip.wad",
+			"size": 19568,
+			"crc": 4059392360,
+			"md5": "976d2d5752ac6559408141a82d692438",
+			"sha1": "ea36d912ce3733a6be8b7447c3977b5b4af62e20",
+			"sha256": "e0dd91b56ac371fc30417e7930551c9e62a4b1b11c4c7eeb060177ea9ac629d1"
+		}
+	]
+}

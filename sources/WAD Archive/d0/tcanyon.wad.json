@@ -1,0 +1,16 @@
+{
+	"uid": "tcanyon.wad",
+	"name": "The Canyon",
+	"description": "A large open world level with some claustrophobic caves and tunnel systems. The level revolves around the inner workings of a bunker nestled deep in the cave systems. Several other unnerving things seem to be going on as well. My first doom level. Requires Gothic99",
+	"date": "2015-09-14 22:16:42",
+	"files": [
+		{
+			"filename": "tcanyon.wad",
+			"size": 747601,
+			"crc": 3063257996,
+			"md5": "fa2639cea1e107e1542d1888b37723c0",
+			"sha1": "d047e11cad66388ac8097dd3e70bbfcc07d070d7",
+			"sha256": "992e0c18e7cfc0db50523172a7ed185b209b19b3539ee698519737dff1a45df9"
+		}
+	]
+}

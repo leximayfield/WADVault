@@ -1,0 +1,17 @@
+{
+	"uid": "h2hczar1 (d37346).wad",
+	"name": "H2H Czech Arenas - 1 (H2HCZAR1.WAD) DOOM II version",
+	"description": "This is an arena-type deathmatch pwad that I made for tournaments held by H2H in San Diego (619-426-0073). Please, don't confuse Arenas with H2H Czech Series. Arenas are smaller, designed only for deathmatch. Although you can play Arenas solo or in co-op (more monsters), they are made for deathmatch with ALTDEATH in mind.",
+	"version": "d37346",
+	"date": "2014-12-15 22:12:26",
+	"files": [
+		{
+			"filename": "h2hczar1.wad",
+			"size": 55276,
+			"crc": 1060308421,
+			"md5": "6b796a3dda2b366b14dfc30fd56bfa8f",
+			"sha1": "d3734676d09fc50cf436f3478acb9171b078458f",
+			"sha256": "79b8beb55d2fb1689df9468919a585198167ccfaa150dcb69e4c54d85a0b1759"
+		}
+	]
+}

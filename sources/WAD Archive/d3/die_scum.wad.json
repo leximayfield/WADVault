@@ -1,0 +1,16 @@
+{
+	"uid": "die_scum.wad",
+	"name": "Die_scum",
+	"description": "There's one all new level and three edited levels from Doom, meant for Deathmatch. (you'll see why!)",
+	"date": "2016-02-06 14:06:05",
+	"files": [
+		{
+			"filename": "die_scum.wad",
+			"size": 284525,
+			"crc": 796591350,
+			"md5": "9f1365974ace7fb4fa9d23cbdbcd1f63",
+			"sha1": "d3c81c2b6ae98b0112120c008779efa1691e6fbb",
+			"sha256": "bee1775d04f459f32a9bdeab5c77206a5701d49a4844082ea59816a1e333e1cb"
+		}
+	]
+}

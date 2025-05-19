@@ -1,0 +1,16 @@
+{
+	"uid": "strg.wad",
+	"name": "Struggle - Antaresian Legacy",
+	"description": "Struggle - Antaresian Legacy is a single-player mod for Doom 2 with limit removing compatibility. It features new weapons and monsters replacement with DeHacked patch. Some of original monsters are also slightly changed, so it's recommended to check out the info below, before you play this one. Thanks, and have fun. :) [IMPORTANT] This wad uses heavily modified DeHacked patch. So it is recommended not to use other custom gameplay patches. P.S.: Par time is based on UV-MAX, not UV-Speed P.P.S. : Please try STRG_M28.wad file, if you're having a framerate issue with MAP28.",
+	"date": "2018-09-30 20:25:13",
+	"files": [
+		{
+			"filename": "strg.wad",
+			"size": 61670357,
+			"crc": 1890098761,
+			"md5": "1f3653c4c3928a578aff9ac685ed402a",
+			"sha1": "07bb2369299eb50ccad23c74673f5de40e63346c",
+			"sha256": "fb69e8af93909dbd0f4ea5d40c7557170b6831c4abd9b1bd0c9284f2ca10c565"
+		}
+	]
+}

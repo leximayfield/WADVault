@@ -1,0 +1,16 @@
+{
+	"uid": "doomuc.wad",
+	"name": "Doom: Uncut",
+	"description": "Makes the monsters anatomically correct again, with the exception of Hell Knight, Cyberdemon and Archvile, as well as all clothed/skeletal monsters.",
+	"date": "2015-09-15 16:30:48",
+	"files": [
+		{
+			"filename": "doomuc.wad",
+			"size": 219913,
+			"crc": 3505904426,
+			"md5": "2b8e417f95e82119480fb4e7f6b5d0c0",
+			"sha1": "6ef44410ec05f7e63568e0ef04a010b23135113e",
+			"sha256": "feeceba832c6708c14e1397f1005a6248a1c3e0248b727b0ee4fce7a3131d63c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "buzzy4.wad",
+	"name": "Doom Levels of God IV",
+	"description": "This is a newer version of buzzy3.wad. It has 2 new levels (secret levels 31+32) and many bugs of the previous installments in the buzzy series have been fixed. I also revamped the lighting effects and some other architectural fetures. The level order has also been changed. I have added buzzy4.bat for easier playing. Just unzip buzzy4.zip into your Doom2 directory and type 'buzzy4'. And here are descriptions of each level: Map01:Short, easy beginning level (I finally added a secret here!) Map02:A small level and one of the only ones with some sort of theme (a sewerage treatment plant) *Note* the slugde is not deadly in this level Map03:This is a medium-sized level with a really cool staircase Map04:Another average-sized level (built by Jeromy Ritchey) with a long alluminum tunnel Map05:A fairly good sized sized level with a small, easy maze and some other interesting things (Jeromy came up with the concept of building this level completely contained inside the starting semi-circular hallway but I did the rest:) Map06:This is the only other themed level in this wad, it is an abandoned mine (very dark and spooky with some cool light effects) Map07:This is a big level and pretty hard (unless you can find the quick escape secret near the beginning;) it also has a nifty crusher and a tentacle maze Map08:This is one of the best and is filled to the brim with monsters (the best title for this level would be AC/DC...;) Map09:This is the first level I built but is still very good(and the biggest at 194K) the first big arena is truly awesome!! Map10:This level is brutal Lot's o' demons!!!!! Map31:This level was created by Jeromy and has the biggest staircase I've ever seen Map32:Talk about mass murder, this level is just two very big arenas connected by a teleporter but has more enemies than you can count. The second arena is the main death trap and the buildings spell out something... Just for fun, I have added bdycnt.txt which contains the Ultra Violence body counts for every level except the secret ones.",
+	"date": "2014-12-15 21:57:12",
+	"files": [
+		{
+			"filename": "buzzy4.wad",
+			"size": 1247929,
+			"crc": 3289509916,
+			"md5": "7a6ddf2a1f965fbff3f586552f5500f4",
+			"sha1": "0c4a4d132b96194344825ad6bd002807e8ab6ce1",
+			"sha256": "4262119ff1b6f5375d22e5b0ecbe304494daa192d89b954abba978775f2a1c24"
+		}
+	]
+}

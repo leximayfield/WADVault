@@ -1,0 +1,16 @@
+{
+	"uid": "planet.wad",
+	"name": "Planetfall",
+	"description": "4.5 levels of single player action. Levels 2 and 3 should be good for deathmatch too.",
+	"date": "2014-12-29 09:08:53",
+	"files": [
+		{
+			"filename": "planet.wad",
+			"size": 991348,
+			"crc": 1994325800,
+			"md5": "77e758a5690ca1a4449e774f55de7583",
+			"sha1": "fd34f62071b4da3a8c48eae1122e3d8f040366f7",
+			"sha256": "d30f3429aedaed9b111fc6ca4370e72a3c378eeb30599340e7a4d45d263af843"
+		}
+	]
+}

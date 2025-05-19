@@ -1,0 +1,17 @@
+{
+	"uid": "bamse (82e96e).wad",
+	"name": "The Lair of Bamse Bear",
+	"description": "The lair of Bamse has been invaded by vicious aliens. It is of course Furman, Bamse's old arch enemy, who has planned the coup. Your mission is to handle the aliens in the best way that you can, and to teach Furman a lesson. Furman has proven to the gullible aliens that Bamse is Satan, thus: Consider the letters in the name Bamse, and especially their ordinal numbers in the alphabet. B = 2 A = 1 M = 13 S = 19 E = 5 2 + 1 = 3 13 * 19 = 247 5 * 5 = 25 247 - 25 = 222 222 * 3 = 666 666 is the number of the beast. Therefore Bamse is Satan, says Furman. Noone but you understands that the proof is utterly incorrect, because the letter E was used twice.",
+	"version": "82e96e",
+	"date": "2014-12-13 17:38:31",
+	"files": [
+		{
+			"filename": "bamse.wad",
+			"size": 199303,
+			"crc": 4212431040,
+			"md5": "27e0cdff6af80bcad66feee8b57de41a",
+			"sha1": "82e96ed3a768af419c367b16c392317836b7b458",
+			"sha256": "6af8e43d687b9b0fe25200b9280052c406150e7bbdfb18ee1f425f4b27e2cd86"
+		}
+	]
+}

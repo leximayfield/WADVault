@@ -1,0 +1,16 @@
+{
+	"uid": "trinity2.wad",
+	"name": "Trinity 2.0",
+	"description": "A newer version of my first map Trinity.",
+	"date": "2014-12-29 16:43:16",
+	"files": [
+		{
+			"filename": "trinity2.wad",
+			"size": 911678,
+			"crc": 845494162,
+			"md5": "3b6e91b10648c50d5376d477150c0d9c",
+			"sha1": "b3ae0a61d1b9fc1b12e41e8efa6a40b6d76b6e01",
+			"sha256": "8d8f88c5d298d4f814e4e8f6c2b6e9d49218bb2f65761b8c987d45b54e32b9b1"
+		}
+	]
+}

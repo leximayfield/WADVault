@@ -1,0 +1,17 @@
+{
+	"uid": "WASTE (99c21f).wad",
+	"name": "The Wastelands",
+	"description": "I have a few policies I follow when I make a map that you should know about before you play. - You do not need to get any of the secrets to finish any level, although what you have to do may not be obvious. I also have marked each secret in one way or another, but it may be very subtle. (That's why it's a secret!) I hate unmarked secrets in other wads, so I don't put them in mine. (exception - there are secrets in the early levels that wimps cannot access. ie. You have to be a man, stick it out and fight. Stray shots can work wonders!) - If you feel like cheating, go load up something that has, oh.. say 20 cyberdemons in it and go crazy. Get it out of your system, then play Wastelands. This is a serious WAD for serious players. There are some parts that may be hard to do or figure out, but they can be done. If you are really stuck, I have the spoilers at the bottom of the document. - To the best of my knowledge, there is no place where you can get stuck. There are places where if you fall in, the nukeage will kill you, but there should be no place where you are trapped and can't die. - From experience, save your game often. For the mostpart, the most difficult parts of levels are near",
+	"version": "99c21f",
+	"date": "2014-10-14 21:12:39",
+	"files": [
+		{
+			"filename": "WASTE.wad",
+			"size": 1176408,
+			"crc": 3257251091,
+			"md5": "0f00de27e918c0db627477a9bd6de6b5",
+			"sha1": "99c21f0a2ef8c16040c3860404c287fc77f7448c",
+			"sha256": "05771a184d650cf10c2fc72489f8d03b1754bbbfa54aee48ae07af246dd531bd"
+		}
+	]
+}

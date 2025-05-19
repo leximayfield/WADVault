@@ -1,0 +1,17 @@
+{
+	"uid": "hexendemo (fa89a2).wad",
+	"name": "Hexen: Beyond Heretic DEMO",
+	"description": "Four level demo of Hexen that was released four weeks before the retail version.",
+	"version": "fa89a2",
+	"date": "2013-12-01 13:00:22",
+	"files": [
+		{
+			"filename": "hexendemo.wad",
+			"size": 10644136,
+			"crc": 2009933508,
+			"md5": "876a5a44c7b68f04b3bb9bc7a5bd69d6",
+			"sha1": "fa89a2475855e43c7f7e3198d6e4c4bee23bfab9",
+			"sha256": "c26d6e5ca01039d40f9e53fbc15a242616c633f4bbc0fca0b3f73b871101311d"
+		}
+	]
+}

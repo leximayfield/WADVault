@@ -1,0 +1,16 @@
+{
+	"uid": "movmusic.wad",
+	"name": "MovieMusic",
+	"description": "A ton of music for DOOM, all themes from movies",
+	"date": "2015-09-15 14:06:11",
+	"files": [
+		{
+			"filename": "movmusic.wad",
+			"size": 634203,
+			"crc": 3034049472,
+			"md5": "1345ddf9cfcb6b8dd39553c83a8b776b",
+			"sha1": "722f8043f26f229605a67e8752381b7887c242e3",
+			"sha256": "9a3e19b9a0eb1f9ce24d40fbf768388f77e991fd4a7688d17680a54a994551f6"
+		}
+	]
+}

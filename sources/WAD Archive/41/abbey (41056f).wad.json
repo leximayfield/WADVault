@@ -1,0 +1,17 @@
+{
+	"uid": "abbey (41056f).wad",
+	"name": "ABBEY.WAD",
+	"description": "The Abbey of Desecration.",
+	"version": "41056f",
+	"date": "2014-12-31 12:15:14",
+	"files": [
+		{
+			"filename": "abbey.wad",
+			"size": 413251,
+			"crc": 2395087657,
+			"md5": "fb7b3d1ce15b1da9e1028c0397e7d8cf",
+			"sha1": "41056ffd4c9ee246ec68583dfffadf3f8f1531d0",
+			"sha256": "b2aa443c7c6aac631a86cbed97cd51a8de5c62331be8729f457adb8dbec1cbb4"
+		}
+	]
+}

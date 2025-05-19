@@ -1,0 +1,16 @@
+{
+	"uid": "STARFGHT.wad",
+	"name": "Star Fight",
+	"description": "Doom 2 PWAD",
+	"date": "2014-10-14 21:03:56",
+	"files": [
+		{
+			"filename": "STARFGHT.wad",
+			"size": 20583,
+			"crc": 353517064,
+			"md5": "dc97ce6df31252dba2e729ab9f44d516",
+			"sha1": "fbb5ac9b1ea30f1b25860a9d2ec82a32c8f40458",
+			"sha256": "6dfaaf6a2bac4f92e835acc48e4cea6bb1849db84a1e8d34c8ba0641d08a9f4b"
+		}
+	]
+}

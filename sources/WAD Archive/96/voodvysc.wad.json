@@ -1,0 +1,16 @@
+{
+	"uid": "voodvysc.wad",
+	"name": "Voodoo Veyor - Scrapped Portion",
+	"description": "A scrapped portion I made to test out an idea for another currently in-progress WAD of mine. Here, you are placed into a 4-way conveyor belt intersection pit with no escape. Enemies, items, and other tricks and traps will appear on each of the conveyors. You must survive this onslaught until it is over.",
+	"date": "2014-12-29 17:01:57",
+	"files": [
+		{
+			"filename": "voodvysc.wad",
+			"size": 46183,
+			"crc": 3982864478,
+			"md5": "49807bc3875fdf0aa312614d1a1ee8ca",
+			"sha1": "96b6e4b7a771b58875ec72a6c562df9b2c7af13e",
+			"sha256": "a52cb1d3c9911bc502ffa938a7ff5d1eb61b4dfc97dfa5d77a6222a9f21d6fd6"
+		}
+	]
+}

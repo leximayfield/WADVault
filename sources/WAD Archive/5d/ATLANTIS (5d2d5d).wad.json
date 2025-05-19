@@ -1,0 +1,17 @@
+{
+	"uid": "ATLANTIS (5d2d5d).wad",
+	"name": "Atlantis.wad",
+	"description": "Great Deathmatch wad 2-4 player. Lost City of Atlantis.",
+	"version": "5d2d5d",
+	"date": "2014-12-30 11:27:15",
+	"files": [
+		{
+			"filename": "ATLANTIS.wad",
+			"size": 112940,
+			"crc": 925823079,
+			"md5": "ce0973368a9bccf38644d75c97884f73",
+			"sha1": "5d2d5da9916b9902395f970a688b86087693f4d8",
+			"sha256": "80ca3af13ce7c93949198ab75dac0eea16e627a191b0f175e1b3c4f6045c9b91"
+		}
+	]
+}

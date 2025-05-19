@@ -1,0 +1,16 @@
+{
+	"uid": "firewall.wad",
+	"name": "Beyond the wall of flames",
+	"description": "After the death of hell, something survives. A powerful",
+	"date": "2014-12-18 22:46:23",
+	"files": [
+		{
+			"filename": "firewall.wad",
+			"size": 109393,
+			"crc": 4109529877,
+			"md5": "112f9a503003390b6865ac8b249ef6fa",
+			"sha1": "c5ac9d5fdaa6b8801e0fac8b391443ceb1bf348e",
+			"sha256": "27d14a18b1bb7e6ec009c54e2aa0537ba0b30929ca2df4a399c62ba24a09d0ee"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "mayan667 (e5dd42).wad",
+	"name": "Mayan Temple",
+	"description": "This is an upgraded version of Mayan666.",
+	"version": "e5dd42",
+	"date": "2014-01-11 11:31:53",
+	"files": [
+		{
+			"filename": "mayan667.wad",
+			"size": 703820,
+			"crc": 4238561034,
+			"md5": "0fcebd19d5d3fa035cdfb884ca808d75",
+			"sha1": "e5dd425b3cf4655e15c2e5ff34430f285c9cc171",
+			"sha256": "ff133c5ed9df6d0216be277dc32c38192e93fe82bfefdbf557d5d9345566ae9b"
+		}
+	]
+}

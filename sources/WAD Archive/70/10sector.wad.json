@@ -1,0 +1,16 @@
+{
+	"uid": "10sector.wad",
+	"name": "10 Sectors",
+	"description": "I wanted to create something wizardly here, and i wish i : had a little more time to do the final area right, fix : some bugs and add some other stuff but it seems like the : end result got pretty good after all. ;-) : I sent in my level approximately 10 minutes before the : deadline.. which was at 9 AM (local time) that day in : september. That friday night pretty much reminded me of a : typical night before an exam, (total panic) and the final : area with the spaceship was finished in an extreme hurry! : At 8:40 I thought everything was fine, before I (to my : horror) realised there was a critical bug which made it : impossible to complete the level. I simply had to delete : the stuff that wasnt working in order to reach the : deadline. I built the nodes, created a simple reject map : and quickly playtested the level one last time before : submitting the wad and going to bed. I woke up at 8 pm : later that day :-) I don't know what I would've done if : the mailserver had been down at the time or something like : that. : BTW, straferunning through this level is not advised since : i used a lot of linedefs that need to be triggered in order : to have the various sectors \"slide into place.\" If one of : the lines are missed then the sectors might come \"out of : sync\" with eachother so that you wont be able to finish the : level. I know this sucks, but I had to exploit whatever : possibilites i could think of to give the illusion of using : way more than 10 sectors :-) You shouldnt experience any : problems unless you're actively trying to speedrun through : however..",
+	"date": "2013-04-19 02:17:02",
+	"files": [
+		{
+			"filename": "10sector.wad",
+			"size": 9586636,
+			"crc": 2604603260,
+			"md5": "8411e7f3d2f197ab35311138e6108ea9",
+			"sha1": "700ca73e0285f3c2cbfd584593766c8d969f5276",
+			"sha256": "df4e9cfa201d3fc4621dfda6c0804d721a23763d8cdb6cba6b44886339742f9b"
+		}
+	]
+}

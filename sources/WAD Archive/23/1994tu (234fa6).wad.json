@@ -1,0 +1,17 @@
+{
+	"uid": "1994tu (234fa6).wad",
+	"name": "1994 Tune-up Community Project",
+	"description": "Everybody knows that most maps from 1994 are pretty terrible, but what if we took maps from the archive that permit modification and then redetailed them?",
+	"version": "234fa6",
+	"date": "2018-05-28 19:40:07",
+	"files": [
+		{
+			"filename": "1994tu.wad",
+			"size": 30680726,
+			"crc": 3670507543,
+			"md5": "8c2d278b9568cd205b63b3febd0c4f7d",
+			"sha1": "234fa6fb8d1d601364a3730e645f48a7ca223a88",
+			"sha256": "8d7c0fc4dccab8d2831fced81ab53fd81ccbc65c517824c9455b8e9f43cbcc7e"
+		}
+	]
+}

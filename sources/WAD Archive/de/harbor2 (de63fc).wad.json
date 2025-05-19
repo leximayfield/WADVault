@@ -1,0 +1,17 @@
+{
+	"uid": "harbor2 (de63fc).wad",
+	"name": "HARBOR2.WAD",
+	"description": "From the seaport, where UAC goods are delivered, you will find your way to an ancient castle, which is very realistic both from outside and from inside. This WAD is a remake of an earlier version called HARBOR, which was a little too easy to play. There is more challenge in the hurt-me-plenty level, and completing the game in ultra-violence mode now really is a tough task.",
+	"version": "de63fc",
+	"date": "2014-12-18 23:21:39",
+	"files": [
+		{
+			"filename": "harbor2.wad",
+			"size": 203262,
+			"crc": 3977300485,
+			"md5": "469c8edcc510965dd3a2d2aa4597e29f",
+			"sha1": "de63fced5e8e2988b75474f289e1cad3c9d70c85",
+			"sha256": "b3e7ef3cd15fa10f1a6640362f7ac8ed1ab3d8ac33d46afa8df2be37993ee94e"
+		}
+	]
+}

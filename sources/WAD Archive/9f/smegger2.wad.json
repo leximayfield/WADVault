@@ -1,0 +1,16 @@
+{
+	"uid": "smegger2.wad",
+	"name": "SMEGGER2.WAD",
+	"description": "This is the second of my WADs that I've published on the net. It's a deathmatch level meant for two or three players. There are enough starts for four, but things might get a bit claustrophobic. There are several main areas, all linked by corridors and lifts, and all the weapons are available. Each area has at least two ways to get in or out, so you won't get trapped too easily. There is no over-riding theme in the map, but there is quite a bit of scenery. Of course the best scenery is the bloody bodies of your dead opponents ...",
+	"date": "2014-12-15 21:33:04",
+	"files": [
+		{
+			"filename": "smegger2.wad",
+			"size": 62235,
+			"crc": 2252522708,
+			"md5": "5c71e631c81927a9a5876586fa9614c2",
+			"sha1": "9f9bf9d9654befb223f5f6269baff31763b0644e",
+			"sha256": "325034ffa2ee294f5e32fc1260c6140e96ab1c051d3c6e52984011b93648c060"
+		}
+	]
+}

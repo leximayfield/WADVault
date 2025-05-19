@@ -1,0 +1,16 @@
+{
+	"uid": "WTF-SLVR.wad",
+	"name": "Sliver",
+	"description": "WAD file with multiple levels, no special theme. Better not have a 386 or something like it.",
+	"date": "2015-09-15 13:15:52",
+	"files": [
+		{
+			"filename": "WTF-SLVR.wad",
+			"size": 303029,
+			"crc": 4016498929,
+			"md5": "5694a953b3281c360a14ddcad8c9259e",
+			"sha1": "5a41ab9a9c3d38b3774875787821daaa4b6cecf0",
+			"sha256": "c5850cb7635b60c2e40361e77891d0284ceed1015df332050c1b8b41d3fe6c53"
+		}
+	]
+}

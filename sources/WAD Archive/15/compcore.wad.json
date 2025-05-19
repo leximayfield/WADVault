@@ -1,0 +1,16 @@
+{
+	"uid": "compcore.wad",
+	"name": "Computer Core",
+	"description": "An underground computer core. Try not to get your ass blown off!!!",
+	"date": "2014-12-13 12:54:40",
+	"files": [
+		{
+			"filename": "compcore.wad",
+			"size": 94225,
+			"crc": 3099840309,
+			"md5": "2f0ee9dcc189e11d82b11da405c800dd",
+			"sha1": "15aa6e82ac9de6123440c3ce9896b00af2796ed8",
+			"sha256": "811aa17a10210efcc45a27573227d25d2056b8996ebe7c03c071b3ed23942fb0"
+		}
+	]
+}

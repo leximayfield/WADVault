@@ -1,0 +1,16 @@
+{
+	"uid": "btso.wad",
+	"name": "Back to square one",
+	"description": "A brown map. Fight carefully and look for hidden items/switches.",
+	"date": "2015-12-29 12:15:44",
+	"files": [
+		{
+			"filename": "btso.wad",
+			"size": 1029232,
+			"crc": 396604010,
+			"md5": "7541f220a94dfbd9d64cbe0b8788cb03",
+			"sha1": "f996bbc0b53005a82945f756b57cee63e9b9ff23",
+			"sha256": "3807440129ec49c608f1c64e0a3c179392b648bc08d07b5d622c625e6504f0f9"
+		}
+	]
+}

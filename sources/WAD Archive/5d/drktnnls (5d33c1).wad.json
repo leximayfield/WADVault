@@ -1,0 +1,17 @@
+{
+	"uid": "drktnnls (5d33c1).wad",
+	"name": "The Tunnels",
+	"description": "A small deathmatch map stationed in a long-abandoned maintenance tunnel deep beneath the Phobos Labs. The original purpose of the tunnel was to provide power for various parts of the Phobos Labs. After the first invasion from hell, the maintenance tunnels were shut down, and as direct cause. Have been crumbling away, parts have been flooded with murky water. Bits of floor and wall crumbled away. The tunnel, still littered with the bodies of the dead, now has only one way in and out, a ladder inside one of the many service elevator shafts. Inspired by Doom 64, Doom PS1, and a little bit of Fallout.",
+	"version": "5d33c1",
+	"date": "2016-10-17 17:03:12",
+	"files": [
+		{
+			"filename": "drktnnls.wad",
+			"size": 2106568,
+			"crc": 1418982047,
+			"md5": "82d73719bca8efa3a7477b9e00ad10b2",
+			"sha1": "5d33c16b23f58abef55184fd669fa3dd006a7b16",
+			"sha256": "bf1c85689c8d0c5cb7637bee9ef62a1f65078bf47481e5d3a142d9209631e6bd"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "e2m8dmch (c0ffbd).wad",
+	"name": "E2M8MOD.WAD",
+	"description": "This is a revision of the registered E2M8 level that was modifed for DeathMatch play only The level is split into sections, and each section has a unique color to it, I did this so that you can tell where you are, and where the weapons are.",
+	"version": "c0ffbd",
+	"date": "2013-11-06 22:21:12",
+	"files": [
+		{
+			"filename": "e2m8dmch.wad",
+			"size": 32077,
+			"crc": 4192944958,
+			"md5": "0a83add9a9e497dfc7cbc45b82a560c7",
+			"sha1": "c0ffbd9bcc111a01f3e72f96de5a22754a178133",
+			"sha256": "cc804725cb9ab335a4fe8d5b8ae265dacb4faa219581d44a2f2620b32e93d008"
+		}
+	]
+}

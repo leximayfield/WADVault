@@ -1,0 +1,16 @@
+{
+	"uid": "zzwolfxx.wad",
+	"name": "Stupidstein",
+	"description": "This was one of two maps I made to combat mapper's block a long time ago; the other map ended up in SlaughterMAX, albeit much harder than it originally was. I *think* this was designed more for co-op, as it is implemented. The cacodemon part might feel grindy in single-player but meh, this is another throw-away map anyhow.",
+	"date": "2019-03-20 02:41:01",
+	"files": [
+		{
+			"filename": "zzwolfxx.wad",
+			"size": 45813,
+			"crc": 2887478747,
+			"md5": "0799f8737a130784c72218a6e5be2b95",
+			"sha1": "e392a156a2474ee9674ced964e6a56e69c2c7dc8",
+			"sha256": "85f12ab24d79d9e635ae9ce4b5ec82b332f400cb195482a4793dbd4ae65232e9"
+		}
+	]
+}

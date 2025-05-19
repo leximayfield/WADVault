@@ -1,0 +1,16 @@
+{
+	"uid": "tmsf1.wad",
+	"name": "Time Shift 1: Aftermath",
+	"description": "The first map in the Time Shift DM series. This uses the HacX TC for Doom 2.",
+	"date": "2014-12-30 11:33:25",
+	"files": [
+		{
+			"filename": "tmsf1.wad",
+			"size": 51648,
+			"crc": 2670318432,
+			"md5": "6eb8354736913e9252b2987835c835b9",
+			"sha1": "c28236931f3ce2a0120b16991aa004934765acba",
+			"sha256": "9e0db81b2750d5c35d2c77e030cf4e5c93a9f4bc580d873064bfd790647cbba7"
+		}
+	]
+}

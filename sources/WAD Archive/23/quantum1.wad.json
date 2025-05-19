@@ -1,0 +1,16 @@
+{
+	"uid": "quantum1.wad",
+	"name": ": Quantum1",
+	"description": "You are teleported right in themiddle of Quantum1, a colony that has been infiltrated by id softwares demons. YOUR JOB IS TO DESTROY THE INVADERS IF YOU CAN HEH HEH HEH.",
+	"date": "2013-11-03 17:46:15",
+	"files": [
+		{
+			"filename": "quantum1.wad",
+			"size": 157430,
+			"crc": 4047002797,
+			"md5": "b4caea6e1d313f43044b80b75b4c6176",
+			"sha1": "23f4c75bc252ceb7d0eea249821d7faa2f36c340",
+			"sha256": "e1592b018ff0c80f3b28c16a3c3ae2375d6dbf287ce30a98731ff80637445b9c"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "etcetera.wad",
+	"name": "Et Cetera",
+	"description": "2 maps, try to find Gusta with his beer on map01 (that's what keeps him busy instead of ksutra2).",
+	"date": "2014-12-18 22:58:38",
+	"files": [
+		{
+			"filename": "etcetera.wad",
+			"size": 482187,
+			"crc": 799800732,
+			"md5": "98c9626821081764417efdc1351d83c7",
+			"sha1": "604065fdbfbe7c885cf4b210a596015354575ca0",
+			"sha256": "e46a85757de09b55442d22d12b49b482438a0ddb6be0769191c23f87308a992e"
+		}
+	]
+}

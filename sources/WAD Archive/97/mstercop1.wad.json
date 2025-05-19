@@ -1,0 +1,16 @@
+{
+	"uid": "mstercop1.wad",
+	"name": "Master Cooperative",
+	"description": "A 17-map cooperative single player wad. Also might be suitable for two players. It contains the first two episodes, an interlude, and a final set of maps. All included maps are completed as-is, and I have no intention of completing all 32 maps at any time.",
+	"date": "2013-04-21 00:50:27",
+	"files": [
+		{
+			"filename": "mstercop1.wad",
+			"size": 6221653,
+			"crc": 3406953633,
+			"md5": "771faf79a5b7a233ecb4edd30b4783f1",
+			"sha1": "97ff680b80b26d2a1b653fc81c6d9969f77912fa",
+			"sha256": "4ca2bfb44d4e2fe3657e35a898475f6805f8290f3ec88902dcc7dfce39e0bfc5"
+		}
+	]
+}

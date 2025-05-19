@@ -1,0 +1,17 @@
+{
+	"uid": "asylum (5a85b4).wad",
+	"name": "Asylum Texture Set",
+	"description": "These textures are by ..::DethteX::.. http://users.nac.net/schwenz/index.html I simply resized and recolored them.",
+	"version": "5a85b4",
+	"date": "2015-09-15 17:28:36",
+	"files": [
+		{
+			"filename": "asylum.wad",
+			"size": 1465528,
+			"crc": 2825769147,
+			"md5": "2520aaae4298aca91a867aec3e40fdb2",
+			"sha1": "5a85b497040ff5767203928b0a31117cc33c92cc",
+			"sha256": "d829330ad45fe3a99a89eae5bb87fbd4c6e0d9212ffaf0985ee75ce067e33e71"
+		}
+	]
+}

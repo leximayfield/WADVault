@@ -1,0 +1,16 @@
+{
+	"uid": "randimp.wad",
+	"name": "Random Imp Generator",
+	"description": "Variety is always the best in games, in my opinion. After discovering the imp/dark imp variant packs on Realm667 and toying with them for a while, I thought it'd be cool to put them all together. Every imp in any Doom level this wad is loaded with has a chance to change into one of the many varieties of regular imps or dark imps.",
+	"date": "2014-12-11 22:10:42",
+	"files": [
+		{
+			"filename": "randimp.wad",
+			"size": 822457,
+			"crc": 1241723221,
+			"md5": "1e1bc70e7d6c72e2fb6d3a39d2a788e9",
+			"sha1": "b99989af249499b6b7cce9237ffbd8e6bcd6d9f5",
+			"sha256": "1a4a70a90b3ca5bfa469d6af1b1b3ddc0b05588cbc9e4c410d5a20d363199109"
+		}
+	]
+}

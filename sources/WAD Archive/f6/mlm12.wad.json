@@ -1,0 +1,16 @@
+{
+	"uid": "mlm12.wad",
+	"name": "Mini-level megawad",
+	"description": "A megawad which was 95% finished two years ago. Never got around to adding the final touches until now. The levels are relatively small, hence the name. Other than that, there's no link between them. Some are horrible, some are good. I had planned to add customized level names, rearrange the soundtracks and some other tidbits but have never done so.",
+	"date": "2013-04-21 14:22:21",
+	"files": [
+		{
+			"filename": "mlm12.wad",
+			"size": 4188076,
+			"crc": 409148178,
+			"md5": "a42850627ef1cf7cf716e1ffc20b1f5b",
+			"sha1": "f6c76afd217f87193247271fb38525f1abaedb67",
+			"sha256": "9e919ab9cdf104236e7f8bb941ca75bee0a7fdf729919837957d7a19e6ecec34"
+		}
+	]
+}

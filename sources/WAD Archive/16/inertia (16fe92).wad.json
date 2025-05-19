@@ -1,0 +1,17 @@
+{
+	"uid": "inertia (16fe92).wad",
+	"name": "Inertia",
+	"description": "One map for Boom that uses only textures from the \"Wood\" category in Doom Builder, including flats.",
+	"version": "16fe92",
+	"date": "2014-12-24 19:25:12",
+	"files": [
+		{
+			"filename": "inertia.wad",
+			"size": 257752,
+			"crc": 2709288365,
+			"md5": "05cb8bab22eb4e0f990a806310d990da",
+			"sha1": "16fe922624c8604d55eea3bb2a6b2c900547bf84",
+			"sha256": "89dafce0149fa9268d2b5ec91d6f4928c9b3bc4af897aecefd67b99715edc149"
+		}
+	]
+}

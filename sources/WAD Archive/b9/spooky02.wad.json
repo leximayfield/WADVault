@@ -1,0 +1,16 @@
+{
+	"uid": "spooky02.wad",
+	"name": "spooky02.WAD, issue 1",
+	"description": "You need Ultimate Doom to play this. 257 kb when unzipped. A bigger though less detailed map than spooky01. Still very dark, lots of long shadows & images of death etc.",
+	"date": "2014-12-13 12:54:17",
+	"files": [
+		{
+			"filename": "spooky02.wad",
+			"size": 262464,
+			"crc": 1657591287,
+			"md5": "737ca9751b3845eb67b83e003156f0fb",
+			"sha1": "b9410f21a8037673e0d8f071b120c50397f0b11b",
+			"sha256": "c1090f49eeaae2dd1e0d2d4c5ed1c7f647381579d30087131fc2d00543008dc0"
+		}
+	]
+}

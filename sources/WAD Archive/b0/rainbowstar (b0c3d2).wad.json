@@ -1,0 +1,17 @@
+{
+	"uid": "rainbowstar (b0c3d2).wad",
+	"name": "RainBowStar.WAD",
+	"description": "Very little demo made during the course of two days to show some new Legacy 1.32 beta 4 features. That's the only goal of this map!!!",
+	"version": "b0c3d2",
+	"date": "2016-05-06 21:55:50",
+	"files": [
+		{
+			"filename": "rainbowstar.wad",
+			"size": 212068,
+			"crc": 159748222,
+			"md5": "1d543cc182da10447556d12619675e67",
+			"sha1": "b0c3d2633da48160bde566647ede399de8fc5a75",
+			"sha256": "8bb6c766a441f0801332312801bddb045c3de99c0c126b68c90506680ca9ba72"
+		}
+	]
+}

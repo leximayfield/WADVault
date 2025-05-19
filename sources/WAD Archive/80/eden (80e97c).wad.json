@@ -1,0 +1,17 @@
+{
+	"uid": "eden (80e97c).wad",
+	"name": "EDEN.WAD",
+	"description": "This level is the result of countless hours and many late nights of",
+	"version": "80e97c",
+	"date": "2014-12-14 20:48:45",
+	"files": [
+		{
+			"filename": "eden.wad",
+			"size": 107396,
+			"crc": 116867275,
+			"md5": "a477d638961d60ef159d08f3731e14f7",
+			"sha1": "80e97c70fb3a096373f59ada58d13f90a9b44df3",
+			"sha256": "9d2c216a372923cb072be3b77082e27af7b9f7bb2b0ce9c7b06dda888f32aa21"
+		}
+	]
+}

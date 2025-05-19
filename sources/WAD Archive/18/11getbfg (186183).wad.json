@@ -1,0 +1,17 @@
+{
+	"uid": "11getbfg (186183).wad",
+	"name": "11GETBFG.WAD",
+	"description": "\"The United Allied Cooperative (UAC) has developed a new secret weapon, the BFG9000. Your assignment is to break into their headquarters and get it. We will place you at the entrance. Just go in, get it and come back out (getting the BFG will lower a sector at the entrance, allowing you to exit the level from there). We don't know the layout of the building, but we do know that there is an armoury behind a red key door, and that the red key is kept in the computer room which itself is behind a yellow key door. This is important as we suspect that you may encounter some resistance, and the only offensive equipment we can provide you with is a lowly pistol. Good luck.\"",
+	"version": "186183",
+	"date": "2016-02-07 20:33:07",
+	"files": [
+		{
+			"filename": "11getbfg.wad",
+			"size": 190978,
+			"crc": 2972886760,
+			"md5": "10b6ac81254c4efe1447a156638e4f91",
+			"sha1": "186183532656de4d446f7e0cbe2cd2d2d42c93c6",
+			"sha256": "b69026b5d601c5c27291ad31e65db8d88d65fd17ad06523c838f22f045d75711"
+		}
+	]
+}

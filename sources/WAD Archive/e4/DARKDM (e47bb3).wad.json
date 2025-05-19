@@ -1,0 +1,17 @@
+{
+	"uid": "DARKDM (e47bb3).wad",
+	"name": "Dark Deathmatch Episode",
+	"description": "Do you like to Deathmatch but sometimes wonder, \"Can I take out the BFG's and rockets?\" Well, this episode is for you. With new maps, music, and demos, this is sure to be a killer episode.",
+	"version": "e47bb3",
+	"date": "2014-12-13 17:55:02",
+	"files": [
+		{
+			"filename": "DARKDM.wad",
+			"size": 286730,
+			"crc": 1451796667,
+			"md5": "5bb7ebce8bcbf39f13c05080021fb1c9",
+			"sha1": "e47bb389da3ae9acef438257a09009da4c35f533",
+			"sha256": "97872754be8d4a52b92dd6c7505d0cae3adcfac6bab1dfd487693d2ef5b4d75a"
+		}
+	]
+}

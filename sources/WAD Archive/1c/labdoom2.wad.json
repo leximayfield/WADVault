@@ -1,0 +1,16 @@
+{
+	"uid": "labdoom2.wad",
+	"name": "Minotaur's Maze",
+	"description": "Well, you're again lost in the infernal maze, and alone against the cibernetic mino- taur; that beast who can destroy you with the two arms tied back... Long time ago, Raziel send me a Doom2 version of the Minotaur's Maze. This is a variant with some corrections in textures and light levels; due to, of course, my neglect building the ori- ginal map for Doom1.",
+	"date": "2014-12-27 12:49:25",
+	"files": [
+		{
+			"filename": "labdoom2.wad",
+			"size": 94450,
+			"crc": 386837006,
+			"md5": "d519b42028d9079d8fa61ff904537dea",
+			"sha1": "1cc99521f44aabd567fe89fdf9b8f42128a49d4d",
+			"sha256": "ba8a8801a52a24d51668a34ca8dfa7d62789bc5074b553fbc811a3d76dad7b59"
+		}
+	]
+}

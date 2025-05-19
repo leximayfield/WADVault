@@ -1,0 +1,17 @@
+{
+	"uid": "prison (a64bfb).wad",
+	"name": "Prison (for Doom II)",
+	"description": "",
+	"version": "a64bfb",
+	"date": "2015-01-14 22:45:48",
+	"files": [
+		{
+			"filename": "prison.wad",
+			"size": 194538,
+			"crc": 1027213968,
+			"md5": "500a3f92c19e31c04a9b199788e80126",
+			"sha1": "a64bfb51a661810b78b25390b8e2a636376bbef0",
+			"sha256": "f7987b8e6077f29bde0c2c63c36e870d72717588a952418a59dce5e160b44eff"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "deploy1.wad",
+	"name": "Deployment Base",
+	"description": "You've been set down inside an alien base used for housing monster troops before deployment to arenas of combat on Earth. You immediately face an onslaught from Hell, but the worst is yet to come! Your mission is to wreck havoc inside the base, thus depleting the alien menace's ability to wage war. Oh yeah-- you must also escape ALIVE!",
+	"date": "2014-12-18 22:34:23",
+	"files": [
+		{
+			"filename": "deploy1.wad",
+			"size": 132826,
+			"crc": 2430803811,
+			"md5": "b7174ff662dc823a60b46b31904e4aa2",
+			"sha1": "b8486b653fb3508a7d8bfb0bfc1b5af101fb66e3",
+			"sha256": "ead15e7fe401f6e0485a085295cc080fec016b22ada50243b0ec159e6d2f3cd3"
+		}
+	]
+}

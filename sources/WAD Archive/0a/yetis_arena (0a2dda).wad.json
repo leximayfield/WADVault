@@ -1,0 +1,17 @@
+{
+	"uid": "yetis_arena (0a2dda).wad",
+	"name": "The Arena",
+	"description": "2 player DEATHMATCH DOOM II level",
+	"version": "0a2dda",
+	"date": "2013-04-18 23:10:13",
+	"files": [
+		{
+			"filename": "yetis_arena.wad",
+			"size": 163052,
+			"crc": 4142260276,
+			"md5": "f1fa0739eb961dd7be601c5b230ca866",
+			"sha1": "0a2ddad172519bac8a0b025a85d18eef3ad2c89f",
+			"sha256": "7f317f093b8d067968fba9da8d898c87391ef3bf5f941323ba43c690d140d1f0"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "CMINES (99c9c1).wad",
+	"name": "Carnage Mines",
+	"description": "You are stuck in the carnage mines and you must FRAG THE SHIT out of your opponent to escape!!!",
+	"version": "99c9c1",
+	"date": "2014-02-15 16:52:39",
+	"files": [
+		{
+			"filename": "CMINES.wad",
+			"size": 18803,
+			"crc": 1032652090,
+			"md5": "c29f77386107d92a8be0608ebd564579",
+			"sha1": "99c9c19286c76884ac31a171f8f3c59bbe55c7a5",
+			"sha256": "20a989c229fecdd18dbb7b5bbe6bd7721c8e08993418314674d612266b4318ad"
+		}
+	]
+}

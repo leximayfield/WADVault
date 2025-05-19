@@ -1,0 +1,16 @@
+{
+	"uid": "zanspid.wad",
+	"name": "Spidersilk",
+	"description": "A dungeon map with a strange layout. Skill 3 & 4 are linear while skill 2 (marked especially so you can immediately see there's an alternate game mode) is a mad dash for supplies. Some monster behaviour has been changed!",
+	"date": "2016-10-17 17:00:45",
+	"files": [
+		{
+			"filename": "zanspid.wad",
+			"size": 3355402,
+			"crc": 2247936787,
+			"md5": "e7c950f1cc215e74f8b24a336f61c5c7",
+			"sha1": "ef74c94d326d77c5773b9bac4fe4b2a6f83c372d",
+			"sha256": "20a0b6a328e84ee6a2e2b562a24c23f1bb98383a65b207acce9d94da07ebcdc8"
+		}
+	]
+}

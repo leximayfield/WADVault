@@ -1,0 +1,16 @@
+{
+	"uid": "enirvana.wad",
+	"name": "Experiencing Nirvana",
+	"description": "32 maps designed for PrBoom+ complevel 9",
+	"date": "2017-08-18 21:00:23",
+	"files": [
+		{
+			"filename": "enirvana.wad",
+			"size": 6599128,
+			"crc": 3583791671,
+			"md5": "7289576de5a6007dae621c1564fc45e9",
+			"sha1": "3623f822ec343f8c78af086f83f76404b2acea7f",
+			"sha256": "f2550b2e30fe014b6607e70b442c4e3eafdd85dafb8839d63fcf84110a71c2df"
+		}
+	]
+}

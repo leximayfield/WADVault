@@ -1,0 +1,16 @@
+{
+	"uid": "necronft.wad",
+	"name": "Necron Fortress",
+	"description": "freeware games at http://users.nac.net/lasala/freegames.html Doom2 level to be played with one of the Doom source ports",
+	"date": "2015-01-13 21:31:45",
+	"files": [
+		{
+			"filename": "necronft.wad",
+			"size": 622645,
+			"crc": 3945068435,
+			"md5": "44958760558bd4f634225463c518e734",
+			"sha1": "61a8c664e2f9bdf14dec7c108a3b7b89f314649f",
+			"sha256": "732d305347f229f98f6fa4c27637b5aba84d29de9e741c125e1b267744f908c9"
+		}
+	]
+}

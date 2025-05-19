@@ -1,0 +1,17 @@
+{
+	"uid": "blaze1 (e1ef68).wad",
+	"name": "Blaze's Wrath",
+	"description": "You must work your way through an onslaught of demonic creatures which have invaded a nuclear testing facility. Your goal is to enter the mysterious subterranean caverns from whence the demons came (E2M9) and destroy all the Barons who oversee the invasion force. Of course, you could always just waltz out the normal way... But what fun is that?",
+	"version": "e1ef68",
+	"date": "2013-11-02 15:51:05",
+	"files": [
+		{
+			"filename": "blaze1.wad",
+			"size": 252891,
+			"crc": 3936587719,
+			"md5": "e8d3ad22b5b2e2525659cd1ebba6e774",
+			"sha1": "e1ef68f68465b72a942a985a8f310f5e3caac89b",
+			"sha256": "adba2c0a55a6cc3ecbbaf2810d8454f4ca81d6d1d4777644c22bec8d610cc213"
+		}
+	]
+}

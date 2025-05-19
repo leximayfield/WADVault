@@ -1,0 +1,17 @@
+{
+	"uid": "road (fcb6ab).wad",
+	"name": "The Temple",
+	"description": "1 fairly large level. Contains many ZDoom",
+	"version": "fcb6ab",
+	"date": "2014-12-29 08:44:48",
+	"files": [
+		{
+			"filename": "road.wad",
+			"size": 63379,
+			"crc": 3052298576,
+			"md5": "ecbda046ce90f78ac5cfd26e10733f4c",
+			"sha1": "fcb6abb12dd86ebdfed86621ebec6ab678d67776",
+			"sha256": "5065da96bbc74587e0da47c280dd6f18f396d85e2e82f6fb9ae4392343180a50"
+		}
+	]
+}

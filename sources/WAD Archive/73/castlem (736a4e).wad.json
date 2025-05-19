@@ -1,0 +1,16 @@
+{
+	"uid": "castlem (736a4e).wad",
+	"description": "You find yourself in a dark cave facing a large castle. Don't stare too long, though, or you will die. Once inside the castle, you must fight your way from room to room and find the switches that will let you escape.",
+	"version": "736a4e",
+	"date": "2015-12-07 13:38:04",
+	"files": [
+		{
+			"filename": "castlem.wad",
+			"size": 182151,
+			"crc": 3649748792,
+			"md5": "e1e21b891e723032786b874428bc3e35",
+			"sha1": "736a4e2e559ac6bb59a1e372a39def99f481e767",
+			"sha256": "aeca83ac0639190b38869dc0c0602b68179b9440d29dfafaf9c77331aea555fb"
+		}
+	]
+}

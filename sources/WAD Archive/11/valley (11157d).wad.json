@@ -1,0 +1,17 @@
+{
+	"uid": "valley (11157d).wad",
+	"name": "The Valle of the Death",
+	"description": "A map where you have to go throw the Valley of death. Imps and other creatures appear in there... This is the first part of Revelation.",
+	"version": "11157d",
+	"date": "2015-02-21 08:59:46",
+	"files": [
+		{
+			"filename": "valley.wad",
+			"size": 99792,
+			"crc": 735177768,
+			"md5": "91029ed65121522fe3cb61866182bbdd",
+			"sha1": "11157dbd60a724f18bb0ac7cb7ab3ed1d6a3590d",
+			"sha256": "ce7b9992b5ce0d78d37cf2f49ff62401e36ac5482ce43cc5d728a8877b9d3bc2"
+		}
+	]
+}

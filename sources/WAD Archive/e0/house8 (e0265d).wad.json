@@ -1,0 +1,17 @@
+{
+	"uid": "house8 (e0265d).wad",
+	"name": "Deth House",
+	"description": "This level is based on my home with eveything from toilets to the kitchen sink.",
+	"version": "e0265d",
+	"date": "2016-02-06 14:00:50",
+	"files": [
+		{
+			"filename": "house8.wad",
+			"size": 93156,
+			"crc": 1099797830,
+			"md5": "b5acd20179e34c01ce15bf64d74ea7c4",
+			"sha1": "e0265dd5acc858083ed48e5e41088ffc15c058cc",
+			"sha256": "fe3357bdba3d4b4779b2c67135339c8d3ada14a48efc2eef2516fb392b63148e"
+		}
+	]
+}

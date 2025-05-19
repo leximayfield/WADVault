@@ -1,0 +1,16 @@
+{
+	"uid": "TXGRAY.wad",
+	"name": "Gray textures v2",
+	"description": "Over 600 variations of the gray textures (GRAY1, GRAY2, etc). These include 84 different layouts, with four colours of each (the standard gray, plus brown, green, and tan), plus variations with warning stripes and blue and red backgrounds.",
+	"date": "2015-09-14 19:33:30",
+	"files": [
+		{
+			"filename": "TXGRAY.wad",
+			"size": 2457796,
+			"crc": 4169238874,
+			"md5": "d4a640021339ea63dad6a4fb4a71f196",
+			"sha1": "17f310635260a8c595247f755ca2fddf040838ac",
+			"sha256": "69bc7529c4a1c7063934707a123656bf7c5de648aa2cb87cc93f6196f9eb6d0e"
+		}
+	]
+}

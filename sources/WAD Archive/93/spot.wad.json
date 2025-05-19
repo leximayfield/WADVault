@@ -1,0 +1,16 @@
+{
+	"uid": "spot.wad",
+	"name": "Hot Spot",
+	"description": "Small map made in a week :)",
+	"date": "2015-01-14 14:51:53",
+	"files": [
+		{
+			"filename": "spot.wad",
+			"size": 272119,
+			"crc": 1016653634,
+			"md5": "561bb3f04cd2cd240c9df86fb88fa39b",
+			"sha1": "938e05f6192620fc603e5dd091be248eb1c78cd0",
+			"sha256": "9fbce63f9713547936fd7215a20702ad43e81e25bb55d63a9b04c4e271444c3f"
+		}
+	]
+}

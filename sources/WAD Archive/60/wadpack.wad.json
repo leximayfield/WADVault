@@ -1,0 +1,16 @@
+{
+	"uid": "wadpack.wad",
+	"name": "THE WADPACK",
+	"description": "This is a wad pack. But this isn't the whole lot. This is only 8 modified Doom II levels (THE FIRST SIX ,LEVEL EIGHT AND LEVEL 31) and one created level (LEVEL NINE) which are harder, stranger, funnier, easier, less monsters with better weapons or more monsters with easy weapons etc.",
+	"date": "2018-04-14 22:16:02",
+	"files": [
+		{
+			"filename": "wadpack.wad",
+			"size": 60480,
+			"crc": 3744615142,
+			"md5": "c76a998e7d5cb2b21fd6fa7ef4f91f64",
+			"sha1": "602cf57f94c8451b673c19b8e11a7a61ade8087f",
+			"sha256": "a0db8a932c4a5c3ef94d18af740de642c830c92061a8db9812b7104244909b95"
+		}
+	]
+}

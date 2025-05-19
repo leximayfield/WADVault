@@ -1,0 +1,16 @@
+{
+	"uid": "aminesii.wad",
+	"name": "The abandoned mines II",
+	"description": "This map is made for freedoom (freedoom.sf.net) map26: The Abandoned Mines.",
+	"date": "2014-12-15 22:39:56",
+	"files": [
+		{
+			"filename": "aminesii.wad",
+			"size": 196284,
+			"crc": 4212872569,
+			"md5": "c90b1f06011d5067f528ee8cd434fb4e",
+			"sha1": "69cf70b76d3c3612eeb38f4da39b00fa5a82e1f4",
+			"sha256": "2b5b1fcc850130ca95cedfdb7ab664bec410392503f35f18cad834b7d49a6333"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "hellch.wad",
+	"name": "Hell Cathedral (Doom 1)",
+	"description": "a smaller part of a full level i",
+	"date": "2013-07-09 20:23:09",
+	"files": [
+		{
+			"filename": "hellch.wad",
+			"size": 44353,
+			"crc": 2938253633,
+			"md5": "29e99e395a637cf98f4e2ae107c1f7e9",
+			"sha1": "1b3b952fbecb125d945db01a1aa4e95ddd98ea83",
+			"sha256": "2d1f0cb8548f8dd2ca7e71821dd120c6bd0e0bb683f810ac33f9b2b1d1ddd969"
+		}
+	]
+}

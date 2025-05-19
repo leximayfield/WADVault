@@ -1,0 +1,17 @@
+{
+	"uid": "DMACHE (df3fdc).wad",
+	"name": "CROSSING ACHERON 1.666",
+	"description": "This is CROSSING ACHERON 1.666 for DOOM II. I have updated some textures, added new monsters, and completely revamped and added whole new areas. This is the level as I originally intended it, and I hope that you enjoy it.",
+	"version": "df3fdc",
+	"date": "2013-11-02 15:17:17",
+	"files": [
+		{
+			"filename": "DMACHE.wad",
+			"size": 144361,
+			"crc": 3407773013,
+			"md5": "b37e3fe6f979b8308092d5a375f30e84",
+			"sha1": "df3fdcfaae7815fdb7b8c30c4dd221a74347f6c6",
+			"sha256": "42d1c1a67db86cb22e6c509eff2b728c9c958a4e7e93c4a32aaaa00b5715f206"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "tlotbt.wad",
+	"name": "The land of the blue tattoo",
+	"description": "A non linear map. It's quite dificult. Health and ammo are low, so be careful.",
+	"date": "2014-12-30 11:21:40",
+	"files": [
+		{
+			"filename": "tlotbt.wad",
+			"size": 240526,
+			"crc": 1633571959,
+			"md5": "8867b36571fd0f8ded49ad11b7edcde8",
+			"sha1": "820664a6971575bcd48b02e32da72908d26c6a4a",
+			"sha256": "cc68c2c579bbf91d8d4412fc2514533d331b868b7b117eb35f36383ba8f11fa3"
+		}
+	]
+}

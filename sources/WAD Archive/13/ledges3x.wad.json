@@ -1,0 +1,16 @@
+{
+	"uid": "ledges3x.wad",
+	"name": "Ledges-3 of Doom II",
+	"description": "This level is a conversion and enhancement of LEDGES3I for Doom II. : It adds 4 teleporters, the super : shotgun, barrels and some special : light effects. The textures have : been redone and aligned correctly.",
+	"date": "2013-11-03 17:46:09",
+	"files": [
+		{
+			"filename": "ledges3x.wad",
+			"size": 45173,
+			"crc": 1311527965,
+			"md5": "e27571aeee62a2ac28544bbef7cf2690",
+			"sha1": "131b6af85443b678be4ed5b89b5c10953968f02b",
+			"sha256": "e018d8bfdb82f4af381dfad496e9943c125f94a7ebfe3c7feeaba657ecf75546"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "wretched.wad",
+	"name": "The Wretched",
+	"description": "This is my first 'official' level. It is designed for single player,but should be quite good for DMs - as long as you use the NOMONSTER switch. The level is set in a complex which includes a library,a large central tower and some in- teresting secret areas. Can you find the plasma gun?",
+	"date": "2015-01-14 23:07:33",
+	"files": [
+		{
+			"filename": "wretched.wad",
+			"size": 88450,
+			"crc": 946471472,
+			"md5": "7e36f03cbfafb77a9ff67b73d38eb189",
+			"sha1": "f8af185a5fe9141b49e22a70a3051fd81d732b2f",
+			"sha256": "a3e6f11c47b9a4f49488128e76a75bf990c56d453e40fc8a17694225e193f971"
+		}
+	]
+}

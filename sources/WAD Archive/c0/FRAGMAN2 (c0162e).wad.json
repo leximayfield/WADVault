@@ -1,0 +1,17 @@
+{
+	"uid": "FRAGMAN2 (c0162e).wad",
+	"name": "FRAGMAN 2",
+	"description": "GREAT DEATHMATCH WAD converted and re-edited for DOOM II. This wad file has a huge arena with several small rooms around the arena, secrets, traps, guns, ammo, and FRAGS (hence the name). Please upload this to the internet if possible. Created with Deu and Bsp.",
+	"version": "c0162e",
+	"date": "2013-11-03 17:43:28",
+	"files": [
+		{
+			"filename": "FRAGMAN2.wad",
+			"size": 62937,
+			"crc": 2186140122,
+			"md5": "46d1bfd5eb14fe7421700098f30528bc",
+			"sha1": "c0162ee811ef672bf98ffaeb61f74e55c9dcf8d3",
+			"sha256": "9ac695220fb08c6dc405fc8de1b01a69a3c76b52dd9e1375a76205d335c5db19"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"uid": "road (23dd9c).wad",
+	"name": "road.WAD  The Road to Hell",
+	"description": "Great for deathmatch. No monsters lots of secret hidding spots not too large but larger than the first doom level.",
+	"version": "23dd9c",
+	"date": "2013-11-02 15:08:42",
+	"files": [
+		{
+			"filename": "road.wad",
+			"size": 54430,
+			"crc": 3098237726,
+			"md5": "570ba7aa76ac331dc6b159aec83fb93e",
+			"sha1": "23dd9c48ed80b7c457d51b179d2f0992969aa5ad",
+			"sha256": "af716d6573a6fdc4fc262b227eb8a53939ea873d692c5220a2bcb6d60ae1b213"
+		}
+	]
+}

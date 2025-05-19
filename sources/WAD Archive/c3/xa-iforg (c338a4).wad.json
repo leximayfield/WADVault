@@ -1,0 +1,17 @@
+{
+	"uid": "xa-iforg (c338a4).wad",
+	"name": "The Iron Forge",
+	"description": "A medium-sized Heretic map that was originally intended for Realm of Parthoris. The layout/architecture by Xaser is a recreation of Iron Keep from Dark Souls 2; Not Jabba did the thing placement/combat later.",
+	"version": "c338a4",
+	"date": "2019-03-06 21:51:08",
+	"files": [
+		{
+			"filename": "xa-iforg.wad",
+			"size": 3849455,
+			"crc": 170673093,
+			"md5": "e0d85183a2a51d528c717f99fec241df",
+			"sha1": "c338a40d1f036e3b3d5faffff270a26a75f220cc",
+			"sha256": "b3c539c95ef4b97697866f9abd588e24907052a86d103efd30451d4ffc3c76e4"
+		}
+	]
+}

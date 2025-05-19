@@ -1,0 +1,17 @@
+{
+	"uid": "fortress (653712).wad",
+	"name": "The FORTRESS",
+	"description": "You've infiltrated a fortress and stolen plans for an invasion. You're low on ammo and weapons. It's time to fight your way out!",
+	"version": "653712",
+	"date": "2015-12-07 07:42:19",
+	"files": [
+		{
+			"filename": "fortress.wad",
+			"size": 144169,
+			"crc": 2424523696,
+			"md5": "365188e259407362a3fa841822a9ebcc",
+			"sha1": "65371256abf109760a3d1daf6176d1a1c3795ea0",
+			"sha256": "862939c59aa8ec43df99e7088e0773b072db43d2e47694daea10d65039cc411f"
+		}
+	]
+}

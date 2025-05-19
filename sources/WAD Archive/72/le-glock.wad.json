@@ -1,0 +1,16 @@
+{
+	"uid": "le-glock.wad",
+	"name": "Glock 18",
+	"description": "Replaces the pistol with the Glock 18 from Counter-Strike",
+	"date": "2014-12-11 22:10:17",
+	"files": [
+		{
+			"filename": "le-glock.wad",
+			"size": 39031,
+			"crc": 1020877351,
+			"md5": "3a7ec5fca259bdd800c22c7793021802",
+			"sha1": "726ce28024ee38bfeb8bd95e8d7e564250fc0875",
+			"sha256": "c042e32e6e06c9f20465d4994b92178d8a15dde7c2fa195664f7dc88600b7dcc"
+		}
+	]
+}

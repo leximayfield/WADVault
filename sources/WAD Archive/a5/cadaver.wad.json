@@ -1,0 +1,16 @@
+{
+	"uid": "cadaver.wad",
+	"name": "Cadaveric Incubator of Endoparasites (Cadaver for short)",
+	"description": "This map originally started as an outlet for my flesh texture fetish: I always felt that the flesh textures were a bit underused in this day and age, so I decided to go a bit overboard. About partway through I decided to throw a DeHackEd patch in to spice things up: it doesn't change things too much, but keep on your toes. :-)",
+	"date": "2014-12-21 16:45:57",
+	"files": [
+		{
+			"filename": "cadaver.wad",
+			"size": 1041621,
+			"crc": 3523538934,
+			"md5": "28d24ca4966062872d79fe3987c858c2",
+			"sha1": "a5e08539e09f47998a9ca192c9947e768e63a66b",
+			"sha256": "c080774e7b6049b10ca516cdc1afbdd801e1c5aae980564fe8277192cc22f07c"
+		}
+	]
+}

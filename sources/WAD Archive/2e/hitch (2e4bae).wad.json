@@ -1,0 +1,17 @@
+{
+	"uid": "hitch (2e4bae).wad",
+	"name": "HITCH.WAD",
+	"description": "I Would Recommend This For Deathmatch Only. There IS A Way Out Of Every Pit.",
+	"version": "2e4bae",
+	"date": "2013-11-02 16:37:35",
+	"files": [
+		{
+			"filename": "hitch.wad",
+			"size": 10744,
+			"crc": 1736566688,
+			"md5": "f43686055b03f0fe7fc1d2ec72cb2116",
+			"sha1": "2e4bae4c2495a85684f28b9cf1abeeff4081c040",
+			"sha256": "402d11c12977f8fa84155a081c6e9c47fe77b22e948a7c908428011403beaedb"
+		}
+	]
+}

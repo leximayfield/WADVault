@@ -1,0 +1,17 @@
+{
+	"uid": "recycled (491818).wad",
+	"name": "Recycled",
+	"description": "A tune-up-like project",
+	"version": "491818",
+	"date": "2018-09-30 20:29:53",
+	"files": [
+		{
+			"filename": "recycled.wad",
+			"size": 20882832,
+			"crc": 1910248371,
+			"md5": "dbd6a28390e30a47b5aa76fc424a9dcb",
+			"sha1": "49181870cc9b418d08570e7054c77dc309ecc8aa",
+			"sha256": "b033fd4d817e652805f0e24cc6d7379665b31e5bb974e711b58ad4c9d723aba4"
+		}
+	]
+}

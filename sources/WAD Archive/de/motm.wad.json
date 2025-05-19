@@ -1,0 +1,16 @@
+{
+	"uid": "motm.wad",
+	"name": "Man on the Moon",
+	"description": "Huge space/moon map that has a main hub of sort. Non-linear (grab keys in any order, etc...). 13 secrets total",
+	"date": "2019-03-06 21:42:48",
+	"files": [
+		{
+			"filename": "motm.wad",
+			"size": 14496535,
+			"crc": 1115286510,
+			"md5": "2589596109f675a05bd5f2e16741a431",
+			"sha1": "de5c610f879a4ba503aec67d1178b7b23855ec47",
+			"sha256": "7b3bef9fbbaf975764f3d44c68c8197d2d6d23cf9383e55be489aae139dcd30c"
+		}
+	]
+}

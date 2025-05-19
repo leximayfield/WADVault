@@ -1,0 +1,17 @@
+{
+	"uid": "THEPIT (c0d291).wad",
+	"name": "DeathTown",
+	"description": "Kick ass WAD for deathmatch, smaller area than all my other WAD's but hey it's better for two players to actually see each other once in a while!!!",
+	"version": "c0d291",
+	"date": "2013-11-06 22:48:40",
+	"files": [
+		{
+			"filename": "THEPIT.wad",
+			"size": 128727,
+			"crc": 2393186023,
+			"md5": "96d262385b4711b7875644046af7d44e",
+			"sha1": "c0d2912b81ea34ea71f01c74a110273a9d2b48e3",
+			"sha256": "55feb11e1618bece6b95a930fe90f08ec73cc0051b7d08fb776746900a69300d"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "efd.wad",
+	"name": "Escape From Deimos",
+	"description": "Follow up wad to Escape From Phobos, Can you now Escape From Deimos?",
+	"date": "2014-12-18 23:06:24",
+	"files": [
+		{
+			"filename": "efd.wad",
+			"size": 698616,
+			"crc": 197421093,
+			"md5": "28e02ff051e28bec67d002c70dd2b7d9",
+			"sha1": "ec7458a731f65f5c2b98fb1b793294ce445f6279",
+			"sha256": "5e409f48cef30825a024624982627814879feecbf6b6ceb8a5ee894e2b0445b8"
+		}
+	]
+}

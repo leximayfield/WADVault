@@ -1,0 +1,16 @@
+{
+	"uid": "marfoly.wad",
+	"name": "Marine's Folly",
+	"description": "A place you don't want to wander around without means of defending yourself.",
+	"date": "2015-09-15 19:24:30",
+	"files": [
+		{
+			"filename": "marfoly.wad",
+			"size": 215465,
+			"crc": 1367392277,
+			"md5": "7c3943186fa0061e64d9792d6b0b946e",
+			"sha1": "94792a10054ed1f8f6bf89315b7f629cc52ea84b",
+			"sha256": "622708ddbb77c0dd551e4a5d1a21b746ed5f6779a92a8da223498c5aedd8f8ba"
+		}
+	]
+}

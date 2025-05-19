@@ -1,0 +1,16 @@
+{
+	"uid": "COMEIN.wad",
+	"name": "The Welcome Wagon",
+	"description": "Monsters are not born, but created by humanity. Humanity is created from the human mind. What does that say about humans.",
+	"date": "2014-12-15 23:12:50",
+	"files": [
+		{
+			"filename": "COMEIN.wad",
+			"size": 126414,
+			"crc": 40585188,
+			"md5": "eb6ab7a7ff7b4bbdcd89a5739acdbf81",
+			"sha1": "31f1041cfb506619b12056f151c0b071657ebded",
+			"sha256": "0482311882e90cc4c9aec6b58a427f48cc2002cab1d9aaf5eecc882dd4dfd3aa"
+		}
+	]
+}

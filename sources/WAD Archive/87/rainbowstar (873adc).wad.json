@@ -1,0 +1,17 @@
+{
+	"uid": "rainbowstar (873adc).wad",
+	"name": "RainBowStar.WAD",
+	"description": "Very little demo made during the course of two days to show some new Legacy 1.40 features. That's the only goal of this map!!!",
+	"version": "873adc",
+	"date": "2015-06-29 13:09:22",
+	"files": [
+		{
+			"filename": "rainbowstar.wad",
+			"size": 213695,
+			"crc": 259874749,
+			"md5": "458f83e5d5108fa12753e0e678d512cc",
+			"sha1": "873adc60614a6effcc8779436305d5964d431720",
+			"sha256": "b1205fcb7e4deef660bb94397357f16a69bacb5f932d298e752a9c429d5699d7"
+		}
+	]
+}

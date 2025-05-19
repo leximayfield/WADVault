@@ -1,0 +1,16 @@
+{
+	"uid": "ancient_beliefs.wad",
+	"name": "Ancient Beliefs",
+	"description": "This level was developed with Brutal Doom v0.18 in mind. It is still playable without the mod but it will be a lot easier to pass.",
+	"date": "2014-12-21 16:51:07",
+	"files": [
+		{
+			"filename": "ancient_beliefs.wad",
+			"size": 197467,
+			"crc": 3223467761,
+			"md5": "af751fbb94634ded56c7766b00789b11",
+			"sha1": "3da8c125622c6c357467cc4588dee404f706c7a3",
+			"sha256": "694cb71d29167be412fff12f5872eea1130cd65fe799d598c998589c25e54104"
+		}
+	]
+}

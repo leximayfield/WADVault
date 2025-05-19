@@ -1,0 +1,16 @@
+{
+	"uid": "short.wad",
+	"name": "SHORT LEVEL!",
+	"description": "Good level, but short.",
+	"date": "2015-01-14 22:43:31",
+	"files": [
+		{
+			"filename": "short.wad",
+			"size": 12162,
+			"crc": 3021979185,
+			"md5": "c26671689e11a82f3a665016a83c65df",
+			"sha1": "2cd9042630df4af0274e6baff8576baca1176abc",
+			"sha256": "c8d2cff36fa620578cf69a9a3fa7d31cdd18b84bc580628d1547a9142614eceb"
+		}
+	]
+}

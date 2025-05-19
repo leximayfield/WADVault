@@ -1,0 +1,17 @@
+{
+	"uid": "surge (e9cc6b).wad",
+	"name": "Surge",
+	"description": "This project was originally intended to be a megawad with 32 scythe-like maps (basically shorter and sweeter than Speed of Doom was, and less emphasis on the looks, and more on the flow of the maps). Due to commitments with university and other reasons, I've decided to stop mapping for good (not to say I won't map ever again) to allow for more time on other things. I may map again for community projects... in another year or two, who knows?",
+	"version": "e9cc6b",
+	"date": "2013-04-21 18:53:47",
+	"files": [
+		{
+			"filename": "surge.wad",
+			"size": 11092829,
+			"crc": 126995532,
+			"md5": "3604ddb8b44b735cbb0c693a020cc1d1",
+			"sha1": "e9cc6b62a87b62b67da069285ccb99cf0bb0e4a8",
+			"sha256": "2db41402a24560accc0aadd5246a5fe976fcfa685f04dafc49f419360afe5aee"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"uid": "dspal.wad",
+	"name": "DoomSplitter's Custom Palette",
+	"description": "This is a simple wad that replaces Doom's default colors. I tried to achieve various effects with the default sprites. For example; zombies now have \"bleeding\" eyes, and the archvile summons orange flames!",
+	"date": "2015-09-15 14:01:49",
+	"files": [
+		{
+			"filename": "dspal.wad",
+			"size": 9516,
+			"crc": 1274510550,
+			"md5": "2edc077a01902a1c54352e6ab9285078",
+			"sha1": "426b245cffc7be10e19d673ad8c74ce06a0d436f",
+			"sha256": "7e10257111b02a62bfc09565a71c39c55ba270119bafae9aaebbc96e31d48e48"
+		}
+	]
+}

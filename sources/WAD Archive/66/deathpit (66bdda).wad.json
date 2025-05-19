@@ -1,0 +1,17 @@
+{
+	"uid": "deathpit (66bdda).wad",
+	"name": "Death Pit",
+	"description": "A good deathmatch wad. All textures are alinged. The gameplay is good. You can use the BFG, SSG, plasma rifle, and rocket launcher in this level, and there is enough ammo to use. For a better description of this level, go to my website.",
+	"version": "66bdda",
+	"date": "2014-12-15 22:30:28",
+	"files": [
+		{
+			"filename": "deathpit.wad",
+			"size": 11904,
+			"crc": 2308374141,
+			"md5": "0a5c5a112b099215a16277b542c0abfc",
+			"sha1": "66bdda19e66959704eb2147404607b3df2a228ba",
+			"sha256": "8318e5eeecae92d902a85c2411119fa333f33232099a074fd9bdede032590c10"
+		}
+	]
+}

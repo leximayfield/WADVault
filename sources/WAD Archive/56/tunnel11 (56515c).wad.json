@@ -1,0 +1,17 @@
+{
+	"uid": "tunnel11 (56515c).wad",
+	"name": "The Tunnels",
+	"description": "Same as previous Tunnels.txt",
+	"version": "56515c",
+	"date": "2013-11-03 17:48:05",
+	"files": [
+		{
+			"filename": "tunnel11.wad",
+			"size": 195695,
+			"crc": 448559282,
+			"md5": "eba6b2366e553b567e8c1171e775a794",
+			"sha1": "56515cfa4fa5f9764cdd6c532cbf5326cee45d4c",
+			"sha256": "c01131e830228cba5e519fc6be672e24dae58b6bc0b5635c687c7aca89b9e6af"
+		}
+	]
+}

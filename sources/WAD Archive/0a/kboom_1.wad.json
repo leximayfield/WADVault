@@ -1,0 +1,16 @@
+{
+	"uid": "kboom_1.wad",
+	"name": "kboom series",
+	"description": "This is a large base style WAD, some new BOOM enhancements.",
+	"date": "2015-01-05 16:39:41",
+	"files": [
+		{
+			"filename": "kboom_1.wad",
+			"size": 285401,
+			"crc": 2102204327,
+			"md5": "696cb05fdb3c9dc27cb15940ac096b32",
+			"sha1": "0a1d348baf399e875c124fafe154abf1090f689c",
+			"sha256": "543ea3a6adcab82acdc66e502cc04090f9633a2c75eceada6161e0f2ab4c51bd"
+		}
+	]
+}

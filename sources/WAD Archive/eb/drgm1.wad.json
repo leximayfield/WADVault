@@ -1,0 +1,16 @@
+{
+	"uid": "drgm1.wad",
+	"name": "DragonMatch Zone I v1.2 (see WHASTNEW.12)",
+	"description": "This is a fully Shadowed Doom 2 level for playing deathmatch. There is 3 difficulty level with different weapons available (so you can play with many weapons or only SuperShotgun for ex.). * Send comments to me at the above addresses! *",
+	"date": "2014-12-15 22:30:51",
+	"files": [
+		{
+			"filename": "drgm1.wad",
+			"size": 82173,
+			"crc": 474957429,
+			"md5": "f4787d325e214376b3755f1dc1407f87",
+			"sha1": "eb66fc5e7bd895ffa4d35efae9742a78b53acb1e",
+			"sha256": "15bdde9f598c5e25722df8498a51ef867cf2a4286d3c09283134faedebe3df9b"
+		}
+	]
+}

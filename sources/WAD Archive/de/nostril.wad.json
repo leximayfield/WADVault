@@ -1,0 +1,16 @@
+{
+	"uid": "nostril.wad",
+	"name": "Nostril Caverns",
+	"description": "This is a limit-removing map designed for Boom compatibility (-complevel 9). Play Doom in my nose.",
+	"date": "2013-04-19 03:11:36",
+	"files": [
+		{
+			"filename": "nostril.wad",
+			"size": 1705295,
+			"crc": 1435115403,
+			"md5": "8a9c34ec460f043d37fdcdf3d4b1fa43",
+			"sha1": "dee50ebc027026839fb71409113eadbf75bc59e4",
+			"sha256": "fcb90a6be3db9daffb310868c108394df79fde03deea04b11ab8b9611fbf3450"
+		}
+	]
+}

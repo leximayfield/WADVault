@@ -1,0 +1,17 @@
+{
+	"uid": "smplmind (e40387).wad",
+	"name": "smplemind.wad",
+	"description": "Rather simpleminded. First real try at a WAD. : This is a DOOM II WAD. : Was interested to make 6 imps dangerous. The rest : is mostly fer da blood 'n' guts. : Comments to: emerth@gpu.srv.ualberta.ca",
+	"version": "e40387",
+	"date": "2013-11-06 22:29:47",
+	"files": [
+		{
+			"filename": "smplmind.wad",
+			"size": 70480,
+			"crc": 1769599304,
+			"md5": "da0eec25366bca7e0d4a8e84e1a6ffad",
+			"sha1": "e4038755472cd6258357a9b6b5b0c2aa8ec01d88",
+			"sha256": "f106004ad599a1a1fc55f0fc836ad9b520875a0944afa48daca0bc9b799d973a"
+		}
+	]
+}

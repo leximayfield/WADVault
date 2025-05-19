@@ -1,0 +1,16 @@
+{
+	"uid": "STARCOVE.wad",
+	"name": "StarCove - A Tribute To Ty Halderman",
+	"description": "I decided to pay tribute to Ty Halderman who passed away last year by making a map inspired from his level in Icarus called Starhenge; although it also features other homages from Ty's mapping career. Requires Icarus: Alien Vanguard to play and replaces MAP27.",
+	"date": "2016-07-21 19:33:26",
+	"files": [
+		{
+			"filename": "STARCOVE.wad",
+			"size": 407383,
+			"crc": 2034641836,
+			"md5": "6936da6ad19ce85aa6b05cc7d2dba8d8",
+			"sha1": "bbdbceb4110468b0ea3c57d242ac017321a08dfb",
+			"sha256": "f884f46eab776bab946e0bd9ca41f90c35835adbdbbbe570b03d4ea32ca8340f"
+		}
+	]
+}

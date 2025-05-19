@@ -1,0 +1,17 @@
+{
+	"uid": "revival (a9b2c1).wad",
+	"name": "Beyond Revivial",
+	"description": "A 7-level episode for Doom 2 taking place in a South American UAC installation overrun by the legions of hell (obviously). Updated to fix some serious errors.",
+	"version": "a9b2c1",
+	"date": "2018-05-28 23:59:04",
+	"files": [
+		{
+			"filename": "revival.wad",
+			"size": 15501598,
+			"crc": 1478996752,
+			"md5": "dc60336c7ca109c91b10c3adc1224aa1",
+			"sha1": "a9b2c13a1b66b599b09842fa4c878b5eb2fa578a",
+			"sha256": "b8f8c4e183360ad7480c43db2a69c4b2f103f67d18ec3ab48e111f031166bbcb"
+		}
+	]
+}

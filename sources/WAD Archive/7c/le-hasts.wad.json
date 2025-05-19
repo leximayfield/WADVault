@@ -1,0 +1,16 @@
+{
+	"uid": "le-hasts.wad",
+	"name": "Assault rifle from Halo: Combat Evolved (Strife version)",
+	"description": "Another single-weapon replacement. as the name says, replaces the chaingun with the assault rifle. this is the strife version of my mod.",
+	"date": "2014-12-11 22:29:37",
+	"files": [
+		{
+			"filename": "le-hasts.wad",
+			"size": 174869,
+			"crc": 25972279,
+			"md5": "382a6ac8b8dc978be5907e9558b6dfde",
+			"sha1": "7cd7521b5220d0f6bf7255ff2a855cfc1ef56a5e",
+			"sha256": "5148347b18dbead54c25e8b8ca859d11b6e5dccd63c400dc41ba5efa44ed2546"
+		}
+	]
+}
